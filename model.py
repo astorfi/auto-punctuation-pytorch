@@ -42,15 +42,15 @@ class Engadget():
     def __init__(self, model, char2vec=None, output_char2vec=None):
         print('****** Engadget Model Initialize ******')
         self.model = model
-        if char2vec is None:
-            self.char2vec = Char2Vec()
-        else:
-            self.char2vec = char2vec
-
-        if output_char2vec is None:
-            self.output_char2vec = self.char2vec
-        else:
-            self.output_char2vec = output_char2vec
+        # if char2vec is None:
+        #     self.char2vec = Char2Vec()
+        # else:
+        #     self.char2vec = char2vec
+        #
+        # if output_char2vec is None:
+        #     self.output_char2vec = self.char2vec
+        # else:
+        #     self.output_char2vec = output_char2vec
 
         self.loss = 0
         self.losses = []
