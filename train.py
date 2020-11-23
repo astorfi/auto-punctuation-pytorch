@@ -49,7 +49,7 @@ class Model(nn.Module):
 Here we initialize the model with its associated parameters.
 """
 # How many GRU layers to be stacked
-num_layers = 1
+num_layers = 2
 input_size = char2vec.size
 output_size = output_char2vec.size
 hidden_size = 32
@@ -63,9 +63,13 @@ model = Model(input_size, hidden_size, output_size, batch_size=batch_size, num_l
 learning_rate = 0.001
 optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
-# Refer to https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
-loss_fn = nn.CrossEntropyLoss()
-
+# Note: To deal with imbalanced scenario, I used a weighted loss function.
+# The coefficients are arbitrary and the first one is associated with "no punctuation" case.
+# Further details:
+# https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
+# https://discuss.pytorch.org/t/passing-the-weights-to-crossentropyloss-correctly/14731/8
+weights = torch.tensor([1., 10., 10., 10., 10., 10.])
+loss_weighted = nn.CrossEntropyLoss(weight=weights)
 
 seq_length = 500
 
@@ -108,9 +112,10 @@ for epoch_num in range(NUM_EPOCHS):
 
             # Get the target variables
             target_vec = Variable(output_char2vec.char_code_batch(target_))
+            # u, counts = np.unique(target_vec, return_counts=True)
 
             # Calculate loss
-            new_loss = loss_fn(output.view(-1, model.output_size), target_vec.view(-1))
+            new_loss = loss_weighted(output.view(-1, model.output_size), target_vec.view(-1))
             loss += new_loss
 
         # Backward computation for the batch
