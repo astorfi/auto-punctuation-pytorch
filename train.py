@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 import torch
-import utils, data, metric, model
+import utils, data, metric
 from tqdm import tqdm
 import numpy as np
 
