@@ -13,6 +13,7 @@ import numpy as np
 BATCH_TO_SHOW_ACCURACY = 25
 BATCH_TO_SHOW_PREDICTION = 100
 batch_size = 64
+NUM_EPOCHS = 25
 
 input_chars = list(" \nabcdefghijklmnopqrstuvwxyz01234567890")
 output_chars = ["<nop>", "<cap>"] + list(".,?!")
@@ -22,17 +23,17 @@ output_char2vec = utils.Char2Vec(chars=output_chars)
 
 
 class Model(nn.Module):
-    def __init__(self, input_size, hidden_size, output_size, batch_size=1, num_layers=1, BiDirectional=False):
+    def __init__(self, input_size, hidden_size, output_size, batch_size=1, num_layers=1, bidirectional=False):
         super(Model, self).__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
         self.output_size = output_size
         self.batch_size = batch_size
         self.num_layers = num_layers
-        self.num_directions = 2 if BiDirectional else 1
+        self.num_directions = 2 if bidirectional else 1
 
         self.embedding = nn.Embedding(input_size, hidden_size)
-        self.gru = nn.GRU(hidden_size, hidden_size, self.num_layers, bidirectional=bi, batch_first=True)
+        self.gru = nn.GRU(hidden_size, hidden_size, self.num_layers, bidirectional=bidirectional, batch_first=True)
         self.decoder = nn.Linear(hidden_size * self.num_directions, output_size)
 
     def forward(self, x, hidden):
@@ -48,13 +49,14 @@ class Model(nn.Module):
 Here we initialize the model with its associated parameters.
 """
 # How many GRU layers to be stacked
-num_layers = 3
+num_layers = 1
 input_size = char2vec.size
 output_size = output_char2vec.size
 hidden_size = 32
+bidirectional = True
 
 # Model initialization
-model = Model(input_size, hidden_size, output_size, batch_size=batch_size, num_layers=num_layers, BiDirectional=True)
+model = Model(input_size, hidden_size, output_size, batch_size=batch_size, num_layers=num_layers, bidirectional=bidirectional)
 
 """ # Optimizer & Loss
 """
@@ -67,7 +69,7 @@ loss_fn = nn.CrossEntropyLoss()
 
 seq_length = 500
 
-for epoch_num in range(24):
+for epoch_num in range(NUM_EPOCHS):
 
     losses = []
 
