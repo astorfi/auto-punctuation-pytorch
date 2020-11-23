@@ -1,0 +1,14 @@
+
+
+
+Look closely at that picture. See that Type-A USB jack? The one with the blue stripe sandwiched between the round AC jack (with its green light) and VGA USB 2.0 and HDMI ports? Yeah, that's Sony's Thunderbolt implementation according to a trusted source. A bit of digging reveals that the "Ultimate Mobile PC" teased by Sony above is actually the same VAIO Hybrid PC leaked by Sony Insider back in March said to feature an external dock with one USB 3.0 jack, HDMI, Ethernet, AMD Whistler discrete graphics, and a Blu-ray Disc writer. Naturally, the dock attaches to the VAIO's Thunderbolt jack.
+
+What we're trying to get our heads around, however, is Sony's choice for a USB connector instead of the Mini DisplayPort used by Apple's dual-channel 10Gbps Thunderbolt implementation. The decision to go USB was first brought to our attention by site Gula Digital. We've long known that Sony would be a Light Peak partner in some capacity. And the decision to go USB certainly echoes those first prototype interconnects demonstrated by Intel that combined a hybrid USB 3.0 connector with an optical interface and electrical connection to carry power. We also like the idea of being able to connect a USB 3.0 hard disk without first attaching an adapter. What troubles us, though, is a statement made by the USB Implementers Forum last summer expressing reservations with Intel's proposed interconnect:
+
+
+		"USB connectors are not general purpose connectors and are not designed to be used in support of other technology applications or standards or as combo connectors."
+
+
+
+Perhaps Sony has worked out a licensing arrangement with the USB-IF? We don't know. But we're told that Sony's Thunderbolt implementation is definitely using a USB connector and definitely not using Mini DisplayPort. But we'll wait until this thing ships before complaining about Thunderbolt fragmentation too loudly.
+                 

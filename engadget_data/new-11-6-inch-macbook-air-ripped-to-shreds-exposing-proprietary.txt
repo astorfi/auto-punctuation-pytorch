@@ -1,0 +1,6 @@
+
+ 
+The entire world saw the 13-inch MacBook Air exposed to the elements before it was announced on stage, but its 11.6-inch younger brother is just now getting the teardown treatment. iFixit tore the tiny machine asunder, and found even more miniature battery packs nestled in its 0.68-inch-thick frame. Like Apple's previous Air, the components here are proprietary, and the 2GB memory module's actually soldered to the board -- some tradeoffs had to be made for miniaturization, we suppose, and we can't deny the result is a beautiful machine inside and out. On the plus side, the Toshiba solid state drive seems to be modular, so there's some modest upgrade potential there if you can find a supplier of the mini-SATA boards. Still, kids -- don't try this at home.
+      
+
+ 

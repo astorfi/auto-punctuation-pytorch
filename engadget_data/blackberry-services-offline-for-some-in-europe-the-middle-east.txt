@@ -1,0 +1,26 @@
+
+
+
+Well, RIM, things really aren't looking good for you over in EMEA, are they now? We've received several reports of a second BlackBerry outage for the Europe, Middle East and Africa region, and our friends over at T-Mobile UK and Vodafone Egypt have confirmed again on Twitter, just several hours after RIM tweeted that service had been restored. So, what's going on over there? We're reaching out to RIM for a statement, and like those of you affected, we can only hope that things get back up and running very quickly. Are you outraged? Experiencing perfect service (and in EMEA)? Jump past the break to tell us what's up in the comments.
+
+Update: RIM has issued the following statement:
+
+
+		Media statement - October 11
+		Some users in Europe, the Middle East and Africa, India, Brazil, Chile, and Argentina are experiencing messaging and browsing delays. We are working to restore normal service as quickly as possible. We apologize for any inconvenience this has caused.
+
+
+
+
+Update 2: Another update from RIM:
+
+
+
+
+		The messaging and browsing delays being experienced by BlackBerry users in Europe, the Middle East, Africa, India, Brazil, Chile and Argentina were caused by a core switch failure within RIM's infrastructure. Although the system is designed to failover to a back-up switch, the failover did not function as previously tested. As a result, a large backlog of data was generated and we are now working to clear that backlog and restore normal service as quickly as possible. We apologize for any inconvenience and we will continue to keep you informed.
+
+
+
+
+[Thanks to everyone who sent this in]
+                 

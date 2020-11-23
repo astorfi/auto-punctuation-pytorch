@@ -1,0 +1,4 @@
+
+ Remember how the BBC was asking Adobe to keep Flash for Android on life support for a short while? The broadcaster just removed any doubts as to why with the launch of BBC Media Player, its solution for that day when the mobile plugin is well and truly buried. Starting with iPlayer on the mobile web and moving on to both radio as well as an updated version of the Android app due next week, the BBC will be using close Flash cousin Adobe AIR for streaming playback on Android phones and tablets. It can't quit Flash technology cold turkey given the sheer number of devices still running Gingerbread or earlier, which rules out HTTP Live Streaming for now. Media Player isn't necessarily the most elegant solution -- we're seeing reports of sub-par video and other hiccups -- but it will keep those episodes of Doctor Who rolling on most Android hardware and let the BBC push out updates that address as many of the Google-inclined as possible.
+
+

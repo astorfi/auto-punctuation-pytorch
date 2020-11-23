@@ -1,0 +1,7 @@
+
+ 
+
+PC users have been using Windows Defender to free themselves from the bane of viruses, malware and spyware for quite a while, but until now, you've needed Microsoft's OS running for it to do its work. That changes with a new beta, which creates bootable CDs or USB sticks that can run the utility. Those interested can begin by downloading the Windows Defender Offline Tool, which'll prompt you for either of those mediums and then install around 300MB of virus hating bits. And remember, because you're statically downloading an almanac of today's viruses, doesn't mean you'll be ready for those tomorrow, so those taking the plunge better remember to stay up to date.
+      
+
+ 

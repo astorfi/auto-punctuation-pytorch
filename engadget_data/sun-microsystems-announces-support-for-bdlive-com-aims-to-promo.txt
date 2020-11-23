@@ -1,0 +1,12 @@
+
+ 
+Today at the JavaOne Conference in San Francisco, Sun Microsystems professed its love for BDLive.com and the availability of the BDLive.com developers disc. Put simply, Sun -- a proud member of the Blu-ray Disc Association Board of Directors -- has teamed up with Related Content Database Inc. in order to create said website and offer devs, BD content owners and consumer electronics manufacturers "advanced network services focused on improving the overall BD Live user experience." Essentially, the web portal weds Sun's network.com infrastructure and RCDb's recently announced BD Live Platform to "enable the quick creation of device-appropriate features that provide a user-friendly DVD-like experience." If you're eager to know more, click on past the break.
+      
+
+ 
+
+Jeet Kaul, Sun VP of developer products and programs and Zane Vella, president of RCDb, was on stage today at the famed Moscone Center in order to "demonstrate sample applications and live web services available to developers." Among the examples shown was the "Photo Fetchr," a BD-J photo browsing application which allows users to search and browse Flickr accounts right from their internet-connected Blu-ray player.Furthermore, Sun will be offering up the BDLive.com developer disc free of charge ("while supplies last"), and the disc itself will feature "sample code, definition of available API's, and the ability for developers to share their creations with each other and download applications to their home theater." Needless to say, Sun is hoping that by opening up development to the Java community at large, the "barriers to innovation and experimentation with BD Live and the Blu-ray format" will be lowered.For those curious about how BDLive.com will work, it'll reportedly provide users with "a BD Live development framework and live network services" via the web, and according to the duo, this partnership will provide developers with "time and money-saving access to BD Live network services including registration, Blu-ray home-theater-to-web connectivity, and easy Blu-ray disc content updating." We know, it's still a bit unclear what all this means for end users, but hopefully clarification will be arriving in the coming weeks.
+
+       
+
+ 

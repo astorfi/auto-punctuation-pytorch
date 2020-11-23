@@ -1,0 +1,5 @@
+
+ It's no secret that WEP isn't quite the cat's pajamas anymore when it comes to WiFi security, but the aging protocol is still used in a good many networks -- 59% in a recent survey of a large German city -- and has just been hacked beyond repair by a few security analysts. Back in 2001 when WEP was originally hacked, it took around 4 million packets of data to crack a security key. Later hacks have managed to use significantly less packets and hack a system in minutes. However, a recent development by the folks at Darmstadt University of Technology in Germany have managed to extract a 104-bit WEP key in three seconds, using a 1.7GHz Pentium M processor. It takes under a minute to collect the necessary 40,000 - 85,000 packets of data, and the hack could potentially be carried out by a strolling cellphone or PDA user. The obvious move is to switch your network to WPA, but if you've got old school hardware holding you back, there are a few security programs that can foil the attack on WEP -- for now.
+      
+
+ 

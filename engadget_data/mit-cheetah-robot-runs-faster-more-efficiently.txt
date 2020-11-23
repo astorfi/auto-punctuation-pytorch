@@ -1,0 +1,19 @@
+
+ 
+
+
+
+
+
+When it comes to hunting down humans running speeds, MIT's cheetah might come second to Boston Dynamics' own high-velocity quadruped, but by substituting pneumatics with motors, MIT's version apparently runs far more efficiently. At the recent International Conference on Robotics and Automation, the Institute of Technology showed of its newest version, which reached a top speed of 13.7 mph. To accomplish this, the runner still needs parallel support bars to constrain movement in one dimension, reducing any roll, yaw -- and the chances of a pretty expensive fall. The team says the new version's cost of transport (COT is power consumption divided by weight, times velocity) is around 0.52. In comparison, Honda's Asimo has a hefty COT of 2.
+
+
+This impressive efficiency is down to the use of electric motors over hydraulics, with a new "three phase permanent magnet synchronous motor" providing the necessary torque. Researchers also used biometric principles to conserve energy and reduce stress on joints, including Kevlar tendons across the back of the legs. With all those efficiency increases, it mean that MIT's cheetah can theoretically run while carrying its own power source. We've added a video after the break, where you can see the bot hit its top speed while carrying some battery dummy weights.
+
+
+ 
+
+
+
+
+ 

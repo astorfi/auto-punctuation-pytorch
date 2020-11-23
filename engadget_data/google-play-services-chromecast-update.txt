@@ -1,0 +1,8 @@
+
+With Google's latest update to Play Services, it shouldn't be long before the Chromecast section of its app store gets a little more lively. Now that the Android SDK has support for the HDMI dongle baked in, developers can add the functionality to virtually any app they want, at-will. Google opened access to the streaming stick's inner workings earlier this month, but, as Phandroid tells it, the search giant asked devs to hold onto their releases until the public's phones and tablets had the framework, too. Now that it's out, swaths of cast-capable apps could start hitting the Play store relatively quickly. It may have taken longer than some expected, but Google's plan to embed the casting tech across an array of devices has finally come to fruition -- and the users stand to reap the rewards.
+
+
+
+
+
+ 

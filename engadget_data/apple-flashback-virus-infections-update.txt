@@ -1,0 +1,5 @@
+
+ 
+ By now, we're all quite familiar with the Java-driven trojan that's affected thousands of Apple's rigs, and while the numbers seem to have drastically dropped since the first Cupertino fix, there's still a plethora of machines carrying the bug. According to Symantec, the number of infected computers is now at around 140,000, seeing a decline of over 460,000 since April 9th. Still, the security outfit remains puzzled by the fact, as it expected the digits to be somewhere near the 99,000 mark by now. Perhaps this is due to some folks not even being aware of Flashback's existence, or maybe not checking for software updates as often as most of us. Either way, we hope you've already used one of the tools Apple handed you.
+
+

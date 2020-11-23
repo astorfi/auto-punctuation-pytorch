@@ -1,0 +1,4 @@
+
+Havok -- the physics middleware engine used by almost every big console and PC game -- announced its start-to-finish mobile game development suite will be available at no cost to developers. Project Anarchy has tools for everything: visuals, physics, artificial intelligence and animation. We say "no cost" instead of free for a reason: Havok expects a few things out of its users in return. It wants to co-market some finished games and for clients to become part of its development community. Currently, that dev community includes folks programming for iOS, Android and Tizen. Microsofties may not be left out, however, as Havok has "flexible business models" for Windows Phone if you ping its sales team. Full details in the links below.
+
+

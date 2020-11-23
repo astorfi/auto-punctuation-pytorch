@@ -1,0 +1,12 @@
+
+ 
+As we all know, the beauty of Android stems from the fact that you get a wide variety of choices when it comes to devices and interface, though the latter can sometimes be a double-edged sword. Luckily, users who are fed up with their bloated Android UI but don't want to (or can't) mess around with ROMs now have another easy solution. Joining the handful of Android launchers is SPB's Shell 3D app, which installs as a replacement (but removable) home screen that comes with some nifty widgets (radio switches, backlight dimmer, weather forecast with a 3D chart, clock with over 60 skins, world time with a 3D globe, etc.) and resizeable folders. 
+
+As you can see above, the highlight of the show here is a cool-looking 3D carousel for switching between up to 16 panels, and you can trigger it by either tapping or horizontally dragging the bottom-center button. Whilst in carousel mode, you can also rearrange the panels, change their colors, or flick away excess panels. All of this required no manual reading on our end, so it's safe to say that this is a pretty intuitive app. Read on to see what the performance is like.
+
+
+
+
+
+We've been playing with Shell 3D on our Xperia Play, Nexus S, and Dell Venue for a few days, and we're still surprised by its butter-like smoothness -- SPB claims that the app is rendered consistently at 60fps on most modern Android devices. The only time we see this app hiccup is when we throw in the Pictures panel (for displaying Flickr's pictures of the day), so while this feature is a nice touch, we tend to keep it tucked away for minimal irritation. Other than that, we enjoy casually spinning the carousel or flicking between the panels for the subtle 3D transition effect, without significantly affecting battery life as well.As for the app list, it's simply a vertical scrolling list with springy effects when you hit the top or bottom, but there's also a nice addition here: apps that already have a shortcut added to a panel are marked with a little home icon. That said, there's another side to this: for some reason, SPB decided that we shouldn't be allowed to add the same shortcut to multiple panels, which can be annoying for those who want maximum accessibility to the most frequently used shortcuts. For an app costing $14.95, this shouldn't be too much to ask for, right? But otherwise, Shell 3D is a pretty neat add-on for those looking to breathe new life into their Android phones.
+ 

@@ -1,0 +1,6 @@
+
+ 
+TiVo heard you liked ads, so it's putting ads in your pause menu so you can watch ads while you skip ads. Already rolled out on older Series2 hardware last December, Dave Zatz posts that the 11.0c software update for Series3 / TiVo HD hardware brings the new "feature" of ads popping up while viewers are time shifting. That can show up as a "More information" prompt for some shows, as seen above, but will hold advertisements on certain programs. The prompt will only show up once per recording, but if this new form of advertising bugs you, TiVo Community user bfdtv instructs that permanently hiding the progress bar can be achieved by pressing pause, press down to hide the popup, press play again, then enter SELECT-PLAY-SELECT-PAUSE-SELECT, which can also be reversed by using the code again while watching a recording. Still, we doubt the ad skipping arms race will end here.Read - TiVo's Pause Menu Spam Hits S3/HD Units Read - TivoHD Overview, Q&A, Setup, Tips
+      
+
+ 

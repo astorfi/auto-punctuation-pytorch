@@ -1,0 +1,11 @@
+
+If the future of haptic technology is your jam, then the symposium on User Interface Systems and Technology at the University of St. Andrews is the place to be this week. Teams from Disney Research and the University of Bristol will present two different approaches to adding 3D tactility to touch technology, and the results are pretty fascinating. While incorporating haptic feedback into displays isn't unheard of, adapting it to live content has been a challenge. At Disney, researchers developed an algorithm that can translate information culled from depth maps of virtual surfaces into dynamic tactile experiences. Through the magic of electrovibrations, the team was able to simulate changes in texture as a finger slid across a flat surface displaying both static imagery and live video.
+
+
+The group from Bristol opted for a different strategy; instead of vibrations produced by electricity, their UltraHaptics system relies on ultrasound speakers embedded behind a display used in conjunction with a Leap Motion controller. Basically, high-frequency sound waves produce an invisible field that creates a sensation of texture without the user having to touch the screen at all. Interest piqued? Check out videos of both systems in action after the break.
+
+
+
+
+ 
+ 

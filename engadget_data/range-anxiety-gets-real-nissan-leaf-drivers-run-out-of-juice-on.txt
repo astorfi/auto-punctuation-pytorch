@@ -1,0 +1,6 @@
+
+ 
+Fears of range anxiety have loomed over EVs since their inception, and those fears were validated courtesy of a couple unfortunate souls whose Nissan Leafs apparently died on them while driving. The drivers put their faith in the Leaf's remaining range calculation, and were sorely disappointed when the car's dash said they had enough juice to go 10+ miles, but the batteries had other ideas. Turns out, the Leaf needs some time to get to know you and your lead foot before it can accurately determine the bounds of its own range. Nissan sent engineers out to check the cars and found no technical faults -- but one driver reckons the cold sapped some of the batteries' power (a theory that Mini E drivers would disagree with) and the car's software didn't factor that in when making its range estimates. Who's to blame? We suspect that while there was some user error, Nissan should rework the Leaf's software to improve range calculation -- else we may be talking about the death of EVs instead of internal combustion.
+      
+
+ 

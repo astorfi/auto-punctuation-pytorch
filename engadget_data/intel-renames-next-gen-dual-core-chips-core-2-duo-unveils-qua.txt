@@ -1,0 +1,6 @@
+
+ 
+Intel's been busy in the realm of multi-core processors lately, first unveiling their quad-core replacement for the Itanium Montecito, named Tukwila, and today -- taking a page out of MC "2 Legit 2 Quit" Hammer's book -- renaming the next-gen mobile Merom and desktop Conroe dual-core chips "Core 2 Duo." What's more, the company announced that another version of the processor will be released for performance junkies, called, not surprisingly, "Core 2 Extreme." As for Tukwila, the deets on this server-targeted chip came to light thanks thanks to a little digging by Real World Technologies, who found a set of slides that Intel recently presented on the topic at a conference in Asia. According to RWT, Tukwila will run at an estimated 40 gigaflops, sport 6MB of L3 cache for each core, and feature other additions that IT-types will likely be into, including an on-die FB-DIMM memory controller and Common Systems Interconnect (CSI) router. First called "Tanglewood" and scheduled for a 2007 rollout, Tukwila will now be released in 2008 and go head-to-head with other enterprise offerings from Intel and Sun, probably making it an exciting year for those aforementioned IT-types.Read- Core 2 Duo [Thanks, Dave Z.]Read- Tukwila [Via The Register]
+      
+
+ 

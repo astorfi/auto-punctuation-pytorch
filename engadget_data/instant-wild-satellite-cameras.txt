@@ -1,0 +1,8 @@
+
+Remote cameras are useful to wildlife conservationists, but their closed (or non-existent) networking limits the opportunities for tracking animals around the clock. The Instant Wild project's cameras, however, are designed to rely on the internet for help. Whenever they detect movement, they deliver imagery to the public through Iridium's satellite network. Anyone watching the cameras through the Instant Wild iOS app or website becomes an impromptu zoologist; viewers can identify both animals and poachers that dedicated staff might miss. Maintenance also isn't much of an issue, as each unit is based on a Raspberry Pi computer that can run for long periods on a single battery. The Zoological Society of London currently operates these satellite cameras in Kenya, but there are plans underway to expand their use to the Antarctica, the Himalayas, Indonesia and Sri Lanka.
+
+
+
+
+
+ 

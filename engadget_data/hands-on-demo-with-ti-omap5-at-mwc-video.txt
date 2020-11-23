@@ -1,0 +1,6 @@
+
+   It's TI's time to brag. We first met OMAP5 when the company's VP of the OMAP division, Remi El-Ouazzane, unveiled the developer's reference platform on our stage at CES. While there, he boasted OMAP5 as "the greatest platform on Earth right now," but we were given only a few insights into the platform's capabilities. Now, TI is back with a new wave of demos that better show the prowess of OMAP5 -- a system-on-chip design that houses a dual-core ARM Cortex-A15 CPU clocked at just 800MHz, two Cortex-M4 cores for low-power processes, along with a PowerVR SGX 544 GPU that handles 3D compositions, and a number of accelerators such as TI's IVA-HD, which supports both video encoding and decoding and plays 1080p video at a whopping 60fps. We were shown a demo of all these capabilities humming in unison on a 1080p display, along with a complex HTML5 mashup that adds credence to the company's latest benchmark report. Photography geeks should know the system supports up to 14 megapixel cameras, and is able to process ten shots per second at that setting. We're told to expect devices based on the OMAP5 platform by the end of the year, and if you're anything like us, it's going to be one hell of a wait. Hop the break for the demo.
+ 
+
+  
+ 

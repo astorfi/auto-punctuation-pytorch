@@ -1,0 +1,8 @@
+
+ 
+If you're wondering why T-Mobile doesn't have 3G in the middle of the Mojave, the answer's pretty simple: it's hard for any of the Big Four to justify spending millions of dollars on infrastructure in sparsely-populated areas. Rather than ignore it and leave the spectrum blank, though, Verizon's asking other companies to step in and share the responsibilities -- sort of -- by letting partners do most of the hard work (build towers and operate backhaul) while Big Red chips in its 700MHz spectrum holdings and "core LTE equipment." Presumably, Verizon will help itself to a share of the proceeds, which from their perspective, makes it look like a win-win scenario: they're helping to bring 4G technology to underserved areas, doing less work and spending less capital than they'd have to otherwise, and profiting off the spirit of an initiative that FCC chief Julius Genachowski is pushing very, very hard at the moment. And hey, we bet you'll be getting some insane throughput when you're rocking the LTE modem in the middle of nowhere.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

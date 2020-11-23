@@ -1,0 +1,10 @@
+
+Sonos has made a name for itself as a wireless home audio system. The problem is -- up until today -- that you still needed to plug something into the router (one of your speakers, or a "Bridge" device). What's new today? Sonos has come good on its promise, letting you drop that pesky "last cable" -- ignoring power leads, of course -- completely (excluding Sonos 3.1 and 5.1 cinema setups). The update means you can set up your Sonos system on your home WiFi network just like your phone, TV or anything else. Via the mobile app, punch in the credentials, and let all your Sonos speakers sort themselves out. You're still encouraged to use a Bridge if you have multiple devices and want to guarantee a more robust connection between them, though. Which brings us neatly on to "Boost," a new souped-up hub, that Sonos has announced it'll introduce later this year for "the most challenging home WiFi environments" -- paradoxically, that's probably baller-style cribs and basement conversions alike. No word on price for Boost, but depending where how you live, you might not want to chuck that CAT5 just yet. Read in for instructions on testing this with your existing set-up (don't just pull the cable).
+
+
+
+From Sonos:
+
+Please note, if you are already a Sonos user, and immediately unplug your Bridge, your system will stop working.If you would like to test the bridge-free option an existing system, you'll need to do the following:1) Update the app; 2) With the BRIDGE still plugged in, select BRIDGE SETUP in your Settings; 3) Follow the steps described in the app; 4) Once these steps have been followed you will be able to unplug the BRIDGE and test this simpler setup without the need to reset your system. You can then plug the BRIDGE back in at any time and switch back to 'Standard Setup' as you wish.
+
+

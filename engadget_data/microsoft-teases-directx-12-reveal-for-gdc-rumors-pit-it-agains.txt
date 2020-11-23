@@ -1,0 +1,7 @@
+
+That death knell AMD has been ringing for DirectX? Microsoft's having none of it. The software giant is now teasing the next version of the Windows graphics API, inviting developers to join it at GDC for the official reveal of DirectX 12. The splash page reveals little besides the version's numeric and announcement time, but it does feature partner logos for Intel, Qualcomm, Nvidia and, of course, AMD. AMD's disdain for the platform helped birth Project Mantle -- a competing API that gives developers lower-level access (and as a result, more leverage over) PC graphics hardware. One of Microsoft's GDC sessions suggest that something similar is in the works for its own development platform: "You asked us to bring you even closer to the metal... ...so that you can squeeze every last drop of performance out of your PC, tablet, phone and console," reads the description for one of the firms DirectX presentations. "Come learn our plans to deliver."
+
+
+It sure sounds similar, and indeed, it meshes well with recent rumors. Sources close to ExtremeTech say that while the two APIs will have different implementations, both should offer the same benefits. They also say that Microsoft's "close to the metal" lower-level access API is a relatively new project in Redmond, meaning it probably won't muscle in on Mantle's territory until sometime next year. Between that, and the fact that Microsoft has recently taken to limiting Direct X upgrades to Windows upgrades, it's possible that we might not see DirectX 12 in access until we're installing Windows 9.
+
+

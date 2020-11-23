@@ -1,0 +1,5 @@
+
+ We've alway known of Apple's hopes to wean the masses off of their Windows peecees through the elegance of the iPod, but we're afraid they've taken things a bit too far this time. According to Apple, less than one percent of their 5.5G iPod shipments made after September 12th have a little present in the form of the RavMonE.exe virus, which propagates via mass storage devices, and purportedly had infected a PC at the manufacturer where the iPods were produced. Apple has received 25 or so reports of the problem, which they learned of a week ago, and they've "been working around the clock to identify the problem and discover its root cause." Apple has instructions for removal of the virus on their site, but there's no need for full-blown panic because RavMonE.exe is "technically a worm, not a virus," meaning it lowers the security of your PC, but doesn't actual mess with your data itself. Of course, Apple is "upset at Windows for not being more hardy against such viruses," but they're "even more upset with ourselves for not catching it." As they should be.
+      
+
+ 

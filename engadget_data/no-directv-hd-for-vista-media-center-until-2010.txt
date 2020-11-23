@@ -1,0 +1,15 @@
+
+ 
+It has been three months since we received leaked confirmation that the yet to be officially announced DirecTV HD tuner for Vista Media Center (VMC) was part of an upcoming update code named Fiji (expected in October). The fact that so much time has passed and our sources still haven't actually received a tuner was really starting to bother us. So we got even more concerned when we learned that the first release candidate issued to testers was missing required pieces to make the HDPC-20 possible. Unlike the previous beta releases, RC0 was missing native H.264 support which is vital to both DirecTV support and the latest Hauppauge HD PVR component capture device. Then to add insult to injury, many are now reporting that the update that will be officially called Windows Media Center TV Pack will only be available through OEMs. We're not sure if this means you'll have to download the update from Dell (for example) rather than Windows Update, but we can't see how the update could effectively be restricted to OEM installs. The testers we've talked to have reportedly been told that H.264 and DirecTV support have been pushed to Windows 7, which would mean it'll be 2010 before we see it. More about Fiji after the jump.
+
+
+
+
+          
+ 
+ 
+ There is one other possibility though, at least one well respected member of DBSTalk reported that as recent as June 30th, the tuner is indeed being tested and he's actually seen it in action. This makes us think that when faced with all the leaks, Microsoft may have made the the DirecTV tuner beta smaller. We have been told that there are other private betas and we'd like to think that this is what is going on. We contacted Microsoft to see if they'd share their plans, and as you can expect, we never heard back. Even if DirecTV support isn't in Fiji, it isn't completely useless. There are many new features added in regards to HD -- like 16x9 thumbnails and HD recording preferences -- there is a new favorite channels listings feature in the guide and there's native QAM support. This is in addition to all the foreign tuner support and teletext for the rest of the world. The ability to control the tuners has also been improved, we hear you'll finally be able to assign an OTA channel to any channel number you want -- so channel 28 can finally be 28, instead of 1281. This is supposed to also help in resolving scheduling conflicts since you can have more than one source for each channel (aka OTA and cable). Another thing we're not sure if it's good or bad is DVR-MS is gone and is replaced with WTV, so hopefully 3rd parties like VideoReDo and DVRMSToolBox can adapt to the new format.Ultimately we don't know anything for sure, but these Fiji screen shots are real, and with multiple sources all reporting the same thing, it is hard not to believe them. One thing is for sure though, Microsoft has a tester mutiny on their hands as everyone one of our sources has reported some intense discussions in the beta tester's private forums.
+
+       
+
+ 

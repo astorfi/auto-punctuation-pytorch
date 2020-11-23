@@ -1,0 +1,15 @@
+
+The BBC think they have a solution for broadcasting HDTV programming in areas where there are no HDTV channels:
+datacasting. At least that's what it sounds like they're proposing. The blurb in New Scientist isn't exactly chock of
+full of detail, but what they're thinking about doing is using unused parts of the spectrum (we're guessing TV spectrum
+that'll be freed up in the transition to digital broadcasting) to transmit data to a digital video recorder with a
+special receiver in the days and hours before a show is scheduled to air. Then when it's time for a show to air, a
+trigger signal hidden in the broadcaster's TV signal would make it possible to watch the saved program. Sounds a little
+convoluted for sure (a couple of datacasting companies have already gone out of business and Disney pretty much killed
+off MovieBeam, their recent experiment
+with datacasting movies), but it's actually not a terrible way to deliver high-def programming.
+
+
+
+
+ 

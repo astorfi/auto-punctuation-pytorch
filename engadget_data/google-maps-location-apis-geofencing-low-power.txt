@@ -1,0 +1,4 @@
+
+Maps is one of the most useful features in Android, and today at Google I/O 2013, Mountain View announced a trio of new location services APIs to help devs to better leverage that strength. Fused Location Provider is the first, and it brings faster, more accurate location signals and delivers a low-power location mode that sips less than 1 percent of your battery while in use. Next is Geofencing, which will allow devs to set up to 100 location-based triggers for app events. The third API is called Activity Recognition, which uses accelerometer data and machine learning to figure out when you're walking, cycling or driving.
+
+

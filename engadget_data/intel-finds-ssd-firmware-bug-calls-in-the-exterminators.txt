@@ -1,0 +1,5 @@
+
+ Amid Intel's recent catalog of problems is a pretty significant firmware update for the X25-M SSDs, which went rogue and started bricking drives for the sheer bloody-minded enjoyment of it. After promptly pulling the software, the chip giant set straight to work -- or so we presume -- and has today finally managed to replicate the fatal circumstances that may lead to your SSD's untimely demise. That's not to say the problem's been fixed, and there's no word yet on when the cleaned up patch will be back out for consumption, but at least we're a step closer to realizing those TRIM-related speed boosts. So, are you growing tired of Intel's suicidal firmware updates, or should we consider these mere bumps on the road to superfast SSD awesomeness?
+      
+
+ 

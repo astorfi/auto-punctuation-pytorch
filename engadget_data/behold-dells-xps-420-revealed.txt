@@ -1,0 +1,19 @@
+
+ 
+Should anyone be wondering what Dell's got up its sleeve with its next-gen XPS system, here's the scoop: the XPS 420 will be appropriately bigger, badder, better equipped, and even have fun features like a hardware MPEG-4 encoder and SideShow display up top.
+
+Core 2 Duo, Extreme, or Quad (up to 8MB) processor options
+Intel X38 Express chipset, DDR2 800 (up to 8GB)
+MiniView LCD 3 x 2-inch QVGA display (runs SideShow on the front, picture after the break)
+Dell Xcelerator - dedicated media coprocessor for transcoding video streams to MPEG-4 formats. Can cut encode time on a 2 hour HD movie in half and use far fewer CPU cycles.
+SATA II (with RAID 0 or 1 support)
+PCI Express x16, gigabit Ethernet
+(2) front USB, (6) rear, (2) internal; one front and rear 1394; one eSATA, frontal audio ports
+
+MiniView shot and details after the break.
+      
+
+ 
+
+Some MiniView display modes Default - shows time, date, month calendar, and system stats (including number of users connected) PC monitoring - Shows detailed system stats like CPU speed / temp, available RAM, fan speeds, and other info like Service Tag (so you don't have to keep that memorized anymore) Audio, video, or picture mode - controls media access and playback (duh)
+ 

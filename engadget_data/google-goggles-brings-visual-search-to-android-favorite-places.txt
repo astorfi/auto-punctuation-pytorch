@@ -1,0 +1,9 @@
+
+ 
+Looks like Google's been busy on the camera tip lately -- not only is it launching a new QR code-based Favorite Places mobile search product today, it's also demoing Google Goggles, a visual search app that generates local results from analyzing mobile phone images. Favorite Places isn't super-complicated, but it sounds like it'll be pretty useful: Google's sent QR code window decals to the 100,000 most researched local businesses on Google and Google Maps, and scanning the code with your phone will bring up reviews, coupons, and offer the ability to star the location for later. (It's not implemented yet, but you'll be able to leave your own reviews in the future.) Google hasn't built this into the Google Mobile app yet, so you'll need something to read QR codes with -- Android devices can use the free Barcode Scanner, and Google and QuickMark are offering 40,000 free downloads of QuickMark for the iPhone today. We just tried it out using QuickMark and it works pretty well -- although we'll wait to see how many QR codes we see in the wild before we call this one totally useful.  Google Goggles is a little more interesting from a technology standpoint: it's an Android app that takes photos, tries to recognize what in them, and then generates search results about them. Goggles can recognize landmarks, books, contact info, artwork, places, wine, and logos at the moment, and Google says it's working on adding other types of objects, like plants. Pretty neat stuff -- but how about linking these two services together at some point, guys? Check some videos after the break.
+      
+
+ 
+
+      
+ 

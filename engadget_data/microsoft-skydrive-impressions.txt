@@ -1,0 +1,59 @@
+
+ 
+ You may remember a certain, somewhat anticipated cloud service finally coming in to land in recent days. That wasn't the only news in nebular computing last week, however: perhaps in anticipation of Google's long-rumored Drive service, Microsoft made some updates to the Windows Phone app for its own offering, SkyDrive. This comes not long after the release of desktop SkyDrive applications for Windows and OSX, all suggesting that Redmond's hoping to cut itself as large a slice of the cloud-storage pie as it can, preferably while others are still taking their seats at the table. We spent some time with the latest quiver of tools from Microsoft, to see how they've progressed.
+
+
+
+
+ Features As SkyDrive already has some level of maturity, you'd hope that that means a relatively solid foundation of features, and you'd be largely right. Microsoft's been sharp enough to realize from the start that people can't always -- or simply don't want to -- buy into an entire ecosystem. So, while integration is undoubtedly best with Windows-based platforms, pretty much the full gamut of essential features are available whichever device you have your hands on at the time.
+
+ Getting started is as easy as signing up for a Live account. In fact, that is exactly the sign-up process, as the two accounts are inextricably linked. Once you've squared that away, 7GB of free online storage is yours forever (subject to no dramatic u-turns in the future.) The sharp-eyed among you will have spotted that this is more than Google Drive, Apple and Dropbox are offering for their entry-level accounts. Some lucky folk will have snagged themselves 25GB of storage in reward for their early adoption, but alas, that ship has now sailed.
+
+ If the 7GB well isn't as deep as you'd like, there are of course upgrade options, and this is another area in which Microsoft nudges more than a few inches ahead. For just $10 a year you can bag an additional 20GB space, and for the data hogs 50GB and 100GB accounts are also on offer ($25 and $50, respectively.) To put these prices in perspective, Apple wants four times as much per year for 20GB and Google will take nearly three times the amount Redmond charges for the same. We already broke down the competing services and their prices in our comparison chart if you want to see them side by side.
+
+ 
+ If your main concern is less about how much, and more about what you can store, then luckily SkyDrive seems to open its arms to pretty much any file you might want to send at it. From the web interface, it's pretty much just the same as attaching a file to an email. Batch uploads work a charm, and you're advised of progress of each as they go.
+
+ You can also create documents from within the browser, letting you work on a Word, Excel, PowerPoint or OneNote file directly in your storage space. A neat little extra if, perhaps, you're on a different machine, and need something up quick.
+
+ Browser interface 
+ If you've ever used Hotmail / MSN Live -- and that will be the case for many of you -- you'll be in familiar territory. Mainly because, as we stated earlier, it's actually all part of the same overarching service. Whether you want email or not, you'll get an address and inbox when you create your account.
+
+ The main menu options live on the left-hand side, and consist of Files, Recent Docs, Shared and Computers. They're largely self-explanatory, with that last option displaying any Windows machines on which you've installed a client application. Along the top is where you can dive out of SkyDrive and into Live mail and Messenger, with the "create document" options laid out below this. The bulk of the screen space is assigned to displaying your files, and is straight forward enough, leaving just the right-hand column which houses a Bing-powered search and extended file options (move, copy, rename etc.) which can also be accessed with a good old fashioned right click.
+
+ 
+ Sharing is something that SkyDrive lets you do with ease through the web interface, with options to make the file public (complete with a direct link,) as well as grant recipients editing or viewing-only privileges. If you want to make things even more public, a smattering of social media options are included by default (Facebook, Twitter and LinkedIn,) with many more able to be added should you wish.
+
+ 
+ There's nothing too complicated going on here, and everything is pretty fool-proof. The upload size limit is 300MB, so you'll need one of the desktop clients if you want to move something more chunky. Our only minor niggle, is that SkyDrive takes it upon itself to compress your photos as they upload. We uploaded a selection of shots, and a 1.2MB original got crushed down to 383KB; even when choosing the "view original" option, you get the smaller file. On further inspection, it seems there is an option to "un-tick" as the files are uploading -- a feature that will ensure the original finds its way to your drive. Still, you need to be on your guard for that: if you miss it, you'll be stuck with the smaller file.
+
+ Desktop apps Beyond the browser, SkyDrive offers a few other desktop tools designed to aide your workflow. For example, if you didn't upload the file that you need, and have installed the desktop client for PCs, you can use the "fetch" feature to dig it out and share it after the fact. There is a client for OS X too, but it requires you to be running Lion for it to work, which will undoubtedly frustrate some curious and not up-to-date Mac owners. What these clients also do, however, is show your SkyDrive as if it were a physical folder on your machine, which has the added effect of making any program with a save option effectively SkyDrive enabled.
+
+ Much like other cloud solutions, the desktop app lets you drag and drop files to the virtual folder, and then goes off and automatically uploads it to the remote server. This also means you can work on a document, save to SkyDrive after a few changes, and always have the latest version online.
+
+ 
+ The Windows app is compatible with Vista, Windows 7 and forthcoming 8, so XP hold-outs will be restricted to the browser. The same is true for those still running OS X Snow Leopard and below. Linux and other desktop operating systems will also need to rely on the web interface if they wish to use the service.
+
+ Windows Phone We imagine the integration of SkyDrive on Microsoft's mobile operating system ranks pretty high on the list of things Redmond felt compelled to make awesome. To that end, the mobile app recently got an update that brought new functionality with it, so we took a fresh look to see how it feels over all.
+
+ The interface itself is much like what you'd expect from a native app. The look and feel is consistent with the rest of the standard applications, complete with smooth transitions and minimal clutter. The three mains screens echo the main views of the web-interface (Files, Recent and Shared,) with only the "computers" option omitted. Under the Files screen (where you'll spend most of your time,) a tiled or list view presents your files to you in a tidy fashion.
+
+ Audio files can be played directly from the app, but there's no option to download them directly should you wish to save them for later. You can always share them with yourself, via an email link or what have you, but that's a work around at best, rather than a feature. The same goes for video files, where frustratingly a download menu does appear, but in our tests with both a .mov and a .mp4 file remained greyed out. One up side is that video files don't appear to get compressed by default like their static-image relatives, with the files we uploaded showing as the same size once completely in the cloud.
+
+ Text documents, such as Word files also don't have a simple "download to phone" option, but you can edit, as well as save directly from the app. Where as PDF files are just a straight read-only affair, which isn't surprising.
+
+ Going in the other direction is a little bit more restrictive. Prod the plus symbol at the bottom of the app, and you'll be whisked to a set of folders you can choose files from. Hint: images, videos or nothing. You can poke the camera button, and take a snap there and then to share, but video mode is disabled meaning movie shares are a no go when working from within the app. You can, however, go into the camera separately, record a video and share it to SkyDrive from there, so it's unclear why video is excluded from the in-app process.
+
+ Other platforms Users of iOS get their own bonafide SkyDrive app which gives you much of the same features as the Windows Phone app: file browsing, in-app media playing and so forth. Adding files can also be done from within the app, but again, as you can imagine, iOS's slightly restrictive approach to file management limits this to images and videos from the camera roll, or those shot from within the app (and yes, this time video too.) Unsurprisingly, SkyDrive doesn't appear as one of the default choices under the share menu in iOS, this remains locked down to the usual Apple-approved options.
+
+ 
+ Android fans get a bit of a rougher deal. At this time there's no official app for Google's mobile platform, but that's not to say you're totally devoid of options. Thanks to a dedicated API, devs are given the tools to build SkyDrive functionality into apps, and there are a couple options out there already. One example is Browser for SkyDrive, which as the name suggests, lets you scuttle around your online vault in more or less the same manner as an official app might, and in some ways, offers a little more (full download of any file for example.)
+
+ Another option is Microsoft's OneNote app for Android, which has a little SkyDrive magic baked into it. From here you can create notes and simple text files, which you can then bounce up to the cloud easily enough.
+
+ 
+ Wrap-up Microsoft's cloud offering is a without doubt a confident one. Simple to use, essential features and, perhaps crucially, good value storage options let you know that this is a product born from a company with more than a little experience in consumer products. The interface may not be all that snazzy, and some of the app support for non-Windows platforms is a little spotty, but the end product still manages to reach far beyond its PC and phone ecosystem.
+
+ While these small blemishes don't massively detract from the overall experience, if Redmond were to eliminate them and make the experience universally consistent, then Microsoft could be poised to corner off a reasonable slice of the market. We'd love it even more if they bought back the free 25GB option, but we're not holding our breath on that one.
+
+

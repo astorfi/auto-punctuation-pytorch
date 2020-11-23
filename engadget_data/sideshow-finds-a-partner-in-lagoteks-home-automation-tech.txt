@@ -1,0 +1,6 @@
+
+ 
+If Windows Vista's various desktop enhancements and purtifications haven't managed to get you excited about the new OS, don't write it off altogether just yet. The new "SideShow" feature -- which allows for lightweight PC-powered functionality on a secondary display without actually booting or interrupting Windows -- has quite a bit of promise, and Lagotek's home automation integration seems to be a good sign of things to come. Based on the upcoming version 3.0 of Lagotek's Home Intelligence Platform, the new home automation controls tie into Vista Media Center Edition and and allow you to select "scenes" via the SideShow interface for activating certain lighting, home entertainment and other automated functions. HIP works with wireless music systems like the Squeezebox, IP-enabled video cameras, and Z-wave lights and thermostats, while Z-wave RF mesh networking and 802.11g keep it all connected. So no big surprises on the automation front, but at least now you'll be able to use one of those nifty SideShow controls built into your future laptop, desktop or remote instead of having to dedicate an entire PC interface to dimming the lights for those romantic dinner dates you've been having with your Wii.
+      
+
+ 

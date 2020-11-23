@@ -1,0 +1,11 @@
+
+ 
+ Not to be left out of the Computex party, RunCore has just unveiled a 7mm-thick Pro VI solid-state drive to give new Ultrabooks a swift kick. The company is aiming squarely at the sunnier side of mid-range SSDs through a speedy JMicron controller that hits 550MB/s in reads, and a less aggressive but still brisk 380MB/s for writes. The SATA 6Gbps drive doesn't have any special tricks up its sleeves, but there's no doubt that it fits just about any ultrabook category: capacities swing from a very modest 32GB to a 512GB drive meant to take over from ho-hum spinning disks. While RunCore's customer list isn't public material, we wouldn't be surprised if a lot of extra-thin notebooks wending their way out of southeast Asia this year carry the Pro VI inside.
+
+
+
+  Show full PR text   RunCore debuts new 2.5in 7mm SSD at Computex 2012
+  (Changsha, China – June, 2012) - RunCore, the leading manufacturer of high-performance and rugged solid state drives (SSDs), today introduced its new Pro VI 2.5in 7mm SSD for Ultrabooks, offers a higher and more stable performance than Pro V 2.5's 7mm SSD.
+  By some observations from multiple authoritative research institutions, it believes that more than a million Ultrabooks will be bought this year because the price of them are expected to drop into the $799 to $899 range. Recently SSD price declining encourages PC suppliers to use SSDs in their products and the development of Ultrabooks. In addition to the Pro V Ultra SSD, RunCore once again introduce another new 7mm SSD – Pro VI 2.5in 7mm SSD - to enrich its product lineup for Ultrabooks.
+  RunCore Pro VI 2.5in 7mm SSD is a JMicron-based SSD. The drive uses the latest serial ATA (SATA) 6Gbps interface protocol, with Synch NAND and 32MB cache it offers over 550MB/s read and 380MB/s write data transfer rate, featuring an extreme read and write IOPS up to 80000 and 60000 respectively. Comparing it to the previous series 7mm drive, it has a 32MB cache, with excellent ECC and Wear-leveling Algorithm Technology, it delivers a more balanced performance, capacity range from 32GB to 512 GB, can be added to Ultrabooks, workstations and desktops to provide balanced and superb performance.
+ 

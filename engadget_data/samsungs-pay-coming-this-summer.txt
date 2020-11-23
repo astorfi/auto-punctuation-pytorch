@@ -1,0 +1,14 @@
+
+
+
+It's been just a couple of weeks since Samsung acquired mobile payments company LoopPay, but it's ready to announce the payment service based on LoopPay's tech: Samsung Pay. The service works with NFC (like Apply Pay and Google Wallet) and a new(ish) tech called Magnetic Secure Transmission (MST). It's the latter of the two options that has people excited, so let's take a minute to explain what exactly it is.
+
+
+
+MST is the reason Samsung bought LoopPay in the first place. It's a super-clever tech that tricks old-school payment terminals (i.e., most terminals that don't accept NFC) into thinking they've had a card swiped in them. Using your Galaxy S6 or S6 edge, you'll be able to swipe up from the lower bezel to open the Samsung Pay app, select which card to use and then authenticate with your fingerprint. After that's done, you just tap the phone next to the payment terminal's card reader, and voila, it generates a signal that looks to the reader like a swipe.
+
+If that all sounds too good to be true, it's actually not. LoopPay has sold key fobs and cases that utilize MST for ages, and by all accounts these accessories work with the vast majority of payment terminals. There are a few questions -- questions that Samsung hasn't addressed -- about how MST will play with newer chip-and-PIN cards and terminals, and how future-proof the tech is in general. One thing that is known is Samsung Pay taps into the payment industry's tokenization system, a broad initiative that replaces card numbers with secure tokens, supported by Visa, MasterCard, American Express and others. It's the same thing that makes Apple Pay possible, and it's going global soon.
+
+Samsung Pay isn't coming until this summer -- given how little time the company has had since the acquisition, the lead time is understandable, if a little disappointing. It's already partnered with MasterCard and Visa on the service, and says it's going to establish similar relationships with AmEx, Bank of America, Citi, JPMorgan Chase and other companies globally to ensure a smooth rollout. The first markets for Samsung Pay will be the US and South Korea, but the company promises it'll launch in Europe, China and other regions shortly after.
+
+

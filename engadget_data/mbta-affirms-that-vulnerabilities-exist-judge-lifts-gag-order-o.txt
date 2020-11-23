@@ -1,0 +1,5 @@
+
+ No surprise here, but the kids from MIT were (presumably) right all along. The three students who were muffled just before presenting their case at Defcon have finally been freed; the now-revoked gag order had prevented them from exposing insecurities in the Massachusetts Bay Transportation Authority ticket system, but during the same court setting, the MBTA fessed up and admitted that its current system was indeed vulnerable. Of note, it only confessed that its CharlieTicket system was susceptible to fraud, while simply not acknowledging any flaws in the more popular CharlieCard option. Pish posh -- who here believes it doesn't have dutiful employees working up a fix as we speak?
+      
+
+ 

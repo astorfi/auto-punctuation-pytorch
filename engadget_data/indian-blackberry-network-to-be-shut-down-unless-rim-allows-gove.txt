@@ -1,0 +1,5 @@
+
+ Uh-oh, Indian Blackberry users -- better get ready for some major disconnection anxiety. Apparently the Indian government is demanding that RIM either allow it to snoop on its encrypted email service (or worse, drop down to 40-bit encryption), or shut down the entire Indian Blackberry network at the end of the month. That'll cut off an estimated 400,000 subscribers, so the carriers, RIM, and government officials are due to meet and try and hammer out a solution on the 14th, but the issue probably won't be easy to solve -- ISPs are now concerned that if RIM complies, all encrypted wireless data will be open to spying, which would make things like ecommerce virtually impossible. Furthermore, since Blackberry traffic gets routed to Canadian NOCs first, there are some thorny international issues at play as well -- just to put things in perspective, RIM doesn't even allow the Chinese government to snoop in this way, although we're certain there's another backdoor in place. Honestly, though, we'd suffer through a little CrackBerry withdrawal if it kept the G-men out of our hair -- let's hope RIM's got some fight in 'em.[Via Boy Genius Report]
+      
+
+ 

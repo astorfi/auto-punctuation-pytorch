@@ -1,0 +1,27 @@
+
+
+It's called MobileBench: an industry consortium planning to offer "more effective" performance assessments on mobile devices -- most likely centered on, but not limited to, Android. Unsurprisingly after recent developments, Samsung joins as a founding member, alongside Broadcom, Huawei, Oppo, and Spreadtrum. While that's who's in, who isn't? Well, both NVIDIA (responsible for the Tegra series of mobile chips) and the increasingly ubiquitous Qualcomm, which makes the Snapdragon mobile processor range. Between them, they power the likes of Microsoft's Surface series, Amazon's new Kindle Fire range, not to mention numerous flagship devices from LG, Samsung, Sony and Motorola.
+
+
+The group gathered for the first time yesterday in Shenzhen, China and outlined how it aims to offer more useful tools for mobile platform designers and "more reliable indices" for assessing user experience. MobileBench plans to establish impartial guidelines and a more sophisticated evaluation methodology for both its first benchmark tool, MobileBench and MobileBench-UX, for testing system-level applications. The benchmarking tool will assess hardware performance, including high-level processes like video and image viewing, camera use and other real-life use cases, with one of the primary aims being result consistency and less deviation between repeated tests. Another app is planned for consumer use in the future, likely similar to the benchmarking apps Engadget uses in its reviews. The bigger question is how much the consortium can achieve without wider adoption inside the industry -- it's apparently "actively seeking" more members.
+
+
+
+Show full PR textNew Industry Consortium Benchmarks to Simplify and Improve Testing of Mobile Devices
+MobileBench develops and standardizes evaluation tools for the mobile space
+
+Broadcom, Huawei, OPPO, Samsung Electronics and Spreadtrum today announced the formation of MobileBench, a new industry consortium formed to provide more effective hardware and system-level performance assessment of mobile devices. The consortium will initially focus on addressing the need of developers to better understand every element within the mobile platform and deliver optimal system-level performance to enhance the user experience.
+
+"The MobileBench Consortium will make significant inroads in providing objective ways to evaluate a mobile device's performance in the real world. Together with other industry leaders, we will standardize many of the core benchmarking tools that developers and engineers use, as we accelerate innovation in the development of mobile applications."
+
+As telecommunication networks evolve, mobile applications are being pressed to provide users with faster next-generation interfaces, based on clear environmental guidelines and industry parameters. MobileBench will provide mobile platform designers with more useful solutions based on speedy time-to-market analysis, and consumers with more reliable indices for better assessing the user experience. Setting impartial test guidelines and embracing more sophisticated evaluation methodology, the consortium believes its tools will be widely adopted by mobile device designers and engineers, to the benefit of OEMs and consumers alike.
+
+The consortium, which is actively seeking new members, currently has five board members: Broadcom, Huawei, OPPO, Samsung and Spreadtrum. It held its inaugural meeting in Shenzhen today, which was attended by local government dignitaries and mobile device companies.
+
+The MobileBench Consortium plans to soon introduce two professional engineering tracks: the MobileBench for hardware evaluation and the MobileBench-UX for testing system-level applications that address factors affecting the user experience. In the future, the consortium also intends to introduce a test system for consumers to evaluate personal mobile devices on their own.
+
+The consortium's first benchmark tool, MobileBench, is a comprehensive program designed for engineers and system designers, and was publicly demonstrated for the first time at the event. It is a performance assessment tool that expands mobile testing from simply assessing individual components and other conventional factors to include more sophisticated test focuses such as video/image file viewing, video filming, and other specific mobile modes and services to which users can clearly relate.
+
+MobileBench evaluates hardware components. It consists of a mobile device, including core elements such as application processors, popular memory solutions, embedded storage (eMMC) and graphics memory chips. Besides analyzing these basic test areas, engineers can set up detailed parameters such as repetition and intervals, with each test result being monitored in real-time, allowing usage pattern and system status analyses. MobileBench-UX is designed for evaluating user centric applications such as switching among different apps, video shooting and viewing, and phone camera operations. Test results are immediate.
+
+

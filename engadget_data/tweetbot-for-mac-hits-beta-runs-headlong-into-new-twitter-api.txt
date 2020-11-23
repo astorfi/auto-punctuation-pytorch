@@ -1,0 +1,5 @@
+
+ 
+ We've been using the Tweetbot for Mac alpha for several weeks now. It's about time that a more polished beta version arrive, we'd say -- and the new 0.8 revision does its best to justify moving one letter up the alphabet. Most of the upgrade focuses on improved multi-column and keyboard support, along with a heap of bug fixes. The real story, though, may be what Tweetbot can't do. Twitter's tough new API limits put a sharp curb on the number of new users that a third-party developer like Tapbots can bring into the fold. To maximize the number of customers buying the finished version, the company is limiting beta access solely to those who've already linked their Twitter accounts to the alpha; if you aren't already part of the secret club, you're not getting in today. We're still looking forward to the completed Tweetbot release, but the hoop-jumping required to keep the app commercially viable doesn't bode well for any future competition with the official Twitter clients.
+
+

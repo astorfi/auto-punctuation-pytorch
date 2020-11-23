@@ -1,0 +1,7 @@
+
+Remember Microsoft's ID@Xbox program from this past summer, where Xbox One devs get free development kits and access to Microsoft's tools? Well it looks like the devs involved are getting yet another freebie: the Unity game engine. The add-on for Unity enabling Xbox One development launches at some point in 2014, and makes porting games to Xbox One from the popular middleware all the easier.
+
+
+Working with Unity, devs can implement Kinect and SmartGlass functionality as well -- and yes, the work devs do in Unity for Xbox One transfers especially easily to Windows and Windows Phone platforms (the middleware is free for devs on those platforms as well). Should that level of Unity access not be quite enough for you, "special Xbox One-only" Unity Pro licenses will also be provided for devs enrolled in the ID@Xbox program. Now all we have to do is wait, like, at least a year for the fruits of this effort.
+
+

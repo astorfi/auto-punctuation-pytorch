@@ -1,0 +1,15 @@
+
+ 
+
+Remember when we took over Times Square last month? Contrary to comments-based speculation, we didn't drop several years' salary to see our names and faces (and pets) up in lights. We were actually shooting a segment for the Engadget Show about a new service from Times Square2 (TS2). The NASDAQ / Thomson Reuters alliance is working to increase engagement on the giant electronic billboards it controls in one of the most heavily trafficked spots in the US. The organization has designed a free API for developers, making it possible to create applications for its giant ad spaces on the side of the Thomson Reuters and NASDAQ buildings, and it showed us some of the fruits of its labor in the video clip that you'll find after the break.
+
+
+
+
+
+
+ The company has already been been experimenting with such interactivity, making it possible for tweeted hash tags from passersby to show up on the giant screens. The new API, codenamed "Pomegranate," ups the ante on such interactivity -- letting third-party developers create interactive content for use with the displays. When the alliance offered us the chance to play around with the interface -- and control giant signs in one of New York City's most visited tourist spots -- we naturally jumped at the opportunity, displaying our homepage, staff members, and pets (Tim's dogs and Brian rabbit).The interface that we played around with on one of the company's MacBook Airs was fairly straightforward -- really just a blank page where we could enter image URLs. Once entered, the image must be approved by the organization, to avoid anything racy showing up in a spot heavily trafficked by families (and appearing as the backdrop for countless TV shows and films). The whole process takes a few minutes to go from computer to screen. This, of course, is one of the most basic applications of the system -- the company is also looking to offer things like games as means for making content more engaging.The API itself will be available for free. At present, it's only available in a limited trial. Slots on the screens aren't free, of course, seeing as how something like 1.5 million people walk through the area a day, but TS2 will be making a few spots available to developers on an "experimental basis." Interested parties can check our more information about the API by clicking the More Coverage link below.
+
+       
+
+ 

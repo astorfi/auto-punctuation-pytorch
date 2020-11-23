@@ -1,0 +1,17 @@
+
+ Had you been cruising these pages in the early hours of this morning, you'd know that the very first laptop to contain AMD's next generation of discrete graphics chips was quietly put up for sale over in Germany. The chipmaker has now confirmed that this machine -- the Asus Vivobook U38DT -- is indeed shipping, with a Trinity APU and hitherto unknown Radeon HD 8555M GPU on board. At the same, it's made a few promises about what the new discrete graphics components are capable of. These claims include the typically confusing graph above, which at first glance may appear to show an 8000M-series chip trebling the performance of NVIDIA's Geforce 650M (of 15-inch Retina MBP fame), but which actually suggests a 20-70 percent lead over the six-month-old competitor -- and with no information about power consumption to help us make a proper judgment. There are some straightforward factual details too, thank goodness, and you'll find them right after the break.
+
+
+
+
+ 
+ Crucially, all four of the chips being announced today -- the 8500M, 8600M, 8700M and 8800M -- contain AMD's latest 28nm Graphics Core Next (GCN) architecture. This means they're honed for GPU compute and DirectX 11.1, and they also benefit from the latest power-saving features like ZeroCore, which almost completely cuts power to unused cores, and PowerTune, which boosts clock speed to make use of untapped wattage.
+
+ By contrast, only the top-end of 2012's 7000M-series chips could make such boasts. These former premium components will now be shunted through the stack to form the low-end of the 2013 range, which will be 28nm and GCN from head to toe. Today's new releases will form the middle of the new lineup when they arrive in Q1, and we're told that there'll be further additions to flesh out the "enthusiast" end of the spectrum in Q2 2013.
+
+ 
+ You'll just as likely find these 8000M chips paired with an Intel or AMD processor, but here's something to bear in mind if you're shopping around for a Trinity-based system: In a laptop that pairs a Trinity APU with a discrete Radeon HD 8000M, you won't be able to benefit from dual graphics. The laptop will still be able to switch automatically between discrete and integrated graphics in order to save power, but it won't be able to use both at the same time because the two GPUs will be based on different architectures. It's also worth noting that as you spend more on your graphics grunt, you increase the likelihood that Trinity will create a bottleneck and prevent you from taking full advantage, relative to an Intel processor -- an issue Anandtech has illustrated only too well at the More Coverage link.
+
+ Ultimately, we'll have to wait for Trinity's successor to discover what tricks Radeon HD 8000M is really able to pull off in a dual-GPU situation. In the meantime, check out the publicity slides above and stay tuned for more independent coverage as laptops starting hitting shelves and reviewers' benches in the coming weeks.
+
+

@@ -1,0 +1,5 @@
+
+ It's been a real roller coaster ride of emotions with SSD. The once lauded (at least in our hearts) savior of all things computing has, in real life, provided us with lackluster and even controversial performance gains, while battery improvements haven't been revolutionary and the prices still aren't exactly wallet-friendly. Most of that is unlikely to change in the next couple of years, but there's still plenty to be fixed in the short term. Samsung is working with Microsoft to define optimum packet sizes and best practices for reading and writing files to SSD as a potential update for Windows Vista, which is particularly optimized to work best with traditional hard drives. Sun is also working to improve SSD support with its next-gen ZFS file system, which in addition to powering its Solaris OS should be making an appearance in Mac OS X 10.6 Snow Leopard, at least in the server version. There's clearly still plenty of untapped potential in SSD, let's just hope the powers that be figure this stuff out sooner rather than later.[Via Mac Rumors]
+      
+
+ 

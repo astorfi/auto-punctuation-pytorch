@@ -1,0 +1,5 @@
+
+ Yeah, you've got your quad SLI graphics cards and your pricey sound card to offload thoseprocessor intensive duties from the CPU, but what abouta physics processing unit? Ageia is hoping gamers will latchonto their new PhysX card that takes over physics related duties from the CPU, leaving it worry about AI and yourtaxes. Compared to modern GPUs the card sounds ancient, with 128MB of RAM, 130nm manufacturing, and a mere PCIinterface, but it should be enough to deal with the current physics experiments being performed in recent games likeF.E.A.R., Half Life 2, and the forthcoming Unreal Engine 3 which pledges support for the card. Ageia will work withother manufacturers to provide the actual boards, much like NVIDIA does, but there's no word on when the cards willstart to show up in the market.[Thanks, John]UPDATE: It took merely a day ofspeculation to find out about shipping PhysXboards, which are going into Alienware PCs as we speak and should be ready to ship next week. Dell and FalconNorthwest have also been announced as launch partners.
+      
+
+ 

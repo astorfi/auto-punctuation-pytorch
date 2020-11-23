@@ -1,0 +1,16 @@
+
+ 
+
+By now, you should be familiar with the Samsung Galaxy Tab 10.1. We've done countless hands-ons with the super-svelte Honeycomb slate, and even reviewed it... twice! Now it's back, again, and this time its packing an LTE radio tuned to the frequencies of a little company known as Verizon. Outside of a few tiny cosmetic changes -- the brushed, gray plastic back and the rumored Micro SIM slot up top, nothing else has changed. We won't waste too much time rehashing what you already know, but we figured it was worth firing up the latest version, which officially went on sale today, and putting that 4G antenna to the test. You know the routine, keep on keepin' on after the break.
+
+
+
+
+
+  Obviously, the first thing we did once we had the Galaxy Tab powered on was launch the browser and head straight for Speedtest.net. Now, we've done plenty of testing of Verizon's LTE network before, but this time something was different. The data rates we were seeing didn't just put most cable modems to shame, they were competitive with our FiOS connection. We ran the speed test 15 times just to make sure it wasn't some anomaly, and used a few different servers. We averaged 28.25Mbps down and 7.93Mbps up -- the Thunderbolt maxed out at 21.77Mbps. We saw speeds up to a positively face-melting 44.44Mbps down and 9.39Mbps up. Even our ping times were reliably low, never topping 75ms and averaging just shy of 67ms.The connection feels just as fast as those numbers would indicate too. The browser loaded up full desktop sites, even those weighed down with Flash, in no time at all. Engadget popped up just as quickly as did on our Thinkpad and HD clips from the movies section of the Android market started playing almost instantaneously. What isn't clear is why exactly we were seeing such dramatically faster speeds. It's possible that there is beefier hardware inside the Galaxy Tab than in the LTE phones we've seen so far. But, it could also simply be that there were no 4G Verizon customers in the area, allowing us to hog those 700Mhz frequencies. Regardless, we came away impressed. We expected the slate would keep pace with its network peers, but we never anticipated it would so decidedly blow them out of the water.
+
+       
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

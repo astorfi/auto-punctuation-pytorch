@@ -1,0 +1,10 @@
+
+A healthy stream of leaks in the last several months indicated that the latest version of Jelly Bean was right around the corner, and at its press event today Google pulled back the curtain on Android 4.3. Unsurprisingly, the latest software will debut on the new Nexus 7, which was also announced on stage. In addition to shipping with that tablet, the software will be available as an over-the-air update for the Nexus 4, Nexus 10, Galaxy Nexus and first-gen Nexus 7 today. No word on when the larger world of Android devices will receive the latest version, though.
+
+
+The new software adds a restricted profile feature, which lets parents control what content children can view. According to Hugo Barra, who demoed the OS on stage, apps act differently depending on a given user's restriction settings, and the new feature also blocks in-app purchasing (we know how disastrous that can be for unwitting toddlers). Beyond that, the newest version of Jelly Bean adds Bluetooth Smart technology, and there's support for OpenGL ES 3.0, enabling improved details in graphics. A Unity game demo showed us how 3D objects can cast shadows on themselves, along with the ability add lens flare.
+
+
+Perhaps the sweetest feature of all, though, is Netflix streaming in 1080p -- that in and of itself could leave non-Nexus owners more than a little jealous. This goody comes thanks to a new set of DRM APIs to take advantage of HD content on the Nexus. Also on board are Bluetooth AVRCP, dialpad autocomplete, and easier text input. Click through to the source for more info from the Android dev blog, and make sure to follow along with our liveblog.
+
+

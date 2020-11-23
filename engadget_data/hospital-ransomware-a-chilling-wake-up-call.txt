@@ -1,0 +1,38 @@
+
+If you had a loved one in the Hollywood Presbyterian Medical Center during its recent ransomware siege, would you be mad at the digital extortionists or the hospital? For me, the answer would be both.
+
+
+Hollywood Presbyterian declared a state of emergency over the ransomware on February 5th. The hospital issued a statement to press Wednesday evening on the 17th saying, "HPMC has restored its electronic medical record system ("EMR") on Monday, February 15th."
+
+
+The hospital isn't saying exactly when it paid the ransom, but it looks like they waited at least a week to end the file-hostage situation. Hollywood Presbyterian said its payment was 40 bitcoin, around $17K (not the 9K in bitcoin / $3.6 million initially reported).
+
+
+
+During this time, an unnamed doctor told the press the systems responsible for CT scans, documentation, lab work, pharmacy functions and electronic communications were out of commission -- as in, no email. Staff relied on pencil and paper; it was reported that radiation and oncology were temporarily shut down. Hospital president and CEO Allen Stefanek said that the emergency room systems were 'sporadically impacted'. No one died as a result of this ransomware attack, but NBC reported that patients were transferred to other hospitals. It's especially troubling that one doctor reportedly described the situation as "very dangerous."
+
+Here's how it probably went down. The hospital got a malware infection through a tainted email attachment or infected advertising from a website. Ransomware can, and does, happen to literally anyone; it has exploded into an epidemic over the past few years. Dell SecureWorks estimated in 2013 that infamous ransomware CryptoLocker claimed 250,000 victims; in 2015 Symantec reports the average payout is still around $300 each (1 to 2 bitcoin, depending on market value). So many regular people have been caught in the crosshairs that Reddit's r/sysadmin and r/techsupport double as ransomware support networks, along with BleepingComputer.
+
+But let's get back to Hollywood Presbyterian. After the initial infection, the malware got into the hospital's network and went everywhere it could while its presence remained hidden.
+
+After establishing a foothold and communicating back to its home servers, it would have aggressively encrypted all the files it could access (including mapped drives). Then a screen would've appeared explaining to panicked hospital staff that the files are locked until a bitcoin payment is sent (with instructions for sending the money).
+
+Mess with the files or decline to pay and the hospital could forget about ever opening those files again -- but if payment is sent, the victim gets a key to decrypt everything. Usually payment is acknowledged within a few hours; victims currently paying for decryption of Locky ransomware report that multiple PCs on a network are taking around three hours to recover.
+
+A new low for ransom gangsCan you imagine? Teams of dedicated people putting everything on the line to save people's lives ... only to get stopped in their tracks by some greedy asshole's malware asking for the cash equivalent of a used sedan.
+
+The hospital first turned to the LAPD for help with the ransomware. I'm not up to date on the cyber-savviness of the LAPD, but perhaps Hollywood Presbyterian should've turned to some trendy infosec company first. When the Swansea, Massachusetts, police department was hit, the officers paid CryptoLocker's ransom. Police Lt. Gregory Ryan told press that his department shelled out around $750 for two bitcoin -- and admitted his department had no idea what bitcoin is or how malware functioned.
+
+The Hollywood Presbyterian ransomware investigation was eventually taken over by the FBI. Since the FBI advises ransomware victims to just pay up, perhaps the hospital coughed up the bitcoin when the FBI got involved.
+
+But if early reports were true and any delay was to find the culprits, it's troubling. That's because among the countless ransomware variants, there are ones like Critroni which use the Tor anonymity network to make finding the source nearly impossible.
+
+Ransomware is usually indiscriminate, but a few details about Hollywood Presbyterian make this different than a typical attack.
+
+For one, the hospital waited at least a week to pay. Ransomware's hallmark tactic is its timer, ticking down to exert pressure and create panic (usually 48 to 72 hours).
+
+The other curious thing is the ransom itself: 40 bitcoin. As mentioned earlier and in oodles of reports and white papers, ransomware usually costs the victim one to two bitcoin. Did the bigger ransom indicate an attacker's intent to target the hospital? Or was the ransom self-calculated, based on total encrypted files -- perhaps locking up more files than we've been told?
+
+We may never have answers. Although Hollywood Presbyterian returned our calls ... it was only to apologize that they wouldn't answer our questions.
+
+

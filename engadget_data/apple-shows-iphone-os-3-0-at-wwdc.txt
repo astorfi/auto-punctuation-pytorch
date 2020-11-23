@@ -1,0 +1,15 @@
+
+ 
+ digg_url = 'http://digg.com/apple/Apple_shows_iPhone_OS_3_0_at_WWDC';  Apple's showing off iPhone OS 3.0 at WWDC, and while we've seen most of it, there were naturally going to be a few surprises:
+
+Users will now be able to rent and purchase movies from the phone, along with audiobooks.
+MMS will be available from 29 carriers at launch, with AT&T lagging behind into the summer.
+Tethering over Bluetooth and USB for Macs and PCs is also enabled, with 22 carriers announcing support, but AT&T wasn't mentioned among them -- we're not holding our breath.
+New and improved Safari does JavaScript 3X faster, and supports QuickTime X-style HTTP streaming of audio and video. There's also AutoFill for forms, and improved HTML 5 support including audio and video tags.
+Find My iPhone tracks down your phone using MobileMe from any browser. It locates the phone on a map, and also allows you to remote wipe the device, or even play a sound on the phone for locating it around the house -- even when it's on vibrate.
+New dev features have been detailed at length, but they're still around. Features include in-app purchases (but only for apps that were paid to start out with), Bluetooth and dock connector communication with other devices, including other iPhones. Embedded Google Maps in third party apps, including turn by turn apps. Push notifications of text alerts, number badges and sound alerts.
+
+The new OS will be pushed to devices on June 17th, and iPod touch users get to pay $9.95 for the privilege. Developers get to play with the gold master today.
+      
+
+ 

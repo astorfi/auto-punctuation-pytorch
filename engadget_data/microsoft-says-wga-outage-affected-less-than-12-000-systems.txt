@@ -1,0 +1,5 @@
+
+ 
+With Microsoft's WGA servers patched up after last week's outage, the company now appears to be willing to get a bit more specific about the situation and the damages done. In a post on the official Windows Genuine Advantage blog, Microsoft's Alex Kochis revealed that " fewer than 12,000 systems were affected worldwide" and that "many of those have already revalidated and are fixed." As for how the situation arose, it seems that Microsoft was in the dark initially, first learning of it "through a combination of posts to our forum and customer support." Curious about the matter, Ars Technica asked Microsoft for more information about the outage and why no backup had been put in place, but was apparently told by a spokesperson that "Microsoft is still determining the answer to these questions."[Via Ars Technica] 
+
+ 

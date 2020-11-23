@@ -1,0 +1,7 @@
+
+ 
+ If a payment terminal could be forced into servitude as a crude handheld gaming device, what else could it be made to do? Researchers at the Black Hat conference showed just what mischief a commonly used UK PoS terminal could get up to when they inserted a chip-and-pin card crafted with malicious code. That enabled them to install a racing game and play it, using the machine's pin pad and screen. With the same hack, they were able to install a far less whimsical program as well -- a Trojan that could record card numbers and PINs, which could be extracted later by inserting another rogue card. On top of that, criminals could use the same method to fool the terminal into thinking a transaction was bank-approved, allowing them to walk out of a store with goods they hadn't paid for. Finally, the security gurus took a device popular in the US, and used non-encrypted ethernet communication between the terminal and other peripherals to hack into the payment device and take root control. Makes you want to put those credit cards (and NFC devices) away and stick to cash -- at least you can see who's robbing you blind.
+
+ [Original image credit: Shutterstock]
+
+

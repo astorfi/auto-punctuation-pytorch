@@ -1,0 +1,9 @@
+
+
+Even the prettiest mobile games tend to look a bit ugly, with simple lighting effects that remind you that you're not using a more powerful console or PC. If Imagination Technologies has its way, though, those pocket-sized games will be truer to life. Its newly unveiled Wizard architecture brings ray tracing, a technique that calculates the path of every light beam in a 3D scene, to the company's PowerVR mobile graphics cores. You can see the resulting visual boost in the picture above: every light casts a shadow, glass is more realistic and reflections accurately portray the surrounding world. The first core to use Wizard is the high-end GR6500, which companies can license for their mobile processors. Imagination hasn't named customers, but we'd note that Apple and Intel are among two of its clients -- don't be surprised if your next iPhone or Windows tablet is a graphics powerhouse.
+
+
+
+
+
+ 

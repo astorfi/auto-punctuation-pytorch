@@ -1,0 +1,24 @@
+
+3D Robotics has made it pretty clearly that it's all about the maker community. But what about those who can't tell their Arduino from a Raspberry Pi? The Chris Anderson-run company today announced the release of Iris, an out-of-the-box, user-friendly quadcopter experience. The drone can be controlled with an Android device (iOS coming soon), including single button takeoffs and landings. There's an ARM Cortex-M4 processor and a built-in data radio on-board, the latter of which will help you check out flight paths in real-time. There's also a spot for a GoPro Hero3, though that, naturally, will cost you ($400) extra. The configurable copter starts at $730. It's set to ship on September 16th.
+
+
+
+Show full PR textToday 3D Robotics (3DR) announced Iris - an advanced quadcopter with full GPS-guided autonomous capabilities. Iris is designed to provide an "out-of-the-box" flying experience that brings the power of professional grade aerial robotics to the mass market.
+Iris can be controlled by an Android tablet or phone (iOS coming soon) or through a nine-channel radio control transmitter (included). With a mobile app, takeoff and landing can be done with a single touch, and mission planning is as simple as tapping on a map and drawing a path that Iris will follow.
+3DR's newest quadcopter is designed with a wide angle between the front arms to provide a clear view for its onboard camera, an optional GoPro Hero3 ® that can also be included in the package. The arms and legs are produced from Zytel Nylon ® for the ultimate in wear, abrasion and impact resistance. They come in various colors, and are easily and inexpensively replaced if required.
+Iris sports a high-performance 32-bit autopilot system built on an ARM Cortex-M4 processor that runs a real-time operating system and uses the latest ST Microelectronics sensors. The flight code represents over four years of professional development and testing in a community of over 40,000 users. Iris also features an integrated power-distribution/motor-control board to reduce weight and increase available payload capacity. All of Iris's electronics are housed under a sleek shell that provides impact protection and aerodynamic efficiency.
+Iris includes an impressive list of features that are unequaled at the price point:
+Multiple control options provide redundancy and flexibility: RC, computer, phone, tablet
+Built-in data radio for real-time mission monitoring, data-logging, and control
+Powerful cross-platform ground station/mission planning and analysis software that runs on Windows, OS X and Linux, providing simple point-and-click programming and configuration
+Mobile apps allow intuitive "draw a path" mission-planning
+Camera options include a live video link with programmable on-screen-display, and will soon support a fully integrated stabilized camera gimbal with autopilot control
+GoPro® compatible camera mount
+Available with a 9-channel RC transmitter pre-programmed for the most popular flight modes.
+Pre-programmed GPS waypoints allow for professional-grade mission capabilities, such as mapping, scripted cinematography, scientific research, and other applications where repeatable flight plans are required
+Auto takeoff and landing along with Return-To-Launchpoint command at the press of a button or under programmable failsafe conditions
+Follow Me function for the ultimate "selfies". In this mode, Iris will follow (at an adjustable distance) any ground station device equipped with a GPS antenna and one of our 3DR telemetry/control radios
+Geo Fencing provides a virtual box to keep your drone within a user-selectable space
+Open source flight code, ground station software and electronics are all freely distributed under standard open source licenses. This means that Iris' capabilities are always improving and expanding with a simple firmware update!
+Ready-to-fly Iris packages are currently available for pre-order from 3D Robotics and will begin shipping September 16th. These pre-ordered vehicles are intended for developer-level users who are familiar and comfortable with operating multi-rotor vehicles from 3D Robotics. A full consumer release of the product will follow shortly thereafter.
+

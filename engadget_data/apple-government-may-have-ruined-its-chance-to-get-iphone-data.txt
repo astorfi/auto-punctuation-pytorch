@@ -1,0 +1,18 @@
+
+The fight between Apple and the government over San Bernardino shooter Syed Rizwan Farook's iPhone 5c heated up today with the Department of Justice filing another motion to force the company to comply to the FBI's request for help circumventing the phone's passcode. The Cupertino-based technology company struck back later in the day saying that after the government took possession of the phone, the Apple ID passcode was changed and that halted any potential iCloud auto backups.
+
+
+
+A senior Apple executive told reporters during a conference call today that if the phone had backed up to iCloud, Apple would have handed the information it received from the device to the government.
+
+According to the motion filed today, a San Bernardino county employee changed the Apple ID passcode online after the shooting incident. While conferring with authorities, Apple offered suggestions on how to get the information the FBI wanted off the phone. One of those was plugging the phone in and allowing it to connect to a known WiFi network to trigger an auto backup. Either at Farook's home or at the office.
+
+When the the government said that it wasn't working, it was discovered that the Apple ID passcode had been changed and with that, the opportunity to auto backup the phone to iCloud was no longer possible.
+
+The government says that backups ceased in mid-October. It's unknown if Farook turned off the function or if the phone was unable to auto backup because it wasn't charging in an area with a known WiFi network. There is the possibility that even if the Apple ID passcode had not been changed, the phone would still not have backed. The FBI was able to get previous backups from iCloud.
+
+The senior Apple executive contended that it has, and would comply with lawful orders to produce data and information that it has in its possession. In this instance, the government is asking the company to not only build new software, but circumvent the security of its devices.
+
+So if the auto backup had worked and Apple had the data, it would have handed it over to the government for the investigation. Instead, the United States is asking for crippled build of iOS to get around the phone's security which Apple contends would compromise it's customers' safety and privacy.
+
+

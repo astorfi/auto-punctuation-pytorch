@@ -1,0 +1,6 @@
+
+  
+It looks like you might have to think twice before flipping that old iPhone on eBay when the 3G version finally hits -- it appears that restoring the phone doesn't actually erase the contents of the flash, meaning that your data is available to anyone with the proper tools until it's overwritten. Making matters worse, it appears that Apple doesn't do a low-level format when refurbishing iPhones either -- an Oregon State Police detective was able to use forensic software to pull files, emails, and screenshots off an out-of-the-box refurbished iPhone. This actually shouldn't be surprising to anyone -- we've seen several utilities that access "deleted" portions of storage -- but since Apple doesn't provide users direct access to the iPhone's filesystem, it's basically impossible to clear your personal data off the device short of restoring and filling the disk with junk data. Hopefully iPhone 2.0's Exchange-based "remote wipe" feature is a bit more secure, eh?[Via TUAW]
+      
+
+ 

@@ -1,0 +1,14 @@
+
+
+
+The Department of Justice is trying to get Apple to unlock a defendant's iPhone. While Apple has stated that it can technically bypass the phone's passcode security, it has so far refused to do so for various reasons. So the DOJ has come up with a new strategy, force Apple to comply because it licenses the software on the phone. Because of that, the DOJ contends that the iPhone maker actually has a relationship with the phone that's currently evidence in a case. In a reply to Apple's response to the court order to unlock the phone, the government states, "Apple cannot reap the legal benefits of licensing its software in this manner and then later disclaim any ownership or obligation to assist law enforcement when that same software plays a critical role in thwarting execution of a search warrant." In other words, it's your software Apple, not the defendant's, unlock it.
+
+
+
+The government's strategy is a reaction to Apple's refusal to comply with a court order to unlock an iPhone 5s. In its response to the order Apple lawyers stated, "forcing Apple to extract data in this case, absent clear legal authority to do so, could threaten the trust between Apple and its customers and substantially tarnish the Apple brand." It also noted that unlocking the phone would eat up resources and might not even yield any information. Plus, just for good measure, it would be impossible to circumvent the passcode of any iPhone running iOS 8 and later. The phone in question is running iOS 7.
+
+As expected, the government isn't too happy about not having access to the phones of defendants. Apple CEO Tim Cook has been on a privacy crusade recently. He recently said that people have a, "fundamental right to privacy." Cook has also insisted that the government does not have a backdoor into Apple's servers.
+
+As Boing Boing points out, if the government succeeds with this argument, it opens up a terrifying precedent. Nearly every piece of technology has software that is licensed and not sold to the end user. All of those companies could be compelled to unlock, decrypt and allow the authorities access to these devices because it doesn't belong to the defendant, it belongs to the person that owns the software.
+
+

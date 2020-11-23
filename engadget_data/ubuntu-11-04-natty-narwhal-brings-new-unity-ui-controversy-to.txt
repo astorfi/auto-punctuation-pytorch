@@ -1,0 +1,8 @@
+
+ 
+It's April, the fourth month of the year, and that means it's time for a new Ubuntu release. (This also true of the tenth month of the year -- those Canonical folks like to keep busy.) Ubuntu 11.04, or Natty Narwhal as the kids are calling it, is here and packing some significant changes from earlier editions of the Linux distro. The most obvious being the arrival of the Unity desktop environment, which was previously relegated to netbooks. It's got integrated search, a combination launcher and taskbar, and app menus that have been moved to the top of the screen à la OS X -- basically it's harvested the best ideas from Apple and Microsoft and splashed a pretty coat of aubergine paint on it. The new UI is not without its detractors and reportedly has some stability issues, but you can always choose "Ubuntu Classic" to stick with Gnome. The update also makes Firefox 4 the default browser and replaces the Rhythmbox music manager with the sleeker and more functional Banshee. Hit up the source link to download the 700MB ISO -- it's free and you can try it without installing, so what's there to lose?
+
+[Thanks to everyone who sent this in]
+      
+
+ 

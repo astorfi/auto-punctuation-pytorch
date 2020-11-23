@@ -1,0 +1,14 @@
+
+ 
+Google just demoed Chrome OS running on a piece of reference hardware at its event in SF. It just takes four steps and less than a minute to set up a brand-new Chrome OS machine -- it pulls all your Chrome themes and settings from the cloud, so it's ready to go almost right away, and changes can propagate in less than a second in some cases. The reference machine demoed was able to come back up from sleep almost instantly -- Google says the limiting factor is actually how fast the user can move their hand. (It wasn't that fast in the demo, but it was still really fast.) The OS also supports multiple accounts with a guest account that runs in Incognito mode, and all user data is encrypted by default. The OS itself is loaded on read-only memory that can't be altered without physical access -- a tech which enables verified booting. (A "jailbreak mode" switch on the developer units lets you install whatever you want, but we'll see what the final machines support.) What's more, the OS will be automatically updated every few weeks -- the goal is for it to get faster over time, not slower.
+
+There's also offline capability -- Google Docs was demoed running offline, with changes synced when the machine reconnects. It seems like that's an app-specific feature though -- apps on the Chrome Web Store have to be built for HTML5 offline to work, obviously. Google also demoed Google Cloud Print, which allows you to print on your home printer from anywhere. Chrome OS devices will also be able to use new Verizon 3G plans for offline access -- you'll get 100MB of free data per month for two years, and then plans start at $9.99 for a day of "unlimited access" with no contracts required. (There will eventually be international options, but those weren't detailed.)
+
+There are still some unfinished bits though -- there's no support for the USB ports on the machines yet, and there are still some performance tweaks and bug fixes to come. (Don't expect ever being able to connect a printer, as the company thinks its Cloud Print service is a better option.) The OS will come on Intel-based machines from Acer and Samsung in mid-2011 -- and "thousands of Googlers" are using Chrome OS devices as their primary machines. An unbranded 12-inch reference machine called Cr-48 will be available for developers -- read more about that here.
+
+Overall, Chrome OS is very much a modern riff on the "thin client" idea from the 90s -- an idea that Eric Schmidt himself pioneered while at Sun. Indeed, Schmidt took the stage at the event to explicitly draw the connection, saying that "our instincts were right 20 years ago, but we didn't have the tools or technology." That's a pretty wild statement -- and now Google has to deliver.
+
+
+
+
+Developing...

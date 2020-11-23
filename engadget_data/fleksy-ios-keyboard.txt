@@ -1,0 +1,6 @@
+
+ 
+
+At long last, the default iOS keyboard is no longer your only option when it comes to text input on an iOS device. That is, if the app you're using has signed on to a new SDK released today by Syntellia's Fleksy, a predictive touch keyboard that exited its Android beta just last week. Fleksy actually debuted a standalone iOS app over a year ago as an option for those with visual impairments, which was recently updated to 2.0 to play nicer with iOS 7. Its new SDK, however, lets developers incorporate Fleksy as an alternate keyboard in any app, a first in iOS history. So far the only programs that have confirmed Fleksy as a keyboard option are Wordbox, GV Connect, Launch Center Pro and Blindsquare. Unfortunately, users are unable to install Fleksy on a deeper OS level, so you'll have to be on the lookout to see if any of your favorite apps get on the Fleksy bandwagon. While we wait for that to happen, iOS users can go on and try any of those aforementioned apps to finally get a feel for a freedom Android users have had for awhile now. 
+
+ 

@@ -1,0 +1,50 @@
+
+Amongst the significant changes and feature enhancements we've already seen on iOS 7, it appears that AirDrop will be featured in the new version of Apple's mobile operating system. The file-sharing feature will be available on the iPhone 5, iPad 4th gen, iPad mini and 5th-gen iPod touch, but apparently nothing earlier than that. The peer-to-peer feature was briefly shown off at WWDC in the Control Center, and it means there is "no need to wander around the room bumping your phones." We wonder if this means we shouldn't expect any NFC capabilities in the next version of the iPhone or iPad, but it's still a little too early to make that correlation.
+
+
+Here's Apple's official statement on AirDrop for iOS7:
+
+
+
+"AirDrop is an entirely new way to quickly and easily share content with people nearby. When you've got something you want to share, AirDrop shows you your contacts close by. Just select who you want to share with and AirDrop does the rest. AirDrop transfers are peer-to-peer so you can use it anywhere, without any network or set up required, and transfers are fully encrypted so your content is protected and private."
+
+
+
+Follow all of our WWDC 2013 coverage at our event hub.
+
+
+Show full PR textApple Unveils iOS 7Completely Redesigned With Stunning User Interface & Great New FeaturesSAN FRANCISCO―June 10, 2013―Apple® today unveiled iOS 7, the most significant iOS update since the original iPhone®, featuring a stunning new user interface. iOS 7 is completely redesigned with subtle motion, an elegant color palette and distinct, functional layers that make it feel more alive. The typography has been refined for a cleaner, simpler look, and the use of translucency and motion makes even simple tasks more engaging. iOS 7 has hundreds of great new features, including Control Center, Notification Center, improved Multitasking, AirDrop®, enhanced Photos, Safari®, Siri® and introduces iTunes Radio™, a free Internet radio service based on the music you listen to on iTunes®.
+
+"iOS 7 is the most significant iOS update since the original iPhone," said Craig Federighi, Apple's senior vice president of Software Engineering. "To create it, we brought together a team with a broad range of expertise from design to engineering. With what we've been able to achieve together, we see iOS 7 as an exciting new beginning."
+
+"There is a profound and enduring beauty in simplicity, in clarity, in efficiency. True simplicity is derived from so much more than just the absence of clutter and ornamentation-it's about bringing order to complexity," said Jony Ive, Apple's senior vice president of Design. "iOS 7 is a clear representation of these goals. It has a whole new structure that is coherent and applied across the entire system."
+
+iOS 7 is completely redesigned with an entirely new user interface, but will be instantly familiar to the hundreds of millions of iPhone, iPad® and iPod touch® users around the world. The new interface actually makes your phone appear bigger because everything is designed to take advantage of the entire screen. The redesigned fonts look amazing on the Retina® display, creating even sharper text.
+
+iOS 7 introduces Control Center. Now the controls you want to access quickly are all in one convenient place. With just one swipe from the bottom of your screen, you have access to controls for Airplane Mode, Wi-Fi, Bluetooth or Do Not Disturb, and the ability to adjust screen brightness, pause or play a song, jump to the next track and stream your music with AirPlay®. Control Center also gives you instant access to apps such as Clock, Camera, Calculator and the Flashlight.
+
+With iOS 7, Notification Center is now available from the Lock screen so you can see all your notifications with a simple swipe, and the new Today feature in Notification Center gives you an at-a-glance view of your day with a summary of the important details such as weather, traffic, meetings and events.
+
+With improved Multitasking in iOS 7, developers have the ability to enable any app to multitask in the background with a new API. Users have the ability to switch between their apps in a more visual and intuitive way, and iOS 7 pays attention to which apps you use most and automatically keeps your content up to date in the background.
+
+AirDrop is an entirely new way to quickly and easily share content with people nearby. When you've got something you want to share, AirDrop shows you your contacts close by. Just select who you want to share with and AirDrop does the rest. AirDrop transfers are peer-to-peer so you can use it anywhere, without any network or set up required, and transfers are fully encrypted so your content is protected and private.
+
+iPhones are used to take more photos around the world every day than any other camera, and with iOS 7 the new Camera app features filters so you can add real-time photo effects. The Camera app now includes a square camera option, and you can quickly and easily switch between your four cameras-video, photo, square and panorama-with just a swipe.
+
+iOS 7 includes a redesigned Photos app that introduces Moments, a new way to automatically organize your photos and videos based on time and location. You can zoom out to see all your photos organized by Moments, Collections of Moments and Years. iOS 7 includes iCloud Photo Sharing, the easiest way to share just the photos you want with just the people you want. With iCloud® Photo Sharing, family and friends can contribute their own photos and videos to your shared photo streams, and the new Activity view displays updates from your shared streams all in one place.
+
+Safari's redesigned user interface lets you see more of your content-starting with full-screen browsing. The new smart search field helps simplify searching, and there's a new view for your bookmarks and your Safari tabs. With iCloud Keychain®, your passwords and credit card information are securely stored and available on all your devices, so navigating password protected sites or autofilling during transactions is simple and secure. Enhanced Parental Controls allow you to automatically block access to adult websites or only allow access to a specific set of permitted websites.
+
+Siri sounds better than ever with new male and female voices and includes Twitter search integration, so you can ask Siri what people are saying on Twitter*. Siri also now has Wikipedia integration, providing access to the world's most popular Internet reference site. Siri offers Bing web search within the app and the ability to change device settings and play back voicemail.
+
+The Music app has a beautiful new design and includes the new iTunes Radio, a free Internet radio service featuring over 200 stations and an incredible catalog of music from the iTunes Store®, combined with features only iTunes can deliver. iTunes Radio is the best way to discover new music. When you tune into iTunes Radio on your iPhone, iPad, iPod touch, Mac®, PC or Apple TV®, you'll have access to stations inspired by the music you already listen to, Featured Stations curated by Apple and genre-focused stations that are personalized just for you. iTunes Radio evolves based on the music you play and download. The more you use iTunes Radio and iTunes, the more it knows what you like to listen to and the more personalized your experience becomes. iTunes Radio also gives you access to exclusive "first listen" premieres from top selling artists, Siri integration plus the ability to buy anything you hear with just one tap.
+
+With over 900,000 apps, the App Store℠ is the world's largest app marketplace. iOS 7 now features Popular Apps Near Me, a new way to find apps based on your current location, and iOS 7 will automatically keep your apps up to date. The App Store also comes with a new Kids category, allowing teachers and parents to easily discover apps for children by age.
+
+Additional new iOS 7 features include:
+
+a new Find My iPhone Activation Lock feature that requires your Apple ID and password before you can turn off Find My iPhone, erase data or re-activate a device after it's been remotely erased;Night Mode in Maps that responds to ambient light when you use it in the dark;FaceTime® audio for high quality calls over a data network;Notification sync, so when you dismiss a notification on one device it is dismissed on all of your devices;Phone, FaceTime and Messages blocking to prevent specific people from being able to contact you;Tencent Weibo support for users in China, a Chinese-English bilingual dictionary, and improved Chinese input including handwriting recognition for multiple Chinese characters;the ability for businesses to more efficiently deploy and manage iPhones and iPads; andenhanced in-car integration, bringing an Apple designed experience into the car for the first time.
+
+The iOS 7 beta software and SDK are available immediately for iOS Developer Program members at developer.apple.com. iOS 7 will be available as a free software update for iPhone 4 and later, iPad 2 and later, iPad mini and iPod touch (fifth generation) this fall. Some features may not be available on all products.
+
+

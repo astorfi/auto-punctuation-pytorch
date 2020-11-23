@@ -1,0 +1,5 @@
+
+ Rarely do you hear of new chips sneaking out of Intel, Escape from Alcatraz-style. But that's (figuratively) happened today, with a quartet of processors appearing with little fanfare from Chipzilla. Two of these you might recognize as members of the delayed Cedar Trail series, the D2500 and D2700. The former clocks at 1.86GHz and 2.13GHz, with the latter upping that to 2.13GHz and 2.4Ghz; both have a thermal design power of less than 10W. The other two chips sip power even more judiciously: the N2600 has a TDP of less than 3.5W at 1.6GHz or 1.86GHz; the N2800 has a 6.5W TDP, running at 1.86GHz or 2.13GHz. All include GPUs, with the N2000 series destined for netbooks, while the D2000 series should end up in nettops. To dig deeper into the specs, see Intel's datasheet at the source link below.
+      
+
+ 

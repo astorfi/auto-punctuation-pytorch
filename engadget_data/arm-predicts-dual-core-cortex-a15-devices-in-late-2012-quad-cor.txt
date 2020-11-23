@@ -1,0 +1,6 @@
+
+ 
+Smartphones and tablets, the two hottest categories of consumer devices right now, are dominated by ARM processor designs, so when the company speaks up about its product roadmap, we're inclined to listen in close. The next generation of ARM system-on-chip has been dubbed Cortex-A15 and was expected to ship in 2013, but that's now been accelerated slightly to late 2012, which is when we're told to expect actual devices on sale with A15 silicon on board. Single- and dual-core variants will get us started, before quad-core options start filtering through in 2013. ARM promises a stunning fivefold improvement in performance over current Cortex-A9 SOCs and already has NVIDIA, Samsung, ST-Ericsson, and Texas Instruments signed up as licensees for that new hotness. So now even Samsung's "desktop-class" 2GHz dual-core chip that's slated for 2012 has a reason to look over its shoulder. Happy times!
+      
+
+ 

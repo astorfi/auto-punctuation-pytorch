@@ -1,0 +1,9 @@
+
+ 
+Most Wiimote hacks we get involve using the little white wonder as a cheap substitute controller for things that are somewhat difficult to operate, like immersive 3D simulators and robot arms. On the other hand, blowing hours of your life hacking a Wiimote just to unlock a door deserves a special mention for sheer absurdity of purpose. Dissatisfied with their existing smartcard setup, a group of Japanese fanboys rigged up their, um, FreeBSD door controller (doorputer?) to accept Bluetooth input from Wiimotes. A simple flick of the wrist triggers the lock motor, allowing you to pass into the next room ready to explain why you're wandering around with a Wiimote strapped to your wrist for no apparent reason. We see only two problems with this setup: first, since the system only authenticates users via Bluetooth addresses, it's far less secure than, you know, keys; and second, everyone knows Linux runs a doorputer like, so much better than BSD. Video of the Wiimote in action after the jump, plans at the read link.[Via Hacked Gadgets]
+      
+
+ 
+
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+
+
+	You'd think that with Tegra 3 shipping in the Transformer Prime and all, we'd know everything there is to know about the new SoC. Apparently not. NVIDIA just announced DirectTouch, a technology exclusive to its Tegra 3 platform that uses that bonus fifth core for to improve touch detection. So what does a low-power core have to do with the touch experience, you say? Essentially, what's going on is NVIDIA's PRISM Display technology separates color and backlight intensity to save battery life while preserving fidelity. In a demo, the technology looked mighty smooth, though we'll need to get hands-on ourselves and see the technology in action for more than five seconds before we can weigh in on its utility.
+
+Billy Steele contributed to this report.
+ 

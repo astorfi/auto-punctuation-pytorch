@@ -1,0 +1,13 @@
+
+ 
+ If there's a large display as part of your workstation, you know how difficult it can be to keep track of all of your windows simultaneously, without missing a single update. Now imagine surrounding yourself with three, or four, or five jumbo LCDs, each littered with dozens of windows tracking realtime data -- be it RSS feeds, an inbox or chat. Financial analysts, security guards and transit dispatchers are but a few of the professionals tasked with monitoring such arrays, constantly scanning each monitor to keep abreast of updates. One project from the MIT Media Lab offers a solution, pairing Microsoft Kinect cameras with detection software, then highlighting changes with a new graphical user interface.
+
+ Perifoveal Display presents data at normal brightness on the monitor that you're facing directly. Then, as you move your head to a different LCD, that panel becomes brighter, while changes on any of the displays that you're not facing directly (but still remain within your peripheral vision) -- a rising stock price, or motion on a security camera -- are highlighted with a white square, which slowly fades once you turn to face the new information. During our hands-on demo, everything worked as described, albeit without the instant response times you may expect from such a platform. As with most Media Lab projects, there's no release date in sight, but you can gawk at the prototype in our video just after the break.
+
+
+
+
+
+ 
+
+ 

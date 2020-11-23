@@ -1,0 +1,81 @@
+
+
+After years of getting little respect, Chromebooks are finally on the rise (at least in schools), which means every major PC maker is trying to get in on the action. That includes chip makers too, like NVIDIA. Though the company previously shied away from Chrome OS devices, it's now pledging to power a whole range of different Chromebooks with its Tegra K1 chip, each of them promising long battery life and more graphics muscle. The Acer Chromebook 13 is the first of the bunch, and while some of you might be Chromebook'd out, we were actually excited. Here was a $300 laptop boasting at least 11 hours of battery life, a 1080p display option and enough horsepower to clobber Intel at things like gaming and rich websites. As it turns out, it was all just a little too good to be true.
+
+
+
+
+
+Hardware
+Looking at the Chromebook 13's spec sheet, you'd assume design was the main place where Acer cut corners. And you wouldn't exactly be wrong. The machine is fashioned entirely out of plastic, with certain parts, like the bezels and bottom side, actually feeling a bit rough to the touch. Next to the Samsung Chromebook 2, which sports a fake-leather lid, this is clearly the cheaper of the two. Acer's model is also about a quarter-pound heavier, at 3.31 pounds and 0.71 inch thick, versus 3.06 pounds/0.65 inch for the Chromebook 2. If you want something as light as a 13-inch Ultrabook, you better be prepared to pay an extra $100 for the Samsung.
+
+Still, compared to Acer's older Chromebook, the C720, this is a marked improvement. Whereas the 11-inch C720 is small and cramped, like a netbook, this 13-incher is broader, with a more spacious keyboard and a wide touchpad to match. The design is simpler, too. Yes, it's plastic, but the all-white look is at least clean and modern-looking. Also, not that the lid and palm rest pick up scratches easily, but if they did, they'd be all but invisible thanks to the white paint job.
+
+Even if Acer's design here is on the plain side, it's all worth it when you see the display. For all the scaling-back Acer did with the rest of the chassis, the screen here is quite nice for a Chromebook, especially one this size. What we have here is a bright, 1,920 x 1,080 display with a matte finish that allows for some relatively wide viewing angles, especially from the sides. Even so, there's only so much you can dip the lid forward before the panel starts to wash out. This, I'm afraid, is a problem across all Chromebooks -- even on models with sharper, 1080p screens, I've yet to see one with truly good viewing angles. Chalk it up to PC makers trying to keep hardware costs down, I guess.
+
+
+As I hinted earlier, the keyboard here is nice and big -- a perk of choosing a 13-inch Chromebook over an 11-inch one. That means all of the major keys (Shift, etc.) are amply sized and easy to strike without looking. That said, the keys don't seem to have much more travel than they did on the C720, which means I once again found myself having to re-type things after my key presses didn't register the first time. Even so, I found it usable, and I think you will too. On a brighter note, the touchpad is nice and big, and responds well to both single-finger tracking as well as multi-touch gestures like pinch-to-zoom.
+
+Around the edges, the Chromebook 13 has all the same ports as competing devices, which is to say it sports two USB ports, an HDMI socket, a full-sized SD card slot and a headphone jack. You might not know it at first glance, though: Whereas most machines stack all the ports along the right and left sides, the Chromebook 13 has a USB and HDMI port tucked around on the back, out of sight. So, it might seem at first like Acer was stingy -- that it could only be bothered to include one USB port, a memory card slot and an audio port. But that's just the extent of what you can see when the machine is in front of you.
+
+Performance and battery life    SunSpider v.1.0.2* Google Octane Mozilla Kraken*     Acer Chromebook 13 (NVIDIA Tegra K1, 2GB RAM) 609ms  7,051
+
+   4,816ms
+
+    Lenovo N20p (Celeron N2830, 2GB RAM) 567ms  7,288
+
+   4,287ms
+
+    ASUS C200 Chromebook (Celeron N2830, 2GB RAM) 483ms  7,198
+
+   4,291ms
+
+    Acer C720 Chromebook (Core i3-4005U, 4GB RAM) 289ms  14,530
+
+   2,113ms
+
+    Acer C720 Chromebook (Celeron 2955U, 2GB RAM) 342ms  11,502
+
+   2,614ms
+
+      Dell Chromebook 11 (Celeron 2955U, 4GB RAM) 340ms  11,533
+
+   2,622ms
+
+    Toshiba Chromebook (Celeron 2955U, 2GB RAM) 324ms  11,307
+
+   2,626ms
+
+     *SunSpider and Kraken: Lower scores are better.
+   To recap what I said in the very first paragraph of this review, the Acer Chromebook 13 is the first Chrome OS device to make use of an NVIDIA Tegra chip -- specifically, the quad-core K1 processor already used in some tablets. To hear NVIDIA tell it, the chip is better than Intel's Bay Trail processors (the ones inside most Chromebooks) in every way possible. That's not quite true. In single-thread JavaScript tests like SunSpider, Mozilla Kraken and Google Octane, the Chromebook 13 performs in line, if not slightly worse than, Bay Trail Chromebooks like the Lenovo N20p. In daily use, it cold-boots in nine seconds and can sign off in about four -- not bad for a Chromebook, but not exceptional, either.
+
+NVIDIA, for its part, doesn't deny the less-than-impressive JavaScript results, though it's quick to suggest some WebGL tests instead that are more likely to showcase Tegra's graphics muscle. Indeed, in an animated Gangnam Style video (don't ask), Acer Chromebook 13 runs between 50 and 60 fps, while the Lenovo N20p's Bay Trail processor could barely crack 24 fps. (I used Google Chrome's built-in frame-rate counter.) In the benchmark Oort Online, the Chromebook 13 scored an average of 4,007, compared with 1,300 for the N20p. In this 3D Earth model, Acer peaked in the high 50s, with frame rates mostly hovering in the 30s and 40s; with the N20p, frame rates stayed in the 20s and 30s, depending on how fast I spun the globe around. Finally, in NVIDIA's own multitasking test, which involves running a Google Sheets macro with music streaming in a different tab, I saw a 21 percent improvement in speed on the Acer Chromebook 13: 46 seconds, down from 58 on the Lenovo N20p.
+
+This would be a good time for me to back up and put all that in plain English. What it comes down to is this: The Acer Chromebook 13 does well on some tests, particularly the ones that NVIDIA itself recommends. Otherwise, its performance falls in line with the very Bay Trail-powered machines that NVIDIA claims to beat. Either way, the Chromebook 13 doesn't feel faster than other Chrome OS devices in real-world use. It doesn't feel slower either, but that's not saying much, given that Chromebooks generally aren't known for their stellar performance. On the plus side, the machine stays nice and quiet, and it runs cool. Ultimately, if you buy the Chromebook 13, it should be because of the price, the 1080p screen, the long battery life -- not because you're expecting superior computing power.
+
+     Battery life
+
+      Acer Chromebook 13 10:07   ASUS C200 11:19   Dell Chromebook 11 8:37   Samsung Chromebook 2 (13-inch) 8:22   Toshiba Chromebook 8:15   Acer C720 Chromebook (Intel Core i3) 7:53   Acer C720 Chromebook (Intel Celeron) 7:49   Samsung Chromebook (2012) 6:33   HP Chromebook 11 5:08   Chromebook Pixel 4:08 (WiFi)/3:34 (LTE)   HP Pavilion 14 Chromebook 3:35   Samsung Chromebook Series 5 550 3:23   Acer C7 Chromebook 3:16    NVIDIA's performance claims may have fallen short, but the battery life here is just about as long as promised. On the 1080p model, which is rated for up to 11 hours, we got 10 hours and seven minutes of continuous video playback. That's admittedly a grueling test, too, so I have no doubt that with a lighter workload and more conservative brightness settings, the machine could've made it to the 11-hour mark and then some. If you go with the lower-end Chromebook 13, which has a 1,366 x 768 display, you can expect up to 13 hours of runtime, according to Acer. I unfortunately didn't get to benchmark one of those, so I can't vouch for that particular performance claim. If it's true, though, that would make it the longest-lasting Chromebook on the market.
+
+SoftwareThough we've been reviewing quite a few Chromebooks over the past few months, the software experience hasn't changed much in that time. If you're just tuning in, though, here's a quick primer on what to expect. Chrome OS has slowly gotten better at letting you do things offline -- users have long been able to use Gmail and Google Drive without an internet connection. Recently, too, Google made it so that you can watch Google Play movies and TV shows offline -- a useful feature if ever you find yourself on a long plane ride. Other recent improvements include pinch-to-zoom, better file management and the ability to upload photos to Google+ in the background. Speaking of G+, the Acer Chromebook 13 comes with 100GB of free Google Drive storage -- a standard perk for Chromebook users.
+
+Configuration options and the competition
+The Chromebook 13 starts at $280 and is available in four configurations. The lowest-end edition has a 1,366 x 768 display, 2GB of RAM and a 13-hour battery. Step up to the $300 mark, and you actually have two options at that price: a 1080p screen with 2GB of RAM, or a 1,366 x 768 display with 4GB of RAM. If you want it all -- a full HD screen with four gigs of memory -- you can have it, for $380. Oh, and by the way, in case you're wondering, almost all of these configurations have 16GB of built-in storage (the high-end one has 32GB).
+
+As for everything else on the market, well, I'm not really helping you if I list off every single option. But I can recommend a few notables. First of all, if you're looking for something on par with the Chromebook 13, its most obvious competitor would be the 13-inch Samsung Chromebook 2, which also has an ARM-based chip and a 1080p display. With its sharp screen, comfortable keyboard and relatively premium-looking design, it still ranks as one of my favorites.
+
+The problem is that it costs $400, which is getting into "cheap Windows laptop" territory. And at that price, the performance isn't quite as robust as some competing models. If, like me, you think even an ARM chip is good enough for basic tasks, you might actually like the Acer Chromebook 13 I've been reviewing here: It offers similar performance, with an equally sharp screen, except it costs $100 less. It's not quite as polished-looking, but again, it's not ugly, either.
+
+
+Soon enough, though, Samsung and Acer won't be the only ones selling full HD Chromebooks. Toshiba, for one, is about to ship its own Chromebook 2, which will start at $250 ($330 if you want the 1080p resolution). That will include an Intel Bay Trail chip, which means performance is likely to be slightly better than Acer's or Samsung's offerings, but battery life could be shorter (or not -- we'll see). It looks promising, but I haven't tested this one, so I unfortunately can't confirm how well it performs.
+
+If performance is a concern -- meaning, you're worried an ARM chip won't cut it -- all roads lead back to Acer. The company's C720 Chromebook is one of our favorites. For one thing, it's among the only ones offered with a Core i3 chip, which delivers noticeable (albeit fairly modest) performance gains. At the same time, it's one of the best-value machines we've seen: For $199, you can get it with an Intel Haswell-series Celeron CPU that still delivers decent performance. The only thing to keep in mind with either model is that the battery life will be several hours shorter than on the Chromebook 13. So, it depends a lot on what your priorities are: maximum performance or top-notch battery life? Acer earns both of those honors -- just not with the same machine, unfortunately.
+
+What about Windows machines?Finally, you might be wondering what kind of Windows PCs you'll find at this price -- $300 is technically "cheap Windows laptop" territory, too. By and large, the machines you'll find at this price will have larger, 15-inch screens with either an Intel Celeron processor or an AMD E-series chip. In other words, the performance should be on par with many similarly priced Chromebooks. That said, there are a few systems at this price that are just as small and portable as the Acer Chromebook 13, if not more so. These include the 11-inch Lenovo S215 ($349), the 11-inch Acer Aspire ES1 ($250-plus) and the HP Pavilion 10z Touch ($250). For the money, you get a 1,366 x 768 screen and around 500GB of built-in storage.
+
+In a similar vein, HP is about to start shipping the first laptop from its "Stream" series, which aims to take on Chromebooks in the form of a cheap notebook that runs Windows, but has very little local storage. The first model is a 14-incher priced at $300. This, too, has a 1,366 x 768 display and makes use of an AMD chip. I'm not saying I recommend it, especially for three hundred bucks, but it could be tempting for someone who wants a budget machine that can still run desktop Windows apps.
+
+Wrap-up
+The Chromebook 13 isn't everything Acer and NVIDIA promised it would be, but somehow, it's still a worthwhile product. Though its performance isn't much better than the Intel Bay Trail machines it claims to beat, the battery life is nearly best in class, reaching 10 hours even with a full HD screen. Speaking of the sort, this remains one of the few Chromebooks out there with screen resolution greater than 1,366 x 768. Yes, the viewing angles could be better, but then again, that's true of every Chrome OS laptop, so it's hard to really fault Acer for that. Most importantly, though, with a price starting at $280 (or $300 for the full HD version), it's easy to forgive many of the machine's flaws. Even with merely average performance, this feels like a fair price for what it is: a Chromebook with a sharp screen, long battery life and a spacious, comfortable keyboard.
+
+

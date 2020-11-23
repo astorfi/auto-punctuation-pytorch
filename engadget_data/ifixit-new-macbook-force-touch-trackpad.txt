@@ -1,0 +1,10 @@
+
+
+Apple's new range of MacBooks have something particularly new inside them: the Force Touch trackpad. No longer hinged like previous Apple laptops, the new touchpad houses a "Haptic Engine", outputting tactile feedback that will let you "feel" what's happening on-screen. iFixit's taken a closer look at how Apple did it, and while the trackpad is no longer hinged, there are now four spring mounts underneath. That haptic engine? A load of wires coiled around a magnetic core, which makes that all important vibrational feedback. 
+
+ 
+There are no moving parts to the mechanism, as Apple noted in the presentation this week, instead everything's all done through magnets fitted underneath the pad. iFixit reckons that strain gauges inside the metal supports are how the trackpad is able to detect force. There might be a learning curve to the new trackpad, but then, there's also a learning curve to reading iFixit's teardowns too -- find the rest of the details here.
+
+[Base image credit: iFixit]
+
+

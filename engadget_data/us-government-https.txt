@@ -1,0 +1,10 @@
+
+We've known that most of the government's anonymous tiplines aren't secure, and Uncle Sam is implementing changes across the board to make HTTPS a standard for federal websites. It's a a "new, strong baseline of user privacy and security" according to a post by 18F, one of the government's internal data agencies. Once in place, this would effectively bring all federal websites up to the security standards many private sector outfits already employ. The White House has put the proposed and final versions on Github if you'd like to compare one against the other, too.
+
+
+
+As of now, there's a deadline to move existing sites to HTTPS encryption by December 31st of next year and the meantime you can peep a report card and see how federal websites stack up. 18F uses and enforces HTTPS and has an SSL Labs grade of A+. Same goes for the Alcohol, Tobacco and Firearms agency's site. The US House of Representatives? It uses HTTPS, but doesn't enforce it or Strict Transport Security (ensures you're always connected to a site through HTTPS) and has a failing grade from SSL Labs.
+
+[Image credit: Getty Images]
+
+

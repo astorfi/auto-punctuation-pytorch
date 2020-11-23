@@ -1,0 +1,4 @@
+
+ Despite steadily advancing in version numbers, Skype for Windows Phone 8 has remained in a preview state for the past few months. It's time for the app to enter the big leagues with its 2.5 update. The release is the first to drop the preview tag, mostly by fixing notable bugs with both video geometry as well as crashes when signing in with a Microsoft account. Frequent chatters may like that message notifications for Messenger friends are now active by default. There is one word of warning for HTC 8X owners: they'll need the latest firmware to avoid a flaw that silences the microphone. Provided that's no obstacle, though, we'd suggest swinging by the Windows Phone Store if you're at all interested in Microsoft's official mobile VoIP suite.
+
+

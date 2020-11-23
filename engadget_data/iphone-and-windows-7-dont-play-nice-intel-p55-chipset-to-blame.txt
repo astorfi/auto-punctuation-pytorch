@@ -1,0 +1,9 @@
+
+ 
+
+The iPhone is one of the most wildly popular phones the world has ever seen, while Windows 7 is well on its way to becoming the globe's most ubiquitous OS. So compatibility between the two would be kinda sorta important, right? Tell that to Intel's quality control team who seem to have somehow missed an issue between Apple's app carrier deluxe and the P55 Express chipset's USB controller. Consistent (and persistent) syncing issues have been reported on Apple's support forums, wherein iTunes on Windows 7 machines recognizes the iPhone, but spits out an "error 0xE8000065" message whenever the user attempts to sync. While some have found limited success with using PCI-based USB cards (and bypassing the chipset), this is clearly a major issue and something Apple would expect to be fixed before shipping its Core i5 / i7 iMacs, which are likely to sport the chipset. Hit the read link for the original thread of sorrow and regret, and do chime in with your own experience in the comments.
+
+[Via The Register]
+      
+
+ 

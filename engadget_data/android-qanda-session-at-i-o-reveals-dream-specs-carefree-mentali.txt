@@ -1,0 +1,6 @@
+
+ 
+Following the grand reveal of the latest Android build running on fresh HTC-sourced hardware at I/O today, Google took some questions that managed to pull a few extra gems from the rough. First and foremost, key specs of that lovely piece of kit were exposed: 3.6Mbps HSDPA is on board, as is a Qualcomm MSM7201A processor good for 528MHz, 128MB of RAM, 256MB of ROM, a capacitive touchscreen, and the key to our hearts. Despite that capacitive action, it was reiterated that Android is designed to work with a wide variety of form factors -- everything from touchscreens to QWERTY keypads to devices with no screen at all (!!) -- so fans of physical input methods definitely needn't fret in the least. New features demoed for the first time today include a configurable home screen launcher, accelerometer integration in Google Maps' Street View, Pacman (which we can only assume will become the Solitaire of Android), and a new unlock UI for touchscreen-based devices. Some of the stuff shown was coded at the very last minute; they pointed out that the clock, for example, had just been thrown together yesterday, so they're definitely flying by the seat of their pants here -- a good thing for speeding up device availability, we figure.
+      
+
+ 

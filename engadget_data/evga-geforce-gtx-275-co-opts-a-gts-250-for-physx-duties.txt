@@ -1,0 +1,9 @@
+
+ 
+Ready for some more dual-GPU madness, only this time in the resplendent green of NVIDIA? EVGA has gone and concocted a special Halloween edition of the GTX 275, which has sprouted an entire GTS 250 appendage solely for PhysX gruntwork. Dubbed a new form of Hybrid SLI, EVGA's latest combines -- for the first time, from what we can tell -- two different GPUs and assigns them with specific and mutually exclusive tasks. Whether this concept takes off will depend to a large extent on the effectiveness of PhysX acceleration and whether it can show more efficient scaling than regular old SLI with two boards or more conventional dual-GPU setups like the GTX 295. Color us intrigued, either way.
+
+P.S. - That's what the actual card will look like, we're not making it up.
+
+
+
+

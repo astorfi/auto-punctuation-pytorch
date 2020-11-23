@@ -1,0 +1,8 @@
+
+
+
+
+
+	The panoramic camera mode isn't the only thing to be unearthed from within iOS 5. A familiar-looking predictive typing option has been unlocked by iOS tinkerer, Sonny Dickson, who tweeted several shots of the new keyboard in action. Like the rough-around-the-edges panorama mode, jail-breaking isn't necessary, requiring only the iBackupBot program to tweak your configuration settings. Tick yes to Library/Preferences/com.apple.keyboard.plist, and you're away. We'd advise speed-typing obsessives to back up their devices to iTunes first, naturally.
+
+

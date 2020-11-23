@@ -1,0 +1,4 @@
+
+The urban-hunchback shuffle is usually demonstrated by commuters slouching over a phone, in search of a pre-meeting coffee-house. But, if you're attempting something similar with the latest Nexus 7, maybe leave a little earlier. Why? Because word is that some users are reporting funky behaviour with the tablet's GPS -- perhaps causing a little deja vu for ASUS slate owners. Issues vary from total flake out, to halting after 10 to 30 minutes. Several attempted fixes -- including complete reinstalls -- haven't fixed things. Google is aware of the problem, and working on a fix -- but no details on when this might be delivered. It's suggested that disabling Google Play Services might help things. This component of Android is used by other apps though, so proceed with caution. Is it affecting you? Let us know in the comments.
+
+

@@ -1,0 +1,5 @@
+
+ Western Digital has yet to actively market its "advanced format" hard drives -- in fact, there's a decent chance you've no idea what we're talking about if you weren't tuned in on December 11th. In short, it's a technology that alters a hard drive's sector size from 512 bytes (the standard for the past three decades) to 4096K, which enables the ECC data to be stored in a more efficient manner. Just recently, WD began to ship Advanced Format Caviar Green hard drives, and the benchmarking gurus over at Hot Hardware strapped one in to see exactly how much of the hype was warranted. For starters, they debunked the thought that Advanced Format drives offered more usable space; Windows reported 931GB of free space on both AF and non-AF 1TB drives. They also go on to explain how to make AF drives play nice with Windows XP, and on the testing front, they found that an aligned AF Caviar Green drive could (mostly) hang with the higher end (and more expensive) Caviar Black. Pop that source link for the full skinny, particularly if you're a WinXP user looking to snag a new drive.
+      
+
+ 

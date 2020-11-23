@@ -1,0 +1,6 @@
+
+ Peak transfers of 150Mbps, you say? We're listening. Here at Mobile World Congress, Qualcomm's newest Gobi chipsets (the MDM9225 and MDM9625) are the first to support LTE carrier aggregation and LTE Category 4 with peak data rates of up to 150Mbps. The reveal marks the introduction of the outfit's third-generation 4G LTE embedded chip, and if all goes well, we should see the hardware slipping into phones, tablets and potentially laptops in the second half of 2013. To make it all seem more realistic, it partnered with Sierra Wireless and Ericsson here in Barcelona in order to prove the figures. For those unaware, LTE carrier aggregation combines radio channels within and across bands to increase user data rates and reduce latency -- in other words, it allows LTE to be even faster.
+
+ In related news, Qually also announced that it'll be extending the AllJoyn software development project with "new core interoperable services." As of now, we're simply told that the new services will be available on devices with different operating systems and from different vendors, theoretically enabling an "Internet of Everything" by the time they're upstreamed into the AllJoyn open source project by May 2013. We'll be swinging by the company's booth to see what exactly there is to visualize -- for now, feel free to pursue the press releases linked below.
+
+

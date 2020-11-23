@@ -1,0 +1,45 @@
+
+ 
+
+Speck Design's clientele has ranged from Apple to Samsonite to Fisher-Price in its history, and now it can add Google to the list of high-profile companies. But Google -- or its Advanced Technologies and Projects (ATAP) division, to be more specific -- is no ordinary client. The group is modeled after DARPA, which divides its agency into teams, with each one given a limited time to solve a pressing issue. Nearly a year and half ago, ATAP reached out to Speck, led by industrial designers Jason Stone and Vincent Pascual, with one such task: Build a tablet like no other.
+
+
+The project is known as Tango. Its goal is to create technology that lets you use mobile devices to piece together three-dimensional maps, thanks to a clever array of cameras, depth sensors and fancy algorithms. As if that isn't enough of a challenge, Tango's team only has two full years to make this tech a reality. Those two years will be up in less than five months.
+
+
+
+
+
+
+Several early models designed by Speck to get an idea of how the tablet would look and feel.
+ATAP focuses on cutting-edge projects that push technology forward at a rapid pace, and Tango is a prime example of this. Through a combination of hardware and software, the project aims to give mobile devices a sense of scale and an understanding of space and motion. You could potentially create a three-dimensional mockup of your office building or home just by walking through every room with a Tango-equipped smartphone or tablet. If the project is successful, it means you may someday use an app to hunt down hard-to-find products at the grocery store, the same way you'd locate a house using GPS. You could play Plants vs. Zombies or Portal with your living room as the backdrop, or envision how that IKEA couch would fit in front of your entertainment center. It opens up a lot of new options that, until now, haven't been technically feasible.
+
+Two years isn't much time to develop bleeding-edge tech from the ground up, let alone two pieces of hardware (a smartphone and tablet) and an entire software platform; heck, even the original iPhone took over three years to blossom from a sparkle in Steve Jobs' eye to a final product release. But what's more impressive is the fact that Speck cranked out a tablet in 16 months. That's similar to a standard development cycle for a regular device. But the Tango slate is nowhere near normal, and it's not just different in its curvaceous appearance. For starters, it's a high-end Android tablet with 4GB of RAM, 128GB of internal storage and an NVIDIA Tegra K1 chip (the first in the US and second in the world) that features desktop GPU architecture. It also has a unique design that consists of an array of cameras and sensors near the top and a couple of subtle grips on the sides. It packs 3D-mapping features previously reserved for professional equipment worth thousands of dollars, and it even looks good enough to pass as a consumer device.
+
+Two years isn't much time when you're working on a first-of-its-kind product.In case it sounds like an easy process, Stone insists it's the complete opposite. Tango and its partners worked at a breakneck pace. The project vision was evolved daily, and the team worked with several different companies simultaneously on various aspects of the product's development. Working on multiple things at the same time isn't uncommon, but the vast number of parties that were involved is; Tango recruited engineers, researchers, universities and manufacturers to help mold what would eventually become the hardware and software we see today.
+
+"It's like they were starting to form a vision on how this thing should actually work while we were doing the industrial design in parallel," Stone says.
+Speck was hired in March 2013 to come up with a "shotgun blast" of ideas and conceptual designs, but Stone and Pascual soon realized they were in for a far bigger challenge than they'd expected. Oftentimes clients will have specific design languages or standards for their brands, but because ATAP operates as a separate entity from the rest of Google, there were no established guidelines or rules to help Speck narrow down design options.
+
+"They didn't tell us a lot about what they were doing [with Tango] at first," Stone says. "They didn't really explain about the applications or tech at that point."
+
+Equipped with little more than a high-level understanding of the project, Stone and Pascual crafted dozens of rough, handmade prototypes. "We'd cut out a block and lay some dimensional paper down to make sure it's the right screen and body size," Stone says. "We'd make around three before picking one to take to Google." Some of the more interesting models included a flagpole-shaped option and a tablet with a transparent frame around the edge.
+
+
+One of Speck's first handmade design prototypes.
+While Speck's clients are typically armed with a strict budget, Google had no cost restraints. Price simply didn't factor into Tango early on; to Google's Johnny Lee and Ryan Hickman, it was essential to use the best components, such as cameras, sensors, chipsets and speakers. That became a huge challenge for the designers because blank checks mean even more options.
+
+"Sometimes those restraints around cost can help you make decisions easier and faster," Stone says. "You're like, 'Well, we can't do this so we'll have to do that.'"
+
+Speck wasn't the only company working with Tango on potential designs at first. ATAP, eager to leverage its connection with Motorola and somehow utilize its supply chain and other resources, asked Moto's User Experience Design (UXD) group to experiment with some conceptual designs. Tango even reached out to Google's Nexus team, which wanted to focus on making affordable devices like the Nexus 5 instead.
+
+
+Speck designed several mockups detailing how Tango could be used.
+Soon, Speck received more responsibility. The company was asked to put its Photoshop skills to work by drawing up visualization mockups -- screenshots depicting various use cases for Tango. These mockups helped ATAP sell its vision of Tango to potential hardware partners and Google. Thanks to the project's time constraints, immediate partner buy-in was crucial to its success. Thus, this job was given the same priority as the designer's other tasks; it had to be done as soon as possible.
+
+Pascual said the team came up with hundreds of use cases. For instance, virtually trying a new carpet in your house; seeing how a new pair of glasses would look before a visit to the optometrist; rendering a 3D map of what's under your car's hood; or calculating a route through a crowded museum.
+
+
+
+
+

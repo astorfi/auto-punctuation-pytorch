@@ -1,0 +1,6 @@
+
+ 
+It's safe to assume that if you're using one of OLPC's XO laptops, you're not exactly a speed demon. Still, you probably wouldn't mind squeezing a little more power out of that innocuous Geode CPU -- and now there's a way to do it. The cats and kittens over at OLPC News have discovered a way to (relatively) safely overclock your system using a shortcut at the open firmware prompt. At least one reader reports a 21.8 percent boost in system speed, and claims that bumping the 433MHz processor to 588MHz, and the 166MHz RAM to 233MHz has resulted in a much smoother ride with Ubuntu. Of course, if you decide to try this, keep in mind that just like overclocking the big boys, you could explode your system, restart the Cold War, or attract tons of vampires.
+      
+
+ 

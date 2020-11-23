@@ -1,0 +1,5 @@
+
+ 
+ Taking long exposure photographs at night and painting within them using an iPad may be old hat, but building your own light painting rig? That could earn you some serious geek cred, and according to Adafruit, it isn't even all that hard. In a new walkthrough, the team fashioned such a contraption using a Raspberry Pi, a python script with under 60 lines of code, some open source software and a handful of electronic components. Not satisfied with the typical light wand, they decided to spice things up with a circular fixture built from PVC pipes and a hula hoop to hold the ribbon of LEDs. After being attached to a bike and paraded around at night, it created the 3D effect in the masterpiece above. If you're itching to make your own works of art, check out Adafruit's tutorial at the source link below.
+
+

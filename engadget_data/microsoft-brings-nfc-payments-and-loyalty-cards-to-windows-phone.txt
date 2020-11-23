@@ -1,0 +1,9 @@
+
+ 
+ Well it looks like Google Wallet and Apple's Passbook have some new competition. Today at the Windows Phone Developer Summit, Microsoft shared its plans to bring NFC payments and loyalty cards to Windows Phone 8 with its very own mobile wallet feature. It's promising that it will be the "most complete wallet experience" on any phone. That of course includes support for tap-to-pay, the ability to link credit and debit cards, integration with third-party apps and, more uniquely, secure elements on the SIM card rather than the phone itself. You'll also have a PIN code option to protect all purchases on the phone.
+
+ As for partners, Orange France is the only one that Microsoft has announced today, but it says that it expects to have a "good solution" with the US carrier-backed Isis initiative sometime next year (though not in time for launch). What's more, the wallet will come loaded on every Windows Phone 8 device, regardless of whether the carrier supports the SIM-based security, which will let folks use at least some of the features.
+
+ Check out the latest updates from Microsoft's Windows Phone event in our liveblog!
+
+

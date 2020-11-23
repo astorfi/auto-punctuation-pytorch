@@ -1,0 +1,5 @@
+
+ If there's anythingwe hate more than format wars, it'sincompatible wireless standards, which is why chipset manufacturer Airgo's pronouncement that the current draft versionof next-gen WiFi standard 802.11n would likely "severelydegrade - or even disable - nearby 802.11b and 802.11g networks," has us understandably concerned. It would be badenough just to hear this news -- which was announced following the IEEE vote to move 11n "Draft 1.0" to thethe "letter ballot" phase -- from an interested party, but TomsNetworking and other reviewers haveindependently noticed the problem when testing "pre-N" routers with Airgo chips from Netgear and Linksys.Airgo has already convinced major players Cisco and Moto to form a taskgroup that will tele-conference bi-weekly inorder to address the issue, but we could see some resistance from other manufacturers like Atheros, Broadcom, andMarvell, who don't want to have to back off claims that their upcoming "draft N" devices will befirmware-upgradeable to the 11n standard as it is eventually ratified.[Via Digital Media Thoughts]
+      
+
+ 

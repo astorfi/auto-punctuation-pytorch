@@ -1,0 +1,14 @@
+
+ 
+Toshiba will be happy to tell you that its upcoming CEVO-Engine, which launches early next year in a "sub-€5,000" TV designed by former B&O-fave design firm Jacob Jensen Design, is the best thing ever, but it takes some work to figure out just exactly why that's the case. We did some digging, subjected our eyeballs to the display's brilliance, and have our full thoughts on the new tech after the break. 
+
+
+
+ 
+
+
+So, CEVO-Engine in a nutshell is just a bunch of those Cell multicore processors stacked on top of each other, which allows for more picture processing. Cell dabbled in 2D-to-3D conversion, but CEVO is able to set aside a whole processor for it, with surprisingly decent results (yeah, color us shocked as well). CEVO can also upscale half resolution 3D (stuff that's delivered with side by side images in each frame) into 1080p.What we're particularly excited about is what CEVO does in prepping 3D for display, adjusting the brightness and colors to compensate for the dimming effect of the 3D glasses. The necessary headroom is provided by 3,000+ LEDs that backlight the 55LZ1 LCD display. Those lights are split into 512 locally dimmed regions, with CEVO doing the heavy lifting of image analysis to intelligently dim, and together they pump out a whopping 1,000 nits (you only need about 90 nits for good picture quality in a dark room). It's actually painful to look at the display at full brightness when the lights are off, but when the shutter glasses are on we found the picture as close to "regular" 2D brightness as we've ever seen with 3D. The localized dimming also does a stellar job of hopping up the contrast ratio, with pure blacks right up against radiant colors, though there's still a good bit of halo light bleed when displaying certain objects (like the Toshiba logo on a black background). Plasma still has the edge in this department, but it really can't compete with the sheer brightness of LED, and localized dimming is just getting better and better.The TV itself has a nice design, and a nice design heritage, but it's nothing revolutionary looks-wise. Still, if you like to hear designers talk design, and witness the birth of the term "Scandasian design," you're in for a treat with the video above.We'll have to spend some more time and see some full reviews of the display to know if it's really worth the €5,000-ish pricetag, and the surprisingly similar Philips 21:9 Platinum display (in specs and picture quality, not in aspect ratio) will be giving Toshiba some good competition, but it's clear that this new generation of LCD display is ready to match and perhaps surpass plasma in the realm of 3D -- and really, isn't that the only realm that counts?
+
+       
+
+ 

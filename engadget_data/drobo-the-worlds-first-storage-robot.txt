@@ -1,0 +1,6 @@
+
+ 
+Managing all of your data can be a little intimidating, especially if you need to keep adding more and more storage capacity without breaking the bank or running into technical snags. Well the engineers over at Data Robotics figure the solution to all of your storage needs is, of course, a storage robot. Affectionately named Drobo, the four drive array connects via USB and employs "intelligent" software to handle all of the data management and disk swapping: one drive goes down? No problem, Drobo's already on it. Wanna swap out drives while you listen to music? Drobo keeps the tunes going even when you're down to one disk. At $700 it is a little steep -- especially considering the lack of any "starter" drives bundled in -- but we suppose that in the long run, that's a small price to pay if it truly does deliver the data management nirvana we've been seeking[Via eHomeUpgrade]
+      
+
+ 

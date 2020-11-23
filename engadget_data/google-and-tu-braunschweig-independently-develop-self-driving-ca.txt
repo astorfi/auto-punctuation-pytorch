@@ -1,0 +1,13 @@
+
+ 
+There's a Toyota Prius in California, and a VW Passat halfway around the globe -- each equipped with bucket-shaped contraptions that let the cars drive themselves. Following their research on autonomous autos in the DARPA Urban Challenge, a team at Germany's TU Braunschweig let the above GPS, laser and sensor-guided Volkswagen wander down the streets of Brunswick unassisted late last week, and today Google revealed that it's secretly tested seven similar vehicles by the folks who won that same competition. CMU and Stanford engineers have designed a programmable package that can drive at the speed limit on regular streets and merge into highway traffic, stop at red lights and stop signs and automatically react to hazards -- much like the German vehicle -- except Google says its seven autos have already gone 1,000 unassisted miles. That's still a drop in the bucket, of course, compared to the efforts it will take to bring the technology home -- Google estimates self-driving vehicles are at least eight years down the road. Watch the TU Braunschweig vehicle in action after the break.
+
+Update: Though Google's cars have driven 1,000 miles fully autonomously, that's a small fraction of the time they've spent steering for themselves. We've learned the vehicles have gone 140,000 miles with occasional human interventions, which were often a matter of procedure rather than a compelling need for their human drivers to take control.
+
+[Thanks, el3ktro]
+      
+
+ 
+
+
+ 

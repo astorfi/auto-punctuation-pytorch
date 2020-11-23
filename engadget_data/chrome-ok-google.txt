@@ -1,0 +1,4 @@
+
+Those who've gotten used to saying "OK Google" to their Moto X and KitKat-endowed handsets might wish that every device they have could be so obedient. Well, it appears that soon your Chromebook will be able to respond to that same voice command as well, if a new experimental App Launcher in Chrome's Dev Channel is any indication. According to Google insider François Beaufort, all you'll have to say is "Ok Google" followed by a search command. There's even the possibility of adding instructions such as "open Gmail" or "chat with" followed by a friend's name. It'll likely be awhile before the feature trickles out to standard-issued Chromebooks, but if you've got the necessary chops, you can check out an early preview by hitting the Chromium source link below.
+
+

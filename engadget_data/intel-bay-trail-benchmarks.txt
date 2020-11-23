@@ -1,0 +1,20 @@
+
+Things are changing at Intel. In the desktop world, the company is used to staggering its efforts with a "tick-tock" product cycle. First it manufactures an existing chip design at a smaller size of transistor ("tick") and then, usually a year later, it improves the architecture while sticking to the same transistor size ("tock"). Bay Trail, by contrast, is a mobile class chip that represents both a tick and a tock. It makes major changes on previous Clover Trail design, while also shifting from 32nm to 22nm transistors. A jump like that holds major promise, so we were keen to benchmark Bay Trail at the earliest opportunity. Intel allowed us into a hotel room in central London to do just that, using the highest-spec quad-core Z3770 chip inside a reference tablet, and the results look impressive. Read on for the stats and a quick assessment of what they mean.
+
+
+
+Android performance     Intel Bay Trail Reference Tablet
+
+  NVIDIA Tegra 4 Reference Tablet Qualcomm Snapdragon 800 Reference Tablet     Quadrant 2.0 21,176 16,436 20,762   AnTuTu 3.x (4.0) N/A (35,814) 36,305 35,783   SunSpider 0.9.1 (ms, lower is better) 560 499 543   GFX Bench Egypt 2.7 HD Offscreen (fps) 41 N/A 69   CF-Bench 27,791 41,325 36,744  The first thing we can say for sure is that Intel's days of lagging behind other mobile SoCs are all but over -- at least in terms of general computing performance. Three of the more general benchmarks, Quadrant, AnTuTu and SunSpider, show roughly a draw between Bay Trail, Tegra 4 and Snapdragon 800, with Tegra 4 slightly behind on Quadrant. (We're comparing across reference tablets rather than finished products in an effort to make things like-for-like. Also, we unfortunately couldn't version-match the Antutu score -- the Bay Trail tablet was benchmarked using the latest version.)
+
+CF-Bench stands out for being a general benchmark that puts the Intel chip at a significant disadvantage. Meanwhile, our main graphical benchmark also puts Bay Trail behind in 3D performance relative to the Snapdragon 800 -- a score that suggests Qualcomm retains the lead for gaming.
+
+Windows 8.1 performanceEven if Bay Trail can't quite beat the Snapdragon 800 on the Android scores, we can't neglect Intel's not-so-secret weapon. Bay Trail can run full Windows 8.1, whereas Snapdragon 800 is an ARM chip that is limited to Windows RT. So in terms of Windows performance, the main comparison has to be with Clover Trail, which powered a large number of Windows 8 hybrids over the past year.
+
+In this respect, Bay Trail's Windows performance looks to be a significant leap, with SunSpider test times roughly halved as we moved from Clover to Bay. Although we weren't able to run any of our usual Windows graphics benchmarks directly, Intel ran 3DMark's cross-platform Ice Storm test for us -- if only as a placeholder until we can get a device in to review. While a Clover Trail-based Acer Iconia W510 scored just 2,445 in this test at a resolution of 1,360 x 766, the Bay Trail reference tablet scored 16,079 at the same res.
+
+Moving the resolution up to 1080p, the native resolution of the reference tablet, Bay Trail yielded 14,174 in Ice Storm. For context, that's not far off half the score of the full-fat laptop-class chip inside the current Microsoft Surface Pro -- a chip that burns a lot more power the power of Bay Trail and doesn't last nearly as long on a charge.
+
+All in all, this looks to be a positive new beginning for Intel in the mobile sphere. It's hard to be decisive when we're only looking at a reference device and a limited set of benchmark scores, but in any case we can be sure that Bay Trail is unrecognizable compared to its predecessor. So long as battery life holds up and delivers a true full day of real-world use, this could be exactly what Windows 8 needs to help its transition to tablets.
+
+

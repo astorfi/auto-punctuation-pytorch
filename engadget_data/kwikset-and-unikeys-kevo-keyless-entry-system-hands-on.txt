@@ -1,0 +1,13 @@
+
+Kwikset and UniKey are set to update their home entry systems, which have remained largely unchanged since they were first invented more than a hundred years ago. Using a Bluetooth daughter card in the lock mechanism, a couple Bluetooth antennas and a clever app this lock opens by simply touching a finger to the outside of the housing when you approach the door.
+
+
+At its simplest, the companies' Këvo system isn't too unlike a keyless car entry system, though it takes advantage of your iPhone's Bluetooth LE -- Android and BB10 versions will arrive as soon as those platform's stacks are sorted -- or the included keyfob for the proximity technology. Security is handled through the phone or desktop app enabling you to share keys with your family as administrative users, normal users, one-off entry or even scheduled access. For those concerned about leaving your phone too near the door and thereby allowing anybody access, the system actually uses two antennas, one on the inside and one out. So should you stand behind the closed door the system won't trigger access to those outside. Battery life for the four AAs is rated for a year, and you've no need to worry about being surprised by an outage, either: the system will notify you well in advance using the lock's eight RGB LEDs or through the app. Pricing will be somewhere in the $199 range when it hits the shops, though sadly we don't have an exact date to share. We're pretty stoked to get a chance to check this system out for ourselves but until that time, check out the quick video of it in action below.
+
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,6 @@
+
+
+
+In the rush to connect our personal devices, manufacturers have often launched products and platforms that run completely independently of the gadgets we already own. In an effort to break down those barriers and encourage innovation in connected homes, some of the biggest names in electronics have banded together to form the AllSeen Alliance. Spearheaded by the The Linux Foundation, the Alliance counts LG, Panasonic, Sharp, Silicon Image and networking specialist TP-Link as its premier members, which will build upon Qualcomm's AllJoyn software platform by "contributing software and engineering resources." The idea is to create an open framework that lets the TVs, set-top boxes, routers, smart lighting and other devices in your home talk together seamlessly, whether you're using a iOS, Android, Windows or Mac device. It's an issue that companies have aimed to solve before, but has often further widened the gap between platforms. While we don't think you'll be switching on your oven with your TV remote just yet, the Alliance's desire to set the standard for the "Internet of Things" could one day make that dream a reality.
+
+

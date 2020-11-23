@@ -1,0 +1,7 @@
+
+It's a top secret plan with a fittingly supervillain-esque codename: MUSCULAR. That tool, part of a partnership between the NSA and the UK's GCHQ, has been used to infiltrate Google and Yahoo data centers across the world, according to documents revealed by Edward Snowden and confirmed by sources at The Washington Post. It's a breach of privacy that could affect hundreds of millions of users, one that neither company was apparently privy to, in spite of the NSA's history of court-ordered data access with both.
+
+
+Google told The Post that it's, "troubled by allegations of the government intercepting traffic between our data centers, and [is] not aware of this activity." Yahoo echoed the sentiment, stating that it has, "strict controls in place to protect the security of our data centers, and [has] not given access to [its] data centers to the NSA or to any other government agency." The government, naturally, isn't commenting. Likely it's waiting to swivel around in a chair with a cat in its lap for full dramatic effect. And by the way, that above image is from a slideshow entitled "Google Cloud Exploitation," happy face and all.
+
+

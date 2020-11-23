@@ -1,0 +1,5 @@
+
+ Mobile malware is nothing new, especially for Android users who have trained themselves to navigate the sometimes shady back alleys of the Market. The fine folks at CA Technologies came across an interesting new trojan though, that does something slightly more unnerving than max out your credit cards -- it records your conversations. There's no evidence that this has actually found its way into the wild yet, but it's entirely possible that some nefarious developer could capture your calls and upload them to a remote server. Obviously, this wouldn't hold much interest for your traditional cyber crook, but suspicious significant others and corporate spies could have a field day with such capabilities. All we can do is suggest you remain vigilant and maintain a healthy dose of paranoia about any apps on your phone.
+      
+
+ 

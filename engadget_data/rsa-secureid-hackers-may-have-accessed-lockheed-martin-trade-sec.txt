@@ -1,0 +1,10 @@
+
+ 
+RSA SecureID dongles add a layer of protection to everything from office pilates class schedules to corporate email accounts, with banks, tech companies, and even U.S. defense contractors using hardware security tokens to protect their networks. Following a breach at RSA in March, however, the company urged clients to boost other security methods, such as passwords and PIN codes, theoretically protecting networks from hackers that may have gained the ability to duplicate those critical SecureIDs. Now, Lockheed Martin is claiming that its network has come under attack, prompting RSA to issue 90,000 replacement tokens to Lockheed employees. The DoD contractor isn't detailing what data hackers may have accessed, but a SecureID bypass should clearly be taken very seriously, especially when that little keychain dongle is helping to protect our national security. If last month's Sony breach didn't already convince you to beef up your own computer security, now might be a good time to swap in 'Pa55werD1' for the rather pathetic 'password' you've been using to protect your own company's trade secrets for the last decade.
+
+[Thanks to everyone who sent this in]
+
+Update: According to Reuters, Lockheed Martin sent out a statement to clarify that it promptly took action to thwart the attack one week ago, and consequently "no customer, program or employee personal data has been compromised." Phew! [Thanks, JD]
+      
+
+ 

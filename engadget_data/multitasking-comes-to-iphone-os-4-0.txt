@@ -1,0 +1,12 @@
+
+ 
+You heard that right, people -- iPhone OS 4 just brought multitasking to the platform! Apple says they've figured out how to implement third party multitasking without hurting performance or battery life, and they're demoing it now -- you just double click the home button and see a list of your apps, and you can just tap to switch between apps. The system actually runs the services apps need in the background -- the apps don't need to do them individually, so it's not a "true" multitasking system, but it seems plenty effective. There are seven services: background audio, which allows you to use the standard pop-over iPod controls, Voice over IP, which can receive calls in the background, location services for GPS and social networking (there's an indicator if any service is tracking you), updated push notifications with local notifications, task completion so you can finish things like uploads in the background, and fast app switching, which lets apps sleep and resume instantly. Notably missing? Anything for managing a conversation, like IM or Twitter, which is a big omission. Win some, lose some, we suppose.
+
+Update: Here's a big "lose some" -- only the iPhone 3GS and 3rd generation (late 2009) iPod touch will support multitasking. The iPhone 3G and below won't -- Steve says the hardware doesn't support it. Sad face.
+
+
+
+
+Developing...
+Make sure to check out the ongoing iPhone OS 4.0 liveblog!
+      

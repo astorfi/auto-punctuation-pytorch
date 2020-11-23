@@ -1,0 +1,5 @@
+
+ 
+ Despite New York City virtually revolving around its mass transit system, local subway riders haven't had a way to check the next arrival in real-time, even though some smaller cities already take live transit details for granted. At least some harried commuters can assuage their minds now that the MTA has posted its Subway Time app for iOS users. The title does exactly what it says on the tin, taking advantage of MTA's signalling installations on the 1 through 6 lines (and the 42nd Street Shuttle) to determine train arrival times down to the minute. Subway Time won't satisfy certain travelers as-is: it doesn't provide directions, and the earliest expansion to additional routes won't happen until the L line's information is linked up in six to 12 months. Passengers running Android and Windows Phone will likewise have to wait for outside developers to finish their own projects. For those of us living in the right areas, however, Subway Time might take away some uncertainty -- even if it's just to confirm that we'll be late.
+
+

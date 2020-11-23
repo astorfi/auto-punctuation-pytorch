@@ -1,0 +1,11 @@
+
+ 
+ Between the Raspberry Pi and the new Chromebox, we've been spending more time than usual lately talking about miniature desktops. Until now, though, AMD hasn't really entered the discussion; all of the models we've tested have featured either an ARM chip or Intel processor. So we were intrigued, then, when we found this mini PC hanging out at the company's Computex booth. It's called the LiveBox, and it runs one of AMD's X86-based Fusion chips. Before we get into specifics, though, have a gander at our hands-on photos and check out that funky design. In addition to being tiny, it has a two-pronged power connector attached, allowing you to plug it directly into an outlet. We're not sure individual consumers will prefer that cordless design, but we can see it translating well in businesses and schools -- precisely the sorts of places where AMD thinks these boxes might find a home.
+
+ Again, the LiveBox is based on a Fusion APU (a 1GHz C-60 chip, to be exact), complemented by 1GB of RAM and Radeon HD 6200 graphics. As for storage, the unit on display had a Samsung-made 64GB SSD. Take a tour around the edges and you'll find two USB 2.0 ports (no USB 3.0), a Gigabit Ethernet jack and an HDMI socket. There's also a memory card reader, a SIM slot for quad-band 3G (WCDMA) and Bluetooth 4.0, in case you want to pair it with any wireless peripherals. As you can see in the video below, those modest internals are enough to output smooth 1080p video, which means this setup should suffice for basic things like email, web surfing and YouTube. Unfortunately, the machine on display was running Windows 7, not 8, which is a bummer. We also wish we knew more about the target price: AMD won't say what brand will be selling this, or when it will be available. Until then, it's tough to say where the LiveBox fits in. But hey, hands-on photos and video can't hurt, right?
+
+
+
+
+  Zach Honig contributed to this report.
+

@@ -1,0 +1,12 @@
+
+When it comes to whistleblowing, privacy is paramount -- just ask Edward Snowden. It's also why news from an American Civil Liberties Association report (PDF) about anonymous government tiplines not using HTTPS encryption is all the more alarming. In a letter to Tony Scott -- not the late filmmaker, the United States chief information officer -- the ACLU's Michael W. Macleod-Ball and Christopher Soghoian implore the government to fast-track efforts to swap the some 29 websites that are required by law to protect the anonymity of tipsters over to HTTPS. If that can't happen immediately (Scott has a two-year plan to encrypt all government websites) then the ACLU suggests allowing people to use the Tor browser for alerting the authorities about fraud or waste in the interim. Currently, the anonymity-minded browser is blocked by certain federal agency websites.
+
+
+
+As The Washington Post reports, the "Rewards for Justice" website that offers up to $10 million in rewards for terrorism tips is wide-open and practically anyone (state-sponsored spies, internet cafe owners, et cetera) could peep in and compromise a source's invisibility. As another example, the Department of Homeland Security's hotline doesn't use HTTPS and neither does that of the Inspector General for Afghanistan Reconstruction.
+
+One of the Post's sources says that it seems more like an oversight rather than anything nefarious. He equates the lack of encryption on the tipline for the General Services Administration's website, which handles criminal investigations and grand jury info, to leaving a witness file on a receptionist's desk. The rest of the website? It's encrypted. The idea here is to make sure that anonymous informants stay anonymous, no matter what. Until that happens, it looks like anyone reporting something fishy to the government could be at risk of compromising their safety.
+
+[Image credit: Marilyn Nieves/Getty]
+
+

@@ -1,0 +1,41 @@
+
+When Adobe first offered up Creative Cloud to those opting for its design software, the outfit promised that those members would get access to new features first. Now, the company has rebranded its Creative Suite to keep the creativity cloud-focused. Adobe has announced an entire line of CC apps at its annual MAX event, replacing the CS naming convention to follow up on last year's CS6 release. There's no word on if those numerals are gone for good too, but what we do know is that the list of newfangled tools for Photoshop CC includes revamped Smart Sharpen, upsampling for low-res images, support for Camera Raw 8 (as editable layers, too), editable rounded rectangles and more. Additionally, a few tools that were only available in the Extended versions of Photoshop (3D editing and image analysis items) are now available in this Creative Cloud version. Join us on the other side of the break for a quick rundown of the digital workbench that will arrive in June.
+
+
+Update: The Next Web reports that from hence forth, Creative Cloud apps will only be available through the subscription-based service for $50 (£38.12 ex-VAT) a month. Subscriptions are discounted for Creative Suite owners for the first year and both education and team-based pricing is available. CS6 will still be available for purchase, but will not receive the support of updates and bug fixes. 
+
+
+
+
+Some of the items listed below were available in previous versions of Photoshop -- like conditional actions and the Extended tools. That said, here's a list of what you can expect in the freshly minted CC release:
+
+ Smart Sharpen: A tool that analyzes shots to make them as crisp as possible without extra noise. Smart Sharpen also allows the user to make finer adjustments to perfect the results. Intelligent upsampling: Low-res images can be sized up for print in a manner that maintains detail without added noise or quality loss. Extended features: Image and video tools that were previously available in Photoshop Extended including advanced 3D editing and image analysis options. Camera Raw 8 support: Apply edits from Camera Raw as a filter to any layer inside of Photoshop. Editable rounded rectangles: These rounded vector shapes are now fully editable right down to the corner radiuses. Multi-shape and path selection: Easily grab multiple paths, shapes and vector masks instead of having to sort each one individually. Camera Shake Reduction: Make those blurry shots useful with a quick trajectory analysis to correct sharpness. Conditional Actions: Use if/then statements to set up rules allowing processing jobs to make automatic decisions. Expanded Smart Object support: Effects from the Blur Gallery or liquify palette can now be tacked on to Smart Object while keeping the original available just in case. Improved 3D painting: Live previews have been sped up 100x to react quickly to the painting action.
+Show full PR textPowerful New Adobe Photoshop CC Debuts at Adobe MAX
+
+Milestone Version of The Industry Standard in Digital Imaging Anchors Major Update to Adobe Creative Cloud
+
+LOS, ANGELES - May 6, 2013 - At Adobe MAX, The Creativity Conference, Adobe (Nasdaq:ADBE) today announced Adobe® Photoshop® CC as part of a major update to Adobe Creative Cloud™ (see separate press release). Photoshop CC pushes the boundaries of possibility, offering a powerful new creative process, legendary imaging magic, and greater creative freedom with new tools and workflows. Adobe Photoshop CC will be available, exclusively to Creative Cloud members, in June.
+
+Adobe's desktop apps, including Photoshop, were previously known as Creative Suite® (CS), and will now be branded CC to reflect that they are an integral part of Creative Cloud and have been reinvented to support a more intuitive, connected way of creating. Photoshop CC includes a wide range of innovative enhancements, including new image deblurring and sharpening features to improve design workflows, and new Camera Raw capabilities. This update combines Photoshop standard and Photoshop Extended features to deliver greater accessibility to 3D tools and image analysis, while Creative Cloud integration offers flexible collaboration and sharing capabilities.
+
+"With the ability to quickly deliver new innovations, we're empowering photographers and creatives to push the boundaries in digital imaging and design," said Winston Hendrickson, vice president of products, Creative Media Solutions, Adobe. "Our customers will no longer have to wait 18 to 24 months to access new Photoshop innovation. When a new Photoshop feature is ready – whether it's the next Healing Brush or something as mind-blowing as Content Aware Fill – we'll deliver it via Creative Cloud."
+
+New Features in Photoshop CCPhotoshop CC brings a wide range of new features and enhancements designed to unleash creativity and boost efficiency whether perfecting photographs, designing for online and offline media, creating 3D artwork or shooting video.
+
+A fleet of new tools introduce the most advanced deblurring and sharpening technologies to date. The new Camera Shake Reduction tool analyzes and corrects for blur from camera movement to produce a better image. The all-new Smart Sharpen tool uses adaptive sharpening algorithms to minimize noise and halo effects while producing high-quality results. With intelligent upsampling users can increase the size of an image – large enough for a billboard – without pixelating the image.
+
+Adobe Camera Raw 8 brings three new photo-editing capabilities to Photoshop CC. The Advanced Healing brush allows photographers to "heal" or "patch" images with a brush stroke instead of a circular area. The new Radial Gradient offers powerful controls to draw attention to the focus of an image without applying a standard vignette, and the Upright tool automatically straightens horizons and applies perspective corrections without distorting the image. Camera Raw edits can also be made to any layer or file within Photoshop CC.
+
+For designers, improvements to rounded rectangles add the ability to adjust corner radii at any time. Users can also now select multiple paths, shapes and vectors at once, providing a faster, easier workflow for working with multiple objects.
+
+In previous releases, Adobe Photoshop Extended was released as a separate application comprising all Photoshop features as well as 3D and image analysis capabilities. Beginning with Photoshop CC, all Photoshop Extended features will be integrated within one application, providing all users with advanced capabilities for 3D image editing and image analysis.
+
+Photoshop CC is the first Adobe desktop app to include theability to post files directly to Behance fromwithin the application, showcasing work immediately and integrating peer feedback into the creative process. Behance is the world's leading online creative community, with over 1.4 million members.
+
+Photoshop CC includes all the Photoshop feature innovation delivered exclusively to Creative Cloud members over the last year, including: Smart Object support for Blur Gallery andLiquify effects, Conditional Actions, andCSS support for faster web design.
+
+Adobe is also previewing a new workflow from Photoshop CC to Edge Reflow CC that will enable creatives to build web designs in Photoshop that can easily be turned into responsive websites, viewable across devices. Adobe expects to update Photoshop CC with this new capability this summer, underscoring the constant steam of innovation delivered to Creative Cloud members.
+
+"I capture thousands of images for my 'Day to Night' projects and am always looking to improve my creative process," said Stephen Wilkes, an award-winning photographer, whose work has appeared in Vanity Fair, Sports Illustrated, Time, Life Magazine, and The New York Times Magazine. "With Photoshop as part of Adobe's Creative Cloud, I don't have to wait every year for a new set of tools and features, like Smart Sharpen and the new upsampling capabilities, to help achieve my vision. I'm also excited about the integration with Behance. As a photographer, the ability to connect to a global community of artists, art directors, and designers is very inspiring."
+
+

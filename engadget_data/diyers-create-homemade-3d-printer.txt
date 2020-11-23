@@ -1,0 +1,6 @@
+
+ 
+Hot on the heels of the candy-object-making printer, an ingenious group of DIY'ers from Russia have managed to create a homemade 3D printer from a CNC lathe kit and some cobbled together bits and pieces. Typically, 3D printers are quite expensive (running anywhere from $20,000 up to $100,000), but working with cheap materials and using free, open source software, the designers were able to construct this project for considerably less. The printer software uses standard STL (a stereolithography CAD file) to render the objects, and it employs inexpensive plastic waste or powdered paint as raw material to create the real-world item. Motor over to the translated Russian site to see how it all takes shape -- pun intended.[Via Make]
+      
+
+ 

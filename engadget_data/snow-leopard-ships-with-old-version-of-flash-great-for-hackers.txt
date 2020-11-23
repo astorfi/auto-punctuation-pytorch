@@ -1,0 +1,5 @@
+
+ 
+As we've seen, for many people the migration to Snow Leopard has been eventful (to say the least). Even if you've been spared most of the growing pains, you'll want to make note of this next item: According to the kids at Adobe, the initial release of Mac OS X 10.6 includes an earlier version of Adobe Flash Player (10.0.23.1), necessitating an upgrade to 10.0.32.18 if you want to take advantage of the enhanced security the latter provides. What's more, even if your plug-in was up-to-date, an upgrade to Snow Leopard will downgrade your Flash Player version -- so much for auto-magically downloading the most recent updates when you install the OS, eh? Our feeling is this: if you're including Flash Player in the OS, you'd better update that as well. As Daily Tech points out, Adobe products (especially Flash) are a favorite of hackers and malcontents everywhere, so if you're serious about security you'll want to get your hands on the update ASAP. And as always, the read link is a terrific place to start.[Via Daily Tech]
+
+ 

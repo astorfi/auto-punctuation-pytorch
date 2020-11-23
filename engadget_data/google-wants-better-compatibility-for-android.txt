@@ -1,0 +1,16 @@
+
+ On Thursday, we starting hearing claims that Google had strong-armed Acer out of launching its A800 CloudMobile in China with the Aliyun operating system. We reached out to the search giant for its response, but they declined to comment. Over the last 24 hours, though, Google has attempted to explain its stance, but at the same time has potentially created some confusion about how open Android really is. Below is the initial statement received by Marketing Land:
+
+  "Compatibility is at the heart of the Android ecosystem and ensures a consistent experience for developers, manufacturers and consumers. Non-compatible versions of Android, like Aliyun, weaken the ecosystem. All members of the Open Handset Alliance have committed to building one Android platform and to not ship non-compatible Android devices. This does not however, keep OHA members from participating in competing ecosystems."
+
+ This is clearly outlining Google's intention to prevent forked Android spin-offs from diluting the platform and the user experience. Fair enough. The trouble seems to be, however, defining when something is Android compatible, rather than its own separate (albeit Android-based) operating system. Amazon's Kindle Fire will instantly spring to mind. The new tablets run on Ice Cream Sandwich, but are fenced-off from the official Play store and other Google offerings. As you can imagine, the debate has started to get a little heated, we go into it in more detail past the break.
+
+
+
+ According to Alibaba -- the company behind the offending operating system -- this is a similar situation with Aliyun, albeit a change from earlier reports, who responded to the compatibility charge as follows:
+
+  "Aliyun OS is not part of the Android ecosystem so of course Aliyun OS is not and does not have to be compatible with Android. It is ironic that a company that talks freely about openness is espousing a closed ecosystem."
+
+ So, what about that Google? Well, it seems that the main complication is the Open Handset Alliance, a sort of club that agrees to help maintain the integrity of Android for the benefit of users, handset makers and developers alike. Membership to this club doesn't prevent you from working with other operating systems (Windows Phone, for example,) but does ask that you commit to the "one Android platform" mentioned above. So, Alibaba says it's not Android, Google claims it is. Which, some might argue, has justifiably led the Chinese software firm's VP of international corporate affairs, John Spelich, to ask "Will someone please ask Google to define Android." We're also left to wonder why Haier (also a member of the OHA) isn't receiving the same pressure, though it's also worth remembering Amazon isn't in the alliance. This leaves Acer, and potentially other members of the OHA, stuck in the middle, as well as raising further questions about Google's plans for China (where Alibaba is very powerful), and Android as a whole. Unfortunately, back in the immediate, it looks like Acer will have to rethink its strategy for the CloudMobile A800, in one of the world's largest markets. Though if we see a Jelly Bean version popping up soon, don't color us surprised.
+
+

@@ -1,0 +1,17 @@
+
+ There was much wailing and gnashing of teeth when Microsoft declared that fairly fresh (and costly) Windows Phone 7 devices like the Nokia Lumia 900 would never taste its latest WP8 wares. To assuage hurt feelings and keep legacy phone owners within throwing distance of the latest devices like the Nokia Lumia 920 or HTC's 8X, Redmond introduced Windows Phone 7.8 (version 7.10.8858), which started arriving via Zune on January 31st. It was likely hoping that the upgrade would tide legacy owners over until their contracts expired or boredom set in, at which point they'd get a new device packing WP8 -- including not-too-costly models like the $249 (contract-free) Lumia 620. So the question is, will the 7.8 bone thrown at WP7 handset owners prevent them from looking at the greener Android or iOS grass across the fence? We've got a Lumia 610 here that was otherwise collecting dust, so head after the break to find out our thoughts.
+
+
+
+ 
+ Windows Phone 7.8 is at least trying to keep up appearances with its WP8 sibling. However, thanks to Windows CE underpinnings, that's about the most it can manage. For instance, there's a new lockscreen that brings accidental wipe protection and fresh wallpaper with Bing's image of the day. However, unlike with WP8 and its NT kernel, other apps have no access to the lockscreen, so all you'll get at a glance will be calendar appointments or sparse notification icons for email, calls or SMS. Any missed tweets or Facebook interaction, for instance, will remain just that if you pull your phone out of a pocket and glance at it.
+
+ 
+ Next up is the most significant change with Windows Phone 7.8, and Redmond's sole kudo: the ability to re-size Live Tiles. In fact, when glancing at the WP7.8 home screen, it's now tough to tell it apart from WP8 thanks to that tweak. It also works identically: pressing a tile for a tic or two brings the ability to choose small, medium or wide versions using the appropriate arrow. That means that for more important apps, dynamic content can be front and center in larger tiles, while less important apps or utilities can be kept to the smallest-sized tile.
+
+ 
+ The final change of any note is new accent colors, letting you choose up to ten new shades (20 in total). And honestly, that's it. Perhaps the biggest news with this update is what Microsoft didn't do, considering the way it talked up the new version at its initial launch. There were no improvements under the hood (though even the lowly Nokia Lumia 610 was fairly smooth on WP7.5, and still is), no OTA updates, you're stuck with Internet Explorer version 9 instead of the much zippier IE10 and apps created for WP8 won't work -- giving developers very little reason to create new ones for the lame duck OS, or even update existing ones. That means you're getting a version of Facebook that's two generations behind that on Windows Phone 8, to name one.
+
+ In short, apart from letting you look like the cool Windows Phone 8 kids, the new version probably won't go too far in smoothing out hard feelings and recovering depreciated phone values -- especially when there's other mobile OSes that won't leave you at the altar, even if your hardware's no longer state-of-the-art.
+
+

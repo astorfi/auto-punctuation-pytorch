@@ -1,0 +1,9 @@
+
+ 
+
+
+	Is it more gauche to pull out your phone in the middle of a date, or to draw a bunch of crop circles on your pants? That's the question we were asking ourselves after coming across PocketTouch -- a new Microsoft Research prototype that lets you manipulate your handset without ever removing it from your pocket. Developed by researchers Scott Saponas, Chris Harrison and Hrvoje Benko, the device essentially consists of a customized, multitouch capacitive sensor hooked on to the back of a smartphone. This sensor is capable of picking up gestures through fabric, allowing users to execute a wide array of eyes-free, gesture-based functions (including simple swipes and alphanumeric text) without ever having to actually whip out their phones. To do this, the team implemented what it calls an "orientation-defining unlock gesture," which helps the prototype get its bearings, before testing the capacitive sensors across different fabrics. According to Microsoft, the outcome "exceeded expectations," though there's no word on when or if this Goliath of a device could ever hit the mainstream. Head past the break to see a video of a man playing tic-tac-toe on his pants.
+ 
+
+  
+ 

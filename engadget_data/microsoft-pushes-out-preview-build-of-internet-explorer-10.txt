@@ -1,0 +1,17 @@
+
+ 
+Happy with your shiny new copy of Internet Explorer 9? It's already out of date -- Microsoft just announced Internet Explorer 10 at its MIX developer conference in Las Vegas, and if you're running Windows you can grab a spoon right now and sample an early taste. You can download the new Platform Preview right now at Microsoft's Test Drive site and see where the company's going with this early iteration, which adds support for additional web standards like CSS Gradients and CSS3 Flexible Box Layout. According to the press release, a gentleman named Dean Hachamovitch just revealed the new browser on the MIX stage, but we're actually watching him speak right now, and... he's not quite there yet. We'll let you know what he says. 
+
+Update: Video after the break!
+
+Update 2: Dean and Steven Sinofsky (president of the Windows division) are indeed showing it off on stage, but they're just performing the same Test Drive tests you could run at home -- go on, you know you want to dip your toe in that HTML5 fishbowl.
+
+Update 3: Oh, Dean, you're such a tease -- that copy of IE10 (and by association, Windows) was running on a 1GHz ARM chip! Yes, Windows on ARM -- photographic evidence after the break.
+
+Update 4: NVIDIA just tweeted that the mysterious ARM chip is in fact a Tegra 2 processor.
+      
+
+ 
+
+
+ 

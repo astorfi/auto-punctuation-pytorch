@@ -1,0 +1,53 @@
+
+Back in June, Google revealed Cardboard: an open-source attempt at mobile virtual reality. Heck, even the "hardware" is open source -- here are instructions to make your own, right now!
+
+
+But the concept is more than a low-tech solution to mobile VR. It's emblematic of Google's approach to virtual reality: use the phone that's already in your pocket. Samsung's taking the same approach later this year with Gear VR, only it's also partnering with Oculus VR on the software side.
+
+
+This stands in stark contrast to the PC-dependent, ultra-high-res experience Oculus VR and Facebook are aiming to achieve. The Oculus Rift headset both literally and figuratively kickstarted the re-birth of virtual reality in modern technology. It remains the peak of technological achievement in virtual reality. And now, the medium is splintering into two distinct futures: one of entertainment, the other of immersion.
+
+
+
+"PRESENCE"
+That word -- "presence" -- is at the heart of virtual reality. Game industry veteran Michael Abrash -- formerly of Valve, where he worked on research and development; currently of Oculus VR, where he serves as "Chief Scientist" -- described this ideal for VR during a talk in January 2014:
+
+"It's the sense of being someplace else while in virtual reality; many people feel as if they've been teleported. Presence is an incredibly powerful sensation, and it's unique to VR; there's no way to create it in any other medium."
+
+The medium's history is littered with failed attempts, even from gaming's biggest players (Nintendo's Virtual Boy, anyone?).Indeed, that's the "magic" of virtual reality: being whisked away, instantly, to another world. You're not looking at another world on a screen -- you're there. At least, that's when VR works. The medium's history is littered with failed attempts, even from gaming's biggest players (Nintendo's Virtual Boy, anyone?). But with Oculus Rift, even the first demos shown on a duct-taped, slapdash prototype were incredibly impressive. It just worked, even if it was clearly rough around the edges. And even with those early demos, a PC was required to power them. The same can be said for Sony's Project Morpheus, powered by a $400 game console.
+
+One early demo, dubbed "Tuscany" for its visual nods to the Italian region, wasn't much to look at. The art was low-resolution; the in-world lighting was barely there; the level of detail in general was pretty low. But even with bare bones demos like Tuscany, the world was believable because the demo's framerate was high enough and the headset was capable of refreshing video fast enough for it to seem real. Those demos seem rough now by contrast, but they're still far ahead of what we've seen running on VR headsets powered by mobile phone processors.
+
+MOBILE VR AS IT STANDS TODAY
+We've heard very positive things from folks who've tried Samsung's VR headset. The so-called "Gear VR" is still a development kit, and it's powered by a Galaxy S4; we're told that the consumer version will use a newer phone (maybe the Note 4?) with more horsepower. Though our sources only experienced a few demos, they repeatedly described them as "impressive," specifically with the caveat "for a phone."
+
+Samsung still hasn't officially acknowledged that its VR headset exists (that's a real render of it above). Gear VR is said to be be unveiled in Germany at IFA, just a few weeks from now.
+
+Google's Cardboard has received similarly positive, though guarded, responses. TechCrunch's Greg Kumparak wrote back in June, "It's actually kind of freaking wonderful. Is it an Oculus Rift killer? Hah - of course not. It's made of cardboard. But it's still awesome." As he demonstrated in a video (above), a handful of apps -- including major known quantities like YouTube and Google Earth -- can be used in Cardboard right now, employing phones that already exist (there's a Nexus 5 in the demonstration).
+
+It's certainly a different take. Rather than aim to provide "presence," Google's approach to VR seeks to provide an alternate viewing experience for existing content. YouTube, for instance, is simply an interactive VR app for viewing non-VR content. That's not a bad thing, necessarily -- it could act as an intro to VR for the mass market -- but it's not the same as providing "presence."
+
+Another VR device powered by mobile tech, GameFace Labs' "GameFace" prototype, further highlights this difference. The same Tuscany demo running on the GameFace headset, scaled down for a mobile processor, provided a markedly different experience than what we've tried on the Oculus Rift. Are you still "in" Tuscany? Sure! But it looks an awful lot like Virtual Tuscany, rather than "Oh man, I'm in Tuscany!"
+
+Though GameFace is impressive, the second Oculus Rift dev kit is an order of magnitude more adept. Beyond a much higher resolution screen, the second Rift dev kit comes with an additional camera for depth-tracking (just to barely scratch the surface of technical differences). That's not meant as a slight at GFL, but to highlight how different these two approaches are to virtual reality. Simply put, they're intended to deliver different experiences.
+
+WHERE CASUAL AND BLEEDING EDGE VR DIVERGE
+Unlike film or video games, where technical prowess can be trumped by other factors, major VR leaders argue that it's a worthless medium without "presence." To create presence, Oculus VR founder and Rift creator Palmer Luckey says that the tech has to be of a certain quality -- specs that exceed the most advanced smartphones. Even the Rift's second dev kit, which is far more technologically capable than the competition, is far from what he thinks is required for "good consumer virtual reality." That means super high-res screens, high refresh rates ("90 Hz or higher"), and fast processors (read: actual computers, with dedicated graphics processing) to make all that happen. Luckey's told me in interview after interview that standalone, untethered VR is the future of the medium (see above). But 10 years from now "future," not 2014.
+
+Google argues that the best time to get VR going -- regardless of technological capability -- is right now."We could theoretically plunk down a Titan in there. There's nothing stopping us. But people will say, 'This is hot! It only lasts for five minutes!'," NVIDIA product manager Mithun Chandrasekhar told us in a recent interview. We asked about the limitations around mobile VR, and he joked that NVIDIA could -- theoretically -- put an expensive, high-powered GPU in a VR headset.
+
+Of course, it'd be incredibly hot, heavy, and would require immense battery power.
+
+Even if NVIDIA could shrink the GPU down in size and weight, power issues would overcome horsepower limitations. Battery technology simply isn't keeping up with processor technology. "Battery is probably the biggest limitation," Chandrasekhar said.
+
+Google argues that the best time to get VR going -- regardless of technological capability -- is right now. "We want everyone to experience virtual reality in a simple, fun, and inexpensive way. That's the goal of the Cardboard project," the Cardboard website reads. Beyond expanding the reach of virtual reality, Google specifically calls out developers that it hopes will, "build the next generation of immersive digital experiences." Silly as it might look, Google Cardboard and other mobile VR solutions look to offer a foundational experience for both the development community -- you know, the folks who make this stuff really amazing -- and for mainstream, non-technophiles.
+
+TWO PATHS, ONE RESULT
+Chances are, you don't have a 4K screen on your smartphone. You might soon, but you probably don't just yet. When you do -- when we all do -- the concept of mobile VR will seem a bit less gimmicky and a bit more like a real product. When processors are more capable, when batteries last longer, and the line between PC and mobile phone blurs just a bit more, mobile VR won't feel like such a foundational step on the way to the promise of "presence."
+
+For now, mobile VR can serve as a taste of the medium. An amuse-bouche to the medium. A gateway drug to the presence you'll find on devices like the Oculus Rift and Project Morpheus. And that's not a bad thing! Before long, devices like Rift and Morpheus will be rudimentary, their abilities easily accomplished on mobile, and the two virtual reality paths will (at least in part) rejoin.
+
+Whether the goal is growing the medium, getting to market early, providing "presence," or something else entirely, the result is the same: we all get to play with a bunch of rad VR headsets. Oh, and hopefully witness the birth of a major new medium. No big.
+
+[Image credit: Valve (Steam Dev Days 2014 slide), SamMobile (Gear VR)]
+

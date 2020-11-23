@@ -1,0 +1,6 @@
+
+ 
+Quad-core shmod-core Intel, we need 6 cores or more to keep our uh, web browsers snappy. While you're at it, how about tossing in some Simultaneous Multithreading (SMT) so that each core can process two threads at a time -- 16 simultaneous threads per 8-core processor or 32 for dual-processor, 8-core rigs. If that sounds good then you're in luck; Intel just went official with its near-term architecture plans which include the 2008 launch of a 6-core Dunnington-class server CPU platform based on Intel's 45-nm Penryn "tick" architecture. On deck is Intel's second generation Nehalem "tock" architecture with SMT and scalable from 2- to 8-cores. We're talking "dramatic" performance and energy improvements, according to Intel, from a microarchitecture bent on delivering an 8 MB level-3 cache, DDR3-800 memory support, 25.6GB per second Quickpath interconnects (so long Front Side Bus!), an integrated memory controller and optional integrated graphics to high-end servers and eventually laptops. Hear that AMD? Tick, tock goes the clock. P.S. That's Nehalem pictured. What, can't you tell?[Via BetaNews, thanks Mike O.]
+      
+
+ 

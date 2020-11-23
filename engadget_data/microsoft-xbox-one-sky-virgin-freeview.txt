@@ -1,0 +1,9 @@
+
+Nothing tests a stiff upper lip like a next-gen console launch. Having already been spooked by inaccurate pricing on the PlayStation Network, some Brits are now discovering that the Xbox One's heavily promoted TV functions aren't readily compatible with their set-top boxes. Whether on Freeview, Virgin or Sky, users' efforts to route TV output through the Xbox One's HDMI passthrough port are apparently resulting in "juddery" and unwatchable video -- perhaps because the Xbox One defaults to 60 frames per second while most UK hardware sticks to the PAL standard of 50Hz. In turn, if they're forced to give on using passthrough, they also have to miss out on the use of Kinect voice control to start watching TV, change the volume or "snap" TV side-by-side with an app.
+
+
+Ironically, one UK service that has made a particular point of never supporting the Xbox One -- namely, YouView -- may now offer the smoothest experience of the lot (albeit without any EPG integration), as its box seems to be more comfortable outputting a compatible signal. That won't be much help to others, however, so we've asked Microsoft's PR if there's any progress towards a fix, and in the meantime you might want to try a possible workaround from a reader at HDTVTest.
+
+[Thanks, Barry]
+
+

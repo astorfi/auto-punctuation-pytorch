@@ -1,0 +1,5 @@
+
+ A few years back, Intel prognosticated that NVIDIA's CUDA technology was destined to be a "footnote" in computing history. Since that time, Jen-Hsun Huang's low level virtual machine (LLVM) based compiler has more than proven its worth in several supercomputers, and now NVIDIA has released the CUDA source code to further spread the parallel computing gospel. This move opens up the code to be used with more programming languages and processors (x86 or otherwise) than ever before, which the company hopes will spur development of "next-generation higher performance computing platforms." Academics and chosen developers can get their hands on the code by registering with NVIDIA at the source below, so head on down and get started -- petaflop parallel processing supercomputers don't build themselves, you know.
+      
+
+ 

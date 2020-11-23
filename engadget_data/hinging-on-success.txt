@@ -1,0 +1,24 @@
+
+Each week Ross Rubin contributes Switched On, a column about consumer technology.
+
+The announcement of the Acer Aspire R7 was the best example of the company's assertion that it was moving from computers designed with touch to computers designed for touch. But if having a fancy, even unprecedented, hinge is what defines a touch-optimized notebook, Acer is a bit late to the party.
+
+
+Last October, Switched On discussed the role that laptop-tablet hybrids -- namely convertibles and detachables -- would play in the differentiation of Windows 8 devices. Both types have seen their share of support. Detachables have included HP's Envy x2, ASUS' Transformer-inspired VivoTab and Microsoft's Surface. (Dell's XPS 10 is available only with Windows RT.)
+
+
+
+Some of these products include attractive features such as Microsoft's ultrathin keyboards or secondary batteries to charge the PC while docked. However, in some ways, convertibles have been more fertile ground for differentiation, with different manufacturers or -- in Lenovo's case -- different product lines adopting various mechanisms to showcase the versatility of their design. In all but one case, this has been tied to a differentiated hinge design. (The ASUS TAICHI can offer much of the same versatility due to its front- and rear-facing displays.)
+
+   Model Hinge Type Poses Trade-offs   ASUS TAICHI Conventional, supporting dual displays Open clamshell, closed clamshell (partial), presentation, tablet Outer screen always exposed   Acer Aspire R7 "Ezel" hinge connected to center of display back Open clamshell, closed clamshell, raised platform, presentation, tablet (almost flat) Trackpad behind keyboard or inaccessible when in open clamshell mode, not flat in tablet mode   Dell XPS 12 Side-mounted display hinge Open clamshell, closed clamshell, presentation, tablet N/A   Lenovo IdeaPad Yoga 360-degree display rotation Open clamshell, closed clamshell, presentation, tablet Keyboard exposed when in tablet mode   Lenovo ThinkPad Twist Twist-and-flip hinge at base of display Open clamshell, closed clamshell, presentation, tablet N/A   Sony Duo Slider Open clamshell, tablet Screen always exposed, no presentation mode.  The "poses" that a convertible is capable of don't tell the full story. For example, it is faster and easier to get a Lenovo IdeaPad Yoga from closed clamshell to presentation mode than it is to twist around the display on the ThinkPad Twist. However, what quickly comes to the fore is that how, at the end of the day, all these different clever mechanisms result in the same few usage configurations -- all support tablet and traditional clamshell modes and most support a presentation mode that exposes the display without the keyboard in front of it. This little trick is something that iPads and most Android tablets cannot do without an accessory such as Apple's popular Smart Cover for iPads.
+
+Acer's proud of the Aspire R7's hinge, which is strong enough to support the screen parallel to the keyboard -- this is not a typical usage scenario.
+
+Acer's proud of the Aspire R7's hinge, which is strong enough to support the screen parallel to the keyboard -- this is not a typical usage scenario. However, one can see how it might facilitate collaboration among two or more colleagues standing near the laptop. The R7 has a few trade-offs, though. In "tablet" mode, unlike most competitors, the display is not completely flat against the keyboard.
+
+More controversially, Acer placed the trackpad behind the keyboard on the R7 in the name of bringing the display closer to the keyboard the way it is with Surface or an iPad using keyboard covers and cases from Logitech and Zagg. Embracing the touchscreen at the expense of the trackpad doesn't seem like a wise trade-off, though (even the Surface keyboards have trackpads), and some kind of pop-out or bundled Bluetooth trackpad solution seems like it would have been a better bet. As it is now, those wishing to use the trackpad are forced to put the display even farther away from the keyboard, defeating the intimacy between screen and keyboard Acer wished to create.
+
+Addressing only hinge mechanism flexibility, it is surprising how well the twist-hinge holds up these days. A popular choice on the tablet PCs of years ago, it covers the bases of the clamshell, tablet and presentation modes while allowing the screen to be protected when the laptop is closed and without exposing the keyboard as the Yoga design does.
+
+ Ross Rubin is principal analyst at Reticle Research, a research and advisory firm focusing on consumer technology adoption. He shares commentary at Techspressive and on Twitter at @rossrubin.
+

@@ -1,0 +1,19 @@
+
+Romo first rolled into our lives via Kickstarter. Since then we've seen it return leaner and meaner, with more improvements just announced. Romotive tells us that an app update coming today brings full telepresence functionality, allowing users to log into the device from anywhere via any iOS device or PC running a Chrome browser. Setting up the telepresence should be no harder than setting up a regular call, and once you're set, you'll get two-way video and audio -- plus control of the robot (including its expressions!). This not only gives Romo new scope for (almost literally) becoming one of the family, it adds a whole host of new use cases. Want a few ideas to get you started? There's a few in the suitably chipper video past the break.
+
+
+
+
+Show full PR textSummaryRomo, the smartphone robot made by Romotive, is now capable of fully functional telepresence. It's now possible to log into a Romo from anywhere in the world, via any iOS device or computer running Chrome. This makes Romo the world's simplest and most affordable telepresence robot. We hope that this will open up a wide variety of new use cases for robots in homes, schools, hospitals, etc.
+
+ContextRomotive is a robotics company that builds low-cost multi-functional robotic creatures. Our current robot's name is Romo, and he uses computer vision to interact with the world around him. Users can program him using a simple in-app interface or build entire behaviors and functionalities from scratch using our open SDK for developers. He can be purchased at Romotive.com for $149, and for the first time in the company's history, we have finally caught up to demand and are shipping the day the order is placed!
+
+We believe that while there's been a great deal of technological innovation over the last two decades in robotics, that progress has happened exclusively in academic lives and has had little impact on the vast majority of people on the planet. We want to apply design and product sense to robotics in order to build robots that make that advanced robotic tech accessible, friendly, and affordable.
+
+Features of this release- An extremely simple user interface that makes logging into a robot as simple as calling someone on the phone- Romo can be controlled via any iOS device or computer running Chrome, from anywhere in the world- Stable and high resolution transmission of 2-way video and audio, along with robot commands!
+
+Story- A robot enthusiast who knows that this update is on the way just found out that he has a tumor on his kidney and needs to have major surgery in the next few weeks. He went to our website and bought a robot so that, while he is recovering in the hospital after the surgery, he can still check in on his family and interact with them at home on a daily basis- In user testing and amongst the team, we've found that these new features open the tech of telepresence up to a huge new market. Grandparents can play hide and go seek with their grandkids who live on the other side of the country. Parents can log in and say goodnight to their kids when they are traveling on business trips. Ultimately, people may even tutor or babysit via Romo while parents relax elsewhere in the house...
+
+Why this mattersThe explosion of internet and mobile companies over the last two decades has been at least partly due to the availability of frameworks that decreases the entry barriers to building new things. Unfortunately, nothing like that exists in robotics. Every new company has to start from scratch. That's what we're trying to change. By making tech like telepresence available to everyone at a disruptively low price on a multifunctional robot, our hope is that other entrepreneurs, students, and researchers will start working on their software mashups using Romo as a platform.
+
+

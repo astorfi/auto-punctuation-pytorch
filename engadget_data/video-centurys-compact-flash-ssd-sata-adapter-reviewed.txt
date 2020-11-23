@@ -1,0 +1,9 @@
+
+ 
+Akihabara News managed to snap up Century's 3x Compact Flash adapter for review. As expected, the do-it-yourself SATA adapter aggregates a trio of CF cards and presents them as a single solid state disk to your computer in either RAID 0 (better capacity) or RAID 5 (better integrity) modes. The one caveat is this: the speed of the SSD is determined by the slowest CF in the mix. Regardless, this is without a doubt the most inexpensive way to create a quick and dirty SSD at about half the cost of an off-the-shelf, retail model. Check the action after the break.
+      
+
+ 
+
+
+ 

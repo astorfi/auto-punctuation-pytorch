@@ -1,0 +1,5 @@
+
+ In case you've been hiding under a rock for the last couple of weeks: Bungie's Halo 3 was released for the Xbox 360 about a week ago. Console pixel counters quickly picked up on the fact that screenshots of the game showed a resolution of 640 lines, 80 short of the 720P HD standard, and quickly jumped on Bungie to explain this deficiency. Kudos to Bungie for being forthright in explaining what we consider a good design choice: using 2 display buffers (each at 1152x640 pixels) to preserve both high dynamic range and smooth frame rates. As we've said before, there's a lot more to picture quality than just static resolution, and both contrast ratio and motion are high on the list of factors that make for a great viewing experience. So yeah, we think Bungie's decision has merit and that Halo 3 looks great, but we're not sure if this qualifies Halo 3 as HD.
+      
+
+ 

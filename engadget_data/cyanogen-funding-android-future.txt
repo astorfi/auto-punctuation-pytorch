@@ -1,0 +1,25 @@
+
+It's been three months since Cyanogen announced it was stepping out as a profit-seeking business. Flush with $7 million in funding, the company has been pushing harder than ever to achieve its goal of making CyanogenMod the third major mobile ecosystem, after iOS and Google's Android. Now with "tens of millions" of installs, the company announced today that with help from VC firm Andreessen Horowitz it's added a further $23 million to its funding pot, and with this investment it believes has everything in place to bring in more talent and expand CyanogenMod to other devices like TVs, wearables and even cars.
+
+
+Cyanogen's mission is to refine the Android experience while still giving consumers (and pro users) the things that made it stand out in the past: freedom from manufacturer and carrier update cycles, and the ability to customize their device just how they like it. That focus is evident in its open-source software, which is now based on Google's Android 4.4 KitKat and has recently gained encrypted text message support and built-in screencast video recording.
+
+
+
+"We feel that the existing devices you can currently buy aren't really designed for the end user. They're essentially designed as cash registers for the companies that make them," says CTO Steve Kondik, who created CyanogenMod back in 2009. "A lot of people are starting to mistrust the software and devices that they use because of that fact. It's an opportunity for us to make really good software."
+
+"We intend to hit the mass market in late 2014 or early 2015 with a new brand."Right now, Cyanogen operates as a small company with 22 employees. That's set to change in the next six months as the company looks to bring in fresh talent. Kirk McMaster, the CEO, sees Cyanogen hiring between 30 and 50 new employees during that time, helping to evolve its mobile platform and deliver new products even quicker.
+
+"We intend to hit the mass market in late 2014 or early 2015 with a new brand, complete focus on the mass market and a new design language," says McMaster. "We'll bring to the market some new signature experiences that differentiate Cyanogen and any other brands we create."
+
+Cyanogen's software is already available on Oppo's N1 smartphone, but we could see the software appear on future smartphone models with a new, friendlier brand name in the coming months.
+
+In the past, installing CyanogenMod was far from simple. That all changed when the team made switching from a phone's original Android setup to its own flavor of the OS much easier, with automatic mobile and desktop installer apps. The presence of a Cyanogen installer on the Play Store made Google a little uneasy, however, and the search giant politely asked the team to pull the app, citing violation of its terms of service. Looking back, Kondik understands why Google had concerns: Cyanogen had made installation almost too easy.
+
+"Google was very civil, its concern was that we made things too easy.""Google was very civil," notes Kondik, "its concern was that we made things too easy -- users could download an app, connect their device to a computer, type in a URL and boom, they had CyanogenMod." Having spoken with the support teams at Google, Cyanogen recognized that users could blindly use its tool, overwrite the data already on the device and be left with new software that they weren't familiar with.
+
+The team had experimented with including a backup option it is first version of the app, but its backup process, which cached a copy of the user's original ROM and settings, would take as long as 20 minutes to complete. The feature didn't resonate with usability testers, so it didn't make the cut. Cyanogen intends to restore backup options in a new release and will include more how-to guides for new users -- or "putting on the training wheels" as Kondik likes to say -- in the hope it will gain the necessary clearance to return to the Play Store, which is planned for the new year.
+
+Developing an open-source platform can make it harder to make money. So how does Cyanogen intend to provide a return for its investors? Kondik thinks the key lies in building Cyanogen's userbase, with a little help from consumers in China, the US or Europe, based on a freemium model that will see a mixture of free and paid-for apps, services and add-ons launching in the next 8-12 months. The company believes that if it can reach 100 million-plus users, interest in its app store will bring developers to the platform and, in turn, allow it to explore wearables, cars, TVs and other form factors further into the future.
+
+

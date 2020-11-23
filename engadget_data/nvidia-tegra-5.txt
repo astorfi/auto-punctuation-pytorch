@@ -1,0 +1,9 @@
+
+In what's becoming a yearly tradition, NVIDIA came to its CES press conference with tidings of its next-generation mobile processor which will begin gracing devices in 2014. The chipset maker officially announced Tegra K1, which features the first 192-core GPU based on the Kepler architecture which was originally designed for desktops and notebooks and later added to supercomputers. As you can imagine, NVIDIA is bringing its graphics chops to the new DirectX 11-powered GPU, and it packs a serious punch -- so much so, in fact, that it will come with support for Unreal Engine 4 and OpenGL 4.4. In the company's usual form, we were treated to demos of the new chip's power compared side-by-side with a Tegra 4, and the difference was quite noticeable; the K1 offers real-time computing, global illumination, higher dynamic range and greater detail like reflective surfaces, dripping water and other realistic physically-based rendering. Interestingly, Tegra K1 will actually come in two different versions: a 32-bit option with a 2.3GHz "4-plus-1" A15 CPU and a 64-bit unit with a 2.5GHz dual-core Denver CPU. Naturally we're a bit more curious about the latter at the moment, and we'll update you as we get more information about either chip -- such as availability.
+
+
+Update: We received a little extra clarification from NVIDIA reps, who have told us that both versions of the K1 have already been certified by AT&T and Vodafone (among other carriers), and we should expect to see devices with the new chipset near the end of the first half of 2014. We also learned that although LTE support doesn't come natively on the chipset, it'll still be available thanks to an external chip that will be part of the K1 setup. It's hard to say whether or not this will help NVIDIA gain some lost ground on Qualcomm, but only time will tell.
+
+
+Ben Gilbert contributed to this post. 
+

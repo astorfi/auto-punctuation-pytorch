@@ -1,0 +1,8 @@
+
+ 
+A clever DIY-er wanted to add some semblance of projector capability to his iPhone, without -- you know -- actually adding a projector to his phone. He chose instead to use the phone in tandem with a 5 x 7 laser matrix, five 8-bit D latches for controlling the laser pointers, a microcontroller, and a bit of (somewhat complex looking) code for the iPhone, resulting in the ability to "spell" out messages on a wall, or other surface. There's a super exciting video demo after the break -- check it o-u-t.
+
+ 
+
+ 
+ 

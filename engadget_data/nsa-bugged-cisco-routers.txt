@@ -1,0 +1,12 @@
+
+As promised, the release of Glenn Greenwald's new book, No Place to Hide, has brought plenty more Snowden leaks, and one document is particularly mind-blowing. The photo above shows an NSA team intercepting and bugging a Cisco router before it's sent to a customer who's been targeted for surveillance. In the document, an internal newsletter from June 2010, the chief of the NSA's Access and Target Development department explains the process of intercepting routers, servers and other internet hardware to install beacon implants, then resealing them and sending them on to targets.
+
+
+
+A quote from the document follows:
+
+Here's how it works: shipments of computer network devices (servers, routers, etc,) being delivered to our targets throughout the world are intercepted. Next, they are redirected to a secret location where Tailored Access Operations/Access Operations (AO-S326) employees, with the support of the Remote Operations Center (S321), enable the installation of beacon implants directly into our targets' electronic devices. These devices are then re-packaged and placed back into transit to the original destination. All of this happens with the support of Intelligence Community partners and the technical wizards in TAO.
+
+Pretty crazy, right? It's not clear how often the agency has used this technique, but the document has prompted a response from Cisco. According to Mark Chandler, the company's SVP of General Counsel and Security, Cisco has never cooperated with the government to "weaken products." Still, we've reached out to the company for more info and will update the post with any additional comment.
+
+

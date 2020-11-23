@@ -1,0 +1,10 @@
+
+       
+By all appearances, Google's trying to break Android free of the surly bonds of the manufacturers and carriers that support it, opening its own online store and selling unlocked Nexus Ones to anyone willing to pony up the $529. Problem is, the Nexus One as we know it today is only available in a configuration that supports North American 3G on AWS spectrum, meaning you've got to go with the States' fourth-largest carrier if you want to blaze -- you've got no other option. That's not very "open," is it, Google?
+
+That brings us to an FCC finding today. Take a look at the two labels above; the one on the right comes from the current Nexus One. The label on the left, meanwhile, is physically identical and comes from a new filing for a device with FCC ID NM899110. The old Nexus One has ID NM899100, so this new device is just a single digit off -- likely a variant of the existing model. If you look into the RF reports a bit, you'll immediately notice that the new handset supports 3G on WCDMA Bands I, II, and V, meaning that it'll work on AT&T (and Rogers, Bell, and Telus for the Canadians in the room) along with most of Europe. Same label style, nearly identical model ID, different bands -- we think we know what's going on here. Google, your move.
+
+[Thanks, wonderbread]
+      
+
+ 

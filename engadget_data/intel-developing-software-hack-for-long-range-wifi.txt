@@ -1,0 +1,6 @@
+
+ 
+The idea of extended range WiFi has been around the block before, but amidst all the talk of mass WiMAX deployments comes a swank new idea to get vanilla WiFi out to more people without breaking any laws or relying on expensive hardware upgrades. Apparently, researchers at Intel have "created a system that lets WiFi signals, which ordinarily carry a few hundred feet, instead travel 100 kilometers, or more than 60 miles." Interestingly enough, the system supposedly relies on "modified software" running on regular WiFi equipment, and wireless access points with the newfangled software can seemingly daisy-chain directional network traffic through "several carefully aligned steerable antennas in order to eventually reach a fiber link connected to the internet." Unfortunately (for us, at least), Intel has emerging markets on the brain rather than rolling this out in the US or UK, as it reckons the "$700 to $800 long range WiFi towers" would do quite well in locales that balk at $15,000 WiMAX towers. So if you're currently stealing some dignitary's WiFi in Uganda in order to read this, fret not, as Intel's looking your way for testing "later this year."
+      
+
+ 

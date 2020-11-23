@@ -1,0 +1,6 @@
+
+ 
+It's easy to forget some of Google's "we will own you and your children" initiatives: there are simply so many of them. One particular gambit that has been flying under the radar is Google's Native Client, which allows the Chrome browser to execute x86 code natively. This has big implications for moving those beefy, number crunching desktop app holdouts to the browser, which would not only be a boon for Google's ability to make Microsoft and Apple-beating web apps, but a big win for Chrome OS as well. Right now the Native Client is only working with the developer-oriented Chromium browser, with ubiquitous support a distant dream, but Google has already worked out ARM processor code portability, has plans to be completely processor agnostic in the future, and will be updating the SDK "rapidly" in the coming months. Basically, it's on. Check out a video demonstration of some "hello world" code after the break, along with a brief demo of a 3D shooter.
+      
+
+ 

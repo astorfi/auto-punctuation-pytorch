@@ -1,0 +1,18 @@
+
+Ethiopia's government is among the most oppressive political regimes on the African continent, only trailing Eritrea in its population of incarcerated journalists. And with the country's recent implementation of off-the-shelf spyware from Italian security firm Hacking Team, Ethiopia's leaders can--and have been--expanding their despotic reach far overseas.
+
+
+
+Per a report from Citizen Lab, published February 12th, numerous journalists working for the Ethiopian Satellite Television Service (ESAT), a network of independent Ethiopian expat journalists operating out of Alexandria, Virginia were targeted by a member of Ethiopia's internal information security apparatus: the Information Network Security Agency (INSA). Harassment from government officials is a regular occurrence for dissenting journalists in Ethiopia but this latest attack marks the second time that journalists outside of the East African nation have been targeted by the INSA.
+
+What's more, both attacks appears to have been carried out using Hacking Team's Remote Control System (RCS) spyware. According to the Hacking Team product website, this software "is a solution designed to evade encryption by means of an agent directly installed on the device to monitor. Evidence collection on monitored devices is stealth and transmission of collected data from the device to the RCS server is encrypted and untraceable."
+
+Using RCS, the INSA could, in theory, be used to spy on the activities of ESAT journalists and lead authorities back to the journalist's local sources. The target's computer would of course first have to be infected with the RCS spyware. In this case, it came in the form of a bogus Word attachment sent to Managing Director of ESAT, Neamin Zeleke, in December of last year. Most troubling is that this sort of abuse should not even be possible using RCS as Hacking Team's Customer Policy clearly states that:
+
+We monitor the international geopolitical situation and we review potential customers before a sale to determine whether or not there is objective evidence or credible concerns that Hacking Team technology provided to the customer will be used to facilitate human rights violations.However, Citizen Lab's report suggests that not only did Hacking Team not suspend its service to Ethiopia's government following a similar attack back in 2013, but the Italian firm may have even provided the INSA with software updates in the year since--despite published accusations against the government agency by targeted journalists and the government's long and storied history of political repression. That's a clear violation of the company's internal policing policy.
+
+Whether this latest attack against US-based journalists leads to any meaningful changes in the company's policy remains to be seen--a front page expose in the Washington Post last year certainly wasn't able to.
+
+[Image credit: stereotyp-0815/Flickr]
+
+

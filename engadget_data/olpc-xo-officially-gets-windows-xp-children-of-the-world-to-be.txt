@@ -1,0 +1,9 @@
+
+ 
+It's been a controversial decision, but it looks like the OLPC XO has completed its transition from revolutionary education project to just another tiny Windows laptop with a useless keyboard -- albeit one with a pleasantly whimsical design. Yep, it's official: Microsoft and OLPC just put out a joint press release saying that XP-loaded XOs will be available starting in August or September, with some countries to get the machines as soon as next month. Users will get all the regular functionality of XP -- it's basically the same build as on the Eee and other ultraportables -- but Microsoft's spent over a year developing specialized drivers for the XO's various features like e-book mode, the writing pad, and camera. (We're pretty certain that doesn't include mesh networking, but WiFi is supported.) XP is too big for the built-in 1GB flash chip, so it'll come preloaded on a 2GB SD card, leaving just about 1.5GB free total for apps and media. It seems like Microsoft is thrilled about this partnership, but it's a not going to make NickNeg's search for new vision at the top any easier. As for Sugar? You'll still be able to get it, but we have a sinking feeling about its future. Demo video after the break.
+      
+
+ 
+
+
+ 

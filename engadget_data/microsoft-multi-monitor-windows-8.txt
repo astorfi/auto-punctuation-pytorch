@@ -1,0 +1,12 @@
+
+ 
+ If you're a multitasking extraordinaire who depends on Windows as your primary computing platform of choice, there's a good chance you utilize more than one monitor to get your work done -- unfortunately, the seventh iteration of Microsoft's OS didn't offer as much support in this arena as most display warriors would prefer. The Consumer Preview of Windows 8 offered a few functionality improvements, and with its upcoming Release Preview, Microsoft is focusing on further enhancing the experience. Mark Yalovsky, a lead program manager on the User Experience team, put together a lengthy piece on what kind of goodies we can expect.
+
+ Among the highlighted changes is the ability to access the Start, app switching and charms menus from the corners on any monitor, rather than just having these options locked to only the primary display. The Release Preview also improves shared edges and corners so that the flow of cross-display navigation won't get interrupted by obnoxious corners popping up when you don't intend them to. Finally, the option of dragging and dropping Metro-style apps (as well as snapped apps) between monitors has also been included in the new build. These enhancements may seem small, but will go a long way toward appeasing those of us who can't live without more than one screen. For the full listing of feature changes, view Microsoft's video below and check out Mark's post at the source.
+
+
+
+
+  
+
+ 

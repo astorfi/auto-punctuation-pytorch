@@ -1,0 +1,6 @@
+
+ 
+With P.A. Semi under its belt, and now "people familiar with the deal" reporting to The New York Times that a purchase of Intrinsity is a go, Apple's march to ARM preeminence is becoming much more clear. A rumor about an Intrinsity purchase surfaced a few weeks ago when the processor design firm's website went down and a few of its employees switched their LinkedIn employee status over to Apple, but now we've got some solid confirmation -- though Apple and Intrinsity are still staying tight-lipped about the deal. Intrinsity's rumored contribution to the iPad's A4 chip is a modified A8 core it designed dubbed the Hummingbird, which squeezes 1GHz of performance out of a chip regularly limited to a mere 650MHz. It's unlikely that this acquisition will shed much more light on the internals of the iPad or future Apple devices -- in fact, it might help obfuscate them -- but it's clear that Apple is dead set on owning as much IP and "smart people" in relation to ARM as it can muster. Of course, the next big rumor on this front is a purchase of ARM itself, but that's an entirely different can of worms.
+      
+
+ 

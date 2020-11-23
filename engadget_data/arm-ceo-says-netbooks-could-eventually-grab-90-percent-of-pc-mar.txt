@@ -1,0 +1,7 @@
+
+ Think netbooks are on their way out? Not according to ARM CEO Warren East, who said in a recent interview with PC Pro that while netbooks now only represent 10% or so of the PC market, he believes that "over the next several years that could completely change around and that could be 90% of the PC market." Obviously, he also thinks that would be a huge boon to ARM, and notes that while the main CPU in most netbooks may not be an ARM processor, there are probably at least two or three ARM chips of some sort in each netbook sold. In fairness, we assume that East means netbooks will evolve significantly from their present state over those next several years -- but, still, ninety percent?
+
+Update: In the company's earnings call preceding the interview, Warren East also dropped a few tidbits about ARM's roadmap, noting that, "Cortex-A9 will comfortably run at those sorts of frequencies (1GHz) and, indeed, with physical IP optimization, we demonstrated can scale up to 2 gigahertz today." East further added that the "other Cortex-A9 has a lot more headroom to go, it's a multi-processor design, so you can have quad-core -- or up to quad-core implementation."
+      
+
+ 

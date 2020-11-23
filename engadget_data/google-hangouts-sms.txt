@@ -1,0 +1,12 @@
+
+Google's Vic Gundotra announced some improvements to Google Hangouts today, including support for SMS, animated GIFs and location sharing. While support for animated GIFs is sure to send the BuzzFeed faithful into a tizzy, it's SMS integration that's the truly major news. The feature was rumored to be coming in Android 4.4, which we already know will include support for changing the default SMS handler. Now you'll no longer have to use the separate SMS application included on your phone, text messages will simply be delivered to Hangouts the same way instant messages are. Obviously this is just one more step in Google's modularization of Android, slowly breaking apart the "stock" OS into easily installable bits. Unfortunately, there's still no word on integrating Google Voice with the burgeoning messaging platform. Location sharing is also being baked in, with a simple button (next to the button used to insert photos) that locates you on Google maps and lets you dump it into your open chat.
+
+
+
+Hangouts is getting major boosts outside of the mobile app as well. For one, the company is adding its auto enhance magic to video calls. So, should a participant in your Hangout carelessly position themselves in front of a window, turning their visage into nothing more than a head-shaped silhouette, Google will automatically adjust contrast and brightness levels to remedy the situation. Video calls will also default to HD, regardless of whether you're on mobile of desktop.
+
+Hangouts on Air is also getting a bevy of updates that will definitely be welcome with open arms. For one, when you schedule a broadcast, it creates a dedicated landing page that integrates with Google+ events, hosts a countdown timer and lists RSVPs. Hosts can even post a trailer or run pre-show Q&A sessions. The clear goal is to improve the ability of users to promote On-Air hangouts and push the platform farther into the mainstream. Of course, no overhaul of this scale would be complete without a new UI, which lets hosts that allows drop in other videos, adjust audio levels and even boot trouble makers from the Hangout.
+
+The new version of the mobile app will start rolling out over the next several days, while the new On Air features are expected to take several weeks to finish rolling out.
+
+

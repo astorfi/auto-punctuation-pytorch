@@ -1,0 +1,10 @@
+
+ 
+Verizon (like most operators) has thus far been coy about its plans for rolling out voice calling services on its LTE network, in part because voice isn't a core service of LTE -- everything is simply treated as data, which means carriers have needed to mull their options and decide how (and when) to add voice into the mix. We'd gotten the vague impression from Verizon's LTE launch event late last year that 4G voice wasn't in the company's 2011 plans, but it turns out that's not true: they've now come out to say that the LG Revolution -- announced at CES last month -- will be Verizon's first VoLTE device when it launches mid-year. Naturally, it'll fall back to CDMA voice when you're out of LTE range, but the move will represent the carrier's first baby step into the 4G voice realm; it'll offer higher sound quality than you're used to with traditional cellular and landline calls (akin to HD Voice, we imagine) which will be one of its selling points when it launches. Every indication is that this will be a glacially slow transition -- it'll take years for handsets to support the standard on a wide scale and LTE footprints to expand nationally, never mind inter-carrier call compatibility -- but it's a big move nonetheless. Look for more news on this at MWC next week.
+
+[Thanks, Ravi]
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

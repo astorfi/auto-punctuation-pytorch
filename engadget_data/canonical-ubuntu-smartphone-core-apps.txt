@@ -1,0 +1,5 @@
+
+ 
+ Canonical's Ubuntu handsets are expected to be upon us very, very soon, and given that some say a phone is only as good as its apps, the firm wants to make sure the experience is indeed a great one right out of the box. To help accomplish that, Canonical has announced the CoreApps project, setting its sights on about a dozen default applications which should give Ubuntu devices ample functionality from day one; this, of course, includes essential ones such as a calendar, calculator, clock / alarm, weather and email client. That's not it, however, since the project also lists plans for social networking apps like Facebook, Twitter and YouTube, as well as an account and file manager, document viewer, RSS reader and even a terminal -- the latter, naturally, should make Android rooters feel right at home. Canonical is seeking help from the community to make the CoreApps project a reality, so those devs interested in helping may want to click the source link below to learn all the nitty-gritty.
+
+

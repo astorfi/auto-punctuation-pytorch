@@ -1,0 +1,6 @@
+
+ 
+Sure, we already know most of the Kin Two's main specs, but there's nothing like a proper teardown to find out exactly what makes something tick, and the folks from Chipworks have now kindly ripped one apart so you don't have to. Among the highlights are the expected NVIDIA Tegra APX2600 processor, a slew of chips and memory from the likes of Qualcomm, Texas Instruments, Hynix, and Samsung and, perhaps most notably, an image sensor from none other than Sony. That sensor, the IMX046, is one of the smallest in its class with a pixel size of just 1.4 microns and, according to Chipworks, something of a surprise -- they were expecting a sensor from OmniVision. Hit up the links below for the Chipworks' complete blow-by-blow account, as well as some further analysis from the folks at iFixit -- and, no, there isn't a teardown of the Kin One just yet.
+ 
+ 
+ 

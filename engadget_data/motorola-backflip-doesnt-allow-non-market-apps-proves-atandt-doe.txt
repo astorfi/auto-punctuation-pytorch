@@ -1,0 +1,14 @@
+
+ 
+Let's step into the time warp, shall we? Specifically, we'd like to go back to our interview of AT&T Mobility CEO Ralph de la Vega at MWC last year when we asked him about the carrier's support for Android (or lack thereof):
+Chris: Okay, and expanding on that a little bit, I heard you speak at CTIA last year and you mentioned that... you mentioned basically the same comments about Android at that time. You said that you thought that it was promising, you liked what you saw, but that was at a time when there were a lot of questions about why AT&T wasn't in the OHA. I'm wondering if your thoughts, your opinions have changed since then. Has AT&T's direction with Android changed at all?
+
+Ralph: No, actually, I think that they have been somewhat validated in that... we like the Android as an operating system on its own, but we want to make sure that we have, and customers have the option, to put applications on that device that are not just Google applications, so when the G1 came out and T-Mobile launched it, it's primarily a Google phone. And we want to give customers the choice of other applications on that device, not just the same Google applications.
+
+Chris: So you're basically waiting for Android to be de-branded, so to speak?
+
+Ralph: Well, to be open. (Laughter.) Right? I mean, the whole idea behind Android is that it's gonna be an open OS, and so I don't wanna roll an open OS to market that has primarily Google apps on it, and I think that's gonna happen. I mean, I see a lot of activity, I think it's got a good future, and I think it makes a lot of sense that the OS is open-source, separate from Google apps that are also very good.
+A year later, enter the Motorola Backflip -- AT&T's very first Android device. Does it hold true to de la Vega's principles? Well, it depends on whose glasses you read the statements through. Yes, true, it definitely doesn't have "primarily Google apps on it" thanks to the carrier's questionable decision to remove Google search and replace it with Yahoo -- but as for giving "customers the choice of other applications," that's another matter altogether. It seems that Backflips are being shipped without the ability to turn on non-Market installations, meaning that AT&T has effectively locked you into getting all of your content through the walled garden. Add in the Yahoo debacle and the egregious amount of unremovable crapware they've left in ROM, and we start to wonder: why did AT&T bother partnering up with Android if they weren't going to take it seriously? Certainly doesn't bode well for the Mini 3 and the rest of the pack, now, does it?
+      
+
+ 

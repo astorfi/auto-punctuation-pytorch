@@ -1,0 +1,25 @@
+
+ As promised, the latest update for one of our favorite Android keyboard has arrived. This time, there's a new input method that feels a little familiar, with text entry done by dragging your finger across the on-screen keys. SwiftKey's still trying to keep your spacebar interaction to a minimum, with its new 'flow through space' feature. This lets you glide down to the bar and back to writing without interrupting your missive. The new system still works in tandem with SwiftKey's predictive voodoo, meaning as your finger loops around the screen (followed by a multicolored streamer), the keyboard app should be able to figure out what you meant to type, although the prediction only works for so long -- we'd advise clipping your swipes to a handful of words at a time, as major mistakes can upset lengthy sentences.
+
+ We've been playing with it over the last week and the keyboard still learns your lexicon by poring over your internet profile, still connecting to Gmail, Twitter, RSS feeds and your SMS history. The more typical touch keyboard is still available and in comparison, we've found it's taking us a little longer to get up to speed on the new method. However, it's notably zippier if you're one of those rare one-handed typists. If you're willing to give the beta a try, you can sign up for Swiftkey's VIP program -- which already totals over 75,000 important people -- to grab the early APK. 
+
+
+
+
+
+ 
+  Show full PR text   Android Keyboard SwiftKey Flow Launches in Beta with New 'Flow Through Space' Feature
+   London and San Francisco -- Dec 6, 2012 - The team behind Android's best-selling app today releases the beta of SwiftKey Flow, its hotly anticipated keyboard that enables users to type with gestures.
+
+   SwiftKey Flow combines the mind-reading capabilities of SwiftKey's prediction engine with the speed and style of gliding your finger across the screen. The beta also includes a brand new feature, dubbed "Flow Through Space" (see it at http://youtu.be/QA4BqwNGSoc). With it, users can write entire sentences without having to lift their finger from the keyboard, simply by gliding down to the spacebar before continuing with their next word.
+
+   SwiftKey Flow takes a revolutionary approach to gesture typing, analyzing a user's input from the moment they start to 'flow' a word. It offers real-time predictions, easing the frustration of entering long words and delivering a dynamic, interactive typing experience. The app also features SwiftKey's award-winning next-word predictions once a gesture is complete, based on the keyboard's knowledge of a user's writing habits.
+
+   "SwiftKey Flow is another incredible leap forward for keyboard technology," CTO and co-founder Dr Ben Medlock said. "Flow Through Space is a unique innovation. Accurately identifying several words from a single gesture is a really complex challenge and I'm delighted our team has made this key breakthrough. With SwiftKey Flow, gesture typing is now so simple you won't have to lift a finger."
+
+   The beta is being released to SwiftKey's 75,000-strong community of VIP users and is a key milestone before SwiftKey Flow is made available to all Android consumers. New members are encouraged to join the VIP community and get access to SwiftKey Flow at http://www.swiftkey.net/flow.
+
+   "Our community is a vital part of this process," community manager Evan Tapper said. "We rely on their feedback to ensure the product is in the best possible shape before it hits the market. But it's about more than that - it's about engaging with our users and building products that people really love to use."
+
+ 
+ 

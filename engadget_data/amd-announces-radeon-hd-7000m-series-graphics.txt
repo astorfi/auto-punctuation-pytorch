@@ -1,0 +1,10 @@
+
+ 
+ AMD kicked off 2012 by refreshing its desktop graphics, and now it's back, giving its mobile GPUs the same treatment. The company just announced its third generation of DirectX 11 mobile chips, the Radeon HD 7000 family. All told, the collection includes three 28nm GPUs: the high-end 7900M, the mainstream 7800M and, last but not least, the 7700M, a darling little chip intended for AMD's thin and light Ultrabook competitors. Across the board, the series ushers in a new feature AMD is calling Enduro, a graphics-switching technology that takes direct aim at NVIDIA Optimus. Building on older AMD technologies like PowerXpress, it doesn't require you to close apps, reboot your system or manually specify which apps will trigger the GPU. Additionally, it's designed to work with both Intel CPUs and AMD's own application processing units, so presumably you'll find this inside some Ivy Bridge machines too. With this generation, too, the two higher-end chips support the PCI Express 3.0 interface, and all three make use of AMD's existing ZeroCore Power and Power Gating battery-saving features. That's the abridged version, but we also have a full breakdown of the specs awaiting you past the break.
+
+
+
+
+  
+
+ 

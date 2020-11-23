@@ -1,0 +1,8 @@
+
+ 
+When we got some hands-on time with the recently announced Samsung Galaxy S, it was painfully apparent that the thing has some serious power under the hood. Now we have a better idea of just how much power, with reports indicating that it has the graphics oomph (thanks to its PowerVR SGX540 GPU) to push 90 million triangles per second. Compare that to the Snapdragon platform, which manages 22 million polygons, and the iPhone 3GS's 28 million from the earlier SGX535, and you get a feel for the muscle lurking behind that gorgeous Super AMOLED screen. Of course, polygon counts aren't everything when it comes to graphical power these days, and 300 million triangles won't help you if your handset gets laggy after you install every single Bejeweled clone in the Android Market, but forgive us if we're a little excited about the rapidly brewing mobile GPU war.
+
+[Thanks, Robert]
+      
+
+ 

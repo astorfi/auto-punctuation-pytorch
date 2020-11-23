@@ -1,0 +1,7 @@
+
+ 
+
+Surprisingly, Motorola seems to have been taken a page out of Apple's book, as the Droid RAZR was curiously approved by the FCC almost immediately after it was announced. And there's some good stuff to behold in here, too; in addition to the usual Verizon-friendly LTE Band 13 radio with CDMA 800 / 1900 support, we also found instances of GSM and WCDMA. In fact, we discovered that the 850 / 1900 bands were tested -- even though they're locked from being used by US operators. And that's not all, folks: the docs specifically state "this device supports voice call functionality over GSM and WCDMA on non-US cellular networks." We don't want to say for sure that this means the RAZR will be the first LTE device on Verizon to officially support global GSM roaming, as it could simply refer to the device's Canadian availability or being sold overseas, but it's a strong indication towards the possibility. If fun graphs and measurements are your thing, the link is open for perusal below.
+      
+
+ 

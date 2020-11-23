@@ -1,0 +1,6 @@
+
+ 
+Intel's got some Nehalem chips floating around Computex, and the crew from Anandtech managed to snag a couple and run some benchmarks. As you'd expect, Intel's latest and greatest put up pretty solid numbers, performing most operations faster than a 3.2GHz Penryn chip -- while only clocked at 2.66GHz. When the Penryn chip was clocked at 2.66GHz, Nehalem ran 20 to 44 percent faster, mostly due to insanely fast memory access speeds and Hyper Threading. Sadly, due to a wonky test mobo, Anandtech wasn't able to test performance when paired with a GPU, and there were some memory latency issues -- which hopefully means Nehalem will be even faster when it's out for real. Your move, AMD.[Via AeroXperience]
+      
+
+ 

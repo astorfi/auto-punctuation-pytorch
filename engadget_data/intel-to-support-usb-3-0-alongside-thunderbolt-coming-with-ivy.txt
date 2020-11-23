@@ -1,0 +1,6 @@
+
+ 
+We were just pondering this very thing yesterday -- would Intel dedicate itself to Thunderbolt and give USB 3.0 the cold shoulder -- and now we have our answer from the Santa Clara crew, albeit delivered from Beijing. The Chinese capital is the site of Intel's currently ongoing developer conference, which is where Kirk Skaugen, VP of the company's Architecture Group, assured the world that the promise for native USB 3.0 support in Intel chipsets will be fulfilled. Not this year, mind you, but it'll be with us in 2012 as part of the Ivy Bridge CPU refresh. That matches AMD's plans to support USB 3.0 in Fusion APUs, and was augmented with a strong word of endorsement from Skaugen about the connector's future. He urged developers to embrace USB 3.0 on an equal footing with Intel's proprietary Thunderbolt interconnect, describing the two technologies as "complementary." If you say so, captain.
+      
+
+ 

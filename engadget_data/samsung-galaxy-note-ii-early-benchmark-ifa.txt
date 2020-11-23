@@ -1,0 +1,12 @@
+
+ 
+ Here at IFA, the Galaxy Note II's glossy plastic build is practically fading under the ambush of cameras snapping away at Samsung's booth, but clearly this phone is more than just a (super sized) pretty face, and it's time to take a look at what's under the hood. As mentioned in our hands-on, Samsung upgraded the original Note's dual-core 1.4GHz chipset to a quad-core 1.6GHz Exynos processor. We put the device to the test today to see how those amped-up insides reflect in the Note II's benchmark scores. As you'll see below, Sammy's latest handset fares significantly better than the original Note and the Galaxy S III.
+
+       Galaxy Note II
+    Galaxy Note (international)
+    Galaxy S III (I9300)
+       AnTuTu    11,736    N/A    11,960      Quadrant    6,644    3,810    4,454      Vellamo    2,466    901    1,751      SunSpider 0.9.1 (ms, lower is better)    1,330    2,902    1,460      CF-Bench    15,305    N/A    13,110      GL Benchmark Egypt Offscreen    114 fps    N/A    99 fps   Oh, what a difference a processor makes. Clearly the step up to a quad-core CPU is to thank for the large performance delta between the Note II and the last-gen Note, though the international version of the Galaxy S III, with a quad-core 1.4Ghz Exynos processor, also falls behind in Quadrant and other tests. The Note II also trumped its Samsung siblings on the browser-focused Vellamo benchmark, which hints at snappier performance on this phone. The phone's graphics chops look pretty good, too, if the GL Benchmark score is any indication. Our testing got cut short before we could run SunSpider, but we'll add that figure shortly.
+
+ Update: We've added SunSpider as well -- the device clocked in at 1,330ms, which is a hair faster than the Galaxy S III.
+
+

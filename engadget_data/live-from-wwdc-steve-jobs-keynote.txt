@@ -1,0 +1,66 @@
+
+Apple's Worldwide Developer Conference begins this morning, and you know what we're waiting for: Stevie J. is expected to drop a bombshell and announce that they're switching to Intel chips. Engadget bestest buddy Paul Boutin is there and will be live-blogging Jobs' keynote for us, so stay tuned for all the gory details:
+
+
+
+9:59am PDT - Paul says he's in line to go in, sandwiched between NGerda from Wikinews and John Markoff from the NewYork Times. Everything should start rolling in a few minutes.
+
+ 10:06am PDT- "Steve and his bottle of water take the stage. "Today is an important day." Half a million members inthe developer community. 109 Apple stores world wide get 1 million visitors a week. $500M in 3rd part products sold inpast 12 months.
+
+ 10:07am PDT - Steve is showing off the London store again. Those lucky RHD geeks! (RHD = right hand drive)
+
+ 10:09am PDT - Video promo for Apple stores.
+
+ 10:11am PDT - iPod update: You know you're successful when you're on the cover of The New Yorker (in a goofycartoon). 76% market share. 430M songs sold thru iTunes. iTunes 82% market share.
+
+ 10:12am PDT - Steve is explaining Podcasting. "TiVo for radio." "Wayne's World for radio." "We see it as the hottestthing going in radio." 8,000+ podcasts and growing.
+
+ 10:14am PDT - "The pros have realized this is huge." Rush Limbaugh, ABC News NBC News ESPN Disney Proctor &Gamble etc, long list. ot surprisingly, iTunes is adding Podcasting support, including a podcast directory in the iTMS.[Which is old news to us] "You don't have to type URLs into iTunes, although you can still do that." Demo: Adam Currypodcast in iTunes.
+
+ 10:15am PDT - Curry sound bite: "Sixty million dollars worth of airplay strapped to my ass." KCRW demo.
+
+ 10:16am PDT - The Treatment KCRW show, with fat-sounding Kruder & Dorfmmeister theme music. The point being apodcast can sound as good as satellite radio. iTunes shows album cover art to go with songs being 'cast.
+
+ 10:17am PDT - Mac update. PC units shipped, growth is slowing fromm 10% 5 quarters ago to just above 10%. Mac hasgone from less than 10% growth to just over 40% in most recent quarter. Steve showing high points of Tiger. Quicktimewith H264 for Windows preview release today.
+
+ 10:20am PDT - Steve running through gushy quotes about Tiger from the press.
+
+ 10:21am PDT - 2,000,000 copies of Tiger sold already. 40+ Spotlight plugins, 400+ Dashboard widgets, 550+ Automatorprograms available in first few weeks.
+
+ 10:23am PDT - Dashboard demo. Amazon, BusinessWeek, CNN. Calendar (Steve enters far-in-future Longhorn date),package tracker. NPR station finder. Steve is now explaining Wikipedia as "one of the most accurate encyclopedias inthe world."  10:25am PDT - OS 10.5 will be called Leopard. Timed for release near Longhorn.  10:26am PDT - "Now, let's go to the big topic: Transitions."
+
+ 10:27am PDT - 1994-1996 Moto 68K -> PowerPC. "I wasn't here then, but from everything I hear the team did a greatjob." 2001-2003: OS9 - OS X.  10:28am PDT - "It's time for a third transition. And yes, (puts up slide that says): It's true." Next slide is oneword: "Why?"
+
+ 10:29am PDT - "I stood up two years ago and promised this (3.0G PowerMac), and we haven't been able to deliver."Steve says it's bigger than that, though. No roadmap for the future based on PowerPC - they can't see a future.  10:30am PDT - Intel offers not just increased performance, but reduced power consumption. Transition will be completeby WWDC '07.
+
+ 10:31am PDT - PowerPC - 15 integer perf units (not sure what) per watt. Intel does 70 per watt. "Mac OS X has beenliving a secret double life" for the past 5 years.  10:32am PDT - Satellite shot with crosshairs shows building where a team has been working on the "Just in Case..."scenario. Every release of Mac OS X has been compiled for Intel for the past 5 years. Here comes the demo!  10:33am PDT - "As a matter of fact, this system I've been using here..." the keynote's been running on a P4 3.6GHz allmorning"
+
+ 10:34am PDT - Steve's hopping through every app. Performance is snappy. He's playing an H264 movie trailer forsomething wtih Brad Pitt and Angelina Jolie. "Ok, enough of that" he says after a few seconds.
+
+ 10:35am PDT - Here's the geekout for developers: Widgets, scripts, Java: they'll just work. Cocoa - Xcode: smalltweak, recompile. Carbon - Xcode - a few weeks of tweaking, recompile. Carbon- Metroworks: Move to XCode.
+
+ 10:37am PDT - There's a checkbox for builds: "Intel, PowerPC" that makes a cross-platform single binary.
+
+ 10:38am PDT - Theo Gray, cofounder of Wolfram Research, comes onstage to talk about porting Mathematica in the past5 days.
+
+ 10:39am PDT - "I get the most ridiculous phone calls from Apple sometimes.  This was like 9 c'clock at nightand he says, 'I can't tell you what it is, but ..." they flew out a developer with source code to do a demo fortoday.
+
+ 10:40am PDT - Theo is hilarious.  "I said, 'I'll send out our crack team of Mac developers that we keep onstandby.'"  Turns to guy standing next to computer.  "That's you, Rob."
+
+ 10:41am PDT - Theo says it took 2 hours to get it ported:  "We had a lot of resources.  There's Rob,there's Apple ... your mileage may vary.  But his biggest problem was figuring out what to do with the rest of theweekend."  10:42am PDT - Mathematica demo.  This stuff always makes me wish I'd studied harder at MIT.
+
+ 10:43am PDT -  Theo shows a 3D diagram being built and modified on the fly.  "It could be experimentalarchitecture, something you'd see in Vegas, or it could be candidate nanotech architecture."
+
+ 10:45am PDT -  Steve back onstage: "Not every application will be Universal on Day 1."  A new technology,Rosetta, will run existing PowerPC apps on Intel.  Dynamic binary translation, transparent to users.  "Fast(enough)," the slide jokes, that most users won't know.  10:46am PDT - Demo: MS Word PowerPC binary on Intel.  Excel spreadsheet.  They're no notably slower thanusual. Photoshop still takes forever to load, but all the plugins work. Photoshop Filters seem fast enough.  10:49am PDT - Select and premier ADC member software developers will be getting a build kit.  10:50am PDT - Roz Ho, General Manager of Microsoft's Macintosh Business Unit, is onstage to talk about what MS isdoing for the Intel platform.  10:51am PDT - Unfortunately her speech seems to have been written by a junior flack at Waggener Edstrom orEdelman.  Waiting for her to get to a noun... Here we go: Universal binary versions of Office coming, as we justsaw.
+
+ 10:53am PDT - Bruce Chizen, CEO of Adobe, comes on, jokes that his mom thinks he works for Apple. "The only questionI have, Steve, is what took you so long?"  10:55am PDT - Steve is talking about how Intel engineers turn out to be passionate about their products, just likeApple employees.
+
+ 10:56am PDT - Paul Otellini, President & CEO of Intel, is on.  "I suspect there's a whole bunch of you whonever thought you'd see that [Intel] logo on this stage.  I was one of them."
+
+ 10:58am PDT - Otellini is telling a timeline story that goes back to founding of Intel in 1968, founding of Apple in1976.  Photo of Jobs and Robert Noyce together.  As Markoff said to me this morning, people love to seephotos of execs with long hair.  Otellini says he asked Jobs, "Is that the last time you wore a tie?" Steve's answer: "No, it's the last time I wore a moustache." 1996: "They set fire to our bunny person!"  10:59am PDT - Runs old TV ad: "Apple Computer would like to apologize for toasting the Pentium in public." Otellini:"Now, we didn't have a grudge about that..."
+
+ 11:00am PDT - Here's the talking point you'll be hearing over and over: Intel chips run cooler than the PowerPC.More boilerplate about combining our strengths, two legendary companies, relentless advancement (advancement?) ofMoore's Law, etc....  11:01am PDT - More boilerplate: It's not the end of the story, it's just the beginning! He was funny about the bunny,though.
+
+ 11:04am PDT -  Steve is back on now, restating the theme of this as Apple's 3rd big transition.  "It's notgonna happen overnight.  We're making AWESOME machines right now" (Frequent comment in the press line: Will anyonebuy one in the next year?)  "When we meet again here next year, we will have products with Intel processorsentering the market."  Next year he'll show Leopard.  One non-boilerplate truth: "The soul of a Mac is itsoperating system."  Plus the slick  industrial design, of course.  11:05am PDT - That's it, show's over!
+
+

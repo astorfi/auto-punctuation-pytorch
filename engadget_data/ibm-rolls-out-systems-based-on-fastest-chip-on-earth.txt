@@ -1,0 +1,5 @@
+
+ 
+It's not the first time IBM has tossed around "world's fastest" language when discussing its Power6 processors, but the company's now found reason to boast again, with it recently announcing that it's released some new supercomputers based on its new "world's most powerful microprocessor." Getting that distinction is IBM's latest Power 575 "Hydro-Cluster" supercomputer which, thanks to some nifty in-rack water-cooling measures, is able to accommodate the company's speedy new 5GHz Power6 processor. According to IBM, that processor should deliver "two-to-three times the performance per core of comparable HP or Sun processors," while still requiring only about the same amount of energy as previous Power5 processors. For its part, Sun is a bit skeptical IBM's focus on speed, with a company spokesperson telling the San Francisco Chronicle that "it's an easier marketing message to deliver to say that faster gigahertz means a faster processor," adding that Sun instead focuses on multithreading to make its processors more efficient.Read - IBM press releaseRead - SFGate, "IBM chip is fastest on Earth"[Via Slashdot]
+
+ 

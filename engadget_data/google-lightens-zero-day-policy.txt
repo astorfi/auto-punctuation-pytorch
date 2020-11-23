@@ -1,0 +1,11 @@
+
+
+Google's Project Zero is supposed to goad companies into patching software security flaws before they pose a threat, but that's not exactly how the effort has panned out. As Apple and Microsoft will tell you, the strict 90-day disclosure deadline sometimes leaves developers scrambling to finish patches after the details of an exploit go public. Thankfully, Google appears to be listening to those gripes -- the Project Zero team has tweaked its policies to give programmers a better chance at mending holes. Companies now get a 14-day "grace period" to release fixes if they let Google know that the code won't be ready within the usual 90-day window. Also, the folks in Mountain View won't ruin tech workers' days off by revealing vulnerabilities on holidays and weekends.
+
+
+
+Project Zero's policy still isn't as forgiving as others, such as ZDI's 120-day schedule. Even so, it could go a long way toward bridging the gap between Google's ideals and the practical challenges of delivering updates on time. Unless security developers fall significantly behind schedule, there's less chance that virus writers will get a head start and attack your devices before you can realistically protect yourself.
+
+[Image credit: Shutterstock]
+
+

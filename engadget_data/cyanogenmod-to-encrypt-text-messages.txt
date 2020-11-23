@@ -1,0 +1,4 @@
+
+Android users worried that the government is spying on their smartphone now have a new privacy option: CyanogenMod. Starting with today's nightly 10.2 build, the custom firmware will encrypt SMS and MMS messages sent to any device using the TextSecure protocol, including fellow Cyanogen users. Users won't have to do a thing; the cryptography runs automatically in the background, regardless of the text messaging app. The encryption won't reach CyanogenMod 11 or other releases until the company is confident that everything is running smoothly, but it shouldn't be long before many Android users can chat with a greater level of secrecy.
+
+

@@ -1,0 +1,19 @@
+
+Since the rise of 3D graphics cards, the inexorable trend in PC gaming has been around getting bigger, better and faster. That led to a culture of PC gamers obsessing over frame rates and doing whatever it took to push their hardware as much as possible. But now that even relatively affordable graphics cards can hit a silky smooth 60 fps at 1080p, there's only one big mountain left to climb: 4K gaming. And that's exactly what a powerhouse card like AMD's new Radeon R9 Fury X ($650) is poised to tackle. The only problem? 4K gaming still isn't worth your time and money.
+
+
+
+
+
+The Radeon R9 Fury X is the sort of thing that's built expressly to make PC gamers salivate. While the card itself is relatively minimalist with a jet-black design, once it's turned on you get a blingy glowing "Radeon" logo and LEDs that show off how hard the GPU is working. But, most impressively, the card also has an external water cooler attached, which takes the place of a rear fan in your computer case. It's not the first video card to ship with water cooling, but it's an impressive setup nonetheless (although it will make installing the card a bit more complex). It's also worth noting that the R9 Fury X's direct competitor, NVIDIA's GTX 980 Ti, ships with air cooling. That's a sign of much more power-efficient hardware. (I would have liked to compare the two cards directly, but I'm still waiting on review hardware from NVIDIA.)
+
+While the R9 Fury X can achieve speeds of up to 1050MHz out of the box, its water cooling setup could lead to some decent overclocking potential down the line. I didn't want to risk harming my loaner card from AMD, but initial overclocking attempts by AnandTech led to modest (75Hz) gains. With some more tweaking, though -- especially going beyond the limits AMD implements in its desktop software -- I wouldn't be surprised if you could reach higher speeds. Then again, given how fast the card is already (it also packs in 4GB of "high-bandwidth memory" RAM), you might not want to bother with the whole mess of overclocking.
+
+
+On my gaming rig -- which consists of a 4GHz Core i7-4790K CPU, 16GB of 2400Mz DDR3 RAM and a 512GB Crucial MX100 SSD on a ASUS Z97-A motherboard -- the R9 Fury X didn't break a sweat when gaming in 1080p with every setting on high. No surprise there (and if that's all you're looking for, consider the plethora of sub-$300 cards out there). But once I started testing out games in 4K (with a Samsung UE590 monitor loaned by AMD), the card truly started to shine. Both The Witcher 3: Wild Hunt and Batman: Arkham Knight got around 35 fps on average with high-quality settings, and while that might not sound like much, the fact that they're both beyond 30 fps is a decent show of progress from last year's cards. It means you can actually play those games in 4K without any noticeable stuttering.
+
+But enough of the numbers: How do games look in 4K? For the most part, pretty darn great. For The Witcher 3, in particular, I was able to make out even finer detail in character models, their clothing and the overall environment. But I also quickly realized that minor bump in fidelity wasn't worth the drop from the 1080p 60 fps I was used to, which looks a lot smoother. Moving The Witcher's Geralt of Rivia around the game's incredibly detailed environments was less jerky and more life-like than in 4K. Basically, It's hard to get used to lower frame rates when 60 fps was the ideal I was striving toward for years. There were also occasions where games dipped below 30 fps, which was hard to stomach on a $650 video card. [Check out 4K screenshots from The Witcher 3 here.]
+
+
+
+

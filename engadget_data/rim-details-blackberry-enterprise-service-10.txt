@@ -1,0 +1,5 @@
+
+ 
+ We already knew that RIM was readying a new version of its BlackBerry Enterprise Server to ship alongside the first BB10 devices in early 2013. Today, the company detailed the package, formally known as BlackBerry Enterprise Service 10. The big story here is that already-existing IT tools like BlackBerry Mobile Fusion, BlackBerry Device Service and Universal Device Service will be accessible from a single web console. The company also clarified that BlackBerry Device Service and Universal Device Service can run off separate servers, or just one. Take note, though, that the older BES 5+ will still need its own server for the time being. As we previously reported, too, the newest version of BES will offer legacy support to older devices -- specifically, it can support PlayBook tablets, phones running BlackBerry 7 OS or higher as well as iOS and Android devices.
+
+

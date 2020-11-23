@@ -1,0 +1,5 @@
+
+ 
+It's easy to overlook amidst all PowerPoint-fueled fisticuffs but, in addition to slinging rebuttals at Intel and muttering insults under its breath, NVIDIA also appears to have dropped a bit of news about its next-generation Ion platform. While we had already heard that Ion 2 would be supporting VIA's Nano processor in addition to Intel's Atom, it looks like it'll also support Core 2 Duo processors, and even Pentiums and Celerons for good measure. That, of course, is not all that surprising given Ion's roots in NVIDIA's current MCP79M/MCP7A chipset platform, and there's certainly plenty of time for things to shake out further before that promised Q4 rollout date -- and, knowing these two companies, things probably will.[Via Electronista]
+
+ 

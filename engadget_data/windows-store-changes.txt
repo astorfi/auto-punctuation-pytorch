@@ -1,0 +1,7 @@
+
+ 
+ Microsoft is opening up about the changes its made to the Windows Store as the premiere date for the new OS draws near. It'll be available in 26 markets (so far) and Redmond's listened to concerns consumers had about getting around. In response, it's added a navigation bar that also links users directly to the apps they already own. Desktop apps will appear from June 1st (today), although when clicking a link, you'll be redirected to the developers own website to make the purchase.
+
+ The company has tweaked the terms and conditions to insist that app-builders make the primary experience take place "within the app," rather than merely linking elsewhere. Additionally, everything submitted must fully support keyboard / mouse and touch controls, so people can switch controls if necessary. The company's also mandating that apps must rely upon mechanisms provided by Windows 8, such as process management and using swipe-implemented menus.
+
+

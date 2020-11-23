@@ -1,0 +1,11 @@
+
+NASA's Robonaut is only just getting its legs, but it already has some fresh (and arguably superior) competition. The agency's Johnson Space Center has given IEEE Spectrum a sneak peek at Valkyrie, a DARPA Robotics Challenge entry built to take on dangerous tasks that would normally require a human presence. In addition to sporting more joints than many of its typical two-legged rivals, the sometimes autonomous machine is chock-full of cameras, LIDAR and sonar that help it quickly move around. It can operate under planetary gravity loads that Robonaut can't touch, and even an inexperienced user can keep it running; the modular design lets astronauts swap out batteries and replacement limbs within minutes.
+
+
+Valkyrie isn't guaranteed to enter service, as it will have to win the support of both DARPA and NASA officials before it progresses much further. If it passes muster, however, it could be vital to NASA's long-term plans for Mars -- robots such as Valkyrie will likely prepare any future Martian landing site and assist humans once they arrive.
+
+
+
+
+
+ 

@@ -1,0 +1,59 @@
+
+After all the press events, TV cameos and probing interviews, what do we really know about the PS4? The announcement of the next-gen console is a prime example of having an abundance of specs and a lack of knowledge. Although Sony put out a sheet of stats about the console's processor and memory, many of the words it used -- Jaguar cores, compute units, unified memory -- are more ambiguous than they may sound.
+
+
+Nevertheless, even with all these foggy bits, there are some things -- five, in fact -- that we probably can predict about the PS4's hardware. They're listed after the break in order of decreasing certainty. All the way from confident logic down to... well, not quite flailing around with a butter knife during a power cut, but you get the picture.
+
+
+
+1. These chips ain't cheap
+AMD. APU. Six letters which would normally spell out the word "cheap." But in the case of the PS4, we can be pretty sure of the opposite. In fact, from the data Sony has revealed, the PS4's APU actually sounds like a serious investment -- not only in terms of R&D for the semi-custom design, but also in terms of raw components.
+
+It's true that AMD is known for undercutting Intel in the marketplace, usually with the sacrifice of some general computing power. And among AMD's offerings, the APUs -- which combine CPU and GPU on a single piece of silicon -- generally hit the lowest price points, maxing out at a retail price of around $130. Merging processors is a tried-and-tested way of reducing costs -- that's why Microsoft did it with the Xbox 360 Slim in 2010.
+
+But here's the thing: AMD's current top-end APU only delivers around 700 GFLOPs of compute power from its CPU and GPU combined. We're told the PS4's processor delivers nearly 2 TFLOPs from its GPU alone. In other words, we're looking at 3X compute performance before we even get to the eight-core CPU.
+
+To get a similar level of graphical power to the PS4, you'd need to spend at least $200.
+
+To get a similar level of graphical power to the PS4, you'd need to spend at least $200 on a Radeon HD 7850 graphics card and splash out extra on a processor. But even then you'd only have 2GB of GDDR5 memory. This type of memory tends to be slightly more expensive than regular DDR3 system memory, and Sony tells us the PS4 comes with 8GB of the stuff. There's no way on earth that could come cheap.
+
+As to how much we loyal gamers will be asked to cough up for a PS4, we can only hope that it'll be less than the burdensome $499 starting price of the PS3. Sony has only hinted that it "hopes" to bring it in under $599. Perhaps Sony will take on a short-term hit to its margins in return for the long-term gains of building the PlayStation ecosystem. AMD may also shoulder some of this responsibility, since it also stands to gain strategically from this deal -- an idea we'll return to shortly.
+
+2. Nothing else compares
+Now that we've mentioned parallels with some existing PC components, why don't we go whole hog and design a PC rig to match the PS4's basic specs? It'd be a fun way to spend a weekend, but alas it'd also be spurious. A total waste of time.
+
+How come? Because the PS4 is a true next-gen device. It'll be built around AMD's Jaguar core, which is still a long way from being available on the PC market. We know that Jaguar is an evolution of the Bobcat core found in relatively low-powered netbooks, but that doesn't mean we can use any Bobcat device for comparison. Existing Bobcat netbooks generally have two cores, while the PS4 has eight.
+
+The PS4 is a true next-gen device.
+
+And here's another good reason to be wary of parallels with existing PC components: Sony's use of GDDR5 "unified memory." We've already mentioned the fact that it comes in an expensive 8GB dollop, but we also need to bear in mind its speed and the way it's going to be used.
+
+In PCs, the CPU generally uses lower-bandwidth DDR3 memory, while the graphics card (if there is one) uses faster GDDR5. The Xbox 360 went the "unified" route, using 512MB of GDDR3 for both the CPU and GPU. The PS4's memory will also be unified, but it'll be faster than anything that has been used for this purpose before, so it could potentially remove bottlenecks and improve performance in ways that are hard for us to anticipate. Equally, there may also be drawbacks that are hard to predict, for example with regards to memory latency.
+
+3. PC gamers needn't feel jealous
+It's worth reiterating though, that even if the PS4 does put its memory to wildly good use, it'll probably serve to compensate for the low-power nature of its processor rather than to push the boundaries of gaming graphics.
+
+It won't match a good gaming PC for raw performance.
+
+As a benchmark, a current high-class gaming PC has enough grunt to run games on multiple monitors at extremely high resolutions, reaching or even exceeding the number of pixels used in 4K displays. The PS4 will handle 4K video at at launch, and may possibly get an update to enable 4K gaming later if developers start taking the format seriously. But by the time that happens (let's say in a couple of years), PC rigs will have been upgraded and will still be way ahead. So if you want mega high resolutions now or later, the PC will probably still be the best route to deliver that.
+
+Sony execs have already hinted that the PS4 is going to be about the complete package -- including things like streamed gaming -- rather than its pure hardware capability. This package of features might entice many PC gamers, but it won't match a good gaming PC for raw performance.
+
+4. Maybe we're not meant to turn it off
+Each update to the PS3 brought its power consumption down significantly, mainly by shrinking the processor's transistors down from 90nm to 65nm and then 45nm. The original 90nm processor burned up to 200W merely while perusing menus (yes, that's more than some refrigerators) and we'd never have left it on overnight for fear of attracting mice to the warmth of the TV cabinet.
+
+The latest version consumes just 60W on the menu or up to 80W while running a game, but the PS4 could take things even lower while still pulling of sophisticated functions -- such as acting as a game hub for a connected PS Vita, or running always-on facial recognition with the new sensor-laden Eye module.
+
+The 28nm Jaguar cores in the PS4 are an evolution of AMD's Bobcat silicon, which was used in netbook processors that generally maxed out at 18W. According to slides recently released by AMD, a quad-core Jaguar chip will consume up to 25W. Even if the PS4 doubles that, with eight cores burning 50W, that'd still be a lot quieter and easier to cool than a recent PS3. (But remember, we're well into very speculative territory at this point.)
+
+5. It'll change the way games are made
+AMD has staked its future on a certain philosophy that has sometimes left it looking isolated. Unlike Intel, which throws its billions into putting ever-greater numbers of transistors into its cores, AMD reckons that there are smarter ways to use and arrange these transistors.
+
+Having many weak cores instead of a few strong ones is a classic example. It's a pattern found in AMD's FX range of PC chips and now in the PS4's spec sheet, but game developers just aren't used to it. They're accustomed to good single-threaded performance, so they'll have to adapt if they want to the push the PS4 to its limits. They'll also have to look into tricks like GPU compute, which can allow a strong GPU to help a weak CPU on certain non-graphical tasks.
+
+All of this will be good for AMD, since games will run better on its hardware. But in the long-term it could be a good thing for anyone looking to play games on a low-cost, low-power device.
+
+Wrap-up
+Granted, there's a lot of guesswork going on here. But hopefully some of the items we've looked at from Sony's spec sheet will now have a bit more context. Not only in terms of what words like APU and "unified memory" mean, but also with respect to the bigger picture of what the PS4 is designed to achieve.We could be wrong, but it looks to us like Sony has made a serious investment in a new type of processor that finds a better balance between performance and power consumption. It could deliver the 1080p visuals of a current mid-range gaming PC but in a form factor more akin to a small and quiet HTPC. We just hope that's as clever as it sounds -- and that Sony will find a way to keep the price below that of the console's predecessor.
+
+

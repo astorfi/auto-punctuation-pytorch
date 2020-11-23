@@ -1,0 +1,8 @@
+
+ 
+A young man named Tyler's built a little gadget that will feed his dog even when he's not around. Using an ioBridge IO-204 module and a continuously rotating servo in the feeder, he's able to dispense some kibble via a web page he's built which monitors the action via a webcam. Check the video -- the dog sure seems to think it's rad.[Via Make]
+
+ 
+
+
+ 

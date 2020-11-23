@@ -1,0 +1,4 @@
+
+ The ease of dumping our historic/inane messages into Twitter has fueled the service's growth so far, but the ability to retrieve relevant ones later has, until now, lagged behind. CEO Dick Costolo promised last year that the company was working on "architecting search" to allow access to the archives, and today the company announced its search feature is finally able to include tweets that are more than a week old. That follows the release of archive dumps that allow users to mass download and search through their own tweets. Expanding the search function's memory from goldfish to elephant size is going to roll out across the web and mobile apps -- already sporting a freshly redesigned search -- over the next few days. For now, Engineer Paul Berstein explains in a blog post that results will slowly continue to grow to include a greater percentage of tweets ever sent, with search results weighted by elements like number of favorites, retweets and clicks.
+
+

@@ -1,0 +1,13 @@
+
+ 
+ Sure, you spend plenty of time talking to your plants, but have you ever made them sing? In partnership with Berlin-based Studio NAND, Walt Disney's experience development arm, coined Disney Research, has found a way to take human-plant interaction to an almost freakish level. The project's called Botanicus Interacticus, and centers around a custom-built capacitive sensor module, which pipes a very low current through an otherwise ordinary plant, then senses when and where you touch. Assuming your body is grounded, the device uses more than 200 frequencies to determine exactly where you've grabbed hold of a stem. Then, depending on how it may be programed, the sensor can trigger any combination of feedback, ranging from a notification that your child is attempting to climb that massive oak in the yard again, to an interactive melody that varies based on where your hand falls along the plant.
+
+ Because this is Disney Research, the company would most likely use the new tech in an interactive theme park attraction, though there's currently no plan to do much more than demo Botanicus Interacticus for SIGGRAPH attendees. This week's demonstration is giving the creators an opportunity to gather feedback as they try out their project on the general public. There's four different stations on hand, ranging from a stick of bamboo that offers the full gamut of sensitivity, including the exact location of touch, to an orchid that can sense an electric field disruption even as you approach for contact. While interactive plants may not have a role in everyday life, Botanicus Interacticus is certainly a clever implementation of capacitive touch. You can see it action just past the break.
+
+
+
+
+
+  
+
+ 

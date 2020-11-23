@@ -1,0 +1,6 @@
+
+ 
+Now that the startling mystery of VoIP has been cracked wide open on the iPod touch, it was only a matter of time before other, related mysteries were broken apart and inspected. One such case involves the process of getting the sound of your voice into the formerly-audio-out-only device, which must be accomplished via the use of some type of audio-in microphone dongle, which now -- thanks to one clever man -- has been hacked for VoIP-on-touch purposes. Using the hideous, yet cheap, Macally iVoiceIII audio recorder add-on for 5G iPods, and the simple soldering of a jumper to the board, you can be chatting away like a madman (provided you've got some WiFi) on your touch. Check the read link for the simple steps, and get ready to stick it to the man (his name is Mr. Steve Jobs, by the way) once again.
+      
+
+ 

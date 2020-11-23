@@ -1,0 +1,14 @@
+
+
+When we first took a look at the Neuros MPEG-4
+recorder, we thought it looked like a pretty good way to transfer video from a TV, DVD player or other source to a
+portable video player, though we felt the $129 device was hobbled by the lack of a hard drive (it records on to flash
+memory cards). Now, the Register has tried the recorder out, and found that it's a useful tool for what it does, but
+that its audio codec (G.726) and output file format (ASF) limit its versatility. And given its maximum resolution of
+352 x 240, you're not going to want to use the videos you rip with this on any screen bigger than a few inches — which
+should suffice if you plan on using this with a typical portable player or to watch clips in a small window on a
+computer monitor. 
+
+
+
+ 

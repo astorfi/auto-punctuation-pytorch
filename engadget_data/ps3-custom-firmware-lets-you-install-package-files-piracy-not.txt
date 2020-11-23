@@ -1,0 +1,9 @@
+
+ 
+Well, that didn't take long! Just one week after hacking collective (and chr0nic misspellers) fail0verflow revealed a hack that delivered the PS3's private cryptography key on a platter, another hacker going by the MoNiKeR "KaKaRoToKS" has taken the next step, delivering tools that will convert your plain ol' vanilla PS3 firmware (yup, even the latest security-minded 3.55 patch) into a fancy new custom firmware. One capable of running signed and encrypted executable .PKG files ... not unlike the ones that Sony itself uses to distribute PSN games. But this custom firmware isn't all about piracy. KaKaRoToKS writes, "Since the kernel is left unmodified, this means that this custom firmware is really meant for future homebrew installation, and it will not allow piracy. I plan on keeping it that way." We suspect that myriad other, less scrupulous hackers don't share that sentiment. If you want an "Install Package Files" option the Game section of your XMB, PS3-hacks.com has a guide just for you. Peep a video of a custom firmware installation after the break.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,13 @@
+
+
+It's been known for a while that the NSA will intercept and bug equipment to spy on its soon-to-be owners, but the intellgency agency's techniques are apparently more clever than first thought. Security researchers at Kaspersky Lab have discovered apparently state-created spyware buried in the firmware of hard drives from big names like Seagate, Toshiba and Western Digital. When present, the code lets snoops collect data and map networks that would otherwise be inaccessible -- all they need to retrieve info is for an unwitting user to insert infected storage (such as a CD or USB drive) into an internet-connected PC. The malware also isn't sitting in regular storage, so you can't easily get rid of it or even detect it.
+
+
+
+Kaspersky isn't explicitly naming the culprits, but it also isn't shy about pointing a finger in the US government's direction. The company notes that the developers had access to unpatched exploits before they showed up in American cyberwarfare viruses like Stuxnet, and in some cases directly borrowed code modules. Also, most of the infections have occurred in countries that are frequently US spying targets, such as China, Iran, Pakistan and Russia. Reuters sources back this up with claims that the NSA has developed espionage techniques on this level.
+
+The NSA isn't commenting on the findings. However, they don't bode well for the US' attempts to preserve the eroding trust of other countries. If the US can plant surveillance tools in hard disks, why would you buy a hard drive (or an entire computer) from an American source to safeguard your big secrets? You probably won't have to worry about these bugged drives at home, but they're likely to be major concerns abroad.
+
+[Image credit: Getty Images]
+
+

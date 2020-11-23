@@ -1,0 +1,5 @@
+
+ So those pokey UMPCs and super-duper ultraportables that we love to hate are about to get a little more peppy, thanks to a pair of ultra low voltage processors from Intel that just happen to sport that AMD-killin' Merom core. Without much fanfare (or any at all, really -- where's the OCC ULV chopper?), Santa Clara introduced the 1.06GHz U7500 and 1.2GHz U7600 CPUs today, the latest chips to join the powerful Core 2 Duo family. Headed straight for the smallest of the small PCs, the new models are compatible with both the Napa and upcoming Santa Rosa platforms, with a minor pinout change necessary to accommodate the latter when it's released. Pricing details were not immediately available when we wrote this, but you can probably expect these two low-enders to be some of the cheapest Merom parts yet.
+      
+
+ 

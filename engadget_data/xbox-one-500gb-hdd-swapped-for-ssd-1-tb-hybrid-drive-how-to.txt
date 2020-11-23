@@ -1,0 +1,14 @@
+
+The Xbox One arrives with a 500GB HDD built-in, and in contrast to the PlayStation 4's easily-accessed storage, it's not meant to be accessed or replaced by the user, ever. While we'll probably leave ours in place to keep from voiding the warranty or risk a ban from Xbox Live, a few folks have already cracked open the console to see what else will fit. iFixit noted during its teardown that there's an off-the-shelf 2.5-inch Samsung HDD inside connected via SATA II inside, and swapping that out isn't much of an issue. Brian Williams has already tried out the system with two alternate drives: a 500GB Samsung EVO SSD, and a Seagate 1TB hybrid SSHD. As you can see in his video (embedded after the break) boot time from off to the dashboard only improved slightly, with the SSD loading in 46.1 seconds compared to 50.5 stock. A test with Call of Duty: Ghosts revealed similar results, with the SSD loading up in 27 seconds and the hybrid drive close behind in 27.7, compared to 33.5 seconds stock. We'll need tests with more games to be sure, but so far it's not showing the improvements seen after swapping the PS4's hard drive out for speedier options. The folks at Tested report doing so improved level load times in Killzone: Shadow Fall from 60 seconds to 39 seconds.
+
+
+So, if it's not a ton faster, why would you want to take the chance of prying Microsoft's box open? To get more space. Brian's drives were simply copies of the original transferred by Clonezilla, but an individual named Juvenal1 has already worked out how to get the system to actually recognize and make use of drives bigger than 500GB. By copying files from your original drive and using their Linux-compatible tool to repartition the new HDD, you can be up and running with more capacity after just a reboot or two. Of course, this carries significant risks and we don't recommend it for most, as Microsoft's Albert Penello has already revealed support for external drives is coming in a future update, along with the ability to do crazy things like see how much storage you actually have left. Still, if you just need to live on the edge (or store every game released so far and record hours of clean Upload Studio clips) the instructions can be found here.
+
+
+Update: If you're interested in performing the upgrade, Brian Williams has followed with a video walkthrough for the process of properly formatting a larger hard drive, even if you're not familiar with using Linux.
+
+
+
+
+  
+ 

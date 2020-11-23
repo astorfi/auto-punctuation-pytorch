@@ -1,0 +1,81 @@
+
+ Facebook this morning announced "Graph Search," a way to search all of Facebook's content for queries tailored to your profile. CEO Mark Zuckerberg explained the search by saying, "Graph Search is meant to answer very specific questions like 'Who are my friends in San Francisco?" In a video released by Facebook just after the announcement, project lead Lars Rasmussen (formerly of Google Maps / Waves fame) related a story about needing a dentist in a town he'd just moved to, and being able to search through which dentists his friends used for a tailored result. Worry not, privacy protectors: we're told Graph Search is "privacy aware;" Facebook's even dedicated 10 percent of its computing power just to the goal of ensuring privacy. And no, none of your privacy settings will automatically change as a result of signing up or using Graph Search.
+
+ It's being touted as a return to Facebook's roots, when the company's main goal was forging connections between people (rather than, say, a gaming portal, or a means for companies to advertise). Graph Search is essentially a relaunch of Facebook's internal search engine, allowing its already existing users to forge new relationships with folks they may not otherwise meet, and to find content that's hyper-specific. The beta -- albeit in a limited, English-only capacity -- kicks off today. During that period only a "subset of content" is available through search, with four primary areas of focus: people, photos, places, and interests. Facebooks says Graph Search will expand, "over the coming months," with additions like searchable wall posts and song listens (only if your privacy settings allow those things to be searchable, that is).
+
+ You can head right here to get whitelisted for the beta, which is apparently rolling out "very slowly." Or you could head past the break right now for the full PR from Facebook and a walkthrough video, as well as a slew of updates from our liveblog.
+
+
+
+
+ Update: Facebook "one more thing'd" us during its event, saying that Graph Search will also pull in Bing search results. In your face(book), Google!
+
+ Update 2: In a Q&A followup with Zuckerberg, he said the beta rollout today will be, "Hundreds, maybe thousands." As for how quickly it'll ramp up after that, he's less sure. "We don't know how quickly it'll be rolled out after that, as it depends upon how the beta testing goes. The better it goes, the faster it'll go," he told attendees. Rasmussen said that search queries will show up in your Activity Log, but (thankfully) won't affect adverts.
+
+ Update 3: Zuckerberg also explained Graph Search's employment of Microsoft's Bing engine over Google search. "We would love to work with Google. We just wanted to incorporate search, and as long as the companies are willing to honor the privacy of folks sharing content on Facebook, we'll work with them. We just haven't gotten it worked out with Google yet." Sounds like Google search is in the cards as well, then. He further detailed the issues in a followup. "The main thing is that when people share something on Facebook, we want to give them the ability to broadcast things, but also retract them later, and have them be removed immediately. Microsoft was more willing to do things specific to Facebook," he said.  Show full PR text    Introducing Graph Search Beta
+
+   January 15, 2013  By Tom Stocky and Lars Rasmussen
+
+   Facebook's mission is to make the world more open and connected. The main way we do this is by giving people the tools to map out their relationships with the people and things they care about. We call this map the graph. It's big and constantly expanding with new people, content and connections. There are already more than a billion people, more than 240 billion photos and more than a trillion connections.
+
+   Today we're announcing a new way to navigate these connections and make them more useful. We're calling it Graph Search, and it starts today with a limited preview, or beta.
+
+   When Facebook first launched, the main way most people used the site was to browse around, learn about people and make new connections. Graph Search takes us back to our roots and allows people to use the graph to make new connections.
+
+   Graph Search will appear as a bigger search bar at the top of each page. When you search for something, that search not only determines the set of results you get, but also serves as a title for the page. You can edit the title – and in doing so create your own custom view of the content you and your friends have shared on Facebook.
+
+   Graph Search and web search are very different. Web search is designed to take a set of keywords (for example: "hip hop") and provide the best possible results that match those keywords. With Graph Search you combine phrases (for example: "my friends in New York who like Jay-Z") to get that set of people, places, photos or other content that's been shared on Facebook. We believe they have very different uses.
+
+   Another big difference from web search is that every piece of content on Facebook has its own audience, and most content isn't public. We've built Graph Search from the start with privacy in mind, and it respects the privacy and audience of each piece of content on Facebook. It makes finding new things much easier, but you can only see what you could already view elsewhere on Facebook.
+
+   We're very early in the development of Graph Search. It's only available in English today and you can search for only a subset of content on Facebook. Posts and Open Graph actions (for example, song listens) are not yet available. We'll be working on these things over the coming months.
+
+   The first version of Graph Search focuses on four main areas -- people, photos, places, and interests.
+
+   People: "friends who live in my city," "people from my hometown who like hiking," "friends of friends who have been to Yosemite National Park," "software engineers who live in San Francisco and like skiing," "people who like things I like," "people who like tennis and live nearby"
+
+   Photos: "photos I like," "photos of my family," "photos of my friends before 1999," "photos of my friends taken in New York," "photos of the Eiffel Tower"
+
+   Places: "restaurants in San Francisco," "cities visited by my family," "Indian restaurants liked by my friends from India," "tourist attractions in Italy visited by my friends," "restaurants in New York liked by chefs," "countries my friends have visited"
+
+   Interests: "music my friends like," "movies liked by people who like movies I like," "languages my friends speak," "strategy games played by friends of my friends," "movies liked by people who are film directors," "books read by CEOs"
+
+   The Graph Search beta starts today. Go to www.facebook.com/graphsearch to get on the waitlist.
+
+   The roll out is going to be slow so we can see how people use Graph Search and make improvements.
+
+   We look forward to your feedback. Enjoy and explore the graph.
+
+   __
+
+   Additional Media Resources:
+
+   To learn more about Graph Search, go to www.facebook.com/graphsearch
+
+   To learn about Graph Search and privacy, go to www.facebook.com/graphsearch/privacy
+
+   To download a behind the scenes video, click here.
+
+   For a collection of screen shots, click here.
+
+   Frequently Asked Questions
+
+   What is Graph Search?  Graph Search is a new way for you to find people, photos, places and interests that are most relevant to you on Facebook.
+
+   What is Graph Search useful for?  Graph Search will help you instantly find others, learn more about them and make connections, explore photos, quickly find places like local attractions and restaurants, and learn about common interests like music, movies, books and more. All results are unique based on the strength of relationships and connections.
+
+   What can I search for?  With Graph Search, you can search for people, photos, places and interests.
+
+   How do I search?  Type your search into the blue bar at the top of the page. As you start to type, suggestions appear in a drop down. You can refine your search using the tools on the right-hand side of the page.
+
+   Some example searches include:  · People who like tennis and live nearby  · Photos before 1990  · Photos of my friends in New York  · Sushi restaurants in Palo Alto my friends have liked  · Tourist attractions in Italy visited by my friends
+
+   How are you rolling this out?  Graph Search is in a limited preview, or beta. That means Graph Search will only be available to a very small number of people who use Facebook in US English.
+
+   How can I get Facebook Graph Search?  You can sign up for the waitlist at www.facebook.com/graphsearch
+
+   Does Graph Search change any of my current privacy settings?  No. Graph Search follows your current privacy settings. You can only search for content that has been shared with you.
+
+   How do I control what tags, locations and photos can show up about me?  To control tags, photos or posts with locations about you that appear in search, go to your Activity Log.
+
+ 

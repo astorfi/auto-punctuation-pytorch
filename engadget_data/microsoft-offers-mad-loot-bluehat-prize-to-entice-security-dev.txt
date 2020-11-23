@@ -1,0 +1,10 @@
+
+ 
+
+Mere numbers aren't enough to describe cash prizes for Microsoft, it seems. The firm's inaugural Bluehat security competition's introduction video opted for a clearer term: "mad loot, lots of it." The big M hopes the hefty first prize of $200,000 will inspire the creation of the next generation of defensive computer security technology. The most innovative "novel runtime mitigation technology designed to prevent the exploitation of memory safety vulnerabilities" (phew!) will take home the aforesaid mad loot, while second and third places will receive $50,000 and an MSDN Universal subscription, respectively. The winner won't be announced until Blackhat 2012, of course, and applicants have until April to submit their prototypes and technical descriptions. Hit the break for the official announcement video, complete with CG backgrounds and prize euphemisms.
+      
+
+ 
+
+      View this video as a WMV  document.write("<script type='text/javascript' src='" + (window.location.protocol) + "//c.microsoft.com/ms.js'><\/script>"); 
+ 

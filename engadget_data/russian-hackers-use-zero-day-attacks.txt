@@ -1,0 +1,11 @@
+
+
+If you've been wondering how Russian cyberattackers could compromise the White House and other high-profile political targets, the security researchers at FireEye have an answer. They've determined that APT28, a politically-motivated Russian hacking group, used unpatched exploits in Flash Player and Windows in a series of assaults against a "specific foreign government organization" on April 13th. Patches for both flaws are either ready or on the way, but the vulnerabilities reinforce beliefs that APT28 is very skilled -- less experienced groups would use off-the-shelf code.
+
+
+
+Whether or not APT28 is linked to the earlier White House breach isn't apparent. FireEye says it can't comment on the connections, since that's classified information. If there is a link, though, it'll be clearer than ever that the US (and most of the world, for that matter) is up against a particularly fierce digital espionage campaign.
+
+[Image credit: Saul Loeb/AFP/Getty Images]
+
+

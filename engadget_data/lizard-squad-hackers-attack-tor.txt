@@ -1,0 +1,8 @@
+
+Lizard Squad, the merry band of hackers that claimed responsibility for taking Xbox Live and the PlayStation Network offline for Christmas, appears to have a new target: Tor. Reports of an attack on the network, which offers online anonymity, appeared earlier today, following a warning on December 19th of "Possible upcoming attempts to disable the Tor network."
+
+A Tor spokesperson acknowledged the attacks, but said they were unlikely to have an effect on users' anonymity.
+
+"This looks like a regular attempt at a Sybil attack: the attackers have signed up many new relays in hopes of becoming a large fraction of the network. But even though they are running thousands of new relays, their relays currently make up less than 1% of the Tor network by capacity. We are working now to remove these relays from the network before they become a threat, and we don't expect any anonymity or performance effects based on what we've seen so far.
+
+

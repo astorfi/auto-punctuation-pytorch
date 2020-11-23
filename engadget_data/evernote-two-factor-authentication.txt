@@ -1,0 +1,4 @@
+
+ In a move that's often more reactive than proactive these days, Evernote has shared plans to add two-factor authentication to its login process. This latest announcement follows last week's hacking attack and subsequent site-wide password reset, and will be available to all of the site's 50 million users beginning later this year, according to an InformationWeek report. It's too early to say exactly how the Evernote team plans to implement the new security feature, whether through a dedicated app or text message password, but given the service's scale, we can likely count out a hardware fob option, at least. For now, your best course of action is to create a secure password, or, if you're especially paranoid, you may consider delaying your return until the security boost is in place.
+
+

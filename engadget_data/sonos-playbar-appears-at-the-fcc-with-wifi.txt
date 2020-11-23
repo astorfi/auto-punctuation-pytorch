@@ -1,0 +1,6 @@
+
+ Sonos is the de facto choice for multi-room audio, but even some of its biggest proponents will grumble about the lack of built-in WiFi -- going wireless in any way has meant tacking a Bridge on to the cost of an already expensive system. An FCC filing for an upcoming device, the Playbar, hints that common sense might have the upper hand. While there's few details of the audio system itself, there's explicit mentions of dual-band 802.11n WiFi inside. Just what that WiFi does is another matter. Sonos prefers using its proprietary network to cut back on lag and interference, so the Playbar's additional wireless may extend functionality rather than simplify our lives. With approval out of the way, there's a better chance we'll know the full story in the near future.
+
+ Update: We've done some digging, and the WiFi may be more innocuous: Sonos' proprietary network is actually WiFi that's just invisible most of the time. Android users have access to settings that expose Sonos' WiFi network and make it usable. As such, the Playbar may be more conventional than first thought, although its exact role in the home is still a mystery.
+
+

@@ -1,0 +1,26 @@
+
+ We can't officially confirm this yet but, We're hearing from all over that a bad McAfee for Windows XP update is causing computers worldwide to shut down. Apparently DAT update 5958 deletes the svchost.exe file, which then triggers a false-positive in McAfee itself and sets off a chain of uncontrolled restarts and loss of networking functionality. Yeah, wild -- Twitter is basically going nuts, and McAfee's support site appears to be down. There are some fixes floating around out there, but it may be too late -- the final tally of borked PCs today may reach into the millions. We've already heard anecdotally that an Intel facility has been affected, as well as Dish Network call centers, and we're sure there are going to be more reports as the day wears on.
+
+Update: McAfee just sent us a statement -- they've pulled the update from their corporate download servers, and consumers shouldn't be affected.
+
+McAfee is aware that a number of customers have incurred a false positive error due to incorrect malware alerts on Wednesday, April 21. The problem occurs with the 5958 virus definition file (DAT) that was released on April 21 at 2.00 PM GMT+1 (6am Pacific Time).
+
+Our initial investigation indicates that the error can result in moderate to significant performance issues on systems running Windows XP Service Pack 3.
+
+The faulty update has been removed from McAfee download servers for corporate users, preventing any further impact on those customers. We are not aware of significant impact on consumer customers and believe we have effectively limited such occurrence.
+
+McAfee teams are working with the highest priority to support impacted customers and plan to provide an update virus definition file shortly. McAfee apologizes for any inconvenience to our customers
+ Ouch -- that might be the understatement of the year. We've definitely hearing this affects SP2 as well, we'll keep looking for more.
+
+Update 2: The anecdotal numbers keep rolling in, and they're not small -- 30,000 machines are knocked out here, 60,000 there. Given that the only fixes right now involve techs spending time with each affected machine individually, things could get seriously messy. We'll keep you updated if you keep us updated, okay?
+
+Update 3: Here's an official McAfee fix, although like we said, it requires tech to hit each machine in person. We'll see what the story is for bigger institutions with tens of thousands of seats.
+
+Update 4: We're told the official fix only helps those who haven't been hit with the bug yet, so there's obviously still issues to be sorted out. [Thanks, Tyler.]
+
+[Thanks to everyone who sent this in]
+
+Developing...
+      
+
+ 

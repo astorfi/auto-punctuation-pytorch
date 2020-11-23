@@ -1,0 +1,7 @@
+
+ 
+
+When the UMPC platform was launched at Intel's 2005 IDF we were teased with a $500 or less device on the WWAN running on ultra-low powered chips capable of either 8-hours off battery or putting Vista to sleep for up to a week. Well, we all know how the Vista-less first gen launch went, right? Pictured above are Intel's reference designs for the 2nd generation UMPCs on display at IDF in San Francisco. Scheduled to launch sometime between the end of the year and mid-2007, the new breed of mobile PCs require 1/2 the power at 1/4 the size of the first generation and won't be using Intel's Core 2 Duos according to Intel. Instead, TG Daily speculates that the new devices will use an ultra-low voltage Core Solo with 1 MB of L2 cache. Included in the mix is a Yahoo-branded UMPC which was demonstrated running a version of Yahoo! Go for UMPC. While we're not willing to suffer an Origami v2 campaign, we'll happily welcome such a device into the fold if it can deliver this time. Still we wonder, was it the initial choice of hardware and software which caused a general lack of acceptance in the market, or did the market for a device both bigger than your pocket yet smaller than a laptop simply never exist in the first place? We'll see in 2007.[Via Impress]
+      
+
+ 

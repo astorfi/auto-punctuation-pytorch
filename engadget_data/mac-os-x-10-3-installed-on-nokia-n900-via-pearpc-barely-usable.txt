@@ -1,0 +1,11 @@
+
+ 
+Curious folks around the world enjoy a bit of hackintosh every now and then (although once is enough for many), but no geek has successfully ventured as far as Toni Nikkanen of Finland, who became the first person to run OS X on a phone -- the Nokia N900. As you can see in the video after the break, Toni's hack relies on PearPC -- a PowerPC emulator -- to install good ol' OS X 10.3 (Panther), but the mammoth sluggishness means it's far from usable. Still, if you can spare 90 minutes for each boot-up plus plenty more for the snail-paced cursor, then head to the source to learn from Herra Nikkanen.
+
+[Thanks, Matija]
+      
+
+ 
+
+
+ 

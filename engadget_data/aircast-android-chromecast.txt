@@ -1,0 +1,8 @@
+
+ClockworkMod dev Koushik Dutta has teased us with a few interesting ways to get our own media streaming on Chromecast, but now he's actually releasing one to the public. AirCast runs on your Android device and streams video from the gallery, Dropbox or Google Drive to Google dongle, with playback controls available in the app or from the notification bar. So why is this ready for release now? According to the developer, he's reverse engineered the protocols and is no longer using the SDK. Still, the app is just in testing now and he warns that the button doesn't appear in gallery apps on some devices, including the HTC One. It will stop working on its own after a couple of days while Dutta works the kinks out, look below for links to the download or more information, and check out a video demo after the break.
+
+
+
+
+
+ 

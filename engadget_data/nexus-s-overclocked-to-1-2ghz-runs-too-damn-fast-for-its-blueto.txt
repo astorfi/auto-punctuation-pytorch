@@ -1,0 +1,6 @@
+
+ 
+Even at its default 1GHz speed, Samsung's Hummingbird is one of the finest mobile processor around, but are you really going to complain about getting the option to crank an extra 200 milion clock cycles out of it? Morfic over on the xda-developers forums has delivered a kernel permitting Nexus S owners to achieve just that, although he still has to fix an issue that disables the phone's Bluetooth capabilities.Still, if you value ludicrous speed over wireless peripherals, the source link is your friend.
+      
+
+ 

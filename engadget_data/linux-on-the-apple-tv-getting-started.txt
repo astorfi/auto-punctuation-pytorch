@@ -1,0 +1,5 @@
+
+ It's a good thing Apple isn't fighting back against Apple TV hacks, because while we haven't yet seen any hard evidence that Linux on the Apple TV is even as far as is claimed, apparently some industrious hackers have already made some real progress in shoehorning Tux into the minuscule media device. According to the Mactel-Linux wiki, users have managed to capture the ATV's boot loader and run a custom Linux kernel; right now that kernel and the primitive ATV build apparently seem to support WiFi, SpeedStep, and EFI, but there are issues with USB (you're telling us!), and the graphics aren't settled either. We'll know they're done once we can successfully play Doom in 1080p -- but not a moment sooner.
+      
+
+ 

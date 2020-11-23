@@ -1,0 +1,21 @@
+
+ If you didn't get enough mobile news during the week, not to worry, because we've opened the firehose for the truly hardcore. This week, we have a super-sized dose of news for Nokia and Windows Phone users, along with the latest rumblings on the mobile network front. So buy the ticket and take the ride as we explore the "best of the rest" for this week of December 17th, 2012.
+
+
+
+ Nokia brings sharing to Cinemagraph, updates Maps, Transit and Music apps 
+ Cinemagraph is a lovely Windows Phone 8 app from Nokia that's exclusive to it's Lumia lineup. While mostly for novelty sake, it allows users to create moving images by recording brief scenes and then choosing specific areas of the scene to animate. The idea is to combine the quality of a still photo with the motion of a GIF. Up until now, however, it's been crippled by one significant drawback. As we reported in our Lumia 920 review, the files were converted to a still JPG format whenever you attempted to share the animations via email, Twitter or Facebook. Thankfully, that's now resolved with Nokia's latest update to Cinemagraph, which brings proper sharing support for Twitter, Facebook, email and messaging. Rather than uploading the animated files directly to these services, all Cinemagraph images are hosted on Nokia's servers, and an appropriate link is now included in your message. Granted the integration isn't seamless, but at least sharing is now possible.
+
+ In other news on Nokia's front, the company released new versions of its Maps, Transit and Music apps this week. Now, Maps users will find traffic information for more roads, along with more descriptive congestion information. Specifically, green lines are now displayed to depict clear traffic flow, in addition to the previous yellow and red lines. Maps is also now more tightly integrated with Nokia Transit, which was updated this week with a new set of APIs to allow for this integration. Needless to say, users must apply the Transit update to experience this better integration with Maps. Lastly, Nokia Music was updated this week with a handful of interface refinements that make it easier to create mixes with the Mix Radio service, along with quicker access to offline music. Users will also find that a link to the phone's audio settings is now baked into the app. [Nokia Conversations, All About Windows Phone 1, 2, 3]
+
+ Nokia Lumia 920 to arrive at Three in the UK 
+ EE's exclusivity period for the Lumia 920 in the UK is quickly coming to an end. Shortly after Vodafone revealed its intentions to add Nokia's halo smartphone to the roster in early 2013, Three confirmed the very same news via its Twitter account. As it stands, however, the carrier's online store makes no mention of the Lumia 920, and details such as pricing and a release date have yet to be made official for Three. [WPCentral]
+
+ WhatsApp receives update for Windows Phone 8, becomes free 'for a limited time' on iOS 
+ The popular messaging app WhatsApp was updated for compatibility with Windows Phone 8 this week, but it seems that the development team has more work in store to bring this one up to speed. Many of the current comments suggest the app is a bit slow -- and possibly even buggy -- and there's currently no option for home screen notifications. Like Android, WhatsApp is free to Windows Phone users for the first year, and it costs $0.99 each year thereafter.
+
+ In similar news, iOS users who've yet to give WhatsApp a spin will find that it's currently free for a limited time. Traditionally, the software runs $0.99 in the App Store. Regardless of whether you snag this one for free, pricing remains the same at $0.99 for each year thereafter. [Nokia Conversations, The Next Web]
+
+ Other random tidbits  AT&T brought its LTE network to Boulder, Colo.; Boise, Idaho,; Hartford and New Haven, Conn.; Bowling Green and Lexington, Ky.; Harrisburg and Lancaster, Pa.; and Ogden, Utah. [PhoneScoop]  T-Mobile announced that its 1900MHz network has been repurposed for HSPA+ access in New York, N.Y.; Newark, N.J.; Boston, Cambridge and Springfield, Mass.; Detroit and Warren, Mich.; Providence, R.I.; Philadelphia, Pa.; Dallas, Fort Worth, Austin and San Antonio, Texas; and Tampa, Fla. [T-Mobile] [Mobile Miscellany photo credit: Thristian / Flickr]
+
+

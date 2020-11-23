@@ -1,0 +1,8 @@
+
+ 
+ From airline and train boarding passes to concert tickets, we've seen a variety of tix make their way into the digital realm at venues around the world. With today's announcement of Passbook, the hard copy credential may soon be a thing of the past. Speaking on stage at Apple's WWDC keynote, VP of iOS Software Scott Forstall demonstrated the feature with United boarding passes, Fandango movie tickets and a Starbucks gift card. While none of these examples are making their premiere debut, Passbook will certainly make the QR-code-based stubs more user-friendly, while also increasing awareness among folks who continue to opt for paper while doubting the usability and authenticity of a digital counterpart. Passbook is also location aware, bringing up a Starbucks card as you approach a shop, for example. You can also get updates related to your stored credentials, such as a gate change announcement with a pending United boarding pass. The feature will come bundled with iOS 6, set to launch this fall.
+
+ Check out our full coverage of WWDC 2012 at our event hub!
+
+
+

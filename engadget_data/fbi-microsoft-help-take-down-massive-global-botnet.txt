@@ -1,0 +1,7 @@
+
+At long last, a global task force consisting of the FBI, Microsoft and various law enforcement agencies, have finally cracked down on a botnet with a ring of over 100,000 computers worldwide. Known as Dorkbot (not to be confused with the electronic art collective of the same name), the botnet is created by infecting computers with malware which then lets hackers use them for a variety of nefarious activities like sending spam or stealing personal info -- login info for sites like Facebook, Netflix, Gmail, Paypal and Twitter were particularly targeted. Researchers discovered that the Dorkbot botnet, which has eluded enforcement since April 2011, has affected well over a million Windows PCs in around 190 countries in the last year alone.
+
+[Image credit: Getty Images]
+
+
+

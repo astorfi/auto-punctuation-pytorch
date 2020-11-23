@@ -1,0 +1,6 @@
+
+ 
+Google's been iterating its Maps client for Android devices at a positively ridiculous pace lately, burning through versions 3.4 and 4.0 in a span of just a few days last month -- but hey, March is upon us, which apparently means it's time for another fresh cut. This time around we're looking at 4.1, though the mere 0.1 bump in the version number really doesn't do this thing justice -- they've redesigned the results screen, added a swipe gesture for moving between results, served up a new Latitude widget for the home screen, and brought in support for multiple Google accounts (for seeing different Buzz follows, for instance). The icing on the cake, though, is a new live wallpaper for Android 2.1 phones that's a live map of your location, which sounds absurdly awesome -- assuming it doesn't beat your battery to a bloody pulp with constant GPS access, of course. It's available now from the good ol' Market for devices running Android 1.6 and up, so if you're on a device that's still stuck on Cupcake, feel free to shake your fist angrily at the sky a couple times. Interestingly, Google specifically says that the live wallpaper feature works on "Android 2.1+" devices -- a sign that the next major build is around the corner, perhaps?
+      
+
+ 

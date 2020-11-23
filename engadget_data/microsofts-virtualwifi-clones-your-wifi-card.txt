@@ -1,0 +1,15 @@
+
+
+Just to remind all the haters that Google Labs isn't the only research game in town,
+Microsoft Research has just
+busted out VirtualWiFi: a bit of software that makes your computer believe a single
+WiFi card is multiple configurable cards, allowing
+connections with multiple networks. There are all sorts of applications for this — beyond tricking people into thinking
+that you have more WiFi cards than them — such as connecting to multiple ad-hoc networks, or getting your internet from
+a for-pay WiFi subscription and then sharing it over ad-hoc (Engadget does not endorse any such usage of VirtualWiFi
+and predicts that your laptop will turn into a heap of ash if such usage is attempted). Sounds like fun, no?
+
+
+
+
+ 

@@ -1,0 +1,4 @@
+
+ Intel historically swings its attention to its latest generation of processors along with a new year, very nearly leaving the old platform by the wayside. There's hints, however, that the current Ivy Bridge architecture may have one last gasp. VR-Zone has published claimed specs for the Y level, a new tier of Ivy Bridge chips that would draw less energy than even the ultra-low voltage U roster. A range of processors from a 1.1GHz Pentium through to a 1.5GHz Core i7 would normally demand 13W or less of power, already lower than the 17W we know today, but step down further depending on the situation -- to a downright miserly 7W, in some scenarios. While the semiconductor giant hasn't confirmed the reasons for the new tier, it's suspected that the line is destined for Windows 8 tablets that need more grunt than an Atom without steep drops in battery life. If talk of early 2013 availability proves true, there may be a few computing surprises to be had in Las Vegas.
+
+

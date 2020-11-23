@@ -1,0 +1,7 @@
+
+ In a post titled "Hello hypervisor, I'm geohot," hacker George Hotz (already known in the iPhone community) has made a strong claim: that he has cracked the PS3. The system has remained (mostly) uncompromised for over three years now, with a few exceptions here and there. But, this one pledges full read/write access to the entire system memory and complete control over the processor -- all without a mod chip. Has he really done it, if so how, and what comes next? That all remains to be seen. This exploit supposedly "isn't really patchable, but [Sony] can make implementations much harder," meaning he isn't tipping his hat until he's ready, because once he does the never-ending firmware update war begins, and as we've seen on the PSP, Sony can really knock out those updates. 
+
+[Thanks, Deepak]
+      
+
+ 

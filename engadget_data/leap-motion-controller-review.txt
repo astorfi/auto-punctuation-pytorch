@@ -1,0 +1,18 @@
+
+When the Leap Motion controller was revealed to the world, it brought with it the promise of a new and unique computer user experience. And, ever since we first got to see what the Leap Motion controller could do -- grant folks the ability to interact with a computer by waving their fingers and fists -- we've wanted one of our own to test out. Well, our wish was granted: we've gotten to spend several days with the controller and a suite of apps built to work with it. Does the device really usher in a new age of computing? Is it worth $80 of your hard-earned cash? Patience, dear reader, all will be revealed in our review.
+
+
+
+
+Hardware and setup
+The Leap hardware is actually quite unassuming, considering its capabilities. It's just over three inches long, an inch wide and less than a half-inch thick (79 x 30 x 11mm), with a glossy black panel on top, behind which resides the infrared sensors. On the bottom, you'll find a black rubber panel embossed with the Leap Motion logo. The edge, meanwhile, is ringed with a seamless aluminum band, save for a USB 3.0 Micro-B port on the left side (though the device runs at USB 2.0 speeds). There's also a slim LED power / status indicator on the front edge. Alas, as of this writing, the company wasn't able to reveal more specifics about the internals themselves, thanks to pending patent considerations. Along with the controller itself, users get a pair of USB 3.0 cables in the box -- a 5-foot and a 2-foot cord.
+
+Keep in mind, the Leap is different from a Kinect sensor bar in more than just its size and appearance. Leap works using infrared optics and cameras instead of depth sensors, and does not cover as large an area as Microsoft's gestured controller. Leap does its motion sensing at a fidelity unmatched by any depth camera currently available: it can track all 10 of your fingers simultaneously to within a hundredth of a millimeter with a latency lower than the refresh rate on your monitor. Of course, that tracking ability isn't just about the hardware, and the capabilities of the Leap are only realized by the software built to work with it. 
+
+Setting up the Leap is a straightforward affair. Simply plug one end into the laptop, the other into the controller and position it in a location where it can see your hands; in front of a laptop or between a desktop keyboard and screen generally works. Once you're plugged in, you'll see the green LED on the front of the device and the infrared LEDs beneath the top plate come to life. From there, it's a matter of downloading the appropriate Windows or Mac Leap Motion software suite (consumers will be prompted automatically to do this upon connecting the device). That download includes both a diagnostic and status program (for reporting bugs and re-calibrating the device when necessary) and the software portal from whence most Leap-friendly apps will come.
+
+Software
+While executing the hardware correctly is surely of great import, the Leap is a platform that's only as good as the applications built for it. Which is why the company has spent so much time ingratiating itself with developers through an extended beta and created a purpose-built portal, called Airspace, in which to feature applications built for Leap. As we noted when we first saw Airspace demoed, it's a bifurcated portal composed of the Airspace Store on the web (where you acquire new apps) and the local Airspace Home (a launcher for any and all Leap-compatible apps). When you "buy" an app in the Airspace Store, Home detects that purchase and proceeds to download it automatically.
+
+
+

@@ -1,0 +1,12 @@
+
+ At least some of the tablet-loving public picked up a Surface Pro this weekend. Those earliest of early adopters have discovered an unpleasant limitation, however: the vaunted pen input doesn't have complete support in important apps. Microsoft is using only an official driver without any current option to install an alternative, leaving artists without eraser or pressure support in creative industry staples such as Adobe Photoshop. While there's no immediate fix, a Microsoft spokesperson tells us that it's working with the "necessary partners" to expose full pen functionality; we've reached out to Adobe as well, and will let you know if it's one of the chosen few. In the meantime, Surface artisans who need full pen recognition may want to consider an add-on tablet as a stopgap. Read Microsoft's full statement after the break.
+
+ Update: Adobe tells us it's "working with [its] partners to explore the possibility" of support, which suggests that we'll need to be patient.
+
+ [Thanks, John]
+
+
+
+  "Surface Pro uses Windows Inbox Drivers and APIs for the Surface pen, which support advanced features such as pressure sensitivity and eraser functionality. There are a number of apps in the Store that leverage these new Windows APIs and can take advantage of all that the Surface pen has to offer. The Surface pen does work with Photoshop, which runs on Surface Pro, though advanced features such as pressure sensitivity and eraser functionality may not be available at this time. Microsoft is working with the necessary partners to make advanced features of the Surface pen available across a number of applications in the near future."
+
+

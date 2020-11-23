@@ -1,0 +1,4 @@
+
+ This is likely not the biggest change SkyDrive will ever see, but Microsoft's still confident that Windows 8 and RT users of its cloud service are going to benefit from the latest tweak. And why wouldn't they, right? Earlier today, the Redmond-based company announced it's brought support for Live Tiles to the SkyDrive application on both Windows 8 and RT, with its main purpose being to show notifications rather than only being useful for launching the app. Naturally, this means folks will now be able to see relevant messages within the tiles when they make certain account modifications, including things like adding new files and quick previews of recently uploaded pictures. According to Microsoft, the novel feature will be available today, but it is rolling out gradually, so fret not if you're not seeing it pop up just yet.
+
+

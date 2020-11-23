@@ -1,0 +1,6 @@
+
+ 
+To say that we've been waiting for AMD's Fusion CPU / GPU combo for a long time would be an understatement. In fact, while AMD was busy talking about it, Intel swept in with its own Arrandale and Clarkdale chips that pack graphical and computing processing into the same chip. Lest we were discouraged, then, AMD is making a return to form with news that its first Fusion APU (Accelerated Processing Unit) is about to start sampling to manufacturers, with a now definite 2011 launch window. Codenamed Llano, this will be a quad-core beastie with intended operating speeds of more than 3Ghz and graphics parts borrowed from ATI's successful line of Evergreen GPUs. That means DirectX 11, a feature Intel is unlikely to match, whereas AMD will have everything Intel currently does and more, with a 32nm production process, on-die integration (rather than just the same chip packaging), and power gating allowing for dynamic per-core overclocking a la Turbo Boost. It's been lonely without you AMD, now just fulfill this promise and all that absenteeism will be forgiven.
+      
+
+ 

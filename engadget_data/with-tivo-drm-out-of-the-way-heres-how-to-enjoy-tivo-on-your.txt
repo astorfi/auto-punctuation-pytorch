@@ -1,0 +1,5 @@
+
+ It took a while to crack that pesky TiVo DRM, but now that the TiVo File Decoder is finally ready to do its job and decrypt those .tivo files into MPEG-2, utilizations of the hack are coming hot and heavy. Our pal Dave Zatz put together a handy little guide for the Mac users out there, who have been sitting on the sidelines up till now, which details how to connect to your TiVo, transfer the files, crack the DRM and enjoy the videos with existing Mac software. Right now the process involves getting your hands dirty with a little bit of Terminal action, but hopefully Galleon or some other bit of software will be integrating the process before too long. But for now, with just a little bit of effort, you can finally view the media you've recorded on your chosen DVR with your chosen operating system.
+      
+
+ 

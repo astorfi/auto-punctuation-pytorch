@@ -1,0 +1,6 @@
+
+   
+Maybe Nvidia's recent tough talk following the acquisition of ATI wasn't just talk. They're backing up those words with some serious graphics muscle: a unit called the Quadro Plex 1000 that can pump 80 billion pixels per second for pro graphics needs. Like, really pro graphics needs. Before we hurt ourselves trying to figure just exactly how many Marios that is, we'll run the rest of the specs by you. The Quadro Plex comes in a desktop (pictured) or 3U rackmount configuration, and is designed for working with 12-megapixel HD video, 3D graphics, scientific visualization, simulations and whatever else needs that type of GPU power. One node involves eight Quadro FX cards, jammed into two Plex 1000 systems and paired up via SLI, all of which is hosted by a 32-bit Intel or 64-bit AMD machine running Windows or Linux. All that juicy Quake II power (we keed! we keed!) can be yours starting at a mere $17,500, and should be available beginning next month.
+      
+
+ 

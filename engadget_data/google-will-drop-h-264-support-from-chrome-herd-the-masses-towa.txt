@@ -1,0 +1,6 @@
+
+ 
+We knew Google was rather fond of its WebM video standard, but we never expected a move like this: the company says it will drop support for the rival H.264 codec in its HTML5 video tag, and is justifying the move in the name of open standards somehow. Considering that H.264 is presently one of (if not the) most widely supported format out there, it sounds a little like Google shooting itself in the foot with a .357 round -- especially considering the MPEG-LA just made H.264 royalty-free as long as it's freely distributed just a few months ago. If that's the case, Chrome users will have to download a H.264 plug-in to play most web video that's not bundled up in Flash... which isn't exactly an open format itself. Or hey, perhaps everyone will magically switch to Chrome, video providers will kowtow, unicorns will gaily prance, and WebM will dominate from now on.
+      
+
+ 

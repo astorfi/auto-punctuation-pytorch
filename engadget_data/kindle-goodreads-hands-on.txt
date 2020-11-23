@@ -1,0 +1,17 @@
+
+Someone on the Kindle team was undoubtedly a bit broken-hearted when Goodreads integration failed to roll out in time for both the new Paperwhite and Kindle HDX launches. The acquisition certainly made a good deal of sense when it was announced back in March. After all, the service is well-positioned to bring recommendations and a sense of community currently lacking in the Kindle ecosystem. For users, it means more engagement and better tailored recommendations. For Amazon, it means the potential to sell more content - which, let's face it, is kind of the whole bottom line for the company here. The feature finally arrived today for HD and HDX users, as part of a larger upgrade to Fire OS, which also brings along the Second Screen video feature and added enterprise support. It'll be coming over-the-air soon enough, but if you want to jump the line, you can download it from Amazon right now.
+
+
+To get started (once you're all finished downloading, dragging and dropping Fire OS 3.1), you'll need to open up the Goodreads app. We were a bit surprised Amazon didn't make integration feel more baked into the experience, given the time it took to roll out the product. Instead, the offering feels a bit siloed, not unlike the FreeTime parental monitoring available on the tablet at launch. Once fired up, you'll be asked to create a Goodreads account or login with a current one, tying it to your Amazon account. I had one already, which has long since been dormant, but the official integration with the Kindle ecosystem seems as good an excuse as any to blow a little bit of dust off the old virtual bookshelves.
+
+
+
+
+Now here's the fun part - once logged in, the app brings up all of the books you've bought through Amazon, both electronic and physical, that you haven't entered into Goodreads. From here, the app lets you rate the book out of five stars, which also marks it as read on your Goodreads profile. Strangely, you can't actually add a review from there - you're going to want to log into the site to do that. Tap on the book, and you'll get a Goodreads page with a description and community reviews. There's also, naturally, a "Search in Kindle Store" link there as well. Tap on that and you'll see search results the title. We're sure Amazon is working on more direct links to the titles to make it easier to buy them on-device through the app, but that functionality just isn't here yet.
+
+
+The app also has a sidebar for quick access to your profile, your friends' updates and a quick link for adding more of those Amazon books you've bought. There's also a link that brings you to your Kindle bookshelf. There's a little "g" icon on the shelf now, which when tapped, launches the Goodreads app. The functionality isn't quite what we'd called fully-baked in at this point. Rating and reviewing has, however, been added to the reading experience. Once you've finished a title, you'll be prompted to give feedback, which is delivered to both Goodreads and Amazon's book pages.
+
+This is all just a first step, hopefully - it's not quite the deep level of integration we've been hoping for since news of the acquisition broke. Perhaps somewhere along the line, Goodreads will begin to feel like a part of Fire OS, rather than an app that sits on the platform, baking better tailored recommendations directly into the Kindle tablet experience.
+
+

@@ -1,0 +1,10 @@
+
+ 
+
+HTC held true to its promise to look into the security vulnerability that surfaced over the weekend, an apparent glitch that allows any app requesting internet access to take a peek at a user account information, GPS location, system logs, and other potentially private data. While HTC assured us that user data isn't at risk of being harmed by its own software, a third party malware app could exploit the security flaw and cause some trouble. The outfit is already building a patch, and will ship it out in an over the air update after a short testing period with its carrier partners. Until then? HTC recommends steering clear of apps from publishers you don't trust. Hit the break to see the official statement.
+      
+
+ 
+HTC Public Statement 		HTC takes claims related to the security of our products very seriously. In our ongoing investigation into this recent claim, we have concluded that while this HTC software itself does no harm to customers' data, there is a vulnerability that could potentially be exploited by a malicious third-party application. A third party malware app exploiting this or any other vulnerability would potentially be acting in violation of civil and criminal laws. So far, we have not learned of any customers being affected in this way and would like to prevent it by making sure all customers are aware of this potential vulnerability. 		HTC is working very diligently to quickly release a security update that will resolve the issue on affected devices. Following a short testing period by our carrier partners, the patch will be sent over-the-air to customers, who will be notified to download and install it. We urge all users to install the update promptly. During this time, as always, we strongly urge customers to use caution when downloading, using, installing and updating applications from untrusted sources.
+
+

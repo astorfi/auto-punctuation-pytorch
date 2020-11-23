@@ -1,0 +1,4 @@
+
+ While you might use Firefox to access your social media of choice already, preliminary support for a new API has been introduced that could integrate key features into the browser itself. The aptly named Social API, will allow developers to embed services into the browser directly, letting you interact with friends and stay updated without having to open new windows, or keep hopping into different tabs. There's no solid info just yet on how this will manifest itself, or how issues such as security and privacy might be addressed, but with testing beginning soon, we're expecting the curtain to lift on the finer details soon. Interested developers can head to the source, for the other billion, you'll just have to wait.
+
+

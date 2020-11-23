@@ -1,0 +1,9 @@
+
+ Since lockscreen bypass methods are apparently what's hot in the streets, it's no surprise that yet another one has surfaced, this time targeting Samsung's Android phones. A variant of another, earlier uncovered method, this one does not fully unlock the phone by itself, but does provide access to apps and settings for a brief period. Given that, as demonstrated in the video by Terence Eden, it's possible to use Google Play to download an app to disable the locked screen and fully access the phone.
+
+ According to Terence, this problem is confirmed on the Galaxy Note II, possibly the Galaxy S III and potentially on other TouchWiz UI Samsung Android phones. Disabling screen animations under developer options should reduce the vulnerability, but doesn't eliminate it without switching to another ROM. He also mentions Samsung is aware of the issue and is working on a fix, but that leaves phones accessible right now. We've certainly seen enough of these recently (Apple's latest version of iOS has also been victimized again in the last day) to know leaving our phones out, locked or unlocked, is foolish. At the same time, if a manufacturer insists on adding customized software to the existing platform, it could at least have the courtesy to do so without causing security leaks -- check after the break for a "bonus" vid sent in by another tipster that shows a way to activate voice commands on a locked Galaxy S II.
+
+
+
+   
+

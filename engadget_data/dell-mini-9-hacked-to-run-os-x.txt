@@ -1,0 +1,6 @@
+
+ 
+We're assuming Apple will eventually give up and release a netbook of its own, but until then Steve had better get used to seeing OS X hacked to run on all manner of tiny laptops -- the latest to make the switch is Dell's Inspiron Mini 9. Nothing too complicated about this hack, since most of the work was already done for the internally-similar MSI Wind, but you'll have to dig up some extra Broadcom drivers to get WiFi and sound working. Seems like a fun little project for the weekend -- anyone going to take the plunge?
+      
+
+ 

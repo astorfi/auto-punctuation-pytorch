@@ -1,0 +1,5 @@
+
+ Announced at BlackBerry's 2010 Developer Conference last fall, BBM Social Platform has just become available to interested third-party devs in beta form. Of course, you might be hoping that it opens BlackBerry Messenger to other (read: non-BlackBerry) platforms via API... but yeah, that's not happening quite yet. Instead, the SDK allows folks developing for BlackBerry OS to integrate BBM capabilities into their own apps, and the list of capabilities is pretty extensive: you'll be able to read and update user profiles, embed BBM chats inside your app, and transfer files, just to name a few of the big ones (with the user's permission, of course). The current beta works for Java apps, while RIM's hard at work crafting a new version for release in April that'll add WebWorks web app compatibility.
+      
+
+ 

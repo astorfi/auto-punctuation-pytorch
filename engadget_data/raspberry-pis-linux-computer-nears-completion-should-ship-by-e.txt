@@ -1,0 +1,5 @@
+
+ Raspberry Pi's commercial future became a little clearer yesterday, with an announcement that the first batch of its Model B Linux computers will be finished by February 20th. The $35 board went into production last month, but has been beset with delays in bringing it to market. In a post on its site, the UK-based manufacturer expressed some regret over the setback, attributing it to a hiccup it encountered while trying to procure specific quartz crystals. Fortunately, though, everything is finally in order, and the computers should begin shipping by the end of the month. In the meantime, particularly hardware savvy users can find out more about the BCM2835 SoC behind the Model B, courtesy of a datasheet that Broadcom released alongside Raspberry Pi's announcement. You can dig through it yourself, at the coverage link below.
+      
+
+ 

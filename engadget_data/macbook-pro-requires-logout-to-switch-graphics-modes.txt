@@ -1,0 +1,9 @@
+
+ 
+We just spent some quality time with the dual-graphics VAIO Z, so when we heard that the new MacBook Pros had a similar two-chip layout, we assumed switching from the integrated NVIDIA 9400M to the discrete 9600M GT would be just as easy -- it's just a switch on the Sony that can be flipped anytime. Too bad that's not the case: according to a recently-posted Apple support document, switching graphics modes requires a trip to System Preferences and then a logout. Sure, it's slightly better than a total restart, but it's still a huge pain in the ass, and one we just don't understand -- if Sony can get Vista to handle it without issue, Apple should be able to get their own OS to deal. Here's hoping Apple fixes this particular bag of hurt soon -- we can't see mobile pros flocking to this feature until they can seamlessly switch between graphics modes when going from the office to the road.Update: We took a quick video of the machine switching modes, check it after the break.
+      
+
+ 
+
+
+ 

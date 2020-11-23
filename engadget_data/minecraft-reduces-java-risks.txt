@@ -1,0 +1,4 @@
+
+As a matter of course, Minecraft has required that you install Java's run-anywhere code base -- a big problem when that tends to introduce security exploits and annoying adware. However, the construction game should be considerably safer thanks to a low-key update in recent weeks. The Windows edition of Minecraft (OS X is coming later this year) now installs a standalone version of Java that's used only while you're playing. If you want, you can scrub the full version of Java without losing access to your blocky masterpieces. And the kicker? If you haven't been keeping on top of your software updates, the game may run smoother at the same time. It's not urgent that you get the upgrade, but it's definitely worth considering if you only bother with Java for the sake of living in Mojang's virtual world.
+
+

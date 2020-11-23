@@ -1,0 +1,12 @@
+
+ 
+Like we said, you don't have to wait until August 3rd to get your Android 2.2 Froyo update for the EVO 4G. You can grab the update file right now from HTC's servers (via source link). All you gotta do then is move the file to the root directory of your SD card, boot the phone into recovery mode (hold the "up" button while the phone is turning on), and select apply update from the associated .zip file -- you might also have to rename the file "update.zip" and expect a few other variations in the instructions, user depending. Too much thought process for Friday evening? Feel free to take a crack at it tomorrow, or simply wait for Sprint to give your phone the head's up next week. 
+
+Update: HTC just shot us a message to clarify that this is not the final ROM version and that the company is strongly recommending not to install this. Additionally, a request has been put in to remove the file from the server, so if you still want to try at your own risk, better download now while it's still available.
+
+Update 2: ... and now it's gone. We're sure crafty internet users can still find the file lingering elsewhere, but you won't be getting it from HTC's servers this weekend. You know the old saying, ye who snoozes, something something, tough luck.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

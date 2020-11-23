@@ -1,0 +1,5 @@
+
+ Well, wouldn't you know it. Nearly half a year after we first heard that CompactFlash SATA cards were in the works, we're finally getting some confirmation. The CompactFlash Association will be showing off a CFast connector and package at CES 2008, and the SATA interface included will purportedly provide interface data rates up to 3Gb/sec -- quite a bit swifter than the 133MB/sec that PATA serves up now. According to Mr. Shigeto Kanda, the CFA chairman of the board, the "development of a CompactFlash card with a SATA interface" will enable CF to "maintain dominance in the non-consumer (embedded systems, single board computers, data recorder, etc.) markets" as well as in those fancy DSLRs / camcorders. Per usual, there's no word on when this stuff should make the leap from show floor to store shelf.
+      
+
+ 

@@ -1,0 +1,33 @@
+
+ 
+ We didn't have too many reservations about the Galaxy S III for Verizon in stock form. Anyone who's been eager to load new firmware, however, has been up in arms over the particularly locked down bootloader that Big Red (but no other US carrier so far) demands. Enter the Galaxy S III Developer Edition. The new, direct-from-Samsung variant will have all the CDMA and LTE a Verizon subscriber could want, but with the option to unlock the bootloader for as much customization as serious Android fans might stand. As you'd anticipate, the catch is simply who takes the hit if something goes wrong: brick the phone and you're likely looking at an expensive phone call to Samsung rather than a trip to the local Verizon store. Regardless, those who like Verizon's network but don't believe its claims about 'dangerous' unlocked phones can get the best of both worlds soon -- as long as they're willing to spend the $600 off-contract once the Developer Edition is ready in the near future. Check after the break for Samsung's official Q&A on the subject.
+
+
+
+  Show full PR text   Q&A
+   Who is this for?
+
+   Samsung and Verizon Wireless recognize that there are many enthusiasts and professional developers that are interested in customizing their device with third-party ROM software. Unlocking the bootloader can put the stability of the phone in jeopardy; therefore, only experienced developers should attempt to unlock the bootloader.
+
+   What about the other carriers?
+
+   Other versions of the Galaxy S III are sold with a user-unlockable bootloader as a standard feature. Those models are available directly from the respective carriers.
+
+   Where can I buy the Galaxy S III Developer Edition?
+
+   The Developer Edition will be sold online directly from Samsung. When the device is available for purchase, it will be sold through the Samsung developer portal at developer.samsung.com
+
+   Why is Verizon Wireless' version locked?
+
+   Depending on the device, an open boot loader could prevent Verizon Wireless from providing the same level of customer experience and support because it would allow users to change the phone or otherwise modify the software and, potentially, negatively impact how the phone connects with the network. The addition of unapproved software could also negatively impact the wireless experience for other customers. Unlocking the device also voids the warranty.   Has Samsung always unlocked the bootloader on its phones?
+
+   While not all previous Samsung Android devices have had an easily unlockable bootloader, all of our other current Galaxy S III flagship lineup, and all Nexus-branded devices, support the standard bootloader unlocking procedure.
+
+   What happens if I load custom software and damage ("brick") my phone?
+
+   Problems caused by your unlocking the bootloader and installing custom software will not be covered by the warranty. Problems with third-party and customized bootloader software can cause irreparable harm to the Galaxy S III. Users interested in performing these actions should proceed with caution and at their own risk. Out of warranty Galaxy S III Developer Edition devices will be serviced directly through Samsung, and service charges will apply.
+
+ 
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

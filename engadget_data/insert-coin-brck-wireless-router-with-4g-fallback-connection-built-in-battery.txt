@@ -1,0 +1,12 @@
+
+In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+Staying connected to the internet can be a challenge at times, especially for Kenya-based Ushahidi, a non-profit tech organization that battles with power outages and flaky ISPs in Africa. Though the outfit typically makes software used in situations ranging from natural disasters to election monitoring, it's taking a hardware project to Kickstarter that aims to ease connectivity woes for itself and others. Dubbed BRCK, the solution is a rugged wireless router that connects to the internet via Ethernet, WiFi, 3G and 4G, and can switch its source on the fly if a connection dies. For example, if your home service goes out, it can start using a cellular signal instantly -- if you've slotted in a sim card, that is. During power outages, the brick can stay online for up to 8 hours thanks to an internal battery. The package can support up to 20 devices on WiFi and has 16GB of built-in storage, which can hold data synced directly from Dropbox, connected devices or other apps.
+
+
+
+An online component called BRCK Cloud, allows users to configure the hardware and monitor stats such as mobile data usage, broadband uptime and more. Through the web-based interface, users can also specify which connections the box will fall back on when another fails. The device can even be used for data collection, as the group behind it has made power, GPIO and serial pins available. With stretch goals winding all the way up to $750,000, Ushahidi is planning perks including different colors, an SDK, Raspberry Pi integration and other goodies. To grab ahold of a BRCK, you'll have to pony up at least $200 towards the organization's $125,000 goal. As of now, the effort's already raised roughly $30,000, with just under 30 days left in its campaign. Hit the neighboring source link to kick in some cash or take a look below for the team's video pitch.
+
+Previous project update: Snapzoom, which we first saw at Expand, has surpassed its $55,000 goal, and now has roughly $75,000 to its name with 20 days left in its campaign.
+
+

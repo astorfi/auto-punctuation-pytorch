@@ -1,0 +1,4 @@
+
+Android developers keen on integrating more core OS functionality into their apps will be glad to know that the latest update to Google Play Services has arrived. Version 3.2 of the software offers a number of location-based services that devs can incorporate into their apps, such as a low-power option when requesting updates, support for hardware-based GPS geofencing and a "Snapshot" feature that removes the need for a constantly interactive map. The update also makes it easier to incorporate content sharing with G+, adds a compass mode in the Photo Sphere viewer, promises a more efficient InstantBuy implementation and better performance in general. Those interested in tinkering with the new and improved Play Services can download an updated Google APIs emulator image through the Android SDK Manager right now.
+
+

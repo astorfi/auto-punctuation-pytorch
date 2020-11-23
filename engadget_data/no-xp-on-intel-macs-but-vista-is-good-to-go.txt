@@ -1,0 +1,6 @@
+
+ 
+If you've been counting on being able to run Windows on those new Intel-based Macs, Apple's not about tomake it easy for you -- at least not if you're attached to Windows XP. According to Apple SVP Phil Schiller, the newMacs announced yesterday (those being the Intel iMac and MacBook Pro) may notbe able to run current versions of Windows due to the fact that the computers will boot using the Extensible FirmwareInterface (EFI), rather than a traditional BIOS (current Power PC Macs use Open Firmware). EFI was developed by Inteland allows a number of advanced features, including the ability to connect to the Internet from a command shell beforethe OS is loaded. Since EFI was developed after the rollout of Windows XP, it's not supported by the current or earlierversion of Windows (it is, however, supported by 64-bit versions, but the new Macs are 32-bit, so it's back to squareone). However, all is not lost: Windows Vista will support EFI, and Apple has said it has no plans to directly blockWindows from working on the new boxes. So, if you're a Vista beta tester and have ordered a new iMac or MacBookPro, getthose install CDs out; the rest of you will have to wait for the official Vista release, or find a way to hack XP toboot using EFI (which we're sure is about to become a major priority of some of you at this very moment).
+      
+
+ 

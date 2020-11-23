@@ -1,0 +1,18 @@
+
+
+Internet Explorer is dead; long live "Project Spartan!" Even the most die-hard Microsoft fan would probably admit that Microsoft's browser has become the punchline to a lot of jokes. The advent of Windows 10 has seen the outfit attempt to fix many of the gripes that users had with the last two generations of the operating system, so perhaps it's no surprise to see that a replacement browser is in the works. Microsoft has now revealed more information about the browser project, apart from its actual name -- for now, it's code-named Project Spartan.
+
+
+
+The new browser is designed to be everything that Internet Explorer isn't, which is to say light, nimble and secure. To achieve that, Microsoft has built a brand-new rendering engine, and given the browser a lean, pared-down look and feel.
+
+
+Microsoft said the new engine would give Spartan a far more robust backbone for adding new features. One that it showed off was "snapping," which lets you freeze a web page and clip out specific segments or add comments. From there, you can send whatever you clipped to a colleague using Windows 10's built-in sharing tool. Another new feature revolves around reading -- the new browser will let you reformat web content to make it more digestible, and will integrate Windows 8's Pocket-like offline article-reading list. In addition, Windows 10 will have built-in support for PDF files, presumably meaning that constant Adobe Reader downloads will no longer be necessary.
+
+
+Another big part of Project Spartan will be Cortana integration. Microsoft's voice-search tool will soon work more like Google Now in order to predict what information you may need. For instance, if you ask for a flight time, Cortana may notice that a friend or family member already has one scheduled, and suggest that as a response. Another example: If you're looking at a restaurant website in the Project Spartan browser, Cortana will offer directions, photos and links to Yelp reviews.
+
+Microsoft said that the new browser would come to Windows 10 on PCs first, and eventually arrive on Windows Phone 10 devices later. As for Internet Explorer, it'll be kept alive for compatibility reasons, but anybody else migrating to Windows 10 will get the new browser. From what we've seen, that's a good thing -- after seeing Spartan, Internet Explorer looks instantly obsolete.
+
+Daniel Cooper contributed to this report. 
+

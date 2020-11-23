@@ -1,0 +1,8 @@
+
+So far, the ability to wirelessly stream the display of an Android phone or tablet to your TV has been limited to solutions like Miracast, but information spotted by Cyanogen Inc. cofounder Koushik Dutta suggests that will change soon. Dutta, who has been working on a similar feature (embedded after the break) for CyanogenMod 11 with AirPlay support, posted notes from the Android 4.4.1 patches showing APIs related to the capture of video output from the device. Currently mirroring from a Chrome browser tab on a PC to Google's HDMI dongle works, but so far on mobile devices it's been locked down to just supported apps. Unfortunately, what he's seeing also indicates this API will keep things locked down to approved devices, so setting up receivers for other hardware like an Apple TV or Roku might not work. Between this feature, the Cast SDK that we hope will open up access to more developers and services, Chromecast support for the platform formerly known as Google TV and rumors of a Nexus TV set-top box, our list of most-anticipated TV announcements from Google is starting to get full.
+
+
+
+
+
+ 

@@ -1,0 +1,14 @@
+
+
+Internet Explorer is generally safe for your web browsing needs these days, but that's not necessarily true of the plugins it runs; one old piece of code could leave your PC open to attack. To that end, Microsoft has announced that Internet Explorer 8 through 11 will start blocking outdated ActiveX controls (Internet Explorer-specific add-ons) when an update arrives on August 12th. Much like what you see in Chrome, you'll get a warning if a website wants to use an older plugin. While you can force the obsolete software to run, it won't load automatically until you either upgrade or disable the warnings altogether. IE's blocking will initially focus on ancient versions of Java, the most frequent target of web-based exploits, but it should expand to other plugins over time.
+
+
+
+          
+ 
+ 
+ Yes, this likely won't affect your day-to-day browsing if you use alternatives like Chrome or Firefox. However, it still promises a safer internet for everyone, not just Internet Explorer users -- it should reduce the chances that botnets and other malware will spread. The big catch is that the update won't affect the many people worldwide (roughly 25 percent in July, according to NetMarketshare) who run Windows XP. Unless they either switch browsers or get newer versions of Windows, they'll remain susceptible to the rogue code that Microsoft is trying to stop.
+
+       
+
+ 

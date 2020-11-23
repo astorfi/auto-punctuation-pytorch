@@ -1,0 +1,12 @@
+
+
+Atmel and u-blox AG have just released SuperSense, a GPS weak signal tracking technology that supports Atmel's
+ANTARIS GPS chipsets and GPS modules from u-blox. The companies claim the software will allow for accurate GPS
+navigation inside buildings, in deep urban canyons, and in covered roads. The software also reduces the need for
+external antennas in car GPS systems, which can instead be mounted in glove compartments or under seats, while
+apparently still providing the same signal reception.
+
+
+
+
+ 

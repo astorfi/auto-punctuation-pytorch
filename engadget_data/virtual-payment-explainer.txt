@@ -1,0 +1,40 @@
+
+We've virtualized much of the rest of the modern life -- why not payments? Plane tickets, banking and many other aspects of our lives now live on our phones. Payments still exist in the world of paper and plastic.
+
+
+Google has Google Wallet; Visa has payWave; MasterCard has PayPass; and American Express has ExpressPay. Apple just announced its own, with Apple Pay. If you've heard of any of these credit card services other than Apple's recently announced system and maybe Google's long-running program, we're impressed. You're in the minority; heck, one quarter of US citizens don't even own a standard credit card, let alone a virtualized one. But virtual payments are more prevalent by the year, and Apple Pay is giving the concept a much-needed publicity boost. So, all that said, let's talk about the future of payment.
+
+
+Don't throw away your wallet just yet.
+
+
+
+WHAT IS IT?
+When it comes to virtualized payment systems, we're not talking about paying with your credit card number online, or even services like PayPal. We're talking about the act of paying at a physical store with virtual means: your phone, for instance, or some forms of credit card. Perhaps you've got a special key for use at the gas pump, where you wave it near a part of the pump and you're good to go? Same concept, except this is all payment scenarios (at major retail chains, anyway).
+
+Google and Apple are using NFC -- "Near-Field Communication" -- to make this work. That means exactly what it sounds like: You put your phone or card near a reader and the reader accepts payment. We've got a video of Apple Pay in action right here!
+
+
+Pretty simple, right? What's actually going on behind the scenes is a bit more complex, of course, but the implementation is meant to be painless. Ideally, even more painless than pulling out your credit card. And more secure, too.
+
+HOW DOES IT WORK?Here's where things get technical, so bear with us for a moment. There are two main standards being used: NFC and ISO/IEC 14443. We already know that NFC stands for "Near-Field Communication," but it's worth also knowing that NFC devices produce a very weak radio frequency. This radio frequency is what allows them to communicate with payment systems, and it's that same radio frequency that the ISO/IEC 14443 uses: 13.56MHz.
+
+Technical junk aside, what matters here is that both systems play nice with each other. And that's good, because a variety of credit card companies use the non-NFC system. Since those companies already outfitted retailers with their systems, no major change needs to be made for NFC-enabled phones to simply work as payment all over the USA. The list of vendors signed up for Apple Pay thus far is testament to that: Bloomingdale's, Disney Store and Walt Disney World Resort, Duane Reade, Macy's, McDonald's, Sephora, Staples, Subway, Walgreens and Whole Foods Market.
+
+
+Google Wallet similarly offers a stand-in for credit and debit cards; enter debit/credit information into the app, and then use the phone as your payment device at participating retailers. And all those retailers where Apple Pay works? Google Wallet now works there too, thanks to the fact that there are established standards for how these payment systems work, and those standards aren't governed by a single company.
+
+IS IT SECURE?
+As you likely expect, this is a sticky situation. Let's break it down, piece by piece:
+
+ Do Google and Apple keep my credit card information? The short answer is no. The longer answer still starts with no, but also points out that your debit/credit information is probably on file with both companies anyway through Google Play and iTunes. There's no reason to believe that either company can't be trusted with keeping that data safe, but Target customers and PlayStation Network users may feel differently. Could my phone be stolen and used as payment? Also no, at least not easily. In the case of Apple Pay, you need a fingerprint ID to use it. In the case of Google Pay, a PIN is required. Could my phone be stolen and debit/credit card info removed? Still no. Part of NFC's standardization is an aspect called the "secure element." This is the chip where personal information is stored, securely and encrypted.The question that really matters here is one of comparative security. Is virtualized payment more secure than traditional means? We'd argue yes, it is. Retailers in the US rarely check identification for debit/credit card use, and matching signatures is a remnant of the past. There are inconveniences that come with the new method -- the inability to lend a family member a credit card, for instance -- but those issues will assuredly work out in time.
+
+WHAT ARE THE ALTERNATIVES?
+Much of the world outside of the US has adopted a newer form of credit card that uses a built-in microchip and a PIN (sometimes called "Chip and PIN technology"). This "smartcard" has vastly reduced card fraud, but it never caught on in the US. It's certainly an alternative, but not one that's very effective if you don't live in Europe. Smartphones, however, are worldwide.
+
+A similar concept exists in the US, though it uses technology similar to NFC. It's this technology, in fact, that led the charge for virtualized payment in retail stores. It's no surprise that Visa, MasterCard, American Express and a mess of major US banks are on board with the new NFC tech from the likes of Apple and Google -- it's an evolution of technology they're already using.
+
+WANT EVEN MORE?If statistics are your kinda thing, a great resource for this piece was CreditCards.com. Perhaps you think this whole virtualized payment thing is a solution to a nonexistent problem? The New York Times' Upshot section agrees. For the standards built into NFC tech, the Smart Card Alliance has you covered. Maybe you just want to watch Tim Cook excitedly introduce Apple Pay? CNET's got that.
+
+[Image credit: Google (Google Wallet); AP Photo/Marcio Jose Sanchez (Apple Pay); Alamy (Chip and PIN card)]
+

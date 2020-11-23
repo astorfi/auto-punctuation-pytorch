@@ -1,0 +1,46 @@
+
+  
+  More Info   Microsoft begins Office 15 technical preview, fills up before you knew it existed  Microsoft Office 15 leaks suggest Office 2013 name, show off Metro logo and Web Apps UI  Office Next blog is here to answer all your burning questions about the future of spreadsheets  It's been about three years since Microsoft unveiled a new version of Office, and particularly with Windows 8 just months away from dropping, the software has been well overdue for an upgrade. Today, Redmond unveiled the latest edition -- Office 2013 (aka Office 15) -- which the company will be showing in a preview stage until the final version goes on sale (hit up the source link if you want to download it for yourself).
+
+ Perhaps the biggest news isn't any single feature Microsoft's added to Word (hello, easy YouTube embeds!), but how and where you'll access your files. With this version, the company is moving to a subscription-based model wherein your Office files are tied to your Microsoft ID. Once you sign up, you can download the various desktop apps to a certain number of devices and, as with Windows 8, your settings, SkyDrive files and even the place where you left off in a document will follow you from device to device. (It's telling, we think, that files now save to the cloud by default.) As you'd expect, too, this version is also more tablet-friendly than editions past, with a touch mode that widens the spacing between onscreen objects and flattens menus. In Word and PowerPoint, you'll also find a read-only mode that turns documents into full-screen editions, whose pages you can swipe through as you would an e-book or digital magazine.
+
+ Of course, Microsoft included plenty of granular updates like PDF editing and a behind-the-scenes Presenter View in PowerPoint. Fortunately for you, curious power users, we've been spending the better part of a week testing the software on a Samsung Series 7 Slate loaded up with Windows 8. So join us past the break where we'll give you a detailed breakdown of what's new, along with screenshots and detailed first impressions.
+
+
+
+ Overview General look and feel
+ For those of you who thought Microsoft would completely overhaul Office ahead of the Windows 8 release, let's put it this way: if you could survive the transition to Ribbon menus in Office 2007, you'll quickly feel at home here. The Ribbon is, indeed, still the cornerstone of the Office experience, the visual metaphor permeating Word, Excel, Outlook and every other application in the suite.
+
+ Nonetheless, Microsoft has made some subtle changes to the UI, and they're all quite important. For starters, no matter what app you're using, you'll find your name and Microsoft account photo in the upper-right corner -- a reminder that the cloud is now the linchpin to the Office experience. From there, you can click the photo to adjust your account settings, swap in a new picture or even switch accounts.
+
+ Cloud integration
+ 
+ Being able to save to the cloud is hardly a new feature in Office, but for the first time saving to SkyDrive is the default, not the C drive. (SkyDrive Pro support is coming as well, says Microsoft.) And when you do hit save, you'll even see a progress bar on the bottom of the screen, confirming your latest draft made it safely to the cloud. As you'd expect, of course, the built-in options for saving to the cloud are limited to Microsoft's own services (SkyDrive and SharePoint). If you want to upload to Dropbox or Google Drive, you'll have to do it outside Office.
+
+ And since your files are stored online by default, it's fairly easy to share them on the web as well. Throughout these various Office apps, you can share your work with someone by sending them a URL, allowing them to follow along in a browser even if they don't happen to have Office installed on their local machine. To do this, just hit File, Share and choose either "Get link" or "Invite people," if you want them to have editing privileges. If, for some reason, the version fails to upload, you'll see a banner stretching across the top of the screen, prompting you to try that save again. From the same sharing menu, you can also post your work to a social network or email a document as an attachment, but that last bit isn't new.
+
+ Another perk: a feature called Resume Reading allows you pick up exactly where you left off, even if you resume editing on another device. (Okay, okay, Amazon's Kindle, for one, already bookmarks e-books this way, but isn't it a relief not to lose your place in a 44-item slide deck?) Though this feature doesn't apply to most apps in the Office family, you will see it in Word as well as PowerPoint.
+
+ Lastly, in various Office apps it's now easier to toss in a photo you found online. For example, Word is now integrated with Facebook and Flickr so that you pull pictures straight from there, instead of having to download it and then manually insert it into the doc. Obviously the only caveat is that you need an internet connection, so maybe save a Disney World photo or two on your desktop for offline emergencies.
+
+ Touch mode
+  Microsoft has made some subtle changes to the UI, and they're all quite important. Across the various apps, too, you can use a new touch mode to make the software a little more finger-friendly. To expose this option, click on that small arrow in the upper-left corner of the screen -- you know, the one you already use to customize which icons are visible and which ones are hidden. Once you select touch mode, the icon that appears should look like a circle with a dotted line around it.
+
+ It's easy to imagine that, with the press of a button, Office would somehow take on more of a Metro-inspired look, with large, finger-friendly icons and -- dare we say it -- a more dumbed-down interface. Actually, the adjustments Office makes in touch mode are far more subtle. In short, enabling this mode widens the spacing between onscreen objects, making it less likely that you'll tap the wrong thing. This mode also causes various menus to flatten so that you can see options with less finger input involved. Again, that doesn't mean the objects on screen suddenly become larger to accommodate finger input, but this mechanism at least cuts down on the amount of tapping you'll end up doing.
+
+ Etc. Spend enough time in Office 2013 and you'll notice dozens of visual flourishes that serve to give the software that extra bit of spit and polish. Office comes bearing glossy new icons, for one. Different apps like Word and PowerPoint have improved alignment guides, which become visible when you're inserting tables and other objects (we first noticed this while inserting a YouTube clip).
+
+ Also, animated transitions are everywhere: a slide of the screen when you hit the File tab, Excel charts growing before your eyes. As a Microsoft rep explained it, the idea is to offer some visual feedback to new users, who might not totally know their way around yet. Whether you require that kind of babying is debatable, but we're sure of this much: the animations are slick -- pretty, even -- and everything about the suite feels fast: fluid, brisk and refreshingly devoid of bugs.
+
+ Getting started This isn't your old-school software installation, kids. The beauty of Office 2013's software-as-a-service model is that you get automatic updates and all that jazz you've come to expect from the other web-based services in your life. So it's fitting, then, that the installation begins not with a software download, but by selecting your preview version and then signing in with your Microsoft / Windows Live ID. Wait a few minutes for the setup to unfold, and then download Office to your various devices. (Take note: Office 2013 will run on Windows 7 and the Win8 Release Preview; it's not compatible with Vista, and it won't work with earlier builds of Windows 8, such as the Consumer Preview.) Armed with a speedy WiFi connection, we were up and running in five minutes and, again, the experience was smooth and crash-free.
+
+ This might be a good time to clarify the minimum hardware requirements. So long as you have 3.5GB of free disk space and an X86 or X64 system clocked at 1GHz or higher, you should be good to go. DirectX10 graphics are required, along with a minimum resolution of 1024 x 576. Microsoft also recommends 1GB of RAM for 32-bit systems, and 2GB for 64-bit machines.
+
+ Word Look and feel
+ 
+  When you open Word for the first time, you'll notice some changes to that introductory start page. Now, the left-hand pane shows recent documents, while the area to the right showcases templates, some of them new. Of course, the thing you'll probably want most – a blank document – is still sitting in an easy-to-spot corner, toward the top of the screen.
+
+ Head on into a blank document and you'll see the Ribbon UI has made room for a new Design tab, which claims to let you make all your design changes in one place. Options include things like fonts, paragraph spacing, themes and adding watermarks to documents. Thankfully, though, Microsoft kept the feature where if you highlight text and then hover over it with your mouse, you'll see some pop-up controls right there, allowing you to change the font color and make other simple tweaks.
+
+
+

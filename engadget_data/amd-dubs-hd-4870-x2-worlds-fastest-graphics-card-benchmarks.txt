@@ -1,0 +1,6 @@
+
+ 
+Looks like all the Cinema 2.0 fuss that AMD has been blustering about with its new RV770-based GPUs is fully warranted. The benchmarks are in and AMD's new $549 ATI Radeon HD 4870 X2 -- what AMD calls the "world's fastest graphics card" -- is an out and out screamer, besting the best cooked up over at NVIDIA thanks to that RV770 GPU pair nuzzled up next to 2GB of GDDR5 memory. As noted by PC Perspective, the new champ, "is able to run away from NVIDIA's GeForce GTX 280 1GB card handily. Our various game tests proved this - Crysis, Call of Duty 4 and GRID showed big gains for AMD's new card at resolutions 2,048 x 1,536 and 2,560 x 1,600," though performance gains are less dramatic as resolutions drop to 1,600 x 1,200. Not that any self-respecting gamer would push so few pixels. CrossFireX performance was disappointing, however, as the systems didn't scale well when going from 2 to 4 GPUs. In fact, Crysis seemed to barely notice the additional CrossFireX horsepower, something that should be corrected with future driver releases. Make no mistake though, as power-hungry, expensive, and hot-running as the new HD 4870 X2 may be, it's a big day for AMD as it retakes the graphics crown from NVIDIA, as short-lived as this victory may be.Read -- HotHardware Read -- PCPer Read -- Tweaktown Read -- CustomPCRead -- TechGageRead -- AMD press release
+      
+
+ 

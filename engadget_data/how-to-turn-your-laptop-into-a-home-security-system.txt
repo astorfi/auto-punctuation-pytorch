@@ -1,0 +1,102 @@
+
+In light of recent events, we thought it might be a good idea to show you how to whip up a low-cost home surveillance system. Not only is this system useful for nabbing burglars, British or otherwise, but it can also be used to check in on your pets (warm-blooded or robotic), or merely to provide some added piece of mind that house and home are still standing.
+
+ With almost any generic webcam and some relatively cheap software, you can set up a motion-detecting security camera, a periodically refreshed image of your home interior/exterior, or even a live video feed direct from the excitement of your empty living room. You never know who you might catch in there someday.
+
+
+
+Ingredients This is what you'll need to launch your own personal branch of the Department of Homestead Security:
+
+  Mac or PC. We're using a laptop for our setup but you can really use anything. Once you've set it up, it can run headlessly and save some space. Computers with small form factors would work beautifully in this regard (hint, hint). Webcam. On the Mac side, any Quicktime-compatible camera will do. On the Windows side, it's also hard to go wrong. If you've got an old webcam lying around, it should be fine. We're using the Logitech QuickCam Pro for Notebooks because it looks like a tiny alien, it's eminently portable, and it comes with a carrying case that looks like a soap dish. Who can resist? Software. On the Mac side, we're using the marvelous EvoCam software. Lots of cool little features in this app that could be used for things far beyond a simple home security setup. Definitely worth a check out, and a good value for $25. On the Windows side, we're using TinCam. If you don't need to monitor the output in real time, and you are content to collect images to your local hard drive to check out later, you can get away with using the free Webcam Timershot that is part of the Windows XP PowerToys suite. But for $19 you can do a lot of cool stuff with TinCam, like have images emailed to you or FTP'd to a remote server so you can check your shack from anywhere. Pretty cool.  Let's dive in!
+
+ Home security camera: Mac We're going to set up our software to detect motion, and perform a series of actions based on that trigger. Evocamwill take a still shot every time the motion sensor is triggered, and can also be set up to record a video clip andstore it to your drive. The image will get emailed to you right away to alert you of the detected motion, and therecorded video will give you a pretty good chance of catching a good glimpse of the intruder.
+
+ First, download and install the EvoCam software. They offer a15-day fully-functional trial so you can try this out and register if you continue using it. If you haven't alreadyinstalled the drivers for your webcam, you'll need to do this as well.
+
+ Once everything is all set, launch EvoCam. Click the Server tab.Here we'll configure your mail server settings so Evocam can send you an email with a crystal clear shot of yoursignificant other stealing in to read your private journal.
+
+ 
+  Pick a POP mail account, any POP mail account (ideally, yours), and enter your settings. If your SMTP serverrequires authentication, click on the Advanced button and enter your username and password.
+
+ You can also use the Configure drop-down menu here to enter settings for your FTP server, if you have access to oneand wish to have your images automagically uploaded and made viewable via a web browser. Evocam also includes abuilt-in web server, so you can host and serve the images locally. They'll be accessible via browser from elsewhere inthe house without much fuss, but if you want to log in to your home cam from work or elsewhere you'll most likely haveto open up some ports on your firewall, as well as getting your server a static IP address if you're on a broadbandconnection that uses dynamic IP addressing (most do). You can accomplish the latter for free using the excellentDyndns.org service (handy for many other things, as well), but we won't be able togo into it here.
+
+ Next, let's tweak a few compression settings to make the stored files smaller so that, should you be beset by a packof burglars, at least they won't eat up all of your hard-earned hard drive space. Click on the Recording tab,then click the "Video..." button under Settings.
+
+ 
+  Medium quality at 10 frames per second should be more than adequate to ID that thief. Click the OK button. Next,click the "Sound..." button in the settings section. Select the Qualcomm Purevoice compressor to get some decent-quality,small file size recordings of your burglar's screams upon tripping your alarm system.
+
+ 
+  Next, click the source tab inside the Audio settings dialogue. Let's make sure we're getting the audio from yourcamera by selecting it in the source list; ours shows up as "Unknown USB Audio Device."
+
+ 
+  The last item in ths pane is to choose where we want to store our video. Click the Folder button next toDestination, and select a location where recorded videos will live.
+
+ Next, let's add our motion sensor. Click the Items tab in the main Evocam window. Click on the New Item dropdownmenu and select Sensor:
+
+ 
+  This will create a motion sensitive region in your webcam's field of view. It will be labelled, cryptically,"sensor."
+
+ 
+ It will visually indicate motion with a yellow trace overlay, and if the motion crosses a certain threshhold it willtrigger the sensor. You can adjust the sensitivity of the sensor using the slider in the settings windows, so if youfind your camera tripping too easily from small object movements in the room, just turn down the sensitivity a bit.
+
+ Click the Settings button in the "On motion" section of the Items panel. Here we will select which actions toperform when the motion sensor is triggered.
+
+ 
+ Keep the Refresh box checked. This will perform all of the actions we will set up in the Refresh tab a bit later on.Also check "Record movie for..." to handle recording the video clip after motion is triggered. Pick a reasonable intervalof time over which to record; we've used 15 seconds. We're also going to add a speech action to our motion trigger,because the Mac's built-in voices are too amusing not to (you can change which default voice gets used under SystemPreferences > Speech > Default Voice. We recommend Agnes. Burglars will flee.).
+
+  Now, click the Refresh tab in the main window. Here we describe whether we want to refresh our webcam via scheduleor via motion; in our case, the latter.
+
+ 
+ Select the "When motion is detected" radio button. If you are uploading your images via FTP, you would check the"Upload image to server" box. We are going to both send our images as emails as well as store a copy locally, so checkboth of those checkboxes. Click the folder icon next to "Save image to folder" and select where you wish to store thewebcam images.
+
+  Our setup is now complete and we're ready to arm the system. We've created a motion sensor region in the doorway toour office.
+
+ 
+ You'll notice the system is already on the alert after you've closed the sensor settings dialogue, and perhapsyou've had a giggle or two as you accidentally triggered the alert voice. Good times. Now, get out. At least, get outof the sensor's field of vision so we can test our setup. As you come back into the room, you should hear the alertvoice and see the progress bar of the status window indicate an image is being emailed. Check your email and make sureyou've gotten a good image of yourself sheepishly breaking in to your own home.
+
+ 
+  Then, check the folder you selected to hold your video and make sure you've got your own personal Watergate on tape.If you're feeling particularly vicious, you may want to blackmail yourself until you fork over the cash for that PSPyou've been wanting. You've got your webcam security system at the ready now, so if nothing else, you can prove onceand for all which of your cats enjoys secretly terrorizing your pet parrot. Or, keep tabs on yourRoomba. You never know what that thing could be upto.
+
+  Home security camera: PC If you haven't already installed the drivers for your webcam, you'll need to do that first. Then, downloadTinCam and install the software. You have 30 days to try it out and see if youwant to fork over the $19.
+
+ Launch TinCam, and it will start walking you through a setup wizard. Because the wizard isn't quite as bright as weare, you can just hit Cancel and we'll handle making our settings manually.
+
+ Choose "Setup..." from the Setup menu. Click the "Video Devices" option in the menu at left, and check the box besidethe webcam you're using to select it:
+
+ 
+  Next, click the Auto Capture item:
+
+ 
+  Choose the "Motion detection" radio button, and in the Actions pane check the "Save picture to log directory" and"Send an e-mail" boxes. This will both save a local copy and email to you an image of the intruder, or perhaps a lovelyshot of your intruding Great Dane. You can optionally have TinCam play a sound to scare off those pesky burglars; justcheck the "Play a sound" checkbox and Browse to find an audio file to launch upon sensor trigger. We highly recommendSystem of a Down for maximum impact, but it's up to you. Just don't choose Brahms.
+
+ Next, click on the File Names menu selection.
+
+ 
+  Here you define where you want your images to be stored. You can base the file naming on sequential number of on thetime they're snapped; the timestamp option will come in handy for our security setup. Click the Browse button besidethe Log Directory text field and select where your webcam images will get stored.
+
+ Next, click E-mail in the Auto Capture submenu:
+
+ 
+  Enter the email address you wish to send to; the from address doesn't really matter as long as it's a valid address.Name it anything you want, just be creative. Don't disappoint us.
+
+ Check "Attach picture to email." You can also turn on flood control to make sure you don't get 187 images of yourcat sitting on your keyboard delivered to your inbox. Just pick whatever number seems reasonable to you. In the SMTPsection at the bottom of the pane, enter the details for your mail server. If it requires authentication, check the boxand enter your username and password.
+
+ Next, let's define our motion sensor. Click on the Motion Detection option in the Auto Capture submenu. Click thedefine area button to call up the view from your webcam and define the area you wish to monitor (you can also use theentire viewable area by checking the "Use entire image" checkbox).
+
+  Just click and drag to create a red square that defines the sensor area. We are choosing to closely guard our 17"Apple monitor. We don't think burglars would bother carting away any CRTs these days, considering we don't even care tolift the thing ourselves, but there are some sick individuals out there. You never know.
+
+ 
+ From the Motion Detection pane you can also calibrate the sensitivity of the sensor. If you find your trigger is tootrigger-happy and gets set off by your houseplants, just adjust the sensitivity by unchecking the Auto-calibrate boxand using the slider.
+
+ You could also configure TinCam to upload images via FTP, if you have access to a web server and wish to have yourimages automagically uploaded and made viewable via a web browser. There is also a built-in image server, so you canhost and serve the images locally. They'll be accessible via browser from elsewhere in the house without much fuss, butif you want to log in to your home cam from work or elsewhere you'll have to deal with converting what is likely adynamic IP address (if you're on a broadband connection) to a static IP address that a DNS server can find. TinCamoffers a bit of a workaround in this regard so that you can upload a small text file that contains your dynamic IP,which you can use to create a dynamic link to your images from behind your home firewall. This is beyond the scope ofthis how-to, but with some fiddling you could make this a killer dorky addition to your web site. ;) You can alsoaccomplish this by taking advantage of the excellent and free Dyndns.orgservice.
+
+ TinCam also technically offers a live video streaming option, but in practice it's pretty much crap. The developersof TinCam are pretty up front about this and go out of their way to warn you that you'll more than likely only haveluck getting it to work when viewed from a Windows machine running Internet Explorer, and even then, only if the windis coming up from the south and the moon is just shy of full. But go nuts with it - YMMV. You can simulate a videostream by uploading to your FTP server at a very high refresh rate. You won't get an audio feed, but you'll getsomething that approximates a live video feed, and it will actually be viewable in a browser that is not Evil.
+
+ Without further ado, we're ready to test our system. Click the OK button to exit the setup window. All you need doto arm your cam is choose Auto Capture from the Capture menu. Then, quietly steal from the room and burgle your wayback in to test out your cam. Make sure to trigger the area you've defined as your sensor area, then check your emailto make sure your settings are all correct. We're extremely embarassed to have caught ourselves in the act of stealingour own monitor:
+
+ 
+  Lucky thing we had our trusty webcam security system in place, as we were able to settle out of court and win enoughin damages to get a nice, flat-panel LCD. W00t!
+
+ Wrap up So here we've been introduced to the basic ingredients required to set up a home security system. BothEvocam and TinCam includemulti-camera functionality, so you could use them to monitor multiple locations in and around your abode. You couldextend the system in other ways as well; use a live home network video feed as a baby monitor, or perhaps do somethinga bit more humanitarian like taking your system mobile and keeping an eye onParis Hilton's Sidekick. Somebody's got to do it.
+
+

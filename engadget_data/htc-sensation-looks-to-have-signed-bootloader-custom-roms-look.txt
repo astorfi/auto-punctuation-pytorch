@@ -1,0 +1,9 @@
+
+ 
+
+Did you think maybe HTC would change its ways after locking down the bootloader on the Thunderbolt and Incredible S? Sorry, no. The upcoming Sensation looks to have been similarly afflicted, with Android Police bringing the bad news that its internals are protected by HTC's private key. This will definitely prove to be an issue for those looking to run custom ROMs that are clean as a whistle, but something tells us the hackers shall overcome. They usually do.
+
+[Thanks, Foo]
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+The mystery of what's actually under the hood of the Nintendo 3DS is likely to elude us until launch date, when the inevitable teardown commences. That isn't stopping IGN, however, from pooling together its rolodex of sources to report what it believes the specs are: two 266MHz ARM11 CPUs, a 133MHz GPU, 4MB dedicated VRAM, 64MB RAM, and 1.5GB flash storage (in addition to the previously-known SD card expansion). If based on ARM11 architecture, it'd certainly be in good (if not wildly disparate) company: iPhone (original and 3G), the first two generations of iPod touch, all Amazon Kindles, Palm Pixi, a plethora of Nokia handsets, and... the Kin One and Zune HD. Two separate processors isn't too far fetched, either, as the original DS had both a 67MHz ARM9 and a 33.5MHz ARM7 (quite an uptick, eh?). Digital Media Productions took credit for the GPU back in June, claiming its Pica200 would be the chip of choice. That's got a maximum speed of 200MHz, which according to this rumor is being underclocked. 
+
+So, nothing that runs counter to the admittedly little we got via the 3DS' FCC leak, and still nothing to keep the Tegra 2 hopeful in check (poor souls). Those with a need to know so passionate it runs through their very being will, as we said before, probably have to wait until it hits retail. And we should find out when that is next week.
+      
+
+ 

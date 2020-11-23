@@ -1,0 +1,5 @@
+
+ Microsoft is hoping to spread the HD to more than its Xbox 360, and has partnered up with Akamai to demo its latest combination of technologies that will send 720p content smoothly over the internet. A beta release of the Silverlight player plus Akamai's AdaptiveEdge Streaming will debut in early 2009, but the aim is as old as the hills -- deliver smooth (or at least, smoothly degrading) HD video to internet viewers with standard web servers, as opposed to dedicated video streaming servers. The videos will stream at 720p and maintain a 24fps minimum, eating up 2 - 6 Mbps in the process, all the while adapting the transmission based on the quality of the connection. Curious? There's a demo link in the source below, so get some post-Olympics use out of that Silverlight plugin you installed this summer!
+      
+
+ 

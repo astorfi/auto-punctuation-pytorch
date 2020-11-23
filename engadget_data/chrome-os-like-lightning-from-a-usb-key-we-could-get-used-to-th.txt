@@ -1,0 +1,11 @@
+
+ 
+We finally got around to prepping a USB key so we could boot to Chrome OS natively, and let us tell you: it's a world of difference. Of course, running something natively instead of virtualized is always going to be a treat, but what we're seeing with Chrome OS is actually on par performance-wise with our crazy expectations for a stripped-down OS. It boots in mere seconds and loads websites with the best of them. The build we're using, courtesy of @hexxeh on Twitter, who made all this possible with some great instructions and a masterfully-built chromiumos.img, was also able to log into the apps pane -- something we didn't pull off on our virtualized rig. We wouldn't call this our main Linux jam just yet, but even as we strut cockily back to our "big people computer," it's hard not to feel the love for something this simple and swift. If you want to do this with your own netbook, hit up Hexxeh's instructions at the read link below (we found the Windows how-to easiest to follow, for what it's worth), and if you want to be a mere voyeur you can hit up a video demonstration after the break.
+
+Update: if you're having trouble with the source link you can try mirrored links to the torrent here and here.
+      
+
+ 
+
+
+ 

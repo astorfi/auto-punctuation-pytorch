@@ -1,0 +1,10 @@
+
+ Internet of things? That's so 2012. 2013? Well maybe, just maybe, it'll be all about the internet of places. Hexagonal Research founders Loren Lang and Ronald Bynoe are betting that the next big thing will be environmentally aware computers. The pair have created Observos which combines an ATMEL microcontroller (with integrated wireless) with a host of on-board sensors. What began as a prototype built around a tower of Arduino shields is now a small first-run integrated board with spots for connecting XBee radio cards and a small LCD display. Right now the focus is on humidity, temperature and barometric pressure, though other environmental variables would be relatively trivial to tack on. While the Observos board is isn't quite ready for prime time, its already getting some serious field testing in a plant nursery, restaurant and other diverse locales. 
+ In addition to the small display, the board can be programmed to send text message or email alerts, and in the future could tie into venting or heating systems for completely automated control. There's even a rudimentary web interface for monitoring the various data coming in from the sensors.
+
+ Check out the full list of Insert Coin: New Challengers semifinalists here -- and don't forget to pick a winner!
+
+
+
+ 
+ 

@@ -1,0 +1,10 @@
+
+Google's internet-transmitting Project Loon balloons are set to float above Australia and beam data down to residents below. The company announced plans to use balloons to bring the internet to disconnected areas last year, and after semi-successful trials in New Zealand, Brazil and the States, it's teaming up with a local carrier (Australia's Telstra) for the first time to launch Loon's biggest test flight to date.
+
+
+
+Project Loon works by creating a network in the stratosphere. First, a base station sends signals up to a nearby balloon, which floats some 12 miles above the ground. The balloon then relays those signals to its neighbors, passing them down the chain to units outside of the base station's range. Each balloon can transmit this data down in the form of phone-friendly LTE, covering an area larger than 600 square miles per balloon.
+
+The long-term plan is for a network of balloons to circle the globe on stable and predictable stratospheric winds, providing data service to the two-thirds of the earth who don't have access to a stable wired connection. The Australia trial starts in December and will involve just 20 balloons, but these smaller tests are vital if Google is to achieve its dreams of connecting the world to the internet -- and its services.
+
+

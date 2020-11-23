@@ -1,0 +1,6 @@
+
+ 
+The kids over at ThinkSecret have some exclusive pics of what they purport to be interface shots of the iPhone. In these, we clearly see an RSS view thanks to the reader.mac.com URL, a previously unseen SIM loading procedure (requiring a paperclip), and what appears to be an Exchange email configuration tab. TS says that the iPhone supports Microsoft Exchange servers and has likely licensed Microsoft's ActiveSync. The latter dealio we've heard before and is certainly making corporate IT departments a bit fidgety. After all, more than a few CEOs will be demanding integration of their new toys come Monday morning. Jobs himself responded to a USA Today question about the lack of corporate email support with, "You'll be hearing more about this in the coming weeks. We have some pilots going with companies with names you'll recognize. This won't be a big issue." The fact that most of these pictures still sport the old Cingular logo certainly doesn't give us much confidence for an "iDay" release.Update: As pointed out by a number of our readers, the Exchange tab likely configures IMAP4 access to Exchange like Apple's OS X Mail.app client. Made all the more likely by yesterday's "Rollup 3" release by Microsoft which fixes Mac related issues with Exchange 2007.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+Facebook and several other companies announced the Internet.org initiative tonight to bring connectivity to 5 billion people, but how are Zuckerberg and friends going to do it? As laid out in the Facebook founder's "Is Connectivity A Human Right?" plan, part of the process includes making technological changes. A big part of that is delivering data more efficiently, and making sure apps use less of it. First on the chopping block is Facebook's own app, which used an average of 12MB of data earlier this year but the company thinks it can cut to 1MB per day "simply by improving data usage." Beyond that, more savings are possible if Facebook offers a variant with fewer photos in developing countries.
+
+
+Other methods for using less data include caching and data compression, with the former already in use on its featurephone app, and the latter something partners like Opera have a lot of experience in. In the future, Zuckerberg speculates users could even download stories or photos from nearby friends using technology like WiFi Direct. All of this is done with the aim of reducing the bandwidth needed for basic internet services, thereby making access "affordable and available" to more people. Hit the source link for more details on the hows and whys, we'll be expecting our more efficient social network any day now.
+
+

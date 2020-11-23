@@ -1,0 +1,6 @@
+
+ 
+That clever Mr. Moore has his law proven correct on a regular basis, but we're not so sure he was accounting for the blistering byproduct a chip emits when speeds increase and efficiency doesn't. While CPUs and GPUs alike are kicking our kilowatt meters into overdrive, IBM researchers have been developing a newfangled method to cool processors down without the need for water. The technique, called "high thermal conductivity interface technology," allows a twofold improvement in heat removal over current methods -- a "highly viscous paste" is applied between the "chip cap and the hot chip" in order to decrease thermal resistance, while the "tree-like" architecture enables the goo to spread more uniformly and attain a thickness of "less than 10 micrometers." Although the concept seems to rely on carefully structured heatsinks and thinly applied thermal paste, the proposed results of this energy-free cooling contraption are indeed impressive, and if IBM's snazzy contrivance can honestly perform "ten times better" than current applications, maybe that leap in processor efficiency can just relocate to the back burner again after all.
+      
+
+ 

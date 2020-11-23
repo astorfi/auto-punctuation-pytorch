@@ -1,0 +1,4 @@
+
+ 
+After a bit of a delay Lucid is back on our radar -- and we're pleased to say that the company's technology for combining multiple GPUs seems to be well on course. Indeed, a few HYDRA 200 units appear to be out and about, with preliminary tests showering love on the device. When the kids at Hot Hardware put theirs through its paces they encountered drivers issues (not surprising for something still in development) but still reported running a mixed ATI / NVIDIA combo for "impressive scaling" most of the time, peaking at 85% in dual-GPU mode. And PC Perspective also had positive things to say, with the HYDRA pushing performance "up by 83% -- definitely a competitive solution to SLI!" But that ain't all -- for the real nitty gritty you'll have to check out the links below.
+ 

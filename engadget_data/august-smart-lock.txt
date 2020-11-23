@@ -1,0 +1,35 @@
+
+The home automation market is really starting to take off, and surprisingly, it's door locks that are proving to be one of the biggest areas of interest. Established home security companies like Kwikset and mobile carriers (via unnamed OEMs) are working to combine smartphones and deadbolts, while startups like Smart Knob are using offline technology to simplify vacation rentals. August, the brainchild of Yves Behar and Jason Johnson, combines elements of both approaches and does so with Behar's typical flair for stunning design. The primary way of unlocking an August-equipped door is through an app that pairs with the stylish mechanism via Bluetooth. But it skips out on the direct internet connection, which could leave it more vulnerable to hacks.
+
+
+Instead, it passes all necessary online communications through the paired phone or tablet. In fact, it's capable of operating without an internet connection at all, since it relies on algorithmically generated keys, similar to a secure ID token. Those "keys" are assigned to specific devices, that also have the app installed, which are identified via Bluetooth LE. Each lock is synced up with Augusts' servers and attached to a unique account that you manage through the companion app. And, even if the batteries die, you can still use the old standby: an actual key.
+
+
+
+
+The standard features you'd expect from such a system are all present. Your own phone can unlock the door, without your intervention if you'd like, for truly hands-free entry. And you can grant access to others remotely, using relatively fine-grained controls. You can give the plumber free rein to come and go for a whole day, or your dog walker only between the hours of three and four PM on weekdays. That should mean less spare physical keys your abode out in the wild. August will also keeps tabs on everyone's comings and goings and present them in an easy to browse log. And, since vacation rentals and Airbnb users will likely be among the earliest adopters, August is discussing the possibility of a virtual guest book for visitors to "sign."
+
+When August ships for $199 later this year, it wont be a complete replacement like the Kevo. Instead it attaches to your existing deadbolt, replacing only the interior latch. That means you can use the smart lock in that overpriced studio you're renting and from the outside it won't look any different. Of course, inside you're looking at a conspicuous wheel made of aluminum with a textured edge and embedded LEDs that tell you when the door is locked, unlocked and when the batteries are running low. And with the creators claiming between six months and a year on four standard AAAs AAs, you probably wont see the latter message too often. The bad news is that, since August relies on Bluetooth 4.0, the list of supported devices is relatively short. You'll need to have an iPhone 4S or newer, a third-gen iPad or a "latest model Android device," though a spokesperson would not name any specific handsets. Before you go, make sure to check out the video below.
+
+Show full PR textAUGUST DEBUTS A SAFE, SIMPLE AND SOCIAL SMART LOCK TO REVOLUTIONIZE HOME SECURITY
+PALOS VERDES, CA-May 30th, 2013-Today at the D: All Things Digital conference, renowned designer Yves Behar and technology entrepreneur Jason Johnson launched August and its flagship product, the August Smart Lock. The Smart Lock is the first product from August, a company building products that make life simpler, allowing physical environments to seamlessly respond to user behavior. The intuitive new lock and access system for the home is a virtual doorman that makes life easier and more convenient.
+
+Through a Bluetooth® low energy (BLE) enabled locking mechanism and an elegant and intuitive mobile application, August allows you to send a virtual key to anyone you choose to have access to your home. August retrofits to your existing deadbolt and installs in less than ten minutes. It relies on the same secure communications technology used by financial institutions for online banking, giving only desired individual's access to your property for set amounts of time. As the homeowner or a guest arrives at the door, August auto-unlocks and welcomes you into the home hands-free.
+
+With the app's Guestbook function, August offers a private and secure social network in which owners can share photos, stories and comments to make owners and guests feel more at home.
+
+The lock itself is crafted and engineered with the highest quality materials. Design details add tactility and provide visual cues about the smart lock's status and battery life, while the small, circular design and availability of different colors makes the lock fit in any home décor.
+
+"Today there is a discrepancy between the sophistication of some parts of home living – like our sound systems – and the constant friction in others – like security. The August Smart Lock is a simpler, safer and more social system for access control that is easy to install and use," said August co-founder and CEO Jason Johnson.
+
+"August is about technology that puts you at ease," said August co-founder and designer Yves Behar. "Sure and reliable, August is a complete, secure and attractive system for the users and guests that depend on it."
+
+The August Smart Lock, which is slated to begin shipping later this year at the introductory price of $199, will never have a fee to use the system's core functionality. For more information or to reserve your August Smart Lock please visit www.august.com.
+
+# # #
+
+About August:
+
+August builds products that make life simpler, allowing physical environments to seamlessly respond to user behavior. August's flagship product, the August Smart Lock, is a new lock and access system that allows you to send a virtual key to anyone you choose to have access to your home. Founded by designer and entrepreneur Yves Behar and consumer technology veteran Jason Johnson, August has raised a $2 million dollar seed round to-date and is headquartered in San Francisco, CA. The company has opened its cloud platform to trusted developer partners, vetted by August, so they can connect existing things to the platform and help grow the Internet of Things connected world.
+
+

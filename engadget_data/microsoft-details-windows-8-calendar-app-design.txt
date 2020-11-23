@@ -1,0 +1,5 @@
+
+ 
+ As part of its "Building Windows 8" blog series, Redmond has been doling inside info on apps like Mail and People, and now it's Calendar's turn in the spotlight. Steven Sinofsky blogged that one of the primary marks was to serve up a clear view of your life, and the team wanted Calendar to be easy to read and distraction free. To bring that about, it kept the info displayed to a minimum, giving users the option to easily change colors for important events and drop distracting ones from view if necessary. The designers also stressed ease of navigation, a simple interface for adding events, copious notification options and and advanced scheduling tricks -- like a full page of notes for each event. Of course, Microsoft also wanted to ensure the app conforms to Metro design standards and functionality, and it seems to fit that mold in spades. Sinofsky also said that a lot of user feedback was accounted for, so be sure to check the source to see if that "Caturday" idea made the cut.
+
+

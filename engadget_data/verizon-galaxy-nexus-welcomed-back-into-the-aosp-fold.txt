@@ -1,0 +1,5 @@
+
+ 
+ Slowly but surely Google is bringing CDMA devices back into the AOSP fold after giving them the boot in February over driver issues. The Nexus S 4G was welcomed back last week and now the Verizon Galaxy Nexus is joining it over at the Android open source site. Head on over to the developer portal and you'll find binaries for Android version 4.1.1. The LTE GNex isn't quite a full-fledged member of the family yet though, driver support is currently considered "experimental." So, don't be shocked if there's a bunch of bugs. Unfortunately, we have bad news for Sprint fans. Google apparently has no intention of adding the carrier's LTE Nexus to the list of supported developer devices. Jean-Baptiste Queru, lead of the AOSP, told the Android Building Google group that there were no plans to bring custom builds of the open source OS to the Toroplus.
+
+

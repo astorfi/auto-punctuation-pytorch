@@ -1,0 +1,26 @@
+
+ SiliconDust let us know that it would be the first to certify a live TV tuner as a DLNA Digital Media Server, easily enabling premium cable TV to more devices with its existing HDHomeRun Prime network CableCARD tuner. A beta firmware of that software will be available next week for existing customers. The rub, though, is that you'll need a DLNA Digital Media Player (or Rederer) that supports MPEG2, and that just isn't as common as you might think -- as well as DTCP-IP support for copy protected content. In comes two new network tuners, the HDHR4-US and the HDHR4-CC. Both offer hardware transcoding for "digital-to-digital conversion of high-bandwidth MPEG2 streams to bandwidth-friendly H.264." The primary difference between the two new models is one has a CableCARD slot for recording four HD premium channels at once, and the other has dual clear QAM or ATSC tuners -- there is also a third unit, HDHR4-DT2, for Europe and Australia. The number of DLNA Digital Media Players (DMP) that support H.264 is far more vast and the codec is far more efficient. This basically means you'll have access to your favorite live content on more devices and in more places, and use less bandwidth while enjoying it. These new ones should be available starting in "mid-2013" with no mention of price in the releases below. But with the HDHR3-CC retailing for $199, we'd suspect the new quad tuner versions with transcode, will come just a bit above that.
+
+
+
+
+
+  Show full PR text   SILICONDUST EXPANDS HARDWARE OFFERING  SiliconDust announces the development of their latest line of HDHomeRun® Network attached TV tuners  LAS VEGAS, NEV. (January 8, 2013) – SiliconDust USA, Inc.., innovators of the HDHomeRun® network attached TV tuner, today announced their expanded lineup of HDHomeRun® devices adding two new models for North America and a new device for Europe and Australia: HDHR4-US, HDHR4-CC, HDHR4-DT2.  Initiating phase two of Project:Connect, the company's technology roadmap, HDHR4 devices will introduce hardware transcode support; high quality digital-to-digital conversion of high-bandwidth MPEG2 streams to bandwidth-friendly H.264.
+
+   ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"The next generation HDHomeRun® devices will do what no other TV tuner has been able to do before," said Theodore Head, President and CEO of SiliconDust USA. "The HDHR4 devices will continue to be multi-tuner and network attached but with the ability to hardware transcode and support virtually any screen on the home network."
+
+   HDHR4 devices will function as a live TV Digital Media Server (DMS) to serve content to mobile devices, game consoles, and smart TVs.
+
+   "The HDHR4 implements the DLNA DMS Tuner Profile with transcode," said Nicholas Kelsey, Founder and CTO of SiliconDust USA. "Soon you will be watching broadcast and cable television in high definition on all the smart screens in your home."
+
+   HDHR4 devices will be available starting mid-2013; development units will be on display at the SiliconDust booth #15427 at the 2013 International CES at the Central Hall of the Las Vegas Convention Center from January 8, 2013 through January 11, 2013.
+
+   To request more information http://www.silicondust.com/ext/mailinglist . Customers can submit feedback and connect with the HDHomeRun® community via the Project:Connect.
+
+  PROJECT:CONNECT BETA PROGRAM TO LAUNCH NEXT WEEK  DLNA support for HDHomeRun® PRIME users
+
+   LAS VEGAS, NEVADA (January 7, 2013) – SiliconDust USA Inc., innovators of the HDHomeRun® network attached TV tuners, will be launching the Project:Connect beta program on January 17th.
+
+   New and existing HDHomeRun® Prime (P/N: HDHR3-CC) users will be able to download and install the beta package which will enable DLNA and DTCP-IP support. After installing the upgrade, users can browse the channel list and play live TV on MPEG2-capable Digital Media Player (DMP) and Digital Media Renderer (DMR) devices. Protected channels are supported on DTCP-IP capable devices such as the Sony PlayStation 3.  ￼￼￼￼  DLNA-enabled HDHomeRun PRIME products will be on display at the SiliconDust booth #15427 at the 2013 International CES at the Central Hall of the Las Vegas Convention Center from January 8, 2013 through January 11, 2013.
+
+ 

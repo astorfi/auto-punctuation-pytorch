@@ -1,0 +1,9 @@
+
+ 
+Yeah, we know you. You devoured all 50+ pages of licensing agreements and developer regulations that Microsoft posted on its Marketplace for Mobile developer page yesterday, and now you're just itching for more. How about 45 minutes and 45 seconds of hot roundtable, Windows Mobile 6.5 developer action from TechEd 2009? Jorge Peraza and John Bruno from MS talk up widgets, which will be simple little gadgets that run within the UI, yet will still be treated like full apps from a developer perspective, meaning they'll be signed, secured, and only be able to be submitted by certified developers (those who have paid their $99 fee). Also discussed is the reasoning behind 6.5's less than groundbreaking UI, which comes down to deadlines. Eight or nine months were all the team had to write the OS; not nearly enough time for a complete presentation overhaul -- or for any Silverlight integration for that matter. Coming in version 7.0? Wouldn't surprise us. Full vid after the break.
+      
+
+ 
+Windows Mobile Application Development (day one at TechEd 2009) from Ars Technica on Vimeo.
+
+

@@ -1,0 +1,14 @@
+
+
+Edward Snowden hasn't escaped the NSA's watchful eyes purely by exploiting lax security -- he also uses the right software. He communicates with the media using Tails, a customized version of Linux that makes it easy to use Tor's anonymity network and other tools that keep data private. The software loads from external drives and doesn't store anything locally, so it's relatively trivial for Snowden and his contacts to discuss leaks without leaving a trace.
+
+
+
+          
+ 
+ 
+ The underlying technology isn't completely original, and it's not perfect; Tails' open source code and anonymous developer base help resist pressure to include spy-friendly back doors, but there are still potential security holes. Users also have to be careful with their choices of internet services while using Tails, as the wrong ones could give the whole game away. Even with those concerns in mind, the software is a big help to Snowden, journalists and others that want to keep their conversations under wraps with a minimum of effort.
+
+       
+
+ 

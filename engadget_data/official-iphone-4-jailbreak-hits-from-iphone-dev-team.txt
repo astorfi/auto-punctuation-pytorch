@@ -1,0 +1,23 @@
+
+ 
+ digg_url = 'http://digg.com/apple/Official_iPhone_4_jailbreak_hits_from_iPhone_Dev_Team';  The Library of Congress made it legal, MuscleNerd showed us it was a go, and now Comex and company have delivered the long-awaited jailbreak to the fourth rendition of iPhone. According to their new page JailbreakMe, the hack works right on the iPhone 4 (or 3GS, or 3G, or iPad, or...) itself, using via the handset's Safari browser to reportedly break into most any iOS device. The servers are getting slammed pretty badly, and only a few Engadget editors have so much as seen the page pictured above so far, but rest assured we're testing this as we speak and will have more details up soon.
+
+Update: Sorry folks, we've tried repeatedly, but apparently the servers just can't handle the load -- Comex tweets that the purple screens we're seeing are evidence of server fail. Here's hoping for a Cydia celebration when the stampede is over.
+
+Update 2: Comex says you might want to reboot if you got stuck staring at that purple screen, and you could also try their backup server (click our second source link) to help the Dev Team divide the load.
+
+Update 3: We successfully got the jailbreak to start working, but it crashed Safari. Upon reboot of our phone we've got... nothing but the Apple logo. Take note, this can brick your phone, so proceed with caution! Video of the experience after the break. After a reset, our phone is giving us nothing but the Apple logo. (Update to the update, the phone has been restored).
+
+Update 4: Our intern Sam has successfully jailbroken his iPhone 4 according to this pic, so it can be done!
+
+Update 5: Comex reports that iPads running iOS 3.2.1 aren't presently working properly, and that MMS problems after jailbreak are a known issue.
+
+Update 6: Good news? Saurik (of Cydia fame) has pitched in to secure JailbreakMe some better hosting. Bad news? Reports indicate that FaceTime doesn't work after jailbreak, either.
+
+Update 7: Seven updates? You bet, because it's looking like there's already a fix for the missing FaceTime and MMS features. Head on over to Redmond Pie (in more coverage below) for instructions to install the Cydia package that brought video chat back to two of our iPhone 4 handsets. If you're just downloading JailbreakMe for the first time though, you shouldn't need to do a thing, as Comex claims both have been fixed in a new version of the hack that just went live.
+      
+
+ 
+
+
+ 

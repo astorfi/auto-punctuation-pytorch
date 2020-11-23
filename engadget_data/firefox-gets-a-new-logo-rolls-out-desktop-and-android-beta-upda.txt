@@ -1,0 +1,7 @@
+
+Firefox is an ever evolving beast, and that includes both its friendly orange fox logo, and its Beta channel browser. Today Mozilla unveiled the fourth Firefox logo, a (slightly) less textured and glossy icon for its favored web browser. Meanwhile, the latest update for for Firefox Beta brings access to the company's Social API and, consequently, Share buttons to the platform -- so Facebook fanatics can have one-click sharing of images, articles, videos and links from the Firefox toolbar. The new Beta is also getting a Mixed Content Blocker that prevents HTTP (read: nonsecure) content from loading on HTTPS websites. Plus, there's a new Network Monitor feature to let devs see how quickly individual page components load and optimizations for OS X 10.7 that enable its scrollbar style and and the scroll bounce behavior Apple fans love.
+
+
+Oh, and for you mobile fans, the Android Beta was updated today, too. Now, it's got an auto-hide Awesome Bar, a URL autocomplete function and an updated RSS feed reader that allows you to add feeds to with a long press on the aforementioned Awesome Bar. Pretty awesome, gents, now let's get these Beta features into a full release, and it'll be really awesome.
+
+

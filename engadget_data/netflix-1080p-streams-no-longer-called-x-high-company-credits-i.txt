@@ -1,0 +1,10 @@
+
+ While Netflix Watch Instantly movie streams are mostly useful for casual viewing, if you're interested in the actual quality of the video provided you may have noticed a few changes recently. Chronicled in a thread on AVS Forum and reported to us by several tipsters, more than a few users have noticed their streams on 1080p-capable hardware (PlayStation 3, WDTV Live) no longer rock the "X-High" notification (on PS3, hit select to view more information bout your streaming details) that had previously let them know they were getting the highest quality possible. We checked with Netflix, and according to the company, it's rolling out better encoding that improves picture quality despite using a lower bitrate. That means 1080p works even for people with slower connections, and increases detail on "textures, shadows, skies, and particularly faces." As a result, what was previously called "X-High HD" is now being labeled a tier lower.
+
+ While it wasn't mentioned specifically, some are theorizing the move is tied into Netflix's use of eyeIO's video encoding tech, which it announced earlier this year, to shrink the size of streams. eyeIO claims it can chop bandwidth by more than half for a 720p stream, something we're sure a company that's pushing as much data as Netflix would appreciate. Still, some viewers in the thread are claiming a noticeably softer picture as a result. Check after the break for the statement from Netflix, then take some time for "research" and let us know if you're noticing any changes in picture quality lately.  [Thanks to everyone who sent this in]
+
+
+
+ Netflix:
+  We are rolling out better encoding for the TV shows and movies on Netflix. That means that we can get a better picture quality at a lower bitrate. The savings in bits let people on slower connections get 1080p and there is also additional detail in the textures, shadows, skies, and particularly faces. Because we are introducing better encoding, what used to be X-high / HD is now labeled a tier lower. We are continuing to work on higher quality encodes, so stay tuned! 
+

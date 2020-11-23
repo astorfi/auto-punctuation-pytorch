@@ -1,0 +1,4 @@
+
+ Microsoft had hinted that there were big things in store for its update to the Kinect for Windows SDK on October 8th. It wasn't bluffing; developers can now tap a much wider range of input than the usual frantic arm-waving. Gadgets that move the Kinect itself can use the accelerometer to register every tilt and jolt, while low-light fans can access the raw infrared sensor stream. The Redmond crew will even even let coders go beyond the usual boundaries, giving them access to depth information beyond 13 feet, fine-tuning the camera settings and tracking skeletal data from multiple sensors inside of one app. Just where we use the SDK has been expanded as well -- in addition to promised Chinese support, Kinect input is an option for Windows 8 desktop apps. Programmers who find regular hand control just too limiting can hit the source for the download link and check Microsoft's blog for grittier detail.
+
+

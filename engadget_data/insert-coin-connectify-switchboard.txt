@@ -1,0 +1,14 @@
+
+In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+When we last saw Connectify, it had brought its Dispatch internet connection combining software to Kickstarter, doubled its funding goal and launched the product into market. However, customers using it said they wanted more than the web browsing and BitTorrent streaming speed-ups the load-balancing app provided, and were looking for so-called connection aggregation tech that'd allow quicker video streaming, VPN access and Skype calls, too. As a result, the company has just launched Switchboard, a cloud based app that combines all your internet connections but appears as only one IP address.
+
+
+To make it work, the company built new software from scratch and put together a network of cloud servers across the world. The result is a "channel bonding" system that Connectify says will speed up all your online activities: Dropbox or SkyDrive uploads and downloads, Google Hangout video conferencing and video streaming from the likes of Netflix, to name a few. A quick test of the beta software on our end has worked seamlessly so far, requiring just a software installation and two or more internet connections (two ADSL lines in our case). On top of speeding everything up as promised, we also noticed that our IP address appeared as that of the server we were connected to instead of our local one, which could be a bonus for those trying to access US internet from abroad. Connectify's looking to grab $100,000 in funding this time around, with pledges starting at $50 -- so if you're looking to finally click that "HD" button on Vimeo, hit the source.
+
+
+
+
+Previous project update: BRCK's backup internet generator is about 70 percent of the way to its goal of $125,000, having banked about $85,000 with 21 days left on the Kickstarter clock.
+
+

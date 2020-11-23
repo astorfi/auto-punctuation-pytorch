@@ -1,0 +1,13 @@
+
+Cambridge Consultants is a research and development company from, yup, Cambridge in the UK, that acts as a sort of DARPA for the private sector. That's why you're just as likely to see the outfit producing sensors for the oil and gas industry as it is knocking out madcap tea machines, robotic basketball coaches or automatic beer taps. After a lunchtime trip to the pub, two of the company's oil and gas engineers wondered if it'd be possible to leverage its sensors know-how into a piece of fitness clothing that could offer would-be athletes an unprecedented level of detail. 
+
+
+
+
+
+Normal fitness shirts, like the Hexoskin and OMSignal, use fabric sensors to measure your vital statistics, letting you ditch the chest strap. What they don't provide is any way to accurately see how well your body is moving, which is why companies like Gymwatch exist. The unique feature of XelfleX is that it uses fiber optic sensors that, coupled with some algorithmic secret sauce, actually enable a computer to model the movement of your arm in 3D.You see, when a fiber optic cable is bent, it generates backscatter, which the company can read as movement data. So, as you're swinging your arm for a tennis serve or punching a bag, those movements can be perfectly recreated digitally. Even at this superbly early prototype stage, a companion app is able to show a 3D replica of the user's arm moving in time. The possibilities, both for fitness coaching and activity tracking are pretty exciting, but also it's great to imagine what life would be like if one was paired with an Oculus Rift or other VR gear.Even better is that fiber optic cables aren't particularly expensive, so it's not as if a shirt like this would be pricier than other high-end shirts. There are a few problems that still need to be worked out, including the fact that the computer used to represent the movement and push it to a smart device looks like this:
+
+
+Of course, Cambridge Consultants is just a research and development firm, so it won't be producing XelfleX itself, but instead it will tout the product around the fitness businesses here at CES. Hopefully a manufacturer will bite, and given the numerous potential uses for a piece of hardware like this, we imagine it won't be long before this pops up in your local branch of Sports Authority.
+
+

@@ -1,0 +1,5 @@
+
+ Fujitsu just announced a world's first H.264 chip capable of encoding/decoding 1920 x 1080 (60i/50i) video in real time. The chip features 256MB of onboard FCRAM and ultra low 750mW power draw when encoding video. That means lickity quick, MPEG-2 quality processing with only a third, or half the required storage. The ¥30,000 ($247) MB86H51 chip is available to OEMs starting July 1st after which you'll find it bunged into the latest up-scale, consumer-class video recorders. [Via Impress]
+      
+
+ 

@@ -1,0 +1,11 @@
+
+  Remember when HP showed off transferring webpages from the TouchPad tablet to the Pre 3 just by touching? Remember thinking "Wow, that'd be cool if I actually had a TouchPad and a Pre 3?" Android Beam is the answer to that problem, a version of that very same functionality that works across NFC-devices running Ice Cream Sandwich -- namely, the Samsung Galaxy Nexus. We got the chance to play with a few phones that had the appropriate software builds and batteries, and found the functionality to be quick and useful -- when things weren't crashing. More after the break.
+      
+
+ 
+
+ The NFC circuitry in the Galaxy Nexus is indeed built into the battery, not the backplate, and by touching two devices together you can exchange a multitude of things. The stock demo is of course exchanging websites, but contacts can also be swapped, along with directions and even apps -- well, links to apps. Touch one phone to another and it'll bring up the entry in the Android Market. Sadly no direct pushes of APKs.Apps will be able to tie into this and do whatever they like down the road, so we should see some interesting applications for games and the like once Ice Cream Sandwich starts to be deployed on more devices. Hopefully by then things will be a little more reliable, as we managed to crash the demo exchanging one address to another device. It's still just pre-release software, remember.
+
+       
+
+ 

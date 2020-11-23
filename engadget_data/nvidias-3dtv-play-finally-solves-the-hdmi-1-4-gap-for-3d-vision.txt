@@ -1,0 +1,6 @@
+
+ 
+In case you hadn't noticed, there was some trouble brewing in the NVIDIA camp. After ages of reigning atop the land of stereoscopic 3D playback on the PC, NVIDIA is finally being confronted with a real, bona fide standard for 3D, with zero GPUs capable of meeting it. The current NVIDIA 3D Vision-compatible cards pump out the necessary pixels over DisplayPort or dual DVI plugs, while the official spec for 3D TVs is an HDMI 1.4 plug that accepts data from both frames at once. We were in doubt there for a moment, but it turns out NVIDIA's cards upgrade to 1.4 just fine, and all 3D Vision customers will be getting this as a free upgrade later this spring. NVIDIA will also be offering this 3DTV Play software in a standalone version for $40 to folks who don't want to bother with NVIDIA's 3D Vision stuff at all (with HDMI 1.4 you can just use the stereoscopic glasses that come with your fancy new 3D TV, no need for NVIDIA's setup). NVIDIA is naturally hitting all the high points of the 1.4 spec, with 1080p24, 720p60 (the official gaming spec), and 720p50. The cards will also support 3D Blu-ray. So, just about time to splurge big on that home theater PC? We don't know... is it just us, or does that guy and his couch look a little lonely?
+      
+
+ 

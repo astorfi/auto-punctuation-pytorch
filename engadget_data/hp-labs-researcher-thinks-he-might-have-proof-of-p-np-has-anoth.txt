@@ -1,0 +1,6 @@
+
+ 
+If you don't know the major problems facing mathematics and computer science, you might not be familiar with the problem of P versus NP. In short, it's a problem which asks, "if 'yes' answers to a yes or no question can be quickly verified, can they also be computed quickly?" Many computer scientists have long suspected that P≠NP, and it's been listed by The Clay Mathematics Institute as one of the Millennium Problems (another of which was solved earlier this year), carrying a 1 million dollar prize if solved. Apparently, HP researcher Vinay Deolalikar has been working on the problem in his spare time, and it seems that he's emailed his preliminary paper in support of P≠NP to the committee tasked with judging the Millennium Prize. His HP profile says he's received several preliminary confirmations of his draft, and that a final paper is currently in preparation. We wish him luck, and we'll keep you updated.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+As if Cupertino didn't give you enough to chew on today, it looks like the Mac Pro received a small update as well. 'Course, it seems pretty minute until you check out the pricetag ($999, for those wondering), but nevertheless, users looking to maximize their machine can now opt for a PCI Express RAID card to come built right in. The card promises "up to 304MBps of sequential read performance in RAID 0" and supports RAID levels 0, 1, 5, 0+1, and Enhanced JBOD. Moreover, it sports 256MB of cache and an integrated 72-hour battery for protection, and while the machine ships with each hard drive individually configured in the Enhanced JBOD level, you can migrate the drives into a RAID setup of your choosing without reinstalling OS X by tapping into Apple's RAID Utility software.[Thanks, Alex]
+      
+
+ 

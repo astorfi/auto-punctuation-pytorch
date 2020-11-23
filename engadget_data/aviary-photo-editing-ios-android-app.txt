@@ -1,0 +1,21 @@
+
+ 
+ Last we heard, Aviary was being chosen to replace the deceased Picnik as the main photo editor on Flickr, and now the startup is getting ready to launch its first iOS app and give its previous Android offering a major boost. The Jeff Bezos-backed company has just announced its entry into the application game, giving iOS and Android folks access to an array of its image editing tools -- much like Apple's iPhoto on Cupertino devices or Photoshop Express on ones powered by Google's OS. Naturally, you'll be able to do run-of-the-mill tidbits such as cropping, rotating, sharpening and blurring, which are bundled alongside others like cosmetic tools, one-tap auto enhance and "gorgeous effects." It's also worth noting Aviary was once present on Google Play as a plugin, but has now made the change to a full-on, feature-packed application. Those interested in taking the fresh app for a spin can hit either of the source links below, where a mighty free download awaits you. 
+
+
+
+
+  Show full PR text   Introducing The Official Aviary Mobile App
+   Aviary provides a mobile SDK (software development kit) for developers to easily inject a photo editor within their app, all without the fuss of developing it on their own. Aviary's SDK offers a customizable pre-built user interface which is designed to blend seamlessly in any app, on iOS, Android, and WP7. Developers can now focus on the core of their app, while letting Aviary provide the photo editing tools.
+
+   Since we released our mobile SDKs (currently available for iOS, Android, and Windows Phone 7), we've received overwhelmingly positive feedback from partners and users alike: everyone loves the convenience of being able to use Aviary within their favorite mobile apps! That said, we still heard from a lot of people who wished they could occasionally use it as a standalone photo editing app on their phone.  Aviary's focus is on supporting developers, and the photo editor we're releasing today is intended to be a quick and easy way for developers to evaluate our product before integrating it into their own app, while giving us a way to quickly test new tools and features before releasing them in our SDK. As it turns out, it's also a great photo editor that we think consumers will really enjoy.  So, today we're happy to announce that the official Aviary mobile app is now available as a free download for both iPhone and Android! (Windows Phone 7 app coming soon.)
+
+   Beyond the editor features you probably already know and love (lightning fast editing, one-tap auto enhance, beautiful effects, all the tools you need in the palm of your hand), we've thrown in a couple extras to show off what Aviary can do:
+
+   - Scroll through your recent photos in a cover photo-like view from the home screen. (It's way faster and more satisfying than your phone's default gallery view.)
+
+   - Adjust settings to customize and rearrange the order of the tools in the editor. If you're a developer, this will help you get a sense for how easy it is to customize our tool list in your app. Or if you just love Aviary's text tool and use it all the time, you can move it to the first page of the editor so you can get to it with just one tap.
+
+   You can install the app from the App Store or from Google Play. Have fun, and don't forget to let us know what you think! You can submit feature requests here, or reach out to us directly at contact@aviary.com.
+
+ 

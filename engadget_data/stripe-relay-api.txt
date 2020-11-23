@@ -1,0 +1,9 @@
+
+Stripe, the company that has powered Twitter's "Buy" button from the start, has released a new and universal button merchants can use to sell across apps. This API (if you want to get technical) is called Relay, and it connects with the sellers' existing inventory, so you don't click "Buy" only to find out later that the item's already sold out. For sellers, it means they can list products in a single place, knowing that items will show up on every app they use Relay with. Yes, that includes Twitter, which is one of this new tool's launch partners and already allows users to sell within tweets. For you, it means being able to purchase an item easily in fewer screens using payment information you've previously used with Relay and Stripe. Unfortunately, that also makes it harder to prevent yourself from spending too much by shopping through mobile, which is typically more cumbersome than buying through a computer.
+
+
+
+
+Grab a new fall read and Downing in English Oak—a go-to pair of sunglasses for any season. Buy now from this tweet! http://t.co/HcDMSVrzJD
+— Warby Parker (@WarbyParker) September 14, 2015
+ 

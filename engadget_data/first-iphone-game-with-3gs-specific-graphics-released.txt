@@ -1,0 +1,9 @@
+
+ 
+Back in June it was revealed that the iPhone 3GS' newfound support of OpenGL ES 2.0 graphics put one of the first meaningful, material boundaries in software capability between iPhone generations (magnetic compass and video would be two other biggies), meaning that 3D-accelerated games targeted specifically for the 3GS platform could look a good deal fancier than their 2G / 3G counterparts -- and furthermore, they could be built to only work on the 3GS if the developer chose not to build in support for both. French software shop Eurocenter is touting that its newly-released Adrenaline Golf is the first game to take advantage of the 3GS' added graphics capabilities -- and while we can't verify that no other application submitted to the App Store in the past three months hasn't utilized OpenGL ES 2.0 in some regard, we can definitely verify that it looks way cooler on the 3GS. The good news is that Eurocenter has set up the game so that it chooses the correct graphics engine at runtime, regardless of the iPhone you're using, but after you see it on the 3GS it might seem a little inadequate on the older gear. Follow the break for our side-by-side demo of the sweet 3GS-exclusive water reflections, which are considerably better than real life since you don't risk getting wet.
+
+Update: Sure enough, Eurocenter got a little overzealous with their claim -- Rocking Pocket's Blue Skies has had 3GS-specific enhancements for a while now. Thanks, everyone!
+ 
+
+
+ 

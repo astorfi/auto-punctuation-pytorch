@@ -1,0 +1,6 @@
+
+ 
+The Pico-ITX motherboard standard truly lives up to its name as the smallest regular commercial motherboard that money can buy. It's not hard to imagine why people would want a motherboard as small as VIA's PX10000: its low power requirements (the guys at Mini-ITX.com couldn't get it to draw more than 16 Watts under full load) and miniscule size (less than 4 inches long) make it perfect for really small enclosures. Unfortunately if you were hoping to make this into a high definition mini-media box to sit under the TV, you'll be disappointed. The 1GHz CPU isn't capable of running any popular video formats at an acceptable rate above 1024x768, so you'll have to stick with standard definition, if at all. VIA isn't particularly helpful when it comes to getting the motherboard to play nicely with Linux either, and haven't provided a central depository for Linux compatible drivers. There's also a lack of enclosures for the Pico-ITX motherboard size, where there's a Catch 22 situation of manufacturers unwilling to create cases for a limited market, and consumers unwilling to buy motherboards without a decent array of cases. Until these problems are sorted, the Pixo-ITX platform and this particular motherboard will fail to appeal to the general market: as if that was ever the target in the first place.
+      
+
+ 

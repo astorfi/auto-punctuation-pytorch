@@ -1,0 +1,10 @@
+
+Last spring, Page and Co. retired iGoogle, Google Mini and other services as part of a 'spring cleaning' initiative to help it better focus its efforts, and another clean-up round has just begun. This time around, Google Reader and seven other services are getting the axe, bringing the firm's total of features closed since 2011 to 70. Mountain View says it's sunsetting the feed reader because it has "declined," and that turning it off will allow it to pour its energy into fewer products. Reader will keep the lights on until July 1st, and diehard users will be able to keep their data and subscriptions by using the outfit's Takeout tool.
+
+
+Other products being put out to pasture include the company's Building Maker, Cloud Connect, Apps Script's GUI builder and five UiApp widgets, Search API for shopping and the CalDAV API (for developers who aren't whitelisted, that is). The internet giant also announced -- and confirmed our fears -- that it'll no longer sell or provide updates for Snapseed Desktop for Mac and Windows. Blackberry's Google Voice app is being shelved as well, but the company suggests its HTML 5 experience is a nice alternative. By the sounds of it, CEO Larry Page is still making good on his promise to keep Google focused on fewer things. Hit the bordering source links for more details.
+
+
+Update: Apps Script is sticking around, but its GUI Builder and a quintet of UiApp widgets are being deprecated.
+
+

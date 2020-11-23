@@ -1,0 +1,7 @@
+
+ 
+
+January's right around the corner and with the promise of a new year comes the anticipated release of CM9. So, to whet those ROM-flashing appetites, the CyanogenMod team's made an alpha of its Trebuchet launcher available as an .apk and .zip file over on XDA, bringing with it the ability to customize the number of homescreens, resize widgets and sort the app drawer, amongst other planned features. As is the nature of Android's underbelly, you'll need to have your device rooted, as well as running 4.0.3 in order to take part. And if you do decide to take the plunge, remember this is far from the final build, so things are bound to get buggy. Check out the source below to preview the ICS goods.
+      
+
+ 

@@ -1,0 +1,4 @@
+
+ 
+If there is one near universal gripe folks have with the Kindle, it's the DRM-laden files. It's no wonder, then, that the thing has been a lightning rod for the "information wants to be free crowd," almost since the beginning. Sure, we've seen Mobipocket, .epub, and .pdf files used on the device, but if you really want to bedevil Bezos the thing to do would be to altogether circumvent the DRM from your Amazon e-books -- and it looks like an Israeli hacker named Labba has done just that. For the time being, the hack, which allows you to convert your legally obtained e-books to unencrypted PDF files, is available as a Python script. We're sure that the process will be streamlined for us civilians soon enough -- let's just hope that it happens before the hole gets plugged and your e-reader auto-updated. This is one way to keep hold of your legally purchased Orwell, eh?
+ 

@@ -1,0 +1,6 @@
+
+       
+We've all had a feeling that Microsoft is holding back some pretty big surprises (or at least completely reasonable revelations) when it comes to Windows Phone 7 Series and gaming, and here at GDC this week it sounds like we're going to get a little glimpse into that. Microsoft is unveiling its new XNA Game Studio 4.0, which lets developers work on games for Windows Phone 7 Series, Xbox 360 and Windows PC. The integration with Visual Studio 2010 that we saw the other day allows developers to build a single project and then make slight modifications to let it run on each platform respectively. Most importantly, Microsoft specifically mentions that 4.0 will include hardware accelerated 3D APIs for Windows Phone 7 Series -- not stunning, giving the fact that Zune can do 3D games (and is supported by XNA), but relieving just the same. Other phone-related tidbits are also telling: there will be fairly deep Xbox LIVE integration, including unlocking achievements from phone-based games and push notifications for asynchronous turn based gaming. Hopefully we can get some real live multiplayer gaming going as well, but there's no mention of that just yet. Microsoft promises "much, much more" will be revealed at MIX 2010, but for now we're gonna dig for all we can here at GDC.
+      
+
+ 

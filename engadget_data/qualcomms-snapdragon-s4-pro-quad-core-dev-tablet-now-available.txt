@@ -1,0 +1,22 @@
+
+ 
+ For those keen beans out there who want to get an early taste of Qualcomm's first quad-core chipset, news just came in that starting today BSQUARE, the usual distributor of Qualcomm dev kits, is offering the Snapdragon S4 Pro mobile development platform for a hefty $1,299 (and just for reference, the MSM8960 "Fluid" smartphone MDP is currently sold for $999). Similar to the dual-core "Liquid" slate we tinkered with last year, this new APQ8064-based MDP sports the same 10.1 WXGA display as well as 2GB LPDDR2 RAM, 32GB of storage space and Android Ice Cream Sandwich. But obviously, developers will be able to take advantage of the two extra asynchronous CPU cores plus the new Adreno 320 graphics engine, which is said to pack three to four times the processing capacity of the Adreno 225 in the current top S4 lineup. If you're in no hurry then stay tuned for our hands-on later today.
+
+ Update: We've got a spec sheet after the break, and wow, there's a 13-megapixel camera and seven mics on this slate!
+
+
+
+ 
+  Show full PR text   Bsquare Announces Availability of the Quad-Core Snapdragon S4 Pro Mobile Development Platform for Tablets
+  Snapdragon S4 APQ8064-based Developer Tool Gives Access to Android 4.0 platform for application and game development
+  Bellevue, WA – July 24, 2012 – BSQUARE Corporation (NASDAQ: BSQR), a leading enabler of smart, connected devices, today announced general availability of the next generation Mobile Development Platform (MDP/T) for Android tablets based on Qualcomm's Snapdragon™ S4 Pro Processor. The MDP/T provides application developers and device manufacturers with access to a high-performance Android 4.0 platform for developing, testing, optimizing and showcasing applications and games.
+
+   The MDP/T is the first Snapdragon based Mobile Development Platform in a tablet form factor available to developers, middleware vendors and others. It's also the first to feature the Snapdragon™ S4 Pro APQ8064 processor by Qualcomm with asynchronous Quad CPU cores, running up to 1.5 GHz each. The tablet development platform offers powerful built-in graphics enabled by the Adreno™ 320 GPU, which is over two times faster than the 225 GPU on previous Snapdragon-based MDPs. Power management and multimedia efficiencies are also increased over previous MDPs due to the 2GB LPDDR2 RAM and 32GB Storage. The device also features a higher resolution 10.1 WXGA Multi-touch Display.
+
+   "Access to the APQ8064 processor with its asynchronous Quad CPU cores gives Android application developers a powerful platform to develop their differentiated applications for rapid market release," said John Traynor, vice president of products, Bsquare. "This access, combined with best-in-class engineering support and testing solutions from Bsquare, provides a major benefit to application and game developers developing for a wide range of pre-commercial devices."
+
+   "It's exciting for us to make available the first tablet form factor Snapdragon -based development platform with Bsquare," said Tia Cassett, senior director of business development, Qualcomm. "The combination of a powerful developer device in the Snapdragon APQ8064-based MDP/T and industry-leading services from Bsquare means faster time-to-market for Android developers."
+
+   The Mobile Development Platform (MDP/T) based on Snapdragon S4 Pro Processor is available now at www.bsquare.com/qualcomm. Bsquare will support developers and manufacturers using the APQ8064-based MDP/T with engineering services and technical support. Customers of the tablet device also have 24/7 access to the Bsquare Knowledge Base, technical documentation, complimentary tools and Snapdragon MDP software updates. Users of the APQ8064-based MDP/T can also benefit from the industry-leading TestQuest automated testing technology from Bsquare, which supports testing of Android software and hardware.
+
+ 

@@ -1,0 +1,18 @@
+
+On Saturday morning in Ann Arbor, Michigan, it was about 30 degrees outside, but I was in my backyard enjoying a 75-degree day at the beach. That's only possible because I was testing out the first attempt at streaming virtual reality from one place to another -- in this case from Laguna Beach, California, to a Samsung Gear VR headset strapped to my head. Thanks to technology from the folks at NextVR, I could see and hear everything in 3D as though I was actually there, looking around in a virtual reality environment while on the phone with co-founder David Cole.
+
+
+NextVR's demo reel takes viewers to a prerecorded NBA game, beach scene or Coldplay concert, but until now, no one outside of its labs has actually used the technology to visit another place via a live feed. A couple of years ago, we talked to the company about its plans to distribute live video in a virtual reality environment and today that dream came true.
+
+
+
+
+For our test, NextVR set up one of its 180-degree cameras along the beach displaying the scene (seen above) that I could experience over an 8 Mbps stream. According to Cole, its broadcast could send the 6K resolution, 80-frame-per-second stream because of the technology it's worked on that only sends the portion where I was looking. While this weekend filmmakers demonstrated what they can do with VR, his company is ready to deliver on its promise of live video that makes viewers more than a spectator of live events -- it can take them there.
+
+
+The Galaxy Note 4 inside Samsung's headset reconstructed the video and 3D geometry in real time fast enough that I didn't experience any lag or motion sickness looking around. NextVR says its tech can work at bitrates as low as 4 Mbps, which could be possible when it's connected to a CDN.
+
+
+
+
+

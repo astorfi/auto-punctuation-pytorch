@@ -1,0 +1,6 @@
+
+ 
+You know how we were all waiting on someone to figure out where AACS was hiding those dagnab private keys? BackupHDDVD seemed to work as advertised, but it needed access to the hard-coded "Volume Unique Keys" that unlock the encryption of each HD DVD disc. Well, the friendly folks at Doom9's Forum finally tracked down that elusive key in memory, and have already started leaking keys for a few HD titles, including nerd-fave Serenity (which has quickly made its way to the torrents), Peter Jackson's King Kong, and the ever-popular 12 Monkeys. It's still unclear at this point how HD DVD's key-revocation technology will affect HD DVD players and their users, and currently there a few playback issues with the ripped HD movies, even on fast machines. Still, it sounds like the hackers won't have too much trouble replicating their success, even if they lose a few ripped keys or even HD DVD players in the process to big bad MPAA, and we're guessing playback issues will be eventually sorted.[Thanks to everyone who sent this in]
+      
+
+ 

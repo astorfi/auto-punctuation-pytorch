@@ -1,0 +1,12 @@
+
+ 
+We've already seen the MILESTONE showing off multitouch capability, something the DROID clearly lacks in the States despite the fact that Android 2.0 rocks kernel support for it -- and now we've got another smoking gun: the official spec sheet. A quick glance at Motorola's tech specs for the Euro-flavored handset lists "pinch and zoom" as an interface feature, so yeah, it looks like this'll be in the shipping firmware. There's speculation out there that Apple was somehow involved in making sure that multitouch "fell" down a flight of stairs before reaching US-bound Android devices, but really, it's anyone's guess what's going on here -- and Moto's official statement isn't helping much:
+"We work very closely with our carriers and partners to deliver differentiated consumer experiences on our mobile devices. At times, similar devices come to market with different features, depending on the region, carrier preferences and consumer needs."
+ Nor is Google's:
+"The Android 2.0 framework includes support for multi-touch. As with other platform technologies, such as the text-to-speech engine, carriers and OEMs can choose to implement it."
+So let the speculation -- and the firmware hacking -- begin.
+
+[Via Gearlog, image via mobile-review]
+      
+
+ 

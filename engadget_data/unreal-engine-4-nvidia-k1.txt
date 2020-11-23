@@ -1,0 +1,14 @@
+
+The Unreal Engine's latest iteration, Unreal Engine 4, is adding support for NVIDIA's latest Tegra chip, the K1. Epic Games' ubiquitous engine powered much of last-generation games with Unreal Engine 3, and Epic's promising even more with the next generation. NVIDIA CEO Jen-Hsun Huang announced as much tonight during the company's CES 2014 press conference, and he made sure to note the much shorter gap between Unreal Engine running on next-gen consoles/PC and mobile devices.
+
+
+With Unreal Engine 3, Infinity Blade was the first mobile game running on Epic's game tech -- demonstrated on-stage during an Apple keynote for a new iPad. Unreal Engine 4, however, scales both up and down right out of the gate, apparently. "We can take absolutely anything that runs on PC or high-end consoles and run it on Tegra...I didn't think that we'd be at this level on mobile for another three to four years," Epic Games head Tim Sweeney said of the news. Color us unsurprised -- we expect to see Unreal Engine 4 running on anything that plays games in the coming years.
+
+
+Update: NVIDIA just posted its video of the K1 chip running an Unreal Engine 4 demo, check it out after the break.
+
+
+
+
+ 
+ 

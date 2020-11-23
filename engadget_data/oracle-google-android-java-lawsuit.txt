@@ -1,0 +1,6 @@
+
+ You should know by now that it's never truly over when tech giants resort to legal warfare over their technology, and just as it said it would, Oracle has filed an appeal of the US District Court ruling in its case against Google. In case you'd forgotten, back in May Judge William Alsup found that the structure of its Java APIs were not copyrightable so Oracle had to settle for $0 in damages over its claims that Android infringed on its patents and copyrights. FOSS Patent's Florian Mueller has a full breakdown of what he sees in the case, meanwhile we'll be preparing our fallout shelters for potential Android Armageddon... again.
+
+ Update: Haven't had enough of paperwork flying back and forth? Good, because according to Bloomberg, Google has also filed an appeal in the case over the judge's decision not to set aside the jury's copyright verdict or order a new trial.
+
+

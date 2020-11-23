@@ -1,0 +1,106 @@
+
+
+Okay folks, here's another how-to right from my inbox. A few people have emailed me and asked
+ "How can I get my computer at home to post pictures automatically throughout the day like you have on your "moblog"
+ http://pt.textamerica.com (A Moblog is usually a website which displays
+ photos you send photos from your camera phone, but you can use the same site to automatically send and post photos on
+ the web). Keep in mind, there are many many ways to do this on many many platforms with many other applications, but
+ I am going to show just one example that I happen to use on my PCs which is really easy to do.
+
+
+
+Ingredients:
+
+
+PC: (For this example, XP Home/Pro)
+WebCam: Just about any WebCam will do, I bought a few $40 ones at Frys.
+TinCam: A cool PC Application with a lot of options.
+TextAmerica account: This is where we'll post the photos.
+Always-on net connection: If your computer is always connected to the web in someway
+  this will be a lot easier, but if needed, it can dial up and send the images off too.
+
+Before we get started, why would you want to do this? Well, here's why I do it ??? I have a lot of PCs around
+ the house, and when I am away from home, I like to look in on what the many robots are doing as well as the house cat
+ and dog, or as I refer to them, the meat pets. Maybe you travel a lot, perhaps you simply want to see if you left the
+ garage door open, who knows, but it seems like a view in to one's home or office is something many people want to do,
+ but usually it's a bit too complicated.
+
+The first thing to do is install your web camera according the manufacturer's instructions, you know the
+ drill.
+
+Next, let's go set up a TextAmerica account at
+ http://www.textamerica.com . What is TextAmerica? It's a free service which
+ allows you to post pictures from your mobile phone, or just anything else which can send email.
+
+
+
+TextAmerica has pay-for options if you really get in to it, but for the most part a free account seems to
+ suit most folks well, even with a tiny ad here or there. For our automatic computer posting site, we're going to have
+ our PC send an image via email to the TextAmerica account. As you set up the account, you may or may not want to have
+ this public, you can set it up as a private "moblog" and not tell anyone, but what fun is that?
+
+Basically, the way it works is as follows: you send any email with a picture attached to your TextAmerica
+ account, the email address is the login/password so it looks like this
+ login.password@tamw.com. When we set up TinCam, the WebCam application,
+ we will enter this info in. If you want you can send a test message to your moblog now, simply send an email and
+ attach a photo, then visit your site to make sure it all worked. This is also a quick and easy way to post pictures
+ on the web as well.
+
+Next up, download and install TinCam from http://www.tincam.com TinCam
+ comes with a free 30 day trial and if you like doing this, it'll cost $19 to pay for the application. I've tried a
+ lot of WebCam apps for the PC and TinCan has been one of the best applications in terms of stability, speed and
+ compatibility with a wide variety of PCs and webcams, there are many WebCam applications out there and many even
+ support sending emails with images, so if you have a favorite- use that one, it really doesn't matter as long as it
+ can post to your moblog. Make sire to follow the TinCam wizard and/or installation instructions to get your cam up
+ and running.
+
+The most important part of setting TinCam for our Moblog is the email information.
+
+
+Start TinCam and click Setup >� Click Auto Capture to expand the options, then click email in the
+  left pane. Here you will enter the email plus password and the tamw.com email address that we'll be sending the
+  photos to. Other options include your SMTP server (the outgoing mail server) which you know about if you need
+  it.
+
+
+
+Click Auto capture on the left again, and click the Schedule" radio button to select it. For our example
+  we're going to send an image at 8am every day. If you'd like you can also set it to be motion sensitive, in other
+  words, if something moves it'll take the picture and send it to the site. Handy for catching the person stealing
+  paper clips from your cubicle. Click "Send and email" and also decide if you want to play a sound, I found this is
+  handy, sometimes I'm home and when I hear the click I know a picture was taken, hopefully I had clothes on.
+
+
+
+Click schedule on the left, click add and add the time and frequency you want the photos uploaded.
+
+
+
+That's it, click OK, Click Capture > Auto capture, you can leave the app open, or minimize it to the
+  tray. You can also select to preview what the camera sees as well by right clicking the preview windows and
+  selecting preview, and if you want to test Click Capture > Capture now.
+
+
+
+Congrats, you're likely going to tweak the settings and try different things, happy moblogging. Here's mine
+ in action, start your own and drop me a note!
+
+Oh, one more thing...This type of "moblog" just isn't for PCs, Macs, Linux machines etc..If you have a Sony
+ Aibo, you can use the built in application which sends a photo email to also send a photo to the Moblog, I have 2 of
+ my Aibos doing that now as well as Tablet PC mounted to a Roomba and it's been working out great.
+
+
+
+Questions, Comments? Suggestion for the next How-to?
+ phillip@flashenabled.com
+
+Phillip M. Torrone is Director of Product Development for Fallon Worldwide
+ (www.fallon.com) and runs the uber-geeky site
+ http://www.flashenabled.com where he writes about the future, gadgets,
+ art, roblogs, physics, and marathon running.
+
+
+
+
+
+ 

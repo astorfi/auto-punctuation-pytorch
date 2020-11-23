@@ -1,0 +1,4 @@
+
+A user named Zhouwei has taken a thorough look at the latest Google Glass Explorer XE7 version and found a few gems, including a possible app store called the Boutique. That would make sense given that there's no central repository for apps right now, and the code indicates that Glassware and APKs could be synced to the hardware via such a market. Other changes of note are a lock-screen that would work by swiping a lock pattern (there's currently only an unofficial app for that) and some kind of video player, though there's no info on how the latter might work. We're not sure how much of this code will actually be enabled when it hits our own device, but an app store and some proper built-in security would be nice.
+
+

@@ -1,0 +1,15 @@
+
+ 
+
+If you have a smartphone connected to AT&T, you just got a bit more incentive to hop over to WiFi whenever possible. The new Google+ Hangouts app group video chat feature appears to be disabled whenever you attempt to connect via the cellular network. We tested the feature using a Verizon handset as well -- we were able to stream video just fine. It's not entirely clear whether AT&T has specifically blocked access to the service, but regardless of the reason, we're all too familiar with the carrier's desire to keep video chat off the airwaves. We can only hope that we'll be able to use Hangouts to its full potential soon, just as we can with Apple's FaceTime.
+
+
+Update: AT&T has reached out with a statement. From what we can tell, Hangouts won't fall under the first category outlined below, as it replaces a pre-loaded app (Google Talk).
+
+
+
+All AT&T Mobility customers can use any video chat app over cellular that is not pre-loaded on their device, but which they download from the Internet. For video chat apps that come pre-loaded on devices, we offer all OS and device makers the ability for those apps to work over cellular for our customers who are on Mobile Share, Tiered and soon Unlimited plan customers who have LTE devices. It's up to each OS and device makers to enable their systems to allow pre-loaded video chat apps to work over cellular for our customers on those plans.
+
+
+
+ 

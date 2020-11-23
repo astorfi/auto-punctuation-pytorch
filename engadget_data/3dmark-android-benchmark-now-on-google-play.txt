@@ -1,0 +1,39 @@
+
+ Android just gained another go-to for benchmarking. After failing to hit the 2012 mark for its Android-specific performance software, Futuremark's finally delivering on its promise and making 3DMark available today on Google Play. Typically used as a PC benchmarking tool, the free-to-download app now lets users catalog and compare performance across Windows and Android devices -- iOS and WinRT versions are still listed as "coming soon." There are a few caveats to use, though, as the application requires a smartphone or tablet running Android 3.1 or higher, with 300MB of storage space, a minimum of 1GB RAM and the ability to play nice with OpenGL ES 2.0 (which is about 90 percent of all Android devices, according to Google). Who knows? It could even find a permanent place in our own Android reviews soon. Only time and testing will tell -- check after the break for a video preview of what's in store.
+
+
+
+   Show full PR text   Test Your Android Device with New 3DMark Android Benchmark
+   HELSINKI--(BUSINESS WIRE)--Futuremark® released 3DMark on the Google Play store today, bringing the world's most popular hardware performance benchmark to Android devices everywhere. The Android version of 3DMark includes everything you need to accurately test and compare the performance of Android smartphones and tablets. Developed in cooperation with Broadcom, Imagination Technologies, Intel, NVIDIA, Qualcomm, and other world-class companies, 3DMark is a professional-grade testing tool available to all Android users as a free app. Find out more and download 3DMark Android benchmark now.
+
+   Recent research by Google found that 84% of US tablet owners regularly use their tablet for playing games. 3DMark is a cross-platform benchmark designed to test the gaming performance and capabilities of all types of modern hardware from smartphones and tablets, to the latest high-end desktop gaming PCs. The Android version of 3DMark includes two benchmark tests, both based on OpenGL ES 2.0.
+
+   What's more, 3DMark scores can be compared across platforms. You can use 3DMark to test and compare the performance of devices running Android, iOS, Windows and Windows RT, to better understand how new devices compare with the alternatives.
+
+   3DMark Ice Storm
+
+   Use the 3DMark Ice Storm benchmark to test the performance of your Android powered smartphone or tablet. Ice Storm includes two graphics tests designed to stress the graphical (GPU) performance of your device and a physics test to stress its processing (CPU) performance.
+
+   3DMark Ice Storm Extreme
+
+   For the latest smartphones and tablets, Ice Storm Extreme raises the rendering resolution to 1080p and uses higher quality textures and post-processing effects. Ice Storm Extreme will soon be included in the Windows version of 3DMark too, allowing you to compare the performance of Android and Windows tablets directly.
+
+   Test your own Android device now
+
+   3DMark is a free Android benchmark app available worldwide for more than 1,000 compatible Android devices. 3DMark is also available for Windows PCs and is coming soon to Apple iOS and Windows RT devices.
+
+   Download 3DMark from the Google Play store  Download 3DMark APK
+
+   Links for Editors
+
+   Screenshots: http://www.futuremark.com/downloads/3dmark-press-kit.zip  Trailer: http://www.youtube.com/watch?v=zAImZ_Jzk1s  Info: http://www.futuremark.com/benchmarks/3dmark
+
+   Editors of websites and magazines that regularly test new Android, iOS and Windows powered devices are invited to contact Futuremark about using 3DMark in reviews.
+
+   About Futuremark®
+
+   Futuremark® creates the world's most popular benchmarks and PC performance tests. Futuremark's free 3DMark®, PCMark® and Peacekeeper™ tests have helped millions of people measure and improve their PCs' performance for games, media, applications and the web. The Futuremark Overclocking Hall of Fame is home to the world's highest 3DMark scores set by the most talented overclockers with the most extreme hardware. Futuremark has offices in Campbell, California and Helsinki, Finland. http://www.futuremark.com/
+
+   © 2013 Futuremark® Corporation. Futuremark® and 3DMark® trademarks and logos, character names and distinctive likenesses, are the exclusive property of Futuremark Corporation. The names of other companies and products mentioned herein may be the trademarks of their respective owners.
+
+ 

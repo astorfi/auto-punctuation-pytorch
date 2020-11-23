@@ -1,0 +1,6 @@
+
+ 
+Chrome to Phone isn't a new product -- we've been using it since May, in fact -- but Google's second mobile announcement today (behind Voice Actions) is that its continuous client app is now "official" and available to all users (with Android 2.2 Froyo) via Android Market. As it was before, websites can be pushed from the Chrome browser to your Android device, with certain apps (Maps, YouTube) taking over for the browser when contextually appropriate. Additionally, the code is open, which we're hoping means this Chrome extension will find its way to other browsers. The team is "looking into" bringing the capabilities to other mobile OSs (the iPhone was specifically asked), but don't get your hopes up: nothing's been submitted, and we didn't get the feeling it was an active push. Incredibly useful? Yes, yes indeed.
+      
+
+ 

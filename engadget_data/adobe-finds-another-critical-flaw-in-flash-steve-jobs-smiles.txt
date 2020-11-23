@@ -1,0 +1,5 @@
+
+ Hey, guess what? Adobe has found yet another serious security flaw in Flash. We can already hear the iOS fanboys warming up their commenting fingers. The vulnerability affects all platforms, including Android, though only attacks on Windows have been seen in the wild so far. Just like last month's exploit, this one is spreading via malicious .swf files embedded in Office documents, only this time it's Word instead of Excel being targeted (a hacker's gotta keep it fresh, after all). Once again Reader and Acrobat are also vulnerable, but attacks can be thwarted using Reader's Protected Mode. When exactly Adobe plans on plugging this hole is anyone's guess, so when a deposed Nigerian prince tells you about the fabulous sum of money he'd like you to transfer, you'll have yet another reason not to open the Office attachments in his email.
+      
+
+ 

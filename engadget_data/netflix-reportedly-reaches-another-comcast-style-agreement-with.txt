@@ -1,0 +1,14 @@
+
+Netflix's oddly public peering agreement to connect directly with Comcast has, as many expected, been followed closely by a similar deal. What may surprise some is that this arrangement is with Norway's Telenor and not Verizon or AT&T, although the circumstances are remarkably similar. Filter Magazine points out a report from Dagens Næringsliv (Today's Business), a Norwegian industry paper, revealing an arrangement where Netflix is apparently paying rent to place its servers loaded full of movies inside the telecommunication company's datacenter. Telenor spokesman Jørn Bremtun confirmed a commercial agreement to Filter but could not reveal details, although Netflix's OpenConnect proposal suggested a similar arrangement, without payment.
+
+
+Telenor has recently dropped sharply in Netflix's ISP speed index (sound familiar?), and like the Comcast announcement, this new deal is drawing scrutiny from supporters of the principles of net neutrality. Telenor is held to the standards of net neutrality as set by the Norwegian Post and Telecommunications Authority (PDF), just like Comcast is under the terms of its agreement to purchase NBC. Also just like Comcast, Telenor claims that charging Netflix is not blocked by those standards, since it isn't providing preferential treatment to any particular traffic on the network. Finn Myrstad of The Consumer Council of Norway echoes statements by US consumer rights groups and our post on the topic, pointing out that the secret nature of such deals is inherently troubling. There's still no word on any other similar agreements with US ISPs, but the trend appears to be firmly in motion.
+
+
+
+ @bjorneckblad og jeg har skrevet om den nye avtalen mellom Netflix og Telenor i @DagensNaeringsl i dag. Ikke alle jubler like høyt.
+
+- Johan L. Hammerstrøm (@johanlh) March 7, 2014Spm om Netflix vs nettnøytr. @npt_no utredet dette i 2009. Se rapport s. 14 http://t.co/sL9sAXFPj0 @dagbladet @ArildGrande @TelenorN_presse
+- Jørn Bremtun (@Jbremtun) March 7, 2014@josteinhh Vi har en kommersiell avtale med Netflix og kan ikke gå ut med detaljer.
+
+- Telenor Norge Presse (@TelenorN_presse) March 8, 2014

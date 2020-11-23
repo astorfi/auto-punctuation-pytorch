@@ -1,0 +1,5 @@
+
+ 
+Yesterday when Steve showed us 10 of his favorite new Leopard features, he left out at least a couple we were a little more than interested in: HD DVD and Blu-ray support. While Tiger does have support for HD DVD and Blu-ray drives, it's not able to play back Hollywood movies from either format. Someone at MacRumors has discovered that the new DVD Movie Player.app in Leopard now includes preferences for both HD DVD and Blu-ray. Sure, Tiger included a preference pane for "HD", but this was for discs with H.264 encoded HD video created in Apple's DVD Studio Pro -- or the like. Of course, this isn't the only thing needed to add next-gen Hollywood movies to Leopard, but we're hoping Apple can pile on the rest before October, like AACS, HDCP, VC1 and of course an actual drive shipped with a new Mac.[Via AVSForum]
+
+ 

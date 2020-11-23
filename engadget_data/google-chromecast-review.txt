@@ -1,0 +1,29 @@
+
+
+More Info
+
+Google introduces Chromecast, a $35 HDMI streaming solution for televisions
+Google Chromecast hands-on
+Google cancels free Netflix Chromecast promotion a day after launch
+
+
+Despite the best efforts of Panasonic, Samsung, Sony, LG and others, most of the televisions in people's homes these days are not of the smart variety. However, there are hundreds of millions of regular televisions packing HDMI ports, and Google's new Chromecast device offers a way to put some brains into those dumb TVs by giving them access to web-based content. Having a Chromecast dongle connected to your TV means you can stream videos straight from a Google Play, Netflix or YouTube app, or mirror the content in any open tab in Google's Chrome browser using a tab casting feature.
+
+
+Sure, we've seen devices with almost identical functionality, like Plair, but Chromecast is backed by Google, whose relationships with content providers and developers mean that the Google Cast technology powering it will soon be popping up in even more apps. Not to mention, there's the price. At $35, it's almost a third of the cost of Plair and also Roku 3 and Apple TV, the current most popular devices that bring internet video to your TV. Even for such a paltry outlay, is it a worthy addition to your living room? And is it really "the easiest way to enjoy online video and music on your TV" as Google's marketing would have us believe? Read on to find out.
+
+
+
+
+Hardware and setup
+Inside the Chromecast's packaging, you'll find a dongle, an HDMI extender, micro-USB cable and an electrical plug adapter. The dongle itself measures 70mm long and 12mm thick, and is 35mm wide at its most bulbous point. Beveled matte black plastic panels on the top and bottom sides are joined by a band of glossy polycarbonate ringing the edge. Inside that plastic exterior lies a Marvell SoC, a combination Bluetooth/FM/802.11 b/g/n WiFi radio, 2GB of storage and 512MB of SDRAM. Up top, there's silver Chrome branding and a single LED power indicator. If you're curious, the requisite model numbers and FCC info can be found on the bottom. Not much to it, folks.
+
+Instructions on how to hook it up are printed on the packaging itself, and they're about as straightforward as you'd expect. Just plug the USB cable into the rounded end, and stick the other in one of your TV's HDMI ports. Then you either connect the cable to one of your TV's USB ports or plug it into the power adapter to give it the juice it needs. Once you're plugged in and have navigated to the appropriate TV input, the device brings up a setup webpage on your computer, prompting you to connect it to your home's 2.4 GHz wireless network and install the Google Cast extension to make your Chrome browser compatible. Once that's accomplished, you're ready to start streaming content from the cloud to your newly empowered TV set. Easy, right?
+
+User experience: native apps
+Once you get rolling, you'll find that simplicity extends into Chromecast's native app interface as well. Google's released an SDK for the underlying Google Cast technology that makes Chromecast work, allowing developers to easily add that capability to their own apps. For now, though, just three applications -- YouTube, Netflix and Google Play Movies -- make use of the technology. The process of slinging content to the TV is the same across the board: open the video of your choosing, then tap the Chromecast icon and within a couple seconds that video will load up on the big screen. Once one video is playing, you're free to search for your next video, use other apps or put your mobile device in standby mode.
+
+Speaking of which, you can use Chromecast on both the iOS and Android apps for YouTube and Netflix, and the service generally worked well whether we were using a Galaxy Nexus, Nexus 7 or fifth-generation iPod touch. Videos played with just a little bit of artifacting as the dongle buffered the content, but the streaming quality was otherwise excellent. Because Chromecast is a feature within existing apps, calling up content works as it always has within those respective applications. Also worth noting: the YouTube app allows you to add videos to a playlist and have them (mostly) stream in seamless succession. The only hiccup we found with the "add to TV queue" feature made itself known when we added a video to the playlist from a new device. This caused the then-playing video to stop and switch to the video chosen on the new device. However, after that device's initial cast, adding videos to the list from any device can be done without interruption.
+
+
+

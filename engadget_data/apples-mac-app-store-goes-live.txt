@@ -1,0 +1,8 @@
+
+ 
+Well it's official boys and girls -- Apple's Mac App Store is live as of this morning, and available to use and abuse via a Snow Leopard update (version 10.6.6 to be exact). The OS X application market takes the company's wildly successful iOS App Store to its logical conclusion, bringing an orderly, structured app buying experience to desktops and laptops across the globe. The Store will launch with over 1,000 titles, including Apple standards like the iLife suite broken out into separate parts (iPhoto, iMovie, GarageBand) selling for $14.99 each, Pages, Keynote, and Numbers for $19.99 apiece, and the bank-breaking Aperture for $79.99. Of course there'll also be third-party apps present at launch, including Autodesk Sketchbook Pro, Pixelmator, Cheetah 3D, and Flight Control HD (yes, a port of the iPad version).
+
+The software itself will be a separate application that functions much like the App Store, providing update notifications and a universal installation process. That process, mind you, will be part of the requirements for getting your application into the store, along with Apple's famous content policies -- so we're sure we'll see some irate devs with painful rejection stories. Or maybe not. We know that the company is planning on getting lots of familiar developers into the Store, but we also know that some of what Apple is looking for may not gel with, say... Adobe's installation procedures (or worse). Regardless, right now the number of apps available is small, but you can expect it to grow fast now that every Mac user will get a crack at this software. We're going to be doing a much deeper dive on the experience and report back -- until then, if you're using it, let us know what you think in comments.
+      
+
+ 

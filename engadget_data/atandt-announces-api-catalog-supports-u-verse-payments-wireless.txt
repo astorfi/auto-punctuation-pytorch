@@ -1,0 +1,8 @@
+
+  We're live at AT&T's Developer Summit keynote here at CES, where the carrier has just announced a revamped U-Verse API catalog. According to the company, the new U-Verse catalog features APIs that support payments, MMS/SMS, location, device capabilities and AT&T's mHealth app. The payment API utilizes HTML5, with revenue split 70 / 30 between developers and AT&T. The entire collection will be available through cloud services like Windows Azure, and developers will have to pay a $99 registration fee to get started, giving them unlimited access to the catalog through the end of 2012. The APIs will also allow devs to build apps that let you check out what's playing on TV, and use them as a remote control. There's also support for the Twonky Beam Browser app, which allows users to beam content directly from their tablets to a U-Verse equipped TV.
+      
+
+ 
+
+ 
+ 

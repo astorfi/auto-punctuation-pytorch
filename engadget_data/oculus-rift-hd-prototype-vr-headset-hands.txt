@@ -1,0 +1,18 @@
+
+We've been impressed with Oculus Rift from the start, and have been following the VR headset closely ever since. The developer edition has been in the hands of devs for a couple months now, and while Palmer Luckey and Nate Mitchell have certainly received rave reviews of the headset from many, they've also heard lots of feedback about ways to improve it. The number one request from users and devs? A higher-resolution screen than the 1,280 x 800 panel in the dev device. Well, after months of research and tinkering to find the right hardware combination, team Oculus is finally ready to show off a Rift with a 1,080 x 1920 display, and we got to demo the thing.
+
+Before heading into the land of 1080p, we got to explore a demo built with Unreal Engine 4 in the existing dev headset. After looking around a snowy mountain stronghold inhabited by a fire lord in low res, we switched to the exact same demo running at 60 fps on the HD prototype device -- and the difference was immediately apparent. Surface textures could be seen in much higher fidelity, colors were brighter and less muddied and the general detail of the entire environment was greatly improved.
+
+
+
+
+
+For example, when viewing a torch mounted on the wall in the HD headset, you could see the individual flickering of the flame with subtle color striations, whereas the same torch appeared as a pulsing orange blob in the existing dev kit. We also got to demo a virtual movie theater application built by UX Ground where we got to select our seat and watch a trailer for Man of Steel in a virtual IMAX theater. While the video wasn't as good as watching the flat screen in your living room, it's worlds better than watching on a phone or tablet, and we can see such an application having great appeal for folks on planes. Both demos showcased that HDVR, as Oculus likes to call it, is a much higher fidelity and immersive VR experience.
+
+When we chatted with Palmer and Nate about the HD prototype, they wanted to make clear that the headset we saw was very much a proof-of-concept device -- a way to let folks see just how good HDVR is. The process of designing and building the prototype we saw took months as the team at Oculus experimented with various displays and hardware to optimize the experience. In fact, Nate told us that almost every headset in the Oculus office is a feature prototype that has been modded in some way or another, but once they found the right parts, it only took an hour to assemble.
+
+Building the optimal HDVR headset's an ongoing process, which is why they wouldn't give us any specifics as to the type of display or board being used. We do know that it's "the best display we've used yet," according to Nate, and that it's an LED-backlit LCD display that's both thinner and lighter than the screen in the dev unit. While the internals are different, the optics are identical to those being used in the dev headset, so the edges of the screen could be seen during the demo. That kept it from being a fully immersive experience, but both Palmer and Nate assured us that new optics are in development to eliminate the problem.
+
+We asked when we might see a retail or dev version of the HD headset, Nate played coy, citing a need for continued hardware evaluation. He also informed us that the retail version of the device will definitely be in HD, but that independent of hardware concerns, the company won't be going retail until there is a large enough library of games. How large? Well, neither Nate nor Palmer would tell us. What we do know is that we can't wait for that day to come.
+
+

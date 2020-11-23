@@ -1,0 +1,29 @@
+
+
+ Soon enough, Chrome OS won't be the only game in town when it comes to tightly integrated web apps running on a Linux core. Today Canonical announced Ubuntu WebApps, a new feature that will be integrated into version 12.10 of the open-source OS, Quantal Queztal. In its simplest form this means being able to place an icon in the launcher and open your favorite sites and services as standalone windows. When you visit a compatible page in the browser an alert pops up asking if you want to "install" it as a WebApp. So far, most of the engineers' efforts have focused on Firefox, but Pete Goodall (a product manager at Canonical) said Chrome and Chromium support is also in the works. The really fun starts, though, when devs start playing with the new APIs and Greasemonkey-like extensibility offered. WebApps will be able to access many of Unity's finer features like progress bars in the launcher, the sound menu and messaging menu as well. So now you can get desktop alerts from Gmail without installing some wonky app or setting up Thunderbird. WebApps can even tap into the HUD, though, it'll be up to the devs to expose the appropriate actions to the search-as-you-type menu system.
+
+ Of course, this is all just the first step. More APIs will eventually expose additional features, and high on that list is hardware access -- an essential feature for video and voice chat. Another key plan is integrating web credentials with desktop apps. So, if you log into Facebook in the browser, Shotwell will recognize that and upload imported photos to your profile. The initial list of recognized apps is small, but impressive, including Twitter, Last.FM, GMail, Google+, Facebook and YouTube. And, while the feature is set to debut in October with Quantal, Pangolin devotees will also be able to take advantage simply by adding a repository to their software sources.
+
+ Update: You'll now find the PR and a nice demo video after the break.
+
+
+
+  
+  Show full PR text    Introducing Ubuntu Web Apps: setting the web free of the browser
+   These days, we spend more time online - working with docs, email, music and occasionally even accessing social media. But our online and desktop experiences have been disjointed. We give applications the full run of our desktops, where they have their own icons and windows, but we trap the whole internet inside one overworked application, the browser.
+
+   That's why we've been working on a way to integrate the two worlds - something to make it just as easy to run a web application as a traditional app. And we've been working to give web applications access to the full range of desktop capabilities.
+
+   At OSCON today, Mark Shuttleworth just revealed Ubuntu Web Apps, a new feature due to land in October's Ubuntu 12.10 release. It will enable Ubuntu users to run online applications like Facebook, Twitter, Last.FM, Ebay and GMail direct from the desktop. Making web applications behave like their desktop counterparts improves the user experience dramatically; it's faster and it reduces the proliferation of browser tabs and windows that can quickly make a desktop unmanageable.
+
+   The apps can even take advantage of Ubuntu's new HUD system, making it even easier to navigate. So web properties leap to the forefront of modern UI design, making for amazingly productive, fast and fluid applications on the desktop.
+
+   That makes Ubuntu the best platform for the web - secure, fast and lightweight. This new feature is part of our drive to make the web a first class part of Ubuntu. We've already turned 40 popular web sites into Ubuntu Web Apps and there are plenty more on the way. It's easy to integrate your favourite website or interface natively into the desktop, and share the result with all Ubuntu users. No other OS has come close to this level of integration between web and desktop.
+
+   Ubuntu Web Apps will be available as a preview for Ubuntu 12.04 LTS soon and will be available by default in Ubuntu 12.10. I think we've made something that's about to radically change users' expectations of the web.
+
+   Some examples of what users can do with Ubuntu WebApps:
+
+   Launch online music site Last.FM directly from the Dash and control the music from Ubuntu's sound menu  Access and launch your social media accounts (Google+, Twitter, Facebook) from the Launcher, and get native desktop notifications  Quickly and seamlessly upload photos to Facebook from Shotwell  Pause and play the video you are watching on Youtube  See how many unread messages you have in your GMail account, in Ubuntu's messaging indicator
+
+ 

@@ -1,0 +1,4 @@
+
+Raspberry Pi computers have already proven to be valuable educational tools, but they're largely blank slates until teachers (and curious owners) find the right software. As of today, that software search just got a lot easier. The company has reached a deal to bundle Wolfram Research's Mathematica app and its companion Wolfram Language with each copy of Raspbian Linux; every Raspberry Pi owner now has free tools for everything from learning math to sophisticated programming. The deal also brings a Remote Development Kit that lets tinkerers connect the Raspberry Pi to Mathematica on a regular PC. While the updated Raspbian download isn't yet ready, all existing users can run a command to install Wolfram's suite. Only some owners will need the bundle, but it could go a long way toward promoting math to a younger generation.
+
+

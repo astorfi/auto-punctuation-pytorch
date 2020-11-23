@@ -1,0 +1,6 @@
+
+ 
+Like a pesky video game villain that just won't go away, Microsoft's DirectX has been a mainstay of mainstream PC gaming pretty much since the inception. Its existence hasn't been without its tensions, however, with notable graphics guru John Carmack of id Software ignoring it in favor of OpenGL -- until last week when he finally acknowledged that Direct3D had outgrown its cross-platform alternative and was now the preferable API for PC game development. That's all well and good, but plenty of game devs, says Richard Huddy, head of AMD's developer relations team, don't want any API at all. Huddy points out the sadly obvious fact that modern graphics cards can pretty much stomp any console hardware into the dirt in a straight fight and yet fail to show the full extent of their superiority in actual game visuals. He'd prefer to see developers given direct low-level access to the hardware, so they can maximize their own talents and really push things forward. Of course, the beauty of DirectX is that it's a standard that every Windows game designer can code to, leading to predictable and more widely compatible (if not necessarily spectacular) results. For more on how the future's shaping up, hit the links below.
+      
+
+ 

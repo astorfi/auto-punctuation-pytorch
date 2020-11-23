@@ -1,0 +1,6 @@
+
+ 
+If the online chatter is to be believed, Apple's very soon to be released Snow Leopard has in its code new protection for fighting malware. According to the picture above corroborated by other online reports, a DMG downloaded by Safari was checked by the OS and found to contain the "RSPlug.A" Trojan. The system promptly suggests you eject the disk image to avoid damage. Should Apple really be treading down this path, it begs the question of how often and how comprehensive / aggressive the company will be updating its antivirus logs. If nothing else, it's a certainly a notable symbolic gesture that the one-time underdog might be gaining enough market share to catch the attention of the darker side of the internet -- and all of a sudden, David Puddy isn't looking nearly as bad. 
+
+[Thanks, David]
+ 

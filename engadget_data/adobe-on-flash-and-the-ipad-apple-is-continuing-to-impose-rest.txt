@@ -1,0 +1,16 @@
+
+
+Adobe's been trying to get Flash on the iPhone with zero success since Steve Jobs first held the thing in the air in 2007, and it looks like the tension is only going to grow as the iPhone OS moves onto the iPad. We noticed that the iPad doesn't have Flash support almost immediately when Jobs was demoing the browser, and the Adobe Flash Platform blog picked right up on it, saying:
+
+It looks like Apple is continuing to impose restrictions on their devices that limit both content publishers and consumers. Unlike many other ebook readers using the ePub file format, consumers will not be able to access ePub content with Apple's DRM technology on devices made by other manufacturers. And without Flash support, iPad users will not be able to access the full range of web content, including over 70% of games and 75% of video on the web.
+
+
+If I want to use the iPad to connect to Disney, Hulu, Miniclip, Farmville, ESPN, Kongregate, or JibJab -- not to mention the millions of other sites on the web -- I'll be out of luck.
+
+
+
+Yep, that sounds about right -- and Adobe goes on to point out that the Open Screen Project is bringing Flash to all sorts of other devices. Considering the Nokia N900 runs Flash 9 extremely well on a 600MHz ARM Cortex A8-based TI OMAP 3 processor (and the Palm Pre, which uses the same chip, will be able to run Flash 10.1 when webOS 1.4 comes out) we don't see any reason other than politics that the iPad can't do it on that fancy new 1GHz dual-core Cortex A9-based A4 chip. Turns out people might think "the best way to experience the web" might involve a little Hulu, you know?
+
+
+
+

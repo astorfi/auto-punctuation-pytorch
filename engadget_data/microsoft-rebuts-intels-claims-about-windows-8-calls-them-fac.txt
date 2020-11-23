@@ -1,0 +1,7 @@
+
+ 
+
+Bad Intel! Microsoft has issued a strongly worded response to comments this week from Intel SVP Renee James describing the future of Windows 8 on ARM as fragmented and backwards-incompatible. Those statements, says Microsoft, were "factually inaccurate and unfortunately misleading," though we're left without clarification as to what specifically was untrue. James claimed that legacy x86 programs won't be running on the ARM architecture, requiring a re-write for developers and probably a re-purchase for users. She also went on to suggest that each of the four hardware suppliers for Windows 8 systems-on-chip will have a different code stack, incompatible with the rest, which sounds like a far worse allegation to us. Now the issue is to try and figure out which of those two big accusations Microsoft has taken offense to. The Redmond team had nothing more to say on the matter, offering only a reminder that Windows 8 is still at the tech demo stage and there's still a long way to go.
+      
+
+ 

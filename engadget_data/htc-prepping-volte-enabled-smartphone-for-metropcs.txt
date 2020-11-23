@@ -1,0 +1,5 @@
+
+ Hot on the heels of Verizon's completion of a test call using voice over LTE on its LG Revolution, the word on the street is that MetroPCS is hooking up with none other than HTC for its own VoLTE-capable phone -- though it's not MetroPCS making the announcement: instead, the GSM Association's technology director broke the news, which was followed by a swift "no comment" from the carrier itself. As PCMag points out, there's a sense of urgency for MetroPCS to deploy VoLTE in short order because it's using AWS bandwidth for its LTE services -- the same bandwidth it uses for CDMA -- whereas Verizon has LTE deployed down by its lonesome in the newish 700MHz space, which means MetroPCS could open up 4G bandwidth by migrating away from CDMA voice as quickly as possible. No word on when we might see this mysterious HTC device surface just yet.
+      
+
+ 

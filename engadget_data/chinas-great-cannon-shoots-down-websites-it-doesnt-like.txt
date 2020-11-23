@@ -1,0 +1,12 @@
+
+
+
+According to a new report from Citizen Lab, China has not only built itself a "Great Cannon" but has already fired it as well. This potent online weapon seems to be capable of intercepting internet traffic at the national level then directing it at specific networks to knock them offline. China's already widely suspected of being behind the recent attack against Github, which was overloaded for nearly a week via "an ongoing and evolving large DDOS attack." Now it appears that Github's attackers used the Cannon to redirect that traffic from Chinese search engine giant Baidu to cripple the website. All reportedly because the San Francisco-based website hosted a pair of pages that link to content banned in China.
+
+
+
+The weapon works much like a standard man-on-the-side attack, which operates by intercepting data as it is sent between two nodes, then redirecting it to a third. The Cannon appears to leverage an analytics script commonly distributed by the Baidu search engine. Normally, this script is innocuous, sending data back to Baidu whenever a user visits a website that it is running on. But according to Citizen Lab, the Cannon's creators fiddled with the code a bit so that, instead of sending a packet of data, it redirected the user to Github thereby flooding the website with traffic from unsuspecting users.
+
+While the US does have a similarly capable weapon in its QUANTUM program, America has never employed it in such a cavalier and public display. What's more, it could signal a troubling shift in China's online behavior; moving from the passive censorship of its Great Firewall to actively attacking foreign sites with a Great Cannon.
+
+

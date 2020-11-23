@@ -1,0 +1,11 @@
+
+       
+All is not well in the land of the E6400- and E6500-series lappytops. What looks to be hundreds of owners of these machines have been complaining of massive performance issues, throttling themselves down by as much as 95% under what would seem to be normal operating conditions. Whenever the devices get slightly warm the BIOS automatically starts dialing down the performance until they basically crawl to a halt, some indicating that even when cool they won't go over 50% of maximum clock. Users have been reporting this issue since early in the year and Dell has apparently started censoring some posts on its forums, including a link to a PDF created by (now-banned) user Tinkerdude describing the problem in detail. It's entitled "Performance loss during normal operation in a Dell Latitude E6500 laptop due to processor and bus clock throttling", and if you think that's long wait until you see all 59 pages of analysis (at the read link). As of now there's no official fix provided by Dell, leaving many to call this Throttlegate, and we do love a good Stargate reference.
+
+Update: Ibrahim e-mailed to let us know that these two series aren't the only ones being gimped. The Studio XPS 1645 is said to be having similar (but somewhat less drastic) issues according to this thread, seemingly thanks to an inadequate AC adapter. In this case Dell seems to be shipping replacement adapters to those who call up and complain.
+
+Update 2: Dell's Chief Blogger Lionel Menchaca dropped the following in comments, which is something of a positive step:
+
+We're aware of concerns raised in this post and others like it. At this point, our teams are looking into the details. When we have more information to share, we'll update customers via a post on Dell's blog, Direct2Dell.
+
+ 

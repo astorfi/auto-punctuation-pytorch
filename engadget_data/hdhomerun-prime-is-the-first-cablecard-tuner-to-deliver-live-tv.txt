@@ -1,0 +1,22 @@
+
+ 
+ Our favorite shows, anywhere, that's all we really want. Of course that is asking too much but we'll be closer to the dream now that Silicondust has announced its three tuner HDHomeRun Prime CableCARD is a certified DLNA Digital Media Server (DMS). While the options this opens are seemingly limitless, one specific use case is watching premium cable on a PS3. CableCARD tuners aren't exactly known for their ease of setup, but once you do get this working with your cable company and on your network, it'll show up like any other DLNA source to your PS3. From there you can browse the list of channels and watch any you happen to subscribe to.
+
+ The PS3 isn't the only DLNA Digital Media Player (DMP) or Digital Media Renderer (DMR) that works with a DLNA DMS, and plays MPEG2 video. However, at this point it's the only one we know of that also supports DTCP-IP, which is the DRM required to play premium content. A representative of Silicondust told us he's confident more compatible devices are on the way, while even more devices will support the unprotected content. Keep an eye out for an official list of compatible hardware on its site some time after this update starts rolling out later this month. Finally, yes, you will be able to use your DLNA Digital Media Controller (DMC) to record content to your other Digital Media Servers -- is that enough acronyms for you? If this interests you, then stay tuned for CES where Silicondust plans to announce phase 2, which is where we think things could really get interesting.
+
+
+
+  Show full PR text   Silicondust USA, Inc. announces HDHomeRun DLNA Live TV Digital Media Server (DMS)
+   Project:Connect , Phase 1 – Access
+
+   Pleasanton, CA – December 4, 2012 - Silicondust USA, Inc., innovators of the HDHomeRun® network attached TV  tuners, today announced the first DLNA Certified® live TV Digital Media Server (DMS). As phase one of Project:Connect,  SiliconDust's live TV DMS brings premium cable TV to DLNA Certified® and UPnP devices in the home.
+
+   "HDHomeRun Project:Connect targets live TV access on every screen in the home," said Theodore Head, President and  CEO of Silicondust USA. "Our interoperability roadmap includes leading Smart TV's, Network Connected Media Devices,  Game Consoles, Smart Phones, and Tablets including iOS, Android, and Windows Mobile."
+
+   The phase 1 release will be available to new and existing HDHomeRun® Prime customers later this month via the  HDHomeRun website. After installing the upgrade owners can browse the channel list and play live TV on MPEG2-capable  Digital Media Player (DMP) and Digital Media Renderer (DMR) devices. Protected channels are supported on DTCP-IP  capable devices such as the Sony Play Station 3.
+
+   "We are heading into an exciting TV technology year which will see TV access on a wide range of screens and form-  factors" said Nick Kelsey, CTO of Silicondust USA Inc. "We are expanding our product line and will be announcing a  number of live TV apps at CES".
+
+   New and existing HDHomeRun® Prime users can sign up for announcement information: http://www.silicondust.com/  ext/mailinglist . Customers can submit feedback and connect with the HDHomeRun® community via the Project:Connect  forum: http://www.silicondust.com/ext/forum ; on Facebook: https://www.facebook.com/hdhomerun ; or via  Twitter: https://twitter.com/HDHomeRun_US .
+
+ 

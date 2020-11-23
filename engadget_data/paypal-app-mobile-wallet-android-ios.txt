@@ -1,0 +1,18 @@
+
+PayPal's status as the mobile payment method of choice for the masses is beset upon all sides by many would-be usurpers. What's the company doing to stay on top? Beefing up the feature set of its apps for iOS and Android in a big way today -- adding a full-on mobile wallet, automatically-applied deals and discounts and some new ways to order stuff and pay for it.
+
+
+The wallet feature lets people pay with a PayPal account, a credit or debit card, bank account or a line of Bill Me Later credit that can be applied for within the app. Like Google Wallet, the new PayPal app incorporates deals and discounts that are then automatically applied when you pay. Speaking of which, you can still send money the old-fashioned PayPal way, but the new app also integrates ordering, couponing and paying within PayPal's merchant network. We got to see the new app in action, so join us after the break for more.
+
+
+
+
+
+
+While there are five sections to the app -- shop, wallet, transfer, activity and settings -- the first one is what's key to providing a more seamless retail experience. Within the Shop screen (which is the default view upon entering the app), you'll find a list of of nearby merchants that accept PayPal and you can search for specific stores as well. From there, you choose which place is getting your dollars, check in on the app and add any offers from that store that interest you. Checking in is what prompts the app to demand your PIN to unlock your wallet, after which your photo is beamed to the merchant's POS screen or smartphone. Upon arriving at the register with your items and speaking the magic words "I'm paying with PayPal," the clerk identifies you by your picture and confirms the payment amount. Then, the funds are transferred without you needing to whip out your phone a second time (unless you want to double check the bill). No muss, no fuss.
+
+You can also switch payment accounts, find and grab offers, order items or food to be picked up and there's even a pilot program that lets you pay your restaurant bill at the table from within the Shop screen. We got to witness the use of the app in person at a couple of restaurants and retailers in San Francisco, and we can certainly see its appeal. It truly does streamline the shopping experience, particularly when ordering ahead using the app -- and the application of offers and coupons automatically with payments removes the friction found with standalone offers apps. Authentication and payment done by PIN and picture, as opposed to via NFC, also is a solution more ripe for mass adoption by both users and vendors -- if for no other reason than that Paypal's way requires no special hardware.
+
+Of course, PayPal gave us a carefully curated retail experience, and there will be plenty of stores that don't offer the convenience of ordering stuff in the app and picking it up. Still, should you frequent places that do take PayPal, the app does make life easier and might just let you lighten the load in your analog wallet. Just be sure your smartphone's got good battery life before you do.
+
+

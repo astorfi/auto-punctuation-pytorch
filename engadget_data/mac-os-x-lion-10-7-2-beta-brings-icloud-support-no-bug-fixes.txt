@@ -1,0 +1,7 @@
+
+ 
+
+We know what you're thinking: Mac OS X Lion (10.7) has been out for nearly a week, so why have we yet to hear anything about Snow Lion? Patience friends, Apple will roar soon enough -- but for now, 10.7.2 will have to do. Apple released the beta update to developers over the weekend, eschewing any acknowledgment of 10.7.1, or correcting any of the bugs that have popped up over the last week. Instead, Lion's pending second update (build 11C26) is required for testing the operating system with iCloud -- a feature notably absent in the public version of the OS released last week. The new System Preferences iCloud module enables granular management of select features, letting you choose which accounts and services to sync. Full iCloud support is coming in the fall with the release of iOS 5, so it's probably safe to assume that Apple plans to patch some of those bugs in the meantime -- any day now, we hope.
+      
+
+ 

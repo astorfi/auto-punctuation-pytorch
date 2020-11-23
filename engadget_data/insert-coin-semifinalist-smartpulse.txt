@@ -1,0 +1,9 @@
+
+ Oximeters aren't exactly the sexiest gadgets in the world, but they're definitely quite useful. Monitoring pulse and blood oxygen levels are important for patients in hospitals, athletes trying to squeeze every last drop of performance from their body and anyone making a sudden trip to high altitudes. smARtPULSE uses pretty standard photodetection technology for tracking oxygen levels, but its ability to tether to a whole host of other devices via Bluetooth 4.0 is what really sets it apart. There are free Android and iOS apps for those that just want to check their vitals and be done with it, but tinkerers can have a field day with the open-source hardware and upcoming API. At the end of the day, connecting the smARtPULSE to any computer (be it Linux, Windows or OS X) will be pretty simple, and there will even be libraries available for Arduino, Raspberry Pi and Electric Imp. With the prototyping out of the way, now the team is finishing up the API and ironing out the final design.
+
+ Check out the full list of Insert Coin: New Challengers semifinalists here -- and don't forget to pick a winner!
+
+
+
+ 
+ 

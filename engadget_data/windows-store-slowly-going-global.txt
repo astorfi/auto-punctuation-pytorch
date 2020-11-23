@@ -1,0 +1,5 @@
+
+ 
+ The Windows Store, though still very much in the trial stage, is already growing -- and not just in terms of catalog size. At launch, alongside the consumer preview of Windows 8, the Store was only accepting submissions from devs in five different countries and had region specific markets to match. With the next preview release of its upcoming OS, though, Microsoft plans to expand that greatly. Soon enough 33 more nations will be open to submitting apps and the number of country-specific store fronts will jump from five to 26. And, while you'll still have to submit your apps in one of the 12 certification languages for approval purposes, entries will be accepted in 109 different tongues. This move will require some changes on the backend, of course, to scale globally. So, as part of that transition Microsoft has stopped accepting submissions for Consumer Preview apps. We can only hope the down time is short lived and the next version of the Windows Store (and possibly Windows 8) is hot on its heels.
+
+

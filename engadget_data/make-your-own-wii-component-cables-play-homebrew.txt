@@ -1,0 +1,6 @@
+
+       
+Looks like the Wii hacking is fully underway this weekend, with guides both on how to make your own Wii component cables (since apparently it's still super difficult for Nintendo to flood the damned market with 'em), as well as to play homebrew games. On the component cable side, it looks like what you need to do is follow the Wii AV pinout, re-arrange the pins on an AV cable, then rewire those to a new set of cables with RCA ends; if you wire it the right way, you can even use a toggle to switch between component and composite. We're not saying it's easy, but it's not heart surgery, either. As for the homebrew, it's appears to be slightly less tricky, but essentially you need an SD card and SD to GameCube adapter, a GameCube Action Replay pack, and some patience while you enter in a 28 line long 474 character code. Enjoy playing that hacked Wii running emulators and homebrew on a faux component cable -- remember Nintendo, the people will always get what the people want.[Thanks, Ryan]Read - component cable hackRead - homebrew hack
+      
+
+ 

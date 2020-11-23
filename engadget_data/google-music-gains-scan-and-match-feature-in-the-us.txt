@@ -1,0 +1,6 @@
+
+ It wasn't very long ago that Google Music landed in Europe -- to the delight of local music lovers, we're sure. On its trip across the pond, the service gained a unique new feature called scan and match, wherein Google scans your local music library and makes the songs it matches instantly available in the cloud -- no upload required. Until now the feature, which is similar to iTunes Match, was only available in Europe, but it's coming to the US starting today. From now on, any US Google Play users who upload their music collection will benefit from this new feature. Over time, the company will also upgrade users with existing cloud libraries. It's a free service and it's automatic -- you're unlikely to notice that it's even happening. The upside is that entire collections will be uploaded faster. We're not aware of any downsides yet -- matched songs will be available for streaming at 320Kbps like regular Google Play purchases, while re-downloaded music will be available at or close to the bitrate of the original file.
+
+ Update: Google confirmed that any VBR files matched by the service will be re-downloaded as CBR files with a bitrate that's slightly higher than the average bitrate of the original song. This is obviously a drawback if you're currently relying on the service to backup your music collection.
+
+

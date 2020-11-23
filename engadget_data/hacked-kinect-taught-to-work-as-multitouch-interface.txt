@@ -1,0 +1,11 @@
+
+ 
+We gotta say, the last time we were this excited about hardware hacking For The Greater Good was when people started using the Wiimote for all sorts of awesome projects. Kinect is naturally a lot more complicated, but there's also a lot of potential here, and we can't wait to see what people come up with. Florian Echtler took that open source driver and hooked the Kinect into his own multitouch UI "TISCH" software library (which actually supports the Wiimote as an input already, funny enough). The result is a bit of MS Surface-style multitouch picture shuffling and zooming, but it uses full body tracking instead of touchscreen input, of course. The self-effacing Florian had this to say in the video description: "I thought I'd get the mandatory picture-browsing stuff done so it's out of the way and everybody can focus on more interesting things." You're still a hero in our book, man. Always a hero.
+
+Feeling left out on all these Kinect shenanigans because you're rocking a Mac? Well, libfreenect has also now been ported over to OS X by Theo Watson (who sounds unenthused about his accomplishment in the video embedded after the break). Also: once you're done admiring your IR-rendered visage on your shiny Apple-built hardware, scrounge yourself up a working Linux box. All the cool people are doing it.
+      
+
+ 
+
+
+ 

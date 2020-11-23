@@ -1,0 +1,7 @@
+
+
+ Well, Microsoft has officially left Apple as the only player in the Mobile field to not support real multitasking. With the next version of Windows Phone, background multitasking will be opened up to all devs, thanks to libraries provided directly by Redmond. During today's presentation two different background tasks were demoed, VoIP and location. The VoIP integration allows users to have calls come in, preferably via Skype if Microsoft has its way, without having the app running in the foreground and have them appear the same as a standard phone call. While watching for incoming calls is nice, a more commonly used feature is location monitoring. Now apps will be able to monitor location in the background while you perform other tasks. One by one, Microsoft is checking off boxes on our list of complaints about Windows Phone.
+
+
+
+

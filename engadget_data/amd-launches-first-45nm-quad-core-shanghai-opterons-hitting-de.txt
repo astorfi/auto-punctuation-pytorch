@@ -1,0 +1,6 @@
+
+ 
+Intel might get all the consumer praise, but AMD has been blazing architectural trails well before Nehalem. As EE Times points out, AMD's 65-nm Barcelona was the first quad-core processor with 2MB of shared L3 cache integrated with the Northbridge memory controller. Now AMD has (finally) caught up with its own 45-nm technology under the code-name, Shanghai. AMD's newest quad-core Opteron server chip with 6MB L3 cache now offers up to 35 percent better performance while drawing 35 percent less idle power. Better yet, it's drop-in compatible with Barcelona which should keep IT-types happy as they extend the life of their server farms. Available immediately in 75-watt, quad-core versions running clock speeds from 2.3GHz to 2.7GHz. Desktop-class "Dragon" chips should hit the PC market in Q1. Great, now where are those 45-nm netbook procs, eh AMD? [Via EE Times and CNET]
+      
+
+ 

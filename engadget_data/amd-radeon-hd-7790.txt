@@ -1,0 +1,7 @@
+
+ We were half expecting AMD's next graphics card to be some sort of supercomputing colossus, given all the buzz around NVIDIA's GTX Titan. As it turns out, though, we're looking at something more subtle and just slightly more affordable: the new Radeon HD 7790. It slots into a cosy niche between the 7770 and the 7850, targeting gamers who want a good helping of 28nm silicon and potential for CrossFire expansion but who don't want to stretch beyond $149. Efficiency tweaks allow the 7790 to offer almost 50 percent more processing power than the 7770 while only demanding a smidgen of extra wattage (85 W instead of 80 W), which bodes well for cooling and decibels. Relative to the 7850, which can now be had for under $200, you'd be getting a card with half the power consumption, half the memory (1GB GDDR5), half the memory bandwidth (128-bit) and around 30 percent less processing power.
+
+ Compare it to the closest rival from NVIDIA, the GTX 650 Ti, which currently fetches upwards of $140, and AMD claims the Radeon HD 7790 offers an average 20 percent advantage in frame rates at 1080p -- enough that you shouldn't need to worry about games like Tomb Raider or Hitman: Absolution at that resolution. Check out the slide deck for further details and official frame-rate charts, and expect to see the card reach retailers starting April 2nd.
+
+
+

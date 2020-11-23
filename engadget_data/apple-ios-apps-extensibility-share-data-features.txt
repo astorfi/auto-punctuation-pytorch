@@ -1,0 +1,12 @@
+
+Apple's annual developer conference is well underway, and it just revealed what could be a seismic shift in the iOS world: Third-party apps will soon be able talk to each other. Historically, applications on iOS have lived in their own silos, without being able to share data and features, but that's set to change in iOS 8. Apple has given developers "Extensibility" tools -- a suite of APIs, if you want to get technical -- that they can wield to let their apps share everything from documents to translation services. A demo onstage showed a Bing extension for Safari doing inline translation of a Japanese website, and using Pinterest to share a photo from a website in just a few taps.
+
+
+
+
+Of course, info sharing is bound to be a boon for third-party Twitter apps and other social networking services. This kind of interaction between apps has existed on other platforms like Android and, of course, the best examples are support for third-party keyboards and widgets in notifications. Both features will be in the new iOS, but the implementation goes deeper. Apps can also select a default storage location that's accessible by other apps -- it's not exactly a traditional file browser, but it sounds close. As a security measure, iOS 8 will act as a middleman when it comes to sending data between apps, rather than letting applications chat directly with each other.
+
+
+Picture-taking apps can also embed their filters and photo-editing tools directly into the new Photos app, letting users make adjustments without bringing the images to yet another app. Finally, devs can create custom buttons for the action sheet (the popup menu that looks the same in every iOS app and lets you choose what to do next, shown above from iOS 7), so users can add watermarks, translate documents or do anything else. We'll have to wait and see how developers make use of the new tools, but there should be a mix of existing services and features ported over from Android, plus some entirely new takes on sharing.
+
+

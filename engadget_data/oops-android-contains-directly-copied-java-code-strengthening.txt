@@ -1,0 +1,10 @@
+
+ 
+Florian Mueller has been killing it these past few months with his analysis of various tech patent suits on his FOSSpatents blog, and today he's unearthed a pretty major bombshell: at least 43 Android source files that appear to have been directly copied from Java. That's a big deal, seeing as Oracle is currently suing Google for patent and copyright infringement in Android -- which isn't a hard case to prove when you've got 37 Android source files marked "PROPRIETARY / CONFIDENTIAL" and "DO NOT DISTRIBUTE" by Oracle / Sun and at least six more files in Froyo and Gingerbread that appear to have been decompiled from Java 2 Standard Edition and redistributed under the Apache open source license without permission. In simple terms? Google copied Oracle's Java code, pasted in a new license, and shipped it.
+
+Now, we've long thought Google's odd response to Oracle's lawsuit seemingly acknowledged some infringement, so we doubt this is a surprise in Mountain View, but we're guessing handset vendors aren't going to be so thrilled -- especially since using Android has already caused companies like HTC and Motorola to be hit with major patent lawsuits of their own. We'll see what happens, but in the meantime you should definitely hit up Florian's site for the full dirt -- it's some 47 pages worth of material, and it's dense, but if you're into this sort of thing it's incredibly interesting.
+
+Update: It appears things aren't this simple, but they're still not great. Check here for the latest.
+      
+
+ 

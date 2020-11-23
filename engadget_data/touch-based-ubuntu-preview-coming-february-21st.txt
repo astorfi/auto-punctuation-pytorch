@@ -1,0 +1,33 @@
+
+ It's not like we didn't have ample warning, so by now anyone wanting to try out the new Ubuntu smartphone OS should have gotten hold of a Galaxy Nexus to be their test device. Still don't have one? Then you'll be pleased to know that a Nexus 4 will actually serve just as well, and you have six days to get equipped. The Ubuntu Touch Developer Preview will be made public on February 21st alongside the open source code and all the tools necessary to flash those two devices.
+
+ The official aim is to help devs and enthusiasts learn the platform and start building software for it, whether for core functions or for when a full third-party app store eventually goes live. The bigger picture is that, by the time Ubuntu 13.10 launches in October, an app written in this platform's Qt/QML lingo should be able to run on any Ubuntu device -- whether it be a PC, TV, tablet or smartphone -- with no porting required. Rest assured that we have a couple of Nexii at the ready and we fully intend to give this newcomer a thorough hazing / write-up as soon as possible.
+
+
+
+  Show full PR text   Touch Developer Preview of Ubuntu to be published on 21 February 2013
+   Touch Developer Preview of Ubuntu for Galaxy Nexus and Nexus 4 will be available  Daily update mechanism to follow progress in Ubuntu  Canonical will flash phones at MWC for industry, developers and enthusiasts  Preview SDK and App Design Guides already available for developers building touch apps for Ubuntu
+
+   London, 14th February 2013: Images and open source code for the Touch Developer Preview of Ubuntu will be published on Thursday 21st February, supporting the Galaxy Nexus and Nexus 4 smartphones.
+
+   They are intended for enthusiasts and developers, to familiarise themselves with Ubuntu's smartphone experience and develop applications on spare handsets. Tools that manage the flashing of the phone will be available on the same day in the Ubuntu archives, making it easy to keep a device up to date with the latest version of the Touch Developer Preview.
+
+   Attendees of Mobile World Congress (MWC) in Barcelona, 25th - 28th February can have their phones flashed to Ubuntu by Canonical team members at the Ubuntu stand, booth number 81D30, App Planet Hall 8.1, where Ubuntu will be shown on a range of devices.
+
+   The code release is a milestone in the development program for Ubuntu's phone experience, and enables developers to port the platform to other devices. "Our platform supports a wide range of screen sizes and resolutions. Developers who have experience bringing up phone environments will find it relatively easy to port Ubuntu to current handsets" said Pat McGowan, who leads the integration effort that produced the images being released. "We look forward to adding support for additional devices for everyday testing and experimentation."
+
+   The install process and supported device list are maintained at wiki.ubuntu.com/TouchInstallProcess and will be updated as new devices are added.
+
+   The release also marks the start of a new era for Ubuntu, with true convergence between devices. When complete, the same Ubuntu code will deliver a mobile, tablet, desktop or TV experiences depending on the device it is installed on, or where it is docked. Ubuntu 13.10 (due in October) will include a complete entry-level smartphone experience.
+
+   Canonical has published a Preview SDK and App Design Guides to allow developers to create applications for the full range of Ubuntu platforms. The toolkit provides a range of documented templates to enable native applications to be created quickly and easily. The App Design Guides explain how these templates can be used to design and build beautiful and usable apps. Blackberry Touch developers will be familiar with the Qt/QML environment, which supports rich native touch apps. Developers will not need to cross-compile or package applications differently for phone, tablet, PC and TV. One platform serves all four, a single application binary can do the same.
+
+   On Ubuntu, native and web or HTML5 applications sit as equal citizens and so those developers already developing HTML5 applications will easily gain support for Ubuntu.  "This release marks the threshold of wider engagement - both with industry and community." says Mark Shuttleworth, founder of Ubuntu. "For developers, contributors and partners, there is now a coherent experience that warrants attention. The cleanest, most stylish mobile interface around."
+
+   Availability:  Go to wiki.ubuntu.com/TouchInstallProcess to download Touch Developer Preview of Ubuntu from Thursday 21st February.  Go to developer.ubuntu.com to download the SDK to develop applications for Ubuntu.  Go to http://design.ubuntu.com/apps to read the Apps Design Guide giving advice about designing and building beautiful and usable apps for Ubuntu on the phone.  Visit Canonical at Mobile World Congress: Booth Number: 81D30, App Planet Hall 8.1.  About Canonical & Ubuntu
+
+   Canonical is the company behind Ubuntu and the leading provider of services for Ubuntu deployments in the enterprise. With global teams of developers, support staff and engineering centres, Canonical is uniquely positioned to help partners and customers make the most of Ubuntu. It also operates Ubuntu One, a cross-platform personal cloud service for consumers. Canonical is a privately held company.
+
+   Ubuntu is a free, open-source platform for client, server and cloud computing. It is the most widely used Linux on the top 1000 websites by traffic, the reference platform for OpenStack deployments, the most popular guest OS on public clouds, and ships on PCs from Dell, Lenovo, HP and other brands. Since its launch in 2004, it has become the preferred choice for open desktop and scale-out computing, from Fortune 500 companies to hardware makers, content providers, software developers and consumers.
+
+ 

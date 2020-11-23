@@ -1,0 +1,9 @@
+
+ 
+Lucid came along last year and promised to let any motherboard chipset work with any combination of GPUs; to enable you to pair an ATI Radeon HD 5870 with an NVIDIA GeForce GTX 295 and get 100 percent the performance out of both -- assuming you have a suitably gluttonous power supply. We were naturally a bit skeptical and so when the company largely disappeared for a year we figured they'd pulled a Steorn, biting off more than the laws of physics allowed. We're happy to say we were wrong. The company has unveiled its HYDRA 200 Parallel Graphics Chip, a tiny 65nm processor that, when installed on a motherboard or expansion card, enables the utilization of two disparate graphics cards. No more proprietary bridge cables or worries about who plays well with who. MSI is the first company to sign up, demonstrating its Intel P55-based Big Bang Gaming Motherboard, offering a HYDRA 200 and three PCIe slots for some sweet GPU potpourri. No price is announced yet, but it's expected to release in time to make an appearance inside your holiday system build. 
+
+Read - Lucid Announces HYDRA 200
+Read - HYDRA-Powered MSI Big Bang Gaming Motherboard
+      
+
+ 

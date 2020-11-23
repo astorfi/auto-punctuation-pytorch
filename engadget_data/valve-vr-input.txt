@@ -1,0 +1,27 @@
+
+Among the handful of announcements Valve made at this year's Game Developers Conference was a subtle and hugely important one: Lighthouse. What in the world is Lighthouse? It's the "base stations" referenced in Valve's VR headset announcement, and it's even more important than the incredibly impressive headset. Valve president Gabe Newell compares it to USB and expects it to fundamentally change how people interact with virtual reality. "Now that we've got tracking, then you can do input," Newell said in an interview with Engadget this morning. "It's a tracking technology that allows you to track an arbitrary number of points, room-scale, at sub-millimeter accuracy 100 times a second."
+
+
+What that means for me and you is that Lighthouse puts your body into the virtual world with stunning precision. I tested it and can confirm: holy shit, yes, this really works. Want to reach out and touch something in VR? Lighthouse is how you'll do it.
+
+
+
+Newell explained Valve's philosophy behind creating Lighthouse as such:
+
+"The first prototype of our hardware has all these retro-reflective dots. That's great for one person who's sitting. If you actually want to have 10 people in a room moving around, you need something like Lighthouse. So Lighthouse gives you that precision; it's not specific to the head-mounted display. We also use it for controllers, but you could use it for anything: You could put it on your tablets or your phones. It's tracking -- it happens that VR likes to use tracking and it's critically dependent on it."
+
+Lighthouse currently relies on reflective sensors (32 on the prototype I used) to track movement from Valve and HTC's VR headset, Vive. There are two motion controllers as well that look and feel similar to an ice cream cone (sugar cone, not waffle/cake cones, you monster). The controllers also have sensors, and they show up in VR as visualizations in front of your eyes, as if you were looking down at them in your hands in real life.
+
+
+I cannot stress enough here how 1:1 that feeling was. Lighthouse tracked the controllers and my head movement to an incredible degree. When I got too close to the walls of the demo room, a virtual grid popped in VR -- this is a measure of Lighthouse's capability. It suddenly made a lot of sense to me why Newell was so bullish on Lighthouse being an industry-changing technology.
+
+Oh, and Valve's giving it away for free. This is part of the "USB" vision.
+
+"So we're gonna just give that away. What we want is for that to be like USB. It's not some special secret sauce. It's like everybody in the PC community will benefit if there's this useful technology out there. So if you want to build it into your mice, or build it into your monitors, or your TVs, anybody can do it."
+
+If that isn't clear enough, think of Lighthouse like this: By having the tech out there, input solutions are infinite. As long as tracking is there, anything could be "brought into" VR, like how USB ports enable you to plug (virtually) anything into your computer. As Newell put it, "If it's just another part of the PC gaming platform, then lots of people will come up with lots of interesting things."
+
+This is especially impactful when it comes to VR: Gamepads are immersion-breaking, and VR is all about "presence." If you're inside a world, you want to touch and interact with that world naturally. Lighthouse is the only solution I've seen that comes anywhere close to solving the issue of input in virtual reality.
+
+Don't miss out on all the latest from GDC 2015! Follow along at our events page right here.
+

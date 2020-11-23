@@ -1,0 +1,11 @@
+
+ 
+Google's new hotness is likely invading your desktop web search right now, but what's Instant search like on a smartphone? We got a good look at a Verizon-based Droid 2 running a prototype version of the auto-complete engine on both WiFi and 3G, and we're happy to say it's just about the same -- assuming you've got a decent connection and a reasonable amount of screen real estate. As you can see immediately above, you're only getting three Instant results under the search box here, as opposed to the desktop version's five, and between Android's notifications bar and the native keyboard auto-complete bar, you can only see a single result without scrolling down -- and honestly, this isn't going to be all that useful at a glance if you're relying on a screen-sucking virtual keyboard. 
+
+The system was speedy enough, however, pulling down not only text queries but also Google Image thumbnails as well, and worked about as quickly as a standard mobile Google run without having to hit a button to complete our search. (The prototype did stop working and had to be restarted when we lost our 3G bars. ) A Google product manager told us it should work in any AJAX-capable mobile browser, and is presently in testing on Android and iPhone, with BlackBerry in consideration given the more-capable OS 6 browser. Expect to see it hit smartphones near you this fall.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+As expected, Apple has tapped NVIDIA's new GeForce 9400 M as the base graphics for its new MacBook, MacBook Pro, and updated MacBook Air, which Steve Jobs himself says is five times faster than the current Intel integrated graphics they've been using. That's aided in no small part by the chipset's 16 parallel graphics cores, not to mention a generally beefier GPU that occupies a full 70% of the die area. If that's not enough for you, Apple is also throwing NVIDIA's 9600M GT into the MacBook Pro, which'll give you two GPUs and either 256MB or 512MB of memory. That power will unsurprisingly come at the expense of some battery life, however, with the 9600 cutting things back to four hours from the five hours you can expect with the discrete GPU switched off. In the Q&A after the announcement, Apple also confirmed that it'd be the first taking the chipset to market, but that anything further is up to NVIDIA. Expect to hear more about that tomorrow, when NVIDIA is supposedly making its own announcement.
+
+ 

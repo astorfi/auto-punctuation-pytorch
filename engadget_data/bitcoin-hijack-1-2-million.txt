@@ -1,0 +1,4 @@
+
+So, you've amassed a fortune in Bitcoins, possibly ill-gotten. If you're storing them on a computer that's exposed to the internet, you may want to rethink that strategy thanks to a huge theft from a digital wallet service called Input.io. 4,100 Bitcoins worth $1.2 million were plundered through two separate attacks by a hacker that gained access through social engineering, according to "TradeFortress," the site's owner. The thief managed to reset the site's password through an email recovery scheme, routing the process through a proxy server near the Australian service's location to avoid suspicion. Unfortunately, Input.io is unable to return the lion's share of the theft, though TradeFortress told Wired he'd pay back 1,540 Bitcoins from his personal stash. The service is now dead and you may want to heed to rueful owner's parting words: "I don't recommend storing any Bitcoins accessible on computers connected to the internet."
+
+

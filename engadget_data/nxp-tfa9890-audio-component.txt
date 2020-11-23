@@ -1,0 +1,15 @@
+
+ We never used to take the speakers in phones or tablets very seriously. Frankly, we're not sure manufacturers did either. But the old assumption that tiny = tinny is starting to seem a bit unfair. Last year, Dutch chip-maker NXP released a new type of mobile audio component -- the TFA9887 -- that allowed a mobile device to monitor its speaker system in real-time in order to max out volume without risking damage to the driver. Although NXP is way too modest to confirm it, we happen to know that this chip made its way into a number of HTC devices, including the new One, One X+ and 8X, where it's been described as "feedback" speaker technology.
+
+ The extra voltage delivered to speakers by this generation of component hasn't been especially wild -- just a couple of volts above the industry norm of around 3V. But what you're about to hear after the break is the next-gen TFA9890, which is expected to appear in devices around the middle of this year, and which racks things all the way up to 9.5V. This promises to be a much more audible leap relative to traditional no-feedback speaker systems, and you should be able to spot the difference for yourself after the break.
+
+
+
+ 
+ In the video, a regular Nexus 7 tablet has been modded so that it can switch between its stock 3V audio system and the new 9.5V system from NXP. The speaker and all other variables remain the same. When the mod is activated, things get seriously, noticeably louder -- to the tune of between 3 and 6 dB by the crude reckoning of our microphone. There's no distortion, just good, clean sound that reveals a decent level of detail.
+
+  More Info   HTC One hardware and design hands-on  Smartphones for audiophiles -- a comparison  HTC Sensation XE review -- the first phone with Beats Audio [2011]  How's this possible? Because the feedback system replaces the safety margins that a manufacturer must normally build into a device. A Nexus 7 or or any other phone or tablet could have its speaker grill blocked by a cover, or have a sine wave played through it (as we've actually done many times), or have sounds played at its over-sensitive resonant frequency. All these events could cause damage unless the speaker's power is conservatively capped or software filters are applied (or both). By switching to a feedback system, which can adjust on the fly to blockages, temperature increases and shifts in the resonant frequency, no safety margin is required and the speaker can be pushed a lot harder.
+
+ We think Apple uses similar (but not NXP-made) tech in its recent devices and has reached at least 7V, while the HTC One uses dual feedback controlled speakers. The use of this type of circuitry is becoming an industry trend to meet demand for better movie watching, sat nav instructions, speakerphone modes and everything else speaker-related. We're certainly keen to try out a 9.5V device when one hits the market, and we may well run a more scientific comparison among rival products at that point.
+
+

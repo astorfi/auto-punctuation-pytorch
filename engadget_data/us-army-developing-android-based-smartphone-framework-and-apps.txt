@@ -1,0 +1,6 @@
+
+ 
+The US Army is calling upon Android app developers to help make military life a little less stressful -- and, perhaps, a lot safer. Under a new Army framework known as the Mobile/Handheld Computing Environment (CE), third-party developers will be able to create and submit tactical Android apps, using the military's CE Product Developer's Kit. The framework, originally prototyped by the folks over at MITRE, represents the latest phase in the Army's ongoing campaign to incorporate smartphone technology on the battlefield. Any app operating under the CE system will be interoperable across all command systems, and, as you'd expect, will be tightly secured. The kit won't be released to developers until July, but the Army has already begun tinkering with its baseline suite of Mission Command apps, which includes tools designed to facilitate mapping, blue force tracking, and Tactical Ground Reporting. On the hardware side of the equation, the Army is planning to deploy a new handheld known as the Joint Battle Command-Platform, or JBC-P. The two-pound JBC-P is essentially a military-friendly smartphone designed to run on a variety of existing radio networks, while supporting the full suite of forthcoming apps. The JBC-P will be tested this October, and will likely be issued on a wider basis in 2013.
+      
+
+ 

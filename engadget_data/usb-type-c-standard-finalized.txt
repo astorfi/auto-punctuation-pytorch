@@ -1,0 +1,4 @@
+
+The reversible USB Type-C standard has now been finalized, which should save the world untold man-hours in mis-plugging. Roughly the size of a current micro-USB Type-B connector, it uses matching rows of contacts on the top and bottom so that you can shove it in either way around. Type-C is a version of the 10Gbps USB 3.1 standard (twice as fast as USB 3.0), but slimmed down for compact and mobile devices. It'll also support the USB Power Delivery spec to carry up to 100 watts, easily enough to power a laptop. Unfortunately, the new connector isn't compatible with the current USB standard, except via converters. While there are no devices with USB 3.1 yet, it'll likely be standardized on most future laptops and mobile devices -- unlike its pricey rival, Thunderbolt.
+
+

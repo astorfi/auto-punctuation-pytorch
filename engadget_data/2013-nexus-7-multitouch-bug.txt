@@ -1,0 +1,11 @@
+
+ 
+
+A muddled sense of direction isn't the only problem affecting the new generation of Nexus 7 slates, it seems, as some users are also reporting issues with multitouch on the 1,920 x 1,200 display. The clip below the fold demonstrates the bug, and shows the touchscreen registering phantom inputs before freaking out for a couple of seconds. Over the past few weeks, chatter on the XDA Developers and Google Product forums suggests it's fairly common, with a response from Google on the latter stating: "The Android team is aware of this issue and investigating." We haven't had the same troubles with a 2013 Nexus 7 in our possession (running Android 4.3 build JSS15J, FYI), and while the root of the problem is still up for discussion, let's hope funky software is to blame -- no one wants the hassle of replacing faulty hardware, especially Google, when an OTA fix will do.
+
+
+ 
+
+
+
+ 

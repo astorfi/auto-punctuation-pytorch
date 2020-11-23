@@ -1,0 +1,5 @@
+
+  NVIDIA may have trotted out a brand new beast, ripe with fresh Kepler architecture, but that doesn't mean it put Fermi to bed. Allow us to introduce you to the GT 520 and the GT 510, or as they now prefer to be called, the GeForce GT 620 and GeForce 605, respectively. These OEM GPUs have traded half of their memory and a few clock speed tweaks for OpenGL 4.2 support and a low-end position in the firm's new 600-series. Despite their very Kepler-esque numbering (and NVIDIA's website placing them in the same "product family" as the flagship GTX 680), Tom's Hardware says the firm's Bryan Del Rizzo confirmed the 605 and 620 are Fermi-based graphics cards. Then again, not all cousins share the same surname. File this under "extended family" and call it a day.
+      
+
+ 

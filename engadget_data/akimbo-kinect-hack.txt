@@ -1,0 +1,8 @@
+
+ We've seen Microsoft's Kinect used in countless ways, but 3Gear Systems means to better these predecessors with the beta release of its SDK, which turns all the subtleties of hand movement into actions. In addition to using two Kinect cameras for accuracy, the software compares hand poses against a pre-rendered database so gesture commands are executed with little lag. It offers complete control of a virtual 3D environment from the comfort of your natural desk position, so you won't have to worry about flail fatigue after long stints. A free public beta is available now until November 30th, at which point bigger companies will require a license, while individuals and small enterprises will continue to get complimentary access. We know what you're thinking -- it's just another Kinect hack -- but we suggest you reserve judgment til you've seen the demo below, showing examples of how the API could be used for CAD, medical, and of course, gaming applications.
+
+
+
+ 
+
+ 

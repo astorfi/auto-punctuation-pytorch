@@ -1,0 +1,5 @@
+
+ As ARM continues its quest to become the record holder for partnerships created in one month, now we're seeing that the firm is getting cozy with Intel. Apparently, the duo is looking to instill ARM's TrustZone technology into mobiles, PDAs, set-top-boxes or other devices running "open operating systems such as Symbian OS, Linux and Windows CE." Essentially, the process involves wedding ARM's security solutions with Intel's Authenticated Memory, which purportedly "provides a solution that is stronger than either technology working independently," and moreover, the combination of technologies "can help reduce SoC cost." For the geeks who dig this stuff, feel free to hit the read link for a way-too-detailed eight page PDF. [Warning: PDF read link][Via TheInquirer]
+      
+
+ 

@@ -1,0 +1,19 @@
+
+
+ Anyone who follows the home entertainment space closely probably agrees that TV is broken: archaic user interfaces, pricey bundles, six remotes that each do one thing, all limited to the confines of your home. Of course, realizing it's broken and knowing how to fix it are two different things. One attempt at a fix is Simple.TV. This $149 box (plus $59 a year for service) bridges the gap between the various devices you already own and the world of broadcast television. It allows you to access the plethora of content available via unencrypted digital cable, or for free via an antenna, on just about any device you own -- tablet, smartphone, PC or even a TV. Sounds pretty great, huh? But does it deliver? And can it replace your cable box and the high-priced service that goes with it? Just click on through, and you'll find out.
+
+
+
+
+ The big picture Some things in life require a little additional explanation, and the Simple.TV is certainly one. The best way we can describe it is this: it's a networked TV tuner with optional storage for your mobile devices. In other words, it doesn't do anything by itself. A typical system will consist of the Simple.TV, an external hard drive, a tablet or PC, and a Roku connected to your TV. (Support for additional devices soon will come later, a Simple.TV rep said.) It's like a Slingbox but with fewer inputs and without the intelligence required to control a cable or satellite set-top box. But it is able to record.
+
+ Hardware 
+ The Simple.TV is an oddly shaped, glossy white device that looks out of place in any home theater -- it reminds us of a wireless access point you'd see attached to the ceiling at work, except much lighter and with lower-quality plastic. The good news is that you probably won't put it in your home theater; rather, you'll likely connect it where your cable modem or internet enters your home. That's because the device requires a coax and network connection. The coax needs to be connected to your cable provider's feed or connected to an antenna. There are two coax and two network connections out back that pass through to make it easy to stack them. Lastly, there's a single USB port for attaching external hard drives (more than one requires a hub) to store your recordings -- there's no internal storage option.
+
+ Inside, you'll find a single tuner capable of beaming live TV or recording one show, while allowing up to five devices to stream the same live show, or five different previously recorded programs. As you may have noticed, there's no video or audio output. That's because the Simple.TV depends on other devices to render the signals it tunes into. Another notable omission: WiFi. You shouldn't miss it, however, since this is a stationary box that can live anywhere in your home, as long as it has a wired network connection. There are two LEDs, one on the corner that lights up red, blue or violet depending on the state of the device (starting up, recording, etc.), and a blue one up front to indicate power. Neither is distracting, which is a good thing as there's no way to adjust the brightness or disable them.
+
+ Software 
+ When we say software, we really mean a web app and a Roku channel. When we say software, we really mean a web app and a Roku channel. There's no app for the iOS, or Android or the desktop -- we're told they are coming, though. You just point your browser to www.simple.tv and log in -- and no, there's not even a mobile browser-optimized version. If you subscribe to the premier service for $59 a year, or opt for a lifetime subscription, you can watch TV anywhere you have an internet connection. Without it, your five concurrent connections are limited to the confines of your home network. The experience is divided between three tabs; Live TV, Guide and My Shows. Live TV is the first one you see when you browse to the page with no way to set another default or bookmark your favorite.
+
+
+

@@ -1,0 +1,7 @@
+
+ 
+Big news on the UMPC front this morning folks. Looks like Intel is shedding the Origami gorilla (read: Microsoft) as they prep a Linux-based platform to compete with Vista and XP-based UMPCs. Intel will unveil their new MID (Mobile Internet Device) platform at the Intel Developer Forum in Beijing later this week. Unfortunately for their marketing department, they've already posted the slides. Unlike UMPCs which target mobile professionals, MIDs will target "consumers and prosumers" and feature a range of screen sizes from 4.5 to 6-inches with resolutions from 800 x 480 to 1024 x 600. Yup, these are the same devices we spotted under the in-house name of McCaslin sporting Intel's codenamed "Stealey" class of dual-core, battery-friendly processors. Intel's reference designs run a tweaked, 500MB version of China's RedFlag MIDINUX which boots in about 18 seconds (less than 5 seconds from standby) to a mix of open-source and proprietary code including Google Maps and web-based office and enterprise applications. Data access will be provided via HSDPA and WiFi. More GUI shots and reference designs in the gallery below.
+
+
+[Via UMPC Portal] Read -- overview slides [Warning: PDF link] Read -- design slides [Warning: PDF link]
+      

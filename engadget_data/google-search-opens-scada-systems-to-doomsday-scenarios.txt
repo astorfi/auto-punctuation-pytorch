@@ -1,0 +1,8 @@
+
+
+
+
+
+	Google, the service so great it became a verb, can now add security risk to its roster of unintended results. The search site played inadvertent host to remotely accessed Supervisory Control and Data Acquisition (SCADA) systems in a Black Hat conference demo led by FusionX's Tom Parker. The security company CTO walked attendees through the steps required to gain control of worldwide utility infrastructure -- power plants, for one -- but stopped short of actually engaging the vulnerable networks. Using a string of code, unique to a Programmable Logic Controller (the computers behind amusement park rides and assembly lines) Parker was able to pull up a water treatment facility's RTU pump, and even found its disaster-welcoming "1234" password -- all through a Google search. Shaking your head in disbelief? We agree, but Parker reassured the crowd these types of outside attacks require a substantial amount of effort and coordination, and "would be extremely challenging to pull off." Panic attack worn off yet? Good, now redirect those fears to the imminent day of robot-helmed reckoning.
+
+

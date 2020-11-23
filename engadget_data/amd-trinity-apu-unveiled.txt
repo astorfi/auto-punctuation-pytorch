@@ -1,0 +1,80 @@
+
+ 
+ Itching for the details of AMD's latest Accelerated Processing Units (APUs)? Then get ready to scratch: Trinity has arrived and, as of today, it's ready to start powering the next generation of low-power ultra-portables, laptops and desktops that, erm, don't run Intel. The new architecture boasts up to double the performance-per-watt of last year's immensely popular Llano APUs, with improved "discrete-class" integrated graphics and without adding to the burden on battery life. How is that possible? By how much will Trinity-equipped devices beat Intel on price? And will it play Crysis: Warhead? Read on to find out.
+
+
+
+ 
+ Unlike Intel's Ivy Bridge refresh, which brought a significant reduction in transistor size, Trinity carries on with last year's 32nm fabrication process -- any shrinkage will have to wait until 2013. AMD has still managed to put more transistors onto the new chip compared to Llano, but the die size has increased proportionally as a result. Challenge AMD over its apparently half-hearted pursuit of Moore's Law and the company will simply tell you that the average consumer doesn't care too much about transistor size: after all, most people don't know the nanometer credentials of an iPad's processor -- all they really care about, we're told, is the overall experience.
+
+ 
+ The precise type of experience you'll get will obviously depend on what PC form factor you buy. As the name Trinity suggests, the new APUs cover a third category at the far low-end of the power spectrum, beyond desktops and regular laptops: namely, AMD's version of the Ultrabook, which it simply calls an "ultra-thin" laptop. Thanks to improvements in AMD's architecture and its new Piledriver core, the 17-watt A6-4455M processor for ultra-thins promises to deliver the same performance as a 35W Llano -- hence the claim of 2x performance-per-watt. We've been hands-on with a Compal reference ultra-thin packing a Trinity APU and it certainly lived up to the moniker with an overall thickness of just 18mm. We can expect this type of machine to cost around half the price of an Intel Ultrabook.
+
+ 
+ Meanwhile, the middle 35/65W category covers regular laptops and other low-power form factors like all-in-ones and HTPCs. This bracket includes the A10-4600M quad-core 2.3GHz processor (boostable to 3.2GHz) -- which is the chip AMD chooses to promote most heavily in its official benchmarks versus Intel's Sandy Bridge Core i5-2520M. These benchmarks need to be corroborated by independent tests, but for now AMD reckons its superior GPU, plus its support for the OpenCL standard that allows the GPU to be used for compute tasks, put the A10-4600M drastically ahead of its rival in 3D benchmarks and overall compute capacity. Conversely, the APU doesn't do so well at PC Mark 7, falling seven percent behind the Intel chip.
+
+ 
+ The kicker in this mid-power category is that all the performance increases come with a pledge not to burn battery life, thanks once again to those more efficient Piledriver cores. AMD's John Taylor told us that Trinity will deliver "equal or better battery life than the other guys," and the chart below broadly attests to that -- although it only sticks the A10-4600M up against Sandy rather than Ivy Bridge. Oh yes, and the other key factor is the price: we can expect to see A10-powered laptops starting at around $699.
+
+ 
+ Completing the trio, we have the 100W Trinity APUs for desktops, for which technical details and pricing have yet to be announced -- so, no evidence of those resonant frequency clock meshes just yet. The only concrete info we have right now concerns the A10-5800K, which AMD has stacked up against the Ivy Bridge Core i7-3770K in the benchmarks below. These give the APU a 20-50 percent lead in games like Crysis: Warhead, Metro 2033, DiRT 3 and Skyrim when played at 1680 x 1050 with undisclosed quality settings. This oomph derives in no small part to the new Radeon HD 7000G-series onboard graphics, which beat Llano's visual prowess by over 50 percent -- not bad when you figure that Llano's integrated graphics were already well ahead of Intel's HD 3000.
+
+ 
+ So, that's about it. AMD's first round of Trinity APUs is available starting today, wrapped up in various mobile packages from manufacturers like Asus, HP, Lenovo, Samsung, Toshiba and Acer -- with desktop systems and components rolling out next quarter. Stay tuned for a round-up review coming shortly -- if not multiples thereof.
+
+ Sean Buckley contributed to this post.
+  Show full PR text   2nd-Generation AMD A-Series APUs Enable Best-in-Class PC Mobility, Entertainment, and Gaming Experience in Single Chip
+   SUNNYVALE, Calif. - May 15, 2012- AMD (NYSE: AMD) today announced the widely anticipated launch of its 2nd-Generation AMD A-Series Accelerated Processing UnitsWU (APUs) for mainstream and ultrathin notebooks, All-in-One and traditional desktops, home theater PCs and embedded designs.
+
+   The 2nd-Generation A-Series APU, codenamed "Trinity", is a grounds-up improved design over the previous generation, enabling a best-in-class PC mobility, entertainment, and gaming experience. New features of the product design include:
+
+   Double the performance per watt of the previous generation2
+
+    The AMD HD Media Accelerator with a unique set of technologies designed to optimize video quality available with premium and Internet video content, and accelerate video file conversion;
+
+   An increase in CPU performance of up to 29 percent3 with higher processor speeds thanks to the next-generation AMD "Piledriver" CPU core with 3rd generation AMD Turbo Core technology, where power is dynamically shifted between the CPU and GPU depending on application needs, effectively providing a more responsive experience that can boost CPU frequencies to up to 3.2 GHz;
+
+    AMD Radeon™ HD 7000 Series graphics for an increase of graphics performance up to 56% over the previous generation4.Combined, the CPU and GPU cores deliver more than 700 gigaflops of computing performance5 – several times more than the fastest x86 CPUs – to boost the compute capabilities of hundreds of applications.
+
+    Up to 12 hours of battery life through CPU and GPU power enhancements, with clear battery life leadership in notebook form factors
+
+    "The latest OEM notebooks, ultrathins, All-in-Ones and desktops based on the new AMD A-Series APU enable the best video and gaming experiences, highly responsive performance with AMD Turbo CORE, and accelerates an ever-increasing range of productivity and multimedia applications -- in sleek, stylish designs at price points that make sense," said Chris Cloran, corporate vice president and General Manager, AMD Client Business Unit."Our 2nd Generation AMD A-Series APU is a major step forward in every performance and power dimension, allowing users to enjoy a stunning experience without having to give up the things that matter to them most. This experience doesn't stop at mainstream notebooks. It carries over into affordable ultrathin form factors featuring the latest in AMD Radeon™ graphics."
+
+ 
+   The Growing AMD Accelerated Application Ecosystem
+
+   The developer ecosystem continues to gravitate to the unmatched level of compute and unique processing capabilities of the APU as more than 100 applications and games are now accelerated by AMD APUs. The 2nd-Generation AMD A-Series APU gives users superior Web-based video experience thanks to plug-ins for Google Chrome, Firefox and Internet Explorer 9 that make it easy for consumers to turn on AMD Steady Video technology.6 Recent applications that have been optimized for use on AMD A-Series APUs include Adobe Photoshop CS6, WinZip 16.5 and VLC Media Player. AMD A-Series APUs are also well-positioned to take advantage of the upcoming transition to the Windows® 8 operating system.
+
+   "We are excited for the introduction of the 2nd-generation AMD A-Series APU and are confident it will continue the great work Microsoft and AMD have done together on the A-Series APU," said Aidan Marcuss, Senior Director, Windows Business Planning, Microsoft Corp. "We look forward to the seeing the A-Series APU in action with Windows 8 to deliver a great user experience across a variety of hardware."
+
+   For developers who want to engage in the industry's move toward heterogeneous computing, the upcoming AMD Fusion12 Developer Summit will offer them a unique opportunity to enhance their knowledge base. More information on AFDS 12 can be found here.
+
+   Unmatched Mobility
+
+   With more than 12 hours of 'resting' battery life, AMD is now an industry leader in notebook battery-life performance. The 2nd-Generation AMD A-Series APU delivers increased levels of performance, while consuming half the power as its predecessor.
+
+   These gains can be attributed to the new, power-optimized "Piledriver" CPU core, as well as to AMD Start Now technology, which is designed to maximize system responsiveness by quickly entering and exiting low power states. With AMD Start Now, the computer resumes from sleep mode in as few as two seconds and boots to the desktop in as few as 10 seconds.7
+
+   In ultrathin form factors, AMD enables an uncompromised visual experience thanks to a power-efficient and premium AMD Radeon™ graphics engine. Consumers can expect to see ultrathin notebooks based on the dual-core 17-watt and quad-core 25-watt AMD A-Series APUs. These products will be easily identifiable by aluminum-styled VISION Technology stickers at a range of competitive price points.
+
+   Best-in-class Entertainment
+
+   As more and more people turn to their computers as the hub for their entertainment, the visual aspect of computing becomes ever more important. To enhance these capabilities, AMD created the AMD HD Media Accelerator – a unique set of technologies that enable the best video quality on a PC. Key features of the HD Media Accelerator include:
+
+   AMD Perfect Picture HD – An image, video processing and display technology that automatically makes images and video better with color vibrancy adjustments, edge enhancement, noise reduction and dynamic contrast fixes.8  AMD Steady Video Technology – A technology that enables smooth playback of jittery video content with a single button click thanks to plug-ins for popular Web browsers and multimedia applications.6  AMD Quick Stream Technology – A new technology that prioritizes video streaming on PC systems for a smooth, virtually uninterrupted video stream.9  True HD video chat with up to four people at once.  AMD Video Converter – A video compression engine for fast conversion and sharing of media files across multiple formats and devices.  Full decode support for H.264, MPEG-2, VC-1, MVC, DivX and WMV.
+
+   Gaming Leadership
+
+   The 2nd-Generation AMD A-Series APU builds on AMD's legacy of gaming leadership with an increase in graphics performance of up to 56% over the previous generation4 and support for:
+
+   AMD Eyefinity Technology – For the first time, this immersive technology is available from an APU without the need for a discrete graphics card.10
+
+    Performance-leading DirectX® 11 graphics architecture and 1080p gaming a life-like level of detail.
+
+    AMD Radeon™ dual graphics support that delivers a performance boost of up to 75 percent when adding a discrete graphics card to the APU.11 The AMD Radeon™ dual graphics option also offers support for DirectX® 9 for older game titles, and uses new AMD CrossFire™ Technology Profiles for easier updates.
+
+   Availability and Technical Details
+
+   AMD has a record number of design wins with companies like Acer, Asus, HP, Lenovo, Samsung, Sony and Toshiba based on our 2nd-Generation AMD A-Series APUs and VISION Technology from AMD, with mainstream and ultrathin notebooks, as well as embedded solutions, available beginning today.
+
+ 

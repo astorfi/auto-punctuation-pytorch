@@ -1,0 +1,9 @@
+
+ 
+Why would you want to build a 100-strong swarm of mini robots? Well, aside from having them as your minions, you might be able to learn about "artificial self-organization," and "control in large robotic groups," which should come in useful during the inevitable robot insurrection. The swarm robot project, undertaken by the Universities of Stuttgart and Karlsruhe in Germany, aims to produce mini drones that can communicate with one another to avoid collisions, while keeping to a volume of less than three centimeters cubed. Built using open source software and hardware (full list of components is available under the GPL), the latest prototype, titled Jasmine III, achieves those goals while also being able to run "perpetually" thanks to a wireless charging platform. You can see it in close-up after the break, or hit the read link for all the geeky details.
+      
+
+ 
+
+
+ 

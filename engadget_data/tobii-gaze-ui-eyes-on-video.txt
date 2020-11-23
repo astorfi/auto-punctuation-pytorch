@@ -1,0 +1,15 @@
+
+ 
+
+We know what you're thinking: another CES post about Tobii's eye-tracking Gaze UI? Why yes, yes it is, because this time we were actually the ones behind the driver's seat. We tracked down the company's booth and got some personal one-on-one time with the laptop. As the first matter of business, we first needed to calibrate our eye movements with the sensor, a process that took a couple minutes to push through before we were ready to have at it. The prototype laptop is running an early build of Windows 8, so we navigated around the Metro interface, played a couple games, switched back and forth between tabs, zoomed in and out of screens and plenty more.
+
+Eye-tracking technology hasn't been around for incredibly long, and it still has a ways to go. There were a few occasions -- seen in the video below the break -- in which we tried to hit a smaller button several times before finally finding success. Bugs aside, we got the hang of the interface pretty fast after a few minutes of getting accustomed to the concept of using our eyes as the cursor. That doesn't mean we were completely used to it by the time we left the booth, but we could see how eye-tracking can come in handy at times.
+
+But it wasn't all Mission: Impossible as we'd secretly hoped. Contrary to our original expectations, we discovered that using the trackpad was still an integral and necessary part of the full experience; it wasn't a "blink twice to click" type of interface. Tobii tells us that by still using the trackpad to click on the screen (minus dragging your finger around as the cursor), you still have a natural user experience, since you're quickly able to use your fingers to scroll or click and override the movement of your eyes if absolutely necessary. We found it easy to switch back and forth between tabs and zoom in and out of pictures -- heck, we even were able to play games on the laptop by using our eyes, though admittedly we performed rather lousy and lost every time since many games require a certain amount of precision. That's obviously a situation that would call for the ability to override the eye-tracker and switch to manual mode, of course. All in all, we were very impressed to see how far the technology has come so far, and as Tobii is still in the early stages of implementing eye-tracking into the latest laptops -- CES is the company's first time showing it off in public, after all -- we're incredibly excited to see how it looks once it's all polished up. We've got plenty of pictures and a video to show off, so continue below to take a look. See what we did there?
+
+
+
+
+
+  Joseph Volpe contributed to this post.
+ 

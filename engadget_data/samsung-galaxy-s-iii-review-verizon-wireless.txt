@@ -1,0 +1,66 @@
+
+
+More Info
+
+Galaxy S III (I9300) review
+Galaxy S III review shootout: AT&T vs. Sprint
+Galaxy S III for T-Mobile review
+
+
+Your girlfriend might be three times a lady, but the Samsung Galaxy S III is four times a smartphone -- at least when it comes to the US. Indeed, the manufacturer's latest flagship device has managed to hit the cellular equivalent of a grand slam stateside, as each of the four national carriers are adding it to their respective smartphone lineups. For the first time since the original Galaxy S series made its debut two years ago, customers won't have to bother switching carriers just for the privilege of using one of the best devices on the planet.
+
+But there was a rather significant asterisk associated with the original Galaxy S's reign on American soil: even though all four major networks offered it, none of the carrier-branded iterations used the same name or design as the original model that inspired them. Fast-forward two years to 2012, and it's a completely different ballgame -- the Galaxy S III on each mobile operator bears the same name and design. Hold an AT&T-branded model next to its T-Mobile counterpart, for instance, and you'll have a rather difficult time telling the two apart. Same with Sprint and Verizon; aside from the logos on the back and a couple other tiny differences, you're seeing the same exact phone across the board.
+
+Not only has Verizon been waiting in the dugout for its time to step up to the plate, but an untold number of customers undoubtedly have been, too. Given its brand recognition and top-of-the-line features, the Galaxy S III has a shot at becoming the all-star in Big Red's lineup. So how does Samsung's new darling hold up on the country's biggest network? Join us after the seventh inning stretch to find out.
+
+
+
+
+Hardware
+What is there that hasn't already been said about this esteemed collection of devices? In the US, a Galaxy S III is a Galaxy S III is a Galaxy S III. Aside from the tiniest of carrier-dependent software tweaks (more on that later), you're going to be hard-pressed to hunt down any variation in Verizon's model compared with the other three we've tested. We're still waiting on regional networks like US Cellular and C Spire to push their respective versions of Samsung's flagship device, but we have a hard time believing those models will be any different than what we've already seen. We've stressed in the past that even though this uniformity in design makes for relatively abbreviated reviews, we're immensely content with what Samsung's been able to accomplish. Essentially, the company was able to use brand cachet as a bargaining chip with the carriers so that its choice smartphone arrived in the US virtually unchanged, and closer to the global launch and at a reasonable subsidized price. (The phone does have extra RAM and a different chip, but we'll delve into that more later.) Only one other OEM has wielded this much power in negotiating with operators: Apple. Inside, the Verizon-branded GS III sports LTE band 13 (700MHz) to support the carrier's 4G service, as well as CDMA / EVDO and radios for international GSM roaming. The global antennas are currently disabled, but Verizon has promised that a software update is coming sometime this summer to enable that functionality. The device, also known as the SCH-i535, comes with a 1.5GHz dual-core Snapdragon S4 (MSM8960) with a full 2GB RAM to back up all that horsepower. You also get the brilliant Super AMOLED HD display, which registers a resolution of 720p and offers a pixel density of 306ppi.
+
+
+Much like its brethren, this particular iteration of the Galaxy S III offers a 2,100mAh battery that can be swapped out for a spare. But it doesn't stop there: the battery cover can also be switched out. And this alludes to another triumph not only for Samsung, but for the customer as well -- given that millions of these devices will be sold and all offer the same design and nearly all of the same components, we're likely to see a massive pile of universal accessories.
+
+Given that millions of these devices will be sold, we're likely to see a massive pile of universal accessories.In addition to the generously sized power pack hanging out underneath the hood, you'll find a microSD / microSDXC port (sadly, no actual card comes included, so you'll need to grab one of your own should the occasion arise) next to the device's micro-SIM slot. You're going to see one key difference here that doesn't apply to the other Galaxy S III models we've reviewed thus far: a second set of shiny contacts for Verizon's brand of inductive charging. The ability to use wireless charging has been around on every model of the GS III we've reviewed so far, but those contacts are located to the left of the battery. In other words, Verizon's model gives you two options for wireless charging, a unique feature offering apart from the rest of the crowd. Aside from this, everything else remains the same as its GSM counterparts (Sprint's GSIII is different in that it utilizes an embedded SIM card).
+
+Software
+The Galaxy S III is blessed with Android 4.0.4 and comes with none other than Sammy's trademark TouchWiz UI. Put simply, if you've been an avid user of Samsung devices in the past, you'll feel right at home with the layout here -- naturally you'll find a few adjustments to accommodate Ice Cream Sandwich along with the suite of special features the GS III boasts: S Voice, Smart Stay, S-Beam and others. Your experience with these will remain the same across the board, so don't let this be a deciding factor between which Galaxy S III to choose.
+
+For the sake of differentiation and leaving at least a little branding on the device, Verizon opted to pre-install a few apps onto the Galaxy S III. Most of these programs can at least be disabled, so you won't need to look at them or be tempted by their wiles. Below, you'll find a table listing off the unique software each carrier brings to their respective version of the phone.
+
+   Verizon T-Mobile Sprint  AT&T    Color Access T-Mobile SprintZone AT&T Navigator   My Verizon Mobile T-Mobile Name ID Google Wallet Device Help   Apps T-Mobile TV Sprint Voicemail AT&T Messages   VZ Navigator Visual Voicemail Sprint Hotspot YP Mobile   VCAST Tones   myAT&T   VPN Client     As you can see, Samsung has achieved another minor victory over US carriers: the Galaxy S III's carrier-branded bloatware is kept to a minimum, and almost all of it can be hidden or disabled. Granted, there are still plenty of Samsung apps on the device, but that's going to be the case no matter which model you choose to buy. Unfortunately, though, Verizon's decided not to offer the 50GB Dropbox storage allowance handed out by T-Mobile and Sprint.
+
+Another important distinction, specifically for those interested in expanding the capabilities of their GS III (or simply escape TouchWiz) by flashing it with a non-stock ROM: in line with its wider policy, Verizon has seen fit to close the bootloader on its variant, which is going make this extremely difficult -- even though some level of customization has already proved possible.
+
+Performance and battery life
+Verizon's Galaxy S III takes advantage of a dual-core Snapdragon S4 (Krait) processor clocked in at 1.5GHz, uses an Adreno 225 GPU and is supplemented by 2GB of RAM. Since we've seen this very same setup in the iterations used by AT&T, Sprint and T-Mobile, we came into this review knowing roughly what to expect: lower benchmarks than the international GS III's quad-core Exynos processor, but still quite fast and definitely respectable for all but the most nitpicky of power users. It's speedy, and offers virtually no lag. How did this particular device hold up in the oh-so-mighty benchmark scores of its US siblings, and how does it do against the competition? We have two tables below for you to feast upon.
+
+   Verizon device comparison Samsung Galaxy S III (SCH-i535)  HTC Droid Incredible 4G LTE
+
+   Motorola RAZR Maxx
+
+       Quadrant 4,937 4,247 2,949   Vellamo 2,398 2,045 1,288   AnTuTu 6,857 6,001 6,073   SunSpider 0.9.1 (ms) 1,740 1,871 1,841    GLBenchmark Egypt Offscreen (fps)
+  54 56 29   CF-Bench 9,375 7,778 6,146   Battery life 9:15 7:15 11:25   SunSpider: lower scores are better     US Galaxy S III comparison Verizon (SCH-i535) T-Mobile (SGH-T999) AT&T (SGH-I747) Sprint (SPH-L710)     Quadrant 4,937 4,853 5,084 5,130   Vellamo 2,398 2,360 2,153 2,117   AnTuTu 6,857 6,765 6,713 6,536   SunSpider 0.9.1 (ms) 1,740 1,764 1,926 1,882    GLBenchmark Egypt Offscreen (fps)
+  54 54 54 54   CF-Bench 9,375 8,759 9,439 9,567   Battery life 9:15 8:58 9:05 9:20   SunSpider: lower scores are better  Given the horsepower behind the GS III, we can't say we're shocked that it beat the pants off its Verizon competitors in all but two benchmarks: the ones focused on graphics processing and battery life. Regarding the latter, the Motorola Droid RAZR Maxx, with its 3,300mAh power pack, is the undisputed champion not only within the network but the entire market. Keep in mind, though, that Samsung's 2,100mAh battery is no weakling either, and its performance in the video rundown test seems to suggest most heavy users will easily last a full day with nary a struggle. As an aside, our unscientific, regular-use tests (consisting of taking pictures, regularly updating and checking social media, emailing, texting and even making the occasional call) showed that all but the heaviest of gamers and / or talkers will easily make it until the end of the day before needing to charge up.
+
+In terms of graphics, the scores reflect GLBenchmark's 720p Offscreen test -- which puts high-res and low-res devices on an equal playing field -- and the HTC Droid Incredible 4G LTE barely squeezed past our protagonist. This isn't an area we'd be terribly concerned with, as the Galaxy S III has always been reliable and satisfying when gaming or undertaking any other graphics-heavy tasks.
+
+Comparing the I535 to the trio of other US variants isn't going to make your decision any easier, since the benchmarks we ran are in parity with each other. It's better in a couple areas and worse in a couple others, but none of the scores are set to any sort of extreme -- in other words, the Verizon GS III doesn't stand out of the crowd for better or worse.
+
+Using GPS (which in the GS III is paired up with GLONASS support) was a solid experience, as the phone was able to track down our position within 40 meters in less than five seconds. It took an extra 15 ticks or so to hone in on our exact spot, but this is something we typically see in smartphones and didn't come as any significant concern to us.
+
+As expected, we were quite happy with the call quality on the Galaxy S III. We didn't encounter any dropped calls, and voices came in perfectly clear. The external speakers were incredibly loud, and we were able to listen to conference calls -- and music -- on the speakerphone from every room on the same floor in our house. You may not be able to hear the finer details of your tunes, but plugging in a standard set of headphones solved that problem for us (and very much so, we might add).
+
+Update: We've had the opportunity to run a full round of speed tests on Verizon's LTE network in Salt Lake City, and full signal strength yielded max results of 25Mbps down / 15Mbps up; running the same tests in Chicago gave us 35Mbps down / 20Mbps up.
+
+Camera
+Eight megapixels of rear-facing goodness are coming your way on the Galaxy S III camera, and it's as great an experience as we'd expect from Samsung. And despite the wide availability of Verizon handsets that offer this particular resolution, Sammy's flagship still comes out on top. Granted, the HTC Droid Incredible 4G LTE comes pretty close in its overall performance here, but it lacks the ImageSense capabilities found in the HTC One series that we've come to admire.
+
+We also appreciate the breadth and scope of the settings found in the Galaxy S III camera UI: Samsung spares no expense in its offerings here, with full access to white balance, ISO, exposure adjustment, shooting modes and scene modes, effects, macro focus and panorama. You can use the viewfinder to change your point of focus, and hold down the shutter button if you want to lock your exposure prior to taking the shot. This particular camera will, without a doubt, give you the best array of customization options found on any phone on the market today.
+
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

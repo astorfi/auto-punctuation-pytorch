@@ -1,0 +1,6 @@
+
+ 
+Haven't updated your laptop's trackpad driver lately? Then you may well want to consider doing so, at least if your laptop is equipped with a Synaptics trackpad. As a user on the Hardware Zone forums discovered, the latest Synaptics driver seems to enable multitouch gestures on older laptops that didn't previously support them, including two-finger scrolling, and three-finger click. What's more, while the drivers themselves come from HP, they should work just fine on other laptops with a Synaptics trackpad. Hit up the link below to try it out for yourself.
+ 
+ 
+ 

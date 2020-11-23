@@ -1,0 +1,6 @@
+
+ 
+Although they've gotten better recently, Intel's integrated graphics chipsets have never gotten a ton of love -- the underpowered 915 chipset is at the heart of the whole "Vista Capable" debacle, for example -- but it looks like the company's about to make a strong play to be your new pixel-pusher of choice with the new Larrabee graphics chip. Based on the x86 instruction set, the new chip isn't just limited to GPU duties, but can serve as a general-purpose processor as well. Early 16-core versions have been developed with max speeds of over 2GHz, but the design can apparently scale to thousands of cores in the future. The plan is first to release Larrabee chips as separate graphics units in Q4 of this year, but early next year we should see both laptop and desktop-oriented 45nm Nehalem processors with the Larrabee tech built right in. That should beat AMD's Fusion processors to market -- looks like the race is on.Read - PC Perspective roadmap article with Intel slidesRead - DailyTech roadmap with Larrabee details
+      
+
+ 

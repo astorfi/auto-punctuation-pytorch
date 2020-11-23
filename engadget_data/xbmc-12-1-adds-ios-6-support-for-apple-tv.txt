@@ -1,0 +1,4 @@
+
+ The XBMC crew hasn't been distracted by its early work on XBMC 13 Gotham -- it's more than willing to share the love with those who are still busy with Frodo's adventures. A just-launched XBMC 12.1 update improves the experience in several ways on Apple platforms, rolling up iOS 6 support for second-generation Apple TV boxes, making full use of the iPhone 5's expanded screen and bringing support in OS X for both the default audio device and playback acceleration from Intel GPUs. There's a number of upgrades elsewhere as well: XBMC no longer monopolizes audio in Linux, runs more reliably on the Raspberry Pi and supports more Xbox 360 controllers and HDMI-CEC devices. Android has received an audio control tweak of its own and the software is available in seven new languages We'd say 12.1 is a near-automatic download if XBMC is the cornerstone of your living room, hit the source to find out everything new that awaits, or check out the Github link.
+
+

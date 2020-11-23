@@ -1,0 +1,13 @@
+
+ All the hype of Google's presence at this year's SXSW has, not surprisingly, largely revolved around the company's Glass project, but much to our surprise, the software giant used the show to take the wraps off yet another wearable. We spoke to a rep who kicked off our conversation with the express disclaimer that "Google is not getting into the shoe business," so you can tamp down those expectations right now. Of course, the company is still firmly in the business of creating cool projects for the purposes of promoting creativity and supporting the developer community and ethos that are the driving forces behind its Art, Copy & Code project.
+
+
+
+
+ Art, Copy & Code was the centerpiece of Google's Playground, set up in a space directly across the street from the Austin Convention Center. There's a sports theme throughout, with a basketball court on one side and an obstacle course on the other. The company was letting visitors try out its new talking-shoe concept, with a custom-made microcontroller (along with assorted SparkFun pieces) on the tongue of a pair of Adidas. Above that is a circular speaker that provides feedback based on your movement (detected by internal accelerometers and gyroscopes, along with pressure sensors in the sole). The shoe will then give you aural feedback, based on how you're moving.
+
+ So, why hack up a perfectly nice pair of black high-tops? Google's giving the shoes character, using Bluetooth to sync up to your smartphone and "using a series of 'if and statements,' to give your shoes personality." So, some shoes will laud you for getting off the couch and others will encourage your lollygagging. Again, while the company has the blessings of Adidas, we're not going to see this on the market as such, though the Google spokesperson we talked to told us the company may be looking to open-source the information, so you can just make your own.
+
+ 
+ Zach Honig contributed to this report.
+

@@ -1,0 +1,5 @@
+
+ So now that HP's joined Dell in releasing information on which laptops have those defective NVIDIA GPUs, we can sort of piece together which chips are faulty -- and just as had been rumored, it looks like basically every Geforce 8600M and 8400M chip is affected. That's not good news for NVIDIA, which has been saying that only "previous-generation" chips were problematic -- unless the chipmaker is planning on updating the hugely popular 8x00 series sometime, say, now, that's not exactly true, now is it? Other affected chips appear to be in the GeForce Go 7000 and 6000 lines, as well as the Quadro NVS 135M and the Quadro FX 360M, but that's just looking at model numbers, and we can't be exactly sure. We'd say that if you've got a machine with any one of these GPUs, it might be wise to call in and see what your laptop maker is going to do -- and it would be smart for NVIDIA to come right out and say exactly how big and how bad this problem really is.Read - Dell list of machines and patchRead - HP list of machines, extended warranty info
+      
+
+ 

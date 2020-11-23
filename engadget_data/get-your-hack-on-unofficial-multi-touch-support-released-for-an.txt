@@ -1,0 +1,9 @@
+
+ 
+We've been hearing for months now that both Android and the T-Mobile G1 hardware have some magical, top secret low-level support for multi-touch, but unless we can... you know, do something with it, it really isn't doing anyone any favors. That's where the lovely people in the ever-industrious dev community come into play, throwing together demos on their way to a full release that you -- yes, you -- can finally install on a G1 of your very own. It's still in the proof-of-concept phase, but the load does include a multi-touch version of Android's excellent browser, probably the single app that could use two fingertips more than any other. Needless to say, you should be installing this jazz at your own risk -- but considering the number of hoops you need to jump through to get it up and running (hint: you need to start by gaining root access), the whole process should be enough of a deterrent for the casual types who can't take a hiccup here and there. Video of the included multi-touch map browser app (among others) in action after the break.[Thanks, Ryan G.]
+      
+
+ 
+
+
+ 

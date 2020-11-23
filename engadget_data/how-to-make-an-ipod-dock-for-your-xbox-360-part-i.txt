@@ -1,0 +1,34 @@
+
+
+
+The Xbox 360 has iPod support built in, so we thought, “Why not just build the iPod in?” Okay,the train of thought wasn’t really that short. We were probably staring at the hard drive blister during a reallylong download and wondering, “Why the heck is that on the outside?” You could remove it and haul it aroundlike a memory card — and we’re sure its size would complement your Zach Morris phone nicely. Whatshould be on the outside? iPod dock. The 360 has good iPod support and your iPod it deserves a betterhome.
+
+
+For part one of this project we will be moving the hard drive to a new location inside the Xbox. Checkhere next week for part two where we’ll build a dock in the space vacated by the hard drive. This modification isnon-permanent and can be easily reversed.
+
+
+
+Warning: Opening your Xbox will void the warranty and carelessness will cause damage toyour machine.
+
+The first thing you need to do is follow AnandTech’s Xbox 360 disassembly guide.Stop when you get to the screws. We only need to remove the top cover, so just remove the six long, silver, flatheadscrews that are size T12. Then you can flip the box over and pull the cover off. We pulled the DVD drive for thephoto.
+
+
+You should continue to follow AnandTech’s guide to disassemble the harddrive. We will be reusing the hard drive and its cable. You should save the extra pieces in case you ever want toreturn the drive to the original housing.
+
+Only the hard drive is being placed inside the case. The cable willstill be plugged into the external connector. You will need to enlarge the hole in the upper right corner of the harddrive’s shallow bay. Once the hole is large enough, thread the hard drive cable through. If you use the harddrive housing in the future, this hole won’t be visible.
+
+
+Stand theXbox up and lay the left cover on top. Plug the cable into the motherboard socket. Apply some double-stick tape to thesilver side of the hard drive and plug the drive in. Position drive on top of the DVD drive. There’s really onlyone possible cable route without cutting metal. Make sure you leave enough slack for a future filler panel in the drivebay.
+
+
+Before youput the top cover on you will need to grind off the two plastic rivets securing the metal shield. After you’veremoved the shield you will have to cut off two plastic trapezoidal protrusions that would otherwise collide with thehard drive.
+
+
+Make sure you confirm that your console is still functioning properly before reassembly. Once you take itapart the first time, you really won’t want to do it again. Unplug the external hard drive connector so you canmove the end cap easily then proceed with the reassembly.
+
+Once the Xbox is back together, plug the externalconnector back in and fire up the console. Everything should be working as usual. If the connector has slipped offinside the case you should be able to reseat it using a small screw driver since the connector can’t move veryfar.
+
+
+Now thatwe’ve cleared up some space on the outside of the box we can build our integrated iPod dock. Come back next weekto see how it’s done!
+
+

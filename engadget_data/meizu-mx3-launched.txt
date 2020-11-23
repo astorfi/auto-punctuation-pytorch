@@ -1,0 +1,24 @@
+
+Ahead of main rival Xiaomi's big event later this week, Meizu has today unveiled its latest Android device, the MX3, at the Beijing National Aquatics Center. Like many recent flagship phones, this one finally breaks the previous 4.4-inch barrier to make way for a 5.1-inch display, though with an odd 1,800 x 1,080, 15:9 panel from Sharp and JDI to follow Meizu's string of odd aspect ratios. At the same time, the manufacturer has managed to keep the screen bezel at 2.9mm thick, making the carefully curved body 72mm wide (as well as 9.1mm thick and 143g heavy). This is apparently the result of Jack Wong's 30-plus handcrafted wooden prototypes, followed by some 3D scanning. Read on for more.
+
+
+Update: Our hands-on post is up as well! 
+
+
+
+
+
+As a close buddy of Samsung's semiconductor division, it's no surprise to see Meizu embracing an Exynos 5 Octa SoC for the MX3. Assuming It's the same 5410 variant as used by the Galaxy S 4, we should be looking at with quad Cortex-A15 1.6GHz cores plus quad Cortex-A7 1.2GHz cores, along with 2GB of RAM and SGX544 MP3 graphics. As for the camera, rather than joining the 13-megapixel hype, Meizu's opted for Sony's third-generation 8-megapixel sensor, along with a fast f/2.0 lens (with second-gen sapphire glass), zero-delay image stabilization and a Fujitsu ISP that helps enable capture speed of up to 20fps. Sadly, the front-facing imager has a resolution of just 2-megapixels, which is dwarfed by many other Chinese options.
+
+Another notable feature is that the MX3 comes with a Wolfson audio chip, which apparently enables a high 113dB signal-to-noise ratio plus a low distortion rate of just 0.002 percent. Like some of the latest Chinese flagship phones, you'll also find Dirac HD codec and a dedicated audio amplifier on the here. On a related subject, the MX3 has a triple-mic setup -- just like the Moto X -- for improved voice quality.
+
+As you'd expect, this new phone comes with a common bundle of radios: NFC, dual-band WiFi, Bluetooth 4.0 and GPS. CEO Bai Yongxiang, previously a lead engineer at the company, also boasted the MX3's patented antenna technology that enables much better cellular reception than the iPhone 5, while at the same time keeping the specific absorption rate lower than said competitor. For those wondering, the MX3 will be launched with WCDMA radio, meaning its 3G connection will work in most parts of the world.
+
+
+With so many goodies included, Meizu thinks the 2,400mAh Sony cell can still provide 9 hours of 3G browsing, 10 on Wi-Fi or 7 hours of 1080p video playback. The CEO also assured the audience that the phone has much improved heat dissipation, crediting a dual-layer design to separate CPU heat and display heat. Of course, only time will tell if this is as good as it sounds.
+
+Last but not least, MX3 comes with Flyme 3.0, Meizu's latest custom Android ROM. We won't name all the improvements, but there are a total of 324 updated interaction features (like pull-down to refresh, plus self-repositioning soft keys that adapt to your finger habits), 1,579 updated visual features (like cleaner icons and optimized notification bar layout), an AirDrop-like file-sharing feature and new camera filters. Oh, and China-based users can enjoy the Duomi music store, LeTV video store and Lakala payment service straight out of the box. We'll dig into these in our eventual review.
+
+There's no word on international availability just yet, but for those who are based in China, you can now make a reservation and then pick up an MX3 starting from the second half of September. The price goes from CN¥2,499 (about US$410) for the 16GB model, all the way up to CN¥3,999 (US$650) for a whopping 128GB option -- a first for smartphones! Looks like Meizu's got all the right ingredients on paper this time, but we'll have a better idea once we get our hands on the phone.
+
+

@@ -1,0 +1,35 @@
+
+ BlackBerry has Balance, and no more than a month after the company once known as Research in Motion debuted its first BB 10 handset, Samsung has a dual-workspace solution of its own: SAFE with Knox. Unlike SAFE, which stands for Samsung for Enterprise, Knox, which was named for the Army outpost where America stores much of its gold, was not crafted into an acronym (though we imagine marketers dedicated at least one meeting to the cause). It's appropriately named, given the company's plans to dominate the enterprise industry with what's soon to be "the most comprehensive mobile security solution."
+
+ So what will you find within the Fort Knox of the smartphone world? It's an IT manager's pipe dream, of sorts. A comprehensive collection of features that include Security Enhanced (SE) Android, secure boot, TrustZone-based Integrity Monitoring (TIMA) for protecting the kernel, Single Sign On (SSO) and that application container concept made famous by BlackBerry, just to name a few. Best of all, Knox will ship pre-installed on select devices, all sold as one SKU -- in other words, consumers and enterprise customers alike will be taking home identical handsets, simplifying the process significantly for BYOD (Bring Your Own Device) businesses. We'll explain in a bit more detail in our hands-on video after the break.
+
+
+
+ For the purposes of keeping things short and sweet, we'll focus on the feature most likely to be of interest to individual users: application containers. If you're familiar with BlackBerry Balance, you know the drill here. Essentially, a secure work environment sits alongside an open personal space. Select work-related apps, corporate email, business contacts and other sensitive data will live in the secure world, while personal email, media, games, social apps and other leisure content will always be accessible, even without a complex login.
+ 
+  The personal space is entirely your own -- IT managers won't have access to any of your data.
+ The personal space is entirely your own -- IT managers won't have access to any of your data -- while the enterprise environment will offer varying levels of security, with administrators selecting specific Samsung-approved apps to make available for download. Accessing any item on the business side will require authentication, with varying timeouts, and a distinct background will make it easy to distinguish between the two. You won't be able to move any content between environments, even through copy and paste. Similarly, admins won't be able to see anything stored on the other side, so all of your private stuff will remain private. If you leave your employer, they can remove sensitive content without confiscating your device, or even compromising your photos, conversations with friends or anything else you've added outside of the secure environment.
+
+ 
+ Samsung has yet to announce which of its handsets and tablets will be gifted with Knox, but you can expect "iconic devices" to get first dibs. To us, that'll likely mean the Galaxy S III and Galaxy Note II, along with the yet-to-be-announced Galaxy S IV. Tablets like the Galaxy Note 8.0 will tentatively get the nod as well, though handsets will be the first to roll off the assembly line with the new security suite. Due to preliminary work with US-based partners, it'll likely roll out stateside first.
+
+  If you plan to bring a device to a corporate network, the implications here are surely promising.
+
+ It's not clear which of the 65 countries where Samsung plans to launch SAFE will follow suit -- specific locales will make individual announcements, so stay tuned. Supported devices already in the market will receive the software through a carrier-pushed maintenance release, likely sometime in the second quarter of this year. And while there won't be any cost to consumers, corporations will be expected to pay licensing fees that should vary by region, company size and other factors. For consumers who own devices strictly for personal use, Knox is a bit of a snooze, but if you plan to bring a device to a corporate network, or you work for a government agency that's been hesitant to adopt the Android OS, the implications here are surely promising. We'll return shortly to bring you a closer look in our hands-on.
+
+  Show full PR text   Samsung unveils Samsung KNOXTM for secure BYOD
+   Samsung KNOX is the comprehensive mobile solution for work and play
+
+   Barcelona, February 25, 2013 – Samsung Electronics Co, Ltd., a global leader in digital media and digital convergence technologies, today announced Samsung KNOX, an end-to-end secure solution that provides security hardening from the hardware through to the application layer.
+
+   KNOX incorporates Security Enhanced (SE) Android developed by NSA (National Security Agency),and integrity management services implemented in both hardware and the Android framework. At the application layer, KNOX offers a container solution that separates business and personal use of a mobile device. This separation is enforced by SE Android and file system level encryption, offering protection of business data and applications from data leakage, viruses and malware attacks. Lightweight and compatible with existing common enterprise infrastructure such as MDM, VPN and directory services, KNOX provides reassurance and convenience for IT departments looking to implement and manage Bring Your Own Device (BYOD) strategies.
+
+   Easily accessible via an icon on the home screen, the KNOX container presents to users a variety of enterprise applications in a secure environment including email, browser, contacts, calendars, file sharing, collaboration, CRM and business intelligence applications. KNOX enables existing Android eco-system applications to automatically gain enterprise integration and validated, robust security with zero change to the application source code. KNOX relieves application developers from the burden of developing individual enterprise features such as FIPS compliant VPN, on-device encryption, Enterprise Single Sign On (SSO), Active Directory support and Smart Card based multi-factor authentication.
+
+   "Security and privacy are understandably held up as barriers to businesses embracing BYOD demands. Meanwhile, users are seeing the latest smartphones and tablets and knocking at the door of IT demanding to be able to use their own devices," said JK Shin, President and Head of IT and Mobile Division. "The solution is clear – combine the business and personal in a single device. Samsung KNOX achieves this harmony between enterprise control and employee satisfaction by delivering fundamental security at the platform level, while leaving the user experience consistent."
+
+   KNOX is a Samsung enterprise solution and aligned with the Samsung For Enterprise (SAFE) programme, an ongoing effort initiated by the company to promote the readiness of its devices for enterprise use.
+
+   KNOX will be commercially available in selected Samsung GALAXY devices from Q2 2013 onwards.
+
+ 

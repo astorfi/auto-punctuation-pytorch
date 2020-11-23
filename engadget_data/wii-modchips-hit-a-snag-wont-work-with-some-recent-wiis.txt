@@ -1,0 +1,5 @@
+
+ This 1st generation of Wii modchips was humming along so smoothly, but it looks like a recent Nintendo manufacturing modification has rained on their parade for the time being. While the chips do work fine in early Wiis, and that DVD upgradability should keep 'em humming for some time to come, the Wiinja, CycloWiz and WiiKey chips all fail to work with Wiis running the D2B Panasonic chipset, which shows up in certain Wiis, mostly ones purchased in late January / early February. The only way to check for the chipset is to pry open the Wii and look for yourself, and the incompatibility means that even the DVD upgradability won't allow current modchips to run on these systems. Both the CycloWiz and Wiinja teams have confirmed the problem, and are already working on new versions to get around the Panasonic chipset, but you might want to make sure your Wii is compatible before you blow your cash on a non-working modchip.[Thanks, waruwaru]
+      
+
+ 

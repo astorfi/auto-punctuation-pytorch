@@ -1,0 +1,13 @@
+
+ 
+
+By now, you should all be familiar with Griffin's Beacon universal remote system, as we've gotten our hands on the iPhone version and let you know about the one for Android, too. Well Dijit, who creates the apps that work with the Beacon hardware, wasn't done, and so has released an iPad-specific app to take advantage of the extra screen real estate it affords. Dijit calls it a "reimagined" version of the iPhone app and it provides both a new look and some new functionality to the Dijit experience. We got to spend some time with the app at gdgt Live in San Francisco, and found it to be quite similar to the recently released Android version. Head on past the break for a video breakdown of Dijit for iPad and our impressions of the app in action.
+      
+
+ 
+
+ Dijit for iPad supports the same sizable library of devices as its predecessors and helps you to find the right IR codes for your A/V gear, so the initial setup is relatively painless. The app itself integrates social networks to help you find new content of interest -- similar to services like Miso and Buddy TV. Not only does the app show your TV listings, but it can access Netflix and let users play YouTube clips inside the app, plus there's episode and cast information on tap as well. As in previous iterations, the remote control layout is fully customizable and allows users to pick and choose their buttons of choice while arranging them in any configuration. Right now, the app still works using Bluetooth to communicate with the IR blaster hardware, but the folks from Dijit told us they're working on making the app communicate directly with smart TVs over WiFi using UPnP. Keep at it guys, you've got about six weeks to get it ready for show-and-tell at CES.
+
+       
+
+ 

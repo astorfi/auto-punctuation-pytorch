@@ -1,0 +1,6 @@
+
+ 
+The T-Mobile G1's Google Maps Street View implementation is one of the slickest features of the first Android phone, but it looks like Apple's going to keep feature parity -- the latest builds of iPhone OS 2.2 seeded to developers have Street View, as well as the ability to give mass transit directions. That's pretty useful for cityfolk like us -- and we're also stoked that line-in audio is now supported in the SDK, giving devs the ability to create voice recorders and other interesting audio apps. Of course, there's no word on when 2.2 will actually arrive, but until then we suppose we'll live with regular, non-data-augmented streets. Lots of screenshots of the new features at the read link.[Via MacRumors]
+      
+
+ 

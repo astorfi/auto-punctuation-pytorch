@@ -1,0 +1,7 @@
+
+ 
+
+Styli and Android haven't exactly been strangers as of late -- with devices like the HTC Flyer and Samsung Galaxy Note offering pen-based input -- but it looks like that option will soon be even easier to implement with Ice Cream Sandwich. As noted on Reddit, Google's recent overview of some Android 4.0 platform highlights includes a small tidbit towards the end that details the "full support for stylus input events" in the OS -- including features like pressure sensitivity and the ability to distinguish motion events from different sources (i.e. a pen and your finger). Of course, it still requires some hardware-level assistance from tablet and smartphone makers, but native support in the OS could well open up some interesting possibilities, especially when it comes to third-party apps.
+      
+
+ 

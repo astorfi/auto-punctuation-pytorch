@@ -1,0 +1,6 @@
+
+ The civil war-torn nation of Syria has seemingly disappeared from the internet. In a sign that the regime of President Bashar al-Assad is trying to limit the flow of information and possibly increase its violent crackdown on opposition forces, all 84 blocks of IP addresses used by the nation have gone offline. The blackout was first reported by Renesys this morning at around 5:26am ET and the #SyriaBlackout hashtag has started picking up steam on Twitter as others have noticed. While it's unclear exactly what has happened and investigations are on going, and a nationwide outage is highly suspicious. The Associated Press is reporting that rebels are laying blame for the blackout at the feet of the government and that cellphone service has also been severed. We'll update as more information rolls in, but we wouldn't expect good news.
+
+ Update: Akamai has provided more confirmation of the outage. As you can see in the image above, at some point this morning the amount of data coming out of Syria simply dropped to zero. 
+
+

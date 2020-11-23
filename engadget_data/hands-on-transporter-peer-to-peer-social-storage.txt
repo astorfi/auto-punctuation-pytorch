@@ -1,0 +1,11 @@
+
+ You may have missed Transporter's unveiling on Kickstarter earlier today, so let us provide a quick refresher -- it's a device that, when used in tandem with one or more other Transporters, enables simple and secure peer-to-peer file sharing. Unlike many Kickstarter projects, however, Transporter's already in the beta testing stage of development and the hardware is ready for prime time. We had a chance to see the thing in person this evening, so we figured we'd open it up and give you a glimpse of what lies beneath its onyx exterior. Join us after the break for our impressions.
+
+
+
+
+ The capsule-shaped device is made of black plastic, save for an LED ring that serves as a drive activity, internet connectivity and free-space indicator for the HDD that lies within. Connectivity comes via Gigabit Ethernet and a WiFi dongle roughly the size of a wireless mouse receiver protruding from its base, and a 5V socket provides Transporter with power. Accessing the 2.5-inch HDD inside is easy peasy: just pop the top off and pull out the drive, and swapping storage is simply a matter of dropping another HDD in the cradle. Overall, it's lightweight device with a rather clean look, as you'd expect from folks with Drobo design sensibilities. 
+
+ We got to briefly chat with Transporter's makers, and they told us that while the Transporter hardware is ready to roll and its web portal is solid, the desktop application still has some kinks to be worked out. Needless to say, the company's confident that the software components of the Transporter system will be finely tuned by the time Transporters begin making their way into the hands of backers. Still not sold? Head on over to the Kickstarter page to learn more.
+
+

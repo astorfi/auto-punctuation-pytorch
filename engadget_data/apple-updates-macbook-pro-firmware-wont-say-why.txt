@@ -1,0 +1,6 @@
+
+ 
+Sure, there are few glaringly obvious reasons to fix the MacBook Pro firmware, such as its "too hot to touch" running temperatures and random whining noises prodigiously documented by users, but Apple ain't saying nothing. They've just released a firmware update for their Intel-based systems cleverly titled: "SMC Firmware Update 1.0," with zero explanation as to the purpose of the update. The SMC, or System Management Control, does manage heat related issues, including the fans, so it's a reasonable guess that the new firmware is meant to address the issues at hand with the MacBook Pro, but you sure wouldn't know it from the way Apple is acting. Luckily, the rabid fan base is already testing out the new firmware, and most have found it to fix their heat issues. The verdict is still out when it comes to the whining noises, with some reporting an improvement and some not. All the same, it would really be nice of Apple to let people know what's up. The first step is admitting you have a problem.
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ Still hurting from Google's "spring cleaning" announcement yesterday? Google Reader fans may be out of luck, but Windows Phone users can take heart in knowing that Microsoft made the whitelist for the CalDAV sync interface, which is now shelved to all but developers who get Mountain View's green light.
+
+ Early this year, Google announced it would extend support for Exchange ActiveSync on Windows Phone through July 31st, with the implication being that Redmond would build support for CalDAV in the meantime. Luckily Microsoft's work was not for nothing, though -- and this is a big though -- the Windows team won't be adding CalDAV or CarDAV support for users trying to connect a Google account via Mail, Calendar or People apps after January 30th, 2013. 
+

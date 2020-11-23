@@ -1,0 +1,9 @@
+
+ 
+
+KPN set off some alarms in Holland last month when it announced a plan to start charging customers separate fees for using VoIP, streaming video, and sending instant messages. But, the question remained: how exactly would it keep mobile data users honest? The answer turns out to be deep packet inspection, which examines network traffic to identify what you're sending and where it's going. It's been suspected that the secret ingredient in KNP's service-throttling sauce was DPI, but it was finally confirmed in a presentation to investors recently. In fact, Mark Fisher, the director of KPN Mobile, bragged that it was the "very first" provider to be "able to identify by deep packet inspection what is actually the destination as data packages go along." Predictably, privacy and net neutrality advocates are up in arms, with some claiming it is a violation of the Dutch Data Protection Act. We just hope someone nips this in the bud soon -- we don't need American carriers knowing about our Scottish Fold obsession. Check out the source link for an audio clip of Fisher's confession.
+
+[Thanks, Daan]
+      
+
+ 

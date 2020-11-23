@@ -1,0 +1,13 @@
+
+       Happy Friday! If you've had trouble this morning accessing your favorite internet outlet, you're not alone. Dyn, one of the internet's biggest domain name servers (DNS) got hit with a distributed denial of service (DDoS) attack this morning, making it quite difficult to reach some of the biggest sites and services on the web. Twitter, Spotify, the New York Times, Reddit, Yelp, Box, Pinterest and Paypal are just a handful of the sites under siege this morning.
+      
+
+ 
+Most of the outages appear to have centered on the east coast, though a few other regions of the US also saw issues. Dyn says that services have been restored to normal, although you might see some lingering weirdness for a little bit. Here's hoping Dyn truly has this DDoS under control so we can make it through the rest of the week without the internet collapsing on us again.
+
+Update, 12:25PM ET: It looks like this attack has been renewed. Twitter is down entirely, and other affected sites are responding much slower than normal (or not at all) right now. We'll keep an eye on this and update as things develop.
+
+Update, 4:20PM ET: Looks like we're down again, folks -- the third wave of the attack is underway, according to Dyn. And the US government is looking into today's outages to see if it was a criminal attack.
+
+BREAKING: Internet infrastructure company Dyn says third denial-of-service attack is underway, some sites disrupted https://t.co/UQHYuytjR9
+— CNBC Now (@CNBCnow) October 21, 2016

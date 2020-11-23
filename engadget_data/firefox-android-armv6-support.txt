@@ -1,0 +1,4 @@
+
+Firefox on Android has been a luxury that devices running Google's mobile OS with ARMv7 processors have had, but now Mozilla is broadening its browser's horizons. Now, the latest version of Firefox's mobile incarnation adds support for phones sporting ARMv6 processors with minimum speeds of 800mhz alongside at least 512MB of RAM. With those specs, that brings the HTC ChaCha and Status, LG Optimus Q, Motorola Fire XT, Samsung Galaxy Ace and others into the fold. In addition, the browser's latest version brings Explore by Touch support on Jelly Bean and hardware and software decoding of H.264, AAC and MP3 formats on Android 4.0 and 4.1 devices. Fixes that address instability on Android 4.2 and text deletion issues also tag along in the release. To get your mitts on the download, simply tap the second source link below.
+
+

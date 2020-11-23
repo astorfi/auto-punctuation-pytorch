@@ -1,0 +1,11 @@
+
+
+Until now, Jawbone's Up bands have had the best software of any fitness tracker on the market. The problem, of course, has been that if you wanted that slick app experience, you had to buy yourself some Jawbone hardware to match -- a risky proposition when the device has some documented sudden-death issues. Not anymore, though. A company spokesperson confirmed that Jawbone will be opening up its API, allowing the software to work on Android Wear smartwatches and anything running Apple's HealthKit (translation: if and when the iWatch comes, it'll be Jawbone compatible). That means going forward, you can run Jawbone's app on your smartwatch, and enjoy the software without having to wear an Up band if you didn't want to. Additionally, Up is at last coming to Windows Phone, so if you own a WP8 handset and have been eyeing the Up24, you can finally take the plunge.
+
+
+
+The Up app will roll out across these various platforms over the month of September, according to Jawbone's spokesperson, at which point there will be two apps you can choose from: the existing Up application for Up band owners, which you can find on iOS and Android, as well as a separate open-access app for everyone else.
+
+Update: Pebble users haven't been left behind: Jawbone is also building an activity tracking app for the Pebble and Pebble Steel smartwatches.
+
+

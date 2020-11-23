@@ -1,0 +1,13 @@
+
+More than a year after Edward Snowden first spilled the beans on the NSA's digital surveillance practices, you wouldn't think that he had much left to reveal. In an interview with Wired, however, the former spy has revealed that the agency is building an autonomous online defense system that will, not only crush digital attacks on the US, but could also launch digital retaliations in the blink of an eye. The in-no-way-ominously-named MonsterMind is designed to scour metadata databases, analyzing the traffic patterns in a way that'd make malicious traffic stand out. Foreign attackers launching DDoS or malware attacks against financial institutions, infrastructure or government systems could then be identified, and blocked.
+
+
+
+          
+ 
+ 
+ Snowden doesn't know much beyond that -- after all, it has been more than a year since he fled the US -- but Wired raises the point that the only way to spot these spikes in anomalous traffic would be to scan the whole internet. That practice, however, would be in direct contravention of both the fourth amendment and the recent oversight report that Judge John Bates carried out about the NSA's respect of privacy and civil liberties. We'd also like to wonder, that if MonsterMind is automatically launching online attacks against foreign powers, then surely it'd be violating the rule that only Congress can make a formal declaration of war. Still, the notion of a digital system that was clever enough to deliver a fast, efficient response to enemy attack... wait, have these guys not seen The Terminator?
+
+       
+
+ 

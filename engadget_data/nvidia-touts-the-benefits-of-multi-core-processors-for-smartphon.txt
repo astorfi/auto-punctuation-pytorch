@@ -1,0 +1,6 @@
+
+ 
+It may simply be a case of stating the obvious, but NVIDIA has just published a rather lengthy whitepaper extolling the many benefits of multi-core processors for mobile devices. That obviously includes some talk about Tegra 2, which is now shipping for tablets (and appearing in some phones), and a couple of fairly bold statements -- namely that dual-core processors will be "the standard" for mobile devices like smartphones and tablets in 2011, and that quad-core processors are coming "in the near future." The ultimate conclusion, of course, is that smartphones and tablets will effectively follow in the footsteps of desktops and laptops, and that as far as NVIDIA is concerned, it intends to be a big part of making that happen. Hit up the source link below for the complete paper (in PDF form).
+      
+
+ 

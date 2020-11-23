@@ -1,0 +1,12 @@
+
+ 
+It's simple, but highly complex. You dig? Qualcomm's AllJoyn demonstration here at MWC was quite the eye-opener, but it's hard to say how much traction it'll gain in a world already inundated with short-range transfer protocols. Bluetooth, Infrared, Wi-Fi Direct... the list goes on and on (and on). Essentially, AllJoyn is an open-source software system that doesn't actually have to run atop Qualcomm hardware; if implemented in a particular app, it can enable peer-to-peer sharing with others based on location. If you're standing near someone who also has an AllJoyn-enabled application, you two (or more) can interact -- if you're both using Bluetooth, the range will be around 30 feet, but if you're both using Wi-Fi, it'll obviously be greater. Qualcomm's hoping to entwine its homegrown FlashLinq (more on that in a separate article) in order to let people use this while being up to 1km away from one another. 
+
+The company describes AllJoyn as a software framework for developers that enables easy P2P access; rather than an app developer having to write this functionality in from scratch, they can simply grab Qualcomm's code and integrate it. Currently, the spec only supports Bluetooth and Wi-Fi, but Wi-Fi Direct and FlashLinq support it in the works, and those will hopefully be added by the end of the year. We're told that the company's also working to create a constant link between devices, which could one day (soon) enable streaming support. There's C++, Java and Javascript models available, with Qualcomm's goal being to have developers port this all over the place. The demo (embedded after the break) involved a foursome of phones sharing photographs with one another, while a nearby laptop was shown engaging in a multiplayer game with two smartphones. We were told that the company's currently in talks with a number of large gaming firms to get this ingrained in future titles, but no specifics were available. Another application would be within a social network, enabling AllJoyn apps to alert users when a friend is nearby. A huge boon there is that this doesn't require data, so international groups who'd like to keep tabs on one another's location will be able to do so without roaming on a foreign network. So, any app developers considering bundling this in with your next update?
+
+
+
+
+
+See more video at our hub!
+ 

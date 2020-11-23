@@ -1,0 +1,6 @@
+
+Been paying attention to Twitter recently? You might have noticed Apple developers complaining about the company's developer portal, which has been out of service for a number of days. Today, Apple acknowledged the outage, explaining that the site was taken down to combat a security breach. "Sensitive personal information was encrypted and cannot be accessed," Cupertino told developers in an email. "However, we have not been able to rule out the possibility that some developers' names, mailing address and/or email addresses may have been accessed."
+
+Naturally, the company is taking the breach very seriously, and has said that it'll be rebuilding its entire developer system database and updating servers to prevent future incursions. Apple also assured developers whose developer accounts were up for renewal during the outage would not have their software pulled from the App Store. Furthermore, the company told MacWorld that customer information and app code was not compromised during the attack.
+
+

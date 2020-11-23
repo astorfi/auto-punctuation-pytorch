@@ -1,0 +1,15 @@
+
+ 
+Want more pedantic details on the MacBook Air? You got 'em.
+
+The micro-DVI out is single-link only, meaning it can drive a 24-inch monitor, not a 30-inch. There's no DisplayLink converter / adapter yet.
+Remote Disk comes on the install DVD -- ironically, Apple expects you to carry around a DVD to install so you can access someone else's DVD drive. Righty-o.
+It uses MagSafe, but the new connector is angled 90-degrees to stay out of the way. You can use a regular MacBook / Pro adapter, assuming you don't mind the side being propped up a little (or hanging off the edge of a table). You can also use the MBA's 45w adapter on other machines -- the plug should still fit, but the adapter may not have enough juice to charge AND power a running machine.
+The MacBook Air superdrive needs special hardware in the MBA to work -- Apple wouldn't tell us if any other devices will be able to use the thing, but we imagine the ~500mA USB outputs won't be enough.
+The 64GB SSD option is +$1000 -- but you probably already knew that if you hit Apple's site.
+The speaker is mono only (not stereo), so your audio output will suffer a bit. The audio comes out of the keyboard holes in the right side, and it sounds a little funny.
+The port array folds down, it's not a door over ports that don't move. It feels extremely sturdy.
+Duh, the only audio input will have to be via USB or the built-in mic.
+The machine comes packaged with micro-DVI to DVI and micro-DVI to VGA adapters, but you have to snag the S-Video and composite adapters separately.
+
+ 

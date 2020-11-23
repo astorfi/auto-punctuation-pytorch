@@ -1,0 +1,6 @@
+
+ 
+Now that you've flashed your Xbox 360's firmware to enable the playing of backup discs, you probably want to start actually backing up those expensive games you bought in case they get scratched or perhaps even melted by your toasty 360. And luckily for you, CleverMod has posted just the step-by-step instructions you need for ripping your games and then burning the images onto dual-layer DVDs -- but keep in mind, you're voiding about a million warranties with all of this flashing and ripping and such. Basically, CleverMod's method involves disassembling a DVD drive so that you can switch discs without hitting the eject button, and then installing a program called WxRipper that finds a so-called "magic number" from any regular 8+GB dual-layer DVD. The program then uses that data to unlock a substituted 360 disc and dump a RAW copy onto your hard drive, which can be burned onto a blank disc and presumably played using the Commodore4Eva hack on Toshiba-Samsung drive-sporting 360s. And just to be super clear, if you don't own a copy of the game you're ripping, then you're not allowed to do this (i.e. Blockbuster, GameFly games are off-limits).[Via digg]
+      
+
+ 

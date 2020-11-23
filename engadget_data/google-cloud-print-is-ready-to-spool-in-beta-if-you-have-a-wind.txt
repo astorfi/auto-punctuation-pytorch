@@ -1,0 +1,6 @@
+
+ 
+Google blew the lid off of Chrome OS yesterday in a big way, and one of its key features is now ready to roll. Cloud Print was unveiled back in April, a method to enable Google mobile devices to print via nebulous networking, and it's now here -- with some caveats. The biggest being that right now the only host for a non Cloud Print-compatible printer (basically all but this one) is a Windows PC running Chrome 9.0.597.1 or greater. Set up the service through there and the browser will host your good 'ol printer to your Chrome OS device. Don't have a Chrome OS device? You will. Eventually more printers will support this natively, eliminating the middleman, and we're sure printing support will be coming to Android down the road too. When? In due time, fair reader. In due time.
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+It may not be as big a surprise as the A4 itself was, but Apple has now confirmed via the latest iPad SDK Beta 3 documentation that the iPad does indeed use PowerVR SGX graphics hardware as part of its custom system-on-a-chip, which flatly contradicts previous reports of A4 using Mali, and lines up with what our pal Anand Shimpi has been telling us lately. What Apple doesn't confirm, unfortunately, is exactly which chip in the PowerVR SGX family the iPad uses, so it's still at least possible that it could pack a bigger punch than the iPhone or iPod touch.
+
+In related news, a recent Apple job posting has now also offered up the first hard evidence that Apple might actually be putting its huge investment in A4 to use other platforms besides the iPad -- shocking, we know. That job is for an Engineering Manager, who would lead a team focused on the "bring-up of iPhone OS on new platforms," and would otherwise be responsible for "low level platform architecture, firmware, core drivers and bring-up of new hardware platforms" -- experience with ARM-based SoCs is also an "additional success factor." Sound like the job you've been waiting for? Then hit up the link below for the complete details.
+      
+
+ 

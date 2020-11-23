@@ -1,0 +1,4 @@
+
+ If you thought Google's perspicacious searching application was clever before, prepare for a shock. Google Goggles version 1.9 adds support for devices without autofocusing optics, giving those on budget gear a chance to use the real world as a search box. Point it at a QR code containing a URL, and it'll show you a thumbnail of the page and check its credentials against its blacklist of malicious sites. If it comes up short when searching for a product, it'll even search for similar-looking items to help you find what you're looking for, and it's available from the Play store for free -- so you don't really have any excuse.
+
+

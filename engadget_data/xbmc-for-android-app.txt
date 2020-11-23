@@ -1,0 +1,9 @@
+
+ 
+ Surprise surprise, after popping up on the iPad last year, XBMC developers revealed tonight that they've created a version of the media center that runs as an Android app. Currently the team has it stable on the Pivos XIOS DS set-top box, and posted a video (embedded after the break) showing it running on a phone and a tablet. Of course, the different varieties of Android hardware audio and video decoding is mostly a software only affair, but universal hardware decoding is in the plan. The truly dedicated can dig up the source code right now, but APKs for beta testers are promised "in the coming weeks." According to the blog post, it currently includes a community member created touch oriented skin and hopes to have more available before any version of this hits Google Play officially.  [Thanks, Bharath]
+
+
+
+
+ 
+ 

@@ -1,0 +1,8 @@
+
+ Not sure when, or even if, this phone isever going to be released (at least in its current form), but Microsoft is showing off a Windows Mobile-poweredSmartphone from Modeo at its booth here at CTIA that comes with a DVB-H receiver for watching mobile digital videobroadcasts. The phone itself is par for the course for a Windows Mobile Smartphone (the phone is actually made by HTC)-- it has quad-band GSM/GPRS/EDGE, a 2.2-inch, QVGA display, Bluetooth 1.2, a 200MHz OMAP processor, 128MB of FlashROM, 64MB of RAM, a 1.3 megapixel digital camera, and a microSD memory card slot. With this thing it's really all aboutthe DVB-H tuner, and the demo Ryan and I saw of QVGA resolution, 30 fps video was pretty tight. The whole point of DVB-H(and DMB and MediaFLO) is that you can watch digital TV on your phone or handheld without any of the stuttering,caching, or picture quality issues that are largely unavoidable when you stream over a wireless data connection. Modeois already testing its DVB-H network here in the States, but have not yet said when they'll be launching commercially(getting the carriers to agree to sell phones with DVB-H tuners is a ridiculous complicated affair). Clickon for a few more pics.
+      
+
+ 
+
+
+ 

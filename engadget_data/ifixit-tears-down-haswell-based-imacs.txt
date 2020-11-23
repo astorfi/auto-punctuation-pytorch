@@ -1,0 +1,4 @@
+
+As is its custom, iFixit has torn down the new Haswell-based iMacs to gauge their repairability -- and the company has found a few surprises despite the iterative design. In addition to new processors, graphics and WiFi, the updated all-in-ones now have unoccupied PCI Express slots in their base configurations. DIY enthusiasts willing to pry open their systems can add PCIe-based SSD if they like, iFixit says. Not every change is good news, however. The 21.5-inch iMac's processor is now soldered to the motherboard; while earlier models weren't all that upgradable, the move prevents even determined hobbyists from using their own CPUs. Whether or not you plan to tinker with Apple's desktops, you'll find quite a lot to explore at the source links.
+
+

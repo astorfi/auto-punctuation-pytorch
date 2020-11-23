@@ -1,0 +1,8 @@
+
+       
+Sagem Orga was on the floor of MWC this week, a company that really doesn't typically draw a lot of attention outside wireless industry suits who fly out to Barcelona to broker deals -- at least, not until they do something totally insane like stuff a WiFi radio into a SIM card. We talked to the company a little bit about its coin-sized technological tour de force and we were shocked to learn that it doesn't instantly nuke your phone's battery -- the gentleman running demos said that he was getting about a days' worth between charges with occasional use. Of course, "occasional use" could mean anything, but he added that the card is currently throwing out a hotspot cloud of anywhere between 5 and 50 meters, and it could easily be reworked to stay within a much smaller radius which improves battery consumption in the process.
+
+Unfortunately, we weren't allowed to take any pictures of the actual SIMfi; this is just a dummy pictured above, but our demo guy took off the battery cover of his phone and we were shocked to find that the real thing looks no different from any other SIM (no, seriously). We guess that makes sense since it has to fit into a standard SIM slot, but it's rocket science how they managed to fit all that circuitry into a board that tiny -- in fact, we were shown an x-ray view of the card, and the number of chips, resistors, and miscellaneous pieces of technology in there is nothing short of mind-bending. It's hard to say when (or if) we'll see these on carriers around the world, but it's going to be a little while -- Sagem Orga tells us the prototypes cost a stout €5,000 (about $6,800) each.
+      
+
+ 

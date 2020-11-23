@@ -1,0 +1,8 @@
+
+ 
+As promised, Netflix has released performance statistics for U.S. and Canadian ISPs, culled from the many HD streams it provides. Unfortunately there's not much enlightening information to be found, while Charter did rank at the top in overall average bitrate the other major cable ISPs like Comcast, Cox and Time Warner weren't far behind, with only the smaller DSL providers appearing to lag behind and Clearwire's 4G service at the absolute lowest (no mobile data here, these were averaged from HD streams and devices only.) The most interesting data at first glance is Verizon mired squarely in the middle, although it's hard to tell if its own DSL customers are actually dragging down the lightning performance one would expect to experience on FiOS. Also potentially impacting performance are the number of lower-speed capped packages in use, mostly on DSL lines. Ultimately, it's really difficult to pull any useful data from the charts provided but given time we may be able to observe any notable shifts in performance, if they occur. Go ahead and click through for the Canadian chart and a breakdown of the data presented and how it was accumulated.
+
+Update: We confirmed with Netflix that the Verizon stats are combined DSL and FiOS numbers, so we probably wouldn't cancel the order for that 40Mbps fiber for a cable connection just yet. There's absolutely no way to extrapolate any kind of potential personal viewer experience from these numbers the way they're compiled.
+      
+
+ 

@@ -1,0 +1,12 @@
+
+ We've all misplaced keys, gadgets and occasionally even children. Well, no more. StickNFind is a nifty, inexpensive solution for tagging and locating electronics, keys and pets. For roughly $25 a pop (estimated retail), you get a small adhesive disk that can be affixed to any flat surface or attached to a keychain. Inside, there's a replaceable CR2016 watch battery that's said to last more than a year, a Bluetooth module and antenna, an LED-lit ring and a piezoelectric speaker. A free Android or iOS app then lets you hone in on any stickers within a roughly 100-foot (line of sight) range. The current version can only display distance, but an update, set to hit before StickNFind ships, will add direction, leading you directly to your target. You can also activate a (fairly faint) beeper, and an LED ring around the perimeter of the sticker, further helping you to find the device, even in a dark room. The app will offer several other features, including a "Virtual Leash" that alerts you when the sticker goes out of range -- a "Reverse Virtual Leash" will make the device (perhaps attached to your keys) beep, letting you know you've left your smartphone behind.
+
+ The product designers will also be offering an SDK, so developers can even create their own apps for StickNFind. For example, you could write an app that uses the stickers as triggers -- apparently one museum plans to affix the device to art, so as visitors approach, a text notification will pop up describing the piece. Another company is considering using stickers at an upcoming conference, and with Bluetooth transmitters placed around a venue, they can track the precise location of attendee badges (and the individuals wearing them), and even send "pages" by triggering the beeper and light. During our hands-on, StickNFind worked quite well, though as we mentioned, the current alpha version of the app only displays distance, not direction. The device is currently available for "pre-order" on Indiegogo, with an estimated March ship date. You can snag a sneak peek of it in action though, in our hands-on video after the break.
+
+
+
+
+
+ 
+
+ 

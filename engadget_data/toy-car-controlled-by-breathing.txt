@@ -1,0 +1,7 @@
+
+While controlling a full-sized automobile with a PSP may be impressive, at least this project has some amount of practicality. Musicians and singers, listen up, because this breathing-controlled car could provide the perfect mix of practice and pleasure to get your controlled breathing, well, under control. Even if you couldn't carry a tune in a bucket, Matthew Brown's creation gives you a chance to have some fun while blowing off some steam. The aptly named "Breath Control Car" was designed to make the mastery of controlled breathing a bit more enjoyable, and he pulls it off by using a MIDI breath controller to channel puffs to a MAX/MSP. MIDI signals are converted to serial data, where those signals are beamed via Bluetooth to a PIC chip, and finally to a servo that directs the car. If all that sounds like hot air, here's the deal: the harder you exhale, the harder it steers right, while softer breaths steer it left. The forward and reverse functions are handled by a simple remote-control, presumably to avoid hyperventilation. If you've been tooting your horn about getting serious with your breathing, but need a more riveting reason to practice, watch this machine in action to see what Matthew's breath car can do for you.
+
+
+[Via Makezine]
+
+

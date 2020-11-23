@@ -1,0 +1,24 @@
+
+As geeks, we have a tendency to let our imaginations run away with us. Science fiction-fueled dreams conjure up images of flying cars, robots and artificial reality. We judge our gadgets by the arbitrary standards of famous speculative works: hoverboards by 2015 and a holodeck in every home. It's a silly and unrealistic way to measure our progress, but it inspires us to build the future we're tired of waiting for. This is the kind of passion we found at Oculus VR headquarters, where founder Palmer Luckey and a platoon of software engineers, hardware gurus and marketing wizards hope to make virtual reality a plausible reality. We sat down with the company's aforementioned founder and VP of Product Nate Mitchell to find out where that passion came from and where Oculus VR is heading.
+
+
+
+"Before the Rift, I worked on a lot of different things," Luckey says, recalling memories of his parent's garage. "I was a hacker, an electronics modder. I worked a lot on modifying game consoles, building computers and making little electronic doodads."
+
+Like many, Luckey was lured to the world of electronic tinkering by the modding exploits of Ben Heckendorn, who eventually inspired the young builder to create his own console-modification community, ModRetro, with a simple motto: learn, build, mod. It wasn't long before Luckey's love of modding crossed paths with his interest in virtual reality.
+
+"I really just wanted to go out and buy a virtual reality headset," Luckey tells us, reliving the frustration that led to the creation of the Oculus Rift. "I couldn't find anything that I wanted to buy, so I made the foolish decision of saying 'I bet I could make something.' I wasted a few years doing it," he jokes. "But it was a really fun hobby."
+
+Luckey's early prototypes were unpolished amalgamations of other devices, culled from what he believes to be the largest personal collection of head-mounted displays in the world.
+
+
+"I keep trying to find someone to prove me wrong so we can be best friends." he says, laughing. "A lot of my early prototypes were built off of parts that I cannibalized from these units, and there were a lot of things I got that I wound up upgrading with more modern displays. One head mount might have really great optics, but another would have more modern displays -- I was able to put the better displays in the older optics and get a pretty cool thing."
+
+These projects were the foundation of what would eventually become the Oculus Rift, though you wouldn't know it from looking at them.
+
+"I named them in order," Luckey says, describing his early HMD (head-mounted display) prototypes. "It wasn't a very creative naming scheme. PR1 was the first, for Prototype 1."
+
+
+This first unit wasn't even in 3D. It was a far cry from Luckey's current stereoscopic headgear, but in a way, it inspired the Rift's current design. While planning a follow-up project, Luckey had a breakthrough: the panel he used on the PR1 had an active area that was 120.96mm wide -- almost double the average human interpupillary distance (the distance between the center of the left and right pupils). A plan quickly formed: instead of using two displays to build a 3D head mount, Luckey figured he could do it with one. The resulting device, the PR2, wasn't very good according to Luckey, but it served as a proof of concept.
+
+

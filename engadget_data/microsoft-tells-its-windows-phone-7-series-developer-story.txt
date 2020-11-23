@@ -1,0 +1,11 @@
+
+ 
+
+At its dev-focused MIX10 event kicking off today, Microsoft's closing the loop on some of the Windows Phone 7 Series third-party development details it started sharing in the days leading up to GDC last week -- and as you might expect, Silverlight and XNA are the stars of the show. XNA will naturally be the core, critical element of Redmond's gaming story while Silverlight is serving as a catch-all for the "rich internet applications" that make up much of your other mobile activities for those rare moments when you're not... you know, blowing up aliens or navigating a race course littered with your opponents' destroyed vehicles. To that end, Microsoft is kicking things off on the right foot by offering a free package of developer tools to would-be WP7S coders that includes both Visual Studio 2010 Express for Windows Phone and the Silverlight-focused Expression Blend for Windows Phone, pretty much everything you need to start building apps in preparation for the platform's anticipated launch toward the latter part of the year. The beta dev tools are available today.
+
+Developers are going to be treated to a host of must-have services out of the gate, including accelerometer support, location-based APIs using Microsoft's own Location Service, a newly-announced Microsoft Notification Service for pushing notifications regardless of whether an app is running (sound familiar?), hardware-accelerated video with integrated DRM and support for Microsoft's Smooth Streaming tech, multitouch, and camera / microphone access.
+
+On a related note, Microsoft has shared some important details on the revised Windows Phone Marketplace (notice the subtle name change) for WP7S-based devices today. The revenue split remains unchanged -- 70 percent goes to the publisher, 30 percent to Microsoft -- but the developer portal for managing submissions has been "streamlined" and some of the incremental costs associated with it have been killed off; what's more, students enrolled in the DreamSpark submission will have their registration fees waived altogether. The Marketplace has evolved from an app store to a content "destination," housing apps, casual and premium Xbox Live games, music, and customized carrier stuff in one spot. We'll be wandering MIX10 throughout the day, so stay tuned as we get more of the story.
+      
+
+ 

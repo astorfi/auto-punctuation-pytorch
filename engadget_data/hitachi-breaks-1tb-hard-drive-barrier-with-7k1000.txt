@@ -1,0 +1,6 @@
+
+ 
+Well, we knew it was likely to happen in 2006 or 2007: Hitachi has fulfilled their promise and broken the 1TB drive barrier with the introduction of Hitachi's new Deskstar 7K1000 drive. Thanks to perpendicular recording and the average consumers' voracious appetite for porn totally legitimate data, Hitachi's new $400 drives -- available in SATA II or PATA 133 varieties, with differing speed modes, a 32MB buffer, quieting accoustics, SMART, and a 7200rpm spindle speed -- will hit the market running in Q1 of this year. Also announced: the CinemaStar 7K1000, a DVR-centric drive due in Q2 which wasn't fully detailed, but apparently has "adaptive error recovery", "Smooth Stream Technology to optimize the drive for audio/video applications requiring reliable storage", and other buzzy sounding stuff which just seems a lot like regular old drive features. We'll assume it's better tuned for high-throughput read / write performance, and leave it at that.
+      
+
+ 

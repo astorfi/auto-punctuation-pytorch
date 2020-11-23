@@ -1,0 +1,6 @@
+
+ In the last several years Google has become quick to respond to complaints of copyright infringement. Unfortunately, its record in dealing with unfounded claims (specifically on YouTube) is a bit mixed. In particular the process for appealing a Content ID takedown has left many users frustrated and with little recourse in the event of a rejected dispute. And its the content owners themselves who make that decision. Starting today, even if a dispute is rejected, users can file an appeal that leaves a content owner with one of two choices -- rescind the complaint or file a proper DMCA takedown notice. To minimize the amount of appeals and disputes Google is also launching an improved Content ID algorithm that identifies potentially invalid claims and places them in a queue to be reviewed manually before takedowns are issued. For more, check out the source.
+
+ Update: Wired has a statement from Google clarifying that the queue flagged content ends up in is for it to be reviewed manually by the content owner, not Google itself.
+
+

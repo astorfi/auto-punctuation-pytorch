@@ -1,0 +1,16 @@
+
+
+Thanks to Moore's Law, anybody can predict that even the most powerful smartphones and tablets coming out right now (the HTC One M8 and Samsung Galaxy S5, for instance) will be made obsolete by whatever flagships get announced in 2015. These predictions fortunately don't have to be based off of speculation anymore, since Qualcomm just revealed the Snapdragon 810 and 808, a pair of 64-bit high-performance chipsets slated to show up in flagship Android devices early next year.
+
+
+
+Both new Snapdragons come with 64-bit support, but they won't be the first Qualcomm chipsets to have it: the Snapdragon 610 and 615, announced at Mobile World Congress in February, will hit the market just in time for the 2014 holiday season. The difference, however, is in the rest of the package; the 810 and 808 will come packed with plenty of other powerful goods.
+
+
+Qualcomm claims that both 20nm chips will be smaller, lighter and more power efficient. The octa-core 810 is the more appealing of the pair. It'll sport four Cortex-A57 cores for power-intensive tasks and four lower-power Cortex-A53 cores for those times you don't need the extra oomph. Additionally, it will come with support for 4K displays, LPDDR4 RAM (which is faster and more efficient than LPDDR3), voice activation and dual Image Signal Processors for better imaging. The included Adreno 430 GPU is supposed to be 30 percent faster than the 420, which isn't even out in today's flagships yet (we're expecting it in the Snapdragon 805, which will debut later this year). It will also support Cat 6 LTE-Advanced (the modem is integrated directly into the chip this time) and 2-stream multi-user MIMO; this basically means that your WiFi connection will be significantly faster and more efficient than what you've got on your phone or tablet right now. If Qualcomm can deliver exactly what it's promising here, next year's high-end devices will be incredibly impressive.
+
+The 808 shouldn't be ignored either, and not just because it bears the same name as a famous drum machine. This chipset will come with six cores (two A57 and four A53), 2K display support, LPDDR3 RAM and an Adreno 418 GPU, which claims to be 20 percent faster than the Adreno 330 (which can be found in today's flagships). We're not entirely sure how this chip will be positioned when compared to the 810 and 610/615, but naturally we're expecting it to be somewhere in between.
+
+Interestingly, Qualcomm's sharing the roadmap to its premium Snapdragon chipset lineup much earlier than it usually does; the 810 and 808 won't be available on devices until the first half of 2015. This is largely due to competitive pressure: MediaTek, Intel and NVIDIA are going big by pushing out chips with 64-bit support and, in some cases, eight cores. Given how fast the industry is iterating, it's not hard to see that Qualcomm -- which currently dominates much of the mobile chipset market -- doesn't want to lose momentum or popularity.
+
+

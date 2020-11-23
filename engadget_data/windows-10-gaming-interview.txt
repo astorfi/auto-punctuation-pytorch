@@ -1,0 +1,41 @@
+
+Microsoft made a lot of sweeping statements yesterday about what it wants for the future of Xbox and Windows. We don't like broad statements here at Engadget; we like specifics. Good news! We've broken down the aforementioned statements into the stuff that really matters: how you will be affected by the upcoming launch of Windows 10, specifically as it pertains to the game console you own and the PC you use for games. We've got answers on everything from in-home game streaming to Xbox's biggest games heading to the PC, so head below for a beat-by-beat breakdown of what yesterday's big announcements mean for the future of the Xbox platform as we know it.
+
+
+
+
+
+WINDOWS 10 ON XBOX ONESavvy Xbox One owners and "Metro"/"Modern" design enthusiasts likely already know this: The Xbox One OS is a version of Windows 8. The fact that the Xbox One dashboard looks strikingly similar to Windows 8 on a tablet is no mistake -- it's the same OS, to an extent. In this respect, Xbox One is getting a overhaul, though it might not look like a big difference at first.
+
+"One of the monthly updates that you'll get on [Xbox One] is gonna change from the Windows 8 kernel that's in there now to the Windows 10 kernel," Microsoft Xbox lead Phil Spencer said during a group interview in Redmond, Washington, yesterday. "I know a lot of people are excited about things like Cortana and other features they see on Windows 10. Obviously getting on the Windows 10 kernel -- well, it's not really the kernel -- but Windows 10 OS inside of Xbox One is an important first step to unlock a lot of what [Microsoft's Joe Belfiore] showed."
+
+
+Okay, let's back up: The long and short is that, during an upcoming monthly update to the Xbox One, the console is going to flip from being Windows 8-based to being Windows 10-based. That doesn't necessarily mean new features at first (stuff like Microsoft's voice-based personal assistant, Cortana, which Belfiore spoke about onstage yesterday), and it doesn't necessarily mean a dashboard refresh.
+
+In the long run, however? That's exactly what it means. Spencer's talked to us about Cortana coming to Xbox One in the past, so it's not a huge surprise to hear that stuff is almost certainly heading to Microsoft's game console.
+
+As for a refreshed look, this is the first we're hearing. Spencer's got nothing to say specifically, but he made sure to point out that the mockups shown onstage (seen below) were meant as little more than a conceptual visual.
+
+
+"I don't want anybody to take away that that's the next dash for the Xbox," Spencer said. "We haven't talked about a new UI or anything. There's nothing wrong with that picture other than it's nothing that we said that's what we're going to ship. I don't want anybody to go off in the wrong direction on the pictures." The point, he said, was to present a broad variety of devices running Windows 10 with "a common UI." That is indeed the long-term point of Windows 10 -- hell, even the short-term point -- but the visual above is not representative of the future look of the Xbox One OS.
+
+So what will Windows 10 look like on Xbox One? Probably a lot like it does right now, albeit with refreshed universal apps (Photos, Music and more are all getting a refresh with multi-device use in mind) and DirectX 12 support (read: prettier graphics).
+
+PC GAME STREAMING ON XBOX ONE, AND VICE VERSAPart of yesterday's Microsoft keynote was focused on game streaming, but not the type that PlayStation Now is attempting to achieve. Rather, with Windows 10, you'll be able to push Xbox One games to any Windows 10 device (well, not phones -- that's a tremendously bad idea) on your local network (WiFi or hardwired). Pretty simple: By using the Xbox app on Windows 10, you can right-click whatever game you own on Xbox One and select to stream it, which will then start the game and stream it to the PC. But what if someone is already using that Xbox One to watch TV or HBO Go or anything else that isn't a game? Things get complicated pretty quickly. Here's Spencer on those complications:
+
+"Our intent is somebody could be watching television on the Xbox One -- running any Windows application. Our goal is that you'd be able to do both. We haven't perfectly landed that yet, so I didn't answer that question completely onstage. But I want to be transparent that our goal is to have it so that if my kids are watching TV and I want to go up and play Forza and there's like this TV contention, I could go do that. It loads in the background. So that's our intent, but we haven't completely landed that scenario."
+
+Spencer doesn't have much better answers about the potential for streaming PC games to the Xbox One -- something that Razer's $99 Android TV box is capable of, mind you -- but he pre-empted our own question with an impromptu answer on just that. "It's something that we're really looking at. This announcement was what we had, but if you think about that vision -- my games are my games, wherever I am -- we want to be able to land solutions that are as native as the one we showed there," Spencer said.
+
+As for how seamless the streaming experience will be in terms of ending the stream and picking up where you left off on the Xbox One itself, Spencer expects the ability to directly transition from one platform to the other to be there from the start.
+
+HALO, GEARS OF WAR, FORZA AND MORE, ALL ON YOUR PCStreaming games is not Microsoft's solution to putting first-party games on the PC. Spencer made that explicitly clear during the group interview he held at Microsoft's campus after the keynote. "Fable is just the first of our first-party games that will be coming to Windows 10," Spencer said, in reference to Fable Legends, which was announced as heading to Windows 10 and supporting cross-platform play between Xbox One and PC. That's to say: You can play the game online with your friends on PC and on Xbox One, regardless of which system you're on. It's the first game of many that'll have such an ability -- Spencer couldn't think of a single first-party title in the works that wouldn't make sense for cross-platform play, actually.
+
+
+"I'm trying to go through the first-party portfolio in my head and think of one that's not: I don't -- that I would say there's a reason we wouldn't do cross platform play in this game? I don't have that in my head," Spencer said. It's not a guarantee with every game from Microsoft Studios that heads to both PC and Xbox One, but there's nothing stopping any developers who want to implement that functionality. That goes for third-party developers as well: If you want to make your game playable between Xbox One and PC, Windows 10 enables that.
+
+WHAT MICROSOFT DIDN'T SAYWhere's the Xbox One version of Steam's Early Access program? And which universal apps are heading to Xbox One? And how is there still not a basic weather application? Or Spotify?! How easily will Windows 8 apps on Xbox One translate to the Windows 10 update?
+
+There's a lot left to know about the future of Xbox One as it pertains to Windows 10, and Microsoft promised more details in March at the Game Developers Conference and in April at its annual Build conference. We'll be at both, asking the questions above and much more.
+
+

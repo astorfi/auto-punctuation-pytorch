@@ -1,0 +1,7 @@
+
+ Think we'd all be better off if HTML5 could somehow instantly replace Flash overnight? Not necessarily, according to a set of comparisons from Jan Ozer of the Streaming Learning Center website, which found that while HTML5 did come out ahead in many respects, it wasn't exactly a clear winner. The tests weren't completely scientific, but they did find that HTML5 clearly performed better than Flash 10 or 10.1 in Safari on a Mac, although the differences were less clear cut in Google Chrome or Firefox. On the other hand, Flash more than held its own on Windows, and Flash Player 10.1 was actually 58% more efficient than HTML5 in Google Chrome on the Windows system tested. As you may have deduced, one of the big factors accounting for that discrepancy is that Flash is able to take advantage of GPU hardware acceleration in Windows, while Adobe is effectively cut out of the loop on Mac -- something it has complained about quite publicly. According to Ozer, the differences between HTML5 and Flash playback on a Mac could be virtually eliminated if Flash could make use of GPU acceleration. Hit up the link below for all the numbers.
+
+Update: Mike Chambers has performed some additional tests that he says shows that "does not perform consistently worse on Mac than on Windows." Check out the complete results here.
+      
+
+ 

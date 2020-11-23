@@ -1,0 +1,5 @@
+
+ 
+ The fallout from malware like Stuxnet and Flame might soon be rearing its head at a Google Plus page or Gmail inbox near you. A post on its online security blog states that Google will now issue warnings in the form of a strip placed just below the upper menu bar to users being targeted by suspected state-sponsored cyber attacks. Google stressed that such warnings don't mean that its systems have been compromised but it does make it highly likely that the recipient may be the target of state-sponsored phishing or malware. How exactly does Google know this to be the case? The company declined to offer specifics, only saying that data from victim reports and its own analysis strongly point toward the involvement of states or state-sponsored groups. Google also didn't mention how often it sees such malicious activity, though coverage of Stuxnet and Flame certainly has put a spotlight on cyber warfare involving nations. In the meantime, feel free to hit the source link below for Google's tips on how to secure your account.
+
+

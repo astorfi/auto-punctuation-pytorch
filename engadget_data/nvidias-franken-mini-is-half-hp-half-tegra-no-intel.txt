@@ -1,0 +1,10 @@
+
+       
+And now, a little visit to the "Why not?" department: NVIDIA is showing off an HP Mini 1000 at CTIA that it has totally gutted, replacing the laptop's stock Atom-based circuitry with its own Tegra wares atop a bone-stock Windows CE build. At first the move seems counterproductive since Tegra can't run XP or Vista, but if you look at this as the first prototype of a large Tegra-powered $99 MID, you're thinking along the right lines. The concept isn't indicative of any sort of partnership between NVIDIA and HP, but the chipmaker is looking at this as an opportunity to demonstrate to manufacturers how easy it is to make a device like this -- and like other Tegra devices we've seen, this thing could easily have HDMI, run fluid 3D graphics, and generally make the world a better place at a stupid cheap price. We were also shown a Tegra single-board computer measuring no larger than a single small-outline DIMM like you'd find in a modern laptop, proof that this action can be scaled way down depending on the kinds of devices manufacturers are looking to make. Check out a video of the Franken-Mini after the break.
+
+
+
+
+
+
+ 

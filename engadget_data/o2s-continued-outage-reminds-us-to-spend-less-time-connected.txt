@@ -1,0 +1,9 @@
+
+ 
+ Ever wondered what life was like before the mobile phone? Well for swathes of O2 customers in the UK, that has been their reality since mid afternoon yesterday. Okay, network outages happen. It's a fact of modern-day life. But a nationwide problem that persists for so long is a horrible reminder of our digital dependency. The BBC reports that the problem O2 is facing relates to a core network element called the HLR, or Home Location Register. Essentially a big fat database of who's allowed onto the network. It seems that one of these has headed south, and has failed to be resuscitated. This means that while the problem can affect users from Lands' End to John O'Groats, there will be users in the same locations totally unaffected. Naturally the operator has been throwing out the apologies like rice at a wedding, but with such a long bout of radio silence, and a few MVNOs to answer to, it's more a case of "Oh no" than O2. We contacted the firm for comment, and they advised us that all aspects of the service, including 3G, will be restored by this afternoon. So when your Twitter suddenly floods with updates, you can let the world know you're back on.
+
+ Update: For the sake of completeness, here's the latest update from O2 --
+
+  Following the previous update that our 2G network service has now been restored, our 3G service has been restoring gradually. We expect full service to return this afternoon. In the meantime customers should now be able to make and receive calls (and may wish to try switching their mobile phones off and on as service returns).
+  We are sorry again for the inconvenience this has caused some customers. We continue to deploy all possible resources, and will do so until full service is restored.
+

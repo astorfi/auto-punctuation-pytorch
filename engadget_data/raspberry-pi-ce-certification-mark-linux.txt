@@ -1,0 +1,5 @@
+
+  Raspberry Pi hit another snag in distribution this week, though the company seems optimistic that shipments of its long-awaited Linux PC won't be dramatically affected. The issue centers around two companies -- RS Components and element14/Premier Farnell -- that have confirmed they won't distribute the device until it's been anointed with the CE label. Raspberry Pi had previously argued that its PC is not a "finished end product," and that it, like Beagleboard, could therefore be distributed without the CE mark. Its distributors, however, disagreed. As a result, the team is working to get their computers CE-compliant "as soon as humanly possible," and are already pretty confident that they'll meet category A, and perhaps even category B requirements. They're also working closely with the UK's Department for Business, Innovation and Skills to better understand the standards to which non-CE products like Beagleboard are held. No word yet on when RS and Farnell might issue a verdict, but the Raspberry Pi Foundation says it'll let us know as soon as they do.  
+      
+
+ 

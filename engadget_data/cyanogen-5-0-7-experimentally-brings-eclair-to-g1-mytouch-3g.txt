@@ -1,0 +1,7 @@
+
+ After a brief delay, looks like CyanogenMod 5 is now out for the HTC Dream, Magic and Sapphire, also known as the T-Mobile G1 and myTouch 3G. The release is labeled as experimental, so take care not to flash it onto your work phone, and G1 owners should back up their data as they'll need to install a little something called the DangerSPL (which has phone bricking potential) and perform a full wipe. If you're the kind of individual who doesn't shy away from software explicitly labeled "danger," get cracking on that rooted Eclair at the source link.
+
+Update: Can't get through? That's because the sheer willpower of Android early adopters is crushing websites hosting the CM5 ROM like so many stale pretzels. Cyanogen is retweeting alternative options if you simply can't wait for things to quiet down.
+      
+
+ 

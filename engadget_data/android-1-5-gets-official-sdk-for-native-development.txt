@@ -1,0 +1,6 @@
+
+ 
+Java-based development within a specialized, optimized virtual machine is one of the founding principles of the platform that makes Android what it is -- but sometimes, you need a little more oomph and you've got to bend the rules to make that happen. Google's totally cool with that, it turns out, and today they've released the Android 1.5 Native Development Kit (NDK) that allows developers to generate C and C++ libraries that run directly on the platform rather than being routed through Dalvik. The Android team pulls no punches that devs should be careful when going native, saying "your application will be more complicated, have reduced compatibility, have no access to framework APIs, and be harder to debug" -- but as they note, there'll be times when the improved performance and deeper access to hardware will be a boon. As with HTC's Sense, it'll be interesting to see how this affects the platform going forward.
+      
+
+ 

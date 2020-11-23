@@ -1,0 +1,8 @@
+
+ 
+Like the camera references, this could just be another case of vestigial SDK weirdness -- but for whatever reason, devs have noticed (and we've been able to reproduce) a "Touch to return to call" bar in the iPad emulator just like you'd expect to find on an iPhone during a traditional GSM call. It certainly seems like Steve would've bothered to mention during today's festivities if you could do something crazy like pair up a Bluetooth headset and go to town (and you'd need a voice plan on top of that $29.99 data anyway), so who knows: either Apple's just made every UI element as adaptable as possible regardless of whether it's applicable to a particular device, they're planning a higher-res iPhone down the road, or they're integrating the bar into some VoIP action. Or... you know, none of the above.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

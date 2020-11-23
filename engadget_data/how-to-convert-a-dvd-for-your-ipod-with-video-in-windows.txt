@@ -1,0 +1,25 @@
+
+ Today's how-to willtake you through the steps of getting from DVD to the new iPod(with video) on the Windows platform. Happy portable watching!
+
+
+What you will need: a dvd to avi ripper program (we used the free DVDx 2.3 off ofsourceforge) an avi to mov (quicktime) program (we used the trial version of Xilisoft VideoConverter) the new itunes 6.0 (free download from apple)  ProcedureLoad your DVD in DVDx2.3 by choosing “OpenDVD Root” from the drop down menu and navigating to and selecting the VIDEO_TS file ofyour DVD.
+
+
+Prepare yourinput settings for the dvd in DVDx 2.3. In  DVDx 2.3 you should choose the correct video track,  languageof audio, output frame rate, and subtitles in the  “Input Settings” menu.
+
+
+Next, choosethe correct parameters in the “Output Settings” menu. Choose AVI, Export Settings resolution of 320x240,choose a video codec (we used Cinepak), etc. and click “Apply”.
+
+
+Now rip thedvd by clicking on the red encode button on the bottom right.
+
+
+This process may take quite a bit of time and disk space depending on the quality and length of thevideo. Next launch Xilisoft Video Converter and choose “File > Add”. Navigate to the .avi file you justcreated with DVDx 2.3. Now on the bottom left of the window choose “QuickTime Format (*.mov)”. Choose adestination for the file you will create. Lastly, change the video size in the right hand column to 320x240 and clickthe “Encode” button.
+
+
+Launch iTunes6 and choose “File > Add File to Library”.  Choose the .mov file you created in the last step.Click on “Videos” in the left column and double click on your file to make sure the video works. Load it onyour shiny new iPod and voila!
+
+
+Thanks toHackADay reader Fred Bonatto for the tips.
+
+

@@ -1,0 +1,7 @@
+
+ Seagate has been pushing the areal density envelope for years now, but by and large, these "developments" we hear about typically fade into the cold, harsh winter night without ever amounting to anything tangible. Not so this go 'round, with the company confirming to Thinq (and reaffirmed on our end) that it will be "announcing a 3TB drive later this year." If you'll recall, 2TB drives have held the crown for the world's largest since early 2009, and if all goes to plan, we'll be able to buy drives 50 percent larger than even those before the dawn of 2011. The company didn't talk details -- we're still left to envision a price, release date and spindle speed -- but it didn't hesitate to mention a few issues that users with older operating systems may encounter. Essentially, you'll need to have a rig that's fully capable of handling the Long LBA (logical block addressing) standard, which means that you'll need updated drivers, an updated BIOS and either a 64-bit copy of Vista, Windows 7 or "modified version of Linux." As you'd expect, Windows XP users needn't pay this platter any mind, and while Seagate is hopeful that industry players will all rally in short order to support the new HDD, there's still a chance that these growing pains will lead to delays. What we're most jazzed about here, crazily enough, isn't the predictable jump in capacity -- it's the fantasies of über-cheap 2TB drives once they fall from the top.
+
+[Thanks, JC]
+      
+
+ 

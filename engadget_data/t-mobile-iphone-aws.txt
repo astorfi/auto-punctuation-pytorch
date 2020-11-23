@@ -1,0 +1,8 @@
+
+ 
+
+
+	T-Mobile's now the lone national player in the US telecom market that hasn't enjoyed the success of the iPhone, and we've heard on several occasions that its top brass isn't oblivious to the effect that its exclusion from Apple's graces has had on the company, going as far to say that the ball is ultimately "in Apple's court." But in a recent interview, it sounds as though T-Mo CTO Neville Ray has seen some of Apple's roadmap, and the next chipset -- the one that ideally would be included in the next iteration of the iPhone -- will be offering support for Magenta's AWS radio. If true, we'd certainly expect the carrier's bad fortunes to turn around... unless Apple chooses to keep T-Mobile out of its club regardless, which Ray mentioned was a distant possibility. If LTE is also included, the fourth-largest US carrier will still be a bit behind by simply not having the next-gen network connectivity -- although Ray did specify that it isn't impossible to deploy LTE in certain areas by repurposing spectrum -- but we have a feeling there will be plenty of people willing to forego that bullet point on the spec list in order to get their hands on an iPhone with genuine T-Mobile HSPA+ support.
+
+Update: T-Mobile gave us some nuggets of clarification on Ray's statement. Apparently he was actually referring to the fact that Apple has the option of adding AWS support when considering the current roadmap of chipsets available on the market.
+ 

@@ -1,0 +1,5 @@
+
+ Yeah, we're kind of bummed that theonly way you can get an 8125 is by getting stuck to Cingular (or,to a lesser extent, getting an MDA stuck to T-Mobile), but thosedays may be soon over. A Portuguese XDA-Developers.com user by the name of Ricardo Afonso has developed lokiwiz, an HTCWizard unlocker that'll free your Wizard from its SIM-locked shackles (the download's free, but you have to register toget it). Of course, if you're trying to get your hands on an 8125 and are using T-Mobile (or, to a lesser extent, usingCingular and are trying to get an MDA) you're still going to have to pay the full price, which last we heard could beupward of $450 (without contract, of course). We didn't have any locked Wizards around to test lokiwiz out on, but fromthe responses we've seen it apparently works like a charm, and even performs a CID unlock, which lets you flash othermanufacturer's firmware to the device -- very handy for the AKU2 rollout which is due, well, any day now.[Via Bryce Yehl]
+      
+
+ 

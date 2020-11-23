@@ -1,0 +1,4 @@
+
+ 
+The year's 2010, yet we're still leering at the dusty pile of cables behind our AV equipment and wondering, "O UWB, where art thou?" Well, the folks at Tech-On have got a little update for us: Hitachi, Panasonic and Toshiba are reported to be delivering products donning 60GHz wireless chips -- which sip little juice but churn out 7GHz of colossal bandwidth and 1.5Gbps of data rate -- in the second half of this year. While none of the manufacturers are directly pimping either WirelessHD or WiGig, it appears that Hitachi and Panasonic are siding with WiGig's extra functionalities like media access control (MAC), and the latter even envisions "embedding the functionality into portable gear" for downloading digital content from kiosks. Either way, it's nice to see some progress here -- we don't want things to drag on any longer, do we?
+ 

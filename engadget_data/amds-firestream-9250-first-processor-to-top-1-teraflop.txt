@@ -1,0 +1,5 @@
+
+ AMD's second generation FireStream 9250 just broke the single-precision teraflop barrier at the International Supercomputing Conference in Germany. The proc takes advantage of AMD's GPU expertise to augment the processing power of your rig's CPU with an additional 8-gigaflops per watt of processing from this 150 watt processor. A 55x performance bump, say developers, when compared to crunching financial analysis code, for example, on a CPU alone. The 9250 Stream fits into a single PCI slot and includes double-precision floating point hardware performing at more than 200 gigaflops. The processor and supporting SDK are due for release in Q3 for $999.Update: According to TGDaily, the 9250 features ATI's upcoming RV770 GPU at its core -- the foundation of future 4800-series graphics cards. So 4x cards setup in Crossfire X should be capable of offering your next gaming rig an additional 5 Teraflops or power. You know, in theory.Read -- press releaseRead -- TGDaily
+      
+
+ 

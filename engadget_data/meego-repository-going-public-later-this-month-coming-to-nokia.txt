@@ -1,0 +1,6 @@
+
+ 
+Valtteri Halla -- Nokia employee and one-half of MeeGo's Technical Steering Group -- has blogged up a storm this week about the first baby steps that'll get the platform off the ground from its Moblin and Maemo roots, and from the sounds of things, we'll be able to get our first glimpse at it on production hardware before the month's out. Currently, the plan is to open up MeeGo's code repository to all comers "by the end of this month," targeting both Atom boards and the N900. Now, we certainly wouldn't say that MeeGo's decision to use the N900 as an early target device is indicative of an official upgrade down the line -- but this is particularly interesting in light of the fact that we've never gotten a commitment out of Nokia to bump its latest MID to Maemo 6. And besides, considering that the average N900 customer is a bit of a hacker in his or her own right, let's be honest: a code repository that supports the phone is just about as good as an official gold build anyhow.
+      
+
+ 

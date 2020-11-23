@@ -1,0 +1,5 @@
+
+ 
+ Another day, another major blow to the webOS community. The Open webOS project announced today in its blog that the fledgling OS won't support any of the existing hardware -- like HP's Pre 3 and TouchPad. While not completely surprising, this is disappointing for those who were hoping to wring a little more life out of their current webOS devices. Open webOS is targeting SoCs that support the Linux 3.3+ kernel and components with open source drivers. The blog post blames the existing hardware's "many proprietary components, including graphics, networking and lack of drivers for a modern kernel". Despite having access to these proprietary drivers, it appears HP isn't willing to make them available to the Open webOS project -- proof that sometimes you can have your cake, but not eat it too.
+
+

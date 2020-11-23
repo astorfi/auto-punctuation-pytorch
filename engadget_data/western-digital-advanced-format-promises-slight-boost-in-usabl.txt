@@ -1,0 +1,7 @@
+
+
+Sure, you may have been able to double your hard drive's storage space with DriveSpace back in the day, but it looks like Western Digital has now come up with a new, more foolproof way to eek out a few more gigabytes from its drives. Dubbed 'advanced format,' the company's new partitioning method promises to do away with each individual sector having its own Sync/DAM header and ECC, and instead move to larger, 4k physical sectors. As you can see in the helpful illustration above, that shift would also actually increase the size of the ECC, but WD says the net gain in usable storage space should still be between seven and eleven percent (which would certainly be welcome when we're talking about 1TB or 2TB drives). Unfortunately, you won't simply be able to update the firmware and reformat your current drive, but WD will apparently be moving its Caviar Green line to the new format in the "next few weeks," and eventually shift the rest of its drives over as well.
+
+ 
+ 
+ 

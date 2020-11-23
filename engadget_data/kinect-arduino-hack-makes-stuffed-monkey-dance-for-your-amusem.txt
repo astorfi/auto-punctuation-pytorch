@@ -1,0 +1,9 @@
+
+ 
+
+
+	Just when you thought that people had squeezed the last drop of creativity out of Microsoft's Kinect, something like this comes along. It's a stuffed monkey with a robotic skeleton that can mimic the movements of the person standing in front of it. "Monkey Business" is an art installation of sorts created by Jan M. Sieber and Ralph Kistler. It uses a camera sensor from a Kinect, an Arduino mircocontroller, and 10 servomotors. The smirking robo-monkey, meanwhile, is suspended from the wall, giving it a full range of movement. The resulting video is pretty darn delightful.
+ 
+
+ 
+ 

@@ -1,0 +1,56 @@
+
+ 
+
+An underwater drone that you can control with your tablet or smartphone from up to 300 feet away. Reckon that's worth a pledge of around $200? Plenty of you did, because Ziphius is now a very real thing, thanks to its passionate everyman backers. Galvanized by some very successful projects last year, 2013 saw plenty of crowdfunding projects angling for your dollar. We also crowned three Insert Coin: New Challengers winners at our Expand San Francisco and Expand New York events, hopefully doing our bit to cheer on the next Eric Migicovsky. Aside from said competitors, this year saw 29 Insert Coin subjects manage to hit their goals, with some utterly smashing them.
+
+Indiegogo's CEO Slava Rubin tells us that compared to 2012, there was "more than a 1,000 percent increase in funds raised" in its technology category. "We've seen everyone from big brands to small startups embracing crowdfunding as an alternative to traditional finance. We can't wait to see what exciting new products 2014 will bring," he said. With the likes of Oculus Rift and the Pebble smartwatch still making news more than a year since their crowdfunding debuts, how will the class of 2013 fare? Here's a closer look of some of the projects that you just had to make a reality.
+
+ 
+
+Canary
+Status: FundedTarget: $100,000Raised: $1,961,862Canary's security system is channeling, perhaps inadvertently, a bit of the Mac Pro's design with its vertically standing hub design. However, what's going on inside is plenty different, with IR motion, humidity, temperature and air-quality sensors -- oh and a high-definition camera and mic for good measure. The cool part is how it wraps this all together, with a smartphone application meaning you're constantly connected to home sweet home. It blasted through its $100,000 target, closing just shy of a cool $2 million and its beta units are on track for February.
+
+Other early adopters are likely to see devices land in June, and, if you like what you're hearing, pre-orders are still available, priced at $199. Adam Sager, Canary's co-founder noted that the campaign showed the company that people who had never bought a security system before were fascinated by the affordable pitch that it was offering. "It wasn't just a US thing -- we received orders from people in 78 different countries," he said. They set an Indiegogo record too: The security hub is the crowdfunding site's most successful campaign yet.
+Ziphius, Insert Coin New Challengers SF Winner
+Status: FundedTarget: $125,000Raised: $127,199
+
+After becoming our first-ever Insert Coin winner, the aquatic drone Ziphius took its pitch to Kickstarter, where it managed to cover its $125,000 funding goal back in July. The bot can be controlled through apps on your smartphone or tablet and you can even stream a video feed from underwater. With a special DIY edition in tow, the app-controlled bot is set to roll out to wannabe submariners by March 2014. We even got to play with the updated prototype in the process -- and those interchangeable chassis will now come in pink.
+DIWire, Expand NY's Insert Coin Judges' Prize
+Status: FundedTarget: $100,000Raised: $177,522
+
+Trying to solve the issue of not-so-hardy 3D-printed prototypes, design firm Pensa's CNC wire bender brought precision engineering (and scientific precision) to crafting for-real wireframe structures. While furniture-model prototyping might have inspired it, the team believes the children are our its future, with two early models now in use in educational settings. It leapt over its $100,000 funding goal, reaching $177,522, with shipping set for mid-2014.
+GrowCubes, Expand NY's Insert Coin Readers' Prize
+Status: Not Yet LaunchedTarget: N/ARaised: N/A
+
+GrowCubes involves a system of aeroponics (that's hydroponics, but using mist instead of water trays) that can grow plants using about 95 percent less water than traditional farming methods. All in just two square meters. The team behind it is planning two models, a domestic one around the size of a dishwasher, and a more expansive version aimed at commercial farming. At the moment, it's all powered through a BeagleBone Black and an Arduino Duo, but a custom-made motherboard is also in the cards. By the time the aeroponic system appeared at Expand NY, they'd already produced pea shoots, wheatgrass and lettuce. There's no word of a web-based funding project yet, but the team is now focusing on rolling out the majority of its urban farming models to schools.
+
+Piper
+Status: FundedTarget: $100,000Raised: $309,119
+
+This home-automation hub has a vertical design similar to the Canary, but this one taps into security cameras as well as Z-Wave devices, all with the aim of centering all your smart home needs into a single unit. Alerts to iOS and Android apps can be sent to multiple users, and the built-in speaker (not to mention the camera) means you can talk to anyone near the system, even if it's just the cat. It more than tripled its fundraising goal, and the full-production run is now on the first batch of PCB boards.
+
+SparqEE Cell v1.0
+Status: FundedTarget: $70,000Raised: $72,155
+
+The SparqEE Cell is for the more technically minded crowdfunders out there, but man, there's a whole lot of potential here. It's a cellular board that can connect directly into Arduino and Raspberry Pi, letting devices hop onto networks all over the world -- meaning even grander plans for home automation, RC copters and more. We wouldn't be surprised to see the SparqEE Cell powering other Insert Coin entrants in the near-future.
+
+Zcapture
+Status: FundedTarget: $14,000Raised: $36,522
+
+Promising 360-degree photo capture of objects in a mere 15 minutes, the folks behind Zcapture decided to reassess their initial goals, canceling the first Kickstarter scheme in order to relaunch with a lower goal -- and with the aim of getting the hardware out to those who wanted it. Zcapture looks like it might be the perfect solution for sellers (whether it's retail or eBay) that want to give a full virtual view of their wares. It looks like there are plenty who are thinking just that, because Zcapture more than doubled its target figure of $14,000 -- and the team has managed to ship all orders to those that pledged money last month. The makers are now focusing on supporting those early adopters, with a dedicated email address for technical issues and incoming forums and guides, too.
+
+Epiphany One Puck
+Status: FundedTarget: $100,000Raised: $132,739
+
+Sure it's the size of a coaster, but the coolest thing about the Epiphany One Puck is that it can use both hot and cold sources to top up your USB-cabled gadget of choice. The science is called a Stirling engine, which (we think magically) draws out electricity from heat disparities. And hey, it's the perfect size for either your morning cup of Joe or a frosty beer. The team behind it has been working and researching energy systems for 12 years and, in its latest update earlier this month, promised that it'll have more to show very soon, with the Puck on track for delivery in March 2014.
+
+Virtuix Omni VR treadmill
+Status: FundedTarget: $150,000Raised: $1,109,351
+
+Transferring your physical movements into in-game movement, Virtuix's multi-directional treadmill controller sounds like the ideal companion hardware for an Oculus Rift. The Omni has worked with the wearable display for months, but the team took to Kickstarter to build up more momentum (and funds) for the hardware, which includes the concave treadmill you see above, special shoes, belt and the necessary tracking hardware and software. The crowdfunding project was a huge success, and the Omni's digital coffers took in more than $1 million. Priority prototypes have shipped already (including one to BAE Systems), however the team is expecting delivery to its other backers around March or April -- unfortunately a little later than expected.
+Choose 'Toons, Choose Your Own Adventure
+Status: Project canceledTarget: $130,000
+
+Tugging at our nostalgia-ridden heartstrings, a project to bring new Choose Your Own Adventure stories to the iPad sounded like a no-brainer. Apparently many thought the same, because the team behind the Choose 'Toons project decided to call it quits on its Kickstarter campaign and are now working on some "traditional funding" offers. It still managed to raise more than a third of its goal before the founders decided to choose a different path: classic CYOA stuff.
+
+ 

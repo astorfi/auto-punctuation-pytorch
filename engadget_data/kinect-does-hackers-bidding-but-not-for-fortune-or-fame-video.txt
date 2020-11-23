@@ -1,0 +1,13 @@
+
+ 
+Yes, Microsoft's Kinect has already been cracked, as you'll see on video after the break -- the motion-sensing depth camera now nods its head on command and displays real-time accelerometer data on one lucky hacker's PC. We tracked down the son-of-a-gun who did it -- as it happens, the same NUI Group member who hacked the PlayStation Eye in 2008 -- and found to our disappointment that he doesn't necessarily intend to unleash his new exploit on the world. The $2,000 prize Adafruit is presently offering for open-source Kinect drivers isn't his aim, though he does have big personal plans for the device, as he hopes to integrate it into his company's commercial visualization suite CL Studio Live. It seems that work is progressing fast, as he's already gotten video streams from both cameras to output to his computer, and he plans to upload a far more convincing video soon. Here's hoping he has a change of heart about sharing his rapid accomplishments.
+
+Update: Second video after the break!
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

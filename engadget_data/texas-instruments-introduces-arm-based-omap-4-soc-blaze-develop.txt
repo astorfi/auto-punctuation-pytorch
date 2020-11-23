@@ -1,0 +1,9 @@
+
+ 
+Texas Instruments has just made its OMAP 4 system-on-chip official, and garnished the announcement with the first development platform for it, aggressively titled Blaze. We already caught a glimpse of it in prototype form earlier this month, and the thing is quite a whopper -- you can see it on video after the break and we doubt you'll accuse TI of placing form before function with this one. The company's focus will be on promoting innovative new modes of interaction, with touchless gesturing (or "in the air" gesture recognition) figuring strongly in its vision of the future. Looking at the SOC diagram (available after the break), you'll find that its grunt will be provided by the same ARM Cortex-A9 MPCore class of CPU that powers the iPad, though TI claims it will be the only mobile platform capable of outputting stereoscopic 720p video at 30fps per channel. Perhaps its uniqueness will come from the fact that nobody else cares for the overkill that is 3D-HD on a mobile phone, whether it requires glasses or not. It'll still be fascinating to see if anybody picks up the chunky Blaze idea and tries to produce a viable mobile device out of it -- we could  be convinced we need multiple displays while on the move, we're just not particularly hot on the 90s style bezel overflow.
+      
+
+ 
+
+
+ 

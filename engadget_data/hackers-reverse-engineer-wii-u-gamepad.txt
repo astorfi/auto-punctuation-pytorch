@@ -1,0 +1,11 @@
+
+Thought using the Wii U GamePad as a simple PC controller was a neat trick? Try this on for size: a small team of hackers has figured out how to stream PC games to the tablet-esque controller natively, circumventing its host console. The hack was shown this week at the 30th Chaos Communication Congress, where the group revealed how it reverse engineered the GamePad controller. After weaving a complex tale of dumped firmware, decoded video and buggy streams, the team showed a simple drawing app streaming from a laptop to the Wii U GamePad. Impressive? Sure, but the crowd didn't erupt into applause until they booted up a Gamecube emulated session of The Legend of Zelda: Wind Waker.
+
+
+Despite some crashes, the demo appeared to be fairly playable -- though the team warns that the available code is aimed primarily at developers. The group eventually plans to build user-friendly tools for Windows and OSX, as well as an Android port designed to allow users to substitute the Wii U GamePad with their own tablets, streaming from the console to the slate of their choice. It's not quite ready to replace your NVIDIA Shield, but the project is brimming with potential. Check out the presentation's slides at the source link below, or read on for a video of the hack in action (the fun starts about 47 minutes in).
+
+
+
+
+
+ 

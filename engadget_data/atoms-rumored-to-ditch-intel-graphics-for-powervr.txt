@@ -1,0 +1,7 @@
+
+ 
+
+When Intel wanted to take a serious stab at the tablet market it turned to PowerVR, the company already providing the graphical muscle for its embedded chips that power the Logitech Revue and other set top boxes. Now, the folks at VR-Zone claim that Intel will be adopting the company's tech across the Atom line and ditching its own integrated graphics for the upcoming Cedarview platform. Specifically, it's rumored that Chipzilla will stick the SGX545 (an upgraded version of the pixel pusher inside Samsung's Hummingbird platform and Apple's A5) in all Cedar Trail processors. The switch will bring support for DirectX 10.1 and OpenGL 3.2 to the low-power CPUs while improving HD video decoding. Sure, when the next-gen Atoms land the graphics chip it will already be almost two years old, but its low power and robust Android support make it a natural match for Honeycomb -- Intel's best bet for tablet success now that Nokia is distancing itself from Meego.
+      
+
+ 

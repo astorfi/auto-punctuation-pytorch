@@ -1,0 +1,5 @@
+
+ 
+ Been wondering when the next big leap in high performance computing would hit? Well, Intel would like you to believe the time is now and the name of that revolution is the Xeon Phi. Formerly codenamed Knights Corner, the Many Integrated Core product is pushing the field of supercomputers into the era of the exaflop by squeezing a teraflop of performance into a package small enough to plug into a PCIe slot. The Phi brand will, at first at least, be applied to specialized coprocessors designed for highly parallel tasks. The chips are built using Intel's 22nm manufacturing process and 3-D TriGate transistors, piling in more that 50 cores in an effort to combat the inroads made by GPU companies like NVIDIA in the supercomputing space. For more info check out the presentation (PDF) and blog post at the source links.
+
+

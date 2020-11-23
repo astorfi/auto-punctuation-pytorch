@@ -1,0 +1,9 @@
+
+ 
+We're not sure how this one got past Apple's App Store censors, but the clever kids at Nullriver have released what appears to be the first tethering solution for the iPhone. The $10 NetShare app is just a SOCKS proxy that links an ad-hoc WiFi network to the iPhone's 3G or EDGE connection -- and if we could get it to work, we'd probably think it was a fine, if hacky, solution to a major limitation of Steve's baby. As it stands, though, the instructions are pretty sparse, and while we can get the app to recognize a connection, we're not able to actually load anything. We're not sure how long this one's going to last -- anyone else willing to give it a shot before it gets yanked?[Thanks, Zoli; Warning, link opens iTunes]Update: Aaaaand it's offline. Shocking.Update 2: We've added our own video hands-on after the break.
+      
+
+ 
+
+
+ 

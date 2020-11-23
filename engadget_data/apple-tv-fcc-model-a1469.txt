@@ -1,0 +1,10 @@
+
+ We don't generally find surprises from Apple in the daily stream of FCC documents and test reports, but a new filing published today seems to suggest that a new Apple TV model of some sort could be on the way. While the diagram pictured above doesn't suggest any major changes to the device's appearance, it does list some slightly smaller measurements: 93.78mm square compared to the 98mm of the current model. That's certainly not the biggest of differences, but the measurements in previous Apple FCC filings have been spot on. The model number, A1469, is also one that we haven't seen before, but the documents unfortunately don't offer much else in the way of details (only confirmation of the same WiFi capabilities as the current-gen Apple TV).
+
+ As MacRumors noted yesterday, a look at the download options for the latest Apple TV software update also revealed a new "AppleTV3,2" model, which it speculated could be an international version of the device -- although it of course remains to be seen if it and this model are one and the same. For now, you can get a closer look at the filing yourself at the source link.
+
+ Update: Anandtech has peeked through the filings and the source code, finding a new single antenna setup that follows the design of other iDevices, and a reference to an updated A5X SoC at its heart.
+
+ Update (Jan 30th): The Verge has gotten a statement from Apple on the filing. It states: "We sometimes make component changes which require an updated model number for regulatory approval. The component changes we made don't affect product features and Apple TV customers will continue to have the same great user experience."
+
+

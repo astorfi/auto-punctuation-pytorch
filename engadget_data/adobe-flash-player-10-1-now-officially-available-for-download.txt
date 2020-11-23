@@ -1,0 +1,14 @@
+
+
+
+ 
+
+
+Well look at that -- Adobe's now officially serving up Flash Player 10.1 on its download pages. If you're anything like us, you've been running 10.1 since it hit Release Candidate status a couple months ago, but if you've held off the upgrade brings some much-needed hardware acceleration to the mix, as well as other assorted performance enhancements and improvements. We're curious to see if the various issues with Broadcom Crystal HD netbooks have been resolved in this final version, and Mac users will have to wait for the "Gala" update to see any hardware-powered boost on their systems, but it's nice to finally see Adobe ship this thing. Let us know how it goes in comments, yeah?
+
+Update: Sorry folks -- contrary to reports, it doesn't look like the Gala hardware acceleration code was secretly included in the OS X build, as we just tried it on a new MacBook Pro and the graphics didn't switch over to the discrete chip. What's more, the Gala project page is still alive and kicking with a release date expected "following the release of Flash Player 10.1." We'll just have to be patient, we suppose.
+
+[Thanks, Neal and Sam]
+      
+
+ 

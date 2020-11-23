@@ -1,0 +1,51 @@
+
+ This isn't the end of earnings season, but this is the final member of the unholy trinity. Microsoft is reporting that during the second quarter of its 2013 financial year it set a revenue record by raking in $21.5 billion. Of that $6.38 billion was pure profit, lining shareholder's pockets to the tune of $0.76 per share. While EPS was down year-over-year, net income was up dramatically from $5.87 billion a year ago and $5.31 billion last quarter. The Windows division accounted for roughly $5.9 billion of Redmond's revenues, up 24 percent from a year ago, largely thanks to the release of Windows 8. That division is also home to the Surface, which still hasn't seemed to gain much traction with consumers. Interestingly, while Windows was surging, its business division was suffering a not inconsequential drop off -- seeing revenues fall 10 percent to $5.7 billion year-over-year. But the Server & Tools department also helped offset some of those declines, with revenue jumping up 9 percent to $5.19 billion.
+ In a sign that it might be time for a bit of a console refresh, the Entertainment and Devices division saw revenues continue to sink, despite the strong holiday sales. While the $3.77 billion in revenue was a stark increase over Q1's paltry $1.95 billion, it's still a 7 percent fall from the same time period last year. Thankfully, its Online Services continued to grow, reaching $869 million in revenue -- an 11 percent growth year-over-year, and a sign that it's various web services aren't sinking ships. Most notably ad revenue was up 15 percent thanks largely to an increase in revenue-per-search.
+
+ Revenue growth over Q2 2012 wasn't huge, but it was certainly notable and net income didn't drop dramatically. And, perhaps most importantly for investors, results were pretty much inline with Wall Street expectations. It's also worth noting that some revenue has been deferred, $1.3 billion to be exact, thanks to various upgrade offers and video game deals -- though, the company did report previously deferred revenues due to pre-sales of Windows 8. There's PR after the break but, if you want to dig through all the detailed tables of financial data you'll have to hit up the source link. And check back in for updates when the earnings call gets under way at 5:30PM ET.
+
+
+
+ Updates:
+
+ 5:36PM CFO, Peter Klein says that 60 percent of computers worldwide are running Windows 7 while the company has managed to push out 60 million Windows 8 licenses.
+
+ 5:40 Microsoft doesn't seem particularly worried about the declining PC market as Windows revenues outpaced sales of x86 machines by a significant margin.
+
+ 5:45 Windows Phone sales were four times what they were last year.
+
+ 5:53 Microsoft stands by its story that Surface is "just one part of the Windows 8 story." Though, it did say that it will "expand retail distribution and availability" so don't expect the in-house slate to go quietly into that good night.
+
+  Show full PR text   Microsoft Reports Record Revenue of $21.5 Billion in Second Quarter  Strong business demand and key product launches drive record revenue.   REDMOND, Wash. - Jan. 24, 2013 - Microsoft Corp. today announced quarterly revenue of $21.46 billion for the quarter ended December 31, 2012. Operating income, net income, and diluted earnings per share for the quarter were $7.77 billion, $6.38 billion, and $0.76 per share.
+
+   These financial results reflect the net deferral of revenue for the Windows Upgrade Offer, Office Upgrade Offer and Pre-sales, and the Entertainment and Devices Division Video Game Deferral, partially offset by the recognition of previously deferred revenue for Windows 8 Pre-sales. The following table reconciles these financial results reported in accordance with generally accepted accounting principles (GAAP) to non-GAAP financial results. We have provided this non-GAAP financial information to aid investors in better understanding the company's performance.
+
+   "Our big, bold ambition to reimagine Windows as well as launch Surface and Windows Phone 8 has sparked growing enthusiasm with our customers and unprecedented opportunity and creativity with our partners and developers," said Steve Ballmer, chief executive officer at Microsoft. "With new Windows devices, including Surface Pro, and the new Office on the horizon, we'll continue to drive excitement for the Windows ecosystem and deliver our software through devices and services people love and businesses need."
+
+   The Windows Division posted revenue of $5.88 billion, a 24% increase from the prior year period. Adjusting for the net deferral of revenue for the Windows Upgrade Offer and the recognition of the previously deferred revenue from Windows 8 Pre-sales, Windows Division non-GAAP revenue increased 11% for the second quarter. Microsoft has sold over 60 million Windows 8 licenses to date.
+
+   "We saw strong growth in our enterprise business driven by multi-year commitments to the Microsoft platform, which positions us well for long-term growth," said Peter Klein, chief financial officer at Microsoft. "Multi-year licensing revenue grew double-digits across Windows, Server & Tools, and the Microsoft Business Division."
+
+   The Server & Tools business reported $5.19 billion of revenue, a 9% increase from the prior year period, driven by double-digit percentage revenue growth in SQL Server and System Center.
+
+   "We see strong momentum in our enterprise business. With the launch of SQL Server 2012 and Windows Server 2012, we continue to see healthy growth in our data platform and infrastructure businesses and win share from our competitors," said Kevin Turner, chief operating officer at Microsoft. "With the coming launch of the new Office, we will provide a cloud-enabled suite of products that will deliver unparalleled productivity and flexibility."
+
+   The Microsoft Business Division posted $5.69 billion of revenue, a 10% decrease from the prior year period. Adjusting for the impact of the Office Upgrade Offer and Pre-sales, Microsoft Business Division non-GAAP revenue increased 3% for the second quarter. Revenue from Microsoft's productivity server offerings – collectively including Lync, SharePoint, and Exchange – continued double-digit percentage growth.
+
+   The Online Services Division reported revenue of $869 million, an 11% increase from the prior year period. Online advertising revenue grew 15% driven by an increase in revenue per search.
+
+   The Entertainment and Devices Division posted revenue of $3.77 billion, a decrease of 11% from the prior year period. Adjusting for the Video Game Deferral, the division's non-GAAP revenue decreased 2% for the second quarter. Xbox continues to be the top-selling console in the United States. During the quarter, Microsoft launched Windows Phone 8 with a broad array of carriers and devices.
+
+   Business Outlook
+
+   Microsoft reaffirms fiscal year 2013 operating expense guidance of $30.3 billion to $30.9 billion.
+
+   Webcast Details
+
+   Peter Klein, chief financial officer, Frank Brod, chief accounting officer, and Chris Suh, general manager of Investor Relations, will host a conference call and webcast at 2:30 p.m. PST (5:30 p.m. EST) today to discuss details of the company's performance for the quarter and certain forward-looking information. The session may be accessed at http://www.microsoft.com/investor. The webcast will be available for replay through the close of business on Jan. 24, 2014.
+
+   Adjusted Financial Results and Non-GAAP Measures
+
+   For second quarter fiscal year 2013 GAAP revenue, operating income, and earnings per share growth included the net deferral of revenue for the Windows Upgrade Offer, the Office Upgrade Offer and Pre-sales, and the Entertainment and Devices Division Video Game Deferral, and the recognition of previously deferred revenue for Windows 8 Pre-sales. These items are defined in our Form 10-Q for the quarterly period ended December 31, 2012. In addition to these financial results reported in accordance with generally accepted accounting principles (GAAP), we have provided certain non-GAAP financial information to aid investors in better understanding the company's performance. Presenting these measures without the impact of these items gives additional insight into operational performance and helps clarify trends affecting the company's business. For comparability of reporting, management considers this information in conjunction with GAAP amounts in evaluating business performance. These non-GAAP financial measures should not be considered as a substitute for, or superior to, the measures of financial performance prepared in accordance with GAAP.
+
+ 

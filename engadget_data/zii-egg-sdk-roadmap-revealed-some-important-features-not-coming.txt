@@ -1,0 +1,12 @@
+
+ 
+Remember back when Sony introduced Rolly to stunned silence followed by a protracted effort to determine exactly what the hell it was, an effort that arguably continues to this very day? Yep, that's kind of where we're at right now with the Zii EGG, and nothing in the SDK documentation we've received today -- the same documentation paying developers are just now getting -- is helping us flesh that out. We can tell you that it's well-equipped -- there are proximity sensors and accelerometers on board, it's got native support for Flash Lite, voice recognition, and 3D acceleration and it'll eventually have support for Creative's X-Fi audio tech -- but really, that's like saying "the Rolly is well-equipped." What does it mean?
+
+Here's what we do know: out of the gate, it seems the EGG will only be running Creative's homegrown Plaszma OS, though Android support is forthcoming. The Plaszma SDK is being rolled out in three phases spanning the rest of 2009, and some pretty important stuff -- Bluetooth support, for example -- won't even be available to developers until the third phase, which is a pretty strong indication that Zii-powered products intended for consumer consumption probably won't be around in time for the holidays. For the moment, there isn't any indication on when devs will have access to Android support libraries, which we think might be where Zii's true value lies, because let's be honest -- the world realistically doesn't need another target platform for mobile.
+
+Interestingly, Creative is using Zii to actively target China-based devs that it says "may not have brands but have an insatiable appetite for ready-to-go technologies, and can adapt these technologies very quickly to new market opportunities" (in other words, KIRFers) through its "Shanzai program," a mix of prototype boards and support packages that it says will help small businesses bring products to market faster. If that means we can get the next great N97 clone running Android in record time, we're all for it. Check out the full Plaszma SDK roadmap in the gallery below.
+
+[Thanks, Joe]
+
+
+

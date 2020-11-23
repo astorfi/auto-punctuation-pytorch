@@ -1,0 +1,104 @@
+
+Yes, this is a bit of a report from our post Monday, but we feel disabling Autorun is extremely
+important.  Last week we went off to buy a CD—something we, like a lot of people, do on a regular basis. We wanted
+to check out "Contraband" by Velvet Revolver, the group formed by ex-members of Guns N' Roses, and the lead singer of
+Stone Temple Pilots. We figured with that much drugs in those boys, there's bound to be a good tune or two in
+there.
+
+
+As with all our CDs, we unwrapped 8 layers of plastic on the way to the car and popped it in the CD player for the
+ride home, so far, so good—not a bad CD at all. After arriving home, we put the CD in our Xbox (as we always do with
+our CDs) to copy the songs over to the hard drive for use with games or as a jukebox.
+
+
+Next up, inserted the disc in to our Mac, started iTunes and then iTunes put the newly created MP3s on our iPod.
+Also, the Linux box in our kitchen (Xandros) was able to read and make MP3s just fine too.
+
+
+Lastly, we popped the CD in our PC (Win XP) and also ran iTunes to add the songs to our library.
+
+
+Was this all a dream? Did it really happen? It did. But it shouldn't have if it were up to the people who made that
+CD.
+
+
+After looking around on the web it seems the folks from RCA Records actually don't want anyone to make MP3s of the
+songs on that disc, they don't want you to listen to the music you just purchased on your iPod or even your Xbox.
+
+
+The disc has "Copy Protection" from SunnComm called MediaMax, which on some Windows systems will force the user to
+install software in order to listen to their music, and restrict what they do with the audio (for example you cannot
+make MP3s). If SunnComm sounds familiar, they should.  These are the folks who were going to
+sue a Princeton student for 10 million dollars for writing a
+paper that showed by pressing the shift key while inserting the CD (and of course, pressing the shift key still worked
+on this CD, according to all reports) you can bypass their copy protection.
+
+
+Sadly, the way RCA and SunnComm want you to listen to music is pretty complicated. You'd need to insert the CD on
+your PC, wait up to one minute for it to load, click an end user agreement, then only "listen" to the music.  Oh,
+wait there's more.  It installs software which blocks making MP3s and it requires a web connection to exchange
+"data" and keys. On the disc there were music files in WMA format, but they don't seem to play on any device we have
+which plays WMAs—the site says they play only on "approved" devices.  Yikes!
+
+
+Well, for us, it wasn't an issue.  Why? Well, we have always disabled "Auto-Run" on our Windows based system,
+since, like, Windows 95. The "feature" will, by default, automatically look for a file called Autorun.inf on any CD you
+pop in to your system—if it finds it, it will execute whatever programs it is instructed.  This is a big security
+issue, as there are a lot of spywares and viruses distributed on CDs—so much so, in fact, Microsoft is disabling it in
+their next security-focused Windows XP Service Pack 2.  SunnComn and everyone else who is trying to "copy protect"
+music CDs have really only one option, and this is it: using the autorun file on their music CDs to install their
+proprietary DRM software.  But many people are becoming more vigilant about securing their systems.
+
+
+Disabling Auto-Run is something we think everyone should do, not only for security from viruses and spyware, but so
+you'll never need to deal being unable able to listen to your music on your devices. Here's how to do it in Windows
+XP.
+
+
+In Windows Click Start, then Click Run
+
+
+ Type regedit
+
+ Click OK
+
+
+ Click >
+
+ HKEY_LOCAL_MACHINE>
+
+ SYSTEM>
+
+ CurrentControlSet>
+
+ Services>
+
+ Cdrom>
+
+
+ Double click "Autorun" the value is set to 1 by default, change it to zero.
+
+
+ Click OK
+
+ Now restart, that's it!
+
+
+We also created a file which will do this for you, just right click
+this link and "save target as" to your local file system. Then double click and restart.
+
+
+ Please, tell everyone to disable autorun, use
+our email option, IM your pals,
+whatever it takes.
+
+
+If you a different Operating system or would like to learn more about disabling AutoRun,
+here's a great article too.
+
+
+
+
+
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+You might have heard how careless some third-party apps can be with your personal data, but it may not yet have hit home -- offenders can include must-have programs like MySpace and Pandora, too. The Wall Street Journal tested 101 popular apps for iPhone and Android and discovered that over half transmitted unique device identifiers (UDID) to a flock of advertisers without so much as a prompt, and that some (including Pandora) even transmitted a user's age, gender and location to better target their marks. Now, before you boycott your favorite music apps, you might want to hear the other side of the story, which is that all this data is typically processed in batches and anonymized so that advertisers can't necessarily separate you from the crowd. However, the worry is that there may be little stopping nefarious individuals from creating a database that links your UDID to all this other data you send out. It's a juicy proposition for targeted advertising, sure, but also potentially real-world crime, so we doubt this will be the last we hear of UDID privacy scares.
+      
+
+ 

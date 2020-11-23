@@ -1,0 +1,6 @@
+
+ 
+The white space odyssey continues, with manufacturers of all backgrounds and sizes salivating so heavily over the bountiful frequencies opened up by the DTV transition that they're willing to fight the NAB in a corporate cage match of epic proportions. Microsoft, part of the White Spaces Coalition and a company that's not always had success at this whole frequency-sharing thing, isn't giving up yet, presenting a paper this week at ACM SIGCOMM 2009 describing yet more new approaches and algorithms that would allow white space communication that functions like traditional WiFi devices -- but with ranges measured in miles instead of feet. Dubbed WhiteFi, the tech would include algorithms to enable both access points and clients to zero in on the same locally disused frequencies without stepping on the toes of other broadcasters. It certainly sounds like a consumer-friendly implementation, and something we'd very much like to deploy at the 442 acre Engadget compound in northwestern Montana (it's three counties away from the nearest hotspot), but we're not entirely convinced this latest approach will find any more success at appeasing/defeating the NAB than any of the prior attempts. [Warning: PDF read link][Via dailywireless.org]
+      
+
+ 

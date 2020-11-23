@@ -1,0 +1,9 @@
+
+ 
+Mmm, digital magazines. They are the little bites of paid-for content that all the publishers believe we should be deeply enthralled with. Hoping to show us why exactly it is that we should all care (and pay) for prepackaged digital content is Wired's latest and most comprehensive demo of its tablet app on an unspecified 16:9 device. Setting aside hopefuls like the Joojoo and Adam for a moment, it is clear that this is ultimately intended for Apple's iPad -- the device that stands by far the biggest chance of making the digimag concept a commercial success. Interesting choice of development partner, then, as Condé Nast has opted to use Adobe's AIR platform for the underlying mechanics. Adobe promises its Packager for iPhone, part of CS5, will allow devs to easily port AIR apps to run natively on the iPad, but until Apple gives its official assent to the final code, nothing is guaranteed -- and Packager hasn't even officially shipped yet. As far as the app goes, it'll come with Twitter and Facebook integration, and navigation is geared toward the touching and swiping model so prevalent today. See it on video after the break.
+      
+
+ 
+
+
+ 

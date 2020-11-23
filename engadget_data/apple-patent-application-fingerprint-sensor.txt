@@ -1,0 +1,5 @@
+
+ 
+ While Apple has flirted with biometric-based patents before, we've yet to see them implemented in real-world technology. That hasn't stopped it from filing yet another one though, as the latest application reveals a fingerprint sensor apparently embedded into the iPhone itself. The patent describes a hardware "window" that can become selectively "transparent or opaque." When transparent, it would reveal a component comprised of an "image capture device, a strobe flash, a biometric sensor, a light sensor, a proximity sensor, or a solar panel, or a combination thereof" as a method of unlocking the phone. According to the filing, the biometric sensor in question might indeed be a fingerprint reader. The document goes on to describe an alternative method using face or eye recognition technology that can be used not just for security purposes, but for possible e-commerce solutions like completing an online transaction. Of course, take any of these patent applications with a generous pinch of salt -- we haven't seen an Apple stylus yet, for example -- but perhaps this is the reason Apple bought fingerprint sensor maker AuthenTec back in July.
+
+

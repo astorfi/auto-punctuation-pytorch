@@ -1,0 +1,8 @@
+
+
+Samsung has revealed that by 2015 it may be selling WiFi devices that use unlicensed, 60GHz spectrum to transfer data at 575MB/s -- five times faster than current tech. If that sounds familiar, it's also the WiGig Alliance's 802.11ad WiFi standard, which has a moderately faster theoretical speed of 875MB/s. However, "theoretical" is the operational word -- in practice, WiGig bounces off walls rather than penetrating them, so speeds drop rapidly without line-of-sight transmission. In addition, WiGig's short wavelengths are susceptible to interference by other devices. Samsung claims it's solved those problems by using beam-forming antennas that adapt to changing conditions in less than 0.33 milliseconds. It plans to put the tech in a variety of devices, including its Smart Home and mobile products as early as next year. We're not sure if those devices will conform to the WiGig standard or fork it, so we've reached out to Samsung for more info.
+
+
+[Image credit: JOSEP LAGO/AFP/Getty Images]
+
+

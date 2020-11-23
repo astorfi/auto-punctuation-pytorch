@@ -1,0 +1,5 @@
+
+ Mere days ago we were being treated to the adventures of Intel and Micron in their efforts to create the "world's fastest" NAND drive, and now Intel's got its hands in some phase-change memory, with a technology to double the storage capacity without adding much cost to the fabrication. Phase-change memory is being billed as the successor to flash memory, since it relies on the configuration of a material's atoms instead of those dinky electrons we've been pushing around in our devices for the past few decades. Up until now phase-change memory has used two states to record data: loose and rigid organization of atoms (amorphous and crystalline). Now Intel, along with partner ST Microelectronics, has discovered two more distinct states in between those extremes, effectively doubling capacity in the burgeoning technology. Apparently this sort of advancement puts the clincher on this tech coming to market eventually -- and with speeds comparable to RAM plus the non-volatility of flash, we can hardly wait.  [Via Slashdot]
+      
+
+ 

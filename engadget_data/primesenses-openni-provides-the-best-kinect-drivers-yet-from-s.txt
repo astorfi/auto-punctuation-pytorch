@@ -1,0 +1,8 @@
+
+ 
+We've been so wrapped up in Kinect hacks lately that we actually missed a Kinect non-hack that emerged last week. PrimeSense, who built the initial Project Natal reference hardware for Microsoft, has released its own open source drivers for the Kinect. PrimeSense is working with Willow Garage (best known for its open source ROS robot operating system), and Side-Kick (a motion gaming startup) through a new OpenNI organization it set up, and the trio will be combining their powers for good. The OpenNI framework will cover low-level hardware support (drivers for actual cameras and other sensors), and high-level visual tracking (turning your body into a 3D avatar that kicks ass in a virtual world). This should be a boon to an already vibrant Kinect hacking community, and if the video above is any indication, we aren't far from Kinect-level interaction and gameplay on our lowly PCs. 
+
+[Thanks to everyone who sent this in]
+      
+
+ 

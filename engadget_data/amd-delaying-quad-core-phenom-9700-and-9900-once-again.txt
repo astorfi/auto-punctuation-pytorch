@@ -1,0 +1,6 @@
+
+ 
+The sun just refuses to shine on AMD -- according to several Taiwanese motherboard manufacturers, AMD is saying that the quad-core Phenom 9700 and 9900 are going to be delayed yet again, this time to the end of Q3. Apparently there's a buffer-related glitch in the original design, so AMD is actually "canceling" the two chips and "reintroducing" the revised versions in Q3 as the 9750 and 9950 to "improve consumer confidence." That's certainly an interesting tactic for a chip that's never seen the light of day -- but we'd say that the best thing AMD could do to improve consumer confidence is stop talking and start shipping, no?Update: We just got off the phone with AMD, who told us that they're actually ahead of schedule on the "B3" Phenom silicon, which fixes that buffer error without requiring a new BIOS, and that they expect to ship higher frequency quad-core Phenoms in Q2 as planned. They would not, however, give us model numbers or clock speeds, and wouldn't commit to a date in Q2 -- so don't be surprised if these hit as the 9750 and 9950 on the last day of Q2 after all.[Thanks, Mack S.][Via X-bit Labs]
+      
+
+ 

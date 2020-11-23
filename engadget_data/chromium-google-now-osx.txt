@@ -1,0 +1,4 @@
+
+A few months back Chromium whiz François Beaufort spotted a piece of code in the open source web browser that hinted at Google Now possibly coming to Chrome. Today, the programmer has uncovered an issue log pointing out notification center enhancements for OS X. An entry, listed as "[Mac][MC] Implement notification updates and relayouts" could possibly indicate Google Now having a future on Apple's desktop platform. With Google's I/O a little over a week away, hopefully we won't have to wait too long to find out. In the meantime, we'll reach out to the company for a comment on Beaufort's findings and see what turns up.
+
+

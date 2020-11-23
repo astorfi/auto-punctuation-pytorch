@@ -1,0 +1,5 @@
+
+ 
+There's no question that Windows 7 promises plenty of improvements over Vista, with one of the biggest being faster boot times. While that's certainly been the experience for some, Iolo Technologies (a maker of PC tune-up software) found some significantly different results in their long term tests, which they say show that Windows 7 isn't faster than Vista at all in real world use. Specifically, they found that while Windows 7 actually got to the desktop fairly quickly, it took a full minute and 34 seconds to actually become usable, compared to a minute and 6 seconds with Vista. They also unsurprisingly found that things got worse over time, with a three-month old Windows 7 install adding a full minute to the boot time, although in that case it did actually fare somewhat better than Vista. Of course, we are talking about complete reboots here, and it's a different story when Windows 7 is simply coming in and out of sleep mode. Details on the tests are otherwise a bit light, but Iolo is promising to release its complete findings next week.
+
+ 

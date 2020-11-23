@@ -1,0 +1,28 @@
+
+ There's so much deja vu here it's almost bewildering, but Microsoft has managed to get itself fined by the European Commission once again for failing to comply with its 2009 commitment to make it easy for customers to choose default browsers other than Internet Explorer. The penalty of 561 million euros ($730 million) isn't the biggest Redmond has faced in its turbulent history with European regulators, but it's still gotta hurt -- especially considering that Microsoft said its latest anti-trust blunder, in which the browser choice screen disappeared for some Windows 7 users, was merely a "technical error".
+
+ Update: Microsoft has said it won't appeal the fine and issued the following statement:
+
+  We take full responsibility for the technical error that caused this problem and have apologized for it. We provided the Commission with a complete and candid assessment of the situation, and we have taken steps to strengthen our software development and other processes to help avoid this mistake – or anything similar – in the future.
+
+
+  Show full PR text   Antitrust: Commission fines Microsoft for non-compliance with browser choice commitments
+   The European Commission has imposed a €561 million fine on Microsoft for failing to comply with its commitments to offer users a browser choice screen enabling them to easily choose their preferred web browser. In 2009, the Commission had made these commitments legally binding on Microsoft until 2014 (see IP/09/1941). In today's decision, the Commission finds that Microsoft failed to roll out the browser choice screen with its Windows 7 Service Pack 1 from May 2011 until July 2012. 15 million Windows users in the EU therefore did not see the choice screen during this period. Microsoft has acknowledged that the choice screen was not displayed during that time.
+
+   Commission Vice President in charge of competition policy Joaquín Almunia said: "In 2009, we closed our investigation about a suspected abuse of dominant position by Microsoft due to the tying of Internet Explorer to Windows by accepting commitments offered by the company. Legally binding commitments reached in antitrust decisions play a very important role in our enforcement policy because they allow for rapid solutions to competition problems. Of course, such decisions require strict compliance. A failure to comply is a very serious infringement that must be sanctioned accordingly."
+
+   In December 2009, the Commission had made legally binding on Microsoft commitments offered by the US software company to address competition concerns related to the tying of Microsoft's web browser, Internet Explorer, to its dominant client PC operating system Windows (see IP/09/1941, MEMO/09/558 and MEMO/09/559). Specifically, Microsoft committed to make available for five years (i.e. until 2014) in the European Economic Area a "choice screen" enabling users of the Windows operating system to choose in an informed and unbiased manner which web browser(s) they wanted to install in addition to, or instead of, Microsoft's web browser.
+
+   The choice screen was provided as of March 2010 to European Windows users who have Internet Explorer set as their default web browser. While it was implemented, the choice screen was very successful with users: for example, until November 2010, 84 million browsers were downloaded through it. When the failure to comply was detected and documented in July 2012, the Commission opened an investigation (see IP/12/800) and before taking a decision notified to Microsoft its formal objections in October 2012 (see IP/12/1149).
+
+   This is the first time that the Commission has had to fine a company for non-compliance with a commitments decision. In the calculation of the fine the Commission took into account the gravity and duration of the infringement, the need to ensure a deterrent effect of the fine and, as a mitigating circumstance, the fact that Microsoft has cooperated with the Commission and provided information which helped the Commission to investigate the matter efficiently.
+
+   Background  When the Commission finds an infringement of EU antitrust rules such as an abuse of a dominant market position (Article 102 of the Treaty on the Functioning of the European Union), it may take a decision under Article 7 of the EU's Antitrust Regulation (1/2003) prohibiting such behaviour and imposing sanctions. The Commission may impose a fine up to 10% of the undertaking's total turnover in the preceding business year.
+
+   However, under Article 9 of the Regulation, the Commission may also conclude an antitrust investigation by making legally binding the commitments offered by the companies concerned. Such an Article 9 decision does not conclude that there is an infringement of EU antitrust rules and does not impose a sanction. However, it legally binds the companies concerned to comply with the commitments. Since the entry into force of the Regulation in 2003, the Commission has taken 29 decisions under Article 9, including the decision on Internet Explorer (IP/09/1941).
+
+   If a company breaks such commitments, Article 23 (2) of the Antitrust Regulation empowers the Commission to impose fines of up to 10% of its total turnover in the preceding business year.
+
+   The Commission's investigation into the tying of Windows and Internet Explorer was distinct from the antitrust case involving Microsoft which concluded in 2004 with a Decision finding that Microsoft had abused its dominant position and imposing fines. This case focused on interoperability between Windows and work group servers and on the tying of Windows Media Player to Windows (IP/04/382).
+
+ 

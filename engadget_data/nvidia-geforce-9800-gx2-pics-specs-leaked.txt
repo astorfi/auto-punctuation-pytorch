@@ -1,0 +1,13 @@
+
+ 
+Details aren't quite hard and fast, but this is NVIDIA's top-of-the-line to-be, so it's never too early to start nerding out. HardOCP says the best way to think of the GeForce 9800 GX2 is a 8800 that's been shrunk down to 65nm and SLI'd onto a "single" card. The card is supposed to be at least 30% faster than a 8800 Ultra, and will apparently support Quad SLI. So, now for the really nerdy part:
+
+1GB frame buffer
+Two PCBs
+Two 65nm GPUs
+256 Stream Processors
+
+That's the way HardOCP tells it, and who are we to argue?[Via PC Perspective]
+      
+
+ 

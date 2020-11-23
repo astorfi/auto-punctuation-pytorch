@@ -1,0 +1,11 @@
+
+ 
+With that hotly-anticipated May 12th release date just around the corner, you might be wondering how Steam on Mac will perform. You're in luck, because some of our favorite Mac news sites have just finished testing the software's closed beta. The verdict? It's practically the exact same as the Windows version, except there's almost nothing to buy. Save for the Growl-like notifications at the top of the screen, the UI is all but indistinguishable, and as promised,data and purchases (if playable) automatically carry over in their entirety from your Windows Steam account. Team Fortress 2 even has cross-platform capability, allowing Mac users to play online with their Windows counterparts, though several journalists noted you might want to invest in a two-button wheel mouse if you don't want to be found out. Source Engine performance on Mac wasn't quite as good as on Windows in tests using the exact same hardware (thanks, Boot Camp), but admirably comes close nonetheless; Electronista was able to maintain a similar framerate in Portal just by disabling two levels of anti-aliasing. Not all Mac users will be able to partake in these games, however; though a MacBook Pro with a discrete 512MB GeForce 8600M card could run them well and a GeForce 9400M laptop managed on low settings, those with only integrated Intel graphics chips might find themselves in for a painful surprise. 
+
+Read - Electronista
+Read - MacRumors
+Read - MacWorld
+Read - AppleInsider
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+Despite the shortcomings, it's hard not to get excited about VIA's Pico-ITX offerings: who cares if the capabilities are limited, they're just so adorably small we want to pinch their cheeks. Now VIA is making things even more efficient with a 500MHz board that can be cooled solely with the heatsink -- no fan required. Naturally, that step down in processor speed from the PX10000 won't exactly be much help to the folks sticking Ubuntu on these things, but the PX5000EG should be a boon to the embedded market and reliability nuts. Video is after the break.
+      
+
+ 
+
+
+ 

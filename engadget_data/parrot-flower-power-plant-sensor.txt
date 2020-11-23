@@ -1,0 +1,44 @@
+
+
+
+For a company that usually makes Bluetooth audio products and quadcopters, this sure is a weird product coming from Parrot, but we dig it (pun intended). The French company has announced its Flower Power at CES, and as you can probably guess from the name, 'tis a smart sensor that you can insert into a pot to monitor the plant's environmental variables: sunlight, humidity, temperature and fertilizer (but no acidity?). The data is sent to the cloud via Bluetooth Smart for analysis before coming back to your mobile device, and you'll be able to look up Parrot's "library of thousands of plants" for the extra care for your herbal friends. No price has been announced for the Flower Power just yet, but it'll definitely be out at some point this year.
+
+
+Update: Official video added after the break.
+
+
+Update 2: During our stage interview, Parrot CEO Henri Seydoux confirmed that that the Flower Power can also measure the soil's pH level, so all is good.
+
+
+Update 3: The pH detector has been removed from the final specifications. Sorry folks.
+
+
+
+
+
+
+Show full PR textParrotConsumer Electronics Show 2013
+
+The best technologies serving a smart way of life
+
+Parrot, a global leader of wireless peripherals for mobile phones, unveils the innovations that will be available in 2013.
+
+Every day, Parrot is exploring the new possibilities around Smartphones in the spirit of "Smart Living".
+
+For Parrot, 2013 will mark the opening of a new front, a new field of exploration: 'eco-geek' products.
+
+Parrot Flower Power• A wireless Bluetooth Low Energy sensor for your plants that will inform you on their needs thanks to a dedicated application.
+
+The smart sensor for your plants
+
+With 'Flower Power', Parrot is opening a new path of exploration.Parrot Flower Power is the idea to develop 'eco-geek' products.The project presented at CES 2013 is a smart wireless sensor – equipped with Bluetooth Smart-technology - and a dedicated application to help us look after our plants.
+
+Indoor or outdoor, Parrot Flower Power measures the factors that participate to the growth of the plant it is associated to.It measures sunlight, humidity, temperature and fertiliser.
+
+Data for each is transferred over Bluetooth Smart (low consumption) to Parrot Cloud, analysed by dedicated software and sent to a compatible Smartphone or tablet.
+
+Thanks to a library of thousands of plants, pro or rookie gardeners are informed of the needs of their geranium, ficus or tomato plant!
+
+Project name: Parrot Flower PowerDate of availability: 2013
+
+

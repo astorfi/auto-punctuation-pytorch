@@ -1,0 +1,6 @@
+
+ 
+Four solid months after going into open beta, Palm's entirely web-based SDK for webOS -- the so-called Ares SDK -- has reached version 1.0, bringing "lots and lots" of new features along for the ride. Biggies include UI-less components that add functionality to your application, in-line help, undo and copy / paste functionality (for the SDK, that is), and a plug-and-play multitouch-enabled Google Maps widget that you can drop into your own screens. Even if you don't own a Pre and have no intention of commercializing a webOS app, it sounds like a blast to screw around with -- and considering how important the third-party ecosystem is for Palm right now, we'd say that's a good thing. Interested parties can get set up with the gold build right now.
+      
+
+ 

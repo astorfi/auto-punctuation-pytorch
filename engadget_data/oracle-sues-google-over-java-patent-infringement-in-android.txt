@@ -1,0 +1,8 @@
+
+ 
+It's no secret that Android and the Dalvik virtual machine it uses are heavily based on Java, and it looks like Oracle isn't so happy about it: the database giant (which acquired Java when it bought Sun) just announced that it's suing Google for copyright and patent infringement. The suit alleges Android violates some seven patents and contains copies of Sun's original Java code -- a damning accusation given that Google CEO Eric Schmidt once led the Java team before leaving Sun and eventually arriving in Mountain View. Oracle says Google's known about these issues for around five years now, so it's clear that whatever licensing negotiations these two were having have broken down -- we've got a feeling this case will drag on for years to come, but we'll definitely keep an eye on it.
+
+[Image courtesy of Chris Onstad and Achewood]
+      
+
+ 

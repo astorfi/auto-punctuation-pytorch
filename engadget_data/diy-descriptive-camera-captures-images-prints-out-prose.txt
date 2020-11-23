@@ -1,0 +1,5 @@
+
+ 
+ Have you ever wished that cameras could capture not only an image of the scene in front of them, but also describe it to you in plain English? Ok, what if it bypassed the whole "photo" thing and just spit out a slip of paper with words on it? Well, if you're still interested, the impressive Matt Richardson (of Make fame) has a project right up your alley. The Descriptive Camera is a relatively simple device really. A Logitech webcam is connected to a BeagleBone dev board, which is in turn plugged into a thermal printer from Adafruit. Obviously, the tech required to analyze a scene recognize the objects then convert that pile of pixels into a slice prose is outside of the budget and capability of your average DIY project. So Matt turned instead to Mechanical Turk, Amazon's marketplace for HITs or Human Intelligence Tasks. Images captured by the cam are uploaded via the BeagleBone, where an actual person describes what he or she sees and the resulting literature is printed out. For more details and images check out the source.
+
+

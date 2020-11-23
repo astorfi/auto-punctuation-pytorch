@@ -1,0 +1,26 @@
+
+ 
+ We hear that pilgrims have already started flocking to the town of Ivybridge (population 12,056) in the forested depths of southwest England. Very soon though, you'll be able to pay homage to Moore's law without travelling further than your favorite online retailer, because the third generation of Intel Core processors has just launched and should be available to buy before the end of this month. These include eight different variants of Core i7 for desktops and notebooks (including Ultrabooks of course), plus five types of Core i5 destined for desktops only. Those watching out for cheaper dual-core i5, i3 and Pentium-branded options will have to wait a little longer, because today's launch is all about the high-end. And just how high is 'high'? Judging from the gossip we've heard, and from benchmarks of leaked desktop and notebook chips, we're looking a significant improvement over Sandy Bridge. But if you want the first official boasts, then read on.
+
+
+
+
+
+ 
+ Ivy Bridge is a loud 'tick' in Intel's product cycle, with a much smaller 22nm fabrication process instead of the 32nm silicon found in Sandy Bridge (a tock) and Westmere (the previous tick, back in 2010). Stare at your fingernail for 22 seconds and you'll see it grow by the size of one transistor -- a world first for a mass-produced chip, according to Intel. To pack more into the same space, the transistors benefit from a 3D or tri-gate design, which means they're arranged over fins that protrude from the surface of the silicon base rather than just lying flat.
+
+ Having smaller, lumpier transistors doesn't necessarily translate into radically different performance, and indeed Intel is making quite modest claims in that department: e.g., up to eight percent improvement in the Core i7-3820QM compared to the i7-2860QM running the SYSmark benchmark, or up to 22 percent improvement when running a multi-threaded application like Cinebench. On the other hand, shrinking the silicon does make it more energy efficient, which bodes well for the battery life of Ultrabooks and Macbooks everywhere, and it also frees up space for Intel to pack more technology on each chip.
+
+ 
+ The main beneficiary of that extra room is the integrated graphics. In those chips which have superior HD 4000 hardware, the GPU component will now occupy around a third of the chip's 160mm2 die size. Sandy Bridge's HD 3000 graphics were pretty good for many tasks, and could readily handle a bit of Medieval 2, but they weren't up to modern 3D gaming and they were outclassed by the Radeon HD visuals on AMD's Fusion chips. Intel claims the fattened-up HD 4000 will deliver a minimum 50 percent improvement in 3D performance and will play 100 percent of recent games out of the box -- though it didn't specify frame rates or graphical settings, so we're not exactly sure how to interpret that. Chips with HD 2500 graphics should be 10 to 20 percent superior to HD 2000, and all the new chips will support DX11, OpenCL v1.1 (which allows use of the GPU and the CPU for compute tasks) and OpenGL 3.1. That said, Intel was keen not to overplay gaming prowess in our briefing, acknowledging that "the majority of high-end gamers will still use discrete graphics."
+
+ 
+ If you're more into multimedia than gaming as such, then there are couple of nuggets here for you too: Quick Sync accelerated video encoding will get a 50 to 80 percent bump, while support has also been added for Handbrake, the open source video transcoder.
+
+ Once you get past the main CPU and GPU improvements, you're down to a long shopping list of much smaller upgrades such as onboard USB 3.0 support, PCIe 3.0, triple display support and improved overclocking, the usefulness of which will depend on your habits. Check out the Intel slide below for more detail.
+
+ 
+ That's it! And the best thing is that Intel is giving you all of this stuff while asking nothing in return, except at least $174 for a Core i5 desktop chip and at least $278 for a desktop i7. We're missing complete pricing for the mobile chips, but the top-end notebook i7 processors will start at $378 (for the i7-3720QM) and rise to $1096 for the maximum spec i7-3920XM. If you're getting a desktop chip for your own build, you'll probably want to budget for a new Series 7 motherboard to go with it, although very recent Series 6 boards should also be able to host an Ivy Bridge chip if they have the right firmware -- the socket is still LGA 1155.
+
+ 
+

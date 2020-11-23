@@ -1,0 +1,5 @@
+
+ 
+ Android Open Source Project technical lead Jean-Baptiste Queru has announced the source for the newest version of the OS, Android 4.1 Jelly Bean (relive the releases for ICS, Gingerbread and Froyo), will be made available today. Currently, binaries are available for the Nexus 7 and Galaxy Nexus, with Nexus S and Motorola Xoom versions promised soon. As usual, this gets the countdown started for more manufacturers to work on builds for their devices and means third party coders like CyanogenMod can dive in as well. One other thing we should be used to by now is a warning that it still may take some time for things to go live as the code is replicated. Hit the source link for all of the information on the latest build or hit the AOSP site for more information what exactly this is and how to get it.
+
+

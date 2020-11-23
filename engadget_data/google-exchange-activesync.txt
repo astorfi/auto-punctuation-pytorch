@@ -1,0 +1,6 @@
+
+ Today is the day that Google has been planning to shut off its support for Exchange ActiveSync, but it appears that the company has had a slight change of heart. Google has confirmed that it will allow Windows Phones to access Google Sync services for an additional six months, ending on July 31st. This move will allow Microsoft a little extra breathing room, giving the company more time to determine how to best resolve the concern that will affect countless Gmail fans that currently use Windows Phone as their primary driver; according to a blog post (linked below), Microsoft has indeed confirmed that it's working on building CalDAV and CardDAV support into Windows Phone.
+
+ We reached out to Google and received this confirmation: "As announced last year, our plan is to end support for new device connections using Google Sync starting January 30, 2013. With the launch of CardDAV, it's now possible to build a seamless sync experience using open protocols (IMAP, CalDAV and CardDAV) for Gmail, Google Calendar and Contacts. We'll start rolling out this change as planned across all platforms but will continue to support Google Sync for Windows Phone until July 31, 2013."
+
+

@@ -1,0 +1,30 @@
+
+
+ At this past year's CES, we were inundated by tablet after tablet after, well, tablet. Some were big, some were small, and some were just right. A few, though, kind of faded into the wallpaper and didn't return. Such was a little prototype NVIDIA brought by for us to play with, a 7-inch tablet from ASUS with Tegra 3 power and an amazing price tag -- just $250. We got our hands on it briefly (as seen in the video below) and it was impressive, but it was never to be seen again.
+
+ One month later, Google's Director of Android Partner Engineering Patrick Brady joined Matias Duarte in Taipei to meet with ASUS and to launch the project that would become Google's first Nexus tablet, the 7-inch, Tegra 3-powered Nexus 7 that is shipping soon for an even more amazing $199. Coincidence? Join us for a discussion with Patrick about how Google's mighty little tablet came to be.
+
+
+
+   Is the Nexus 7 really just a re-skinned version of that ASUS tablet? Not exactly. So is the Nexus 7 really just a re-skinned version of that ASUS tablet? Not exactly. "We get an idea, we look at the ecosystem and ask ourselves 'What do we really need to focus on as a reference device?'" ASUS, Brady says, had just the right mix. "We loved what [ASUS] did with the Transformer Prime, all these gorgeous devices, and we approached them to see if they wanted to work with us. They showed us some early designs of what could be done with a 7-inch tablet and we didn't need to look any further."
+
+ Google decided to pull the trigger on the project in late February and both companies immediately made a significant contribution. Google set aside an entire building just for the development and ASUS shipped in upwards of 30 engineers to work there for the duration, many of whom looked on proudly from the seats at this year's Google I/O keynote. Brady is understandably proud of "start to finish in four months."
+
+ 
+ During that period there were of course many iterations and modifications, but there were a few things that would not be compromised. Among them was an IPS, HD display, one of the strongest selling points of the resulting package. "Here we are acquiring this huge digital library of HD content, how could you not have an HD display on this device? How could you not have IPS?"
+
+  "We were obsessive about getting it under 350g, about getting it to be under 11mm thick. It had to feel great in your hand." Another is weight and thickness. "We were obsessive about getting it under 350g, about getting it to be under 11mm thick. It had to feel great in your hand. I think the ASUS guys will tell you too, that was not easy. We made a lot of changes to the mechanical stack-up to hit the weight, to do everything that we wanted to do."
+
+ Finally, there is of course the cost. "We really looked at the $199 price point as something that we had to hit." That was not just a goal but a requirement that Google and ASUS were pledged to meet, and they did -- but not at the expense of quality. "We said 'Let's make a low-cost tablet, not a cheap tablet.' This is a reference device. This is a Nexus. We put a lot behind that brand and this device needs to stand up to that."
+
+ 
+ But, we couldn't help wondering why Google didn't opt to take a page from Amazon, with its Kindle advertising deal, and make an ad-supported Nexus 7 that sold for even cheaper -- perhaps for under $100. After all, Google is one of the biggest players in the world of mobile advertising. Brady was coy about why that wasn't part of the initial plan, but he stopped far short of ruling it out in the future. "That's always something we could look to do... [there's] always room for improvement."
+
+ And why no rear-facing camera? Brady wouldn't confirm that was something removed due to cost concerns (that ASUS prototype we saw at CES did indeed have one), but obviously the Nexus 7 has only a front-facing shooter. "It's something we talked about a lot and, you know, this is a portable device so I could see where a rear-facing camera would make more sense than on a 10-inch tablet. But, what we found was that people really wanted to use the front-facing camera." The rear-facing camera? Not so much.
+
+ 
+  "We're always iterating on Nexus devices." So what's next? Brady repeatedly referred to the 7 as the "first device" in the Nexus tablet range, saying "we're always iterating on Nexus devices." That presumably means more are to come, but the important bit here isn't so much that Google's just out building cool tablets on a whim. Rather, they're building reference devices where they see a need.
+
+ He mentions the Nexus S as a great reference for a current mid-range phone and, in the superphone arena, the Galaxy Nexus. Even the Motorola Xoom got a nod as a 10-inch tablet reference, but Google felt it didn't have a proper 7-inch template, and thus the Nexus 7 came to be. "Going forward, we'll continue to look at expanding Android into new places," places like the Nexus Q and then, well, your guess is as good as ours.
+
+

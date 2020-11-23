@@ -1,0 +1,21 @@
+
+
+At MWC, Alcatel was kind enough to give us a preview of its working "smartbook" prototypes. The idea isn't too far off from Motorola's doomed Lapdock or the first-gen ASUS PadFone, where an Android phone powers an otherwise brainless laptop. What's different with Alcatel's implementation is that instead of having to physically dock the phone somewhere, you hook it up to the laptop wirelessly: video signal over WiFi, and keyboard plus trackpad input over Bluetooth. What's more, the final product will let you use the two screens somewhat independently -- at least you'll be able to see the caller ID on the phone for incoming calls.
+
+
+The pairing process itself is also quite interesting: instead of using an NFC coil, the laptop showcases MediaTek's cheaper Hotknot technology, which involves a little capacitive pad at the bottom right of the keyboard. The signal from the capacitive coupling between the pad and any phone's touchscreen is what helps identify the devices; so in other words, even non-NFC phones can be supported.
+
+
+Update: We now have a hands-on video after the break. 
+
+
+
+
+
+
+The prototype smartbook we saw featured a MacBook-like aluminum body, along with an 11-inch 1080p IPS display and a "full day" battery of somewhere between 5,000 to 6,000mAh. There's no touchscreen here, so instead, you'll be using the multitouch glass trackpad to point and scroll. An Alcatel rep told us that this is to keep the hardware cost low, but we'd still like to see a touchscreen option for the sake of consistency across the phone and laptop UIs.
+
+We've been told that this project is far from ready for public consumption (it was slightly buggy when we played with it), but we can expect a much better demo at IFA come September. It'll be interesting to see how this pans out, especially given Alcatel's track record of delivering good products with great affordability, though the company does plan to limit this feature to its own octa-core smartphones.
+
+Brad Molen contributed to this article.
+

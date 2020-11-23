@@ -1,0 +1,10 @@
+
+ 
+Lots of people have lots of problems with lots of things, but to say that we've been getting lots of complaints about Nexus S issues would be an understatement. Hundreds have chimed in on the Google Mobile Help forum indicating that their handsets are frequently losing data signal and, once lost, a reboot is required to reconnect. It's been said this could be related to an issue that's been around since 2009 (issue 2845), but a new issue in the Android bug tracker has been created, 14672, which specifically deals with the Nexus S. You might want to star 'em both if you're affected -- or feeling charitable. Finally, and perhaps even more troubling, is the phone rebooting. By itself. In the middle of a call. You can imagine how this might be a little annoying. That issue is number 13674 and it's linked down there too.
+
+Update: Huzzah! Just got a note from Google saying: "All of the issues described in the post are resolved and will be fixed with an OTA that will go out soon." Feel free to start mashing that "system updates" menu item.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

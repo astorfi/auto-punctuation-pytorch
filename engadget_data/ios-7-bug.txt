@@ -1,0 +1,18 @@
+
+The moment operating systems become available to the public is also the moment millions of people have the opportunity to hunt around and find bugs. And, it appears that at least one rather critical bug has already been discovered in iOS 7. A keen-eyed user found a way to bypass the passcode-protected lockscreen and gain access to the device's photos app, giving him the ability to hijack the email or social network account associated with that device. Essentially, you access the alarm clock through Control Center, make your way into the multitasking menu and head into the camera app from there. We've embedded the video evidence below, just in case you're interested in trying it out for yourself; we tested it out using an iPhone 5s running iOS 7.0.1, and were able to duplicate the user's claims.
+
+
+This isn't the first time we've seen an iOS bug capable of bypassing your lockscreen and compromising the security of your device, and Apple typically squashes those bugs with patches; the last one took a month, however, so we'd like to see an update to iOS 7.0.2 a bit sooner than that. While you wait, the easiest way to avoid this concern is to disable the ability to access Control Center from the lockscreen (this can be found in the settings).
+
+
+[Thanks, @vbarraquito!]
+
+
+Update: Apple tells AllThingsD that it's aware of the bug, and that it's working on a fix.
+
+
+
+
+
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+It's been a few weeks since the FCC mandate for seperate security went into effect, and when our cable company offered us a free STB for a year -- to make up for the fact that they moved an HD channel to SDV and out of the reach of our Series3 -- we told them, sure, as long as it had a CableCARD.
+      
+
+ 
+
+We knew that cable companies didn't want to support CableCARDs, and as we suspected they've discovered a disingenuous way of supporting them. Basically the STB (4250HDc, manufacture date 6/29/07) is shipped with the CableCARD installed and for all intents and purposes it's business as usual. We don't see how this is going to help 3rd party CableCARD devices get better support when you consider that the installers won't have any experience installing cards and also unlike 3rd party devices these STBs are certified for two-way services. CableCARD is here to stay, lets just hope the FCC steps in and ensures the open cable dream is actually realized.Just to make sure the CableCARD was actually in use, we went ahead and pealed off the tape and removed the card, and as expected the box ceased to work, but luckily for us, re-inserting the card got us back up and running in a few minutes. Update: While this box does just about everything that a CableCARD 2.0 host device can do (like SDV, VOD, PPV), it doesn't support OCAP, which according to many means, it doesn't meet the CableCARD 2.0 specification. We've requested clarification from CableLabs.
+ 

@@ -1,0 +1,37 @@
+
+ While others push for ever-smaller processors to power the so-called Internet of Things, AMD's new R-Series chips are designed to go the other way: upgrading devices that are already hooked up but that could benefit from more graphical whizz. These embedded processors have the same Piledriver and Radeon HD 7000 internals as their Trinity cousins, but they're intended for digital billboards, casino gaming, payment systems and other applications that need to present a pretty picture to the end-user. In addition to visuals, they can also use their built-in GPUs to speed up encryption / decryption and support parallel-processing tasks like medical imaging, multi-camera surveillance and, you know, serious stuff. A number of manufacturers have already adopted the new chips, but perhaps the only place you're likely to be aware that you're using one is if you happen to buy an R-Series equipped mini-ITX motherboard.
+
+
+
+  Show full PR text   AMD Launches AMD Embedded R-Series APU Platform
+    Offering high-performance multicore X86 processing, advanced video and graphics capabilities and ultra-high speed parallel processing, the AMD Embedded R-Series APU platform targets performance-intensive embedded applications
+
+   SUNNYVALE, Calif. -5/21/2012
+
+   AMD (NYSE: AMD) today launched the AMD Embedded R-Series accelerated processing unit (APU) platform. Designed for mid- to high-end graphics-intensive applications such as digital signage, casino gaming, point-of-sale systems and kiosks, as well as parallel-processing-intensive applications spanning medical imaging and security/surveillance, the AMD Embedded R-Series APU combines the new "Piledriver" CPU architecture, an evolution of the "Bulldozer" architecture, with discrete-class, DirectX® 11-capable AMD Radeon™ HD 7000 Series graphics in a heterogeneous multicore embedded processing platform.
+
+   "AMD pioneered the embedded APU to offer our customers a high-performance, power-efficient, small form-factor embedded processor," said Buddy Broeker, director, AMD Embedded Solutions. "With the AMD Embedded R-Series, we are taking our APU technology to the next level. By leveraging its seamlessly integrated heterogeneous system architecture, developers can tap into a high-performance and efficient parallel processing engine to accelerate their graphics- and compute-intensive applications, all while using industry-standard libraries such as OpenCL™ and DirectCompute."
+
+   The AMD Embedded R-Series APU integrates dedicated resources that enable exceptional performance with shared resources to help reduce power consumption and die space. Because of its scalability, the new APU provides developers with the flexibility to leverage the same board design and software stack for a variety of applications. And with its discrete-class graphics integrated into the processor, applications that previously required a separate graphics processor or card now can be delivered on a wide range of form factors. Developers working with the AMD Embedded R-Series APU can implement remote management, client virtualization and security capabilities to help reduce deployment costs and increase security and reliability of their AMD R-Series based platform through AMD DAS 1.0 featuring DASH 1.1, AMD Virtualization and Trusted Platform Module (TPM) 1.2 support.
+
+   "In VDC's opinion, the AMD Embedded R-Series APU capitalizes on a number of trends around hardware integration and software development. It combines a CPU and GPU in a heterogeneous multicore platform and provides software migration through tools like OpenCL™," said Jonathan Hastings, analyst with VDC Research Group. "This product provides a new platform for developers building graphics-intensive embedded applications that require HD video or realistic and interactive 3D effects, as well as compute-intensive applications that can benefit from high-performance parallel processing."
+
+   Multimedia enhancements available for the AMD Embedded R-Series APU include:
+
+   A video compression engine that provides a dedicated hardware encoder for video to quickly and efficiently encode video for applications like video conferencing or surveillance;  A Secure Asset Management unit that allows for GPU-assisted encryption/decryption of content, enabling less CPU overhead and lower power when dealing with protected content;  Enhancements to the Unified Video Decoder that extend the capabilities of the AMD Embedded R-Series APU platform to include dual, high-definition decode and stereoscopic 3D.
+
+   For applications that benefit from multiple displays, such as casino gaming or video walls in digital signage, the AMD Embedded R-Series APU supports connection to four independent displays, which can be utilized to display four independent video feeds or a single video feed distributed across a four-panel display. By adding a discrete AMD Radeon™ Embedded graphics card to the system, the number of independent displays can increase up to 101.
+
+   "AMD's embedded technologies are an important part of our strategy in developing a broad range of powerful solutions across a variety of industries including infotainment, medical imaging and more," said, Dirk Finstel, CTO of Kontron. "We are excited about taking full advantage of the more powerful AMD Embedded R-Series APUs in our designs."
+
+   Edward Price, managing director of Advantech-Innocore said, "The AMD Embedded R-Series platform delivers a good combination of high-performance integrated 3D graphics, relatively low power consumption, and a full x16 PCIe graphics slot for high end, flexible graphics solutions along with the essential product lifecycle required for our industry sector. A good price/performance combination is key for us in order to offer leading edge technology to the casino gaming market. Advantech-Innocore is convinced that the graphics performance of the new AMD Embedded R-Series APU will provide an exciting solution for many of our customers."
+
+   A variety of AMD customers are announcing market-ready products incorporating the AMD Embedded R-Series APU Platform today including:
+
+   Advantech-Innocore – System solution for high-performance casino gaming applications  Axiomtek – High-performance MiniITX motherboard  Congatec – High-performance COM Express module  DFI -- High-performance COM Express module  iBase – System solution for high-performance digital signage applications  J&W IPC – Custom form factor embedded motherboard with support for up to 10 DisplayPort displays  Quixant – System solution for high-performance casino gaming applications  SHENZHEN XINZHIXIN- High-performance MiniITX motherboard
+
+   Supporting Resources
+
+   Visit the AMD Embedded R-Series Platform site  Visit the AMD Embedded Solutions blog for more background on the new R-Series  Get technical support at the AMD Embedded Developer Support site  For more AMD Embedded products, visit the AMD-Based Embedded Product Catalog
+
+ 

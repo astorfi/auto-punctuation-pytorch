@@ -1,0 +1,6 @@
+
+ 
+We've been hearing about ATI's external graphics schemes for years, but apparently XGP is finally ready to go. The platform houses an external graphics card -- ATI-branded, of course -- which connects to your laptop via a proprietary 4.0Gbps PCIe 2.0 connector. The new tech is being initially launched with AMD's new ATI Mobility Radeon HD 3800, which can work in a multi-GPU CrossFireX configuration with your laptop's internal graphics card. The first out of the gate with the tech is Fujitsu's AMILO Sa 3650, which packages a Mobility Radeon HD 3870 cardbut there's still no word pricing or exactly when or where this all is shipping. XGP also supports some extra USB 2.0 ports, Blu-ray decoding, and outputs over HDMI with integrated audio and DVI, powering up to four displays.
+      
+
+ 

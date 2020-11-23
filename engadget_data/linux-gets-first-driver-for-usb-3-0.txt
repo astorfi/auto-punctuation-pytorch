@@ -1,0 +1,5 @@
+
+ The NEC USB 3.0 controller is due to hit the streets this month, and already Sarah Sharp (the, um, "Geekess") has been able to crank out a Linux driver for the device. Sharp states that she is "working with Keve Gabbert (the OSV person in my group at Intel) to make sure that Linux distributions like Ubuntu and Red Hat" pick up the driver, meaning that Linux users will likely be the first to have their Super Speed dreams become a reality. Are you a hardware manufacturer with some hot USB 3.0 controller prototype that wants to out this guy through its paces? Hit that read link to get started.[Via Ozel Web Tasarim]
+      
+
+ 

@@ -1,0 +1,4 @@
+
+ While it's tested the idea several times in the past, London's Tube system won't be getting mobile-based payment technology any time soon. Customer Experience Director Shashi Verma told GigaOM that existing NFC technology wasn't able to drop below the 500 millisecond barrier -- something which Transport for London demands from its high-churn Oyster card-based turnstiles. Verma added, "The concerns are only around NFC technology and not EMV. We are keen to see any progress the industry can make in this area." At least for the near-future, it looks like Brits will have to glue their NFC cards to their phones if they want that contactless payment look while journeying around London.
+
+

@@ -1,0 +1,6 @@
+
+       
+Today ATI says Ageia's PhysX engine be damned, as they're about to spit some new competition in the burgeoning hardware physics engine market. When you take that newish Radeon X1900 XTX physics adapter and combine it all Voltron-like with twin SLI graphics adapters -- and then throw in Havok Physics API support, which they announced today at Computex -- you get what they're calling CrossFire, a 2+1 graphics configuration bent on pushing more pixels and polygons than any of us sad little Engadget editors would ever know what to do with. Being that few motherboards would support this triple PCI-E configuration (and the fact that ATI is pimping Intel's forthcoming Core 2 Duo processor platform, which is expected to be announced in the very near future), it seems like you might not yet have to worry about whether the 10,000 in-game object boost this rig will provide is actually worth handing over your hard-earned bucks for.
+      
+
+ 

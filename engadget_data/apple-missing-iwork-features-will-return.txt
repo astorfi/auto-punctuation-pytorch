@@ -1,0 +1,14 @@
+
+When Apple took the wraps off a brand new version of iWork last month, it unfortunately had to cut a few features on its way to a 64-bit codebase and drastic redesign. Predictably, more than just a few users cried foul. Thankfully, Cupertino plans to bring those missing features back. It's just going to take some time. The company posted a list of capabilities it will add back to iWork via software updates over the next six months. That includes customizeable toolbars, autocomplete in Numbers and keyboard shortcuts for applying styles to text in Pages, among other things. To see if your favorite missing feature is coming back, check out the full list after the break.
+
+
+
+Some features in upcoming releases in the next 6 months
+
+Pages
+
+ Customize toolbar Vertical ruler Improved alignment guides Improved object placement Import of cells with images Improved word counts Keyboard shortcuts for styles Manage pages and sections from the thumbnail viewNumbers
+
+ Customize toolbar Improvements to zoom and window placement Multi-column and range sort Auto-complete text in cells Page headers and footers Improvements to AppleScript supportKeynote
+
+ Customize toolbar Restoring old transitions and builds Improvements to presenter display Improvements to AppleScript support

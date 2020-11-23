@@ -1,0 +1,7 @@
+
+ We'd heard a somewhat sketchy report from the New York Post yesterday that the Department of Justice and the Federal Trade Commission were considering launching an antitrust inquiry into Apple and its various iPhone-related practices, and now it's being confirmed by Reuters and the Wall Street Journal, who say the inquiry was triggered by complaints from Apple's competitors and app developers -- specifically Adobe, according to Bloomberg. The DOJ and FTC are currently deciding which agency will take the lead in any inquiry, but if and when it gets underway there are a few issues at play: the first is obviously Apple's decision to block Flash and other middleware from app development, and the second is Apple's new iAd platform, which comes with its own changes to the iPhone developer agreement that could potentially lock out third-party ad and analytics services like AdMob -- itself under regulatory scrutiny due to the Google acquisition -- and Flurry.
+
+We'd also imagine regulators will take a close look at Apple's App Store policies in general, but from a distance looks like the focus is on mobile advertising: both Apple and Google have made aggressive moves into the space in recent months, and both have come under regulatory scrutiny. We'll just have to wait and see how this one plays out -- there's still no official word from either agency on what's happening, and the timeline of any potential investigation and lawsuit will be measured in months and years.
+      
+
+ 

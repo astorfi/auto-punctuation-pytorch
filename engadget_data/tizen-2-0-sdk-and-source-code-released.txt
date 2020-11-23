@@ -1,0 +1,7 @@
+
+ 
+ Sure, an early version of Tizen 2.0 Magnolia may have first emerged last September, but now the SDK and source code have dropped the "alpha" designation for a proper release. After a few months of incubation, the open source OS has been laden with enhanced support for HTML5 and a beefed up Web UI framework that enables full-screen and multi-window features. Developers can now leverage new hardware APIs for Bluetooth and NFC support, and access a device's call history, calendar and messaging "subsystems." Support for background applications, text-to-speech and IP Push have also made it into the operating system along with reference applications including the likes of a calendar, gallery and phone app. In addition, a native IDE and a spruced up web development environment have been released with the latest code. Hit the source link for the full skinny and appropriate downloads.
+
+ [Image credit: Tizen Project, Flickr]
+
+

@@ -1,0 +1,8 @@
+
+If Raspberry Pi owners wanted to use the device's camera board for nighttime photography, they had to engage in some extremely delicate tinkering, as the unit's IR filter was firmly attached. Until now. The folks at Raspberry Pi took to their blog today to announce the debut of Pi NoIR, an infrared camera board designed with low light situations in mind. The NoIR stands for "no infrared," a reference to the nonexistent IR filter. Previously, the supplier of the existing camera package didn't offer an infrared option, but so many users, including wildlife photographers, requested the ability to use their Raspberry Pis in a wider variety of situations that the company was eventually persuaded to build the new camera. The team is aiming for a November launch, but so far, no release date is set in stone. To see footage shot with the Pi NoIR, check out the videos after the break.
+
+
+
+
+ 
+ 

@@ -1,0 +1,9 @@
+
+ 
+VeriFone, a huge provider of credit card processing systems that's been around since time immemorial, has taken a huge swipe at upstart Square today, branding its free, headphone jack-based credit card readers "skimming devices" and demanding their immediate removal from the market. Crazy, right? VeriFone's CEO has thrown up a YouTube video talking about the exploit its thrown together, and it's more of a social engineering hack than a technical one: a bad guy makes a fake Square app for his phone, plugs in the reader, and steals your unencrypted credit card details without running a "real" payment through Square's system. They're really going big with this, too -- not only is VeriFone's sample app available for download, but they've sent notices to Visa, MasterCard, American Express, and JP Morgan Chase, which handles Square's processing. Sounds like a possible problem, sure -- but when the "exploit" is being announced in such grand fashion by a company that's most threatened by Square's business model, you can't help but feel a little icky about it. Follow the break for video.
+      
+
+ 
+
+
+ 

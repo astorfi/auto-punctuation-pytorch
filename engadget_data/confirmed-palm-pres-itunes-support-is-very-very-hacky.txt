@@ -1,0 +1,6 @@
+
+ 
+Careful analysis of a Pre's identity to its host system when connected via USB has now confirmed what's been suspected for a few days now -- the way it hooks to iTunes is very shady indeed. Turns out that the Pre identifies itself as an iPod when it's in Media Sync mode, but only on the system's mass storage interface; the root USB node still comes through as a Palm Pre, which Apple could easily tease out and block if it so chose. We're still up in the air on whether Cupertino would actively move to do that, but regardless, you've got to give a tip of the ol' hacker hat to Palm for its wild ways on this one.
+      
+
+ 

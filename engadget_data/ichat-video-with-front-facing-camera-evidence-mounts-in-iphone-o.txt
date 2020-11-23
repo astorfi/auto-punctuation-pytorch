@@ -1,0 +1,8 @@
+
+ 
+Of the 1,500 or so new developer APIs and over 100 new user features mentioned by Steve and Co. yesterday, only a handful were covered in any detail. As usual, Apple was careful not to reveal anything about the next generation iPhone hardware expected to launch this summer. Fortunately we can spelunk the iPhone OS 4 SDK developer preview for hints of what's to come. TUAW found a new "iChatAgent" process running on OS 4 devices -- purpose, unknown -- but surely an indicator that Apple's finally set to launch a mobile iChat app. The fact that Apple hasn't already is one of those great iPhone / iPad / iPod touch mysteries. We've also peeled back the SDK to find evidence supporting those rumors of a front-facing camera (AVCaptureDevicePositionFront), flash (AVCaptureFlashModeOn/Off/auto), and torch/flashlight (AVCaptureTorchModeOn/Off/Auto) all declared in the AVCaptureDevice.h. Who cares, right? Front-facing video cameras have been implemented on a variety of mobile devices for years. Trouble is, how many people actually use them to video conference? And if Apple's late contribution to copy and paste can be used as a guide for setting expectations (and it can), then we expect Apple's iChat implementation to be done with the same grace and ease of use -- something that should have its carrier partners a bit worried if it's allowed to function over 3G data.
+
+[Thanks, Anonymous]
+      
+
+ 

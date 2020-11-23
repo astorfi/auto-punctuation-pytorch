@@ -1,0 +1,19 @@
+
+The jury's still out on Android gaming (exhibit A: OUYA), but that's not stopping Huawei from taking a dive into that niche corner of the industry. Its Tegra 4-based Tron mini-console, announced here at CES 2014, pairs a cylindrical-shaped hub with a Bluetooth controller that hews quite closely to the Xbox 360 mold OUYA also went after. Before we get your hopes up though, take note that Tron's for China only -- at least, for now anyway. A Huawei rep did say that the company's looking into further market expansion, but given its track record with smartphones in the US, we have a hard time believing Tron will see these shores anytime soon.
+
+
+The Tron console itself runs a half-skinned version of Android JellyBean (version 4.2.3) that presents a clean menu overlay with feature tiles for access to games, Huawei's store, video, application, settings and featured titles. That slick menu selection comes to a screeching halt, however, as soon as you attempt to select anything other than games, bringing you face-to-face with Android's ugly underbelly -- much like on the OUYA. 
+
+
+
+
+
+Storage-wise, the Tron will come in 16GB/32GB configurations, but that space can be expanded up to 64GB via a microSD slot at its base. There's also support for Ethernet, USB 3.0, audio out, WiFi a/b/g/n/ac and 2GB RAM to aide the Tegra 4 chip inside. The Tron console, of which there are black and white versions, is housed in a glossy plastic shell (sorry, no flashing strips of neon light) with a large power button that nearly occupies its entire top. Overall, it's an underwhelming design -- something more than one Engadget editor referred to as "wastebin-like." You can judge for yourself in the gallery below.
+
+The Tron controller is an Xbox 360 controller by way of OUYA. So much so, that the button placement is nearly identical save for that giant, circular touchpad smack dab in the center. Users that pick up the controller will be greeted with four actions buttons (X, Y, A, B), four shoulder triggers, as well as buttons for home, mute, view and menu. There's even a headphone jack just tucked beneath the front face. The controller is actually incredibly light, but that lightness comes across as a con rather than an asset. It just makes the whole thing feel cheap and disposable, an impression not helped by the materials used.
+
+Gameplay was good, not great. There was a slight latency noticeable when effecting button presses, but nothing that seemed like it'd get in the way of the onscreen action. We weren't able to get much clarity on the openness of the platform -- a Huawei rep told us games would need to be optimized for Tron before appearing in the Store -- but we assume side-loading Android games wouldn't pose any problem. 4K playback is also supported on the console and was demoed from within the video submenu.
+
+Huawei hasn't locked down final pricing on the Tron just yet, but we've heard the Android mini-console should arrive with a sub-$150 price point. Again, it's destined for China-only in Q2 of this year, but if you really need to get your hands on it, there's always the option to import.
+
+

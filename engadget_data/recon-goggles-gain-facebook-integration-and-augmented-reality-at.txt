@@ -1,0 +1,12 @@
+
+ 
+ Remember that Android SDK Recon Instruments finally unveiled for its heads-up display goggles? Well the company was showing off the fruits of its labor here at Google I/O 2012 with two demos -- specifically two-way Facebook integration and augmented reality using a Contour camera. In the first demo, the goggles are paired over Bluetooth with an app running on an Android phone. Each time you jump while snowboarding or skying, the accelerometer data from the goggles is sent to the handset which posts a graphic to Facebook showing the distance, height and duration of your flight. Any comments made to the post are then immediately relayed back to the heads-up display. The second demo uses a Contour camera attached to the goggles and paired via Bluetooth. As you look around, the output from the camera appears on the heads-up display augmented with labels showing the location and distance of the nearby train stations based on the compass and GPS data from the goggles. Pretty cool, eh? Check out the gallery below and hit the break for our two hands-on videos.
+
+
+
+
+
+ 
+ 
+
+ 

@@ -1,0 +1,10 @@
+
+       
+Quim Gil of Nokia's Maemo team has dropped some knowledge on the folks chatting up the upcoming MeeGo release in the official Maemo forums, and it sounds like there are at least a couple critical points to be aware of for N900 owners and would-be ROM flashers when the first developer preview drops next week. To quote Gil, "nothing beautiful, stable or fully featured" will be a part of that initial release -- and to be more blunt about it, "99% of you don't want to install that release in your N900." The good news, though, is that Nokia seems to be aware of the importance of a dual-boot solution to MeeGo devs working with N900s in the long term, and Gil reports that a proper setup for that "will come at some point" -- it's just not on their short-term radar. We can totally understand that; we've no doubt there's still tons of reconciliation to manage between the legacy Maemo and Moblin ecosystems, and that's presumably priority one as they march toward a May release of what's being billed as a MeeGo 1.0 release.
+
+Speculation had been building that the next cut of Maemo 5 -- PR1.2 -- might have MeeGo dual boot capability, but it's not to be. That said, PR1.2's still got plenty of tweaks that should be of interest to N900 owners, including a totally revamped landscape on-screen keyboard, onboard memory wipe capability (thank goodness), and an option to enable auto-rotation in the device's settings. The forums are all abuzz over both topics, naturally -- and since a proper PR1.2 release for N900 is still just a twinkle in Olli-Pekka Kallasvuo's eye, you may as well have a peek, right?
+
+[Thanks, Akinwale]
+      
+
+ 

@@ -1,0 +1,11 @@
+
+Google has slowly trickled out more authorized commercial apps that can stream to its Chromecast dongle since launch (Hulu, Pandora, and most recently HBO Go) but what about homebrew? So far developers have been able to work with a preview Cast SDK (creating a few impressive demonstrations) but restrictions have prevented these apps from being released for widespread use. That will probably change next month, as Google has invited several developers including CyanogenMod / AirCast dev Koushik Dutta and Thomas Kjeldsen to a hackathon on December 7th and 8th in Mountain View. An opportunity to test drive the "upcoming release" of the Cast SDK is promised, plus an opportunity to talk with Google engineers about what it can do. 
+
+
+While we wait to find out what devs will be officially allowed to create for the $35 dongle, the official Android Chromecast control app got an update tonight. The new version brings a lightly refreshed design with the side-tray style seen in many Google apps lately, and adjusted the display of time zone settings and the Chromecast MAC address to ease troubleshooting.
+
+
+
+
+
+ 

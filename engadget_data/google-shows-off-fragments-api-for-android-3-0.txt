@@ -1,0 +1,6 @@
+
+ 
+Following up on its Android event on Wednesday, Google is giving us an in-depth look at Honeycomb's Fragments API: a tool designed to make developer workflows more fluid. As the name suggests, Fragments are smaller pieces of the larger UI puzzle, allowing you to independently control and reuse certain aspects of an action in their own modular space. These modules, like the panes that came before them, are also meant to make the transition from different screen sizes (tablet to phone, for example) simple and functional. We got a glimpse of Google's new API in action with a demo of CNN's new tablet app, and despite its everything-and-the-kitchen-sink aesthetic, it looks like an easily navigable interface. While Honeycomb is currently a tablet-only OS, Matias Duarte hinted strongly that it would eventually make it to phones, and indeed, the screenshots of Fragments in use are all suspiciously phone-sized. What's more, Google intends to bring Fragments to older Android versions through a static library -- there's no timeline, but the plan is to go as far back as Android 1.6. Now that's Android fragmentation we can get behind.
+      
+
+ 

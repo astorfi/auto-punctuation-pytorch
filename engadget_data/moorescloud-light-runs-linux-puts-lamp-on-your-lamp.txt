@@ -1,0 +1,8 @@
+
+ Yes, we'll admit that we borrowed that pun in the title. MooresCloud founder Mark Pesce's Xzibit reference is still a very apt description of the Light, his company's Linux-based LED lamp. The Australian team's box-shaped illumination runs the open OS (including a LAMP web server stack) on an integrated mini PC with an accelerometer and WiFi. The relative power and networking provide obvious advantages for home automation that we've seen elsewhere, but it's the sheer flexibility of a generalized, web-oriented platform that makes the difference: the Light can change colors based on photos or movement, sync light pulses to music and exploit a myriad of other tricks that should result from a future, web-based app store. When and how the Light launches will depend on a Kickstarter campaign to raise $700,000 AUD ($717,621 US) starting on October 16th, although the $99 AUD ($101 US) cost is just low enough that we could see ourselves open-sourcing a little more of the living room. At least, as long as we don't have to recompile our lamp kernel before some evening reading.
+
+
+
+
+ 
+ 

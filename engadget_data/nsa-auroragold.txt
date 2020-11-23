@@ -1,0 +1,10 @@
+
+The NSA's got its long, spindly proboscises slurping up sweet, sweet information from within governments and businesses the world over, so it shouldn't come as a surprise to hear that wireless carriers are targets, too. That's the thrust of a lengthy new report from The Intercept: The NSA is capable of snooping in on a vast majority of the world's cell phone service providers thanks to an initiative called AURORAGOLD, as revealed in key documents from Edward Snowden's archives.
+
+
+
+AURORAGOLD's got plenty of moving parts, but its crux involves the NSA intercepting emails and communiques from employees of wireless carriers. Their angle? To ferret out technical documents that would give special divisions the ability to find possible security exploits and -- even more worryingly -- potentially introduce new ones the NSA could take advantage of down the road. The documents in question (called IR.21s) can also contain information about how carriers encrypt all the things we pass through them, which is crucial in helping the agency keep tabs on what certain people are saying. The end result: the NSA basically had an open window into the networking nitty-gritty of some 700 wireless carriers across the globe as of May 2012.
+
+To get a sense of AURORAGOLD's effectiveness, just take a look at the map (culled from a 2012 presentation) above. Only a handful of countries haven't been affected by the NSA's penchant for signal intelligence, including Burma, Tunisia and possibly Canada. As always, the NSA defends its actions by swathing them in a veil of protectionism; it's always about protecting us from the threat of further terrorism. Still, security researcher Karsten Nohl (discoverer of the "unpatchable" USB exploit) raises a vital point about the unsavory nature of introducing security holes that didn't exist before. "Once [the] NSA introduces a weakness, a vulnerability, it's not only the NSA that can exploit it," he told The Intercept.
+
+

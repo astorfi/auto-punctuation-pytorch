@@ -1,0 +1,4 @@
+
+ There's potentially bad news ahead if you're hoping to wipe the drive on that future HP Envy X2 and load Ubuntu -- Intel reportedly claimed at IDF that Clover Trail-based Atom processors "cannot" handle Linux properly. As outlined in The Inquirer's account of events, the issue is more a matter of optimization than an outright block: Linux doesn't yet know how to cope with all of Clover Trail's power state changes at the kernel level, which would put any penguin-powered PC at a disadvantage. Intel would really, really prefer that you run Windows 8, as the new Atom and Microsoft's OS are tuned to work hand-in-hand. Linux might catch up, but the Windows-only emphasis is a sharp break from Intel's tendency to shower love on open-source OS projects across the board, including ongoing work like Intel-native Android builds or Tizen.
+
+

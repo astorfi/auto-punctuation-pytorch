@@ -1,0 +1,7 @@
+
+ 
+
+
+
+	When Adobe announced the death of Flash Player on mobile devices earlier this week, it did so while promising to issue a final version for Android devices and the BlackBerry PlayBook. Now, that promise has come to fruition, with the release of version 11.1. Like pretty much every Adobe update, this latest refresh promises to patch up a host of security flaws -- 12 "critical" ones, to be exact. More intriguing, however, are Adobe's plans for future security support. In a blog post published Wednesday, company exec Danny Winokur confirmed that Adobe will "continue to provide critical bug fixes and security updates for existing device configurations." This sentiment was echoed in a Twitter post yesterday from Brad Arkin, senior director of product security and privacy: "Adobe will continue to ship security updates for Flash Player mobile after the final feature release." But neither Winokur nor Arkin have specified how long this patch distribution will continue, and the company has yet to offer any sort of timeline for future tablet and smartphone updates. For more information on the latest release, check out the source link below, or hit up the coverage link to grab the Android version for yourself.
+ 

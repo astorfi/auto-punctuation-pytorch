@@ -1,0 +1,11 @@
+
+ 
+There's just no two ways about it: the integrated self-timer is easily one of the most amazing technologies to ever be invented. Yeah, we said it. Unfortunately, beeping for ten seconds while a shooter races to get in position isn't always ideal or fun, and that's where isharq comes in. His Arduino-based mod is amongst the most flexible out there for DSLRs, enabling it to morph from a basic laser trigger hack to something that senses heat, movement or sound (just to name a few) and then makes your camera react accordingly. As it stands, his setup triggers his DSLR to snap a shot whenever a laser beam is broken, and if you're eager to see more, be sure to peek the in-action video just past the break. Oh, and the source link holds all the secrets to recreating something like this in your own laboratory.
+
+[Thanks, Simon]
+      
+
+ 
+
+See more video at our hub!
+ 

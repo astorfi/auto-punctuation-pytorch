@@ -1,0 +1,8 @@
+
+ 
+It's been a long wait since NVIDIA and Adobe announced their plans for GPU-accelerated Flash video back in January of this year, but it looks like the pair now finally have something to show for themselves. While it's not quite clear how official it is just yet, the folks at NotebookJournal have nonetheless published a video that shows 720p Flash video running smoothly on a netbook (an ION-powered HP Mini 311, to be specific). Unfortunately, it looks like we'll still have to wait until sometime in the first half of 2010 to see the technology become publicly available (at least if the slides in the video are any indication), but you can now check out the demo for yourself after the break. Just be sure to stick with it for a while or skip ahead to the 1:20 mark -- they show a non-accelerated video at the beginning for an all too painful comparison.[Via Liliputing]
+      
+
+ 
+
+

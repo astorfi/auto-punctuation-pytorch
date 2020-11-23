@@ -1,0 +1,5 @@
+
+  Some careful digging in the iOS 4.3 beta has revealed an intriguing new string intended for the iPad's Settings menu. As you can see above, users will be able to toggle a new auto-unlocking feature on their iPad, which would respond to closing and opening of the slate's cover (or case, or sleeve, or whatever). Though the iPad already has an ambient light sensor, the one true way to make this functionality work is by employing a good old proximity sensor, so we can probably pencil that into our ever-expanding list of iPad 2 attributes. Who'd have thought there were so many ways to improve on a magical revolution, eh?[Thanks, Mike]
+      
+
+ 

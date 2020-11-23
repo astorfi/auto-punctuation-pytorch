@@ -1,0 +1,13 @@
+
+ 
+The latest patch for Halo: The Master Chief Collection is live now and focuses on matchmaking, UI, stability and other features, outlined by 343 Industries in summary form after the break.
+
+For matchmaking specifically, the patch promises to improve search success rates, reduce instances of the "Awaiting Privileges" error, more correctly determine player counts in each playlist, fix an issue where players appeared to be searching in the incorrect "find game" screen, and add a countdown sound effect to the voting timer. The update should improve the network performance of Halo 2: Anniversary, lower the music volume in multiplayer menus and fix stability issues across multiple games in both campaign and multiplayer.
+
+The Master Chief Collection has suffered from matchmaking issues since launch, prompting 343 Industries to dole out compensation in the form of a free month of Xbox Live for early adopters, plus a free 1080p, 60fps Halo 3: ODST campaign due in the spring, and a fresh nameplate and avatar.
+
+[Image: Microsoft Studios]
+ 
+MATCHMAKING:Improved matchmaking search success rates.Made an update to reduce instances of "Awaiting Privileges" matchmaking errors.Made an update to ensure player counts more reliably match the expected numbers for each playlist.Fixed an issue where player would sometimes appear to be searching in an incorrect "FIND GAME" screen.Added countdown sound effect to the voting timer.GENERAL MULTIPLAYER:Made an update to improve Halo 2: Anniversary network performance, specifically in regards to bandwidth spikes.Made several improvements to party joining through the in-game Roster.Made an update to ensure that the mute icon is visible while in Matchmaking.Fixed an issue in Halo 4 where players could equip the same weapon as their primary and secondary weapons.GENERAL CAMPAIGNS:Made several improvements to stat tracking for Halo: CE, Halo 2, Halo 3, and Halo 4.Made changes to Halo 3 and Halo 4 scoring to ensure that players are not penalized for destroying empty vehicles.GENERAL MENU:Lowered the music volume level in multiplayer menus.Fixed an issue where friend emblems in roster would show up as default when exiting a game session.Made updates to UI and menus to improve multiplayer status messaging, such as when a player joins your lobby.CONTROL LAYOUTS:Made an update to the Halo 2: Anniversary "Legacy" Stick Layout.STABILITY:Made stability improvements across multiple titles for campaign and multiplayer.
+
+

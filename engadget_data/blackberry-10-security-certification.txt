@@ -1,0 +1,23 @@
+
+ 
+ RIM may be falling out of favor with certain government departments, but it's not removing the earpiece or pocketing the shades just yet. The National Institute of Standards and Technology has granted the BlackBerry 10 platform FIPS 140-2 certification, which basically means data security and encryption are top notch throughout. All you need to know is government agencies, and others with confidential info, can brandish BB10 handsets without worry when they launch early next year. Another piece of good news for Obama -- we're pretty sure he's due for an upgrade about now.
+
+
+  Show full PR text   BlackBerry 10 Receives FIPS Security Certification Ahead of Launch
+  Waterloo, ON – Research In Motion (RIM) (NASDAQ: RIMM, TSX: RIM) today announced that the BlackBerry® 10 platform is now FIPS 140-2 certified. The certification will enable government agencies to deploy BlackBerry® 10 smartphones and BlackBerry® Enterprise Service 10, RIM's new mobile enterprise management solution, from the day of launch. This is the first time BlackBerry products have been FIPS certified ahead of launch.
+
+   FIPS (Federal Information Processing Standard) certification provides confidence to security-conscious organizations, including U.S. and Canadian government agencies, companies in regulated industries and other organizations dealing with sensitive information, that data stored on smartphones running BlackBerry 10 can be properly secured and encrypted.
+
+   "Achieving FIPS 140-2 certification means that BlackBerry 10 is ready to meet the strict security requirements of government agencies and enterprises at launch," said Michael K. Brown, Vice President, Security Product Management and Research at RIM. "What differentiates BlackBerry is that it integrates end-to-end security, and includes certified encryption algorithms for data at rest and data in transit. No other mobile solution has achieved the level of security accreditation that the BlackBerry solution has."
+
+   FIPS 140 is issued by the National Institute of Standards and Technology (NIST) to coordinate the requirements and standards for certifying cryptographic modules. The standard was developed through the Cryptographic Module Validation Program (CMVP), which certifies products for use by U.S. government agencies and regulated industries that collect, store, transfer, share and disseminate sensitive information. Product certifications under the CMVP are performed in accordance with the requirements of FIPS 140-2. It is supported by the Communications Security Establishment (CSE) for the Canadian government.
+
+   "IDC expects the mobile enterprise security market to experience a high rate of growth from 2012 to 2016," said Stacy Crook, Program Manager for Mobile Enterprise research at IDC. "Maintaining the BlackBerry solution's reputation for security while introducing an enhanced user experience gives BlackBerry 10 the opportunity to be a highly competitive platform in the government, enterprise and consumer sectors."
+
+   BlackBerry products and solutions are protected by best-in-class AES 256-bit encryption, a highly secure, internationally recognized data protection standard. In addition to FIPS certifications, BlackBerry products have continuously passed rigorous security assessments from a variety of other independent organizations around the world. The BlackBerry® Enterprise Solution is the first mobile platform to achieve Common Criteria Certification, a standard recognized by 26 countries, as well as the first to receive approval through the CESG Assisted Product Scheme (CAPS), the National Technical Authority for Information Assurance in the United Kingdom. BlackBerry® 7 smartphones meet Common Criteria security assurance level EAL 4+. The BlackBerry® PlayBook™ is the first FIPS certified tablet for deployment within U.S. federal government agencies and certified for use by the Defence Signals Directorate of the Australian Government.
+
+   "Achieving FIPS certification for an entirely new platform in a very short period of time, and before launch, is quite remarkable and a testament to the dedication of our security team," said David MacFarlane, Director, Security Certifications at RIM. "BlackBerry 10 will deliver security, a superior user experience, the ability to separately manage corporate and personal data on the same device, and ease of manageability for IT managers in an enterprise or government environment."
+
+   For more information about security and the BlackBerry platform visit www.blackberry.com/security.
+
+ 

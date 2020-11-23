@@ -1,0 +1,26 @@
+
+
+There's 802.11a,
+802.11b,
+802.11g, 802.11i,
+802.11n, and a bunch of other IEEE wireless LAN
+standards you don't hear about much, but now Intel has introduced a proposal for 802.11s, which is reserved for mesh
+networking. Mesh networking has been around for years, but the basic idea is that instead of the current hub-and-spoke
+model of wireless communications, with every device connecting to a central access point, with mesh networking every
+device in the area acts as a repeater or router, relaying traffic for everyone else. Whenever you have mesh-enabled
+devices in close proximity to each other they automatically create a wireless mesh network, and traffic hops from
+device to device until it reaches the nearest Internet access point, reducing the need for central antennas, and
+improving wireless coverage. Intel's proposal is for interoperable standard for 802.11s that would be built on top of
+and be compatible with the current 802.11a/b/g standards and be designed so that nodes could automatically discover
+each other and form mesh networks, as well as for "Mesh Portals" that would be able to connect to regular 802.11
+networks. They also want to build into the 802.11s protocol quality of service standards so that the network would know
+what traffic to prioritize if you were streaming video around a home network. Sounds pretty fresh, right? Yeah, well
+the IEEE hopes to have a standard for 802.11s ratified by 2008.
+
+
+ [Via Slashdot]
+
+
+
+
+ 

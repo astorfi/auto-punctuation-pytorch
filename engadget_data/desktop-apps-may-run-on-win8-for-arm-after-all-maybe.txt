@@ -1,0 +1,5 @@
+
+  The issue of whether or not the ARM edition of Windows 8 will support both desktop and Metro-style apps has been pretty hazy. Some have claimed it would, others that it wont and, even when they've issued denials of the nay-sayers, Microsoft has stopped short of saying that ARM hardware would offer a desktop mode for non-Metro apps. Well, buried in a post about improving power efficiency over at MSDN blogs was a passing reference to "both desktop and Metro style apps" running on "System on Chip (SoC) architectures." Some, including the well regarded Mary Jo Foley, have read this to mean that desktop apps will indeed work on ARM-powered Windows tablets. Now, this seems to make sense since all of the SoC coverage has been focused on the powerful new RISC chips getting crammed in new slates and smartphones, and we've heard that Win8 and Windows Phone 8 will share the same kernel. But, there is one tiny wrinkle in this narrative -- Intel will have its own SoC solutions soon enough thanks to Medfield, so the passage could simply be a reference to those x86 chips. You'll find the relevant excerpt at the via link.
+      
+
+ 

@@ -1,0 +1,37 @@
+
+We've only known about the Steam Controller for 24 hours, but it turns out a variety of developers already got a chance to put the controller to use ahead of the lucky 300 beta participants later this year. The devs we spoke with didn't use the final format of the controller, but instead used the non-touchscreen beta form seen above: four large buttons stand out in place of the clickable touchscreen panel (planned for the final version of Steam Controller). It's the version that will ship to those aforementioned 300 beta participants later this year, and it's the version that Valve is showing game developers ahead of anyone else. Follow us beyond the break and find out what they had to say.
+
+
+
+
+
+John Clark, Sega VP PC Digital (US / Europe):
+Initially very sensitive, however, you settle quickly and the trackpads do feel great. Remembering, it's a prototype and the purpose of the beta is for the developers to experiment. We're really looking forward to seeing how it fares with PC RTS titles, which are traditionally mouse and keyboard. We're excited to see the results!
+
+James Schall, Sega director Digital Distribution (US / Europe):
+First impression: great to handle the beta controller, the touchpads are incredibly responsive and I would imagine that once used to it, it could deliver higher performance for the gamer.
+
+
+Ichiro Lambe, Dejobaan Games president:
+On how it feels: It feels comfortable, yet different from anything I've used before. They did a really good job of simulating physical controls through the haptic feedback -- ideally, this means that the controller will morph into whatever you need it to based on how you program it.
+
+Benefit as a game developer / major differences from other controllers / its greatest strength: We primarily develop our games for mouse and keyboard, and when we think about adding gamepad support, it's a matter of mitigating loss of control. For instance, WASD + mouselook excels over a traditional gamepad for precise camera control or when navigating complex user interfaces. The Steam Controller largely does away with a gamepad's weaknesses there.
+
+Within five minutes of picking it up, I went from newbie to controlling an FPS camera better than I'd ever done with a gamepad.
+
+On ease of development: Dunno yet! Most of what Valve creates (Steamworks API) is pretty developer-friendly, so I don't see why this would be any different. Having worked with haptic feedback before (with the Novint Falcon some years ago), I think there'll probably be some learning curve there as developers experiment to find what (literally) feels right.
+
+What'd you see at Valve: They had a few units out for our visit (an earlier one was 3D printed and therefore cruder than what we played with), but the then-latest device was close to what we see in the announcement images (save for the touchscreen, which was four physical buttons). We spoke to one of Valve's engineers, who said that they'd tried a number of different forms, some of which had the player's hands at unusual orientations.
+
+The Steam Controller's weakness: I think analog sticks are better at defining boundaries -- for instance, I can mash a stick forward as far as I physically can, and I know I'm going to walk forward as quickly as I can. I just can't push it forward any further. The trackpads require more finesse; my thumbs will have to learn where to stop.
+
+
+Fredrik Wester, CEO and president of Paradox Interactive told us: "The biggest difference with the controller, from what I understand, is that it emulated mouse and keyboard support, making the need for adjusting the control scheme minimal. I have used the controller for about 20 minutes for a third-person game and it took me about five minutes to learn, and then it felt natural. We are still thinking about how we will work with our grand strategy games for the gamepad though; it will need some thinking before it's there."
+
+Hannes Seifert, studio head of IO Interactive (Hitman), said: "Our time with the controller was brief, but showed that it was extremely customizable, which we love. The fact that the input device is something you can pull apart and play with is fantastic -- both for us as developers, but also as gamers and people who like to tinker. Bringing traditional PC gaming to the couch shows incredible ambition, but if anyone can pull off something like this, it's probably Valve."
+
+Tommy Refenes, Team Meat co-founder, wrote a lengthy piece about his experience with the controller right here. He played both his own game, Super Meat Boy, as well as notoriously difficult and precision-oriented Spelunky. While Refenes said he still prefers the Xbox 360 gamepad to Valve's beta controller, "it's more about the comfort of familiarity over functionality," given his "several thousand hours experience" using the 360 gamepad. That said, Refenes was able to easily navigate the perilous depths of Spelunky using the Steam Controller -- no small feat even with the best of gamepads. "I played through Spelunky and the controller worked great," he says.
+
+We've got feelers out to several other developers who've used Valve's prototype game controller and we're updating this piece as we hear back. Gamasutra's also got a piece right here collecting reactions from a variety of indie developers who've spent time with the beta controller!
+
+

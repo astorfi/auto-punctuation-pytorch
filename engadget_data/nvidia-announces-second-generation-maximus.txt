@@ -1,0 +1,74 @@
+
+ 
+ It's been almost exactly a year since we first heard about NVIDIA's Maximus technology, and today the firm's just announced an update. The second generation of the platform is now supported by Kepler-based GPUs. This time around computational tasks get ferried off to the SMX-streaming K20 GPU ($3,199 MSRP,) leaving the 3,840 x 2,160 resolution-supporting Quadro K5000 GPU ($2,249) to tackle the graphical functions. Want to know when you can get your hands on the goods? Well, NVIDIA says starting December, with the Quadro K5000 available as a standalone in October. Head down to the PR for the full spin and forthcoming workstation / OEM details.
+
+
+
+
+ 
+  Show full PR text   NVIDIA Maximus Fuels Workstation Revolution With Kepler Architecture
+   Aug 07, 2012 (Marketwire via COMTEX) -- SIGGRAPH 2012 -- NVIDIA today launched the second generation of its breakthrough workstation platform, NVIDIA® Maximus™, featuring Kepler™, the fastest, most efficient GPU architecture.
+
+   The Maximus platform, introduced in November, gives workstation users the ability to simultaneously perform complex analysis and visualization on a single machine. Now supported by Kepler-based GPUs, Maximus delivers unparalleled performance and efficiency to professionals in fields as varied as manufacturing, visual effects and oil exploration.
+
+   Maximus initially broke new ground as a single system that handles interactive graphics and the compute-intensive number crunching required to simulate or render them -- resulting in dramatically accelerated workflows. With this second generation of Maximus, compute work is assigned to run on the new NVIDIA Tesla® K20 GPU computing accelerator, freeing up the new NVIDIA Quadro K5000 GPU to handle graphics functions. Maximus unified technology transparently and automatically assigns visualization and simulation or rendering work to the right processor.
+
+   "With the parallel processing capabilities enabled by NVIDIA Maximus systems, we can now be 10 times more creative," said Alan Barrington, a designer at the Mercedes-Benz Advanced Design Center California. "With the NVIDIA Maximus-powered environment, we can continue to refine and improve our design, right up to the last minute. We can stay efficient and multitask. We no longer have to settle for less or to compromise on our creativity."
+
+   Powered by the Kepler architecture, the second generation of Maximus improves both the visualization and computation capabilities of the platform.
+
+   Key NVIDIA Quadro K5000 GPU features include:
+
+   Bindless Textures that give users the ability to reference over 1 million textures directly in memory while reducing CPU overhead  FXAA/TXAA film-style anti-aliasing technologies for outstanding image quality  Increased frame buffer capacity of 4GB, plus a next-generation PCIe-3 bus interconnect that accelerates data movement by 2x compared with PCIe-2  An all-new display engine capable of driving up to four displays simultaneously with a single K5000  Display Port 1.2 support for resolutions up to 3840x2160 @60Hz
+
+   Key NVIDIA Tesla K20 GPU features include:
+
+   SMX streaming multiprocessor technology for up to a 3x performance per watt advantage1  Dynamic Parallelism and Hyper-Q GPU technologies for simplified parallel programming and dramatically faster performance
+
+   Here are some examples of how Maximus is transforming workflows across industries:
+
+   For the manufacturing and design industry, NVIDIA Maximus-powered workstations enable professionals to design without limits on size of assemblies, number of components, image quality, or resolution. Designers can use real-world physics, lighting, and materials during interactive design, and visualize with photo-realistic image quality.
+
+   "RTT DeltaGen offers custom features such as rapid raytracing, rendering and scalability, automated layer rendering, and computational fluid dynamics visualization and analysis," said Peter Stevenson, CEO, RTT USA, Inc. "Maximus second generation is remarkable, forward-thinking technology that will further empower our clients by providing them with the ability to do interactive design and simulation, which will accelerate their time to insight of their engineering data so they can make final design decisions even faster."
+
+   For the media and entertainment industry, Maximus gives digital content creators more freedom and creative flexibility. Film editors and animators can work in real-time on their most challenging projects, create complex simulations and interactive visual effects, and work in 3D texture painting workflows without being constrained by a maximum number of textures.
+
+   Chaos Group provides state of the art rendering solutions for visual effects, film, media and entertainment, and design industries. V-Ray RT is a powerful, interactive raytracing render engine optimized for NVIDIA CUDA® architecture that changes the way 3D artists and visualization specialists approach the lighting and shading setup.
+
+   "We're constantly working to ensure we create the best tools for customer workflows," said Lon Grohs, vice president, Business Development at Chaos Group. "Our CUDA based V-Ray plug-in for Maya is one of our latest developments to meet the needs of the most demanding VFX and film studios around the world, and with a Kepler-based NVIDIA Maximus system, 3D artists will spend less time waiting and more time being creative."
+
+   Home of some of the industry's most talented artists, a52 is an innovative visual effects studio located in Santa Monica, CA that has created many impressive effects through the seamless integration of 2D and photoreal CGI.
+
+   "We now have the opportunity to produce more iterations of color and lighting to get to where we want faster," said Chris Janney, VFX technical director, a52. "With faster turnaround, we can submit shots much sooner for client approvals. I wouldn't hesitate to recommend a Maximus setup particularly for artists working in V-Ray RT -- the time savings alone are significant, but it's also allowing our artists a better workflow in the creative process, without long pauses for renders. That is where the Maximus setup really helps our look development process."
+
+   For geophysicists and seismologists, NVIDIA Maximus-powered workstations give more accurate data, in less time, on the location of oil and gas deposits around the world.
+
+   Paradigm is a global provider of analytical and information management solutions for the oil and gas and mining industries. Paradigm software enables users to locate new oil and gas reservoirs, create dynamic digital models of the earth's surface, and optimize production from new and existing reservoirs.
+
+   Its Paradigm 2011.1, a comprehensive application suite of exploration, development and production applications, provides accelerated computation of seismic trace attributes through use of NVIDIA Maximus technology.
+
+   "Paradigm software leveraging Maximus technology is an innovative implementation that enables seismic interpreters to calculate seismic trace attributes at their desktop in interactive or dramatically reduced times," said Laura Evins, product manager of seismic attributes, Paradigm. "This provides huge benefits to our oil and gas clients, as they can now more quickly recover structural or depositional features from seismic data. We believe the second generation of Maximus will accelerate their time to discovery even further, making our combined technology even more cost effective."
+
+   Second generation NVIDIA Maximus-powered desktop workstations featuring the new NVIDIA Quadro K5000 ($2,249 MSRP, USD) plus the new NVIDIA Tesla K20 GPU ($3,199 MSRP, USD) will be available starting in December 2012. The NVIDIA Quadro K5000 will be available as a separate discrete desktop GPU starting in October 2012.
+
+   Leading software vendors certify and support NVIDIA Maximus-powered workstations, including Adobe, ANSYS, Autodesk, Bunkspeed, Dassault Systèmes, MathWorks and Paradigm.
+
+   Workstation OEM Support  The world's leading workstation OEMs -- including HP, Dell, Lenovo, and Fujitsu, plus systems integrators such as BOXX Technologies and Supermicro -- will offer second generation NVIDIA Maximus-powered workstations.
+
+   New NVIDIA Maximus-powered HP Z Workstations will include the HP Z420, Z620 and HP's ultimate workstation, the Z820.
+
+   "HP customers lead their industries, pushing the limits of technology to help bring consumers the next big blockbuster, alternative energy resources and medical advancements that would otherwise not be possible," said Jeff Wood, vice president, Worldwide Marketing, Commercial Solutions, HP. "This next generation of NVIDIA Maximus technology will provide the crucial horsepower and productivity demands of compute-intensive modern workflows, increasing productivity and ultimately ROI for our customers."
+
+   New NVIDIA Maximus-powered Dell Precision T3600, T5600 and T7600 tower, and R5500 rack workstations will be available worldwide early next year.
+
+   "Dell Precision workstations with the second generation of NVIDIA Maximus make the promise of designing at the speed of thought a reality for creative and design professionals," said Efrain Rovira, executive director, Dell Precision Workstations. "NVIDIA's fast Kepler GPU architecture combined with our most powerful tower and rack workstations provides unprecedented visual design and simulation performance for our customers."
+
+   New NVIDIA Maximus-powered Lenovo ThinkStation S30, D30, and C30 workstations will be available worldwide.
+
+   "Mission-critical design applications and simulation workflows are being accelerated like never before with NVIDIA Maximus technology," said Rob Herman, director of Product and Vertical Solutions, ThinkStation Business Unit. "With new, next generation NVIDIA Maximus-powered ThinkStations, users have even more parallel processing horsepower to boost their productivity, creativity, and time-to-market. Our customers can look forward to improved computing and visualization capabilities that empower them to achieve results faster than ever."
+
+   New Fujitsu CELSIUS M720 and R920 NVIDIA Maximus-powered desktop workstations will be available in EMEA, India and Japan.
+
+   "With the next-generation of NVIDIA Maximus technology powering our Fujitsu CELSIUS desktop workstations, we continue to provide the most innovative technology for accelerating modern workflows that utilize high-performance 3D modeling, animation, real-time visualization, analysis, and simulation applications," said Dieter Heiss, vice president, Workplace Systems Product Development Group, at Fujitsu Technology Solutions. "These new systems will provide the highest levels of performance that professionals need."
+
+ 

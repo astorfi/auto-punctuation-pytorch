@@ -1,0 +1,16 @@
+
+ 
+Maybe you were already an Android fan and had a G1 or a Magic. Maybe you were new to Android and you were wowed by the Hero launch. Maybe you got the device unlocked, or maybe you took advantage of the many carrier deals (particularly in the UK) to snap up your handset. Or perhaps you read the reviews -- such as our very own -- and held off picking up a Hero after all.
+
+Regardless of your story, chances are that despite the huge excitement surrounding the device (particularly the Sense UI), you're somewhat disappointed. It's shiny, it's clever and it's very nicely done, but it's rather slow and laggy. As we said in our review, the company appears to have bitten off more than its last-generation hardware can chew. If this build of Android were to be loaded atop the guts of a 3GS or Pre, the performance would likely be astounding, but fused with the two-year old architecture of previous devices, it's mostly disappointing. Ouch!
+
+Thankfully, it turns out HTC has been listening all along and the oft-rumored "major update" for the Hero has finally surfaced. Already available as an unofficial but due to hit the HTC support site any day now, the update (which is in a familiar RUU format for Windows machines and does wipe the device) wears the tag "2.73.405.5 WWE" -- and we've had a chance to play with it. So does it rescue the device? Follow the break to find out!
+      
+
+ 
+
+We'll cut to the chase -- yes it does -- and in a big way. Functionality changes are very minor (such as the addition of touch-focus in the camera application) but oh boy, this thing flies! Coming to this ROM from a standard 1.x device is like night and day. HTC have elected to cull the "flip clock" animation from the standard clock (no great loss in our opinion) which instantly speeds things up, but throughout the device the applications positively zip along with barely any noticable lag at all. Put simply, this is the device HTC should have shipped on day one.Aside from the main ROM changes the update also ships with updated radio firmware which is reported to slightly improve receiption together with a new bootloader which seems to prevent (or at least make more difficult) the process of rooting the device. All is not lost on that front, however -- the update has already being dissected into its component parts and can be installed without said bootloader, and you can find it pre-rooted in the usual places. Of course, if you want to be 100 percent sure of what exactly you are installing on your pride and joy, you should wait for the official release. Interestingly, although the update is expected to be made available by the HTC support, the company has also been testing OTA ROM deployments to the Hero, so we may see that happen too. Wouldn't that be great?And with that we tip our hat to HTC -- good job, guys. There is one small matter, though: some of the folks in the know seem to think a rather important security patch is missing from the kernel -- maybe next time around?
+
+       
+
+ 

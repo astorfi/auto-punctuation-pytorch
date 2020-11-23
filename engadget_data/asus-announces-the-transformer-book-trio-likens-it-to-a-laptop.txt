@@ -1,0 +1,53 @@
+
+If you thought ASUS was done announcing new products here at Computex, get ready for at least one more surprise. The company just unveiled the Transformer Book Trio, a dockable tablet that can run Windows and Android. At first glance, it's visually quite similar to the Transformer Book we just reviewed, except this time it has 11.6-inch, 1080p screen. And, you know, twice as many operating systems. If you're wondering how that works, there's a physical hotkey allowing you to switch OSs, similar to the setup on the Transformer AiO, which was announced last year at this same show. It's important to note, though, that that hotkey will only work if you have the tablet latched into the keyboard dock; once you unplug the tablet it will only run Android Jelly Bean.
+
+
+Spec-wise, dual operating systems amounts to dual processors, with a fourth-generation Core i7-4500U processor powering the Windows 8 experience, and a 2GHz Intel Atom Z2580 chip handling Android Jelly Bean. In fact, Intel EVP Tom Kilroy made an appearance at ASUS' press event in Taipei to help formally introduce the product. Continuing on, dual OSs also means multiple batteries: the package includes a 33Wh cell as well as a 19Wh one. As for storage, you've got a 1TB HDD inside the dock, and 64GB of flash storage inside the tablet proper. If you're looking for a price, ASUS isn't planning on announcing that today, but a company rep did confirm the Trio is slated for a Q3 launch. For now, you'll find a hands-on video and few first impressions after the break. 
+
+
+
+Not one to do things by halves, ASUS has unleashed (arguably) a new product category here at Computex. We just managed to touch (and admittedly do not much more) with the Transformer Trio and it's unmistakably ASUS-designed. You get the familiar switch-lock mechanism in the hinge to house the tablet component, and the moody metallic finish is the same we've seen on the rest of the Transformer range. We saw the demonstrator flip between Windows 8 and Android with a key press, although it offered no glimpse into how Android will look on the hybrid. Its 11.6-inch 1080p screen was also decent, at first blush; we had no trouble making out the screen underneath the heavy glare of showfloor lighting. Following a brief play on the keyboard, we noted the keys had the same degree of travel that we've seen on the Transformer docks before, but we're assuming we'll get to see more of the software side at a later date -- and hopefully before it launches in Q3 this year.
+
+Show full PR textASUS Transforms Expectations for Computing at Computex 2013
+Chairman Jonney Shih introduces the Transformer Book Trio and other revolutionary products that transform consumers' expectations of technology
+
+Computex, Taipei, Taiwan (3 June, 2013) - ASUS today announced incredible new products at it's "We Transform" Computex 2013 press event that transform consumers' expectations about technology. Chairman Jonney Shih revealed the ASUS way of Design Thinking and introduced an entire line of innovative devices designed to simplify today's digital lifestyle.
+
+"We seek to perfect the balance between engineering and humanity, where every intricate detail echoes our needs for both emotion and function," said ASUS Chairman Jonney Shih. "This is the ASUS way of design thinking, where every idea starts with people and we turn our imagination into a myriad of revolutionary innovations."
+
+The ASUS Transformer Book Trio is an innovative combination of notebook, tablet and desktop PC for unparalleled flexibility in work, play, and social activity, while the new Transformer Pad Infinity is the world's first NVIDIA® Tegra® 4 tablet with a stunning 2560 x 1600 resolution display. ASUS also announced the 6-inch FonepadTM Note FHD 6 tablet with 3G voice-calling, the 7-inch MeMO Pad HD 7 value tablet with an MSRP of US$149, the ultra-compact VivoPC desktop, VivoMouse, a wireless mouse with built-in multi-touch touchpad designed to optimize Windows 8 experience, and the world's first AC1900 router, RT-AC68U.
+
+Transforming Notebook Expectations- ASUS Transformer Book Trio
+
+The ASUS Transformer Book Trio is the world's first three-in-one mobile device. With an 11.6-inch detachable display and dual operating systems, Transformer Book Trio transforms mobile flexibility by switching effortlessly between a Windows 8 notebook, Android tablet and Windows 8 desktop PC. Transformer Book Trio switches easily between operating systems to give users access to over 700,000 apps in the Google Play Store and over 50,000 apps in the Windows Store.
+
+Despite the different operating systems, the Transformer Book Trio has been designed to smoothly transition between modes, allowing users to sync data or continue to surf the webpage they're on even when moving from notebook to tablet mode.
+
+The PC Station dock has its own 4th generation Intel® Core™ i7 processor, keyboard and 750GB hard drive, and with the tablet display detached, can be hooked up to an external display for use as a desktop PC. The PC Station also serves as a charger for the tablet for extended battery life. The tablet features a 2.0 GHz Intel® Atom™ processor and a 16:9 aspect ratio IPS display with Full HD 1920 x 1080 resolution and up to 64GB storage.
+
+Transforming Tablet Expectations- New ASUS Transformer Pad Infinity
+
+The New Transformer Pad Infinity is the first in ASUS range of innovative dual-purpose mobile devices to feature a 1.9GHz NVIDIA® Tegra® 4 mobile processor with quad-core ARM Cortex-A15 CPU and 72-core GeForce® GPU. The 10.1-inch LED backlit display has an ultra-sharp 2560 x 1600 resolution with IPS technology for 178-degree wide viewing angles, plus 10-point multi-touch for smooth and responsive fingertip control. ASUS SonicMaster-enhanced audio completes the mobile tablet entertainment experience. The redesigned 254mm keyboard dock now features a multi-touch touchpad, USB 3.0 and an SDXC card reader, and gives longer battery life when the tablet is docked.
+
+ASUS MeMO Pad™ HD 7
+
+ASUS MeMO Pad™ HD 7 is an incredible value 7-inch tablet with an MSRP of US$129 for 8G and US$149 for the 16GB model. MeMO Pad™ HD 7 weighs just 302g and has a quad-core processor, plus a 10-point multi-touch 1280 x 800 IPS display with 170-degree wide viewing angles. MeMO Pad™ HD 7 also features ASUS SonicMaster audio technology, and a front 1.2-megapixel camera and optional 5-megapixel rear-facing camera. It's available in dark blue, white, pink and green colors.
+
+ASUS Fonepad Note FHD 6
+
+Part 3G smartphone, part tablet, ASUS Fonepad™ Note FHD 6 comes with a 1.6GHz Intel® Atom™ Z2560 dual-core processor and 1920 x 1080 Full HD Super IPS+ display. With a display brightness of 450 nits, ASUS Fonepad™ Note FHD 6 can be used outdoors in bright sunshine, while front-facing stereo speakers with ASUS SonicMaster technology ensure high-quality high-definition audio. ASUS Fonepad™ Note FHD 6 also includes a stylus for quick and accurate handwritten input.
+
+Transform Home Computing Expectations- ASUS VivoPC
+
+ASUS VivoPC is a wireless media center designed to provide HD Wi-Fi audio and video streaming through a high-speed 802.11ac connection. Its compact design sports a spun-metal finish, ASUS SonicMaster audio technology and two USB 3.0 ports. ASUS VivoPC also features SATA 6GB/s and easy internal access for upgrades.
+
+ASUS VivoMouse
+
+ASUS VivoMouse is a combined touchpad, mouse and PC remote designed to bring the Windows 8 touch experience to PCs without a touch display. VivoMouse has its own touchpad that even recognizes Windows 8 touch gestures and can be used as a wireless remote for home entertainment PCs.
+
+ASUS RT-AC68U Wireless Router
+
+The ASUS RT-AC68U is the world's first dual-band 802.11ac router with blisteringly fast combined AC1900 data rates of 1900Mbit/s. The RT-AC68U also features ASUS AiRadar technology that uses beamforming to focus the Wi-Fi for a stronger wireless connection and 150% greater coverage than other routers. The RT-AC68U features a Router-to-Router Sync mode that makes light work of sharing files. A simple invitation allows photos, videos and other files on USB-attached storage to be synchronized automatically to USB-attached storage on other compatible ASUS routers, without the need for a switched-on PC at either end.Other ASUS products announced at Computex include the Zenbook Infinity Ultrabook™, MeMO Pad FHD 10 tablet, G10 desktop PC with built-in UPS and the PA279Q ProArt WQHD pre-calibrated professional monitor.
+
+Mat Smith and Zach Honig contributed to this report.
+

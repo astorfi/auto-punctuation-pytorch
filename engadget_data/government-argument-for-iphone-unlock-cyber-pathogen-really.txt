@@ -1,0 +1,10 @@
+
+San Bernardino County's district attorney has made its argument as to why Apple should unlock Syed Farook's iPhone and it's, it's something. Ars Technica dug out the court filings in which officials claim that the device could have been used to introduce a "dormant cyber pathogen" onto government networks. Of course, there's no official definition of what that means, unless it's a fantastical euphemism for virus. The documents are so weirdly alarmist (and, you know, wrong) that San Bernardino itself has distanced itself from the filing.
+
+
+
+TechCrunch cites security researcher Jonathan Zdziarski who says that the notion of a "cyber pathogen" is fanciful since that's not how iPhones work. If a person wanted to introduce a cyber pathogen virus onto a government network, they'd need access to parts of iOS that Apple does not let you use. Unless, of course, the phone had been jailbroken, but were that the case, the FBI would have easily been able to access its data.
+
+The other part of the DA's argument is that the iPhone could be the key to this yet-to-be-activated virus that's been hidden on the county's network. As Zdziarski says, if it's already been detected, then it's pretty easy to break it into pieces and reverse-engineer a cure. If it hasn't been detected, then the whole notion of this cyber pathogen virus has been pulled out of someone's ass. Which means that the hearing on March 22nd's going to stink of something other than the judicial process.
+
+

@@ -1,0 +1,6 @@
+
+ 
+AGPS capability on various versions of the Galaxy S -- including the Captivate and Vibrant released here in the US -- has been deeply hosed since launch, the apparent result of a bunk positioning server being used to associate towers to geographical locations. In practical terms, that's made apps like Google Maps nearly useless indoors and in urban canyons where line of sight to the birds up in orbit is dicey or impossible, and for European users where the phone's been out even longer, the wait's been an especially excruciating one. Fortunately, Samsung's finally come out with some concrete details on Twitter today, saying that updates are expected next month with "details and download to follow." No word for Euros specifically, but we imagine (er, make that "hope") they'll all be fixed around the same time.
+      
+
+ 

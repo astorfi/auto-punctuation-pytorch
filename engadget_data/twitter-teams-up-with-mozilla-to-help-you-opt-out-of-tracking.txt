@@ -1,0 +1,5 @@
+
+ 
+ What better place to announce Twitter's embrace of do not track policies than during a privacy panel at New York Internet Week? Federal Trade Commission CTO Ed Felten let the news slip today -- a fact later confirmed by Twitter and Mozilla. The service has been added to Firefox's Do Not Track feature, letting users opt-out of data-tracking cookies in the browser. More information on the feature can be found in the Mozilla source link below.
+
+

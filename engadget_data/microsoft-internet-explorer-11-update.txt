@@ -1,0 +1,9 @@
+
+
+With Windows 8.1 updates rolling out on April 8th across all platforms, you didn't think Microsoft was going to forget its browser, did you? Redmond has unified features on its mobile and desktop Internet Explorer 11 versions, while making it easier to use on different-sized devices. IE 11 for Windows Phone 8.1, in particular, underwent a major overhaul. You can now pin sites to Live Tiles like you can with the full version and sync tabs between devices using OneDrive. Another highly-requested new feature is InPrivate browsing, which leaves no trace of your surfing à la Chrome's Incognito mode. There's also a nod to low-bandwidth users with the so-called High Savings data compression mode which loads only the elements you want, reducing data use by 60-80 percent. Finally, Microsoft has introduced voice commands to WP8.1, plus a new reading view that brings a Kindle-like look to articles on your smartphone. Meanwhile, Internet Explorer 11 for Windows 8.1 received more subtle tweaks -- check after the break for more.
+
+
+
+For the full IE 11 version, Microsoft is trying to make sure users are happy whether they're using a 7-inch tablet or a 28-inch all-in-one. Depending on the device and whether it has a mouse or touchscreen, the browser will adjust the number tabs of displayed, adapt the type size and permit full-screen or regular browsing. Other changes are mainly for developers, with enhanced debugging and simplified testing for older versions of Internet Explorer -- the latter often being a serious pain. Finally, Microsoft revealed FishGL, a new version of its classic aquarium screen that also serves as a 3D WebGL graphics benchmark on Windows 8.1 or Windows Phone 8.1. If you're raring to grab all of that now, the updates are available for download on Windows 8.1 -- otherwise, they'll be pushed automatically for Windows 8.1 and Windows 7 starting April 8th.
+
+

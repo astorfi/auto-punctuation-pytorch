@@ -1,0 +1,45 @@
+
+
+More Info
+
+BlackBerry Z30 official
+BlackBerry A10 may be the Z30
+BlackBerry Z10 review
+
+
+Let's be honest: it's not a great time to be BlackBerry right now. Each morning brings yet more news stories that hint -- no, scream -- at the company's rapid unraveling. In the nine days following the announcement of the Z30, the company halted its BBM rollout and announced plans to fire 4,500 employees. Meanwhile, T-Mobile withdrew retail support, Motorola started sniffing around BlackBerry's top talent and its manufacturing partner looked for an exit. Finally, BlackBerry entered into a sale agreement, and the company had to concede that it lost a billion dollars on unsold Z10 handsets. So, what does all of this make the Z30?
+
+
+There had been plenty of rumors ahead of time that suggested BlackBerry would launch a phablet. The 5-inch Z30, however, isn't big enough to warrant that name, and the company itself has positioned the device as the flagship for the holiday season. That means the handset dodges comparisons with devices like the Galaxy Note, but instead stands in the line of fire between the iPhone 5s, Galaxy S 4, HTC One and Lumia 1020. Unlike those other devices, however, the Z30 isn't packing any flashy, headline-grabbing specs, nor does it offer bleeding-edge internals that will excite performance nuts. There's also the looming question of whether this hardware will make it over to the US in a timely fashion, as BlackBerry has only confirmed that it'll launch in Europe, the Middle East, Africa and the UK (priced at £500 off-contract).
+
+
+It's almost redundant to ask if this is the device that will save BlackBerry. After all, with the uncertainty surrounding the platform's future, we wouldn't be surprised if corporate buyers waited for the dust to settle before making more orders. Instead, let's ask if this handset, when judged on its own merits, is worth your cash. Is it the first step on a road to rejuvenation, or is the Z30 destined to become a footnote in technology history?
+
+
+
+
+
+Hardware
+If you were expecting BlackBerry to simply glue on an extra 0.8 inch to the Z10 and knock off early, then you lose a point. While the Z10 had top-and-bottom horizontal bands that demarcated (and protected) the display, nearly the whole of the Z30 is covered in glass. Wisely, the forward-facing webcam, LED light and earpiece have been pushed closer to the edge to make room for that bigger 5-inch screen. At the bottom, you'll find an aluminum chin, which is a single piece of metal that connects to the frame of the device, holding the chassis together. Sandwiched between the chin and the display is the BlackBerry logo, but otherwise, the rounded-off corners and glass covering make it look like a close relative of pretty much every other smartphone released in 2013. Lay this down next to a Galaxy S 4, and you'll find that while there's only a small difference in thickness, the Z30 is 4.1mm taller and 2.2mm wider.
+
+Flip the Z30 over and you'll find the woven carbon fiber back, dominated by the "seven flying D's" logo, which sits in the center. At the top and bottom edges, you'll find speaker grilles (one above, two below), while the primary camera module and flash are in their traditional top-left corner position. The back is removable, and it comes off with the usual nails-down-blackboard snapping and creaking that puts our teeth on edge. What isn't removable, however, is the battery. Much to the dismay of power users and road warriors, the company has decided to seal in the 2,880mAh power pack. That means that the only things you can access are the micro-SIM and microSD card slots, the latter of which is there to complement the 16GB of on-board storage.
+
+   BlackBerry Z30   Dimensions 140.7mm x 72mm x 9.4mm (5.53 x 2.83 x 0.37 in)   Weight 5.99 oz. (170 grams)   Screen size 5 inches   Resolution 1,280 x 720 (295 ppi)   Screen type Super AMOLED   Battery 2,880mAh   Internal storage 16GB     External storage microSD (up to 64GB)     Rear camera 8 megapixels, BSI, AF, f/2.2     Forward camera 2 megapixels     Video capture 1080p (rear) 720p (forward)     NFC Yes     Radios  Quad-band LTE 3, 7, 8, 20 (800/900/1800/2600)			Quad-band HSPA/UMTS 1, 2, 5/6, 8 (800/850/900/1900/2100)			Quad-band GSM/GPRS/EDGE (850/900/1900)
+
+      Bluetooth 4.0   SoC Snapdragon S4 Pro (MSM8960T)   CPU 1.7GHz   RAM 2GB   WiFi Dual-band 802.11a/b/g/n   Wireless charging No   Operating system BlackBerry 10.2   Details correct as of October 2013  Those familiar with BB10 will remember that the software relies upon gestures rather than buttons, so, as with the Z10, there's a dearth of physical inputs here. Going around the frame, you've got the standard sleep/wake toggle and 3.5mm headphone jack on top. Down on the right, you've got the BlackBerry three-way volume rocker, with the central switch letting you activate voice control. The "down" volume button can be used to control the camera shutter, and both "up" and "down" keys can be customized to skip tracks when playing music. Port-wise, both the micro-USB and micro-HDMI-out ports are situated below the halfway point on the left-hand side.
+
+Take this out of the box and the first thing you'll notice is how pleasant this is to hold in the hand. Measuring 72mm wide and 9.4mm thick, it's hardly the thinnest big-screen smartphone on the market, but it's definitely not unwieldy, either. The only caveat we have to add here is that while it's possible to use this device one-handed, a few design decisions make that difficult. For instance, without a dedicated home button, you've got to rely that the sometimes unreliable up-swipe gesture works, or you'll have to shift your hand to hit the sleep/wake button before unlocking the screen, and it's ultimately much easier just to employ the second paw rather than look a fool on the train station platform. We must also discuss build quality, which, as you'd expect from a £500 smartphone, is quite high. Sturdy and without flex, this device is likely to take a heavy pounding and we'd expect it to survive a few drops onto concrete as long as you don't strike the screen directly.
+
+On the connectivity front, you'll find NFC, Bluetooth 4.0 and 802.11a/b/g/n nestled inside. The GSM version we tested was designed for the UK and EMEA, so it packs quad-band LTE on 3, 7, 8 and 20 (800/900/1800/2600), quad-band HSPA+ (800/850/900/1900/2100) and quad-band GSM/EDGE (850/900/1800/1900). Naturally, there's also the usual cadre of accelerometer, magnetometer, proximity sensor and gyroscope, as well as one rather interesting piece of hardware: a Paratek antenna, of which we'll talk about in a little more depth later on.
+
+Display and sound
+Let's give credit where it's due: BlackBerry 10 is well-suited to large displays. Whereas the experience was cramped on the Q5 and Q10, the Z10's 4.2-inch screen did a reasonable job. Scale that up a little further, and we now actually find ourselves quite partial to the Z30's 5-inch Super AMOLED display. With a resolution of 1,280 x 720, you wind up with a pixel density of 295 ppi, and while it'd be easy to be snobby and compare it unfavorably to the Galaxy S 4's 441 ppi, this is still a perfectly usable screen. Viewing angles are superb, although, like with the Z10, there's a weird greenish color tint that you'll see if you approach the device from an angle that's nearly side-on.
+
+When reading emails, browsing the web and watching video, the Z30 is perfectly acceptable. That means that we don't have much to say about it either way. Considering its size, you won't suffer through dinner plate-sized pixels, but you will notice that video isn't as clear or un-grainy as it is on other, flashier devices. We've already mentioned the stereo speakers on the back, and while it's a regular gripe that speakers will be obscured in the hand, the Z30's are strong enough for that not to be an issue. In fact, when called upon to provide an impromptu cinema, it was able to entertain four people to a reasonable standard.
+
+Camera
+The 8-megapixel sensor that sits on the back of BlackBerry Z30's shell should, in theory, do a quick and nimble job of taking high-quality snaps on the fly. On a clear day, pictures are bright, with vivid colors and lots of detail. Outside of those ideal conditions, however, our images started to look murky. An orange-tinted evening along the Thames produced results with poor depth and the camera struggled to find focus. At night, the results tended to get worse, thanks to the glow of the artificial lighting. In some of the shots, there's enough lens flare to power a small J.J. Abrams movie. We also noticed that unless you're prepared to be patient and set up the "perfect" shot, you'll find the color balance and focusing to be slightly undesirable.
+
+
+
+

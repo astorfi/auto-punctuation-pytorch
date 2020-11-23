@@ -1,0 +1,5 @@
+
+       A few days ago we told you about a new product for encoding H.264 with hardware instead of software, which should obviously speed things a long, as well as free up CPU cycles for something else. At the time we didn't know much about the product, but now our friends from Elgato have filled us in. The Turbo.264 will be available in the US by the end of April with a MSRP of $99. We also learned that the device can encode any video that QuickTime can handle, including 3rd party QuickTime components and that any software that supports QuickTime Export, including EyeTV's very own one click export, is supported. The bad news is that while the device can help you encode your HD clips to H.264, the maximum output resolution is limited to 800x600.
+      
+
+ 

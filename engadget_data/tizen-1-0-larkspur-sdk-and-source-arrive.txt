@@ -1,0 +1,7 @@
+
+ 
+ The unveiling of Tizen left many mobile open-source aficionados wondering when the OS would reach its all-important 1.0 status. The answer is now: the coalition between Intel, Panasonic, Samsung and a raft of carriers has posted the first non-beta release in both source code and software development kit forms. The finished versions of either carry new features to reward developers for the wait: SDK users get a new browser-based simulator and a faster emulator, while those scouring the source code will find new point-of-interest and route searching features in location-aware apps as well as WiFi Direct and more HTML5 support. About the only wait left is for an actual Tizen phone to ship.
+
+ [Image credit: Realnorth]
+
+

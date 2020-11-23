@@ -1,0 +1,6 @@
+
+ 
+"Of course the new Apple TV gets a teardown, silly," is what we would tell you should you have the audacity to question its inevitability. But alas, we're too busy analyzing every photo of iFixit's gallery to even dignify your raised eyebrow with an unprovoked response. The site gives it 8 out of 10 in its metric of repairability, opining it might be "the most eco-friendly set-top box of all time." With that said, here are the big takeaways we're seeing so far: 8GB of storage provided care of a Samsung K9LCG08U1M NAND Flash chip, and the same one found in the iPad. Speaking of which, there's also the exact same markings on its Apple A4 processor as the iPad and new iPod touch, K4X2G643GE (not the same as the iPhone 4, as it turns out), the exact same Broadcom BCM4329XKUBG 802.11n WiFi / Bluetooth / FM chip as the iPad, and at 256MB, the same amount of RAM. Also interesting and of note are the solder pads near the side of the logic board, which look to be a perfect fit for an Apple dock connector. At any rate, with all that's under the hood, we expect the jailbreak community to have an absolute field day.
+      
+
+ 

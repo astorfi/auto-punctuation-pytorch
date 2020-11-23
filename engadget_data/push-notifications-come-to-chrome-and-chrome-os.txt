@@ -1,0 +1,4 @@
+
+The push notifications on our mobile devices aren't just for convenience's sake -- they let apps stay idle and conserve precious battery life. That would explain why Google Cloud Messaging is now integrated with all versions of Chrome and Chrome OS, then. While both platforms are usually online as a matter of course, GCM lets developers refresh a web app or extension only when there are noteworthy changes, such as new chats. All end users have to do is sign in. Developers will have to build the feature into their apps before anyone sees the benefits, but we wouldn't be surprised if our Chromebooks last for just a little bit longer in the near future.
+
+

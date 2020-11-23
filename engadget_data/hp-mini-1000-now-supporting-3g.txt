@@ -1,0 +1,6 @@
+
+ 
+When we got comfy with the HP Mini 1000 last month, there was talk of a full 3G spec'd version coming in December. Lo and behold we're not even out of November yet and one owner has managed to get online with his brand spankin' new 1000. User dplxy over at the Pocketables forum put in some quality time with customer support from both HP and AT&T to figure out how, saving you some minutes by describing the how-to. Full instructions are at the read link, but the gist of it is you need to download a WWAN driver from HP, manually extract and install it, and then slot your SIM card into the battery compartment. Speeds are reported to be solid but, with the lowly three cell battery struggling to keep the thing broadcasting, you'd better hurry up and find what you're looking for. It's unlikely this will work with older versions of the Mini 1000, which are believed to lack the hardware internals, but give it a shot and let us know what you find, yeah?
+      
+
+ 

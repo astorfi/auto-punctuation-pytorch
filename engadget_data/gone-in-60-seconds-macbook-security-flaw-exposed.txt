@@ -1,0 +1,6 @@
+
+   
+A couple of friendly neighborhood hackers, Jon "Johnny Cache" Ellch and David Maynor have come up with a hack they claim takes 60 seconds and opens up any MacBook completely to their whims over a wireless connection. Supposedly the flaw, which they don't actually specify, is due to some faults in the device drivers which allow the wireless card to communicated with the OS. The flaw isn't unique to the MacBook, a few PC laptops have a similar vulnerability, but the pair of hackers have decided to pick on the MacBook due to the "Mac user base aura of smugness on security." So the next time Justin Long starts on that "Hello, I'm a Mac" shtick, you can always let him know of a certain 60 second vulnerability and change the channel before he gets too smarmy.
+      
+
+ 

@@ -1,0 +1,4 @@
+
+ In a move that'll likely have event planners and meeting organizers around the world leaping for joy, Gmail has just announced that you can directly add .ics calendar attachments to your Google Calendar without having to download and import them manually. Google's email service will automatically detect the event in question and display an "Add to Google Calendar" button as seen above. Just click that, and it'll be added instantly -- no muss, no fuss. The created GCal events will even link back to the original email in case you need it. The feature is available right now, so feel free to test it by sending out attachment invitations. Hopefully to an event that's not already sold out.
+
+

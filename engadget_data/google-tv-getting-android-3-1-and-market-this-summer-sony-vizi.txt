@@ -1,0 +1,10 @@
+
+ 
+
+As expected, Google just announced at I/O that the Google TV will be upgraded to Android 3.1 this summer (existing devices will get an OTA upgrade) with access to the Market coming "soon." According to Mike Cleron from the Android Development team, developers will be able to use the vanilla Honeycomb SDK to build apps for Google TV, and also announced hardware partners will include Samsung, Vizio, Logitech and Sony (as seen after the break) -- no word on previously mentioned possibles like Toshiba, Sharp or LG. There were also no details on a switch from Intel to ARM even though we heard whispers of that at CES, we'll check in to the keynote tomorrow to see if there's any more revealed on hardware changes for the platform. Check the liveblog for more info.
+      
+
+ 
+
+   
+ 

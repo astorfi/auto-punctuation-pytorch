@@ -1,0 +1,14 @@
+
+ The little birdies that clued us in about the upcoming Vista Media Center update a few days ago are at it again, but this time with some potential good news. When the recent Windows Media Center TV Pack release candidate 0 was released to testers and was missing all of our favorite features, we were quick to assume that this would mean no new features until Windows 7. Well, based on some recent information received by our sources, the reason H.264 was cut was because it was too complex to add -- because of all the dependencies involved -- in time. You see, evidently this tuner update was promised to be released to OEMs by the end of July. Now our sources seem to be optimistic that there is another update in the works, and that it might just include both H.264 and DirecTV tuner support. More about the Windows Media Center TV Pack after the jump.
+
+
+
+
+          
+ 
+ 
+ The update expected this month is mainly focused around International support, which has evidently really been lacking up until now. The Japanese can expect ISDB-T and BML support, while the Europeans can look forward to new support for DVB-T and DVB-S tuners as well as MHEG for interactive television; and finally as we mentioned before, the US is finally getting native clear QAM support. At the same time every country can expect to see improvements for; TV viewing, recording, and playback. The biggest features in the update we're looking forward to though is heterogeneous tuner support, which was explained to us as the ability to use any combination of tuners (NTSC, ATSC, QAM, CableCARD, DVB-T, PAL, or DVB-S etc). The other big sigh of relief is they are going to loosen up on the tuner limitations. With the update, Ultimate edition will officially support four tuners of each type, while premium stays at the current limit of two. So while it doesn't appear that the update will have any ground breaking new features, we have to say that all-in-all we're pretty excited to get our hands on the new features. But we still really want to believe that there is indeed another update in the works, that we will see it this year and that it will finally bring us DirecTV support. But man would we really would like to know what is taking so long.
+
+       
+
+ 

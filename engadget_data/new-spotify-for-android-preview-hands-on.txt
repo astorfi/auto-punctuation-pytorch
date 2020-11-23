@@ -1,0 +1,16 @@
+
+ 
+ In case you hadn't heard, Spotify's finally given its Android app the update love it deserves. It's looking for feedback in the form of an app preview, available to download now -- if you're willing to install from "unknown sources". The update is a top-to-bottom refresh, bringing the sort of functions (lockscreen player?) we've been patiently waiting for, all wrapped up in Android's Holo theme. How does it all fare? Step beyond the break to see.
+
+
+
+
+ There's some fundamental changes that are instantly recognizable. Tapping play within the app didn't thrust us to the Now Playing window -- we remained exactly where we were within the app. While the Now Playing album art view still exists, we soon got used to the bar at the bottom telegraphing exactly what we were listening to. The whole navigation of the app is similarly cleaner and faster. Menu items have been corralled into a side menu similar to that found on the Android Facebook app, while playlists are now prioritized by offline play capability -- which eliminated another niggle of the old app. Downloading those offline playlists has also been given a boost even in this more precarious preview version. We found huge playlists zoomed onto our HTC One S through WiFi much faster than before, and the "extreme" option for audio quality already found on the iOS version has finally made its way to Android. Album and artist artwork have both been beefed up visually with high resolution pictures now populating the app, while we could now swipe through our own top artists and overall top-ranking albums on the main Spotify screen. Artist pages are eminently more navigable, as we were able to swipe between the overview, related artists and biography screens. It all results in an app that's looking a lot slicker and more modern.
+
+ 
+ For us, it's the lockscreen player that's already our favorite addition. Previously a huge oversight, there's now no need to potter through a locked-down wallpaper and reload the Spotify app just to skip a track. The controls are simple; there's pause, forward and back track, but with a volume rocker on the hardware, that's largely all that's needed. On the sidelines, search and social functions have both been boosted -- whether we wanted to accidentally display all of our karaoke favorites to frosty indie friends or not. Tracks, albums and artists all pack a share button to connect with plenty of Android apps and social networks, while we could check on our friend's latest discoveries and compilations in an instant. Search results are now stratified by type and include album, artist and stand-alone tracks.
+
+ Wrap-up 
+ We've been promised even more functionality before it officially arrives on Google Play, including Last.fm scrobbling -- crossing those musical streams like the desktop version -- but this is a great teaser of what we can expect. It solves plenty of the problems we've had with the existing Android version and, for a preview, the app was surprisingly stable. We suffered no crashes, unlike the existing version, which has died on us during syncing on more than one occasion. In fact, we had no problems at all during our testing over the last eight hours -- that is, aside from the lack of a widget. You can try it out at the source link below.
+
+

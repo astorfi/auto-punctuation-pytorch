@@ -1,0 +1,5 @@
+
+ 
+ It took only one day for devs to unleash Jelly Bean 4.1 from its server confines and out into the eager underbelly of Android's community. And those enterprising hackers haven't wasted any time getting that buttered up OS running on Galaxy Nexus handsets (yes, even for Verizon subs). Now, good news is also on the way for any consumers who forsook the pure Google path in favor of Samsung's TouchWizzed way. That's right, a (mostly) working port has been made available to Galaxy S III (I9300) users that should see some of that point upgrade's features successfully implemented. Feel free to take it for a test run if you're skilled in the ways of flashing, but bear in mind you'll lose access to the camera, WiFi, Bluetooth, NFC, storage and audio. It goes without saying that this build is far from the perfect ROM for a daily driver, but if you're curious to check it out first-hand, there's no harm in trying. Hit up the source below for the step-by-step how-to.
+
+

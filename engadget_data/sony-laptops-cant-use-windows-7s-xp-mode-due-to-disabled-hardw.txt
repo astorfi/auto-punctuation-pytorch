@@ -1,0 +1,6 @@
+
+ 
+Bad news for VAIO owners out there hoping to use Windows 7's XP mode or run any other hardcore virtual machine applications -- Sony disables the required hardware virtualization features of its laptops for "security reasons." That means XP Mode won't work on any VAIOs, but there's hope yet: Sony's Xavier Lauwaert says that the company will re-enable VT on "select models." We'll see what that means going forward -- XP Mode is a niche feature, but it's still pretty lame for Sony to be intentionally disabling hardware features.Read - The RegisterRead - Xavier's post on the Windows Partner Blog (scroll down to his comment)[Via Sony Insider]
+      
+
+ 

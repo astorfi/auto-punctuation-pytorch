@@ -1,0 +1,8 @@
+
+
+NVIDIA's "project not a product" just became a product: Project Shield is now NVIDIA Shield, and it's arriving this June for $350. The specs haven't changed -- it's still rockin' a Tegra 4 processor with 2GB of RAM, a 5-inch "retinal" IPS display (1280x720), and 16GB of storage (expandable to 64GB via microSD). The concept remains nigh identical with what NVIDIA head Jen-Hsun Huang introduced back at CES: a console-quality controller with an HD screen mounted to it for on-the-go and streaming PC gaming.
+
+
+Beyond the price point and release window, the Shield is also getting a few new game announcements in Double Fine's Broken Age and Costume Quest, not to mention a new iteration of Chip's Challenge named "Chuck's Challenge." The AR.Drone folks are also adding in support for the Shield, enabling controller-based inputs over the motion-based usual. NVIDIA's also promising monthly OTA updates for the system, including the latest version of Android (the system ships with Jelly Bean 4.2.1). The company also warns that not all Android apps will work out of the box -- specifically, any that don't support landscape mode (the Netflix login screen, for example, has an issue here). Kinks aside, should you wish to be the very first to get a Shield, it's available for pre-order starting right now on NVIDIA's website (if you're on the mailing list, that is), or on May 20th everywhere else. Or you could sign up for the mailing list, of course.
+
+

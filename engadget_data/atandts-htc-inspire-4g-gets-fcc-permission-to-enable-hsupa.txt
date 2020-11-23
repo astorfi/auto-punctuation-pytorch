@@ -1,0 +1,6 @@
+
+ 
+AT&T's teased that some of its existing models will eventually have HSUPA enabled, which should help mitigate the flack they've been taking over branding a network with glacial uplink speeds "4G." The recently-launched HTC Inspire 4G is among the models with disabled HSUPA out of the box, but the good news is that it shouldn't be disabled for much longer: an FCC Class II Permissive Change -- which gets generated when a device's RF characteristics are modified -- has just hit, clearly stating that "HTC Corporation will enable HSUPA function of this product." There's no time frame for the switch, but at least we know it's going to happen at some point; just try not to turn your Inspire into an FTP server in the meantime, alright?
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+We're pretty big fans of Willow Garage, and its generous support of the open source Robot Operating System (ROS). For its latest trick, the company has developed a system to teach its PR3 robot billiards. Unlike projects we've seen in the past, Poolshark doesn't rely on overhead cameras to calculate moves. Rather, it's forced to conform to standard rules: it can only shoot from where the cue ball lay, and it sights shots from the same vantage point as human player would. And, you know what? While not perfect, the robot does pretty well. Not bad for a week's work, eh? Video after the break.
+ 
+
+ 
+ 

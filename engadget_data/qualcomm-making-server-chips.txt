@@ -1,0 +1,14 @@
+
+
+Qualcomm is sitting pretty right now. Its Snapdragon processors and cellular chips are present in most of the big-name mobile devices you can use today, whether it's the Nexus 6 or the iPhone. However, the company isn't content to stop there -- it just confirmed plans to launch its own line of server processors. CEO Steve Mollenkopf isn't offering many details just yet, but it won't surprise you to hear that these heavy duty CPUs would be ARM-based like their mobile counterparts. There's no timing yet, either, although the exec adds that his firm is already "engaged with customers."
+
+
+
+          
+ 
+ 
+ As with existing server chips from AMD and HP, Qualcomm is trying to attack Intel where it's weakest: power consumption. While Xeon chips are typically very fast, their sheer thirst for energy limits how many you can use and thus how flexible you can be. ARM isn't as quick, but it's much more efficient. You can stuff hundreds of CPUs into a small space instead of just a few, giving you much more freedom to juggle multiple tasks at once. Mollenkopf sees his company's future parts being handy for internet giants like Facebook, which could tweak their data centers to handle very specific tasks. There's no telling whether or not Qualcomm will dominate the server world like it did your pocket, but it's definitely going to make Intel nervous.
+
+       
+
+ 

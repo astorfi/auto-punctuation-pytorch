@@ -1,0 +1,4 @@
+
+ For all of the talk of cloud backups and sync, there isn't always a safety net when working from the cloud itself -- delete a file online and it might be gone forever. With that in mind, Microsoft just brought Windows' recycle bin concept to SkyDrive through a low-key update. You can now delete anything immediately, knowing that you can change your mind within three days -- and longer still, should the recycle bin occupy less than 10 percent of the storage limit. If you're just as uncertain about creating content as scrapping it, SkyDrive has also received support for creating and sharing Excel surveys to narrow down the scope of a project. The recycle bin should slide into your SkyDrive account within the next day; Excel surveys aren't yet polished enough, but they should be ready "soon."
+
+

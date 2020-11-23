@@ -1,0 +1,13 @@
+
+When Mark Zuckerberg bought Oculus VR last month, he was looking beyond gaming. "Imagine enjoying a courtside seat at a game," he said. "Or consulting with a doctor face to face." Oculus' developing VR headgear can do more than transport us to virtual worlds -- it can help us experience the real one, too. The trick, however, is you have to figure out how to capture the world in 360 degrees before you can share it. Turns out, there's a company working on that; it calls itself Jaunt.
+
+
+
+"We're basically trying to create the methodology for making content like this," Jaunt CEO Jens Christensen explains. "We call it cinematic VR." Christensen's company is hoping to build the foundation that stereoscopic 3D VR filmmaking will stand on -- a full-stack solution for creating cinema-quality virtual experiences. This amounts to specialized camera hardware, computational photography algorithms, specialized plugins for popular editing suites and purpose-built software. "It's actually very hard," the CEO joked with us. "You can't have a camera man; he'd be in the shot."
+
+
+Peering through an Oculus Rift at the company's test footage, we can see what he means. Jaunt's prototype camera captures a sweeping 360-degree view, and sees everything except for a small area just below the viewer's feet. Our hosts point out a tree in a scene of monks practicing kung fu, outing it as the director's cover. The scenes are convincing and immersive, but imperfect -- the majestic view of San Francisco's Golden Gate is a little less breathtaking when you can see where the separate bits of footage are stitched together. Christensen explains that the camera, software and algorithms are all still in the prototype phase. "This is a new problem, shooting in this media. You can't just attack one part of it."
+
+Jaunt hopes to make its tools available for VR-minded filmmakers later this year, but wouldn't tell us specifics about who it's partnered with or how VR films, once made, would be distributed. Either way, funding won't be a problem: The company announced today that it has secured $6.8 million in venture capital to refine its end-to-end production solution.
+
+

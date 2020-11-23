@@ -1,0 +1,9 @@
+
+ 
+While Android and iOS aren't short on productivity applications for cobbling together a .doc and sending it on its way, we've been really hankering for native Google Docs support since pretty much day one. Google is finally ready to deliver, and it looks like they've actually put some thought into the UI, particularly on the phone end of things. Edits show up in near realtime across platforms, and you can even edit tables embedded in documents -- though don't try to get too fancy, the tools still look pretty basic. Android also allows you to insert text using voice recognition. Currently Google Docs will be supporting Android devices with Froyo and iOS devices with 3.0 or newer (including the iPad), with the functionality rolling out over the next few days. There's a video after the break demonstrating the new features.
+      
+
+ 
+
+
+ 

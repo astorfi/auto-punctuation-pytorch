@@ -1,0 +1,5 @@
+
+ 
+ Giving a Raspberry Pi extra voltage is a quick way to squeeze out additional processing power and void its warranty, but the folks behind the tinker-friendly board have devised a turbo mode that boosts performance by roughly 50 percent while keeping warranties intact. After studying the effects of temperature and voltage on the hardware's lifespan, the team found that dynamic overclocking and overvolting doesn't affect the Pi's health appreciably. As a result, speeds can be pushed from 700MHz to 1GHz only when additional horsepower is needed, and things are reined back in when the CPU grazes 185 degrees Fahrenheit (85 degrees Celsius). Benchmarks show the extra computing oomph makes the Pi 52 percent faster on integer, 64 percent speedier on floating point and 55 percent snappier on memory tasks. The new mode is available in the latest firmware update, which also includes temperature and frequency widgets, better analog audio, improved USB performance and support for WiFi dongles out of the box. For the technical nitty-gritty and more details on the upgrade, hit the source link below.
+
+

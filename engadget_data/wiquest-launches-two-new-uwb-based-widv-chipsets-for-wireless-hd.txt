@@ -1,0 +1,5 @@
+
+ While the Wireless USB solutions that UWB presents are a fun ideal for the wire-free desktop of the future, it seems like for the present, UWB is getting quite the workout as a video streaming workhorse. WiQuest's new WiDV technology streams up to 1Gbps of HD video for PC or home entertainment applications -- exact device compatibility is undefined, but we're guessing the usual suspects like DVI, HDMI and Component will be worked into this mix. To start of its WiDV revolution, WiQuest just announced its WQST100 and WQAST101 chipsets to support the new standard. Based on UWB technology, the streams shouldn't interfere with other WiMedia-based devices. Now we've just gotta wait for these chipsets to start showing up in real devices.[Via gizmag]
+      
+
+ 

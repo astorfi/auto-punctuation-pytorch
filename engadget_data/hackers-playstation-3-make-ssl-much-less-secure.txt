@@ -1,0 +1,5 @@
+
+ 
+Between the juvenile delinquent hordes of PlayStation Home and some lackluster holiday figures, the PlayStation has been sort of a bummer lately, for reasons that have nothing to do with its raison d'etre -- gaming. That doesn't mean that the machine is anything less than a powerhouse -- as was made clear today when a group of hackers announced that they'd beaten SSL, using a cluster of 200 PS3s. By exploiting a flaw in the MD5 cryptographic algorithm (used in certain digital signatures and certificates), the group managed to create a rogue Certification Authority (CA) which allows them to create their own SSL certificates -- meaning those authenticated web sites you're visiting could be counterfeit, and you'd have no way of knowing. Sure, this is all pretty obscure stuff, and the kids who managed the hack said it would take others at least six months to replicate the procedure, but eventually vendors are going to have to upgrade all their CAs to use a more robust algorithm. It is assumed that the Wii could perform the operation just as well, if the hackers had enough room to spread out all their Balance Boards.[Via ZD Net]
+
+ 

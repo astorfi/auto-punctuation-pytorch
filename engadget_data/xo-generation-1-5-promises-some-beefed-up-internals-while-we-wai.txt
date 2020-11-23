@@ -1,0 +1,6 @@
+
+ 
+We're pretty stoked to see that upcoming dual-screen sequel to the XO, OLPC's promised XO-2. Until then, OLPC is sprucing up the insides of its current design with a new VIA C7-M processor that can be clocked between 400MHz and 1GHz depending on the task at hand. Alongside the new processor the "Generation 1.5" model will sport a hot new VX855 chipset that can handle 3D graphics, HD video, and general management duties, and should be able to do it with a smaller footprint and less power consumption. The screen will likely remain the same, but might be tweaked slightly to improve brightness and efficiency, and the whole package should be built with components that will be more likely to drop in price. Developers should get the main board by May, with prototypes for testing going out in August and we suppose wide availability sometime after that.
+      
+
+ 

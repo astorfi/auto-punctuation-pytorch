@@ -1,0 +1,22 @@
+
+Samsung may already have its 8-core Exynos 5 Octa offering, but the original "big.LITTLE" implementation means only up to four cores work together at any time -- either the Cortex-A15 quartet or its lesser Cortex-A7 counterpart. In other words, we'd rather rename the chipset range to something like "Exynos 5 Quad Dual." But according to recent intel coming from Taipei and Shenzhen, it looks like Taiwan's MediaTek is well on its way to ship a true 8-core mobile chipset in Q4 this year.
+
+
+
+The first mention of this 2GHz, Cortex-A7 MT6592 chip came from UDN earlier today. The Taiwanese publication claims MediaTek started introducing its first octa-core product to clients last week, and it's expected to enter mass production using TSMC's 28nm process in November. The first mobile devices to carry this hot piece of silicon may hit the market in early 2014 -- hopefully just in time for the Chinese New Year shopping rush.
+
+UDN adds that the MT6592 scored close to 30,000 on AnTuTu, which is pretty high but still some distance behind Qualcomm's 2.2GHz quad-core Snapdragon 800. Of course, chances are MediaTek's offering will be much cheaper, as evidenced by all the affordable MediaTek-powered devices in China these days.
+
+In a separate article from last week, UDN pointed out that judging by over a hundred job openings released by MediaTek last month, the company is clearly putting an emphasis on 4G LTE technology, alongside GPU and Android development. The publication also quoted chairman Tsai Ming-kai saying he will launch an LTE solution in Q4 this year, by which point MediaTek will only be one or two years behind its competitors.
+
+The second piece of info came from HQ Research analyst Pan Jiutang, who posted an alleged spy shot of MediaTek's upcoming roadmap (pictured left). There the octa-core MT6592 is listed with a clock speed of 1.7GHz to 2GHz, along with 1080p 30fps video decoding support. There's also a quad-core 1.7GHz MT6588 accompanying its octa-core sibling in the same period on the timeline, though it appears to be just a faster version of the current 1.2GHz MT6589.
+
+For the sake of phone manufacturers, both new chipsets will apparently be pin-to-pin compatible with the quad-core 1.3GHz MT6582 due Q3 this year, thus lowering R&D costs. Better yet, the roadmap also states that the MT6290 LTE modem -- as teased by Tsai above -- will be compatible with these three chipsets.
+
+With MediaTek quickly catching up ahead of China's eventual TD-LTE launch, Qualcomm will need to tread carefully to keep its Chinese QRD partners happy.
+
+[Thanks, Ryan!]
+
+Update: It's worth noting that ARM's eventual "big.LITTLE MP" implementation will allow all eight cores to run simultaneously, but the Exynos 5 Octa currently doesn't support this. Thanks, UncleAlbert!
+
+

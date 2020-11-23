@@ -1,0 +1,10 @@
+
+
+When Microsoft debuted its Windows Holographic software and HoloLens headset a few months back, Windows 10 apps were mentioned as a possibility. Well, at Build 2015 today, the folks in Redmond offered a look at Windows 10 Universal apps in holographic action. During the onstage demo, apps could be placed on walls or set to float in space, and resized based on the user's needs -- something we'd only seen in videos up to this point. Of course, this means that users in different locations can collaborate on 3D models without having to be in the same room. Any Windows 10 app can be used as a hologram with the headset, so getting work done at a place other than your desk will soon be a possibility.
+
+
+
+
+With those apps in play, you can overlay a hologram on top of a physical object and make tweaks without heading back to the keyboard. Just like the real and virtual robots we saw onstage, you wrangle simple changes, like the color of an LED, with gestures and the projected UI. Microsoft partnered with Case Western Reserve University to develop medical solutions for the platform, and those were shown off, too. Up-close examinations of the nervous and skeletal systems are now possible without the use of cadavers, and each of the body's systems can be displayed as a separate model in seconds. For architects, Windows Holographic brings the ability to walk through buildings without leaving the office, or through those projects that are still just blueprints. Of course, we'll have to wait and see what the final version looks like, but Microsoft's vision for how we'll work in the near-future is pretty enticing.
+
+

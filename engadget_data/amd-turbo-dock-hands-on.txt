@@ -1,0 +1,14 @@
+
+ Here's a question we've been asking ourselves for a while: what if the dock for a hybrid tablet could offer not only a keyboard and battery, but also increased performance? Wouldn't that provide the best of both worlds, with long battery life when you're in tablet mode and true laptop productivity when you have a place to sit down?
+
+ Turns out AMD is on the same wavelength. In fact, the company has already implemented the idea in a prototype device here at MWC, destined to appear in commercial products around the middle of this year. As you'll see if you check out the video after the break, it's built by Compal and includes a 13-inch 1080p display with a quad-core Temash chip, which when combined with its Turbo Dock delivers some serious power -- going from 8 W to 15 W, with extra air flow delivered through the connector to keep it cool.
+
+ AMD says that the docked tablet offers general computing performance broadly at the level of a full-fledged 17 W Intel Core i3 notebook. Judging from Microsoft's Fish Bowl HTML5 benchmark, we're looking at a gain of 50 percent -- and yes, that's pretty impressive. Next stop, a dock with an extra discrete GPU for CrossFire gaming? Who knows, but it's the logical progression.
+
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+ It wasn't just Verizon Galaxy Nexus owners who were hurt when Google dropped Android Open Source Project support for CDMA models -- officially, Nexus S 4G users had to depend on carrier-approved builds as well. At least one of those software dramas is coming to a close, as AOSP Technical Lead Jean-Baptiste Queru has just confirmed that the Nexus S 4G once again has a full AOSP build. Problems surrounding the phone have been sorted out to give it full CDMA voice and WiMAX-based 4G data while keeping true to Google's original, easily modifiable vision. The download is available right away for the Nexus S 4G faithful, but Queru has dashed any immediate hopes of this being the prelude to its Galaxy Nexus counterpart; the camera, GPS and NFC currently wouldn't work on Verizon's model, even if the cellular components checked out.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

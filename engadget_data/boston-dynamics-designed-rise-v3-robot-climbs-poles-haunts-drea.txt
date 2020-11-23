@@ -1,0 +1,7 @@
+
+ 
+The folks at Boston Dynamics have already made quite a name for themselves in the world of creepy robotics, but it looks like they're not ones to keep all their know-how to themselves, and they've now lent the University of Pennsylvania's Kod*lab a hand with this new RiSE V3 pole-climbing robot. That, as you've no doubt surmised, is a followup to RiSE V1 and V2, which were developed without the help of Boston Dynamics and were more suited to climbing flat surfaces than poles. In addition to a vastly different leg mechanism, this latest model also makes use of some brushless DC motors that increase the power density to let it climb poles at rates up to 22cm per second, which the researchers say make it well-suited for a wide range of tasks. As you can see for yourself in the video after the break, the bot mostly seems to work remarkably well, although it's obviously not quite ready to tackle critical jobs all by itself just yet.[Via Hacked Gadgets]
+
+ 
+
+

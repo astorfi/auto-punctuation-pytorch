@@ -1,0 +1,36 @@
+
+In January 2013, NVIDIA unveiled its first end-to-end consumer product: NVIDIA Shield. In our review, I wrote, "NVIDIA Shield is a truly strange device" One year later, that statement stands -- only now it applies to NVIDIA's second consumer product as well: the Shield tablet. Okay, okay, Shield Tablet isn't quite as bizarre as the original Shield, but it's a close second.
+
+
+Shield Tablet dumps the original Shield's 5-inch screen in favor of a bigger 8-inch, 1080p display, swaps the original Tegra 4 in favor of K1 and drops the controller bit entirely. Should you wish to pair a controller with Shield Tablet -- and NVIDIA thinks you should -- the company's making one (it's even got WiFi Direct for lower latency than Bluetooth), but it's totally optional and doesn't come packed in with the tablet. So, what is this thing? Who is it for? And is it any good? Let's find out.
+
+
+
+
+
+Here's NVIDIA's logic: Just like how automakers originally started with a few base-model sedans and eventually diversified into trucks, vans, coupes and much more, so NVIDIA sees the tablet market. The Shield Tablet is billed as the "ultimate tablet for gamers," in that it has a powerful processor (K1), runs NVIDIA's GameStream tech (which streams full PC games to the tablet), can stream out to Twitch (on a system level, no app required) and has WiFi Direct for ultra low-latency wireless gamepad connectivity. It also runs Android and does all the normal stuff you'd expect from an Android tablet. But that's not the point of the device.
+
+Let's be clear up front: We find some of Shield Tablet's suggested use cases -- pairing the tablet with a stand and playing with a controller in public -- to be off-base at best. Who is doing that? Are there people using wireless gamepads with their laptops in coffee shops? If you're one of those people, stop it.
+
+But what about, say, using the tablet in your house via HDMI-out? That seems a bit more reasonable. If nothing else, Shield Tablet could act as the streaming component of your gaming PC, residing in your living room as a conduit for playing PC games on the big screen. An expensive conduit, no doubt, but it makes a heck of a lot more sense to us than pairing a tablet with a controller and playing games at the local Starbucks.
+
+IMPRESSIONS -- TABLET
+The Shield Tablet is a nice piece of electronics: It's well-built and sturdy; it has a slick design; it's got nice angles; it's got a sharp screen; and it's a good size at just over eight inches. It's a bit on the thick side, but that's a measure of Shield Tablet running a cutting-edge mobile chip and needing more battery power. We're not talking original Microsoft Surface Pro levels of thickness -- let's not get crazy -- but it's thicker than an iPad mini, for instance.
+
+Since we're comparing it to the Surface, there's a stylus included in the Shield Tablet package (dubbed "DirectStylus 2"). While there are certainly applications for the stylus in terms of the tablet's uses as a tablet, there are no gaming applications that use it. NVIDIA's including a program called "Dabbler" for drawing images; we're gonna go ahead and guess that the folks buying a gaming tablet will never use this functionality, but hopefully we're wrong. It's not that Dabbler isn't neat -- it's totally fine, and hey, drawing is fun! -- it's that it's incongruous with the rest of the package.
+
+Specs: NVIDIA Tegra K1 SoC 8-inch "Full HD" screen (1,920 x 1,200, IPS LCD display) Front-facing stereo speakers (think: HTC One) 5MP front- and rear-facing cameras DirectStylus 2 16/32GB of internal storage, expandable by up to 128GB via microSD 802.11a/b/g/n, optional LTE 19.75 Watt-hour Lithium-ion batteryBut what about gaming? Like the original Shield before it, gaming on Shield Tablet is a smooth, easy experience. While Android games continue to lack control standardization and therefore lack predictability in how they'll function on a paired gamepad, PC games continue to both look and feel great. We (briefly) tried out a demo of Grid 2 and had no issue... turning the in-game car sideways and driving directly into a wall. But the controls were responsive! We're just bad at rally racing.
+
+We were also shown an update to NVIDIA's "TegraZone" software, which is transforming into the "NVIDIA Shield Hub" (the update will also be pushed to the original Shield). This takes your Android games, PC games, cloud-streaming games and media options, and puts them all in one place. While it's a necessary step for Shield given how it's intended for use at home, it's a half-step on the way toward a real console UI. Anyone with a game console used for media knows the plight of the accidental controller input: You put down your PlayStation controller after selecting the latest episode of Orange is the New Black, a trigger accidentally gets pushed and suddenly you're halfway through an episode, fumbling to get back to the start. Such is the case with Shield Tablet. You have to use a paired gamepad to control it, even for media playback, when in "console mode." Not a huge issue, but a step below what other devices offer.
+
+IMPRESSIONS -- GAMEPAD
+You remember the gamepad that was built into the first Shield? It's broken away from the trappings of the portable Shield and is its own device now. When we say it's very similar to the first Shield's gamepad, we mean "nigh identical." With the exception of the buttons in the middle -- the Android control buttons, a new NVIDIA button, volume controls and a touchpad -- the controller feels very similar.
+
+One major, hugely important difference is analog stick placement. Since there's no screen sitting on top of them, the analog sticks were heightened, making it a much more comfortable experience. It's not a bad controller. It's not a great controller. But considering that it uses WiFi Direct in place of Bluetooth, we're inclined to suggest the Shield Gamepad over other options. But know that it feels a little undercooked.
+
+THE SHIELD FAMILY
+With Shield Tablet and Gamepad, NVIDIA is expanding its line of consumer products by two. The original NVIDIA Shield becomes "Shield Portable" and, NVIDIA says, it'll remain in feature parity with the new Shield Tablet for the foreseeable future.
+
+Of course, if you didn't snag the first Shield and the concept of a gaming tablet sounds enticing, you'll be glad to hear that it's going up for sale on July 29th in US and Canada, August 14th for Europe and other regions at some point in the fall. The base model -- 16GB of internal storage, no LTE -- costs $299, while 32GB of internal storage and LTE adds another $100. The gamepad is $60, and the cover (which you'll need if you want to use Shield Tablet as a game screen) is another $40. All that is to say that you could spend $500 in total on Shield Tablet. You probably shouldn't, but you could.
+
+

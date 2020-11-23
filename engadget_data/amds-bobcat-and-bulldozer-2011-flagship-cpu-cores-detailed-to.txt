@@ -1,0 +1,13 @@
+
+ 
+One of these days AMD is gonna have to stop talking about its Atom-killing Bobcat and Xeon-ending Bulldozer cores and finally release them. But, until that happy moment arrives in 2011 (fingers crossed), we'll have to content ourselves with more presentation slides. First up, the Bobcat core is AMD's long overdue play for the netbook/ultrathin market. Pitched as having 90 percent of the performance of current-gen, K8-based mainstream chips, AMD's new mobility core will require "less than half the area and a fraction of the power" of its predecessors. That sounds like just the recipe to make the company relevant in laptop purchasing decisions again, while a touted ability for the core to run on less than one watt of power (by lowering operating frequencies and voltages, and therefore performance) could see it appear in even smaller form factors, such as MIDs. The Bobcat's now all set to become the centerpiece of the Ontario APU -- AMD's first Fusion chip, ahead of Llano -- which will be ramping up production late this year, in time for an early 2011 arrival.
+
+The Bulldozer also has a future in the Fusion line, but it's earliest role will be as a standalone CPU product for servers and high-end consumer markets. The crafty thing about its architecture is that every one Bulldozer module will be counted as two cores. This is because AMD has split its internal processing pipelines into two (while sharing as many internal components as possible), resulting in a sort of multicore-within-the-core arrangement. The way the company puts it, it's multithreading done right. Interlagos is the codename of the first Opteron chips to sport this new core, showing up at some point next year in a 16-core arrangement (that's 8 Bulldozers, if you're keeping score at home) and promising 50 percent better performance than the current Magny-Cours flagship. Big words, AMD. Now let's see you stick to a schedule for once.
+
+
+
+
+
+
+
+ 

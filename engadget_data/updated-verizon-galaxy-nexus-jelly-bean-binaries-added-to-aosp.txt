@@ -1,0 +1,8 @@
+
+ 
+ CDMA variants are, invariably, the redheaded stepchildren of the Nexus line. That is to say, those units nearly always trail behind their GSM counterparts where updates and official support are concerned. But it appears Google's picking up the pace, having just released the latest Android 4.1.1 Jelly Bean (JRO03H) binaries for Verizon-branded handsets three weeks after welcoming Toro devices back into AOSP. What does this mean for the average user? Not much, since there's no real way to gauge whether or not this signals an imminent carrier-sanctioned OTA rollout, although it does bode well for those prospects. But for rooted users, the new addition is a boon, as it should pave the way for devs to cook up even more stable ROMs for your flashing enjoyment. So, that's the good news. The bad? Well, if you're on the Sprint side of the LTE Nexus divide, your handset's still not invited back to the party -- indefinitely.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

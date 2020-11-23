@@ -1,0 +1,28 @@
+
+Even as President Obama proposes a review of NSA procedures and oversight, the organization published a seven page document laying out in broad terms what it does, how it does it and why it thinks that's OK. As Ars Technica points out, the memo claims "We do not need to sacrifice civil liberties for the sake of national security; both are integral to who we are as Americans. NSA can and will continue to conduct its operations in a manner that respects both." While many would argue those points in light of the many programs recently uncovered, the NSA has a response there also:
+
+
+
+According to figures published by a major tech provider, the Internet carries 1,826 Petabytes of information per day. In its foreign intelligence mission, NSA touches about 1.6% of that. However, of the 1.6% of the data, only 0.025% is actually selected for review. The net effect is that NSA analysts look at 0.00004% of the world's traffic in conducting their mission – that's less than one part in a million. Put another way, if a standard basketball court represented the global communications environment, NSA's total collection would be represented by an area smaller than a dime on that basketball court.
+
+
+
+Other sections go on to detail how it believes American citizen's information could be picked up, and what it does to identify and minimize that data. Particularly illuminating is the six point process (listed after the break) by which it applies Executive Order 12333, considered "the foundational authority by which NSA collects, retains, analyzes, and disseminates foreign signals intelligence information" alongside the Foreign Intelligence Service Act of 1978 (FISA). It's highly doubtful that any of these points will change your level of comfort with the policies and programs revealed or feelings about their need to change, but reading the document linked below may give some insight about how and why they were created.
+
+
+
+1. NSA identifies foreign entities (persons or organizations) that have information responsive to an identified foreign intelligence requirement. For instance, NSA works to identify individuals who may belong to a terrorist network.
+
+2. NSA develops the "network" with which that person or organization's information is shared or the command and control structure through which it flows. In other words, if NSA is tracking a specific terrorist, NSA will endeavor to determine who that person is in contact with, and who he is taking direction from.
+
+3. NSA identifies how the foreign entities communicate (radio, e-mail, telephony, etc.)
+
+4. NSA then identifies the telecommunications infrastructure used to transmit those communications.
+
+5. NSA identifies vulnerabilities in the methods of communication used to transmit them.
+
+6. NSA matches its collection to those vulnerabilities, or develops new capabilities to
+
+acquire communications of interest if needed.
+
+

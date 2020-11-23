@@ -1,0 +1,14 @@
+
+ 
+Remember this scandalous little leak from back in June? It looks to have been validated today, as imagery of Nokia's MeeGo (or is it Symbian^4?)-powered N9 QWERTY slider has emerged over in China. As usual with these things, we can't be certain that this device is in fact part of Nokia's roadmap and not just another creative hardware emulation, but it sure seems to have our old buddy Eldar Murtazin convinced. Seeing it with clear N9 branding, we can now say that the previously unknown Nokia slider was more likely the N8-01, a keyboard-equipped version of the (still) upcoming N8. The source of this N9 leak reports that it's not in its final retail shape, as it doesn't match up to "the latest drawings," but is apparently planned for a release in the 48th week (i.e. beginning of December) of this year. The prototype, built in Finland, is said to have an entirely metallic construction (more aluminum would be our guess), with only the keyboard buttons, USB cover, and a few decorative parts being plastic. See more of it, including a thorough teardown, in the gallery below.
+
+Update: A friendly mole of ours ran this handset's serial number through an internal Nokia system and has confirmed it as a Nokia prototype. He was also able to uncover an RM-680 product type classification (further distancing this from the RM-626 slider) and a 0595571 product code. Add those to the "Prototype Build B2" and "Property of Nokia" labeling inside the phone's battery compartment, and you've got yourself a very strong candidate for the real deal here.
+
+Update 2: A closer look at the display reveals that this is running something that bears a heavy resemblance to the MeeGo screens we've seen so far -- and if you run the product code through Google, you see some Maemo 6-related bug tracking results, which of course has since become MeeGo. Good stuff, eh? Thanks, Sockatume!
+
+
+
+
+
+
+ 

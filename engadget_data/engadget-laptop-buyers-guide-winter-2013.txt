@@ -1,0 +1,180 @@
+
+ 
+ Here's a fun fact: in the three months since Windows 8 went on sale, Engadget has reviewed 16 laptops, including a few hybrid form factors. Yep, that's right: more than one a week for the past 12 weeks, and that's not even counting a couple tablets running Windows RT. So, now that we've given over our collective social lives to writing about Win 8, we finally feel qualified to make a few recommendations. Here, in our first-ever laptop buyer's guide, we'll walk you through the most promising of the bunch -- everything from convertibles to laptop / tablet mashups. Indeed, we've got lots of touch-enabled systems ahead (including nods to models that didn't make the cut), but if you're simply in the market for a good, old-fashioned notebook, we have a few of those to recommend, too. So without further ado, join us.
+ Note: With regard to the Windows PCs we highlight here, we'll be focusing on machines that run full Windows 8, specifically. For recommendations of ARM-based tablets running Windows RT you can look to our tablet buyer's guide.
+
+
+ TOUCH-ENABLED MACHINES Hybrids 
+ Sure, it's fine if one company comes out with a dockable tablet and we refer to it as a "laptop / tablet" mashup, but that clunky phrase becomes a mouthful when we have to repeat it 20 times for each new product we see. It doesn't help that while there are many PCs combining the best of tablets and laptops, they're incredibly varied in design: we've seen models with slide-out keyboards, and others with rotating, foldable screens. They can't all be called hybrids, right? So, for the sake of clarity (and brevity) let's agree that when we say "hybrid" we're talking about those products with the detachable keyboard docks -- you know, the ones that actually do double duty as a laptop and a slim, standalone tablet.
+
+ And boy, are they ubiquitous. Making a hybrid tablet has become a rite of passage for OEMs entering the Windows 8 era. Nearly every PC maker has announced one (albeit, with some of them running Windows RT), and those that haven't -- well, we expect they'll jump on the bandwagon eventually, as they did with netbooks.
+
+ Acer Iconia W700 
+ With the Surface Pro not out just yet, we can only really think of one laptop / tablet hybrid that runs a full-fledged notebook-grade processor inside. That would be the Acer Iconia W700, which was designed primarily for business users who expect to shuttle their PC between home and the office. Rather than a keyboard dock, the W700 comes with a stand that allows you to prop up the tablet in either portrait or landscape mode. Unlike other products we've seen, the cradle here has no built-in battery or keyboard; just three additional USB 3.0 ports to complement the one on the tablet itself. When you're in the mood to travel, the included case doubles as a stand. The tablet also comes with a Bluetooth keyboard, but no mouse. As we said in our review, a keyboard dock with a built-in battery would have been more versatile, as it would have allowed people to use it on the go without packing so many pieces (i.e., a separate keyboard and mouse). So long as you can accept this mild inconvenience, though, the W700 is a fine specimen: well-built with fast performance and surprisingly long battery life, especially given that 1080p touchscreen.
+
+ The bottom line: The W700 is a fast performer and also one of the few Windows 8 devices to offer long battery life.
+
+ Key specs: 1.7GHz Intel Core i5-3317U CPU, 4GB of RAM, 64 to 128GB of internal storage, Intel HD Graphics 4000, 11.6-inch (1,920 x 1,080) display.
+
+ Price: $800 and up
+
+ Acer Iconia W510 
+ We didn't initially expect to like the W510: though the tablet itself is well-made, it comes with a cramped, cheap-feeling keyboard dock. Factor in some poky I/O speeds and it starts to seem like the netbook era is upon us all over again. In the end, though, two important things make it worth mention anyway. For one, the battery life is fantastic -- eight hours with the tablet, and 14 when you add in the keyboard dock. That's better than pricier hybrids we've seen, like the $850 HP Envy x2. Which brings us to another point: with a starting price of $550 in the US, the W510 is the least expensive Windows 8 hybrid we know of. That doesn't totally excuse its shortcomings, but if it's a choice between this and a more expensive model with an equally cramped keyboard and shorter battery life, you know which one we're going to recommend. The W510 isn't perfect, but it's a solid option for people who want a full Windows 8 machine on the cheap.
+
+ The bottom line: Among the least expensive devices running full Windows 8, with best-in-class battery life to boot.
+
+ Key specs: 1.5GHz Intel Atom Z2760 CPU, 2GB of RAM, 32 to 64GB of internal storage, Intel Graphics Media Accelerator, 10.1-inch (1,366 x 768) display.
+
+ Price: $550 and up
+
+ Lenovo ThinkPad Tablet 2 
+ The ThinkPad Tablet 2 is something you can buy now, band that we've just begun reviewing (stay tuned for our full write-up!). So far, we can verify that Lenovo's claim of 10-hour battery life is right on the money. Also, the Bluetooth keyboard is one of the most comfortable we've used on a hybrid device -- it's reason enough for us to recommend this over everything else. What's more, this is one of very few Atom-powered tablets that also supports pen input -- in fact, a pressure-sensitive pen comes in the box. Lastly, the tablet's NFC connectivity and built-in 3G / 4G radio are nice extras -- particularly in the US, where it supports LTE. If pen input isn't a necessity, you might also like Lenovo's 11-inch IdeaPad Lynx tablet, which also runs an Atom processor and has a comfy-looking keyboard dock, but costs $30 less.
+
+ The bottom line: One of the few inexpensive, Atom-powered Windows 8 tablets that supports pen input.
+
+ Key specs: 1.5GHz Intel Atom Z2760 CPU, 2GB of RAM, 64GB of internal storage, Intel Graphics Media Accelerator, 10.1-inch (1,366 x 768) display.
+
+ Price: $679 and up
+
+ Convertibles It used to be that "convertible" only meant one thing: a laptop whose display could swivel around and fold down into tablet mode, at which point you could interact with it using either your fingers or a pen. While that form factor has hardly disappeared, the word convertible is now more of an umbrella term than anything else, a category encompassing all sorts of miscellaneous form factors -- everything from sliders to dual-screened notebooks. Suffice to say, though, not all of these designs are created equal. Though we made an effort to pick three items for each category, we only named two for convertibles. That's because we couldn't think of any more that we'd actually recommend. Sliders tend to offer a compromised typing experience, we find, and we've had a disappointing experience with other contenders, like the ASUS TAICHI (full review coming soon). We expect (or hope) to have more options by the time we publish our spring buyer's guide, but for now, here are the two best machines you can buy right now.
+
+ Lenovo IdeaPad Yoga 13 
+ The Yoga 13 was the first Windows 8 convertible to debut and as it happens, it remains one of the best. Sure, it's imperfect (the five-and-half-hour battery life is a bit of a letdown) but on the whole it wins high marks for its light design and comfortable typing experience. More than any of that, though, it's that versatile form factor that makes it such a standout. Thanks to a sturdy hinge, you can fold the screen all the way back into tablet mode. If you like, you can also stop it halfway so that the keyboard is flat against the table (Stand Mode) or so that the laptop is resting in Downward Dog position (Tent Mode). All that adds up to one versatile product with very few compromises (such as the keys, which stay exposed in tablet mode, but Lenovo is at least selling sleeves to cover them up). We hope the firm is already hard at work on a second-gen model with a bigger battery and maybe even a 1080p screen. Even as is, though, the Yoga 13 is one of the most memorable Windows 8 machines we've seen so far.
+
+ The bottom line: A one-of-a-kind form factor and comfortable keyboard make this the most memorable Windows 8 convertible we've tested.
+
+ Key specs: Up to a 2GHz Intel Core i7-3537U CPU, 4GB to 8GB of RAM, 128 to 256GB of internal storage, Intel HD Graphics 4000, 13.3-inch (1,600 x 900) display.
+
+ Price: $999 and up.
+
+ Dell XPS 12 
+ It's always a tough call, deciding whether to recommend the Yoga 13 over the Dell XPS 12, or vice versa. Ultimately, the Yoga 13 has a more versatile design but even so, the XPS 12 is one the most well-rounded Ultrabooks we've tested recently. When you're not using this as a regular touchscreen laptop, you can flip the display in its hinge so that the laptop transforms into a 12-inch tablet. As it happens, we find this a little too bulky to hold up as a tablet (ditto for most of these machines, frankly), but that doesn't really matter. Even if you never pop the screen out of its hinge, this is a fantastic touchscreen Ultrabook in its own right, with a comfortable, backlit keyboard, lovely 1,920 x 1,080 display and fast performance.
+
+ The bottom line: Even if you rarely use it in tablet mode, the XPS 12 is an excellent Ultrabook in its own right, thanks to a comfortable keyboard, crisp display and sophisticated design.
+
+ Key specs: Up to a 1.9GHz Intel Core i7-3517U CPU, 4GB to 8GB of RAM, 128 or 256GB of internal storage, Intel HD Graphics 4000, 12.5-inch (1,920 x 1,080) display.
+
+ Price: $1,200 and up
+
+ Notebooks with touchscreens Behold: the safest way for PC makers to experiment with touch. Other than hybrids, which are already pretty gosh-darn ubiquitous, this is the Windows 8 form factor you're most likely to see on store shelves. And it makes sense, right? PC makers aren't yet sure whether consumers will prefer sliders, hybrids or convertibles, but it's easy enough to just slap a touchscreen on an older laptop and call it Windows 8-ready. While a few models (the Acer Aspire S7 and Toshiba Satellite P945t) were created with Win 8 in mind, most of the available options (the Sony VAIO T13, HP Envy 15 TouchSmart, Samsung Series 5 Ultra Touch, etc.) are remixes of earlier models, with touch sometimes offered as just an upgrade option.
+
+ Acer Aspire S7 
+ Our review headline says it all: "Great Ultrabook, shame about the battery life." As disappointing as the four-hour battery is, we can't help but come back to the Aspire S7. After all, if it weren't for the skimpy runtime, Acer would have had a massive hit on its hands. The S7 is thin and lightweight, yet solidly built, with a mix of cold metals and smooth Gorilla Glass. (Note: only the 13-inch version has a glass lid; the 11-incher is made entirely of metal.) The 1080p IPS display is one of the finest we've seen on any notebook -- not just because of the pixel density, but also because of the vibrant colors and wide viewing angles. The performance simply screams, too, thanks to a RAID 0 SSD setup. All in all, the S7 is one of our favorites, though naturally we're already dreaming of a second-gen model with a little more endurance.
+
+ The bottom line: Between the design, speed and display quality, this is one of the best Ultrabooks we've ever seen. Just don't ever forget to pack the charger.
+
+ Key specs: 11-inch: 1.7GHz Intel Core i5-3317U CPU, 4GB of RAM, 128GB of internal storage, Intel HD Graphics 4000, 11.6-inch (1,920 x 1,080 display); 13-inch: 1.7GHz Intel Core i5-3317U or 2GHz Core i7-3537U CPU, 4GB of RAM, 128 to 256GB of internal storage, Intel HD Graphics 4000, 13.3-inch (1,920 x 1,080 display).
+
+ Price: $1,199 and up (11-inch) / $1,399 and up (13-inch)
+
+ ASUS Zenbook Prime UX31A Touch 
+ Back in the days when Ultrabooks didn't have touchscreens, the ASUS Zenbook Prime UX31A was one of our favorites -- second only, perhaps, to the Samsung Series 9. In particular, we've been fans of the 1,920 x 1,080 IPS screen and futuristic design but now, ASUS has updated the trackpad too so that it works more reliably. All of that's true of the touch model too except, you know, it has a touchscreen to help you make the most of Windows 8. Our only real complaint is about the battery life, which, to be fair, has been mediocre on most of these early Windows 8 systems.
+
+ The bottom line: It's the same Zenbook Prime Ultrabook we already loved, except now it has a touchscreen and a much-improved trackpad. What's not to like?
+
+ Key specs: Up to a 1.9GHz Intel Core i7-3517U CPU, 4GB of RAM, 128 or 256GB of internal storage, Intel HD Graphics 4000, 13.3-inch (1,920 x 1,080) display.
+
+ Price: $1,099 and up
+
+ Lenovo ThinkPad X1 Carbon Touch 
+ The ThinkPad X1 Carbon Touch is another example of a standout Ultrabook getting upgraded with touch. From the beginning, we liked the original X1 Carbon on account of its slim shape -- it's notably compact for a 14-inch machine, and it manages to be both thinner and lighter than the 13-inch ThinkPad X1 that came before it. And then, of course, there's the ThinkPad keyboard, which is admittedly different than the old one ThinkPad fans are used to, but is nonetheless an improvement over what you'll find on other ultraportables. Our main caveats are these: the 1,600 x 900 display could benefit from wider viewing angles. Also, the starting price is high for a touchscreen laptop with these specs -- it's not even like it has a three-year warranty to help justify the cost. If user experience counts for something, though -- and we think it should -- the X1 Carbon Touch deserves to be on your shortlist.
+
+ The bottom line: One of our favorite Ultrabooks gets a touchscreen.
+
+ Key specs: Up to a 2GHz Intel Core i7-3667U CPU, 4GB to 8GB of RAM, 128GB of internal storage, Intel HD Graphics 4000, 14-inch (1,600 x 900) display.
+
+ Price: $1,499 and up
+
+ NON-TOUCH MACHINES There's no getting around the idea that Windows 8 was built for touch. But that doesn't mean you need a touchscreen, per se: after all, most Win 8 machines coming out today have updated trackpad drivers that allow you to make the same gestures you would on a touchscreen (think: swiping in from the right to reveal the Charms bar). Meanwhile, touch panels bump up the cost of a machine, and add to the thickness and weight as well. From what we've seen, too, they invariably have an adverse effect on battery life. And hey, wiping fingerprints off your touchscreen can quickly get tedious. So, while we're all about touch-friendly machines, we can think of several valid reasons why you might want to sit that trend out.
+
+ Ultraportables 
+ We expect this section is going to become increasingly smaller, if not irrelevant, as touchscreens will be a requirement for Windows Ultrabooks packing Intel's fourth-generation Core processors. For now, though, here's a selection of lightweight machines whose screens were intended to remain fingerprint-free.
+
+ 
+ MacBook Air We're not going to lie: you might want to wait for an update at this point. The MacBook Air could use a higher-res screen (the current resolution is 1,440 x 900 on the 13-inch model), and we think it might get one in the next refresh, which we expect to land sometime in the early summer. All the same, we have no complaints about the unibody aluminum design, the smooth glass trackpad or the comfortable keyboard -- in fact, we'd go so far as to say the Air still has one of the best keyboard-and-touchpad combos of any laptop. It's also fast and offers some of the longest battery life we've seen on an Ultrabook, though its endurance could become even more impressive with Intel's forthcoming Haswell chips. As is, it's one of the most well-rounded ultraportables we've tested, but make sure you're okay with the current specs if you decide to buy it now.
+
+ The bottom line: Though its competitors have caught up in some areas (namely, display quality), the MacBook Air remains the best all-around ultraportable you can buy right now.
+
+ Key specs: Up to a 2GHz Core i7 CPU (select models), 4GB to 8GB of RAM, 64 to 512GB of internal storage, Intel HD Graphics 4000, 11.6-inch (1,366 x 768) or 13.3-inch (1,440 x 900) display.
+
+ Price: $999 (11-inch) / $1,199 (13-inch)
+
+ 
+ Samsung Series 9 This, too, is getting a bit long in the tooth, but doesn't it say something that we're still in love with it a solid year after its release? We've long been enamored with the Series 9's design -- particularly the 15-incher, which at 0.58 inch thick is the skinniest notebook we know of in that size range. As it happens, the Series 9 might be due for a redesign, but we noticed Samsung just showed it off in a new color at CES, which makes us think it might be sticking with that ID for a while yet. Beyond looks, it has a bright, matte, 1,600 x 900 display, a whisper-quiet, backlit keyboard and all-around fast performance. Battery life is long on both the 13- and 15-inch models but again, as with the MacBook Air, you can probably expect even longer runtime if this gets refreshed with Haswell.
+
+ The bottom line: Unless you want a touchscreen (or are a gamer), this will invariably be the Windows laptop we recommend you buy.
+
+ Key specs: 13-inch: 1.7 GHz Intel Core i5-3317U, 4GB of RAM, 128GB of internal storage, Intel HD Graphics 4000; 13.3-inch (1,600 x 900) display; 15-inch: up to a 1.9GHz Intel Core i7-3517U, 8GB of RAM, 128 or 256GB of internal storage, Intel HD Graphics 4000, 15-inch (1,600 x 900) display.
+
+ Price: $1,300 (13-inch) / $1,500 (15-inch)
+
+ Acer Timeline Ultra M5 
+ The Aspire M5 was hardly the most upscale notebook we tested in 2012, but it offers some of the best performance for its price class. As one of the first machines to pack a GPU from NVIDIA's Kepler family, it remains one of the only Ultrabooks available with discrete graphics. At 0.81 inch thick and 4.3 pounds, it's fairly compact for a 14-inch machine, especially considering it makes room for a tray-loading optical drive. Display snobs won't appreciate the 1,366 x 768 resolution (or the typical Acer build quality, for that matter), but we do like how narrow the bezels are. Those quibbles aside, we think you'll enjoy this if you're looking for a lightweight machine that's reasonably priced and also a little more performance-oriented.
+
+ The bottom line: One of very few Ultrabooks with graphics good enough for gaming. And it's inexpensive, too!
+
+ Key specs: 1.7GHz Intel Core i5-3317U CPU, 6GB of RAM, 500GB of internal storage (with a 20GB SSD), Intel HD Graphics 4000 or NVIDIA GeForce GT640M LE (1GB), 14- or 15.6-inch (1,366 x 768) display.
+
+ Price: $700 and up
+
+ Performance powerhouses 
+ If you've read any of our laptop reviews, you know we deal mostly in the high-end (with a little mid-range thrown in too), so while we'd be hard-pressed to recommend the best budget notebook, we've got some strong opinions about which flagship to buy. Those include lots of ultraportables, of course, but barring those, there are also lots of performance-heavy machines that are just a bit too big or maybe too beastly to be classified as Ultrabooks. Here are our favorites.
+
+ 
+ Apple MacBook Pro with Retina display We're not saying it's a practical choice, but damn if that Retina display isn't the most gorgeous laptop screen on the market right now. Though it's also available with a 13-inch (2,560 x 1,600) display, we prefer the 2,880 x 1,800 15-inch model, if only because of the configuration possibilities. Here, quad-core processors come standard, as does 256GB of storage. A higher-end model comes with a 512GB drive and you can even custom-order it with 768 gigs. The 15-inch model also has switchable graphics, with a 1GB NVIDIA GeForce GT 650M GPU on the discrete side. The 13-inch version is lovely too, but with dual-core processors, integrated Intel HD Graphics 4000 and storage options starting at 128GB to 256GB, it's sort of like an expensive Ultrabook, just heavier with a nicer display. Then again, as nice as the 15-incher is, we still might not have sold you, just given how pricey it is and how few programs were optimized for that screen resolution. If money actually is an object, you might be almost as happy with a regular (read: non-Retina) MacBook Pro. Those start at $1,199.
+
+ The bottom line: It's the laptop we'd recommend to people who have all the money in the world (and who don't need a touchscreen or have already ruled out Windows machines).
+
+ Key specs: 13-inch: Up to a 2.9GHz dual-core Core i7 processor, 8GB of RAM, 128 to 768GB of internal storage, Intel HD Graphics 4000, 13.3-inch (2,560 x 1,600) display; 15-inch: Up to a 2.7GHz quad-core Core i7 CPU, 8GB or 16GB of RAM, 256 to 768GB of internal storage, Intel HD Graphics 4000 and NVIDIA GeForce GT 650M (1GB), 15.4-inch (2,880 x 1,800) display.
+
+ Price: $1,699 (13-inch) / $2,199 (15-inch)
+
+ 
+ Dell XPS 15 At some point, Dell's XPS 15 mainstream laptop got remodeled to look like the XPS 13 and 14 Ultrabooks. And that's a good thing: we've always enjoyed their comfortable keyboards and their premium design, which mixes sturdy metals and soft-touch finishes. One thing hasn't changed, though: this is still a fairly big-screen laptop with an emphasis on robust performance. In fact, short of upgrading to an Alienware gaming rig, you probably won't find a more powerful system in Dell's lineup. Highlights include an optional quad-core i7 processor, up to 16GB of RAM and your choice of NVIDIA GPU, with up to 2GB of video memory. Whichever configuration you choose, though, it comes standard with a 1080p display.
+
+ The bottom line: A well-designed, well-performing mainstream laptop with lots of configuration options.
+
+ Key specs: Up to a 2.2GHz Intel Core i7-3632QM CPU, 6GB to 16GB of RAM, 500GB to 1TB of internal storage or up to a 512GB SSD, NVIDIA GeForce GT 630M (1GB) or 640M (2GB), 15-inch (1,920 x 1,080) display.
+
+ Price: $1,300 and up
+
+ 
+ Samsung Series 7 Chronos Before we get too far ahead of ourselves, Samsung only just announced the machine, and hasn't yet said when this will be available or how much it will cost. What we do know is that we were pretty fond of last year's Series 7 Chronos lineup, so this new model looks quite tempting, to say the least. Though the last crop of Chronos machines was available with 14-, 15- and 17-inch screens, the 2013 Chronos has so far been announced with a 15-inch display only -- a 300-nit, 1080p display, to be exact. It's been slimmed down considerably -- so much so that it no longer has an optical drive (yep, similar approach as with the Retina display MBP). On the inside, it packs AMD's new Radeon HD 8870M GPU and RAMaccelerator technology that claims to increase browsing and general application speeds by up to 150 percent. So far as we know, too, there's only one configuration headed to the US at this time, and that includes a 2.4GHz Intel Core i7 3635QM CPU, 16GB of RAM, 1TB of storage, a backlit keyboard, JBL speakers and a battery capable of lasting 11 hours on a charge (supposedly, at least). Sounds promising to us. Now we just need a price.
+
+ The bottom line: One of the best performance laptops of 2012 gets made over with a slimmed-down design and top-of-the-line AMD graphics.
+
+ Key specs: 2.4GHz Intel Core i7 3635QM CPU, 16GB of RAM, 1TB of internal storage, AMD Radeon HD 8870M, 15-inch (1,920 x 1,080) display.
+
+ Price: TBA
+
+ Gaming systems 
+ We know what you're going to say, dear readers: gaming laptops are overpriced, and it's better to just build your own desktop anyway. We don't necessarily disagree. If, however, you don't mind paying a premium, they're a good way to enjoy still-playable frame rates, even while on the go. Given that on-the-go gaming is the major selling point, we'll shy away from talking up heavier systems like the MSI GT70, Alienware M17x or Samsung Series 7 Gamer -- they're all capable machines, but at nine pounds, give or take, they're mostly portable in name only.
+
+ 
+ Razer Blade The Razer Blade is fast, powerful and impossibly thin for a 17-inch laptop (just 0.88 inch thick and 6.6 pounds). It's also absurdly expensive, with the newest version starting at $2,500 (the last-gen model can be had for a bargain price of two grand). So, clearly, you're not getting the best bang for your buck here, but if you insist on a lightweight form factor and strong performance and can only really compromise on price, this could be the thing for you. As ever, its touchpad doubles as a secondary LCD, which you can customize to do things like launch apps and switch profiles. We actually find that so-called Switchblade UI intriguing, but it admittedly needs work, and we wouldn't describe it as a top selling point anyway.
+
+ The bottom line: Though it hardly offers the most power for your dollar, the Blade is shockingly robust for a machine this thin and light. It's a stunning laptop, but one best reserved for those without a budget.
+
+ Key specs: 2.2GHz Core i7 processor, 8GB of RAM, 500GB of internal storage (with a 64GB SSD), NVIDIA GeForce 660M (2GB), 17.3-inch (1,920 x 1,080) display.
+
+ Price: $2,000 and up (2011 model) / $2,500 and up (2012 model)
+
+ 
+ Dell Alienware M14x Dell may have killed off the M11x, but it mercifully spared the 14-inch M14x currently the smallest, lightest system in the Alienware line. At $1,000 and up it's more reasonably priced than the Blade but then again, it starts with a dual-core Core i5 processor, 1,366 x 768 screen and no ExpressCache to help lift the hard drive performance. If you need a little more oomph, the 17-inch M17x is one of our favorite gaming laptops, and at it starts at a more reasonable $1,499. Again, the only reason we didn't pick it as one of our three picks, per se, is that with a starting weight of 11.68 pounds, it's hardly a mobile product.
+
+ The bottom line: Gamers can't really go wrong with an Alienware laptop, and while we'd recommend anything in the lineup, we have a soft spot for the most portable of the bunch, the 14-inch M14x.
+
+ Key specs: Up to a 2.8GHz Intel Core i7-3840QM CPU, 6GB to 16GB of RAM, 500GB to 1TB of internal storage (with an optional 64GB SSD) or up to a 512GB SSD, NVIDIA GeForce GT 650M (1GB or 2GB), 14-inch display (up to 1,600 x 900 resolution)
+
+ Price: $999 and up
+
+ 
+ Clevo W110ER As the spiritual successor to the discontinued M11x, the Clevo W110ER is an 11-inch machine that you'll find rebadged under different brand names, including Maingear and Origin. What's interesting is that although it's more netbook-sized than laptop-sized, it matches the M14x on most specs, with switchable graphics (a 2GB GeForce GT 650M GPU) and up to a quad-core 2.8GHz Core i7-3840QM CPU. It's also capable of supporting up to 16GB of RAM and a 2.5-inch hard drive (the storage capacity varies depending on the OEM you buy it from). Sadly, though, the display resolution is fixed at 1,366 x 768. A definite shame for a machine that generally starts around $1,000.
+
+ The bottom line: A laptop that looks like a netbook but performs like a low-end gaming rig. If you just wanted to do some fragging on the go, you might consider this as a secondary gaming machine.
+
+ Key specs: Specs vary by OEM.
+
+ Price: $938 from Origin PC (price varies by OEM)
+
+

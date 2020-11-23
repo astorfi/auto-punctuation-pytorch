@@ -1,0 +1,5 @@
+
+ Most of you didn't bite on the last Mac Pro rumor from Think Secret. New Power Mac case design, sure, but the idea of them sporting Intel's Core 2 Duo (aka, Conroe) procs just didn't fly what with Intel's more flexible 64-bit Xeon (Woodcrest) chip already loosed. No sweat, enter AppleInsider whose sources claim that Intel's dual-core Xeon series processors will power those new Mac Pro desktops (and Xserves, too) which would finally give Mr. Jobs access to that elusive 3.0GHz marker, the current top-o-the-line Xeon clock speed. See, Xeon chips feature the Land Grid Array (LGA) 771 socket which allows for the multiple processor configs we've come to expect from Apple's professional desktops. According to AI, we can expect a dual-processor Xeon Mac Pro at the top-end when launched. Of course, both rumor sites could be right -- a single, high-end Core 2 Duo offered in the entry level Mac Pro with a quad-core Xeon config topping things off. Either way, they agree it's all going down at Apple's WWDC, so we'll know soon enough.
+      
+
+ 

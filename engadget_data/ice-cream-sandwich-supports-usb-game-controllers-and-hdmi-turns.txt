@@ -1,0 +1,10 @@
+
+ 
+
+Take that, Xperia Play. USB gamepads are already supported in Honeycomb, so we had plenty of hope that Android 4.0 -- also lovingly referred to as Ice Cream Sandwich -- would offer the same functionality. We finally have the answer, and it's a resounding yes, courtesy of Google framework engineer Romain Guy's Twitter account. The cool part, though, is that HDMI's playing nice as well. In short, you could hook up an external gamepad to a USB-to-microUSB adapter on the Samsung Galaxy Nexus, connect it to your TV and transform your handset into a fancy portable gaming console. It's definitely something we can see developers flock towards, and we'll expect some cool stuff to come out of it. Just in case you thought the Nexus wouldn't let you get anything else done around the house already, this pretty much seals the deal. Move below the break to see a screenshot from the SDK.
+      
+
+ 
+
+  
+ 

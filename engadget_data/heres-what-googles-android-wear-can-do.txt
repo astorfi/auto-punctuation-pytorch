@@ -1,0 +1,20 @@
+
+
+Google says that we glance at our smartphones 125 times per day, but it wants Android Wear devices to take on much of that burden. During an I/O 2014 demo, it showed how smartwatches like LG's G Watch -- paired with Android 4.3 or higher phones -- will display the most important info to you at any given time. That includes flights, the weather, your commute, appointments, reminders, Keep notes and messages. Since all Wear devices will have touchscreens, you can swipe up on the watch face, Google Now-style, to see more cards. Swiping sideways will then bring up additional info from a given card. Disposing of a card on the watch makes it disappear on your handset too.
+
+
+You've also got voice commands, activated by -- you guessed it -- "Okay, Google." You can use it to set a reminder or take voice notes that are automatically saved to Google Keep. You can also pose questions to the watch and get the answer in card form on both your wearable and phone screen. Swiping down from the top of the screen mutes or unmutes the sound on your watch and lets you peek at settings like the battery life.
+                 
+
+You can also control music with touch or voice controls, (which will turn the song's album art into your watch's background screen, by the way). It'll also function as a sports band by measuring the steps you've taken and your heart rate on supported devices. Google will give you daily summaries of those stats, which will also be fully available to developers via API functions.
+
+All of that comes with stock Android Wear, but developers will get access to all those features too. For instance, any phone notification from say, Twitter or Facebook, will also be available on your wrist, along with voice replies and notification pages as we saw in an earlier preview. Another sample third-party app flaunted by Mountain View was Pinterest, which will notify you when you're near a pal's location, letting you swipe to see a map and step-by-step directions. All that's powered by Google Maps, which, of course, is baked into Android Wear.
+
+
+Google showed off a few other third-party demos by ordering a pizza from the Moto 360 in about 20 seconds using takeout/delivery app Eat24 and displaying a step-by-step recipe on its watch face from Allthecooks. It also used voice recognition to order a car with the upcoming Lyft wearable app. (Mountain View noted in an aside that all Android Wear devices will be water-resistant.) Other apps shown off by Google were the music sharing service Soundlink and PayPal.
+
+Google saved the best news for last: LG's G Watch is available to pre-order on the Play store today and Samsung's newly announced watch, the Gear Live, will also be up for pre-order on Google's store today for $200. (Neither appears to be on Play just yet, though.) The much-anticipated, round-faced Moto 360, however, won't be coming until later this summer. The Android Wear SDK is also available for developers with most of the API features included.
+
+For more, check out Google's new Android Wear page and our I/O 2014 event hub right here.
+
+

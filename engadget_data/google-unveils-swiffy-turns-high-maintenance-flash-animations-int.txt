@@ -1,0 +1,7 @@
+
+ 
+
+Still hanging on to those sweet site loaders hoping they'd be of use again someday? Perhaps the time has come -- for some ads and animations, that is. Google Labs has cooked up Swiffy, which takes an antediluvian SWF file and creates an HTML5 version that will run in most current browsers (Chrome and Safari, for example). The converted file is pretty close in size to the original; however, the company warns that the project is fresh out of the oven, so it won't convert your entire Flash library just yet. Even still, software that makes existing animations useful without starting from scratch? Sign us up! Check out the source link for the FAQs and some of Swiffy's handiwork, then test drive this bad boy yourself.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+In the wake of recent NSA leaks, Microsoft's taking the tech road less traveled and committing to protecting foreign users' data by storing it overseas. The controversial move, as reported by the Financial Times, would place that data out of the NSA's legal reach by moving it off US soil and under the protection of local laws. It also pits Microsoft against a bevy of the US internet companies, like Google, which have staunchly opposed any such requirement for offshore data-hosting, citing concerns such as increased costs for that build-out.
+
+
+There's also the possibility that such policies, if adopted or enforced by countries like Brazil, would cut off foreign citizens from the use of American online services should those companies choose not to comply. For Microsoft's part, the company deems the decision a necessary one to reinstall faith in the quality and security of its services. Brad Smith, the company's general counsel, told the Financial Times that despite the inherent costs in moving hosted data offshore, Microsoft believes this to be the right course of action to restore the trust of foreign users. He went on to say, "People should have the ability ... to make an informed choice of where their data resides." Smith is even advocating for a joint US-EU agreement that would put an end to the abuse of tech companies' data for the purposes of foreign espionage.
+
+

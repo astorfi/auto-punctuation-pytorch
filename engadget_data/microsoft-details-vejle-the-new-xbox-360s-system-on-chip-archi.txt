@@ -1,0 +1,6 @@
+
+ 
+There aren't many unresolved mysteries with Microsoft's new console by this point -- apart from perhaps why it wasn't named the Stealthbox, like we were suggesting -- but one thing that hasn't been covered in excruciating detail yet is the new 360's splicing of the CPU and GPU into the same chip. Microsoft has remedied that today, informing us that the 45nm system-on-chip (codenamed Vejle; sorry, Valhalla fans) inside the refreshed Xbox makes do with a relatively minimal 372 million transistors, requiring only 40 percent of the power and less than 50 percent of the die space of its 2005 ancestor. A somewhat bemusing addition, noted by Ars, is the FSB Replacement sector you see in the image above. It's designed to induce lag in the system so that the Vejle chip doesn't run faster than the old stuff, something Microsoft couldn't allow to happen. Facepalm away, good people, facepalm away.
+      
+
+ 

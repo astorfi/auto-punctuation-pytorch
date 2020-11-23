@@ -1,0 +1,4 @@
+
+ Netflix just refreshed the front end of its Android app a few weeks ago, and is now tweaking the look and functions of the player itself again after previously making changes back in April. As seen above, version 2.1 brings a look that's closer to the one we've seen on iOS since the spring, with large red buttons, a bigger volume slider, 10 second skip back and stills that change in the background as the user moves the scrub bar. The changelog also notes added support for Android 4.2 plus other unspecified playback and stability bug fixes, grab the newest edition at the source link to try it out for yourself.
+
+

@@ -1,0 +1,9 @@
+
+ 
+We've already seen plenty of glasses-free 3D HDTVs and portable devices, but a promising new technology called HR3D (High-Rank 3D) has hit the prototype phase. Engineers from MIT's Media Lab, who developed the new solution, say that it avoids compromising on screen brightness, resolution, viewing angle, and battery life, and doesn't require those pesky (and pricey) 3D glasses. HR3D uses a pair of layered LCDs to give the illusion of depth, with the top layer (or mask) displaying a variable pattern based on the image below it, so each eye sees a slightly different picture. Nintendo's 3DS uses a similar technique, but with a parallax barrier instead of a second display. The designers constructed the prototype from two Viewsonic VX2265wm displays, removing the LCDs from their housings and pulling off polarizing filters and films. We've yet to go eyes-on with HR3D, so we're a mite skeptical, but tech this promising is worth watching closely, and from every angle.
+      
+
+ 
+
+
+ 

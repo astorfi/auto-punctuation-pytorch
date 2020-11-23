@@ -1,0 +1,9 @@
+
+ 
+One awfully clever Brazilian programmer couldn't stand not being able to experience the sometimes-maddening act of typing on the iPhone's notorious keyboard -- so he wrote an iPhone keyboard app for his Nokia N800. In what appears to have been a fairly short amount of time, Gustavo Sverzut Barbieri put together an Apple-copyin', typepad act-alike using Python, Edje, and a little elbow grease. Without ever actually using an iPhone, Gustavo seems to have clearly captured the essence of the keyboard, which is either really good or really bad for him... only he knows for sure. Check the video after the break to see the app in action.[Via jkOnTheRun]
+      
+
+ 
+
+
+ 

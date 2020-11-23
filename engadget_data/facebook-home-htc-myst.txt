@@ -1,0 +1,7 @@
+
+ 
+ Facebook already told us all that it'd be announcing something new and Android-related at an event on April 4th. Android Police has just given us a new heaping helping of evidence, via an APK teardown, that the social network will, at long last, announce an oft-rumored, never revealed Facebook phone and a FB-themed version of Google's mobile OS. The ROM reveals that it's built for an AT&T-compatible HTC Myst handset with a 4.3 inch display, 1GB of RAM and a dual-core MSM8960 SoC. There's also a 5-megapixel rear camera, 1.6-megapixel front shooter, Bluetooth 4.0 and WiFi a/b/g/n radios, which confirms earlier spec leaks about the phone.
+
+ As for software, it runs Android 4.1.2 and Sense 4.5, and most importantly, a new Facebook program called Facebook Home. As you might expect, it'll serve as the phone's home screen and launcher. To that end, it has more system controls than the existing Facebook app, with permission to turn off the lock screen, start up when the phone boots and control your WiFi connection, among others. The APK also revealed that there's a host of circular Facebook-flavored icons and tight Facebook Messenger integration. Oh, and in case you aren't looking to buy FB-specific hardware, fear not, for the presence of TouchWiz compatibility indicates that Facebook Home will be available for other phones as well.
+
+

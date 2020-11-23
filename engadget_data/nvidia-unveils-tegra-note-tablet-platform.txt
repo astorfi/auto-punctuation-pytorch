@@ -1,0 +1,15 @@
+
+As a follow to NVIDIA's Tegra 3 reference design for tablets, the company is now unveiling a more ambitious platform known as Tegra Note that leverages the Tegra 4, supports stylus input and provides new multimedia features. Like Project Kai, tablets based on the Tegra Note platform carry a suggested retail price of $199, but pricing is ultimately up to NVIDIA's manufacturing partners and their various hardware configurations.
+
+
+If this all sounds a bit familiar to you, it should. We first saw signs of NVIDIA's new tablet platform when it appeared as the Tegra Tab at the FCC, and then again in subsequent leaks. Manufacturers can easily apply their name to the reference enclosure, which houses front-facing speakers, a 7-inch, 1,280 x 800 IPS display and a VGA webcam. Naturally, you're also getting the Tegra 4 SoC, which includes a quad-core Cortex-A15 CPU, a 72-core GeForce GPU and advanced imaging features under the Chimera architecture. Other specs will depend on manufacturers, which could include a 5-megapixel rear camera, a microSD slot, a micro-HDMI port and a built-in stylus that offers both chisel and brush tips.
+
+
+Along with the hardware reference design, NVIDIA is also including Camera Awesome from SmugMug and TegraZone in the Tegra Note platform (along with stylus-enabled apps on appropriate models), and it's even managing the Android system updates. You can expect the first of these Tegra Note tablets to hit shelves in October from the likes of EVGA, PNY and ZOTAC, along with a full line of accessories that include covers and interchangeable stylus tips.
+
+
+
+
+
+
+ 

@@ -1,0 +1,9 @@
+
+  While flying cars are still a pipe dream, other technologies are quickly transitioning from the stuff of sci-fi movies into the very tangible realm of reality. This was definitely the case at the Qualcomm booth here at Computex where we got to experience two interesting new technologies -- zero shutter lag and the ultrasonic pen. What if when you pressed the shutter button on your phone the camera captured 2 frames before, one frame during, and 2 frames after that instant? That's the idea behind Scalado's zero shutter lag and Rewind, which speed up the process of taking pictures on a phone by letting the camera continuously sample images and allowing the user to create a composite shot from the content available in up to 5 frames.Also on display was Qualcomm's ultrasonic pen that we already played with at MWC. By using an ultrasonic transducer attached to a pen and a phone with 3 microphones (like the MSM8660 Mobile Development Platform), the ultrasonic signal can be triangulated to determine the location of the pen. Once calibrated, the phone is able to accurately capture handwriting either on the screen itself or on a standard sheet of paper up to 30cm away. We noticed that accuracy and distance appear to have improved since February -- at this pace, perhaps we'll all have flying cars soon after all? Check out the gallery and hit the break for our hands-on video.
+
+
+
+
+
+ 
+ 

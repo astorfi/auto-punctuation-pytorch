@@ -1,0 +1,5 @@
+
+       We were glad to see Bluetooth low energy actually added to the Bluetooth 4.0 spec, but of course the question remained: when are we going to get our hands on it? By Q4 this year, apparently -- at least according to the Bluetooth SIG. But don't expect any dramatic changes in battery life for most of your gadgets: while the low energy spec introduces connectivity to a host of lower-power devices that have in the past relied on proprietary technology (such as watches, pedometers, and cats), your traditional Bluetooth devices, such as phones and laptops, will consume roughly the same amount of power. Indeed, the low energy spec is merely throwing smaller devices (with smaller amounts of data to transfer) in to the mix: if you want Trans-Siberian Orchestra to sound as glorious as ever on your wireless headphones, you'll need to push as much data (and hence draw as much power) with version 4 as you would with version 3. If you've ever heard "A Mad Russian's Christmas," you'd know what we're talking about.
+      
+
+ 

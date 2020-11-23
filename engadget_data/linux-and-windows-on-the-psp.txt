@@ -1,0 +1,14 @@
+
+
+Yes, it looks like one man was able to do what many could not (well, kind of): get Linux (and Windows) on the PSP.
+Ok, so it's not exactly what the crew at the PSPLinux
+project were aiming for since it's x86 emulated, but a PSP hacker by the name of Matan phoned in to let us know he
+ported Bochs (an open-source x86 emulator) to the PSP (which runs on MIPS R4000 CPUs) and successfully tested, booted,
+and ran Linux and Win95. This isn't really going to halt the PSPLinux project since they're shooting for native (not
+emulated) support though, so keep on truckin' everybody, we're almost to the promised land.
+
+
+
+   [Thanks, Matt]
+
+

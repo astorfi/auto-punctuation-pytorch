@@ -1,0 +1,6 @@
+
+ 
+Although early erroneous reports placed Apple's custom A4 chip at the leading edge of ARM-based design, things are slowly falling back to earth. First, we learned that the graphics subsystem was almost certainly the same PowerVR SGX component found in the iPhone, and now Ars Technica reports that the actual CPU is the familiar single-core Cortex A8 also found in Apple's handset. That makes the A4 seem an awful lot like an tightened-up, overclocked iPhone 3GS chip, which makes sense, seeing as it was actually in production in September of last year. So why the need for a custom part? The answer may well be efficiency and power savings: by cutting out extraneous Cortex A8 features and I/O that go unused in the iPad, Apple can further reduce the A4's size and energy draw -- which could be why Steve Jobs said the iPad's chips "use hardly any power." That might not make a huge difference when tied to a large LCD in a device like the iPad, but Ars speculates that this strategy combined with some of P.A. Semi's dynamic power optimization tech could result in a hyper-efficient chip for the iPhone somewhere down the line. That would certainly be interesting in the future -- but right now we've got the A4, and we can't wait until the end of the month to properly put this thing through its paces.
+      
+
+ 

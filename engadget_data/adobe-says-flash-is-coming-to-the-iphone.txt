@@ -1,0 +1,6 @@
+
+ 
+The word is out, kids. Adobe has apparently gone against old Jobsy's wishes, and it's planning a Flash player made all special for the iPhone (ala Windows Mobile) despite Apple's concerns that the technology -- in its current incarnation, anyway -- isn't cut out for mobile duty. During a conference call today, Chief Executive Shantanu Narayen said, "We believe Flash is synonymous with the Internet experience, and we are committed to bringing Flash to the iPhone," adding, "We have evaluated (the software developer tools) and we think we can develop an iPhone Flash player ourselves." We wouldn't be surprised if Adobe were to be given a pass on all those pesky SDK rules that would likely prevent a proper browser-based Flash component to be coded for the device, though those Apple dudes can be real sticklers for rules.
+      
+
+ 

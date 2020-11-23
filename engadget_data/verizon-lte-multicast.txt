@@ -1,0 +1,17 @@
+
+As part of its massive Super Bowl sponsorship, Verizon has taken over a good chunk of Manhattan's Bryant Park. We're at the Verizon Power House this morning, a heated oasis in the otherwise frigid city center, where reps are detailing the carrier's LTE Multicast service, which enables transmitting live content directly to a variety of VZ devices using the existing network infrastructure. Unlike basic LTE streaming, however, Multicast allows for an uninterrupted video feed regardless of the number of devices currently using the service in any particular area.
+
+
+We first heard about Verizon's implementation at CES 2013, and it looks like Big Red's planning to flip the switch during the first half of this year, though a pricing model, precise availability and device compatibility haven't been detailed. If you're in NYC this week, however, you'll be able to snag a sneak peek of Multicast running on a Sequans-powered tablet and a Galaxy Note 3. The service is currently live at a demo room in Verizon's Bryant Park booth.
+
+
+
+Update: We had an opportunity to check out the service on both the tablet (which was developed in cooperation with Sequans for the purpose of this demo) and a Galaxy Note 3, and the feed looked fantastic. Verizon is currently broadcasting video content at 1.8 Mbps and a data feed at 750 Kbps, both in a full-screen format and a four-panel mosaic, but both options most likely won't count against an established data cap. In other words, assuming you have a subscription in place, you should be able to access Multicast independent of bandwidth restrictions.
+
+The Super Bowl content currently being demonstrated may not be identical to what Verizon will launch later this year, but you can get a solid feel of how it should look in our hands-on video just below.
+
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

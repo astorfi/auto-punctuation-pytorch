@@ -1,0 +1,5 @@
+
+  Security software publisher Symantec has confirmed it was the victim of a cyber attack, resulting in the theft and disclosure of product source code. Earlier this month, the online-collective Anonymous stated, via Twitter, that it possessed portions of the code in question and planned to release it in support of a class-action lawsuit filed by consumers -- the suit claims Symantec employed scare tactics to encourage users to purchase its wares. Via its website, the company affirmed Anonymous' claims, citing a source code heist dating back to 2006. The post goes on to suggest that users running Norton Antivirus Corporate Edition, Norton Internet Security, Norton SystemWorks, Symantec Endpoint Protection 11.0, or Symantec AntiVirus 10.2 apply the latest maintenance patches. If you have the company's pcAnywhere solution deployed, Symantec suggests only using it for "business critical purposes," as this software is "at increased risk." Those looking to stay up-to-date on the breach and what Symantec is doing to ameliorate its effects can get the blow-by-blow from the source link below.
+      
+
+ 

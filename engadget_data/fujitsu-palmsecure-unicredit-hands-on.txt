@@ -1,0 +1,9 @@
+
+ If Google is correct (and it usually is), Engadget has been covering Fujitsu's PalmSecure palm-reading technology since the Peter Rojas days. In that time, we've seen these security readers built into prototype laptops, and various corporations have begun testing it out in pilot programs. So it's hardly a novel concept, but it's only now becoming likely that you'll see it in the real world: Fujitsu announced today that its palm readers will soon be installed in bank kiosks, building lobbies, and other places where you might need to verify your identity at a checkpoint of some sort.
+
+ So far, Fujitsu's signed on Italy's UniCredit bank, which kicked off a test program late last year. As we've reported in the past, you don't even have to touch the sensor; you can merely hover over it. Which is good news if you're paranoid about swapping germs with all the other nose-pickers passing through security. If businesses choose, they can opt for single-factor authentication, though two-factor security is also an option -- as unique as the veins in your palm are, it's still possible for the reader to register a false positive. If you're curious we've got a quickie demo video waiting just past the break. Unfortunately, though, we still can't vouch for how tedious it'll be when HR demands palm prints for everyone in the office.
+
+
+  
+  Dan Cooper contributed to this report.
+

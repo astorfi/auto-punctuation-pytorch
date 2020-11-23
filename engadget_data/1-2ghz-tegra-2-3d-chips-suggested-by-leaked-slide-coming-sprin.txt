@@ -1,0 +1,6 @@
+
+ 
+Darn, we've barely started getting acquainted with Tegra 2, yet NVIDIA seems to already be preparing the stage for a sort of Tegra 2.5 -- a 1.2GHz dual-core chip that'll be marketed as a 3D-capable mobile processor. This T25 silicon is apparently set for mass production in the first quarter of this year, with availability coming up in the spring. Given the noises we keep hearing about 3D going mobile, this is one rumor that makes a lot of sense -- and even if you're a staunch supporter of the 2D creed, you can't deny that a sped-up Tegra 2 CPU sounds pretty delicious. We've managed to also track down some technical chatter about adding support to Chromium OS for a 1.2GHz T25 from NVIDIA, seemingly corroborating the leaked image above. Oh boy, it's gonna be a hot summer for mobile computing this year!
+      
+
+ 

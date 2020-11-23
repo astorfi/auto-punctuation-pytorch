@@ -1,0 +1,12 @@
+
+ 
+
+In what may be an interesting development for the future of Google TV, the folks at Mountain View have purchased SageTV. The HTPC software has been doing its media center thing on multiple platforms since 2002, and according to a note on its homepage the developers "believe our ideas will reach an even larger audience of users worldwide on many different products, platforms and services." While there's no word on exactly what Google has planned, SageTV has long included DVR and placeshifting features that the Google TV product lacks by itself. The bad news for current users is that the store links on SageTV's page have suddenly stopped working, so hopefully you snagged the software already if you're interested. If your main question is "What is SageTV?" check out a demo video created by user jaredduq that is embedded after the break.
+
+[Thanks, Jason, screenshot courtesy GeekTonic]
+      
+
+ 
+
+ 		Show full PR text 		We're thrilled to announce that SageTV has been acquired by Google. 		Since 2002, we've worked to change the TV viewing experience by building cutting-edge software and technology that allows you to create and control your media center from multiple devices. And as the media landscape continues to evolve, we think its time our vision of entertainment management grows as well. By teaming up with Google, we believe our ideas will reach an even larger audience of users worldwide on many different products, platforms and services. 		We've seen how Google's developer efforts are designed to stimulate innovation across the web, and as developers have played a core role in the success of SageTV, we think our shared vision for open technology will help us advance the online entertainment experience. We look forward to joining Google, and while we don't have anything specific to announce at this time, we encourage interested developers to email sagetv-dev@google.com. 		Full speed ahead! 		The SageTV team 		From Google:		"The SageTV team has developed the latest in media management software, and we look forward to working with them to take this technology to the next level." 
+ 

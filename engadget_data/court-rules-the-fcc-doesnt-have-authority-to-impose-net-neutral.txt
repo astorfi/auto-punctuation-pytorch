@@ -1,0 +1,11 @@
+
+ No hard details yet, but opponents of net neutrality just scored a big victory -- the US Court of Appeals for the District of Columbia has sided with Comcast and ruled that the FCC doesn't have the authority under current law to impose regulations on internet service providers. Obviously we're super interested in the wonky minutiae, so we'll be digging for them -- stay tuned.
+
+Update: Okay, we're reading the opinion (PDF below) and basically it boils down like this: the FCC ordered Comcast to stop filtering Bittorrent on its network in early 2008, and Comcast filed suit, saying the FCC didn't have the authority to intervene like that. Since there's no specific law giving the FCC the authority to regulate the internet, the FCC told the court it was using its "ancillary powers," which allow the agency to take actions needed to fulfill its role -- and the FCC was interpreting its role as promoting net neutrality based on the policy statements of Congress. The court said that wasn't good enough, obviously -- we'd bet this gets appealed immediately while Congress goes to work on a specific law authorizing the Commission to impose net neutrality.
+
+Update 2: Here's the FCC's response to the opinion:
+
+The FCC is firmly committed to promoting an open Internet and to policies that will bring the enormous benefits of broadband to all Americans. It will rest these policies -- all of which will be designed to foster innovation and investment while protecting and empowering consumers -- on a solid legal foundation.
+Today's court decision invalidated the prior Commission's approach to preserving an open Internet. But the Court in no way disagreed with the importance of preserving a free and open Internet; nor did it close the door to other methods for achieving this important end.
+
+ 

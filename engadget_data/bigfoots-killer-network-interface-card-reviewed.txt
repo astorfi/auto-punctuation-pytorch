@@ -1,0 +1,6 @@
+
+   
+We were never ones to stand in the way of pure gamer PC overkill, and Bigfoot's Killer Network Interface Card (NIC) fits that bill nicely. They've managed to take a commodity PC component and build $280 PCI card around it, complete with 64MB of DDR RAM and a 400MHz processor. Cries of extortion and vaporware have been leveled, but now that IGN have got their hands on the device, they seem to think it's worth the hyperbole. One thing they were careful to point out before firing it up is that the Killer NIC runs Linux, so that processor and RAM can be put to more use than just routing your frags -- a firewall or a bit of anti-virus software could reside right on the card to check over data before it even gets to your PC, and IGN figures a BitTorrent client would be possible, allowing for full-speed gaming while you use any remaining bandwidth for downloading that dev release of Leopard. As far as actual gaming performance, IGN's preliminary results were fairly impressive. The card bumped the framerate on the bundled F.E.A.R. from 74 to 86 fps, and the ping went from an average of 67ms to 45ms. If you're seriously considering dropping the cash you might want to wait around for a bit more scientific testing, but so far things aren't looking too good for Mr. Videogame's budget and his killjoy Excel spreadsheet of doom.
+      
+
+ 

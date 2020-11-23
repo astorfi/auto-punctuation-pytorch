@@ -1,0 +1,14 @@
+
+
+Raytheon's XOS 2 has a right hook that can rip straight through a wall, but Dr. Fraser Smith assures us that death-dealing variants are still a good ways off. We caught up with the good doctor earlier today, who's been working on the military-grade exoskeleton for eight years, and quizzed him on the hows and whys of building a would-be Iron Man. Find out what we learned after the break, and see the mean machine in our gallery below! 
+
+
+
+
+
+
+Though the XOS is obviously capable of some pretty fancy footwork and pummels a punching bag with ease, Smith laid out the reality for us right away: the military is looking for exoskeletons primarily to help reduce headcount by carrying heavy weights. The fewer folks it takes to load munitions into a truck and the longer soldiers can carry 120-pound packs, the more money the government's willing to spend on those defense contracts. That doesn't rule out an armored, wall-busting Juggernaut variant for rescuing hostages, kicking ass and chewing bubble gum -- and that sort of "don't bother with the door" exoskeleton was indeed on the drawing board, Smith said -- but "the teams most interested are coming from the logistics side of the business." Presently, there are two models in the works, a "combat variant" that just includes exoskeleton legs and attaches at the waist, much like Lockheed Martin's HULC, and the full-body "logistics variant" for lifting crates, missiles, bombs... you know, the usual. The XOS 2 is nearly usable for the latter job, but even at 50 percent more efficient than the original (by the company's last count) it's still a prototype that requires a tethered high-pressure hydraulic engine to function. By designing custom hydraulic servos and managing the robot's gait so that it only uses high pressure when it truly needs to (like when it's beginning to take a step), the company hopes to bring that number to 20 percent. That'll let Raytheon cut the cord and install an lightweight internal combustion engine of some sort, he hopes, while letting the exoskeleton keep on truckin' for over eight hours (a military requirement) before running out of fuel.  While we had the doctor at our disposal, we thought we'd ask how the exoskeleton manages such a blend of dexterity, agility and strength that it can both boot around soccer balls and lift 200 pounds with ease. As it turns out, the crux of the invention was head-slappingly simple: though a patent-pending idea Smith calls "get out of the way control," the unit measures the load on each joint as its operator moves about, and figures out the direction it needs to move in 3-D space to literally move out of the way. Smart, right? If you agree, then we've got a reading assignment we think you'll enjoy -- Popular Science chronicled the genesis of the bionic suit in this must-read feature.
+
+       
+
+ 

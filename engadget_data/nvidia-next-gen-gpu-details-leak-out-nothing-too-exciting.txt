@@ -1,0 +1,5 @@
+
+ With all the noise NVIDIA's been making lately about slimming down its product line and going after Intel, we were sort of hoping a leak of the company's Summer 2008 roadmap would have some fun surprises in it, but it looks like it's just more of the same. The schedule, obtained by DailyTech, says that we should be expecting two cards based on NVIDIA's upcoming D10U graphics core, currently codenamed the GeForce GTX 280 (D10U-30) and GeForce GTX 260 (D10U-20). The 280 is the full-strength version of the processor, with all 240 "unified stream processors" integrated into the die enabled, while the 260 will only enable 192. The cards both support three-way SLI, and there appears to be integrated PhysX support in the works, but we won't know details until these launch sometime around June 18th. That's great and all, but come on guys -- let's start backing up all that smack talk.
+      
+
+ 

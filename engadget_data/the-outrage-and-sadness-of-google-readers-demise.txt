@@ -1,0 +1,33 @@
+
+Pope Who?
+
+
+White smoke over the Vatican doesn't stand a chance as a trending topic next to the black cloud over one of Google's most beloved products. Google Reader has landed on the company's sunset list, and will wink out of existence on July 1. Problem is, Reader is not as widely beloved as its most fervid users assume. And speaking of trending topics, the extinction of Reader signifies the mainstream rejection of RSS as a hands-on tool for organizing a living library of real-time information flow. It has been eclipsed by social content discovery. As Brian Alvey, chief scientist of Ceros and creator of Blogsmith (Engadget's publishing platform) noted, "Dear RSS: @Twitter won."
+
+
+More broadly speaking, Reader's ultimate fail is the latest major rebalancing of the internet's legacy symmetry of "push" and "pull."
+
+
+
+RSS is hardcore and nerdy, but was started by one of the potent early popularizers of the internet: Netscape. At that time (1999), the acronym stood for Rich Site Summary, but has come to be known as Real Simple Syndication -- dubbed by Dave Winer who took over RSS development when Netscape lost interest. (Netscape was acquired by AOL, Engadget's parent company, in March 1999.)
+
+RSS has always been a useful time-saver for voracious internet binge consumers. Rather than circling among dozens of websites and suffering through tiresome page loads at each URL, RSS adherents can skim headlines at the hub of a giant content wheel, and in many cases (depending on how the feeds were configured) read entire articles without leaving the RSS service.
+
+The whole arrangement, particularly that last part, was terrifying to publishers, who saw an ad-revenue future burned away in a stark landscape of text-only syndication. At the same time, apprehensive publishers were faced with the issue of relevance, just as they later would face the relevance question when contemplating social distribution -- and, indeed, as newspapers had already faced with the apparent necessity of publishing on the internet at all when it became popular. In other words, most publishers knew they had to put that damn RSS button on their pages, even though they didn't want anyone to use it.
+
+Although RSS-driven traffic to websites is notoriously difficult to track, there is no question in my mind that RSS is good for publishers.
+
+Publishers might be rejoicing at the symbolic defeat of RSS feeds. In fact, they should mourn as much as Reader's users are grieving. There are dozens of content brands that, without my feed folders, I would never visit.
+
+Although RSS-driven traffic to websites is notoriously difficult to track, there is no question in my mind that RSS is good for publishers. It's not just a matter of putting content where the users live. RSS helps build brand loyalty and repeat visits (a major brass ring for audience development specialists) by keeping the brand visible in an environment over which the user has complete control. Publishers feel they have to be in Facebook, too, but Facebook's distribution algorithm prevents them from reaching most of their followers most of the time. That diminished return is solved in Google Reader and other RSS services.
+
+
+Google Reader is the ultimate personalized and customizable walled garden of content, and that is why I, and other devoted users, are inflamed by Google's announcement. Removing Google Reader rips a hole in the center of an active user's online life. I spend my share of time on Facebook and Twitter, and receive important content tips every day on those platforms. But Google Reader is where I start my day, even before email. I don't know how many times I check my Industry and Tech folders each day -- 40? It's like wondering how many times I take a deep breath, or look at a clock.
+
+But I believe it when Google states that usage has slowed. I think the company could probably keep Reader going with minimal resources, but I do understand the need to concentrate its bets on the products that point to the future. That doesn't help me align the death of Reader with Google's mission statement: "To organize the world's information and make it universally accessible and useful." For the smallish population of pure RSS lovers, who don't care about the social aspects of news sharing, and certainly have no use for recommendation engines and viral barometers, Reader has been the prime info-organizing companion of the past eight years.
+
+So there is anger, and a certain depression. The internet's defining characteristic, the quality by which the active web historically opposes passive TV, is that you pull from it. TV pushes out to the couch. The internet stares at you implacably until you start pulling. The push / pull divide was austerely laid out in the mid-'90s, when bandwidth was narrow, text was the governing medium and streaming media was impossible in homes. More recently, (that is to say, in the past 12 years or so), the web has gotten pushy -- delightfully so, I hasten to add. I'm no Luddite. When I take a tablet upstairs to continue watching a Netflix show I started on the downstairs TV, I think I'm living in the coolest science-fiction book ever written. 
+But when the push / pull balance gets so bizarrely disrupted that a key service for pulling content is not used enough to justify continued life support, I become morose. And when the company yanking the plug is valued at nearly $300 billion, and is supposedly committed to organizing the world's information, depression and outrage battle for control of my mood.
+I signed a few petitions, a quick burst of activism that's as easy as it is inconsequential. Replacement services will be found. On the night of Google's announcement, The Old Reader and Feedly were staggering under what I assume were massive import requests. Everyone will find new homes for their feeds. But the outrage at Google, and the damage to its mission reputation, might last a while.
+Brad Hill is a former Vice President at AOL, and the former Director and General Manager of Weblogs, Inc. He dislikes depressing milestones in the internet's evolution.
+

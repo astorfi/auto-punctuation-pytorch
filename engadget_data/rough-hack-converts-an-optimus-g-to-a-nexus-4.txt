@@ -1,0 +1,7 @@
+
+ 
+ It's almost a truism to say that the Nexus 4 is near impossible to buy, at least for those who don't want to pay a carrier premium. G33k3r, Rohan32 and others at XDA-Developers may just save us from camping at the Google Play storefront through a new software hack. Their work converts an LG Optimus G's firmware to that of an 8GB Nexus 4 by swapping every LG-customized software element with a Nexus 4 parallel. The nearly identical hardware makes for a very close rendition, at least if you discount the unavoidable design differences. If anything, the work is almost too faithful: the current hack turns off LTE, caps the internal storage at 8GB and even requires using Nexus 4 firmware for future upgrades. It's possible to revert to LG's code if there's jitters, but it goes without saying that the overall procedure carries more than the usual share of risk when even familiar ROM flashers are warned to be careful. Anyone who throws caution (and the price of an Optimus G) to the wind can find their stock Android experience at the source.
+
+  [Thanks, Greg]
+
+

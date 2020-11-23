@@ -1,0 +1,38 @@
+
+
+
+It usually takes millions of dollars, a decade and hundreds of developers to create a single massively multiplayer online (MMO) game. This is the standard in the gaming industry. Smaller studios generally don't have the resources to create huge, persistent games, and larger ones have shut down and bankrupted entire states while trying to craft MMO worlds. A lot of the hurdles in building MMOs lie within the supporting tech -- running servers that handle complex mechanics 24/7/365, maxing those out and buying more, all while solving problems of latency and persistence. Making the worlds feel real for all players, at all times.
+
+
+
+Improbable, a streamlined brand of server technology, solves many of these problems. Take Dean Hall, creator of the massively popular online survival game DayZ, for example. In a blog post, Hall posits that the industry is on the cusp of a new era: "Last year, I met a company called Improbable. My first meeting with Herman Narula, the CEO from Improbable, was one of the most surreal I ever had. The technology I had always wanted and tried to make was finally here. ... Working on my first Improbable game is the most exhilarating thing I have ever done."
+
+And that comes from a man who recently climbed Mount Everest.
+
+Improbable has 54 employees from a range of high-profile gaming, tech and finance companies, including Google, JP Morgan, Assassin's Creed company Ubisoft, Fable studio Lionhead and Second Life company Linden Lab. Improbable's technology is difficult to explain, but at GDC 2015, Narula gives it his best shot:
+
+"It's about having no game server. What you've always seen has been game worlds where there's one server for one region and another server for another region, these very neat lines. And the servers are actually just the same game engine that's running on your computer. ... But what if you didn't do that? What if, instead of that, actually you had thousands of tiny, very limited processors -- call them mini servers, like a swarm of insects? And what if, instead of having boundaries, actually they all moved around many, many times a second, migrating to deal with simulation in a particular area? And they're all able to work together to model a world much bigger than any one of them could understand."
+
+
+Bossa Studios' 'Worlds Adrift,' created in Improbable
+Improbable isn't just a series of servers. It's cloud-based, but it's not cloud rendering; it's almost an operating system. It follows in the fresh footsteps of other studios crafting large worlds with just a few people: No Man's Sky is a gorgeous, humungous, procedurally generated exploration game from four-man team Hello Games, which built its own engine to get the job done. Epic Games, creator of the Unreal Engine and Gears of War, this week announced new tools aimed at making it easier for small studios to make big games in a short amount of time. Improbable is another big player in this trend, and regardless of what it's called or how it's described, it makes the creation of massive game worlds possible in a short amount of time, with just a handful of people and at a price that's marked down millions.
+
+"Really, we want to kind of prank the games industry, and the prank is very simple," Narula says. "I say that five guys sitting in Bossa Studios can build a game more technically sophisticated than, I don't know, something like Destiny. And that's possible if you consider the new changes that have happened in distribution systems over the past few years, which no one has really incorporated in the games world."
+
+"I say that five guys sitting in Bossa Studios can build a game more technically sophisticated than, I don't know, something like 'Destiny.'"Hall isn't alone in working with Improbable, and he may not even be the most excited about this new tech. Bossa Studios, creator of Surgeon Simulator and I am Bread, is also getting in on the Improbable game. In just four months, with five developers, Bossa created the foundation of an MMO, Worlds Adrift, using Improbable. Worlds Adrift is a vast, procedurally generated game that allows players to interact with each other and the universe in non-scripted ways. Players have an impact on every object and they can team up with other people in real time; every action offers permanent consequences. This is a truly massive game, made in only months by a handful of people. What used to take weeks now takes hours. What used to be impossible is now -- wait for it -- Improbable.
+
+Worlds Adrift is already impressive. The game features realistic physics on a scale most games don't approach -- much of the gameplay involves building airships and exploring various landmasses, meeting other players and working with or against them. Players can soar through the sky with grappling-hook ropes, swinging from the bottoms of airships or flying by natural outcroppings. The pull of each player's weight creates tilt physics on the ships themselves, and too many people can make the flying boats completely unmanageable, causing them to crash.
+
+#fivemin-widget-blogsmith-image-622202{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-622202, #postcontentcontainer #fivemin-widget-blogsmith-image-622202{width:629px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-622202").style.display="none";}catch(e){}
+Plus, the game world reacts in permanent, persistent ways to players' movements. Build an airship and drop a boulder overboard, knocking down trees and crushing players below. Come back to that same bit of land months later, and those trees will still be knocked over, perhaps with other plants growing around them, or with other players harvesting them for resources. Real persistence, real in-game consequences to physical actions. This impacts not only mechanical moments, but also the story that Worlds Adrift tells.
+
+"Imagine that you had your ship crash on an island, a ship that you and your crew flew around for months," Bossa co-founder Henrique Olifiers says. "And then you build another one. In three months' time, you fly by that island and you see the remains of that ship, and you say, 'Oh!' That story comes about. Not only that, but every time you visit a corner of this world, it will be a slightly different corner than it was the last time you were there because players will impact it in some way, shape or form."
+
+"Big studios will never take the gloves off; they'll never give people a world. They'll just give people movies."Olifiers and Bossa Chief Technology Officer Sylvain Cornillon are thrilled about Improbable and what it means for their studio going forward -- it's evident in the way they speak about developing Worlds Adrift and about possibilities they see in the future. The game is due out in beta form before June, with a full launch before the end of the year.
+
+Narula is equally excited about working with independent developers. They're a lot like his tech: more open and innovative. He likes that they're not afraid to fail; experimentation and creativity will be key to Improbable's success in the larger market.
+
+"Big studios will never take the gloves off; they'll never give people a world," Narula says. "They'll just give people movies. And that's why we're working with independents. ... People have been, I think, slightly deceived by the way online games have been built. Because it's always been like, 'Don't go there,' or, 'Don't have too many people in one place.' There's always these walls. There's no walls now. It took several years and a bunch of people from Google, but there's no walls."
+
+Don't miss out on all the latest from GDC 2015! Follow along at our events page right here.
+

@@ -1,0 +1,5 @@
+
+ Nobody said running a netbook hackintosh would be easy -- but nobody said they'd make it this hard. Apple is currently engaged in a war of compatibility with Palm and, if the developer build of Snow Leopard version 10.6.2 is any indication, the Atom processor is next on the smack down list. Word on coder street is that the upcoming revision of OS X will kill support for Intel's little powerhouse. That could certainly change before it hits the world at large, but we wouldn't bet on it. So, if you're viewing this on an netbook install of your own devising, you may be stuck at version 10.6.1 (or earlier) for awhile -- or you may need to do a little custom kernel building. Either way, we're thinking that if Apple ever gets around to making a netbook it probably won't be an Atom-powered one.
+      
+
+ 

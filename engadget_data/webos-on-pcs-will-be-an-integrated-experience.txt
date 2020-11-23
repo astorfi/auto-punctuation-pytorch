@@ -1,0 +1,7 @@
+
+ 
+
+HP closed its recent "Think Beyond" event with a remarkable announcement that webOS would be coming to PCs. How, exactly, the company planned on doing that has been a mystery. The Seattle Times just interviewed HP's CTO, Phil McKinney, who helped put to rest some premature speculation that HP would be dumping Microsoft Windows in favor of webOS while adding some clarity (though not much) to its webOS on everything strategy. According to Phil, people still want an OS appropriate to PCs, tablets, and smartphones with webOS pulling it all together by "taking the existing operating systems and bringing WebOS onto those platforms and making it universal across all of our footprint." That doesn't mean that webOS will run as a virtualized instance within Windows. Phil says, "it's not virtualization. It's an integrated WebOS experience we're looking to bring." He then adds, "We're working with Microsoft on the future of Windows and we're very optimistic on what that future is, but what we think is we can bring an enhancement to that." The goal is to create a large device footprint that makes webOS a very attractive platform to developers -- "you can develop your WebOS app that'll run on your phone, your slate and your PC," according to McKinney. Hmm, apparently HP didn't get the Elopcalypse memo about the "three-horse race" that considers HP's and RIM's ecosystems irrelevant.
+      
+
+ 

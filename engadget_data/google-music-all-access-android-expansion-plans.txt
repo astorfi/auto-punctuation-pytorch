@@ -1,0 +1,20 @@
+
+Nearly two years ago to the day, Google introduced Music Beta at I/O 2011. But in reality, it was little more than a gigantic cloud to store 20,000 of your favorite tracks. Despite a plethora of rumors that the search giant would beat Spotify to the punch by launching a subscription-based music service in the United States, we got a digital locker that has done little to distract most listeners from giving Rdio, Pandora, iTunes and other like services at least a piece of their heart. Fast forward to today, and Google's finally joining the bandwagon... in majorly limited fashion.
+
+
+Google Music All Access is presently only available for mobile as an Android app, and only to users in the US. Moreover, it costs $9.99 -- the exact same sum as practically every one of its rivals. Rivals that have multi-year headstarts in terms of mind and market share. (Yes, it's $7.99 per month if you sign up prior to June 30th.) Google has landed deals with the same "major labels" as everyone else, but even product manager Paul Joyce affirmed to us here at I/O that All Access doesn't have access to any exclusives. In a post-keynote meeting with Joyce, he noted that this is only the start for the product. Naturally, Google's going to do its finest work on its own platform, but it's certainly odd to see iOS users left out in the cold given Google's acknowledgement of its importance just minutes earlier.
+
+
+
+
+Joyce confessed that today's All Access launch is "just the start" for the product as a whole. He made no bones about wishing to be as many places as possible -- namely, on the iPhone and iPad. I asked him if users on alternative platforms could simply enjoy All Access via the web, but as it stands, Flash is necessary to enforce DRM restrictions in a way that major labels are comfortable with. That said, he added that a world where HTML5 + DRM was a reality probably isn't as far out as some would think. After all, Netflix is already looking to implement HTML5 Premium Video extensions as Silverlight fades away, so it seems that a similar process for audio may be close behind.
+
+
+When the conversation moved to All Access' role in Google's suite of products, Joyce also said that there's obvious synergies between it and YouTube just waiting to be exploited. Today, you can find links on YouTube music videos to buy songs in Google Play, but a natural extension would be a link to add a given tune to an All Access playlist. That's not possible today, but it's obviously in the team's purview. Joyce reiterated on multiple occasions that he wasn't able to talk specifically about the product's roadmap, but when asked if All Access would support seamless sharing to rival networks (Facebook, Twitter, etc.), he seemed to show little interest. That's not saying it won't happen, but it's clearly not in the uppermost list of Google's priorities.
+
+
+He also noted that while Spotify was clearly a rival, it only had one million paying users in the US as of December. In his words, "there's still a lot of opportunity there." Indeed, All Access is a gorgeous player, and the ability to intertwine streaming tracks with songs uploaded from your own personal collection is indeed a differentiating factor. That said, there's no opportunity to import playlists from rival services (Spotify, MOG, etc.), but All Access can ingest playlists from iTunes. The real question is this: will All Access blossom into a multi-platform, highly differentiated service? With each passing day, those entrenched in existing services will find it more and more painful to switch and recreate playlists, and unless Google offers a substantially cheaper or monumentally more useful service, getting folks to buy in on the value proposition could be a challenge.
+
+Say, couldn't Google just charge a buck a month for this, and use the influx of music preference data to sell search ads against? Wishful thinking, we know.
+
+

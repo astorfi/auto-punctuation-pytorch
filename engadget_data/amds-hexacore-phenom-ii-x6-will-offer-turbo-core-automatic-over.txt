@@ -1,0 +1,6 @@
+
+ 
+AMD might be playing catch-up with Intel at the moment, but at least it's keeping the distance fairly close. Intel has yet to fully transition its desktop line over to its Turbo Boost-boasting Core 2010 series, yet its competitor has already announced its own, imaginatively titled, competing technology in the form of Turbo Core. It's a less sophisticated auto-overclock, whereby three of the six cores are decelerated in order to give the other trio some extra voltage and speed for more serialized workloads. The truly impressive thing is that operation under the Turbo Core mode and the default hexacore arrangement will fit within the same power envelope as current Phenom II X4 CPUs, while AMD also reassures its loyal users that the new Phenom II X6s will be compatible with existing AM3 and AM2+ sockets. Nice. The table above, provided by AnandTech, confirms the models we heard about a couple of weeks ago, though we'll have to wait a little bit longer to get confirmation on pricing.
+      
+
+ 

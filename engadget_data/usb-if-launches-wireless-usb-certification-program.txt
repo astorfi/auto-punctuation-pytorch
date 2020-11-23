@@ -1,0 +1,5 @@
+
+ You heard right, it's finally here. After questioning Bluetooth's ability to compete with it, and seeing numerous (unsurprising) delays, the USB Implementers Forum announced today the "availability of the Certified Wireless USB Compliance and Certification Program." If you're a bit stumped as to why we've already seen a few untethered USB devices floating about, the logic follows the same taken by 802.11n draft-spec adopters, and this QA procedure will "assure" consumers of its functionality, give suppliers a solid set of guidelines, and allow manufacturers to slap that coveted seal of approval on the box. More good news came when the previously claimed speeds -- 480Mbps at 3 meters and 110Mbps at 10 meters -- were confirmed as realizable. Initially, wireless USB compliance testing will be hosted at Intel's "Wireless USB Platform Integration Lab," with more branches to open in 2007. In times where delays and setbacks are far and away more common than getting things out the door, it's refreshing to see at least one wireless agenda reach completion.[Via WiFi Planet]
+      
+
+ 

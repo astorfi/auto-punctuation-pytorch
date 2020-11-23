@@ -1,0 +1,8 @@
+
+ 
+As if the Cortex-A9 isn't stirring up enough emotion all by itself, ARM revealed the roadmap for an even faster iteration of its Cortex-A series of chips during its earnings call a few days ago. Codenamed Eagle, the new processor is slated for a production run of 3 billion units annually, but alas this slide shares no more information on it beyond the intended market of smartphones, mobile computing, and digital TV products. (We've definitely heard that it'll be a 28nm multi-core part destined to ship around 2012, however.) There's also word of a pair of embedded chips, dubbed Heron and Merlin, which will find roles to perform in automotive and audio processing environments. Unsurprising that ARM isn't standing still, but we could've done with a little less mystery and a few more specs.
+
+[Thanks, Kamal]
+      
+
+ 

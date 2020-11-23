@@ -1,0 +1,5 @@
+
+
+You may not think that the security of your Wikipedia research is a big deal, but it can be. You don't want spies to misinterpret your searches for potassium nitrate and the Gunpowder Plot as evidence of a terrorist conspiracy, after all. Appropriately, the Wikimedia Foundation is starting to encrypt all web traffic on Wikipedia and other associated websites through HTTPS, making it decidedly harder to monitor your knowledge hunts. The initiative should also make it at least a bit tougher for censorship-happy governments to block inconvenient facts. Encryption isn't new on the organization's sites (you've had a manual HTTPS option since 2011), but this always-on policy means that you never have to think about it -- you can assume that there's a basic level of privacy.
+
+

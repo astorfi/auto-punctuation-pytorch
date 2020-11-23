@@ -1,0 +1,13 @@
+
+ 
+ Sidestepping lockscreen codes and fingerprint scanners -- and without any new hardware demands -- KDDI has unveiled a new palm authentication app that takes advantage of the high-resolution camera on its Android smartphones. Scanning in tandem with the flash, we gave it a try on a HTC J, here at CEATEC in Japan. After a brief setup, which involves positioning your hand to fit between some red markers, the phone was soon calibrated to our hands. Then, after locking the device, attempting to unlock it will send you to the palm authentication screen, seen above, where (hopefully) only your mitts will be able to gain access.
+
+ The time it takes to check your hand remains a little longer than it would take you to drum in your typical four-digit PIN, but in our brief test, it was able to discriminate between two Engadget editors' hands. Better still, you'll be able to give the app a try yourself tomorrow, when it goes on free trial on Google Play. Until it does, see how it's all meant to work in our hands-on video after the break. 
+
+
+
+
+
+ 
+
+ 

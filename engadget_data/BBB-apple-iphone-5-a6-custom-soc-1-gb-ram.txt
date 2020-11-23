@@ -1,0 +1,7 @@
+
+ Unsurprisingly, Apple left us in the dark regarding some specifics of the iPhone 5 upon its release. Thankfully, the good folks over at Anandtech have done a bit of digging into those numbers you see bordering Apple's Apple A6 SoC, definitively figuring out that Cupertino's latest phone packs in a total 1GB of Samsung-sourced memory. The site clocks the DRAM inside at 1,066Mhz, noting that it's comprised of "two 512MB dies in a dual-channel LPDDR2 package with 32 bits per channel." Further, Anandtech lists the speed of the iPhone 5's memory at 8,528MB/sec -- an ample 33 percent boost over the 6,400MB/sec rating for the RAM in the iPhone 4S, but well below the 12,800 MB/sec needed to drive the new iPad's bandwidth-hungry screen resolution.
+
+ Beyond that, the site believes that the A6 is Apple's first truly in-house creation, as it's using math units too new to be found in a ARM Cortex-A9 architecture (like the A5 or A5X) but reportedly isn't a match for the soon-to-be-released Cortex-A15. If true, the implication is significant -- it suggests Apple is taking the more aggressive path of a chip designer like Qualcomm and custom-tailoring large parts of its processor designs to get the speed it wants on a more exacting schedule. That's a quick summation of the details; hit up the source links below if you want the explanation in full geek speak.
+
+ Jon Fingas contributed to this post.
+

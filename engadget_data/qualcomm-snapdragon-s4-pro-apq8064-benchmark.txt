@@ -1,0 +1,17 @@
+
+ 
+ As mentioned earlier, we've just gotten our hands on Qualcomm's latest development platform to see how its first quad core chipset fares. And boy, that APQ8064 really doesn't disappoint, but it should be no surprise -- we've already seen how the top dual core S4 chipsets already beat their quad core competitors in certain aspects, so it's only natural for the quad core S4 Pro to annihilate them. As you can see in our chart after the break, the APQ8064-based MDP easily beat the Tegra 3-based One X and Nexus 7, as well as the Exynos 4412-based Galaxy S III. And partly thanks to the Adreno 320 graphics core, the MDP even scored an astonishing 132fps in our GLBenchmark test, while the quad core Galaxy S III with Mali-400 graphics came second with 99fps, with the remaining devices lingering around 60fps only.
+
+ Obviously, the question remains how big of a trade-off there is on battery life in exchange for those two extra cores and the more powerful graphics chip. That said, we have a feeling that Snapdragon's Krait architecture and asynchronously clocked cores will again prove that Tegra 3's 4-PLUS-1 design isn't the best solution for battery efficiency -- as many of you might already know. We shall see when APQ8064-based products become available later this year. For now, take a gander at our numbers and photos.
+
+ Update: Hit the break for our hands-on video with the MDP. Also, we had a chance play with the 13-megapixel autofocus camera in the worst possible lighting conditions, and it acquitted itself rather well considering the circumstances. Check out the sample gallery below.
+
+ Myriam Joire contributed to this mind-blowing hands-on.
+
+
+
+
+
+       S4 Pro MDP (APQ8064)   Nexus 7 (Tegra 3)   Galaxy S III (Exynos 4412)   One X (Tegra 3)   Galaxy S III (AT&T, MSM8960)   One X (AT&T, MSM8960)      Quadrant   7,698   3,501   4,454   4,906   5,084   4,784    Vellamo   2,538   1,650   1,751   1,617   2,153   2,259    AnTuTu   13,826   8,995   11,960   11,030   6,713   6,956    SunSpider 0.9.1 (ms)   1,227   1,785   1,460   1,773   1,926   1,453    GLBenchmark Egypt Offscreen (fps)   132   63   99   63   54   56    CF-Bench   18,219   11,807   13,110   13,233   9,439   9,479    SunSpider: lower scores are better    
+
+ 

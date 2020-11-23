@@ -1,0 +1,21 @@
+
+Each week Ross Rubin contributes Switched On, a column about consumer technology.
+
+The last Switched On discussed many of the limitations of today's fitness monitors and how input regarding other lifestyle variations could create a more complete picture of how we control our health. But there are other health factors that change infrequently and can have a profound impact on our well-being.
+
+
+
+Chronic diseasesHealth problems such as diabetes and hypertension pose their own challenges to the overall picture of our health. Here, too, we are starting to see smartphone measurement solutions such as the Qardio blood pressure monitoring device and the Health2Sync interface cable that connects smartphones to common glucometers.
+
+PrescriptionsAccording to findings by the Mayo Clinic published last summer, 70 percent of Americans take at least one prescription drug and more than half take two. Drugs can have an impact on all kinds of vital signs, but most apps and monitoring devices today operate in complete ignorance of prescriptions. That said, we are seeing some gadgets start to address the issue of compliance. At CES, a company called AdhereTech introduced a sophisticated cellular-connected pill bottle that measures the frequency of pills taken and the number removed.
+
+While it can't measure whether consumers take the pills, company representatives say that they only see patients throw out pills after removal in rare cases of mental illness. Much like the HAPIfork, the AdhereTech bottle knows nothing of what the patient actually consumes. A pricey proposition, it is intended to be distributed by specialized pharmacies serving patients with serious illnesses where medications can cost hundreds of dollars per pill.
+
+HistoryGenetics are perhaps the "easiest" part of figuring out one's overall risk of certain diseases. Recently, 23andMe had its DNA test banned by the FDA. However, as anyone who has ever visited a doctor knows, one of the first questions asked is about a family history of ailments such as heart disease and cancer because these are key factors in determining risk. And it's not just about family history. In addition to the aforementioned chronic diseases, medical practitioners always want to know about past procedures such as surgeries. But, like so many other critical factors, today's health and fitness apps ignore family and personal histories.
+
+Clearly, we are making progress toward capturing a broader range of measurement about our health and well-being. Even if all these factors can be perfectly measured, the far harder challenge is in weighing their aggregate impact in a cloud. Perhaps that is the time that medical professionals will have to step in or, perhaps, one day advanced computing power will make more sense of the data.
+
+There may also be power in comparing the results of behavior changes, surgeries and prescriptions by analyzing anonymous crowdsourced health information, but clearly these changes will require serious debate on privacy and other regulatory considerations. Alas, there's no device that can measure the baby steps we are taking toward a more complete and actionable digital realization of health and wellness assistance.
+
+ Ross Rubin is principal analyst at Reticle Research, a technology, media and telecom advisory firm, and founder of Backerjack, which covers crowdfunded product innovation. He blogs at Techspressive.
+

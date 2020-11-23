@@ -1,0 +1,11 @@
+
+ 
+When word first reached Microsoft that the open-source community would hack the Kinect, the company's response was pretty heavy-handed: "Microsoft does not condone the modification of its products," a rep told CNET, pledging to "work closely with law enforcement and product safety groups to keep Kinect tamper-resistant." But now that Kinect mods blow our minds on a near-daily basis, Redmond has changed its tone. Microsoft's Alex Kipman told NPR Science Daily listeners that as far as the company's concerned, the Kinect hasn't actually been hacked thus far, and that Microsoft actually left the camera's USB connection unprotected "by design" to let the community take advantage. Though he and fellow Microsoftie Shannon Loftis wouldn't commit to official PC software drivers for the device, he did say that the company would "partner sooner rather than later" with academic institutions to get the hardware doled out, and suggested that some universities started playing with Kinect even before its commercial launch. Read a transcript of the pertinent section of the podcast after the break, or listen for yourself at our source link starting at the 18:22 mark. 
+
+[Thanks, Fred T.]
+      
+
+ 
+
+Alex: Kinect was not actually hacked. Hacking would mean that someone got to our algorithms that sit inside the Xbox and was able to actually use them, which hasn't happened, or it means that you put a device between the sensor and the Xbox for means of cheating, which also has not happened. That's what we call hacking, and that's what we put a ton of work and effort in to make sure doesn't actually occur. What has happened is someone wrote an open-source driver for PCs that essentially opens the USB connection -- which we didn't protect, by design -- and reads the inputs from the sensor. The sensor has eyes and ears, and that's a whole lot of noise that someone needs to take and turn into signal. NPR: You left it open by design, then, so that people could get into it? Alex: Correct. [Later] NPR: So no one's going to get in trouble? Shannon: No. Alex: Absolutely not. 
+ 

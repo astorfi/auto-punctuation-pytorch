@@ -1,0 +1,13 @@
+
+ 
+
+
+	We discovered this little gem hidden deep within the recesses of the show floor at IDF 2011. It's none other than Opera Mobile running on a Honeycomb tablet -- not just any tablet, mind you, but Intel's Oak Trail-powered (Atom Z670) Green Ridge device. That's right, you're looking at Opera's web browser, compiled using the latest Android NDK and running natively on top of Android x86. First impressions? It's fast, even without hardware acceleration -- scrolling and zooming are smooth as butter, with no signs of checkerboarding anywhere. According to Phillip Grønvold of Opera software, this is just the beginning. Hardware acceleration is already in the works, along with Flash support. So go ahead if you dare -- browse our gallery below and watch our hands-on video after the break.
+
+
+
+
+Dante Cesa contributed to this report.
+
+  See more video at our hub!
+ 

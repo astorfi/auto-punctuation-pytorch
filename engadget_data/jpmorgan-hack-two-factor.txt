@@ -1,0 +1,11 @@
+
+
+The hackers that stole millions of depositors' contact info from JPMorgan Chase earlier this year didn't use any kind of sophisticated malware like the one that took down Sony Pictures' computers. No, they managed to steal people's info, because the bank failed to upgrade one of its servers with two-factor authentication, according to The New York Times. Due to the lack of two-factor, the hackers gained access to sensitive info using just log-in credentials stolen from an employee. NYT says people within the company are (understandably) embarrassed about what happened, since the bank typically spends $250 million to make sure its networks are secure. Also, the other banks targeted by the same hackers weren't as affected, presumably because all their security measures were working properly.
+
+
+
+A group of internal investigators, comprised of cybersecurity experts and even NSA agents, are now trying to get to the bottom of the oversight and to discover who launched the attack. Authorities used to think the Russian government was behind the breach due to the US economic sanctions against Russia, but the FBI dropped that idea way back in October. The bank maintains that the attackers didn't get away with any money, though it admits that they harvested passwords, phone numbers and home addresses.
+
+[Image credit: Andrew Burton/Getty Images]
+
+

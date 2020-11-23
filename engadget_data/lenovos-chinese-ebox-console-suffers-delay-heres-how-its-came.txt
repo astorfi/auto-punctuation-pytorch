@@ -1,0 +1,9 @@
+
+  
+We had nearly forgotten Lenovo's Eedoo spinoff and its China-bound video game console, seeing as how it failed to meet a planned November 2010 unveiling, but IDG News reports that the motion-sensing eBox hasn't slipped Lenovo's mind -- it's just been pushed further into 2011. How far? If we were to guess, we'd say Q2 2011, and the video above spells out why. Seemingly by coincidence, we were just sent this footage of a game called Flyimal, built on the Unity Engine as a collaboration between 3D asset company Mixamo and 3D gesture recognition company Omek Interactive, and -- get this -- running on "the first [console] to be made by the Chinese for the Chinese market and due for launch by Q2 of this year." We can't think of many game systems that fit that description, to be honest. There's not a lot to look at here, but we imagine PrimeSense and competitors will be perusing the video soon, noting that the machine captures precisely 15 points on a user's body for its gesture recognition algorithms... and wondering if there's a third dimension to any of that movement. Read Unity, Mixamo and Omek's statement after the break.
+      
+
+ 
+
+Show full PR textIn the first half of 2011 the first Asian game console will be launched in China integrating 3D camera technology included with every unit. "Flyimal" by Mixamo, shown in the video, is one of the first games due to be released. The game uses the Unity game engine in what is the first integration between Unity and the Omek Interactive 3D sensor SDK. The game takes advantage of the latest game engine optimization and performance improvement with Unity 3.1. Mixamo - the developer of the game - is an online service for animation and motion capture technology leader which has early this year acquired resources to create games using 3D camera sensors. Mixamo and Unity Technologies are working together and leading the democratization process of game development.
+ 

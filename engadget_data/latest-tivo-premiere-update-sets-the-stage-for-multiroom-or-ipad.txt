@@ -1,0 +1,9 @@
+
+ 
+
+While we're still not sure exactly what's been changed in the most recent 14.8 software update some users have gotten on their TiVo Premieres, a poster on the TiVo Community forums has found a change in the TiVo's XML file that suggests its getting ready for streaming support. Every TiVo provides an XML feed that can be read by other devices or software on the network and moyekj noted there is a field he hadn't sen before marked "StreamingPermission." Rumors have indicated streaming to other TiVo Premiere boxes, a multiroom companion extender or even to the iPad previously so it's not immediately clear what this switch could toggle if it were marked yes, but for now, it's marked no so feel free to speculate as wildly as possible.
+
+[Thanks, @BrennokBob]
+      
+
+ 

@@ -1,0 +1,7 @@
+
+It's been some time since we heard from the Open webOS project, but work is still ongoing. The port has changed names in the last year to go by LuneOS, and the first release under the new name is now available. This particular version is called "Affogato," and while it supports the HP TouchPad, Nexus 4, Galaxy Nexus and Nexus 7 (2012 with WiFi), the team says that going forward it's focusing just on the Nexus 4 and TouchPad. Owners of other devices don't have to give up their card-flicking dreams though, as it hopes others will step up to work on ports for other hardware (the OnePlus One above is just showing a screenshot as an example). If you're expecting the features of Android or iOS it's still a long way from that, but the team promises a focus on the community and monthly updates. If you're willing to give it a shot, install instructions are here.
+
+
+
+We are proud to present LuneOS! Read the official release on @pivotCE http://t.co/ht2c3RlrV8 #LuneOSishere
+- webOS Ports (@webosports) September 1, 2014

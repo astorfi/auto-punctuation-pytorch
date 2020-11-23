@@ -1,0 +1,127 @@
+
+ 
+
+
+
+ 
+
+      Windows 
+      Mobile 6.5
+
+      Windows 
+      Mobile 6.5.3
+
+
+      Windows Phone 
+      7 Series
+
+
+
+
+
+
+
+Windows CE kernel
+5.2
+5.2
+6.0
+
+
+Minimum resolution
+None
+None
+WVGA
+
+
+Skinnable
+Yes
+Yes
+No
+
+
+Finger friendly
+No
+Barely
+Yes
+
+
+Multitouch
+No
+Basic
+Yes
+
+
+Capacitive touchscreen
+No
+Yes
+Yes
+
+
+Stylus
+Required
+Optional
+None
+
+
+Touchscreen keyboard
+Unfriendly
+Finger-friendly
+Finger-friendly
+
+
+Required buttons
+Start
+Start
+Start, Back, Search
+
+
+Operating metaphor
+Apps
+Apps
+Task hubs
+
+
+Pane switching
+Tabs
+Swipe
+"Pivot"
+
+
+Browser
+IE Mobile 6
+IE Mobile 6
+New, still IE-based
+
+
+Zune integration
+No
+No
+Yes
+
+
+Xbox integration
+No
+No
+Yes
+
+
+Courting enterprise
+Yes
+Yes
+Not yet
+
+
+Social networking
+Apps / Skins
+Apps / Skins
+Built-in
+
+
+
+ 
+This is a comparison of core OS functionality and differences, handset skins and carrier tweaks aren't factored in.
+
+If you couldn't tell from the chart above, the "differences" between Windows Phone 7 Series and Windows Mobile of yore (last week) are rather hard to quantify: it's like comparing a bed with an oven. Two very different things, for two very different purposes. Windows Mobile has had a justifiable position in the realm of business, and will probably continue to maintain a legacy install base for some time to come, but it's pretty safe to say that the days of Windows Mobile as a consumer-facing OS are rapidly coming to an end. Bring on the new!
+      
+
+ 

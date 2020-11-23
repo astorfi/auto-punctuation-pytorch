@@ -1,0 +1,5 @@
+
+ There's no such thing as a perfect mobile app store strategy -- you're either too draconian, too arbitrary, or too loose in your policies, and as far as we can tell, there's no way to find a balance that isn't going to trigger an alarm here and there or get a few people worked into a lather. If you're too loose, for instance, you're liable end up with the occasional bout of malware, which is exactly what appears to have gone down recently in the Android Market with a few fake banking apps published by a bandit going as "Droid09." As you might imagine, the apps end up doing little more than stealing your information and ending your day in tears; the apps have since been pulled, but that's probably little consolation for those already affected. The moral of the story? Be vigilant, keep a close eye on those system permissions the Market warns you about as you install new apps, report sketchy ones, and -- as always -- use a hearty dose of common sense.
+      
+
+ 

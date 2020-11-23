@@ -1,0 +1,39 @@
+
+
+Since Windows Phone's humble beginnings, Microsoft has been the underdog in the wireless industry. Four years later, nothing's changed -- except, perhaps, a few more percentage points of market share. Even then, it's got a long way to go before catching up to Android and iOS. Let's give the company credit for pushing forward, improving its platform and not giving up, though: When I reviewed the last major OS update, I said I could finally  use Windows Phone as my daily driver. The one element that Microsoft continued to lack, however, was buy-in from large phone makers. They put more focus on Android products, which meant anyone interested in Windows Phone had a small selection of devices to choose from.
+
+
+For Microsoft, it's time to experiment with a new, simpler approach. The software giant has buddied up with HTC to convert the One M8, its Android flagship, into a Windows Phone. That's all there is to it. There's absolutely no change to the hardware -- and it's a fantastic idea. If it fails, neither company loses much from the deal; since they're using an existing phone, the cost of design and engineering is far lower than it would be on a standalone device. If it's successful, it may inspire other manufacturers to follow suit, resulting in a market with a wide variety of Windows Phones to choose from. If you can't beat 'em, join 'em, right? 
+
+
+
+
+
+Hardware
+The hardware section is typically one of the longest in a phone review, but this time, the opposite is true. That's because the HTC One M8 for Windows, as awkward as the name is, is exactly that: an HTC One M8 that happens to run Windows Phone instead of Android. (Why the name omits "Phone" is beyond me, however.) The aluminum unibody chassis, 1080p display, Snapdragon 801 processor, BoomSound speakers, 2,600mAh battery, even the UltraPixel Duo Camera setup -- it's all there. It comes with the infrared blaster embedded into the power button as before, and all of the buttons, LED flashes and card slots are all precisely in the same place. In fact, if it weren't for the Windows Phone logo on the back, the hardware would be virtually indistinguishable. Of course, that also means that it's still just as slippery and just as tall as the Android version, so if you didn't like it before, nothing about this phone will change your mind.
+
+The version I'm reviewing is the Verizon-exclusive model, which only comes in a gunmetal gray color with 32GB of internal storage (and a microSD slot that handles cards up to 128GB). If Verizon isn't your thing, AT&T announced that it plans to release the device after the exclusivity period is over. HTC's been tight-lipped about whether the phone will eventually head to other markets or carriers.
+
+The Verizon version of the M8 for Windows comes with quad-band LTE, which covers both of Verizon's high-speed frequencies and a couple of bands (3 and 7) friendly to many countries in Europe, Africa and Asia. In case the LTE doesn't work when you're traveling abroad, it also comes with quad-band HSPA+ (up to 14.4 Mbps) and quad-band GSM/EDGE. Regardless of where you travel, you're bound to have some sort of connection, even if it isn't incredibly fast.
+
+Software
+It's only when you turn the two devices on that you'll really notice the difference. For the first time since the Palm Treo days, you can choose between two different operating systems running on the same hardware. I want to see more companies try this, but most manufacturers seem wary of dedicating resources to make Windows Phone available on existing Android devices. Of course, this wasn't even an option until Microsoft introduced Windows Phone 8.1 earlier this year, when it announced that manufacturers could take any Android phone they wanted and just slap on the third-place mobile OS instead. (Sadly, Microsoft and Google aren't so keen on letting anyone use both at the same time.)
+
+What matters is that it's here now, and Windows Phone flagships are no longer limited to Nokia's Lumia series; it introduces more options for fans of the OS, and it gives the platform more visibility for everyone else.
+
+If you've used a Windows Phone before, the user experience will be familiar. HTC tweaks aside (I'll tackle those shortly), the M8 is a Windows Phone 8.1.1 device without a custom user interface. Which makes sense: Microsoft doesn't allow skins. As you'd expect, then, the phone features Cortana, Live Tiles, quick controls, notifications, folders and the new lock screens, among other things. If you've seen one Windows Phone, you've seen them all.
+
+The biggest early question about the M8 for Windows was how (or if) it would utilize HTC's homemade software features from its Android skin, such as Zoe, BlinkFeed, Duo Camera capability, Sense TV and Video Highlights. Fortunately, all but Zoe made it into the phone, although there are slightly different implementations for each feature. BlinkFeed on Windows is its own separate app and Live Tile as opposed to a full home screen panel on Android. Ditto for Video Highlights, which takes the form of a standalone app. The camera UI is the same, but only some Duo Camera editing features made the OS jump. Finally, the HTC Dot View case is supported.
+
+
+BlinkFeed feels more at home on Windows Phone than it does on Android, primarily because its interface is tile-based. Its functionality is similar on both platforms: You have access to your social network feeds (yes, including Google+) and a wide variety of highlighted feeds (like Engadget!). At present time, the Windows Phone version doesn't come with a search option or custom feeds, so you'll just have to stick with what HTC offers. It also comes with an active Live Tile that shows the most recent news updates.
+
+Video Highlights has been around since the HTC One M7 came out in early 2013. It compiles your photos and videos and combines them into a 30-second highlight reel; you can choose from several different themes (akin to Instagram filters) as well as music, including pre-loaded tracks and selections from your own library. Once the clip is created, you can share it however you want. On Android, the video highlight-creation tool is a part of the Sense gallery app, but here it's a standalone app. The basic setup is the same on both platforms, but their designs match their respective OSes. All told, too, the functionality is the same, though the WP option doesn't appear to have the ability to choose which images or clips to start and end with.
+
+
+
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,20 @@
+
+For its crazy 2020 asteroid capture mission and other projects, NASA is developing next-gen "Hall effect thrusters" to corral an asteroid and put it into the moon's orbit. At the same time, the European Space Agency (ESA) is trying to improve its own Hall thrusters to power future missions. If you're wondering what the heck they are, Hall effect motors are a type of ion thruster that produce a tiny 0.7 pounds of force, or the weight of 54 US quarters, according to NASA. However, they're much more efficient than standard rockets, and if run long enough, can power a spaceship to speeds as high as 112,000 mph. So how do they actually work?
+
+
+
+Hall thrusters were developed by the Soviets in the 1950's and first deployed in 1971 on a Russian weather satellite. Over 240 have flawlessly flown since, often to boost satellites into orbit and keep them there. The motors are around ten times more efficient than chemical propulsion rockets, and can run for long periods of time using a fixed stock of inert gas combined with solar- or nuclear-generated electricity. The first Hall thruster used outside of Earth orbit (on the ESA's Smart-1 moon-orbiting spacecraft) ran for a record-setting two years. On top of being reliable, such motors are also very safe since the non-reactive gases can't explode.
+
+
+Hall thrusters use a magnetic field effect to accelerate ions (charged particles) to high speeds, producing thrust. Here's how it works: a spacecraft's solar panels or other power source charge an anode's walls to a high positive energy level. Electrons injected by a downstream cathode are attracted to the anode and drawn into an insulator channel. At that point, they're trapped by powerful magnets to form a circling ring called a Hall current.
+
+
+An inert gas, usually Xenon, is then injected into the anode tube, where it collides with the electrons to form positive ionized Xenon gas, otherwise known as plasma. The magnetic field accelerates the plasma to speeds of up to 35,000 mph, generating thrust. With a positive charge, the plasma also pulls electrons from the original downstream cathode, neutralizing the charge and preventing static from building up on the spacecraft.
+
+
+In comparison, so-called gridded ion thrusters work a bit differently. In those motors, electrons combine with an inert gas to create ionized Xenon in the same way as a Hall thruster, but the resulting plasma is accelerated by a negative grid at the end of the motor, rather than a magnetic field, to create thrust. Once the plasma leaves the engine, a "cathode neutralizer" injects electrons to prevent a static charge buildup on the spacecraft.
+
+As for performance? Gridded ion thrusters are more fuel efficient than Hall thrusters. However, Hall thrusters provide more power in a smaller package, which is why both NASA and ESA have keyed in on that tech -- especially for missions beyond Earth's orbit. For more info on how they work, check the video below.
+
+
+

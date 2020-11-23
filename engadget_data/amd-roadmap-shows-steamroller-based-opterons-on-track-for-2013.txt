@@ -1,0 +1,4 @@
+
+ AMD gave us a tease of its next-generation Steamroller architecture in 2012, but things weren't looking good for pro users when the initial timeline had current-generation Piledriver technology as the focus for Opterons in 2013. Thanks to a newer investor presentation, there's a glimmer of hope for the workstation and server users among us. Its roadmap shows Steamroller-equipped Opteron variants arriving this year, with an Excavator follow-up coming at an undetermined point in the future. There's nothing about specific timelines and models, as you might imagine -- AMD isn't going to spoil its plans quite so readily -- but the presentation reminds us that Steamroller will put an emphasis on the parallelism that's oh so vital to high-end computing. We're mostly glad to hear that IT backrooms will have something genuinely new to play with while we're off enjoying its Kaveri counterpart at home.
+
+

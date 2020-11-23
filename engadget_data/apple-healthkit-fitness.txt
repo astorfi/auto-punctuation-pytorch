@@ -1,0 +1,31 @@
+
+It's been a long day. You were in meetings from nine in the morning until five in the evening, with barely enough time to eat in between. So you gorged on donuts from the cafeteria and indulged in a slice of pizza on the way home. When you enter that dietary data in your nutrition-tracking app on your iPhone, you get a notification that you've exceeded your daily caloric amount, sidelining your weight loss goals. Feeling guilty, you lace up your running shoes and head out to the park with a Fitbit in tow, knowing that you need to burn at least 500 calories to get back on track. Feeling pretty good after the run, you get a text from your doctor reminding you to have a good night's sleep tonight to rectify the erratic sleep patterns she's been tracking via a daily health report app. You tell her that will definitely not be a problem.
+
+
+This is a picture of the future that Apple is envisioning with HealthKit, one of the more interesting features of yesterday's iOS 8 announcement. In essence, it's Apple's attempt to unify and share the disparate data of your health and fitness apps with each other, and -- if you want -- with your medical institution as well. With HealthKit, Apple wants to be the one-stop shop for your health and fitness needs. It's a rather ambitious goal, but it's also a necessary one given the increasingly crowded fitness field. And, of course, it also lays the groundwork for that long-rumored iWatch.
+
+
+
+
+
+Before we get into the ramifications of HealthKit, let's dive a little deeper into what it is. It's essentially a set of tools that lets developers integrate health data into other apps, including one from Apple called Health that houses all of that info in one central hub. Currently, information from different apps and devices is siloed -- you can't sync Fitbit data with any other app, for example. With HealthKit, devs can build that kind of cross-app syncing.
+
+This means that you could use devices and apps from different companies -- say a Nike FuelBand, a Withings Blood Pressure Monitor and an iHealth Wireless Smart Gluco-Monitoring System -- and have information from all of them gathered in the Apple Health app, which serves as a dashboard for your health and fitness data. You could also have applications talk to each other, like a nutrition app syncing with a fitness app to calculate just how many calories you need to burn to lose that extra pound.
+
+But the really interesting part of HealthKit is its potential to enable fitness trackers and health apps that are out there to work together.
+Obviously, HealthKit could very well be the foundation for the iWatch, the wearable that Apple's supposedly been working on for a while. We imagine it could be used to sync with Apple's Health app so you could view all of your fitness data in one handy, wrist-worn location. After the rumor that Nike would be ending its FuelBand production, we were hoping to hear more on Nike's and Apple's collaboration on this front, but sadly that didn't happen. However, Apple did use Nike's Fuel on stage as an example of one app that's HealthKit-compatible, so we wonder if that's a hint of a hardware partnership to come.
+
+But the really interesting part of HealthKit is its potential to enable fitness trackers and health apps that are out there to work together. Use both a Fitbit and a FuelBand? Not a problem, as the Health app will be able to track info from both. It gives you a much more holistic view of your health, as you could potentially see how the lack of sleep affects your blood pressure, for example. It could also enable a much more advanced and intimate take on health care, allowing patients to interact with their doctors in real time. This lets you, along with your health care provider, make more informed decisions to enhance your overall well-being.
+
+
+However, in order for HealthKit to truly live up to its potential, a whole mess of developers will need to get on board. There's certainly a strong incentive for them to do so, but big names need to be involved beyond just Nike. Fortunately, Withings, Fitbit and iHealth already appear to be on the docket, but we're hoping smaller apps like MapMyRun and Strava get in on the action as well.
+
+Further, there's a surprising lack of standards compliance across different devices and apps, and it's not entirely clear how Apple's HealthKit would resolve it. For example, the number of calories that my Fitbit says I've burned can be very different from the number that my FuelBand reports. Will it know to prefer one over the other? Even a metric as simple as the number of steps taken can differ wildly from app to app. Additionally, will companies that deal in proprietary metrics be okay with opening that up to other apps? Nike, to its credit, has agreed to share its made-up Fuel stat with at least a few third-party applications, though it's still relatively locked down compared to the competition. It remains to be seen how Apple will put all of this together to paint an accurate picture of your health.
+
+Letting different apps and devices talk to each other essentially makes your iPhone the ultimate all-in-one fitness tool.
+
+And, of course, we have to consider the competition. Samsung announced last Wednesday that it's planning on launching Simband, a modular, wrist-worn reference platform that might inspire a multitude of different Samsung-powered wearables, which could provide serious competition to the fabled iWatch. Simband will also work in concert with SAMI (Samsung Architecture for Multimodal Interactions), the company's open-source data-collection effort that'll make all that fitness data accessible to other services and devices -- perhaps the very same ones that've signed on for Apple's HealthKit.
+
+HealthKit is iOS 8-only for now, so it likely won't be compatible with older iOS devices or desktop apps on OS X, which at least hints that Apple is still testing the waters as HealthKit slowly gains momentum. Regardless, the future for HealthKit is great if Apple can pull it off. Letting different apps and devices talk to each other essentially makes your iPhone the ultimate all-in-one fitness tool. As a stream of new wearables and apps place a heavier focus on health and fitness, HealthKit is a clever attempt by Apple to keep those loyal to the iPhone within the fold.
+
+

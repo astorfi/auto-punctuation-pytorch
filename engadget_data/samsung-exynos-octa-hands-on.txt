@@ -1,0 +1,9 @@
+
+ The Exynos 5 Octa was definitely one of the biggest things to come out of CES. Given how well the regular dual-core Exynos V performs in the Nexus 10 and Chromebook, devices containing the souped-up Octa version could be really special. As you probably know already, we're looking at four Cortex-A15 cores for when you need raw performance for gaming or media creation, and then four energy-saving Cortex-A7 cores for less demanding tasks like surfing or watching video. We've just seen how fast and fluid this big.LITTLE core-switching technology is, courtesy of a Samsung reference tablet on show at ARM's booth at MWC -- check it out for yourself after the break.
+
+
+
+ 
+ The only thing we're missing at this point is knowledge of the graphics part of this tablet, plus some benchmarks. Unfortunately, ARM would neither confirm the former nor let us try out the latter, so we're inclined to think this is probably a last-gen PowerVR Series5 GPU. If we want to see a two-hit combo of next-gen CPU and GPU, then it may actually be left to less well-known rival Renesas to demonstrate that first.
+
+

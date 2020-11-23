@@ -1,0 +1,20 @@
+
+Netflix has been loudly agitating over the last few months about deals it says ISPs like Comcast and Verizon have forced it into for adequate service, and now the FCC is looking into them. While there's no action yet, FCC Commisioner Tom Wheeler has obtained the confidential terms of the peering agreements between Netflix and the two ISPs, and says FCC staff is asking for others. At issue? Whether consumers are getting what they're paying for, from ISPs and Netflix. Meanwhile, Dan Rayburn points out that Sandvine recently posted tests where an iPad and Apple TV on the same Comcast connection at the same time got different quality, because Netflix delivered service to the two devices over different connections. As of late, accusations have flown back and forth over who is to blame for the slow down (the image above is from Reed Hasting's blog post arguing for "strong" net neutrality that would require free connections), and Wheeler says he wants to bring some transparency to the deals.
+
+
+
+ We're asking for info on deals btw ISPs and content providers. We must understand impact on consumers. http://t.co/DY4Zk9gf1g
+- Tom Wheeler (@TomWheelerFCC) June 13, 2014Comcast and Netflix have issued statements welcoming the Commission's activity, but we'll see how long that lasts. Comcast says it has "long published our peering policies for example, and are open to discussions about further disclosures that would benefit consumers. Netflix, meanwhile says that "Americans deserve to get the speed and quality of Internet access they pay for." Verizon meanwhile, suggested the current system for peering agreements between networks was fine without regulation, saying "Internet traffic exchange has always been handled through commercial agreements. This has worked well for the Internet ecosystem and consumers." So far, these arrangements haven't been covered by the old net neutrality rules or the controversial new ones currently under review, but we'll see if this is a step towards bringing them under the same umbrella.
+
+Sena Fitzmaurice, VP Government Communications, Comcast Corporation:
+
+We welcome the Chairman's attention to these important issues in the Internet ecosystem. Internet traffic exchange on the backbone is part of ensuring that bits flow freely and efficiently and all actors across the system have a shared responsibility to preserve the smooth functioning and highly competitive backbone interconnection market. We welcome this review which will allow the Commission full transparency into the entire Internet backbone ecosystem and enable full education as to how this market works.We have long published our peering policies for example, and are open to discussions about further disclosures that would benefit consumers. We also have voluntarily shared a vast array of information about our peering and interconnection practices with the FCC. We also agree with the Chairman that the broadband consumer should be the focus of this inquiry and not any particular business model. We look forward to continuing to work with the FCC on these issues."
+
+Netflix:
+
+We welcome the FCC's efforts to bring more transparency. Americans deserve to get the speed and quality of Internet access they pay for.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

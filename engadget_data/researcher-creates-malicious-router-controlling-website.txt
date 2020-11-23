@@ -1,0 +1,6 @@
+
+ 
+Like having control of your connection to the internet? Don't tell Dan Kaminsky that -- the researcher has developed a method of DNS attack utilizing typical D-Link or Linksys routers that can allow hackers to gain command of your gear. The winner-takes-all maneuver, which is called a "DNS rebinding attack," functions by putting JavaScript into play that fools your browser into altering your router's configuration, thus letting the operator remotely administer the device. The concept isn't water-tight, as it takes advantage of easily-guessable router admin passwords, though Kaminsky says the enabling bug exists as a "core issue" for browsers. The attack will be showcased at tomorrow's RSA security conference, where it's hoped the demonstration will raise awareness about router security vulnerability. In the meantime, we suggest you change that default password.
+      
+
+ 

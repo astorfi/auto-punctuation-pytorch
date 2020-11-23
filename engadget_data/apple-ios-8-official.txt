@@ -1,0 +1,42 @@
+
+We all knew it was coming, and now it's here. Apple CEO Tim Cook just put months of breathless speculation to rest by pulling back the curtain on iOS 8 during the company's WWDC 2014 keynote address in San Francisco. It doesn't look like the sort of quantum leap that iOS 7 was, but Apple's head honcho assures us that it interacts in some fantastic ways with the new version of OS X and that it pairs great end user features with great developer features. Well, we'll be the judges of that. The big keynote just wrapped up -- here's what we know and what it means for you.
+
+
+First things first. There's a lot to dig into, but you'll get iOS 8 as a free update sometime this fall for the iPhone 4s and newer, the fifth-gen iPod touch and the iPad 2 and newer. If you're a developer though, you'll be able to access the iOS 8 beta and SDK today.
+
+
+
+
+Interactive Notifications
+We've all been there -- you get a message while you're doing something else, and you just can't be bothered to switch apps. With iOS 8, you can pull down from that notification shade and respond from right there. It's not limited to messages, either -- you'll be able to like/comment on Facebook messages or handle your calendar events.
+
+Improved Mail
+Apple has introduced Mailbox-style actions to its stock Mail application, too. You can easily tag or dismiss certain missives without even having to open them up, and all it takes is a quick swipe on the contents of your inbox.
+
+Spotlight
+The company made a big to-do about how much better Spotlight is in OS X Yosemite, so it's only natural the iOS version gets an upgrade as well. Among other things, it'll let you search for apps you haven't even installed yet, songs in the iTunes store, movie times/locations and more. Media isn't the only focus here, though. It'll also show directions to locations you type in, as well as news results.
+
+QuickType
+At long last, iOS is getting an improved on-screen keyboard. In short, we're looking at an upgraded recognition service that can more accurately predict what it is you're trying to say. Hopefully this means an end to all the "ducking" typos going on out there.iMessage takes on WhatsApp
+Facebook just bought WhatsApp for an obscene amount of money, but that hasn't stopped the folks in Cupertino from replicating some of the app's most-used features. Among other things, you can send audio and video messages from within the app -- in the old days, you'd have to pop out into the camera or Voice Memos to create your content and then send it over. Even better: You can respond to one of those audio messages right from the lock screen if you just raise your iPhone to your face. iMessage even has a little touch of Snapchat in it now, as you can set those particularly sensitive messages to self-destruct after a certain period of time. Is there any major social service that Apple didn't just take aim at?Continuity
+We've touched on this elsewhere, but the newly announced Continuity between iOS and OS X is a very, very welcome shift for Apple. You'll be able to pick up and initiate phone calls from within OS X, even when your iPhone is across the house. Is someone calling you? You'll get a caller ID notification, and a quick touch lets you use your Mac as a speakerphone. And if one of your non-Apple pals shoots you a plain ol' text message, your iPhone will relay it to all your other iDevices.
+
+HealthKit and the Health app
+Think of HealthKit as a one-stop shop for all the health data that gets collected from all the tracking apps on your phone. Apple's teaming up with a few key partners to use that data -- Nike can provide access to your fitness and activity data, and the Mayo Clinic hopes to get actual, real-time health information from patients through HealthKit. And for you, the end user? You'll be able to keep tabs on the measurements that matter most to you by way of a (startlingly pretty) new Health app.
+
+Family Sharing
+Apple is being embraced by businesses all over the place, but that's not the only organization the company is concerned with winning over. With its new Family Sharing push, those even smaller groups (up to six people, if you were curious) can share a single calendar, plus app and content purchases. If you're a parent and your lil' whippersnapper has an affinity for buying things from iTunes with your credit card, well, never fear. Once connected, those young ones will be told to seek your permission and you'll get a notification on your phone to that effect.
+
+iCloud Photo Library
+You know that rad selfie you just took? Let's pretend for a moment "rad selfie" isn't an oxymoron -- it's going to live in iCloud where you'll be able to view it (and all of your other photos) from any other device. Think of it as a sort of unified photo library so your most cherished moments are never too far out of reach. And in the event that those moments need a little touching up, well, you can edit those photos from one device and see the changes take effect on all your others.
+
+A Slightly Smarter Siri
+Craig Federighi just glossed through a spate of Siri modifications, none of which were as interesting as what we were hoping for. She's still in solid shape, though: You can invoke her presence in the car by saying, "Hey, Siri," and the virtual assistant can listen to music and identify it (thanks to a little help from Shazam). In case you happen upon something you like, you'll be able to download that track right from Siri's results page.
+
+Exciting for developers, exciting for us
+Federighi then segued into some developer news -- repress those yawns -- which will ultimately mean big, big things for how we interact with our iDevices. Developers have the ability to build apps that communicate with other apps, for one. Consider the camera, for instance. You'll be able to apply VSCO Cam filters to your shots without having to leave the stock camera app (assuming Federighi's demo wasn't just some one-off). Devs can also create attractive widgets that live in your notification center... and only there. Sorry folks, that neat concept video of widgets on your home screen remains the stuff of dreams.
+
+Oh, and did I mention that you'll be able to install third-party keyboards? It may not sound like a huge deal (especially now that Apple's beefing up its own keyboard), but you'll soon have the option to embrace alternate modes of text input. Tired of watching your Android-toting pals swipe out messages? Your time will soon come. Apple's new stance on Touch ID was also brought up here, and it's a welcome one. In addition to using your fingerprint to unlock your phone or make iTunes purchases, app creators will soon have the power to let us authenticate ourselves with a touch (don't worry, that fingerprint data stays strictly on your phone).
+
+Which iOS 8 feature excites you the most? 
+

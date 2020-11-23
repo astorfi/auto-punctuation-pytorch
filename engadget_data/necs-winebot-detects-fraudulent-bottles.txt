@@ -1,0 +1,5 @@
+
+ Apparently wine fraud is big business, with certain less-than-reputable vineyards watering down their Cabernet with a little Merlot, for instance, or even filling their supposedly boutique bottles with some off-the-shelf Manischewitz. Well the engineers / wine connoisseurs over at NEC have had enough, so they've invented a wine-tasting "robot" that can distinguish between 30 distinct varieties using only a five-milliliter sample. We've already seen NEC use infrared light in a food-tasting bot, and now they've taken a similar approach with this new device -- about twice the size of a three-liter wine box (mmm...box o' wine) -- which uses LEDs to fire infrared light at a sample and an array of photodiodes to interpret the resulting reflection. Until they can boost its recognition abilities to include many more varieties of wine (about 1,000, in fact), though, this project is little more than an academic exercise -- meaning you'll still need to bring your corkscrew to the liquor store if you want to ensure that you're getting a quality product.
+      
+
+ 

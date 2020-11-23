@@ -1,0 +1,8 @@
+
+ 
+See that tiny little thing? That's not just a CPU, it's Intel's next-gen Atom Pine Trail CPU / GPU hybrid, and it's set to pop in all sorts of devices here at IDF. Intel was demoing it in a nettop running 480p video, but they assured us it was capable of 1080p playback -- we'll believe it when we see it, obviously. Also on display here at IDF: demo machines running 32nm Arrandale chips, with Intel's Clear HD video playback system, and the next-gen Gulftown gaming chip, which has six cores and will slot right into your X58 mobo to provide more power than you possibly need sometime next year. Check it all in the gallery!
+
+Update: So the first Intel rep we spoke to was a little confused -- Pine Trail only supports 480p playback, although it can apparently do 720p if pushed. Native HD isn't on Intel's roadmap until the next generation of these chips, so If you want HD right now, Intel's pointing manufacturers to the Broadcom Crystal HD video accelerator, which usually ends up costing about $30 extra at retail. So to recap: Intel's integrating graphics into its CPU dies, but in order to play back HD content, you still need a separate video processor to handle the decoding. How very efficient.
+
+
+

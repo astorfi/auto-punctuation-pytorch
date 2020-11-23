@@ -1,0 +1,7 @@
+
+ 
+Volleyball-playing robots may only come around every ten years or so, but they at least bring along some fairly big improvements when they do show up -- like actual mobility, in this case. Of course, "volleyball-playing" is still a bit of a stretch. The bot is actually designed to be more of a training aid, with it making use of a range of sensors, built-in GPS, a compass, and an iSight camera (all linked to a Mac mini) to track down balls and set them up for spiking drills. As you can see in the unfortunately short video after the break, all of that more or less works as advertised, although it seems that we'll still have to wait quite a while for the inevitable robot vs. robot match.
+
+ 
+
+

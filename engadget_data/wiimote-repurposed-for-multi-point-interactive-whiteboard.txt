@@ -1,0 +1,8 @@
+
+ 
+While certainly there's been no shortage of Wiimote hacks, the number of genuinely useful ones has been considerably more limited. It looks like you can now add one more to that list, however, as Johnny Chung Lee (he of the Wiimote finger-tracking hack) has now upped the usefulness even further with a makeshift multi-point interactive whiteboard. There's a bit more involved with this one than just a Wiimote, however -- namely, an IR-emitting pen (or two), which the Wiimote tracks while relaying all the necessary information back to a PC. That, as the video after the break shows, allows you to turn any surface into a multi-point whiteboard with the use of a projector, or turn any LCD screen into a touchscreen, of sorts. Best of all, Johnny has kindly provided the necessary software free of charge, so hit up the read link below if you want to give it a shot.[Via Hack a Day]
+
+ 
+
+
+ 

@@ -1,0 +1,8 @@
+
+  If you didn't believe the Tegra hype -- 25 days audio, 10 hours of 1080p video on single charge -- already then pull up a stool, son, NVIDIA wants to tell your a story. TechVideoBlog sat down with Gordon Grigor, NVIDIA's Director of Mobile Software to see Tegra's little Atom smasher in action. So sit back while Gordon smoothly streams a 720p MSN HD trailer off the web (over WiFi) then switches over to Firefox to take Flash for a spin at full-screen. Gordon also clarifies earlier confusion over Tegra's ability to handle HD video; see, the Tegra 600 can do H.264 video at 720p while the Tegra 650 can decode 1080p. Gordon also gives some more insight into memory configurations. It seems that the OS (either Android or Windows CE in single or dual-boot configurations) will be embedded with minimal on-board storage like those early Eee PCs. RAM will also be limited to about 512MB on base units going as low as 256MB and as high as 1GB in future (unannounced) devices. A 512MB model limits Firefox to about 3-4 opened tabs at a time. All of this is meant to keep prices down below $200 (or less when subsidized by carriers). Also of note is how the Tegra's GPU assists in rendering pixels anytime they appear on the display. In other words fonts, Firefox pages, scrolling, and of course video playback all benefit from an extra boost by the GPU. Check the video after the break to hear Gordon make some not so subtle jabs at Intel's relatively power-hungry Atom processor.Update: It's worth mentioning that the first Tegra smartbooks are expected to launch in October according to Gordon.
+      
+
+ 
+
+ 
+ 

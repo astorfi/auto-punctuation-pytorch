@@ -1,0 +1,15 @@
+
+       
+Fermi hardware might still be two months away, but NVIDIA has done the sage thing and released some tantalizing numbers and architectural details to keep the fanboys chirping in the meantime. The GF100 will signal the end of tiresome rebadging and clock speed massaging, and early adopters will find 512 CUDA cores, 48 ROPs, and a 384-bit GDDR5 memory interface sprawled across three billion transistors. Big changes are also afoot in how the card will do its work, with a reorganization toward a more parallel workflow leading to promises of up to eight times better geometry performance than on the GT200. HardOCP reports that anti-aliasing results have improved "notably," while the video we've got stashed after the break for you shows the GF100 beating the GTX 285 handily in a Far Cry 2 benchmark. Still, the PC Perspective crew expressed some apprehension about the massive die size and how it could impact yields given the still young 40nm production process -- a sentiment echoed by other publications who questioned whether NVIDIA would not have been better off trying for a less ambitious, more gaming-oriented board. We should all know that answer soon enough.
+
+Read - AnandTech
+Read - Hot Hardware
+Read - PC Perspective
+Read - HardOCP
+Read - Tom's Hardware
+      
+
+ 
+
+See more video at our hub!
+ 

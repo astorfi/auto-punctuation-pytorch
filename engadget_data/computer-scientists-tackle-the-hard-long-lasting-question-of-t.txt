@@ -1,0 +1,6 @@
+
+ 
+Humor: it's what separates humans from machines, GlaDOS from HAL 9000, and even a good boss from a great boss. For millennia humor was seemingly unlearnable -- either you had it or you didn't -- but two University of Washington computer scientists have cracked part of the comedy code. They've developed an algorithm to find potential innuendos in everyday speech: a "that's what she said" detector. Their approach, dubbed "Double Entendre via Noun Transfer" (DeviaNT), uses a "sexiness" rating for nouns, adjectives, and verbs, while also analyzing the likelihood of similar combinations occurring in erotic literature. Higher values signal higher TWSS potential, and the researchers have successfully tested their program with user-generated content from websites like TWSSStories. Why is this useful, you ask? It's one more advance in natural-language processing, helping researchers codify the subtle workings of human language. Just imagine: one day, a softball like "I was trying all night, but I just could not get it in!" might receive the same "clever" response from your computer as from your juvenile friends. 
+
+[Image via Isley Unruh]
+ 

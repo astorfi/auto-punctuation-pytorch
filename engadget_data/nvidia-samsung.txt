@@ -1,0 +1,10 @@
+
+It's true, Samsung is about to find itself back in the courtroom facing another round of patent litigation -- but this time, the lawsuit isn't coming from a direct competitor. NVIDIA just filed its first patent lawsuit in the company's 21 year history, and charging both Samsung and Qualcomm with infringing seven of its GPU patents. NVIDIA says that it's tried to negotiate licensing fees with the companies directly, but have made no progress. "Samsung repeatedly said that it was mostly their suppliers' problem," the company wrote on its official blog. Now NVIDIA is taking them both to court.
+
+
+
+Specifically, NVIDIA is targeting Qualcomm processors with Adreno graphics, as well as Samsung devices using ARM Mali or Imagination PowerVR GPUs -- this includes devices like the Samsung Galaxy S5, Note 4, Galaxy Tab S and several older smartphones and tablets. The patents at issue cover chip design, various processes, and lighting, rasterization and rendering technologies, all of which NVIDIA claims are violated by Samsung and Qualcomm's unlicensed use of the technologies. The company is seeking a trial jury to validate its claim and assign damages, and seems optimistic that it the legal system will help it cement a licensing agreement for the alleged technology use. Check out the company's official announcement (and its official complaints) for the full details.
+
+[Image credit: Shutterstock]
+
+

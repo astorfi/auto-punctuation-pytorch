@@ -1,0 +1,9 @@
+
+ 
+ If you thought the One X's capacitive button layout jarred with the Ice Cream Sandwich experience you saw on the Galaxy Nexus, you'll like what HTC's just told us. An update to version 4.0.4, launching today, will allow users to map menu functionality to the lower right 'recent app' key, while it will also treat its owners to white balance and continuous autofocus improvements within its well-received camera app. Expect a handful of stability improvements as well as a dedicated tab switcher for the built-in browser -- if you haven't already made the leap to Chrome. According to HTC, the update for the international iteration rolls out today, with the AT&T version already doing the rounds. The full statement's included below. Let us know how you get on.
+
+
+
+  Show full PR text    As part of our ongoing commitment to ensure customers are receiving software updates that improve their user experience, we are pleased to announce our next upgrade for the HTC One X will be released on August 10th.   The primary update will include an upgrade to Android version 4.0.4 (Ice Cream Sandwich), in addition to an improved Sense experience which will: enable the ability to map menu function to the 'recent app' key (improving visual presentation in non ICS apps like Facebook); improve tab management in the browser with a dedicated tab switching button and enhance camera capabilities such as white balance and continuous autofocus. Furthermore, customers can expect enhancements to memory, platform stability and the overall browsing experience. Other improvements include a Single Sign-On for Facebook allowing user access across applications and browsers and upgrades to Beats audio, which reflect our dedication to providing an authentic sound experience.   From a developer perspective, we are expanding SDK support for Media Link and providing a framework for video call applications to achieve improved performance and quality.
+
+ 

@@ -1,0 +1,10 @@
+
+ 
+ As Tizen's open-source OS continues to make its first steps into the world, there's some good news for anyone concerned with a weak app line-up. It looks like both Android versions and Samsung's own Bada SDK will be supported through an application compatibility layer (ACL) which works along similar lines to the Android app player on BlackBerry's Playbook. Open Mobile, which is responsible for the ACL, claim it'll have 100 percent compatibility with Google's back catalogue and be just as responsive -- some pretty heady statements. The company wants its program be included on the OEM side of the equation -- this isn't aimed at humble end-user tinkerers. For now, you can check how its ACL fares in a quick video walkthrough after the break. (It's worth noting that the demo tablet isn't running on the Tizen UI -- it looks like we'll have to loiter around for some more hardware.)
+
+
+
+
+ 
+
+ 

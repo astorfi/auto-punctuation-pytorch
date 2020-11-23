@@ -1,0 +1,13 @@
+
+
+Anxious to see what happens next in Daredevil? In the future, you might have to endure an ad first. Netflix has confirmed to Cord Cutters News that it's publicly testing ads both before and after shows. What you see as a test subject varies in length and whether or not it's skippable, so it's not certain just how tolerable these promos would be. However, Netflix is quick to note that a lot of things are up in the air, and that you might not see these clips at all -- it warns that many experimental features "never see a rollout," so your subscription may remain blissfully ad-free.
+
+
+Update: Don't panic just yet! Netflix tells TechCrunch that there are currently "no plans" to run third-party ads. Instead, this would be more to get you checking out other exclusive shows (say, Bloodlines) once you're looking for something new to watch. CEO Reed Hastings posted on Facebook that there's "No advertising coming onto Netflix. Period."
+
+
+The company isn't discussing its ultimate aims, to no one's surprise. However, the ad trial is likely meant to open the door to new pricing options that do more than tweak the number of simultaneous streams. Netflix could offset price hikes (and undercut streaming rivals) by launching a cheaper, ad-supported tier; alternately, it could compensate for slowing growth by asking you to pay more for ad-free viewing. We're certainly hoping it's the former rather than the latter. Either way, it's clear that Netflix isn't completely satisfied with its status quo.
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));No advertising coming onto Netflix. Period. Just adding relevant cool trailers for other Netflix content you are likely to love.
+
+Posted by Reed Hastings on Monday, June 1, 2015

@@ -1,0 +1,6 @@
+
+ 
+Intel raised quite a few eyebrows yesterday by disclosing that its Cougar Point chipsets suffer from an incurable design issue that would potentially degrade Serial ATA transfers over time. AnandTech has gone to the trouble of getting in touch with Intel to seek more information and the problem, as it turns out, is a single transistor that's prone to a higher current leakage than tolerable. This can not only diminish performance over the 3Gbps SATA ports, it can actually make them fail altogether. There is more comforting news, however, in that the pair of 6Gbps SATA ports on the chipset are untroubled by this ailment, so devices and users that never plug into the 3Gbps connections can just carry on as if nothing's ever happened. For everyone else, a repair and replacement service is taking place now, with Intel's budget for dealing with this problem said to be a generous $700 million.
+      
+
+ 

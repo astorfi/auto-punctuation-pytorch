@@ -1,0 +1,6 @@
+
+ 
+Anybody remember when a gigaflop was a big deal? Oh, how far we've come. Researchers are now talking about exascale computing, which means systems that can handle a million trillion calculations per second. To put that in perspective, IBM's BlueGene/L (pictured), the fastest machine running, has a peak performance of 596 teraflops. A petaflop is 1000 times faster than a teraflop, and an exaflop is 1000 times faster than a petaflop. Yeah, that's a lot of flops. Right now researchers are sorting out the most preliminary of groundwork, such as how do you get data to tens of thousands of processors at a time for crunching, but we're sure before a few decades are up they'll finally have built a machine that is powerful enough to cure all human diseases -- or, you know, maybe even play Crysis at 60fps.
+      
+
+ 

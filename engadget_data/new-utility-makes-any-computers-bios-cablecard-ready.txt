@@ -1,0 +1,6 @@
+
+ 
+After learning that some were having success adding ATI Digital Cable Tuners to HTPC they built themselves, we knew it was only a matter of time before it would be possible to make it work on any computer, but we have to admit we never thought it would happen this fast. The Green Button forum member DanITman posted some directions and links to everything you need to make ANY Vista or Windows 7 computer support digital cable. The hack is very simple actually, it just uses a modified version of VistaLoader to emulate a Sony OCUR compliant computer's BIOS. The real beauty is that it can easily be installed or uninstalled and if Microsoft were to black list the Sony BIOS, emulating a different BIOS would be trivial. The only potentially unworkable caveat at this point is if you are using an Dell OEM Windows PC using the OEM key, this will break your activation, but hopefully a solution for that will be discovered shortly as well.
+      
+
+ 

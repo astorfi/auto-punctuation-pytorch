@@ -1,0 +1,12 @@
+
+
+
+
+
+	If you've ever fussed with a bootloader on Android before, you probably know of ClockworkMod: the custom recovery that lets users backup, restore and flash ROMs willy nilly. Well, it's no surprise Google's newest flagship -- the Galaxy Nexus -- has gotten the CWR treatment, as it's been made specifically for idle geek hands. No, the big news here is that instead of fiddling about with the camera key, power button and volume rocker all just to navigate the menu, you can now simply use the power of touch. That's right, this beta build utilizes four softkeys at the bottom of the screen, making the entire affair that much more efficient. You can hit up the source now to take it for a test run, but remember -- flash at your own risk.
+
+
+
+
+ 
+ 

@@ -1,0 +1,5 @@
+
+ AACS has already been compromised in at least two widely known ways, after DRM hackers posted on the Doom9 forums methods to retrieve and utilize volume, and later, processing keys to copy every Blu-ray and HD DVD movie released so far. Today a third method has appeared, as poster ATARI Vampire reports they were able to find the "sub device key" of the WinDVD 8 playback software. That key identifies the player and allows it to decode AACS protected titles. You might remember the software was also the victim of a simple "print screen" attack several months ago that was quickly patched. The method used to find it was based on arnezami's previous approach of watching memory dumps and finding it through a "bottom up" approach. Coming on the heels of the cracks already widely available, this doesn't really affect the current state of easily copied high def movies, but could make disabling the vulnerable player from playing future releases, finding the hole and preventing it from being hacked again, that much more difficult.[Via Slashdot]
+      
+
+ 

@@ -1,0 +1,8 @@
+
+Google's $35 Chromecast fared well in our review, but something that could make it even more useful is the ability to stream pictures and video from mobile devices. Users have been able to work around that on PCs by entering info for locally stored files into the Chrome address bar, and now ClockworkMod developer Koushik Dutta is showing off a solution for mobile that closes the gap with AirPlay. Demonstrated in the video after the break, his Phone to Chromecast app can fling pictures or videos stored on the phone directly to the dongle -- apparently thanks to web server software he'd already created for Android. There's no specific word on the codecs or resolutions tested, but he reports videos work at full framerate "like magic." The only bad news? The preview SDK terms mean he can't distribute the APK without written permission from Google, so this demo is as close as we're getting for now.
+
+
+
+
+ 
+ 

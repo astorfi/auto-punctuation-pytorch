@@ -1,0 +1,9 @@
+
+
+Apple isn't the only one that's making its software a lot more secure, and erm, fed-proof -- Google's upcoming Android platform will apparently be encrypted by default, according to The Washington Post. The publication didn't clarify whether it's Android's full-disk encryption, which Google first rolled out in 2011, but it did say that nobody can access the encrypted device (not even the company), unless they know its four-digit pin. Does that mean users will be forced to nominate a passcode upon setup? We don't know for sure, but with encryption in place, Mountain View (just like Apple) won't be able to assist authorities in searching your phone, so long as you keep your passcode a secret.
+
+
+
+Company spokeswoman Niki Christoff told the Post that keys/passcodes are not stored online or anywhere off your device, so Google has no way to share them. Also, with this update, you won't even have to think or figure out how to switch encryption on, since you're protected from the start. Google has apparently been developing this Android L feature for months, because while feds generally can't search phones without a warrant, it wants its software to be more resistant to government snooping.
+
+

@@ -1,0 +1,6 @@
+
+ 
+We're already pretty high on the Dash Express, but the company sweetened the pot a little this morning by announcing that the unit is based on OpenMoko's Neo open-source hardware platform. The Dash Express is first commercial product to use the OpenMoko GT0X reference platform, which is an updated version of the hardware in OpenMoko's open-source Neo 1973 mobile phone. As you'd expect, the Dash Express also uses OpenMoko's Linux bootloader and kernel, but the Dash GPS software itself is apparently still proprietary. The love doesn't stop there, either: OpenMoko and parent company FIC Mobility actually helped design the Dash Express hardware, and FIC is going to handle manufacturing as well. All in all, a pretty solid win for the OpenMoko / Neo system -- let's hope it's a sign of even more good things to come.
+      
+
+ 

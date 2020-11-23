@@ -1,0 +1,32 @@
+
+       
+This summer, Sprint's lineup of Windows Phone 8 devices increased from zero to two. The first to show up in stores was the HTC 8XT ($100 on contract), a modified version of the 8X designed for Sprint customers upgrading from old Windows Phones. Though in many ways it's a chip off the ol' block, there are enough differences in the hardware (and to a lesser extent, the software) that it has a personality all its own. So what exactly makes this particular handset sit apart from last year's flagship? And does it enhance or take away from the original 8X user experience? Keep reading to find out.
+
+
+
+
+Take the 4.3-inch frame from the 8X, the two-tone color schemes from the 8S, throw in Sprint LTE, a removable back cover and BoomSound, and you have the HTC 8XT, an interesting hybrid of HTC's WP8 devices from last fall. Of course, this is hardly the first time we've seen the Now Network ask HTC -- its old EVO chum -- to tweak one of its flagships. As much as we raved about the 8X's design, fit and finish, we have to admit that we like Sprint's take even better. We're also quite pleased with Sprint's "less is more" branding strategy as of late; the lack of operator logos makes the phone look cleaner.
+
+Our review unit came in a fairly dark shade of blue, with a lighter, secondary color used as an accent on the bottom strip. The two-tone setup means that you won't enjoy the same unibody build as on the 8X, but we're impressed with how it looks nonetheless. There's also a slight difference in how the Gorilla Glass stretches over the front of the phone: it rests on top of the 8X with no interruption between the display and the edge of the phone, whereas the 8XT's glass sits just a hair below the edges. The display itself is a little wider and shorter than its older brother, but still measures 4.3 inches on the diagonal. Unfortunately, the 8XT takes a hit on resolution by offering a WVGA (800 x 480) panel instead of 720p, and although it looks decent from afar, a closer look inspection of the display reveals more pixelation and rougher, more jagged fonts.
+
+
+Perhaps the most striking change to the design, however, is the removable back cover, which houses twin microSD and micro-SIM slots. You still won't have access to the 1,800mAh battery, unfortunately, but we're happy to see that Sprint refrained from embedding its LTE SIM and chose not to skimp on external storage.
+
+You'll also quickly notice the external speakers on the top and bottom of the front-facing glass, which HTC uses to offer BoomSound, a stereo sound feature it introduced in the One series earlier this year. In our review of the One, we praised the speakers for being "the best set of external speakers we've heard on a phone so far," so it's refreshing to see that the feature isn't just limited to Android.
+
+
+Since Windows Phone 8 is basically the same here, with just a few OEM and carrier customizations (unlike HTC's Android devices, the 8XT comes with only two Sprint-branded apps), you don't have to worry about having a different user experience on the 8XT than on the 8X. That said, it fortunately comes with the platform's latest update, known as GDR2 (Build 8.0.10327.77), out of the box. This build includes CardDAV and CalDAV support, Data Sense and a few other improvements. Oddly, though the update also features FM radio, it's not implemented in the 8XT.
+
+The 8XT features the same 8-megapixel rear camera as before, although its front-facing counterpart has been downgraded in resolution to 1.6MP. Of course, thanks to GDR2, you can change which Lens opens up when you press the hardware shutter key, so there's at least a bit of an improvement in the overall imaging experience.
+
+
+You'll also see a change from a 1.5GHz Snapdragon S4 Plus chip to a 1.4GHz dual-core Snapdragon 400 (MSM8930), with an upgrade to an Adreno 305 GPU from the 225 variant. Slight changes notwithstanding, you're going to get the same smooth performance from the 8XT as you would on any similarly specced Windows Phone, which is one of the platform's greatest benefits, really. That said, it wouldn't be a proper performance evaluation without any quantitative measurements, so here are a few benchmarks that show where the 8XT stands in comparison to some of its peers: the Nokia Lumia 1020 and HTC Windows Phone 8X.
+
+    HTC 8XT Nokia Lumia 1020 HTC Windows Phone 8X     WPBench 234 222 233   Battery rundown 2:09 2:57 2:24   SunSpider 1.0 (ms) 963 911 897   AnTuTu (*GPU test off) 10,884 (9,462*) 12,143 (10,673*) 11,928 (10,985*)   SunSpider: lower scores are better; benchmark results are retrieved under each phone's latest update as of this writing.  There isn't a drastic variance in benchmarks, though admittedly this is par for the course when it comes to Windows Phone. Nitpickers will notice that the 8XT notches slightly worse results than the rest of the pack, which makes us wonder if Snapdragon 400, a new addition for Windows Phone, has been fully optimized for the OS. The same goes for our initial battery life assessment, measured using WPBench for all of our Windows Phone devices: runtime here appears to be a bit shorter than on its predecessor. Last but not least, BoomSound helps give the 8XT one of the best audio experiences we've heard on a Windows Phone device.
+
+Unless you're a sucker for the 8XT's design and BoomSound on a Windows Phone, this phone is aimed at a very specific group of users: Sprint customers who either want to switch to Windows Phone or want to update from an old Mango device. For that potential buyer, the $100 8XT only needs to compete with the $150 Samsung ATIV S Neo, which also recently launched on the Now Network. Just like the 8XT, it features a dual-core Snapdragon 400 chipset clocked at 1.4GHz, but it one-ups HTC's offering with a 4.8-inch, 720p display and 2,000mAh battery. Otherwise, most of the other components are the same or at least much more comparable.
+
+
+All told, we like the little tweaks HTC has made on the 8XT, and the lack of Sprint branding makes it look even classier. While it doesn't offer the most beautiful display, the remaining aspects of the phone help make up for it in terms of value. It might not be different enough to persuade Android or iOS users to switch -- nor is it a good enough Windows Phone to convince anyone to switch networks -- but from what we can tell, it's a good mid-range WP8 device that deserves a little attention from would-be upgraders.
+
+

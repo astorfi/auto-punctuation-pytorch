@@ -1,0 +1,15 @@
+
+Just a couple weeks ago, Pebble CEO Eric Migicovsky told us that his company is solely focused on cranking out new software to improve the watch's user experience. Today he's making good on the promise by announcing two enhancements to the product's ecosystem: an iOS 7-compatible app and a new developer kit that will give third parties a lot more access to the watch's internal components and sensors. As an added bonus, the company also announced that it's working with partners like Foursquare, Yelp and GoPro to produce new apps for each.
+
+
+Starting with iOS, the new and improved iOS 7 app expands the watch's current notification capabilities. Previously, users have only been able to receive alerts for calls, texts and emails, but iOS 7 integration will broaden the Pebble's capacity to include any notifications enabled in your Notification Center, which fortunately includes Twitter, Facebook, LinkedIn, Google+, Instagram, and the list goes on.
+
+
+Pebble's also updating its SDK to version 2.0, which will give developers more access to the hardware and software within the watch itself. An accelerometer API will open doors for gesture-based controls and fitness-related apps. A data logging API enables apps to store sensor data and other info (motion trackers and game scores are examples) when you're away from your phone, and a Javascript API will make Pebble apps compatible on both Android and iOS by only inserting a few lines of code (there are currently a lot of apps that are only compatible with one or the other, so this will help trim down unwanted fragmentation). Migicovsky tells us that the new developer kit is going to start rolling out as a beta over the coming weeks, which will give third parties the chance to get their feet wet before it's time to push their apps live.
+
+
+
+
+Finally, Pebble also announced that it has some apps in the works from Yelp, Foursquare and GoPro. The latter will feature remote control capability to make it easier to begin and end your recordings, and as you might have guessed, the two former apps will let you do check-ins directly from your watch. There's no word on when we can expect the finished products, but today's announcements will go a long way to helping the Pebble become exponentially more functional (and even more customizable) than it was before. We'll have the opportunity to chat with Migicovsky at this weekend's Expand, so keep an eye out!
+
+

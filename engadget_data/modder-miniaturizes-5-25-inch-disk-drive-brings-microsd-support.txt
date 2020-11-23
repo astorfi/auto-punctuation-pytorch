@@ -1,0 +1,6 @@
+
+ 
+You aren't looking at a retro microSD card reader, you're looking at an Atari-compatible serial disk drive that just happens to use microSD in lieu of 5.25-inch floppies. In a Zork inspired fit of nostalgia (we've all been there), hardware modder Rossum paired up an Atari connector with a LPC1114 microcontroller, capable of emulating up to eight Atari drives, managed by a custom, auto-booting app. The whole package is neatly packed in to a tiny 3D printed replica of the original Atari 810 disk drive, and is available for sale never -- but don't let that stop you: Rossum's schematics are free for the taking. The word's biggest little Atari drive is just a DIY away. 
+
+[Thanks, Francesco F.]
+ 

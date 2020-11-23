@@ -1,0 +1,29 @@
+
+
+Google's Project Zero tracks vulnerabilities in software systems and reports them to vendors "in as close to real-time as possible" -- a noble cause, no? But what happens if said vendor then fails to push a fix within the 90-day window? Microsoft just found out: Google will go ahead and publish the bug anyway, complete with code that can be used to exploit it. A researcher found a Windows 8.1 security hole that allows lower-level users to become administrators, giving them access to sensitive server functions they'd normally have no right to. Though it remains unpatched by Microsoft, the Zero team published it several days ago -- right on schedule.
+
+
+
+Microsoft was quick to point out that attackers would "need to have valid logon credentials and be able to log on locally to a targeted machine." While that should limit the damage, it doesn't mean the flaw is harmless -- a disgruntled mid-level employee with some programming skills could wreak serious harm, for instance. Mountain View told us "just to make this absolutely clear, the (bug) was reported to Microsoft on September 30 (along with) the 90-day disclosure deadline statement... which in this instance has passed."
+
+Still, some observers have raised questions about whether Project Zero does more harm than good if Google isn't flexible with its publishing deadline. Others argued that Microsoft had plenty of time to fix the bug, and Google was firm about its policy. "Project Zero's disclosure deadline... allows software vendors a fair and reasonable length of time to exercise their vulnerability management process, while also respecting the rights of users to learn and understand the risks they face." But it also added that "we're going to be monitoring the affects (sic) of this policy very closely."
+
+Meanwhile, Microsoft said that it's currently "working to release a security update to address an Elevation of Privilege issue." For full statements from both companies, see below.
+
+Microsoft:
+
+We are working to release a security update to address an Elevation of Privilege issue. It is important to note that for a would-be attacker to potentially exploit a system, they would first need to have valid logon credentials and be able to log on locally to a targeted machine. We encourage customers to keep their anti-virus software up to date, install all available Security Updates and enable the firewall on their computer.
+
+Google:
+
+There was some confusion yesterday about whether we had contacted Msft about this issue, so we posted an update (below).
+
+Firstly, just to make this absolutely clear, the ahcache.sys/NtApphelpCacheControl issue was reported to Microsoft on September 30. You can see this in the "Reported" label on the left hand panel of this bug. This initial report also included the 90-day disclosure deadline statement that you can see above, which in this instance has passed.
+
+Project Zero's disclosure deadline policy has been in place since the formation of our team earlier in 2014. It's the result of many years of careful consideration and industry-wide discussions about vulnerability remediation. Security researchers have been using roughly the same disclosure principles for the past 13 years (since the introduction of "Responsible Disclosure" in 2001), and we think that our disclosure principles need to evolve with the changing infosec ecosystem. In other words, as threats change, so should our disclosure policy.
+
+On balance, Project Zero believes that disclosure deadlines are currently the optimal approach for user security - it allows software vendors a fair and reasonable length of time to exercise their vulnerability management process, while also respecting the rights of users to learn and understand the risks they face. By removing the ability of a vendor to withhold the details of security issues indefinitely, we give users the opportunity to react to vulnerabilities in a timely manner, and to exercise their power as a customer to request an expedited vendor response.
+
+With that said, we're going to be monitoring the affects of this policy very closely - we want our decisions here to be data driven, and we're constantly seeking improvements that will benefit user security. We're happy to say that initial results have shown that the majority of the bugs that we have reported under the disclosure deadline get fixed under deadline, which is a testament to the hard work of the vendors.
+
+

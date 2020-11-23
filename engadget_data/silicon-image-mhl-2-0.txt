@@ -1,0 +1,38 @@
+
+ 
+ After taking a few years to get off of the ground, MHL (Mobile High-Definition Link) technology is now found in many modern phones as well as HDTVs from LG, Toshiba and Samsung. Now, Silicon Image has announced its second generation of chips to go in those devices with enhanced features. MHL if you'll recall, lets mobile devices connect to HDTVs via HDMI, while passing power and control signals along with the video. According to Silicon Image its new chips, the SiI8240 MHL transmitter (for phones, tablets, cameras and laptops) and SiI9617 MHL Bridge (for HDTVs, monitors and projectors) and dual-mode IP core (like the one in Samsung's Galaxy S II) upgrade the previous generation's capabilities with the ability to pass 1080p video at 60Hz (up from 30Hz) and charge up to twice as fast. There's a few more details in the press releases after the break, if you're wondering whether or not your phone / HDTV is down with MHL then check the specs or hit the Wikipedia link below.
+
+
+
+  Show full PR text   Silicon Image Introduces Low Power Dual-Mode Transmitter IP Core Supporting Both HDMI® and MHL™ Connectivity Standards
+   SUNNYVALE, Calif., May 22, 2012 – Silicon Image (NASDAQ: SIMG), a leading provider of wireless and wired HD connectivity solutions, today announced the availability of a low power dual-mode transmitter intellectual property (IP) core that supports both the HDMI® (High-Definition Multimedia Interface) 1.4b and MHL™ (Mobile High-Definition Link) 2.0 standards. Silicon Image's dual-mode HDMI/MHL transmitter IP core architecture reduces semiconductor development and manufacturing cost by sharing die area for both HDMI and MHL functionalities-offering mobile device application processor vendors the flexibility to design a single-chip solution that is configurable for both HDMI and MHL mobile devices.
+
+   MHL technology delivers 1080p 60Hz uncompressed video with up to eight channels of digital audio while charging the mobile device-enabling consumers to enhance their mobile experience by displaying content including HD video entertainment, photos, applications, and games on the big screen.
+
+   "With the explosive growth of MHL-enabled products in 2011 and 2012, mobile phone and tablet manufacturers are now adding MHL functionality to their new device platforms, allowing consumers to 'plug and play' their HD content from the small to big screen," said Ron Richter, senior director of worldwide IP core licensing at Silicon Image. "Silicon Image's dual-mode HDMI/MHL transmitter IP core allows SoC providers to quickly integrate MHL technology into their next-generation mobile devices, enabling a single SoC to support both HDMI and MHL technology without adding significant die area or pin count."
+
+   Key features of Silicon Image's dual-mode HDMI/MHL transmitter IP core include:  Single digital and analog design supporting both HDMI Version 1.4b & MHL 2.0  Low power design (1080p/60fps @ 30mW)  Configurable IP core design, with MHL implementation saving up to 10 pins in SoC package
+
+   With MHL technology, manufacturers can deliver next-generation products that:  Support 1080p 60Hz full HD video  Use established connectors for mobile and CE products, such as micro USB and HDMI  Enable faster charging of the latest smartphones and tablets when connected to MHL-enabled DTVs or monitors  Control the mobile device using the DTV's remote control
+
+   Over 50 million MHL-enabled products shipped during 2011, and a steady release of new products continues to expand the MHL ecosystem, which already includes smartphones, tablets, DTVs, monitors, home theater products and accessories.
+
+   Silicon Image's family of IP cores includes a broad range of HDMI and MHL technology solutions, image signal processor (ISP) camera cores, H.264, MPEG-1/2 and VC-1 video decoders up to 4Kx2K resolution, Serial ATA (SATA) storage and RAID controllers.
+
+   For more information about Silicon Image's complete IP core product offering, visit our website at http://www.siliconimage.com/iplicensing/index.aspx.
+
+  Silicon Image Unveils Next-Generation MHL™ Products
+  MHL Transmitter and MHL-to-HDMI® Bridge ICs Provide 1080p60Hz Full HD Resolution for Mobile Products, DTVs, and Monitors
+   SUNNYVALE, Calif., May 15, 2012 – Silicon Image (NASDAQ: SIMG), a leading provider of wireless and wired HD connectivity solutions, today announced its next-generation MHL™ products, the SiI8240 MHL transmitter for mobile devices and the SiI9617 MHL-to-HDMI® bridge for DTVs and PC displays, which are also MHL 2.0 compliant. Both semiconductor products support 1080p60Hz full HD and the latest MHL specification features that include native 3D formats, alpha-numeric key codes for advanced remote control functions, and increased power charging from the display to enable faster charging of the latest smartphones and tablets.
+
+   Mobile devices continue to integrate higher performance processors and higher resolution HD displays. Silicon Image's SiI8240 is the first MHL transmitter to output 1080p60Hz full HD, enabling mobile devices to drive today's high-resolution DTVs and monitors at 60 frames per second. To enable Silicon Image's MHL customers to seamlessly and quickly upgrade their MHL-enabled products to deliver higher resolutions, faster frame rates, and enhanced features, the SiI8240 has been designed to be pin compatible to the currently shipping SiI9244 MHL transmitter.
+
+   Today's smartphones and tablets are increasingly transforming from traditional communication devices to mobile set-top-boxes, gaming consoles, and PCs. With this transformation, consumers are more often connecting their smartphone to a larger display to enjoy new interactive applications-from digital entertainment and office productivity to gaming. With the SiI9617 MHL-to-HDMI bridge, consumer electronics (CE) manufacturers can design their latest 1080p60Hz DTVs and monitors to seamlessly include the latest MHL capabilities. When a consumer connects an MHL-enabled mobile device to an MHL display, that display will charge and provide control for the mobile device, while showing video, productivity applications and games in 1080p60Hz full HD quality. With MHL 2.0 compliant products, the latest smartphones and tablets will charge up to twice as fast when connected to an MHL 2.0-enabled display.
+
+   "Silicon Image's new products offer an end-to-end MHL 1080p60Hz connectivity solution for our global mobile, CE, and PC customers," said Tim Vehling, vice president of product marketing at Silicon Image, Inc. "With these latest products from Silicon Image – including a drop-in pin-compatible version – manufacturers can quickly develop and roll-out their next-generation MHL 2.0-enabled products."
+
+   MHL technology continues to gain broad industry adoption with over 50 million MHL-enabled products shipped globally during 2011. Silicon Image anticipates that MHL-enabled product shipments worldwide will more than double in 2012. The growing ecosystem of MHL devices includes smartphones, tablets, DTVs, monitors, home theater products and accessories.
+
+   Silicon Image offers a comprehensive portfolio of production-proven MHL semiconductor and IP solutions for mobile, DTV and home theater applications. For more information about Silicon Image's MHL product portfolio, please visit: www.siliconimage.com.
+
+ 

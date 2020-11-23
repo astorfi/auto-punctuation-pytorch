@@ -1,0 +1,6 @@
+
+ 
+In a break from tradition, the availability of an official SDK for Android 2.1 trailed availability of a phone running it -- the Nexus One, of course -- by nearly a week, undoubtedly leaving countless developers sleepless. Despite the Nexus' fistful of new goodies like active wallpaper and a far flashier 3D-enabled Gallery app, Google's simply referring onlookers to the 2.0 documentation to learn about user-facing changes: "Android 2.1 does not add significant user features, see the Android 2.0 Platform Highlights document for the latest user features." From a development perspective, the latest SDK includes hooks for creating your own active wallpapers, so get moving, guys -- a whole bunch of HTC and Moto devices are going to be able to use 'em soon enough.
+      
+
+ 

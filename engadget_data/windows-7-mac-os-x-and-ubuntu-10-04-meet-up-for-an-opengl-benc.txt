@@ -1,0 +1,6 @@
+
+ 
+So these three operating systems walk into a bar one night ... alright, we'll behave. With all the Steamy conversation about gaming on non-Windows desktop platforms going on, we thought you might care to peek at a little OpenGL performance comparison review. As the chief cross-platform API, it's the only way we're going to be seeing the latest games running natively on Mac OS and Linux, but how will that experience compare to the market leader? As it turned out, Windows maintains superiority in this field, with frame rates that were habitually above those on the latest Ubuntu and well ahead of what you might get on Mac OS 10.6.3. It's still early days -- after all, Steam's non-DirectX cupboard is pretty bare right now -- but at this point in time, OpenGL gaming is a crown that Microsoft retains with relative ease. Hit the source for all the line graph evidence, and let's hope things improve for the rest of us in rapid fashion.
+      
+
+ 

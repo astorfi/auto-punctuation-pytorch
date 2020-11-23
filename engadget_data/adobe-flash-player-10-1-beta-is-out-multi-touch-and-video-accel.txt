@@ -1,0 +1,11 @@
+
+ Here we go: Adobe just made its Flash 10.1 prerelease packages available for download in fulfillment of its Open Screen promise. The download is available for Windows, Intel-based Mac, and Linux systems with a smartphone version coming later; notably, while no other mobile OS is specifically mentioned, Adobe says that a beta for Palm webOS is slated for "later this year" on its Flash Player 10.1 page. At the moment, however, only the Windows release includes hardware-based video acceleration for H.264 video. And this is beta-ware kids, so there's more than the usual level of hazard with installing. Then again, for those of you with Atom-based netbooks brought to their knees by full-screen HD video, well, the benefits likely outweigh the risk for you. Adobe also announced an AIR 2 beta which allows developers to build more feature-rich applications including multi-touch capabilities -- see the unholy union demonstrated on an HP TouchSmart in the video after the break.
+
+Update: As noted by reader ZeroK2 in the comments, the release notes [warning: PDF] specify which GPUs will benefit from the hardware acceleration. These include ATI Radeon HD 3xxx and 4xxx series, Mobile Radeon HD 4xxx series, select FirePro products, Intel 4 series chipsets, the Broadcom Crystal HD decoder, and most NVIDIA ION and GeForce 8/9/1xx/2xx powered PCs. In other words, the vast majority of netbook owners with integrated GMA950 graphics need not apply.
+
+[Thanks to everyone who sent this in]
+
+ 
+
+
+ 

@@ -1,0 +1,13 @@
+
+ 
+Let's get the hard data out of the way first: 480 CUDA cores, 700 MHz graphics and 1,401MHz processor clock speeds, plus 1.5GB of onboard GDDR5 memory running at 1,848MHz (for a 3.7GHz effective data rate). Those are the specs upon which Fermi is built, and those are the numbers that will seek to justify a $499 price tag and a spectacular 250W TDP. We attended a presentation by NVIDIA this afternoon, where the above GTX 480 and its lite version, the GTX 470, were detailed. The latter card will come with a humbler 1.2GB of memory plus 607MHz, 1,215MHz and 1,674MHz clocks, while dinging your wallet for $349 and straining your case's cooling with 215W of hotness. 
+
+NVIDIA's first DirectX 11 parts are betting big on tessellation becoming the way games are rendered in the future, with the entire architecture being geared toward taking duties off the CPU and freeing up its cycles to deliver performance improvements elsewhere. This is perhaps no better evidenced than by the fact that both GTX models scored fewer 3DMarks than the Radeon HD 5870 and HD 5850 that they're competing against, but managed to deliver higher frame rates than their respective competitors in in-game benchmarks from NVIDIA. The final bit of major news here relates to SLI scaling, which is frankly remarkable. NVIDIA claims a consistent 90 percent performance improvement (over a single card) when running GTX 480s in tandem, which is as efficient as any multi-GPU setup we've yet seen. After the break you'll find a pair of tech demos and a roundup of the most cogent reviews.
+
+
+
+
+
+
+Read - AnandTech: "Fermi's compute-heavy and tessellation-heavy design continues to interest us but home users won't find an advantage to that design today."Read - HardOCP: "The only thing that "blew us away" was the heat coming out of the video card and the sound of the fan." Read - PC Perspective: "If you want the fastest single-GPU graphics card then the GTX 480 is the best there is."Read - HotHardware: "Versus the single-GPU powered Radeon HD 5870, the GeForce GTX 480 is on average roughly 5% - 10% faster."Read - Hexus: "A lot of juice means a lot of heat and load on the coolers. This is why the GeForce GTX 480's excellent heatsink has to work overtime in keeping the GPU under 100°C." Read - Legit Reviews: "The NVIDIA GeForce GTX 480 was known to be hot and fast before it came out and that is exactly what it turned out as being."
+ 

@@ -1,0 +1,37 @@
+
+ 
+    Microsoft SmartGlass hands-on  Xbox SmartGlass: did Microsoft just render the Wii U controller obsolete?   Microsoft's Marc Whitten: SmartGlass is the 'enabling technology' of IE on Xbox 360 What good is a surprise if you already saw it coming? When I mention to Microsoft's Marc Whitten, corporate vice president of Xbox Live and the man who has shepherded SmartGlass to its debut, that we kind-of-sort-of knew that his baby was set to be announced at E3 before the company got a chance to do so, he lets out a frustrated laugh. "Yeah..."
+
+ He'd hoped the unveiling at the company's pre-show keynote would be the first time we, and everyone else in the industry, got eyes on the fruit of his and his team's labors. But, when I tell him we were still genuinely surprised at the scope of SmartGlass, and genuinely impressed at the potential, he seems genuinely pleased and reminds us that what we've seen is "all just the beginning." Join us after the break for an exploration of what comes next for Microsoft SmartGlass.
+
+
+
+  We have to figure that the team at Microsoft took at least a little inspiration from the Wii U GamePad. SmartGlass as a project dates back roughly 12 months, according to Marc, and it doesn't take more than a moment's pondering to remember something else that happened 12 months ago. Nintendo chose last year's E3 to unveil the Wii U to the world, wowing us with the notion of gaming on not just one screen but on two simultaneously. We have to figure that the team at Microsoft took at least a little inspiration from the Wii U GamePad, but Marc says the genesis of the idea was simply the search for the answer to a single question: "How do you make this living room better?"
+
+ The answer was to take something we're intimately familiar with -- our smartphones and tablets -- and make them more useful in the combined space of videogaming and living room entertainment, a space that the Xbox 360 dominates. "Entertainment is being transformed more right now than ever before," says Marc, referring to the increasing popularity of services like HBO Go and Netflix along with the creation of new, digital on-demand offerings like the NBA League Pass.
+
+ 
+ These are the sorts of content partnerships Marc is actively pursuing for the console, but when prompted to weigh in on the recent buzz surrounding HBO keeping Go restricted to cable subscribers, he chose to stay diplomatic. "I'm just focused on getting it all in the box." How the content producers choose to restrict that content is, largely, up to them.
+
+ In that regard, SmartGlass is a little restricted itself. We initially believed it was something of an answer to AirPlay, letting you push any 'ol content from your tablet to your Xbox, but when it comes to media playback it's actually far simpler. You can indeed watch a movie on your phone or tablet and pick up where you left off on the Xbox 360, but you can't push arbitrary footage to the console. It has to be a video that was purchased or rented through Xbox Live services and, as you can probably guess, that limits the supported platforms.
+
+ This sort of content syncing is only going to be available for Windows Phone and Windows 8 devices and there's no plan to extend it to others. But, neither is there any technology standing in the way. "I'd love to have everybody," Marc says, "there's nothing that would stop that." Nothing, of course, except for cross-platform support for downloading and playing media from the various Xbox-related services, which would take a lot of hand shaking with many of Microsoft's competitors on the mobile front.
+
+ 
+ Thankfully, the rest of the SmartGlass functionality is indeed going to be available on the other major platforms, including Android and iOS -- eventually, at least. Cross-platform support has been part of the plan "since day one" and Marc and co. are working to get each app ready for the service's launch this fall. But, it's unclear whether they'll all be there at once.
+
+ When those apps do appear, the experience will be tailored for each. Native apps will be designed to take advantage of their platforms' relative attributes -- the iPad having a different, more expansive layout than iPhone, for example. Each should be simple and familiar. Marc wants you to "use what you are comfortable with." There won't be a custom keyboard here -- when you do text-entry, whatever keyboard you have on your device will pop up. No point reinventing the wheel, after all.
+
+ Though comfortable, the experience will change depending on what you're doing. In the Xbox 360 dashboard you'll get a simple interface that works like a touchpad, with areas for tapping on the four controller face buttons. (It looks a lot like BlackBerry Remote.) This is the same interface for operating Internet Explorer, which, as we pointed out earlier is actually made possible by this interface.
+
+ 
+ But, hop into a compatible on-console application and the interface changes drastically. When watching Game of Thrones you'll get a map showing you where the current scene takes place, along with a browsable family tree. Start playing School of Rock from Paramount and the companion app will give you IMDB-like information about who's in the current scene. Tap on any of them and you can see their complete history and even jump to any of their other scenes. Great news for Jack Black fans, this. Games will use the connected device to show dungeon maps or highlight weak points on enemy forces, and Madden will even let you draw plays on your tablet.
+
+  "SmartGlass takes the form of the experience on your TV. It'll just happen." All those views will be pushed through a single app on your mobile device. "SmartGlass takes the form of the experience on your TV," says Marc. "It'll just happen." We pressed for technical details on the interaction and, while there won't be an open API that any developer can play with, it sounds like a good portion of this content will be HTML5 based. This should mean a very low barrier of implementation for developers.
+
+ And that's important, because the success of SmartGlass is dependent on those developers. Typically when a company tries to expand its videogame console with functionality like this it requires a new accessory. When few people buy said accessory few game developers make the investment to support it and that accessory dies a slow, lingering death. It's a tale as old as console gaming and one that's still played out today. (See: PlayStation Move.)
+
+ 
+ With SmartGlass, Microsoft dodged that problem entirely by making that new accessory something most people already own -- it's just up to the developers to deliver on their end of the bargain. Mark is, of course, optimistic that they will. He wouldn't confirm any specific future support, but he says every time he's demoed this for a partner they've immediately started coming up with creative ways to use it. "The innovation will continue, they'll light the service up," he says. "It's going to be pretty amazing."
+
+

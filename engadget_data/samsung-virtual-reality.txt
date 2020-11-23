@@ -1,0 +1,44 @@
+
+Facebook's Oculus VR is creating the Rift. Sony's PlayStation is creating Project Morpheus. Google is... well, Cardboard exists. And now Samsung's getting in on the virtual reality action, announcing Gear VR at IFA 2014 today in Berlin, Germany. Gear VR is a virtual reality headset with a removable front cover where Samsung's newly announced Note 4 slips in, acting as the screen. Paired with adjustable lenses built into the headset and a comfy strap, Gear VR turns Samsung's next Note into a virtual reality machine. And what's the first thing you'll see when you strap on Gear VR? Oculus VR's handiwork. The company behind the re-birth of virtual reality is partnering with Samsung on Gear VR: Samsung handles the hardware; Oculus offers up its software prowess.
+
+
+Unlike Sony's, Oculus' and Google's VR projects, though, Samsung's delivering a consumer product this year with Gear VR. But is it too early?
+
+
+
+First things first, let's answer that question: No, it's not too early. While there are major technological limitations with mobile VR -- horsepower, among many other issues -- Samsung's Note 4 is a shockingly capable device for virtual reality experiences. In our time with it, video looked sharp; there was no perceptible lag between turning my head and what I saw on screen; and navigating the UI was a snap. Is it hot? Yes. Are the graphics less impressive on Gear VR than on, say, Sony's Project Morpheus or Oculus VR's latest dev kit? Absolutely. No question about it. But is it capable of providing a great virtual reality experience, regardless of those handicaps? I believe it is.
+
+SET UPI plugged the Note 4 into the Gear VR headset by removing the headset's front cover and slotting the phone into a micro-USB dock. The parallel area has a latch where the top of the phone nestles in, and that's it: The Note 4 is paired with the Gear VR headset.
+
+If you want to slot the cover back on the Gear VR, you can. Or not! If you want to adjust the straps so it stays snug to your head, that's another option. And when you've finally got it secure on your noggin, an adjustable dial on the top of the headset allows for focusing your view (that means no changing out lenses for nearsighted and farsighted folks -- just adjust the distance as needed).
+
+
+Notably, I encountered a few issues while removing and placing the phone: If you accidentally open up an application on the phone while placing it, for instance, that might break the pairing. A few times, Samsung reps had to outright reset the Note 4 and start from scratch because it froze. These are prototype devices and not the final product that'll ship to consumers later this year, but there's some roughness to how the phone is physically paired. A slight jingle plays when it connects, which is a nice touch, but I'd also like a more secure docking area. It feels like trying to jam a phone into a micro-USB port at an awkward angle, and that's not a great first experience.
+
+
+Samsung product manager Joo Namkung told me his team named the first Gear VR the "Innovator Edition" specifically because of these rough edges. Samsung's PR for the device describes the first Gear VR in a similarly couched way: "Designed for innovative consumers, specifically VR enthusiasts, developers, mobile experts and professionals, and early technology adopters." While the headset is certainly a play for the mainstream, Samsung is keenly aware that it's got improvements to make in the next model -- if there is a next model, of course.
+
+HARDWARELet's get the unexciting stuff out of the way right now: Gear VR has an accelerometer and a gyrometer for tracking head movement. That means it only tracks where you're looking and not depth; if you move your head forward or backward in the real world, that movement isn't reflected in the virtual one. And that stinks.
+
+When you turn your body all the way around and look behind where you're sitting (in the real world), and there are no wires stopping you from looking wherever you want, that is magical.
+
+
+This duality is at the heart of Gear VR, but it applies to all mobile VR at the moment. No wires means better immersion, which is crucial for delivering the promise of "presence." No wires also means no dedicated video feed from an autonomous device (like a PlayStation 4 or a PC, for instance). While Sony tackles depth tracking with its PlayStation 4 camera and Oculus handles it with a camera peripheral of its own, Gear VR is dependent on the hardware in the phone and headset. That is both a benefit and a curse with current technology.
+
+There is no "screen" -- Gear VR uses your Note 4 screen, which is of the 5.7-inch, Quad HD (2,560 x 1,440) Super AMOLED variety. It looks crisp, and the Cirque du Soleil video I watched was neat. When I turned quickly, I wasn't able to discern any major irregularities ("screen-tearing" or other nasty hitches). It's got a 96-degree field of view (just four shy of Oculus Rift's latest kit) and a 60Hz refresh rate. There's a square touchpad, a back button and a volume rocker on the right side of the headset; the touchpad is used for tap-based selecting, while the back button is both for exiting software and enabling pass-through video mode (both of which I'll get to in the next section).
+
+Gear VR isn't very large (198 x 116 x 90mm), nor is it very heavy (exact specs aren't available), and I wasn't ever uncomfortable wearing it. The padding around the eyes can be replaced easily, which Namkung calls a necessity for longtime users.
+
+
+Samsung's been working on the Gear VR for approximately 1.5 years now, and Namkung says some of the development units -- the ones we heard about so much back in May -- got a little rough around the edges after prolonged use.
+
+Audio is handled by the Note 4, and it's of the "3D spatial sound" variety. That just means that it sounds like it's going to both of your ears despite the fact that it's coming out of the Note 4's non-stereo speaker setup. This actually works better than expected: Audio consistently sounded like it surrounded me, which makes the immersive experience all the better.
+
+SOFTWAREThis is Oculus' first consumer product and, bizarrely, it's on a Samsung device. Oculus VR CTO John Carmack personally led the mobile software development team at Oculus, and the software interface is all built in collaboration with Samsung. It's basic: Point a reticle in the middle of the screen at what you want to select and tap the touchpad to select it. The options are sparse and base level, and the only content management that exists right now is a store of sorts. It looks like the Google Play store to an extent, except it's floating in space.
+
+There were a few demos to check out, and they were mostly video. The aforementioned Cirque du Soleil performance that puts you directly on stage for the show was a standout, as was an underwater game where a whale floated past. None of this was meant to demonstrate launch content, but to demonstrate the potential of the hardware.
+
+
+
+
+

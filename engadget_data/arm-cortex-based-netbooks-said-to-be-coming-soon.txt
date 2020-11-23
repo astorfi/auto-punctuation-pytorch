@@ -1,0 +1,5 @@
+
+ ARM's Cortex processor was apparently good enough for the folks behind the Pandora project and it looks like we could soon be seeing some netbooks based on the CPU as well. That word comes straight from ARM's UK director of mobile solutions Rob Coombs, who said that both the Cortex-A8 (used in the Pandora) and the forthcoming Cortex-A9 would find their way into netbooks in addition to the expected smartphones, and that we should "expect announcements in the next few months." Of course, he didn't go so far as to name any specific companies we should expect announcements from, but he did helpfully run off a list of A8 and A9 licensees, which includes Samsung, Panasonic, NEC, and Toshiba, to name a few. As Crave points out, one potential drawback to netbook's using the processor is that there's no ARM-compatible version of Windows XP, but the architecture is supported by Windows CE and a number of Linux distributions, and there is the small matter of that other little device that's based on an ARM processor...
+      
+
+ 

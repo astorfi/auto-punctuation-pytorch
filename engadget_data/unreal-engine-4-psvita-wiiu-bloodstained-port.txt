@@ -1,0 +1,10 @@
+
+
+
+Long-time Castlevania producer Koji Igarashi is currently Kickstarting a spiritual sequel to the series called Bloodstained. Thanks to the overwhelming response to the campaign -- it's now the highest-grossing videogame Kickstarter ever -- the game is coming to PS Vita and Wii U. While that's great news for fans of the genre, the knock-on effect of the port could be huge. Bloodstained is being built using Unreal Engine 4 (UE4), and Armature Studio, the developer in charge of the Vita and Wii U versions, will be the first to port the popular engine to the platforms. Why's that so important? Well, both consoles are currently unsupported, and Armature says it will share its Vita and Wii U code with any developer authorised to create games for the systems, potentially opening the door for many more ports of UE4-powered games in the future.
+
+
+
+Before you roll your eyes at the idea of UE4 running on "underpowered" hardware, it's worth taking a look at Armature's pedigree. It was responsible for the Vita versions of Metal Gear Solid, Injustice: Gods Among Us and The Unfinished Swan. With a wealth of experience developing for the Vita -- and experience with the Wii U as well -- it's unlikely the studio would be attempting the port if it didn't think it was possible. If you want to know more about the effort, Armature's technical director and co-founder Jack Mathews talked Gamasutra through the the company's plans for porting the engine.
+
+

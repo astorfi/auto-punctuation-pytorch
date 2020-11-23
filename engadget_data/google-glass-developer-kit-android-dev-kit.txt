@@ -1,0 +1,4 @@
+
+Google announced at its I/O event in May that a Glass Developer Kit is on the way so devs can build more advanced apps for its headset than the Mirror API supports, but it's still not quite ready. In a post on Google+, team member Alain Vongsouvanh encouraged developers to use the current Android SDK (API level 15) to try out ideas. The team has also posted code samples with examples like a stopwatch, compass and level, and says devs can access the device's accelerometer and play media. If you're ready to get to work all the necessary info is linked in the post, we hope to see the fruits of such labor in the Play store very soon.
+
+

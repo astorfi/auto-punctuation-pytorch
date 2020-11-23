@@ -1,0 +1,7 @@
+
+ 
+
+As promised, Sony Ericsson has just flipped the switch for its Android bootloader unlocking service, meaning those with an unbranded Xperia device from 2011 and onwards -- Play, Arc, Neo, and Pro so far -- will be able to try out custom ROMs and other dirty mods with ease. All that's required here is your phone's IMEI number, which in return gives you the unlocking key to go with the Android SDK's fastboot program -- all will be clear once you've read the instructions at the source link. But remember: SE does warn that this service may void your warranty if all goes pear-shaped, so just be careful, won't ya?
+      
+
+ 

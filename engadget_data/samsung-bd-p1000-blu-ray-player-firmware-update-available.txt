@@ -1,0 +1,15 @@
+
+ 
+Early adopting Blu-ray owners can now download, burn to disc, and install a patch for some of the issues that have plagued the Samsung BD-P1000 since its release -- but the "noise reduction" bug affecting picture quality is not one of them, yet. The firmware update 1.0 doesn't say exactly what it fixes, but the list of upgrades found so far is as follows:
+
+Fixes stuttering audio/video while viewing movies with DTS soundtracks 
+Adds pillarboxing to 4:3 content on Blu-ray discs (instead of stretching it to widescreen), 
+Improved load times
+Hourglass icon changed to colored dots
+Fixes reversed analog outs on affected players
+Adds DTS decoding for DVD content (like AVIA test disc)
+
+Of course, if you're on the list Samsung will simply send a disc for you to put in the player and upgrade, but why wait? Another release to fix the annoying noise reduction issue is expected "soon".[Via AVS Forum & Home Theater Blog, thanks for the tip Dave!]
+      
+
+ 

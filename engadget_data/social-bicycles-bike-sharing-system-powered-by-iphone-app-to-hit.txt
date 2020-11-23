@@ -1,0 +1,10 @@
+
+  
+
+Social Bicycles is a bike sharing system with a twist. Using an iPhone app, the system allows users to drop off, locate, and borrow a bike nearly anywhere. The bikes are equipped with a GPS device which is locked to one of the wheels, and when the bike is locked, it's locatable using the app, so that someone can borrow it; when it's in use and unlocked, it doesn't appear in the app. The real upside to Social Bicycles is that the regular infrastructure required for bike lending systems -- such as docking stations in a lot of convenient locations -- are unnecessary with this system, which can get by with regular old bike racks, making it a much cheaper, fly-by-night option. It's coming to New York City in very limited beta this fall, and we expect it to outperform Segs in the City in no time. Video is below.
+      
+
+ 
+
+
+ 

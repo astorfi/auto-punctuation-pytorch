@@ -1,0 +1,6 @@
+
+ 
+While AMD has been making headway with some impressive high-end processors, Intel's Atom has been all the rage in netbooks and ultra-portables. You didn't think they were going to just sit around and let that happen, did you? This supposedly leaked slide (for which we couldn't verify a source) details a single-core 64-bit processor dubbed "BGA CPU" that runs at 1GHz, utilizes DDR2-400 memory, and sports on-chip L1 & L2 caches. As for size, you're looking at 27 x 27 mm (1.06-inches square). All said, the chip's 8-watt thermal footprint isn't going to win any super-portable or MID manufacturer converts. We'll keep an eye on this.[Thanks, kris120890]
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Linux comes in all sorts of flavors -- it's part of what makes the OS so confusing to new comers. To make matters worse, some of the most popular variants are actually based on other distros, such as Linux Mint, the refreshing desktop that's based largely on Ubuntu. So, if you're wondering what's new in the Mint 13, a good place to start is probably our review of the aubergine OS. Of course, Maya has a few wrinkles of its own -- including a pair of desktop options dubbed MATE and Cinnamon. MATE, as you may recall, was introduced in the last version, but Cinnamon is all new (read: a tad unstable) and built on a modern framework using Gnome 3 and Clutter. There have been a few other new additions, including a new display manager in MDM and a switch to Yahoo! as the default search engine. As usual with these things, you can download it and try it out for free at the source.
+
+ [Thanks, Mohamad]
+
+

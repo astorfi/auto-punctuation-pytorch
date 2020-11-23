@@ -1,0 +1,4 @@
+
+ Google Now is fast becoming one of Android's defining features. But, if some recent additions to Chromium are anything to go by, the nifty little life-predictor could well be finding its way to Chrome browsers, too. An entry in the Chromium project code site titled "Show Google Now notifications in Chrome" along with some code revisions for "Creating a skeleton for Google Now for Chrome implementation" hints that the idea is, at least, at some level of development. This of course means that the service would leap out of its current mobile OS restraints, and become available to a much wider audience -- at least those using some portion of the Google ecosystem -- and not just its Android platform. The code was spotted by an eagle-eyed François Beaufort, who points out the reference to it working with Chrome's desktop notifications. While we wait for more official word, we guess a card to notify us of when this might be coming would be too much to ask?
+
+

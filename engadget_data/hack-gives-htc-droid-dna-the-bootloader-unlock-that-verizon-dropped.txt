@@ -1,0 +1,7 @@
+
+ Custom ROM fans were briefly teased with the prospect of Verizon loosening its anti-modding stance when the HTC Droid DNA first arrived: in the pre-release days, the official HTCDev portal allowed unlocking the DNA's bootloader. While the carrier unfortunately clamped down and denied the option by the time the giant smartphone was in stores, that hasn't stopped Android Police and Sean Beaupre from keeping the dream alive through very unofficial means. A special backup file, a carrier ID generator app, a shell script and judicious use of ADB tweak the carrier information to trick HTCDev and let the unlock work once again. To call this a risky procedure would be an understatement, however -- venturing past a certain point raises the real possibility of bricking the device, and HTC's bootloader tool already puts limits on post-unlock support even when it's blessed by carriers. Should the urge to liberate the Droid DNA overwhelm a sense of caution (or a wait for the Deluxe), you'll find both the hack and unofficial help through the source links.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

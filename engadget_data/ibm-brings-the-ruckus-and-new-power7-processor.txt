@@ -1,0 +1,4 @@
+
+ 
+IBM likes its servers and supercomputers. A lot. After giving the Power6 plenty of self-congratulatory publicity, Big Blue is ready to move on to the 7th generation of Power, which is set to be announced at the Hot Chips conference this evening. With eight cores and up to four SMT4 threads running on each, the 45nm Power7 can perform 32 simultaneous tasks per chip. The designers have slapped in a whopping 32MB of eDRAM in each chip for improved latency, dual DDR3 memory controllers for a sustained 100GB per second bandwidth, and even error correcting code and memory mirroring for redundancy. Sounds like a major boon for research into the brains of mice and the history of dirty words, but we don't expect to hear much about this proc outside the server farm.
+ 

@@ -1,0 +1,9 @@
+
+ 
+
+Want more Android in your house? How about Android in your house. Google wants to think of "every appliance in your home" as a potential accessory for your phone. The opportunities are seemingly endless, the sort of thing we've seen in the Zigbee and Z-wave areas, but sadly this implementation doesn't actually seem to be using any of those standards. The team teased ideas like lights turning on and off based on calendar events, applications talking to washing machines, games automatically adjusting for mood lighting, and basically little green dudes taking care of all the menial duties in your house.
+
+One amazing demo was a concept, Android-powered device hub called Tungsten. Using RFID embedded into CD cases the device was able to detect the CD and add it to your library. Another touch and it started automatically. Yeah, the use of CDs is a little quaint, but the potential is there for amazing things in the future. We're not sure exactly when these accessories will be launching, but the first are expected before the end of the year.
+
+
+

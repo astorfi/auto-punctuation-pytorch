@@ -1,0 +1,5 @@
+
+ NVIDIA's stock took a pretty big hit last week when it announced that "significant quantities" of "previous-generation" GPUs and mobile and communications processors were defective and that it would take a $250M charge against earnings to repair and replace the affected chips, but the company didn't say which chips specifically were faulty, nor how many. That might be because the problem is much worse than it even sounds -- according to a report in The Inquirer, every single G84 and G86 GPU in the 8400M and 8600M series of cards is affected. Apparently both chips share an ASIC, and the core design suffers from the same heat-related issues. That certainly implicates a "significant quantity" of chips, all right, but this is just a rumor for now -- one that's probably best handled by NVIDIA stepping up and letting its customers know exactly how big the problem is.[Thanks, Rich]
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Dodging the issues of spectrum auctions and more cell towers, researchers at MIT have discovered that they can use an algebraic equation to improve data speeds by reducing dropped packets. It's these dropped packets that can build up congestion across a wireless network, as devices attempt to recoup these missing data nuggets. But instead of sending typical packets, MIT's Research Laboratory of Electronics created an equation that describes a series of packets. If a packet fails to deliver, then the receiving device is apparently able to "solve" the missing chunk, with the processing load on phones, routers and base stations apparently negligible.
+
+ The tech, which can also seamlessly transition a data stream between wireless internet and LTE, has already been tested on WiFi networks over at MIT; when two percent of data packets were dropped, speeds were boosted from 1Mbps to 16Mbps. If five percent of packets were being lost, the researchers then saw bandwidth increase from 0.5Mbps to 13.5Mbps. Companies are apparently already licensing the tech, although MIT isn't revealing more on this just yet. Muriel Medard, project lead, said that there were currently "very severe inefficiencies that should be remedied before you consider acquiring more resources" -- namely more spectrum and hardware, although the gains seen in these early tests are yet to be replicated in real life. There's more on the science and development at the source link below.
+
+

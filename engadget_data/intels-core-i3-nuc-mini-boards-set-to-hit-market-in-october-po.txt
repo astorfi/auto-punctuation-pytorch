@@ -1,0 +1,6 @@
+
+ Intel has finalized the specs of its Next Unit of Computing (NUC) board, and announced it'll go on sale in October for less than $400 with a case and power supply. Carrying a 4 x 4-inch form factor between a Raspberry Pi and mini-ITX board, it'll be equipped with a Core i3 Ivy Bridge processor, HD 4000 graphics, two SoDIMM sockets, an mSATA slot for an SSD drive, three USB ports, one HDMI port and a mini-PCI slot for wireless connectivity. Two different models will be offered by the chip giant, identical except that one will be Thunderbolt equipped and the other will sport an Ethernet port for connectivity. Originally intended for the kiosk and signage markets, enthusiast interest compelled Intel to put the board on general sale, along with a case (pictured above) and power supply option. That'll pit it against offerings from VIA and others, while offering considerably more oomph in a similar form factor -- though a mini-server slaying Core i5 option originally proposed by Intel was dropped.
+
+ [Image credit: PC World]
+
+

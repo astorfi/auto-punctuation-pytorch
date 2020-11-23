@@ -1,0 +1,5 @@
+
+ 
+ Google vowed that it would adapt Chrome to Metro back in March, and it's just now providing its first real look at the Windows 8 revamp. Don't expect a radical remake: it's Chrome, just in Metro. Even so, the very first test releases will support charms for sharing and other cross-OS features, and they will obey Snap View for tablet-friendly Windows 8 multitasking. Metro support will come in the next Dev channel release for those using the Windows 8 Release Preview. Those of us leery of running a pre-beta web browser on top of a beta OS will have to wait some months to see the finished result. That patience should be rewarded through better touchscreen support and refinements to the overall interface, so by the time the dissenting among us are ready to toss Internet Explorer 10 aside, Chrome will be waiting with open arms.
+
+

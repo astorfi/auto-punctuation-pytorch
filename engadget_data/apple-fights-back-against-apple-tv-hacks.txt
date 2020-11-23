@@ -1,0 +1,5 @@
+
+ In an interesting but unlikely turn of events, some Apple TV hackers enthusiasts are no longer able to obtain their new found access to their Apple TVs. More than one person is reporting that they previously enabled SSH and VNC access, but it is no longer accessible. The current unlikely theory is that Apple is fighting back and somehow remotely accessing the modified Apple TVs and is "fixing" them, although this would be quite an intrusive violation -- something that maybe not even Sony would attempt. Our very own Apple TV has not fallen victim to what we would bet is some internal process that is cleaning things up as programmed. If you are worried, though, the Tutorial Ninjas have a few suggestions, like blocking your Apple TV from the internet and changing your password -- this would mean no more 30 second samples of the iTunes Music Store's top 10, but hey, you can't have it all.
+      
+
+ 

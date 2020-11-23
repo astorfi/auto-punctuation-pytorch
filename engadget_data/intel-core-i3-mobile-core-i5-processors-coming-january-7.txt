@@ -1,0 +1,11 @@
+
+ 
+
+Intel's Arrandale chips haven't been the best-kept secret around, and today Chipzilla made 'em official: the Core i3 and mobile Core i5 will launch on January 7, and we'd guess a bunch of new machines come along for the ride. Although the desktop Lynnfield Core i5 is a quad-core, both the new Core i3 and mobile Core i5 are dual-core -- and in a first for Intel, both of the new chips have an integrated GPU core that's being branded "Intel HD Graphics." The new GPU is supposedly good enough for "high-end" HTPC use, but manufacturers can add switchable discrete GPUs, so don't fret too much. Both Arrandale chips have Intel's latest hyperthreading tech, and the mobile i5 also has the Turbo Boost core-overclocking feature found in the desktop i5 and i7, which redirects power to a single core to boost performance when needed.
+
+We got to see a few Core i3 and i5 laptops and desktops in action at Intel's pre-CES briefing today, although we didn't get to run any tests. The mobile Core i5 systems on display were doing a fine job running Call of Duty 4, while the scaled-down Core i3 rigs were playing Blu-ray movies and World of Warcraft -- not a bad demo, but we'll let you know when we see some real numbers.
+
+
+
+
+

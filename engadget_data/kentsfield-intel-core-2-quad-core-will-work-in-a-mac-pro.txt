@@ -1,0 +1,5 @@
+
+ Ok Mac fanboys, listen up: if you somehow manage to have two not-yet-released Clovertown Intel Core 2 quad-core chips kicking around and you happen to have recently bought a Mac Pro, you can pop the pair of them right there into your nice little LGA-771 sockets, for some oct-awesome processing power. In fact, that's precisely what the good folks at Anandtech did. They have their silicon-stained paws on some "engineering samples" of the Clovertown chips and dropped them into their Mac Pro. What did they find? Mac OS X didn't hiccup at all, and neither did the other hardware. The CPU Monitor indeed showed all eight processors, but as Anandtech pointed out, there's not much that you can do at this point that will stress all eight processors at once, not unless you're running SETI@Home, Folding@Home and every other distributed processing program you can find -- and even then that probably won't do it.[Via Slashdot]
+      
+
+ 

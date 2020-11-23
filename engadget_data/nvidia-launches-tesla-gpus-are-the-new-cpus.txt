@@ -1,0 +1,6 @@
+
+ 
+We've seen a couple cautious attempts at leveraging the raw floating-point capabilities of modern high-powered graphics cards, but NVIDIA is taking the gloves off with the launch of Tesla, its new general-purpose computing platform built on the 8-series graphics cards we all know and love. According to NVIDIA, the only way to skirt the inevitable collapse of Moore's Law is to join the GPU and CPU together, so two of the three Tesla configs are in the form of workstation upgrades -- a $1,499 single GPU PCI Express card and a $7,500 dual-GPU "deskside supercomputer" that plugs into a custom PCI controller. The truly crazy can pony up a full $12,000 for NVIDIA's first rack units, the four-GPU Tesla S870, which has a peak performance of 2 Teraflops. We're hearing the card and deskside unit will be available in August and that the servers will start shipping in November or December -- perfect for the Engadget Folding@Home holiday rush.
+      
+
+ 

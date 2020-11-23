@@ -1,0 +1,5 @@
+
+ Sure, RunBotmight not be a true runner yet, since it still keeps one foot on the ground at all times. Also, it's only fastest forits height, managing a swift 3.5 leg-lengths per second, besting the MIT's four times taller Spring Flamingo, whichruns at comparably sluggish 1.4 leg-lengths per second. All that being said, RunBot currently holds the world recordfor fastest bot on two legs. The RunBot's German and Scottish creators attribute its speed to the fairly simple design,which only senses when a leg is on the ground and when a leg swings forward. RunBot merely experiments with whicheverleg motions keep it upright and keep it going fastest, and the bot can accelerate up to three times its original speedwith its "learnings." So far the RunBot can only walk in circles, since it's attached to a boom in the centerof a room, but the developers say they're at work on a freestanding version, which shouldn't be too tough because theboom has little influence on the RunBot's walking. Be sure to check the read link for video of the bot in all of itsherky-jerky glory.
+      
+
+ 

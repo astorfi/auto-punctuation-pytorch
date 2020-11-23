@@ -1,0 +1,15 @@
+
+
+
+After a couple of months of testing and feedback, Fleksy announced today that its SDK for iOS has exited its private beta and is now ready for adoption on a much larger scale. Indeed, this means that Syntellia's alternative predictive touch keyboard is now available for any developer to use for free, no sign-up required, which Fleksy COO Ioannis Verdelis hopes will translate to more apps jumping on the Fleksy bandwagon.
+
+One of the reasons Verdelis is confident this will happen is because the new open SDK has been polished and streamlined so that integration is extremely easy, requiring "zero lines of code." We should note, however, that you will need to have the standalone Fleksy app installed on the device as well. If you don't already have Fleksy installed, the supported app links to the App Store and downloads it for you. This way, compatible apps hook up to the same Fleksy keyboard settings and dictionaries, so that your Fleksy experience is shared across all of them. You'll know an app supports it when you notice a Fleksy button appear next to the cut, copy and paste options in a text field.
+
+Other improvements to Fleksy include better accuracy, a more robust dictionary, new languages and additional color themes to match all the hues of the iPhone 5c. Some of the apps that have already signed on to the new SDK include You Doodle, Cotton Notes, Write for iOS, Tap Forms Organizer, SnapStatus, Vert 2 and MUDRammer, with more on the way. If you're a developer keen on trying this out, hit the source link below. If you're just curious about Fleksy, either download one of the listed apps or check out the demo video after the break.
+
+
+
+
+
+
+ 

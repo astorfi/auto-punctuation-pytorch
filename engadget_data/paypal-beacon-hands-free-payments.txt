@@ -1,0 +1,11 @@
+
+PayPal's offered its Here service since last year to simplify buying items in brick-and-mortar shops, and today they've just unveiled their latest crack at in-person shopping: a USB stick dubbed Beacon. Business owners running a compatible Point of Sale system (Booker, Erply, Leaf, Leapset, Micros, NCR, PayPal Here, Revel, ShopKeep, TouchBistro and Vend as of now) just plug the dongle into a power source and they'll be ready to offer hands-free payments. By using Bluetooth LE, the hardware detects when a customer wielding the PayPal app walks in, but won't go so far as tracking their location within the establishment. A person's photo will appear on the PoS setup when they mosey inside, and they'll only have to give a verbal confirmation for payments to go through.
+
+
+Naturally, waltzing into a store that can charge you so easily raises some concerns, but the outfit's application will allow for levels of trust. Users will have control over what retail locations can register their presence, if they want to be prompted with on-screen alerts to confirm payments and which businesses can charge them automatically. The setup will be put through its paces in Q4, and is expected to roll it out early next year, but 100 lucky developers will get the dongle and accompanying API early. PayPal hopes Beacon and its API will lead to new checkout experiences, such as having your usual meal ordered as soon as you walk in. If you're a dev or shop owner yearning to give the contraption a shot, click the link below for more.
+
+
+
+
+
+

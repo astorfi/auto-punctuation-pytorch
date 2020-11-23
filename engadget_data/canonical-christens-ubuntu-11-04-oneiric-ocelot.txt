@@ -1,0 +1,7 @@
+
+ Canonical's still one month away from letting Natty Narwhal (also known as Ubuntu 11.04) out of the cage, but it's already teasing us with another OS flaunting an alliterative mammalian monicker. Like the Narwhal before it, Oneiric Ocelot (or Ubuntu 11.10), due out this October, will offer a 2D OpenGL-based Unity interface to support older computers, as well as Qt -- you know, the framework Nokia loved and left hanging. You can also expect Ubuntu to scale back on the number of cloud services with the Ocelot, as it gears up for the release of the as-of-yet unnamed Ubuntu 12.04 LTS (long term support). For now, that's all she wrote, but if you're dying to find out how they come up with those adorable Animalia appellatives, check out the source link below.
+
+Update: Oneiric Ocelot has also apparently devoured Ubuntu Netbook Edition whole -- starting with Ubuntu 11.04, the products will be completely unified and (according to Canonical) work equally well no matter the form factor.
+      
+
+ 

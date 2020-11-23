@@ -1,0 +1,6 @@
+
+ 
+We learned all about it this new tuner first thing this morning and were very pleased to see a "technology preview" of the card in action at the Microsoft's booth. As expected, it is a single PCI-E card that uses one multi-stream CableCARD and offers the ability to record four HD channels at once. The tuner shows up as a single network adapter in Windows and still uses UPnP like the currently available ATI tuner does. The configuration and diagnostic interface included tabs for each individual tuner and apparently two Tuning Adapters -- unfortunately there wasn't a working demo of the SDV tuning in action. And in case you are wondering, we did ask about the price and as you might expect we were referred to Ceton for specific product questions. We do already have an appointment with them tomorrow, but we'd be surprised if they were ready to tell us.
+
+
+

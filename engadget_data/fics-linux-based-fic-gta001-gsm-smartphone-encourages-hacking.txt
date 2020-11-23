@@ -1,0 +1,6 @@
+
+ 
+Hot on the heels of DrewTech's Linux-powered DashDAQ is FIC's own piece of Linux-based hawtness, the FIC-GTA001 mobile. While the company is already familiar in the world of CDMA, this marks the firm's first endeavor into the realm of GSM smartphones. Sporting a 2.8-inch 640 x 480 resolution touchscreen with "multi-touch gesture recognition," GPS capabilities, dedicated "emergency paging button," and an "iPod-quality MP3 player," the svelte cellphone is primed for homebrew apps thanks to the inclusion of the SDK right in the box. FIC is hoping that adopters will participate in developer communities to craft new and improved applications for the limitless device, and even hopes to enable wireless uploads / downloads of completed files. The device is powered by a Samsung S3C2410 ARM9-based processor, 128MB of internal RAM, and 64MB of flash memory, but unfortunately there's no scheduled release date or expected price for the open-source (and delightfully styled) handset.
+      
+
+ 

@@ -1,0 +1,71 @@
+
+
+More Info
+
+Digital Storm's 13.3-inch VELOCE gaming laptop announced
+Origin PC's EON 13-S offers another spin on Clevo's latest gaming laptop
+Razer Blade review (14-inch, 2013)
+
+
+In a market obsessed with slim, lightweight, energy-efficient machines, gaming laptops stick out like a sore thumb. Hulking 17- and 18-inch chassis dominate the category like a physical representation of a tired cliché: bigger is better. In some ways, the old phrase rings true -- these oversized machines often pack the latest and greatest components -- but any hope of reasonable portability is lost in the mass.
+
+
+Despite this overwhelming (and oversized) majority, a handful of small-frame rigs still make it to market each year, and one of 2013's most petite just happens to have landed on our reviews desk. Meet the Clevo W230ST, a 13-inch, ODM (original device manufacturer) gaming notebook destined to be rebadged under different brands. As such, it goes by many names -- Sager, Origin PC and AVADirect each have their own take -- but today, we're looking at Digital Storm's version, the Veloce. Can this diminutive monster keep up with the category's biggest beasts? Let's find out.
+
+
+
+
+Look and feel
+As an ODM reseller, Digital Storm faces an interesting challenge: it has to find a way to make its version of the Clevo W230ST stand out against what its competitors are selling. Their angle? Free T-shirts. Digital Storm includes a tee with every order, packing it neatly away into the laptop's accessory box alongside a black binder. Normally we wouldn't fawn over office supplies, but the three-ring file is actually a welcome courtesy, as it neatly organizes the laptop's various documents into a single clean volume. Groundbreaking it's not, but it is reassuring to thumb through these pages to find a signed certificate of ownership, troubleshooting tips, warranty information, a pair of driver reinstallation discs and a complete checklist of the tests run on the laptop before it was shipped out. If nothing else, the presentation ensures that even the messiest gamers will be able to keep their computer's documents in order.
+
+The company left less of a personal touch on the hardware itself: save for a Digital Storm logo on the back of the soft, rubberized lid, Clevo's stock chassis is presented without decoration. The housing itself is fairly modest, with the corners trimmed off at shallow angles. It's a safe design, offering just enough disruption to please gamers, while still being discreet enough to pass for a work machine. At 12.99 x 8.93 inches, it'll fit it in a modestly sized backpack or messenger bag. It's not the thinnest gaming laptop in its class (that honor goes to the 14-inch Razer Blade), but it makes fair use of its 1.25-inch edges: running down the right side are three USB 3.0 ports, HDMI and VGA out sockets, an Ethernet jack and the all-important charging connector. The rest of the machine is relatively bare: the front harbors only an SD / MMC reader and a quartet of LEDs, while the left is home to a pair of audio ports and a single USB 2.0 plug. Simple.
+
+Keyboard and trackpad
+Perhaps we're spoiled by the class-leading keyboards of the Razer Blade and MSI GT70, but as soon as we laid hands on the Veloce, something just felt off. Lurking under the keycaps' spacious layout and illuminating backlight lies the soul of a stiff, awkward keyboard. The keys provide strong tactile feedback with each click, but every stroke lands hard, met by heavy resistance. This is highly subjective, of course, but this sort of thing matters to those who plan to use the laptop as an all-purpose machine. As a typewriter, the Veloce just feels a bit rougher than it needs to be. On the other hand, we found the lack of key-bounce to be much less distracting during gameplay; the keyboard's rigid panel somehow felt more appropriate in the heat of battle. The overall layout seems well suited for gaming too, as it naturally puts your fingers near the Alt, Shift and Ctrl keys in WASD control settings.
+
+Like most laptops, the keyboard uses an array of Fn combinations to toggle common functions, but one important switch seems to be missing: the Windows key disable. The key layout does its best to reduce the chances of accidental Windows-key, but we still found ourselves dropping out of the occasional game due to slippage. A disable hotkey is pretty standard in most gaming rigs these days, and we certainly missed it here.
+
+
+We were pleased to find the Veloce's trackpad responsive, accurate and completely capable of handling Windows 8 gestures -- something we're always happy to see in the PC category. Two-finger scrolling, pinch-to-zoom and image rotation all worked like a charm. The mouser's only real fault is its size, a sad consequence of the machine's petite frame. We blame the laptop's low-hanging keyboard: if the keys were only an inch farther north, the trackpad might have had enough room to offer a comfortable navigation experience.
+
+Display and sound
+Lifting the lid reveals one of the Veloce's best features -- a 13.3-inch, matte IPS panel (non-touch) with wide viewing angles, brilliant colors and a 350-nit LED backlight. It's like the cherry on top of a sundae: a solid gaming machine just isn't complete without a strong viewing experience. We may not have always opted for the maximum 1,920 x 1,080 resolution while working in the desktop, but we welcomed the added workspace nonetheless, especially on a smaller screen like this. Sadly, the display's luminous backlight bleeds out from under the panel's frame. The effect isn't noticeable unless the monitor's image is almost completely dark, but it's still a slight letdown on an otherwise fantastic display.
+
+Unfortunately, we can't offer the same praise to the laptop's speakers: the stereo drivers here are thoroughly disappointing. Hidden underneath the laptop's tapered edge, the stereo speakers produce muted, tinny audio with little to no bass. They'll get you through the occasional YouTube video and casual game session, of course, but it's ultimately a flat experience. Naturally, a dedicated gaming headset will outperform almost any laptop speaker setup, but the Veloce's audio offering will probably be trumped by anything with a 3.5mm headphone jack. Accessorize and carry on.
+
+Performance and battery life
+Don't let the Veloce's diminutive footprint fool you: this 13-inch notebook is built on the same top-notch technologies as its super-sized competition: the dynamic duo of Haswell and Kepler. Under the hood, there's a 2.7GHz, quad-core Intel Core i7-4800MQ CPU, 8GB of RAM and a 2GB NVIDIA GeForce GTX 765M graphics processor. If what's inside is what counts, the Veloce has it.
+
+    PCMark7 PCMark Vantage 3DMark06 3DMark11 ATTO (top disk speeds) Battery life     Digital Storm Veloce (2.7GHz Core i7-4800MQ, GeForce GTX 765M 2GB) 6,107 21,379 20,340  E6,696 / P4,353
+
+  506 MB/s (reads); 196 MB/s (writes) 2:53   Razer Blade 14-inch (2.2GHz Core i7-4702HQ, GeForce GTX 765M) 5,837 19,505 19,815  E6,364 / P4,161
+
+  546 MB/s (reads); 253 MB/s (writes) 6:24   MSI GT70 Dragon Edition (2013) (2.4GHz Core i7-4700MQ, GeForce GTX 780M) 6,111 20,250 N/A  E10,519 / P7,416
+
+  1.19 GB/s (reads); 806 MB/s (writes) 4:34   Razer Blade 2.0 (2.20GHz Core i7-3632QM, GeForce GTX 660M) N/A 17,120 15,876  N/A
+
+  N/A 3:29   Razer Edge Pro (1.9GHz Core i7-3517U, NVIDIA GT 640M LE 2GB) 4,949 13,536 10,260  E2,507 / P1,576
+
+  409 MB/s (reads); 496 MB/s (writes) 3:40   Samsung Series 7 Gamer (2.30GHz Core i7-3610QM, GeForce GTX 675M) N/A 11,515 21,131  N/A
+
+  N/A 2:11  Although the usual gamut of benchmark tests place the Veloce on par with the refreshed Razer Blade, these sterile numbers ignore an important detail: resolution. The screen's native 1,920 x 1,080 pixel count is both an asset and a handicap; the system offers full HD gameplay at the expense of performance. Take BioShock Infinite, for example: tuned to match the Blade's 1,600 x 900 resolution and dialed into Ultra High Quality, the Veloce matches its competitor's performance blow for blow, rendering at a steady 35 frames per second. Upping the resolution to the panel's native view, however, knocks a full 10 points off of its performance, requiring you to reel in the graphic settings to achieve a fluid frame rate. This isn't a bad thing, of course, it just means you have the burden of choice: higher resolution, or more extreme visual settings?
+
+
+In our experience, games typically look their best when drawn at the monitor's native size -- this saw us tuning most of our games just a tick below their maximum settings. Grand Theft Auto IV and BioShock Infinite both ran like butter on their standard high-quality settings, each averaging 50 frames per second at 1,920 x 1,080. A similarly configured Battlefield 3 clocked a respectable average of 47 fps on large-scale conquest maps, but could handle ultra-high-quality specifications in smaller arenas. We weren't surprised to see Far Cry 3 and Crysis 3 stutter at higher settings, but both were playable (and still quite fetching) when tuned to medium and low configurations, respectively. We were able to get both games running on ultra settings by knocking down the resolution, of course, as we could with any of the above titles. Some games didn't require any concessions at all: The Elder Scrolls V: Skyrim happily chugged along at 45 to 75 fps on ultra-high quality, depending on whether the character was indoors or outdoors. This is when that 1080p screen makes a difference; it's always good to know you can dial down to a lower resolution if you have to, but it's a thing of beauty when you don't.
+
+As much as we'd like it to be, Haswell isn't always a magic talisman of battery endurance. Engadget's standard rundown test (in which we loop a locally stored video at a fixed brightness with WiFi on) depleted the machine's battery in just under three hours -- not a terrible runtime for a gaming laptop, but disappointing compared to the competition (see the table above for a more detailed comparison).
+
+Software
+Digital Storm prides itself on providing users with vanilla Windows installations, and that's almost exactly what we have here on our review unit. There's one included program of note, however: an application identified only as "HotKey." Technically, HotKey is a quick-key control center provided by Clevo with the Veloce's default drivers. All told, it offers shortcuts to the laptop's power settings, brightness control and keyboard backlight toggles. More notably, it allows you to select between three different "power conservation" modes: Performance, Balanced and Energy Star. While we didn't notice a marked improvement in battery life by switching to Energy Star, we found gameplay often stuttered if we weren't set to Performance mode, and that's even when the power profile was already tuned for gameplay.
+
+Configuration options and the competition
+The Veloce is available in four distinct configurations, simply named "Good," "Better," "Best" and "Ultimate." Our $1,596 review unit falls into the "Better" category with a 2.7GHz Intel Core i7-4800MQ CPU, NVIDIA's GTX 765M (2GB), 8GB of DDR3 RAM, a 128GB SSD and a secondary 750GB hard drive for file storage. Upgrading to either "Best" or "Ultimate" means doubling the machine's RAM and stepping up to an Intel Core i7-4900MQ CPU. Those cost $1,998 and $2,180, respectively, with storage being the main difference: the "Best" model has 180GB of storage, whereas the "Ultimate" version has a 240GB SSD. A budget model eschews solid-state storage completely, offering a 500GB HDD, 8GB of RAM and a Core i7-4700MQ CPU for $1,284. And if none of those configurations tickle your fancy, each model can be customized with a half-dozen storage options and any of the other components we mentioned.
+
+The Veloce's design flaws reduce it to what is ultimately a very average gaming laptop.Let's not forget, however, that the Veloce is an ODM laptop made by Clevo; Digital Storm isn't its only distributor. Sager's baseline variant, the NP7330, starts at $1,149, and the cheapest configuration of Origin PC's EON-13 goes for $1,474. An unbranded version of the machine can be purchased from AVADirect, if neither of those banners suit your mood. In that case, a rig matching our review unit would ring in at $1385.14.
+
+Buyers put off by the Clevo's short battery life might want to take a look at Razer's 14-inch Blade. Yes, $1,800 is a lot to ask for a machine with only 128GB of storage, but it's hard to argue with more than six hours of battery life in a gaming laptop. Plus, its build quality is top-notch, assuming you can cope with a lower-res (and less vibrant) display. If your wallet is tight, Dell's Alienware 14 is a much closer match: it starts at $1,200 and can be configured to match or even undercut the Veloce. Of note: the Alienware chassis is a little thicker than Clevo's offering, but again, it at least has the credibility of a major brand.
+
+Wrap-up
+Despite its triumphs in performance, the Veloce's design flaws reduce it to what is ultimately a very average gaming laptop. It's built from excellent components, but it's weighed down by a host of nagging issues. On their own, the machine's middling sound, leaking backlight, stiff keyboard and short battery life could have been shrugged off, but together, these compromises are much harder to ignore. That said, it's still an affordable and extremely portable gaming machine, and a worthwhile option for mobile gamers on a budget. And hey -- who can argue with a free T-shirt?
+
+

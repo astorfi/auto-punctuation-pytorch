@@ -1,0 +1,6 @@
+
+ 
+After about a year of working with its original kit, BUG Labs is going next-gen with five new modules to mix-and-match with its Lego-style DIY BUGbase kit. Most of it is connectivity, with BUG3g for 3G phone / data connectivity; BUGwifi, which does 802.11b/g WiFi and Bluetooth 2.0 + EDR; and BUGbee, a 802.15.4 radio for ZigBee home automation and other "personal area network" fun. On the output front, BUGsound (pictured) provides a 20mm speaker, omnidirectional microphone and four 3.5mm jacks for audio in and out, but we're most stoked about BUGprojector, which uses Texas Instruments' DLP Pico tech to pump out a 480 x 320 image. All of these new modules work with the existing BUGmodules and that recently introduced BUGvonHippel breadboard. No word on price yet, but they should all ship this quarter. We'll have hands-on with all these goodies later this week.
+
+
+

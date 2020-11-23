@@ -1,0 +1,7 @@
+
+ 
+Here's the first of two promised announcements from Google Mobile's little get-together in San Francisco today: voice actions. In a nutshell, it's a more expansive API similar to iPhone voice control. There are 12 actions in total plus search (so... 13). So far we've seen a couple applications for it: "send message to [person] [message]," or -- if voice calling is more your cup of tea -- "call Millennium Knightsbridge in London" for a location-specific phone call. You can also set alarms, go straight to a website ("go to Wikipedia"), or speak addresses or locations for directions. "Find music" is particularly interesting and works across multiple apps, looking for tunes across the web, too. In this example, "find music by The Decemberists" brought up the option to create a Pandora station. Speaking "Note to self," however cliche, creates a message reminder for you later. Blue words in a spoken message highlight potential errors that you can fix via more standard input mechanisms. It'll come pre-installed on Droid 2 and should be available via the Android Market for 2.2 devices -- just look for "voice search." Video demonstration after the break. And if you haven't been keeping up with the language capabilities, Android now additionally supports Spanish, French, Italian, and Japanese for voice search... but right now actions are English-only. Désolé.
+ 
+
+See more video at our hub!
+ 

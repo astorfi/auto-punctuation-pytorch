@@ -1,0 +1,7 @@
+
+ The jury is still out on whether Chromebooks will sell like hotcakes (we're guessing not), but no matter to Mozilla. The organization behind Firefox has plans to develop its own operating system for mobile devices -- a clear shot across the bow at Google's browser-based Chrome OS. In a page on Mozilla's own wiki, a handful of senior developers announced their intentions to create a "complete, standalone operating system for the open web" running HTML5 apps. The OS, codenamed "Boot to Gecko," will be designed with tablets and handsets in mind, says Mike Shaver, the foundation's VP of technical strategy. And here's the fascinating part: the OS will rely on Google's own Android drivers and kernel to boot the device. In a Google Groups discussion thread, the lead devs said they chose Android over a Linux stack since so many device makers have focused their efforts on Android, and it makes sense to "reuse its lower layers." Still, they insist that they otherwise intend to borrow from it as little as possible. Obviously, don't hold your breath for Firebooks, as the project's very much in its infancy, but in the meantime there's some mighty interesting conversation happening in that discussion thread about Mozilla's lofty end game: breaking "the stranglehold of proprietary devices over the mobile device world."
+
+[Thanks to everyone who sent this in]
+      
+
+ 

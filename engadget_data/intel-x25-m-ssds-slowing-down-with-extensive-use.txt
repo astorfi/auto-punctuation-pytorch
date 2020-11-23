@@ -1,0 +1,5 @@
+
+ 
+Intel's X25-M SSD drives have certainly shown themselves more than capable enough in the usual tests and various configurations, but a long-term test report from the folks at PC Perspective is now casting a bit of doubt onto their long-term effectiveness and speediness. More specifically, they found that the sector remapping and wear-leveling algorithms that are designed to increase performance and extend the drives' lifespans were actually doing quite the opposite as the drive became increasingly fragmented after extensive use. Further complicating the matter, it seems that conventional defrag programs only make the situation worse, with the only sure way of resetting the drive's sector maps being a complete wipe of the drive. PC Perspective is quick to point out, however, that many users may well never notice the slowdown with light use, and they do have a few suggestions to minimize the problem until Intel devises a firmware fix, which is the only surefire solution.[Via Ars Technica, thanks Robert]
+
+ 

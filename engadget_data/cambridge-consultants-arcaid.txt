@@ -1,0 +1,11 @@
+
+I am a terrible basketball player. But, that should come as no surprise: I'm relatively short and a tech journalist by trade. Cambridge Consultants is confident it can improve my game, however. The company is working on a collection of technologies that can be used to analyze your performance in a particular sport and provide data, tips and coaching to help you fully realize your physical potential. For demonstration purposes, it brought a system it's calling ArcAid to CES. It starts with three cameras mounted behind a backboard. Two of them are used to watch the ball as it flies through the air, calculating speed, angle and arc; while a third watches to see if you actually sink the shot. If we had been using an actual basketball, the cameras would have even been able to track its spin, but to avoid damaging the booth behind them Cambridge Consultants went with a blue foam ball instead. I took a few tosses and, as you'll see in the video below, things did not go so well. With each attempt, a giant screen to the right would tell me if I needed to shoot harder, aim farther to the left or lower my arc.
+
+
+This is, of course, just a rudimentary implementation. The system can support other sensors, like accelerometers, or track movement across a larger field. So, for instance, it could tell you where on the court you're having the most success, and even help you identify if a particular angle of attack is throwing off your aim. Obviously, the system isn't limited to basketball. You could tackle tennis, baseball or even boxing with the right combination of software and sensors. Even with a couple of years of tutelage under the ArcAid system, I'll never make the NBA, but at least maybe I'll finally beat able to beat my little sister at a game of HORSE.
+
+
+
+
+
+ 

@@ -1,0 +1,18 @@
+
+NVIDIA surprised the world last night by transitioning from hardware component manufacturer to game console maker in one fell swoop, introducing the world to its portable game console, Project Shield. A 5-inch "retinal" HD multitouch display sitting atop a full-on game controller that resembles a blend of the Xbox 360 gamepad's curves and the PlayStation 3 DualShock 3's unfortunate analog stick placement, all powered by the newly revealed Tegra 4 quad-core cortex A15 processor. The console's set to ship in Q2 2013, and it promises stunning graphics for the Android games it's made to run, as well as a direct streaming option employing NVIDIA's GeForce Experience application. That means not just Android games, but also full-on PC games, with built-in Steam Big Picture Mode integration. It is, frankly, an impressive package. But the proof's in the pudding, right?
+
+
+We got our first chance to go hands-on with the device this morning -- our first hands-on with any Tegra 4 device, mind you -- and came away impressed. Beyond being a speedy handheld, the 5-inch LED makes high-def PC games look even more visually stunning. Sheer pixel density alone meant that our test run of Need for Speed: Most Wanted looked even better on Project Shield than it did on the PC running it. More importantly, there was zero perceptible lag.
+
+
+As for controls, Shield is a bit on the unwieldy side of things. In an effort to make the screen foldable, clamshell-style, with the full gamepad underneath, the analog sticks are sunk into the body. While it didn't make any of the games we tried unplayable, it did feel a bit less comfy than, say, an Xbox 360 controller. The DualShock 3-esque placement of those analog sticks isn't helping either, but sadly that doesn't look like it's changing -- the sticks are where they are for function's sake.
+
+
+
+
+
+The Shields we used were running Android's latest firmware, Jelly Bean 4.2.1, and appears to be a mostly stock version of the OS. There's of course the inclusion of Tegrazone, as well as the Shield app (which facilitates PC game streaming and acts as a hub for games on the device), but it was otherwise pretty standard. That said, with a Q2 2013 expected launch, that OS could change dramatically. We were able to quickly and easily swap from a high-def PC game to the internet browser without any issues, and back again. Switching between PC games is a bit more trouble, requiring you to quit out before swapping to another -- a failsafe to make sure you don't accidentally kill your save file, but an unfortunate one for ease of use. Android gaming is a bit more fluid, operating ... well, like an Android device. The boxing title featured during last night's pre-CES keynote looked just as good as it did yesterday, though admittedly nowhere near as impressive as the PC game streaming.
+
+All in all, while there are still some minor tweaks we'd like to see on Project Shield before it becomes a reality, the device felt solid, looked great, and sounded just as good. The speakers are, if anything, overbearingly loud (that's a good thing), and the screen is far more beautiful than we were expecting. If the price is right, we could very much see this becoming our go-to gaming handheld at home. For now, all we know about that is that it won't be in line with the subsidized console market. "There's a lot of tech in there," an NVIDIA rep told us, pointing out the device's many functions. While that statement's a bit worrying, we'll reserve our trepidation for the actual price, which we should know sooner than later.
+
+

@@ -1,0 +1,116 @@
+
+ 
+  Related reviews   Apple iPhone 5  Samsung Galaxy S III  HTC Sensation XE (first phone with Beats Audio)  The love of audio. It's a dangerous condition, because every minute spent obsessing over headphones or specs or conflicting opinions is a minute not spent enjoying your favorite tracks or discovering new ones. That's why a review like this, which compares the iPhone 5 with rival phones based largely on acoustic qualities, runs a high risk of time-wastage -- no one really needs a cacophony of flowery words with no concrete conclusions.
+
+ How to steer clear of the technological equivalent of a wine-tasting? By trying our damnedest to focus only on the more practical pros and cons of these top handsets, specifically from the POV of someone who listens to a lot of music on their phone. We're talking about someone who likely prefers high-bitrate recordings and who is ready to spend money on something better than the earbuds (or EarPods) that come in the box.
+
+ In addition to testing Apple's new flagship we'll also look at the iPhone 4S, which is now a ton cheaper than it was a few weeks ago, as well as the Galaxy S III (both the global and the Sprint US version) plus the HTC One X (global and AT&T), and run them all through an audiophile obstacle course that goes right from purely subjective observations through to slightly more scientific tests as well as storage, OS and battery comparisons. There'll also be some consideration of the iPhone 4, Nokia Lumia 800 and PureView 808, although it'll be more condensed.
+
+ And yes, we'll end up with an overall winner, but the research here is about more than that. Different phones may suit different people, depending on their priorities. Moreover, new handsets are just around the corner -- the Lumia 920, the Note II, the LG Optimus G and whatever other goodies the future undoubtedly holds -- and so it makes sense to have a bed of knowledge against which new entrants can be judged. Interested? Then let's get started.
+
+
+
+ The tests 
+ You'll find a total of four tests here, each with a different approach and each with its own winners and losers:
+
+ 1. First impressions. These are totally subjective and simply involve me listening to a range of tracks on each device, using a pair of in-ear headphones, and then jotting down some notes. The point was to force me to pin my colors to a mast: if I made random judgments during this phase, then I stood to be contradicted and / or humiliated by subsequent tests, which would then put this whole review in its place (a place called Meaninglessville).
+
+ 2. Scientific tests, conducted by AMS Acoustics in London, UK. These guys test audio equipment for a living, in everything from concert halls to train stations, and we're grateful for their time and expertise.
+
+ 3. Guided listening tests, which were still subjective but at least had some discipline to them, and which were again conducted under the auspices of AMS Acoustics. These tests also brought in the opinions of a totally independent witness: Chris Nicolaides, an AMS audio engineer, who is normal enough to regard both the iPhone 5 and the GS III as "just more phones."
+
+ 4. A brief round-up comparison of battery life, storage, pricing and software from an audiophile perspective.
+
+ (Note: the iPhone 5 in this review was running on the Vodafone UK network. It's possible that slightly different audio hardware is used in other variants.)
+
+ First impressions 
+ As mentioned, the idea here was to make some rapid and purely subjective judgments about the way these smartphones sound. I did that using a pair of top-end Sennheiser IE-80 in-ears, which are characterized by low impedance (16 ohms) and high sensitivity -- in other words, it's easy to make them go loud even if you have a low-power audio source like a smartphone.
+
+ Given that these Senns are so easy to drive, it shouldn't come as a big surprise that all the smartphones tested came off pretty well. In fact, it's not going too far to say that if you use in-ears with similar properties to these, and if you're only ever likely to use these types of headphones, then you may as well pick your handset based on other factors, because audio quality isn't a big enough deal to accept or reject any of them.
+
+  "If you're only ever likely to use these types of headphones, then you may as well pick your handset based on other factors."
+
+ That said, three phones did stand out just a little: the iPhone 4, 4S and global HTC One X. The two older iPhones caught my attention on quiet classical tracks because I noticed that they could both go really loud without adding much extra hiss (i.e., hiss that wasn't clearly on the original music recording.) The HTC One X stood out in more rhythmic types of music like hip-hop and dance because it had great stereo imaging -- you could really hear different degrees of left and right -- and somehow it also accentuated little details that weren't always apparent on the other handsets. The only downside of the One X was that it added quite a lot of hiss.
+
+ What about the iPhone 5? Well, it was fine on the whole, but I did notice something holding it back: you had to push the volume a good few notches higher just to get the same output level as the 4 or 4S. Doing this caused the iPhone 5's on-screen volume display to turn a stress-inducing red color, which is arguably not what you need when you're trying to chill out to some chill-out. More importantly, the volume hit its max limit sooner, making the 5 a quieter phone all-round.
+
+ 
+ Honestly, this is no big deal with lightweight in-ears, but many audiophiles prefer cans with open-backs or higher impedances, which respond best to an abundance of energy from the source device. To explore this, I switched to using Beyerdynamic DT 990 Pro over-ears with a high impedance of 250 ohms and found that the difference was obvious: the iPhone 4 and 4S were the only devices to provide sufficient volume in quiet recordings using these headphones. Admittedly the Beyerdynamics may be a niche choice for mobile listening, but still -- the 4 and 4S deserve points for being so flexible.
+
+ Just to add another perspective, our Mobile Editor Myriam Joire also checked out the devices using DT 990 Pros and found that -- at least with her preferred types of music, such as house and drum & bass -- the global HTC One X really won her over, although it didn't go as loud as her iPhone 4S or indeed as loud as she would have liked. Myriam was attracted to it for much the same reasons as I was, scoring it high for stereo imaging and a slightly noisy "analog feel."
+
+ Our findings so far: The iPhone 4/4S and global HTC One X both win this round. The iPhones win because they go loud enough to allow virtually any choice of audiophile headgear and any genre of music, while the HTC One X wins for subjectively sounding better in louder genres, with better stereo imaging and detail albeit at the expense of more noise.
+
+ Objective tests 
+ To make things slightly more scientific and reliable, AMS Acoustics took two key measurements for each phone: frequency response (FR) and total harmonic distortion (THD). FR tests the device's ability to treat all bass and treble frequencies equally, which in turn allows you to hear what was recorded in the studio or to make your own EQ adjustments from a neutral starting point. Meanwhile, THD measures the degree to which the phones introduce harmonic tones that are not present in the original media -- for example as a result of clipping or other types of distortion.
+
+ Despite being objective, FR and THD should be regarded as very blunt tests. They measure neutrality, which isn't necessarily what the human ear would perceive as being pleasant or unpleasant. There are also impurities these metrics can't catch -- such as noise and intermodulation distortion -- and even when they do highlight a difference, they won't tell us what caused it. A lack of neutrality could just as easily be a product of the software as of the phone's audio circuitry, and it could potentially be fixed by using a different app or different EQ settings -- we only tested stock music apps with default settings (including with the Beats setting turned off on the HTC phones).
+
+ The strength of these tests, however, is that they're reliable enough for AMS to be able to vouch for them. What's more, they're able measure things which are perceivable and which we know are important -- namely, the ability of a phone to reach a high level of volume without distorting the output, such that it may be suitable for a wider range of headphones. We deliberately ran each phone at its maximum volume setting in order to find this out, and as a result our FR chart is also useful for ranking the phones in terms of loudness.
+
+ Frequency Response 
+ Let's start with the FR chart above, and in particular with the topmost line. It's the odd one out because it doesn't correspond to a smartphone, but rather to the FIIO E17 DAC and headphone amp. We used this as a benchmark for comparison because it's a $130 device that's totally dedicated to producing audio. In other words, it represents what a manufacturer can do with a smartphone-sized block of electronics when they don't also have to worry about it receiving calls or playing tower defense games.
+
+ We can see right away that the FIIO goes much louder than any of the smartphones under test, and that's before you even extend its default volume range using its settings menu (something our little test rig begged us not to try). It's also reasonably flat -- not the flattest, certainly at the treble end where it rolls off too quickly -- but flat enough.
+
+  "The iPhone 5, meanwhile, fails to distinguish itself."
+
+ In fact, all the smartphones tested here are good and flat, with the only obvious exception being the Lumia 800 with its apparent bass boost. Aside from that, the major difference this chart reveals is how loud each phone can go while remaining flat, and that prize undoubtedly goes to the iPhone 4 and 4S, which both contain Cirrus Logic audio chips and which seemed to behave almost identically here. The quietest phone was the GS III, but it deserves some marks for being so flat all the way from bass to treble -- that Wolfson audio chip clearly is no slouch. The iPhone 5, meanwhile, fails to distinguish itself by tracing a path somewhere in the middle, amongst the Qualcomm-powered American GS III and One X.
+
+ Total Harmonic Distortion 
+ Now, this next graph works totally differently. It shows the amount of the audio signal that was due to harmonic distortion, so a higher curve is theoretically "bad" or at least non-neutral -- we want a line that is a low as possible throughout as much range as possible.
+
+ Interestingly, the FIIO is far from perfect here -- it's higher than any of the smartphones on trial, although we have to go a little easy on it because we know that its test signal was so much louder, and remaining loud and neutral is what devices find most difficult.
+
+ All the smartphones are tightly bunched together, without large differences between them, but once again the iPhone 4 and 4S come off extremely well. The 4S wins hands-down on this chart, while the 4 is ahead of the bunch everywhere except at the bass frequencies. Again, the iPhone 5 is somewhere in the middle, alongside the Qualcomm-powered phones.
+
+  "Once again, the iPhone 4 and 4S come off extremely well."
+
+ Before we conclude this section there's one other thing that the THD graph shows: the global HTC One X has slightly higher distortion than the other phones. It could be coincidence, but it's interesting that the two stand-out devices from the first test also sit at the extremes on this one. The global One X is thought to contain a bespoke audio -- likely from Texas Instruments -- and it's just possible that its higher harmonic distortion is correlated in some way with the noisy, analog vibes that made it notable before. Indeed, THD isn't necessarily a bad thing -- it's one of many types of distortion that can be deliberately used in a recording studio to add color to certain types of music.
+
+ Findings: These tests can hardly be considered the final word on audio quality, but they do make the iPhone 4S (and 4) stand out for being the phone which goes the loudest with the least distortion.
+
+ Guided listening (and a wildcard) 
+ So, you've made it this far? Then hopefully we can start bringing this whole thing toward a conclusion, and to do that we're going to try a new kind of test: guided listening, in which myself and Chris Nicolaides from AMS sat down with each phone and tried to score it out of 10 against different criteria. This time we opted for headphones with middle-of-the-road impedance and sensitivity, in the form of Sennheiser HD 595 over-ears rated at 50 ohms.
+
+ We listened to the phones at full volume and tried to detect differences in loudness, hiss, distortion (such as clipping), dynamic range (the ability to make loud and soft stand out from each other) and overall "quality." For a loud track with little dynamic range we chose something from Roni Size, while Ellie Goulding represented a busy and complex electronic sound and Chopin represented classical. Two people, five metrics, three test tracks and 10 points give a maximum score of 300.
+
+  "None of the phones scored below 70 percent."
+
+ Where we couldn't hear any differences between phones on a particular test, we simply gave all the phones a default score of 10/10 on that measure. This seemed fair at the time, but on reflection our approach seems to have exaggerated the differences between phones. Even if we only heard a minor disadvantage on a particular handset, just the fact that we didn't award a full 10/10 score seems to make less-than-perfect phones stand out too much. So, just bear that in mind while you glance at the table -- after all, none of the phones scored below 70 percent, so none of them were bad as such:
+
+       Device    Loudness    Dynamic Range    Distortion    Hiss    "Quality"    Total       FIIO E17 (reference)
+
+     60    60    58    60    60    298/300      iPhone 4S  54  57  60  60  58  289/300      iPhone 5    45    55  60  60    55    275/300      HTC One X (global)    35    50    59    50    45    239/300      HTC One X (AT&T)    34    44    58    55    36    227/300      GS III (Sprint)    36    40    58    46    35    215/300      GS III (global)    29    40    58    51    35    213/300    Findings: So, the iPhone 4S wins yet again, providing almost the same experience as a dedicated $130 headphone amp -- which is pretty incredible when you think about it. Of all the devices tried, and on our 50-ohm headphones, only the iPhone 4s and the FIIO were too loud to be comfortable, and we'd have happily pushed all the phones up higher if they'd been able.
+
+ Our subjective rankings for loudness don't tally exactly with the FR chart above, suggesting that smaller differences in maximum volume are hard to detect aren't a big deal. Indeed, the iPhone 5 overcame its objective lack of volume to reach second place -- showing that it still went loud enough in our test tracks to have emotional impact.
+
+ Interestingly, the global HTC One X stood out for the third test in a row -- scoring higher than the other Androids thanks to a high score for dynamic range (the feeling of impact between soft and loud) and as well as its subjective overall "quality" rating.
+
+  "The iPhone 5 overcame its lack of volume to reach second place."
+
+ Oh, and what about that wildcard? It was simply this: we also tested a rooted global Galaxy S III, running a nice little app called Voodoo Sound. The app was built by a good friend of Engadget, François Simond, and it has helped many people to overcome the quietness of Samsung smartphones. Once it has superuser privileges on the phone, Voodoo Sound is able to control the digital volume and analog amplifier separately, while also removing the limit Samsung imposes on the amp. The GS III version of the app isn't out yet, and we only tested a very early build which had a few bugs so we didn't want to score it -- but suffice to say that it scored significantly higher than the stock GS III and it does solve the only real problem with this device's audio.
+
+ Non-audio comparisons -- OS, cost, storage and battery life 
+ Comparing mobile operating systems can get academic, seeing as by now so many people are entrenched in their preferred ecosystem. That said, during our tests the Android devices did stand out in a number of ways. First, they didn't try to force us to use particular pieces of software (hello, iTunes and Zune), and they had the decency to treat our test tracks as regular files that we could move around as we wished, particularly through USB mass storage mode. Second, the Androids handled Free Lossless Audio Codec (FLAC) files out of the box, and allowed the playback of Apple Lossless files (ALAC) through third-party apps like PowerAmp, whereas iOS devices didn't make it easy to play FLAC and the Windows Phone didn't readily like either codec. Given that even the latest Android devices are readily rootable and flashable, allowing the use of custom ROMs and software utilities with an even deeper layer of control, Google's OS feels the most welcoming to audiophiles.
+
+  "Google's OS feels the most welcoming to audiophiles."
+
+ Most of the Android handsets in this test also came off very well in terms of cost and storage. If we agree that an audiophile needs at least 32GB, then the GS III (all variants) and global HTC One X offer that for a decent price in their respective markets. The GS III wins outright for having expandable microSD storage, meaning you can add 16GB to a base model for just $10, and it also has On The Go compatibility with USB sticks -- a feature which kills the battery, but can occasionally come in handy. Apple generally charges an obscene amount ($100) to add 16GB to an iPhone, but fortunately the iPhone 4S isn't so extortionate these days and is actually quite a sensible purchase. The AT&T One X and Lumia lose out due to their 16GB storage cap -- which is a real shame. Conversely, the PureView 808 deserves a mention here for the fact that it also has a microSD slot and OTG USB storage.
+
+ Finally, let's take a quick look at battery life, based on our regular battery run-down tests, which are probably a better indicator of actual usage then just running the phone with music playing and the screen off:
+
+    Phone  Battery Life     iPhone 5  11:15     Samsung Galaxy S III (Sprint)   9:20     Samsung Galaxy S III (global)   9:02     HTC One X (AT&T)   8:55     Nokia 808 PureView   8:40     iPhone 4S   8:00     HTC One X (global)   6:00     Nokia Lumia 800   N/A (different benchmark)   Findings: Which phone wins this fourth and final section? That's largely up to you to decide, depending on which measure is most relevant to the way you listen to music. We'd have to pick the Galaxy S III though, because it offers the most flexible OS alongside the best and cheapest storage options, and it also very good battery life.
+
+ Wrap-up 
+ We're now able to round this musical journey off with a cadence that -- we hope -- does justice to all the handsets we've tried. The main conclusion is quite straightforward: tests one, two and three all deliberately gave preferential treatment to the loudest phones with the least distortion, which resulted in a unanimous victory for the iPhone 4S. By extension, some of that glory also belongs to the iPhone 4, which as far as we can tell possesses virtually identical audio circuitry.
+
+ The iPhone 5, meanwhile, joins the ranks of smartphones which generally sound great but which aren't especially well-suited to those audiophiles who want to stick with high-impedance headphones. In terms of pure audio quality, it was above average in the subjective tests and probably deserves to tie in second place with the global HTC One X, which has its own peculiar but attractive sound.
+
+ We need to find out from Apple why it has now joined in with other manufacturers in limiting the volume on its newest handset -- we've contacted them and will update if we get an answer. It's possible that there are very good reasons, such as avoiding the risk of hearing damage. Or perhaps restricting the headphone amp is seen as a way of maximizing battery life. Either way, it's curious that some manufacturers seem to be moving in the exact opposite direction: for example, we're told the voltage has been bumped up on the headphone jack of the forthcoming HTC Windows Phone 8x specifically in order to cater for hefty headphones, which leaves us very keen to give that phone a listen.
+
+ As for the majority of smartphone users who prefer low-impedance or closed-back headphones that are designed for mobile devices, and that are better suited to an office environment or public transport, then the first three tests aren't especially relevant. The only test that really matters is the fourth one, which broadened the scope of comparison.
+
+ If you demand a flexible OS, then Android shines in that area. If you need a sensible price for at least 32GB, then a Galaxy S III and iPhone 4S stand out as the smartest options in the US, alongside the global HTC One X and PureView 808 in other lands (or on import). If battery life is all-important, pick the iPhone 5, Galaxy S III or AT&T HTC One X. But if you want a phone that really shines on all of those criteria, then we'd have to recommend the Samsung Galaxy S III. Although it didn't win us over to the same degree as the global One X in terms of subjective audio quality, it excels in every other respect: it's a great smartphone with the advantage of LTE in the States (missing on the iPhone 4S, for example), it can be heavily tweaked with apps and third-party mods, and it's every inch an audiophile device.
+
+

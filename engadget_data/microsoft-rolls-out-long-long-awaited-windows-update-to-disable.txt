@@ -1,0 +1,5 @@
+
+ It's already changed the behavior in Windows 7, and Microsoft has now finally rolled out an update for earlier versions of Windows that prevents a program from executing automatically when a USB drive is plugged into a PC. That behavior has been blamed for the spread of malware in recent years -- including the infamous Conficker worm -- and Microsoft had actually already made it possible to disable the functionality back in November of 2009, albeit only through an update available from its Download Center website. It's now finally pushed the update out through the Windows Update channel, though, which should cause it to be much more broadly deployed (particularly in large organizations). As explained in a rather lengthy blog post, however, Microsoft has decided to simply make it an "important, non-security update" rather than a mandatory update, as it doesn't technically see AutoRun as a "vulnerability" -- it was by design, after all. That means you'll have to look for the option in Windows Update and check it off to install it -- if you choose, you can also re-enable it at anytime with a patch.
+      
+
+ 

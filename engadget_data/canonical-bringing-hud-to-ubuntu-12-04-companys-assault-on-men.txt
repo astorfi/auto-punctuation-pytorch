@@ -1,0 +1,8 @@
+
+  Canonical -- shepherd of the popular Linux distribution Ubuntu -- generally doesn't rock the boat with its LTS releases, but things are going to be different this time around. With 12.04LTS the company is taking its assault on contextual menus to the next level by launching HUD. Mark Shuttleworth's obsession with simplifying user interactions began with the controversial Unity UI in Ubuntu 10.10, and will continue with the Head-Up Display. "Menus require you to read a lot when you probably already know what you want," the distro's founder wrote, "HUD solves many of these issues." Those that have used the search feature in Apple's "Help" menus, or launcher apps like Quicksilver and Alfred, will immediately recognize the goal -- to keep a user's fingers on the keyboard, remove clutter and facilitate quick access to available actions. Listening to music and in the mood for The King? Invoke HUD, type the artist's name and you're presented with your Elvis catalog. It also uses "fuzzy matching" and will remember the actions you most commonly perform to further refine your experience. If you're having a hard time envisioning how HUD works, fear not; there is a three minute video demo awaiting your inspection after the break. Death to menus!
+      
+
+ 
+
+ 
+ 

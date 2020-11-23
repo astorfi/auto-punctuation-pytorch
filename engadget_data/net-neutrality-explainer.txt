@@ -1,0 +1,40 @@
+
+The internet! It's a truly wonderful place, a reflection of humanity that encompasses the breadth of our achievements and failures as a species. It's at the center of modern life in the United States: from birth/early life education for parents to educational tools for kids, interacting with networks of friends and family, the entire college experience, managing finances into adulthood and building a business. It is ubiquitous. And the internet, as we know it, is open. The concept of "net neutrality" is simple: to keep the internet open.
+
+
+Update (2/27): And now, so many months later, the FCC has officially passed new rules to protect the open internet (aka net neutrality). Yay! So what does that mean exactly? Check after the break for some new details.
+
+
+
+WHAT IS IT?"Net neutrality" is a dreadfully boring phrase, sadly. All credit to the very smart coiner of the term, Tim Wu, but "net neutrality" sounds like a combination of nerd jargon and hippie protest movement. The concept is thankfully very easy to understand: The internet is an open forum where all websites and services are created equal. Access to the internet means equal access to all websites and services, big and small, as legally allowed.
+
+That is the idea of "net neutrality," and it's especially easy to understand in the context of reality: As of right now, the internet is open, and access to all websites is available (big and small, as legally allowed).
+
+WHY SHOULD I CARE?
+Doesn't it stink when you're trying to marathon House of Cards and the stream keeps stuttering? That's no coincidence: Netflix recently inked deals with two internet providers (Comcast and Verizon) to pay cash for more reliable service. Previously, both Comcast and Verizon were noticeably slipping in Netflix speed tests; Netflix said the two companies weren't throttling internet speeds, but connect the dots as you will. Anyway, Netflix speeds are improving on those providers and you're back in business with Frank Underwood, right?
+
+Yes and no. You are indeed able to laze away Sunday watching Anthony Bourdain tour the world, but Netflix is upping its prices pretty soon. Hey, that stinks! This is the very base level of why you should care.
+
+WHAT'S AT STAKE?
+Netflix has enough money to pay off the internet service providers (ISPs). How many others do? And what does it mean for the rest of the internet service you receive from an ISP that provides a separate lane for specific websites/services? These questions are at the heart of the battle over the future of the open internet.
+
+More than just streaming issues, the stakes are innovation. So the argument goes: Though Netflix has the money to pay for dedicated internet speed, it could be using that money for, say, expanding its 4K offering. And if the company couldn't pay? Then perhaps it wouldn't make it in the long run, further entrenching the ISPs. According to the Electronic Frontier Foundation, a group that supports net neutrality, "New websites that can't afford expensive fees for better service will face new barriers to success, leaving users with ever fewer options and a less diverse internet."
+
+WHAT'S THE ARGUMENT?
+On the flip side of the innovation argument in favor of net neutrality, ISPs argue that regulation to enforce it impedes their ability to innovate. After the Federal Communications Commission voted recently in favor of proposing new rules, AT&T said, "Going backwards 80 years to the world of utility regulation would represent a tragic step in the wrong direction." For some, the argument is against putting control of internet regulation in the hands of the government; for others, it's a question of destabilizing stock markets as a result.
+
+In either case, something has to give: The previous regulations set up by the FCC were shot down in court earlier this year. In so many words, the FCC has to do something to address net neutrality. After last week's vote, we're waiting to hear what exactly that something will be.
+
+WANT EVEN MORE?We sure hope you do, because there's a ton of supplemental reading to do on the subject. Why not start at the beginning with the original paper by Wu (who coined the term "net neutrality"). Vox's breakdown of net neutrality digs into the legislative history and challenges the FCC faces in implementing regulations on how the internet operates, much of which we skirted here. Our own Richard Lawler explains why Comcast's deal with Netflix doesn't mean the end of the net neutrality fight. Or maybe you wanna get super serious and dig into the history of communications regulation in the US? Here's the original text of the Communications Act of 1934 (PDF), which is the basis for much of the legal arguments over ISP regulation.
+
+
+UPDATE (2/27): NET NEUTRALITY PASSEDThe commission has reclassified broadband as a public utility, giving it power to prevent ISPs from blocking, throttling or paid prioritization. It also has new influence on the interconnection deals Netflix has been complaining about, and claims it can "hear complaints and take appropriate action" when ISPs are mucking about. The FCC claims these new rules won't lead to new taxes either, while allowing for "reasonable" network management. 
+
+So what does all of that mean for disputes like these, exactly? We don't quite know yet, since it will likely be a few weeks before the final document is edited and released, and 60 days after that before it takes effect. Because we haven't read the actual rules -- and no one has filed a lawsuit yet -- it's hard to tell exactly how effective they'll be in sorting out these types of disputes. As The Consumerist points out, things like data caps have not been addressed at all in the information released so far, so it remains to be seen if things will change there either. For now, a good place to start is with the reactions of some of the parties involved, and once the rules are available, we'll let you know how it all shakes out.
+
+[Image credit: Bebeto Matthews/Getty Images, Brand X, (Tom Wheeler, FCC) - Associated Press]
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

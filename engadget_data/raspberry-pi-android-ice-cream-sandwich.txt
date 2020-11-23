@@ -1,0 +1,10 @@
+
+ 
+ Work on Raspberry Pi just doesn't stop, and the latest news from the programming box's official blog is that its already got Google's (second) newest Android iteration running on the tinker toy. While this early version is reportedly working smoothly, with hardware-accelerated graphics already in place, a developer is still working on adding support for AudioFlinger, Android's native audio software. This Raspberry-flavored Ice Cream Sandwich apparently runs on both a kernel and VideoCore binary image that's currently not publicly available. The team is still looking into whether the two code lines can be wrapped into a single entity before it offers up the source to its users. See how the experimental pairing fares in a quick video runthrough after the break.
+
+
+
+
+ 
+
+ 

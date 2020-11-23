@@ -1,0 +1,12 @@
+
+ 
+
+Every year ioSafe has some absurd demo to show off just how tough its rugged hard drives are. They've already played with fire and peppered a portable model with buckshot. This year the company turned to an eight-foot tall Tesla coil and pointed its bolts of current at a prototype Thunderbolt model of its Rugged Portable -- which the company hopes to ship sometime in Q2. Unlike previous versions, this one packs dual SSDs in a RAID array for redundancy. After being blasted repeatedly with a million volts of electricity the drive still worked. Things got a bit hairy when the drive wasn't recognized at first, but CEO Robb Moore broke out the screwdrivers, cracked open the case and connected the SSD directly through a separate adapter. Turns out just the mainboard was fried, but the storage was still safe. A second Rugged Portable, one of last-year's models brought in by a member of the press, was also put to the voltage test and came through unscathed. Check out the video after the break.
+
+
+
+Edgar Alvarez contributed to this report.
+
+
+ 
+ 

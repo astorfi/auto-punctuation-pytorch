@@ -1,0 +1,5 @@
+
+ 
+ It appears that the jury has come to a conclusion in the Oracle v. Google trial, determining that Android does not infringe Oracle patents. Judge William Alsup of the US District Court for Northern California exonerated the search giant following a trial that lasted three weeks, ruling that Google did not infringe on six claims in US Patent RE38,104, along two claims in US Patent 6,061,520. Jurors were dismissed following today's ruling, with the trial's damages phase reportedly set to begin on Tuesday. According to The Verge, the jury did determine that Google was responsible for two counts of minor copyright infringement, relating to the order of Java APIs and several lines of rangeCheck code, which could be matched with a maximum penalty of $150,000 for each count. Regardless, it appears that the lawsuit, which dates back to 2010, when Oracle filed against Google for copyright and patent infringement related to Sun's Java code, could finally be coming to a close.
+
+

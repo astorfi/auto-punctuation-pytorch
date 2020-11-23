@@ -1,0 +1,6 @@
+
+ Today, Twitter announced an update for its search features for Android, iOS and mobile web. Furthering the company's efforts for a more uniform user experience, the new updated adds a search button to the iPhone app, bringing it up to speed with its Android and iPad counterparts. Across the board users will be treated to improved search results for photos, tweets and accounts, along with a preview section for the Discover tab that takes a peek at the latest trends and activity. Wondering how all this magic works? Twitter's Engineering blog describes the process by which pieces of content are ranked and scored based on factors like "burstiness" to account for recent interest spikes.
+
+ As for the Connect tab, it now defaults to Interactions, which displays new followers, mentions and retweets. However, if you're not looking to keep track of who quoted your recent product placement rant, you can change your settings to Mentions only. Finally, and perhaps our most favorite new addition is a change to how Twitter's mobile implementations handle links. You can now click a URL directly from your timeline without having to open the related tweet. The mobile site is already sporting the latest updates, but you'll need to update your iOS and Android (it's a manual update, thanks to a change in permissions) apps at their respective stores.
+
+

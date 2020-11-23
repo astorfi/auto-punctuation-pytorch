@@ -1,0 +1,10 @@
+
+  
+
+Dutch researchers recently demonstrated a new type of wireless body area network, or BAN for short. A BAN essentially gives the human body its own IP address, and the new techniques demonstrated at IMEC based in Eindhoven incorporate a dongle that plugs into the SD card slot of a cellphone, enabling the streaming of data from the sensors to the cellphone in real time. The demonstrated software, which runs Android OS and uses the nRF24L01+ radio wireless standard rather than Bluetooth. So what does this mean for the future of medicine? Well, with just a few EKG-like sensors, people with medical conditions such as heart problems, or athletes in training, will be able to monitor their own body on their cellphones. The technology is still in the demo phase, but it's one we look forward to seeing in practice. Video is below.
+      
+
+ 
+
+
+ 

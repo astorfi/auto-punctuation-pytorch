@@ -1,0 +1,10 @@
+
+Apple's slowly improved iCloud since it transitioned from MobileMe, but this year, it's getting a serious upgrade. On stage at WWDC 2104, Apple's SVP of Software Craig Federighi introduced us to a better way to manage files with the new iCloud Drive. With Drive, all of your iCloud files are available right inside Finder, letting you access documents and media wherever you are on your Mac. Because they're on iCloud, they're automatically auto-synced across devices and are fully searchable and taggable. You will, of course, need OS X Yosemite to take advantage of Finder support, but Apple hopes you'll ditch Dropbox's and Google's services in favor of Drive's deep OS support. As expected, iOS 8 will also include iCloud Drive functionality, letting you to work with a single version of a document on all of your devices (which surprisingly includes Windows machines).
+
+
+
+In Yosemite and iOS 8, Apple has improved its photo-editing tools while keeping iCloud a central part of it all. In Apple's new Photos apps, you'll be able to auto-straighten photos, perform color corrections and tweak your media with a press of a button. You can change those settings individually, but the app will do them all in concert to make the picture look as good as it can. All of those adjustments are stored in their original formats (and resolution) and then automatically synced between all of your devices over iCloud. The Mac app won't be available until later this year, but when you're up and running, the first 5GB of iCloud storage for those shots is free; 20GB will cost a buck a month; and 200GB will be available for $4 per month.
+
+
+
+

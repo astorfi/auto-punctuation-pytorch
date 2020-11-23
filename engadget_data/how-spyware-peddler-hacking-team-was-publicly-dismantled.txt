@@ -1,0 +1,109 @@
+
+
+What Hacking Team did
+
+Sold intrusion and surveillance software to governments and law enforcement around the world
+Full-service surveillance suites, including network infection, phishing, on-site training, monitoring, reports, and crisis management
+Penetrations tests and security assessments
+Malware and exploit development, including multi-browser exploits and several targeting Flash and Windows
+
+
+Early Monday morning, around 400GB of stolen internal company files belonging to Italian surveillance and intrusion software firm Hacking Team were distributed online through its freshly hacked Twitter account (changed to "Hacked Team").
+
+
+They were hacked by a hacker, or hackers. It was hackenfreude.
+
+
+And because Hacking Team -- a Reporters Without Borders "enemy of the internet" -- was so universally reviled by infosec professionals for their dealings with despotic governments (among other things), it became a group effort. Hackers around the world dug into the illicit files and all but completely dismantled Hacking Team's business, and reputation.
+
+
+
+
+
+
+Global security research communities tore into the docs in waves around the clock; hackers created a GitHub repository named "Hacked Team (Hacking Team) We Kill People™." The docs showed Hacking Team's operational security to be abysmal, its code to be inelegant and childlike and its email communications revealed a petty, arrogant and extremely sloppy organization that actively endeavored to avoid scrutiny about the human rights abuses of its clients.
+
+All of this happened while Hacking Team was asleep, prompting the Twitter hashtag #IsHackingTeamAwakeYet, to which infosec professionals appended the most egregious examples of Hacking Team's foibles and lawlessness.
+
+This included the sharing of leaked email evidence that the company sold its Remote Control System (RCS) spyware to Sudan, a country the company publicly denied selling to when in the spotlight of a UN commission regarding Sudanese sanctions. Sudan is "not officially supported" -- which we can surmise to be a PR failsafe; the country's National Intelligence Security Service received its last service from Hacking Team in December 2014.
+
+That very month, Human Rights Watch published "Sudan: Soldiers, Militias Killing, Raping Civilians" highlighting the country's situation. "Entire communities are trapped in camp-like conditions behind government lines, terrorized by government forces," said Daniel Bekele, Africa director at Human Rights Watch. "In addition to indiscriminate bombing, Sudanese government forces are getting away with abusive and illegal tactics under a guise of counterinsurgency, including rape, arbitrary detentions and killings."
+
+Hacking Team clients by country
+The Hacking Team dump contains: Client lists with maintenance dates, invoices, and financials Source code of all their products and exploits All email, including memos planning media denials Penetration tests on Barclays Bank, Deutsche Bank, ING Passwords, gnupg folders with all the secret keys, their git account keys Passports (suspected to be fake) Evidence employees used the same credentials for private GitLab and public GitHub Leaked FinFisher files, including pirated software Records of business with despotic countries it denied doing business withWho are Hacking Team's clients? Australia, Azerbaijan, Chile, Colombia, Cyprus, Czech Republic, Ecuador, Egypt, Ethiopia, Honduras, Hungary, Iraqi Kurdistan, Kazakhstan, Luxembourg, Malaysia, Mexico, Mongolia, Morocco, Nigeria, Oman, Poland, Panama, Russia, Saudi Arabia, Singapore, South Korea, Spain, Sudan, Syria, Thailand, Tunisia, Turkey, United Arab Emirates, United States, Uzbekistan.
+
+Countries not on the maintenance list that were discovered to be active with Hacking Team's services and products include France, Ireland, the UK and Switzerland.
+
+Eventually, Hacking Team woke up -- to be greeted by an online sea of memes and mockery, and its entire business dealings smeared across the internet.
+
+Senior System and Security Engineer Christian Pozzi took to Twitter in a frantic fury saying it was all lies, that the dump's file had a virus (it didn't) and mentioned law enforcement. He threatened a Twitter user with jail for making fun of Hacking Team's astonishingly amateur password practices. There was also an unsuccessful (and un-denied) attempt to DDoS some of those hosting the torrent file -- only resulting in more sharing, of course.
+
+Pozzi's Twitter account was swiftly hacked, and subsequently removed. Hours later, Hacking Team sent out an email blast -- not from its own email accounts, which were allegedly still compromised -- telling its clients to stop using its software immediately.
+
+So, who did this?I'll writeup how hacking team got hacked once they've had some time to fail at figuring out what happened and go out of business
+
+— Phineas Fisher (@GammaGroupPR) July 7, 2015Among the most notorious companies in the "government hacks for sale" category are Italy's Hacking Team, VUPEN (France) and the British-German Gamma Group, also known as FinFisher. Almost a year ago to the month, FinFisher was popped and served to the internet on a platter -- very much in the same way as Hacking Team. When online persona PhineasFisher hacked and exposed Gamma Group in August 2014, they posted the spoils to Reddit and in a parody @GammaGroupPR Twitter account. The Reddit post said, "Two years ago their software was found being widely used by governments in the Middle East, especially Bahrain, to hack and spy on the computers and phones of journalists and dissidents."
+
+PhineasFisher described how Gamma Group "had denied having anything to do with it, saying they only sell their hacking tools to 'good' governments. ... I have hard proof they knew they were selling (and still are) to people using their software to attack Bahraini activists, along with a whole lot of other stuff in that 40GB."
+
+The @GammaGroupPR account resurrected itself Monday to take credit for the Hacking Team hack -- and to poke at the company as it flails through its biggest-ever PR crisis.
+
+
+ The first haul, of Gamma Group's internal files, was only 40GB -- literally a tenth of what PhineasFisher was able to exfiltrate from Hacking Team (400GB).
+
+PhineasFisher wrote in Hack Back: A DIY Guide for those without the patience to wait for whistleblowers that they originally planned to obtain a copy of the FinSpy software, hack FinSpy's C&C (command and control) servers, alert all the targets to the spying while uninstalling FinFisher and use the former C&C servers to DDoS Gamma Group.
+
+PhineasFisher explained, "It was only after failing to fully hack Gamma and ending up with someinteresting documents but no copy of the FinSpy server software that I had to make do with the far less lulzy backup plan of leaking their stuff while mocking them on Twitter."
+
+As to why PhineasFisher freely distributes the stolen data, they wrote last year about the Gamma dump:
+
+"I'm unconvinced that news stories about government's surveillance capabilities are actually effective in fighting those systems of control. Listening to stories all day about how we're all being hacked and spied on just feels disempowering. When everyone can participate it's more empowering, more fun, and far more effective. ... I want everyone having access to the data, not just the headlines!"
+
+Say what you will about the ethics of PhineasFisher and Hack Back. It's in PhineasFisher's results that things start to get... sickening.
+
+And important.
+
+A revenue stream based on war crimes
+What Hacking Team sold, trained users on and maintained for over 20 countries expressly facilitated the ability of despotic regimes to discover, track, surveil and act upon the people those governments sought to suppress, or worse.
+
+One example of a current -- and typical -- Hacking Team client is Uzbekistan. According to leaked documents, Hacking Team's account with Uzbekistan's National Security Service is active. "Uzbekistan's human rights record is atrocious," Human Rights Watch said. "Thousands are imprisoned on politically-motivated charges. Torture is endemic in the criminal justice system."
+
+Last month, Uzbek police detained human rights activist Elena Urlaeva. Uzbek authorities have frequently subjected her to abuse, including beatings, forced psychiatric treatment, arbitrary detention, house arrest and fines for peaceful protests. At her last detention, she was drugged, interrogated for 18 hours and subjected to what can only be described as an abusive body cavity search.
+
+Hacking Team also targets individuals on behalf of its clients.
+
+We've learned from the docs that Hacking Team also targets individuals on behalf of its clients. One leaked email shows Ethiopia's Biniam Tewolde contacting Hacking Team over its (successful) help in getting an unnamed "high value target."
+
+Hacking Team also targeted other hackers, like security researcher, The Intercept journalist, First Look Media director of security and former Google employee Morgan Marquis-Boire. Among the leaked Hacking Team files, Marquis-Boire discovered a surveillance photo of himself presenting at the Milan Tech and Law Center on February 1st. He described that presentation, For Their Eyes Only: The Changing Face of Online Spying to Engadget as, "a talk on the use of surveillance malware during the Arab Spring and the implications of the sale of such technology to repressive regimes."
+
+Sometimes you're just being paranoid. Other times, @hackingteam is actually recording you. pic.twitter.com/2nRnw0fZrM
+— Morgan Mayhem (@headhntr) July 6, 2015Marquis-Boire told Engadget, "I was not aware that Hacking Team was secretly recording me. It's certainly unsettling to be surreptitiously recorded by a surveillance vendor with a record of being implicated in human rights abuses."
+
+Ethiopia's Information Network Security Agency (INSA) was employing Hacking Team to target Marquis-Boire, likely over his tracking of the company's malware for Citizen Lab and at Google's anti-malware team -- one which culminated in a particularly bad PR moment for Ethiopia.
+
+The Citizen Lab research in question found Ethiopia's INSA using Hacking Team's malware to target journalists; Ethiopian authorities use arbitrary arrests to silence journalists, and detainees routinely allege torture and ill treatment. The Ethiopian government's spokesperson in Washington vehemently denied the use of products provided by Hacking Team.
+
+Yet PhineasFisher's haul shows Hacking Team not only provided its products to Ethiopia, but also proposed a new contract with Ethiopia because, according to a leaked email from operations chief Daniele Milan, "700K is a relevant sum."
+
+
+Incidentally, Marquis-Boire's former employer, Google, also appeared in a transaction with Hacking Team, in the form of selling its SDK, according to documents seen by Engadget. While innocuous enough -- the mapping engine is sold like any product -- it's uncomfortable to note that while Google's anti-malware team was working to track Hacking Team's malware, Google's marketing team was selling the spyware company its mapping services.
+
+No one was immune to the stain of Hacking Team; the doc dump holds the names of some of the world's biggest tech companies. Documents show Hacking Team to have held an iOS Enterprise Developer Cert, apparently offering among its suite of tools a fake iOS Newsstand backdoor app.
+
+The release of its documentation will help to stop the types of attacks enacted by Hacking Team; Adobe has already issued a patch for one of the vulnerabilities Hacking Team relied on.
+
+It's not just companies being pulled into Hacking Team's implosion. The client list and ancillary financials show an Italian company to be doing business with sanctioned countries, with revenue streams directly derived from sales to despotic regimes. In fact, the docs show that all the countries Hacking Team denied doing business with were its customers.
+
+A good number of security researchers find what Hacking Team was doing to be so reprehensible that they're tearing apart everything they find -- though, not without humor.
+
+Hacking Team was doing business with sanctioned countries, with revenue streams directly derived from sales to despotic regimes.The GitHub repository "The Italian Job" shows one researcher using Shodan to locate HackingTeam C&C servers, "Only releasing the fingerprints because they are burned to the fucking ground now."
+
+A member of the European Parliament has called for an investigation into Hacking Team's actions; the European Commission has six weeks to respond.
+
+In its press statement Wednesday, Hacking Team maintains that it was a responsible gatekeeper for its products, and that the world is at risk now that Hacking Team no longer controls its surveillance tools. Hacking Team also implied that companies (like Adobe) are patching against Hacking Team's exploits for the sole reason that its exploits have suddenly fallen into "criminal" hands.
+
+As Rome burns, Hacking Team's representatives are keen on spinning to press that the hack on their systems is why its company is righteous in its mission; that the hack and dump is the "kind of activity that is a threat to everybody who uses the internet."
+
+But based on what we're learning, it's looking more like Hacking Team's activity is the real threat to everybody who uses the internet.
+
+

@@ -1,0 +1,26 @@
+
+Qualcomm, the founding member of Alliance for Wireless Power (or A4WP in short), made a surprise move today by joining the management board of the rival Wireless Power Consortium (or WPC), the group behind the already commercially available Qi standard. This is quite an interesting development considering how both alliances have been openly critical of each other, and yet now there's a chance of seeing just one standard getting the best of both worlds. That is, of course, dependent on Qualcomm's real intentions behind joining the WPC.
+
+
+
+While Qi is now a well-established ecosystem backed by 172 companies, its current "first-gen" inductive charging method is somewhat sensitive to the alignment of the devices on the charging mats (though there has been recent breakthrough). Another issue is Qi can currently provide just up to 5W of power (which is dependent on both the quality of the coil and the operating frequency), and this may not be sufficient for charging up large devices at a reasonable pace. For instance, even with the 10W USB adapter, the iPad takes hours to fully juice up, let alone with just half of that power.
+
+Looking ahead, both the WPC and the 63-strong A4WP are already working on their own magnetic resonance implementations to enable longer range charging. Additionally, A4WP's standard has also been approved for up to 24W of output, whereas the WPC is already developing medium power (from 15W) Qi specification for the likes of laptops and power tools.
+
+
+Here's where the two standards differentiate. A4WP's implementation allows simultaneous charging of devices that require different power requirement on the same pad, thus offering more spacial freedom. On the other hand, Qi follows a one-to-one control design to maximize efficiency -- as in the power transfer is totally dependent on how much juice the device needs, and it can even go completely off once the device is charged.
+
+What remains unclear is whether Qualcomm has other motives behind its participation in the WPC's board of management. While the WPC folks "encourage competitors to join" for the sake of "open development of Qi," this could also hamper the development of their new standard. Late last year, we spoke to the WPC's co-chair Camille Tang (the name "Qi" was actually her idea; plus she's also the president and co-founder of Hong Kong-based Convenient Power), and she expressed concern over the potential disruption from the new wireless power groups.
+
+"The question to ask is: why are all these groups now coming out and saying they're doing a standard? It's possible that some people might say they really are a standard, but they may actually not intend to put products out there," said Tang.
+
+"For example, there's one company with their technology and one thing that's rolling out in infrastructure. They don't have any devices, it's not compatible with anything else, so you think: why do they do that?
+
+"It's about money. Not just licensing money, but other types of money as well."
+
+At least on the surface, Qualcomm is showing its keen side to get things going for everyone's best interest. In a statement we received from a spokesperson earlier, the company implied that joining the WPC's board is "the logical step to grow the wireless power industry beyond the current first generation products and towards next generation, loosely coupled technology." However, Qualcomm still "believes the A4WP represents the most mature and best implementation of resonant charging."
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

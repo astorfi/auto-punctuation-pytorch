@@ -1,0 +1,19 @@
+
+ 
+We figured Sony would follow up last night's temporary restraining order against Geohot and fail0verflow for distribution of the PS3 jailbreak with a copyright infringement lawsuit, and well, here it is. It's actually pretty straightforward, as far as these things go -- Sony alleges that George Hotz, Hector Martin Cantero, Sven Peter, and the rest of fail0verflow are:
+
+Violating §1201 of the Digital Millennium Copyright Act, which forbids bypassing access control measures;
+Violating the federal Computer Fraud and Abuse Act, which forbids accessing computers without authorization;
+Guilty of contributory copyright infringement for encouraging and helping others to crack PS3s as well;
+Violating the California Computer Crime Law, which is the state computer fraud act (think of this as a backup fraud claim);
+Violating the PlayStation Network's Terms of Service (which feels meaningless, really);
+Interfering with Sony's relationships with other PSN customers (also meaningless);
+Trespassing on Sony's ownership right to the PS3 (this one feels weak) and;
+Misappropriating Sony's intellectual property (another weak argument, but there in case the copyright argument fails).
+
+Sony's asking the court to forbid Geohot and fail0verflow from distributing the jailbreak and turn over all computer hardware and software that contain the jailbreak code, as well as unspecified damages and attorneys' fees. Yep, these boys done got sued -- and we're sure there'll be some serious fireworks once they lawyer up and fight right back.
+
+Update: And here we go -- Carnegie Mellon professor David Touretzky has posted up the first mirror of Geohot's code as a First Amendment protest, openly challenging Sony to take action. That's moxie -- we love it. [Thanks, Pedro G]
+      
+
+ 

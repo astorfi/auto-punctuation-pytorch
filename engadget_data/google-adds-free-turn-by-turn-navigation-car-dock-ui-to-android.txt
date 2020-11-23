@@ -1,0 +1,15 @@
+
+       
+Those nat service providers' fears were actually quite justified. Google today unveiled Maps Navigation (beta, of course), an extremely upgraded version of its current Maps software that'll be free and, from what we understand, available by default on all Android 2.0 devices. All the usual Maps features are present, including the ability to search by name of business and have it suggest the closest matches, both semantically and geographically, and traffic data. We're also now looking at turn-by-turn navigation, female robotic voice and all, and integration with satellite and street view, the latter of which will be able to show you what lane you need to be in when exiting the highway, for example. Instead of just searching nearby, it'll also now search along the route for when you're looking for upcoming gas stations or fast food joints that won't take you too far off your beaten path. Select addresses can be added to the Android home screen as their own icons, and given the limits of living in the cloud, trips and their respective visual feeds will be cached just in case you hit dead spots along the way. Still no multitouch, but as VP of Engineering Vic Gundotra noted at a press conference, there's nothing stopping a company like HTC from adding that feature à la Sense UI. 
+
+In addition to demonstrating the basic navigational functions, Gundotra also showcased a new user interface that appears when the device hooked up into a car dock, one that is intended for use "at an arm's length away." Essentially, it means much larger iconography and a convenient "voice search" option front and center. We later got confirmation from a Google product manager that car dock detection was definitively a hardware-based feature, which we take to mean Android devices currently on the market won't necessarily have the same convenience. If Android 2.0 takes off how Google (and Verizon!) hope it does, companies like TomTom and Garmin are going to seriously need to worry about their bottom line. Watch Gundotra demonstrate the app after the break.
+
+Update: Navigation for the iPhone? Gundotra said the ball's in Apple's court, so no telling if / when that'll happen. Remember how well Latitude integrated?
+
+
+
+
+
+
+See more video at our hub!
+ 

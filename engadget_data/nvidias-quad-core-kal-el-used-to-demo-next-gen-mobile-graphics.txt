@@ -1,0 +1,12 @@
+
+ 
+
+You might think yourself too grown-up to be wowed by shiny, glittery things, but we doubt many will be able to watch NVIDIA's new Glow Ball tech demo without a smidgen of childlike glee. Built to run on the company's quad-core Kal-El processor, it shows us the first example of true dynamic lighting on mobile devices and also throws in some impressive physics calculations like fully modeled cloth motion. Instead of the pre-canned, static lights that we see on mobile games today, NVIDIA's new hardware will make it possible to create lighting that moves, fluctuates in intensity, and responds realistically to its environment -- all rendered in real time. The titular glow ball can be skinned with different textures, each one allowing a different amount and hue of illumination to escape to surrounding objects, and is directed around the screen using the accelerometer in your tablet or smartphone.
+
+NVIDIA demoed the new goodness on a Honeycomb slate with 1280 x 800 resolution and the frame rates remained smooth throughout. In order to emphasize the generational leap that we can expect with Kal-El, the company switched off two of the four cores momentarily, which plunged performance down to less than 10fps. That means the simulations we're watching require a full quartet of processing cores on top of the 12-core GPU NVIDIA has in Kal-El. Mind-boggling stuff. Glow Ball will be available as a game on Android tablets once this crazy new chip makes its way into retail devices -- which are still expected in the latter half of this year, August if everything goes perfectly to plan. One final note if you're still feeling jaded: NVIDIA promises the production chip will be 25 to 30 percent faster than the one on display today. Full video demo follows after the break.
+      
+
+ 
+
+  
+ 

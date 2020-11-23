@@ -1,0 +1,10 @@
+
+ 
+We haven't heard a ton about the Unified Extensible Firmware Interface (or UEFI for short) since a rumor cropped up back in June suggesting that MSI would be introducing it on its Sandy Bridge motherboards, but Swedish website SweClockers has now actually gotten it hands on a motherboard with working version of the BIOS-replacing firmware, and delivered our first real look at it. The biggest difference, as you can see, is a significantly more user-friendly interface, but there's also a few other considerable advantages over a standard BIOS, including faster boot times and the ability to boot from drives bigger than 2TB. Head on past the break to check it out in action, in Swedish.
+
+[Thanks to everyone who sent this in]
+ 
+ 
+
+
+ 

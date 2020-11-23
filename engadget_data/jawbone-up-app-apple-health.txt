@@ -1,0 +1,8 @@
+
+
+As it promised mere weeks ago, Jawbone has launched a new version of Up for iOS that syncs data from numerous health services and doesn't require its own tracker. Confusingly, the Jawbone app which does require an Up or Up24 tracker is also called 'Up' and is still available. However, the new version is more of a fitness catchall app that works with Apple's Health and over a hundred other apps (and their trackers), like RunKeeper and IFTTT. In fact, the new Up wants to manage all aspects of your health by tracking your sleep, nutrition and workouts. Once it learns your habits, the "Insight Engine" will then give you personalized health tips and other info. There are also social functions, including team tracking and the ability to boast about fitness milestones. Apple had pulled HealthKit apps a few days ago due to bugs, but after some scrambling they're now back -- you can grab Jawbone's UP for iOS here.
+
+
+Update: Jawbone has told us that the new Up app doesn't work with Nest after all, despite the app saying otherwise. We've updated the post to reflect that.
+
+

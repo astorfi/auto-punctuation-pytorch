@@ -1,0 +1,14 @@
+
+One of Android KitKat's new features is a way for developers to easily make video recordings with the SDK, but what about every day users? After previously demonstrating display streaming software, CyanogenMod developer Koushik Dutta has released a new beta app in the Play Store (join the Google+ Community first for access) that simplifies the process. It does require users to be on one of the latest nightly builds of CyanogenMod 11 to work, but once loaded it can make recording a video of one's screen just as simple as taking a screenshot. As demonstrated in a video (embedded after the break), users can even activate it with the volume up + power combo on a Nexus 5, just like the volume down + power button that takes a screenshot.
+
+
+If you're not on CyanogenMod there is still hope however, as Dutta revealed over the weekend that he has it working on any rooted device running Android 4.4.1, and may have a way for it to operate even on hardware that's not rooted. Koush has been a busy guy lately, also revealing that Google may add Android-to-Chromecast mirroring soon and releasing a new version of his media streaming AllCast app, we almost feel bad about hoping the Cast SDK adds on a few new opportunities.
+
+
+Update: Dutta's latest post confirms "it is possible to do on device screen casting and AirPlay mirroring on stock, without root."
+
+
+
+
+ 
+ 

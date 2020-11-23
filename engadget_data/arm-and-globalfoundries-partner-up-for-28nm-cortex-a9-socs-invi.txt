@@ -1,0 +1,6 @@
+
+ 
+This one slipped the net during the excitement that was MWC this year, but it's such a promising development that we have to give it its due attention. ARM and Globalfoundries have announced plans to start building new systems-on-chip using the latter's ultramodern 28nm high-k metal gate production process, with the resultant chips offering up to 40 percent greater computational power, 30 percent greater power efficiency, and a terrific 100 percent improvement in battery longevity relative to their current-gen siblings. Mass production of these Cortex-A9-based units is expected in the second half of 2010, which means they should be among the very first chips off Globalfoundries' 28nm assembly line. The good news, though, is that the technology is described as "ready for high-volume implementation," so there should be no shortages when things finally get rolling. Let the wild-eyed anticipation begin.
+      
+
+ 

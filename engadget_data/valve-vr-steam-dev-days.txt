@@ -1,0 +1,34 @@
+
+The most exciting aspect of contemporary virtual reality is its implications. Even using Oculus VR's early duct taped-prototype, most users immediately "get it." You're transported to, say, Tuscany, or an underwater exploration vehicle, or a space fighter, and that experience is enough to trigger a flood of ideas for other potential interactions -- interactions that are dramatically heightened by employing a VR headset. How about deep-sea exploration in 4K? Or maybe Mars? And we're not talking just video games, but experiences. Valve VR lead Michael Abrash detailed that notion in a recent talk:
+
+
+
+"Not only could VR rapidly evolve into a major platform, but it could actually tip the balance of the entire industry from traditional media toward computer entertainment."
+
+
+
+Abrash believes that VR headsets so vastly outperform other interaction methods (TV, theaters, etc.) that how folks absorb media in general may be impacted by the coming wave of head-mounted displays. His concept of our potential future may be distant-sounding, but the beginning of consumer-grade, extremely polished VR headsets isn't far off: 2015. At least that's what Abrash and Valve are targeting as primetime for VR, and they're laying the groundwork right now.
+
+
+
+This is a VR prototype headset from Valve
+Valve's first ever game developer conference, dubbed Steam Dev Days in honor of the company's ubiquitous digital storefront/ongoing socio-economic experiment, took place this week. Abrash gave a talk titled "What VR Could, Should, and Almost Certainly Will Be Within Two Years," where he detailed the current state of VR, what challenges the technology faces going foward, and when he (and Valve) believe it'll be ready for primetime. In it, he established a baseline of standards for VR: perfect timing to lay a base given Oculus VR's own standards for VR game development going live at nearly the same time.
+
+First, any VR headset needs to create "presence" for the person using the headset. Abrash defined presence as such:
+
+"It's the sense of being someplace else while in virtual reality; many people feel as if they've been teleported. Presence is an incredibly powerful sensation, and it's unique to VR; there's no way to create it in any other medium."
+
+Cliché as it is, VR headsets aim to do exactly what their name implies: simulate a new reality for the user, real enough to fool the human brain. Oculus VR CEO Brendan Iribe echoed that sentiment to us earlier this year when he said that the closer the experience is to reality, the better the experience is for the user. Sadly for us writers, "presence" -- or rather the experience of using a virtual reality headset and being convinced -- is incredibly hard to convey with just words. "Most people find it to be kind of magical, and we think that once people have experienced presence, they'll want it badly,"Abrash noted during his talk.
+
+Moreover, Abrash thinks that the VR hardware available right now -- including the latest Oculus Crystal Cove prototype -- is still a step or two away from the specs required for true presence. He even has a list of target specs required for creating presence (which Valve has functioning in an R&D headset right now, and was shown to developers during Steam Dev Days):
+
+
+The Crystal Cove prototype that Valve provided support for is "a big step in the right direction" Abrash said, but still not enough to create the sense of presence he and Valve are aiming to achieve. While Valve continues R&D on virtual reality hardware -- Abrash said "several" companies are working on VR headsets, though we only know of two officially creating consumer products (Oculus and GameFace Labs). The company's also building out Steam's VR software support to stay ahead of the curve. That's why SteamVR just went live (a VR version of Big Picture Mode) in beta; why VR games now have their own category in Valve's store; and why the company created the SteamVR API (read: it makes games play nice with the SteamVR platform).
+
+Valve's yet to give press a chance to try its VR hardware prototype, but developers who tried it at Steam Dev Days are responding positively thus far. It apparently has specs similar to what's detailed above, and we're not entirely clear on whether or not it uses a camera in conjunction with the headset for positional tracking (a la the latest Rift prototype). We do know that it uses IR trackers plastered to the walls of the demo room, much like what we saw at Valve HQ when visiting last year. Given Valve's openness during Dev Days and Abrash's assertion that Valve is open to working with any partners to push VR forward, we're certain to hear more in the coming year(s).
+
+Abrash ended his speech with a confident, thrilling statement regarding VR:
+
+"A great VR system at a consumer price in 2015 is more than just possible – it's sitting there waiting to happen. And it will happen, if not in 2015, then soon after. Virtual reality on the PC over the next few years may be as exciting as anything that's ever happened in games. We're sharing what we've learned with you, and we'll continue to do so. There's a huge amount to be learned and figured out about VR, and we certainly can't figure it all out by ourselves; I hope that as you dive into VR, you'll make it a two-way exchange, so together we can make VR one of the great entertainment evolutions."
+
+

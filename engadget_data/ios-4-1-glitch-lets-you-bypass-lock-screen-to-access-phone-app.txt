@@ -1,0 +1,13 @@
+
+ 
+Your iPhone's passcode entry can't block everything, it seems -- at least not with iOS 4.1. We're hearing various reports that simply inputting a random number in the emergency call field, pressing call, and then promptly hitting the hardware lock button will take you to the Phone app, thereby granting you access to the call history, voicemail, and address book. We've tried this with iPhone 3G, 3GS, and 4, all with the same result. We can't get out of the field without trying to place a call, and after that we're still stuck back at the passcode screen. Additionally, selecting "share contact" and then the camera icon will give you access to the photo album. Pay mind that your particularly paranoid pals could probably use this to see if you really did stop calling your ex and delete all his or her pictures. We won't judge, but they will. Video proof of concept after the break.
+
+Update: Feel free to hold down the menu button to access voice control and play some locally-stored tunes while you're at it. And if you've got 4.2 beta like some of our staffers do, this "trick" should work just the same.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

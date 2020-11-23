@@ -1,0 +1,9 @@
+
+       
+So we know AMD was launching the Quad FX platform this week (that officially happened in America today), but we were a little hard up for info on what that actually entailed. Well, here's what's what: the obviously enthusiast platform aims to please by eschewing AMD's own lower performing (yet wholly owned) ATI products for NVIDIA and its nForce 680a-based chipsets (yes, we know), and will feature quad and octo-core support (yep). They're touting twelve SATA connections for up to 9TB of storage, 20 USB 2.0 channels, four gig Ethernet ports, four or eight monitors powered by up to four PCI-E cards, and Dual Socket Direct Connect (DSDC) Architecture designed for optimized performance (or so they tell us). What wasn't clear, however, is that US pricing on the FX-70 series chips are for bundles; helping put one of those fours in 4x4, AMD's FX-70 (2.6GHz), FX-72 (2.8GHz), and FX-74 (3.0GHz) processors -- which use the same Socket F previous Opterons have -- will be sold in pairs for $600, $800, and $1000, respectively, literally doubling the value. Affordable is, of course, par for AMD -- except for one thing. Although we haven't tested these new chips ourselves, PC Perspective is reporting that an Impress study showed these new FX-series processors to be monstrously less efficient in cycles per watt of power consumption than Intel's. One graph (shown after the break) has an FX-74 gobbling what looks like near double the juice of a Core 2 Extreme QX6700 chip for comparable (or lesser) performance values. Whether that will hold you back from (re-)investing in AMD's new platform is up to you, but we know you're not the type to buy blind anyway.Read - AMD Quad FX releaseRead - Impress tests [Via PC Perspective]
+      
+
+ 
+
+
+ 

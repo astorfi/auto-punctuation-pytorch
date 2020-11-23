@@ -1,0 +1,6 @@
+
+  
+ Android 4.2.2 began arriving on an assortment of Nexus devices yesterday with "performance and stability" improvements listed as the only changes, but Android Police dug into Google's change logs and compiled a list of small tweaks. With the update on board, Play Store downloads now display the time left to their completion, and Android Debug Bridge security is shored-up with the addition of a whitelist. Now, WiFi and Bluetooth tiles can be toggled by a long press in the notification Quick Settings. The release also makes hardware play a tone when it begins to charge wirelessly with less than 95% juice left, and uses new low battery and cord-free charging chimes for the Nexus 4. Reports about possible Bluetooth fixes are mixed according to Android Police, and a reference to patching them up hasn't been spotted just yet. If you'd like to take a look at Mountain View's code commits, give the neighboring source link a jab.
+
+
+ 

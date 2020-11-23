@@ -1,0 +1,9 @@
+
+ While we wait for the PlayBook to released in its WiFi- and WiMAX-equipped forms over the next few months, RIM's taking every opportunity it can to talk about the platform -- and the latest comes from an interview between FierceDeveloper and the company's veep of developer relations, Tyler Lessard, who played a prominent role at BlackBerry DevCon '10 a while back where the PlayBook was first announced. When asked about RIM's decision to partner up with Sprint and deliver a WiMAX version first before looking at bigger carriers with more broadly-used technologies, Lessard says that they "were really excited about was Sprint's interest and excitement in coming to the table and working with us on a product like that" -- which we take as code for either "they paid us the most" or "no one else bit." Either way, interesting verbiage to say the least -- though he does say that there are other versions in the pipe.
+
+On App World, Lessard notes that BlackBerry's third-party app platform has taken in some 5,000 apps in the last couple months alone -- not a big number, necessarily, until you consider that they're only up to 17,000 total, so they're definitely seeing some nice growth percentages there. Turning the attention to the perennial question of when QNX will come to smartphones, he basically echoes a sentiment first shared by bossman Lazaridis back at D: Dive Into Mobile: dual-core processors are key, so the new platform won't filter down until the hardware gets beefier. He says that "we really want to make sure we don't back-step from that and offer a degraded experience because hardware is not ready or the performance isn't there," which is arguably odd wording considering that BlackBerry 6 is already well behind the curve -- how much worse could QNX on a single-core 1GHz-plus processor really be?
+
+[Thanks, Ben]
+      
+
+ 

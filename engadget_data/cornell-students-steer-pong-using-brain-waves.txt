@@ -1,0 +1,10 @@
+
+ We here at Engadget are always fans of brain wave experiments, and so we were delighted when two Cornell University electrical engineering students, Chuck Moyes and Mengxiang Jiang, wrapped up a final project using brain waves in the best way possible: playing Pong. Their experiment links a baseball cap full of EEG-scanning electrodes to a computer, letting the cap wearer control a paddle using Alpha or Mu waves. Depending on the waves you use, you can move the paddle either by changing your concentration level or by thinking about moving your feet. You won't rack up a high score while napping (or with a teammate narrating over your shoulder), but with a budget under $75, it's hard to find fault. You can grab the source code below, and check out a video of Jiang and Moyes' handiwork after the break.
+
+ [Thanks, Chuck and Mengxiang]
+
+
+
+
+ 
+ 

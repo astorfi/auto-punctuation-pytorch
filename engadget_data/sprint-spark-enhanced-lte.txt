@@ -1,0 +1,50 @@
+
+Sprint may have lost 360,000 customers over the last quarter, but it's looking to stem that tide with the introduction of Sprint Spark, an enhanced LTE service it says will deliver "unprecedented speeds" to its cellphone users. The company demoed the service running at 1Gbps this morning, however, customers can expect "50-60 Megabits per second (Mbps) peak speeds today with increasing speed potential over time." Sprint says the service will not only enhance video and bandwidth-hogging apps, but says it's ready to take on virtual reality and "futuristic apps" -- whatever those might be.
+
+
+Spark is dependent on tri-band wireless devices, which are intended to seamlessly switch between Sprint's 800MHz, 1.9GHz and 2.5GHz cellular bands, depending on your location and which apps you're using. The rollout begins today with limited availability in New York, Los Angeles, Chicago, Tampa and Miami, though Sprint promises to extend that service to 100 US cities by 2016. The first Spark-supported phones, Samsung's Galaxy Mega and Galaxy S 4 mini and LG's G2, will be available on Sprint's network on November 8th. Software updates for Samsungs' handsets will enable tri-band "shortly after launch," with a similar update scheduled for early 2014 for the G2. The HTC One Max will also support Spark, but Sprint has yet to announce availability.
+
+
+Update: This post originally listed tri-band support for all Spark-enabled handsets as November 8th.
+
+
+
+Show full PR textSprint Spark Currently Delivers 50-60 Megabit Per Second Peak Speeds
+Sprint poised to deliver the industry's fastest wireless network speeds to approximately 100 of America's largest cities
+OVERLAND PARK, Kan.--(BUSINESS WIRE)--October 30, 2013--Sprint (NYSE:S) demonstrated live today 1 Gigabit per second (Gbps) over-the-air speed at its lab near Silicon Valley, Calif. This was the highlight of a day that showcased the innovation and what's possible on the Sprint network as the company unveiled technology with the potential to surpass wireless speeds of any U.S. network provider.
+
+Named Sprint Spark, the super-high-speed capability demonstrates 50-60 Megabits per second (Mbps) peak speeds today with increasing speed potential over time. Given Sprint's spectrum and technology assets, it is technically feasible to deliver more than 2Gbps per sector of over-the-air speed.
+
+"Sprint Spark is a combination of advanced capabilities, like 1x, 2x and 3x carrier aggregation for speed, 8T8R for coverage, MIMO for capacity, TDD for spectral efficiency, together with the most advanced devices offering both tri-band capability and high-definition voice for the best possible customer experience," said Dan Hesse, CEO of Sprint.
+
+Sprint plans to deploy Sprint Spark in about 100 of America's largest cities during the next three years, with initial availability in five markets today. Sprint 4G LTE service will be available by mid-2014 to approximately 250 million Americans, and Sprint expects 100 million Americans will have Sprint Spark or 2.5GHz coverage by the end of 2014. The first markets with limited availability are New York, Los Angeles, Chicago, Tampa and Miami. The first smartphones with Sprint Spark capability are scheduled for customer availability in early November.
+
+How Sprint Spark works
+
+Sprint Spark combines 4G FDD(1) -LTE at 800 Megahertz (MHz) and 1.9 Gigahertz (GHz) and TDD(1) -LTE at 2.5GHz spectrum, TDD-LTE technology (2.5GHz), and carrier aggregation in the 2.5GHz band. These spectrum assets, technology and architecture are designed to deliver a seamless customer experience via tri-band wireless devices. Tri-band devices, named for their ability to accommodate multiple spectrum bands, support active hand-off mode between 800MHz, 1.9GHz and 2.5GHz, providing data session continuity as the device moves between spectrum bands.
+
+Sprint Spark components
+
+Sprint is building the Sprint Spark capability using a unique combination of spectrum capacity and network technologies. Today the company has approximately 55,000 macro cell sites; a level Sprint expects staying at for the next few years. The company also anticipates using small cells to augment capacity, coverage and speed. Small cell deployment is expected to begin in 2014, continuing into 2015 and beyond.
+
+Radio heads
+
+A key ingredient enabling Sprint Spark is equipment compatibility with the architecture of the Sprint initiative known as Network Vision. Alcatel-Lucent, Nokia Solutions and Networks and Samsung have been selected to provide 2.5GHz radio heads and to enable Sprint Spark. Each company will service approximately one-third of Sprint's deployment markets. These 2.5GHz radios are expected to have capabilities for 8 Transmitters 8 Receivers (8T8R), which will be a first deployment of its kind in North America. These radios will be capable of improved coverage, capacity and speeds when compared to the more traditional 2T2R or 4T4R radios used by our competitors.
+
+Devices
+
+Sprint Spark comes to life for customers via their devices. Building on Network Vision's multimode capability, Sprint Spark is designed to accommodate all of Sprint's spectrum bands on a single device. These tri-band smartphones are designed to give users the best experience by transparently shifting from one band to another, depending on such factors as location or type of application.
+
+The first tri-band devices will be available to customers in the next few weeks and offered by HTC, LG and Samsung. For more information on devices, specifications and pricing, see Sprint.com/newsroom.
+
+How it will be used
+
+Sprint Spark provides the capacity to greatly improve the performance of video and other bandwidth-intensive applications while opening the way for futuristic applications. Today, wireless networks and smartphones can book flights, locate children, store photos and music, video chat and much more. Sprint Spark supports a new generation of online gaming, virtual reality, advanced cloud services and other applications requiring very high bandwidth. (See how applications like these could shape future lifestyles -- "Vision of Connected Mobile Lifestyle.")
+
+Sprint's new 4G LTE network is a key component of its Network Vision program. Sprint 4G LTE now covers 230 markets across the nation and is on track to serve 200 million people by the end of this year and 250 million people by mid-2014. While both LTE technologies bring significant enhancements in network speed, the 2.5GHz spectrum is crucial to the exceptional capacity, speed and flexibility expected with Sprint Spark.
+
+Also through Network Vision, Sprint is upgrading its 3G services with all-new equipment to bring users improved coverage, better signal strength, fewer dropped calls and improved voice quality. The Network Vision 3G capability includes High Definition Voice to make HD calls Sprint's new standard for voice quality. HD Voice is a next-generation technology for mobile phones where background noise is virtually eliminated and sound quality is dramatically enhanced. Sprint's HD Voice offering reaches approximately 85 million people across the Sprint network today, and the company expects 250 million to have access to HD Voice capability by mid-2014. Sprint expects 12 million HD Voice devices in the customer base by the end of 2013, growing to 20 million by the end of 2014.
+
+In addition to demonstrating the 1Gbps speeds via over-the-air wireless, Sprint has also extended its leadership in wireline speeds by commercially deploying one of the longest 100Gbps circuits in the United States. That live transmission required no signal regeneration over a distance of 2,100 km, or 1,304 miles.
+
+

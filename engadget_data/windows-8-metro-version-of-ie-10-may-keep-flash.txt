@@ -1,0 +1,5 @@
+
+ 
+ Microsoft triggered some weeping and gnashing of teeth with its decision to keep Flash out of the Metro environment's Internet Explorer 10 browser in favor of HTML5, and it looks like that outpouring of grief has produced a compromise -- albeit with a catch. Leaks of the upcoming Windows 8 Release Preview purport to show Flash running on IE10 in the new interface, but only for certain popular sites (such as Disney's) that can be trusted with Flash and don't have an easy HTML5 fallback. The company hasn't confirmed the change, but it's thought that Microsoft has skipped the familiar plugin route in favor of just coding Flash support for a few sites at a low level. If that's what we see when the Release Preview goes public in June, it could serve as a bridge for parents worried their kids will miss out on Where's My Water? games while preserving a browser that's overall leaner, meaner and safer. We wouldn't hold out much hope for Windows 8 RT tablets running ARM chips, though, knowing that backwards compatibility doesn't exist and that Adobe might not be keen to revive Flash-on-ARM support it's trying to wind down.
+
+

@@ -1,0 +1,83 @@
+
+ Some companies have mascots, but Huawei has Richard Yu. Shortly after the Ascend P2 launch yesterday, we had a chance to catch up with a rather relaxed Chairman of Huawei Device to see what he's been up to, as well as picking his brain on the design decisions of the P2, what Huawei's going to do about the "1,000-yuan ($160) phone" problem, and his side of the Honor 2 AnTuTu benchmark cheating story. Yu also consistently failed to resist the urge to tease a couple of upcoming phones as well (including the super slim P Series phone that failed to show up at MWC), so enjoy the full interview after the break.
+
+
+
+ Thank you for your time today, it's great to see you again. So, today you announced the Ascend P2, but at CES last month you promised us a super slim device in the P Series. What happened to that?
+ [Laughs] I didn't bring it but I'm already using it. The product will be out a few months later. It'll hopefully be epochal, compared to other products it'll be epic. But let's talk about the P2 for now as we're still working hard on the other one.
+
+ Sure. The main selling point of the P2 is its Category 4 LTE radio. That's based on Huawei's in-house technology, right?
+ It's our own Balong modem, since the other modems still don't support it, not even Qualcomm's. This year it's likely that only our own products will support it, and not the others.
+
+ But there's no LTE in China just yet...
+ China is getting TD-LTE very soon.
+
+ Sure, but when the P2 enters China, will there be a cheaper, LTE-less version?
+ We'll have a 3G version and an LTE version that supports both TD-LTE and FD-LTE. Actually, the same modem stays inside both versions, so it'll essentially be the same device for China, Japan, Europe and everywhere else around the world. When LTE isn't available, it'll just use the 3G radio.
+
+ Since you mentioned Japan, we noticed that the Ascend D2 (NTT DoCoMo's HW-03E) you'll be offering in Japan is actually a tad smaller than the original D2 (4.7-inch 720p vs. 5-inch 1080p)?
+ It's because the locals frequently ride on the subway (or train) so single-handed operation is essential. But we're still wondering whether it's feasible to launch this variant in China because since we now have the P2, the two models will overlap each other. Also, the cost of enabling IP57 protection on the Japanese model is quite high, and don't forget the digital TV and infrared as well.
+
+ Does your P2 also have protection against liquids?
+ No, the P2 doesn't, because that'll add a lot of production cost. The P Series is more about style and design, so we want the focus to be on those.
+
+ Can you walk us through the main design differences between the P2 and the P1?
+ P1's design is about its slimness and the stylish "infinity" look on the front, and we've kept the latter for the P2. But the back of the P2 is flat, because a lot of people told us that they dislike the protruding camera on the P1, so for the sake of a better appearance, we decided to trade off slimness and keep the back flush with the thick 13-megapixel camera module (sensor by Sony). Making it thinner would let the camera stick out. [Grabs our Nubia Z5 and points at its camera] Look at this, this is also a 13-megapixel camera, right? It's really not pretty. Our design is much, much better.
+
+ Now, your D2 and Mate both use virtual soft keys, but the P2 has capacitive buttons instead. What are your reasons behind this, and is there an implementation that you prefer?
+ Well actually, Google's recommended method is the virtual key way, whereas what we're using on the P2 gives you more space on the screen. Each has its own advantages, like with the former, we get more space for the antennas, so we'd have a better set of radio bands; whereas having them out of the display gives you more screen estate. But having them back on the screen does make the system more intuitive, and the direction of development will tend towards virtual keys, as Google intends.
+
+ So you guys will be moving towards virtual soft keys in the future?
+ We'll be moving towards virtual soft keys. What do you guys think of that?
+
+ I personally prefer external buttons because I want all the space on the screen that I paid for.
+ You want maximum screen space, I understand. Well, the good thing about having them on the screen means you don't need to add more to the screen lens, just use the touch panel. The videos and photos usually display in fullscreen, anyway, and when you browse the web, some of these keys will take up relatively little space. You see here in the Sina Weibo app, when you have the three buttons on the screen you also get the menu button next to them. Not many consumers know there's a menu button and (without the virtual soft key implementation) they wouldn't know where to find it, even if it's already displayed on the top bar; but if it's displayed alongside the virtual buttons then it's more obvious.
+
+ Let me give you an example: if you use a mouse and an external keyboard, you can use the pointer to hit the virtual soft keys.
+
+ Oh, but on your phone or your tablet?
+ On the phone. Do you guys do that?
+
+ I don't have a reason to do that... [Laughs]
+ I do that with my Mate. I hook it up with a mouse plus a keyboard and then it feels like using a laptop, very convenient. Normal Bluetooth keyboards and mice work well.
+
+ But not on a plane. [Smiles]
+ Oh yeah... [Smiles]
+
+ 
+ (Stone Ip) What's the direction this year? Will you guys be releasing more models or reduce them?
+ Reduce the variety, but the products released will be better.
+
+ (Stone Ip) Will there be a change in strategy for the "1,000 yuan" phones? Because the Chinese operators and the "1,000 yuan" phones...
+ Those are actually still mainstream. We're still focusing on them.
+
+ Your G510 is actually one of them and I think it's great. When I spotted it in Huaqiangbei, Shenzhen last time I was surprised that it comes with an IPS display for that price. I'd been waiting for such a competitive device from you guys.
+ G510... G520 will be very good, even prettier. Coming this Q3, it's even more awesome. Very sturdy, very slim, very high specs, very pretty. Our other product, coming next quarter or end of Spring, is far ahead of Samsung in terms of build quality. I'm already using it but they didn't let be bring it here, fearing photos of it will be taken and then leaked. But it's nice to use, I usually put my European SIM in it but I didn't bring it. Maybe I'll show it to a selected few clients at MWC to get an impression test.
+
+ Actually, when I was at the Düsseldorf International Airport last time, the security pulled this phone out of the box and kept asking "Where to buy? Where to buy?" All the officers from the other seven or eight security lines all turned around! It was love at first sight for that guy, and he said he'd give up his iPhone and pick this one! That's what I aim for when I develop products.
+
+ You may have said too much about your upcoming product! No one's going to buy your P2!
+ [Smiles] The P2 is a very good product, but it's for those who don't chase after the top specs. It's a good all-rounder with a good camera and a good battery life, it also has a nice appearance and a good performance.
+
+ Now, many phones on the market -- including yours -- no longer come with physical keyboards. Do you think there's still a market for this?
+ I think virtual keyboards are getting better and better so there's simply no need. As screens are getting larger, the buttons are also getting bigger and therefore the input feedback is also better. With narrower screens we were more likely to make typos, but once you get to a certain width you start to make fewer errors.
+
+ [Points at our 5-inch quad-core phones] By the way, how's the battery life on your phones? My D2 can last for one day no problem. Actually, three days is also fine. Its battery life is too big! [Laughs] Actually, funny story: I spent Chinese New Year in the waters in Maldives...
+
+ Oh yeah, I saw your weibo post about you swimming with your phone during your vacation.
+ Yes, I went swimming with my D2 in one hand, and when the folks nearby saw me using my phone to take photos in the sea they freaked out! They were amazed after I told them no problem, it was still working. They then asked where they could buy one, but sadly, they could only buy featurephones there. Our carrier partners there don't sell the D2 nor any waterproof smartphones.
+
+ But is there a UMTS version of the D2 yet? Last time I checked in your Beijing store they had a few D2s, but those were only CDMA.
+ The UMTS version is coming soon, maybe next month.
+
+ Now looking at some of the manufacturers like HTC with its Mini Bluetooth phone, and others with their smart watches, do you think there's a demand for this kind of phone peripheral in China and other markets?
+ We've also been working on something in this area, but there are problems to solve still, such as you might often forget to bring the peripherals with you. Apple's iWatch will be an interesting one for fitness.
+
+ Last question: A little while back the Honor 2 was caught in an AnTuTu benchmark cheating scandal. What's your side of the story?
+ Well, this AnTuTu incident... It has different ways to run benchmarks, and there's no saying we have to stick with any particular method. Many other manufacturers also got hold of this optimization for AnTuTu in order to boost scores, but that's meaningless because for phones with big HD screens, the speed is already sufficient. It's meaningless, it's meaningless. All manufacturers do this, but when they do this during AnTuTu tests the devices consume a lot of power, and you can't use it like that all the time. So for normal usage we dial things down for the sake of power consumption. The AnTuTu test is just a benchmark tool without taking power consumption into consideration. For us, our processor is very good and we're always improving, GPU compatibility is also improving, and last time I already told you we'll be launching an octa-core processor. Do you know if the Galaxy S IV will also have an octa-core processor?
+
+ No idea, sorry. Well, thank you very much, Richard!
+ Thanks!
+
+ Stone Ip contributed to this interview.
+

@@ -1,0 +1,5 @@
+
+ 
+ If you're an iPhone owner, you may want to use good judgment before responding to any out-of-the-blue text messages in the near future. French jailbreak developer and security researcher pod2g finds that every iPhone firmware revision, even iOS 6 beta 4, is susceptible to a flaw that theoretically lets a ne'er-do-well spoof the reply address of outbound SMS messages. As Apple is using the reply-to address of a message's User Data Header to identify the origin rather than the raw source, receiving iPhone owners risk being fooled by a phishing attack (or just a dishonest acquaintance) that poses as a contact or a company. A proof of concept messaging tool is coming to the iPhone soon, but pod2g is pushing for an official solution before the next iOS version is out the door. We've asked Apple for commentary and will get back if there's an update. In the meantime, we wouldn't panic -- if the trickery hasn't been a significant issue since 2007, there isn't likely to be a sudden outbreak today.
+
+

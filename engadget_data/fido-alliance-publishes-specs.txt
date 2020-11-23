@@ -1,0 +1,11 @@
+
+
+Hate typing passwords? You might not have to enter them for much longer. The FIDO Alliance (backed by Google, Microsoft, PayPal and Samsung, among others) has just published the completed versions of its password-free standards for both regular and two-factor authentication. Apps and websites using the technology can now rely on a number of easier and typically more secure ways to sign you in, such as fingerprint readers and USB dongles, without having to worry about the exact device you're using. There are already some hardware and software solutions that play nicely with FIDO, but the existence of firm specs should significantly boost your choices in 2015.
+
+
+
+Like many standards, there's some room to improve. The identity standards don't yet support Bluetooth- or NFC-based authentication, so you'll still have to use built-in gadgets or wired peripherals to prove your identity. Also, there are still holes in support. Apple's Touch ID fingerprint system doesn't work with FIDO outside of a third-party offering from Nok Nok Labs, and many other mobile and PC vendors are sitting on the sidelines. But hey, it's a start -- anything that saves you from having to memorize a convoluted series of characters is a good thing.
+
+[Image credit: Shutterstock / Pedro Miguel Sousa]
+
+

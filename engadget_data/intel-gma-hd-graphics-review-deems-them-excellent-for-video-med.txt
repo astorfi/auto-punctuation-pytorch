@@ -1,0 +1,6 @@
+
+ 
+Our Intel Arrandale / Clarkdale review bonanza was sprinkled with a few graphics benchmarks, but there was never a concerted effort to break down the specific upgrades on the 45nm GPU that comes as part of the new CPU package. That omission has now been corrected by Bit-tech, who've delved deep into the murky waters of embedded graphics and report that Intel's focus appears to have been firmly on video playback. Noting full bitstreaming (our HD editors inform us that's a big deal), Blu-ray with picture-in-picture, and HDMI 1.3a support, the lads commended the "very smooth" 1080p playback of h.264-encoded video. While their conclusion about gaming was less glowing -- finding that Intel's latest gen only keeps up with older hardware -- they couldn't help but recommend the new processors on account of their feature-rich video playback and energy efficiency. More benchmarks at the source link.
+      
+
+ 

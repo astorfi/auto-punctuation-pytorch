@@ -1,0 +1,21 @@
+
+ 
+Remember that screenshot we saw of all those different Windows 7 versions (pictured above)? Well guess what? It's worse than you could have possibly imagined. The following will be the actual new SKUs for the OS:
+
+Windows 7 Starter (limited to three apps concurrently)
+Windows 7 Home Basic (for emerging markets)
+Windows 7 Home Premium (adds Aero, Touch, Media Center)
+Windows 7 Professional (Remote Desktop host, Mobility Center, Presentation mode)
+Windows 7 Enterprise (volume license only, boot from virtual drive, BitLocker)
+Windows 7 Ultimate (limited availability, includes everything)
+
+This information has been confirmed by Microsoft... who never listens to us. At least most consumers will only see Home Premium and Professional options at retail, which is more akin to the XP options of yore, and means WMC will be "baseline" for most PCs.Update: Just to be clear, we've checked specifically with Microsoft on all six versions, and the placement of Home Basic in emerging markets. There's now a full breakdown after the break.
+      
+
+ 
+
+Windows 7 Starter Available worldwide to OEMs on new PCs Missing Aero UI tweaks Limited to 3 simultaneous applicationsWindows 7 Home Basic (Vista equivalent: $200) Only available in emerging markets Missing Aero UI tweaksWindows 7 Home Premium (Vista equivalent: $260) Available worldwide, to OEMs and in retail Includes Aero UI tweaks Features multi-touch capabilities Adds "premium" games Adds media capabilities (Media Center, DVD playback, DVD creation, etc.) Can create home network groupsWindows 7 Professional (Vista equivalent: $300) Available worldwide, to OEMs and in retail Includes all features of Premium Adds enhanced networking capabilities (Remote Desktop host, domain support, offline folders, etc.) Adds Mobility Center Adds Presentation ModeWindows 7 Enterprise  Available only in volume licenses Includes all features of Professional Adds Branch Cache Adds Direct Access Adds BitLockerWindows 7 Ultimate (Vista equivalent: $320) Limited OEM and retail availability Includes all features of EnterpriseCurrent Vista breakdown can be found here.
+
+       
+
+ 

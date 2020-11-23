@@ -1,0 +1,9 @@
+
+       
+What you're looking at here is a picture of the board that makes the new HDHomeRun CableCARD tuner work. You might notice the four squares on the right, those are the tuners, yes there are four -- don't get too excited -- but one of 'em is for the out of band data and can't actually be used to record HD. But that's still one more usable tuner than initially announced at CES and the best news is that the price remains the same at $249. There isn't a hard release data yet, but the goal is to release the beta details in the coming weeks, then submit it to CableLabs for certification and then finally have it in your HTPC in time for the holidays -- when exactly do holidays start again? The actual case isn't done yet, but there won't be a hump like the classic HDHomeRun and as you can see the gigabit network tuner's connections are all on the back including one coax, one USB, power, and a single CableCARD slot for all three tuners -- the USB doesn't do what you're thinking, it's for the Tuning Adapter. Contrary to some reports -- a USB version isn't on the table and we can't say we're surprised as that wouldn't be Silicon Dust's style. A picture of the connections on the prototype after the jump.
+      
+
+ 
+
+
+ 

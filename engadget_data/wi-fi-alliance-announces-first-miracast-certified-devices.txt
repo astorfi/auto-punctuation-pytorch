@@ -1,0 +1,52 @@
+
+ Take note, because there's a new standard in realm of wireless video streaming and it's known as Miracast. Since the initial announcement, some very respectable manufacturers have chosen to support the specification, which includes Broadcom, NVIDIA and Texas Instruments. Now the Wi-Fi Alliance has announced the first round of products to be certified for Miracast, and as an extremely welcome bit of news, all Intel WiDi devices are supported by the latest standard. In addition to PCs, you can expect Miracast certification to be blessed upon devices such as smartphones, tablets, set-top boxes and televisions. In the retail setting, all Miracast-certified devices will carry the more generic "WiFi Certified" badge (shown here), which also covers technologies such as WiFi Direct.
+
+ You'll find the press release after the break, which includes the initial list of products and components that've already earned their credentials, along with statements of support from manufacturers such as LG, Samsung and Sony. Not to be left out, we also reached out to Qualcomm, which confirmed its support for the standard, along with its expectation to offer some of the very first products certified for Miracast. It seems that Apple's AirPlay now has some rather determined competition, indeed.
+
+
+
+  Show full PR text   EASY-TO-USE, MULTI-VENDOR WIRELESS DISPLAY HAS ARRIVED: WI-FI ALLIANCE® LAUNCHES WI-FI CERTIFIED MIRACAST
+   On the go or at home, users can display video, pictures, and applications instantly between certified devices from any brand
+
+   AUSTIN, TX, September 19, 2012 – Wi-Fi Alliance® today announced the launch of the Wi-Fi CERTIFIED MiracastTM certification program. Miracast devices provide simplified discovery and setup, so users can quickly transmit video content from one device to another. Industry analysts predict annual shipments of Miracast-certified devices to exceed one billion units within the next four years.
+
+   Miracast users can do things like view pictures from a smartphone on a big screen television, share a laptop screen with the conference room projector in real-time, and watch live programs from a home cable box on a tablet. Miracast connections are formed using Wi-Fi CERTIFIED Wi-Fi DirectTM, so access to a Wi-Fi® network is not needed – the ability to connect is inside Miracast-certified devices.
+
+   "Wi-Fi users around the world want to experience multimedia on the device of their choice - no matter what brand - and Miracast is the breakthrough they have been waiting for," said Edgar Figueroa, CEO of Wi-Fi Alliance. "We have been delighted with the level of enthusiasm and support among our member companies for this new offering."
+
+   Miracast supports protected content streaming, enabling devices to stream feature films and other copy- protected materials. To protect premium content, Miracast uses a wireless adaptation of the trusted content protection mechanisms widely used today for cabled interfaces like HDMI® and DisplayPort. In addition, the latest WPA2TM security protections are automatically enabled on every device, making the transport of all multimedia content private.
+
+   "Miracast builds on Wi-Fi Direct with a compelling application," said Brian O'Rourke from IHS iSuppli Research. "This is a big step forward in a market migration from single-vendor display solutions, into an offering from a wide array of vendors. With more than 1.5 billion Miracast devices expected to ship in 2016, the program is poised to have broad adoption."
+
+   The technology underlying Miracast was developed in Wi-Fi Alliance by a diverse group of mobile and consumer electronics manufacturers and silicon vendors to standardize methods for simplified video sharing. Based on the Wi-Fi Alliance Display Specification, products bearing the Miracast brand interoperate across vendors, making it easy to enjoy video on screens throughout the home or office.
+
+   The first products to be designated Wi-Fi CERTIFIED Miracast, and which form the test suite for the certification program, are:
+
+   • Broadcom Dualband 11n WiFi  • Intel® WiDi  • Marvell Avastar USB-8782 802.11n 1x1 Dual-band Reference Design  • MediaTek a/b/g/n Dualband Mobile Phone Client, MT662X_v1 and DTV Sink, MV0690  • Ralink 802.11n Wireless Adapter, RT3592  • Realtek Dual-band 2x2 RTL8192DE HM92D01 PCIe Half Mini Card and RTD1185 RealShare Smart Display Adapter
+
+   The first consumer products certified since testing opened to vendors include the Samsung Galaxy S III smartphone and Samsung Echo-P Series TV.
+
+   More information, including a list of Wi-Fi CERTIFIED Miracast products, the Wi-Fi Alliance Display technical specification, white paper, and more is available at www.wi-fi.org/miracast.
+
+  Broad industry support for Wi-Fi CERTIFIED Miracast
+   "As a Wi-Fi market leader, Broadcom is honored to be one of the primary certification solutions for the Wi- Fi Alliance MiracastTM program and is committed to driving new Wi-Fi standards," said Dino Bekis, Senior Director, Wireless Connectivity Combo Group at Broadcom. "The standardization of this technology will enable consumers to easily and seamlessly share content across the ever-growing landscape of connected devices."
+
+   "Users clearly expect that they should be able to move their content and applications freely at home, at work, in the classroom, and on the go," said Joe Van De Water, Director of Consumer Product Marketing at Intel. "Intel has seen tremendous user enthusiasm for Intel® WiDi, and as a member of the Wi-Fi Alliance, we support enabling this usage more broadly and are excited to announce WiDi as one of the first Wi-Fi CERTIFIED Miracast solutions.''
+
+   "We celebrate the launch of the Wi-Fi CERTIFIED MiracastTM program," said Hyunghoon Oh, Head of LG Mobile Communication R&D Division. "Miracast brings an exciting advancement in the way devices deliver display applications."
+
+   "The Wi-Fi Alliance's Miracast certification program will allow for easy sharing of video content, regardless of vendor," said Bart Giordano, Director, Wireless Marketing at Marvell Semiconductor, Inc. "We have included Miracast in our solutions, and are honored to have been selected for the program's test bed."
+
+   "The video streaming applications enabled by Wi-Fi CERTIFIED MiracastTM are key to the growth of the Wi-Fi ecosystem encompassing Consumer Electronics, Personal Computing, and Mobile devices." said Mr. SR Tsai, General Manager of Wireless Connectivity & Networking Business Unit at MediaTek. "We are honored to have our Android mobile platforms, Digital TV, as well as our connectivity solutions for Windows platforms selected for the Miracast test bed."
+
+   "Miracast on NVIDIA Tegra will bridge the distance between mobile devices and high-def TVs, providing customers a rich – and cable-free – multimedia experience," said Matt Wuebbling, Director of Product Marketing at NVIDIA. "We have embraced Miracast and are working with our OEM partners to bring its amazing possibilities to market."
+
+   "We are happy to have been involved in developing the Miracast program and to be one of the first companies to receive certification," said Jessy Chen, Vice President and Spokesman at Realtek. "The solution will greatly expand the market for easy-to-use interoperable wireless display connectivity."
+
+   "As a leader in N-screen technology, Samsung has introduced AllShare Cast (based on Miracast), which is incorporated into most of Samsung's high-end smart mobile devices including the GALAXY S III, GALAXY Note 10.1, and GALAXY Note II, " said Hankil Yoon, Senior Vice President of Product Strategy Team, Samsung's Mobile Communication Business. "We will continue to support the program, and plan to offer more Miracast-certified devices to our customers going forward."
+
+    "Sony Mobile is pleased to support the Wi-Fi CERTIFIED MiracastTM certification program. We continuously strive to deliver new exciting user experiences and MiracastTM technology will enhance our ability to offer consumers seamless connectivity to move their content freely between smartphones and other screens," says Nikolaus Scheurer, Director Marketing Planning for Sony Mobile Communications.
+
+   "Miracast will play an important role in enabling true seamless media streaming, gaming and content sharing between mobile screens and large displays," said Ram Machness, director of marketing, Wireless Connectivity Solutions, Texas Instruments Incorporated. "Our OMAPTM platform, DaVinciTM video processors and WiLinkTM connectivity products will offer Miracast-certified source and sink solutions to provide a rich experience for our customers' end products."
+
+ 

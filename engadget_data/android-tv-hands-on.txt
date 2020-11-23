@@ -1,0 +1,34 @@
+
+
+For Android, smartphones and tablets are only the beginning. Google believes that there are so many other categories of hardware that could benefit from its mobile OS, so it announced that it's building extensions of Android onto the TV, car and smartwatch. Each genre will require special hardware to be truly beneficial, but the former may have the greatest potential in terms of reach -- after all, more people are looking for a solid television-watching experience than putting a "computer" on their wrist, and it's going to be a long time before Android Auto goes mainstream.
+
+
+Sadly, TV is also an area that Google has struggled with in the past (see Google TV), so it's hoping that lightning will strike with its latest effort, called Android TV. We had a chance to check out the company's first official piece of hardware, simply called the ADT-1. Since it's a developer kit, you won't be able to buy it -- but that won't be an issue once manufacturers begin selling their consumer-facing devices later this fall. Naturally, the version we checked out is considered pre-production, so a lot of things will likely change between now and its final release, but at least we have a good idea of what to expect from the experience. 
+
+
+
+
+
+The idea behind Android TV is pretty simple: It gives you an internet-powered smart TV with plenty of entertainment and gaming options. Media-streaming apps, Play Movies and TV support, gaming and second-screen/screen-mirroring functionality make the service incredibly tempting. The Android ecosystem is already pretty strong, and the company says it's easy to adapt existing apps to make them compatible with the platform. With proper hardware and developer support, Android TV may have the legs it needs to stand on.
+
+What can Android TV actually run on? According to Google, the OS will be available for smart TVs (Sony and Sharp have signed on to build televisions with the OS built in), media streamers (like a Roku), set-top boxes, cable boxes and micro consoles. The platform is ideal for any manufacturers that are interested in getting into the smart TV business, but don't have the resources to develop their own ecosystem; it's a good opportunity for smaller companies and startups to cook up Android TV hardware.
+
+There are a few hardware requirements to ensure that Android TV doesn't offer an inconsistent (or miserable) user experience: 2GB of RAM, 8GB of flash storage, WiFi and/or Ethernet, Bluetooth 4, Play-ready DRM and Widevine level one. Companies are also recommended to add mics for voice input, and standardized controller button mapping. These guidelines make a lot of sense because the system needs to be powerful enough to handle graphics-intensive games, entertainment apps and handoffs between the TV and mobile devices via Google Cast -- nobody wants a sluggish TV experience, so it's crucial that Google gets this aspect of its product right. The experience also needs to be as universal as possible so users don't have to worry about drastically different learning curves.
+
+
+Sluggishness fortunately doesn't show up, even on early hardware and firmware. With a Nexus 5 equipped with the Android L Developer Preview, we used a virtual controller to navigate through the TV's UI, and the system didn't skip a beat (or a frame, for that matter). We didn't have to wait for anything that we pulled up, so there were no interruptions to our experience.
+
+The card-based user interface is simple enough. Recently played movies and TV shows, as well as recommended titles, are neatly displayed on the top. Scroll down a level and you'll see a listing of your apps, including access to Google Play Games and Play Movies. Below that, games. Finally, at the very bottom of the screen you'll find all of your necessary display and network settings. As you might expect, most apps have setups that are very similar to each other; they use a dual-pane UI with more cards on the right and a large slide-out menu on the left.
+
+As mentioned earlier, Android TV also comes with voice-input options. You can speak to it through your remote controller, and it doesn't matter what kind of request you have -- whether or not it's related to entertainment, it'll still answer you the same way it would in Google Now. On one request, you can ask it to pull up movies from 1984, and on the next you can tell it to convert gallons into cups. Mentioning Tom Selleck will not only bring up a queue of the actor's movies, but it'll also have an information card about the actor and a list of other people that are somehow connected to him.
+
+
+The usual entertainment suspects already have apps on Android TV -- Netflix, Songza, YouTube, PBS Kids, Showtime and more were featured in our demo -- but there should be plenty more options from other third-party developers before the service is ready to go this fall. (As an aside, reps told us that Google TV v4 apps will be compatible with Android TV.) Unsurprisingly, we noticed a slight bias toward Play Store products, but it's not over the top; we didn't feel like we were watching a nonstop Google ad, and as more apps become widely available and easily accessible on the platform, those influences will likely be toned down even more.
+
+For the most part, the gaming experience was pretty smooth. We didn't see as much latency between the game controller and the screen as we expected. There were some games that looked as though they needed a bump in resolution support, as they looked fuzzier than we'd like, but most titles (Need for Speed: Most Wanted, for instance) appeared as sharp on TV as they do on a high-res phone or tablet.
+
+Finally, we'll briefly touch upon the NVIDIA Tegra 4-powered dev kit, because there isn't much to it cosmetically. From the top and sides, it's nothing but a thin set-top box about the same size as two hands, if not slightly smaller. It's more visually interesting on the bottom because it features four pointy nodules that raise the box up from whatever surface it's resting on. On the back you'll find power, HDMI and Ethernet ports.
+
+We can't make a final judgment on Android TV just yet, and the company's got a rough path ahead. While the association with the Android ecosystem will be a nice draw for prospective buyers, the platform will be nothing if manufacturers and developers don't jump on board the bandwagon and produce high-quality hardware at competitive prices. To see how well that works out for all parties involved, we'll have to wait until this fall to get a verdict.
+
+

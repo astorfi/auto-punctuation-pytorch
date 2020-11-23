@@ -1,0 +1,10 @@
+
+       
+The LG GW990 got the lion's share of the attention, but Intel showed off a second Moorestown-based MID (or giant smartphone, if you like) back at CES from Finnish startup Aava Mobile -- more a prototype reference design created to show off Moblin 2.1's capabilities than a retail-ready product -- and it's back in force here at MWC this week. What's really striking about this thing is just how much smaller it is than the GW990, probably a good 70 percent smaller by surface area while still managing a shell just 11.7mm thick. Besides Moblin, the proto fully supports Android (though we only saw it on Moblin at Intel's booth) and will naturally support MeeGo going forward. It's got a front-facing cam, noise cancellation, compass, GPS, WiFi, and 3G plus that next-gen Atom core, but don't plan on buying it any time soon -- Aava's stressing that this is just a starting point to get carriers and VARs off the ground. That's probably just as well, though, because the Moblin implementation on here was totally useless; the UI looked like little more than a proof of concept with awful, stuttery performance, bugs left and right, and... well, a distinct lack of features. Maybe we can get a sweet skin over MeeGo down the road, but shorter term, this could make a killer high-end Android device without totally encroaching on the Mini 5's large-and-in-charge attitude. Follow the break for some video!
+
+
+
+
+
+
+ 

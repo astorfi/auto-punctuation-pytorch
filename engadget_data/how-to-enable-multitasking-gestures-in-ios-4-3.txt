@@ -1,0 +1,9 @@
+
+ 
+Unfortunately we knew that iOS 4.3 wouldn't end up shipping with those nifty four- and five-finger gestures, but what we didn't know was how easy it'd be to enable them. That's right, getting even more touchy-feely with your brand new iPad 2 is just a few clicks and a 4.5GB download (to your Mac) away -- if you've got $5 for Xcode of course. Sound intriguing? Click past the break for the info.
+      
+
+ 
+
+Installing Xcode is an uneventful affair... Pop open the Mac App Store and give a search for 'Xcode' (alternatively, just click here). Once you've downloaded the app, follow the familiar dialogs and you'll eventually land at the Xcode homescreen. There's a lot of stuff going on, but don't worry, we're just here for one button.Once you've plugged your iPad in, you'll see a big "Use for Development" button. Hint: click that. You should get a popup indicating your iPad's been recognized, but if not it'll be under "Devices" listed along the left-hand column. Select your iPad, and you'll see the screen above. Xcode will prompt you for a developer account and password, but unless you've paid the $99 entry fee, just click cancel. That's all there is to it; unplug your iPad and enable the option in the Settings app, and away you go. Apple's hatred of buttons continues, and this almost fully obviates the need of the lone one up front altogether. Could a future iPad ditch buttons altogether? It's not like Apple hasn't done that before. Check out the video we put together back in January when the new gestures were released in beta -- action starts at 30 seconds.Update: Some readers have let us know that the free version of Xcode 3 available from Apple's Developer site or on the OS X install disc that ships with all Macs works as well, so it's possible to get the features for free. You'll probably need to sign up for a free developer account should you choose that route though.
+ 

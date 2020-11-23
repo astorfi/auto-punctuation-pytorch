@@ -1,0 +1,8 @@
+
+ For those of you who've just unboxed (or already snagged) a Nintendo Wii, and are more interested in casing out the innards or hacking it up, we've got yet another challenge for you and your console. While we've seen how to control the functions of your home with a PSP, there's just something special about flinging your Wiimote up and down to lower and raise the lighting conditions around your crib. Aside from a Wii, Wiimote, and a good bit of spare time, you'll also need the Smarthome Insteon lights w/ ControlLinc, an Aurora Multimedia WACI NX, a Linux-based PC, and if you wish, an optional AXIS PTZ IP Security Camera and Proliphix IP Thermostat. Once you've got your hardware in order, you'll need to get your palms on a PHP script that directs the IP traffic and forwards the appropriate information. This home automation mod has the potential to control "lights, thermostat, cameras, jukeboxes, DVRs, TiVos," and basically anything you can dictate via IP information. So if you're looking for a great way to spend your hours off, and don't mind getting dirty with a little coding, be sure to hit the read link for the full rundown, and click on through for a YouTube demonstration.[Via Digg, thanks Nate]
+      
+
+ 
+
+
+ 

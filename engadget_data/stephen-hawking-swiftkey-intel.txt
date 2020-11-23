@@ -1,0 +1,11 @@
+
+
+Stephen Hawking created some of the most revolutionary ideas in science, but he's very conservative with his communication tech -- right down to the "copyrighted" electronic American accent. He has worked with Intel since 1997 on the assistive computer system he relies on to speak and create documents, since motor neuron disease took his real voice decades ago. Hawking isn't interested in new tech like eye-tracking, but he and Intel recently decided to bring his current text and voice system up-to-date. They ended up getting an assist from a company more familiar to smartphone users -- SwiftKey.
+
+
+
+Intel's goal was to "retain the familiar user experience, but make that experience more intuitive and powerful." As a result, it recoded the system from scratch, with a key contribution coming from predictive keyboard maker SwiftKey. Based on its smartphone SDK, the software autocompletes words and remembers Hawking's style, helping reduce the number of steps he needs to type.
+
+Intel also refined his workflow by creating contextual menus for documents or emails to improve ease-of-use. Hawking has been testing it for a few months, and when it's done, Intel plans to make it available to the open source community. It's hoping that others will improve the platform further to help folks with similar disabilities, while giving the assistive tech industry a push at the same time.
+
+

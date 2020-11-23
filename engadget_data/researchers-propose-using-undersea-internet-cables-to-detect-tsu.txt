@@ -1,0 +1,5 @@
+
+ We've heard of a few inventive ideas for detecting tsunamis, and it looks like a group of researchers from the National Oceanic and Atmospheric Administration (or NOAA) have now come up with another: put all those undersea internet cables to a second use. While they haven't moved beyond computer models just yet, the group has apparently found that voltmeters attached to the end of an undersea cable are able to detect the small electric field stirred up by tsunamis, which measure around 500 millivolts. As New Scientist reports, however, the idea does have some considerable limitations, including that it wouldn't be able to pinpoint the exact location or direction of a tsunami, and that any such system would first need to filter out noise caused by other natural events and even the cable itself. Other researchers also caution that it's just as important to develop a system to quickly pass on a warning to potentially affected areas once a tsunami has been detected.
+      
+
+ 

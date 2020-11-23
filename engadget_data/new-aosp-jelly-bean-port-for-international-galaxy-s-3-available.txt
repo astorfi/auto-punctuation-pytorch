@@ -1,0 +1,9 @@
+
+ 
+ While it's not the first source code compiled build of Android 4.1 Jelly Bean available for your international model (I9300) Galaxy S III, this stable release from developer Faryaab brings all the latest features without many of the drawbacks. While the release we noted in June was lacking creature comforts like camera, WiFi, Bluetooth, NFC, storage and audio, a post on XDA-Developers indicates ROM flashers of this build will have all of those, with the only known casualty so far being "semi-broken" WiFi tethering. To turn that Galaxy S III into a Jelly Bean Galaxy Nexus, you will need to do a factory reset and rock a a custom recovery like ClockworkMod, but otherwise the switch (check out a how-to video from totallydubbedHD embedded after the break) should be straightforward. While this experience is meant to be pure, the developer notes it may not receive many updates going forward before he releases his own "SuperNexus" ROM. So, what'll it be then -- Jelly Bean and Google Now, or S-Voice, TouchWiz and all the rest of the features built into Samsung's out of the box ICS experience?
+
+
+
+
+ 
+ 

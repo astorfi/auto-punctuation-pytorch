@@ -1,0 +1,5 @@
+
+ Your Bluetooth-enabled PC or handset will soon be able to do more than just stream audio and sync data, as the SIG responsible for the wireless protocol has announced a forthcoming profile that will enable pairing with health and fitness monitoring equipment. Although several proprietary monitoring solutions are already on the market, the so-called Medical Device Profile will allow third-party manufacturers to release hardware with guaranteed interoperability, which should help grow this nascent use of the technology. Scheduled for completion sometime during the first half of next year, the new profile will allow users to both track pertinent statistics on their Bluetooth devices and easily send that data to doctors, coaches, or trainers. Luckily for us heavy Bluetooth users, the profile will also be compatible with the upcoming Ultra Wideband (UWB) standard, meaning that the fitness-related bits traveling to our smartphone won't have to fight for bandwidth with the tethered GPS receiver and A2DP tunes we rock during our workouts.[Via MedGadget]
+      
+
+ 

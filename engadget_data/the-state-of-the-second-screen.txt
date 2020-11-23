@@ -1,0 +1,74 @@
+
+ If you let the rows of 3D and 4K displays lining the halls of CES paint a picture of the future of television, you'd be missing a vital component. Tucked away inside a pair of ballrooms on Sin City's famous Strip, representatives from television networks, software companies, cable providers and advertising firms held a powwow dubbed the Second Screen Summit to talk shop and discuss the fate of such experiences after a very busy 2012.
+
+ Over the past year, companies ranging from AT&T to Nintendo created a wave of experiences to complement TV content. Even the 2012 Summer Olympics received the second screen treatment with its very own Android and iOS apps, which let users catch live streams of events, access stats and more from the comfort of their couches. With so many solutions on the market, it's not entirely clear who will come out on top, or if there's room on the second screen for these myriad apps to coexist.
+
+
+
+ Second screen efforts may not be something consumers everywhere are clamoring for -- certainly some see them as distractions from TV watching -- but according to industry players, the extra layer of content is welcome. CBS claims last year's Grammy's were the largest social TV event to date, racking up 13 million "social mentions" in the wilds of the internet. According to Rob Gelick, senior vice president and general manager of digital platforms for CBS Interactive, second screen experiences exist in a space between marketing and content, and they've been "more wildly successful than we'd ever hoped."
+
+ The broadcaster's initiative was so successful, in fact, that the firm rolled out a new iPad app this year dubbed CBS Connect, which infuses NCIS: Los Angeles, CSI and Hawaii Five-O with second screen features. With an iPad in hand, NCIS fans can review evidence in-sync with the show, read up on suspects, rifle through maps, interact through social networks and more.
+
+ One app to rule them all? "Every Comcast, Verizon and AT&T will give you a tablet app that has all this remote control functionality on it." The raft of second screen apps have poured in from the likes of cable providers, television networks, movie houses, start-ups and even old guards such as Yahoo. If you're starting to feel dizzied by the selection, you're not alone.
+
+ Some in the space smell consolidation in the air, coming in the form of applications cooked up by cable providers such as AT&T and Dish Network, which are already serving up their takes. Alan Wolk, global lead analyst for Kit digital, a firm that builds these solutions, is one of them. In Wolk's vision of the near future, cable companies will focus on using tablets that act as remote controls and TV guide replacements with baked-in second screen experiences.
+
+ "Every Comcast, Verizon and AT&T will give you a tablet app that has all this remote control functionality on it," explains Wolk. "They will then buy up whether it's GetGlue, Viggle, Miso or whatever and it will all be incorporated into these different apps which they will use to compete with each other."
+
+ Kit digital is working on making that version of the future a reality by working with a litter of cable providers and television networks. In fact, the firm helped construct AT&T's U-Verse service, which has an accompanying iPad app that can change a television's channels, act as a TV guide and serve up relevant information about shows.
+
+ 
+ Even BitTorrent co-founder Ashwin Navin started a second screen venture dubbed Flingo in 2008 to marry the web and TV. This week at CES, the firm launched Samba: a platform that uses web APIs (instead of audio monitoring à la Shazam) to sync content on the second screen with the action on TV. Flingo is keen on partnering with set-top box makers, TV manufacturers and TV networks to build out second screen experiences, and Navin sees show-specific apps holding their own, but third party solutions like GetGlue going the way of the dodo.
+
+ "Second screen strategies that are just one of half a million apps on the App Store, I think they're dead," Navin said. "The only thing that could really make that work is if they emerge in a very small niche. The things that try to be everything to everyone, I think that's a very tough place too because it won't be very relevant to the show and it probably won't be relevant to every genre of content."
+
+ Wolk goes so far as to suggest that cable providers will focus on making tablets their main hardware presence in the living room instead of leaning on set-top boxes. He also estimates that tablets will be offered up on lease like set-top boxes, but pitched to consumers as "free."
+
+ A monolithic cable company app that provides a TV guide, changes channels and provides contextual information and interactivity for all TV shows -- regardless of network affiliation -- is a powerful force to contend with. Service providers would also be able to easily push out updates and target users with ads and content based on what their watching habits are across networks.
+
+ 
+ A unified experience provided by cable companies might make life easier, but relinquishing a measure of control is something that TV networks aren't necessarily keen on.
+
+ "Well, from a purely business perspective, I want everybody in a Fox app," said Hardie Tankersley, vice president of digital platforms at Fox Broadcasting. "I want to control the experience, I want to manage the advertising."
+
+ While Fox would love to see their first-party solutions become second screen mainstays, it acknowledges that cable giants are likely to flex their consolidating muscle. "I don't think I can stop that," Tankersley said. "If I could get everybody who watches Fox to be in the Fox app, in the Fox world, I would definitely do that."
+
+ Rather than shut out third party second-screen experiences and become complacent with first-party solutions, however, many networks are obliging to work with the likes of Comcast or AT&T.
+
+ "If Comcast is going to be getting everybody to use their Comcast app, our shows need to look good in the Comcast app." "I'm going to try to create a premium experience inside the branded Fox world," Tankersley said. "I think I can do things where we can control the platform to be more richer, interesting, dynamic and tied more tightly with the content than a generic platform would. But I want to support those generic platforms because I want our content to look good in those worlds. If Comcast is going to be getting everybody to use their Comcast app, our shows need to look good in the Comcast app."
+
+ Regardless of the uncertainty of their fate, networks continue to craft their own second screen applications, hedging their bets and tempering their expectations.
+
+ "We're investing what we think is enough to discover what's going to work," Tankersley explained. "We're investing just enough to be in the game and to try to learn something about it."
+
+ According to Tankersley, Fox is currently providing second screen content for six shows, with live programming requiring a fleet of people working every week. In American Idol's case, a team of roughly 15 people tailors the second screen experience for each week's contest developments. For live shows, second screen content creation happens when script ideas hit the page. In terms of popularity, it was the consensus among a panel of network executives that second screen apps for live events -- especially "tent pole" pieces of programming such as award ceremonies -- typically attract the largest number of users. With the Super Bowl, for example, CBS is promising a second screen app laden with stat updates, game highlights and alternate camera angles.
+
+ Networks are even beginning to brainstorm about what second screen apps will do at the writing and production stages of TV show creation.
+
+ "For a produced show like Bones or New Girl, it starts with the origin of the script," Tankersley said. "When the first script comes in we start planning with the show what the second screen content is going to be, what the merchandise that we'll sell is going to be and it gets developed in that writers room."
+
+ Chasing the Money 
+ Since ads on live television are the reigning cash cow, it's typically the job of companion apps to drive eyeballs to programs as they air. According to Nielsen stats, $266 billion dollars were spent on TV ads during the first half of 2012. On the other hand, Delivery Agent, a firm that provides e-commerce platforms for major networks, says merchandising sales they handle for second screen apps only rake in several hundred thousand dollars in each instance. However, networks are still interested in squeezing out additional dollars from second screen experiences.
+
+ "Right now there's no money," Tankersley confessed. "Well, not meaningful amounts of money. We all have different theories about where it's going to come from, but we're all playing out those games."
+
+ "Right now there's no money," Tankersley confessed. "Well, not meaningful amounts of money. We all have different theories about where it's going to come from, but we're all playing out those games." Second screen apps don't rake in a significant amount of cash because they're still in the nascent stages of attracting users and nailing down solid business models. In fact, a recent second screen initiative for The Next Iron Chef: Redemption was only used by at most 3,000 people each week for eight weeks, according to Channing Dawson, a senior advisor of Scripps Networks Interactive. Despite a weak showing, Dawson claims those who did participate expected similar experiences for other shows and were disappointed when they didn't find them.
+
+ Though money generated from second screen apps is a drop in the proverbial bucket for networks, in-app merchandising appears to be a more lucrative strategy than advertising during the early stages of second screen adoption. Being able to buy the same clothes and knickknacks your favorite character owns takes a lot of planning on the part of networks, but it shows promise. According to Delivery Agent, the second screen is set to get a shot in the arm from merch cash.
+
+ "I've had several of the networks compare what they're doing now in the second screen world and on other platforms like that to what they were doing in their first two, three, four years of the web, and it's well above that," said Jody Stark, senior vice president of business development at Delivery Agent. "If you extrapolate that out 10 years, if this industry is doing what the web was, I think we're going to have some very nice days ahead of us all."
+
+ Second contenders 
+ Cable providers and networks seem well-positioned to benefit from second screen efforts, but another faction exists: hardware manufacturers. Television makers including LG and Samsung could potentially make a splash with solid second screen experiences to their lines of Smart TVs, but they may be better-suited to focus on providing content for their single screen.
+
+ "The TV is remaining to be just the display," Alex Iskold, CEO and founder of GetGlue, said. "I mean, there are definitely apps on TV that makes sense. To me, the apps that make sense are Netflix, Hulu, HBO Go. Things that we watch. ... You may want to get a notification that a friend is watching too, but really, it has to all reflect back to the iPad. I wouldn't beef up the first screen with much stuff."
+
+ Sure, television makers have the advantage in that a TV is a necessary part of the equation, but the development and adoption of new hardware is typically a slow and arduous process, even for set-top boxes (see: Google TV). Slingbox unveiled its very own iPad app this week called Slingbox Companion that promises to help users track down shows, reach out through social networks and flip through channels. Even gaming hardware has edged into the second screen game: Nintendo's TVii app and Microsoft's Xbox SmartGlass. A surprise from a newcomer or other established player (read: Apple) could upend the table as well.
+
+ Software firms, however, appear poised to benefit no matter who winds up being the largest purveyor of second screen experiences. As middlemen, they'll be able to provide much of the technology behind second screen apps regardless of platform. Flingo, for example, hopes to bake in support for its web-based second screen experience in TVs and set-top boxes, and open it up to networks for customization. Shazam, known for helping you name that tune with its audio scanning app, licenses its tech to those interested in triggering in-app events at certain times during a program.
+
+ What's the rub? It's clear that everyone wants a foothold in the living room, and many outfits would love nothing more than to crown themselves king, or at least control as much content as possible. While there will likely be a long-term effort to consolidate second screen experiences into fewer platforms, the nature of the modern app economy means the near future will see the ecosystem continue to grow and diversify, bombarding us with even more newcomers and apps. Just take a gander at Google Play and the App Store and you'll find numerous apps that tackle the same problems and pack similar features, but vary in execution. Need a digital lighter to hold up at a concert? The App Store has dozens.
+
+ Since an ever growing number of people carry second screens in their pockets and shoulder bags every day, apps are bound to continue proliferating as factions vie for more eyeballs and a cut of the revenue. Concerted efforts towards consolidation are sure to occur, but we're still very much in the wild west of the second screen.
+
+

@@ -1,0 +1,7 @@
+
+ 
+
+Distributing your OS digitally certainly makes for an easy upgrade, but what happens when your hard disk spontaneously combusts -- taking Lion's recovery partition with it? Unless you planned ahead and rolled your own install image, you were stuck taking an arduous and painful detour back to Snow Leopard before being given the chance to re-up with Cupertino's latest. That changes today, with the Lion Recovery Disk Assistant, a utility that duplicates the OS's recovery partition onto an external drive of your choosing -- allowing you to boot directly into an installer which'll re-download the latest jungle cat, sans sojourn to 10.6. To do so, you'll need an external drive larger than 1GB, a machine running Lion, and the 1MB assistant we've linked below. Godspeed Apple fanboys, but to the rest of you -- now would be a pretty good time to verify those backups are still in working order, yeah?
+      
+
+ 

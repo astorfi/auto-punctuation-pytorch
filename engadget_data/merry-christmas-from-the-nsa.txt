@@ -1,0 +1,9 @@
+
+The NSA's idea of a Christmas present, it seems, is to release multiple reports detailing 12 years of improper conduct. The heavily redacted accounts reveal many incidents of misuse (both accidental and intentional) of the NSA's Signal Intelligence (SIGINT) systems. A large portion of the misconduct occurred due to the way agents searched the NSA's systems. Poorly constructed and sometimes unauthorized searches led to agents gleaning data on either US citizens and other unintended targets. According to an accompanying press release, data acquired illegally or accidentally is "almost always" deleted in what it refers to as a "purge process."
+
+
+
+Thanks to redactions, it's difficult to say exactly how many times the NSA broke the law. Phrases like "on [REDACTED] occasions during the fourth quarter" are commonplace, and details of exactly what was searched for are routinely censored as well. There are far too many incidents to detail in a single article -- you can browse the documents yourself here -- but it seems infractions are a very regular occurrence. The NSA says it goes to "great lengths" to ensure it complies with the law, and believes the report shows the "depth and rigor" of its "commitment to compliance."
+
+[Photo credit: Saul Loeb/AFP/Getty Images]
+span.redacted { color: black; background-color: black;}</div>

@@ -1,0 +1,12 @@
+
+If you've been tempted by NVIDIA's high-end GTX 970 and 980 video cards, but couldn't justify their high prices, the company's latest entry is made for you. NVIDIA is rounding out its Maxwell family of video cards today with the GTX 960, a desktop GPU that it describes as hitting the "sweet spot" when it comes to price and performance. It's far more powerful than the entry-level GTX 750 and 750 Ti announced a year ago, but at $199 it's significantly cheaper than its high-end siblings (though some variations may be a tad more expensive). Just how powerful is the GTX 960? Enough for you to be able to play modern games like Watch Dogs and Assassin's Creed: Unity in 1080p with the highest settings and still get a silky smooth frame rate of 60 FPS -- at least, according to NVIDIA. Expect to see video card makers roll out their GTX 960 cards over the next few weeks.
+
+
+
+
+
+The GTX 960 also delivers one of the more intriguing features from the beefier Maxwell cards: 4K-like gaming on 1080p screens. While it probably won't be powerful enough to play graphics-heavy games in 4K, it can run less intensive games like League of Legends at that higher resolution and translate the sharper textures into something usable for your 1080p monitor. The GTX 960 sports 1,024 CUDA cores (half of the GTX 980's cores, and a bit less than the 970's 1,664) with a base clock speed of 1.1GHz. NVIDIA's also left in plenty of overclocking headroom -- it claims you can bump the GPU up to 1.5GHz without much effort (assuming the card you're using has decent cooling).
+
+In short, the GTX 960 is the NVIDIA card most gamers should be snapping up. It's replacing the three-year-old GTX 660, which is certainly due for an upgrade. And aside from just being more powerful, it also includes some features gamers might appreciate. It'll run MOBAs like League of Legends silently, and it only needs a single six-pin power connector, both on account of Maxwell's impressive power efficiency. And the GTX 960 supports NVIDIA's new MFAA (multi-frame anti-aliasing) feature, which delivers most of the benefits of traditional anti-aliasing without the performance hit. In a live demo running Far Cry 3, simply turning on 4X MFAA bumped the frame rate from 43 FPS to 53 FPS.
+
+

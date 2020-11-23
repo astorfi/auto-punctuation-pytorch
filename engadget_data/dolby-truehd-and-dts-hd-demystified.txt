@@ -1,0 +1,5 @@
+
+       There seems to be some confusion about the next generation HD movie discs and audio CODECs. Unlike the video CODECs used on both formats, the new audio CODECs are lossless which simply means without loss, or identical to the original. The three lossless CODECs supported by both formats are LPCM, Dolby TrueHD and DTS HD MA. At this point the question should be, if they are lossless than what is the difference? The difference for the most part is the number of bits. Both Dolby TrueHD and DTS HD use far less bits than LPCM, this leaves more space on the disc for other features. Of course audio is always more complicated than just CODECs, there is also the sample rate to consider and one of the benefits of LPCM is that is supports a higher sample rate than TrueHD or DTS HD, but considering that that sample rate is higher than most studio masters, that benefit is pretty much useless. So how many bits are we talking about here, actually alot. The same 2 hour movie with a 16/24, 5.1 sound track requires 4.14 GB with LPCM vs 1.26 GB for either TrueHD or DTS HD.
+      
+
+ 

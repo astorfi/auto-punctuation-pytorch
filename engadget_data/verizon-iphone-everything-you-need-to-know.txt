@@ -1,0 +1,45 @@
+
+ 
+Update: The Verizon iPhone has been announced! Here's our hands-on, and here's a comparison chart with the AT&T version. Below is documentation of the rumoring and the speculation and the historic desperation for this product. You know, for posterity.
+
+
+Ah, the Verizon iPhone. In our bizarre careers as tech journalists, if there's one question we've heard more than "When is Verizon getting the iPhone?" we can't think of it. Also, outside the original rumors for the iPhone and iPad, we can't think of another product so heavily teased by those in the know and those not in the know -- though mostly by those not in the know.
+
+But then we heard Verizon is having a little get together on Tuesday, which is particularly odd timing because Verizon has a huge presence and a large amount of announcements at this year's CES. Rumors of the event being a Verizon iPhone announce immediately flared up, but there were still reservations: Apple usually announces its own products at its own corporate campus -- why would Verizon be doing the honors in NY?
+
+That's when the Wall Street Journal swooped in with a confirmation: the Verizon iPhone will be announced on Tuesday, and WSJ's All Things D even thinks Steve Jobs will be there. So, who is this fly-by-night "Wall Street Journal" publication we speak of? They have one of the best track records on Apple rumors in the business, and they've been leading the Verizon iPhone predictions from day one. Follow after the break as we talk it out.
+ 
+Back in March the WSJ said that there would be a new iPhone in the summer (not much of a stretch), and that an additional Verizon iPhone would go into production in September. After the iPhone 4 happened, new Verizon rumors started in earnest, with Bloomberg's crack financial reporters and Apple pundit John Gruber independently citing a January launch date. Then the WSJ followed up in October with some harder facts: again, the VZW iPhone would be in mass production before the end of the year and launch early next year. WSJ also claimed the phone would be running a CDMA chipset from Qualcomm -- and we've heard similar rumblings from good sources (something that previously seemed unlikely, and a knock against imminent Verizon iPhone potential). The WSJ also said there's a separate brand-new iPhone in the works as well, which would presumably launch in the summer once again, another thing that we've heard around the campfire (and which appeals to our common sense).Yesterday we saw tweaked iPhone 4 parts with slightly different internals and an altered antenna configuration, adding considerable fuel to the fire -- which intensified further when YouTube pulled the video of the parts, presumably due to a "copyright claim from Apple, Inc."That leads us to today. WSJ has confidently confirmed an iPhone launch at Verizon's announced Tuesday event, and considering their track record we have no reason to doubt them.The biggest question right now seems to be whether or not the Verizon iPhone will have LTE. Obviously, Verizon has launched its LTE network in a big way, with plenty of upcoming devices, but it sounds out of character for Apple to jump on so early -- they famously went with EDGE for the original iPhone, despite 3G being a rather mature tech on AT&T at that point. Of course, Qualcomm makes a Gobi chipset that has LTE along with EV-DO backwards compatibility, and there is a SIM slot in those parts photos (LTE requires a SIM, EV-DO doesn't). It will probably remain a mystery until Tuesday, but our money is on no LTE -- there's always the iPhone 5 launch in the summer to offer an LTE upgradeportunity. Overall we're probably looking at an iPhone 4 that runs on Verizon, nothing fancier for now. Rumor has it that the phone will begin to ship in February, after this January announce.Speaking of, a word of warning: in your rush to buy a Verizon iPhone, you might be locking yourself into a contract you'll be dying to break when the iPhone 5 launches in the summer. Apple typically keeps its product cycles at around a year to avoid this sort of regret, but a Verizon iPhone launching in the middle of the iPhone 4's lifespan really throws a wrench into those proceedings. Oh, and speaking of contracts, Verizon is about to up its early upgrade policy to 20 months instead of the typical 12 (as in, you have to wait 20 months to get a new fully subsidized phone), so if you recently got a phone on Verizon you might have a bit of a wait before you get a cheap upgrade to the iPhone.So, we'll see you on Tuesday when we'll be liveblogging Verizon's presser from beautiful New York City. Don't miss it. What's left? A walk down memory lane: #verizon-timeline { margin: 0; } #verizon-timeline ul { margin: 0; list-style-type: none; width: 650px; background: #FFF url(https://s.blogcdn.com/www.engadget.com/media/2011/01/verizon-bg.gif) no-repeat top left; } #verizon-timeline ul li { } #verizon-timeline ul li a { display: block; border-bottom: 1px solid #555; font: 900 16px/18px normal Helvetica,Arial,sans-serif; color: #00BDF6; padding: 5px 0 5px; margin-bottom: 2px; } #verizon-timeline ul li a:hover { background-color: #000; text-decoration: none; } #verizon-timeline ul li p { font: italic 14px normal Georgia,'Times New Roman',serif; color: #888; } #verizon-timeline ul li.odd { float: left; padding-top: 40px; width: 320px; } #verizon-timeline ul li.odd.top { margin-top: -25px; } #verizon-timeline ul li.odd a { padding-right: 15px; text-align: right; } #verizon-timeline ul li.odd p { padding-right: 15px; text-align: right; } #verizon-timeline ul li.even { float: right; width: 321px; padding-top: 50px; } #verizon-timeline ul li.even a { padding-left: 15px; } #verizon-timeline ul li.even p { padding-left: 15px; } #verizon-timeline #verizon-timeline-bottom { width: 650px; height: 280px; background: #FFF url(https://s.blogcdn.com/www.engadget.com/media/2011/01/verizon-bg.gif) no-repeat bottom left; }  Verizon CEO hates on Steve Jobs, doesn't see iPhone as a mass-market handset Jul 1st 2008
+
+  Verizon chief talks LTE iPhones, hates on rival: "I don't know what Sprint thinks it is" Apr 16th 2009
+
+  Apple, Verizon mulling iPhone deal for next year? Apr 26th 2009
+
+  Verizon chief says offering the iPhone is Apple's call Oct 26th 2009
+
+  Verizon takes another swing at AT&T, puts iPhone on the Island of Misfit Toys Nov 8th 2009
+
+  AT&T building out network capacity to prevent exodus to Verizon's iPhone? Mar 31st 2010
+
+  Verizon CEO confirms he's told Apple he wants the iPhone, won't say if he's getting it Apr 6th 2010
+
+  Ralph de la Vega 'laughs' when asked about AT&T iPhone exclusivity expiration date, says most customers will stay May 19th 2010
+
+  Apple discussed Verizon switch 'at least half a dozen times,' and other stories about its AT&T relationship Jul 19th 2010
+
+  Verizon CEO talks (more) about iPhone: 'we have to earn it' Sep 23rd 2010
+
+  iPhone 3,2 rumored to be in near-final testing phase, cue the CDMA speculation Oct 18th 2010
+
+  iPhone locked for early 2011 on Verizon, says Fortune Oct 29th 2010
+
+  Verizon execs propose speed-based pricing for LTE data plans, say LTE has 'drawn the interest of Apple' Nov 17th 2010
+
+  Tweaked iPhone 4 parts discovered: an antenna fix, Verizon's iPhone, or the best KIRF ever? Jan 5th 2011
+
+  Wall Street Journal: Verizon to announce iPhone on Tuesday (Steve Jobs to appear?) Jan 7th 2011
+
+  
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

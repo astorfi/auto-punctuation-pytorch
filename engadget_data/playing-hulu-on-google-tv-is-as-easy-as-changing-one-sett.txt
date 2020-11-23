@@ -1,0 +1,6 @@
+
+ 
+We know Google mentioned it would be a "good citizen" and allow Hulu to block its browser ID, but that doesn't mean you have to be one too. By default, accessing the website from a Google TV device yields a prompt hoping you'll wait for the two to work out some kind of agreement on Hulu Plus access, but with a Flash enabled browser at the ready, we're sure all you want to do is press play. The fine folks over at GadgetWhore first discovered that by digging deep into the advanced settings of the Chrome browser app and changing the browser ID to "Generic" or any custom string one may prefer, Hulu streams immediately start playing with no problem (users may want to change back to default afterwards to make sure other pages render properly.) That's one benefit of having a "run-of-the-mill" desktop browser integrated into your set-top box, so w while early adopters may only be moments away from discovering the dark side of Google TV, it seems like a few easy browser tweaks may take care of most issues -- let us know if you've run into any others.
+      
+
+ 

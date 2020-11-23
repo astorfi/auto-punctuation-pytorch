@@ -1,0 +1,10 @@
+
+ 
+We've gotten a few peeks at Qualcomm's next-gen Snapdragon chips, codenamed Krait, but now we've got a proper roadmap, including time frames for release, model numbers, and even details about the memory channels. Glancing at the slide above doesn't reveal anything terribly surprising -- the dual-core 8960 (LTE), 8270 (HSPA), and 8260A (HSPA+) will all be shipping to manufacturers later this quarter, in speeds ranging from 1.5GHz to 1.7GHz and come packing the latest Adreno 225 GPU. In Q3 of next year Qualcomm's 28nm tech will trickle down from the high-end to mid-range phones, just ahead of the launch of those quad-core, 2GHz mobile monsters the company teased back in February. Check out the full PDF presentation at the source for more nitty-gritty details.
+
+Update: Qualcomm has asked us to remove the link to the documentation in question.
+
+[Thanks, Gadgeteer]
+      
+
+ 

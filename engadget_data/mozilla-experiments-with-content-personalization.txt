@@ -1,0 +1,4 @@
+
+Mozilla is known for its staunch support of its users' privacy, but that isn't stopping the team from exploring options for personalizing the web. In a blog post today, Justin Scott, Mozilla Labs' product manager, discussed the possibility of incorporating your browser activity into an API that allows sites to prioritize their content based on your interests. For example, if you spend a lot of time looking up baseball scores, publishers could push related articles to the forefront just for you. Though that may sound like an overstepping of the bounds Mozilla has so strongly defended, the company insists that the ability to select what to share (if anything) with content creators will remain in the hands of the user. To read more about Mozilla Labs' experiments and weigh in on the proposal, head on over to the source link below.
+
+

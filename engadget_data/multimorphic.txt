@@ -1,0 +1,17 @@
+
+ When we spoke to Gary Stern way back in January at CES, the pinball exec let it be known that his was the only company currently producing pinball machines -- and while that may be accurate so far as actual shipping systems go, there are a handful of startups looking to get into the game. One of the more compelling examples we've seen is the offering from Multimorphic, an Austin-based company showcasing a prototype at SXSW Interactive's Game Expo.
+
+ The P3 is interesting for a number of reasons. First, and arguably most importantly, is the modular nature of the machine. If you take a look at the (still-unfinished) sides of the cabinet, you can see a big slit down the center, where the top can be lifted off and replaced -- since the machine is targeted toward home users, there's no concern about vandalism there. The idea is to essentially offer a platform to both developers and at-home hackers to create their own games atop what is essentially a clean slate. 
+
+
+
+
+ 
+ Customization is helped along by the presence of a large display in the middle, which can be tricked out for different titles. The screen also reacts to the presence of the ball, which makes for a cool experience in an otherwise still fairly empty playfield. The $9,500 to $10,000 unit (price still pending) will ship with two titles when it comes out roughly a year from now. The company is also working with some top developers to create some games for the machine and is certainly open to the possibility of working with other companies to license titles.
+
+ The still-unfinished system remains a bit buggy at this early stage (it was actually plugged into a nearby MacBook -- it'll have its own self-contained system soon enough). Though we have to admit it was pretty cool watching its makers navigate through the menus on its display using the buttons (there are three on each side, which currently control the flippers and serve as the plunger, though all three may well be incorporated into future games). Still, the machine feels quite solid, and certainly has a more authentic weight to it than those Stern home machines. We do miss the more complicated playfields of pro-machines, though that's one of the nice things about being able to customize these machines -- you can set it to the level you want. Give us one of these and a 3D printer, and we'll happily go to town.
+
+ Also worth noting is the fact that the machine utilizes the company's own proprietary P-ROC (Pinball - Remote Operations Controller) microcontroller, which lets users control pinball machines via USB, both for homebrewed systems and hacking older machines.
+
+ Zach Honig contributed to this report.
+

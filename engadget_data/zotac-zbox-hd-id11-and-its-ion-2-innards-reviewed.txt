@@ -1,0 +1,8 @@
+
+ 
+Small form factor? Check. Low power consumption married to 1080p video playback capabilities? Of course. Quiet cooling? Naturally. Those are the basic requirements for, and their fulfillment is the means by which we judge, a good home theater pc. They're also the highlights of Zotac's Ion 2-powered ZBOX HD-ID11 barebone (you have to add your own RAM, storage and OS) nettop, which recently visited AnandTech's labs for some old fashioned review action. It's a highly illuminating read, particularly for those interested in the differences between NVIDIA's Ion generations, which throws up a mixed bag of results. While you'll be quite alright watching Full HD Blu-rays on the ZBOX, Flash hardware acceleration -- yeah, that old nugget again -- is not yet implemented well enough, resulting in a maximum of 480p resolution before Hulu streams started glitching out on the reviewer. A June driver update from NVIDIA should rectify this issue, and we're encouraged to wait it out and see what we might see then. In the mean time, you can just delve into the complete analysis which awaits at the link below.
+
+[Thanks, Wowzers]
+      
+
+ 

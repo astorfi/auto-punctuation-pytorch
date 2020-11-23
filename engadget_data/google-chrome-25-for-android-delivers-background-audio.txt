@@ -1,0 +1,4 @@
+
+ If you've ever tried to play audio from a web app in Chrome for Android, you've likely had the fun cut short the moment your attention wandered over to Google Maps or Instagram. A stable version of Chrome 25 is here to address that headache. Audio in the new browser build will continue to play in the background, and optionally pauses if there's an incoming phone call. Google has less perceptible upgrades behind the scenes, as well: multi-touch zoom and scrolling are faster, and the V8 rendering engine should be quicker on the draw with interactive pages. Those who won't wait for anything, including the end to an audio stream, can hit Google Play for the Chrome refresh.
+
+

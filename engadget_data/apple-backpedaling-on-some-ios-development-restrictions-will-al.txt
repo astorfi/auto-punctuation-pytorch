@@ -1,0 +1,26 @@
+
+ 
+Woah, who saw this coming? Apple has changed its super-controversial stance on third party developer tools for iOS apps, now allowing any and all comers, "as long as the resulting apps do not download any code." We're guessing this is mostly a nod to game developers, who use ported engines like Unreal and interpreters like Lua, but it also apparently covers apps developed in Adobe Flash CS5. In addition, the rules on mobile advertising have changed, so AdMob ads are seemingly back in, and Apple's also publishing its App Store Review Guidelines at long last, which will give developers a better idea of how their apps are going to be scrutinized by Apple before they submit them. We're sure we'll be hearing plenty in the coming weeks as developers and arm chair analysts rifle through Apple's so-far-secretive guidelines, but mostly we're just excited to see what sort of innovation and development accessibility we've been missing out on while these third party tools have been off the market. The full (and brief) release can be found after the break.
+
+Update: Google's responded to the newly-relaxed restrictions, saying "Apple's new terms will keep in-app advertising on the iPhone open to many different mobile ad competitors and enable advertising solutions that operate across a wide range of platforms."
+
+Update 2: Our friend John Paczkowski at All Things Digital has Adobe's statement: "We are encouraged to see Apple lifting its restrictions on its licensing terms, giving developers the freedom to choose what tools they use to develop applications for Apple devices."
+
+Update 3: In case the last update didn't give it away enough, Adobe announced in a blog post that it'll resume development on its Packager for iPhone tools, for Flash CS5 devs who want to convert their work to the portable powerhouse.
+
+Meanwhile, it seems like it's time for a little recap:
+
+Apple's iPhone lockdown: apps must be written in one of three languages, Adobe in the hurt locker
+Adobe says iPhone / iPad adoption and 'alternative technologies' (cough, HTML5) could harm its business
+Steve Jobs responds directly to developer over new iPhone SDK rules, cites blog for explanation
+Steve Jobs publishes some 'thoughts on Flash'... many, many thoughts on Flash
+Adobe's CEO: Jobs' Flash letter is a 'smokescreen' for 'cumbersome' restrictions (update: video)
+Adobe decries Apple's 'walled garden,' yet pledges 'best tools' for HTML5
+Adobe targets Apple in ad campaign launched today, publishes open letter from founders
+Steve Jobs' D8 interview: the video highlights (updated)
+Adobe's CEO: 'we've moved on' from Apple's argument, and Flash still rules
+
+ 
+
+Show full PR textStatement by Apple on App Store Review GuidelinesThe App Store℠ has revolutionized the way mobile applications are developed and distributed. With over 250,000 apps and 6.5 billion downloads, the App Store has become the world's largest mobile application platform and App Store developers have earned over one billion dollars from the sales of their apps.We are continually trying to make the App Store even better. We have listened to our developers and taken much of their feedback to heart. Based on their input, today we are making some important changes to our iOS Developer Program license in sections 3.3.1, 3.3.2 and 3.3.9 to relax some restrictions we put in place earlier this year.In particular, we are relaxing all restrictions on the development tools used to create iOS apps, as long as the resulting apps do not download any code. This should give developers the flexibility they want, while preserving the security we need.In addition, for the first time we are publishing the App Store Review Guidelines to help developers understand how we review submitted apps. We hope it will make us more transparent and help our developers create even more successful apps for the App Store.The App Store is perhaps the most important milestone in the history of mobile software. Working together with our developers, we will continue to surprise and delight our users with innovative mobile apps.
+ 

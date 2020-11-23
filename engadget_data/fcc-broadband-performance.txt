@@ -1,0 +1,8 @@
+
+ How do you pick your broadband internet provider? For many of us, the market dictates our selection, but a few lucky subscribers get to make their own call, rather than opting for the one and only service available in a particular locale. FiOS, Verizon's fiber-optic solution, and Exede, ViaSat's high-bandwidth satellite service -- two common secondary offerings -- happen to be the two frontrunners in the FCC's latest broadband performance report, which rates companies based on actual download and upload speeds compared to advertised bandwidth, among other metrics. More often than not, providers fall short of promised performance, with companies like AT&T and Qwest leading the naughty list. But Verizon and ViaSat are both motivated to maintain subscribers, and exceeding expectations is certainly not a bad way to accomplish that.
+
+ This is ViaSat's first appearance in such a report, due in no small part to the company's recent Exede broadband introduction, which followed the ViaSat-1 satellite launch in late 2011. We experienced speedy performance during our own test last year, though latency remained an issue. The FCC covers this major downside as well, reporting a measured latency of 638 ms, compared to an average 29.6 ms figure for terrestrial services -- but overall impressions seem quite positive. The FCC has published some 10,000 words on the topic, so if you do in fact have an opportunity to elect your own broadband provider, it might be worth your while to comb through the agency's full report. It's ready for your perusal over at the source link below.
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

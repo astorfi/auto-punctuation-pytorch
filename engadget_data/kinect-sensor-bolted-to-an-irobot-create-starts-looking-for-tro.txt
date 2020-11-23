@@ -1,0 +1,9 @@
+
+ 
+While there have already been a lot of great proof-of-concepts for the Kinect, what we're really excited for are the actual applications that will come from it. On the top of our list? Robots. The Personal Robots Group at MIT has put a battery-powered Kinect sensor on top of the iRobot Create platform, and is beaming the camera and depth sensor data to a remote computer for processing into a 3D map -- which in turn can be used for navigation by the bot. They're also using the data for human recognition, which allows for controlling the bot using natural gestures. Looking to do something similar with your own robot? Well, the ROS folks have a Kinect driver in the works that will presumably allow you to feed all that great Kinect data into ROS's already impressive libraries for machine vision. Tie in the Kinect's multi-array microphones, accelerometer, and tilt motor and you've got a highly aware, semi-anthropomorphic "three-eyed" robot just waiting to happen. We hope it will be friends with us. Video of the ROS experimentation is after the break.
+      
+
+ 
+
+
+ 

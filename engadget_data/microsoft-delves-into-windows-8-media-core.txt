@@ -1,0 +1,5 @@
+
+ 
+ Microsoft's deep exploration of Windows 8's numerous tweaks has swung to one of the most important components for the onslaught of tablets we're about to see: the media foundations. The pipeline is now much leaner than it was in Windows 7, both through lower lag and miserly energy use that should keep that Skype video call from falling out of sync and killing your battery. Tuning up the video performance also makes in-the-box HD webcam support an easy feat, and Microsoft has thrown in extras like Stereo 3D video and multiple audio tracks for one video. There's much (much, much) more detail from Microsoft's group program manager Scott Manchester, so if you want to know the intricacies of Windows 8's moving pictures and sound, head on over to the source and get an eye- or earful.
+
+

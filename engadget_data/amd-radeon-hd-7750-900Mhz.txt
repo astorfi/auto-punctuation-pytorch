@@ -1,0 +1,7 @@
+
+ 
+ The original Radeon HD 7750 won plaudits for its low-wattage performance and $109 price tag, but now AMD's decided to put out an additional version with 100MHz more clock whizz. The new card also happens to be called the Radeon HD 7750, and it'll sit alongside its doppelganger on the shelves of the world's computer stores just daring you spot the difference. How will you do that? By checking if it requires a separate power supply: the original 7750 was powered entirely through the PCIe slot, limiting its power to 75W and hence its clock speed to 800MHz, while the new one accepts additional power to deliver slightly more grunt and stay ahead of looming competition from NVIDIA. XFX has already jumped aboard with the 7750 Black Edition Double Dissipation priced at $115 after a rebate, and AnandTech says other vendors will follow suit. So, unless you're totally out of power jacks, you know what to look for.
+
+ Image courtesy of Newegg.
+
+

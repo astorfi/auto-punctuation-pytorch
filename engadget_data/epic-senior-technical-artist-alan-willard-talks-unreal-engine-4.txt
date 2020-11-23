@@ -1,0 +1,19 @@
+
+ 
+ There's no PS4 or Xbox 720 behind the curtain, Alan Willard assures a dark room full of eager video game journalists. Nope, it's just a current high-end piece of PC hardware. In spite of the company's position as a creator of one of the industry's leading game engines, Epic doesn't get a peek at Sony and Microsoft's next generation consoles before the companies are ready for their grand unveiling. "We won't know final hardware specs until everyone else does," the company's senior technical artist tells me after the presentation, adding with a laugh, "If they do, I don't know anything about it."
+
+ The company spent this year's E3 cycling media in and out of its small meeting room on the second floor of the convention center, dimming the lights and showing off just what Unreal Engine 4 has to offer -- or at least a pretty good idea of what it will offer when it's finally ready for prime time. It's clear from the excitement on the Epic employees' faces that all involved are relieved to finally show the demo off for gatherings of eager writers. No surprise there, of course. After all, the engine has been in development in some form or other for eight or nine years -- several lifetimes in the roman candle-like world of video game development.
+
+
+
+ "[Epic founder Tim Sweeney] started looking into different programming languages and where the whitepapers were going," Willard tells me, describing Unreal Engine 4's infancy. "Stuff that wasn't necessarily being used for development yet, but trying to envision where hardware was starting to go and starting to make deep-level tech decisions." It's a mind boggling proposition -- beginning development on an underlying technology for games that will run on systems debuting a decade or so after the fact.
+
+ 
+  "Moore's Law is a great baseline. You can just rely on things to double every couple of years or so." "Moore's Law is a great baseline," explains Willard. "You can just rely on things to double every couple of years or so. Some of it extrapolation, some of it is watching the wind blow and seeing that the costs of processors are dropping greatly. And we see whether NVIDA is going to have something ready in time for [console makers] to start developing new hardware. It's strategic decision, and all of development is guess work at some point. But a lot of it experience with the industry and knowing how strategic decisions are made -- not only internally, but how other companies make them, and trying to follow that."
+
+ 
+ And while Sony, Microsoft and the like keep tight lips with regards to what they've got cooking, Epic happily takes the opportunity to offer up suggestions. "We work with them as closely as they'll let us," says Willard. "We, like every other developer, want every console to be able to throw everything we'll be able to throw at it. And there's always tradeoffs -- financial and strategic and things like that. But we've given as much input as they've allowed us, as far as what we want to see. There's a dialog. Tim has been talking to people at Microsoft and Sony's hardware groups for quite a while. But ultimately we can't make their decisions for them. "
+
+ Part of that input comes in the form of demos. While this year's E3 marks the first widespread demonstration for journalists, the company did offer up a demo to a small, lucky few (around 30 or so) at GDC back in March as well as earlier demos for hardware makers. "Our demo last year was a love letter to console manufacturers. 'If you give us enough headroom, here's what we can do.' " And certainly its an impressive proposition. For the sake of what we saw, here's hoping Sony, Microsoft and the rest can deliver on its promise.
+
+

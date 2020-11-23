@@ -1,0 +1,9 @@
+
+ If you're looking for the fast, fun, and easy way to "enhance the user experience" on your Droid this holiday season, look no further than the Android 2.0.1 update that Verizon just slipped us some info on. We don't have an exact drop date at this point, but we're told that Droid owners can expect an over-the-air package in the "coming weeks" -- and most notably, changes will include improved camera autofocus and better voice reception. Since these particular fixes are presumably device-specific, it's interesting that this is being done in lockstep with an official Android trunk release -- but all Google's saying is that the underlying platform contains "several bug fixes and behavior changes, such as application resource selection based on API level and changes to the value of some Bluetooth-related constants." Good stuff.
+
+Update: Google's got a changelog posted -- check it out. Nothing that's going to blow your mind.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

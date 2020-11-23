@@ -1,0 +1,19 @@
+
+ 
+
+Reed Hastings, the CEO of Netflix has finally chimed in with his own statement about net neutrality and the deal his company struck with Comcast. As written in a blog post, the traditional standards recently overturned by a Verizon lawsuit (which prevent ISPs from restricting or meddling with data) are "important...but insufficient." As we noted when the deal happened, a peering agreement like the one Comcast and Netflix now have is not covered by existing network neutrality rules, but Hastings argues that in order for strong net neutrality to exist, it should be. While he says that in the short term Netflix is playing ball with ISPs like Comcast (and may make other, similar agreements in the future) to improve the experience for its customers, he hopes that those same companies will support "strong" net neutrality that lets Netflix connect to their networks with no fees (Open Connect).
+
+
+Update: Comcast has responded to Hastings' blog post with a statement of its own (available in full after the break) from EVP David Cohen. If it's planning on responding to the Netflix exec's call to support strong net neutrality, it isn't doing so yet, saying that open internet rules were never designed to deal with peering and interconnection. According to the ISP, providers like Netflix have always paid a "fair price" for their connection to the internet and see their agreement as a reflection of "the effectiveness of the market as a mechanism to deal with these matters."
+
+
+
+
+Hastings specifically calls out the argument made by executives of the big ISPs (Verizon) that Netflix is dumping data (aka, responding to requests by users of said ISPs), and said he's asked what would happen if Netflix changed its service to upload as much as it downloads. Their silence in response to his Spotify-style peer-to-peer proposal, despite allowing such no-fee interconnects between their own networks, "isn't sensible." One specific example is because they don't pay fees to backup services that only receive large uploads from their networks. 
+
+Hastings didn't reveal specifics about Netflix's deal with Comcast, but said ISPs demand "roughly the same arbitrary tax" from middlemen like Cogent and Level 3. Level 3's general counsel Michael Mooney recently published a similar blog post calling what the ISPs were doing a "game of chicken" that they've been playing for years. 
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));Post by Reed Hastings.There has been no company that has had a stronger commitment to openness of the Internet than Comcast. We supported the FCC's Open Internet rules because they struck the appropriate balance between consumer protection and reasonable network management rights for ISPs. We are now the only ISP in the country that is bound by them. "The Open Internet rules never were designed to deal with peering and Internet interconnection, which have been an essential part of the growth of the Internet for two decades. Providers like Netflix have always paid for their interconnection to the Internet and have always had ample options to ensure that their customers receive an optimal performance through all ISPs at a fair price. We are happy that Comcast and Netflix were able to reach an amicable, market-based solution to our interconnection issues and believe that our agreement demonstrates the effectiveness of the market as a mechanism to deal with these matters.
+
+
+ 

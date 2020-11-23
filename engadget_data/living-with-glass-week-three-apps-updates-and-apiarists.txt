@@ -1,0 +1,28 @@
+
+It's been a little while since I last checked in with Glass, but it's time to file another report and let you know how Glass is fitting in with my life -- or, increasingly, how it isn't. We're on the eve of Google I/O, where Glass, in its near-current state, was unveiled to the world last year. I figure that by the end of this week the Glass landscape will have shifted, so before anything tilts too drastically, let's take a final look at where we stand now.
+
+
+
+Since my last report, and the subsequent review, Google released the first major update to Glass since the Explorer Edition started shipping. Called XE5, the name makes it pretty clear that we can expect regular updates between now and the anticipated consumer release sometime next year.
+
+What did this update bring? Not an awful lot, if I'm being honest, but the updates it does deliver are welcome. For one thing, overall snappiness seems improved (particularly with voice recognition), as does stability. I got a few odd crashes on the previous build. I haven't had a single one since the update. But, when things are forcefully closed, there's a new crash-reporting feature to help Google's boffins back in CA more quickly find the problem.
+
+
+Glass will now prompt you with Google+ updates, responses and hangout invitations, which is a natural enhancement, and it has a new calibration workflow for head detection. Before, you could tell Glass to disable itself when you removed it, but it only had a binary "on" or "off" setting. With this enabled, I found that the headset couldn't detect the faces of a few people with narrow foreheads. Now, when head detection is enabled, Glass will run a little sensor sweep of your noggin to enhance its positional awareness.
+
+All these tweaks have made Glass more pleasing to wear, but as many of you noticed in the taping of our last podcast, I just don't feel compelled to wear Glass every day of every week. Indeed, more often than not, I'm leaving Glass behind these days. While I enjoy the novelty of taking candid pictures of what's happening in the world, and I do appreciate being able to see emails instantly when I'm walking down the street, I still can't say that those feature are compelling enough for me to wear Glass around all the time. Not yet, at least.
+
+But, the presence of (unofficial) Facebook and Twitter apps for sharing those photos certainly does add value. I like Google+ a lot and find it's a great place to discuss things, but it's far from the only social network in the game.
+
+
+Glass continues to be a great icebreaker. As I mentioned in my XPRIZE feature last week, it made for a great way to strike up a conversation. Indeed I conducted my first interview using Google Glass, a conversation with XPRIZE founder Peter Diamandis. It was a great chat and I think Glass did a respectably good job of capturing it, but there are a few problems. The difference in audio levels between Peter and me is quite noticeable, which could be fixed with some deft audio editing after the fact, but that would take a good amount of time. Additionally, I had to focus on keeping my head very still, which resulted in me feeling -- and looking -- less than totally relaxed in the conversation.
+
+I also enjoyed wearing Glass to speak to a gathering of New York State public librarians, in which I gave a presentation on the evolution of publishing and journalism. I traced the path of getting something -- anything -- into the public eye and talked about how that's made journalism perhaps too easy. When I snapped a picture of the audience with just a tap and indicated I could have it online and public in seconds, a bit of a murmur spread across the crowd. Predictably, it wasn't the speed of the process that evoked such a response; it was the privacy concern.
+
+I, of course, explained to the group that you can't do anything on Glass that you can't already do on a smartphone, but this is another signal that Google perhaps has some further messaging to do on the privacy front before these go mainstream.
+
+
+Finally, my headset got another new experience this past week. My wife, an amateur beekeeper who runs the blog Garden Geekery, wore the headset under the veil while doing a little hive maintenance. The video isn't pristine -- the protective mesh definitely obscures things -- but the resulting footage is surprisingly quite watchable. You can definitely hear the irritating buzzing of the little things. Also, no stings.
+
+More Info Living with Glass, Day One: The Reveal Living with Glass, Day Two: Around the House Living with Glass, Day Three: Security Checkpoint Living with Glass, Day Four: Canyon CarvingWhat's next for me and Glass? If you see me around at I/O, you'll probably see me sporting the headset, if only because I want devs to come up and tell me what they're cooking up. Got something cool to show off for Glass? I hope you find me.
+

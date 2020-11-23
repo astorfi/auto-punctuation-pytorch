@@ -1,0 +1,9 @@
+
+The Xbox One's improved Kinect device is looking like an enormous leap ahead of its predecessor, but getting it there wasn't easy. Designing it took a joint-effort between Microsoft's research division and the Architecture and Silicon Management (ASM) shop, according to Redmond's TechNet blog. It wasn't enough that the designers had to address the original Kinect's shortcomings either, adding new features presented plenty of new hurdles to overcome. Take the new sensor's HD camera upgrade, for example. That wider field of view may make using Kinect in a real living room more feasible, but the enhanced fidelity made it harder for engineers to keep smaller objects (like fingers) from disappearing into the background. The team has outlined some of the camera's new tricks, like ambient light canceling and an improved color camera, in a pair of demo videos. You'll find both of those, plus a look at how the Kinect processes 6.5 million pixels per second without the Xbox One missing a beat, at the source link below.
+
+
+
+
+
+
+ 

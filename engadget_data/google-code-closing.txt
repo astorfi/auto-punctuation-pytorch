@@ -1,0 +1,10 @@
+
+
+
+Goodbye, Google Code. The technology giant has decided to close its project hosting and code collaboration site because, well, there are simply better alternatives on the web. Google says it launched the platform back in 2006 because it was unhappy with the "limited" options available to the open source community. Since then, the likes of GitHub and Bitbucket have risen to prominence, superseding Google Code's feature set and encouraging developers to transfer their projects. As such, Google's offering has become increasingly filled with spam and abuse, leading to the company's decision to pull the plug. Yesterday it stopped accepting new projects, and on August 24th the site will become read-only. Google Code will eventually be shuttered next January, although tarballs of project source, issues and wikis will continue to be available throughout 2016. If you need to transfer a project, head here for the relevant GitHub and Bitbucket migration tools.
+
+
+
+[Image credit: AP Photo/John Cogill]
+
+

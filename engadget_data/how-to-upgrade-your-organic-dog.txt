@@ -1,0 +1,41 @@
+
+
+ This week's How-To is something more of a glimpse in to the future, a future where your dog has a cell phone, webcam and electronic tag, and maybe even talks to you. Maybe. Some of this dog-tech isn't available yet, and some of it is (oh, you Japanese...); our overview includes some interesting iterations of pet technology, and we even made our own version of a dog webcam along with the first ever canine photographer's photo gallery.
+
+
+
+ AIBO or organic? Before we get started, we should say that we have high hopes for the future of organic dog ownership. Come on, AIBOshave WiFi, a camera and can be programmed to do a wide variety of tasks, and speak in many voices and languages.There's no reason (besides nature, of course) that our organic dogs shouldn't at least stay competitive with theirrobot counterparts.  Communicating with your dog In early 2003, the Takara Company in Japan released theBow-Lingual Bark translator. The way it works (and we do usethe word "work" loosely) is, your dog wears a small transmitter on its collar, and when poochie barks it transmits tothe receiver, and then translates to one of 200 phrases.
+
+ 
+ You can also review all the sounds throughout the day for an overall view of your dog's mood. Thousands of dog barkswere recorded and analyzed from most dog breeds (a Chihauhua will have a different voice print than an IrishWolfhound).
+
+ 
+ Does it work? In our tests, we're pretty sure our dog only says, "Hey," "Hey," "Hey," and, "Hey".  Calling your dog Next up, is the dog cell phone from PetsCellwe covered before. This phone can be used to either callyour dog, or with the press of a button call you (say, if your dog gets lost). It's also got GPS tracking, so your dogcould be located if needed. (Don't worry though, Rover's probably just out sniffing something's butt.) On the website,the scenario presented is a woman calling her dog telling him he should be home soon. While we don't think that's alikely use, the GPS location feature could come in handy provided the unit was small enough and it could be powered forweeks to months at a time on a single charge.  E-Tags for dogs New on the scene is the Dog-e-Tag (also one wecovered). The tag is a small device which displays up to 10 lines of 40 characters, such as your dog's name, phonenumber, license, and RSS feed—you know, all the things normally found on a dog collar (what, your dog doesn't have ablog yet?).
+
+ 
+ When pressed it also glows in the dark. You can almost fit all of theDeCSS code on it, not that we tried oranything.  Dog cams TOMY of Japan are also introducing a doggie 3.5 megapixeldigital camera (below) that can be worn around its neck,along with a remote control to trigger the camera. Photos can later be downloaded to a Mac or PC via USB. It's unclearif it offers a timer function, but regardless that gave us an idea and we made our own version.
+
+ 
+ Last week we showed you how to make your owndigital camera that automatically took photos from adigital camera by using a timer chip.  We started to look around and see if there were any small cameras which could be used with our dog's collar; we cameacross one not only diminutive enough, but that could also take photos automatically every minute!The James Bond Stealth Camera from ThinkGeek.  Obviously, since the timer feature was built in we didn't need to hack apart the camera. You can imagine ourdisappointment.
+
+ 
+ Using some fishing wire and the dog's collar we had a pretty good way to attach it.
+
+ 
+ We looped the string through the battery door and then closed it (and taped it).
+
+ 
+ Then we tied the string to the dogs collar and it set the camera to take a photo every minute.
+
+ 
+ Over the course of a day or so, we had the dog take photos. Most of them were pretty good, for a dog.  Gallery of photos taken by a dog 
+ 
+ 
+ 
+ 
+ 
+ 
+ That's just about all we got for now. We know the tech world isn't done outfitting our animals with all sorts ofgear, but it's a good start, right? Translator, wearable tracker/cellphone, electronic ID, and moblogging gear isn'ttoo bad for a mean little beast without opposable thumbs if you ask us. So next time someone tries to show off theirAIBO, challenge them to a face-off with your cyborg dog, and see who comes out on top. Somehow we have a feeling it'llbe the one who understands sic 'em, boy!
+
+  Phillip Torrone can be reached via his personal site:http://www.flashenabled.com
+

@@ -1,0 +1,52 @@
+
+ Despite all the energy it's been putting into mobile and gaming, NVIDIA hasn't fallen out of love with its professional graphics customers. In fact, it's in the process of trying to rekindle those sparks of romance through the clever use of chocolates, shoulder rubs and fresh additions to its Kepler-based Quadro lineup. We've already seen (and played with) the $2,249 K5000 flagship, but those of us on lower budgets will now be able to snag the K4000, K2000 or K600 as they begin to enter the retail channel.
+
+ Working from the top down, the $1,269 Quadro K4000 has 768 CUDA Cores, 3GB of RAM and a memory bandwidth of 134GB/s, which means it'll crank out your architectural documents and video reels at a healthy 1.246 TFLOPs. The $599 K2000 has half the CUDA cores and memory bandwidth, with 2GB of RAM, and reaches a top speed of 733 GFLOPs. Lastly, the $199 K600 has 192 CUDA Cores, 1GB RAM, a memory bandwidth of 29GB/s and a top speed of 336 GFLOPs. If you'd like more details, you know where the PR's at.
+
+
+
+  Show full PR text   NVIDIA Sets New Standard for Workstation Performance and Reliability 
+  New Line-up of Kepler-Based NVIDIA Quadro Professional Graphics   Delivers Unprecedented Capabilities to Millions of Content-Creation, Design, Engineering Professionals
+  SANTA CLARA, Calif.-March 5, 2013-NVIDIA today unveiled a range of NVIDIA® Quadro® professional graphics products that offer unprecedented workstation performance and capabilities for professionals in manufacturing, engineering, medical, architectural, and media and entertainment companies.
+
+   Built on the ultra-efficient processing power of the NVIDIA Kepler™ architecture – the world's fastest, most efficient GPU architecture – the new line-up includes:
+
+   ·     NVIDIA Quadro K4000 – A high-end card that delivers blazing-fast performance for graphics-intensive applications. Has 3 GB of onboard memory, multi-monitor support and stereo capability in a single-slot configuration.
+
+   ·     NVIDIA Quadro K2000 – A midrange card that offers outstanding performance with a broad range of professional applications. Comes with 2 GB of onboard memory to hold large models and multi-monitor support for enhanced desktop productivity.
+
+   ·     NVIDIA Quadro K2000D – A variant of the Quadro K2000, with native support for two dual-link DVI display connectors for interfacing with ultra-high-resolution medical imaging displays.
+
+   ·     NVIDIA Quadro K600 – An entry-level card with great performance and certifications for leading professional applications. Equipped with 1 GB of onboard memory, comes in a low-profile design for maximum usage flexibility.
+
+   The new cards expand the Quadro technology family – which includes Quadro K5000, Quadro K5000 for Mac, and the complete Quadro mobile workstation product line-up – to deliver an unmatched professional application experience, enhanced visual workspace and proven Quadro compatibility and reliability. Features include:
+
+   ·     Next-generation streaming multiprocessor engine (SMX), delivering up to 50 per cent faster visualisation performance and twice the compute horsepower of previous-generation products.
+
+   ·     Larger, faster onboard GPU memory to let designers and animators work with larger models and richer scenes while maintaining smooth interactivity during design, visualisation and simulation.
+
+   ·     Exclusive NVIDIA FXAA (fast approximate anti-aliasing) and NVIDIA TXAA (temporal anti-aliasing) technologies that deliver stunning movie-style image quality and realism while maintaining a fully interactive experience compared to traditional approaches.
+
+   ·     Support for up to four displays from a single card, enabling desktop workspace expansion for higher productivity and dramatically simplified deployment of display walls and immersive display environments.
+
+   ·     NVIEW® Desktop Management Software to boost personal productivity with multi-display setups through intuitive window management, virtual desktops and application management.
+
+   "NVIDIA Quadro with Kepler architecture offers no-compromise workflow acceleration for customers with exacting computing and graphics demands," said Sandeep Gupta, senior director of the Professional Solutions Group at NVIDIA. "Kepler offers a future-safe GPU solution, whether professionals are integrating more realism and physics into their manufacturing designs or dealing with the complex demands of 4K workflows in broadcast and film."
+
+  Scale-up Computation Using Second Generation NVIDIA Maximus™ Platform
+   The new Quadro products can be paired with the NVIDIA Tesla® K20 GPU to expand the range of configurations available with the NVIDIA Maximus platform, giving professionals the ability to match the solution to their workflow. Designers and engineers can perform simultaneous computer-aided engineering, rendering or structural / fluid analysis on the same system they are using for design work. And content-creation professionals can perform faster video editing, effects and animation.
+
+  Scale-up Resolution Using NVIDIA Mosaic Technology
+   The new display engine in the NVIDIA Kepler GPU drives up to four displays simultaneously.
+
+   Users can interact with the displays independently or, with NVIDIA Mosaic technology, combine up to 16 displays as a single large display so any application can easily scale to higher resolutions.
+
+  Availability and Pricing
+   Available now, the new NVIDIA Quadro products have estimated UK retail pricing as follows: Quadro K4000, £829; Quadro K2000 and Quadro K2000D, £389; Quadro K600, £149; Quadro K5000, £1,559 and Quadro K5000 for MAC, £1,559. (All prices are RRP and exclude VAT).
+
+  Certifications and Support
+   More than 150 leading software vendors certify and support Quadro-powered workstations, which have earned the reputation as the industry's most recommended and best tuned professional graphics solutions.
+
+   The world's leading workstation original equipment manufacturers – including HP, Dell, Lenovo and Fujitsu, plus systems integrators such as BOXX Technologies and Supermicro – will offer new Quadro-powered workstations.
+
+ 

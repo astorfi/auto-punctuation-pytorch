@@ -1,0 +1,8 @@
+
+ The Apple TV has received two new abilities in its second week of availability thanks to a couple of new hacks: one, a fully functional and integrated RSS reader, and two, video game emulation for NES, SNES, N64, and Sega Genesis game consoles. The RSS reader comes courtesy of the bloggers over at twenty08, who've managed to put together a plugin that adds an option to read RSS1.x/2.x feeds right alongside your Media and Photos. (Might we be so bold to suggest a few feeds?). The video game emulation isn't quite as clear cut, with a Wiki over at AwkwardTV saying that several popular emulators from Richard Bannister work on the Apple TV OS with the addition of SSH. Fortunately, we don't have to take the editors of the Wiki's word for it, because there's also a link to a YouTube video which shows an Apple TV playing a NES emulator with an attached N64 controller. We've embedded the video after the break, so take a look. Finally, a look at what could be next for the totally ok to hack, as long as you watch the warranty Apple TV: a $1000 bounty for a hack that enables external drive support through the USB port. Will it be enough of a motivation for all the hackers out there?Read - Apple TV RSS hackRead - Apple TV game emulationRead - $1000 bounty offered for USB drive hack
+      
+
+ 
+
+
+ 

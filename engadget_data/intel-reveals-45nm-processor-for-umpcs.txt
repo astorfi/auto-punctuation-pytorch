@@ -1,0 +1,5 @@
+
+ The future of the UMPC is quite the group effort, with Microsoft spearheading the OS, hardware manufacturers experimenting with daring designs and lackluster sales, and of course chip types like Intel trying to get every last ounce of performance per watt out of their silicon. To that end, Intel has just announced its sixth 45nm chip, which is apparently "extremely low-power," and aimed squarely at those teensy UMPC batteries. Ars Technica conjectures the chip is the long-rumored "Perryville" processor, a single-core version of Penryn with 2MB of L2 cache, but right now we don't even know if the new chip is single or dual-core, just that it should be appearing in "UltraMobile" devices in the "latter part of the year."
+      
+
+ 

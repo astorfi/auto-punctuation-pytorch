@@ -1,0 +1,7 @@
+
+As Bitcoins have become more valuable, they've also become much harder to accumulate using the mathematical process known as "mining." This air of futility hasn't fazed ASRock, however, as the company has revealed two new motherboards that promise to help DIY-ers to "join the gold rush now!" The H61 Pro BTC and H81 Pro BTC are both Intel socket boards, with the latter being Haswell compatible, and their main party trick is to carry extra PCIe slots and power connectors so you can exploit the compute power of up to six graphics cards simultaneously.
+
+
+What ASRock doesn't specify, however, is how much profit one of its fully-loaded mining motherboards might deliver. So, although we're quite deliberately not experts at this stuff (aside from a bit of armchair interest), we plugged some numbers into the Bitcoin Profitability Calculator, based on six Radeon HD 7990 cards running in parallel, and discovered that this monster of a system might never actually break even, due to its ridiculously high energy costs. This could well explain why all the big boys use dedicated ASIC boards for mining these days, instead of consumer-grade hardware.
+
+

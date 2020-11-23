@@ -1,0 +1,24 @@
+
+ 
+ A $2,300 3D printer isn't really anything special anymore. We've seen them as cheap as $350 in fact. But all those affordable units are of the extrusion variety -- meaning they lay out molten plastic in layers. The FORM 1 opts for a method called stereolithography that blasts liquid plastic with a laser, causing the resin to cure. This is one of the most accurate methods of additive manufacturing, but also one of the most expensive thanks to the need for high-end optics, with units typically costing tens-of-thousands of dollars. A group of recent grads from the MIT Media Lab have managed to replicate the process for a fraction of the cost and founded a company called Formlabs to deliver their innovations to the public. Like many other startups, the group turned to Kickstarter to get off the ground and easily passed its $100,000 within its first day. As of this writing over $250,000 had been pledged and the first 25 printers have already been claimed.
+
+ The FORM 1 is capable of creating objects with layers as thin as 25 microns -- that's 75 percent thinner than even the new Replicator 2. The company didn't scrimp on design and polish to meet its affordability goals either. The base is a stylish brushed metal with the small build platform protected by an orange plastic shell. There's even a companion software tool for simple model creation. You can still get one, though the price of entry is now $2,500, at the Kickstarter page. Or you can simply get a sneak peek in the gallery and video below.
+
+
+
+
+
+    Show full PR text   Formlabs announces the Form 1: the first truly high-resolution, low-cost 3D printer for design professionals
+   For Immediate Release
+
+   Cambridge, MA, September 26, 2012 -- After a year in development, Formlabs has officially unveiled the first "prosumer" desktop 3D printer. The Form 1 achieves professional quality resolution at a price individual designers and engineers can afford. This revolutionary technology fills the gap between low-end hobbyist machines with limited resolution and high-end printers that cost tens of thousands of dollars.
+
+   The company's founders - Maxim Lobovsky, David Cranor, and Natan Linder - met as graduate students at MIT in 2009. As researchers, they were inspired by the promise of 3D printing technology but frustrated by the price tag and complexity of truly high-quality machines. Currently, around 30,000 professional 3D printers are installed around the world, while around 10 million people actively use 3D CAD software. In 2011, the three founders decided to target that disparity by starting Formlabs, a company whose purpose is to design a simple, professional, end-to-end 3D printing package that individuals can afford. Formlabs has received initial seed investments from the likes of Mitch Kapor, Joi Ito, and Eric Schmidt's Innovation Endeavors.
+
+   The Form 1 uses stereolithography (SL) technology to achieve resolution unheard of in the low-cost 3D printer market. The printer forms layers as thin as 25 microns (.001 inches) with details as small as 300 microns (.012 inches) in a build volume of 125 x 125 x 165mm (4.9 x 4.9 x 6.5 inches). No longer limited to low-end FDM machines, users can now print parts with the complex geometries, exquisite details, and beautiful surface finish necessary for professional quality design and digital fabrication. The easy-to-use Form software (compatible with any 3D CAD package), custom-formulated printing materials, and Form Finish post-processing kit complement the beautifully simple printer to make desktop 3D printing as easy as pushing a button.
+
+   Formlabs is turning to the crowdfunding platform Kickstarter to finance full production. The Form 1 has been designed from the ground up to enhance the creativity of individuals, so it is only appropriate that early adopters are the key to launching this revolutionary product. Formlabs is pre-selling the full printer, software, and accessories package at a discount on Kickstarter for as little as $2,299 for those who order first.
+
+   See www.formlabs.com for more information. Send inquiries to labs@formlabs.com
+
+ 

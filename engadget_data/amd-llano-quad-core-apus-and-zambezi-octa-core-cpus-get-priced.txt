@@ -1,0 +1,11 @@
+
+ 
+
+Don't mistake the relative quietness from AMD on the APU front for inactivity. Ever since announcing the first shipment of its Llano Accelerated Processing Unit in April, the company's been working behind the scenes to ramp up availability to OEMs, and somewhere along the supply chain a gracious soul has been found who's leaked the bulk pricing for those chips. The new quad-core A Series processors start off at $110 for an A6-3450 and max out at $170 for an A8-3550P, but there's also mention of octa-core FX processors, which will weigh in at $320 a piece and reputedly compete with Intel's 3.4GHz Core i7-2600K. The latter are built around AMD's Bulldozer modules (wherein one module counts for two cores) and look to be the manifestation of the company's Zambezi CPUs, which could come without an integrated graphics processor as is available on the Llano and the rest of AMD's Fusion line.
+
+Just to whet appetites further, we've also come across an HP dv6 on an obscure German retail site, offering a 1.6GHz A6-3410MX APU, 6GB of RAM, and a most reasonable €590 price. There's obviously no promised delivery date, but this should be the first of many such appearances in the coming days as we build up towards Computex 2011. Something tells us AMD won't be holding back when the Taipei electronics show gets started.
+
+[Thanks, Shashwat and Vygantas]
+      
+
+ 

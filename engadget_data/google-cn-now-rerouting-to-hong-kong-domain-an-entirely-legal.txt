@@ -1,0 +1,13 @@
+
+ 
+It's not quite the ceasing of operations that the local papers were reporting last week, but Google has announced today what it's calling an "entirely legal" way of giving mainland China unfiltered search results. The Google.cn domain now redirects to its Hong Kong servers via Google.com.hk, providing uncensored access in traditional and simplified Chinese. Needless to say, any mainland Google China servers have thus been given an early retirement. "We very much hope that the Chinese government respects our decision, though we are well aware that it could at any time block access to our services," writes David Drummond, SVP of Corporate Development and Chief Legal Officer, on the official Google Blog, while also noting to expect some slowdown while the HK servers deal with an expanded load of users. As for its men and women on the ground, Google reiterates that these decisions were driven by executives in the U.S. "and that none of [its] employees in China can, or should, be held responsible for them." R&D work will continue on the mainland, and a sales presence will remain. The company has created a "China service availability" page, promised to be updated daily, for seeing what parts of Google's business are being blocked by the country at any given time -- as of today, that includes Youtube, Google Sites, Blogger, and partial blocks of Docs, Picasa, and Groups. We're very curious to see how the page'll look in tomorrow's update.
+
+Update: China has given its own response, in English, saying that Google has "violated its written promise." An official for the State Council Information Office goes on to say, "
+This is totally wrong. We're uncompromisingly opposed to the politicization of commercial issues, and express our discontent and indignation to Google for its unreasonable accusations and conducts." More details via Xinhuanet.
+
+Update 2: The White House has chimed in. "We are disappointed that Google and the Chinese government were unable to reach an agreement that would allow Google to continue operating its search services in China on its Google.cn website," said National Security Council spokesman Mike Hammer. More via Yahoo! News.
+
+Update 3: The New York Times sat down, briefly, with Google co-founder Sergey Brin for a few elaborations on today's events. For starters, Brin noted that the new policy was entirely Google's idea, and the US government was not involved in any way. He also silenced whispers that Google would be releasing software for bypassing censorship.
+"I think those tools are going to come of their own accord. I don't think we have to do anything," he said.  
+
+ 

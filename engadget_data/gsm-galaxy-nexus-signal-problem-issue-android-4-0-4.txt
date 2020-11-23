@@ -1,0 +1,5 @@
+
+  Sometimes, updates aren't as sweet as they initially sound. Such is the case with Android 4.0.4, which recently rolled out to owners of the GSM Galaxy Nexus. According to an increasingly vocal swath of members at xda-developers (and confirmed by a listing on Google's own Support page), there are mysterious signal issues now troubling the device. For many users, there's an inexplicable loss of signal -- a complete inability to make or receive calls and text messages -- after applying the v4.0.4 update, though it's beginning to look like Sleep is the issue. For some, preventing the phone from going to into a deep sleep mode has solved the dilemma, but it has also created a life where a nearby AC outlet is more of a necessity than usual. Hit up the source link to submit a bug report if you're experiencing precisely this, and let us know of any potential fixes down in comments below.
+      
+
+ 

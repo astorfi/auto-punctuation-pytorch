@@ -1,0 +1,6 @@
+
+ 
+It's not a direct response to AMD unveiling the HD Radeon 4850 X2 and 4870 X2 yesterday, but NVIDIA also came to play at SIGGRAPH, and it's got lots of new GPU-as-CPU toys for us this morning -- and what's more, they're free. Like we'd been hearing, GeForce 8, 9, and 200-series cards are all getting PhysX support as of today via a free GeForce Power Pack that contains a free full copy of Warmonger, three PhysX-enabled Unreal Tournament 3 maps, demos of Metal Knight Zero and the Nurien UT3-based social networking service, and a couple tech demos. The Power Pack also includes some new CUDA apps to play with, including a new Folding@Home client (ahem) and a trial version of the Badaboom video transcoder. That's a lot of new toys, so get downloading and let us know what you think!Read - PhysX GeForce Power Pack appsRead - CUDA GeForce Power Pack apps
+      
+
+ 

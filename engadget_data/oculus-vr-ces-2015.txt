@@ -1,0 +1,32 @@
+
+"As always, the consumer Rift is in progress and we're making great progress," says Oculus VR Product VP Nate Mitchell. He told me that this week, but you could really pull versions of that response from any of the half dozen interviews we've done with Oculus VR in the past few years. It's the elephant in the room that Oculus brings with it from trade show to trade show: When is this thing going to be a consumer product? There's still no answer in January 2015, as of this year's CES. Will there be an answer in 2015? Maybe! Your guess is as good as ours, but Mitchell offered us something slightly more optimistic:
+
+"We're on an awesome path to consumer VR and I do think that 2015 for better, for worse is gonna be a really big year for VR. Even at CES, we're already seeing it. 2015 is gonna be a big year for VR, whether it's from Oculus or otherwise, and we're excited to be a part of it."
+
+
+
+So, uh, what? That's not exactly an answer. I expect that at this point when speaking with Oculus reps, from Nate Mitchell to founder Palmer Luckey to CEO Brendan Iribe to CTO John Carmack. When they're ready to announce the consumer version of Oculus Rift, they'll do it.
+
+That said, this summer marks three years since Oculus formed as a company, and, as much as we dig the latest prototype (Crescent Bay), we'd much prefer a home version. So, first, some good news: There are some pieces of the latest hardware that are pretty close to final. For one, the screen on Crescent Bay is "good enough for the [first version] of the Rift," according to Mitchell. Here's his full statement, qualifiers and all:
+
+"I, personally, think that that resolution is high enough to be a consumer product for the beginning of the Oculus Rift. And, one thing we've said often, is anytime we show a feature prototype, it's gonna be that good if not better. For me, I do think that's good enough for the V1 of the Rift."
+
+Amazingly, the screen in Crescent Bay is actually less high-res than what's currently offered with Gear VR -- the VR headset that Oculus collaborated with Samsung on, powered by the Note 4 (and its gorgeous Quad HD screen). And you can tell; I could tell, anyway, and I'm no videophile. What's in Crescent Bay isn't the same Note 3 screen that an older Oculus Rift dev kit used, but a "custom" screen. "Those are custom screens. They are not Note 3 screens," Mitchell said. "But we can't go into it more than that." Rest assured, those customs screens are made by Samsung, regardless of what Oculus is admitting.
+
+Beyond the screen, there are some functions that Mitchell says are critical to consumer VR. Most importantly -- beyond a passthrough camera so that users don't have to remove the headset to interact with actual reality -- is custom input. Think: control. As anyone who's used VR can attest, the next step after buying into the medium is wanting proper interaction. You want to reach out and grab the world. To feel it, to interact with it -- that's actual immersion.
+
+In this respect, VR is nowhere.
+
+
+"Input is still one of the critical missing pieces, and we don't have that much to announce today. But what I can say is it's something that we are super dedicated to tackling," Mitchell says. How dedicated? Oculus VR straight up bought two companies that could help: Carbon Design (the design team behind the Xbox 360 gamepad and original Kinect) and Nimble VR (the folks bringing hands into VR).
+
+To date, we've seen zero input solutions for VR that are worth anything. Traditional gamepad/mouse and keyboard input works, but does nothing to help with immersion. Luckey echoed that sentiment during our stage interview this week. You can watch that right here if you missed it live:
+
+#fivemin-widget-blogsmith-image-945933{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-945933, #postcontentcontainer #fivemin-widget-blogsmith-image-945933{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-945933").style.display="none";}catch(e){}
+Beyond input, we've already experienced a taste of the other piece required for good consumer VR: an operating system that enables the acquisition and viewing of content (be it games or whatever else).
+
+That taste came in the form of Oculus Home -- the OS built into Gear VR that Mitchell says is, "designed to be portable." He doesn't mean "portable" like the mobile-powered Gear VR, but "port-able" as in "can be easily moved from one platform to another." As in, "Can be easily moved from Gear VR to Oculus Rift and anywhere else."
+
+As for the rest, there's not much else left in the way. So, is this the year that Oculus VR finally unveils a consumer version of its headset? "VR is basically here, the hardware, whether it's the comfort and presence on PC or the portability and flexibility and quality of the mobile experience," says Mitchell. So, uh, maybe? Let's hope.
+
+

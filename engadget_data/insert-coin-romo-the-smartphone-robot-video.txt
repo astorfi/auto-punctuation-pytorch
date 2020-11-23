@@ -1,0 +1,21 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+
+
+Romotive co-founder Peter Seid's tweet read "I build robots powered by smartphone" -- that was just the incentive we needed to go check out his and business partner Phu Nguyen's creation while on a recent trip to Seattle. Romo is a simple and affordable tank-like robot platform that uses basic analog electronics to trigger two motors via any device's headphone jack. The circuit is tuned to specific frequencies for each motor -- playback the right tones, and you control the hardware.
+
+With a smartphone as its brain, all of Romo's logic and behavior live in the software. Three apps will be available at launch for both iOS and Android. RomoRemote lets you control the robot from another phone over WiFi, complete with remote live view and public address. Romo Kart is a mixed-reality version of Mario Kart, including digital attacks designed to slow down your adversaries. The Drag and Drop Programming Module makes it easy to program Romo directly from your handset with instant results.
+
+
+
+During our visit with the folks at Romotive, we got a chance to try the RomoRemote app in person using a couple iPhones -- not only is Romo adorable, but it works like a charm. The best part? Peter and Phu plan to make a complete SDK and libraries available to iOS and Android developers. While there are several amounts you can pledge, $78 lets you have Romo and the three aforementioned apps sometime in February 2012. The project is already halfway to its $32,000 goal with 42 days to go.
+
+Take a look at our gallery above, then hit the break for our hands-on video and the all important Kickstarter link.
+      
+
+ Previous project update: Our last Insert Coin project, the Teagueduino solderless electronic board, is now successfully funded on Kickstarter. In fact, it's exceeded its $22,000 goal by over $54,000.
+
+       
+
+ 

@@ -1,0 +1,6 @@
+
+ Back when Microsoft released its Office 365 subscription service for home users, it said the business version would be arriving on February 27th. Sure enough, today's the 27th, and Microsoft's issued a press release explaining the pricing for Office 365 ProPlus, Midsize Business and Small Business Premium.
+
+ At the least expensive end of the spectrum is ProPlus, which includes Word, Excel, PowerPoint, OneNote, Outlook, Publisher, InfoPath, Lync and Access. Like the Home Premium version of Office 365, a user can install the software on up to five devices, though IT controls are of course more of selling point here than they are on the consumer version. That costs $144 per user for a one-year subscription. 
+ Moving on, the medium-sized-business sku costs $180 per user per year, and adds Exchange Online, SharePoint Online, Lync Online and a few IT tools. It, too, is based on the same five-device-per-user model as ProPlus. As for the small business version, you get all the basic Office apps, plus email, shared calendars, website tools and videoconferencing. Pricing there is $150 per user per year. Sorry, though, no dice on the five-device, ProPlus thing -- that's not included in the small biz version. 
+

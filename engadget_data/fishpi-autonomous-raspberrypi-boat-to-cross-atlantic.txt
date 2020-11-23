@@ -1,0 +1,5 @@
+
+ 
+ Raspberry Pi's journey to reach owners has been a lengthy one, but Greg Holloway is preparing to send his board on a longer voyage -- one across the Atlantic. Nestled inside a tupperware tub, the RaspberryPi is the brains of FishPi, an autonomous vessel -- guided by GPS and a compass -- that measures 20 inches from bow to stern. Currently in proof-of-concept form, the craft uses a 40 mm rotating propeller and draws juice from batteries powered by a 130 watt solar panel. Producing kits for students, enthusiasts and professionals is the goal of the project, but testing and development are still on the docket. While the Linux-laden launch isn't ready for the high seas quite yet, you can sail to the source for the technical breakdown or check it out at the Nottingham Hackspace Raspberry Jam next month.
+
+

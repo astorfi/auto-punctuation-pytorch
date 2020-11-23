@@ -1,0 +1,12 @@
+
+ 
+We thought OCZ's Vertex 3 Pro was some flaming hot stuff, but solid state storage reviewers have mind-boggling news -- the plain ol' Vertex 3 will bring the same completely ludicrous 550MB / sec read speeds (plus even faster 525MB / sec writes) at a down-to-earth price. Previews found the Vertex 3's new SandForce SF-2281 controller and Micron 25nm flash memory chips edged out even its own enterprise-grade cousin in nearly every test -- with a few anomalies here and there -- and were reportedly too fast to achieve full performance with any SATA 6Gbps controller save the one in Intel's new Cougar Point chipset. Best of all, they claim that OCZ's targeting a price of just $250 for the 120GB version, or $500 for the 240GB drive benched here. That's still a chunk of change, but considering current-gen 120GB SSDs still cost over $200 street, it sounds like OCZ and SandForce are setting a bar that will drive down prices across the board. We can't wait.
+
+Read - AnandTech 
+Read - Hot Hardware
+Read - Legit Reviews
+Read - PC Perspective
+Read - Storage Review
+      
+
+ 

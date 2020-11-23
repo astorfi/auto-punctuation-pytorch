@@ -1,0 +1,10 @@
+
+The Intercept has released a new document from Edward Snowden's cache of government files describing how the NSA has been converting voice calls to searchable text documents for nearly a decade. The NSA has long monitored signals intelligence (SIGNIT) around the world (as is its primary function), especially in active combat zones like Afghanistan and Iraq as well as in Latin America. Traditionally, this sort of data gathering required that a live operator listen in on calls and translate them in real-time. However, the NSA has reportedly developed what it calls "Google for Voice"; an automated system that provides a rough but keyword searchable transcription. According to the documents, the NSA has also developed analytical programs and sophisticated algorithms to flag conversations for human review.
+
+
+
+What's more, these do so on an automated and industrial scale, allowing the NSA to monitor larger amounts of the total SIGNIT traffic within a given region. Granted, these transcriptions aren't perfect -- they're pretty rough in fact -- but as NSA whistleblower Thomas Drake explained to The Intercept, "But even if it's not 100 percent, I can still get a lot more information. It's far more accessible. I can search against it. The breakthrough was being able to do it on a vast scale."
+
+[Image Credit: Getty]
+
+

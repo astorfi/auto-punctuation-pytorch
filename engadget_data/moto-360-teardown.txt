@@ -1,0 +1,14 @@
+
+
+Motorola has been willing to offer a quick peek at the Moto 360's inner workings, but let's face it: that doesn't really go deep enough to sate your curiosity, does it? You don't have to worry, though, as iFixit has torn apart the circular smartwatch to examine every last detail. In the end, the hardware is an odd mix of the latest technology with surprisingly old components. While that round LCD and inductive charger are pretty forward-thinking, the teardown also confirms the presence of TI's OMAP3630 processor -- a chip that hasn't been cutting edge since that Droid 2 you rocked back in 2010.
+
+
+
+          
+ 
+ 
+ There's also a bit of a rude surprise in iFixit's unit. The DIY repair shop spotted a 300mAh battery, which is decidedly smaller than the officially claimed 320mAh. What gives? Motorola tells Computerworld that 320mAh is only the "typical" figure, and that 300mAh is the "minimum" you'll get. That's bound to rub a lot of would-be owners the wrong way, although the company says it's thinking of showing both the minimum and typical figures in the future. However you feel about that discrepancy, you probably won't want to double-check yourself given the tricky disassembly process; this teardown will likely be the closest you get to seeing what's under the hood.
+
+       
+
+ 

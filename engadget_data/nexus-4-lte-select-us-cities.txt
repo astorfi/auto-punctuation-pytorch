@@ -1,0 +1,4 @@
+
+ You might not need to move to Canada after all, LTE-seeking Nexus 4 owners. It appears that several users on the XDA Developers forums claim you can tap into LTE Band 4, which the Google phone requires for LTE, in select US markets where AT&T has AWS 1700 / 2100MHz spectrum. Those cities are Phoenix, Raleigh, San Juan, Los Angeles, Las Vegas, Oklahoma City, Dallas, Chicago, Charlotte, Athens, GA and College Station, TX. However, LTE Band 4 is not widely deployed even in those areas, so don't feel too disappointed if your Nexus 4 struggles for an LTE signal if you live nearby.
+
+

@@ -1,0 +1,16 @@
+
+For the second time this month, The New York Times has gone offline. This time around, the Syrian Electronic Army is likely to blame, with a Domain Name System (DNS) hack crippling the news org's online operation. The NYT's web servers are still online, however, so the publication has begun tweeting out direct IP links to recent articles. Meanwhile, Twitter itself may be vulnerable. Hackers have managed to modify some of the registration data, including the contact email address, suggesting an attack on the social site may be imminent.
+
+
+Update: According to a tweet from the paper's official account, it's temporarily publishing updates at news.nytco.com.
+
+
+Update 2: Twitter has confirmed the twimg.com domain used for images and photos was among those affected. According to the post, the original domain record has been restored and no user information was affected.
+
+
+
+
+If you are continuing to experience difficulty accessing http://t.co/SzEQTqHIZB, we are also publishing updates at http://t.co/XFJ9he7Yt0.
+
+- The New York Times (@nytimes) August 27, 2013Some users have reported issues viewing images on Twitter: http://t.co/J2pd2Zza8A
+- Support (@Support) August 27, 2013

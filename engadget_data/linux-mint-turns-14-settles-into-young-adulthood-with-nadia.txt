@@ -1,0 +1,4 @@
+
+ Not everyone is super happy with Canonical and the direction it has taken Ubuntu in. Sure, its popularity continues growing, but so does that of an upstart distro called Mint. In addition to swapping purples for greens, Linux Mint ditches the controversial Unity in favor of MATE and Cinnamon, its two GNOME-based desktop environments. With the move to version 14, code named Nadia, the codebase of Mint has caught up to Quantal and its accompanying desktops have received some minor improvements. The MDM display manager has also been updated, with support for user photos and themes added. The most welcome change is certainly to the package manager, which finally runs as root -- meaning users no longer have to enter their password for every piece of software they install. To download and try out Linux Mint 14 for yourself hit up the source link.
+
+

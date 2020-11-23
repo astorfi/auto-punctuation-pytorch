@@ -1,0 +1,11 @@
+
+  
+
+While the news of Apple's iPad having 3G wasn't exactly a surprise, the move to a new format for the SIM certainly was. The SIM -- that tiny card that holds your contact info and account information that you find in your GSM handset -- is a 15 x 25mm plastic card whereas the new Micro SIM (also known as a 3FF SIM) is a diminutive 12 x 15mm, about 52% smaller. Needless to say, it's not physically compatible with your current phone. This card was developed by the ETSI (European Telecommunications Standards Institute) to offer things like more storage space on-chip for provider applications, increased control and security functions -- over what, we don't know -- and the new smaller form factor allows it to fit in tiny devices. Frankly, we wouldn't call the iPad "tiny" and we have absolutely no clue what justification Apple had to switch to it other than a desire to be different -- this is the company that pioneered Mini DisplayPort, after all -- but the long and the short of it is that you're going to have a hard time finding a carrier offering Micro SIMs in the short term since the GSMA doesn't appear to be actively spearheading a mass conversion. In fact, from AT&T's perspective, this is better than a software lock in some ways -- you're not going to be able to download a hack that gets you on another network, so you're totally at the mercy of your carrier at choice for providing a compatible card. Intentionally evil? Perhaps not -- all standards have to start somewhere -- but it's an awful pain in the ass.
+
+Update: T-Mobile (in a partnership with Lok8u GPS devices) announced they were bringing the 3FF SIM to US shores back on January 6th of this year. See the source link for more info. 
+
+[Thanks, Brian]
+      
+
+ 

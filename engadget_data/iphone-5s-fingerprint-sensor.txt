@@ -1,0 +1,15 @@
+
+Apple's brand-new iPhone 5s isn't dramatically different from last year's model, but it has at least one major addition: a "Touch ID" sensor. Us human beings are calling it a fingerprint sensor, and it's built into the phone's main Home button below the screen. Apple's Phil Schiller says, "It reads your fingerprint at an entirely new level" -- it's 170 microns in thickness with 500 ppi resolution. According to Cupertino, it "scans sub-epidermal skin layers," and can read 360 degrees. As expected, the sensor is actually part of the Home button, making it less of a button and more of a...well, sensor. Using Touch ID, users can authorize purchases in iTunes, the App Store, or in iBooks by simply using their thumbprint (starting in iOS 7, of course). Pretty neat / scary!
+
+
+As rumored, the sensor uses a laser cut sapphire crystal cover; it retains a tactile input for those wary of the sensor wearing down after lengthy use. The sapphire crystal, acting as a lens, takes a highly detailed image of your fingerprint, which Apple says is "never stored on Apple servers or backed up to iCloud." According to Apple's official PR on the new phone, Touch ID's fingerprint info is "encrypted and stored securely in the Secure Enclave inside the A7 chip" (the A7 chip is the new processor at the heart of the 5s). Apple hasn't made clear whether Touch ID allows for multiple users on a single iPhone or not, nor has the company said whether you could turn off fingerprint authentication (though we have to presume the answer is yes given previous authentication standards on the iPhone).
+
+
+The fingerprint ID technology was long rumored as heading to 2013's iPhone following Apple's acquisition of Authentec last summer. A render of the iPhone 5s outed the new functionality's name just this week. We'll have more on Touch ID in our upcoming hands-on live from Cupertino, and you can find all our Apple event coverage from today right here.
+
+
+Update: Here's Apple's take on its Touch ID sensor -- video right after the break.
+
+
+
+

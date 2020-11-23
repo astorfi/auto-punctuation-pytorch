@@ -1,0 +1,8 @@
+
+ 
+In 2009, Chris Paget showed the world the vulnerabilities of RFID by downloading the contents of US passports from the safety of his automobile. This year, he's doing the same for mobile phones. Demonstrating at DefCon 2010, the white hat hacker fooled 17 nearby GSM phones into believing his $1,500 kit (including a laptop and two RF antennas) was a legitimate cell phone base station, and proceeded to intercept and record audience calls. "As far as your cell phones are concerned, I'm now indistinguishable from AT&T," he told the crowd. The purpose of the demonstration was highlight a major flaw in the 2G GSM system, which directs phones to connect to the tower with the strongest signal regardless of origin -- in this case, Paget's phony tower. 
+
+The hacker did caveat that his system could only intercept outbound calls, and that caller ID could tip off the owner of a handset to what's what, but he says professional IMSI catchers used by law enforcement don't suffer from such flaws and amateur parity would only be a matter of time. "GSM is broken," Paget said, "The primary solution is to turn it off altogether." That's a tall order for a world still very dependent on the technology for mobile connectivity, but we suppose AT&T and T-Mobile could show the way. Then again, we imagine much of that same world is still using WEP and WPA1 to "secure" their WiFi.
+      
+
+ 

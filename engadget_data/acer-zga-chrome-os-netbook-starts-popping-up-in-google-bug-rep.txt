@@ -1,0 +1,9 @@
+
+ 
+
+Some more interesting stuff on the Chrome OS hardware front has started to pop up courtesy of Google's own Chromium OS bug reports. Multiple references have been made to a mysterious Acer ZGA machine, which we have on good authority is also referred to generically as Google's "dogfood device" in bug reports -- dogfood referring to the practice of using your own products before you unleash them on the world. Even more interesting, someone actually managed to post a syslog of the machine, which is running an Atom N455 processor, has a 8GB SanDisk pSSD-S2 drive, sports a webcam, 802.11n WiFi, Bluetooth, an ambient light sensor (for screen dimming, or possibly a backlit keyboard), and a Synaptics touchpad. Synaptics makes all sorts of touchpads, but is best known for its higher-end innovations, such as the MacBook-style clickpads found in the HP Envy series. Of course, all of these specs could change, or this machine could be merely in as a test bed for Chrome OS, and not planned for market -- like Microsoft is using its ASUS prototype with Windows Phone 7 -- but a July 26th mention of a "PVT run" (Product Verification Test) could point to this machine being almost ready for actual production.
+
+[Thanks, Mark P]
+      
+
+ 

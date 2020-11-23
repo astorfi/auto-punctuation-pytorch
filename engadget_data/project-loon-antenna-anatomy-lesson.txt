@@ -1,0 +1,8 @@
+
+Google has done an admirable job of demystifying Project Loon (that ambitious broadband-via-atmospheric-balloon initiative), but its latest video takes it a step further: tearing apart one of its blimp-tracking antennas and explaining how it works. Every unit houses a radio, what Google is calling "radiating elements" and a disc-shaped reflector. This reflector has to be circular to boost the antenna's off-angle sensitivity, which enables the receiver to maintain an even signal with Project Loon's drifting internet-carriers. Now that the search giant has proven its concept works, it's focusing on improving performance for the next round of hardware.
+
+
+
+
+
+ 

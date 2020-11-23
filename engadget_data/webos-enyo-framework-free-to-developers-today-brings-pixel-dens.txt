@@ -1,0 +1,12 @@
+
+ 
+Development frameworks don't make for exciting gadget news, but HP's Enyo is kind of a big deal. It's the little dealie that allows new webOS apps to stretch between vastly disparate screen resolutions -- say, tablet and phone -- and still work just fine, and since it's based completely on web technologies, they can also  run in a PC browser with no formal emulator or OS install required. While dev team lead Matthew McNulty pitched the browser functionality as a debugging boon, we're starting to wonder if that's how HP could bring webOS to PCs to start -- rather than a dual-boot or a UI layer, it could simply make your favorite apps available in a web store. Sound like fun? HP says you can download the basic package right now for free if you're a member of the webOS developer early access program, and start cracking on some apps of your very own. We'll have video of an Enyo-powered app on PC in just a tad, so keep your eyes glued to this post.
+
+Update: Video after the break!
+
+
+
+
+
+
+ 

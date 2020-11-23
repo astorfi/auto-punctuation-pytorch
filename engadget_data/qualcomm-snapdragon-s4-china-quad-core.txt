@@ -1,0 +1,21 @@
+
+ Qualcomm's Snapdragon S4 chips are flying off the shelves so fast these days that the company's had to enlist other manufacturing companies just to keep up with the demand. That's not keeping the San Diego-based firm from further expanding its entry-level quad-core lineup, however, as Qualcomm just unveiled the MSM8226 and MSM8626 CPUs plus their QRD counterparts.
+
+ Each features an Adreno 305 GPU capable of 1080p video recording and playback and support for up to 13-megapixel shooters. The 28nm silicon also packs dual SIM support, multi-modal radios tuned to Chinese TD-SCDMA, CDMA and HSPA+ networks and has GPS, GLONASS and Beidou on board as well. Aside from the broad frequency coverage, the new radio promises 40 percent power savings and is 60 percent smaller than Qualcomm's older comparable wireless transceivers. Want to know more? PR awaits after the break.
+
+ Update: It looks like this quad-core SoC uses ARM's newly minted Cortex-A7 architecture (see the "more coverage" link below)
+
+
+
+  Show full PR text   Qualcomm Technologies Expands Line of Qualcomm Snapdragon S4 Processors with Quad-Core CPUs for High-Volume Smartphones
+   MSM8226, MSM8626 and Reference Design Counterparts Add Depth to Qualcomm Snapdragon S4 Roster and Incorporate New WTR2605 Multimode Radio
+
+   SAN DIEGO, Dec. 4, 2012 /PRNewswire-FirstCall/ -- Qualcomm Incorporated (NASDAQ: QCOM) today announced that its wholly-owned subsidiary, Qualcomm Technologies, Inc., is adding two chipsets to the Qualcomm Snapdragon™ S4 family of mobile processors, the MSM™8226 and MSM8626 chipsets, along with Qualcomm Reference Design versions of both. These Qualcomm Snapdragon S4 processors with quad-core CPUs will bring premium multimedia and connectivity features to high-volume 3G handsets. Featuring the powerful Adreno™ 305 GPU, 1080p capture and playback, and up to a 13 megapixel camera, the MSM8226 and MSM8626 processors are optimized to deliver visually stunning graphics and exceptionally long battery life to high-volume smartphones. Both processors will be ready for customer sampling by the second quarter of 2013 for UMTS, CDMA and TD-SCDMA.
+
+   Building on Qualcomm Technologies' previous quad-core offering, both the MSM8226 and MSM8626 processors are fabricated using the 28nm technology node and will continue to support multi-SIM capabilities with Dual SIM, Dual Standby; and Dual SIM, Dual Active. In addition to quad-core CPU processing power, these chipsets incorporate the new WTR2605 multi-mode radio transceiver, optimized to address China specific requirements such as support for TD-SCDMA, CDMA 1xAdv and HSPA+. The WTR2605 transceiver comes with an integrated, high-performance GPS core with GLONASS and Beidou support. Optimized for low power consumption, the WTR2605 transceiver offers 40 percent power savings and 60 percent smaller footprint compared to previous generations.
+
+   "The expansion of our Qualcomm Snapdragon S4 family extends our leadership in performance and low power for the high-volume smartphones," said Cristiano Amon, executive vice president and co-president of mobile and computing products, Qualcomm Technologies. "This expanded roadmap provides our customers with a differentiated feature set upon which to build compelling smartphones for budget-conscious consumers."
+
+   Qualcomm Technologies will also be releasing Qualcomm Reference Design (QRD) versions of both MSM8226 and MSM8626 processors. The QRD program provides device manufacturers with comprehensive handset development resources and access to an ecosystem of hardware and software vendors, whose components and applications have been tested and validated for QRD-based devices. QRD customers are offered everything they need to rapidly deliver differentiated smartphones to the mass market. There have been more than 100 public QRD-based product launches to date in collaboration with more than 40 OEMs, and there are currently more than 100 designs in progress. The QRD versions of these particular Qualcomm Snapdragon processors-the QRD8226 and QRD8626-will also be available for sampling by the second quarter of 2013.
+
+ 

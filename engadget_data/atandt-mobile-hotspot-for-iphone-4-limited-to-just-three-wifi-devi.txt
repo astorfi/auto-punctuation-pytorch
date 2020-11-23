@@ -1,0 +1,10 @@
+
+ 
+Say it ain't so! According to this here slide, which details a bit of insidery AT&T information about the impending release of iOS 4.3, Ma Bell's iPhone 4 will have its Personal Hotspot restricted to use with just three devices. Just about every MiFi / mobile hotspot device we've ever seen -- including Verizon's iPhone 4 -- has supported five WiFi devices, but unless AT&T pulls a 180 here, it'll be limiting its iPhone to just three connections. What's wild is that we've found AT&T to actually have superior 3G speeds when you can actually get a signal (and thus, be more conducive to tethering five devices at once), and since you'd be on a data cap anyway, it's not like AT&T risks losing millions from five P2P servers being ran over one's iPhone. Granted, it's possible that some unicorn crafted this piece of paperwork to throw us all off, but we've reached out to AT&T and are awaiting comment. You know, just in case.
+
+Update: Based on Apple's iOS 4.3 page, only three WiFi devices are supported through the Personal Hotspot connection. If you'd like to tether five total devices, the other two will need to be over Bluetooth / USB. Don't go blaming AT&T here -- we're guessing Verizon's model will be set up the same way. Thanks, Christian!
+
+[Thanks, Anonymous]
+      
+
+ 

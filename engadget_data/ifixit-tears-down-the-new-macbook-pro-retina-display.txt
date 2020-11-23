@@ -1,0 +1,5 @@
+
+ 
+ We've already seen them go to town on the body of the MacBook Pro with Retina display, but the staffers at iFixit have seen fit to disassemble the 2880 x 1800 panel at the heart of the new beast. As they've since found out, it takes no less than a rethink of LCD construction to make that kind of resolution work in a laptop screen that's thinner than its ancestor. The unibody aluminum casing acts as the frame for the display, and the LCD becomes its own front glass; even the wireless antennas are threaded through the hinges to eke out that last drop of space. Combined, Apple's part layouts do make repair near-impossible -- the teardown gurus at iFixit ended up cracking the glass despite their knowledge. The team is nonetheless a little more forgiving on the lack of repairability here than with the computer underneath, noting that something had to give for Apple to have its high-resolution cake and eat it too. That just won't be much of a consolation if your MacBook Pro faceplants and requires a whole LCD swap.
+
+

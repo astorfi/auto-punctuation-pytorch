@@ -1,0 +1,13 @@
+
+While Google prepares to move its driverless car tests from modified hatchbacks and SUVs to the custom prototype shown above, questions keep popping up about any accidents they've been in (even though the car itself has not been at fault). Earlier this week Google co-founder Sergey Brin stook questions about those accidents, and today the company issued the first of a series of monthly breakdowns on its autonomous driving tests. USA Today says the reports will include info about any incidents, as well as other anecdotes and examples of how the cars handle every day traffic situations. Of course, if Google wanted to hide any information about its progress then it has found the perfect way -- it turns out that reading about a car getting rear-ended at stop lights incredibly boring, even if it's a self-driving car that was hit.
+
+
+
+
+Getting rear-ended is the most common accident the project has encountered on its 1,011,338 miles driven in autonomous mode. Just last month a Lexus was hit that way:
+
+May: ​A Google Lexus model AV was travelling southbound on Shoreline Boulevard in Mountain View in autonomous mode and was stopped behind traffic at a red light at the intersection of Shoreline Boulevard and El Camino Real. A vehicle approaching from behind collided with the rear bumper and sensor of the Google AV. The approximate speed of the other vehicle at the time of impact was 1 MPH. There were no injuries reported at the scene by either party. The Google AV sustained minor damage to its rear sensor and bumper. There was no visible damage to the other vehicle
+
+See? It's mostly like that. You can read through the PDF for other similar descriptions, plus exciting notes of cars recognizing and avoiding bicycles, but we're thinking DARPA's robot competition might be the more exciting AI example for today.
+
+

@@ -1,0 +1,9 @@
+
+ 
+We all knew this would inevitably happen, but seeing it in action is something else -- the Kinect transformed by the power of open-source drivers into a true 3D video camera for capturing oneself. UC Davis visualization researcher Oliver Kreylos fed the streams from his peripheral's infrared and color cameras into a custom program that interpolated and reconstructed the result, generating a mildly mindblowing 3D virtual reality environment he can manipulate at will. And if it makes him look a little bit like the proficiently penciled protagonists in Take On Me, that's just the cherry on top. Don't miss the videos after the break to see what we're talking about.
+      
+
+ 
+
+
+ 

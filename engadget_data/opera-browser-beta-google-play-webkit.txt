@@ -1,0 +1,4 @@
+
+ Opera browser made a seismic shift when it dropped its long-in-the-tooth Presto engine in favor of WebKit, and now you can see the changes for yourself. It's up for grabs in beta on Google Play, packing the same rendering engine as its Chrome and Safari counterparts along with a handful of extra features. Those include an updated speed dial page for easier launching of favorite sites, off-road mode to conserve data, a discover tab and HTML5 support. We haven't seen it yet on iOS and there's no date for a final release, so keep in mind you'll be test-piloting the still-beta app -- check the source to grab it.
+
+

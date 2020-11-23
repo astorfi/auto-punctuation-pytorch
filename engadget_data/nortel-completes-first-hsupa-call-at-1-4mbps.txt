@@ -1,0 +1,5 @@
+
+ As HSDPA(High Speed Downlink Packet Access) refers to downstream traffic, what's its upstream data equivalent? HSDPA (HighSpeed Uplink Packet Access), of course, and Nortel's just announced that they've successfully completed the first HSUPAcall between a UMTS Base Transceiver Station and an Aeroflex TM500 handset emulator, which resulted in upstream transmitspeeds of up to 1.4Mbps. The issue of latency and network interference isn't exactly solved for time-sensitive datatraffic like VoIP (which is what they tested the call on, as well as video and file transfers) when you widen the pipe,but at least we know the bandwidth is there and more than enough to do some very decent quality mobile videoconferencing, even though HSUPA rollout won't be see anywhere until 2007, according to Nortel.
+      
+
+ 

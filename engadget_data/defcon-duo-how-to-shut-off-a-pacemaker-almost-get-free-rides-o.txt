@@ -1,0 +1,5 @@
+
+       Defcon already delivered by exposing California's FasTrak toll system for the security hole that it is, but that's not nearly all that's emerging from the Las Vegas exploitation conference. For starters, a plethora of medical device security researchers have purportedly figured out a way to wirelessly control pacemakers, theoretically allowing those with the proper equipment to "induce the test mode, drain the device battery and turn off therapies." Of course, it's not (quite) as simple as just buzzing a remote and putting someone six feet under, but it's a threat worth paying attention to. In related news, a trio of MIT students who were scheduled to give a speech on how to hack CharlieCards to get free rides on Boston's T subway were stifled by a temporary restraining order that the Massachusetts Bay Transit Authority snagged just before the expo. Don't lie, you're intrigued -- hit up the links below for all the nitty-gritty.Update: MIT published the Defcon presentation in a PDF.Read - Pacemaker hackRead - Massachusetts Bay Transit Authority sues MIT hackersRead - Restraining order on said hackers
+      
+
+ 

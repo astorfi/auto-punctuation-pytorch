@@ -1,0 +1,9 @@
+
+ 
+
+Qualcomm has laid out its details of the upcoming S4 SoC, and yes, there's definitely reason for excitement with this next generation Snapdragon. First, it'll usher in a new 28nm manufacturing process alongside the company's Krait CPU and Adreno 225 GPU. The move from 45nm to 28nm promises smaller components, lower power consumption and improved thermal performance, while Krait will introduce a new pipeline architecture that promises a full 60% boost over the current Scorpion lineup with clock speeds ranging between 1.5 and 2.5GHz -- along with support for asynchronous multiprocessing and dual-channel memory. As for the GPU, the latest chip flaunts 50% greater performance over the current Adreno 220, where it also provides support for DirectX 9.3 for Windows 8, in addition to OpenGL ES 1.1 and 2.0. Should be quite the gaming experience, eh?
+
+It doesn't end there, as the S4 MSM8960 promises multi-mode world capabilities with support for all the commonly used frequencies from 700 to 2600MHz -- quite a feat, indeed. It handles Cat. 3 LTE (up to 100Mbps) and Cat. 24 HSPA+ (up to 42Mbps), along with EV-DO Rev. B, 1x Advanced and TD-SCDMA, as well as GSM, GPRS and EDGE. Oh, and there's also simultaneous support for GPS and GLONASS, along with Bluetooth, WiFi, FM radio and NFC. With samples already being sent to manufacturers, we're quite excited for what 2012 may bring.
+      
+
+ 

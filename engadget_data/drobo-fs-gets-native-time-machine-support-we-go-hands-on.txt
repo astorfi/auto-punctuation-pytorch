@@ -1,0 +1,16 @@
+
+ 
+Praise wasn't hard to find when Data Robotics finally caved and crafted a Drobo NAS drive last month, but ever since we've been itching to test one out and see how it actually fared. We've had our fair share of awful NAS experiences, particularly in mixed-platform environments, but we recently had the chance to sit down with a unit to test out the company's latest addition: Time Machine support. We asked the outfit why support for Apple's innate backup service was coming just after the product launch, and it really boils down to decisions based on fiscal calendars, accounting practices and other scenarios that interest you not. Fact is, though, the gratis update is being pushed out today through the Drobo Dashboard, and all Drobo FS users should be able to download the new build and start taking advantage right away. We stuffed our unit with four different sized SATA drives from different manufacturers, and just like the company promised, the Drobo FS took 'em all in as if they were equal. Hop on past the break for more of our setup experience. 
+
+
+
+
+
+
+Setup couldn't have possibly been easier. We installed the Drobo Dashboard (a three minute + reboot ordeal), slammed our HDDs into the device, plugged a single Ethernet cable from the Drobo FS to our WLAN router and powered 'er up. Drobo Dashboard recognized that a device was connected, and from there we were able to establish various Shares (we stuck with one main one, but adding 'em isn't tough) and enable Time Machine with a single click. We should note here, however, that once you set a size for a given Share, you'll have to reformat everything and start over if you want to adjust that larger or smaller. Moving on, we launched the Time Machine app within Snow Leopard (and Leopard, on a separate machine) and it immediately recognized our recently mounted Share and asked if we wanted to establish a backup there. Naturally, we slammed the confirmation button and sat back as 150GB here, 400GB here, and 128GB here were all transferred over from various Macs. We'd recommend making the initial transfer via a wired connection to prevent any tears from potential WiFi dropouts, but after that, AirPort updates were made in the background without us even knowing. 
+
+
+
+For those concerned about potential Time Capsule reliability, or those in need of something more scalable or more redundant, the Drobo FS is hard to overlook for Mac users. It's a pricey piece of equipment, sure, but the execution of Time Machine integration is downright flawless.
+
+       

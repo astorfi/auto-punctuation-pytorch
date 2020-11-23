@@ -1,0 +1,5 @@
+
+ While most of theprotests about the spread of RFID technology have been related toprivacy and related issues, here's a new issue to worry about: viruses. Dutch researchers implanted a virus in an RFIDchip, and then used it to demonstrate that an infected chip could potentially spread a virus to a database server asit's being scanned. In theory, this could lead to compromised data in everything from supermarket product inventoriesto terrorist watchlists, resulting in mispriced ice cream and global chaos. We anticipate that security experts willrespond quickly and install safeguards to protect databases -- except in the supermarket, where they're expected toallow tampering so that they can continue getting cheap ice cream.[Thanks to everyone who sent this in]
+      
+
+ 

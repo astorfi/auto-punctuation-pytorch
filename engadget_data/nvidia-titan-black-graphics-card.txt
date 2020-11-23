@@ -1,0 +1,7 @@
+
+That's right, a thousand dollars is just the starting price for the new Titan Black, which surpasses and replaces the original $999 GTX Titan that came out last year. Thanks to a more overclock-friendly version of NVIDIA's "Big Kepler" silicon, card vendors are offering custom-cooled versions of the Titan Black that go way beyond the 889MHz reference design, with monetary premiums to match. EVGA looks to be bringing out a 1GHz "HydroCopper" variant, for example, which will likely fetch in the region of $1,100 -- just reasonable enough, in a twisted sort of way, to make you question whether buying a base card might be selling yourself short.
+
+
+But the Titan Black is about more than just clock speeds. It adopts the gaming-focused features of the $699 GTX 780 Ti, including a full quota of 2,880 stream processors and 240 texture units, and it combines them with the 6GB of GDDR5 and double precision floating point performance that made the first Titan so good at semi-professional GPU compute tasks (just below the level of a Tesla). We haven't seen many reviews yet, aside from one saucy piece of literature that looked at four Titan Blacks side-by-side in SLI mode, but it looks like NVIDA might have finally hit on a solid product for those of us who want to mix business with pleasure.
+
+

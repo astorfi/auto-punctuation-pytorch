@@ -1,0 +1,5 @@
+
+ 2006 is the year Sprint and Verizon upgrade their already relatively new EV-DO networks from Rel. 0 to RevisionA, which will increase download speeds to 3.1Mbps (from 2.4) and upload speeds to 1.8MBps from the paltry 0.15Mbpswe've been living with until now. Of course neither network has to enable the full pipe on Rev. A, but you'll no doubtbe getting at least somewhat faster access if you grab Sierra's new AirCard 595 PC card or MC5725 PCI Express Mini Card(pictured is their old AirCard 580). And hey, if you don't have Rev. A access where you're at, the devices are backwardcompatible with Rel. 0 and 1xRTT -- it's just too bad the 595 isn't, um, forward-compatible with all those ExpressCardslots we're gonna be seeing in loads of new laptops in the next few months.[Via Phone Scoop]
+      
+
+ 

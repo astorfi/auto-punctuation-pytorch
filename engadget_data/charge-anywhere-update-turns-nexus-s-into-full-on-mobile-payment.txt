@@ -1,0 +1,5 @@
+
+ Processing mobile payments via an external dongle? That's so early 2011. Charge Anywhere has a less troublesome idea, and if you're the lucky owner of a Google Nexus S, you could soon be accepting cold, hard virtual cash via NFC. For those already familiar with the space, you'll know that this very company already has applications out for the iPhone, BlackBerry and Android devices, but all of those obviously require a credit card swiping mechanism to be connected. According to CNET, the latest version will include support for the NFC module embedded within the Nexus S, enabling it to be a full-on mobile payment terminal with no additional hardware required. Both MasterCard PayPass and Visa Blink payments could be ingested, but don't go searching for the update in the Android Market; the company's done with the new build, but it won't be let loose to the public until it's ran past larger customers first. We don't get the impression that the NFC-compatible version will run any more than the $9.99 per month, but it's obviously a wait-and-see affair for now.
+      
+
+ 

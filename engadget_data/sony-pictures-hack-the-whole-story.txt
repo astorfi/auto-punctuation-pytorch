@@ -1,0 +1,74 @@
+
+
+
+This has been a wretched year for big corporations in the US: Target, Home Depot, JPMorgan and, most recently, Sony Pictures have all had to deal with unauthorized security breaches over the past few months. As far as Sony Pictures is concerned, the problems began on November 24th, when various reports pointed to a high-profile, studio-wide cyberattack at the hands of a group calling itself "#GOP," aka the Guardians of Peace. Since then, the startling situation has turned into a colossal headache for the company. The hackers, who are believed to be from North Korea, have leaked some of its unreleased films online; revealed highly sensitive information, like passwords and executives' salaries; and gone as far as threatening employees and their families. As it stands, Sony Pictures is in a deep, downward spiral with no end in sight.
+
+
+[This piece was heavily updated on December 18th to reflect ongoing events; head to the bottom for that.]
+
+
+Of course, Sony is no stranger to being on the wrong end of a virtual onslaught. A few years ago, in 2011, the PlayStation Network suffered one of the biggest security breaches in recent memory, which is estimated to have cost the company upward of $171 million; earlier this year Sony also agreed to a $15 million settlement for a class action lawsuit from users. Roughly 77 million accounts were affected back then. But the attack on Sony Pictures appears to be more personal, whereas the PlayStation Network takedown was said to be about exposing security vulnerabilities in the service, particularly after Sony failed to act on multiple warnings from the culprits.
+
+How is it, then, that something so similar could happen again to a branch of Sony? "Unfortunately, not every company follows best practices or prioritizes security well enough," Kurt Baumgartner, principal security researcher at internet security firm Kaspersky Lab, told me. "I think it's going to require lawsuits and additional financial losses before companies start to take these types of attacks seriously."
+
+#GOP While Sony Pictures has, for the most part, chosen to stay mum since news of the breach first came to light, its attackers have been anything but shy from day one. Right as they took control of the movie studio's corporate systems, the GOP cyberattackers began leaving intimidating messages behind. "We already warned you, and this is just a beginning," read a GOP note. "We've obtained all of your internal data including your secrets and top secrets. If you don't obey us, we'll release the data shown below to the world." Sony Pictures was left "completely down, paralyzed," according to Deadline. Meanwhile, a Variety report notes Sony mentioning it was simply investigating an IT matter, but the company didn't confirm the intrusion at the time.
+
+And it didn't take long for the GOP to make its next move.
+
+The group went on to leak a number of unreleased films from the studio, including high-quality screening copies of Annie, Fury, Mr. Turner and Still Alice. What's more, someone under the moniker "Boss of GOP" began emailing media publications to make it clear that they were responsible for seeding out the torrent files of these movies. But this was only the beginning. In that same email, which we obtained a copy of, the GOP claimed that it had just "under 100 terabytes" of data belonging to Sony Pictures, and its intentions were to plaster it all over the web in due time.
+
+Baumgartner says the malware used to harm Sony Pictures, known as Destover, acts as a backdoor and is capable of wiping disk drives and any Master Boot Record disk -- in other words, it can sneak into a system, completely take over and, just like that, have access to the data saved within. "It does not target consumers," he added. "There may be other issues for customers, however, that arise out of any business being hacked and sensitive data accessed."
+
+Kaspersky Lab pointed out that a sample of the malware showed, in fact, traces of being signed by a valid digital certificate from Sony. According to the cybersecurity firm, "The stolen Sony certificates (which were also leaked by the attackers) can be used to sign other malicious samples. In turn, these can be further used in other attacks."
+
+"Because the Sony digital certificates are trusted by security solutions, this makes attacks more effective," Kaspersky Labs stated on its blog post. "We've seen attackers leverage trusted certificates in the past, as a means of bypassing whitelisting software and default-deny policies."
+
+For Sony's sake, the best thing that could happen now is for this certificate, which was apparently part of a joke between researchers, to get blacklisted immediately.
+
+North Korea A few days after the breach initially took place, sources told Re/code that Sony was worried North Korea was behind the attack. Why North Korea, though? Well, the timing coincides with the release of The Interview, an upcoming comedy about two journalists who attempt to assassinate the Supreme Leader of North Korea, Kim Jong Un. Strangely enough, back in August, The Hollywood Reporter wrote that the studio was digitally altering the film, as it looked to keep it from "igniting a tinderbox." The tweaks, which were "precipitated by clearance issues," included the deletion of a scene in which Kim's face was melted. Meanwhile, the stars of The Interview, Seth Rogen and James Franco, have put a humorous spin on the matter by releasing a number of racy pictures from the set -- in typical Rogen/Franco fashion.
+
+North Korea, for its part, denied having a role in any of this, referring to the allegations as nothing more than a "wild rumor." However, state news outlet KCNA did express that the cyberattack on Sony could be a "righteous deed" from "supporters and sympathizers" of the country. No, North Korea won't take the blame for the harmful actions on Sony Pictures, but it is very, very happy that someone did -- especially after being extremely outspoken about its opposition to the release of The Interview.
+
+"Stop the terrorist film!" the attackers wrote in a message recently posted to GitHub.
+
+ But the Guardians of Peace, whoever they may be, have also been demanding equality at the company, leading some to believe that employees could very well be involved with the attack. Another message by the group stated the following: "We want equality. Sony doesn't. It's an upward battle. Sony left their doors unlocked, and it bit them." It added, "They don't do physical security anymore. Sony doesn't lock their doors, physically, so we worked with other staff with similar interests to get in."
+
+"We see operational and malware similarities that tie it to the previous DarkSeoul campaigns on South Korea, which were run by Korean-speaking attackers," Baumgartner told me. "Those campaigns are tied further back to a years-long operation targeting military and government organizations, which suggest a North Korean actor."
+
+Meanwhile, the FBI has said there's no confirmation that North Korea was culpable for the attack. "There is no attribution to North Korea at this point," Joe Demarest, an assistant director at the bureau's cyber division, commented during a cybersecurity conference in Washington, DC.
+
+It's personal Lamentably for Sony Pictures, the situation has now taken a turn for the worse. The leak of its unreleased films and scripts, employee salaries, company passwords and other sensitive, IT-focused information, seems relatively small compared to the latest threats from the GOP. Recently, a person claiming to be the leader of the hacker group said in an email, "Many things beyond imagination will happen at many places of the world. Our agents find themselves act in necessary places." The chilling message, written in broken English, continued, "Please sign your name to object the false of the company at the email address below if you don't want to suffer damage."
+
+"If you don't, not only you but your family will be in danger."
+
+I am the head of GOP who made you worry.
+
+Removing Sony Pictures on earth is a very tiny work for our group which is a worldwide organization. And what we have done so far is only a small part of our further plan. It's your false if you if you think this crisis will be over after some time. All hope will leave you and Sony Pictures will collapse. This situation is only due to Sony Pictures. Sony Pictures is responsible for whatever the result is. Sony Pictures clings to what is good to nobody from the beginning. It's silly to expect in Sony Pictures to take off us. Sony Pictures makes only useless efforts. One beside you can be our member.
+
+Many things beyond imagination will happen at many places of the world. Our agents find themselves act in necessary places. Please sign your name to object the false of the company at the email address below if you don't want to suffer damage. If you don't, not only you but your family will be in danger.
+
+Nobody can prevent us, but the only way is to follow our demand. If you want to prevent us, make your company behave wisely.
+
+ With the help of the FBI and Mandiant, a security firm Sony recently hired, the company's trying get to the bottom of this and find the people responsible for it immediately, and to get its internal systems back to normal -- or as close to it as possible. A recent memo sent to staffers described the breach as "an unparalleled and well-planned crime," with Mandiant claiming that the organization behind the attack clearly had its mind set on destroying and releasing confidential info from the popular movie studio.
+
+It's still unclear how much the GOP's act is going to end up costing the company, but Sony Pictures can't afford to start thinking about that just yet. Case in point: As I'm writing this, a tiny sound from a notification on my computer lets me know that more of the company's data is now available, including box office projections, additional scripts and, wait for it, Brad Pitt's phone number. In addition to that, Re/code's obtained an email with a link claiming to contain another batch of internal data from Sony Pictures, namely executives' email correspondence -- and some of the exchanges between them are far from pretty.
+
+Which is to say, Sony Pictures needs to figure out a way to stop the bleeding, before it can get to healing.
+
+Sony Pictures did not answer our request for comment.
+
+Update (December 18th, 2014):Much has happened in the eight days since our original "everything you need to know" post was published. Earlier this week, the group claiming responsibility for the hack, known as the "Guardians of Peace," threatened violence against people who went to see The Interview in theaters. Here's a snippet of the full message:
+
+"The world will be full of fear. Remember the 11th of September 2001."
+
+As a result, the film's stars Seth Rogen and James Franco canceled media appearances ahead of the movie's Christmas Day release. Ultimately, five major movie theater chains said they would not show the film, citing concern for customer safety. Sony Pictures ate the cost of the film and canceled the release altogether soon after.
+
+
+The Interview also isn't headed to DVD or video-on-demand services, according to The LA Times. In a statement, Sony said it was "extremely disappointed" with the outcome, but that the safety of movie-goers and theater employees was paramount.
+
+Among the terabytes of data stolen from Sony Pictures and subsequently released are first and last names with Social Security numbers for current and former employees. The "Guardians of Peace" group claims that it won't release stolen personal information if requested. In an effort to curb the many, many Hollywood leaks that've sprung from the leaked data, Sony's lawyers contacted media outlets directly asking them to destroy whatever data they may have downloaded. It hasn't stopped the flood of media reports citing the stolen data.
+
+And yesterday, several media outlets -- including NBC and The New York Times -- reported that US officials plan to announce today (December 18th) that they have identified North Korea as the source of the cyberattack. (Wired's counterargument is worth a read too.) The White House is treating the attack as a "serious national security matter," and President Obama's National Security Council is weighing its response. We'll update this post if and when the US makes any such formal accusations; Sony still hasn't responded to request for comment.
+
+Update by Dana Wollman and Ben Gilbert.
+[Image credits: AFP/Getty Images, Associated Press]

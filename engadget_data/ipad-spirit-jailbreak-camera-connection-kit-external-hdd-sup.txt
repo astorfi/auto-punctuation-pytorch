@@ -1,0 +1,8 @@
+
+ Looks like that iPad Camera Connection Kit isn't as overpriced as we thought; not only does it have USB headset and keyboard support, but one enterprising user has hooked up an external hard drive using the dongle as well. Max Shay has an exhaustive walkthrough at his personal website, but the gist of the matter is that you'll need a jailbroken iPad, a split-USB cable to give that drive some extra juice, and a terminal of some sort (Max used his MacBook) to trick the iPad into mounting your external storage, after you use SSH to tunnel through. The result is an unwieldy wired assembly we wouldn't be caught dead with in public, but perhaps useful in a pinch -- or as the latest proof of what the iPad could do if only Apple would let it. Video after the break.
+      
+
+ 
+
+
+ 

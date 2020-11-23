@@ -1,0 +1,11 @@
+
+
+It's no secret that local law enforcement offices around the US are using a tool called Stingray to track cellphone locations without the approval of a judge. In response to a Freedom of Information Act request from MuckRock's Alex Richardson, the FBI released thousands of pages of heavily-redacted documents, emails and more concerning the project, including one titled "Cellphone Tracking for Dummies." The super secret Stingray device is provided to local authorities by the FBI, creating fake cell towers that force nearby handsets to connect to it -- even those belonging to folks other than a suspect. And as you might expect, in addition to tracking, it also reveals the identity of the phone's owner. Included in the collection is loads of correspondence between the Bureau, Boeing, the Harris Corporation and local law enforcement. Those two middle companies, by the way, are manufacturers of the tech.
+
+
+
+Many of the pages are nearly blank, but despite not offering much on the surface, those who've fought for any shred of info on the program say it's a big victory. For instance, there's the massive volume of PowerPoint slides and other materials related to training so how big the project is. These indicate that not only was the FBI training a lot of agents to use the device, but that it was also passing on its knowledge to state and local departments around the US. Rather than divulge any info on Stingray in court, the agency forces local law enforcement to drop cases that would require them to reveal how the system is used to collect evidence. What's more, the use of the cellphone-tracking tech without a warrant was already ruled unconstitutional in a few states.
+
+DV.load("https://www.documentcloud.org/documents/2068887-responsive-documents.js", {width: 600, height: 600, sidebar: false, container: "#viewer-2068887-responsive-documents"});[Image credit: Kent Nishimura/The Denver Post via Getty Images]
+
+

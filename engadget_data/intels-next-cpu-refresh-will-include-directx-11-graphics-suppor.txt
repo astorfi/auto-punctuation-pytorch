@@ -1,0 +1,5 @@
+
+ Tick, the CPU and GPU get integrated into the same 32nm die, tock, they both go down to 22nm with the latter gaining DirectX 11 support. Intel's only just unveiled its Sandy Bridge processors, but the next update to the company's desktop and laptop hardware has already gained an important detail. Mooly Eden, general manager for the PC Client Group, has disclosed the news that Ivy Bridge -- the die shrink of the Sandy Bridge microarchitecture -- will include DX 11 graphical capabilities when it arrives late in 2011. We're inclined to agree with Intel that DirectX 11 really wasn't a necessary implementation for Sandy Bridge given its humble gaming credentials, but Mooly expects a lot more applications will have harnessed the available APIs by the time we come to cross the Ivy Bridge. Let's hope it is so.
+      
+
+ 

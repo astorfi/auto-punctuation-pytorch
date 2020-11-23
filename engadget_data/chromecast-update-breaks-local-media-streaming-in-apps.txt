@@ -1,0 +1,11 @@
+
+We hope you aren't depending on your Chromecast for local media playback. If you are, the device has just become a paperweight -- temporarily, at least. Google's most recent Chromecast update disables playback from external video sources, breaking third-party apps like AllCast and Fling that use the code for local-only streaming. Developer Leon Nicholls is hopeful that functionality will return when the official Cast SDK is ready for public apps, although we wouldn't count on it. As Android Central notes, Google isn't promising local media support on the Chromecast; for now, it's focused on the cloud.
+
+
+Update: In a statement mentioned by dnengel84 in the comments and posted by The Verge, Google says that it's willing to support local content; these are "early days" for the SDK, and the feature set is likely to change. Read the full statement after the break.
+
+
+
+"We're excited to bring more content to Chromecast and would like to support all types of apps, including those for local content. It's still early days for the Google Cast SDK, which we just released in developer preview for early development and testing only. We expect that the SDK will continue to change before we launch out of developer preview, and want to provide a great experience for users and developers before making the SDK and additional apps more broadly available."
+
+

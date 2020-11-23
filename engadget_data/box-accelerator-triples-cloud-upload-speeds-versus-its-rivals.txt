@@ -1,0 +1,8 @@
+
+ Upstream speeds are frequently the bottlenecks for cloud storage: an entire company might be held back waiting for that last presentation video to go online before the big meeting. Box wants much more parity through Accelerator, a custom infrastructure that should make uploads hum. It uses Amazon's EC2 for help, but the real magic comes through a mix of Box's own network and special prioritization. Accelerator goes beyond just location to factor in the browser, OS and other criteria that could affect a data packet's journey. The company claims through outside studies that its average 7MB/s speeds make it the upload king by a wide margin, to the tune of 2.7 times its fastest worldwide rival and 3.1 times any of its American counterparts. Peak speeds are up to 10 times faster than before, if you go by the company's word. Most of the focus is on corporate customers and speeding up access near the provider's ten global access points, but Box is planning both to ramp up performance in more areas and bring Accelerator to the company's syncing platforms in the near future -- an obvious lure for would-be Dropbox customers.
+
+
+
+
+ 
+ 

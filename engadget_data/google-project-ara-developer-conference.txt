@@ -1,0 +1,7 @@
+
+Google's got plenty of moonshots brewing in its Advanced Technology and Projects (ATAP), but one of the most intriguing is its modular smartphone design, called Project Ara. Because Ara's a platform designed to lets users swap out hardware (processors, cameras, or sensors) on the phone, it presents unique opportunities for developers to build different kinds of modules and the software needed to make them all work. That's why ATAP's going to be doing three developers' conferences this year, with the first one set to happen April 15-16 at the Computer History Museum in Mountain View, California.
+
+
+Folks that want to attend, but are outside striking distance of the Bay Area need not fret, however, as there will be a live webcast and interactive Q&A sessions of the conference, too. This initial event will focus on building the modules themselves, as Google will be making an alpha version of its Module Developers' Kit available at the beginning of April. We don't know what the other two conferences will be about (though software development for Ara seems a good bet), but more info and the conference agenda can be found at projectara.com in the coming weeks.
+
+

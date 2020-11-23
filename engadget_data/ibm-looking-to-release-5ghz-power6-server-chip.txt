@@ -1,0 +1,6 @@
+
+ 
+We concur, 5GHz isn't nearly as impressive as IBM's 500GHz microprocessor, and can't hold a candle to the Blue Gene / L supercomputer, but the company is hoping to at least give the likes of AMD, Sun Microsystems, and Intel a run for their money in the oh-so-competitive server market. While it has already been confirmed that Intel's got quad-core on its mind for next year, and AMD's possibilities are wide open now that its chips are comfortably resting within Michael Dell's boxes, IBM has some stiff opposition to topple. While its current Power5+ server chip tops out before hitting the 3GHz mark, Big Blue plans on pushing the Power6 processor to 5GHz thanks to the "65-nanometer process geometry," 75Gbps buses, and voltage thresholds "as low as 0.8 volts." For those keeping track, IBM is doubling the frequency in its new chip and cutting energy requirements by making the CPU "more efficient with improvements such as computing floating point decimals in hardware instead of software." While there's no telling how much these mighty Power6 chips will dent that IT budget, the chips are currently on track for a "mid-2007" release -- but we all know how reliable these corporate giants and their claims are aren't.
+      
+
+ 

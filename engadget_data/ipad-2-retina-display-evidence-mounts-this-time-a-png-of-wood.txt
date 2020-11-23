@@ -1,0 +1,6 @@
+
+ 
+So, we heard from our source that the iPad 2 would have a "super high resolution" Retina Display, we heard from AppleInsider that the iPad 2 is getting around 4X the graphics performance of the iPad, and of course there's the fact that the iPhone 4's Retina Display offered a pretty impressively painless upgrade path for developers -- an iPad 2 with a 2048 x 1536 screen is starting to sound less and less like the crazy dream of naive fanboys. But wait, there's more! A .png has been found in the iBooks 1.2 source files, dubbed Wood Tile@2x.png. It's sized at 1536 x 800, while the old and busted Wood Tile.png in iBooks 1.1 was 768 x 400 -- that's 2X in each direction, or 4X the pixels, for anyone who's counting. Incontrovertible evidence? No, but we want to believe.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ Pretty much everything coming out of Moto these days is saddled with a tightly-locked bootloader paired with one tamper-resistant scheme or another, making custom kernels -- the lifeblood of the phone hacking community -- tricky at best, nigh impossible at worst. Of course, there was a glimmer of hope last month when the company said that it was working on a solution that'd cater to the developer community, and it looks like the Xoom might be bearing some of that fruit: the bootloader can be unlocked and relocked at will. Now, we're thinking that Moto might've loosened the reigns a bit here simply because the Xoom is running a completely bone-stock build of Android and, as Honeycomb's launch device, Google might be showing some influence behind the scenes (the Nexus One and Nexus S both have unlockable bootloaders, for instance)... but it's a good sign.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

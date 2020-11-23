@@ -1,0 +1,6 @@
+
+ 
+All's not well in hybrid solid state storage land, as owners of Seagate's Momentus XT are facing serious issues with their drives -- despite glowing initial reviews, a number of long-term users claim that the drives chirp, crash, stutter, and freeze with alarming regularity, particularly when installed in a Mac. Seagate forumgoers speculate these are symptoms of the XT's magnetic platters spinning down inappropriately, due to an overzealous power management scheme. That's the bad news -- and it sounds pretty bad -- but the good news is this: Seagate's owning up to the issues, and is actively involved in getting them fixed. So far, a pair of new firmware updates have addressed some symptoms, a third is on the way, and a Seagate engineer known only as STX_NB is proactively chatting with affected customers about possible fixes. That's what we call technical support -- take notes, tech companies.
+      
+
+ 

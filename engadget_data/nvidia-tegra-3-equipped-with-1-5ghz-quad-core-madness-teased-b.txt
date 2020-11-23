@@ -1,0 +1,6 @@
+
+ 
+How aggressive can NVIDIA get? That's the question puzzling our brainboxes right now as we gaze upon the complete version of the slide that let us know about a potential Tegra 2 3D chip over the weekend. It's not every day you hear of a 1.5GHz quad-core mobile SOC, but our discovery of corroborating evidence for the T25 module sitting alongside it makes us more willing to credit the possibility of a Blu-ray-crunching, 13,800 MIPS-capable, multicore Cortex-A9 Tegra 3. Moreover, the roadmap of production samples in Q4 of 2010 fits perfectly with NVIDIA's claim that Tegra 3 was "almost done" in September of that year. The ULP designation on this listing stands for Ultra Low Power in NVIDIA parlance, which would indicate an aggressively tuned power management system -- the only way we can envision a quad-core anything operating within a tablet. Fall 2011 is when we should know for sure.
+      
+
+ 

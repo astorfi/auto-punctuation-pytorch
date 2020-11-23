@@ -1,0 +1,96 @@
+
+As you can imagine, many, many devices pass through Engadget's proverbial review bunker. Most start their lives as nebulous market research data presented on PowerPoint slides, and gradually coalesce into something real. It's all part of the time-honored product-development process. Thanks to the popularity of crowdfunding, though, some products start life elsewhere -- as a dream, or even a hobby. The PlayJam GameStick is one of them. This $80 portable Android-based game console enters the market at a curious time. Two gaming giants are poised to launch their next-gen platforms this month, and OUYA -- that other Kickstarter Android console -- is gaining traction through wider availability in retail.
+
+
+PlayJam (the company behind GameStick) may be established in the TV-game market, but, despite not having dangerously high expectations to live up to, it's still got its work cut out. As for taking on the giants? That's never been its intention. Either way, with the gaming universe about to experience a tsunami of media attention, will GameStick be able to ride the waves of excitement, or will it find itself splashing in the ankle busters? We took to the thumbsticks to find out.
+
+
+
+
+
+HardwareGameStick is aptly named. The actual "console" part is effectively just an Android stick that we've seen before, like the MK802, Cotton Candy and many, many others. The difference? The hardware is tailored for gaming throughout, starting with the bundled controller. The result is a two-part console that's also portable -- just plug the stick part into an HDMI port on your TV, switch on the gamepad and you're away.
+
+Given the stick's small size, there's not a lot the company could have done design-wise, but the white housing looks smart enough, with the GameStick logo etched out and several small holes for cooling (and aesthetics too, we suppose). The main feature, really, is the protruding HDMI connector -- which is how it interacts with your TV. There's also an extension cable in the box, in case the stick's wide body gets in the way of anything you might already have plugged into the adjacent HDMI ports. It's a nice, flat, officially branded cable too -- a small, but welcome detail.
+
+Inside that smaller piece of hardware is an ARM Cortex-A9 CPU with Mali-400 graphics, plus 8GB of storage. If that's not enough, you can add 32 extra gigs via a microSD slot. To add games and other content, you'll mostly be using the built-in 802.11b/g/n WiFi radio. There's also Bluetooth 4.0 for communicating with the wireless controller, and a micro-USB port for power, with a reset button right next to it.
+
+
+The controller is arguably something of a Lennie to the stick-part's George: larger, but without the brains. For many, though, the controller is almost as critical as the machine's specifications, given that it's your primary interface with the console and all. If it's not comfortable to hold, you'll soon get tired of it. The first thing we need to mention is how it is. This was certainly by design, as one of the GameStick's "tricks" is that it's designed to be portable. The idea being you can sling it in a pocket to take round a friend's house. The trade-off is that this isn't the curvy, more ergonomic design of controllers we've seen offered alongside some bigger-ticket consoles.
+
+There are some small design features to try and make up for this, though. There's a soft-touch finish to the back, as the otherwise glossy surface would have caused it to pop out of your grip. The slightly recessed bottom edge, meanwhile, gives your fingers somewhere to snuggle into. We found it's comfortable enough to hold, but if you're used to the curves of the Xbox and PlayStation controllers, it might not be to your liking. Another result of that flatter design is that when you hold it, you'll likely find yourself gripping just a little more tightly than you would bigger, heartier controllers -- we experienced no cramp, but the potential is definitely there. The four main buttons feel responsive and comfortable. The shoulder buttons might feel a little plasticky, but they are responsive enough. The analog sticks also get a pass, but only just. They're not terrible, but it can sometimes feel like you're pushing much harder than the response you're getting on screen would suggest -- almost like your thumb is moving more than the stick actually is.
+
+
+The front face of the controller is where most of the action is. There are dual analog sticks; a d-pad; A, B, X and Y play buttons; plus start, back, power and home buttons. This face has that glossy finish we mentioned, which is a little too good at attracting fingerprint smudges. The analog sticks, however, feel like they're made from a slightly softer, matte-finish material.
+
+On the bottom edge of the controller, you'll find four LEDs. These are used to indicate when it's charging -- which you can do wirelessly, or through the micro-USB port to the right of the lights. Additionally, they let you know which player you're controlling should you have friends over for group gaming. The last hardware feature we need to mention is the unusual flap along the top lip, concealing a compartment between the shoulder buttons. It's no secret what that's for: When you take the controller out of the box, you'll find the HDMI stick nestled neatly inside it. As for the rear side, there's a slide-switch in the middle that pops the stick part out from its hiding place. There's also a pair of charge points, and indents that hide a reset button and Bluetooth pairing controls.
+
+User interface
+Once you've finished admiring the hardware, we imagine you're going to want to plug it in and start playing. At which point you'll meet the user interface. While the GameStick runs Android (version 4.1.2), you'd never know it unless someone told you (like we just did). That's until you get a software update, that's when that familiar green droid with the spinning "update belly" makes an appearance. After you power on the device, the default screen is the games menu -- specifically, the curated "Featured" section. Navigating these is pretty self-explanatory: Use the analog stick or d-pad with buttons A and B to select/go back. If you see a game you like, pressing the A button takes you into a purchase page with additional details, where you can view screenshots and, in most cases, watch a preview video.
+
+In terms of checking out the games, there are four tabs running along the top: Featured, Play Now, Popular and All. As the titles suggest, these are really just quick filters to help you find what you fancy that little bit faster. The "Play Now" section is just another way of saying "downloaded" -- i.e., it shows you titles you've already purchased and installed. The four basic views are OK for now while there's not a lot to browse (about 45 games at time of writing), but once you've built out your collection, you might wish you had some more detailed search filters. For the same reasons, we'd like to see an option to just view the newly added titles.
+
+
+There are three other main sections running down the side of the screen: Media, Profile and Settings. The Media page brings up two different media players. One for viewing content on the device itself (e.g., via the memory card, or USB Y-cable input); the other is ToFu, a media center app based on XBMC. These are nice additions, and ToFu in particular adds some useful functionality such as local network media streaming (DLNA, SMB shares, et cetera) -- something even the PlayStation 4 won't do. Head over to the Profile page, and you'll see you recent transactions, current account balance and so on. The Settings tab, unsurprisingly, is where you can get your WiFi set up, adjust screen calibration and see what's in your download queue.
+
+As we mentioned earlier, with only about 45 titles or so on offer, it won't be long until you've checked them all out. Also, this means the Featured, Popular and All tabs more or less show you the same stuff. Even with a small catalog, there's still something to suit most tastes, including platformers, fighting games, race simulators and more than a few mobile-style puzzlers. As of this writing, only two of those titles, Shadowgun and Smash Cops, were free; the rest cost between $2 and $5. Weirdly, some of those games are actually free or cheaper on the Play store. But, it's worth noting there are no ads in the GameStick versions, and they've also been ported to work with the controller, which should offer a better experience. All the games we played seemed to be ported well, with correct controller mapping (e.g., Start = pause), which helps make everything feel native, even if the title originated on another platform.
+
+
+While the interface is slick, we did notice the odd hiccup. The first time we booted up the GameStick, we couldn't buy anything. We had credit, but clicking the "Buy" option didn't do anything. After we restarted it, though, we had no issues purchasing games. Once you've handed over your payment details and set up a password, the process is little more than clicking "Buy" from the product page and sticking in your pass phrase. As easy as it is, we did occasionally encounter some issues. For instance, we tried to buy one game, and our purchase seemed to go through, but nothing downloaded. Here, too, a restart seemed to solve the problem.
+
+Also, after purchasing you have to manually instruct the GameStick to download the actual game. If you've bought more than one game during a spending spree, it basically means you can choose which order to download them in -- say, if you want to play one right away and save the others for later. The download process seemed a little bit slow, but this might be compounded by the fact that to see the progress bar, you have to come out of the buy screen, and into the settings menu. A slim progress bar on the purchase page would definitely be appreciated.
+
+Games
+Ultimately, we're here for the games, aren't we? More than anything else, this will be what decides GameStick's future. While the current selection is modest, we're told that there will be at least 85 games in the store by Christmas. For now, however, we tried a sample of existing titles -- all in the name of work, naturally. Below is a quick rundown of the ones that seem especially worthwhile.
+
+Shadowgun -- Free
+
+The closest thing to a flagship title here, this Gears of War-inspired shooter is one of the most graphically advanced games you'll find here. If you want the thrill of a classic third-person shooter, this is your best choice. It also shows that GameStick is capable of handling this level of graphic and gameplay intensity. Best of all: It's free.
+
+Fist of Awesome -- $3.99
+
+Have you ever wanted to punch a bear in the mouth? That's what the description asks, letting you know that this side-scrolling fighting game isn't taking itself too seriously. Already popular on the Play store and OUYA, it's destined to enjoy similar success on GameStick.
+
+Riptide GP -- $1.99
+
+Everyone's favorite hydro-jet racer has found its way onto GameStick. Along with Shadowgun, it offers the closest thing to the traditional console gaming experience you might be looking for. It looks great on the big screen, and while it's not new, it is still lots of fun.
+
+Vector -- $2.99
+
+A simple, yet addictive game in which you have to outrun an enemy in hot pursuit. Your character collects Parkour moves, which you must use to make the quickest escape possible. The graphics are simple, but it works well on the big screen.
+
+The Button Affair -- $0.99
+
+This heavily stylized game (also available on PC and Mac) is something of an homage to James Bond-era spy movies. The premise is simple: Duck, jump and dive around obstacles as you run through a series of levels. A sassy soundtrack and lots of tongue-in-cheek gags make this a fun time-kill.
+
+Catcha Catcha Aliens -- $4.99
+
+Definitely a title you'd expect to see on a mobile device, rather than a console -- but it's still a lot of fun on the big screen. Catch aliens and progress through levels. Interestingly, it's free on iOS and Android, but not here on GameStick.
+
+Momonga Pinball Adventures -- $4.99
+
+If you mixed pinball with Sonic-style action, cute forest creatures and made it 3D, you'd end up with something like this. Despite its simple-sounding premise, there's definitely a learning curve, plus platform and beat 'em-up elements too.
+
+
+Many of the above titles can currently be found elsewhere, including the Play store. If you already bought them there, you'll unfortunately have to pay a second time to get them on GameStick. While there aren't a lot of free titles, the flip side is that you won't get any in-game payment surprises. OUYA might make all the games free to play at some level, but there's often no way of knowing if and how you might need to pay to progress. A few bucks up front might initially be a bummer, but there's at least some peace of mind knowing you have no play restrictions. We're told there's no restriction against "freemium" games; it's just that this model isn't used by anyone right now.
+
+There's a problem with this approach, though, which is that if you don't like the game, you're out of pocket already. Also, as you've likely already noticed, the types of games on offer tend to be the easy-playing, fun-time distractions, rather than the "settle in and get lost" variety. PlayJam told us that it's concentrating on the "mid-core" gamers, and will continue to mix indie titles with those from bigger publishers. We'd definitely like to see more games that push the hardware's capabilities.
+
+About those capabilities. Many will be quick to point out that by using technology intended for mobile devices, the GameStick is destined to age quickly. That's a fair point. But, likewise, a decent-spec handset from two years ago -- say, the Galaxy Nexus -- should still be able to take most current games in its stride. So it could be a couple of years before that's really an issue.
+
+Also, as games are ported over, at least developers know what specifications they are working with, and titles can be optimized accordingly. Even if Android gaming does leap ahead of the GameStick's abilities, its pseudo-modular nature means that PlayJam could update the stick part while you continue using your original dock and controller/s. This would introduce an Android-style fragmentation issue -- not all games working on all versions -- but it is a potential way of keeping the platform current on quicker cycles. In our experience, as it is the hardware performs well. None of the games we played seemed to cause any slowdown or glitches.
+
+The competition
+2013 has been a big year for Android gaming hardware. We've already mentioned OUYA, but there's also the Mad Catz M.O.J.O. ($250), NVIDIA Shield ($299), Wikipad ($250) and forthcoming Archos GamePad 2 ($200) to consider. The latter three all take a slightly different approach, and are self-contained handheld systems. Still, they're intriguing options if you're sold on Android gaming. Of all these, OUYA makes for the most direct comparison. While OUYA wins in terms of hardware specs and number of games, the GameStick has a leg up on price ($80 versus $100). Not to mention, OUYA had some controller issues when the Kickstarter edition first shipped; we suspect GameStick's controller will be much better received.
+
+Perhaps the most direct competitor to GameStick is actually none of these. It could also be the Android USB sticks, or pendroids, that we mentioned right at the top. With one of these, and a Bluetooth game controller (such as that from Gametel), you effectively have something very, very similar to GameStick -- and for about the same price. Not to mention full access to the entire Play store (including games you already own), the option for other apps, internet browsing, YouTube and so on.
+
+It's this question that GameStick has to answer: Why buy this over a DIY pendroid and controller combo? We went ahead and tried out some of the games available on both the Play store and GameStick with our own pendroid/controller setup, and we think we know the answer. GameStick's walled environment ensures all its games are optimized for the hardware and controller. Using a generic Android stick and Bluetooth gamepad often presented us with dodgy controls, in-game adverts and just a generally inferior experience.
+
+Wrap-up
+More Info GameStick hands-on GameStick arrives on October 29th OUYA review (founding backer edition)It's safe to say hardware companies are determined to make dedicated Android gaming a "thing." So far, though, no one really seems to have found a killer approach. Will the handhelds win, keeping Android in its natural, mobile environment? Or will one of the TV consoles crack it? For now, at least, it's too close to call. None of the existing options have a clear lead, and it's hard to see how GameStick will be any different. Its relative portability (it still needs a power pack) and well-designed interface should earn it some fans. On the other hand, the selection of games will make it a hard sell to those looking for a "front room," rather than "train home" gaming experience.
+
+If PlayJam can focus on securing some bigger, more sophisticated titles, rather than just casual games, the GameStick could prove that "small" doesn't have to mean "lightweight." Ultimately, if you're sitting down to play games on the big screen, you've likely got the time and volition to immerse yourself in what you're playing. Consoles live and die by their media catalog. Add to this the fact that its competitors have a bit of a head start, and it's clear GameStick still has some challenges ahead. If you want fun, family-friendly games for the kids or spare room, the GameStick is a great solution, even as is. If you want classic console gaming, without the Xbox/PlayStation trappings and price tag, you might want to wait a while, or consider one of the (pricier) alternatives.
+
+Daniel Orren and Edgar Alvarez contributed to this review. 
+GameStick UI footage captured via Elgato Game Capture HD.
+

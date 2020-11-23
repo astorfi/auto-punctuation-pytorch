@@ -1,0 +1,19 @@
+
+ We recently reviewed the global (HSPA+) version of HTC's Windows Phone 8X, the first handset to cross our desks running Microsoft's newly minted mobile OS. Starting today you'll be able to purchase HTC's 8X for AT&T, which features the same exquisite design but adds LTE and a dash of carrier flavor. Pricing with a two-year commitment is $100 for the 8GB model (available in California Blue and Limelight Yellow) and $200 for the 16GB version (blue only) -- in comparison, the global (HSPA+) phone sells for about £350 ($560) unsubsidized and unlocked. We spent a few days with the 8X for AT&T and while it's pretty much identical to its global sibling, there are a few differences worth mentioning. Hit the break to find out more.
+
+
+
+ 
+ Cosmetically, the only changes between the two models are in the branding. There's no silver HTC logo below the earpiece on AT&T's phone anymore, but it gains the carrier's signature globe in the back where the Beats symbol used to be, the latter being repositioned right below the embossed HTC logo. Otherwise, you'll be enjoying the same solid construction and high-end specs in a relatively compact and delightfully colorful package.
+
+ While the gorgeous 4.3-inch, 1,280 x 720 Super LCD 2 display, impressive 8-megapixel autofocus camera (with BSI sensor, f/2.0 lens and LED flash) and snappy 1.5GHz dual-core Snapdragon S4 SoC (with 1GB of RAM) remain, a few things are different under the hood. The 8X for AT&T gains a quadband (700 / 850 / 1700 / 1900MHz) LTE radio and the existing UMTS / HSPA+ radio loses the 900 MHz band (now 850 / 1900 / 2100MHz).
+
+ Performance is almost identical between both handsets as reflected in our benchmark table below. Battery life decreases slightly in WPBench's CPU-intensive battery rundown test -- presumably from having to power that additional LTE radio -- but this makes very little difference in normal day-to-day use. Networks speed tests yielded about 10 Mbps down and 6 Mbps up (on average) with three out of five bars of signal, which matches what we've observed with other AT&T LTE devices in San Francisco.
+
+         HTC 8X for AT&T  Global HTC 8X  Nokia Lumia 920  Nokia Lumia 900  Nokia Lumia 800          WPBench    219    221    227    92    86        Battery rundown    2:16    2:30    2:36    4:29    2:40        SunSpider (ms, lower numbers are better)    912    914    914    6,902    7,200        AnTuTu (*GFX test off)    11,852    11,775    10,957*    2,596    2,398      There's little room to customize Windows Phone 8 other than bundling some applications and settings. As such, the 8X for AT&T includes the same pre-installed (and removable) HTC apps as the global version (HTC, Flashlight, Photo Enhancer and Converter) plus the Beats Audio switch and the "attentive phone" toggles. The Connection Setup app is missing, since the device is pre-configured for AT&T's APNs. You'll also find a bunch of carrier apps on board: AT&T Code Scanner, AT&T Family Map, AT&T Navigator, AT&T Radio, AT&T U-verse Live TV, myAT&T and YPmobile -- all pre-loaded but easily uninstalled.
+
+ So, if you reside in the US, should you purchase HTC's 8X AT&T with LTE and commit to a two-year agreement? Or should you buy the unsubsidized and unlocked global (HSPA+) model? Unless you can live with minimal storage, we don't recommend the 8GB version of HTC's 8X since there's no microSD expansion -- sadly, this means passing on AT&T's fabulous yellow hue for $100. The Graphite Black and Flame Red colors are exclusive to Verizon in the US, so for AT&T we recommend the carrier's blue handset with 16GB for $200 (or wait for off-contract pricing).
+
+ If you absolutely despise blue, don't need LTE and can afford the extra cost, then by all means pick the global phone. Of course, at $100 on contract with 32GB of storage and a choice of hues, we think the Lumia 920 for AT&T offers better value.
+
+

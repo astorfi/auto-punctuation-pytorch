@@ -1,0 +1,13 @@
+
+It looks like Verizon's concerns about government snooping go beyond publishing transparency reports -- but also haven't had much of a tangible effect. The Washington Post understands through both a declassified ruling and sources that Big Red quietly challenged the constitutionality of the NSA's call metadata collection in January, only to be shot down by the Foreign Intelligence Surveillance Court in March.
+
+
+
+The company had been hinging its case on Judge Richard Leon's non-final ruling that the NSA's surveillance is unconstitutional. FISC Judge Rosemary Collyer, however, argued that Leon's opinion was "unpersuasive." She sided with earlier precedents claiming that people have "no legitimate expectation of privacy" when they hand data over to third parties, such as telecoms. Collyer also didn't believe that the scale of any data collection determined whether or not a search is reasonable under the Fourth Amendment, and rejected notions that metadata was likely to reveal private information. As you might imagine, civil liberty advocates disagree with this interpretation. TechDirt notes that there's a big difference between targeting one person versus the entire US, that many do expect privacy, and that it's entirely possible to track people using metadata.
+
+Verizon isn't confirming that it filed the challenge, which redacts the source of the complaint. Provided that the Post's sources are accurate, though, Verizon was the first carrier to dispute the constitutionality of the NSA's activities; Judge Collyer noted that no other network had tried this before. We don't know if other firms have attempted something since, but they may not be eager to follow in Verizon's footsteps knowing the likely outcome.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

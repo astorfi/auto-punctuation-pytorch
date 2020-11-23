@@ -1,0 +1,10 @@
+
+With the amount of NSA-related information that's been leaked to the press, one may wonder if the feds will have anything new to share whenever the agency's first transparency report releases. The latest info is that the NSA was targeting foreign network administrators to gain access to the networks they control, as late as 2012. Edward Snowden gave The Intercept a handful of screengrabs from an internal agency message board that, among other things, detail how the NSA can monitor calls and emails moving through a foreign telco's network simply by having access to the system admin's PC. The steps for that apparently include grabbing the admin's IP address, and from there hacking the user's Facebook or web-mail accounts to gain full access to their computer via surveillance malware.
+
+
+
+The postings were supposedly written by the author of last October's Tor network attack-report, and go on at length describing his or her dream to build a master list of system admins that would span the globe. What good would that do? Well, it'd enable the agency to launch an attack once an "extremist/terrorist or government official" uses the network an admin oversees. There are also step-by-step instructions for attacking an admin's computer through its network router using Telnet, the agency's SIGINT tools as well as the Quantum hacking-platform.
+
+The posts say nothing about how the NSA would sidestep inadvertently hacking system admins in the US either, or even system admins working for foreign companies on domestic soil. Be sure to check the source links for the full story, but don't the playful tone of the posts distract you from the real issue: the government was, and could possibly still be, persistently monitoring civilians who've done nothing wrong in the off-chance that an enemy of the state could log on to their network.
+
+

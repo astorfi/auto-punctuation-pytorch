@@ -1,0 +1,5 @@
+
+ Efforts to boot Windows on Intel-based Macshave so far proven fruitless, but that doesn't mean the new boxes won't be able to run multiple OSes. And if the folksat Red Hat have their way, Linux may be running on your iMac and MacBook Pro long before Vista ever does. The companyhas announced plans to support the new computers, and will work to develop a boot loader that will work with theExtensible Firmware Interface, which fills in for a BIOS on the Intel Macs. However, Red Hat admits they don't yet haveany Intel Macs in house, so it might take them a while to actually get going on this (though we have faith that someonein the open source community is already working on this very issue). Oh, and if you think you can get Windows workingon a MacTel box, you may be able to collect a bounty; one enterprising fellow has launched a site where he's soliciting donations for a reward to bepaid to the first person to dual boot Windows and OS X on an Intel Mac. So far, he's collected over $5,700.
+      
+
+ 

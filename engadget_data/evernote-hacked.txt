@@ -1,0 +1,4 @@
+
+ Popular cross-platform note-storing service Evernote has revealed in a blog post that it has been the subject of hacking attacks. The operations and security team is keen to point out that there is no evidence that any stored notes and content was accessed, but that some user information -- including passwords and emails -- were. The data breached does benefit from one-way encryption (hashed and salted), but the firm is issuing a site-wide password reset just in case. In short, all users of the site will be required to set a new password, and are advised to log-in as soon as possible to do so. For more details and updates, we suggest keeping a close eye on Evernote's official blog and twitter. Both of which can be found below.
+
+

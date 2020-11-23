@@ -1,0 +1,12 @@
+
+ 
+
+When you head to Apple's online store to configure your MacBook Air, you'll find options to increase processor speed or SSD capacity -- depending on the model you select, of course. There's no mention of flash drive speed, however, though it's now clear that not all SSDs are created equal at Apple -- not only when it comes to capacity, but also performance. Jonathan over at TLD discovered a fairly significant discrepancy when benchmarking both MacBook Air models over the weekend. The 128GB Samsung SSD in his 11-inch Air was able to achieve 246 MB/s write and 264 MB/s read speeds. When he switched to the 13-inch model, however, speeds dropped to 156 MB/s and 208 MB/s, respectively, using that notebook's 128GB Toshiba SSD. We compared speeds on two generations of 13-inch models, and confirmed Jonathan's findings. During our tests, the 256GB Samsung drive in our older model achieved 214 MB/s write and 251 MB/s read speeds, while the 128GB Toshiba drive in the new MacBook Air scored 184 MB/s and 203 MB/s during write and read tests, respectively. Overall, you're not likely to notice a significant difference during normal usage, though it's certainly an interesting find, nonetheless.
+
+[Thanks, Larry]
+      
+
+ 
+
+  
+ 

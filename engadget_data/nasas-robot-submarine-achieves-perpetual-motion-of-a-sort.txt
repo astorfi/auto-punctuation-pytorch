@@ -1,0 +1,6 @@
+
+ 
+The Sounding Oceanographic Lagrangrian Observer Thermal Recharging (SOLO-TREC) autonomous underwater vehicle is, well, quite a mouthful. It's also the first submarine that can run a sizable percentage of forever without requiring a charge. When the 183-pound buoy dives, cooler water temperature causes a liquid wax-like substance inside to solidify, squeezing out oil that drives a hydraulic generator; when it surfaces, the wax softens once again, ready for another round. Every dive produces 1.7 watt-hours of electricity, enough to power all the instruments, GPS and buoyancy-control pump on board. It's like a drinking bird that never runs out of water. Designed by NASA's Jet Propulsion Laboratory and Scripps researchers, the thermal engine is envisioned as an oceanography tool... but since the US Navy also has a finger in the pie, don't be surprised if it plays a minor role in the coming robot apocalypse as well.
+      
+
+ 

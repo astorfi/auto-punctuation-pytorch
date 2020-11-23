@@ -1,0 +1,9 @@
+
+ 
+Following hot on the heels of the PR 1.3 update for the N900 comes the official MeeGo v1.1 build for handsets with U-Boot support. For developers, or anyone who simply likes to hack around, that means that the Nokia N900 is now ready to dual-boot into your choice of Maemo or MeeGo environments. If that sounds like fun then boy do we have the image repository for you (Hint: it's in the source link below). We'll let everyone else know when the community has made the process idiot-proof. Until then, why not play an unmodified webOS game or catch a glimpse of the dual-boot process in action in the video after the break.
+      
+
+ 
+
+
+ 

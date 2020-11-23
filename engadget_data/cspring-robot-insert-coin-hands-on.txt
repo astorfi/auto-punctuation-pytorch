@@ -1,0 +1,16 @@
+
+ Those looking to tinker with humanoid robots aren't exactly lacking for options these days, but Cognitive Spring is taking a slightly different approach than most with its Arduino-based cSpring bipedal robot -- one of the semifinalists in the Insert Coin competition here at Expand. Rather than offering a readymade robot like Nao that largely makes software the focus of user customization, cSpring is designed to be highly customizable (and open source) on both the hardware and software fronts. Indeed, the company is hoping to encourage such development by rewarding crowd-sourced work with what it calls "paid achievements."
+
+ As for the robot itself, it's currently designed to work with an 11-inch MacBook Air that conveniently doubles as its torso, and it relies on a PrimeSense motion sensor to monitor its surroundings. One of the real selling points for potential developers, though, are the array of servos that power the robot's legs, which can operate simultaneously and provide some 40 pounds of lift apiece. Those also give the robot a decent range of movement, although it hasn't yet learned to fully walk (that's one area the company suggests could be expanded upon by others).
+
+
+
+
+ 
+ Not surprisingly, the company sees plenty of potential growth for the platform beyond its current state. CEO Sean Reynolds tells us that he's looking at convertible tablet alternatives to the MacBook Air that would enable things like telepresence and a host of visualization possibilites not afforded by a closed laptop. Further down the road he's also hoping to have an app store of sorts so it's not entirely a DIY situation for everyone using one of the robots.
+
+ The bot remains in its early stages at the moment, though, and both pricing and availability remain a bit up in the air; Reynolds says he's currently looking at offering three different tiers for developers and educators that would top out somewhere in the mid-four-figures for something like the bot shown here, but be cheaper if folks are willing to put more of the work in themselves. Adding considerably to that cost are the aforementioned servos, whose power comes at a price of roughly $200 each. Check out the gallery above and the video below for a closer look.
+
+ 
+ Follow all of Engadget's Expand coverage live from San Francisco right here!
+

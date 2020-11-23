@@ -1,0 +1,10 @@
+
+ 
+We love us some home automation but sometimes we get the feeling that we're the only ones. Perhaps it isn't that no one wants home automation as much as it's that no one can get home automation; and if that's the case, Verizon's new Home Control might bring us all together. The idea is that Verizon would sell and support a small Z-Wave enabled home automation controller (manufactured by ActionTec at least initially) that would be controllable and programmable via Verizon's website, mobile phones and FiOS TV set-top boxes. The demo was right on par with what we expect a good HA controller to do, but at this point there is only a trial in New Jersey, which means the rest of us will have to wait to see how it fairs in the Garden State before we'll get a chance to try it for ourselves. The only issue we did have with the demo was that while you can control your home form your FiOS DVR, you can't control you FiOS DVR from the other devices. This means that wake-up scenes like ones that would turn your every TV in your house to CNN at 7am in the morning, are out. Obviously this could and hopefully will change if this progress as Verizon hopes it will.
+
+
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

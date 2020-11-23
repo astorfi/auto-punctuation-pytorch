@@ -1,0 +1,18 @@
+
+ Remember Romo, the adorable iPhone-faced track-equipped robot? We met up with Romotive in Vegas at CES 2013 to play with the 3rd generation model that was recently launched on Kickstarter. The company also gave us an exclusive first look at a 3rd generation prototype with Lightning connector. We sat down with CEO Keller Rinaudo to discuss the new robot and catch up on what the team's achieved over the past year.
+
+ As a refresher, we first encountered Romo when we covered it for our Insert Coin feature in October 2011. Back then, the robot used rudimentary analog electronics and plugged into the iPhone's headphone jack. After a successful initial Kickstarter campaign, Romotive moved from Seattle to Las Vegas where we caught up with the team on our stage during CES 2012. The 2nd generation model was available both pre-assembled and it kit form with support for iOS, Android and Windows Phone. It was upgraded to digital electronics but still used the audio interface to control its tracks and featured hacker-friendly auxiliary ports. Hit the break for more. 
+
+
+
+
+ 
+ With the 3rd generation robot, the company wants to provide bulletproof hardware and let users focus on software via "creative play". The original translucent acrylic design gives way to a slightly larger and significantly stronger light blue and white shell which features an Apple-approved 30-pin or Lightning connector. Switching to a digital interface offers a couple of advantages. Docking an iPhone or iPod touch now automatically launches the Romo app or, if it's missing, brings up the Romo download page in the App Store. Better yet, Romo becomes one of the coolest charging docks around, thanks to a built-in NiMH battery for up to four hours of operation.
+
+ Another major update is the addition of a motorized tilting mechanism. Docked devices can be tilted remotely back 45 degrees and forward 15 degrees from the vertical with a simple swipe in the Romo app. There are other improvements as well, like a faster 3m/sec top speed, a recessed mini-USB charging connector and a power LED which glows though the blue and white shell. We were definitely impressed with the new robot's build quality -- it's clearly designed to survive amongst (young and old) children everywhere.
+
+ Out of the box, Romo now comes with four behaviors along with more animations. Remote control lets you drive it from another iOS device while streaming live video and taking pictures. With Autonomous mode it becomes an explorer, mapping its world and responding to its environment -- even going as far as to react to people's faces. In dance mode, it automatically moves to the beat of whatever music is playing. Global mode turns Romo into a telepresence robot, which can be controlled from anywhere in the world by Romotive's HTML5 web portal -- basically "Skype on wheels". Future functionality include a watchdog mode for security applications, and more advanced behaviors built around image processing like face and edge detection.
+
+ The first 1000 robots will be landing in the hands of Kickstarter backers later this month, followed by existing pre-orders. You can reserve Romo for $150 on the company's website right now. Not convinced yet? Romotive CEO Keller Rinaudo will be live on the Engadget stage here at CES 2013 tomorrow. Until then, enjoy our hands-on gallery and video above.
+
+

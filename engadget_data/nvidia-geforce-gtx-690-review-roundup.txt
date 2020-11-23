@@ -1,0 +1,8 @@
+
+ 
+ Now that NVIDIA's GeForce GTX 690 is shipping through some vendors, gamers have been wondering if it's worth the wallet-busting $999 to get those higher frame rates. Surprisingly, the answer is "yes." As AnandTech notes, the GTX 690 is often almost as fast or faster than a pair of GTX 680s working together in SLI mode, only using less power and running at cooler and quieter power levels through those two 28-nanometer Kepler chips. Across multiple reviewers, though, the GTX 690 was sometimes slower than two Radeon HD 7970 boards using CrossFire. HotHardware and others found that it's definitely the graphics card of choice for Batman: Arkham City enthusiasts: problems with AMD's CrossFire mode leave a dual Radeon HD 7970 setup running at just half the frame rate of its NVIDIA-made challenger.
+
+ Caveats? There are still some worries beyond the price tag, as the twin Radeon cards are as much as three times faster at general-purpose computing tasks than the latest and greatest GeForce. PC Perspective likewise warns that fans of joining three displays together for some 3D Vision Surround action will still take a big frame rate hit when they put the 3D glasses on. Still, the GTX 690 looks to be tops if you're looking to get the fastest single-card gaming on Earth, and as Legit Reviews adds, that trivalent chromium-plated aluminum makes it one of the "better looking" cards, to boot.
+
+ Read - AnandTech Read - HotHardware Read - Legit Reviews Read - PC Perspective
+

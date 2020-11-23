@@ -1,0 +1,15 @@
+
+Elliptic Labs has already spruced up a number of tablets by adding the ability to gesture instead of make contact with a touchpanel, and starting this week, it'll bring a similar source of wizardry to Android. The 20-member team is demoing a prototype here at CEATEC in Japan, showcasing the benefits of its ultrasound gesturing technology over the conventional camera-based magic that already ships in smartphones far and wide. In a nutshell, you need one or two inexpensive (under $1 a pop) chips from Murata baked into the phone; from there, Elliptic Labs' software handles the rest. It allows users to gesture in various directions with multiple hands without having to keep their hands in front of the camera... or atop the phone at all, actually. (To be clear, that box around the phone is only there for the demo; consumer-friendly versions will have the hardware bolted right onto the PCB within.)
+
+
+The goal here is to make it easy for consumers to flip through slideshows and craft a new high score in Fruit Ninja without having to grease up their display. Company representatives told us that existing prototypes were already operating at sub-100ms latency, and for a bit of perspective, most touchscreens can only claim ~120ms response times. It's hoping to get its tech integrated into future phones from the major Android players (you can bet that Samsung, LG, HTC and the whole lot have at least heard the pitch), and while it won't ever be added to existing phones, devs with games that could benefit from a newfangled kind of gesturing can look for an Android SDK to land in the very near future.
+
+
+Mat Smith contributed to this report. 
+
+
+
+
+
+
+ 

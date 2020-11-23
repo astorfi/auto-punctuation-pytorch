@@ -1,0 +1,28 @@
+
+
+
+Earlier this year, Microsoft revealed its plans to take over NFL sidelines. How so? With a partnership with the National Football League, a collaboration reportedly valued at $400 million -- though neither party ever confirmed this. Powered by the Surface Pro 2, the Sideline Viewing System lets NFL players and coaches use Microsoft's laptop/tablet hybrid device to review images from plays almost instantaneously, as opposed to using the paper-based, black-and-white method that's been in place for decades. Not only is it faster, but it's also more efficient, since it allows team members on the sidelines and those in the booths above to view any markups in near real time, something that's made possible by digital pen input.
+
+
+
+
+
+To find out more about how Microsoft was able to accomplish this, I sat down with Ralf Groene, the company's senior director for Surface, and the person responsible for leading the team in charge of coming up with those colorful slates you're now seeing on every NFL bench. Groene chatted with me at Microsoft's new lab for Surface, located inside its Redmond, Washington, headquarters, a 100,000-square-foot space where they do anything from designing to prototyping. Here, there are 3D printers, manufacturing machines, a metrology lab and all the other necessary equipment to evaluate things properly -- and yes, that includes torture tests.
+
+#fivemin-widget-blogsmith-image-990104{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-990104, #postcontentcontainer #fivemin-widget-blogsmith-image-990104{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-990104").style.display="none";}catch(e){}
+"We can understand a lot about the material; this gave us the opportunity to create a case that can handle anything."
+
+"The Surface team has been so busy designing stuff that when an opportunity like this [the NFL partnership] comes up, it's a great thing," Groene said regarding the looks of the version designed specifically for the NFL. "We can understand a lot about the material; this gave us the opportunity to create a case that can handle anything." He said a project like this is very important to creatives, designers and engineers because they can use it to learn more about a number of different elements, like which materials work best in different circumstances: "We iterated and prototyped until we ended up with a product architecture that works."
+
+Groene told me they thought about what ports and features made sense to make accessible; like the camera, for instance, which is missing from the design currently being used throughout the league. "Other than hiring the best people, it's also getting in as many iterations as possible," he said. "It takes hundreds of prototypes; it's about how many can you do."
+
+In addition to that, they needed to make a product that would be weatherproof and impact-resistant, while also making sure it could stay cool internally and that no water went beyond any of the case's cutouts. "We solved this by adding a vent system across the edges, a ventilation system that's breathable," Groene stated. Basically, the casing is capable of diverting any water dropped on it, to ensure nothing gets remotely close to getting inside.
+
+"People see colors before they see shapes."
+
+On the outside, Groene and team insisted that the device be easily visible on the sidelines and from the stands -- hence, the bright blue plastic case. As he puts it, "People see colors before they see shapes." A key part of that was also designing the cart where the Surface Pro 2s live on the sidelines, which is used to bring them onto the field and keep them connected to a wired network when they're not being used. "How do we create an experience where the tablets can live? How do we make it to where you can actually move this around? How do we make it good for the branding?" These are all things to consider, Groene said. In total, the NFL's Sideline Viewing System consists of 25 Surface Pro 2s for each team, 13 of which are brought down to the sidelines on the day of a game.
+
+Despite the custom tailoring for the NFL, Groene believes the soul of the Surface remains the same. "At the core, it's still a Surface. You have the power, the mobility," he said. "At the core, it's still a consumer device."
+
+Now that you've learned about the design process of the Surfaces for the NFL, are you curious what it's like to use? Check out how pros like Seattle Seahawks quarterback and Super Bowl champion Russell Wilson take advantage of it in part two here. In part three, we interview him.
+

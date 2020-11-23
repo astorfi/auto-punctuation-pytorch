@@ -1,0 +1,14 @@
+
+
+It hasn't been hard to produce realistic-looking skin in computer-generated movies, but it's much harder to do that in the context of a game running live on your console or PC. That trip to the uncanny valley is going to be much easier in the near future, though, thanks to the impending arrival of Unreal Engine 4.5. The gaming framework adds subsurface light scattering effects that give digital skin a more natural look. Instead of the harsh visuals you normally get (see the pale, excessively-shadowed face at left), you'll see softer, decidedly fleshier surfaces (middle and right). The scattering should also help out with leaves, candle wax and other materials that are rarely drawn well in your favorite action games.
+
+
+
+          
+ 
+ 
+ That's not the only party trick. A new raytracing technique should produce soft, reasonably authentic long shadows in sunsets. Mobile games can finally handle dynamic shadows, too, so a character carrying a lantern may look that much more ominous. Developers will have to implement the new Unreal Engine in their projects before you can see the upgrades first-hand, but it shouldn't be too long before you're playing shooters and other titles that feel much more true to life.
+
+       
+
+ 

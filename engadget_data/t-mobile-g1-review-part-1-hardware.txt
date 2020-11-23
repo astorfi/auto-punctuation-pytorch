@@ -1,0 +1,95 @@
+
+ 
+Review index | Part 2: Software and wrap-up
+	By Joshua Topolsky and Chris Ziegler
+
+	The hardware
+
+Industrial design
+
+The first thing that strikes you about the G1 design is its... well, surprising lack of "design." In a world filled with shiny silver / black sticks, and consumed by an unhealthy competition to be the absolute thinnest, the G1 stands out with its decidedly trend-bucking, quirky styling. That's not to say there's nothing to love here -- quite the opposite. The device bares a kind of charming, retro-future look; like a gadget in a 1970's sci-fi movie set in the year 2038. The smooth, round edges make the phone seem eminently approachable, and HTC (and design partner Google) forgo single-button simplicity for functionality, dotting the phone with all manner of hardware controls. One thing that's clear is that the phone isn't trying to break any dieting records -- but while the G1 isn't super-thin, the thickness is by no means a deal breaker. At 0.62 inches it hardly measures up to standards set by similar devices like the iPhone 3G (0.48 inches) or not-so-similar (yet venerable) RAZR V3 at 0.55 inches closed, but it won't have any trouble sliding into your pocket. Getting it to slide into your heart, however, is strictly going to be a matter of taste; this form factor definitely inspires strong feelings.
+
+
+
+
+
+
+
+In your hand, the soft-touch matte finish feels surprisingly warm, and it fits in your palm with a reasonable heft. While it may not be the lightest phone around (5.57 ounces), it's certainly not a brick. The display is a flush, capacitive touchscreen LCD which runs nearly to either edge of the device (we'll have more on that in a bit). Down along the bottom of the phone -- the "chin" as it's being affectionately referred to -- you'll find the trackball and five hard buttons; end / power, back, home, send, and a long "menu" button at the top. The placement of the far right and far left buttons seem awkward at first, forcing you to bend your thumb in an uncomfortable position, though once you get in the habit of changing up your hand position slightly, it's not too bad. The trackball -- which is nearly identical to those found on BlackBerry devices -- was a bit of a surprise to us. With a touchscreen and a full keyboard, we didn't think we'd be going to the ball very often, but it's actually a great help moving around pages with a lot of links, or while you're editing text. You can use the rubbery nub for navigation, and it's also clickable for making selections.
+
+
+
+
+Flipping out the screen -- which slides along an odd, curved hinge -- reveals the keyboard. The mechanism the hinge is built on is fairly robust, allowing you to whip the screen out and up when you nudge it with your thumb. At first we felt like we were going to snap the thing off, but it's clear that HTC intended this to be used quite roughly. Overall the effect is positive, though when not in use the screen has a little squeaky give, a looseness, that we found annoying -- it's particularly noticeable when the phone vibrates and you get a little rattle.
+
+On the keyboard side, the physical layout here is generous to say the least. Clearly a lot of thought went into making this QWERTY usable, and usable it is. While the keys aren't especially raised against the backing (in fact, they're nearly flush), they are fairly responsive and widely spaced, making two-handed typing a breeze. The placement of the "chin" does get in the way of speed typing at first, but once we figured out how to avoid over-extending our right hand to get to certain keys, it became less of a problem. Alternate key characters are distributed in a reasonably sensible fashion, and you're provided with another "menu" key on the left side, though we rarely found occasion to use it. We had a little bit of re-learning to do going back to physical input after using the iPhone, but once you get the hang of it, this keyboard makes dealing with lots of email or IM sessions a breeze. Our biggest gripe on input? The keyboard is the only way to interact with text on the phone. If you need to send a quick SMS, you have to get the keyboard out. This can be an incredible pain sometimes, and we're hoping that some enterprising coder comes along and gives Android (and the G1) an alternate virtual keyboard -- it would be a tremendously helpful alternative.
+
+
+
+
+
+
+
+On the left side of the phone is a volume toggle -- pretty standard fare -- and on the lower right you've got a camera button. The ability to flip right into camera mode is a nice touch, though certainly not uncommon in phones of this type. Around back you'll find the lens and speaker phone elegantly and angularly placed near the top of the device. A small nub is located next to the camera, ostensibly to keep fingers out of your shots, and it actually worked for us.
+
+
+
+
+Along the bottom of the phone is HTC's totally meaningless ExtUSB port, which actually can accept micro mini-USB plugs. Why we're forced into this odd connector type and denied a 3.5mm headphone jack is beyond us. We were told at the phone's launch that there would be an adapter included with devices (at some point) to allow regular headphone use, but honestly, who wants another adapter to worry about? Something tells us that if you're buying a phone that's supposed to "do everything," having to fiddle with some janky piece of plastic just to connect your earbuds is going to get real old, real fast. Of course, a set of buds is included with the device, and they sound about how you'd expect -- if you care about audio at all, you'll want to trade up... and you'll be annoyed with the jack. This is definitely a mark against the phone, and a perplexing choice for all companies involved. If this was a ploy to sell accessories, it's likely going to backfire.
+
+
+
+
+When you slide up the keyboard you get access to a little door for your microSD card, and the entire back cover comes off to give you battery and SIM access. Nothing notable about any of that (though the microSD slot is incredibly hard to spot). Though it ships with a 1GB card, we tested the device with microSDHC cards to 16GB, and we're happy to report that they work wonderfully. If current price points we're hearing are right, that means you can pick up a G1 under contract plus a 16GB card for a few bucks less than the 16GB iPhone 3G.
+
+Display
+
+As we said above, the display is a capacitive LCD touchscreen. At 320 x 480, it's the same resolution as the iPhone, though the pixel density is slightly tighter here due to the smaller size (3.2 inches). Overall we found the screen to be outstanding. Colors are bright and vibrant and both text and graphics display crisply, helped immensely by rich, deep blacks. While at full brightness it's still not as stark as its nearest competitor, that actually turns out to be a plus -- this strikes just the right balance and is very easy on the eyes, even in low light. The choice of capacitive touch is a godsend. We were worried HTC would punk out and throw another resistive screen our way (hello Diamond and non-capacitive-compatible Windows Mobile!), but they pulled out the stops and it pays off big time. Finger-based navigation is easy, and the screen leaps in response to even light touches. There may be a few instances where it's actually too responsive -- say, browsing dense, link-filled sites -- but overall it's a welcome change from the mushy, unreliable resistive displays we see everywhere else. Android isn't utilizing multi-touch, which is a kind of a downer, though it does put extremely useful long-presses into play -- something you'll feel at home with if you're a Windows Mobile user.
+
+
+
+
+Outdoors, the display performed as well as can be expected in direct sunlight, though it's not quite as clear as some other capacitive touchscreen devices that we needn't mention.
+
+Sound quality / reception
+
+Overall, we felt somewhat ho-hum about the sound quality of the G1. There's nothing particularly bad about it, but it's also not breathtakingly good. The earpiece didn't give us any real problems, though sound might have been a bit too hot in the mid-range. Speakerphone performance was adequate, with enough volume to leave the phone on a desk and have a conversation, though compared to a BlackBerry, it's still not loud or clear enough to our ears. None of the callers we spoke with complained of problems from our end.
+
+
+
+
+Unfortunately, reception was another story. In both New York and San Francisco, we found cell signal to be spotty at best, and 3G was in and out like crazy. Admittedly, other testers in both SF and Chicago claimed to get tremendous reception and 3G service, so we won't rule out the possibility that it was our particular location, device, or just bad karma. Still, we experienced no shortage of dropped calls, echoing / delayed audio, and full-on signal loss. Data was even more maddening -- we had trouble getting a 3G signal, and when we did it was usually quite weak. It wasn't that the drops occurred the majority of the time, it's just that they came frequently enough to be irksome in the extreme.
+
+
+
+
+On the other hand, when we latched onto a decent 3G signal, data and voice performance were excellent. Downloading and sending emails was a snap, and web pages seemed to load very quickly. That said, when put side-by-side with the iPhone in a 3G speed test, the G1 delivered poor -- almost shockingly poor -- results. You can see what that looks like in the video below.
+
+
+
+
+Of course, whether this is due to T-Mobile's 3G network, which is still in its infancy, or to some problem with the phone or its software is still an unanswered question. Generally speaking, however, we found the 3G download speeds adequate for most tasks.
+
+When it came to the GPS, it's another story altogether. We had a terrible time trying to find satellites, both indoors and out. Once they came online, service was spotty, and more than once we lost data, GPS, or both! If you're looking to take this out on the road, be wary -- our experience is that neither T-Mobile's network, nor the GPS implementation here is ready for primetime. We hope they'll tweak this in future iterations of the software (if they can). We suggest fixing it soon.
+
+
+
+
+
+
+
+
+Camera
+
+The built-in camera can take shots up to (and currently only) 3.2 megapixels. Not a stunning resolution, but certainly not bad. As we said before, having that camera button is a nice touch, though starting up the app seems to take a while to get into (as in, we weren't sure we'd pressed the button... more than once). Once there, you're greeted with a fairly low refresh rate, and almost no options for tweaking. Literally, the only choice you're given is whether or not to include location data in photos, and to disable the "save" prompt when you're done shooting.
+
+As far as the hardware is concerned, the camera itself has some great and not-so-great features. On the plus side, the lens actually focuses and can snap fairly close shots, allowing for near-macro pictures depending on conditions. It's a great touch that we found lots of use for. On the other hand, due to that slow refresh and really, really mushy quality of the camera button (as well as awkward placement along the edges of the keyboard and body), it's hard to know what you're going to get. We ended up with plenty of blurry and totally unusable pictures. Additionally, performance in low light was abysmal, rendering grainy shots that were practically useless. In good light performance was greatly improved, but in comparison to other phones we had around, the results were fairly disappointing overall. If you're looking for some kind of digicam stand-in, forget about the G1... taking pictures is definitely not the phone's strong suit.
+
+
+
+
+Battery life
+
+We haven't yet run an all-out, scorched-earth standby torture test, but we can tell you that we got about 11 hours and 21 minutes of life running the media player on shuffle while connected to a 3G network with WiFi turned off. No calls were made or received during that time. In other words, this puppy (the phone, not the one pictured above) is going to give you a little more than a third of the iPhone 3G's numbers -- but that's obviously subject to all sorts of things, like the distance to your cell, temperature, device usage, and karma. And don't forget that the G1 is getting pushed data from the cloud on an ongoing basis, so that's going to take a toll on your juice.
+
+Continue on to Part 2: software and wrap-up

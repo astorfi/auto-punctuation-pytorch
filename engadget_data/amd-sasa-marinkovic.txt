@@ -1,0 +1,58 @@
+
+ 
+ This isn't the easiest time to be an AMD fan. The company's eight-core FX-8150 desktop chip was widely panned on the review circuit, and then NVIDIA's GTX 680 graphics card ran off with Radeon HD's thunder. Even when you look at notebook processors, where AMD has long excelled with its Fusion APUs, the hype wars currently favor Ultrabooks and Ivy Bridge. Affection for the gamers' brand and its ATI back-story may make this stuff uncomfortable, but the predicament is already starting to mess with AMD's balance sheet. Which raises the obvious question: what's to be done?
+
+ Sasa Marinkovic, AMD's Head of Desktop and Software Product Marketing, bravely took up the challenge of providing his side of the story -- even after we warned him that we'd try to disrupt his flow with accusatory glances. In the end, we did get him to acknowledge some recent hard knocks, particularly with respect to the FX chips and their (lack of) single-threaded performance. But we also got some insight into the mind of a chap who remains genuinely and abundantly confident about his employer's future. Read on and see for yourself.
+
+
+
+ 
+ The last time we met was at the launch of the FX-8150. There was plenty of optimism at that time, but then reviewers came out almost universally against the chip. How did you regard their coverage? 
+ I think the press was expecting the chip to cost around $200 and yet still beat parts from Intel at higher price points, like the Core i7. But overall I think that FX has delivered something new.
+
+ I've looked at the comments from people who actually bought an FX chip, on Newegg for example, and they're overwhelmingly positive. We're getting four or five eggs for eight-, six- and four-core products. I'm really happy to see how they've accepted it.
+
+  More Info   AMD FX processor brings eight cores to battle, we go eyes-on!  AMD gets Guinness World Record for fastest CPU with overclocked octa-core FX  AMD reports net loss of $590 million for Q1 2012, calls that 'solid results'  But on Newegg right now, you can get the i5-2500K for $30 less than an FX-8150, and most reviewers say they'd pick the i5. Are you blaming journalists rather than accepting that AMD made a mistake somewhere along the line?
+ Well, I do agree that single-threaded performance maybe wasn't at the level it should have been, because the chip was optimized for multi-threaded workloads. In the technology world, you're going to win some and lose some. It comes down to the workloads you're running. I'm not blaming journalists for getting it wrong, but we targeted the chips at multi-threaded performance, multimedia and gaming. In those areas, especially with the overclocking potential of the eight-core chip, the FX product still has strong legs to stand on.
+
+ You also have to look at these desktop chips as part of the whole platform, rather than just as individual components. When you look at how FX combines with an AM3+ motherboard and with one of our recent graphics cards, it's a sensible purchase.
+
+ Many gamers are AMD fans because you've historically provided them things they need at low price points. Are you now changing your focus towards higher-priced, more forward-looking chips? 
+ When we launched Athlon 64, there wasn't much software for it. When we supported DX11 it was the same -- not much software around to exploit it. The APUs also needed new software to show their full advantage. With FX we did exactly the same thing: we provided a catalyst for people to go and develop these new workloads that can make use of it. If you look at Corel Aftershot, for example, it utilizes all eight cores and performance is over six times better as a result.
+
+ But multi-threading doesn't really help gamers... 
+ There are a bunch of games that use multi-threading now. And it's an architecture that we're going to continue to use, and that will serve us in the future, so there's still time for more games to catch up. Besides, don't forget that we do have the four- and six-core FX parts, too. The FX-8150 has been well received and has momentum, but the quad-core FX-4100 is another option for gamers that costs in the low hundreds.
+
+ 
+ The review circuit was initially happy with AMD's next-gen graphics cards, but only until NVIDIA came out with the GTX 680. Then the pundits went with NVIDIA, because it showed an unprecedented performance gap. What was your response to that? 
+  More Info   AMD Radeon HD 7970 review roundup: supremely fast, relatively efficient  NVIDIA GeForce GTX 680 review round-up: see ya later, AMD  NVIDIA's GTX 680 tested in SLI and multi-display modes, loses some of its lead  I wouldn't say it's an unprecedented gap. The GTX 680 was a step forward for NVIDIA. But the Radeon HD 7000 series was a pinnacle of design, with immersive performance and with better compute performance than our competitors. If you look at how many products we've released so far, and if you look at the availability compared to NVIDIA -- six variants all shipping in full volume -- that will tell you the story.
+
+ Even highly overclocked Radeon HD 7970 graphics cards are getting beaten by NVIDIA -- that tells a different story. Are you sure you're acknowledging what's happened here?
+ Well, we have new boards every year or so. This generation has been out for four months and there'll be more evolutionary progress within this architecture. You have to remember that driver improvements for the cards have already delivered a 25 percent improvement in 3DMark11 scores in just a few months.
+
+ 
+ Okay, let's talk about notebooks and your mobile APUs. We know that Trinity is coming to refresh your line-up, but right now all the hype is around Intel, Ivy Bridge and Ultrabooks. How will you catch people's attention when it feels like you're arriving late? 
+ In terms of the launch, we're only a few weeks apart from Ivy Bridge, so I don't think it's going to make a difference for people. Plus, even if Ivy Bridge launches at the end of April, it remains to be seen how long it'll take for Ivy Bridge Ultrabooks to become available -- and that could be more in line with when we're going to come up with our new thin and light notebooks.
+
+ Ivy Bridge is expected to be made with a 22nm fabrication process, whereas Trinity is 32nm. How can you compete in terms of both efficiency and performance with that kind of silicon?
+ When we put the E-Series APU into notebooks, it was a 40nm chip. But it turned out to be the most successful product we've had at AMD. We sold 30 million of those parts. People didn't care about the fabrication process, they cared about the experience they were getting. Fabrication process size can be misleading.
+
+  Intel's graphics are significantly under-developed if you compare them to AMD products.
+
+ We've already put Trinity up against Sandy Bridge a couple of days ago, and we gave tech reviewers a chance to blind test two notebooks that only differed with respect to their processors. 80 percent of them thought the Trinity notebook showed better performance. Take WinZIP for example -- it was several times faster thanks to our support for OpenCL GPU acceleration. Using the GPU to help with tasks is a huge part of what we're doing and it's something that Intel doesn't offer -- they're only doing it through the CPU.
+
+ So you're saying that Trinity can use its GPU better than Intel's Ivy Bridge can?
+ If you think of the CPU and the GPU as two different sides of the brain, one logical and one more visual, then it makes sense for them to be balanced. Intel's graphics are significantly under-developed if you compare them to AMD products. The A-series versus Sandy Bridge already wins in video, and in gaming we're up to three times faster than Sandy Bridge in Battlefield 3 for example. It's all because of the different emphasis that we put on the graphics part of the chip.
+
+  More Info   AMD confirms Trinity and Brazos 2.0 shipping now, globally available 'soon'  AMD Fusion tablets running Windows 8 at Build 2011  AMD refreshes E- and C-Series APUs, adds DDR3-1333 support, better battery life  The difference between Ivy Bridge and Trinity is simple: if you go with Ivy Bridge but then want the same graphical experience that Trinity offers out of the box, then you'll need to add discrete graphics to be on that same level.
+
+ So the implication is that Trinity will be a similar price to Ivy Bridge, but it'll offer the advantage of discrete-class graphics?
+ Right, that's a logical conclusion.
+
+ AMD gets quizzed over this a lot, but we have to ask: are there really no plans to get into smartphones? Is the APU-running tablet as small as you're gonna go? 
+ We have three priorities at AMD: Cloud, Convergence and Consumerization. Convergence is part of the tablet story and we want to be part of that. But on the smartphone side there are a lot of players that are lowering the margins, and we really want to focus on other things, using all the leadership technologies that we have.
+
+ Just one more question, and it's a slightly personal one: You work in an extremely competitive environment, where you're up against ever-present rivals like Intel and NVIDIA. What is that like? Do you pay much attention to those guys?
+ I've been with ATI and AMD for the past 16 years and I wouldn't change that for anything. When I started at ATI there were 30 companies doing graphics. If you look at how the world has changed in the past 15 years, it's amazing, and it's cool to be part of that. We do pay attention to our competitors to make sure we haven't missed anything, but at the end of the day we try to look at what people want to do in the future and we try to anticipate their needs for years to come.
+
+

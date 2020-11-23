@@ -1,0 +1,13 @@
+
+One of Project Loon's hot air balloons just completed a journey 'round the world, but unlike Vernes' Phileas Fogg who took 80 days to do so, Google's creation took but a mere 22 days. That far exceeds Mountain View's expectations (the team thought it would take around 33 days), all thanks to data collected by previous test flights. You see, the folks behind the project make sure to assess and use those findings to continue improving their balloons. In fact, this model (called Ibis-167), which had to brave particularly strong winds, might not have made it if not for the changes the team made.
+
+
+
+                 
+ 
+ 
+ The team writes on the project's Google+ page:Since last June, we've been using the wind data we've collected during flights to refine our prediction models and are now able to forecast balloon trajectories twice as far in advance. In addition, the pump that moves air in or out of the balloon has become three times more efficient, making it possible to change altitudes more rapidly to quickly catch winds going in different directions. There were times, for example, when this balloon could have been pulled into the polar vortex – large, powerful wind currents that whip around in a circle near the stratosphere in the polar region – but these improvements enabled us to maneuver around it and stay on course.
+
+Project Loon is one of Google X Lab's (the company's more adventurous outfit also responsible for Glass) brainchild, which hopes to offer hot air balloon-powered internet connection someday. Until then, the team will continue doing more test flights -- the Ibis-167 is already on its second journey, clocking the project's 311,000th mile -- to ensure the hardiness of their balloons.
+
+

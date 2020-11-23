@@ -1,0 +1,6 @@
+
+ 
+When malware writers fail to generate clean, reliable code, just who can you trust? On the heels of many Windows XP 32-bit users facing blue screen of death errors and unwanted reboots, Microsoft is now confirming that there's a little bit of malicious code sitting at the root of it all. A rootkit, to be specific, one called Alureon that compromises the atapi.sys file and others. This rootkit makes a system call via an address that, after the update, no longer corresponds to the particular call Alureon is trying to make. This is apparently the cause of the BSODs, not the update itself, and so those suffering from similar issues can resolve them by simply replacing corrupted system files via the recovery console. It won't be as much fun as using Microsoft's more popular console, but should at least cure what ails you.
+      
+
+ 

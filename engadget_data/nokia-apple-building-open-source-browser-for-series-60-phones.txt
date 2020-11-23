@@ -1,0 +1,17 @@
+
+Apple's Safari web browser may not be available on the majority of the world's personal
+computers (at least not officially, that is), but it's
+about to carve out a whole new market — on smartphones. Nokia has been working with Apple to develop a new browser for
+its Series 60 phones, which will be based on
+WebCore and JavaScriptCore, the open source components that are the basis for Safari. Apple recently
+caused a stir in the open source community when it
+broke away from the KHTML project (which developed the technology behind WebCore and JavaScript Core) to form its own
+open source project focused on its WebKit environment, which includes WebCore and JavaScript Core. The new browser, to
+be compatible with all Series 60 phones, including those from LG, Panasonic and Samsung, is expected to be available in
+the first half of next year. Though Nokia says it will "actively participate in the open source community to further
+develop and enhance these components," there's currently no info or source code related to the project on the
+WebKit web site. 
+
+
+
+ 

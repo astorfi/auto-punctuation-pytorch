@@ -1,0 +1,74 @@
+
+If Defcon is the cultural Comic-Con of security conferences, then RSA is more like the business-focused Game Developers Conference (GDC), though largely packed with government-corporate attendees.
+
+
+At the midpoint of a long day during last month's RSA San Francisco 2015, the largest security conference in the United States (with a record-breaking 33,000 in attendance), Congressman Mike Rogers took the stage to debate in favor of renewing the Patriot Act's Section 215, sometimes called the "library records" provision. "Renewing the Patriot Act" at RSA was about one of our nation's most pivotal public pain points in recent history -- Section 215′s facilitation of bulk telephone record collection. Despite the high-profile nature of this debate and its critical timing, it was a bizarrely toothless, kind of clueless, softball argument that somehow managed to completely avoid discussing why the renewal of this section of the Patriot Act, right now, is such a big deal.
+
+
+
+Simply put, 215 allows investigators to obtain "any tangible things (including books, records, papers, documents and other items)," as long as the records are sought "in connection with" a terror investigation.
+
+In 2013, when The Guardian published a leaked court order provided by disillusioned former government contractor Edward Snowden requiring the Verizon Business Network to hand over massive amounts of users' phone records to the National Security Agency vis à vis the Patriot Act's Section 215, nightmares about unchecked domestic spying went to center stage, and suddenly everyone was talking about metadata.
+
+
+215 allows investigators to obtain "any tangible things (including books, records, papers, documents and other items)."During the debate, the congressman was keen to gloss over the topic of metadata. This data collection, he explained, was in email, and was only collected as the "to-from" as if "on the front of an envelope."
+
+His debate opponent onstage, Google Director of Law Enforcement and Information Security Richard Salgado, didn't question the Congressman's egregiously off-base talking point -- though later, an audience member did, reminding Rogers that metadata was much more than that.
+
+Rogers, it should be noted, while a worthy selection to argue for reinstating the Patriot Act, has a habit of leaving information out when he talks about NSA and Patriot Act surveillance programs. It's also not the first time he's publicly conflated the Patriot Act's Section 215 (phone) and a different section, FISA's 702 (email).
+
+Fear of the unknown
+Because the exact government interpretation of Section 215 is classified, the Foreign Intelligence Surveillance Order published in The Guardian showed for the first time just how it's being used in an everyday capacity.
+
+According to The Guardian's 2013 exposé, 215 facilitated an order that required Verizon to share its records -- "telephony metadata" on calls made both in and out of the US -- with the NSA "on an ongoing daily basis thereafter for the duration of the order." Sprint and AT&T were also implicated in the data-handover scheme, bringing the total of affected Americans well into the hundreds of millions. With the number of customers totaling 120 million at AT&T, 102 million at Verizon and 55 million at Sprint, if you're an American, then this means you and most everyone you know had personal data indiscriminately collected in a vast government database somewhere.
+
+Justifiably, you might have concerns about the who, what, when, why and how pertaining to information about your life you didn't even know was being collected. Is it safe? Are there creeps with access to it? Will you end up in a program you didn't know about? How private is that data? Who is it shared with? Does it violate my rights? Is it really what our trusted officials say it is, just like information available on the front of an envelope?
+
+It turned out that the phone-record metadata sweeps trickling down from Section 215 do indeed include Rogers' "to-from" data in a call: the time and duration of a call, the "to-from" phone numbers and any calling card numbers. In 2013, the order was published revealing the shared phone data also includes the trunk identifier (narrowing down the physical location of the caller), the IMEI number (the phone's unique identifier) and the IMSI number (the SIM card's unique identifier).
+
+The Guardian noted at the time that when this metadata is combined with publicly available information, it's not difficult to reveal "someone's name, address, driver's license, credit history, social security number and more."
+
+It's unlikely that the debate at RSA would have happened without the events of June 2013, or that the wider Patriot Act-renewal debate would have become as emotional, venomous and headline-gathering as it is now.
+
+The Patriot Act is actually a vast and sprawling body of work, and just like the Department of Homeland Security, it was thrown together quickly in the wake of 9/11 and immediately implemented with minimal debate and little congressional oversight on October 26, 2001.
+
+Officially called the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act, it authorized what the US Department of Justice describes as "modest, incremental changes in the [existing] law" that have become crucial for protecting Americans from global terrorist organizations.
+
+The Patriot Act is a sprawling body of work thrown together quickly in the wake of 9/11 with minimal debate.Insisting that Congress was working with what was actually already there, the DoJ said that Congress simply "took existing legal principles and retrofitted them" to protect Americans through expanded surveillance and information sharing.
+
+The Patriot Act's most controversial provisions -- though by no means the only provisions of concern to critics -- included indefinite detention of immigrants, expansion of the government's ability to secretly search and surveil without a court order (including the disclosure of electronic communications to law enforcement agencies) and expanded definitions of "terrorist activity."
+
+With all this in mind, it's easy to see why, on one end of the debate, the Patriot Act is likened to authoritarian systems of surveillance and repression (George Orwell) -- while on the other side, we can envision a government struggling to balance risk, security, its obligations to privacy and an institutional inability to move as fast as technology, let alone as nimbly as its attackers.
+
+
+But after 2013′s disclosures about mass surveillance, suddenly it wasn't just conspiracy theorists and fringe civil liberties groups talking about the US government spying on unaware Americans through bulk collection of phone and electronic communications.
+
+Lawmakers lashed out emotionally at critics, and the act's author expressed a disturbing regret. The Patriot Act's original author, Rep. Jim Sensenbrenner, R-Wis., said that what had happened with the Patriot Act was "a failure of oversight" and told The Washington Post that it was, essentially, a mistake. "I can say that if Congress knew what the NSA had in mind in the future immediately after 9/11, the Patriot Act never would have passed, and I never would have supported it."
+
+Referring to Section 215, Sensenbrenner told The Hill, when squaring off against Rogers over reforming the act, "There is no limit -- apparently, according to the NSA -- on what they can collect. And that has got to be stopped," he said.
+
+Likely referring to the renewal of 215's provisions in 2011 by Congress and the Obama Administration, as well as its previous renewal by the Bush Administration in 2006, then-Senate Majority Leader Harry Reid, D-Nev., told The Wall Street Journal in 2013, "Everyone should just calm down and understand this isn't anything that is brand-new." He added that the phone-data program has "worked to prevent" terrorist attacks.
+
+
+Unfortunately for those who just wanted the attention to go away, "everyone" was not calming down. "Everyone" was talking about the NSA, the Patriot Act and the meaning of "metadata." Enterprise organizations and small companies alike changed their security practices. Information-security communities were blown away -- and take it from me, this is no easy feat. Trust in the US government and American enterprise services spiraled downward, achieving a newfound status of the most dark and damaging kind.
+
+What was learned about Section 215 in 2013 even resonated into pop culture. The entire theme of the 2014 film Captain America: The Winter Soldier was the American willingness to surrender freedom for security -- and the grave consequences this brings. Crystallizing American disillusionment in the most straightforward of ways, it was a uniquely un-American superhero movie -- about America's own emblematic hero -- whose ideology is shattered by an American government gone out of control. It's safe to say that some Americans could relate.
+
+Now, provisions in the Patriot Act governing its particular raw nerves of metadata surveillance and bulk collection of phone and internet records expire on June 1st, unless they receive Congressional reauthorization -- and it's the first time a renewal has come up since everyone found out how the surveillance sausage was made.
+
+The race to June 1st: posturing and compromise
+Last month, current Senate Majority Leader Mitch McConnell, R-Ky., along with Senate Intelligence Committee Chairman Richard Burr, R-NC, attempted to seize control of the act's future by introducing a bill that would extend the provisions unchanged through 2020 -- invoking a rule to have the bill skip the vetting process and go straight to the floor for a vote.
+
+Senator Patrick J. Leahy, D-Vt., responded in a same-day statement saying, "This tone-deaf attempt to pave the way for five and a half more years of unchecked surveillance will not succeed. I will oppose any reauthorization of Section 215 that does not contain meaningful reforms."
+
+Two bills, no real changes, a blindfolded fight over the Patriot Act and a bad feeling about everything.This week, the House Judiciary Committee reached a bipartisan agreement on a different bill, one intended to counter McConnell's play, and it will also go straight to the floor, skipping review by the Senate's Intelligence Committee, whose current chairman is Burr.
+
+
+The USA Freedom Act (watered down from a previous version) narrows the type of records collected, and adds oversight provisions, but doesn't end bulk data collection. Some committee members did press to end the bulk-collection practice, and to add provisions to require warrants, but were talked out of it, ostensibly in lieu of making the bill more passable on the floor.
+
+Here's where we stand with Patriot Act Section 215: two bills, no real changes, a blindfolded fight over the Patriot Act and a bad feeling about everything.
+
+As Patriot Act allegories go, the Captain America reference isn't actually that far off. It appears we have a roster of lawmakers awakening after decades of suspended animation who can't quite grasp a world of quicksilver technology, a public that informs itself -- and an emergent belief that the biggest threat to the personal safety and liberty of Americans might just be the ones running the show.
+
+[Image credits: US Capitol Building (rrodrickbeiler via Getty); RSA Banners (RSA); NSA offices (AFP/Getty Images); Protestors (Associated Press); Mitch McConnell​ (Associated Press); George W. Bush signs the USA Patriot Act (MMCT via Getty Images)]
+

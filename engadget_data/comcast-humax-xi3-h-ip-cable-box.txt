@@ -1,0 +1,8 @@
+
+ Comcast isn't opening up its set-top boxes (UI and all) in the way we'd like, but it has established a reference spec (RDK) for potential hardware partners to build their own versions of its next generation setup. As reported by Light Reading, Cisco, Humax, Pace, Technicolor and others are working on hardware for a new multiroom setup based on a central gateway (or maybe a Cablevision-style network DVR) that streams video to IP-connected extenders called the XI3. Now Humax's Xfinity-branded XI3-H has been revealed in an FCC filing spotted by Wireless Goodness. It sports a coax in/out connection for MoCA and TV, HDMI in and out, Ethernet and a USB port for a WiFi adapter. There's also an SD card slot interestingly, which could potentially be used as local DVR storage for quick pause and rewind without pulling from the main server.
+
+
+
+ As it stands, Comcast already offers a pretty standard MoCA-based AnyRoom DVR setup, it's rolled out the Pace-built X1 as its first next-gen DVR in some areas, and is dabbling in IP crossover with the AnyPlay transcoder. Other cable companies like Time Warner Cable are said to be interested in RDK hardware, which could spur the development of new and better set-top boxes -- we can hope, can't we? Hit the source link for more pics and a manual although there's little revealed about the XI3-H's functionality, whatever gateway device it might connect to or why that HDMI passthrough is so necessary.
+
+

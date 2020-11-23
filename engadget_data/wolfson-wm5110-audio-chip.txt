@@ -1,0 +1,14 @@
+
+What you're looking at above is a demo board carrying a next-gen Wolfson WM5110 audio chip for smartphones. This bit of silicon isn't in any market-ready handsets just yet, hence the DIY setup, but given Wolfson's well-cemented partnership with Samsung there's every chance this'll be the audio hub in the next Galaxy S, as well as potentially in other manufacturers' phones coming out in 2014.
+
+
+One of the WM5110's headline features is the ability to handle high sample rate music tracks at 24-bit and 192KHz, aka "studio master" or "better than CD quality" sound. Such skills are generally reserved for pricey standalone DACs like iRiver's AK100, which allows Wolfson to claim that this is the first implementation for inside a smartphone. We have an ears-on video for you after the break, but it's not much use for judging audio quality -- the event was too noisy even for us to attempt that, so we'll just wait to do another audio round-up in more controlled conditions -- but at least there's some proof of principle. On the other hand, if you're unconvinced as to whether 192KHz is even a worthwhile spec to have in smartphones, then read on to learn about some of the WM5110's other abilities, which have a more practical bent.
+
+
+
+
+This next-gen audio chip is actually a quad-core SoC in its own right, with four digital signal processors (DSPs) onboard. Wolfson's CEO Mike Hickey acknowledges that this makes the WM5110 "significantly more expensive" than the WM1811 in the global GS3 or the WM5102 in the Exynos GS4, but says that the hub will compensate for that by incorporating functions that make other components unnecessary -- such as separate noise cancelling processors. In fact, he says the four DSPs will themselves deliver far superior noise cancelling for both incoming and outgoing sound (e.g. for the person speaking and the person listening to a call), and we were shown a demonstration in which the difference compared to the current-gen Wolfson chip was definitely noticeable.
+
+More Info Smartphones for audiophiles (2012) iRiver's $1,300 DAC: the AK120 V-moda's Vamp Verza DACAnother advantage of the WM5110 is a low-power state that allows for voice activation without draining the battery. This means that instead of having to hit a button to start a voice recognition service like S Voice, a WM5110-equipped smartphone would be permanently listening out for your trigger phrase, and only when it hears that will it switch on the application processor for more advanced voice recognition. According to Hickey, this listening mode would only consume a tiny amount of power -- taking as little as 12 minutes off a 24-hour battery cycle. In terms of mainstream users at least, it's safe to say that this feature could have far more impact than high bitrate audio.
+
+

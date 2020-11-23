@@ -1,0 +1,4 @@
+
+Just over a month ago, CyanogenMod founder Steve Kondik left Samsung, with a parting elucidation about the Galaxy S 4. The very same phone was expected to not be supported by the CM crew, leaving prospective buyers and fans of the firmware to consider their loyalties. Hope was restored when Kondik teased an image via Google+ showing the about screen for CM10.1 on T-Mobile's version of the handset (SGH-M919). Now, he's confirmed it's here (and quickly done, too), with word that other variants (I9505 etc) will follow as and when hardware is sourced. Kondik claims that, while not quite perfect, that the port is complete enough to provide all core features, including, at some point, support for Android's hover events. The nightlies are available now, so if you've got the right mix of Magenta and Cyan, keep an eye on the usual sources for the goods.
+
+

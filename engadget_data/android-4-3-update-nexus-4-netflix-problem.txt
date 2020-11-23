@@ -1,0 +1,7 @@
+
+While Android 4.3 is a relatively minor upgrade in the grand scheme of things -- bringing restricted profiles and some added graphical grunt to the platform -- it seems that the new OS version is wreaking havoc on some Nexus 4 devices. On Google's Product Forums, most people having problems report that after the update is downloaded and installed, their handsets either freeze on the 'X' splash screen or get stuck in a never-ending boot loop. For now, folks report that the only fix is to factory reset their handsets or flash to an older version of Android, and lose all of their saved data in the process. While there are no shortage of people apparently stuck in update purgatory, it's unclear exactly how widespread the problem is; our own in-house Nexus 4 received 4.3 without issue.
+
+
+Additionally, the new Android version isn't playing nice with Netflix on Nexus 4's, either. After upgrading, launching the Netflix app is causing some handsets to freeze up -- and only resetting the phone with a long press of the power button will get the phone working again. Android engineer Dan Morrill has said that Google is aware of the Netflix issue, however, and that its working on a fix. Regardless, Nexus 4 owners might want to think twice before upgrading. We've reached out to Google for an official comment on these problems, and will update this post should we receive one.
+
+

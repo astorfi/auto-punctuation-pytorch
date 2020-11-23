@@ -1,0 +1,8 @@
+
+Yes, Epic Games' Unreal Engine 4 can be used to create large, dramatic demon gods, but that doesn't mean it's only used to create large, dramatic demon gods. It's also used to create sneaky thief demos! Oh, and as Mozilla demonstrates this morning with video of Unreal Engine 4 running from within Firefox, the engine can be used for much smaller-scale applications as well (such as the basic 2D platforming game seen in the video below the break). All this is to demonstrate that developers can use web clients (Firefox at least) to create games that are "almost indistinguishable from ones [you] might have had to wait to download and install" -- the demo is running without plugins at "near-native" speeds. Apparently Unreal Engine 3 support simply wasn't enough? We'll be sure to ask when Mozilla shows off UE4 in Firefox next week at the Game Developers Conference.
+
+
+
+
+)
+ 

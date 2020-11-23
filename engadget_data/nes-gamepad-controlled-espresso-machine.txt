@@ -1,0 +1,6 @@
+
+ 
+We've touted the benefits of espresso machine modding in the past, but Tim Herzel has taken the dark art to even geekier caffeine-fueled heights with his latest contraption, an espresso machine controllable by an NES gamepad. That bit of retro engineering alone would be enough to get our attention, but the machine (a Rancilio Silvia number) has also been outfitted with an array of other "improvements," including the ever-present PIC microcontroller, a 20 character VFD display, three zero-crossing solid state relays, an IC thermometer, and a laser cut acrylic top to put all that hard work on display. Not present, unfortunately, is an actual NES embedded in the machine to let you squeeze in a bout of Punch-Out!! while you wait for your brew, though maybe we can convince our pal Ben Heckendorn to hook us up with that feature.[Via MAKE:Blog]
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Up until now, a shroud of mystery has surrounded Apple's custom engineered A4 system-on-chip; we know it's clocked at 1GHz, likely tied to Apple's prior acquisition of P.A. Semi and manufactured by Samsung. Outside of that, the only other knowledge we've gained has come not from the mouth of Cupertino, but from the extracting wizards over at iFixit. The A4 contains at least three layers of circuitry layered on top of each other, though it's packaged just like the iPhone processor: microprocessor in one package and two memory modules in the other package. We also learned that the iPad RAM is actually inside of the A4 processor package, and we're expecting to learn even more from those folks in the coming days. All that said, there's still much debate on whether Apple's own silicon can stand up to Qualcomm's heralded 1GHz Snapdragon, the chip powering Google's Nexus One among other things. AnandTech pitted their iPad against the iPhone 3GS (600MHz ARM Cortex A8) and the aforesaid Nexus One (1GHz Snapdragon QSD8250), using a number of website loads as the primary benchmark. Overall, the A4 proved to be around 10 to 30 percent faster, though it's impossible to say what effect the operating system has on things. Have a gander at that source link for more -- we get the feeling the competitions have just begun.
+      
+
+ 

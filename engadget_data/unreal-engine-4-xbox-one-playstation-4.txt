@@ -1,0 +1,10 @@
+
+Moving a game from one platform to another -- from iOS to PC, from Xbox One to PlayStation 4 -- isn't as easy as it seems. Just change a few button prompts and you're all set, right? Not so much. There's a lot to consider: how do you control the game (mouse/keyboard/gamepad/touch/etc.)? does it sync up with online leaderboards? does it have the proper logos/attribution? Epic Games' Unreal Engine 4 aims to circumvent as much of that as possible, and today it's enabling two more platforms: Xbox One and PlayStation 4. In terms of Xbox One peripheral support, that includes Kinect, and in terms of PlayStation 4 peripheral support, that includes the Project Morpheus virtual reality headset.
+
+
+
+The update brings UE4 to version 4.1, and is part of the same $19/mo. monthly subscription fee that customers are already paying. The engine itself is actually being certified directly by both Sony and Microsoft right now, which should help with game certification down the line; Sony's PS4 is already ready-to-go and Microsoft's Xbox One is in the works (though game makers can submit UE4-made games for publishing on either console before the process is complete for the engine itself).
+
+With today's update, the folks at Epic are actually running out of platforms to support: it already supports PC, last-gen consoles, current-gen consoles, SteamOS, Linux, and the Oculus Rift. They're still working on Windows Phone 8 and, though there's no "concrete roadmap," a full version of the UE4 editor is in the works for Linux. The game industry's most prolific engine is quickly becoming the game industry's most widely available as well.
+
+

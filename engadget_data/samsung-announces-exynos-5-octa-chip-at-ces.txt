@@ -1,0 +1,4 @@
+
+ Samsung's second keynote, and the news keeps coming. The mobile giant has just annouced a new Exynos 5 Octa chip, based on the ARM big.LITTLE / Cortex A15 architecture. Designed to be a low powered, high performance mobile processor. Samsung claims that the 3D gaming performance is twice that of anything available at the moment. The demonstration given on stage by Dr Woo showed him searching for restaurants and watching an HD movie while singing the virtues of its fast performance and power sipping abilities. While we don't have full details at the moment, this sounds very much like the chip we heard about back in November that is expected to run dual quad-core set ups (1.8GHz A15 for the hard work, 1.2GHz A7 for lighter tasks) all on a 28-nanometer process.
+
+

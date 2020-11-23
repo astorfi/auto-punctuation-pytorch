@@ -1,0 +1,6 @@
+
+ 
+So, there's already an open source driver for the Kinect -- who needs to learn how to reverse engineer USB all over again? Well, ladyada of Adafruit Industries, the folks responsible for the Kinect hack bounty and the USB logs used by the bounty winner to get a jump on his hack, has published a detailed guide on exactly how she sniffed the Kinect's USB chatter. The guide isn't for the faint of heart, but it's not completely unintelligible to someone with a bit of time and determination. If anything it serves as an excellent bit of how-the-Kinect-was-won history. We're not expecting Microsoft to reconsider its "Microsoft does not condone the modification of its products" stance on this issue, or its petty threat of law enforcement "to keep Kinect tamper-resistant," but we do hope they've learned one thing by now: they're fighting a losing battle.
+      
+
+ 

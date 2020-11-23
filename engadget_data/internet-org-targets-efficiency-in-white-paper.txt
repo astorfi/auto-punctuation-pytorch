@@ -1,0 +1,12 @@
+
+
+
+If Internet.org ever hopes to be successful with its goal of bringing affordable internet to the next 5 billion people, the cost of delivery will need to be much cheaper than it is today. Today, members of the coalition -- which includes Facebook, Qualcomm, Ericsson and others -- released a substantial 70-page white paper that outlines some of the initial steps that are on the drawing board. According to the group's estimates, data delivery is currently 100 times too expensive to execute the vision of Internet.org, but all of that could change within the next decade.
+
+
+To accomplish this, Internet.org is seeking ways to bring a tenfold improvement to the cost of delivering data, along with apps that are 10 times more efficient. For Facebook's part, it highlights technologies such as HipHop for PHP and the HipHop virtual machine, which allows its existing servers to accommodate 500 percent more traffic than before, and its Air Traffic Control system, which allows it to simulate different mobile networks and congestion systems around the world. Similarly, Facebook is looking to compression technologies such as WebP -- currently in use on its Android app -- to replace image formats such as PNG and JPEG, which alone could reduce network traffic by 20%.
+
+
+Another challenge is looming, however, as Qualcomm estimates that the demand for data will double each year over the next 10 years, ultimately increasing 1000 fold over where it is today. To meet that demand, it's lobbying for a substantial spectrum reallocation, along with technologies such as carrier aggregation, LTE-Broadcast and LTE Direct. Combine this with more unconventional approaches that it'll reveal at a later date, and you begin to appreciate the massive undertaking that lies ahead for the partners of Internet.org.
+
+

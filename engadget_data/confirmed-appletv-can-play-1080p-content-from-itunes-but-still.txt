@@ -1,0 +1,6 @@
+
+ 
+The header says it all folks. We just ran some tests on the AppleTV's playback limits by streaming 1080p movie trailers in iTunes and managed to verify murmurs saying the device can accept 1080p content. Unfortunately, output is a different story, since it downscales the image back to 720p on your display. Yes it's a little frustrating -- especially since it's predecessor was up to the challenge -- but it should at least comfort those with a massive library of 1080p videos who were worried about reconverting for their new black box. Considering the hardware gems discovered in the AppleTV teardown however, we're still holding out for the jailbreak community to let us play our 1080p files, and display them too. Oh, and if they could get to work on Super-Hi Vision support at some point, well, that'd be just dandy.
+      
+
+ 

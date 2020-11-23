@@ -1,0 +1,4 @@
+
+Crafting a seriously great app experience for one device is hard enough, but these days developers have plenty of form factors to tackle. Microsoft is trying to ease their suffering a bit with the introduction of universal Windows apps, which just took the stage at the company's Build conference in San Francisco. Long story short, you'd theoretically only have to write an app in Visual Studio once. Most of the code (in the language of your choosing, Microsoft insists) remains the same, but that universal app will take on a different appearance depending on what device it's running on. Well, if you want it to, anyway. Naturally, developers can fine-tune the finished product too, so the experience of using the app on Windows Phone feels as polished as it does on a PC. You'd be forgiven for thinking this is a bit on the dry side, but this is a big deal -- Microsoft is trying to break down the app barrier so devs can make more consistently good apps for us faster.
+
+

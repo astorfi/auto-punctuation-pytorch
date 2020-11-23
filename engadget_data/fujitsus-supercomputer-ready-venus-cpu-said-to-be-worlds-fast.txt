@@ -1,0 +1,6 @@
+
+ 
+Due to the intrinsic limitations of machine translation, it's hard to say exactly what makes Fujitsu's latest supercomputer the "world's fastest," but we'll hesitantly believe for the time being. We're told that the SPARC64 VIIIfx (codename Venus) can churn through 128 billion calculations per second, which supposedly bests the current champ -- a chip from Intel -- by 2.5 times. An AP report on the matter states that Fujitsu shrunk the size of each central circuit, which in turn doubled the number of circuits per chip. 'Course, this beast won't be ready for supercomputer work for several years yet, giving the chip maker's biggest rivals plenty of time to sabotage its moment in the limelight.[Via Physorg]
+      
+
+ 

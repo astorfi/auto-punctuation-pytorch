@@ -1,0 +1,8 @@
+
+ 
+Intel's churning out the mobile chips like nobody's business -- no sooner does it admit the existence of Core i5 and Core i3 ULV CPUs, the chipmaker finds itself with more explaining to do. That's because dedicated Hewlett-Packard fans just found references to three new standard-voltage Core 2010 chips in the service manuals for the new HP Envy 17 and Envy 15 gaming laptops. The i7-840QM appears to be Intel's new top-of-the-line quad-core CPU, sporting a 1.86GHz clock that turbos up to 3.20GHz (or 3.20MHz, if you believe the above screencap) and 8MB of L3 cache; the i7-740QM is two steps down with 1.73GHz / 2.93 GHz clocks and a 6MB L3 cache; and the i5-450M appears to be indistinguishable from the existing i5-520M with 2.4GHz / 2.93 GHz clocks and 3MB of L3 to help it along. Given the megahertz typo above and the fact that none of these new processors appear anywhere else in the documentation, we wouldn't be surprised if these specs weren't rock-solid... but if they are, the new Envy may well live up to its name. Full PDF available below.
+
+[Thanks, Reznov]
+      
+
+ 

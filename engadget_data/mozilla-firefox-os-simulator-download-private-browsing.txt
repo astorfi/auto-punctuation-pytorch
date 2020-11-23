@@ -1,0 +1,8 @@
+
+ We knew it was en route, and now developers anxious to try out potential apps for Firefox OS can finally get to cracking without the need to source any additional hardware. The 1.0 build of the Firefox OS Simulator enables devs to test their programs for the outfit's new mobile OS without having to find a compatible phone. Mozilla's calling this a "preview" for now -- given that Firefox OS itself is still in development -- but it's still an exciting launch for those who've been waiting patiently to get their code dirty. Moreover, the company is bringing per-window private browsing to Firefox, though it's being reserved for the experimental Nightly versions of Firefox until it's stable enough to hit the release channels. Head on over to the source links for more, or pop past the break for a video demonstration.
+
+
+
+
+ 
+ 

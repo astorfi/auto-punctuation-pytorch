@@ -1,0 +1,10 @@
+
+ 
+iFixit may have physically uncovered Apple's latest silicon, but it's the processor gurus  that have discovered what's truly inside -- using software benchmarks, they've unearthed the speeds and feeds of the Apple A5. As you'll no doubt be aware having read our headline above, there actually isn't a 1GHz CPU at the helm, as AnandTech and IOSnoops report the dual-core ARM chip is dynamically clocked around 900MHz, likely in search of reduced power consumption. Perhaps more interestingly for all you gamers in the audience, the iPad 2 reports that it has a dual-core PowerVR SGX543MP2 GPU on the die as originally foretold -- and, spoiler alert -- it mops the floor with both the original iPad and the Motorola Xoom. Though the new chip didn't quite demonstrate 9X the graphical prowess of its predecessor, it rendered 57.6 frames per second in a GLBenchmark test where the (admittedly higher-res) Tegra 2 tablet managed only 26.7fps, and last year's iPad pulled only 17.6fps. That's some serious Tai Chi. Hit up our source links to see the difference it can make in games like Infinity Blade.
+
+Update: Though it sure sounds like there's a dual-core ARM Cortex A9 in there, that's not yet a proven fact -- we only know that it's a dual-core ARM v7 chip which performs relatively similarly in non-graphical tests. [Thanks, Jim]
+
+[Thanks to everyone who sent this in]
+      
+
+ 

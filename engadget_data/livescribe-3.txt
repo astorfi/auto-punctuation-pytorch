@@ -1,0 +1,14 @@
+
+Livescribe broke new ground last year with the Sky WiFi pen that could transfer handwritten and audio notes straight to the cloud (well, to your Evernote account anyway), so that they'd be accessible anywhere there's an internet connection. Having to jump on WiFi to send and retrieve those notes didn't make it the most convenient thing when out and about however, especially if you rely on your smartphone or tablet as a daily driver.
+
+
+Enter the Livescribe 3, which offers a solution to that problem. The company's latest smartpen is positioned as a companion specifically designed to work in concert with a compatible mobile device, which in this case only applies to those that run iOS. Once paired via Bluetooth LE, notes written in a Livescribe notebook will automatically appear on the accompanying Livescribe+ app. Indeed, the application and mobile device are so integral to the Livescribe 3, that unlike the Echo or the Sky, the 3 does not have a built-in microphone. Instead, it hands off the audio recording to your iPhone or iPad when you hit the record button either on the paper or the app. As before, it'll sync the results with your scribbled notes -- the app actually highlights the coinciding text as the audio playback occurs. Of course, this means that these so-called "pencasts" are simply not possible if the pen is disconnected from the device. However, notes written while not connected will still sync up later on.
+
+
+
+
+
+
+
+
+

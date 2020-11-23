@@ -1,0 +1,5 @@
+
+ Remember the 12 rules of Windows Marketplace for Mobile Microsoft posted a few weeks back? For coders, those were just the beginning. The Windows Mobile Developer portal is now live, serving pages upon pages of PDFs with rules, regulations, and plenty of fees, too. A 10-page license agreement describes the account fee ($99 per year), transaction fees (30 percent of each sale), and, most importantly, the license fee, which is the monthly amount paid out to the developer based on their app sales. A further 32-pages worth of submission guidelines advise on everything a registered developer needs to know to get an app through certification, including thrilling subjects like shortcut placement and icon design, DLL installation directories, and details of the fearful Hopper test -- two hours of random inputs and waterboarding. Apps will also be tested for memory leaks and to ensure that they play nicely with on-screen keyboards, two things many current third-party WinMo CABs have issues with. Marketplace will drop whenever Windows Mobile 6.5 starts hitting handsets -- officially, that is. [Thanks, the::unwired]
+      
+
+ 

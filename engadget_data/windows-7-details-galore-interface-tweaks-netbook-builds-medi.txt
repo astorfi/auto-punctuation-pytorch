@@ -1,0 +1,20 @@
+
+ 
+Microsoft's Windows 7 announcement earlier today was followed up by an extensive demo of the new features during the PDC keynote, and since then even more info about the new OS has flooded out, so we thought we'd try to wrap up some of the more important bits here for you. Microsoft seems to have done an impressive job at this early pre-beta stage, folding in next-gen interface ideas like multitouch into the same OS that apparently runs fine on a 1GHz netbook with 1GB of RAM, but we'll see how development goes -- there's still a ways to go. Some notes:
+
+Obviously, the big news is the new taskbar, which forgoes text for icons and has new "jump lists" of app controls and options you can access with a right-click. You can select playlists in Media Player, for example. Super cool: when you scrub over the icons, all the other app windows go transparent so you can "peek" at the windows you're pointing at. 
+Gadgets now appear on the desktop -- the sidebar has been killed. That makes more sense for all those laptop owners out there with limited screen space, and you can still see gadgets anytime by peeking at the desktop, rendering all other windows transparent. 
+Window resizing and management now happens semi-automatically: dragging a window to the top of the screen maximizes it, pulling it down restores; dragging a window to the edges auto-resizes it to 50% for quick tiling. Nifty.
+The system tray now only displays what you explicitly say it should -- everything else is hidden, and the controls have been streamlined.
+User Account Control settings are now much more fine-grained -- you can set them by app and by level of access. 
+They demoed multitouch features on an HP TouchSmart PC -- it was pretty cool, although the usual nagging "what is this good for / that'll get old fast" concerns weren't really addressed. The Start menu gets 25 percent bigger when using touch to make it easier to handle, and apps will all get scroll support automatically. There's also a giant on-screen predictive keyboard. Again -- could be amazing, but we won't know until it's out in the wild.
+We've always known Microsoft intends Windows 7 to run on netbooks, and we got a small taste during the PDC keynote: Windows SVP Steve Sinofsky held up his "personal" laptop running Windows 7, an unnamed 1GHz netbook with 1GB of RAM that looked a lot like an Eee PC, and said that it still had about half its memory free after boot. (We're guessing it was running a VIA Nano, given the announcement this morning and since most Atoms run at 1.6GHz.) 
+At the other end of the scale, Windows 7 supports machines with up to 256 CPUs.
+Multiple-monitor management is much-improved, as is setting up projectors -- it's a hotkey away. Remote Desktop now works with multiple monitors as well.
+Media Center has been tweaked as well -- it looks a lot more like the Zune interface. There's also a new Mini Guide when watching video, and a new Music Wall album artwork screensaver that kicks in when you're playing music. 
+Devs got a pre-beta today; a "pretty good" feature complete beta is due early next year. No word at all on when it'll be released to market apart from that "three years from Vista" date we've known forever.
+
+That's just the good bits -- hit the read links for piles of more info and screenshots, and we'll keep our eyes out for anything else interesting. Exciting times!  Read - Keynote videos on the PDC site Read - Technologizer Windows 7 hands-on Read - Ars Technica Windows 7 interface walkthrough Read - Laptop Windows 7 hands-on Read - Windows 7 Media Center revealed
+      
+
+ 

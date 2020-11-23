@@ -1,0 +1,9 @@
+
+ 
+We always suspected the iPhone 3GS was capable of 1080p HD video playback, and now we've got proof. Although Apple lists the iPhone 3Gs's max video playback res at just 640x480, iLounge linked to Chinese forum post claiming that the 3GS could do 30Mbps 1080p playback earlier today -- and when we saw that the only thing we needed to do to test it out was download the free FileAid app, well, you know how we've just spent the last 20 minutes. We tested out a bunch of HD trailers from Apple's QuickTime trailer site, some videos we shot with a Lumix DMC-GH1 and some other random videos with general success, but there were some major hiccups: high bitrate 720p video off the GH1 stuttered during playback, and loading the Avatar trailer consistently crashed the phone's audio driver until we restarted. We tried the same thing on an iPhone 3G and just got error messages at almost every resolution, so it seems like it's a combination of the 3GS's extra horsepower and different built-in software at work here -- software that's clearly not ready for prime-time, as evidenced by the bugs. We're hoping Apple is polishing that up and getting ready to unlock this functionality, since it'd be sweet to just plug into an HDTV and play video -- anyone listening out there in Cupertino? Video after the break.Read - Apple iPhone specsRead - Chinese forum posts claiming 30Mbps 1080p playback
+      
+
+ 
+
+
+ 

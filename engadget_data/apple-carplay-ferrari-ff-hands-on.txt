@@ -1,0 +1,13 @@
+
+Apple's in-car infotainment system has been a long time coming. After it was announced at the company's annual WWDC conference in June last year, "iOS in the Car" flew under the radar, only to undergo a rebrand and launch publicly yesterday under a new moniker: CarPlay. Sharing part of its name with the company's AirPlay media-streaming protocol, CarPlay combines all of the iPhone's most important features and mirrors them inside the car, allowing car owners to call, text, navigate and listen to music (and more) using touch- or Siri-based voice inputs. The new in-car interface is compatible with new Ferrari, Mercedes and Volvo models unveiled at the Geneva Auto Show, and it's there that we got the chance to test Apple's automotive assistant inside a suitably equipped Ferrari FF coupe.
+
+
+
+
+
+
+Will CarPlay force you to buy an iPhone to go with your car (or vice versa)? Not really -- the Ferrari we tried actually deployed Apple's dash system alongside its own, while Mercedes-Benz and Volvo (two of Apple's other partners) have said they'll continue to develop Android and MirrorLink solutions for their new models. Compatible with the iPhone 5 and up, CarPlay is "loaded" into the Ferrari's built-in navigation system by way of a Lightning adapter located underneath the armrest. Wireless connections are coming, at least from Volvo, but our test was limited to traditional cables. Once it's connected, Ferrari will continue to utilize its own infotainment system, but users can load CarPlay by hitting a dedicated dashboard button, allowing all touch and voice inputs to be diverted to your iPhone. This loads the CarPlay dashboard, which features a familiar array of icons and services you'll recognize from your iPhone. From here, it's a case of using the touchscreen or calling upon Siri to load each of the services -- the latter of which can be summoned with the Siri Eyes Free button located on the reverse of the steering wheel.
+
+The first thing we noticed is how speedy everything is. Apps load quickly, and Siri's contextual algorithms hastily recognized our voice commands and responded appropriately. Apple has also implemented safety features to ensure services do not draw your attention away from the road and push forward its "hands-free" theme. For example, when we sent or received a message from a contact, Siri would only read the message back to us and we never once got the chance to see its contents. An Apple representative was able to talk us through each CarPlay feature, so do make sure you check out our in-depth hands-on video above to get a better idea of what Apple and its car maker buddies are aiming for.
+
+

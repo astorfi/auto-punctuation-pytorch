@@ -1,0 +1,16 @@
+
+Whatever you think of Apple's commitment to its user's security as of say... two weeks ago, CEO Tim Cook seems to be following up on his promise to bring more clarity to the company's efforts. Tonight he posted a letter to Apple customers on the company's website, launching a new section focused solely on "Apple's commitment to your privacy." There you'll find information information on how to use tools like two-factor authentication, recognize security threats and info on picking a strong password. Also included is the publicly available data on government requests and a little chest thumping on what Apple says it does to protect users that other companies (they mean Google) might not.
+
+
+[Image credit: AP Photo/J. Scott Applewhite]
+
+
+
+ Respect Privacy http://t.co/1ibWYLQR34
+- Philip Schiller (@pschiller) September 18, 2014Apple: We can no longer decrypt iPhones for law enforcement, starting w/ iOS 8. Suck it NSA http://t.co/n5xhRNUNM6 pic.twitter.com/2iX8vtoIfV
+- Christopher Soghoian (@csoghoian) September 18, 2014On iOS 8, Apple hides your device's MAC address when it's scanning for WiFi, which could otherwise be used to track the movement of a specific phone or tablet. Apple claims that unlike its competitors, it cannot bypass your passcode on iOS 8 to potentially unlock data from a device at the request of law enforcement. As of a couple of years ago, this was not the case. Security researcher Justin Case says current/updated Android phones can't have their passcode bypassed either, however it still may exist if the user is securing their phone with an unlock pattern.Of course, Apple still says that whatever data it does collect on users, could potentially be transferred to another company if it's ever sold or merges -- based on the current stock price that seems doubtful, but who knows. There's a lengthy white paper available (PDF) on its iOS security policies as well, so whether you're just need help locking down some private selfies, doing serious security research or trying to decide if Apple Pay is safe, there's plenty of reading to be done.
+
+Existing commercial forensics tools can still dump 3rd party app data, camera reel, video, and recordings from iOS 8 http://t.co/fbgNrKN12E
+Jonathan Zdziarski (@JZdziarski) September 18, 2014Update: Security researcher Jonathan Zdziarski points out that Apple's new iOS 8 protections may not keep all of your data safe by themselves. While "photos, messages (including attachments), email, contacts, call history, iTunes content, notes, and reminders" are protected under the passcode -- that's not everything. Information that could be accessed anyway by existing tools includes your camera reel, videos, iTunes media and all third-party app data. To keep these things secure, Zdziarski recommends turning off your iThing when it's not in use, and for any computers that are set up to pair with them (a trusted computer is necessary to dump the data) to be shut down, and have strong passwords/encryption set up.
+
+

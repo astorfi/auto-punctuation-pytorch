@@ -1,0 +1,11 @@
+
+
+The DEA isn't the only US law enforcement agency using impersonation on the web to catch suspects, it seems. The American Civil Liberties Union's Christopher Soghoian has noticed documents showing that the FBI created a fake, spyware-laden version of the Seattle Times' website to catch a teen bomb threat suspect in 2007. When the teen clicked the link to check out an equally fake Associated Press story, the hidden software installed itself and sent both the target computer's location and its internet address to officers. As you might gather, both civil liberty advocates and media outlets are furious -- the FBI effectively conducted a phishing attack, and neither the AP nor the Times appreciate having their names and likenesses used without permission.
+
+
+
+The FBI is defending its use of the tactic. It claims that it only resorts to these fake sites in "very rare circumstances" where it's likely to eliminate a threat, and it notes that the Times trickery ultimately led to a conviction after the culprit pled guilty. However, all it's saying is that the ends justified the means. This isn't really a defense of the act itself, which has its share of ethical and legal problems. For any civilian, running a phishing site would be a criminal offense; also, the warrant request only said that the FBI would install the software through "communication," not that it would imitate others to achieve its goal. There aren't any signs of an impending investigation into the case, but the revelation certainly won't improve the FBI's chances of getting mandatory backdoor access to Americans' devices.
+
+[Image credit: Stephen Chernin/Getty Images]
+
+

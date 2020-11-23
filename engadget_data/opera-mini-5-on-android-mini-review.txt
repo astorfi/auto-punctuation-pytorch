@@ -1,0 +1,12 @@
+
+ 
+Opera's Mini 5 beta finally hit Android in the wee hours of this morning and, while writing about what it looks like is nice, we thought a little walk-through to demonstrate the impressive speed of the thing was worthwhile. So we have a short video for you below, with a comparison against the stock Android browser, plus some impressions of just how it is to use. So, click on through, won't you?
+      
+
+ 
+
+Mini 5 relies on Opera's servers to cache and compress pages for you, so what's sent to your phone is actually much smaller than what you normally would download if you were to get the entire page. It's not quite like Skyfire, where the entire page is rendered off-site, more of a hybrid where the page is still rendered locally, but using compressed text and images. The result is impressively fast page loads at the cost of reduced image quality -- though you can request it to send you higher quality pics if you're not in a hurry.But it's not all about speed, and we're impressed by the simple UI of Opera 5. It's not groundbreakingly new or shocking compared to the earlier versions of Opera (or, indeed, any other mobile browser), but creating new tabs is quick and easy, selecting from bookmarks is about as painless as you can get, and the browser really makes great use of screen real estate. It should be no surprise that multitouch is not on offer here, so if you were hoping this would finally let you do some pinch-zooming on your Droid that's not the case, but double-tapping to get a closer look is very snappy, as is ducking back out to a wider view. Still, not everything is perfect. On the Engadget homepage some complex page elements are overlapping, and we often saw similar issues on other pages. So, there's still some work to do (this is, of course, a beta), but the speed is so good that we won't be uninstalling this one anytime soon.
+
+       
+
+ 

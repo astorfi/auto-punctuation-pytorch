@@ -1,0 +1,6 @@
+
+ 
+Now that we know the iPhone 3G S and the Palm Pre share extremely similar 65nm ARM Cortex A8-based internals, it's time to break out the stopwatches and see how these blood brothers stack up. Anandtech has the first head-to-head tests we've seen, and it seems like the 3G S has the slight edge, loading a series of web pages 11 percent faster and a whopping 54 percent faster than the iPhone 3G. Not too shabby, but not exactly a thorough drubbing either -- especially when you consider webOS is still 1.0 and there's likely some optimizations to come. Full results at the read link.Update: Anandtech had some uncharacteristically bad math going on -- the 3G S is actually 21 percent faster than the Pre, which is quite notable considering the similar hardware and WebKit-based browsers.
+      
+
+ 

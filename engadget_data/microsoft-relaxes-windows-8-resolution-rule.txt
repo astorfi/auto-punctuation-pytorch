@@ -1,0 +1,6 @@
+
+ Until now, Windows 8's official hardware requirements have been understandably ruthless: devices with anything less than 1,366 x 768 pixels need not apply. That policy was changed in a recent newsletter, however, to permit the creation of Windows 8 devices with a resolution of 1,024 x 768 -- likely representing a very different size and shape. Microsoft says the policy switch isn't meant to "encourage partners to regularly use a lower screen resolution", and it warns that such dimensions will be incompatible with Windows 8's split-screen feature, known as "snap". Which raises the question -- why mess with the rules?
+
+ Ed Bott over at ZDNet has an interesting theory. 1,024 x 768 matches the size and aspect ratio of many popular reader-sized tablets, like the iPad Mini, which are meant to be used in both portrait and landscape orientations. There's no official confirmation either way, of course, but Bott believes Microsoft's move could be deliberately aimed at allowing the development of 7- or 8-inch Windows 8 (or RT) tablets, possibly with the close help of Nook-maker Barnes & Noble. Indeed, Mary Jo Foley spotted that Redmond and B&N have registered a new joint venture, "NewCo", that explicitly mentions the creation of a "Microsoft reader". Considering all these clues, can a Wook (WiNook?) really be that far off?
+
+

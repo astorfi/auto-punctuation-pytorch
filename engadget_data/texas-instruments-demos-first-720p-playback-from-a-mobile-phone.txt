@@ -1,0 +1,5 @@
+
+       Texas Instruments demonstrated its first processor to enable high definition (720p) playback on mobile phones yesterday at 3GSM World Congress. The OMAP3430, first announced last year, is the first in TI's series of OMAP 3 processors and also first to include support for the OpenGL ES 2.0 graphics standard for 3D acceleration. The 3430 gets the muscle to move your HD files and 3D gaming from its embedded ARM Cortex-A8 processor, but from the specs it seems that the video portion is only currently supporting up to 1024 x 768 (XGA) output via composite or S-video connections. Still, with this power available, sometime in the future your common cellphone will be playing back HD on the go or outputting video to a big screen HDTV. We previously expected to see handsets based on the technology this year, but while TI is shipping samples of the processors now, don't expect your HD-capable cell to hit stores until early 2008.
+      
+
+ 

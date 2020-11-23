@@ -1,0 +1,7 @@
+
+It's not the first time that Kwikset's dabbled in wireless locks, but today the company's introducing Kēvo, a smartphone- (and tablet-) friendly lock powered by UniKey. The concept is pretty simple: pair a handset (running a special app) with Kēvo via Bluetooth, and simply touch the deadbolt to lock or unlock your door. A keychain fob is also available for those who have not yet joined the smartphone revolution. Kēvo only responds to touch when an authorized device or fob is detected nearby. A triple tap lets anyone lock your door, which is useful if a visitor leaves after you. The deadbolt is battery-powered using four AA cells that last more than a year with normal operation. It features a ring of RGB LEDs for feedback and a standard physical key for backup.
+
+
+Most of the magic is made possible by tech developed by UniKey. The key (natch) to the entire system is the Kēvo app which lets you manage eKeys. Once logged into the app, you can send and delete eKeys, or transfer them to another device (this also deletes the eKeys associated with a lost handset, for example) -- you can even create eKeys that only work once. Currently, the app is only available for iOS, which is a major limitation, but it supports push, email and SMS notifications and keeps a detailed log of which eKeys have accessed Kēvo and when. Pricing and availability remain a mystery, but all in all the system looks pretty clever. Stay tuned for more details, and check out the link below.
+
+

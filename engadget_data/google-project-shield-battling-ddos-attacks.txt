@@ -1,0 +1,18 @@
+
+The distributed denial-of-service attack, better know as a DDoS, is one of the more basic but effective ways of shutting down a website you might want to torment. Often, hackers use them to silence sites who hold viewpoints they disagree with, making it a popular tool for internet censorship. A few years ago, Google launched Project Shield, a tool that would let small sites route their traffic through Google in an effort to avoid such attacks -- and today, Wired is reporting that virtually any news site can sign up to be part of Project Shield and use Google's technology to stay online in the face of a DDoS attack.
+
+
+
+Originally, Project Shield came out of Google Ideas (now renamed Jigsaw) and was used by about 100 sites focused on hot-button topics like human rights, election monitoring and independent political news. But now any "independent" news site (a site that isn't sponsored by the government or a political party) can use Project Shield to help avoid DDoS attacks. While big news sites are welcome to join, Google's continuing to focus its efforts on smaller sites that don't necessarily have the infrastructure needed to fight off such an attack.
+
+"Just about anyone who's published anything interesting has come under an attack at some point," Project Shield leader George Conard tells Wired. "The smaller and more independent voices often don't have the resources, whether technical or financial, to really put good protections in place...That's where we come into the picture." Conrad specifically noted that Google wouldn't allow its tools to be used to push a political agenda -- anyone can use the service, regardless of what viewpoint a site is espousing. "One of the important things about keeping these voices alive is that you shouldn't be able to silence one point of view just by launching an attack," Conrad said.
+
+From a technical perspective, Project Shield lets those who sign up use Google's domain name servers rather than their own. After that, traffic coming to the site is routed through an intermediate, Google-owned intermediate "reverse proxy" server that can filter out malicious traffic. How exactly that's done wasn't specified, as Google doesn't want to give attackers any idea of how it defeats their attempts.
+
+As for what's in this for Google, it's not about revenue -- it's to continue furthering the company's mission to serve up information to people when they want it. Part of that comes from its search results, but Project Shield is meant to make sure that the information people are searching for is available and online when they want it.
+
+To use Project Shield, a site has to give Google visibility into who's visiting -- something likely to rankle the company's privacy critics. But Google says that it'll only keep logs for two weeks, after which the data will be stored in aggregate and used to learn more about attacks. The company also notes that the data it collects won't be used in its advertising programs.
+
+How successful Project Shield will be in this more open form remains to be seen, but results from the pilot program sounds like they've been pretty successful. Of course, hackers will continue to try and find ways around such advances, but having the power of Google on the side of independent news sites will likely be a big help in the battle to stay online.
+
+

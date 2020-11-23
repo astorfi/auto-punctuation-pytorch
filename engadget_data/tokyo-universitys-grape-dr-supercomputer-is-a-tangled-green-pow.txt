@@ -1,0 +1,6 @@
+
+ 
+We live in an ecologically minded era, where Ford spends more time talking up the new Mustang's mpg rating than its 0 - 60 times. Appropriate, then, that supercomputers are now being rated not on ultimate speed but on speed relative to power consumption. Top of the Green500 supercomputer list is the Grape-DR, a Japanese cluster at the University of Tokyo powered by a combination of 128 Intel Core i7-920 processors and four bespoke accelerator chips. That combination enables the system to manage 815.43 megaflops per watt, a good bit higher than the 773.38 rating an IBM-based machine in Germany managed. That's quite a bit lower than the team hopes to achieve, indicating they can boost that rating by 50 percent by the end of the year. Hopefully by then they invest in some cable management. Two of our staff network engineers passed out after just glancing at the picture above. The third... well, he didn't fare so well.
+      
+
+ 

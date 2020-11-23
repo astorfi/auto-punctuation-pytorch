@@ -1,0 +1,5 @@
+
+ In what's being marked as a breakthrough in the world of "photonics," Intel has managed to squeeze laser beam functionality into silicon-based chips, allowing for high speed data transfer between chips on the cheap. The new technology should be a boon to both high-end computer manufacturers and the fiber-optics industry, allowing for cheaper, smaller and faster optical switching of high volumes of data. Intel managed the feat by bonding some light-emitting indium phosphide to the surface of a regular ol' silicon chip that has been etched with light-directing channels. With billions of lasers in one place, the chips should help with the "last mile" problem of bringing fiber to the home, and resolve most bandwidth bottlenecks inside your computer -- though that type of consumer application could be quite a few years down the road. Commercial versions of the chips are still years away, but we're liking where this is headed.
+      
+
+ 

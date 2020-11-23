@@ -1,0 +1,16 @@
+
+ 
+ After a brief stretch in beta followed by some vague teasing, Firefox's native Android app update is finally set to hit Google Play. While there are a raft of bells and whistles -- a new welcome page, curvy Australis tabs, Flash and HTML5 support, for starters -- it's the browser's newfound speed that is getting the MVP treatment. That rapidity is as good a place as any to start a quick hands-on, especially since the native browser lag on one of our older handsets, a Galaxy S, often makes us want to hurl it through a pane of glass. Mozilla claims it built Firefox to a new benchmark it developed called Eideticker, resulting in an overall browser experience twice as fast as the stock Android one. As advertised, initial loading is quasi-instant, and navigation, zooming and tab switching seemed smooth as well, even on the two-gen-old phone.
+
+ Feature-wise, preferences and other desktop settings imported easily with Firefox Sync's shared password system, and the unfortunately named "Awesome Screen" is the new home page shown above, from which it's fairly simple to launch your preferred sites. Flash and HTML5 generally displayed correctly despite a few minor rendering bugs, and the curved tabs and other design touches make it one of the more elegant Android browsers we've played with. Unfortunately, many sites display in full because they don't yet detect Firefox as a mobile app, but the installation of the Phony 3.2 add-in lets it impersonate other smartphone browsers, and it seemed to work well. We also didn't like that tabbed browsing now requires two taps to get to another page, unlike the previous version, but we imagine that was needed for the increased speed. Overall, Firefox is a welcome addition to the Android ecosystem -- we bet you're just as eager to start browsing as we are, so stay tuned for the app to hit Google Play later today, or jump past the break for a quick speed demo from the kind folks at Mozilla.
+ Update: The new version is now available at the source link below.
+
+
+
+
+
+
+ 
+ 
+
+ 

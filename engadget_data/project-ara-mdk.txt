@@ -1,0 +1,20 @@
+
+
+Google teased us with a behind-the-scenes look at Project Ara's progress last week, and now it's giving would-be module makers some meat to dig into with its new Module Developers Kit. As the name implies, this release really isn't meant for laymen: it's a set of guidelines for how those bits should look and interact with the endo (Google's pet name for the phone skeletons you pop those modules into), along with schematics and code samples to play with.
+
+
+That said, there still a few neat morsels worth noting! Google has some awfully flexible plans for how future Ara phones will handle battery modules, for instance:
+
+
+
+Users of an Ara phone will be able to power their device with one or multiple batteries; they will be able to swap a depleted battery with a fresh one, without powering off their phone; they will be able to charge one or more batteries in their phone from one or multiple charging devices.
+
+
+
+
+We already knew that there would be three different-sized endos, but Google's also cool with modules that stick out from the bottom or back of the phone, like the pulse oximeter (below) the company's been mentioning for months. It seems a little odd that Google doesn't want manufacturers crafting modules that could stick out of an Ara's phone side, but we're guessing that's a concession made for grippability.
+
+
+Then there's the little matter of how we the people will actually be able to order our phone parts. Google's guidelines make mention of an online marketplace (somewhere in the Play Store, probably) where we'll be able to pick parts and configure our dream devices. The sales bit of this equation hasn't been totally fleshed out yet, but the folks in Mountain View still have time to iron it out. The full document is 81 pages long and just a little more accessible than you'd think -- you can download the full package here in case you're curious. The first of three Ara developer conferences will kick off next week too, so fear not: the best is surely yet to come.
+
+

@@ -1,0 +1,6 @@
+
+ Skitch's chief designer, Keith Lang, promised that the Skitch of old would slowly return to users in incremental updates and, today, the first of those has arrived. The currently available version 2.0.3 update for Mac users reinstates custom font colors (useful for highlighting annotations), as well as ushering in expanded tool sizes accessible from within the Style bar. As for screen captures, the company's now offering users the ability to time those snapshots either by using a keyboard shortcut (CTRL + CMD + Shift + 5) or selecting the option from the dropdown menu, allowing for ample time to organize desktop layouts.
+
+ Sharing options have also seen an overhaul, as that particular menu now features dedicated icons for quick sharing via social networks (i.e., Twitter and Facebook) or through OS X apps like Message and iPhoto. In addition to this simplified navigation, users will once again have the option to link out to direct image URLs, HTML and HTML thumbnails, forum code, shortened URLs, FTP/sFTP, in addition to an option to Auto Copy for an efficient workflow. Those are the most headline grabbing improvements, but the team's also made tweaks under the hood (so to speak) to improve text rendering, sync and overall responsivity. Head to the source to download this resurrected Skitch or hold out for the App Store to deliver that eventual update.
+
+

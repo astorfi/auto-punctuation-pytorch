@@ -1,0 +1,11 @@
+
+ 
+
+
+	Google's done a ton of talking about search at its Inside Search event today, and two of the biggest new developments are on the desktop. It's just announced that Android-style Voice Search is headed to Chrome (with support for English only, initially), and that it will be joined by a new Search by Image feature (also available in Chrome, or Firefox with an extension). To use that latter feature, you simply drag and drop an image or cut and paste an image URL in the search box, and then Google tries its best to recognize it and deliver relevant results -- including identifying the location in an old vacation photo, for instance (though Google notes it isn't doing face recognition). Both features will be rolling out over the next few days, but you can get a glimpse of them now in the demo videos after the break.
+
+	In other news, Google's announced Instant Pages (also demoed after the break), which promises to speed up browsing by prerendering results when its "confident you're going to click them." It's available in the latest developer version of Chrome today, and will also be included in the next public beta. Lastly, Google took the wraps off a number of revisions to its mobile search offerings, including a new set of shortcut icons, enhanced search options, and faster local results when browsing on a phone, as well as some revamped search and image results that have been specifically tailored to tablets -- all of which are also rolling out today.
+ 
+
+       
+ 

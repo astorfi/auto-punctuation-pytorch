@@ -1,0 +1,11 @@
+
+ 
+Wondering how Canon's high-ISO response to Nikon performs in the dark? We've got the answer. Photographer John Deeb got his early and was not only kind enough to take a comprehensive set of unboxing pictures with a video, but also captured a series of pictures of model Lauren Howery to show off how the thing performs in extremely low light at increasingly excessive ISO settings. Lots and lots of pictures below.
+
+
+
+
+
+John took a series of photos going from ISO 1600 all the way up to a mind-blowing ISO 65535 102400 and the results are plain to see. 1600 is quite impressive. Even up to 6400 the photos are quite smooth and even 12800 isn't bad, but after that things quickly go downhill -- suitable for capturing a shot of the sasquatch hiding in the shadows, but not something you'd want to resort to for your next studio shoot by any means. This seems to fairly closely match the performance we've seen in the Nikon D3S we've been testing of late, meaning yet again it's probably time for photogs to show their colors and fall along party lines.Update: Apparently the app we used to generate the ISO overlays read the EXIF information incorrectly for the highest-ISO picture, as it is actually shot at 102400, not 65535 as we'd indicated. All the more impressive, then.
+
+

@@ -1,0 +1,9 @@
+
+ 
+ An underwater fiber cable linking Cuba and Venezuela has given the island a hard connection to the internet since 2011, but reports have said that only government bodies from both countries have used the line. According to internet and network analysis firm Renesys, the cable lit up with activity last week with data flowing through it between Telefonica and the nation's state telecom company, Empresa de Telecomunicaciones de Cuba S.A. (ETECSA). Presumably, this could signal use by the average joe. Traceroutes into Cuba through the new Telefonica path show markedly lower latencies than the Caribbean country's existing satellite-reliant connections, hinting that the cable has been flipped on -- at least in one direction. It appears that the ETECSA is using the line for inbound data while leaning on satellites for outbound traffic.
+
+ Despite the clues, a GlobalPost correspondent in Cuba says there has been no perceptible improvement in internet speeds as of yet. Castro and Co. may not have said a peep about the development, but the new Telefonica path surfaced the very same day Cuba nixed the requirement of exit visas for citizens to travel outside its borders. Hit the source link for network stats and the nitty gritty details.
+
+ [Image credit: Phil Guest, Flickr]
+
+

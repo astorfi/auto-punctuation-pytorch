@@ -1,0 +1,10 @@
+
+ 
+If you're the type who's addicted to Foursquare and Gowalla location check-ins then we expect that you're also using Facebook as the quintessential user of social media. Now iPhone users can get a similar fix in a single app with the new Facebook 3.2 update just released on the iTunes App Store. In addition to offering bug fixes and background photo and video uploads, the biggest change is the addition of Facebook Places, a Foursquare- and Gowalla-like method of sharing your location with friends. Fortunately, unlike many of Facebook's features, Places defaults to sharing your location, complete with maps and comments, with friends only, not the world. You can always open it up to the world if you want and even opt-in to a "People Here Now" feature that shows other nearby Facebook users, "friend" or not. You can also tag friends who are with you at the time of check-in. Direct integration with Gowalla, Yelp, and Foursquare is possible with a new Places API for developers. Gowalla's already pitching syndicated check-ins to Facebook (but not the other way around, at least initially) while Foursquare promises to integrate its game mechanics and merchant rewards. Yelp, meanwhile, plans to pull friends' check-ins into Yelp reviews.
+
+So how does it work? Well, Walt Mossberg took the app for a spin already and says that in general, it works pretty well. While he feels that the privacy controls (not exactly Facebook's strong suit) are surprisingly "decent," there's no way to opt out of Facebook pages operated by businesses who can incorporate your check-ins into their pages. At the moment, Places is limited to the US only and only when using the iPhone Facebook app -- Android and Blackberry users in The States can navigate over to touch.facebook.com in their browser for an HTML 5 version if they want to play along. Facebook plans to bring Places to other countries and mobile platforms "soon."
+
+[Thanks to everyone who sent this in]
+      
+
+ 

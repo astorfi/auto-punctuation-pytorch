@@ -1,0 +1,16 @@
+
+Poor OnePlus just can't take a break. Just as the company's busy taking care of its Black Friday promotion, its store opening in Beijing and its India launch with Amazon next week, a close partner decided to drop a hurtful bomb. Cyanogen Inc., the maker of OnePlus One's Android ROM, announced that it's now inked a deal with Micromax to exclusively support the latter's upcoming online brand Yu -- a direct competitor of Xiaomi -- in India. And by "exclusive" we do mean no love for OnePlus, who implies in its latest blog post that Cyanogen knew about its India plan all along, yet it was suddenly shunned to make way for a new partner over there. If true, this is a surprisingly childish move from an up-and-coming company that has no doubt benefitted much from its partnership with OnePlus thus far.
+
+
+
+"We can't explain Cyanogen's decision because we don't fully understand it ourselves," OnePlus co-founder Carl Pei wrote.
+
+Cyanogen's India deal will not affect OnePlus users elsewhere, as confirmed by Pei. At least "for another year," anyway. As for OnePlus One's India launch with Amazon, it will go ahead as planned on December 2nd and it'll still carry CyanogenMod, but it won't be updated. At this point, it's not clear whether this only affects OnePlus devices sold through Amazon India (this would likely be done so by blocking out a set of IMEI numbers), or whether this is determined by location (which means one should be able to manually flash updates, if they are available on the internet).
+
+"We can't explain Cyanogen's decision because we don't fully understand it ourselves."
+
+Regardless, there's a solution of some sort. Back in late October, OnePlus co-founder and CEO Pete Lau already said that his company's working on its very own Android ROM to replace Color OS -- supplied by its OEM partner Oppo -- for the China edition of its next flagship device. (For those who didn't know, the OnePlus One is sold with Color OS instead of CyanogenMod in China.) In light of recent development, Pei's team has reallocated development resources to build said ROM for OnePlus One users in India as well. The exec added that the "fast and lightweight" system will be based on Android Lollipop, and the first community build will be available as soon as December, followed by a production-ready build in February. Better yet, Pei said his company will commit to at least two years of support for this new ROM on the OnePlus One, starting from the first community build.
+
+Does this mean OnePlus will eventually move away from CyanogenMod for its international devices in the rest of the world? The company made no comment, but we wouldn't be surprised if so, and it'd be Cyanogen's loss in the long term. Karma hurts, you know.
+
+

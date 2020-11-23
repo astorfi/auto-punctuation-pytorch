@@ -1,0 +1,6 @@
+
+ 
+HTPC fans were devastated when it was revealed that only OEM PC builders would have the privilege of building Vista Media Center PCs with CableCARD support, but hope is here: it looks like a few members of The Green Button forum have figured out how to build their own CableCARD ready HTPC. There's two barriers to overcome, which unfortunately still make it more difficult than just picking up an internal or external ATI Digital Cable Tuner, but they're not terrible: would-be system builders just need to score an OCUR tuner product ID number and use a BIOS contains the correct OSFR table. No one's figured out how to tweak just any BIOS yet, but apparently most ASUS P5Q motherboards work fine -- so really you just need to score some used CableCARD tuners off eBay and ask the seller for the PID from their computer. Or you could throw caution to the wind and plug in the generic PID of 263DJ-2Y9YT-6X9G6-W28DB-697TF, which may or may not work. Anyone feeling brave enough to grab a new mobo and CableCARD tuner and give this a shot?
+      
+
+ 

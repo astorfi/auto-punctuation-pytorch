@@ -1,0 +1,5 @@
+
+ 
+ VeriFone has decided that calling out claimed security holes and focusing on enterprise-level payment options aren't enough to take on Square. Sail goes more directly for Square's jugular, using its own plug-in dongle to handle major credit card payments in your local coffee shop or a mid-sized outlet. The VeriFone party trick comes through having multiple payment options, where shopkeeps can either choose to pay a flat 2.7 percent cut of every sale, or shell out a $10 monthly fee to lower the transactional take to 1.95 percent. Programming interfaces will let you hook in deals from social networks, too. And as you might expect, the company is still keen to tie Sail to its traditional payment systems, opening the door to NFC readers as well as other payment hardware that isn't quite as mobile. Stores with iPhones will be the only ones using the free Sail mobile apps and readers at first, but Android- and iPad-toting entrepreneurs will have their alternative to Square or PayPal Here as soon as the end of May.
+
+

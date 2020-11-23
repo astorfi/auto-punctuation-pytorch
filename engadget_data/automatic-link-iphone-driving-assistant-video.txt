@@ -1,0 +1,13 @@
+
+ That OBD II port that has been installed on just about every US-bound automobile since 1996? Its potential has just been tapped. For years, ambiguous dashboard lights have clued motorists in on internal issues, but driving to a body shop just to borrow a data port reader is so last decade. Enter the Automatic Link -- a simplistic nub that plugs into said port and utilizes Bluetooth 4.0 to connect to your iPhone 4S or 5 (prior iPhones use older versions of the BT stack). Once linked, it'll monitor your driving habits and routes, sending gentle reminders to not brake so suddenly or accelerate so quickly in a bid to save fuel. Moreover, it'll dial 911 and alert your relatives should you get in an accident, and perhaps most intriguingly, it'll send full diagnostic reports to your iPhone whenever a warning indicator lights up. Heck, it'll let you clear the code through your phone once you've remedied whatever has gone wrong.
+
+
+
+ There's also the more expected bits -- things like keeping track of your motorcar's location in order to retrieve it after a long, confusing day at Disneyland, but the real magic here is the promise of what's to come. The company has taken to Twitter to answer a litany of inquiries from prospective customers, and thus far we've learned that the adapter won't soon monitor tire pressure (boo), and that it has no immediate plans to release an API for developers to expand its functionality (double boo).
+
+ 
+ For clarity, the dongle is only going to support cars in the United States "for now," though the cries from Europe are most certainly being acknowledged. Moreover, those with diesel vehicles are (sadly) going to have to sit this one out, but we're told that having this connected won't impact your phone's ability to stream music or calls to your in-car infotainment system. Oh, and for those worried sick over privacy? Automatic has said that monitoring of its users is "not going to happen." Automatic has also stated that it's "focused on iOS and Android" for now, with an app for the latter planned for this fall.
+
+ Sold already? Hit the source link to part ways with $70 -- pre-orders are set to ship alongside the app in May.
+
+ 

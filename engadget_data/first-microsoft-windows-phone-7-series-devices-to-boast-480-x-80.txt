@@ -1,0 +1,10 @@
+
+ 
+Even though Microsoft's big MIX event is still days away, the Windows Phone 7 Series development platform is already pretty well defined. It's also clear that Microsoft wants to keep things tidy for developers by requiring all WP7 phones to meet a certain base-level spec. Now, thanks to a post from Microsoft's Shawn Hargreaves, we know the display resolution for the first batch of Microsoft's next generation phones: 480 x 800 (WVGA) pixels at launch, with a future update that will introduce a 320 x 480 (HVGA) native resolution. Dedicated hardware will ensure image scaling across all those pixels without taxing the GPU. That allows game developers, for example, to write to a lower resolution (requiring less horsepower) and then scale up as required while remaining compatible to a variety of screen resolutions. 
+
+Now, for those playing along at home, the HD2 getting ready to launch on T-Mobile in the USA is also WVGA and it features a 1GHz Snapdragon processor from Qualcomm, Microsoft's WP7 silicon partner. So we can assume (but not guarantee) that it meets the image scaling hardware requirements described by Hargreaves. Man, if only the HD2 had three-buttons.
+
+[Thanks, Cytrix]
+      
+
+ 

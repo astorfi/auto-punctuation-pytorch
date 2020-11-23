@@ -1,0 +1,5 @@
+
+ We've had our eyes peeled for ARM Cortex-based netbook news, and now among the action this week at MWC '09 we're getting our first look at Sparrow, a Cortex A9 processor aimed squarely at netbook manufacturers. This is a multi-core update to the Cortex A8 (processor of choice for the Palm Pre and Pandora), and it's been speculated that this could be the processor for the next generation iPhone, with "at least triple the computing power of the ARM11 processors found in the [current] iPhone and T-Mobile G1." Toshiba, Pegatron and Wistron are all said to be showing demos of their ARM-powered netbooks at the conference this year, with a company spokesman saying that Ubuntu for ARM will go public in April, with Sparrow phones coming to market sometime in 2010. Additionally, companies like Adobe, On2, and Symbian are said to be "tuning their apps to run on the latest cores from ARM" as we speak.[Via Gadget Mix, Mac Rumors]
+      
+
+ 

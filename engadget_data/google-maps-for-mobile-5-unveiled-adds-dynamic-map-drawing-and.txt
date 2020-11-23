@@ -1,0 +1,12 @@
+
+ 
+Why look at static images when you can get a more 3D view of the urban scene? Google's Maps for Mobile 5 just got previewed on stage by Andy Rubin at D: Dive Into Mobile -- with a prototype Motorola Honeycomb tablet, no less! The biggest visual change is dynamic map drawing: vectors instead of flat images that scale without render hiccups and will show the buildings fleshed out for over 100 cities -- we gotta say, it looks great. Even more fun is that you can now use two fingers to tilt and rotate around the map (in addition to moving and pinch-to-zoom, of course). We've been told it's a much snappier experience, and the storage for these vectors is much smaller than the current images, which brings us to... offline caching. Maps will keep on file the locations that you go to (and search) most often, and it'll be able to reroute while offline in Navigation. You'll still need a connection for altering the route altogether -- sorry, subway-hoppers -- but once you go, even if you stray, you'll still be rerouted back on track. 
+
+Most modern Android phones from the original Droid onward should be able to enjoy most if not all the new features, depending on hardware capabilities (3D rendering) and "distinct multitouch" hardware support -- the Nexus One, interestingly enough, supports vector maps but not the rotate functionality because it lacks the latter multitouch requirements. Google sent us a list of devices that support 100 percent of 5.0's features, which you can find after the break. The update is due out in the "coming days," according to Rubin. Great way to kick off Nexus S' launch, then.
+
+
+
+
+
+ Galaxy S Droid Droid X Droid 2 Droid Incredible Evo Nexus S G2
+ 

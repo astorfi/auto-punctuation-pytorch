@@ -1,0 +1,18 @@
+
+ 
+Crucial's RealSSD C300 had a sizable problem coming out of the gate: price. Initially starting at $800 for 64GB 256GB it cost more than most laptops (it's now down to $700), but crazy people pay crazy amounts for crazy performance and so off to retail it went. Recently, Anand over at AnandTech indicated that his review sample "apparently bricked itself" before eventually coming back to life -- albeit at a ridiculously reduced speed. Yesterday Crucial issued an official firmware "fix" for his particular problem and, as you could probably tell by the use of quotes there, it isn't necessarily a good thing. Numerous people in the Crucial forums are reporting that this update has completely bricked their drives, while others are simply unable to apply it in the first place. This particular piece of firmware is still no longer available on Crucial's site (version 0002), and we would definitely advise steering clear until at least version 0003 -- maybe 0004 for good measure.
+
+Update: We heard from Kristin at Micron Technology, who passed along the following update:
+
+We wanted to let you know that we're aware of the issues some users are experiencing with the firmware update tool. Initially, it sounds like there needs to be some additional steps in the process for their specific systems. As you know, aside from the issues experienced, there were/are several users that had success with their updates. 
+
+We'll post an update on the forum as soon as we have more information, and will keep you apprised with what we know.
+Additionally, we had the pricing wrong on the initial C300. It was $800 for 256GB, not 64GB.
+
+Update 2: We got another update from Micron. The troublesome firmware has been pulled, and we have a new statement after the break.
+      
+
+ 
+
+The latest from Micron:As you know, we pulled the v0002 firmware update from the Crucial.com support site on Wednesday, May 5th. We did this to allow our product engineering team time to evaluate reported issues. We have identified a compatibility issue between the update tool and certain motherboards. There are no known issues with the firmware itself. We are revising the update tool to eliminate the known compatibility issues. We plan to begin testing and validating the new update tool early next week (week of May 10th), and we'll continue to keep you updated. Although the majority of customers that downloaded the firmware have seen no issues with the update, our goal is to protect customers that may encounter issues.
+ 

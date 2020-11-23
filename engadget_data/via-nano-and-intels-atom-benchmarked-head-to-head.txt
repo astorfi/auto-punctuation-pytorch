@@ -1,0 +1,6 @@
+
+ 
+Netbooks based on VIA's Nano mobile processor aren't nearly as common as those based on Intel's Atom, but based on the benchmarking that's been going on recently, that's a shame, since the Nano appears to be much faster than the Atom 230. PC Perspective, Eee PC News, and Hot Hardware all ran some tests recently, and a 1.8GHz Nano L2100 with Chrome9 graphics was usually able to outperform a 1.6GHz Atom 230 with GMA950 graphics at everything from MP3 ripping to 3D benchmarking. Of course, that's not without a tradeoff -- the Nano was a bit more power-hungry, and the Atom's memory and graphics systems were occasionally faster than the Nano's. Still, it seems like the Nano has more raw horsepower than the Atom -- and it's pin-compatible with VIA's popular C7M, so hopefully we'll be seeing machines like HP's Mini-Note make the jump relatively soon.  Read - PC Perspective results Read - Hot Hardware results Read - Eee PC News results
+      
+
+ 

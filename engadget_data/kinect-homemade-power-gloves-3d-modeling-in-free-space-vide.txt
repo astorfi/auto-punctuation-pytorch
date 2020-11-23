@@ -1,0 +1,9 @@
+
+ 
+The Kinect hacks keep rollin', and we just keep on lovin' every one of 'em -- despite most being decidedly non-practical. This one actually is, created by Sebastian Pirch at 3rD-EYE, a media production company. He's made a free-space 3D modeling tool using a Kinect camera to track his hands, which he uses to create points in space and draft a model. To provide greater control he then made two Arduino-powered gloves that detect finger touches -- basically DIY Peregrines. Using different connections of finger-presses he can move the entire model, move single points, create new points, create new polygons, and basically do everything he needs to do to create a mesh, which can then be imported into 3ds Max for further refinement. He even manages to make it all look fun, thus besting Lockheed Martin's similar system that's powered by zombies.
+      
+
+ 
+
+
+ 

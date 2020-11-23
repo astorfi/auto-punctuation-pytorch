@@ -1,0 +1,5 @@
+
+ 
+ Google's been spending some quality time with its Maps offering of late. Most recently, it overhauled the 3D buildings and landmarks to make them, well, better. This time, its Maps' juiced up sibling MapsGL that's been feeling the paternal love. The WebGL-based 3D renderings have been the same treatment, making your virtual aerial tours all the more realistic. Now, as you glide over the landscape, your view of the buildings is much more like real life. Or you could just take the lazy tourism one step further. Hit the source for examples.
+
+

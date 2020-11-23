@@ -1,0 +1,6 @@
+
+ 
+So this is interesting -- we were just forwarded an email from Apple informing iPhone developers that all future App Store testing and review will occur on iPhone OS 3.0 to prepare for a smooth transition this summer, and that incompatible applications won't be approved. Seeing as we're already on beta 5, we're guessing most devs shouldn't find this too much of a burden, but we're wondering if the recent string of bad publicity over App Store approval guidelines has forced Apple's hand here, since 3.0's parental control features will ostensibly relax Apple's currently asinine content restrictions and allow non-kiddie-apps to get through without any hoopla. Let's hope.Update: Looks like our guess was spot-on. The iPhone Blog's noticed a new set of parental controls in beta 5 (and possibly earlier) that suggests some sort of app rating system is in the works. Sure, it's a promising idea, but let's just hope the current broken process is also getting an overhaul -- simply slapping a 17+ rating on, say, Tweetie doesn't actually fix the problem.
+      
+
+ 

@@ -1,0 +1,14 @@
+
+ 
+ 
+ NVIDIA blew reviewers away with its flagship GTX 680, but building cards for the low-end is a whole different challenge. The GT 640 hits the $99 price point, where it sits right between the AMD Radeon HD 7750 at $109 and the last-gen Radeon 6670 at around $80. As it turns out, these rivals pull off something of a pincer movement, leaving NVIDIA's card little room to retaliate. The GT 640 contains a 28nm Kepler chip, but it's a cutdown version of the silicon with just 384 CUDA cores, a poor memory bandwidth of 28.5GB/s and no GPU Boost feature -- which means the card can't boost its 900MHz to make use of thermal headroom. These limitations have a significant impact on the benchmarks, as you'll see in our little review roundup after the break.
+
+
+
+ Tom's Hardware found that the GT 640, as sold on an Afox board, trailed the Radeon HD 7750 (the old one, not even the newer 900MHz version) severely in Battlefield 3, with an average of 25fps versus 44fps at 1920 x 1080. It did better at Skyrim with the same settings, beating the cheaper 6670 and achieving a 32fps average -- but still lagging way behind a 48fps score from the 7750. Diablo III and DiRT 3 showed big disparities too, although both were still very much playable on the NVIDIA. The card ran cool and quiet, but overall this site concluded the card was "too expensive" and would need to drop to $85 in order to be competitive.
+
+ AnandTech came to a similar conclusion regarding a Zotac GT 640 card, praising temperature and power consumption but finding it to be a lot noisier than other alternatives and seriously tardy when it comes to actual gaming. The Radeon HD 7750 was around 10-30fps ahead at various resolutions in a number of titles, including Metro: 2033, DiRT 3, Shogun 2, and Arkham City. Overall, the GT 640 was condemned as "unremarkable if not flat-out bad" for gamers, but commended as one of the best low-end cards for HTPCs, thanks to its low-power credentials and ability to decode and output 4K.
+
+ We'll add links to more reviews as they trickle in.
+
+

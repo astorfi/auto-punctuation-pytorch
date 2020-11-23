@@ -1,0 +1,10 @@
+
+ 
+We just got a look at some amazing touchscreen interaction, running on a humble resistive touchscreen with some OMAP hardware backing it up. Stantum's technology is a software-based refinement to resistive touchscreens that allows for accuracy beyond the pixel density of the display, a complete lack of touchscreen "jitters" and some fairly incredible input methods. Termed "TouchPark," the multitouch framework provides gesture recognition, cursor management and physics processing for phone builders to stick on top of the phone OS (Symbian, Windows Mobile and Android are currently supported), and works with hardware such as Texas Instruments Zoom, Freescale i.MX and ST Nomadic. The PMatrix multitouch firmware allows for unlimited inputs, detection of any contacting object (a finger, a stylus or even a paintbrush) and pressure sensitivity. We played with the demo unit for a bit and were frankly blown away, it's far and away the best touch experience we've ever seen or felt, and the multitouch functionality is just gravy on top. Stantum is targeting resistive touchscreens because they're still considerably cheaper to build than capacitive ones, and from our perspective there seems to be zero tradeoff -- for sensitivity and accuracy this destroys everything else we've seen on the market, capacitive or not. Sadly, there's no word on when this will make it into real, shipping handsets, but we'll certainly be tracking its progress obsessively. Video is after the break.
+
+
+
+
+
+
+ 

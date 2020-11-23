@@ -1,0 +1,61 @@
+
+  From the beginning, Dell's Adamo line of laptops have been anything but status quo. Starting with the company's viral "leaks" on phony fashion sites, straight on to the weird launch / non-launch at CES, and culminating with a burst of PR boasting the systems' surprisingly low-powered internals and freakishly high price-point, it's been nothing if not noteworthy. Now we've finally had a chance to see how Dell's answer to the MacBook Air (and X301 for good measure) performs in the real world. The big question? Is this beauty worth the time and trouble... and that big outlay of green? Read on for an in-depth look at what the Adamo does -- and doesn't -- deliver on.
+
+ Update: Dell pinged to let us know that the covering on the lid and screen is actually glass -- we've updated the review to reflect (no pun intended) that info.
+
+
+
+
+
+ Design
+ 
+ If you're just judging books (or notebooks, in this case) by their cover, the Adamo looks like a Times bestseller. From the sleek, sophisticated packaging (a hard, simple plastic shell with clasps at the bottom and a small arrangement of accessories in origami-like cardboard), right on down to the killer industrial design of the system itself, the Adamo is stunning. Once you wrest the laptop from its sexy confines, you find a thin and light -- though not terribly light -- sliver of computing art.
+
+ Much of Dell's process for the Adamo seems to be about texture. On the black... er, "Onyx" version we have, the lid of the computer is made up of four separate materials. The view from above starts with a high-gloss, hard glass at the front, moves into a matte strip in the center with embossed "Dell" and "Adamo" logos, which in turns leads into a smooth, brushed metal slab, and finally ends up at the back with yet another strip of dotted metal. Around the back end "overhang," the air vents are stylishly presented as a kind of gradient pixel pattern. From the first look, it's clear that there is an amazing attention to detail here.
+
+ When you open the system up, you see more of that brushed metal along the wrist rests, keyboard, and the edges of the glass-coated display. The keyboard is a smooth, chiclet style affair, with slightly curved keys, and a bold, futuristic font. Continuing the texture trend, the trackpad is made up of another kind of metal which has a circular patten that appears to move concentrically inward -- though it's smooth to the touch.
+
+ 
+ Along the edges the screws which fasten the screen are visible, giving the whole package an industrial feel. Adding to the sleek minimalism is the fact that there are only a few ports available; Ethernet, eSATA, two USB jacks, DisplayPort, and the power plug around the back, plus a headphone jack and SIM tray on the right side.
+
+ As far as straight numbers are concerned, the Adamo is a real champ in the size department. The laptop is thin... really thin. Compared to the MacBook Air (0.76-inches at its thickest point) and X301 (0.9-inches), the 0.65-inch Adamo is anorexic. Still, it's not the lightest portable in town, clocking in at 4 pounds (compared to the Air's 3, and the X301's 3.32, respectively).
+
+ 
+ The Adamo is beautiful, no question. Unfortunately, like many things, that beauty is only skin deep.
+
+ We noticed some troubling build issues with the model we were sent. First, the top piece of metal along the "rear end" of the system didn't seem to be fully held in place. As you can see in the video below, the right side had a disconcerting, mushy "give." Additionally, there was an odd rippling in the plastic where the media controls are located, with a bulge around the area of the play / pause buttons. It's hard to tell if that's intentional or not, but it looks wrong to us. These might seem minor, but if you're paying upwards of $2000 for a laptop, this stuff counts. Part of Dell's play here is that these are upscale "lifestyle" devices, but we don't know anyone who likes getting a Mercedes with a bumper that's about to fall off.
+
+ 
+ We also had problems with some basic design ideas. The keyboard is handsome, but the way Dell is handling power management, the letters are only really visible when the keyboard backlighting is on (on the black model at least) -- and it doesn't stay on long. That's fine if you're really well versed with this layout, but given the fact that the keys have so little travel, and there's a lopsided, left-heavy feel, we found ourselves tapping the wrong key fairly often.
+
+ Additionally, on a laptop in this price range, we were expecting some more multitouch features for the trackpad, but all that seems to be offered is a pinch zooming feature. That's clearly a software issue (we hope), since it does seem to have multitouch functionality. Hey, at least the thing is centered.
+
+ The guts
+ The outside is handsome, but the insides are downright ugly. In its attempt to focus on looks, Dell seems to have completely disregarded performance, loading up the base Adamo with a Core 2 Duo ULV chip chugging along at a paltry 1.2GHz, 2GB of RAM, as well as a 128GB SSD drive -- a nice touch -- and Intel's integrated X4500 GPU. Pretty light stuff if you're pushing Vista, which the Adamo naturally is.
+
+ In our tests, the performance wasn't exactly sluggish, but it was a regular occurrence to see the CPU meter pegged at 100 percent during basic tasks (like loading a webpage or trying to multitask a few simple applications). The Adamo hardware seems to quickly respond to the pressure, though that's not necessarily a favorable note -- it's all-too-common for the fans to start spinning up while the system is carrying out basic tasks. Sometimes they seem to start up just for the hell of it, so if quiet computing is one of your checklist items, you'll be disappointed.
+
+ 
+ 
+ Using Microsoft's own Windows Experience tool, the Adamo ranked a lowly 3.2 -- almost at the lowest end of the scale for using basic Aero effects. By the company's standards this means the laptop sports the "Minimum specification needed to run Windows Vista Premium features, including the new Aero user interface." Not exactly heartening stuff for an upscale system.
+
+ To put it in perspective, we averaged a frame rate of about 10 while playing Quake 4 with medium graphics at 1280 X 720 resolution. It didn't fare much better when we reduced all the settings and resolution... and we're talking about a game from 2005 here. Now, we know most people who purchase this computer aren't interested in it for gaming horsepower, but this line of testing provides a real window into just how underpowered of a system you're buying into.
+
+ What we can't stress enough here is that it seems like the Adamo was built for some other, less intensive operating system, like, say... Windows 7. That's fine if you're the kind of person who doesn't mind a little stutter to their video or pauses in between basic multitasking, but you've got to be pretty shallow to spend $2000 on a system and not care how it performs.
+
+ Display
+ 
+ The 13.4-inch display on the Adamo looks great. While we would have liked a higher res option (we always like a higher res option), 1366 X 768 is fairly standard stuff for a screen of this size, and more than enough real estate to handle most tasks. In terms of clarity and color, it certainly does Aero proud, though just like the recent Macs we've reviewed, we find the persistent and almost exaggerated glare to be absurdly distracting here. Every computer maker needs to be giving users a way to opt-out of this setup -- it just doesn't work in a lot of scenarios. That said, we're assuming that if you're looking at something like the Adamo, you probably want it as glossy as possible.
+
+ Battery life
+ If you read our reviews, then you know we don't do hardcore battery benchmarks for most products. Instead, we find the best way to put a system through its paces is to get it out into the world and see what the day to day life looks and feels like. Dell promises upwards of five hours of battery life in the Adamos, and while it's true that the system is built for humming along at low levels, it doesn't get anywhere close to that in our testing. Most of the time, we managed to squeeze about two and a half hours out of the Adamo -- and we're talking basic tasks like document editing and web browsing. When we spent time watching video or gaming, not only did the fans hardly ever stop, but the battery life dropped down to just under two hours. It's not exactly a deal breaker, but given the fact that you've got no swappable battery here, it's certainly something worth considering. Generally, you're not going to be leaving the house without the Adamo's very, very attractive wall wart.
+
+ Wrap-up
+ 
+ Here's the deal: the Adamo is really expensive. Not just expensive for a PC. Not just expensive for an ultralight. Not just expensive for an underpowered computer. It's just expensive. Expensive in the sense that you're being charged a lot of money for something that seems like it shouldn't cost so much.
+
+ When you boil it down, it's not necessarily a "bad" computer -- just not a particularly good one. If you're a basic user with simple needs, this will do pretty much everything you want, but if you're a basic user with simple needs, why are you spending so much money on a PC? You could get a dozen (or more) computers that do exactly the same thing for far less money -- hell, even in Dell's own ecosystem there are myriad choices. For less than half of the cost of the Adamo, you could have a far more robust Studio 15; for about $800 less you could take home a Studio XPS 13 with much heftier discrete graphics, double the RAM, and a much faster CPU -- and still have a fairly attractive computer. Furthermore, the MacBook Air, which has more impressive specs and can run both Windows and OS X can be had for a starting price-point of $1799. The only spot where the Adamo really wins is right up against the X301... and those are pretty different markets by our account.
+
+ It's hard to say if releasing a computer like this right now is bad timing or just ignorance on Dell's part. Weirdly, while Microsoft is busy trying to convince users that PCs are a better value with its new ad campaign, the Adamo flies right in the face of that notion -- offering less computing power for far more money, all while wearing its form-over-function aesthetic right on its brushed aluminum sleeve. Is that a daring move for Dell? Definitely. Is it smart? That's for the buyer to decide.
+
+

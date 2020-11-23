@@ -1,0 +1,12 @@
+
+ 
+So far as the yet very quiet forums are claiming, a new app called FairUse4WM can be used to strip Windows Media DRM 10 and 11 (i.e. PlaysForSure, but not WM DRM 9). Yes, yes, we know, we've heard this song and dance before. But before we proceed, let's just be totally clear on how the system works: providers like Napster and Yahoo Music Unlimited provide subscription service for unlimited access to Windows Media DRMed files; stop paying the fee, stop getting access to the files -- but you already knew all this. We tried FairUse4WM and we can verify that it quickly and easily stripped the DRM from our Napster To Go tracks, and made them freely available to play on our Mac (which, of course, has Flip4Mac installed). In other words, it's a simple, apparently lossless, one-step method for making your files playable after you're no longer paying fees on your subscription service. The app didn't work on our Vongo videos, but we can verify with all certainty that yes, Windows Media DRM can now be easily and quickly stripped from PlaysForSure media services. Now watch as Microsoft shuts down the forums and runs damage control in order to prevent an digital media entire platform from collapsing. Click on for a couple more pics of the app in action!P.S. - Kinda goes without saying but we take absolutely zero accountability for what you may do with FairUse4WM, ok?[Thanks, Frank]
+      
+
+ 
+
+Now here's that same track we just downloaded from Napster playing on Quicktime (with Flip4Mac, which, of course, doesn't support WM DRM.)
+
+       
+
+ 

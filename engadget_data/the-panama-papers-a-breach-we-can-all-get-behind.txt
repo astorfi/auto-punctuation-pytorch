@@ -1,0 +1,59 @@
+
+Now here's a breach and leak everyone can get behind (unless you're a billionaire despot, that is). Selected excerpts from the Panama Papers dropped on Sunday, an unprecedented snatch-and-grab of offshore tax haven records released to a handful of global news organizations.
+
+
+In them, the tax-avoiding dealings of the super-rich were exposed in a gigantic haul of data said to total around 11.5m files (2.6 terabytes). It was taken from shell-company specialist Mossack Fonseca by an anonymous source, who shared the Panamanian law firm's trove with German newspaper Süddeutsche Zeitung.
+
+
+
+In turn, SZ shared the records with the International Consortium of Investigative Journalists (ICIJ). The trove of emails, photos, PDFs and database excerpts was then winnowed down into digestible stories by a pool of around 400 journalists. All told, the project was a year in the making. Süddeutsche Zeitung said, "The source wanted neither financial compensation nor anything else in return, apart from a few security measures."
+
+Believe it or not, those named in the papers haven't necessarily broken any laws. That's because exploiting loopholes in tax law, while ethically and morally dubious, is perfectly legal. Fonseca is adamant that the company hasn't done anything wrong (and won't be changing its ways).
+
+Allergies include peanuts, ethics, securityEven still, a little Googling returns plenty of spilled digital ink on the firm's rep as a place for secrecy and the slipperiness of its ethically compromised professionals. It's exactly where you'd go if you were doing something wrong and wanted the trail to your dubious offshore tax havens to look squeaky-clean -- if it could be found at all.
+
+Mossack Fonseca helps firms and leaders of countries that are subject to sanctions. According to Süddeutsche Zeitung, "Mossack Fonsecas' [sic] clients include criminals and members of various Mafia groups. The documents also expose bribery scandals and corrupt heads of state and government."
+
+The Sydney Morning Herald reports, "The files show how Mossack Fonseca thwarted Australian regulators and police inquiries, continued to act for individuals accused of fraud and embezzlement, and lobbied actively to prevent Australia from signing agreements that would allow the exchange of tax information with Samoa, a key tax avoidance jurisdiction."
+
+In the days since the publication of the Panama Papers, the prime minister of Iceland, Sigurdur Ingi Johannsson, a vocal opponent of offshore tax havens, was exposed as owning such a firm with his wife. He resigned within days of publication, and opposition parties have pushed for the entire government to stand down.
+
+FIFA ethics committee member Juan Pedro Damiani also resigned after the papers connected him to a former FIFA official arrested by the Justice Department on corruption charges last December. The Swiss police swiftly raided the offices of UEFA (the beleaguered governing body of European football) to investigate the offshore dealings of FIFA's new president, Gianni Infantino.
+
+
+UK Prime Minister David Cameron is also in the hot seat, having stalled inquiries for three days until he admitted yesterday to having owned shares in his father's UK-tax-avoiding offshore trust. Vladimir Putin is implicated through associates, spawning conspiracy theories that this whole thing is an attack on the Russian president.
+
+The despotic leaders of Sudan and Azerbaijan, Pakistan Prime Minister Nawaz Sharif and Ukraine President Petro Poroshenko are specifically named in the papers. China's government is on damage control after the family members of eight Communist party elites were shown to have dealings with offshore companies. Meanwhile, Chinese officials have ordered reporting on the Panama Papers to be censored.
+
+Sina Weibo is censoring search results for "Panama" pic.twitter.com/KuXHqBGP5N
+— William Farris (@wafarris) April 4, 2016​It's clear that no one named in the files was ready for what happened when they were exposed this week, and Mossack Fonseca was completely ambushed.
+
+Mossack Fonseca and its clients were so blinded by privilege that they believed they were still at the top of the food chain and still enjoyed the luxurious protections provided by predigital information secrecy.
+
+And they were wrong.
+
+Oops, they did it againYou see, this was the second time that Mossack Fonseca has been popped -- that we know of. Over a year ago, a data thief grabbed a much smaller set of Mossack Fonseca's older internal records and sold it to German authorities for nearly 1 million Euros. Other countries including the United States, the UK and Iceland reportedly nabbed some for themselves, too.
+
+Hackers have a strong homing instinct for bad security practices, and this story has drawn a flock of researchers. They've concluded that "negligent" doesn't even begin to cover it. Everything is out of date, and the laundry list of ways one could obtain credentials is so long that you have to wonder who hasn't rummaged through its files.
+
+I'm not sure Mossack Fonseca docs being all over the internet is a shock, if their WP install is anything to go by. https://t.co/IsxmJPji4s
+— Fenrir (@semibogan) April 4, 2016The WordPress install on Mossack Fonseca's website is months behind in updates (this scan shows two vulnerabilities). On April 1st, the company sent an email to its clients saying it had suffered "an unauthorized breach of our email server," which isn't surprising, considering that the law firm's Outlook Web Access hasn't been updated since 2009.
+
+Its Client Information Portal (a "secure online account" in "a safe environment") had its last update in 2013. Wired UK notes the portal is vulnerable to the DROWN attack, "a security exploit that targets servers supporting the obsolete, insecure SSL v2 protocol" and that "the version of Drupal used by the portal has at least 25 vulnerabilities, including a high-risk SQL injection vulnerability that allows anyone to remotely execute arbitrary commands."
+
+Mossack Fonseca's security measures: Not good. #PanamaPapers https://t.co/AlvKUFlGTo (v/ @iblametom) pic.twitter.com/Hhv1hvI7Pi
+— Rob Price (@robaeprice) April 5, 2016There's more, but you get the idea.
+
+Someone hacks a law firm resulting in the 'Panama Papers'. Imagine how and how long it took to download 2.6TB of data. And, no one noticed!?
+
+— Jeremiah Grossman (@jeremiahg) April 6, 2016It's not a tumorBecause of the size of the data dump -- records dating from the firm's inception in 1977 to last December -- common sense points to an inside job. But Ramón Fonseca, co-founder of Mossack Fonseca, denies that's the case. He characterizes the firm as a victim, telling Reuters, "We rule out an inside job. This is not a leak. This is a hack."
+
+And what about those accusations of working with money launderers and dictators? Fonseca told Reuters, "The only crime that has been proven is the hack. No one is talking about that. That is the story."
+
+As if hiding money for ruthless murdering dictators and crooked politicians is a reasonable way to make a living, the firm told both The Guardian and Süddeutsche Zeitung:
+It appears that you have had unauthorized access to proprietary documents and information taken from our company and have presented and interpreted them out of context. We trust that you are fully aware that using information/documentation unlawfully obtained is a crime, and we will not hesitate to pursue all available criminal and civil remedies.
+
+Because, obviously, Mossack Fonseca is a victim that believes in justice.
+
+[Image: Christopher Furlong/AFP/Getty Images (David Cameron)]
+

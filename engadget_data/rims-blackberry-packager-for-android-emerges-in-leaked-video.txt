@@ -1,0 +1,11 @@
+
+ 
+
+
+	Well, what do we have here? RIM has just posted a video outlining its new BlackBerry Packager for Android, just a few hours ahead of today's DevCon event. The tool, which received brief mention in RIM's conference schedule, essentially allows Android developers to port their apps to the PlayBook platform by converting their APK files to BAR files. As explained in the clip, developers should first obtain their signature keys from BlackBerry's Developer Zone before undertaking any porting or development. From there, they can check their existing app's compatibility with the PlayBook. If everything checks out, all they'd have to do is simply click "repackage and submit," and the system will automatically sign and package it away. We're expecting to get more details on RIM's new Packager in the very near future, but you can catch a sneak peak in the video, after the break.
+
+	[Thanks, Ferganer]
+ 
+
+  
+ 

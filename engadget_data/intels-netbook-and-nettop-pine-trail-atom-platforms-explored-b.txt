@@ -1,0 +1,6 @@
+
+ 
+Just after finally making them official and just ahead of what will surely be a blowout of devices at CES, Intel has let loose the dogs of benchmarking upon its highly anticipated Pine Trail Atom platforms: the N450 for netbooks and the D510 for nettops. On the portable side it's HotHardware and AnandTech doing the testing, pitting the new Asus Eee PC 1005 PE (which we just reviewed ourselves) against some of its earlier Atom brethren, finding it out-paces the single-core N270 in terms of sheer CPU performance but is generally trumped by the dual-core 330, while its integrated GPU loses out handily to any machine with an Ion processor. But, in terms of battery life, it bested them all. The story is similar over at PCMag, which tested the D510 in a prototype nettop and found that its performance was no better than earlier 330-spec'd machines, but that its power consumption of just 19W under full load undercuts the thriftiest nettops -- it's quieter, too, thanks to a complete lack of fans. So, perhaps not the speed boost you might have been looking for, but fine battery life abounds, eh?
+      
+
+ 

@@ -1,0 +1,88 @@
+
+
+The Chromebook Pixel was the most beautiful laptop that we told people not to buy. With a machined aluminum chassis, pixel-dense screen and a spacious keyboard, it had a design that in some ways outmatched even the Retina display MacBook Pro. The problem: It ran Chrome OS for an operating system, with no support for the sort of desktop apps you'd expect to use on a $1,299 machine. Speaking of the sort, it cost $1,299. Oh, and the battery life was short too -- barely four hours on a charge. So much for having a portable machine you could take anywhere. It was, as we said at the time, "a lovely thing that everyone should try to experience, but few should seriously consider buying."
+
+
+
+ As far as Google was concerned, though, the Pixel was just ahead of its time. That, and maybe it needed a little refining. Not to be deterred, the company just released a second-generation model, also called the Pixel. The idea, as Google explains it, is that it keeps everything people loved about the original, while correcting everything that made it a tough sell. That means the design is virtually identical, with an all-metal shell, 12.85-inch, 2,560 x 1,700 touchscreen and a well-spaced keyboard. This time, though, the battery is rated for 12 hours, partly thanks to Intel's latest Core processors, and there are two reversible USB Type-C ports like the kind used on the new MacBook announced earlier this week (except in this case, there are some regular USB connections too). Meanwhile, Chrome OS is more polished than it was two years ago, and can now run a few Android apps. Most importantly, perhaps, Google dropped the Pixel's starting price to $999. A 23 percent price cut isn't exactly a trivial difference, but is it enough to turn the Pixel into a practical purchase? Not quite. But almost.
+
+Hardware
+As I said, with the exception of those new USB Type-C ports, the new Pixel looks just like the old one. So, I probably shouldn't spend too much time fawning over the design, as if it were brand-new. That said, I want you to understand how well crafted, how delightful to use this thing is. The aluminum chassis here isn't just reminiscent of a MacBook, but actually better made in some ways, with a softer finish and a denser body that feels weightier in-hand. (In fact, it weighs less than the 13-inch Retina MBP: 3.3 pounds versus 3.48.)
+
+As before, there's a thin LED strip on the lid, except now, you can double tap it to see roughly how much battery life you have left (up to four bars will light up). It's a handy feature, though I haven't used it much, mostly because the battery life is so good I never worry about having enough juice for the day. Meanwhile, a few other details -- a low-rise hinge, black rubber feet and a skinny bumper around the touchscreen -- also lend the impression that someone at Google put a lot of thought into the design.
+
+So does the display. I'm simply not used to seeing this nice a screen on a Chromebook. In fact, I don't think I've seen one this nice since the first Pixel came out two years ago. As before, the Pixel has an oddly shaped 12.85-inch panel, with an equally uncommon resolution of 2,560 x 1,700. That's a 3:2 aspect ratio, by the way, meaning it's noticeably taller than your typical 13-inch laptop screen. Indeed, thanks to those extra vertical pixels, the screen density comes out to an impressive 239 ppi, making it ever so slightly sharper than the 13-inch Retina display MacBook Pro (227 ppi). Not that you can spot the difference.
+
+
+In addition to being sharp, the Pixel's display boasts rich colors and wide viewing angles.As it turns out, too, that Retina MBP comparison is an apt one, and not just because of their similar screen resolution; the quality is on par, too. In addition to being sharp, the Pixel's display boasts rich colors and wide viewing angles, even despite the touchscreen's glossy finish. The visibility is so good, in fact, that when my seatmate on a recent flight asked me to open the window shade, I could make out the contents of the screen, even with sunlight streaming in next to me. My only concern is that the tall display could be a problem for travelers stuck in coach. As it happens, I was seated in Economy Plus on a newer plane, and the person in front of me was kind enough not to recline, but I bet that on a smaller aircraft (and with less considerate neighbors), things would have gone differently. Heck, even with the 13-inch Air, which has a lower-slung screen, I've had problems using it in coach.
+
+Google's "if it ain't broke, don't fix it" philosophy applies to the keyboard as well. For all intents and purposes, this is the same tactile, well-spaced keyboard as last time, with one exception: Whereas the row of function keys used to have a stiff feel, they now have the same shape as all the other buttons on the keyboard. And that's a good thing. With the exception of my Google password, which has a lot of special characters and is easy to mess up -- I was able to type at a fast clip with very few typos. The buttons don't even have that much travel, per se, but the keys are large and easy to hit, and they're springy enough that I didn't have to mash the keys in order for my button presses to register. The touchpad is also a joy to use: spacious with smooth, controlled tracking.
+
+
+That leaves one of the few things that's actually different about the design, and that's the ports. As I mentioned, the new Pixel has two reversible USB Type-C ports -- the same sort used on the new MacBook announced earlier this week. But whereas Apple caused a controversy by including just one port on its new flagship laptop, Google mercifully built in two Type-C connections -- along with two "regular" Standard A USB ports for good measure. In particular, I like that there's one Type-C port on either side -- it means I have some flexibility in terms of where I plug in the charging cable. As I type this, for example, I'm sitting in a middle seat on a plane, with a power outlet on either side of me. The lady on my left indicated she might need an outlet at some point. Good thing there's another one on my right, with a nearby power plug to match.
+
+Finishing up our tour, there's also a headphone jack and full-sized SD card; kind of a crucial detail on a Chromebook with only 32GB of built-in storage. Basically, then, you have all the ports you'd likely want, unless you were holding out for an HDMI socket. (And if you were, you've heard of Chromecast, right?) Truly, it seems that as long as there are still standard USB 3.0 ports there, you get the best of both worlds. On the one hand, you can charge gadgets faster over USB Type-C than a regular micro-USB port. You also can get away with carrying just one power brick for all your gadgets, including your Pixel and whatever phones or tablets you own. At the same time, you don't need an adapter to use your existing peripherals (Ethernet adapters, USB headsets, etc.). Apple might be right that people will one day require fewer ports, and that USB Type-C, in particular, will be ubiquitous. But we're not there yet. For now, then, this mix of old and new USB sockets feels like a sensible compromise.
+
+Software
+Chrome OS has come a long way since we reviewed the original Pixel, back in February 2013. First off, most every Google app has offline access, including Gmail, Drive, Music and Google Play Movies & TV. Many third-party apps, such as Pocket and Amazon Kindle Cloud Reader, now work offline, too. In fact, the selection is big enough that there's even a section of the Chrome Web Store dedicated to offline-capable apps. In short, then, the idea that Chromebooks are crippled without an internet connection is a big fat myth. I will say this, though, there is nothing more infuriating than being locked out of a Chromebook during a flight because you have two-factor authentication and can't receive your six-digit code over SMS. That happened to me while testing another Chrome OS laptop recently and, well, let's just say I won't be making that mistake again. Always have backup codes handy, kids.
+
+The idea that Chromebooks are crippled without an internet connection is a big fat myth.What else has changed in the last two years? It's now easier to juggle multiple accounts. As of late last year, Chromebooks have always-on, "OK Google" voice search. The Pixel's touchscreen now supports pinch-to-zoom. You can remotely lock your machine if it gets lost or stolen. The file manager is better organized. Chrome OS sends photos to Google+ in the background, even if you don't have the app open. And hey, if Chrome OS isn't enough, you can load a new operating system through a USB drive (or you could just run it in its own window). Speaking of different platforms, you can now run a handful of Android apps, including Vine, Evernote and Flipboard. The selection is still small, but it's a nice-to-have feature nonetheless.
+
+But it's not just Chrome OS that has matured; the rest of the web has caught up too. Though I still can't do everything I need to on a Chromebook, most of the services I use, or could possibly want, are now in the cloud. Skype, one of the biggest apps I used to miss on Chromebooks, is now accessible from a browser. So is HipChat, the messaging client Engadget staffers use to communicate with each other. (Ditto for Slack, which many other workplaces use.) Like most people, I also make good use of music-streaming services like Spotify, Slacker and Pandora, all of which have a cloud player. Netflix works fine here too, even though there were some compatibility issues years back. The same goes for Amazon Prime Video, Hulu Plus and the like. I can do almost anything I want on a Chromebook.
+
+If you think there's a chance you'll miss one of your usual desktop apps, you might just want to buy yourself a similarly priced Mac or Windows machine.The keyword is "almost." There are still some gaps. The software updater for my Garmin running watch won't install on a Chromebook. I can't install iTunes on the Pixel, though I can upload my collection to Google Play Music. I happen not to be a gamer, but if I were, I wouldn't be able to download Steam, or play any truly native games -- beyond the mobile-style titles found in the Chrome Web Store. There's no web-based video editor that matches the ones I might use on a desktop. Meanwhile, most of Adobe's Creative Cloud apps aren't available on Chromebooks. Technically, Photoshop is compatible, but for now it's only available in beta to education customers. I could use Chrome's Remote Desktop feature, I suppose, but that's a clumsy solution compared to simply loading an app on my local machine.
+
+Depending on who you are and what you do with a computer, it's possible that none of these will be dealbreakers for you. But if you think there's a chance you'll miss one of your usual desktop apps, you might just want to buy yourself a similarly priced Mac or Windows machine -- and then install the Chrome browser for when you need it. Because when a laptop costs $999, you should be able to use it exactly how you want; you shouldn't have to resort to workarounds.
+
+Performance and battery life    SunSpider v.1.0.2* Google Octane Mozilla Kraken*     Chromebook Pixel (2015, Core i5, Intel HD 5500) 298ms  23,907
+
+   1,428ms
+
+      Toshiba Chromebook 2 (Celeron N2840, 4GB RAM) 967ms  7,714
+
+   4,284ms
+
+    Samsung Chromebook 2 (11-inch, Celeron N2840, 2GB RAM) 525ms  7,223
+
+   3,936ms
+
+    Acer Chromebook 13 (NVIDIA Tegra K1, 2GB RAM) 609ms  7,051
+
+   4,816ms
+
+    Lenovo N20p (Celeron N2830, 2GB RAM) 567ms  7,288
+
+   4,287ms
+
+    ASUS C200 Chromebook (Celeron N2830, 2GB RAM) 483ms  7,198
+
+   4,291ms
+
+    Acer C720 Chromebook (Celeron 2955U, 2GB RAM) 342ms  11,502
+
+   2,614ms
+
+      Dell Chromebook 11 (Celeron 2955U, 4GB RAM) 340ms  11,533
+
+   2,622ms
+
+     *SunSpider and Kraken: Lower scores are better.
+   Of course the Pixel is faster than other Chromebooks: It has a fifth-generation Core i5 processor, Intel HD 5500 graphics and 8GB of RAM, compared with a Celeron CPU and 2GB to 4GB of RAM on most competing models. It's no surprise, then, that the Pixel swept its rivals in every web-rendering test, including SunSpider, Mozilla Kraken and Google's own "Octane" benchmark. Now, I've always contended -- and still contend -- that even those lower-powered Chromebooks are still sufficient for basic tasks like email, web surfing and chatting. Still, the Pixel is noticeably brisker. And really, who's going to argue with faster performance? In addition to booting in a swift five seconds, the Pixel is quick to load new windows, as well as toggle between open tabs. Additionally, the built-in 802.11ac WiFi radio was quick to reconnect to known networks after the machine had been asleep.
+
+     Battery life
+
+      Chromebook Pixel (2015) 10:01   MacBook Air (13-inch 2013) 12:51   HP Spectre x360 11:34   ASUS C200 11:19   Apple MacBook Pro with Retina display (13-inch, late 2013) 11:18   Acer Chromebook 13 10:07   Samsung ATIV Book 9 Plus 8:44   Samsung Chromebook 2 (13-inch) 8:22   Dell XPS 13 (2015) 7:36   Lenovo Yoga 3 Pro 7:36   Acer Aspire S7-392 7:33   Microsoft Surface Pro 3 7:08   Acer C720 Chromebook) 6:27 (Core i3) / 5:57 (Celeron)   Toshiba Chromebook 2 6:34   Chromebook Pixel (2013) 4:08  Google rates the new Pixel for 12 hours of battery life -- a marked improvement over the original, which only promised five hours of runtime. Though I never quite made it to the 12-hour mark, it's clear the battery life is a markedly better here: I got 10 hours of continuous video playback -- not far off Google's own estimate. Also, as an experiment, I packed the Pixel's charger in my checked luggage, so that I would have to rely solely on the Pixel's built-in battery to get me through a cross-country flight. After three and a half hours of consistent web surfing, chatting and word processing, I still had 66 percent, or six hours, left according to the battery icon in the system tray. I'm no mathematician, but I think that means I would have achieved nearly 10 hours of use.
+
+Additionally, the Pixel touts some fast charging -- two hours in 15 minutes, or a full charge in two hours, according to Google. I actually believe that's a conservative estimate. After just 17 minutes, I had a 29 percent charge, or around 3.5 hours of juice. All told, it took me an hour and 41 minutes to return to a full charge, which was even faster than I was expecting.
+
+Configuration options and the competition
+The Pixel starts at $999 with a fifth-generation Core i5 processor, 8GB of RAM and 32GB of internal storage. If money is no object there's also a $1,299 "LS" (ludicrous speed) model with a Core i7 CPU and 16GB of RAM. Either way, you get 1TB of Google Drive storage, free for three years. And, like every other Chromebook, you're automatically entitled to 12 free Gogo in-flight WiFi passes.
+
+A nice perk, that, but is it worth the $999 asking price? Not for most people. For a hundred dollars less, you can get the HP Spectre x360, which also has a machined aluminum chassis and a roughly three-pound build, except it also runs traditional desktop programs. For a little more money, you can find plenty of machines that more closely match the Pixel on the spec front, especially screen resolution. Lenovo's Yoga 3 Pro convertible is currently going for $1,200 with a 3,200 x 1,800 display and a 2.6-pound build. The 2.6-pound Dell XPS 13 also has a 3,200 x 1,800 display for $1,300, though you could also get a lesser configuration for as little as $800. Meanwhile, the 13-inch Retina display MacBook Pro starts at $1,299 with an aluminum chassis and a display that matches the Pixel in both quality and pixel count. To be fair, not all of the machines here can beat the Pixel on battery life, but some do: both the Spectre x360 and 13-inch Retina display MBP last roughly 11.5 hours.
+
+Wrap-up
+Four years after the first Chromebook came out, the idea of a laptop running the Chrome browser as an OS is still a niche proposition. These things aren't for everyone, and might never will be. That said, the idea doesn't seem as silly as it once did. Personally speaking, I wouldn't buy one -- but that's mostly because it won't run Photoshop, and it doesn't play nice with certain peripherals like my running watch. Barring that, though, I love the Pixel. Between the design, display, keyboard and battery life, it's among the finest notebooks I've had the pleasure of using. I'm sad to have to give my review unit back.
+
+Even so, I'm running out of excuses. More and more apps now run in the browser, including big holdouts like Skype. Although I personally require certain desktop apps, there are surely others out there who would have no problem living in Chrome. If that's you, you're getting hardware that stands up to the Retina display MacBook Pro as well as many Windows flagships, and you'll probably pay slightly less than you would for a machine with similar specs. That said, if you think you'll need certain desktop programs from time to time, a Mac or Windows Ultrabook is still the more practical choice.
+
+

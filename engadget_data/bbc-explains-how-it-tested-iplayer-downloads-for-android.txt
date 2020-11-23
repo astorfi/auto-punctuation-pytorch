@@ -1,0 +1,4 @@
+
+Wondering why the BBC brought iPlayer downloads to just 11 Android devices, several months after iOS users got their turn? The broadcaster has just explained itself through a blog post detailing the Android app's testing process. Like Netflix, the BBC had to focus its support on a handful of Android products in order to launch on time; this supports what we've heard from our own sources, who suggest that iPlayer development is normally arduous. To address as much hardware as possible on a tight schedule, the network conducted frequent, iterative tests that guaranteed compatibility relatively quickly. While the end result still leaves a lot of viewers without downloads, the BBC suggests that its testing process introduced the feature sooner than would have otherwise been possible. Whether or not you're happy with the finished product, you can check out the corporation's full methodology at the source link.
+
+

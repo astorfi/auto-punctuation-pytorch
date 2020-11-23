@@ -1,0 +1,18 @@
+
+ 
+
+While Intel gave us the technical rundown on its next iteration of Thunderbolt two months earlier, it's now announced that it will officially be known as the not-particularly-original Thunderbolt 2. Promising 20 Gbps throughput and support for 4K video, Intel is now vowing to bring the port to market sometime this year. For a reminder, we've added the company's NAB demo after the break.
+
+
+ 
+
+Show full PR textVideo Creation Bolts Ahead – Intel's Thunderbolt™ 2 Doubles Bandwidth, Enabling 4K Video Transfer & Display
+Everybody seems to be sharing video these days - at higher resolutions than ever. This always-increasing demand has helped expand growth and adoption of Intel's Thunderbolt™ technology in 2013, especially for the video editors creating the best and richest content. Originally brought to market in conjunction with Apple*, Thunderbolt is now a standard feature of Mac* computers sold in the market today. The last year has also seen the PC industry get on board in earnest, as Thunderbolt is currently included on over 30 PCs and motherboards worldwide, including on more than a dozen new 4th generation Intel® Core™ processor-based products. In addition, there are more than 80 Thunderbolt-enabled peripheral devices, covering everything from storage drives, expansion docks, displays, and a myriad of media capture and creation hardware. More than 220 companies worldwide are developing Thunderbolt-enabled products, and that's only going to increase.
+
+At the video geekfest National Association of Broadcasters (NAB) show in April, Intel announced plans for an important advancement in Thunderbolt technology – the upcoming controller codenamed "Falcon Ridge" running at 20Gbs, a doubling of the bandwidth over the original Thunderbolt. Named "Thunderbolt™ 2", this next generation of the technology enables 4K video file transfer and display simultaneously – that's a lot of eye-popping video and data capability. It is achieved by combining the two previously independent 10Gbs channels into one 20Gbs bi-directional channel that supports data and/or display. Current versions of Thunderbolt, although faster than other PC I/O technologies on the market today, are limited to an individual 10Gbs channel each for both data and display, less than the required bandwidth for 4K video transfer. Also, the addition of DisplayPort 1.2 support in Thunderbolt 2 enables video streaming to a single 4K video monitor or dual QHD monitors. All of this is made possible with full backward compatibility to the same cables and connectors used with today's Thunderbolt. The result is great news for an industry on the cusp of widespread adoption of 4K video technologies.
+
+"By combining 20Gbs bandwidth with DisplayPort 1.2 support, Thunderbolt 2 creates an entirely new way of thinking about 4K workflows, specifically the ability to support raw 4K video transfer and data delivery concurrently," says Jason Ziller, Marketing Director for Thunderbolt at Intel. "And our labs aren't stopping there, as demand for video and rich data transfer just continues to rise exponentially."
+
+Professionals and enthusiasts alike will be able to create, edit, and view live 4K video streams delivered from a computer to a monitor over a single cable, while backing up the same file on an external drive, or series of drives, simultaneously along the same device daisy-chain. Backing up terabytes of data will be a question of minutes, not hours. And finally, since Thunderbolt 2 is backwards compatible, original investments in cables and connectors continue to pay off while supporting dramatically improved performance. Thunderbolt 2 is currently slated to begin production before the end of this year, and ramp into 2014.
+
+

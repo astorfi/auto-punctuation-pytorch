@@ -1,0 +1,8 @@
+
+ 
+A communique from a "Customer Appeals Manager" at AT&T in response to a Better Business Bureau complaint regarding slow uploads on the Atrix 4G has surfaced over on xda-developers, and it looks to more or less confirm what we've suspected: the hardware's totally capable of pushing HSUPA speeds, it's just being held back for the moment. The rep says that the carrier's currently "performing the testing and preparations necessary to ensure that, when [they] turn this feature on, you will continue to have a world class experience," which would suggest that there might be some lingering network concerns. AT&T's in the midst of a backhaul upgrade as part of its HSPA+ based "4G" network, so it might merely be a matter of waiting for that to go through before flipping the switch.
+
+[Thanks, Shift3r]
+      
+
+ 

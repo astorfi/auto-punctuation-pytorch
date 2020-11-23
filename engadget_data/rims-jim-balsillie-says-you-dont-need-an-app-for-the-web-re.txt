@@ -1,0 +1,6 @@
+
+ 
+It's no secret that RIM doesn't exactly agree with Steve Jobs' characterization of the company's prospects, and Jim Balsillie has some more to say on the Apple vs. RIM front, particularly where it comes to apps. It's hard to imagine RIM catching up with Apple's 300,000+ apps, but Jim doesn't think that's the point: "We believe that you can bring the mobile to the Web but you don't need to go through some kind of control point of an SDK, and that's the core part of our message." The statement was made at the Web 2.0 Summit a couple days ago, and on further prompting Jim made it clear he rejects Apple's "appification" of the web. RIM's strategy is obviously riding on highly portable Adobe AIR apps and Flash support in the browser (much like Microsoft's Silverlight app strategy for Windows Phone 7), and we look forward to seeing just how well that playbook plays out in the PlayBook. Of course, "there's not an app for that, but our browser is fully capable of performing that functionality" isn't quite so catchy...
+      
+
+ 

@@ -1,0 +1,15 @@
+
+ 
+ Think those are some pretty slick graphics in your Galaxy S III? Samsung's latest smartphone packs some mighty graphics prowess of its own, thanks to the Mali-400 MP GPU, but once you spend a few minutes with the Mali-T604, the company's next-generation chipset, the improvements become quite clear. After seeing the Mali-T604 in action, as we did at SIGGRAPH today, the capabilities leave us hopeful for the future, and perhaps feeling a bit self-conscious about the silicon currently in our pockets. The reference device on hand was operating in sync with a variety of unnamed hardware, protected from view in a relatively large sealed box. We weren't able to squeeze many details out of ARM reps, who remained mum about the demo components, including clock speed, manufacturer and even fabrication size. What we do know is that we were looking at a quad-core Mali-T604 and dual-core ARM Cortex-A15 processor, with a fabrication size in the range of "28 to 40 nanometers" (confirming the exact size would reveal the manufacturer). Clock speed is also TBD, and the early silicon on demo at the show wasn't operating anywhere close to its top end.
+
+ In order to experience the T604, we took a look at three demos, including Timbuktu 2, which demonstrates elements like self shadowing and depth of field with OpenGL ES 3.0, Hauntheim, which gives us an early look at physics simulation and HDR lighting with OpenCL, and Enlighten, which rendered silky smooth real-time illumination. You can see all of the demos in action after the break, and you can expect T604-equipped devices to make their debut beginning later this year -- ARM says its working with eight manufacturers to get the licensed tech to market as early as Q3.
+
+ Update: ARM has just confirmed to us that this reference device is running off an Exynos 5 Dual chip (up to 1.7GHz), which means the following video is also a heads-up on what Sammy has in store for us in its forthcoming devices.
+
+
+
+
+
+  
+
+ 

@@ -1,0 +1,7 @@
+
+Remember the last time you saw the infamous Twitter fail whale? With any luck, it's been a while -- the microblogging outfit is boasting that it withstood a one-second peak of 143,199 Tweets earlier this month. This volley of updates stands not only as a new record for tweets per second (the previous record topped out at 33,338), but as a sign for the social network's stability. Twitter's Raffi Krikorian took to the company's engineering blog to elaborate.
+
+
+Three years ago, the World Cup brought Twitter to its knees -- crashing the service with nearly every play. Krikorian says the experience gave the company pause, prompting them reevaluate its approach to managing traffic. "We learned a lot. We changed our engineering organization." Krikorian goes on to detail the transformation, explaining how the firm tweaked its programming models, architecture, services, applications and storage databases to eliminate bottlenecks and increase stability. "We're now able to withstand events like Castle in the Sky viewings, the Super Bowl, and the global New Year's Eve celebration." All of the above topics are addressed at length, but Twitter promises future blog updates diving into each subject at even greater length. So, curious as to why exactly you haven't missed out on any of @GeorgeTakei's quirky banter? Check out the attached source link and find out.
+
+

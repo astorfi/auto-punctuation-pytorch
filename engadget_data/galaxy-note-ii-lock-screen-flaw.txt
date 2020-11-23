@@ -1,0 +1,9 @@
+
+ The emergency contacts (ICE) menu is proving to be a Pandora's Box of lock screen vulnerabilities on several Samsung Galaxy handsets. Users are finding ways to exploit this weak point and the latest flaw that's come to our attention employs the pop-up browser on the Note II as an accomplice. It requires the information ticker to be active (found in lock screen settings) so news bites and such are displayed on the screen you encounter when waking the device. Touch upon something to find out more and you're sent to the lock screen; from there, head to the ICE menu to find a pop-up browser window containing the item you chose in the ticker. Within that window, anyone can access the handset's clipboard or point the browser to sites holding personal data. Sure, it isn't as bad as the bug that completely disables the lock screen -- identified on the Galaxy S III, but also found to work on the Note II -- but is just another reason to hope the mythical box is almost empty and at the bottom lies a fix.
+
+
+
+
+ 
+
+ 

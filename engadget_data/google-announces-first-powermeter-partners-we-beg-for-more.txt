@@ -1,0 +1,17 @@
+
+ 
+At last, we have the first partners in Google's quest to make your personal power consumption visible on your home computer. As the thinking goes, if you can't measure it, you can't improve it. So Google wants to give consumers near real-time visibility to their consumption and usage patterns via Google's PowerMeter software and utility-supplied "smart meters." The hope here, is that those aware of their energy consumption habits will change them to save money, and in turn, the planet. The initial list of partner utilities represent millions of homes spread across cities and country-sides in the US, Canada, and India: 
+
+San Diego Gas & Electric® (California) 
+TXU Energy (Texas) 
+JEA (Florida) 
+Reliance Energy (India) 
+Wisconsin Public Service Corporation (Wisconsin) 
+White River Valley Electric Cooperative (Missouri) 
+Toronto Hydro–Electric System Limited (Canada) 
+Glasgow EPB (Kentucky) 
+
+Google has also partnered with Itron to embed its PowerMeter software into Itron smart meters. While we applaud the effort, seeing energy consumption for the entire house, only, is far too macro (though a good first step). What we're waiting for is the marriage of this with home automation and monitoring solutions based on Z-Wave and ZigbBee, for example, so we can gain visibility and control down to the device level. Imagine a single software view that lets you drill all the way down to see how much energy your computer, lights, or home theater projector is consuming and then shut 'em down when not in use or to avoid vampire drain. Hey Nokia, you're working on a Home Control Center... you reading this? Google's looking for partners.
+      
+
+ 

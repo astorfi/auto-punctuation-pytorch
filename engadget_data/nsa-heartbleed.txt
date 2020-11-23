@@ -1,0 +1,18 @@
+
+The United States National Security Security Agency reportedly used the recently uncovered "Heartbleed" security exploit to access information, Bloomberg reports. According to two unnamed sources, the NSA exploited the flawed security standard for the past two years without alerting affected companies and the public at large. It's unclear what the exploit was used to access, but the flaw affects a huge portion of the web: something like two-thirds.
+
+
+Major services like Google are already acting, updating services and patching the issue. For those services, we suggest updating your passwords ASAP. For the still affected sites? Sadly, your best option is to wait it out.
+
+
+Update: The NSA insists that it only became aware of Heartbleed at the same time as everyone else. This answer isn't going to satisfy everyone given the many contradictory claims about the agency's activities, but hey -- at least it's on top of the situation.
+
+
+
+Regarding the alleged NSA action -- if true -- the security community has yet another reason to mistrust the US government agency most well-known as of late for massively overreaching surveillance tactics. It's also far from the first accusation that the NSA intentionally overlooked security flaws affecting millions of people: late last year, documents revealed that the NSA intentionally inserted a security "backdoor" into a widely used data encryption system (RSA).
+
+Heartbleed affects a similarly huge group of people, and works (at a high level, at least) in a similar way. One of the internet's most widely used security systems -- OpenSSL -- has a flaw in it that enables hackers (and allegedly the NSA) to access private information. Worse, the flaw exposes security keys that enable continued access for the illicit user in question. The good news is that there's an update to the OpenSSL system which patches the flaw. The bad news is that many websites still haven't updated (Mashable has a list here).
+
+Statement: NSA was not aware of the recently identified Heartbleed vulnerability until it was made public.
+
+- NSA/CSS (@NSA_PAO) April 11, 2014

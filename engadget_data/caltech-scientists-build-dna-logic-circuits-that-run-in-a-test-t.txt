@@ -1,0 +1,5 @@
+
+ We've seen DNA logic before (remember the MAYA-II, the DNA computer that could play tic-tac-toe?), but a new variety at Caltech has created a set of circuits that can work in salt water, possibly paving the way for cell-based computers. The researchers created a small series of circuits and included gates to perform all the binary logic functions: AND, OR, and NOT. Each gate, a set of DNA strands, receives DNA molecules as input and spits out different ones as output. They've succeeded in building 12 gates in a cascade five layers deep -- pretty simple compared to your average microchip, but nonetheless pretty impressive. Ok Caltech, we'll let your computer partner up with MAYA-II and we'll take 'em both on in a game of competitive Sudoku, how's that?
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+
+Intel's Medfield may still be a ways from breaking into the smartphone and tablet market, but we're finally starting to get some concrete details on its specs and capabilities. VR-Zone got the nitty gritty on Chipzilla's first true SoC and it looks almost ready to run with the big dogs. A reference tablet, running at 1.6GHz with 1GB of RAM (which also packs Bluetooth, WiFi and FM radio) was put through some Android benchmarks and held it's own against a Tegra 2 and a Snapdragon MSM8260 -- which pulled a 7,500 and 8,000 in Caffeinemark 3, respectively. The admittedly higher clocked Atom scored an impressive 10,500, though power consumption on the pre-production chips was a bit higher than anticipated. At idle, the fledgling Medfield was sucking down 2.6W and spiking to 3.6W under load. Ultimately Intel hopes to cut those numbers to 2W at idle and 2.6W while pushing out HD video -- not far off from current-gen ARM SoC. Lets not forget though, benchmarks only tell part of the story -- we'll be waiting to see working hardware before declaring a victor.
+      
+
+ 

@@ -1,0 +1,13 @@
+
+ 
+ 
+
+ Rejoice, owners of netbooks with Intel GMA 500 graphics: Flash Player 10.1 Beta 3 is here, complete with hardware video acceleration for your machines. That should make Hulu and YouTube HD usable on machines like the Sony VAIO P and VAIO X, the Nokia Booklet 3G, and the previous-generation Dell Mini 10. The new build also bring support for the Broadcom Crystal HD accelerator found in Pine Trail Atom machines like the newest Dell Mini 10 and HP Mini 210 -- support we found sorely lacking when we reviewed the Dell. We just tried it out on our review HP Mini 210 and it managed 720p YouTube just fine, although 1080p was a no-go -- we're waiting on some updated Broadcom drivers though, so don't take that as gospel quite yet. We'll have much more on that in our full Mini 210 review; for now you should all get downloading and let us know how it's going in comments.
+
+Update: Success! We updated the Broadcom drivers on our Dell Mini 10 and downloaded the fresh Flash 10.1 Beta 3, and as you can see in the video below 1080p YouTube HD content plays smoothly. It's almost everything we've ever dreamed of for our netbooks. We are still having issues with the HP Mini 210 which uses the older BCM70012 Crystal HD card, but will have an update on that in our full review soon.
+      
+
+ 
+
+
+ 

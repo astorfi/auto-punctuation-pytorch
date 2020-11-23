@@ -1,0 +1,12 @@
+
+Sure, you love the HDR pictures coming from your point-and-shoot, smartphone or perhaps even your Glass. But what if you want to Hangout in HDR? An enterprising grad student from the University of Toronto named Tao Ai -- under the tutelage of Steve Mann -- has figured out how to shoot HDR video in real-time. The trick was accomplished using a Canon 60D DSLR running Magic Lantern firmware and an off-the-shelf video processing board with a field programmable gate array (FPGA), plus some custom software to process the video coming from the camera. It works by taking in a raw feed of alternatively under and over exposed video and storing it in a buffer, then processing the video on its way to a screen. What results is the virtually latency-free 480p resolution HDR video at 60 frames per second seen in our video after the break.
+
+
+When we asked whether higher resolution and faster frame rate output is possible, we were told that the current limitations are the speed of the imaging chip on the board and the bandwidth of the memory buffer. The setup we saw utilized a relatively cheap $200 Digilent board with a Xilinx chip, but a 1080p version is in the works using a more expensive board and DDR3 memory. Of course, the current system is for research purposes only, but the technology can be applied in consumer devices -- as long as they have an FPGA and offer open source firmware. So, should the OEM's get with the program, we can have HDR moving pictures to go with our stationary ones.
+
+
+
+
+
+
+ 

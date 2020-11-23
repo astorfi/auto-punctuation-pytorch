@@ -1,0 +1,4 @@
+
+ The Blackberry 10 gold SDK release has revealed an interesting tidbit for Evernote partakers: the memory-prodding app seems to be tightly enmeshed with RIM's upcoming OS. It's one of the so-called Notebook options listed under the "App Integration" heading, which let you organize "actionable and non-actionable items into separate folders or topics." Evernote is listed as one of those options, and will let you sync up and access your account with Blackberry 10 devices, according to the documentation. That app is already available across all other major platforms, letting you organize documents with audio, video, photos, websites and, um, text -- then sync everything up in the cloud. Considering Evernote's recent foray into the business side of things, having the app built-in might be a nice pitch to RIM's core userbase when the new OS is finally launched.
+
+

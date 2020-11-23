@@ -1,0 +1,8 @@
+
+As promised, Internet Explorer 11 is making its way to Windows 7, slowly but surely. Almost a month after we got our first serious taste of Microsoft's latest browser, currently available on Windows 8.1 only, the developer preview version for Win 7 has hit the web. Obviously, there's a lot less Metro-flavored flash, but the most important features and improvements should still carry over. The biggest news is the improved performance and load times. Microsoft is quite proud of the enhancements it's made to Chakra, it's JavaScript engine, and claims it's significantly faster than Chrome, Firefox and Opera. As always, though, you can take these self-administered benchmarks with a grain of salt. There's also support for WebGL and advanced HTML5 video features, like those powering the next-generation Netflix player. And, seeing as how this is a developer preview, the package wouldn't be complete with out some updated tools for building sites and web apps, in the form of an overhauled F12, that borrows heavily from Visual Studio. If your'e looking for some more fine-grained details or just want to download it for yourself, hit up the source link.
+
+
+
+
+
+ 

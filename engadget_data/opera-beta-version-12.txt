@@ -1,0 +1,7 @@
+
+ 
+ Similar to that other, foxy browser, Opera reached numerical version 12 (although in beta form), promising to be as fast and smooth as it's ever been. Included in the new revision are a slew of under-the-hood enhancements, along with a few cosmetic alterations. For starters, Opera 12 now offers complete 64-bit compatibility for both Mac and Windows, while "experimental" hardware acceleration and WebGL support are also in tow. Furthermore, the browser added a "smarter" tab-loading sequence, speed improvements for faster page uploads and a way to customize the look with a bundle of new themes -- of course, you can create your own as well. As for the backend tweaks, Opera announced it's abandoning its Unite and Widgets features in favor of an extension-driven model. Those of you eager to take it for a spin can hit the Opera link below to get started.
+
+ [Thanks, Yousef]
+
+

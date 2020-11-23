@@ -1,0 +1,8 @@
+
+ 
+Earlier this evening, we took the plunge -- now, we're rocking Froyo on our formerly old-and-busted T-Mobile G1. That's because Cyanogen's team of ROM hackers has come through once again for the little handset that could, serving early adopters with HTC Dream and Magic phones (as well as the Nexus One) with the first fully-functioning, stable build of CyanogenMod 6. Based on Google's famous frozen yogurt, the release candidate's got more fabulous tweaks than you can shake a stick at, but sadly doesn't seem to include Flash 10.1, and though WiFi and the camera are working great (as well as SurfaceFlinger and Chrome to Phone) many would-be shoppers in the Android Market are finding themselves faced with the dreaded force close. As usual, you'll find instructions at the source link if you understand the risks -- if you're not careful, you can easily brick your phone.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

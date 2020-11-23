@@ -1,0 +1,8 @@
+
+
+Early adopters know that Firefox likes to put new features through the paces via beta versions of its browser. Accordingly, Firefox today announced some fresh goodies for both mobile and desktop. On the Android side of things, the app has been redesigned with a panel-based layout called "Home," which lets users have easy access to stuff such as browsing history, bookmarks, favorite sites and Reading List. There are also search improvements in tow, including being able to select Bing or Yahoo as the default engine -- the only caveat is that this particular tidbit is limited to folks in the US, Canada and France, at least for the time being.
+
+
+Meanwhile, Firefox Beta added "Click to Play Plugins" on Linux, Mac and Windows, meaning that "most" plugins (Flash is an exception) will no longer be activated on their own. Firefox says providing the option to choose the ones you would like to enable was key, as outdated plugins are a big source of security vulnerabilities. Rounding things up on the desktop is the Firefox OS app manager, a novel tool for developers to test and tinker with those HMTL5 apps straight from the Firefox browser. All that sound good? Then follow the source links below, where you'll find a way to download each variant of the experimental application.
+
+

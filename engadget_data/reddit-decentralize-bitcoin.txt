@@ -1,0 +1,22 @@
+
+Imagine a version of Reddit that's fully peer-to-peer like BitTorrent, and which relies on small bitcoin transactions to function. That's something the company was actually considering last year, according to Ryan Charles, Reddit's former cryptocurrency engineer. He was hired by former Reddit CEO Yishan Wong to lead the decentralization project -- a dream that didn't last for long. After Reddit nabbed a huge $50 million funding round, Charles shifted over to a project focused on returning Reddit shares to its users via bitcoin (which was also killed off). He eventually left the company after just four months. Today, the idea of a fully P2P Reddit remains an intriguing one, especially since it would have helped the company avoid much of the turmoil it's currently seeing.
+
+
+
+After enraging some users by stamping down abusive content, the company got into hot water once again last week following the abrupt dismissal of its director of talent, Victoria Taylor, best known as the person who helped make the site's "AmA" (Ask Me Anything) section a mainstream hit. Reddit's unpaid volunteer moderators shut down hundreds of popular subreddit communities to protest the decision. And while most of those subreddits were eventually brought back online, a petition for Reddit CEO Ellen Pao's firing has now reached over 160,000 signatures.
+
+Even though both recent controversies are about entirely different things -- the tension between a safe environment and allowing for true "free speech," and a lack of communication between Reddit execs and its volunteer army -- they're part of the growing pains Reddit is facing as it tries to grow up into a legitimate media company. While there's no doubt Reddit had some maturing to do, a P2P version of the site might have satisfied the site's more hardcore users, since it would have been harder for the company to censor. And it would have given a layer of protection from the more unsavory posts from some members.
+
+Here's how Charles describes his vision of a decentralized Reddit:
+
+Each user has an app, the reddit app, which connects to the reddit p2p network. For most users, the app is a normal web app. Each user funds their own app with a small amount of bitcoin. In order to download content, the user pays a very, very small amount of bitcoin to the peers on the network. This incentivizes people to keep the app open so as to keep servicing the other users. Furthermore, when a user upvotes content, that sends a small amount of bitcoin to the author of that content, thus incentivizing the production of good content. If all the content is authenticated, we can be reasonably sure most payments are going to the right people.
+
+Taking the idea of a decentralized Reddit even further, NYC venture capitalist Fred Wilson wrote a blog post this weekend about how bitcoin's "blockchain" technology could end up being the future of Reddit or a similar media site. You're probably familiar with bitcoin as a semi-anonymous digital currency, but its blockchain technology is even more intriguing, since it has the potential to be used in plenty of other industries. Basically, the blockchain is a shared digital record of messages (in bitcoin's case, payment transactions) established by crowd consensus. Given its distributed nature, it's effectively impossible to change or spoof a blockchain message. That's a particularly big deal since it legitimizes transactions without the need for any sort of middleman. (Here's a great overview on what the blockchain means for many industries.)
+
+"It may be that there is no viable middle ground between a centrally controlled media platform and an entirely decentralized media platform," Wilson writes. "You are either going to police the site or you are going to build something that cannot be policed even if you want to."
+
+A blockchain-powered media property could be curated just like Reddit is attempting to do now, but the technology also leaves the door open for someone to build a fully decentralized, totally unfiltered media site that can never be shut down. If anything, the blockchain could enable the purest expression of the internet, one not ruled by huge web entities like Facebook and Google. That could lead to innovative new platforms, but it could also enable some truly terrifying stuff (just imagine what the 4chan crowd and Reddit's rowdiest could do with it).
+
+[Photo credit: jackol/Flickr]
+
+

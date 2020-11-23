@@ -1,0 +1,14 @@
+
+ 
+Intel officially took the wraps off its widely-discussed and readily-implemented Centrino Atom processor / system controller for MIDs last night, and while there aren't a lot of surprises in spec land, it was nice to finally get an idea of what these suckers will cost:
+
+Z500 - 800MHz, 0.65W TDP power, 400MHz FSB, 512K L2 cache ($45)
+Z510 - 1.1GHz, 2W TDP power, 400MHz FSB, 512K L2 cache ($45)
+Z520 - 1.33GHz, 2W TDP power, 533MHz FSB, 512K L2 cache ($65)
+Z530 - 1.6GHz, 2W TDP power, 533MHz FSB, 512K L2 cache ($95)
+Z540 - 1.86GHz, 2.4W TDP power, 533MHz FSB, 512K L2 cache ($160)
+
+That's the pricing per 1,000 units, and is a little bit more than that $30 1.6GHz Atom 230 we were hearing about, but it does include the CPU plus the System Controller Hub with integrated graphics, HD video playback, HD audio and other nifty I/O things like support for WiFi, WiMAX and cellular radios.
+      
+
+ 

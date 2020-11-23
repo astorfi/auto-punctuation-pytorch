@@ -1,0 +1,9 @@
+
+ 
+Is it possible we've been so busy we didn't notice our Android app getting a handful of totally fresh new features? Maybe, but hey -- you still win. If you're an Android user, you might like to know that some time last week we flipped the switch on an update to our app that includes some pretty sexy new features, such as search and video playback inline (for Froyo devices). Additionally, our webOS app was recently bugging out, but that issue has since been fixed. Of course, the iPhone and BlackBerry apps are still available and as fly as ever -- so go grab a copy right now! We're including the changelog for the Android app after the break, too. Feel free to nerd out on that.
+      
+
+ 
+
+ Implemented new Search Feature Implemented widget configuration screen enabling user control of widget feed refresh interval Users can now see YouTube videos and Viddler videos inline (only applicable for 2.2 users) Source and Via links available inline (if applicable) Bug fixes
+ 

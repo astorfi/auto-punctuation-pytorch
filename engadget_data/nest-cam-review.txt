@@ -1,0 +1,42 @@
+
+
+
+Keeping an eye on your family, pets, neighbors and maybe a thief or two is the pitch for the Nest Cam. The evolution of the Dropcam Pro WiFi camera isn't much more than a modest hardware upgrade with the Nest name now attached. And while the $199 device shoots higher-quality images and features a better stand, unlike the other two products in Nest's lineup, it doesn't work with anything else you might have in your connected home. Still, it's a great way to keep tabs on your abode while you're away. 
+
+
+
+
+
+Hardware
+Out of the box, the Nest Cam immediately feels more solid than its Drop Cam Pro predecessor. In particular, the pivot joint is way more adjustable than on the model it's replacing. Because of that and the base, which is now magnetic, you can mount it pretty much anywhere. If that setup doesn't work for you, you can remove the base and attach the camera to a standard tripod mount for additional placement options.
+
+Setting up the camera is also easier than it was when it was made by Dropcam. Just plug the camera into a power source, take a photo of the QR code with the iOS or Android app (see, QR codes aren't completely worthless) and plug in your wireless password. Now if you happen to change your network name or log-in, things might get confusing. Instead of going into settings in the app, you navigate to Home Help, then Wi-Fi Help and select the camera, then update the WiFi information. This isn't something you'll do often, but it's still an odd way of updating something as basic as a network password.
+
+Image quality
+The camera's 1080p image quality is better than the 720p Dropcam, but only slightly. You get better clarity and less pixelation, but unless you look at the images produced by the cameras side by side, you probably wouldn't notice. The big win for 1080p is that saved videos will look nicer when you play them back.
+
+Even in night mode, the difference between the two cameras isn't immediately noticeable. Yes, it's brighter and crisper, but really, a burglar in your home in the dead of night within 20 feet of the device will be easily recognizable on either camera. Still, the Nest Cam offers solid night vision for when you need to keep an eye on your home in the evening and a crispy daytime image of your pets lounging around the house while you're at work.
+
+
+The Nest Cam also features a motion-detection system that breaks out video with movement and alerts you via the app that something has moved within the frame. When Nest first unveiled it, the company boasted of new algorithms that would minimize false alerts. For the most part, the updated software does a good job of not hassling you when nothing is actually happening. While pointed indoors, it alerted me of people and cats moving about, but ignored curtains and other items rippling in the wind. Nest says the camera will also ignore moving vehicles.
+
+Indeed, the Nest Cam ignored passing cars coming toward the camera, but still pinged me about humans riding bikes and walking around my neighborhood. That said, cars driving away from the camera triggered an alert about 40 percent of the time. I live on a relatively quiet street so I'm not sure if a busier thoroughfare would offer better data to tune the alerts, or if it would just send off an alert every few seconds.
+
+Fortunately, you get granular control over motion detection thanks to what Nest is calling "activity zones." Just select a zone and the app will alert you when there is movement in that zone. Perfect for areas where you just need to know that someone is approaching and not already sitting on a couch moving their arms about.
+
+Software
+The iOS and Android apps offer quick access to live video feeds as well as any other Nest products in the home. But both can be a bit buggy, with the camera not showing a feed or a message saying the camera is off when it is in fact turned on. Having access to those same feeds via a browser means that you can keep an eye on your feeds anywhere. But it wasn't without its quirks. For example, controlling the timeline via a browser can be frustrating. You quickly learn that you can't navigate to the next portion of the time graph while video is playing. It'll let you see that new portion for about a second before snapping back to the current-moment portion. Even with the video stopped, pinpointing times can be frustrating with the playhead not always landing where you intended even when you've enlarged the timeline so that it shows seconds instead of minutes.
+
+The apps are at least more polished in terms of how they present video clips. Notified moments are broken out as individual clips so it's easier to pinpoint a specific period.
+
+
+But to access those video clips from the past, owners of the camera need to subscribe to Nest Aware for 10 ($100 a year) or 30 ($300 a year) days of video history. Additional cameras added to an account are half the monthly cost of the initial camera. If you were to buy three Nest Cams and wanted access to 30 days of video for all of them, the total monthly bill would be $50 a month. Ouch.
+
+Another issue is that the Nest Cam doesn't play well in the connected home. It sits all alone not working with any other Internet of Things-type devices, which seems odd. Nest's other products talk to other devices via IFTTT while the Nest Cam sits on the sidelines watching. Always watching. I was able to use its onboard speaker to remotely tell the Amazon Echo to play some music for my cats. So I guess there's that.
+
+The competitionThere are similar cameras on the market, but it's tough to beat the Nest Cam on image quality and ease of use. While the wireless Arlo ($200) from Netgear only shoots at 720p and requires a basestation, it's truly wireless and uses batteries instead of a cable to power the unit and works outside, which is something Nest should consider for its next camera. The cheaper Belkin NetCam HD ($130) shoots 720p video at 25fps which is noticeably lower than the Nest Cam's 1080p at 30fps. But at that lower price point, it'll likely appeal to folks who would be just fine with "good enough."
+
+Wrap-up
+If you're the owner of a Dropcam Pro, don't bother upgrading to the Nest Cam. Sure the camera is better, but it's only a slight improvement, and with access to Nest's more polished apps, the Dropcam Pro is still a solid camera. If you need to watch your home, office or secret lair, the Nest Cam will make spying on your stuff with a relatively easy-to-access video history a breeze if you're willing to cough up the cash for premium quality and the monthly subscription.
+
+

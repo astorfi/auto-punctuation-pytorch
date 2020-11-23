@@ -1,0 +1,6 @@
+
+ 
+Say it ain't so! Despite AMD's past of announcing more delays than actual shipping products, the outfit has managed to deliver its six-core 'Istanbul' Opteron CPU five months ahead of schedule. Announced today in a company press event, the new chip is shipping today with support for two-, four- and eight-socket servers. If all goes well, they'll be available to order from the likes of Cray, HP, Dell, IBM and Sun later this month, with HE, SE and EE versions of the six-core Opteron planned for the second half of this year. As for performance, users can expect up to 34 percent more performance-per-watt over the previous generation quad-core processors in the same platform, though we wouldn't expect to see these stray too far from traditional server boxes.
+      
+
+ 

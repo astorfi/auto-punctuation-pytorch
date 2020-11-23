@@ -1,0 +1,5 @@
+
+ 
+ For those who haven't kept track, Facebook has had a years-long history of only maybe-sort-of-more-or-less purging our photos: they could be removed from a profile, but they would sometimes float around the site's content delivery networks for months or years, just waiting for a prospective employer to spot those embarrassing frosh week snapshots by accident. As Ars Technica discovered through experiments and official remarks, that problem should now be solved. In the wake of a months-long photo storage system migration and an updated deletion policy, Facebook now won't let removed photos sit for more than 30 days in the content network stream before they're scrubbed once and for all. The improved reaction time isn't as rapid as for a service like Instagram, where photos vanish almost immediately, but it might be a lifesaver for privacy advocates -- or just anyone who's ever worn a lampshade on their head in a moment of insobriety.
+
+

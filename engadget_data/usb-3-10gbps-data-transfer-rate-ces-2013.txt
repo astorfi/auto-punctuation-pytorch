@@ -1,0 +1,34 @@
+
+ Don't call it USB 4.0. Here in Las Vegas, the USB 3.0 Promoter Group announced the development of a SuperSpeed USB (that's USB 3.0, if you're curious) enhancement that will "add a much higher data rate, delivering up to twice the data through-put performance of existing SuperSpeed USB over enhanced, fully backward compatible USB connectors and cables." This supplement to the USB 3.0 specification is anticipated to be completed by the middle of this year, bringing along a new 10Gbps data rate, improved data encoding for more efficient data transfer, and of course, compatibility with existing 5Gbps hubs and devices (and even USB 2.0 products). We've yet to hear of any device makers trotting out new gear that'll handle the new spec, but hopefully we'll hear more at CES really gets rolling.
+
+
+
+  Show full PR text    SuperSpeed USB (USB 3.0) Performance to Double with New Capabilities  USB 3.0 Promoter Group to Increase Data Through-put Performance of USB 3.0 to 10 Gbps
+
+   LAS VEGAS, Jan 06, 2013 (BUSINESS WIRE) -- The USB 3.0 Promoter Group today announced development of a SuperSpeed USB (USB 3.0) enhancement that will add a much higher data rate, delivering up to twice the data through-put performance of existing SuperSpeed USB over enhanced, fully backward compatible USB connectors and cables. This supplement to the USB 3.0 specification is anticipated to be completed by the middle of this year.
+
+   Key characteristics of the higher-rate SuperSpeed USB solution include:
+
+   -- New 10 Gbps USB data rate
+
+   -- Compatibility with existing cables and connectors
+
+   -- Improved data encoding for more efficient data transfer leading to higher through-put and improved I/O power efficiency
+
+   -- Compatible with existing USB 3.0 software stacks and device class protocols
+
+   -- Compatible with both existing 5 Gbps and new 10 Gbps USB 3.0 hubs and devices, as well as USB 2.0 products
+
+   "With USB technology continuing to be the data and power delivery path of choice across personal computing and consumer electronics, we are always looking ahead to how to best improve user experience and connectivity performance," said Brad Saunders, USB 3.0 Promoter Group Chairman. "Doubling SuperSpeed USB performance will be especially beneficial for emerging USB docking and storage applications."
+
+   "For our customers, 10 Gbps USB represents an important evolution in this ubiquitous I/O standard," said Mark VandenBrink, Vice President and Chief Technology Officer, PC Global Business Unit, HP. "By doubling the bandwidth while maintaining full backwards compatibility with the broad ecosystem of USB peripherals and software, we will be able to better meet the needs of our customers with this high-speed technology."
+
+   "We recognize that more mainstream client computing applications are going to need higher through-put to user-connected peripherals and devices," said Alex Peleg, Vice President, Intel Architecture Group. "Intel is fully committed to delivering 10 Gbps USB performance to these platforms while retaining compatibility with the existing USB ecosystem to help to satisfy user demand for low-cost, higher-performance solutions."
+
+   "Microsoft has been a strong supporter of the USB community where we have advocated balancing innovation and compatibility. The planned updates to USB 3.0 are consistent with our views," said Dennis Flanagan, General Manager, Windows Ecosystem Engagement. "These updates will enable higher data rates and allow combining of disk, high-definition audio/video and networking traffic on a single cable -- all while maintaining compatibility with billions of existing devices."
+
+   "This enhancement builds on the tremendous success of USB and expands its capability by doubling the data rate," said Roland Sperlich, TI Consumer and Computing Interface Product Line Manager. "While maintaining backward compatibility, the 10 Gbps data rate allows users to do more with a universal standard that can be leveraged by many industries."
+
+   The 10 Gbps SuperSpeed USB update is targeted for industry review during the first quarter of this year. Further information regarding the specification and plans for pre-release industry reviews will be provided via the USB Implementers Forum (USB-IF) website at http://www.usb.org/developers/USB-Futures.pdf .
+
+ 

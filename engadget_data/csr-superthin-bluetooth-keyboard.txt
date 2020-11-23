@@ -1,0 +1,14 @@
+
+Think the Microsoft Surface's Touch Cover was thin? You ain't seen nothin' yet. CSR, a company that delights in coming up with clever ideas and putting a significant amount of engineering personnel behind them, has a working prototype of a 0.5mm-thin keyboard. The board -- if you can call it that -- is made of flexible material and printed circuitry, combined with an Atmel touchscreen sensor and a few other life-bringing chips near the top (because of this, the top of the keyboard is a little thicker). Since it uses Bluetooth Smart to transmit your strokes and taps to a phone, tablet or computer, the only possible concern is the issue of incompatibility with devices that don't support the standard yet; iOS 7 and Windows 8 will be good to go (a rep told us that while Android 4.3 supports Bluetooth Smart, it doesn't utilize the HID profile that CSR relies heavily on).
+
+
+The model we played with was a little cramped, which means we had to consciously try not to hit the wrong keys; other than this, we actually had the same kind of typing experience tonight that we've had with the Touch Cover. Of course, these kinds of things can easily be worked out as CSR works out the kinks. As you might expect from a prototype, don't expect to see the white membrane pictured above in a big box store. CSR doesn't plan to sell it directly to users, but rather it's busy pitching it to developers and OEMs in case they want to embed it into devices of their own. Because of this, the company isn't ready to disclose details about when or where we'll see its tech show up first -- when it makes an appearance, however, we'll let you know. Head below for a gallery and video.
+
+
+
+
+
+
+
+
+ 

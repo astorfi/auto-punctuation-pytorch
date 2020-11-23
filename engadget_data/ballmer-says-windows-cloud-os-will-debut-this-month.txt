@@ -1,0 +1,5 @@
+
+ 
+While a good chunk of this month's Professional Developers Conference will be focused on Windows 7, it looks like Microsoft has another little surprise up its sleeve, with CEO Steve Ballmer himself dropping word that the company also plans to introduce its new, tentatively-titled "Windows Cloud" OS at the conference. Of course, Ballmer isn't about to get very specific about the OS just yet, though he does seem to be dampening expectations a bit by saying, "just like Windows Server looked a lot like Windows but with new properties, new characteristics and new features, so will Windows Cloud look a lot like Windows Server." He also apparently confirmed that geo-replication and other features "designed for the cloud" would be built into the OS, and he confirmed the existence of Midori, but said it was still in the incubation phase, adding that, "the guy in the office next door to somebody working on Midori is not supposed to know about Midori." We assume that also means that Windows Cloud is not Midori, but we'll know for sure once PDC gets underway on October 27th.
+
+ 

@@ -1,0 +1,13 @@
+
+One of the current trends in technology right now is inventors jamming wireless radios in objects that you wouldn't expect to find 'em. For instance, the HAPIfork, a smart fork that sent your eating speed to your phone in an attempt to get you to chew your food more slowly, became an unexpected hit at last year's CES. Kolibree hopes to recreate that success with its connected toothbrush. Yeah. Once you've cleaned your teeth (in the usual fashion), the Kolibree pushes your stroke count to your smartphone, telling you if you did a good job and showing which parts of your gob still need some attention. Naturally, the company will request your cash via Kickstarter at some point in the summer, where you'll be able to pick up a model priced somewhere between $100 - $200.
+
+
+
+We were able to spend some time with both the Kolibree prototypes and the device's founder, Thomas Serval. Serval is an ex-Googler who went back to hardware design after several years with the software giant, was inspired to build the device after getting tired of asking his children if they'd brushed their teeth. Containing an accelerometer, magnetometer and gyroscope, the hardware builds a model of the inside of your mouth and then offers you a percentage score of how well you've done in keeping it clean. The model is built in two ways: firstly, when you get the device, you can calibrate the hardware by showing it around your gob, but also the company has a dentist-supplied list of measurements that help it understand the size of your mouth compared to your age and gender.
+
+
+Hold the hardware in your hand and the prototype is surprisingly light, despite the built-in battery that is re-juiced on a wireless charging plate. It'll push the data over Bluetooth to your smartphone or tablet, and you can monitor your family's statistics with a league table that, it's hoped, will encourage kids to out-do their parents. That same data can also be shared with your dentist, should you wish them to know how well (or not) you're doing in the oral hygiene stakes. Depending on the hardware you're buying, an individual Kolibree will set you back between $100 - $200, but the company will offer discounts for family packs when it's finally ready for public consumption.
+
+
+Jamie Rigg contributed to this report.
+

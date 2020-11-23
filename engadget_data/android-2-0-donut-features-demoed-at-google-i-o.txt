@@ -1,0 +1,6 @@
+
+ 
+We're still trying to get used to the overwhelming joy of having Cupcake installed on our G1s, but it's full steam ahead over at Google where engineers are already slaving away on the Donut branch that'll eventually come to be known as Android 2.0. Demoed today at the first I/O keynote were Donut's universal search (known simply as "Android Search"), which will let you search both online and locally on the phone through contacts, calendars, music, and any app with the proper code, and a text-to-speech API, which should allow developers to integrate Google Voice Search-style awesomeness into the apps of their choice. We also got a brief glimpse of handwriting gestures used for searching through list -- the live example was drawing the letter 'e' and going to that specific point in a list of songs. Nothing wildly different interface-wise -- yet -- but we know from the initial 1.0 release that the UI's very much subject to change, not to mention the fact that HTC and others look poised to do some serious customization of their own. Check out the gallery for shots live from the I/O keynote!
+
+
+

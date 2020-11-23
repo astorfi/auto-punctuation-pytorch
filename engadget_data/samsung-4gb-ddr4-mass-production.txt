@@ -1,0 +1,28 @@
+
+DDR4 memory is finally in mass production, as Samsung Semiconductor announced it's churning out 4GB 4Gb (512MB) modules, based on "20nm-class" process technology. 32GB sticks like the ones shown above are headed for the premium server market, where Samsung claims their higher speeds (up to 2,667 Mb/s) make for higher performance and 30 percent less power consumption than DDR3. The company claims this is the world's smallest and highest performing 4Gb RAM chip, and we expect it won't stop there -- when Samsung showcased the technology in 2011 it claimed speeds could eventually reach as high as 4Gbps.
+
+
+Update: It's four gigabits, not gigabytes -- thanks for the corrections, everyone.
+
+
+
+Show full PR textSamsung Now Mass Producing Industry's Most Advanced DDR4, Using 20 Nanometer-class Process Technology
+SEOUL, South Korea--(BUSINESS WIRE)--Samsung Electronics Co., Ltd., the world leader in advanced memory technology, today announced that it is mass producing the most advanced DDR4 memory, for enterprise servers in next-generation data centers.
+
+With the introduction of these high-performance, high-density DDR4 modules, Samsung can better support the need for advanced DDR4 in rapidly expanding, large-scale data centers and other enterprise server applications.
+
+Early market availability of the 4-gigabit (Gb) DDR4 devices, which use 20 nanometer (nm)-class* process technology, will facilitate demand for 16-gigabyte (GB) and 32GB memory modules. This compares to conventional DRAM of which 8GB modules using a 30nm-class* process technology are still commonplace.
+
+"The adoption of ultra-high-speed DDR4 in next-generation server systems this year will initiate a push toward advanced premium memory across the enterprise," said Young-Hyun Jun, executive vice president, memory sales & marketing, Samsung Electronics. "After providing cutting-edge performance with our timely supply of 16GB DDR3 earlier this year, we are continuing to extend the premium server market in 2013 and will now focus on higher density and added performance with 32GB DDR4, and contribute to even greater growth of the green IT market in 2014."
+
+In next-generation enterprise servers, the use of higher speed DRAM raises system level performance and lowers overall power consumption significantly. By adopting DDR4 memory technology early, OEMs can minimize operational costs and maximize performance to provide more favorable returns on investments.
+
+Production of Samsung's 20nm-class 4Gb DDR4 follows the introduction of 50nm-class* 2Gb DDR3 in 2008, culminating in a full-fledged transition to DDR4 for large-scale data centers and other enterprise applications in just five years. The 4Gb-based DDR4 has the fastest DRAM data transmission rate of 2,667 megabits per second – a 1.25-fold increase over 20nm-class DDR3, while lowering power consumption by more than 30 percent.
+
+Based on Samsung's 20nm-class DRAM, the world's highest performing and smallest 4Gb DRAM chip, the company has now developed the industry's largest lineup of products tailored to applications from servers to mobile devices. This will provide global customers with the widest range of highly advanced low-power, high-performance green memory solutions.
+
+Samsung remains committed to advancing the development of next-generation green memory devices and solutions in IT markets. With innovative developmental approaches directed at systems, solutions and software (the three S's), the company will continue to reinforce its green memory strategy and maximize the creation of shared value for its customers, while facilitating further expansion of the green IT marketplace.
+
+For more information about Samsung memory, visit: www.samsungsemi.com or www.samsung.com/memory.
+
+

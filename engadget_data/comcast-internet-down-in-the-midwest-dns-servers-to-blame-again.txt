@@ -1,0 +1,8 @@
+
+ 
+Deja vu all over again? Not quite -- this time it's Minnesota, Michigan, Illinois and Indiana feeling the pain of no Comcast internet, according to a bevy of tipsters and a series of official ComcastCares tweets. As before, the fix is fairly simple, assuming you know how to manually switch your DNS -- just point your computer to a public domain name server (like Google's at 8.8.8.8 and 8.8.4.4, but there are plenty of others) and things should re-route themselves in seconds flat. Friends don't let friends go without a connection, so if you know someone who's likely affected but won't find out what's wrong until it's too late, why not shoot them a text message or something to share the fix?
+
+[Thanks to everyone who sent this in]
+      
+
+ 

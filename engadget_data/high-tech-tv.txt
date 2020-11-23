@@ -1,0 +1,125 @@
+
+A group of five impeccably dressed high school girls are almost murdered dozens of times by the same, mysterious stalker and the police in their idyllic small town are either corrupt or too incompetent to care. How do the girls fight back? Hacking, of course. At least, that's one way they do it on Pretty Little Liars. "Hacking" is the deus ex machina in plenty of scenarios on Pretty Little Liars and other mainstream programs, allowing people to easily track, harass, defend and stalk each other 30 to 60 minutes at a time.
+
+
+But how real is it? To determine the feasibility of the hacks presented on shows like Pretty Little Liars, Sherlock, Scandal, Arrow, CSI: Cyber and Agents of SHIELD, I spoke to Patrick Nielsen, senior security researcher at Kaspersky Lab.
+
+
+
+"One of the interesting things about security is that a lot of what you see on television isn't actually that far from the truth; the actual hacking isn't nearly as colorful, but the outcome is usually closer to realistic possibility than absurd fiction," Nielsen says.
+
+Nielsen suggests that many seemingly absurd uses of technology on TV aren't incorrect, per se, but they are often ahead of their time.
+
+"We're putting computers in more things every day, from critical infrastructure to fitness bands, and they all run software -- vulnerable software -- and we aren't putting nearly as much effort into making that software secure," he says. "So we can laugh about how ridiculous the hacking UIs or 'two-hands' hacking scenes from NCIS are, but the threats are real."
+
+On that ominous note, let's once again distract ourselves from the problems of real life with TV.
+
+
+Pretty Little Liars, ABC FamilyIn "Welcome to the Dollhouse" (season 5, episode 26), four young women convicted of a serious crime ride in the back of a police van. They're talking and hugging -- there's no one monitoring them, of course -- when suddenly, bam. The van swerves violently and crashes to a stop. As it turns out, the creep who has been stalking and torturing these girls for years was able to hack into the onboard computer and remotely take control of the van.
+
+"The biggest issue here is that most automobiles have (reachable) computers in them, but even the smartest of smart cars don't go so far as to let the computer fully control the car -- yet," Nielsen says. "Usually an attacker can send information that will cause the car to apply the brakes, but they wouldn't be able to steer. So for now, remotely steering a vehicle is unrealistic."
+
+Later in this episode, a group of young men, friends of the girls, discuss what happened and what they plan to do about it. One of these boys is an 18-year-old technology prodigy. He's hacking quickly, but he's extremely worried about the girls, as are his buddies: a rookie cop and a high school English teacher. They call the stalker "A." Here's the transcript of this scene:
+
+Caleb got into the PD's command center.And if you cross-check the van's GPS system with the PD's system, it goes dead right here.On Route 30 near the railroad crossing.That's when A hacked into the van's computer system and took remote control of the vehicle.OK, so, A would have needed to be in the area to keep the van on the road.The overpass would have given A a clear view and also cover from the deputies.Are there any traffic cameras in the area that you can hack into?I am one step ahead of you. I'm backing up that footage now.
+
+Nielsen says that a big issue with this scenario is that the boys are flying blind. They don't know the hardware's specific location, which is oftentimes the hardest part of a successful hack.
+
+"Even if hacking into the kind of computer that a certain police station uses, or a certain CCTV camera, is easy, you still have to find the right target," he says. "That can be much more difficult than the hack itself. So tapping into a certain camera based on its location in real time is also pretty unrealistic, at least over the internet -- if they were in physical proximity of the camera, it'd be easier, but then they wouldn't need the camera."
+
+KASPERSKY VERDICT: Mostly unrealistic
+MY VERDICT: Never trust a hacker who says something as redundant as "GPS system."
+
+Sherlock, BBCThis one involves a similar technological override that occurs in two separate episodes: "The Reichenbach Fall" (season 2, episode 3) and "His Last Vow" (season 3, episode 3).
+
+In "The Reichenbach Fall," it's modern-day London, and Sherlock Holmes enters a cab after a rough day of chasing down clues. An advertisement plays on the TV in front of his seat, and he asks the driver to turn it off. Instead, the ad cuts out and is replaced with a video of Holmes' nemesis, Jim Moriarty. The video is only for Holmes, and it's only playing in his cab. The twist: After Holmes leaves the cab in a daze, he sees that the driver is Moriarty.
+
+"The interesting question here is not whether compromising a cab's display is possible -- it is -- but how Moriarty knew not only which cab Sherlock was in, but how to find that cab on any network he may have compromised," Nielsen says.
+
+Jump to "His Las Vow," the season 3 finale, and someone -- possibly Moriarty -- is able to cut into every TV channel in the UK at the same time. The nation watches in shock as a mocking, terrifying video plays on loop with no interruptions. Two government officials converse in horror:
+
+How is this possible?
+
+We don't know. It's on every screen in the country, every screen simultaneously.
+
+"As for compromising TV channels, sure, it's possible, but nothing really stops the people working at the TV stations from switching off the compromised feeds, so an attacker in a real-world scenario would have to speak very quickly," Nielsen says.
+
+KASPERSKY VERDICT: Mostly unrealistic
+MY VERDICT: Cab displays can definitely be compromised; good to know.
+
+Scandal, ABCScandal centers on Washington, DC's top political communications expert, Olivia Pope, and in the first episode of season 4, "Randy, Red, Superfreak and Julia," we see her lounging in luxury on an island so remote, it doesn't appear on any map. A boat with supplies arrives, including five bottles of a rare and highly sought-after wine. Along with the wine, Pope receives a letter prompting her to return home. Later, it's revealed that a colleague, an amateur, yet gifted hacker, found Pope by tracking shipments of fine wine -- something that she can't live without -- across the globe.
+
+"International shipments have to specify contents and their value for custom purposes, and that information is saved in databases, so it's not unrealistic at all to imagine somebody with a laptop compromising the internal network of a shipping company, and looking up all 'Wine' shipments where the value is also very high, and finding the location/shipment that way," Nielsen says. "The hardest part would be to get the note into the package, but is also conceivable with a little social engineering. My question is, how would a shipping company find an island that's not on any map?"
+
+KASPERSKY VERDICT: Plausible
+MY VERDICT: These are terrible times; times when I can't even trust wine to keep my secrets.
+
+Agents of SHIELD, ABCThis Avengers offshoot features a ton of futuristic and alien technology, so to help Nielsen warm up, we started with a line from season 1, episode 4, "Eye Spy."
+
+In this episode, the highly trained, super-smart operatives of SHIELD are scanning through hundreds of photos of the same people, pulled from photo-recognition software scanning multiple online sources.
+
+It's amazing. Every year, this part of our job gets easier. Between Facebook, Instagram and Flickr, people are surveilling themselves.
+
+Nielsen calls this line "poignant."
+
+"We have all seen the technology that tells us we showed up in one of our friends' photos [i.e., tagging], and 'Would we like to post it to our timeline?' There is no technical reason why that same technology can't be used to find any specific person in all of the photos the company has, or why an attacker who has compromised the company can't."
+
+The bulk of this particular Agents of SHIELD episode focuses on a woman with a high-tech camera implanted in her eye. Skye, SHIELD's go-to hacking expert, locates this camera's broadcast source -- she doesn't know that it's an in-eye system just yet -- and successfully reverse-engineers it.
+
+I think I can recover the data signature of that encrypted broadcast. I don't understand it yet, but that's how she was watching us. Give me an hour. Maybe we can start watching back.
+
+"I mean, they use real words, but it's not clear what the real-world equivalent would be," Nielsen says. "It may be that they found a clue as to the origins of the broadcast and that was enough to pinpoint the attacker's network/IP address, which they then compromised."
+
+Nielsen doesn't see a problem with remotely compromising the security of Skye's in-eye camera; it's entirely plausible. It's the turnaround time on the actual hacking, however, that he finds problematic.
+
+"What makes this unrealistic (based on the description) is how the SHIELD agents discover a completely new technology and then figure out how to compromise it in a few seconds or minutes. Actually, this is a very long and arduous process. Real-world attacks are usually incredibly fast, with no fancy animations or windows popping up on the screen, but are based on scripts and programs designed to exploit vulnerabilities that may have taken months or years to find and analyze."
+
+This hack reminds Nielsen of a recent paper about side-channel attacks on encryption.
+
+"A few years ago, Adi Shamir, a well-known cryptographer, and his team published a paper showing how you could extract [an] encryption key from a computer simply by listening to it. In February this year, they showed how you could do it with a radio by sensing the electromagnetic emanations coming from a computer. Your computer leaks information all over -- noise, electromagnetic waves, heat -- and it all means something. Clever attackers can extrapolate all kinds of information from this."
+
+KASPERSKY VERDICT: Mostly unrealistic
+MY VERDICT: In-eye cameras aren't actually that far off -- at this rate, they're likely closer than Facebook's Oculus Rift
+
+Arrow, The CWIn "Home Invasion" (season 1, episode 20), we enter a warehouse-turned-bunker lined with exercise equipment and high-tech gadgets. Felicity Smoak, hacker extraordinaire to secret vigilante Oliver Queen, is on an online fact-finding mission. She hacks into ARGUS, a government organization, and ends up lurking in their systems for days, even weeks at a time.
+
+I thought it would be helpful to track ARGUS' manhunt for Deadshot, so I decrypted their communication logs. Which means, I just hacked a federal agency. Which kinda makes me a cyberterrorist, which is bad because I can't see myself fitting in well at Guantanamo Bay.
+
+Nielsen says this one largely checks out. "Compromising a company and stealing information from their databases, whether it's logs, customer records, or something else, is an everyday occurrence, and we often find the attacks have gone on for months or years before they were discovered."
+
+Later, Smoak demonstrates her computer skills again with the following description:
+
+I had a remote-access Trojan scour the internet for Edward Rasmus. His name just popped up on a flight manifest, 8:15 to Shanghai.
+
+This one is a little more complex, Nielsen says.
+
+"Writing a Trojan that 'scours the internet' for somebody, or something, is something we've seen in some advanced malware like Stuxnet, which did very little but spread itself unless it got access to a certain kind of control system thought to be used by Iranian nuclear reactors. The difference between the reality of nation-state attacks and TV is that the nation states, too, have to spend a lot of time finding the vulnerabilities and indicators they want to exploit and trigger on. There's no such thing as a Trojan that simply infiltrates everything, including flight-booking systems, unless it was designed to do so."
+
+KASPERSKY VERDICT: Plausible
+MY VERDICT: The most unrealistic aspect of Arrow is all of the ridiculously chiseled abs.
+
+CSI: Cyber, CBSAh, the mother lode. In CSI: Cyber, Special Agent Avery Ryan and her team hunt down cybercriminals, but in "Fire Code" (season 1, episode 4), the damage is all in real life. Someone has figured out how to remotely start house fires. Ryan and Dawson (sorry!) Agent Elijah Mundo hunt down one of their criminal informants, a hacker who hands them a USB stick with "a hot new piece of code." Back in the lab, agent and white-hat hacker Daniel Krumitz admires the USB drive before getting to work.
+
+The connection's secure. Just plug in the flash drive.
+
+He plugs it in.
+
+"Plugging in a flash drive is actually very risky, no matter if you're online or not," Nielsen says. "On a lot of computers, it can give an attacker full access to your entire system, not just by running software in your operating system, but by reading memory at the hardware layer, below the operating system. They can also fry your computer. I wouldn't plug in a USB stick I don't trust just because somebody says, 'It's fine.'"
+
+Continuing the scene, once the data on the flash drive loads, Krumitz hits a button and the printer starts trying to print something -- and it immediately catches fire.
+
+Your CI gave us code hidden inside a firmware update that disengages the thermal switch of a printer. That switch regulates the temperature of an ink fuser, keeping it from overheating. Now, when the paper loads, touching the blazing-hot fuser, it sparks and the paper in the tray ignites, causing it to catch on fire.So the fuser is the match and the paper is the fuel.Code sent from a computer did all this?It's pretty amazing, huh?
+
+This description is realistic, Nielsen says. Maybe a little too realistic.
+
+"I lost track. ... Am I reading the transcript from the CSI episode, or the researchers' paper?" he asks. "I would certainly give CSI: Cyber plus points for basing the script off of real research, and not just 'writing a GUI interface using Visual Basic to track the killer's IP address.'"
+
+KASPERSKY VERDICT: Plausible
+MY VERDICT: Plugging in an unchecked, random flash drive is silly, so remember to always use protection (no, we're not talking about a Trojan).
+
+These scenarios are, of course, a sampling of the wild and wacky ways Hollywood portrays technology on TV. But overall, it seems even the craziest ideas aren't too far off the mark. There is still one caveat, though, and that's price.
+
+"For all of the attacks that I labeled realistic, the cost is in time and knowledge. But money can speed up the process," he says. "It takes time to learn how to do this stuff, and to do the research needed to compromise certain systems, especially if you need to compromise a kind of device that's hard to get your hands on, like a certain type of CCTV. One person with a laptop could potentially perform all of the attacks, mainly using exploits that other people have written, but it'd take longer than a large, well-funded group of people doing the same. Even the attacks that I labeled as unrealistic are possible if you include nation-state-level attacks, i.e., the kinds where money and other resources are no issue."
+
+[Image credits: CBS via Getty Images (top image); ABC Family via Getty Images (boy and girl with laptop); BBC (in-cab TV); ABC (woman on beach); Getty Images (woman on phone); The CW (woman in glasses); CBS via Getty Images (group around computer); ABC Family (final image)]
+

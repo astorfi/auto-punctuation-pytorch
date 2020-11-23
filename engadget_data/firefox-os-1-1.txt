@@ -1,0 +1,6 @@
+
+
+
+Firefox OS is unquestionably a work in progress, but with a point upgrade a few weeks after launch (and the release of the ZTE Open), at least we can confirm that Mozilla is, in fact, putting the work in. The 1.1 version of the software is available now for users of the mobile operating system, featuring a number of enhancements. At the top of the list is the arrival of MMS support, letting you send and receive images, audio and video files and the like via messages. Performance has also been enhanced, with smoother scrolling and faster load times. There's music search built in now, too, plus an API for push notifications for app developers. All that, plus improvements to email, contact management, calendar and keyboard. If you want to drill down on any of the above, have a look at the source link below.
+
+

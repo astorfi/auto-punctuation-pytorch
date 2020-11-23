@@ -1,0 +1,14 @@
+
+
+Most internet security holes, even the bigger ones, tend to be fairly limited in scope -- there are only so many people using the wrong software or visiting the wrong sites. Unfortunately, that's not true of the newly revealed Heartbleed Bug. The flaw, which affects some older versions of common internet encryption software, lets attackers grab both a site's secure content and the encryption keys that protect that content. As such, a successful intruder could both obtain your private information from a given site and impersonate that site until its operators catch on. Since the vulnerable code is both popular and has been in the wild for as long as two years, there's a real possibility that some of your online data is at risk.
+
+
+
+          
+ 
+ 
+ The good news? There's already updated software available that protects against Heartbleed. However, the scale of the bug may leave data open to theft for a long time to come -- many sites will have to patch up their infrastructure, and there's no way to lock down content if someone steals it. Codenomicon doesn't know if hackers are exploiting the bug, so it's hard to measure the real-world damage. If the exploit is as widespread as it sounds, though, you may want to keep a close watch over your internet accounts until it's clear that the danger has passed.
+
+       
+
+ 

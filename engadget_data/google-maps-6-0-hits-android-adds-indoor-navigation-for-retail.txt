@@ -1,0 +1,14 @@
+
+ 
+
+Google's already put its stamp on the great outdoors, what with its Street View fleet chronicling the well-trodden ways of our world for Maps. Which is precisely why Mountain View's turning its attention inward for that next, great navigation innovation, as it attempts to chart a course through the wilds of indoor spaces. Hitting the Android Market in the U.S. and Japan today, the company's ever-popular app gets a full version bump to 6.0, bringing with it the inclusion of retail and airport floor plans.
+
+The newly added indoor maps don't quite offer the turn-by-turn navigation you've come to know and depend upon (that's outside-only for now), but the provided layouts should help usher you along to the nearest bathroom, clothing shop or elevator. There's no fancy equipment at use, either. All of your positioning information is culled from the same set of data (including GPS) used for "My Location," although here it's been optimized to detect movement along the z-axis. What does that mean for you, dear end user? Try a nifty feature called "Automatic Floor Detection" that'll keep track of your progress as you move about from escalator to escalator. Google's also endeavoring to extend its indoor reach, opening up its mapping inventory with a self-service tool (currently in beta) that'll allow business owners to upload floor plans directly to Maps.
+
+If you're itching to test the tech out, you'll want to find yourself at one of the dozen-plus airport partners scattered across the country, in addition to transit hubs and major retail outlets both stateside and in Japan. Familiar commercial forces like Macy's and Takashimaya have opted-in to the indoor location service, but your best bet's going to be IKEA -- which has agreed to roll the feature out to all of its stores nationwide. So, whether you're rocking Android 2.1 or the forward-facing 4.0, prepare to let your Googlefied smartphone almost always be your guide. Follow past the break for additional shots and a video demo of the indoor geo-location in action.
+      
+
+ 
+
+   
+ 

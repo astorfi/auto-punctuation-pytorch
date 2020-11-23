@@ -1,0 +1,24 @@
+
+Back in February, NVIDIA trotted out the very first desktop GPUs to feature its new Maxwell architecture: the GeForce GTX 750 and 750i. These entry level cards were paragons of efficiency, but they were hardly strong examples of what the company's latest graphics technology was truly capable of. No, NVIDIA revealed those graphics cards today -- the GeForce GTX 980 and 970 desktop GPUs. The new flagship GPUs still benefit from the efficiency gains made by the first generation Maxwell cards, but lean far more heavily on performance. If you're a PC gamer with a GTX 680 or 560 in your tower, these are the cards NVIDIA wants you to upgrade to.
+
+
+
+
+On paper, there's reason enough to appreciate these cards' power: the $549 GTX 980 boasts a 1.1Ghz base clock speed (1.2 with boost), 2048 CUDA cores and 4GB of GDDR5 video memory. The $329 GTX 970 sheds a few of those CUDA cores (totaling 1664) and clocks down to 1Ghz (1.1 with boost), but it consumes a little less power for the downsizing: 145W to the 980's 165W. In NVIDIA's tests (viewable in the gallery above), these stats reportedly outperformed AMD's kit with almost half the power draw. Still, even NVIDIA knows stats and core count mean bupkis to the general consumer -- gamers want to know what all these specifications are going to do for them. We met up with Scott Herkelman, NVIDIA's general manager of GeForce, to learn about Maxwell's new tricks.
+
+
+"One of the things that we thought about when we wanted to launch Maxwell is this dichotomy that gamers are running into today," Herkelman told Engadget. NVIDIA found that gamers either wanted to increase visuals past a game's prescribed performance settings or maximize framerate without sacrificing image quality. Surprise, surprise: Maxwell's second generation GPUs introduce two new technologies that can help.
+
+Dynamic Super Resolution, for instance, lies to your game to make it output a higher resolution than your display expects. "We render a 4K image in the background and then put it through a 13 gaussian filter," he explained. "Then we bring that down to a 1080p monitor." As far as the game is concerned, its piping out a ultra high resolution image to a 4K monitor, but Maxwell is forcing it to run on you 1080p display. This feature is designed to improve picture quality on a game that is already tuned to its best visual settings. Basically, it makes downsampling easy. It looks pretty good in action too, but it isn't perfect: some 4K UI elements don't scale well on smaller monitors. Herkelman says NVIDIA is continuing to improve and tweak the feature.
+
+
+"The other new technology we have is called MFAA, or Multi-Frame Sample Anti-Aliasing," Herkelman said. "This is for those games where you already have great image quality but you want more performance." Like traditional anti-aliasing, it can sample a pixel multiple times, but MFAA splits the work up over multiple frames. Herkleman says this can improve performance by as much as 30-percent.
+
+Finally, high-end maxwell cards will be able to take advantage of games that use Voxel Global Illumination, a new dynamic lighting technology that promises to promises to enable destructive environments with active, realistic lighting. How realistic is it? Realistic enough to debunk moon-landing conspiracy theories, actually. NVIDIA says the new lighting solution will be available for UE4 and other major engines later this year.
+
+Not the bells and whistles you're looking for? Fine -- Maxwell has a few more features hidden away, but you won't be able to use them until the consumer virtual reality market takes off. NVIDIA's VR Direct program is working to bring low latency graphics to consumer VR headsets like the Oculus Rift. Herkleman showed off a Maxwell-powered Eve: Valkyrie demo as an example. Indeed, the demo was smooth, but VR Direct's future impact on GeForce Experience really caught our attention. In addition to supporting SLI, DSR and MFAA, NVIDIA's VR Direct promises "auto stereo," a feature designed to bend a game not intended for virtual reality into the Oculus Rift's stereoscopic perspective. Herkleman told us that the feature would probably have a whitelist of compatible games, not unlike how the company implements NVIDIA 3D Vision.
+
+
+So, when can consumers get their hands on the new Maxwell? Soon. NVIDIA CEO Jen-Hsun Huang officially announced the new GeForce GTX cards at Game24 this evening, and they should be available for sale tomorrow morning from NVIDIA's usual hardware partners: EVGA, ASUS, Gigabyte, MSI and PNY, among others. Are you planning to upgrade, or will you wait to see what AMD cooks up in competition? Let us know what you think in the comments section below.
+
+

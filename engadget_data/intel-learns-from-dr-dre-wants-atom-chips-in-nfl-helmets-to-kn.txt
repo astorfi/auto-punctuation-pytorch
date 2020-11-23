@@ -1,0 +1,6 @@
+
+ 
+We always understood that Intel looked after the rock stars of tomorrow, but who knew that included football players? Yup, according to PC World, Intel is currently investigating adding Atom chips inside NFL helmets to provide real-time impact data to medical staff on the sidelines. While there's no explicit time frame set for this project, we're thinking the sooner the better -- lest we forget it took the league until 2009 to require players who display signs of a concussion to stop playing for at least one day. This isn't the first time though that the world's largest chip maker has actually helped make the gridiron safer. In fact, it previously worked with helmet maker Riddell's fittingly named HITS (Head Impact Telemetry System) and academic researchers to run head injury simulations using linked Xeon-powered computers. Off the field, Intel is also currently partnering with the Mayo Clinic to boost medical cranial scans using MIC (Many Integrated Core) supercomputer co-processors. Codenamed Knights Corner, this hardware puts teacher's pets to shame by running trillions of calculations per second, and apparently accelerates head scans by up to 18 times. Sure, safety's all well and good, but we know Intel's really just curious about how Moore's Law holds up to the shoulder pressure of NFL d-backs.
+      
+
+ 

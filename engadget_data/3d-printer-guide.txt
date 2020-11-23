@@ -1,0 +1,133 @@
+
+ CES 2013 proved to be something of a coming out party for consumer-facing 3D printers. Sure MakerBot earned a fair amount of attention at last year's show with the announcement of the Replicator, which snagged its share of awards from various press outlets. This year, however, saw a relative deluge in 3D-printing representation, with strong showings from 3D Systems, FormLabs, MakerBot and the cloud-based 3D printer, Sculpteo. Even with so many companies rising to prominence, the dream of truly mainstream 3D printing still feels a ways off -- if that is indeed where we're inevitably heading.
+
+ These nascent days are an exciting time, with a diverse array of companies and organizations vying to be the first to bring the technology to our homes. In a sense, many roads lead back to RepRap, the open-source, community-fueled project aimed at creating a self-replicating machine. As such, the same basic technology underlies many of these devices. At their core, these 3D printers are not unlike their 2D counterparts, offering a way to translate images on computer screens into real-world analogs -- only in this case they're objects you can hold in your hand.
+
+ Most of these work by melting plastic (largely Lego-like ABS or biodegradable PLA) and squirting it out through extruder heads. The heads operate along the X and Y axes, while the build platform (generally heated in the case of ABS and unheated for PLA) moves downward, allowing the glue gun-like extruders to build up the thin layers of plastic. Some printers rely on other technologies, many of which are rooted in the world of rapid prototyping, a category of fabrication that has been around for decades and used by companies like Boeing and Ford to created scale models of concepts.
+
+ There are a surprising number of companies and organizations currently invested in the space, be it through pre-fabricated models, kits or open-source, downloadable plans. We pulled together a list of some of the most prominent, which you can check out after the break.
+
+
+
+ 3D Systems 
+ The Machine: CubeX The Price: $2,499 to $3,999 The Features: Up to three colors, up to 10.8 x 10.45 x 9.5-inch build volume, up to 125-micron resolution, touchscreen interface
+
+ 3D Systems has been in the 3D-printing game since before the term was coined. The company's CTO, Chuck Hull, invented stereolithography back in the early '80s. Hull helped co-found the company in 1986 and it has since become one of the dominant forces in the world of industrial rapid prototyping (we saw some of those devices in action when we visited Laika Studios during the production of ParaNorman). Last year, the company released the portable Cube printer, an officially branded entry in the consumer space (which coincided with the end of the consumer-facing Botmill line it also owned). At CES this year, 3D Systems offered up a one-two punch, with the release of a faster version of the Cube and the massive CubeX. The latter can do three-color prints and create objects up to 1,070 cubic inches -- or as the company puts it, "as big as a basketball." The CubeX can use either PLA or ABS and runs you $2,499.
+
+ Bits from Bytes 
+ The Machine: 3DTouch The Price: $3,490 to $4,370 The Features: Up to three extruders, 10.8 x 10.8 x 8-inch build volume (for single extruder model), up to 125-micron resolution.
+ Another member of the ever-expanding 3D Systems family, Bits from Bytes was acquired by the company in late 2010. It was founded in 2008 by Ian Adkins with the noble mission statement of "democratizing 3D printing for everyone." Like so many others in the field, BFB's models are based on the pioneering work of the open-source RepRap Project. On the low-end, the company offers a fairly barebones kit, primarily aimed at education (it sort of looks like something built with a Capsela set), which starts at $1,390 and runs up to $2,170. The more polished 3DTouch features a touchscreen and, on the high-end, three extruder heads -- a luxury that costs $4,370
+
+ Eventorbot 
+ The Machine: Eventorbot The Price: Assembled unit price TBD, $885 pledge on Kickstarter (now closed) The Features: Low cost, streamlined at-home assembly, 10 x 8 x 6-inch build volume.
+
+ This Kickstarter-backed project is the brainchild of Illinois-based Duy Dang, who claims it's "the perfect beginner 3D printer," thanks to its low build cost and the relatively few parts required to assemble it. At its center is a single square tube that hides most of the wires. As with the open-source RepRap, many of the Eventorbot's parts can be printed on the device itself, making it possible to continually upgrade the device
+
+ DeltaMaker 
+ The Machine: DeltaMaker The Price: Assembled unit price TBD, $499 to $1,099 pledge on Kickstarter The Features: Delta robot platform, 9-inch diameter x 11-inch build volume, 100 micron resolution
+
+ "Why should a 3D printer look like a microwave oven?" DeltaMaker's not the first 3D printing company to ask the question (in so many words), nor is it the first to adopt this form factor. Still, we won't begrudge anyone looking to break out of the classic 3D printer style, and certainly anything that makes the experience if watching the act all the more interesting is worth a look. The Florida-based team is around half the way to its $100,000 goal, promising a printer with a 9-inch diameter x 11-inch high build volume and a 100 micron resolution.
+
+ Delta Micro 
+ The Machine: Delta Micro Up! Plus / Afinia H-Series The Price: $1,500 The Features: Prints in ABS / PLA, 5.5 x 5.5 x 5.3-inch build volume, 150-micron resolution
+
+ This Beijing-based company has taken to calling its products "micro factories." Delta Micro offers a couple of devices, including the $900 Up! Mini. At the high-end is the $1,500 Up! Plus [pictured], which, at least from an aesthetic standpoint, is the picture of minimalist simplicity. It has a build volume of 5.5 x 5.5 x 5.3 inches and can print in both PLA and ABS plastic. The latter is available in the US under the Delta Micro name or, with the Afinia branding, carrying the H-Series name (under which it took home a "Best Overall Experience" award from Make Magazine).
+
+ Fab@Home 
+ The Machine: Fab@Home Model 2 The Price: N/A The Features: Streamlined building process compared to Model 1, printing in any number of materials: including frosting, clay and rubber caulk
+
+ More of an ongoing, open-source collaborative project than a company, Fab@Home was born out of Cornell's Computational Synthesis Laboratory (now the Creative Machines Lab) way back in 2006 in order to build a machine that can "make real objects." The result is a device that can print in an astonishing number of materials, including frosting, rubber caulk, ceramic clay, chocolate and ice. The Cornell team has most recently unveiled the Model 2, which offers improvements to the hardware and software as well as cheaper, easier builds and lower skill-level demands. Fab@Home doesn't actually sell the printers, but there are ways of getting your hands on one, if you email the right people.
+
+ Filabot 
+ The Machine: Filabot The Price: TBD, $490 pledge on Kickstarter (now closed) The Features: Not a 3D printer per se, rather a device that recycles plastic into filaments for prints
+
+ The Filabot's not a 3D printer, but it's certainly worth mentioning in a roundup like this. The crowdfunded device aims to address one of the fundamental concerns of consumer 3D printing: waste. The machine (awarded to investors who pledged $490 or more) grinds, melts and extrudes recyclable plastic into a 1.75 or 3mm spool that can be used with at-home 3D printers. Filabot will work with a number of plastics, including ABS, HDPE and nylon (the company is in the process of testing a number of others, including PLA).
+
+ Formlabs 
+ The Machine: Form 1 The Price: $3,300 The Features: Utilizes stereolithography printing for more precise prints, 4.9 x 4.9 x 6.5-inch build volume
+
+ The grad students at the MIT Media Lab shared the dream of bringing the professional quality of their school's rapid prototyping machines to consumers. Formlabs realized that goal by eschewing the plastic extrusion technology found in most hobbyist devices for the far more precise stereolithography wherein a tray of liquid resin hardens when exposed to a laser, until the desired object is fully formed. The process is quieter than much of the competition and the resulting prints achieve a level of detail that blows away what we've seen even the most high-resolution consumer printers accomplish. Co-founder Maxim Lobovsky showed us a highly impressive Eiffel Tower print. At $3,300, the Form 1 isn't the cheapest consumer-facing printer around, but given the quality it's capable of printing, it's a downright steal.
+
+ Leapfrog 
+ The Machine: Creatr The Price: $1,683 (single extruder), $2020 (dual-extruder) The Features: ABS, PLA and PVA printing, aluminum body, 9 x 10.6 x 8.7-inch build volume, 200 micron printing
+
+ The Creatr certainly looks the part of a semi-pro printer, but with a starting price of €1,250 ($1,683), the aluminum-encased the device clearly has consumers in mind. The tree frog-emblazoned box has a build volume of 9 x 10.6 x 8.7-inches, can print in ABS, PLA and PVA and comes with one or two extruders. Leapfrog, which was formed last year, also offers the Xeed, which carries a far pricier €5,460 ($7,353) price tag, has a tablet interface built in, to help you nab your models without the use of a computer.
+
+ LulzBot 
+ The Machine: AO-101 The Price: $1,725 The Features: Rugged build quality, 7.9 x 7.5 x 3.9-inch build volume, 200-micron resolution
+
+ If you can get around the meme-centric name for a moment, you'll find that LulzBot is a fairly serious company with some straightforward goals. As with so many others, this Aleph Objects brand took inspiration from the open-source RepRap project -- in fact, the company produces hardware, tools and electronics with RepRap makers in mind. Those less interested in the construction part of the process, however, can pick up a prefab AO-101 printer from the company for $1,725. LulzBot calls the AO "the workhorse of the 3D-printing industry," thanks to its rugged design. The testing process for the printer reportedly involved standing on it, making it print upside down and printing while strapped to the back of a truck driving down dirt roads. If you're looking for a consumer 3D printer to bring on your next space flight, this might be the 'bot you're looking for.
+
+ MakerBot The Machine: Replicator 2x The Price: $2,800 The Features: Easy-to-load extruder, two extruders, 9.7 x 6 x 6.1-inch build volume, 100-micron resolution
+
+ In terms of sheer exposure, MakerBot is the company to beat. Founded in 2009, the Brooklyn-based organization currently seems best positioned to help consumer 3D printing go mainstream. As with so many others, MakerBot's roots are firmly planted in the RepRap scene, with co-founder Zach Smith having been heavily involved with the project. In spite of those roots, there's little doubt that MakerBot is a firmly commercial venture. It's even found itself mired in some controversy after appearing to turn away from the open-source community with the release of the Replicator 2, causing Smith, among others, to critique the company's business model.
+
+ MakerBot made a splash at last year's CES with the announcement of the first-generation Replicator, which featured an increased build volume (8.9 x 5.7 x 5.9 inches) and dual-extrusion (two-colors). This year, the company showed off its recently released Replicator 2 and the new 2X, the latter of which features dual-extrusion and a heated build platform, optimized for ABS plastic. Both of the second-generation Replicators also feature a number of tweaks to their predecessors' body, including further increased build volume (11.2 x 6.1 x 6.0 inches for the Replicator 2) and the ditching of the more DIY-looking wooden aesthetic. The 2 and 2x run $2,199 and $2,799, respectively.
+
+ MakerGear 
+ The Machine: M2 The Price: $1,750 (assembled) The Features: 8 x 10 x 8-inch build area
+
+ Rick Pollack founded MakerGear in order to supply home fabricators with the necessary tools, after attempting and failing to prototype a product of his own at home. Fittingly, the site is a resource for all sorts of 3D printer bits and pieces, like platforms, motors and extruders. The company started life in 2009, creating extruders for MakerBot Cupcake printers, "because the MK4 extruder was not reliable and caused endless problems and frustration for users," as Pollack tells us. The shipment of those extruders lead other industrious folks, including RepRap community members, to start utilizing the service. The company also offers the plans for a number of kits, including the M1 (Mosaic), M2 [pictured] and Prusa Mendel.
+
+ Metamáquina 
+ The Machine: Metamáquina 2 The Price: $1,614 The Features: 7.9 x 7.9 x 6-inch build volume, 200-micron resolution
+
+ A company inspired by the open-source community that has given rise to so many 3D-printing companies, Metamáquina developed out of the Garoa Hacker Clube, the first hackerspace in Brazil, where its founders Felipe Sanches and Rodrigo Rodrigues da Silva started hacking a MakerBot printer. Now the company is prepping the release of its second-generation device, set to ship this April. The Metamáquina 2 features a build volume of 7.9 x 7.9 x 6 inches -- more than double that of its similarly named predecessor. It will run R$3,300 ($1,614) when it hits in a couple of months.
+
+ Printrbot 
+ The Machine: Printrbot GO The Price: $1,500 (unassembled kit) The Features: Portability (folds up into a briefcase), battery-powered, 7.9 x 7.2 x 5.9-inch build volume
+
+ Here's yet another in the long line of consumer-facing 3D printers brought into the world with a little Kickstarter love -- well, more than a little. Printrbot creator Brook Drumm managed to raise a staggering $830,000-plus after setting a $25,000 goal. The company designed the device "to be the simplest 3D printer yet." A small kit can be assembled relatively quickly by beginners -- a sort of IKEA-esque approach to the world of 3D printing, if you will. The company also has affordability in mind, with the low-end, foldable Printrbot Jr. running an astonishingly low $399. That price helped the foldable device snag a "Best Value" from our friends over at Make Magazine late last year. The company's line tops out at $1,500 for the moment, which will get you a Printrbot GO [pictured], a portable 3D printer that fits in a briefcase for the traveling maker. That one was created with help from Ben Heck, of course.
+
+ Pwdr 
+ The Machine: Pwdr The Price: $1,330 (estimated assembly price) The Features: Powder-based printing, refillable cartridges
+
+ Another attempt to bring pro-level 3D printing to the home hobbyist, Pwdr uses powder-based rapid prototyping, rather than the plastic extrusion at the center of most commercial entries in the space. Developed though the University of Twente in the Netherlands, the vowel-hating hardware is currently in its early stages (Model 0.1), but the open-source plans are currently available online for early hackdopters. According to the site, building one of these should run you around €1,000 ($1,330).
+
+ RepRap 
+ The Machine: RepRapPro Huxley The Price: $599 (unassembled kit) The Features: The open-source original, 5.5 x 5.5 x 4.3-inch build volume, more portable than other RepRap devices
+
+ The project that launched a million 3D printers, RepRap (that's short for replicating rapid prototyper) began with the fairly noble, awesome and vaguely terrifying intention of developing a self-replicating machine. Spearheaded by Dr. Adrian Bowyer, a University of Bath mechanical engineering lecturer, the open-source, non-profit project has given birth to a number of 3D printing machines, including, most recently, Huxley, named for biologist Thomas Henry Huxley.
+
+ Consistent with RepRap's initial mission statement, Huxley can print a good chunk of itself, as well as its predecessor, Mendel (and vice versa). Zach Smith would use much of the knowledge he gained from the early days of the project to help found MakerBot. In spite of, or perhaps because of, the success of commercial successors, RepRap is still going strong, working toward the goal of complete self-replication and espousing the open-source philosophies on which it was created.
+
+ RoBo 3D 
+ The Machine: RoBo 3D The Price: "Around" $520 The Features: Low cost, PLA / ABS plastic, 10 x 10 x 8-inch build volume, 100-micron resolution
+
+ Yet another Kickstarter success story -- and a fairly healthy one at that; San Diego-based RoBo 3D has achieved more than eight times its $49,000 Kickstarter goal with about a week left. Price is the big selling point here -- at around $520 for an assembled printer, it's expected to sell for a fraction of the competition. The open-source RoBo 3D has a build volume of 10 x 10 x 8 inches and prints in PLA (though a $99 bump in price will get you ABS). Keep in mind, these aren't actually shipping yet -- the company expects them to go out in March.
+
+ Romscraj 
+ The Machine: M.O.B. The Price: $960 The Features: Metal body, 8 x 6.3 x 6.2-inch build volume
+
+ Yet another RepRap-inspired company, Romscraj describes itself as "a little shop set in the mostly sunny little red dot known as Singapore." The company currently has three models available. At the low-end, the unassembled Portabee kit will run $490. The high-end M.O.B. cube [pictured] features a build volume of 8 x 6.3 x 6.2 inches, a heated platform and a metal body. That one runs $960 fully assembled -- and, interestingly, ships with a free BeagleBone development board at the moment.
+
+ SeeMeCNC 
+ The Machine: Rostock MAX The Price: $1,000 starting (non-assembled kit) The Features: 11-inch (diameter) x 13.8-inch (height) build volume, 50-micron resolution
+
+ Another 3D-printing company that's sought a bit of help from the crowdfunding community, SeeMeCNC began life in late 2011 in an attempt to broaden the maker community's toolkit. The company's first 3D printer, the H-1, was firmly rooted in the RepRap community, based on its Huxley design. These days, the site offers a number of build-at-home kits, including the $1,000 cylindrical Rostock MAX [pictured], which features a truly impressive advertised 1,300-cubic-inch build volume. The company's also working on an LCD panel and SD memory card input to let users control printing on the machine itself.
+
+ Solidoodle 
+ The Machine: Solidoodle 3 The Price: $800 The Features: Low cost, rugged metal case, 8 x 8 x 8-inch build volume, 100-micron resolution
+ Back in the fall of 2011, former MakerBot COO Sam Cervantes started work on his own desktop 3D printer, with the aim of taking the space to new levels of affordability. The resulting company is Solidoodle. While the name is arguably unfortunate, the product is anything but. By its second iteration, the company gave the world a remarkably low-priced device, at $500, featuring a 6 x 6 x 6-inch build platform and a rugged body that built upon its founder's engineering past. We recently got our hands on the company's third-generation printer, which ups the build size to 8 x 8 x 8, a scale that also brings the price up to $800. It's a sizable increase, but it still comes in well below the industry standard for consumer 3D printers. And just to show he wasn't joking about the whole rugged thing, Cervantes took a moment to stand on the printer, when the company came by our office, taking the whole concept of standing by a product to new levels.
+
+ Sumpod 
+ The Machine: Mega The Price: $2,539 The Features: Metal case, massive 23.6 x 23.6 x 23.6-inch build volume
+
+ This printer's namesake, UK-based Richard Sum, took to Indiegogo when it came time to fund his labor of love -- multiple times, in fact. The printer now comes in three flavors, the original Basic [pictured], Aluminum and Mega (the Aluminum version with an increased build volume), ranging in price from £300 ($476) to £1,600 ($2,539) to start.
+
+ The Future is 3-D 
+ The Machine: Glacier Steel The Price: $2,650 / $3,650 The Features: Steel frame, up to 16 x 16 x 21-inch build platform ($3,650 model), optional dual extrusion ($450 extra)
+
+ One of the odder names in an industry full of odd names, The Future is 3-D is also quite likely the only company with an origin directly involving a Jay Leno show. Inspiration arrived when founder Jeff Christiana saw 3D printing in action on Jay Leno's Garage. From there, Christiana made a jump over to the RepRap community for "months of frustration" that channeled their way into a company that now sells 3D printer parts. It also sells its own printers, like the metal-framed Glacier Steel and the forthcoming Avalanche, which promises to be the company's largest and most advanced printer yet. That one's roughly half a year away, however.
+
+ Type A Machines 
+ The Machine: Series 1 The Price: $1,400 The Features: 9 x 9 x 9-inch build volume, standard resolution as low as 100 microns.
+
+ Maintaining the familiar plywood aesthetic, the Series 1 printer offers up a 9 x 9 x 9-inch build volume and standard resolutions as thin as 100 microns, using the standard software. Though its creators add that, with some tweaking, they've managed to get it down to an impressive 50 microns. Released by San Francisco-based Type A Machines, the box'll run you $1,400.
+
+ Ultimaker 
+ The Machine: Ultimaker The Price: $2,269 The Features PLA / ABS plastic, 8.3 x 8.3 x 8.1-inch build volume
+
+ Yet another 3D-printer maker born out of the RepRap legacy, this Netherlands-based outfit is "committed to making 3D printing better, faster and simpler." Ultimaker offered up its first product in May 2011. The current iteration ships as a complete kit for €1,194 ($1,594), featuring a nice build volume of 8.3 x 8.3 x 8.1 inches, without taking up too much space on your desktop. Late last year, the company also entered the pre-built game, with fully assembled printers that run €1,699 ($2,269), a price that includes a free roll of PLA plastic.
+
+

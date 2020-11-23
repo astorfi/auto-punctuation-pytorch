@@ -1,0 +1,4 @@
+
+ There's nothing we can concretely do or say about the Exynos 5 Octa until it's in a device and in our hands. It's all just educated guesswork in the meantime, but that happens to be something AnandTech is rather good at. That site has reached the conclusion, based on "numerous sources," that the Octa probably uses a PowerVR 544MP3 GPU clocked at 533MHz. If true, this implies that the ARM Mali T-604 used in Exynos Dual devices like the Sammy Chromebook somehow couldn't meet Octa's needs, and that the higher-specced T-658 perhaps wasn't ready. It also suggests that Octa's graphical and GPU compute performance might lie somewhere between that of the third-gen iPad (A5X) and the fourth-gen (A6X). Frankly, a newer GPU would have been more exciting, especially given the appearance of PowerVR Series6 at CES, but big.LITTLE should still give us plenty to talk about when the new eight-core chip finally arrives.
+
+

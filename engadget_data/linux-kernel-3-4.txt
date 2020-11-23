@@ -1,0 +1,5 @@
+
+ 
+ Heavens, it's already time for another Linux kernel refresh. We're now looking at 3.4, which is available for download now. Whereas the last version was all about green robots, this update focuses on support for the latest processors and graphics cards, including AMD's Trinity and Radeon HD 7000-series, NVIDIA's Kepler stack, plus the graphical component inside Intel's Medfield mobile chip. As if that wasn't enough, there are plenty more changes at the source link, along with a serene missive from the man himself.
+
+

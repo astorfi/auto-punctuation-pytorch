@@ -1,0 +1,4 @@
+
+It's fairly minor as far as operating system upgrades go, but Chrome OS users can expect to receive a new update in the stable release channel sometime in the next few days (if they haven't already). It brings with it some added panel windows for things like chat, along with a new positioning mode for the launcher, autocomplete in Drive search, a new three-finger gesture to move between tabs, and expanded support for wireless mice and touchpads, among other minor fixes and additions (including some promised memory management improvements). You can find the full rundown at the source link below.
+
+

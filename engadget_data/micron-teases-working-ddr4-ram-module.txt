@@ -1,0 +1,17 @@
+
+ 
+ JEDEC is still finalizing the standards for DDR4, but that doesn't mean component manufacturers are holding back on developing the tech now. Samsung announced the first DDR4 DRAM module last year, and now Micron has announced that it's developed a working part of its own. Using its 30-nanometer technology, the 4GB x8 part is just the first of many products in the company's DDR4 portfolio -- it will expand to include x16 and x32 parts with initial speeds of 2400 MT/s and eventually the JEDEC's targeted of 3200 MT/s. So when will DDR3 seem like a distant relic? Well, Micron is already sending around samples to clients, and it hopes to begin full-scale production by the end of the year. As always, jump past the break for the full press release.
+
+
+
+  Show full PR text   BOISE, Idaho, May 7, 2012 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq:MU), one of the world's leading providers of advanced semiconductor solutions, today announced development of its first fully functional DDR4 DRAM module. The company has begun sampling and has received feedback from major customers to support quick implementation for applications in 2013.
+
+   It is expected that the enterprise and micro-server markets will take full advantage of the new features and specifications designed into DDR4, accelerating early adoption of the technology. In addition, the fast-growing ultrathin client and tablet markets will also benefit from new opportunities enabled by the power savings and performance features of Micron's DDR4.
+
+   Codeveloped by Nanya and based on Micron's 30-nanometer (nm) technology, the 4-gigabit (Gb) DDR4 x8 part is the first piece of what is expected to be the industry's most complete portfolio of DDR4-based modules, which will include RDIMMs, LRDIMMs, 3DS, SODIMMs and UDIMMs (standard and ECC). For the soldered down space, x8, x16, and x32 components will also be available, with initial speeds up to 2400 megatransfers per second (MT/s), increasing to the JEDEC-defined 3200 MT/s.
+
+   "With the JEDEC definition for DDR4 very near finalization, we've put significant effort into ensuring that our first DDR4 product is as JEDEC-compatible as it can be at this final stage of its development," said Brian Shirley, vice president for Micron's DRAM Solutions Group. "We've provided samples to key partners in the market place with confidence that the die we give them now is the same die we will take into mass production."
+
+   As JEDEC finalizes the DDR4 specifications, Micron is positioned to quickly become fully compliant with its 30nm 4Gb DDR4 part. Full sampling to key partners began earlier this year and volume production is planned for 4Q12.
+
+ 

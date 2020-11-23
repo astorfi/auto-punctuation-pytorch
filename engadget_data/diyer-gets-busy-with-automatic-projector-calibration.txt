@@ -1,0 +1,6 @@
+
+ 
+While you may not think a 4+ minute clip involving a monotone narrator, flashes of light and lots of sensors could hold your attention (okay, so maybe that came off a bit more riveting than we'd hoped), we'd bet the one posted after the jump could. The video demonstrates a fairly svelte automatic projector calibration system, which relies on very little hardware (and time) to work its magic. Essentially, the low-cost method utilizes rear-mounted optical fibers wired into light sensors, which can channel gray-coded binary patterns through a USB connection. From there, a PC determines precisely how the projection should be outputted for the target surface to be completely filled with an undistorted image. We know, it's tough to wrap your head around, but all the enlightenment you could ever want (on this subject, anyway) is just a mouse click away. [Warning: PDF read link][Via HackADay]
+      
+
+ 

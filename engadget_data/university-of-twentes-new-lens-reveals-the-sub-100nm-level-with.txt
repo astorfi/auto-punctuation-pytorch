@@ -1,0 +1,9 @@
+
+ 
+Small is beautiful, but only when you can see it. Specifically, we're talking about nanostructures -- including cellular organelles and nanoelectronic circuits -- around the order of 100nm. The problem is with a microscope, visible light only takes us down to a resolution of 200nm at best, and it's not always ideal to use conventional methods to boost the resolution -- you'd either have to dope the subject with fluorescent dye or use highly delicate equipment. Thankfully, the University of Twente has come up with a new type of lens that would solve this problem: in a nutshell, a nanoparticle is placed on one side of the gallium phosphide lens, while the other side -- disorderedly etched with acid -- takes in a precisely modulated laser beam and scatters it into a focal point of your choice. Sure, this sounds bizarre and ironic, but apparently the modulation is controlled in such a way that the scattered beam focuses much tighter than an ordinary beam would using an ordinary lens. Have a look at the comparison shots of some gold nanoparticles after the break -- that's some sweet 97nm resolution right there for ya.
+      
+
+ 
+
+
+ 

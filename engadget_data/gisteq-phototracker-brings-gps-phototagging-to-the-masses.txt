@@ -1,0 +1,6 @@
+
+ 
+We've been seeing a bunch of GPS camera-trackers pop up lately, but the implementations have all seemed a bit silly, like Jelbert's big honkin' GeoTagger. GiSTEQ is looking to change all that with the introduction of the PhotoTracker, a $99 GPS receiver that's designed to unobtrusively work with virtually all digital cameras. Like Sony's GPS-CS1, you sync the unit to your cam's built-in clock and then toss it in your bag or pocket, where it can record location data for the next 3-4 weeks. The included software then takes this info and adds the appropriate geotags to your photos as you're pulling them off your memory card. It's a simple (and great) idea, we just wish the software didn't look like it's going to insist on being your primary photo manager.
+      
+
+ 

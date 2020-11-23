@@ -1,0 +1,37 @@
+
+In many respects, Microsoft has led the charge towards a future of gesture-based controls with its Kinect, and other tech giants like Samsung and Apple are getting in on the action, too. The move to motion controls isn't limited to the big boys, however. Leap Motion has created a new device, called the Leap, it claims is 200 times more accurate than existing technology and will take gesture controls to the next level.
+
+
+It's about the size of a pack of gum, and once connected to your computer via USB, it creates a eight-cubic-foot virtual workspace. Within that area, it tracks all ten of your fingers simultaneously to within 1/100 of a millimeter -- that level of accuracy allows for rudimentary gestures like pinch-to-zoom and more complex actions like manipulating 3D-rendered objects. Naturally, the company isn't telling much about the black magic making it happen, but Leap Motion claims that its software can be embedded in almost anything with an onboard computer, from phones to refrigerators. Users can customize it to suit their needs with custom gestures and sensitivity settings, in addition to chaining multiple Leap devices together to create a larger workspace. Plus, Leap Motion has created an SDK for devs to create Leap-compatible applications and an app discovery platform to distribute them to others. That means the Leap can work in a variety of use cases, from simply navigating your desktop to gaming and computer-aided design. The best part? Leap brings you this next-gen UX for a mere $69.99, and a select few can pre-order them now, with the full roll-out coming this winter. Full details follow in the PR below, and you can see the Leap in action in the videos after the break.
+
+
+
+
+
+Show full PR textLeap Motion Unveils World's Most Accurate 3-D Motion Control Technology for Computing
+Leap device, sensitive enough to track individual fingertips, available for limited pre-order at just $69.99
+San Francisco – May 21, 2012 – Leap Motion, the motion-control software and hardware company changing the future of human/computer interaction, today announced the Leap, the world's most accurate 3-D motion control device. It will change the way people control their laptops and desktop computers. The Leap is 200 times more sensitive than existing technologies and will cost a fraction of the price, just $69.99. Open today for pre-orders, the Leap will ship to consumers this winter. Leap Motion also has begun accepting requests for free developer kits today. Thousands will be provided in the coming months to let developers create a wide array of Leap-based applications.
+
+The Leap creates a three-dimensional interaction space of 4 cubic feet to control a computer more precisely and quickly than a mouse or touchscreen, and as reliably as a keyboard. Leap Motion's patented software, the heart of the Leap, represents four years of research and a series of major mathematical breakthroughs by co-founder and CTO David Holz.
+
+The Leap is accurate to within 1/100 of a millimeter, a precision level required for touch-free natural gesture controls like pinch-to-zoom. The Leap addresses the shortcomings of all existing human/computer interaction tools by enabling a 3-D workspace that recognizes intuitive gestures. It is the first product in history to accurately sense the individual movements of all 10 of the user's fingers, and can also track objects like a pen. Traditional mouse-and-keyboard navigation turns actions that are intuitive in the real world, like drawing a picture or manipulating 3-D objects, into highly technical tasks. Existing motion-sensing technology is crude, inefficient and often frustrating, and even touchscreen technology is limited by a two-dimensional workspace and scale restraints."It was this gap between what's easy in the real world but very complicated to do digitally, like molding a piece of clay or creating a 3-D model, that inspired us to create the Leap and fundamentally change how people work with their computers," said Leap Motion CEO and co-founder Michael Buckwald. "In addition to the Leap for computers, our core software is versatile enough to be embedded in a wide range of devices, including smartphones, tablets, cars and refrigerators. One day 3-D motion control will be in just about every device we interact with, and thanks to the Leap, that day is coming sooner than anyone expected."
+
+Computing tasks ranging from simple to complex can now be accomplished with natural hand and finger movements. Current uses of the Leap include:
+
+• Basic computing tasks like navigating an operating system or browsing through Web pages• Precise virtual drawing in 2-D and 3-D• Signing a digital document by writing in air• Navigating large-scale 3-D data visualization systems• Creating and manipulating 3-D models like houses and cars• Playing computer games, including fast-twitch first-person shooters
+
+Future applications from developers could include medical imaging, robotics, unique art creations, computer-aided design, virtual-reality environments, training simulators for complex manual tasks and more.
+
+The Leap plugs directly into a USB port and calibrates in one step, allowing users to quickly begin controlling their computers with natural hand and finger movements. Users can fine-tune the Leap's sensitivity settings, create their own custom gestures and even network more than one Leap together to create a larger interaction space.
+
+"Breakthroughs in technology come in all sizes, but often the very biggest disruptors come in very small packages: the computer chip, the mouse, the smartphone and now the Leap. Roughly the size of your pinky finger, I believe the Leap is the future of how people will interact with their devices," said technology visionary Bill Warner, founder of Avid Technology and a Leap Motion investor. "What's previously been an expensive special effect in movies is now an affordable everyday reality, in full 3-D. With the Leap, you use both hands and all 10 fingers to work within your computer's virtual environment just as easily as you do in the real world."
+
+Developers who want to create Leap-compatible applications can request a Leap software development kit via Leap Motion's website at http://leapmotion.com/developer-application/. Leap Motion's app discovery platform will make it easy for developers to promote and monetize their own applications for the Leap.
+
+The Leap will be widely available this winter at a suggested retail price of $69.99. A limited number are available for pre-order at http://leapmotion.com/order.
+
+About Leap Motion
+
+Based in San Francisco, Leap Motion is a motion-control software and hardware company developing the world's most powerful and sensitive 3-D motion-control and motion-sensing technology. Leap Motion's first product, the Leap, will be available in early 2013. The Leap is 200 times more sensitive than existing motion-control technology, making it the first product to let users navigate and interact with computer applications using natural hand and finger movements. Founded in 2010 by Michael Buckwald and David Holz, the company has raised $14.55 million to date.
+
+

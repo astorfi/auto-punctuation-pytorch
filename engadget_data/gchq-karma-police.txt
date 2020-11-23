@@ -1,0 +1,16 @@
+
+
+
+We've been well aware that the British spy agency GCHQ was just as guilty as the NSA when it came to overbearing online surveillance, but new documents from former analyst Edward Snowden paint an even more insane picture. The agency's "Karma Police" program (note the irony there) spied on practically everything web users did online, including social media posts and porn habits, The Intercept reports. Just like the NSA, the GCHQ was authorized to sift through metadata (details about specific communications, like the sender and recipient, which doesn't include the message's contents) with little to no oversight. At one point in 2009, the agency used Karma Police to track online radio listening habits for 200,000 people globally, spanning 7 million metadata records, for signs of spreading radical Islamic ideas. It was then able to use those records to connect listeners of a popular Iraqi radio station to their Facebook and Yahoo profiles, as well as specific porn sites they visited.
+
+
+
+According to the documents, Karma Police was put together around 2008 with the goal of giving the GCHQ with "either (a) a web browsing profile for every visible user on the Internet, or (b) a user profile for every visible website on the Internet." To that end, it collected website browsing histories from web users by tapping into the fiber optic cables that connects the internet globally. The agency already got into hot water for collecting data from civil rights groups, even though it maintains that the surveillance wasn't illegal, but the more extensive nature of Karma Police is likely to raise even more alarm bells.
+
+So what did the GCHQ do with all of that data? Apparently, most of it went straight to a repository called "Black Hole" (another sign the program's creators were emo '90s kids), which was a centerpiece of the agency's spying apparatus. The diagram below shows how data sent into Black Hole was structured.
+
+
+It's easy to feel a bit numbed by all of the news of extensive government surveillance, but it's stories like these that remind us just how far spy agencies were willing to go over the past decade.
+
+[Photo credit: GCHQ/Crown Copyright]
+

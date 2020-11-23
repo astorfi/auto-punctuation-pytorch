@@ -1,0 +1,14 @@
+
+ 
+There may not be a native LTE network live in Barcelona yet, but that didn't stop Big Red from hauling a 700MHz demonstration to Spain for the purposes of gloating at Mobile World Congress. We heard just days ago that the LG Revolution would be one of the first phones to support voice over LTE (VoLTE) on Verizon, and today we were given quite a bit of extra information about the rollout. For starters, Verizon's hoping that other carriers adopt their VoLTE platform, even going so far as to encourage it. It's sort of comical to hear the company that once crippled Bluetooth on dumbphones and still makes you buy a month of data just to activate a tablet talk about "openness" when it comes to communications, but we suppose the tables are turned somewhat when it's VZW that stands to gain. At any rate, VoLTE essentially acts as a VoIP lane, giving a specific amount of bandwidth to the call (which ensures call quality, unlike Skype, which is at the mercy of shared applications that are using the same bandwidth) and also enabling the phone to use data whilst the call it ongoing. 
+
+The Revolution, which is slated to launch in March, will eventually gain VoLTE support, though VZW's not expecting the feature to go live in America until next year. Bilal Wahid, Verizon Wireless' Associate Director of Product Development, told us that at least initially, you may see VoLTE voice and videocalling available on Android smartphones, but there's no reason that the same apps couldn't be developed for other platforms. The call quality was on par with some of the high-bandwidth VoIP calls we've encountered, and the videocalling was particularly impressive. The resolution was tremendous, and there was essentially no lag whatsoever. Of course, this all happened over a locked, modular LTE network, so results will almost certainly vary out in the real world; regardless, it's a beautiful start, and it certainly makes the wait to 2012 that much more difficult. Hop on past the break for a demonstration as well as a lengthy explanation of the technology, where it's going, and when it'll be implemented. 
+
+
+
+
+
+See more video at our hub!
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,14 @@
+
+It's becoming more and more common to find mobile devices with wireless charging capability, either as a built-in feature or integrated into third-party cases. Progress has been somewhat hampered, however, by the fact that no universally adopted standard is available. Of the three major groups trying to corner the market, Qi -- a standard created by the Wireless Power Consortium (WPC) -- has arguably been the most successful at courting manufacturers and carriers (over 200 have signed up so far). The problem is, its abilities have been limited because it only uses a method called inductive charging; in other words, you can power up your smartphone as long as it's sitting on a charging pad. Wireless, sure, but it's still only marginally more convenient than simply plugging the handset in. Fortunately, Qi's adding some crucial functionality later this year that will allow you to charge your device from nearly two inches away.
+
+
+
+With version 1.2, the WPC is adding resonance charging to Qi's features. This makes it so the receiver (the device that needs to be charged) and the transmitter (the charging pad or surface that's pushing the power to the device) won't need to physically touch each other anymore; now they can be up to 45mm (1.77 inches) apart. The new standard is backwards-compatible, so if you already have a smartphone or tablet with Qi built-in, you'll be able to charge them up from as much as 35mm away. The standard also allows multiple devices to charge up at the same time, provided they're both within range, and it will be capable of pushing as much as 2,000 watts to larger products like kitchen appliances.
+
+
+Qi's newfound ability to charge your gadgets from a distance is much more convenient for end users than what its current products offer. Using this technology, you might be able to place charging pucks under tables so your phone starts charging whenever you're close by; you could put several devices in a Qi-compatible bucket, which would be very handy placed in between the two front seats in your car; and you won't have to worry about placing your device on a precise spot to get it to charge. 
+Two competing wireless charging standards, Rezence and the Power Matters Alliance, already have adopted resonance charging, but the WPC claims that Qi is more power efficient and has a larger group of partners and products. Representatives couldn't give specific stats on power efficiency yet, since the earliest products are still in development and results will vary from one device to another; that said, their initial estimates were somewhere between 70-80 percent. (Qi's inductive chargers average about 85.)
+
+We should expect to see the first v1.2 products arrive sometime later this year, although kitchen appliances using the standard likely won't hit the market until 2015.
+
+

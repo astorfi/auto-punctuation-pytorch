@@ -1,0 +1,6 @@
+
+ 
+We were a little disheartened last week when we didn't hear a peep out of NVIDIA about Ion 2, but Pierre of Blogee has dug up some dirt on the next-generation graphics. The ASUS Eee PC ET2010PNT's got a pretty nice looking 20-inch HD multitouch display, but it's also powered by the new Intel Pine Trail D510 processor and NVIDIA GeForce G310 graphics -- which according to the document is being dubbed as Ion 2. Sure, we already knew that the next version of Ion would be compatible with Intel new Atom platform, but we didn't know that they'd be tossing aside the GeForce 9400M for its G310 graphics card (which is apparently just a rebranded G210). As we thought, it looks like this will be a discrete solution, and it appears (if the benchmarks are accurate) that the G310 will be considerably faster than the current Ion platform. We're just hoping the 589MHz 16-core CUDA chip has been tweaked for better power efficiency when it comes to cramming it into netbooks. No word on when the ET2010PNT will be available, but given the initial hold up we saw with Ion 1 we aren't overly optimistic that it will be any time soon.
+      
+
+ 

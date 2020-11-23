@@ -1,0 +1,5 @@
+
+ Billed as "the latest evolution of the highest-volume mobile-development platform available," Nokia used this week's JavaOne shindig to launch its Series 40 5th Edition operation system for mass-market handsets. While not technically a smartphone platform (unlike its big sib S60), Series 40 is about as open as a dumbphone platform can get -- and 5th Edition is making it even more open with a wide variety of new Java-based APIs. Though there are apparently some UI enhancements in store that promise to yield "richer multimedia applications," Nokia's pretty vague about what exactly the user will see in 5th Edition, concentrating instead on the benefits to developers and carriers. Most notably, the Bluetooth OBEX profile is now supported in Java apps, Flash Lite 2.1 gets Nokia's blessing, and the Advanced Media Supplements standard offers up 3D sound. No word on when 5th Edition might be hitting handsets, but a new suite of tools to harness the new goodies will be available to devs starting next month.
+      
+
+ 

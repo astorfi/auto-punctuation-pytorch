@@ -1,0 +1,13 @@
+
+ Is your fancy new phone lacking that certain extra G that makes it special? Worry not, it's not just your device, Verizon's entire LTE network seems to be having problems as outages have been reported from across the US. We tested our own Thunderbolt in San Francisco this morning and it was indeed making do with only 3G connectivity. It's important to note that Verizon's 3G network seems to be ticking along quite alright, it's just 4G service that's down at the moment. Some folks have reported losing both 3G and 4G connectivity, but that's owing to a documented issue with 3G provisioning on the Thunderbolt -- we've noted the way to overcome that problem in a previous post. For now, just enjoy your regular-speed mobile internet until the super-fast stuff is fixed and back up.
+
+Update: The Verizon Wireless Twitter account has confirmed the issue, and that the company's network engineers are "working to resolve quickly."
+
+Update 2: As of 4:13pm ET Verizon has determined the cause and is "working with major vendors to restore connections." Still no ETA for a fix.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

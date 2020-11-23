@@ -1,0 +1,25 @@
+
+ 
+We got a chance this morning to pose a few queries to Brian Croll, Senior Director of Mac OS X Product Marketing, about today's Leopard release announcement. Here's some of what he had to say, as well as some of the new features we're looking forward to in the next release.
+
+Users who bought Apple machines from October 1st on can participate in Apple's Up-To-Date Program, which provides free Leopard upgrades (for $10 shipping).
+Boot Camp's beta Assistant software expires at the end of 2007, meaning Tiger users that want to continue editing / creating Windows partitions on their Macs need to do so before January, or upgrade to Leopard. Post-January you'll still be able to boot to the partitions you've created, though.
+Users shouldn't expect expanded sync capabilities between Mail.app and the iPhone, although it looks like you'll be able to read iPhone notes on your desktop machine now.
+File system is, indeed, still HFS+; OS X now supports read-only ZFS, as we'd heard.
+Don't forget to peep the new features / changes list on Apple's site.
+Call us crazy, but with a 6:00PM Friday launch we think you should expect lines -- but not for Apple to sell out.
+
+A few features we're looking forward to (besides the obvious ones):
+
+Google Maps integration with Address Book.
+Tricked out AppleScript.
+Automator UI recording / playback.
+Japanese dictionary support.
+New, easily-printable font books.
+Front Row now looks more like "Back Row" (the Apple TV interface) -- too bad it's still not more like Media Center.
+New AirPort menus that show WiFi encryption.
+Disk encryption now supports 256 bit AES.
+Built-in grammar checker. Lord knows we need it 'round these parts.
+Tabbed terminal.
+
+ 

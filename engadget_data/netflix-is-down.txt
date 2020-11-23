@@ -1,0 +1,7 @@
+
+ 
+ What to do on this Friday night? If your answer to that age old question was "Netflix," then you likely received a bit of a rude shock this evening upon discovery that the company's video streaming service is currently out-of-whack. If you're wondering why that is, it appears to be tied to some of Amazon's EC2 servers in Virginia losing power due to the bad weather there. As VentureBeat notes, it's a problem which is also affecting sites like Instagram and Pinterest at the moment. For its part, Netflix has acknowledged the issue via its Twitter account, to which it states, "We're aware that some members are experiencing issues streaming movies and TV shows. We're working to resolve the problem." So, there you have it. Now the only question that remains is whether you'll break out one of those red envelopes, fire up Hulu Plus or venture out to the theater to satiate your movie desires.
+
+ Update: @Netflix just tweeted that everyone should be back up, or will be shortly. The Amazon AWS dashboard indicates it's recovering as of 3:13AM, so all should be ready for your tilt-shifted Saturday brunch pics and subsequent dream board updates.  [Thanks to everyone who sent this in]
+
+

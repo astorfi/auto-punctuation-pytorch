@@ -1,0 +1,6 @@
+
+ 
+The process isn't for the faint of heart, but considering the reward here, the trials and tribulations of hacking the hell out of your G1 might just be worth it. As usual, the bright chaps over at xda-developers have managed to obtain the HTC Hero's heavily-skinned Android ROM and port it to the G1, offering a totally unique look and feel with all manner of enhancements and customizations not found on a stock Android 1.5 build. Getting it all going involves flashing your device, connecting to it with the Android debugger while it's stuck in an endless boot loop, and messing around with some other stuff, so yeah -- if you're a greenhorn you might want to get a pro to take care of this for you and make sure that you're comfortable with the very real possibility of bricking your baby. Hey, it's just a phone, right? What's the worst that can happen?[Thanks, Ash]
+      
+
+ 

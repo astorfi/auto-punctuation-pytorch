@@ -1,0 +1,6 @@
+
+ 
+The same Singapore event that brought us our first look at AMD's humongous Radeon HD 6990 has also served as the stage for the company's first showing of a new, even lower-powered Fusion APU. The regular dual-core Ontario (C-50) variant requires a 9W power budget to operate, but AMD's managed to shrink that down to 5W in a chip designed specifically to be used in tablets. Clock speed remains at 1GHz and the core count hasn't bee touched, but the memory controller has been dumbed down and peripheral ports have been reduced to one of each type. This streamlined C-50 has already found a home in Acer's 10.1-inch Windows 7 tablet and should prove decently popular among manufacturers looking for an x86 alternative to the coming tidal wave of ARM-based devices.
+      
+
+ 

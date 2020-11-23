@@ -1,0 +1,8 @@
+
+ At today's Qualcomm QRD Summit in Shenzhen, China Mobile sent its Deputy General Manager of Products Wang Hengjiang to share some hardware stats. In 2012, over 60 million TD-SCDMA devices were sold, with December alone pumping out over seven million units. To put that into perspective, there are now over 220 million 3G phone users in China (as of end of November), meaning the carrier still has plenty of catching up to do as it had a late start in the 3G game. That said, Wang also announced that China Mobile aims to sell twice as many TD-SCDMA devices this year, with smartphones expected to take up over 80 percent of that segment -- hardly a challenge considering they already reached 94.4 percent in the last quarter. Wang added that out of the 120 million units to be sold this year, half of them will be customized by China Mobile -- presumably so that it can choose its own bloatware, right?
+
+ As for TD-LTE, China Mobile expects its 4G technology to bloom in China some time between 2014 and 2015, as it continues to help the development of devices that natively support five modes (GSM, TD-SCDMA, UMTS, FD-LTE and TD-LTE) along with 10 to 12 bands. Obviously this is the very reason why China Mobile is getting cosy with Qualcomm, the company who has SoCs that support all these radios. Wang added that ahead of the full launch of TD-LTE, his company will be initiating user trials for TD-LTE data devices and phones throughout 2013 -- the first half of the year for the former, and the second half for the latter. Well, we only have three words for China Mobile: hurry up already!
+
+
+
+

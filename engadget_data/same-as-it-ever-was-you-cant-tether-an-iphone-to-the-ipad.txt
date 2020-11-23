@@ -1,0 +1,8 @@
+
+ 
+This isn't so much news as it is a public service announcement: even in markets where iPhone tethering has launched, you've never been able to use it to connect to an iPad, and you won't be able to when AT&T flips the switch on tethering with the release of OS 4. That's clearly not AT&T's fault, it's Apple's -- the iPhone inexplicably supports only USB and Bluetooth for sharing its internet connection, even though jailbroken apps like MyWi prove that a WiFi connection is totally doable and countless other handsets already support WiFi routing. And iPad doesn't support using another device as a Bluetooth modem, either. And as long as you're paying the tethering fee, there's no reason why AT&T wouldn't want you tethering the iPad; you'll certainly be able to do it with any phone in AT&T's lineup that can create a WiFi hotspot, after all, and we're sure they'd be happy to take your overage cash once you hit 2GB regardless of the device you're using to gobble the data.
+
+In the meantime, you know what you can tether to an iPad? A phone running Froyo, for one -- Google was certainly happy to show off that capability back at IO. Or pretty much any device running S60 from the last several years. Or a Palm Pre Plus... yeah, you get the idea.
+      
+
+ 

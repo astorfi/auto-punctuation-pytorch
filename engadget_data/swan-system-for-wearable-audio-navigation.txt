@@ -1,0 +1,6 @@
+
+ 
+A team of Georgia Tech researchers have devised a wearable computer system that promises to help blind people navigate unfamiliar areas, and please the acronym police as well. Like most prototypes, the the SWAN (System for Wearable Audio Navigation) is pretty bulky in its current form, with a laptop, GPS, inertial sensors, pedometer, RFID  tags, RF sensors, a compass, and other gear all stuffed into a backpack, although they're apparently already working on a smaller version. To get navigation information to the wearer, the SWAN employs a pair of "bonephones" (also developed by Georgia Tech), which send sounds to the person using bone conduction, letting them keep their ears free to hear what's going on around them. Instead of using traditional voice navigation, however, the SWAN uses what the researchers call "3D audio cues," which consist of navigational beacons that the person is supposed to walk towards, and secondary sounds informing them of nearby objects or changes in walking surfaces. Makes the UltraCane seem a little old-fashioned, no?[Via Roland Piquepaille's Technology Trends]
+      
+
+ 

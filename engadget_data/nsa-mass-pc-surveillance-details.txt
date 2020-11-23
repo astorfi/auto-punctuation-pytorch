@@ -1,0 +1,14 @@
+
+
+We know that the NSA has been ramping up its efforts to collect data from computers, but it's now clear that the intelligence agency has the tools to compromise those computers on a grand scale. Information leaked by Edward Snowden to The Intercept has revealed that the NSA has spent recent years automating the way it plants surveillance software. The key is Turbine, a system launched in 2010 that automatically sets up implants and simplifies fetching data; agents only have to know what information they want, rather than file locations or other app-specific details. A grid of sensors, nicknamed Turmoil, automatically spots extracted info and relays it to NSA staff. The combined platform lets the organization scrape content from "potentially millions" of PCs, instead of focusing only on the highest-priority targets. 
+
+
+
+          
+ 
+ 
+ The spies also have a wide range of weapons at their disposal. They can grab data from flash drives and webcams, remote control PCs and intercept the content from both internet calls as well as virtual private networks. The NSA doesn't always go directly after a target, either. It frequently compromises IT administrators to reach people on the networks they run, and it will both spoof websites and alter traffic to trick targets into installing code. Snowden's latest leak isn't all that surprising given that we've seen governments use similar espionage methods in the past, but it suggests that the NSA can easily watch a large number of computer users without sweating the exact techniques that it uses.
+
+       
+
+ 

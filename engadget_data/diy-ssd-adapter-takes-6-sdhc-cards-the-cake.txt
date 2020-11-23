@@ -1,0 +1,6 @@
+
+ 
+Seems everyone is coming out with a cheap, do-it-yourself SATA adapter to convert all your extra flash memory cards into a makeshift SSD. This time, we're looking at the ¥10,000 (about $91) PhotoFast CR-9000. The 9.5-mm tall, 2.5-inch, 3Gbps SATA adapter accommodates up to 6x SDHC cards and should fit into most slim laptops. That's enough slots to make a 192GB SSD (using 6x 32GB cards) for a bargain $900 or about $270 for a 48GB SSD based on a quick calculation of SDHC cards found on-line. While performance depends upon the weakest card of the lot, Impress Watch was able to squeeze a respectable 111.4MBps reads and 55.17MBps writes from their RAID 0 setup using class-6 rated, MLC-based, SDHC cards. That's nothing like the performance of the latest MLC-based SSDs but not bad for what you pay. Still, with SSD prices in freefall, these DIY adapters are quickly becoming less and less attractive.
+      
+
+ 

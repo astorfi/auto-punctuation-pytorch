@@ -1,0 +1,8 @@
+
+ 
+Electronic musicians are always looking for new ways to do the same old things. Case in point: OTTO, developed by Luca De Rosso at the IUAV University of Venice for a master's thesis. Based on an Arduino and Cycling '74's Max / MSP software, you can drop an audio loop in it (via USB) and manipulate it in real time by moving your hands around the touch surface. Sure we've heard these kind of edits before, but never on a device that somewhat resembles the old Simon memory game. That has to count for something, right? Suffice it to say: we want one. Be sure to check it in action after the break.
+
+ 
+
+  
+ 

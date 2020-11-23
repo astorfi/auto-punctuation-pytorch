@@ -1,0 +1,8 @@
+
+Longtime Nintendo fans are used to delays, but that won't make the news of Star Fox Zero not releasing this year any easier to swallow. Legendary game designer Shigeru Miyamoto took to Facebook to announce the delay (embedded below), saying that the Wii U game's technically ready to hit the initially promised November release, but the company is putting it back in the oven to sand off rough edges on level design and to perfect the tone of its cutscenes. Oh, and Nintendo is also putting more time toward working on the "unprecedented discovery" innate to Zero's unique two-screen control scheme. Miyamoto says that the game isn't far off though and that his team is shooting for a release in the first quarter of next year.
+
+
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));A Message from Mr. Miyamoto Regarding Star Fox ZeroI made a big decision last week.We have been developing Star Fox...
+
+Posted by Nintendo Console Gaming on Thursday, 17 September 2015

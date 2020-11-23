@@ -1,0 +1,21 @@
+
+The Sony NSZ-GU1 Google TV device we've seen pop up in FCC filings has been at least partially revealed today, and it's called the Sony BRAVIA Smart Stick. The blog post doesn't specifically mention any Chromecast-style features, but it is an MHL dongle that runs both Google TV and Sony's own BRAVIA apps. The features are just like Google TV boxes Sony has released before, with a remote (that the FCC filings showed is at least similar to the previous ones) that has QWERTY and voice search support. Additionally, its "picture-and-picture" feature lets users see a browser in one window and TV in another. Since it's a true Google TV device it can install and run Android apps from the Play Store, but any other details will have to wait until it's officially announced on Sunday (the truly dedicated can dig into the source code, linked after the break). Of course this does leave one other question: Now that app support is available as a simple plug-in dongle, does that mean Sony is going to ship plain-jane HDTVs and leave the "smart" features for add-on accessories like this one?
+
+
+Update: @CJ_000 points out the web-based instruction manual is up on Sony's site, and should answer most questions about how it works. It also lists the pre-installed apps, and at least so far, Hulu Plus is not among them. We're not seeing any DIAL-related features available to start with, so now we really want to know when it will be available, will it work with TVs other than Sony and how much will it cost?
+
+
+Update 2: Reader Bryan points out a page in the manual that confirms this accessory is only for 2013 model year (and later) Sony HDTVs.
+
+
+
+
+
+
+
+And NSZ-GU1 source code: http://t.co/BZpRIdMWqz Linux, Android (of some sort), 88de3100-like SOC. Mostly what we already knew.
+
+- CJ Heres (@cj_000) September 6, 2013So the NSZ-GU1 seems to be known as the Sony MAGI (at least, internally).
+
+- CJ Heres (@cj_000) September 6, 2013@rjcc Indeed - read your post earlier! Something to add (help guide, with pictures / diagrams): http://t.co/6WkDcJ9JjV
+- CJ Heres (@cj_000) September 14, 2013

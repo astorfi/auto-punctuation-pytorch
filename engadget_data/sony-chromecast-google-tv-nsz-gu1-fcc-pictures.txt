@@ -1,0 +1,13 @@
+
+We first got a whiff of Sony's NSZ-GU1 earlier this month from an FCC filing, and now the folks at GTVHacker point out those documents have been updated with more info and pictures. The first new Google TV hardware seen since the $35 Chromecast dongle launched, this device appears to be a blend of the two. A key difference revealed from the pictures however, is an odd stepped design, with the MHL/HDMI port protruding from the bottom of the box. The brief user manual included in the filing may explain this however, as it can draw power via that MHL output and the USB connection to a BRAVIA TV. A tiny diagram in the truncated user manual shows it plugged into the side of a TV like the Chromecast or Roku Streaming Stick. If you're wondering about the PS4 -- yes, we looked, but there's no indication it's meant to work directly with the upcoming console.
+
+
+Like previous Google TV devices, it brings HDMI passthrough to the table along with an IR blaster, remote diagrams (in a separate filing) look similar to the one included with the NSZ-GS7 and GS8. Inside is a low power Marvell DE3108 SoC, 8GB of flash memory and 1GB RAM, however the specs indicate it's limited to 720p video output. As GTVHacker put it, the entire thing is similar to the Chromecast but with Google TV features. What remains to be seen is when it arrives, how much it costs, and what software tweaks Google and Sony can cook up to make this generation of Android-powered smart TVs more appealing.
+
+
+
+
+
+
+New Sony device NSZGU1 at FCC. HDMI In, Marvell de3108, NSZ-MR9U remote. Similar to #Chromecast but with GTV features http://t.co/QHiYirLZIG
+- GTVHacker (@gtvhacker) August 30, 2013

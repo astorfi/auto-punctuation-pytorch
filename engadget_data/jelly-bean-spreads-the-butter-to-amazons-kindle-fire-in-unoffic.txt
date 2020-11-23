@@ -1,0 +1,12 @@
+
+ 
+ Jelly Bean(s) for everyone -- essentially, that's just what Google's done for the tech savvy underground with 4.1.1's release in AOSP. Not two days after that source code was made available, has a developer by the name of Hashcode worked to get an early build up and running on Amazon's Kindle Fire. If you'll remember, that Bezos-backed slate runs a heavily customized UX with Gingerbread buried deep at its core and official plans for a software update beyond its 2.3 underpinnings have not been announced. So, for adventurous owners that are sick of living in the software-past, but aren't quite ready to part ways with 200 bills for that very now Nexus 7, a beta ROM is at the ready. Naturally, you'll need to have your device rooted and loaded with a custom recovery to get things going but, take note, this work-in-progress is far from complete: hardware video acceleration isn't yet supported and WiFi is somewhat unstable. Fixes are assuredly on the way, so the less carefree might want to abstain from flashing at the moment. For everyone else, you can find the necessary downloads at the source below and, while you're at it, check out the video tour after the break.
+
+ Update: Looks like the crew got Google's apps (Play Store, Gmail, etc.) working as well as WiFi. Check out the updated tour video here.
+
+
+
+
+ 
+ 
+ 

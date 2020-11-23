@@ -1,0 +1,7 @@
+
+ 
+
+
+Unlike Motorola's Tuning Adapter demo, Cisco's wasn't a functional demo, but basically the two boxes do the same thing. The Cisco version is considerably bigger (the box on the top is a basic digital converter, not the TA), but includes the same exact connections. While Moto claims its adapter will be available in July, Cisco is saying it'll come sometime during the 3rd quarter, which could mean the same thing. Like Moto, Cisco is reusing an existing STB form factor so although it appears the box has a CableCARD slot, it doesn't.
+
+

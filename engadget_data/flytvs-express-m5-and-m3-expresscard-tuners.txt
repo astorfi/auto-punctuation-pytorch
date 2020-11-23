@@ -1,0 +1,6 @@
+
+ 
+We're not sure how longFlyTV's actually been selling their Express M5 MST-T2A2, and M3 MST-T2 tuners, but it's among the first ExpressCard TV devices we've seen -- unfortunately if you wantto tune into analog signals, it's the M5 ExpressCard 54, and not the M3 ExpressCard 34 device, you're going to have tosnag (34 is the smaller standard seen in the MacBook Pro, for example). But if your machine has a 54 slot, you can viewand record multiple DVB-T, digital, or analog sources simultaneously in MPEG-1/2/4 via digital antenna, S-Video, andcomposite in with the M5, and the same without the analog antenna on the M3. Of course, we know what would make thisreally useful is ATSC support, but we don't really think LifeView, the Taiwanese company who produces the FlyTV, wasaiming for US soil when they launched this one.[Thanks, Steve]
+      
+
+ 

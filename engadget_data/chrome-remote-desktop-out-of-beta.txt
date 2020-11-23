@@ -1,0 +1,5 @@
+
+ 
+ After a year of living in beta, Chrome Remote Desktop is finally ready for primetime. Similar to other screen sharing services like LogMeIn and Splashtop, Chrome Remote Desktop lets you access other computers remotely. Of course, it is special to the Chrome browser, and by extension, the Chrome OS. The latest version of the app adds a couple of new features like a real-time audio feed for Windows users and the ability to copy-and-paste between remote and local computers. You can use this with any Chrome browser of course, but it could prove especially useful for those with Chromebooks, as you can easily communicate with a presumably storage-laden home PC while still toting around a lightweight notebook.
+
+

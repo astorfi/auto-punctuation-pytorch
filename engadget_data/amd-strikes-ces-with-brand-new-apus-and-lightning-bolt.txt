@@ -1,0 +1,9 @@
+
+ 
+
+AMD decided to steer clear of the show floor this year, instead choosing to stick to a briefing room upstairs, where they gave us a quick tour of their current offerings as well as a sneak peek at some upcoming projects. There were two big stars, though, the first of which is the upcoming Trinity APUs, based on its Piledriver core. There will be three different versions: desktop, laptop and "thin and light." The latter of which is clearly aimed at Ultrabook-like form factors and draws just 17W, while promising similar performance to current generation 35W chips. To show off just how powerful its next-gen architecture is AMD demoed a machine playing DiRT 3 (at low quality mind you) on one display, transcoding video on another and playing a clip of a kata on third. Oh, and that third display was attached to the laptop that was driving the whole thing without stuttering.
+
+
+
+The other big news, though we sadly don't have accompanying visuals, was a backroom demo of Lightning Bolt -- AMD's answer to Thunderbolt. The protocol is capable of driving up to four displays and several USB 3.0 ports while providing power. It can only drive two at 1080p and it won't reach the full speed of USB 3.0, but AMD did say it will be faster than 2.0. Supposedly the tech will be incredibly cheap in integrate into a PC, and a single cord running from a DisplayPort to a hub was able to handle playing back a Blu-ray and transferring files from a thumb drive while pushing two 1366 x 768 monitors -- not bad for an early prototype. Check the gallery above for a few shots of the latest AMD APUs and, for more technical details, hit the more coverage links.
+      

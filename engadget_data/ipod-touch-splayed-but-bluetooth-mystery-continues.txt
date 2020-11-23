@@ -1,0 +1,6 @@
+
+ 
+What a tease. The ifixit tear down we've all been waiting for on the iPod touch fails to specifically exclude the existence of Bluetooth silicon or even point out which chip is providing the WiFi. After all, Broadcom, Marvell, and CSR all offer single-chip solutions with combined WiFi and Bluetooth radios. Hell, they'll even integrate an FM radio if you ask real nice. Ah well, perhaps those of you with more IC-focused eyes can take a look at these snaps and bring an end to the Bluetooth in iPod touch mystery once and for all. Otherwise, we're looking at a Foxconn manufactured iPod with Toshiba (not Samsung) flash NAND memory, Wolfson audio chip, and what appears to be a Samsung manufactured ARM processor presumed to be "very, very similar" to the proc found in the iPhone.
+      
+
+ 

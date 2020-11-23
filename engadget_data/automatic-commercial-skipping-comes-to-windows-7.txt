@@ -1,0 +1,6 @@
+
+ 
+When considering any software upgrade it is important to check and make sure all of your other software will work on the new platform; so as expected many have been holding out on testing Windows Media Center on Windows 7 full time because of their hatred of commercials. Thanks to plug-ins like DVRMStoolBox (DTB) automatically skipping commercials in Vista has been a reality for years, but when Microsoft introduced a new SDK and recorded TV format (WTV) in Windows 7, all the old plug-ins ceased to work. Well we're happy to be the ones to tell you that we've been fortunate enough to play with early release versions of DTB and Show Analyzer -- the software that actually finds the commercials -- and they work on Windows 7 perfectly. Once again we can skip commercials without even touching the remote -- and this includes recordings that are still in progress. The bad news is that we have no idea when these updates will be available for mass consumption, but judging by how well they seem to be working, we'd expect 'em sooner rather than later.
+      
+
+ 

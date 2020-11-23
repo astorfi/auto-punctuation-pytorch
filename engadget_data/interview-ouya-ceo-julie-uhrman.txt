@@ -1,0 +1,91 @@
+
+
+Oh, the fickle fate of a Kickstarter darling. Initial hopes and dreams culminate into a single video and a few pages of text on a website that can send your brilliant little idea careening down one of two paths. Path one is the lonely one, falling short of your goal and retreating back to the very literal drawing board to find out just why your idea didn't match everyone's ideals.
+
+
+But the other path has its challenges too. Look at the OUYA Android-powered videogame console. The console was announced on a Tuesday, one week ago today, went on to meet its $950,000 funding goal in roughly eight hours and went on to raise millions. While thousands of gamers pledged their funds, the pundits got to pondering the unlikely (early) success, many predicting doom for this little gaming box that still has a long way to go before its promised release next March.
+
+
+With the pressure building, OUYA founder and CEO Julie Uhrman is feeling no doubts. She took some time out of her incredibly busy schedule on the one week anniversary of the Kickstarter launch to refute some of the hate that's been brewing and reassure those who have pledged their $99 that it will ultimately prove to be money well spent.
+
+
+ 
+
+You've obviously succeeded in capturing the hopes of thousands of gamers. What is it about the OUYA that is so compelling?
+I think it's the surprise factor. For many folks, we came out of nowhere. And we took on some big companies-nobody really does that. But when you think about it the idea isn't so far fetched. In fact, in this Joystiq article, Notch himself was quoted saying, "I am quite frankly surprised this hasn't happened earlier. Me and plenty of other people have tried connecting small PCs to their TVs and plugging in controllers in an attempt to get an open TV gaming experience that they can control, but there's been constant interface and infrastructure problems with that. And frankly, the only really good use of it was to run emulators. Something like OUYA could solve a lot of these issues, making it easier to find and navigate between content, and putting a good community in place around it."
+
+Are you a gamer yourself? What is your favorite console of all time? 
+I am a gamer. I love playing games on a TV, but I used to love it more, back before so many games moved to mobile and other platforms. I was barely a teenager when I was downloading games from BBS's at 9800 baud. Spent hours playing Super Mario Brothers with my family and a fortune on Galaga. Today, I have every system and play when I can -- mostly family games now with my kids.
+
+Did that provide any inspiration to the design of the OUYA? 
+When we first brought the concept to [Canabalt creator] Adam Saltsman, he made us promise to let him weigh in on the controller.Ultimately, Yves Behar and the team at fuseproject will manage the design process. I might have some great ideas, but really, how could I compete with the guy that designed the Jambox?
+
+We're also taking in feedback from our Kickstarter backers and the developers who are excited to build for OUYA. In fact, when we first brought the concept to Adam Saltsman, he made us promise to let him weigh in on the controller. And he's not the only developer excited. We've heard from Brian Fargo and others that the innovative controller design is likely to inspire new types of gameplay. We can't wait. It's an amazing opportunity we have: to create something beautiful and functional put it in the hands of the most creative game designers in the world and let them run with it. It's going to be awesome.
+
+You're about to cross the $5 million mark after having set an original goal of only $950,000. Has this level of early success caused you any concerns? 
+Not at all. We have been, of course, totally blown away by the level of support OUYA has received. A week after unveiling on Kickstarter, OUYA is almost 40,000 backers strong and more than 500 of our developer reward packages are spoken for. Not to mention, the amazing support we had going into Kickstarter, both from well-known developers and great investors like Digg founder Jay Adelson, Flixster founder Joe Greenstein, and Jawbone founder Hosain Rahman who backed us out of the gate and helped us get to Kickstarter.
+
+Will you be able to deliver product to all of those who have pre-ordered?
+We know that we can deliver the goods.
+
+The hardware is doable. We've shared our tech specs and everyone knows by now that we aren't reinventing the wheel here. It's standard stuff that we'll be maximizing to bring great games to life. (And that's why the cost works-putting this stuff under the lid is totally doable for $99.) We've already got a functional prototype-in our Kickstarter video you see me playing Shadowgun on it.
+
+It's really the developer proposition, the business model, and the design that are innovative. As for the developer proposition and business model they are new to the console space, but some of our best ideas we grabbed from the mobile market. Beyond that, the concept of Openness-that was important to us. But that isn't something we invented. If anything we felt that was the way tech was headed. And we wanted to bring it to a new place: console gaming.
+
+[Yves Behar] is the man [behind] the Jawbone headset... and the news-making $100 laptop with MIT's Nicholas Negroponte. I think he can handle our little project.Given that Yves Behar is tackling design, I don't think that we'll worry about that either. He's the man [behind] the Jawbone headset, Herman Miller's groundbreaking Leaf LED lamp, a line of lifestyle goods for Mini, the reinvention of Birkenstocks, a chandelier for Swarovski, and the news-making $100 laptop with MIT's Nicholas Negroponte. I think he can handle our little project.
+
+And, then, I guess, if the question comes down to our ability to handle the production process we've got that covered too. NVIDIA is collaborating with us, to help us both get production going and to get the most out of our Tegra 3 chips. We've been talking to some of the leading ODMs. They have vetted our plans and are bidding on our business. We are close to picking a partner to manufacture our console and controllers.
+
+
+We crunched a lot of numbers before we got on Kickstarter. We vetted the bill of materials with experts. We vetted our plans with our advisors, including Amol Sarva who developed the Peek email device at a similarly low cost. If all we'd done was hit our goal, we could have delivered – but now we can promise developers so many more gamers to develop for.
+
+We have also limited the number of consoles we can make available for March. We could have launched with an unlimited number – but we have only listed what we are confident we can deliver. (80,000 consoles at the $99 reward level on Kickstarter.) What's available is already almost half sold out.
+
+Until we have a product on the market that people can put their hands on, we'll have to get comfortable with skepticism.Listen, we know that there are going to be people who try to kick the tires. And, until we have a product on the market that people can put their hands on, we'll have to get comfortable with skepticism. There are so many folks out there who want to review us now-like we are a final product on the market-and it's just not realistic. We have made it very clear that we are an early stage project and that we turned to Kickstarter to take us from functional prototype to OUYAs in the living room. This has been public for just one week. We'd love to fast forward too, but we can't. For now, we are just going to stay the course: We are laser focused on delivering the best possible game experience on OUYA. We aren't going to let a handful of naysayers distract us from the army of nearly 40,000 backers cheering us on. We want to make them proud.
+
+Despite all this, we've heard reports that you're looking for even more funding. Is that correct? What will this additional funding enable?
+Totally untrue. We've been approached many times in the last week, of course, and told everyone we are totally focused on getting our support from Kickstarter. We've issued a statement correcting that and think that we've tracked down the article that misquoted me. We are dealing with a time difference though, so it may take some time to get it updated.
+
+How much money do you expect it will cost to bring the final product to market?
+More backing enables us to make more consoles, and to provide better support to game developers.We crunched the numbers before we went to Kickstarter and felt like the $950K would get us from functional prototype to finished product. More backing enables us to make more consoles, and to provide better support to game developers. More support for game developers, means more games.
+
+Where will these consoles be produced? Have specific production facilities been located?
+We can't answer this yet. [Julie directed us to the following statement.]
+
+We've been talking to some of the leading ODMs. They have vetted our plans and are bidding on our business. We are very close to picking a partner to manufacture our console and controllers. Nvidia is working closely with us.
+
+Of course all the pre-sales thus far have been online, but is there a plan for some presence at retail as well?
+We've already started conversations with both on and offline retailers.First I want to make sure that folks understand that our Kickstarter campaign was not a pre-sell effort. This wasn't a marketing type move. We absolutely needed Kickstarter to raise the money to finish the product. We also knew that Kickstarter would allow us to engage in a direct conversations with developers and future customers. We've only been on Kickstarter for a week but we are already using that feedback to inform and improve our efforts.
+
+We've already started conversations with both on and offline retailers and are happy to report that they are excited about what we are doing.
+
+You posted on Kickstarter that you're working with NVIDIA to "maximize" the performance of the Tegra 3. Can you give us some idea of what we might expect?
+We've had a lot of questions about this, people asking whether or not Tegra 3 could handle the types of games that they want to play and we've been directing them to the Tegra 3 demo from NVIDIA.
+
+
+People familiar with the Tegra 3 in today's mobile devices need to remember that we won't have to balance (and trade) power to increase battery life. So we can crank up the performance of these chips.
+
+We've had several meetings with Nvidia in the last couple of weeks in which we've discussed how we maximize the Tegra 3. They are helping us with circuitboard design, balancing power and other considerations, and squeezing the most out of these chips.
+
+Can common smartphone hardware really deliver graphics on a 1080p HDTV comparable to an Xbox 360 or PS3? Or, is it that the new gameplay experiences delivered by smaller developers will make up for that?
+This hardware absolutely can deliver great graphics, solid enough for an emotionally immersive, AAA experience. We've seen core game developers express great interest in developing for OUYA. Many are watching the consumer demand, and know that we can support their games in a high-quality way. See the Tegra 3 demo.
+
+Meanwhile, we do think that a single developer or small team can do extraordinary things – we can't wait to see the creative surprises these independent developers have in store for the gamers who get an OUYA.
+
+A big question on the minds of many is "what will the games be like?" What are some of the most recognizable developers that you have lined up?
+We won't be on the market until 2013, and we've only been in the public consciousness for a week but if there is one thing we know it's that gamers want our roster! But that's not something we're prepared to share at this point. The interest in OUYA has inspired a lot of devs to reach out to us with existing content and new ideas and we are trying to get back to each and every one of them. We owe a lot of responses right now, so we hope that they will be patient.
+
+We specifically didn't announce a launch slate of games. We want our launch slate to feel fresh, and we feel it's a bit early to go out with everything now.We specifically didn't announce a launch slate of games. We want our launch slate to feel fresh, and we feel it's a bit early to go out with everything now. That said, in our most recent Kickstarter update, Meteor, the maker of Hawken (a great-looking upcoming free-to-play mech game), pledged that they're also coming to OUYA. Pretty cool stuff.
+
+The potential is limitless: We know that game makers will make exciting new AAA content for OUYA, including great games for core gamers. And don't forget, we've got a lot of support from the development community already voiced their support of OUYA. Brian Fargo, who is at work on Wasteland 2. Notch Persson, maker of Minecraft, was very generous with his Kickstarter backing on day one. And, of course, Adam Saltsman, said himself how great Canabalt would be on OUYA in our video. Rest assured, we will continue to reach out to the best developers in the world and work diligently to bring the best game content available to our platform.
+
+What sort of changes are you expecting to be made to make a game suitable for the Ouya? The free-to-play model doesn't seem like a perfect fit for every genre.
+When we say free-to-play, we'd also include free demos or early levels of a game, so we are confident that while not every game will use in-game items, every game can offer some aspect of its gameplay for free.
+
+Will there be any app curation or approval process? Can anyone push any game or app to the console?
+Yes, there will be approval and curation – as is standard on other Android platforms today.
+
+Last question: why should gamers trust you with their $99?
+Because, while we did catch people off guard when we unveiled our concept last Tuesday on Kickstarter, we do know that this is completely doable. We have a great team, who are putting their lives into making this happen. The cost, the tech, the approach -- we've done our homework and talked to some of the best minds in tech and games (folks we are lucky to count as developers and investors) and we know this can be done.
+
+

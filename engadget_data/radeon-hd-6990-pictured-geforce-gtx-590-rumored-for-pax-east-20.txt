@@ -1,0 +1,6 @@
+
+ 
+Multiple cores are old hat, particularly in the GPU world where you can have hundreds of simultaneous processing units working in concert, but multiple GPUs on the same PCB, that's still exciting territory (not least because of the crazy thermal and power requirements that go with it). AMD and NVIDIA are set to clash horns on this field of battle once again, fishing for mindshare as much as they are for high premium sales, with the Radeon HD 6990 and GeForce GTX 590, respectively. The former has already slipped out of the shadows of mystery to reveal a size slightly longer than an A4 sheet of paper, while the latter is being rumored for an unveiling at the PAX East 2011 gamer gathering. Expected GTX 590 specs include 1,024 total CUDA cores, 3GB of onboard RAM with dual 384-bit memory controllers, and three DVI outputs for some single-card 3D Vision Surround gaming. This year's PAX East is kicking off on March 11th and AMD is also looking very close to launching its part, so you should need no more than a couple of weeks' worth of patience before everything about the latest and greatest from both camps is known.
+      
+
+ 

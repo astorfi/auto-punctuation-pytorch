@@ -1,0 +1,15 @@
+
+ 
+
+Adobe Lightroom is one of the most popular image archive tools on the market, and beginning today, iPad-toting photogs now have an iOS app for their DSLR, smartphone and even tablet pics (gasp!) to call home. The companion application, Lightroom mobile, brings much of the desktop version's functionality to your portable slate. The touch-friendly interface, which supports both portrait and landscape orientations, swaps mouse clicks for taps and swipes. Flick up or down to pick or reject images, for example, or tap twice to cycle through metadata. Any changes you make to an image in the app will be pushed to the cloud and out to any other Lightroom apps that you've signed into. Similarly, if you edit an image on a desktop or laptop (which you'll want to do before making prints, since the iPad's display isn't calibrated), your changes will appear in Lightroom mobile within a few seconds.
+
+
+
+
+
+
+Lr mobile uses Smart Previews to push compressed raw images to your device. Shots are scaled down to 2,560 pixels at the longest end, so they're roughly 1-2 megabytes in size. Untouched RAW frames are left on your desktop or a server, so don't worry about filling up your iPad with a hundred or so full-size DNGs. The app offers the same editing presets as you'll find in Lightroom 5 (you need to download the 5.4 update before getting started with mobile). You can also tweak settings -- such as color temperature, exposure, highlights and clarity -- individually. Touch comes into play with editing shots as well. You can tap to select a white point or pull up the untouched version at any time by tapping the screen with three fingers. Images sync over WiFi, or, if you've been blessed with an unlimited data plan, you can use a cellular connection as well. The app is available today for iPad 2 or later running iOS 7 or higher. While it's free to download, you'll need a Creative Cloud subscription that includes Lightroom to take full advantage.
+
+
+
+ 

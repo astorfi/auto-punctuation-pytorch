@@ -1,0 +1,74 @@
+
+If you told us Acer was coming out with an innovative new take on the Windows 8 convertible, we'd probably laugh in your face. After so many months of evaluating slidable, twistable, bendable and detachable machines, we'd (hopefully) be forgiven for believing we'd seen every possible form factor. The Aspire R7 proves that we were wrong, and we're actually kind of glad. With a 15.6-inch display sitting in a unique, flexible "Ezel" hinge, this device lets you switch between four modes, and the panel can even lie nearly flat above the keyboard like an all-in-one desktop. Oh, and Acer switched the positions of the keyboard and touchpad, a setup that definitely takes some getting used to.
+
+
+Though the R7's form factor sets it apart, it offers the same specs as many Windows 8 convertibles: you get a 1080p screen, a Core i5 processor and 6GB of RAM for $1,000. So does the R7's appeal hinge on its distinctive design? Follow us past the break to find out -- we promise the bad jokes stop here.
+
+
+
+
+Look and feel
+Our review photos are pretty telling: there are so many ways to look at this machine. Like the Lenovo IdeaPad Yoga 13, Acer's notebook works in four different modes thanks to an adjustable (and flippable) screen: notebook, Ezel, display and pad modes. But more than the different use cases, it's Acer's so-called Ezel hinge that begs to be photographed from all angles. It lets you extend the display over the keyboard at various heights, from a slider-like angle to hovering almost flat above the chiclet keys. This mechanism is clearly well-made; there's not a hint of creakiness when you move the display through its full range of positions. And the R7 is a good-looking machine, too, thanks to a tasteful shade of silver and the Ezel's brushed-aluminum finish.
+
+There are two real sweet spots for using the Aspire R7. The first is with the display pushed forward so it's hovering over the keyboard, a bit like a slider device. So long as you're fine using the touchscreen instead of the touchpad, this position is great for browsing the web, composing emails and playing games on the sizable screen. Secondly, with the panel flipped backwards to face away from the keyboard, you have an ideal setup for watching movies and sharing presentations.
+
+
+The two other positions are, quite frankly, much less comfortable. With the screen locked in its hinge so the R7 looks like an average laptop, you have access to both the touchpad and the keyboard, but the touchpad is a reach (literally -- and we'll expand on that in the section below). There's so much empty space on the large deck that it feels like Acer is missing something; it's pretty clear the company doesn't envision people using this device like any old notebook. One reason for the free space on the deck is the tablet mode: push the display forward, and it will lie almost flush with the keyboard below. "Tablet mode" seems a bit facetious, though; 5.29 pounds isn't too comfortable in the hands, at least not for very long. In fact, the R7's large footprint has a few drawbacks. In addition to making for a very hefty slate, it's too weighty to compete with Ultrabooks, and it's too big to stuff in most airplane seatback pockets.
+
+There are two real sweet spots for using the Aspire R7: Ezel and display mode.
+
+Allow us to touch on the more cut-and-dried details for a moment: the left edge of the R7 sports Acer's new converter port for connecting displays, an HDMI port, two USB 3.0 connections and a mic-in / headphone jack. The right side is home to a full-size SD card slot, a USB 2.0 port, a volume rocker, the power button, the DC-in jack for the AC adapter and a Kensington lock slot. It's a pretty comprehensive selection, but we know some will bemoan the lack of an optical drive. Other notable hardware features include the Windows 8 Start button, which sits below the display and a set of bottom-mounted speakers.
+
+Keyboard and touchpad
+We usually tackle the keyboard before evaluating a device's touchpad, but since Acer's switched things around on the R7, we'll follow suit and start with the Elan pad. And to really kick this section off right, we have to consider Acer's thinking in placing the trackpad above the keyboard. While the company says having the keyboard at the front edge of the deck -- closer to users' hands -- makes for a better typing experience, the touchpad's position also allows the display to extend forward and lie almost flat for use in tablet mode. It may have been a necessary design choice, but there's no denying that it feels strange.
+
+If you, like us, prefer the physical clicker over a less-reliable finger when tapping or selecting small on-screen items, you'll find yourself reaching for the R7's touchpad quite a bit. This is both uncomfortable -- you'll have to stretch your hand much farther than you're used to -- and inconvenient if you're using the machine in Ezel mode, since you'll have to push the screen back to access the trackpad. As for the touchpad itself, it works well enough, provided your hands don't accidentally brush against a key or two. Essentially, you have no palm rest when using it, which is a huge ergonomic failure. If Acer was trying to minimize the importance of the touchpad, we almost think the company should have left it off altogether. That would be quite a statement, right?
+
+
+The Aspire R7's island-style, backlit keyboard, while not outstanding, isn't quite so frustrating to use. It's slightly recessed, and though it offers sufficient travel, the chiclets themselves are too close together. When we tried a few typing tests, our accuracy suffered due to hitting adjacent keys several times. We wish Acer took better advantage of the ample room on the deck to make a more comfortable layout; there's a good deal of space on either side of the keyboard, after all. On the plus side, keys aren't dramatically undersized, and they offer a satisfying amount of feedback.
+
+Display and sound
+The 15.6-inch, 1080p touchscreen is great for watching Netflix and surfing the web. Colors look accurate and text is crisp, just as it should be. Thanks to IPS technology, the LED-backlit display offers good viewing angles. From the far left and right of center, we had no trouble making out images. Of course, the adjustable screen helps to combat glare, too. As a touchscreen, this panel doesn't disappoint either. It registered our swipes and taps flawlessly.
+
+Audio gets plenty loud on the R7, thanks to four speakers and Dolby Home Theater v4. On the downside, music doesn't sound especially rich; it comes through slightly tinny and muffled, as it does on most machines. Acer says the audio channels automatically reverse when you switch modes on the R7, and indeed sound quality seems pretty consistent regardless of whether we're in laptop, tablet or Ezel mode.
+
+Performance and battery life
+With an Ivy Bridge Core i5-3337U processor clocked at 1.8GHz, along with 6GB of RAM, the R7 is a capable daily driver. It runs a 500GB, 5,400RPM hard drive with 24 gigs of solid-state storage rather than a full SSD, so it falls behind much of the pack on benchmarks such as ATTO, where its read speeds maxed out at 117 MB/s and writes peaked at 115 MB/s. Similarly, you'll note the lack of an SSD when booting the system up: it takes about 21 seconds, which does verge on frustrating.
+
+    PCMark7 3DMark06 3DMark11 ATTO (top disk speeds)     Acer Aspire R7 (1.8GHz Core i5-3337U, Intel HD 4000) 4,034 4,478  E1,126 / P631 / X213
+
+  117 MB/s (reads); 115 MB/s (writes)     Samsung ATIV Book 7 (1.8GHz Core i5-3337U, Intel HD 4000) 4,418 4,045  E1,081 / P600
+
+  626 MB/s (reads); 137 MB/s (writes)   ASUS Transformer Book (1.9GHz Core i7-3517U, Intel HD 4000) 4,414 3,840  E924 / P512 / X177
+
+  482 MB/s (reads); 317 MB/s (writes)   Toshiba Kirabook (2.0GHz Core i7-3537U, Intel HD 4000) 5,275 5,272  N/A
+
+  553 MB/s (reads); 500 MB/s (writes)   Acer Aspire S7 (1.9GHz Core i7-3517U, Intel HD 4000) 5,011 4,918 E1,035 / P620 / X208 934 MB/s (reads); 686 MB/s (writes)   MSI Slidebook S20 (1.8GHz Core i5-3337U, Intel HD 4000) 4,043 3,944  E1,053 / P578
+
+  484 MB/s (reads); 286 MB/s (writes)   ASUS TAICHI 21 (1.9GHz Core i7-3517U, Intel HD 4000) 4,998 4,818 E1,137 / P610 / X201 516 MB/s (reads); 431 MB/s (writes)   Microsoft Surface Pro (1.7GHz Core i5-3317U, Intel HD 4000) 4,673 3,811 E1,019 / P552 526 MB/s (reads); 201 MB/s (writes)   Lenovo IdeaPad Yoga 13 (1.7GHz Core i5-3317U, Intel HD 4000) 4,422 4,415  E917 / P572
+
+  278 MB/s (reads); 263 MB/s (writes)   Dell XPS 12 (1.7GHz Core i5-3317U, Intel HD 4000) 4,673 4,520 N/A 516 MB/s (reads); 263 MB/s (writes)  Synthetic tests aside, the Aspire R7 runs smoothly and quietly, effortlessly handling several tabs in one browser, music streaming on Spotify and apps running in the background. An integrated Intel HD Graphics 4000 GPU is on board, which should accommodate casual gaming with titles downloaded from the Windows Store.
+
+     Battery life
+
+      Acer Aspire R7 4:44   Acer Iconia W700 7:13   Samsung Series 9 (13-inch, 2012) 7:02   MacBook Air (13-inch, 2012) 6:34 (OS X) / 4:28 (Windows)   Dell XPS 14 6:18   Sony VAIO T13 5:39   Lenovo IdeaPad Yoga 13 5:32   Dell XPS 12 5:30   Samsung Series 5 UltraTouch 5:23   ASUS Zenbook Prime UX31A Touch 5:15   ASUS Zenbook Prime UX51Vz 5:15   Toshiba Satellite U845W 5:13   Toshiba Kirabook 5:12   Toshiba Satellite U845 5:12   Acer Aspire Timeline Ultra M3 5:11   Toshiba Satellite U925t 5:10   Lenovo ThinkPad X1 Carbon 5:07   Acer Aspire Timeline Ultra M5 5:05   Samsung ATIV Book 7 5:02   ASUS Transformer Book 5:01 (tablet only)   Lenovo ThinkPad X1 Carbon Touch 5:00   Sony VAIO Duo 11 4:47   Acer Aspire S5 4:35   MSI Slidebook S20 4:34   ASUS Zenbook Prime UX21A 4:19   Acer Aspire S7 (13-inch) 4:18   Acer Aspire S3 4:11   Lenovo ThinkPad Twist 4:09   HP Spectre XT TouchSmart 4:00   Vizio Thin + Light (14-inch, 2012) 3:57   ASUS TAICHI 21 3:54   Microsoft Surface Pro 3:46  Acer says the R7 is good for up to four hours of battery life, but we got a slightly better result on our video rundown test. With WiFi on, brightness set to 65 percent and a video playing on loop, the machine lasted four hours and 44 minutes. We wouldn't call that runtime impressive, but it's hardly surprising given the large, power-sucking touchscreen.
+
+Software and warranty
+Acer piles on its full suite of proprietary programs, including AcerCloud, Acer Crystal Eye and Acer Screen Grasp. There are plenty of third-party programs here as well: Norton Online Backup trial software is pre-loaded, as is the game Cut The Rope and the app Social Jogger. As always, we took bigger issue with the incessant pop-ups rather than with the bloatware. Definitely disable the McAfee and Acer Recovery Management notifications to save a bit of sanity.
+
+The Aspire R7 comes with a one-year limited warranty, which covers parts and labor.
+
+Configuration options and the competition
+For now, at least, Acer is offering only one configuration of the R7, available through the company's website and Best Buy. For $1,000, you get a Core i5 Ivy Bridge processor, six gigs of RAM and a 500GB hard drive with an extra 24GB of solid-state storage. When we first saw the R7 at Acer's press event, though, the company said that a Core i7 option would be available. Could that model be delayed to make way for Intel's fourth-gen Haswell chip? Acer's certainly not saying, but the computer maker will likely have some products packing that new silicon at Computex next week. (Stay tuned for that!)
+
+For a gadget that spans the notebook, tablet and all-in-one categories, it's fairly impressive.
+
+If the Aspire R7's design is a tad too adventurous for your tastes or you simply like to comparison-shop, you'll want to check out these alternatives. If portability isn't a concern, you may like the Dell XPS 18, an 18-inch all-in-one with foldout stands that transform it into a gigantic tablet. Pricing starts at $900, with processor options ranging from a Pentium chip to a Core i7 CPU. You could always go the Ultrabook route and pick up the Lenovo IdeaPad Yoga 13, which rivals the R7 in its transformation tricks and sports a lovely, crisp IPS display. If that machine piques your interest, though, you may want to wait for a possible Haswell refresh. And there's also the MSI Slidebook S20, though the adjustable display doesn't make up for subpar build quality and a cramped typing experience.
+
+Wrap-up
+More Info Acer intros Aspire R7, a laptop with an adjustable display like an all-in-one Acer unveils P3 Ultrabook convertible Acer brings options galore to new Aspire V5 and V7 laptops (hands-on)If the R7 weren't well-built, it would appear to have a major identity crisis. But, happily, this machine is a success. Offering an innovative transforming design, a nice 1080p touchscreen and solid performance for $1,000 is no small feat. The device is hardly perfect, but for a gadget that spans the notebook, tablet and all-in-one categories, it's still fairly impressive.
+
+So should you snatch this guy up? A few things give us pause: the imminent arrival of Intel's Haswell processors, for one, and the fact that this relatively heavy machine is unlikely to replace your slate or your desktop. And call us old-fashioned, but we still can't quite get over the oddly placed touchpad. Finally, the cramped keyboard could be a dealbreaker for some. If those caveats don't deter you, though, this machine offers solid specs and build quality for the money.
+
+Zach Honig contributed to this review.
+

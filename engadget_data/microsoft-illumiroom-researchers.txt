@@ -1,0 +1,13 @@
+
+Since we saw Illumiroom at CES in January, the research has come quite a ways. But while it's still a spectacular technology display, don't look for it to pop up in any Xbox announcements in the near future. In fact, Microsoft Research's Hrvoje Benko and Brett Jones told us during a interview that while they have Illumiroom technology working well at this point, they're not likely to even demo it to the public until July at Siggraph.
+
+
+That's not to say that you're not going to want it. The researchers showed in detail exactly how it works: they use a Kinect to scan your living room, then project a series of "illusions" onto it with a wide-screen projector, getting the colors just right using a technique called "radiometric compensation." The projector and Kinect can be mounted in any convenient spot in the room, like the ceiling or a table. While the technology can be used with other forms of entertainment, researchers concentrated on gaming, since they're able to generate source material that works well with the effects. Some of those illusions include "focus," which displays special effects around the images, "segmented focus," to extend the display to portions of the living space (requiring extra material to be generated), and "appearance," changing the look of your room by giving it a cartoon appearance, for instance. Despite the still-early phase of the research, it's definitely whetting our appetite for more -- and you can see an interview with the researchers, along with a full raw video of the presentation after the break.
+
+
+
+
+
+
+
+ 

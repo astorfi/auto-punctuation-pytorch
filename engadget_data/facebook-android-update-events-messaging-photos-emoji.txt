@@ -1,0 +1,5 @@
+
+ 
+ If you were wondering what features would be on the way after Facebook ditched pre-Froyo Android support for its app your questions have been answered. This revision lets users easily create events from their mobiles, share photos quicker and annoy their friends across platforms thanks to the kind of emoji iOS users have been annoying each other with for ages. In the screenshot above you see the new event creation pages and messaging screen where friends can toss in the icons or a picture while chatting privately, although updating to v1.9.8 will require a manual approval since it also seeks permission to obtain your location via coarse network-based methods. Assuming you're already down with Facebook's Open Graph-enabled tendrils snaking their way throughout your digital life (and, as an existing user already allowed it access to precise GPS-based location data) that's probably not too much of an issue, hit the Google Play link below to upgrade.
+
+

@@ -1,0 +1,5 @@
+
+ Sure, there's a number of uber-sensitive GPS receivers out there that claim to maintain your position whilst under a bridge, in a tunnel, or cramped up in some thick-walled office building, but a recent patent application is looking to implement a repeater system to ensure the best possible geo-location data regardless of your surroundings. Rather than utilizing a WiFi / GPS hybrid method to keep track of objects, the GPS repeater system would require multiple GPS antennae to be setup atop buildings and other obstructions, which would be wired to an indoor RF repeater system that directional receivers could tap into. The indoor segment would not only repeat the signals, but it would reportedly amplify them as well to ensure a solid connection. While we've no idea if this admittedly bright idea will ever go commercial, we can't help but wonder how folks like Jack Bauer already seem to be taking advantage of it.
+      
+
+ 

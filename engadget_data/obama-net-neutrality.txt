@@ -1,0 +1,33 @@
+
+President Barack Obama has been a proponent of net neutrality for what seems like ages, which explains why he just did what he did. In a just-posted YouTube video (and Medium post) and he's just asked the FCC do what online activists have been hoping for -- he's urging the commission to officially classify internet service under Title II of the Telecommunications Act, which would essentially mean internet access would be governed the same way telephone service is. Doing so would also mean the potentially hairy legal loophole that could give rise of prioritized service and online fast lanes wouldn't be an issue anymore, either. Huzzah! As the president notes in that brief video address (which you can peek at after the jump) though, the FCC is an independent body and he can't make them do anything. It's on Chairman Tom Wheeler and his ilk to take a stand, though whether or not they will is still up in the air.
+
+
+
+
+But let's back up for a moment: why all the fuss about Title II? The juiciest, most pertinent bit lives in subsection 202, which states that common carriers (in this case, ISPs) wouldn't be able to "make any unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services." Not the densest legalese we've ever seen, but President Obama's breaks things down a bit more in a blog post -- if things go his way, ISPs won't be able to block access to legal content, create so-called "slow lanes" or intentionally manipulate data speeds on a whim. Since sunlight is the best disinfectant, he's also pushing for greater transparency for things like peering agreements (like when Netflix cut connectivity deals with Comcast and more), which have the potential to get a little too fraught for regulators' liking. Long story short, ISPs would start to resemble those vaunted "dumb pipes" many of us have been clamoring for, though AT&T once argued that not even a Title II reclassification would be enough to keep providers from prioritizing some customers over others.
+
+While net neutrality advocates have a small victory to celebrate, we're starting to hear from service providers that are definitely less than pleased. Consider this tidbit from a new post on Verizon's Public Policy blog:
+"Verizon supports the open Internet, and we continue to believe that the light-touch regulatory approach in place for the past two decades has been central to the Internet's success. Reclassification under Title II, which for the first time would apply 1930s-era utility regulation to the Internet, would be a radical reversal of course that would in and of itself threaten great harm to an open Internet, competition and innovation."
+
+AT&T Senior Executive Vice President Jim Cicconi puts it a little more bluntly:
+
+"Today's announcement by the White House, if acted upon by the FCC, would be a mistake that will do tremendous harm to the Internet and to U.S. national interests. It is a complete reversal of a bipartisan policy that has been in place since the Clinton Administration-namely, to treat Internet access as an information service subject to light-touch regulation."
+
+Comcast Executive Vice President David L. Cohen echoed those sentiments (even using the specific phrase "radical reversal" like Verizon), but noted his support for another possible approach:
+
+"Comcast fully embraces the open Internet principles that the President and the Chairman of the FCC have espoused -- transparency, no blocking, non-discrimination rules, and no "fast lanes", which is the way we operate our network today. We continue to believe, however, that section 706 provides more than ample authority to impose those rules, as the DC Circuit made clear."
+
+Time Warner CEO Rob Marcus couldn't help but either the fray either.
+
+"Time Warner Cable remains committed to an open Internet, but we disagree with the President's statement that an open Internet can only be achieved by reclassifying broadband as a public utility. Regulating broadband service under Title II, as the President proposes, will create unnecessary uncertainty, lead to years of litigation and threaten the continued growth and development of the Internet."
+
+Needless to say, not a single major internet provider is pleased with the President, and why should they be? A step toward reclassifying the internet as a public necessity is meant solely to improve people's lives, not pad some corporate balance sheets. We're still waiting to see what other providers will say on the record (even if it's all getting a little repetitive), but for now, FCC Chairman Tom Wheeler has weighed in on President Obama's push too.
+
+"Like the President, I believe that the Internet must remain an open platform for free expression, innovation, and economic growth. We both oppose Internet fast lanes. The Internet must not advantage some to the detriment of others. We cannot allow broadband networks to cut special deals to prioritize Internet traffic and harm consumers, competition and innovation. As an independent regulatory agency we will incorporate the President's submission into the record of the Open Internet proceeding."
+
+Wheeler goes on to note that millions of citizens have weighed in on the Notice of Proposed Rulemaking regarding net neutrality since May, and added that the commission's been working to figure out exactly which approach would best preserve the sanctity of the internet as we know it. Naturally, it's been tricky: Title II reclassification aside, the other option was to use Section 706 of the Telecommunications act to essentially protect the internet, though a federal appeals court in Washington D.C. didn't think much of its potential usefulness. Neither approach is perfect on its own (Wheeler points out that " Title II brings with it policy issues that run the gamut from privacy to universal service to the ability of federal agencies to protect consumers, as well as legal issues ranging from the ability of Title II to cover mobile services"), so the commission has been exploring hybrid approaches too. The big takeaway for now? It'll be a while before anyone agrees on a course of action, even longer before something substantive actually happens, and the big internet providers will moan every step of the way.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

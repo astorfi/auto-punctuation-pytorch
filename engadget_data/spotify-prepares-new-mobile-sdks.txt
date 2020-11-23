@@ -1,0 +1,4 @@
+
+Spotify's been busy lately, what with its new iOS SDK and recent purchase of Echo Nest. As it further shifts its focus toward mobile and the web, the company will stop accepting submissions for its App Finder platform. For those who aren't familiar, Spotify launched an API in 2011 that allowed developers to publish apps inside the desktop client. Moving forward, the streaming giant plans to release several new mobile SDKs and expand its web API with additional features over the next few months. So users should still have access to their favorite Pitchfork lists, just on more devices. But what about apps that have already been published? Spotify says as long as they're using the latest API 1.x framework, they'll remain available. It's important to note, however, that they will only receive critical updates from this point on.
+
+

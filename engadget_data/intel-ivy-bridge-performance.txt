@@ -1,0 +1,5 @@
+
+ 
+ So, there's still a little while to go before Intel gives Ivy Bridge a full unveiling, with official benchmarks, pricing and all those trimmings. But in the meantime, the BBC has detailed just how different this new architecture is compared to 32nm chips like Sandy Bridge and also AMD's coming Trinity processors. Most of this stuff we already knew -- like the fact that Intel has switched to a 3D or 'tri-gate' transistor design -- but what's new is a direct and official boast about performance. According to Kirk Skaugen, Chipzilla's PC chief, we can expect Ivy Bridge to deliver "20 percent more processor performance using 20 percent less average power." Now, judging from leaked desktop and laptop benchmarks, this broad-brush claim masks some very different realities depending on what type of CPU or GPU workloads you want throw at the chip, so stay tuned for more detail very soon.
+
+

@@ -1,0 +1,10 @@
+
+When you call your enterprise "Hacking Team" you'd like to think you're pretty on top of that whole, well, hacking thing. Yet here we are, telling you about how the aforementioned organization has just seen 400GB of data pilfered from its servers, and put onto BitTorrent for all to see. Hacking Team is known for its controversial "Da Vinci" software that allows governments and law enforcement agencies to monitor encrypted communications such as email and Skype conversations, and collect evidence on citizens. It's fair to say it's not popular with journalists and privacy advocates.
+
+
+
+The leaked data are reported to include info such as emails, customer info, internal documents and source code. This puts the agencies or governments using the software at risk, if the source code contains vulnerabilities. Privacy researcher Christopher Soghoian has parsed some of the files, revealing that Hacking Team's former customers include (among others) South Korea, Kazakhstan, Saudi Arabia, Egypt, Chile, Oman, Lebanon, and Mongolia.
+
+Other documents reportedly show the company told the UN it had no business dealings with Sudan, yet an invoice among the leaked files suggests otherwise. Civil rights groups have repeatedly expressed concern about Hacking Team's software falling into the hands of oppressive governments, something the firm has stated it takes measures to avoid. The company's website is currently unreachable, and its Twitter account was hijacked at some point, too (though that looks to have been resolved). Given the amount of info leaked, more revelations are still coming to light. We've reached out for comment, but we're sure the company has a few high profile clients it'll need to tend to first.
+
+

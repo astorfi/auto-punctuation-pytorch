@@ -1,0 +1,13 @@
+
+The Intercept obtained the catalog of devices used by federal and local law enforcement to collect and monitor cell phone data. The tracking hardware -- including the infamous Stingray -- in the catalog is accompanied by its capabilities including, limitations, "planning factors," price and manufacturer. From handheld pieces of electronics that can track a few phones to boxes that can target as many as 10,000 unique cellphones the list is chilling reminder that even if you're not under investigation, you're being tracked if you're in the wrong place at the wrong time. 
+
+
+
+The publication obtained the list from a source within the intelligence world and it unearths dozens of devices that most were unaware of before today. Judges and privacy advocates have long asked for information about how many of these items work but have been thwarted by claims of national security. Plus, law enforcement agencies sign NDAs before purchasing a tracker. Many local law enforcement agencies purchase these items with Department of Homeland Security grants then use them for crimes that have nothing to do with stopping terrorism.
+
+
+The technology found in the catalog is used to spoof cell networks like AT&T, Sprint, T-Mobile and others. In other words, a machine creates a fake cell tower that phones connect too and the device tracks the data that is sent between the phone and device. The information can be used to locate an individual, eavesdrop on calls and text messages, and even extract media from the phone.
+
+In addition to being used for tasks that have nothing to do with the reason for which they were purchased, the dragnet solution that many of these devices offer violates fourth amendment search and seizure rights. Because judges are unable to determine the scope of capabilities of the technology, many believe search warrants issued that use this type of technology can be overly broad. At least now these judges can see just how powerful these pieces of hardware are before unleashing them upon the public. 
+
+

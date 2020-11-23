@@ -1,0 +1,6 @@
+
+ 
+We've always said the native Gmail app is one of the best parts of Android, and it just got even better: it now supports Priority Inbox, has a "show quoted text" button, and features a floating message actions toolbar like the browser-based mobile Gmail webapp. The bigger news, though, is that Google's releasing Gmail directly to Android Market, where it'll be a separate download that can be revved with new features independently of Android itself. That's a pretty great move, as anyone still waiting for a carrier-approved Froyo build can attest, but there's irony afoot: the new Gmail won't run on anything less than 2.2. Wah-wah.
+      
+
+ 

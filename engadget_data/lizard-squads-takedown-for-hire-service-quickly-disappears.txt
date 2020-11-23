@@ -1,0 +1,16 @@
+
+
+One of the oldest sales tactics in the book is using a freebie to get you hooked before slapping you with the bill for the second. That's why the audacious holiday season takedowns of both the PlayStation Network and Xbox Live were, apparently, a marketing stunt. Lizard Squad, the group that claimed responsibility for both attacks turned around and launched Lizard Stresser, a service that let anyone fire off a DDoS broadside, so long as they pay a fee. The joke may be on them however, since the tool is already down (the group claims this is so it can switch servers), and while the website was live it even became a target for exploits.
+
+
+
+For instance, a $2.99 payment via PayPal or Bitcoin would buy an attack for 100 seconds a month, while $69.99 gets 30,000 seconds (more than eight hours) of a Distributed Denial of Service takedown. There's even an option for bulk-buy discounts, enabling you to save nearly $40 by purchasing a 30,000 second attack for five years. Signing up could be a bad idea though, since an exploit for its code was discovered that allowed security researcher Eric Zhang to dump usernames and ID numbers for anyone who had used the site. Zhang also claims the tool itself is a ripoff, with code copied from a similar site called TitaniumStresser.
+
+In an interview with The Daily Dot, a figure called Dragon that claims to represent the group says that the Sony and Microsoft takedowns were a marketing stunt, and that the group is now hoping to earn money. However, as both The Dot and The Guardian have added, that stance contradicts previous statements from the group, saying that the actions were all done for the "lulz." As Brian Krebs points out, however, the attacks paused after Kim Dotcom gave them the equivalent of $300,000 in vouchers, so any motives can't be easily divined. Dragon also claims that Lizard Stresser would be the group's last action before its members vanished "off back to the caves" from where they originated -- a move that may not have come soon enough, since at least one of them has apparently been arrested. 
+
+Currently only accepting bitcoin, paypal is coming soon: http://t.co/5JaolEGBUX
+- R.I.U. Lizard Squad (@LizardMafia) December 30, 2014Stresser is down while we switch servers
+
+- R.I.U. Lizard Squad (@LizardMafia) December 31, 2014Oh noes! What happened to lizardstresser? It's gone, just like 2014, and the LizardSquad. Happy New Year everyone!
+
+- briankrebs (@briankrebs) December 31, 2014

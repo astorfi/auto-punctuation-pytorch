@@ -1,0 +1,4 @@
+
+Netflix recently detailed some of the technological developments needed to transition from Silverlight to HTML5 streaming video in the browser, and in a notable turn one of the first companies on board is Microsoft. It's not that surprising since Microsoft has made it clear it's pushing other technologies going forward, but it's still a stark example of how much things have changed in recent years. Netflix's Tech Blog announced today that anyone running Internet Explorer 11 in the Windows 8.1 preview can visit Netflix.com today and try out HTML5-powered video streaming right now. Already available on ARM Chromebooks (pictured above), Netflix says Microsoft has implemented the Premium video extensions it's been working on to provide support for GPU-accelerated 1080p video, DRM and encryption without proprietary plugins.
+
+

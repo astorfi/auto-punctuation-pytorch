@@ -1,0 +1,18 @@
+
+ 
+That first traffic update was only the beginning -- Dash is announcing today its first proper software update to the Dash Express. Dubbed June08 (or v2.1), users now get three new trademarked names (among other things):
+
+FasterFind - uses SiRFInstantFix for acquiring GPS during startup, so your Dash Express is aware of its location much faster than before.
+MyRoute - your Dash Express learns your routes to common destinations and offers them up in comparison to its recommended routes (so you can see if your usual way really is faster).
+Search Along Route - pretty much what it says. Allows you to find points of interest en route without gumming up your destinations. This seems like the most useful new feature, behind the faster acquisition time.
+Road closure support - another self explanatory addition. If the Dash finds out a road is closed through Inrix or another means, it will completely black it out of your routes.
+Performance and UI enhancements - We gave it a short test, and things really did seem a bit snappier and cleaner looking. Icons are better polished, arranged, and rendered, and simple stuff like navigating menus or switching between 2D and 3D views is quicker.
+
+Still no way to quickly bypass the route selection screen (which is one of our bigger pet peeves), but as it's populating you can now make your choice, which will save you a bit of extra time. It's available for download via your Dash's WiFi this morning, and is free for all users. Videos of MyRoute and Search Along Route after the break.
+
+
+
+
+
+
+ 

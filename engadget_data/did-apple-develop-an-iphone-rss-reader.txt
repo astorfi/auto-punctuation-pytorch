@@ -1,0 +1,6 @@
+
+ 
+This one's interesting: why is there an active URL at reader.mac.com which seems to semi-clearly depict an iPhone using a web RSS interface, and clearly states "This application can only be viewed using the iPhone"? We don't know. We tried spoofing the iPhone user agent to no avail, so it looks like we'll have to wait another couple of days before we find out whether Apple's rolled out a web RSS reader for mobile Safari users, or whether this is all just a big tease. But man, this might almost be as good as the RSS button on that Samsung phone.[Thanks, Sean]
+      
+
+ 

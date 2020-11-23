@@ -1,0 +1,6 @@
+
+ 
+You heard it here first, folks. Google has just come out with the strident claim that the web browser in Android 2.2, aka Froyo, is the world's fastest for mobile devices. Having implemented the V8 JavaScript Engine that's already made an appearance in its desktop Chrome browser, Google's reporting JavaScript performance that's somewhere in the vicinity of two to three times better than what you can get from previous Android versions. We'll give this geek cabal some style points for the double equals sign up top, but will certainly be putting its bold assertion to the test in the very near future.
+      
+
+ 

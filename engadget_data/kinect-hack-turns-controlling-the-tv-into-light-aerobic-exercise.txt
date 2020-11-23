@@ -1,0 +1,7 @@
+
+ 
+Why idly click away at the remote control when you can stop what you're doing, stand up in front of the television, and gesticulate wildly for the same effect? Because it's cool, that's why! Our man Harishankar recently uploaded a YouTube video of himself doing just that, and it's a pretty sweet deal: his Kinect is connected to a Mac mini, which uses OpenNI to detect his skeleton, read certain gestures (punch up to increase volume, punch right or left to change channels, etc.) and send the info to a USB-UIRT box. The latter device, which many of you might have used in your own HTPC projects, connects to your computer's USB port and lets it receive and transmit IR signals. In this case, the computer is sending the gesture controls to the TV. Practical? Maybe not for most of us, but lots of fun nonetheless. Hit the source link to try it for yourself, but not before you peep the video of the thing in action after the break.
+ 
+
+
+ 

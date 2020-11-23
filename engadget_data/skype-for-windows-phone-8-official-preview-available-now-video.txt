@@ -1,0 +1,45 @@
+
+ Microsoft's rebuilt Skype app is now available to download for those early Windows Phone 8 shoppers. While we already took a tour of the new app last month, you're now able to do the same. New features include Skype contacts within the People Hub (and access directly from there), while you'll be able to login to the service with either your Microsoft or Skype account -- no option yet to merge the two. You will be able to send messages to anyone still using Messenger, but more importantly, receive both Skype calls and chat missives even when the app is whirring in the background. Incoming call notifications will appear on screen and its very own Live Tile will then notify you of any messages (though not calls) missed. 
+
+ This is still a preview of a final product, however, and some issues with incoming calls meaning it could tap into your cellular data connection even if WiFi is hooked up after the call is accepted. At the moment, incoming calls when the app is closed will only be delivered through audio, even if the other person is trying to send video. Similarly, if you exit the app during a video call, the stream will be cut short. There's also no ability to edit your phone contacts and there's some missing Windows Phone integration links on this early build. Hit up the source for a full list of the early drawbacks and if you're still in, the second source will send you to the download. We've also added our recent hands-on video after the break. 
+
+
+
+
+ 
+  Show full PR text   Skype Preview for Windows Phone 8
+   Today we have released a Skype (version 2.0) Preview for Windows Phone 8.
+
+   Two weeks ago, we announced that we were working hard on Skype for Windows Phone 8. Just like our bold new experience for Windows 8, the new Skype for Windows Phone will be fast, modern, and beautiful, while still delivering the best of what you've come to expect from Skype.
+
+   In this Preview, you'll get all of the Skype basics in the new, modern design along with many of the new features such as integration with the People Hub and a combined contact list with buddies from Windows Live Messenger. Additionally, you'll start receiving some call and message notifications - even when the app is closed and in the background.
+
+   Start by downloading the app now from the Windows Phone Store, and if you don't have Windows Phone 8 - be sure to check out the range of new devices here.
+
+   Keep in mind that this release is still in Preview state which means that the experiences are not yet final.
+
+   We would like to hear your feedback. Discuss what matters on Skype Support Network or just comment in this blog.
+
+   Features available in the Skype for Windows Phone 8 are:
+
+   Skype contacts in the People Hub.  Start your next Skype conversation straight from the People Hub. You can call or start a chat from there to any of your friends on Skype.  Login with Microsoft or Skype account.
+
+   You can now sign into Skype with either a Skype or Microsoft account, making it easier to connect with friends. You can merge your Skype and Microsoft accounts on our desktop applications.
+
+   Connect with Messenger buddies.  When you have logged in with your Microsoft account then you can talk with your friends regardless if they're on Skype or Messenger. You can merge your Skype and Microsoft accounts on the Skype desktop applications.
+
+   Always reachable.  You will now receive Skype calls and 1:1 chat messages even when the app is closed. Incoming call notifications and a Live Tile will notify you of missed conversations. The notifications work even when the device is locked.
+
+   Calls in background and call holding.  Skype calls continue even as you navigate to other apps on your phone. If someone calls you on your mobile number while you're on a Skype call, you can now put the Skype call on hold and switch between the calls.
+
+   Visual refresh.  A new fresh, modern design that puts the people and conversations that matter most to you front and center.
+
+   Favorite contacts.  Now you can select the most important people and add them to a dedicated Favorites screen.  Visual notification of call being held by remote party.
+
+   See when the person on the other end of the call puts you on hold.  Presence in contact list.
+
+   Skype for Windows Phone now shows presence in the contact list. Skype for Windows Phone has 2 presence states "Available" or "Invisible", legacy presence states are mapped to these.
+
+   As this is a preview release, then there are few known issues, which we are working hard to address.
+
+ 

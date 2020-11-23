@@ -1,0 +1,13 @@
+
+ 
+Ford has already shown it can tie the controls of Sync-enabled vehicles to the music and contacts databases of drivers phones and PMPs and though it may take time before our emotions can be detected, the next step is extending that connectivity to downloadable apps on those devices. Since Sync first debuted, the explosion of the App Store concept has meant nearly every smartphone owner is packing plenty of ways to access and use information from the internet, but without an easy way to interact with it while driving. Extending access to vehicle controls could lead to programs like Pandora or Google's turn by turn navigation letting users change stations with their existing stereo knobs, or listen to directions via the in-car system by simply updating their existing software. The first ones to get a crack at it? A few university students, check after the break to see what they came up with given just a few weeks to test system out.
+
+
+
+
+
+We sat in on a demo of two apps produced by University of Michigan-Dearborn students called SYNCCast and FollowMe, simple iPhone programs that enabled listening to internet radio and navigation, respectively. While navigating a queue of radio stations on your iPhone could be tricky via its own touchscreen while driving, the students were able to make their program connect via Bluetooth to the car stereo, and allow the driver to pick a station using either voice commands or the existing stereo knobs. FollowMe addressed the problems of caravan driving, once both drivers activate the program, it guides the second car to find the first -- even though it runs completely on the iPhone, once the app is activated all communication and control is done through the car's headunit.Other future possibilities devised by the students? Enabling apps to read RSS feeds or Twitter messages to the driver, all without taking eyes off the road for more than a moment. Of course, all of this means app developers may need to familiarize themselves with requirements of the in-car environment (pulling in video streams to the screen is fine, but once the car is in motion only video in the backseat can stay on) to meet manufacturer standards for safety as they will need to some additional approval before being released. With those wrinkles aside it seems like Ford's straightforward approach to enabling additional software will help keep its cars functionality up to date just as quickly as their drivers update their phones and/or the software on them.
+
+       
+
+ 

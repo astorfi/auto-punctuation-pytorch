@@ -1,0 +1,6 @@
+
+ 
+It'd be too easy to simply describe BlueStack's suddenly titillating software as Android's Parallels for Windows, but really -- why try to complicate things? Currently available only in test form, the program is designed to run a virtualized copy of Android atop a not-at-all-virtualized copy of Windows, and the implications could be far-reaching. According to a hands-on demonstration given to the folks at Slashgear, BlueStack's software enables Android and Windows to share utilities and drivers; in other words, you can print something within Android via your Windows print driver, or make a call in Android's Skype application via Microsoft's VoIP drivers. We're told that multitasking was smooth and succinct, and while there's no access to the Android Market, test builds are including Amazon's Appstore as an alternative. If all goes well, the company should let the code loose "later this year," but it's hard to say what kind of price tag (or stipulations) will be attached. Can't think of a good reason to have Android and Windows living harmoniously? Here's one. (Oh, and you're welcome).
+      
+
+ 

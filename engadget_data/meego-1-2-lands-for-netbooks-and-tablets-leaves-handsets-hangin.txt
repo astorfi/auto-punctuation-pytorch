@@ -1,0 +1,9 @@
+
+ 
+
+Just because Nokia has done everything short of taping a "Dear John" letter to MeeGo's mirror doesn't mean the OS is dead. In fact, Intel's Linux-based baby just got a refresh to version 1.2. So what's new this go around? Well, primarily it's under the hood stuff, like improved Atom support and bug fixes out the ying yang. New audio and networking stacks have also been added for A2DP streaming and HSPA+ support. The tablet UI that Intel was showing off in February is has arrived, to complement the standard netbook version and the in-car interface. Sadly, the handset edition was left out of this update. Those eager to dip their toes in the MeeGo water can download the latest version at the source link.
+
+[Thanks, Khan]
+      
+
+ 

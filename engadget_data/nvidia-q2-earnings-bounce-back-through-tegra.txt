@@ -1,0 +1,26 @@
+
+ 
+ NVIDIA's fiscal performance in its second quarter shows the rewards of patience in the mobile sphere. It just saw its profit double versus a glum first quarter to $119 million, even though the company only slightly edged ahead in revenue to $1.04 billion. In explaining the success, the company is quick to point to a confluence of events that all worked in favor of its bank account: a slew of Tegra 3 phones and tablets like the Transformer Pad TF300 made NVIDIA's quarter the brightest, but it could also point to a much-expanded GeForce 600 line on the PC side and the shipments of the first phones with NVIDIA-badged Icera chips. The graphics guru expects its revenue to climb more sharply in the heat of the third quarter as well -- between the cult hit Nexus 7 tablet and a role as a major partner for Windows RT, NVIDIA has at least a temporary license to print money.
+
+
+
+  Show full PR text   NVIDIA Reports Financial Results for Second Quarter Fiscal Year 2013
+  SANTA CLARA, CA -- (Marketwire) -- 08/09/2012 -- NVIDIA (NASDAQ: NVDA)
+  Revenue of $1.04 billion.  GAAP net income was $119.0 million, or $0.19 per diluted share. Non-GAAP net income was $170.4 million, or $0.27 per diluted share.  GAAP gross margin was 51.8 percent. Non-GAAP gross margin was 52.0 percent.  NVIDIA (NASDAQ: NVDA) today reported revenue of $1.04 billion for the second quarter of fiscal 2013 ended July 29, 2012.
+  "Our investments in mobile computing and visual computing are both paying off," said Jen-Hsun Huang, president and chief executive officer of NVIDIA. "Tegra has achieved record sales as tablets come into their own. Our GPU business made strong gains in a weak market, boosted by our breakthrough Kepler architecture. Looking ahead, we're optimistic, as our investments position us right at the center of the fastest growing segments of computing."
+ 
+                       (in millions except per   share data)  Q2 FY13   GAAP    Q1 FY13 GAAP    Q2 FY13   NON-GAAP    Q1 FY13 NON-GAAP      Revenue    $1,044.3      $924.9      $1,044.3      $924.9      Gross margin    51.8%      50.1%      52.0%      50.4%      Operating expenses    $401.1      $390.5      $342.5      $348.0      Net income    $119.0      $60.4      $170.4      $97.5      Earnings per share    $0.19      $0.10      $0.27      $0.16     Outlook
+  Our outlook for the third quarter of fiscal 2013 is as follows:
+  Revenue is expected to be between $1.15 billion and $1.25 billion.
+  GAAP and non-GAAP gross margins are expected to be flat relative to the prior quarter, at 51.8 percent and 52.0 percent, respectively.
+  GAAP operating expenses are expected to be approximately $390 million; non-GAAP operating expenses are expected to be approximately $350 million.
+  GAAP and non-GAAP tax rates are expected to be approximately 20 percent, plus or minus one percentage point, excluding any discrete tax events that may occur during the quarter, which, if realized, may increase or decrease our third quarter GAAP and non-GAAP tax rates. If the U.S. research tax credit is reinstated into tax law, we estimate our annual effective tax rate for the fiscal year 2013 to be approximately 16 percent.  We estimate depreciation and amortization for the third quarter to be approximately $57 million to $59 million. Capital expenditures are expected to be in the range of $30 million to $40 million.
+  Diluted shares for the third quarter are expected to be approximately 630 million.
+  Second Quarter Fiscal 2013 and Recent Highlights:
+  - Google announced that Tegra 3 powers its Nexus 7 tablet -- a fully-fledged tablet priced at just $199 -- which is the first device to run Jelly Bean, the latest version of Android.
+  - Microsoft announced that Tegra® is the processor powering the company's Surface for Windows RT tablet.
+  - Kepler drove market share gains in the notebook market as OEMs announced Kepler-based notebooks. Among the products announced were new notebooks from Apple, Samsung, Dell, HP, Asus, Acer, Lenovo, and Sony.
+  - At its third annual GPU Technology Conference, NVIDIA launched cloud computing technologies for consumers and enterprise customers, which represent new business opportunities for the company. These leverage original software and new Kepler™ features to deliver virtualized GPUs.
+ 
+     GAAP Quarterly Financial Comparison    (in millions except per share data)    Q2 FY13    Q1 FY13    Q/Q      Revenue      $1,044.3      $924.9      up 12.9%      Gross margin      51.8%      50.1%      up 1.7 p.p.      Operating expenses      $401.1      $390.5      up 2.7%      Net income      $119.0      $60.4      up 97.0%      Earnings per share      $0.19      $0.10      up 90.0%            Non-GAAP Quarterly Financial Comparison*    (in millions except per share data)    Q2 FY13    Q1 FY13    Q/Q      Revenue      $1,044.3      $924.9      up 12.9%      Gross margin      52.0%      50.4%      up 1.6 p.p.      Operating expenses      $342.5      $348.0      down 1.6%      Net income      $170.4      $97.5      up 74.8%      Earnings per share      $0.27      $0.16      up 68.8%     *Non-GAAP earnings excluded stock-based compensation, amortization of acquisition-related intangible assets, other acquisition-related costs, a contribution expense in the second quarter of fiscal 2013, and the tax impact associated with such items.
+ 

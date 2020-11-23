@@ -1,0 +1,5 @@
+
+ 
+ Is it possible to manufacture a sophisticated wireless-capable device entirely in the United States? That's vaguely the suggestion of Google's jet-black orb, launched last week at the search (and now hardware) giant's I/O event in San Francisco. Now, the Nexus Q is just dying to get undressed, and that's exactly what our iFixit friends have done, revealing each component's country of origin. Perhaps one of the most notable items, the Samsung 16GB moviNAND Flash Memory module, may have been made stateside (Austin, TX), but could also have been produced in Hwaseong, South Korea. Some parts, such as the Ethernet port (China) or optical-out connector (Japan) could only have been imported, as iFixit points out, though others are certainly domestic (a photomicrosensor made in California or Illinois). Ready to dive in yourself to verify those findings? You're not going to want to open this thing up on your own -- there's a bevy of capacitors inside, including one with output in the 400-volt range (a warning label alerts would-be trespassers). You can, however, poke around a bit more at our source link below.
+
+

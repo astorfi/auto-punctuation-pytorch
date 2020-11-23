@@ -1,0 +1,65 @@
+
+ SanDisk has added a little more detail to its latest iteration of embeddable flash storage, iNAND Extreme. Built through 19 nm process technology, the flash memory is geared towards portables like smartphones and tablets, with SanDisk mentioning both Android and Windows RT in the same breath. Capacities will range from 16GB to 128GB and it's apparently already a core part of NVIDIA's Tegra 3 reference designs -- and we all know quad-core processor deserve the best. The 128GB version is capable of up to 45 MB/sec write and 100 MB/sec read speeds. SanDisk also mentions a new pair of PCIe-based SSDs for enterprise. Up to five of the Lightning PCIe SSAs (200GB / 400GB) can be connected together in a single system, while SanDisk also offers up a caching option for Windows users. You just have to be willing to stump up some more cash for the company's own FlashSoft software on top of a $1,350 entry price. The full details on both are waiting right after the break.
+
+
+
+  Show full PR text   SANDISK USES WORLD'S MOST ADVANCED MANUFACTURING TECHNOLOGY TO PRODUCE FAST, HIGH-CAPACITY MEMORY FOR TABLETS, SMARTPHONES
+   iNAND Extreme provides up to 128GB of storage in industry-leading small packaging  iNAND Extreme to be used in key NVIDIA Tegra 3 reference designs
+
+   COMPUTEX, TAIPEI, Taiwan, June 5, 2012 - SanDisk Corporation (NASDAQ: SNDK), a global leader in flash memory storage solutions, today announced it is using the world's most advanced semiconductor manufacturing process to produce SanDisk's highest performing embedded memory products.
+
+   iNAND Extreme™ is now being built on SanDisk's 19 nanometer (nm)* process technology to enable the large-capacity, high-performance embedded NAND flash memory products that are ideally suited for high-end tablets and smartphones. Products running the Android operating system as well as the upcoming Microsoft Windows® RT version of the Windows® 8 operating system can benefit from iNAND Extreme capacity, performance and small size.
+
+   iNAND Extreme embedded flash memory can significantly improve performance for multitasking, web browsing, file transfer and image capture performance to produce a more enjoyable experience for smartphone and tablet users. iNAND Extreme comes in capacities ranging from 16GB to 128GB**. 128GB of memory is enough to store several HD movies and thousands of songs and photos.
+
+   At 19nm, the manufacturing technology used to build circuitry in the iNAND Extreme is incredibly small. For comparative purposes, the width of a sheet of paper is about 0.1mm or about 100,000nm, meaning that more than 5000 objects 19nm in size could fit across the edge of a sheet of paper.
+
+   iNAND Extreme will be used on reference designs for the NVIDIA® Tegra® 3 4-Plus-1™ quad-core processor as a recommended high performance storage device for high-end tablet and mobile devices using the latest operating systems.
+
+   "SanDisk is a key partner for us in showcasing Tegra 3's capabilities," said Rene Haas, general manager, Notebook Products, NVIDIA. "Just as Tegra delivers great performance and battery life in a wide range of mobile devices, iNAND Extreme provides a high performance memory solution to help create a world-class user experience for tablets and mobile devices."
+
+   "SanDisk's technology and manufacturing expertise allow us to provide our OEM customers with the high-capacity storage that generates tangible benefits for consumers," said Dan Inbar, senior vice president and general manager, OEM Business. "We also work with leading software makers to optimize our memory for next generation operating systems, file systems and typical usage patterns. This adds to our ability to help mobile equipment makers build products that provide an outstanding user experience."
+
+   SanDisk's 128GB iNAND Extreme product comes in a highly competitive 12mm by 16mm package. The product conforms to the new e.MMC™ 4.5 specification and can achieve up to 45 megabyte per second (MB/sec) sequential write and 100 MB/sec read speeds***. The new generation of iNAND Extreme also more than doubles the random write performance of previous generations and significantly improves random read performance***. It has also been designed for optimal integration with file systems used by current and future generations of tablet and smartphone devices. Samples of the latest version of iNAND Extreme will be available to customers this month with general availability this summer.
+
+   The SanDisk iNAND product family includes an embedded storage solution for every performance segment and capacity point in the mobile market. SanDisk iNAND™ family includes iNAND™, iNAND Ultra™ and iNAND Extreme products.
+
+   About SanDisk  SanDisk Corporation (NASDAQ: SNDK) is a global leader in flash memory storage solutions, from research and development, product design and manufacturing to branding and distribution for OEM and retail channels. Since 1988, SanDisk's innovations in flash memory and storage system technologies have provided customers with new and transformational digital experiences. SanDisk's diverse product portfolio includes flash memory cards and embedded solutions used in smart phones, tablets, digital cameras, camcorders, digital media players and other consumer electronic devices, as well as USB flash drives and solid-state drives (SSD) for the computing market. SanDisk's products are used by consumers and enterprise customers around the world.
+
+   SanDisk is a Silicon Valley-based S&P 500 and Fortune 500 company, with more than half its sales outside the United States. For more information, visit www.sandisk.com.
+
+  aaa
+
+  Show full PR text    SANDISK LAUNCHES PCI EXPRESS-BASED PRODUCTS THAT DELIVER FAST, PREDICTABLE AND BALANCED PERFORMANCE FOR ENTERPRISE APPLICATIONS
+
+   COMPUTEX, TAIPEI, Taiwan, June 5, 2012-SanDisk Corporation (NASDAQ: SNDK), a global leader in flash memory storage solutions, today introduced Lightning® PCI Express (PCIe) Solid State Accelerator (SSA) cards designed to boost the performance of workstations and servers used in data centers, server farms and cloud computing environments.
+
+   The new SanDisk® Lightning PCIe SSA products can be added to workstations and servers to provide balanced, predictable performance for enterprise applications, delivering the ideal combination of speed, reliability and cost-savings. The cards provide rapid access to the most frequently used data and applications in order to more effectively manage heavy workloads. They are part of SanDisk's growing portfolio of solid state drive (SSD) solutions for the enterprise.
+
+   The new PCIe products from SanDisk address a wide variety of uses - from financial institutions analyzing and processing massive amounts of information around the clock; to social media and website providers whose customers demand a nearly instant response with every click of a mouse; to media content creators editing high-definition videos.
+
+   "SanDisk PCIe SSAs deliver balanced performance, speeding access to critical data in a simple and cost-effective way," said Greg Goelz, vice president and general manager, Enterprise Storage Solutions, SanDisk. "Enterprise businesses can now leverage a PCIe acceleration solution that combines SanDisk's leading NAND flash memory technology and its innovative controller design to offer the enterprise-grade reliability and scalability that our customers depend on."
+
+   Lightning PCIe SSAs offer SanDisk's proven enterprise SSD technology and feature an advanced controller using a parallel processing architecture to manage essential data protection and input/output (I/O) functions. This results in balanced performance as data is accessed, with little impact on central processor (CPU) loading and no need for additional, costly DRAM memory.
+
+   In addition to their enterprise-class reliability, the Lightning PCIe SSAs feature low power requirements and include an industry-standard driver that requires no additional software or system modification. The cards can easily be added to almost any computing system to deliver a simple, quick solution for performance acceleration. Several innovative companies have already sampled SanDisk's PCIe cards and experienced the benefits they can deliver. "The new Lightning Enterprise PCIe solid state accelerators from SanDisk provide us with the application acceleration we need to create more efficient workflows for a fraction of the cost of previously deployed solutions," said Ramy Katrib, Founder and CEO of DigitalFilm Tree. DigitalFilm Tree is an industry leader in defining and applying emerging "data centric" technologies to creative workflows.
+
+   A caching option is available for Windows operating systems by using SanDisk FlashSoft™ data caching software, which can be purchased separately. Data centers can support large server workloads by combining the Lightning PCIe SSA as an additional storage tier in conjunction with SanDisk FlashSoft data caching software.
+
+   Based on the next-generation PCIe 2.0 interface, Lightning PCIe SSAs are easily installed into any four lane (x4) or greater PCIe slot, delivering enterprise-class performance and reliability for demanding data center and cloud computing applications that are needed around-the-clock. Incorporating an advanced SanDisk controller, they offer low power requirements, a two million hour MTBF (mean time between failures) rate and an industry-leading five year warranty.
+
+   SanDisk Lightning PCIe SSAs are available in 200 gigabyte (GB)1 and 400GB capacities. Up to five cards may be installed into a single system to provide up to two terabytes (TB)1 of capacity.
+
+   Additional Detail and Features
+
+   Fast Response Times: Lightning PCIe products offer 245 microsecond average response times and sub-30 millisecond maximum response times reflecting dramatic performance gains in real-world applications running heavy workloads.  Low Latency: The new PCIe cards from SanDisk deliver as low as 50 microsecond sustained read and write latency.  Industry Standard Driver: Industry-standard drivers are integrated for use with major Microsoft Windows®, Linux and VMWare® ESX environments. No additional system reconfiguration or software is needed.  Low Power: The SanDisk PCIe SSAs require just 15 watts of power, eliminating special cooling requirements and resulting in additional savings.  Bootable OS Drive Option: Lightning Enterprise PCIe SSAs are bootable devices which support multiple Logical Unit Numbers (LUNs).  Enterprise-Grade Reliability Features: Lightning PCIe SSAs include "background patrol read" to check blocks of data on storage devices, capacitor backed cache (CBC) to protect against data loss without battery back-up or supercapacitors, and an industry leading five-year limited warranty.
+
+   Pricing and Availability:  SanDisk Lightning PCIe Enterprise SSAs will be available for purchase in 200GB (LP 206M) and 400GB (LP406M) capacities for $1,350 and $2,350 MSRP (USD) respectively at select authorized retailers in North America, including Avnet, CDW, Newegg.com and TigerDirect.com. For more information, please visit www.sandisk.com/enterprise-storage-solutions.
+
+   SanDisk Solid State Drives  SanDisk offers a full portfolio of products for the retail, OEM and enterprise channels. In the retail channel, SanDisk offers the SanDisk Extreme® SSD, which features industry-leading performance for gamers and other heavy computer users.
+
+   OEM products include the SanDisk U100 SSD for cost-effective performance and customizable form factors, the SanDisk X100 SSD featuring the utmost in performance and storage capacity for desktop and notebook PC manufacturers, and the SanDisk iSSD™ integrated storage device for an embedded micro SSD SATA form factor. All models are available as standalone SSDs or dual drive caching solutions.
+
+   For the enterprise channel, in addition to PCIe products announced today, Lightning® SAS-based SSDs provide the industry's widest array of flexible cloud and data center system design solutions. The drives deliver dramatic I/O performance, predictable performance and superior reliability over competing SSD technology.
+
+ 

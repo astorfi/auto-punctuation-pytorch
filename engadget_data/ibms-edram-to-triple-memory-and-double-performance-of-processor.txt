@@ -1,0 +1,5 @@
+
+ Last month it was leaky transistors, now it's DRAM -- embedded DRAM to be precise -- at the bleeding edge of semiconductor news. Today, IBM's neo-maxi-zoom-dweebies will announce that their new type of memory will "triple" the amount of memory stored on computer chips while doubling the performance of processors. How you say? It's the SRAM, man. IBM's new eDRAM is faster than that scandalous DRAM -- nearly as fast as SRAM while taking up less space. As a result, IBM can replace most of the SRAM with the new, smaller eDRAM. Expect the new tech to appear in IBM's server chips starting in 2008.
+      
+
+ 

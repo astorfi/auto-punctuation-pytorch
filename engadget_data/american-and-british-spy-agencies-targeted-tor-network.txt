@@ -1,0 +1,11 @@
+
+Considering the NSA and Government Communications Headquarters (GCHQ) have been trying to thwart encryption on the internet, it comes as no surprise that the two have spent significant resources trying to crack the Tor network. Tor, as some of you may know, is designed to keep a person's identity, location and activity anonymous and protect him or her from surveillance. Before panic sets in, know that Tor remains largely secure -- the agencies had only limited success in trying to identify users. One of the documents leaked by Edward Snowden, titled "Tor Stinks" reveals the proof-of-concept attack, but concedes that the NSA "will never be able to de-anonymize all Tor users all the time... With manual analysis we can de-anonymize a very small fraction of Tor users." That bodes well for the journalists and political dissidents who rely on the software, which ironically received the majority of its funding from the State Department and Department of Defense.
+
+
+
+                 
+ 
+ 
+ The limited success in cracking Tor relies on the massive internet cable taping program and secret nodes set up on the anonymizing network. By monitoring traffic exiting the network the NSA could potentially identify some of the sources by looking for patterns, however, the documents state that success rates were "negligible." Like other encryption tools, there does appear to be some effort on the part of the NSA and GCHQ to secure backdoors through influencing the development of Tor, though it's unclear how much, if any, success the agencies have had in this area. The most successful efforts to thwart Tor relied on exploiting weaknesses in other software, such as injecting malware when users visit sites with older versions of Firefox. This is similar to an exploit used by the FBI to identify Tor users earlier in the year. Both vulnerabilities have since been fixed.While these efforts obviously raise concern for Tor's many users, there could be fallout from from other parts of the government. Tor was created and is still largely funded by other agencies within the US. The NSA has already found itself at the center of a firestorm thanks to the documents leaked by Mr. Snowden, but the most recent revelations show it actively trying to undermine tools that other defense and diplomatic agencies rely on.
+
+

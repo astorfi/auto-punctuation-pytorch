@@ -1,0 +1,9 @@
+
+ 
+
+Much ink has been spilled about Oracle's lawsuit against Google for Android's allegedly unlawful use of Java, and rightfully so, considering Team Ellison's seeking to take more than a billion dollar chunk out of Google's bottom line. Just because Oracle's damage calculations add up to ten figures doesn't mean that the court will agree with them, however. And, there's a long legal road to be tread before the court can assign a dollar value to the case -- namely it must determine if the patent claims and copyrights are valid and whether Android actually infringes them.
+
+That's why Google requested the USPTO re-examine the patents asserted by Oracle, as the process gives Google a shot at invalidating them outside the courtroom. It looks like the strategy is paying off, as one of those re-exams recently resulted in a rejection of 17 of the patent's 21 claims -- which reduces the number of claims Oracle can assert in court accordingly. Of course, those four remaining claims plus the 118 contained in the other six asserted patents (should they survive the re-examination process) could still spell doom for the little green bots, but it is a victory, albeit a modest one, for the team in Mountain View. So, Oracle may have a few less IP bullets to fire Google's way, but it's still got plenty of other legal ammo left. We'll keep you posted when next shot's fired.
+      
+
+ 

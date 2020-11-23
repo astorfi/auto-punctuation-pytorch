@@ -1,0 +1,15 @@
+
+ 
+Big Red's flexing its 4G muscle today, announcing that it has successfully completed the first true tests on its nascent LTE network -- end-to-end data calls that presumably approximate real-world usage. The action actually happened way back on July 15 in Seattle, while Boston just went down today -- the two markets where Verizon said it'd be running the first trials -- both on 700MHz spectrum won not terribly long ago. LG and Samsung provided the mysterious, unspecified "trial devices," but don't worry, Motorola fans -- Verizon says they've got devices in the pipeline as well. Both Seattle and Boston currently have ten LTE cell sites live as the carrier trudges toward a 2010 date with destiny when it'll take "up to 30" markets live, at which point EV-DO and HSPA will theoretically feel like trying to send packets via carrier pigeon. Progress!
+
+Update: We just spoke with Verizon Wireless CTO Tony Melone to expand a bit on the trials. Here are some of the key takeaways:
+
+Though they're not talking speeds with these trials specifically, they're confident in saying that everything's in line for 7-12Mbps down and 3-5Mbps up at launch.
+The trials are being conducted on commercial LTE base station hardware, but everything else is prototype (and changing very rapidly). The end-user equipment doesn't currently resemble anything you'd actually buy.
+Data modems will be the priority at launch, which makes sense considering the amount of industry flux with regard to voice over LTE. Though Verizon believes the solution will ultimately be some form of VoIP, there are several outstanding issues, including handling of 911 calls.
+Everything in the trial so far leads Verizon to believe that they're on track for a 30-market launch in 2010.
+This doesn't spell the end of EV-DO deployments -- far from it. Melone says that upgrades could continue all the way through to the initial LTE launch and beyond.
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,32 @@
+
+ 
+ The ANT wireless protocol has long been a darling of the fitness industry and is incorporated into a lot of exercise equipment, from cycling computers to GPS watches. Now Dynastream Innovations, the company behind ANT, has launched a next generation protocol that boasts enhanced encryption, lower cost, faster connections between sensors (around 60 Kbps) and less power consumption when it comes to the ANT+ standard. It's already been released on a nRF51422 SoC by Nordic Semiconductor, along with the ANTUSB-m USB stick (shown after the break), which provides quick connectivity to PCs, Macs and Android devices. Consumers will have to wait awhile until the new protocol is widely adopted, but ANT's popularity could mean that won't be too long from now.
+
+
+ 
+  Show full PR text   ANT RAISES STANDARD AGAIN WITH NEXT GENERATION OF ANT PROTOCOL
+   Longer battery life, lower cost, quicker connection between sensors, and three times faster data transfer to PC's and smartphones, make ANT the most technically-advanced ULP wireless solution for personal monitoring devices
+
+   Cochrane, Alberta - February 26, 2013 - ANT Wireless, a division of Dynastream Innovations Inc., unveils the next generation ANT protocol with optimized functionality and efficiencies integral to both simple and complex use cases in sport, fitness and health. The newly-enhanced ANT protocol serves as the basis for the ANT+ interoperable standard and has been released on the industry's first System on a Chip (SoC) nRF51422 by Nordic Semiconductor. With advantages in power, size, cost, speed and security built directly into the protocol layer, this leading solution is designed for ensured development consistency and greater network flexibility within the established ANT+ interoperable ecosystem. Benefits will reach consumers in the form of new products with even longer battery life, expanded functionality and security, further simplified operation and overall value.
+
+   "Our fundamental goal is to always deliver ANT products that are forward-focused and future proof so that manufacturers can continually build upon what they do," said ANT Wireless Vice President, Rod Morris. "Because we deliver technology that works easily, consumers receive the very best available devices and can draw from an incredibly diverse and established ecosystem."
+
+   Specific technical advancements now integrated into ANT and ANT+ include:
+
+   Technological Features  • Encrypted channels with security between multiple devices  • Faster bursting and data transport – 60 kbps  • High duty searching – faster signal acquisition  • Event filtering and event buffering allow for greater flexibility and lower system power
+
+   Enhanced ANT+ Experience  • Easy transmission of secure data – ideal for varied health and competitive sport environments as well as asset tagging  • 3x faster data downloads, faster access, no wait time  • Faster connection to PC's and smartphones  • Greater balance of system power between sensors and displays; Reduced power consumption
+
+   "By securing our new features in the protocol and therefore lightening up the application layer, we reduce the guess work, optimize development success and advance the entire market," added Morris. "The solution is here in one chip and it sets a whole new standard in ultra low power wireless."
+
+   The new ANT features will simply add to the already-proven ANT advantages of:  - Flexible master and slave role assignments enable more real world use cases  - One-to-many (eg. Continuous glucose monitor data to watch, smartphone, tablet, pc), and many-to-one (multiple indoor cyclists to one trainer) functionality. Learn more at: http://www.thisisant.com/business/why-ant/ant-advantages/  - Certified profile adherence and interoperable devices  - Ultra-low power and seamless compatibility
+
+   Also available on ANT micro USB and ANT Message Protocol and Usage Document
+
+   The new ANT feature set has also been released in the new ANTUSB-m USB stick. Compact and reliable, these micro USB sticks provide convenient end-to-end connectivity with PC's, Mac OS X and Android devices. They are available now, and offer the opportunity for brand customization.
+
+   For more information on the ANTUSB-m, please visit: http://www.thisisant.com/developer/components/antusb-m/.
+
+   Further specifications on the new generation ANT protocol are now available on the ANT Message Protocol and Usage Document at http://www.thisisant.com/resources/ant-message-protocol-and-usage/.
+
+ 

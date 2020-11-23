@@ -1,0 +1,11 @@
+
+Wondering what's next for Twitter? TechCrunch points out a mysterious account called @EventParrot that may hold an answer, with its profile promising "direct messages that help you keep up with what's happening in the world." The setup is similar to Twitter's @MagicRecs account which eventually spawned the feature that automatically suggests tweets users might like. Despite a lack of official verification, @EventParrot has snagged a list of followers -- nearly 3,000 strong at the moment -- that includes a large number of Twitter employees and associates. Just this evening it sent out a direct message alerting followers to the kidnapping of Libya's prime minister, although how it will develop remains to be seen. Twitter's looming IPO is turning up the pressure on it to reach even more people, and offering more passively available, personally customized information may be one way to do that.
+
+
+Update: As noted by The Next Web, Twitter designer Paul Stamatiou has confirmed that the company is indeed behind the account, which he also described as an experiment.
+
+
+
+Ssshh.. we're testing a new Twitter experiment. All you have to do is follow @EventParrot. It'll DM you with breaking news.
+
+- Paul Stamatiou (@Stammy) October 10, 2013Tweets by @eventparrot!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

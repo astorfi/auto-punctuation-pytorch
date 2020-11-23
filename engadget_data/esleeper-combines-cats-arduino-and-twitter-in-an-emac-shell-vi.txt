@@ -1,0 +1,9 @@
+
+ 
+If we had to imagine our dream DIY project chances are it would involve Arduino, Twitter and, of course, cats. How we'd combine those things we're not sure, but we'll admit to being big fans of Samuel Cox's eSleeper, which turns a hollowed-out eMac into a bed for his feline. Inside the shell is an Arduino Ethernet connected to an IR sensor, some LEDs and a sound shield. When the cat breaks the infrared beam it triggers the iconic Mac chime and turns on a series color-shifting LEDs for a little mood lighting. From there the clock starts ticking. When little Fluffy (Captain Whiskers? Matlock? Penny? Greg?) decides she's had enough napping and leaves the white plastic cocoon, tripping the IR sensor again, a random phrase is tweeted, along with the length of the cat's siesta. Check out the video after the break to see the eSleeper in all its adorable DIY glory.
+      
+
+ 
+
+ 
+ 

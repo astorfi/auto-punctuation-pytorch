@@ -1,0 +1,16 @@
+
+Earlier this week, Finland's F-Secure looked into claims that Xiaomi was secretly sending data from its MIUI-powered phones back to its servers, and it turned out to be true. Despite having not added any cloud accounts, F-Secure's brand new Redmi 1s -- Xiaomi's budget smartphone -- still beamed its carrier name, phone number, IMEI (the device identifier) plus numbers from the address book and text messages back to Beijing. Worse yet, the data was unencrypted, thus allowing F-Secure and potentially anyone to, well, get to know your Xiaomi phone very easily. Fortunately, today the Chinese company is issuing a patch to address this booboo.
+
+
+
+According to Xiaomi VP and ex-Googler Hugo Barra, the aforementioned data link is part of MIUI's cloud messaging service, which helps determine whether it can route your text messages over the Internet for free. Think Apple's iMessage. Alas, Xiaomi had this is turned on by default and there's no prompt about this for the user, which explains it all. With today's ROM update, users of fresh or factory-restored Xiaomi devices will have to manually enable the cloud messaging function, meaning there should be no more stealthy connections back to Beijing. More importantly, the same update will also add encryption to the phone numbers sent to the servers, should users wish to keep using MIUI's cloud messaging to avoid texting charges.
+
+Kudos to Barra, his Google+ post goes to great lengths to explain what happened. It's just as well since the latest findings have made his earlier post regarding privacy somewhat obsolete. Anyhow, the exec emphasized that his company doesn't permanently store the data sent to its cloud messaging servers:
+
+No phonebook contact details or social graph information (i.e. the mapping between contacts) is stored on Cloud Messaging servers, and message content (in encrypted form) is not kept for longer than necessary to ensure immediate delivery to the receiver.
+
+Still, this raises the question: Shouldn't the communication be encrypted in the first place, anyway? Sounds like someone deserves a big spanking at Xiaomi HQ this weekend, for both overlooking this issue and hindering the company's global efforts. The last thing an expanding Chinese technology company needs is a privacy scare like this one, as the likes of Huawei and ZTE can attest to; though that's not to say Western companies are entirely innocent, either.
+
+[Image credit: Xiaomi]
+
+

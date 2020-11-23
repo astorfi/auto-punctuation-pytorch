@@ -1,0 +1,7 @@
+
+ 
+
+Ever struggled to find the perfect adjective to articulate your admiration for a given article of awesomeness? Matt Richardson over at Make felt exactly the same way, so he perfected himself an Awesome button, designed specifically to spit out synonyms for his favorite descriptive word. To accomplish the task, he had to gut a Staples "easy" button and arrange a Teensy USB microcontroller inside it, before making the resulting mini-thesaurus compatible with his computer. Don't worry, full instructions are contained in the video above. Just mash the play button.
+      
+
+ 

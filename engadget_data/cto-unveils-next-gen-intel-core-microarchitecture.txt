@@ -1,0 +1,5 @@
+
+ At Tuesday's IntelDevelopers' Forum, keynote speaker and CTO Justin Rattner released some new details regarding the company's nextgeneration 65-nanometer processor micro-architecture, which will start appearing in PCs next year, introducing the term"Intel Core Microarchitecture" for upcoming platforms code-named Conroe (desktop), Merom (mobile), andWoodcrest (server). We first saw examples of Conroe in action when Rattner briefly demoed the quad-core Clovertown processorabout a month ago, and the new architecture promises to allow speeds 40% greater than Pentium D 950s canachieve, which also consuming 40% less power. Woodcrest-based chips are said to be 80% faster than today's2.8GHz dual-core Paxville chips, and like Conroe, sipping 35% less juice than the current standard bearer. Finally,Merom will improve upon the mobile Core Duo 2600 by 20% while maintaining the same level of power consumption. Rattneralso mentioned a new metric that Intel is introducing called Efficiency Per Instruction, or EPI, that will ratherunsurprisingly show his company's offerings to be "better than any other processor, based on data sheets publishedtoday."
+      
+
+ 

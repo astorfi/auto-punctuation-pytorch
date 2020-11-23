@@ -1,0 +1,29 @@
+
+Earlier this year, Amazon entered the crowded field of streaming set-top boxes. But while the Fire TV sounded like a real winner on paper, in practice it was more of a mixed bag. For round two, the internet retail giant scaled back its ambitions and the price. The Fire TV Stick is a streaming dongle similar to the Chromecast or Roku Streaming Stick that's focused mainly on serving up video and less on gaming. Plus, the $39 price tag dramatically lowers the bar for entry. But, even at less than half the price, the Fire TV Stick would be a hard pill to swallow if Amazon didn't iron out some of the kinks from its first-generation device. So has a few more months of polish addressed our concerns about Fire OS on the big screen? Without giving too much away, the answer is mostly yes.
+
+
+
+
+
+Hardware
+What is there to say about the hardware on the Fire TV Stick? It's a tiny, matte black device, barely larger than a thumb drive. It's unassuming to an extreme. It lacks the distinctive bulb shape of the Chromecast or the garish purple paint job of the Roku Streaming Stick. Really, it's what's under the hood that matters. Amazon managed to cram a dual-core CPU and VideoCore4 GPU inside this little dongle, not to mention 8GB of storage and a host of wireless radios. This isn't the same beastly hardware found inside the full-sized Fire TV, but it's definitely a step up from devices like the Roku Streaming Stick or the Chromecast. It's capable of not just pumping out HD video, but also powering some basic games... with an emphasis on "basic." That means marathon sessions of Sev Zero at 60 frames per second are a no-go, but Badlands shouldn't be an issue.
+
+The Fire TV Stick is unassuming to an extreme.
+
+The Fire TV Stick also borrows the rather minimal remote design from its big brother. It also is mostly matte black, with a directional ring, three "Android" buttons and three keys for media control. Though it skews toward the smaller side, and loses some nice features in the process. The one easily forgivable, though unfortunate, trade-off is the loss of the groove on the underside. On the full-size Fire TV remote, there's a depression where you finger naturally rests, which makes for some lovely ergonomics. The version included here has a uniform, trapezoidal silhouette with rounded edges that still feels nice in the hand; just not quite as nice as its big brother.
+
+
+More importantly, though, the Fire TV Stick's remote lacks the built-in microphone for voice search. That means if you want to enjoy the fruits of Amazon's powerful search tool, you'll have to install the Fire TV Remote app, which is currently available on Android only. (On the bright side, it should be coming soon to iOS.) Your other option is to buy the separate Voice Remote for an additional $30. Still, at that point you might as well just buy the original Fire TV, which comes packaged with it.
+
+My one complaint is the placement of the micro-USB power port. Rather than being on the end, like it is on the Fire TV Stick's competitors, it's on the side. This means you might have to rearrange the HDMI cables on your TV if you've got a few things plugged in. Hardly a dealbreaker, but it did mean retraining myself to remember that my Xbox is now HDMI 4 instead of 1.
+
+Software
+Ultimately, the undoing of the Fire TV was its rather unpolished software experience. The carousel UI that worked so well on tablets didn't translate so nicely to the television. Plus, there were some truly questionable design decisions, like the A-Z, carousel-style onscreen keyboard. Things have gotten a bit better since April. There are still some kinks to be worked out, for sure, but what barely felt beta-quality just a few months ago now seems like a reasonably polished platform.
+
+You might think that a new onscreen keyboard would be a minor tweak, but here it's a huge deal
+
+For one, the carousel keyboard has been banished. You might think that a new onscreen keyboard would be a minor tweak, but here it's a huge deal, especially since Amazon has shifted away somewhat from voice search. The previous onscreen keyboard made non-voice searches so painful that we simply couldn't recommend it to anyone with a speech impediment or heavy accent. It's still not perfect -- in some areas the keyboard has a QWERTY layout; in some places it's ABC -- but it's definitely light-years better than what shipped with the Fire TV.
+
+
+
+

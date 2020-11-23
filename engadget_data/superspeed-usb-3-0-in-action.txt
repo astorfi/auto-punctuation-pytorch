@@ -1,0 +1,10 @@
+
+ 
+We dropped by to get a look at Symwave's SuperSpeed promised USB 3.0 setup, and got a real earful on the technology and its potential. Due to start shipping in devices near the end of the year, Symwave's chipset will hold up the device-end of the transaction, communicating with SATA for 2.5-inch and 3.5-inch drives. Since the host end of USB 3.0's plug is fully compatible with USB 2.0 (and 1.0, as it turns out), they expect folks to start buying future-proof USB 3.0 hard drives and wait for computer manufacturers to build it in -- or just grab a PCIe card if they're really enthusiastic. With around 10 times the headroom -- about 500MB a second -- of USB 2.0, the real bottleneck now is hard drive speeds. In the test we saw, the drive averaged around 78MB per second, and we can easily see SSD and RAID scenarios exploring this transfer speed. Their prototype setup to accomplish this was sprawling and a little bit ghetto, but by the time this is shipping in devices the chip will be shrunk down to about the size of a stamp. Action video is after the break.
+
+
+
+
+
+
+ 

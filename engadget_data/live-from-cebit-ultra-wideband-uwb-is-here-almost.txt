@@ -1,0 +1,17 @@
+
+ 
+
+We had the chance to see two Ultra-Wideband (UWB) devices in action on the floor of CeBIT today.UWB, remember, is that Bluetooth-killer capable of up to 480Mbps at a range of 10-meters. First, those crazy cats atthe Samsung booth had an UWB-modded GSM handset feeding video out wirelessly to that flat panel pictured at a rate ofabout 13Mbps. The video which played off the handset's MicroSD card ran smooth, though was definitely suffering fromblocking -- not so much the result of UMB as the compression used to store the video. We then ran into the Freescale folks (who, we suspect are behind the Samsung demo)showing off an engineering prototype of the Belkin CableFree Hub in the Belkinbooth. Using Freescale's direct sequence flava of UWB, the 720p HD video ran flawlessly off the UWB attached disk. TheBelkin hub should achieve an actual transfer speed of about 75Mbps after the overhead associated with errorcorrection and such with a range of about 10 un-walled meters. And the UWB attached mouse? Flawless, not a skip, evenwhile the video ran over the same connection -- we're believers. The Belkin hub is expected in July (US only) for lessthan $200. More pics of both setups after the break.
+      
+
+ 
+
+
+Here's the off-the-shelf Samsung phone fittedwith the UWB chipset.
+The UWB rig over at Belkin. Those two blackboxes left and right of the Tosh laptop are the functional, engineering prototypes serving up the peripherals.
+Belkin hub mockup atop the engineeringprototype.
+What you can expect from the final products. Onedongle per hub folks.
+
+       
+
+ 

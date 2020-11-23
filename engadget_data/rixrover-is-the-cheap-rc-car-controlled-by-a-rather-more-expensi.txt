@@ -1,0 +1,9 @@
+
+ 
+Driving RC cars never gets old, but driving them over the internet is truly something magical. Welcome to the RixRover, the creation of Quebecer Pierric Gimmig. It's a cheap RC truck fitted with big knobby tires that's had its ABS body removed, replaced by an Arduino board and a netbook. The car itself cost about $45, the Arduino about $30, and Eee PC 1005-series netbook about $200. But the result, being able to drive the car over remotely via streaming video, why that's quite simply priceless. Video after the break and, if you want to try your hand at this, there's some source code on the other end of the source link.
+      
+
+ 
+
+
+ 

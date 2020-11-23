@@ -1,0 +1,10 @@
+
+Wireless charging is a technology often reserved for smaller devices -- smartphones, watches and electronic toothbrushes -- but that's about to change. The Alliance for Wireless Power (A4WP) just updated its Rezence charging standard to support laptops, tablets and devices requiring up to 50 watts. The Alliance only just made this change official, but it's been coming for awhile: when Dell joined the group back in February, the A4WP promised to introduce a higher-power specification that would enable Ultrabooks to charge untethered.
+
+
+
+Update: Intel is also interested in the potential of Rezence. At Computex, the chip giant said it was trying use the wireless charging standard to "eliminate all cables" that go to and from a PC. It's demonstrated a laptop that can be charged just by sitting on a table (with the charger underneath the table, sending power through two inches of solid wood), with WiGig taking care of the connections with peripherals. Intel is aiming to implement this by 2016, with the launch of its Skylake platform.
+
+It's a good step forward in charging technology, and could make it easier to keep your devices topped off on the go. That said, manufactures still have to pick from three disparate charging standards before shipping a device, leaving any product without specific internals to brave a fragmented landscape. A4WP member Lenovo seems optimistic, at least, stating that the new Rezence standard the solution that "best meets [their] customers' needs."
+
+

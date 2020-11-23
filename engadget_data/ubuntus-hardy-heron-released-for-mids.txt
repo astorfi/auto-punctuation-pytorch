@@ -1,0 +1,5 @@
+
+ 
+Earlier this month we saw open-source Ubuntu remixed for netbook-class ultra-portable laptops. Today, MIDs are feeling the hot, sweaty breath of Hardy Heron breathing down the back of their Intel chipsets. The UME-8.04 release features a Gecko-based browser with screen zooming optimized for smaller displays, Pidgin for instant messaging, GNOME's Cheese webcam app, Claws Mail eMail, and Moblin Media for music and video -- all optimized for current and last generation MID / UMPC chipsets from Intel. Available to download now for McCaslin (e.g., Samsung Q1 Ultra) and Menlow-based (Lenovo's Ideapad U8) MIDs. [Via Phoronix, thanks Boning C.]
+
+ 

@@ -1,0 +1,9 @@
+
+The Chromecast is already a pretty easy sell: It's $35 and brings most of the biggest names in streaming media to your TV with minimal hassle. So, now that Google has opened the SDK to developers, it's pretty much a no-brainer. While there are no specific apps to announce at the moment, it's safe to assume the Play store will be flooded with updates soon enough. The SDK will allow coders to add a cast button to their app or site, be it on Android, iOS or in Chrome. The obvious use is for video apps, but there are plenty of other potential options here as well. If a developer decides to create a "custom receiver application" (rather than use the pre-built one provided by Google), they can put any standard web technologies on the big screen. So expect at least a few games and productivity apps to make the jump to Chromecast as well. Imagine firing up a presentation from Google Drive, displaying it on your 4K TV and controlling it with your phone. Or maybe Sony will build a version of Jeopardy where the board and clues are shown on the TV and your handset acts as the buzzer. Obviously, we're just speculating right now, but if we see those ideas come to fruition, we'll be expecting a nice royalty check. If you're more technically inclined, check out the video overview of the Chromecast SDK after the break.
+
+
+
+
+
+
+ 

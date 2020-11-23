@@ -1,0 +1,9 @@
+
+ 
+
+Possessing a camera with RAW output is great, but working with those data-rich files often isn't -- not least because most manufacturers use proprietary file formats. However, Lightroom fans who update to version 3.5 (currently at release candidate stage) should discover that it effortlessly handles RAW images from a bunch of recent cameras including the Olympus E-P3 and E-PL3, Panasonic G3 and GF3, and the Sony Alpha NEX-C3 The update will also fix a number of bugs, such as inconsistent processing times and a loss of geo-tagging metadata when converting to Adobe's Digital Negative format. Time to get those psychedelic HDR images flowing.
+
+[Thanks, Rob]
+      
+
+ 

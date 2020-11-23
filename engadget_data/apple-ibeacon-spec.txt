@@ -1,0 +1,7 @@
+
+Several companies and organizations have already come forward to test out iOS7's Bluetooth-based iBeacon technology for tasks like shopping and navigation, but it could become a lot more commonplace in the near future. That's because the Cupertino company has quietly released the iBeacon specification for its Made for iPhone program, signifying a stronger push to make the technology more widespread. In essence, it ensures that any future product that bears the iBeacon logo will be fully compliant with Apple's standards.
+
+
+What does this mean for you? Well, as a brief reminder, iBeacon is a location-based technology that allows iOS products to talk to each other using low-power Bluetooth signals. This means that whenever you see something with that iBeacon logo, you know it should work seamlessly with your iDevice. If we dare speculate, this could pave the way for a potential iWatch -- it makes obvious sense for it to communicate with the iPhone using iBeacon. Indeed, now that Apple is showing signs it's pushing the standard forward, we wonder if this is a not-so-subtle hint to developers to start incorporating iBeacon into their apps. As rumors of an Apple wearable heats up, we think that's certainly more likely than not.
+
+

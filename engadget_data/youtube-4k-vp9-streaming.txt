@@ -1,0 +1,4 @@
+
+For ultra-HD to truly take off, there needs to be a wealth of native content available -- not just displays -- and according to a GigaOM report, that could happen sooner than expected. Next week at CES, YouTube is demoing new 4K streaming-tech at a handful of major hardware manufacturers' booths, and the first TVs supporting Google's video format should ship by 2015. Don't worry about bandwidth overages though, these streams will run on YouTube's VP9 codec, which uses substantially less data than current formats. The outfit's Francisco Varela said that this royalty-free codec will have benefits outside of his company, as other video providers can use it too. There's even an upside if you don't have a 4K display: The jump to VP9 should drop the amount of data for plain-Jane HD streams by around 50 percent. If you want a peek at VP9 before next year though, Varela expects hardware decoding for it will come to PCs and mobile devices first.
+
+

@@ -1,0 +1,73 @@
+
+ 
+
+While you were busy running along walls and throwing missiles back at your opponents during the Titanfall beta, countless data centers across the world were making sure that each AI-controlled Titan bodyguard had your back. Much of the frenetic action in Respawn Entertainment's debut game rests on one thing: Microsoft's Azure cloud infrastructure.
+
+Up until last November, Microsoft CEO Satya Nadella's baby was mostly used for business applications, like virtualization and acting as an enterprise-level email host. With the Xbox One, though, the company opened up its global server farms to game developers, giving them access to more computing power than could reasonably be stuffed into a $500 game console. Since the Xbox One's debut, Microsoft has been crowing about how Azure would let designers create gaming experiences players have never seen before. Now it's time for the product to speak for itself.
+
+
+ 
+With Tuesday's release of the online-multiplayer-only Titanfall, Redmond's gamble takes center stage. Players are no doubt concerned about the game's stability at launch. With one look at the problems that plagued Diablo III, SimCity and Battlefield 4, consumer skepticism is easy to understand. The folks behind Titanfall believe they've got a not-so-secret weapon to circumvent the foibles those games endured, or are still enduring, in Microsoft's server infrastructure. It's been in place and running pretty successfully since 2011.
+
+Respawn engineer Jon Shiring says that since the beta ended, some skeptical devs have already changed their minds about the feasibility of using Azure for the parts of a game traditionally handled by a user's console or PC. In Titanfall's case, that largely includes artificial-intelligence-powered teammates.
+
+"Back when we started talking to Microsoft about it, everyone thought it was kind of crazy and a lot of other publishers were terrified of even doing it," Shiring says. "I've heard that since our beta ended, they've been pounding down the doors at Microsoft because they're realizing that it really is a real thing right now."
+
+By eliminating the hassles of setting up a game's cloud infrastructure, Redmond is letting developers focus on what's important: making killer games.Shiring has touched on what Redmond's back-end would allow before, but even then, it wasn't clear just how intrinsic Azure was to the game's twitch-based multiplayer mayhem. Aside from providing dedicated servers for low-lag online matches, Azure's remote horsepower is part of what sets Titanfall apart from contemporary first-person shooters.
+
+To understand how Respawn ended up working with Microsoft, we have to travel back to 2007, back when Miley Cyrus was still Hannah Montana and Call of Duty wasn't a household name.
+
+IN THE BEGINNINGIn the span of five years, Call of Duty house Infinity Ward sold millions of plastic discs and, with 2007's Call of Duty 4: Modern Warfare, it established the prototype for current multiplayer gaming. After a very public falling out with parent company Activision three years later, key creative staff left the studio to form Respawn. While the new team was in the early stages of deciding what its first game would look like, Shiring was already pushing hard for dedicated servers. The downside, however, is that those CPU stacks and the space to house them aren't cheap. Luckily, Respawn had friends in the right places.
+
+"Microsoft got really interested in the idea, and that was early on," says Shiring. "I'd say I started to nudge them in 2010, but it really was 2011 when we were coming at them like 'What can you do? We can't afford this.'"
+
+This was around the time that Redmond was deciding what to do with the online service for the as-of-yet unnamed Xbox One.
+
+
+"There are other games like Battlefield that have dedicated servers, but they haven't gone the same direction that we have with them," Shiring says."We knew in the early stages of developing Xbox One that we wanted to tap into the power of the cloud in a way that hadn't been done before," says John Bruno, Xbox Live's lead program manager. "We were convinced that enabling dedicated servers using cloud computing presented a great opportunity to realize our vision for Xbox One."
+
+Microsoft is providing the garage and the tools for game developers to work with, and, perhaps most importantly, it's keeping the rent cheap. By eliminating the hassles of setting up a game's cloud infrastructure, Redmond is letting developers focus on what's important: making killer games. For a startup like Respawn, that was pretty attractive and would allow the studio to achieve its vision with minimal compromise.
+
+GOTTA KEEP IT DEDICATEDWhile a good number of PC games use dedicated servers, most console titles rely on a player hosting each multiplayer session. This introduced more than a few roadblocks to Respawn's vision. For starters, it wouldn't allow for the resource-intensive AI-controlled combatants and busy battlefields the team had in mind.
+
+"Having these servers with a significant amount of CPU power and bandwidth available is absolutely essential to our game: Having these machines that are regional and servers that have good ping -- that's huge," he says. "That has completely changed the way we make games."
+
+Many look at Titanfall as the first true next-gen game, offering an experience we haven't seen on last-generation hardware (think: the PlayStation 3 and Xbox 360). From what Shiring says, the fact that Respawn wasn't held back by a console's local processing power was key to letting the studio achieve what it has.
+
+
+"There are other games like Battlefield that have dedicated servers, but they haven't gone the same direction that we have with them. We have all of this AI and things flying around in the world; that has obviously let us build a different game than we would have if we'd have gone with player-hosted," Shiring says. "Really, the biggest thing with that is that it has uncapped our designers and let them do things that were previously impossible to do."
+
+Because Titanfall's advanced AI is handled by the Azure servers, your Xbox's or PC's innards can be used to achieve more detailed graphics and the game's silky-smooth frame rate. The Titan bodyguards, dropships and legions of AI-controlled combatants are essentially free from a processing-power standpoint. Without Redmond's cloud, it's highly likely that Titanfall's six-versus-six player limit would be painfully apparent. Since these features live on remote servers, though, making sure they seamlessly appear in-game is paramount.
+
+THE LAST MILEAs is often the case with networking, the distance between access points is where things tend to fall apart. In player-hosted gaming, it's no different. When you start a typical multiplayer game on a console, the quality of your experience often relies on how good your connection to the host is. If someone in their house starts watching True Detective on HBO Go or, worst-case scenario, the host leaves, chances are that your experience will suffer as a result.Shiring believes that, eventually, centralized hosting will become the new normal.Ping -- the time it takes in milliseconds to transfer data between remote machines -- is the crux of multiplayer gaming. Simply put: If it's too high, the bullets you fire at an enemy won't hit their target because your network is running slower than the game is animating player movement.
+
+For details on why Titanfall doesn't feature cross-platform play, check out the full interview with Respawn's Jon Shiring.
+Azure's regional data centers address this by providing a clean, semi-local connection point between your console and the server where it connects. Naturally, the lower your ping is, the better; most PC gamers try to select servers that have a ping of 100ms or less. Shiring tells us that when Respawn's offices in Los Angeles connect to the Azure data center in San Francisco, the average ping is 19ms to 20ms. "We're talking barely more than one rendering frame to get a message to the server and back again, which is outstanding," he says.
+
+"What I've found is that a lot of the latency in consumer broadband is at the edges: Getting to another user is slower than getting to a hub and back again," Shiring says. Because the Azure data centers are regional, he says that the latency is a lot lower than what you would get if the connection was to another player. That means that every non-player-controlled character should do what it's supposed to do, when it's supposed to, almost anywhere on the globe.
+
+With Azure taking care of Titanfall's external AI elements, the speed that they're delivered to a game session needs to be near-seamless for a good player-experience. It has to feel like you're fighting alongside scripted AI teammates in a single-player campaign -- not like a typical, stuttery multiplayer match -- for the computer-controlled characters to be valuable. After all, a robotic bodyguard is useless if it takes even a millisecond longer for your Titan to detect an enemy than it does for the enemy to kill you. If the technology hiccups because of a slow connection, the illusion breaks. At its core, Respawn's use of Azure promises a consistently fast connection where you don't see the stitches holding the game together.
+
+PEAK TIMEThese regional data centers also allow Respawn to keep everyone playing even if their closest server farm is overloaded. During the beta, the studio ran Titanfall on an intentionally limited number of servers to discover where the infrastructure's weak points were when running at a full load. Some 2 million people participated in the game's test run (across both PC and Xbox One) and at one point, a portion of Europe's data centers were running at full player capacity and couldn't accept more users.
+
+Respawn had a contingency plan in place: moving the affected players over to the East Coast US data centers, behind the scenes. This meant higher ping of course, but not by a dramatic amount. "We don't look forward to doing that at all, but if we have a bunch of people sitting unable to play the game, then we're going to make sure that the experience is good enough -– maybe not ideal -– to get them playing," Shiring says.
+
+In a way, this was a method of answering the biggest question the developer could face during launch: What will happen if everyone tries playing the game at the same time and can't?
+
+An entire country will miss out on a console game because of the lack of Microsoft's servers in the region."We're trying to figure out how many people will be playing and trying to make sure the servers will be there for that," Shiring says. Essentially, that's where Respawn's responsibilities end. If player experience is suffering at launch, that's on Redmond to fix.
+
+"One of the really nice things about it is that it isn't my problem, right?" Shiring says. "We just say [to Microsoft], here are our estimates, aim for more than that, plan for problems and make sure there are more than enough servers available -- they'll know the whole time that they need to bring more servers online."
+
+Titanfall benefits from dedicated servers, but it's dangerously dependent on them to function; there are parts of the world where Azure data centers don't exist. Like South Africa, for instance. Because Respawn couldn't guarantee the quality of the experience, its debut game won't be released there. An entire country will miss out on a console game because of the lack of Microsoft's servers in the region.
+
+THIS IS JUST THE STARTShiring is keenly aware of the pressures on him and his coworkers to not only launch well, but also to maintain a consistent level of quality throughout Titanfall's lifespan. It isn't just the first tentpole title of the current generation of gaming; it could also be the killer consumer app for Microsoft's Azure tech.
+
+He expects that once his team's game ships and is complete, the studio will have more confidence that the grunt work associated with brand-new code and technology will be done. From there, other developers can build on Respawn's foundation. Shiring believes that, eventually, centralized hosting will become the new normal. He also recognizes the risk in being first.
+
+"Working with Microsoft is great, but we're kind of taking a bullet with doing the pain of proving that the game will scale up, and we're finding bugs that every system has at launch," he says.
+
+The only other proof that Azure actually works for gaming is Xbox One launch title Forza Motorsport 5. The game's Drivatar system uses the cloud to catalog your racing behavior and create a virtual driver that competes in other people's online races, earning in-game money while you're away. Doing laps around the Indianapolis Motor Speedway, however, doesn't have as wide an appeal as, say, operating a three-story robotic death machine. Should Titanfall and Azure live up to expectations, Shiring thinks that Redmond's infrastructure could change how studios approach developing games. If he's right, this could lead to much more Respawn-style experimentation from other studios and maybe create entirely new genres of games as a result.
+
+"Suddenly, the publisher solution becomes more risky than the cloud solution," he says. "That will be a big shift in the industry for everybody."​
+
+

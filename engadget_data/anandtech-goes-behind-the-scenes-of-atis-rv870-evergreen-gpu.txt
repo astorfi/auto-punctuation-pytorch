@@ -1,0 +1,6 @@
+
+ 
+Anyone familiar with the constantly shifting release dates and delays that characterize GPU refresh cycles will have been impressed by ATI's execution of the Evergreen series release. Starting out at the top with its uber-performance parts, the company kept to an aggressive schedule over the winter and can now boast a fully fleshed out family of DirectX 11 graphics processors built under a 40nm process. The fact that NVIDIA has yet to give us even one DX11 product is testament to the enormity of this feat. But as dedicated geeks we want more than just the achievements, we want to know the ins and outs of ATI's resurgence and the decisions that led to its present position of being the market leader in features and mindshare, if not sales. To sate that curiosity, we have our good friend Anand Shimpi with a frankly unmissable retrospective on the development of the RV870 GPU that was to become the Evergreen chips we know today. He delves into the internal planning changes that took place after the delay of the R5xx series, the balancing of marketing and engineering ambitions, and even a bit of info on features that didn't quite make it into the HD 5xxx range. Hit the source link for all that precious knowledge.
+      
+
+ 

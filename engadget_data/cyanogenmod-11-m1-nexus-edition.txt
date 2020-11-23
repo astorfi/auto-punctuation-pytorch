@@ -1,0 +1,8 @@
+
+Having just wrapped up development on its Android Jelly Bean-based 10.2 software, the CyanogenMod team is already pushing out a "Milestone 1" release of the upcoming Android 4.4 KitKat-based version 11. How can this happen so quickly? For now, CyanogenMod 11 M1 is only available for "actively AOSP-supported Nexus devices", which it expects to have few device-specific issues on, since their hardware code is provided by Google. That means it will be accepting bug reports from those devices right away, and have already been tested to make sure they work properly. If you're already bored of the stock Google-provided KitKat experience on your Nexus 4, Nexus 5, Nexus 7 (all versions) or Nexus 10, downloads of the new software are available here for you to test out. Android users on other platforms (including the Galaxy Nexus Google apparently felt it had to leave behind) will soon see nightly releases roll out as usual, however a rapidly changing codebase and possible device-specific bugs means they won't be able to submit bug reports right away.
+
+
+
+
+
+ 

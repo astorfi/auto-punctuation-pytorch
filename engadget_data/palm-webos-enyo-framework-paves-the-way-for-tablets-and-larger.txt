@@ -1,0 +1,9 @@
+
+ 
+Don't expect HP's webOS 2.0 to be tied to an HVGA screen for long -- come "early 2011," the company will introduce a number of "really interesting new form factors," including tablets and phones. That was the message driven home at Palm's Developer Day this year, according to PreCentral's Dieter Bohn, and the software that's going to make that shift possible is a little something called Enyo. Picking up where Ares left off, Enyo is a Javascript app framework with native hardware acceleration and faster app load times (they're allegedly down to one second now), but the part we think you'll be most interested in is the promise of apps that natively scale to multiple aspect ratios. HP's Scott Miles demoed it earlier this week by playing around with a tiny, single-pane portrait email application in the desktop version of Chrome... and then maximized the browser window to reveal a fully-functioning three-pane landscape layout suited for a large tablet screen. Representatives stressed that the email app was a proof of concept, but Enyo's here to stay, replacing the earlier Mojo starting in 2011 and slated to be available in early 2011 via developer SDK. Get introduced to Enyo in a video after the break, and skip ahead to that email demo at 15:55 if you're running late for your rockstar developer meetup.
+      
+
+ 
+
+
+ 

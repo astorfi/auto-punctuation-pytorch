@@ -1,0 +1,13 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+ 
+ Parallel computing is normally reserved for supercomputers way out of the reach of average users -- at least at the moment, anyway. Adapteva wants to challenge that with its Parallella project, designed to bring mouth-watering power to a board similar in size to the Raspberry Pi for as little as $99. It hopes to deliver up to 45GHz (in total) using its Epiphany multicore accelerators, that crucially, only chug 5 watts of juice under normal conditions. These goliath speeds currently mean high costs, which is why they need your funds to move out of the prototype stage and start cheap mass production. Specs for the board are as follows: a dual-core ARM A9 CPU running Ubuntu OS as standard, 1GB RAM, a microSD slot, two USB 2.0 ports, HDMI, Ethernet and a 16- or 64-core accelerator, with each core housing a 1GHz RISC processor, all linked "within a single shared memory architecture."
+
+ An overriding theme of the Parallella project is the openness of the platform. When finalized, the full board design will be released, and each one will ship with free, open-source development tools and runtime libraries. In addition, full architecture and SDK documentation will be published online if-and-when the Kickstarter project reaches its funding goal of $750,000. That's pretty ambitious, but we're reminded of another crowd-funded venture which completely destroyed an even larger target. However, that sum will only be enough for Adapteva to produce the 16-core board, which reportedly hits 13GHz and 26 gigaflops, and is expected to set you back a measly $99. A speculative $3 million upper goal has been set for work to begin on the $199 64-core version, topping out at 45GHz and 90 gigaflops. Pledge options range from $99 to $5,000-plus, distinguished mainly by how soon you'll get your hands on one. Big spenders will also be the first to receive a 64-core board when they become available. Adapteva's Andreas Olofsson talks through the Parallella project in a video after the break, but if you're already sold on the tiny supercomputer, head over to the source link to contribute before the October 27th closing date.
+
+
+
+ 
+ Previous project update: Not long after covering the Impossible Instant Lab on Kickstarter, we ran into a prototype at Photokina and were mighty impressed. It's no surprise to us, then, that with 10 days still to go, its $250,000 goal has been met nearly twice over.
+
+

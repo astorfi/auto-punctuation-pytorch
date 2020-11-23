@@ -1,0 +1,5 @@
+
+ We know from a brief spat of iPhone 3GS controversy that OpenGL ES 2.0 brings a new level of immersive realism to 3D gaming on mobile devices, so Android developers (and users, for that matter) should be delighted to hear that a new release of the official Native Development Kit exposes its capabilities to anyone targeting Android 2.0 or higher. As a refresher, the so-called NDK is a bolt-on to the standard Android SDK that gives folks the ability to write and compile critical pieces of functionality in native code, closer to the processor without that pesky Java virtual machine standing in the way -- in other words, it's exactly what gamers and game devs need to make Android a serious gaming platform, and better access to badass 3D capabilities are a fun little piece of the puzzle. The latest NDK's available for download now -- so seriously, hurry up and go wow us with your revolutionary first-person shooter. Git!
+      
+
+ 

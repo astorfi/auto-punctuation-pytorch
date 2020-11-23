@@ -1,0 +1,29 @@
+
+
+
+It wasn't all that long ago when China's Meizu unveiled its latest phone, the MX4, but the real flagship is actually what the company announced today. As you can tell from the name, the new MX4 Pro is a beefed-up version of the earlier model, yet it's still priced very competitively and is almost just as comfortable to hold. Most notably, it has a slightly larger 5.5-inch display with a stunning 2,560 x 1,536 resolution -- a tad more than the standard 2K resolution (hence the "2K+" label), thus making this the highest screen resolution for the current smartphone market. That said, this NEGA LCD panel is apparently very power efficient, sipping just 1.05 times the power consumed by the MX4's 1,920 x 1,152 screen. Underneath that lies a Samsung octa-core processor (2GHz A15 x 4 + 1.5GHz A7 x 4) which, according to Meizu, is 20 percent more efficient than the MX4's MediaTek offering. 
+
+
+
+
+
+
+Like Huawei and Oppo, Meizu is also adding a convenient single-touch fingerprint reader to its latest phone, except this one -- dubbed mTouch -- is placed on the front side instead of the back. As such, the old capacitive home button is gone. While each side has its own merits for the sensor's placement, this cheeky company thought this would be a good opportunity to say that it's on the same page as Apple, so much that it dedicated one slide to paying tribute to Jony Ive. Later on, Meizu's VP Li Nan admitted that this was just a stunt to get people talking, but we're certain that Apple will also have something to say about this, especially given the two companies' rocky past.
+
+Despite the cheap shot, the mTouch does have good intentions. For one, it uses a TrustZone baked into the Samsung Exynos chip to process the fingerprint data, meaning hackers won't -- or shouldn't -- have access to it. Apple and Huawei use similar security methods for their fingerprint readers. Another benefit of mTouch is that some time in the first-half of 2015, this feature will let you make purchases with AliPay (the Chinese equivalent of PayPal) and WeChat without typing in passwords. This, surprisingly enough, is called mPay.
+
+
+The "one more thing" for the MX4 Pro (oh yes they did) is its Hi-Fi audio capability, or "Retina Sound" as Meizu likes to call it (ugh). This is courtesy of the ES9018K2M 32-bit DAC (as featured on the Vivo Xplay 3S) with its high signal-to-noise ratio, Texas Instruments' OPA1612 amplifier with its high cut-off frequency and ultra-low distortion (and it's better than the Xplay 3S' OPA2604), plus high-end capacitors and resistors to enable Meizu's patent-pending passive filter technology. Of course, we'll need some proper ears-on time to tell if this Retina Sound is as good as it claims to be, as well as how fast these audio chips would drain the phone's 3,350 mAh fixed battery.
+
+As for cameras, the main one uses the same old 20.7-megapixel Sony IMX220 sensor with f/2.2 aperture, but it's now paired with an improved image signal processor that claims to further reduce noise, while still offering 30 fps continuous shooting and 4K video capture. On the other side of the phone, the front-facing camera has been upgraded to a 5-megapixel version which also supports auto-focus and 1080p video recording, though the aperture has gone from f/2.0 to a slower f/2.2.
+
+As with the MX4, the MX4 Pro offers a simple camera interface co-developed with Tessera's FotoNation, and it offers several modes: Auto, Manual, Beauty, Panorama, Light Field (which just combines several shots taken at different focal lengths), Night, Scan (for barcodes and QR codes), Slow Motion and Microspur.
+
+
+The rest of the MX4 Pro is fairly bog standard. Naturally, 802.11a/b/g/n/ac WiFi along with TD-LTE and FDD-LTE networks are supported, and the phone is topped with 3GB of RAM to keep the Exynos chip well oiled. Oh, and the MX4 Pro supports NFC, which is something we wish the MX4 also included. As for software, the device is running on Flyme 4.1 (based on Android 4.4.4) which adds a couple of screen-off features: voice command plus launch apps with on-screen gestures.
+
+Another interesting addition is SmartTouch: It comes in the form of a semi-transparent dot that goes on top of the UI, and by swiping horizontally from it you can jump between apps, whereas swiping upward from it takes you back to the home screen, and swiping downward from it pulls down the notification tray, meaning you no longer have to stretch your thumb to the top of the screen. Of course, you can always reposition the SmartTouch dot by holding down on it, or you can toggle it with the shortcut button on the notification tray.
+
+
+
+

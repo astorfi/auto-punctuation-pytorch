@@ -1,0 +1,41 @@
+
+When Google announced it was pulling Reader's plug (which will happen next week), the outcry was loud and viral. If I may speak for those who were most wounded by the knife in Reader's back, the announcement shock was mixed with betrayal, anger and loss. Those who built RSS reading into their lives generally placed it at the epicenter of their online activity. Anticipating life without Reader was a black-hole view -- the web with a void punched into the center.
+
+
+As the wailing turned practical, exporting and migrating recommendations proliferated. The commotion died down for a while, and has now resumed for Reader's final week. Major and minor brands are jumping into the feed-reading game, seeking to sway a vocal population looking for new homes. But is a loud community of users also a large community of users? Feed-based web consumption hasn't had this much publicity in years. Does all this product development and media attention signal a rebirth of RSS's geeky convenience? Or are money and effort being thrown at an ephemeral market?
+
+
+
+It is not just RSS reading that seeks an opportunistic renaissance, but also reading as a primary attraction of the web. Any observer can notice the trend toward social updates as a dominant content type. Snack-sized outbursts from friends and social acquaintances are addictive, fun and time-consuming. Even video, which (it might be argued) is a dumbed-down version of text, has become snacked-down to munchkin size by Vine and Facebook.
+
+RSS is traditionally adopted by people for whom reading blog posts and articles is a bedrock activity, anchoring daily web consumption. Feed readers allow users to build their own internet portals, cataloging their site loyalties, and engineering constellations of bookmarks that divulge content as well as point to it.
+
+Even now, a week before Google Reader expires, a consolidating field of replacements is crowding into the soon-to-be-vacant footprint.
+
+Even now, a week before Google Reader expires, a consolidating field of replacements is crowding into the soon-to-be-vacant footprint. Feedly moved like lightning to brand itself as Reader's replacement, and judging by sentiment expressed in blog comments during the last few weeks, it's carrying that banner successfully. Feedly captured a half-million new users in the 48 hours following Google's mid-March announcement.
+
+Perhaps Feedly's greatest product attraction is its smooth onboarding. Google Reader users might be more willing to tinker with import / export tasks than the average internet citizen, but wrestling with OPML files is a nuisance for anybody. Google Takeout's exporting tool isn't terrible... or splendid. (Zipping a 50KB subscriptions archive, really Google? Like it's 1994?) Feedly obviates that by linking to existing Reader accounts and promising an effortless, seamless transfer on the back end when Reader bites the dust. We'll see how that goes, but in the meantime, the effortless migration is inviting.
+
+The new and rapidly built reader from AOL (Engadget's parent company) launched on Monday with bugs that thwarted all my attempts to import from Google, or even select a recommended feed from the service itself. Those bumps were smoothed in a few hours. AOL Reader dishes up an admirably straightforward and clean interface that obviously takes its design cues from Google... as does Feedly. Whatever usability innovation might result from the attempted rebirth of feed readers, the best-publicized services are not yet showing it. Which could be fine for die-hard RSS users, who value simplicity. If they want complexity, they can visit the sites.
+
+
+But there might be innovation in the wings, awaiting its entrance cue. The cue is expected this week for Digg, whose credentials for reimagining RSS are certified by its own brand reinvention. In 2005, web publishers regarded Digg's traffic-driving potency as highly as Google's, though less sustained. Digg's decline inverted the growth curves of Facebook and Twitter, and the brand was sold last year to blazing startup incubator Betaworks.
+
+As Digg attempts to regain its former punch, there is logic behind leaping into the feed-reader gulch. The social-discovery engine at the kernel of the Digg experience is complementary to the self-built aggregation of RSS environments. It is crowd recommendation of individual articles (traditional Digg) complementing individual feed curation (possible new Digg aspect). In other words, social push joined at the hip to individualized pull. Nobody outside of Digg knows the exact feature set or interface, but in theory, social content selection and individual content selection make a cozy match.
+
+A similar rationale might be behind Facebook's reported development of a news-reading product. Facebook is a news factory in the same way that Twitter is -- as a natural spawn of people's impulsive sharing of web stuff they've found. Whereas Google half-heartedly grafted social functions on Reader, Facebook is anchored at the other end of the social / search continuum.
+
+I can imagine Facebook's (rumored) gambit as an interesting and successful maneuver. It could impose a layer of newshound-like order on what is now an ad hoc experience. Article discovery is randomized not only by lack of structure, but also by the distribution bottleneck Facebook applies to all sharing through its EdgeRank algorithm. Computational distribution of updates purportedly saves users from content nobody is engaging with -- in theory, the uninteresting stuff. Establishing a filter that functions like the Close Friends feature, but for shared articles, could be magnetic. Facebook can also provide on-site search, which is painfully missing (and difficult to build) from Google Reader imitators Feedly and AOL Reader.
+
+This brings us back to the original question: Is personal news aggregation a substantial market?
+
+Facebook must be powerfully motivated to bring a more substantial reading experience into its immense realm. Its towering clout has already folded large portions of traditional internet functions into its walled garden -- mail, messaging, chatting, sharing, site commenting and more. However large the serious reading market may be, Facebook probably wants to capture its substantial share.
+
+This brings us back to the original question: Is personal news aggregation a substantial market? Are all these competitors emerging from Google's shadow over-estimating demand based on the obstreperous clamor of a small population? Will the brouhaha stimulate demand for offsite reading, and perhaps a rebirth of RSS?
+
+I place my bet, pessimistically, on the downside. RSS had its day in the bright, mainstream sun, when it powered "My Yahoo," "My AOL" and their ilk. There is no reason to doubt Google's revelation that Reader usage was dropping. Vociferous users stirred a loud fuss, and brands like AOL, Digg and Facebook with embedded user communities might convert the noise into traction for their new products. Among the standalone Google replacements, Feedly seems to be winning the publicity scramble.
+
+Google Reader was a spectacular tool for cutting through the noise, built for people motivated to curate their own content universes. The replacements will be a step downward, underlining a sad truth: Reading -- serious and substantial reading -- is no longer as vibrant an online enterprise.
+
+Brad Hill is a former Vice President at AOL, and the former Director and General Manager of Weblogs, Inc. He begins each day with Google Reader Feedly, for now.
+

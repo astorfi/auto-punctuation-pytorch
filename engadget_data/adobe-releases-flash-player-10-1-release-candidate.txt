@@ -1,0 +1,5 @@
+
+ 
+There's still a ways to go before a final, proper release, but Adobe has now upgraded its once beta Flash Player 10.1 to Release Candidate status, and introduced a host of fixes and improvements in the process. From the looks of it, there's nothing too radical in terms of changes from previous betas, but the RC does promise improved stability and performance, and fixes for a range of video playback problems with different graphics cards (which may or may not also involve driver updates). Hit up the PDF link below for the complete release notes, and grab the RC yourself for Windows, Mac or Linux straight from Adobe Labs.
+ 
+ 

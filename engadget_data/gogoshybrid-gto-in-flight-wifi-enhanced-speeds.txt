@@ -1,0 +1,34 @@
+
+In a way, in-flight WiFi still seems like the future. It's the internet, in the air, while traveling at 30,000+ feet. Clearly, just having access isn't good enough, as a smattering of opponents have stepped into a segment long dominated by Gogo with snazzier, satellite-based alternatives. Over the past few years, ViaSat has stepped up in an effort to offer flyers something that Gogo's existing services won't: streaming video. While Gogo's air-to-ground network is great for latency, it struggles with bandwidth, as anyone on a crowded flight from JFK to SFO will likely attest. Today, Gogo has taken the wraps off of GTO (Ground to Orbit), described as a hybrid technology that will be "capable of delivering more than 60Mbps to the aircraft." For those keeping score, that's a 20-fold increase from where Gogo started just a few years ago.
+
+
+We spoke to a company representative leading up to the reveal, who confirmed that GTO is a proprietary offering, and will lean on satellites for the downlink while using existing ground-based transceivers for the uplink. For users, that means that latency will remain low, uploads will remain sluggish, and downloads will improve dramatically. Gogo points out that precious little will need to change for airlines to take advantage; there's a new antenna, which is actually half as large as the existing one, but most everything else will remain the same. Virgin America will be the launch partner of the new service, which is expected to be available in the second half of 2014; we asked if any other airlines were onboard beyond that, but were left to make assumptions for ourselves.
+
+
+
+
+Gogo will be utilizing a Ku antenna developed specifically for receive-only functionality. Most users won't be bothered by the limited uploads, and indeed, this enables Gogo to more easily implement and support video streaming services. The company did confess to us that likes of HBO Go won't be supported right away (it'll need to test the loads for a while), but that could (and should) change once the kinks are ironed out. Unfortunately, the air-to-ground portion of the equation means that the tech will only be useful on domestic flights within the United States. Oh, and as for pricing? We're told that the rates will remain steady for now, and in fact, they could go lower with GTO enabled. Presently, Gogo is forced to price out more and more users in order to preserve a reasonable experience for those willing to pony up, but if it's able to allow more folks on, it can do so with lowered prices.
+
+Show full PR textGogo Announces its Next Generation In-Flight Internet
+
+Technology for North America
+
+New Service Expected to Increase Speeds by more than Six Times Current Performance
+
+ITASCA, IL. – Sept. 11, 2013 – Gogo (NASDAQ: GOGO), the world leader of in-flight connectivity and a pioneer in wireless in-flight digital entertainment solutions, announces the next step in its technology roadmap, which will be capable of delivering more than 60 Mbps to the aircraft.
+
+The new service – called Gogo GTO, or Ground to Orbit – is a proprietary hybrid technology that combines the best aspects of existing satellite technologies with Gogo's Air to Ground (ATG) cellular network. The technology will use satellite for receive only (transmission to the plane) and Gogo's Air to Ground network for the return link (transmission to the ground). Virgin America will be the launch partner of the new service, which is expected to be available in the second half of 2014.
+
+"Gogo has proven time and again that it's the leader in developing new technologies that will bring more bandwidth for the buck to the aero market. GTO is the next step in our technological evolution and is a ground breaking new technology for the commercial aviation market in North America," said Gogo's president and CEO, Michael Small. "When we launched our in-flight Internet service five years ago, we were able to deliver 3.1 Mbps per aircraft through our Air to Ground network. About a year ago, we began rapidly deploying our next generation Air to Ground service that took peak speeds to 9.8 Mbps. GTO will now take peak speeds to more than 60 Mbps. That's a 20-fold increase from where we started."
+
+"Because we are a Silicon Valley-based airline, Virgin America guests expect a fully connected in–flight experience that enables them to remain productive even at 35,000 feet," said President and CEO of Virgin America David Cush. "We were proud to be the first to offer Gogo's ATG-4 product last year and we are pleased to be the launch partner for GTO, which will be another leap forward in terms of speed and performance of in–flight Wi-Fi for our guests."
+
+Gogo will be utilizing a Ku antenna developed specifically for receive only functionality. The advantages of using satellite for reception only and Gogo's ATG Network for the return link are unprecedented. Existing two-way satellite antennas in the commercial aviation market have limited power for transmissions so they don't interfere with other satellites. This dynamic makes the connection from the aircraft to the ground using two-way satellite an inefficient and expensive return link compared to Gogo's ATG Network. Gogo's receive only antenna will be two times more spectrally efficient and half the height of other antennas in the commercial aviation market. The low profile of the antenna will result in much less drag and therefore fuel burn on the aircraft and, ultimately, greater operational efficiencies for airlines.
+
+Gogo's new satellite antenna can also leverage a number of today's Ku band satellites as well as future Ku band satellites, including spot beam Ku satellites. This enables Gogo to take advantage of new Ku satellite technologies as they become available without having to install a new antenna. The ability to use multiple satellites avoids reliance on a single satellite and provides a more robust and reliable network for airline partners and our end users. The system is also backed up by Gogo's Air to Ground network, which gives the service significant advantages in terms of resiliency.
+
+"By using this type of hybrid technology you're utilizing the low latency of ATG and the high throughput of current and future satellite technologies, which we feel will give passengers a much better user experience," added Gogo's chief technology officer, Anand Chari. "We also expect GTO to be the most TV friendly solution in the market. The receive-only GTO antenna's higher spectral efficiency and lower cost structure will produce a better quality picture for various types of applications including IPTV."
+
+Gogo will seek FAA approval for the new service in the 2014. Because the antenna is receive only, the company doesn't believe there is any additional FCC licensing needed for the new antenna.
+
+

@@ -1,0 +1,4 @@
+
+Many Smart TVs don't really talk to other devices as well as we'd like; integration tends to be basic, proprietary or both. LG may soon have a more elegant solution, as it's promising AllJoyn support in its TV line. The Qualcomm-built framework should let you control on-screen activity from any AllJoyn-capable device, whatever platform it runs -- Android, iOS and Windows users could theoretically play the same TV game. LG hasn't said when AllJoyn will reach its sets, but we wouldn't be surprised if the company has more to say at CES next month.
+
+

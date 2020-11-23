@@ -1,0 +1,6 @@
+
+ 
+Our consumer-grade home DSL is starting to look pretty paltry compared to the records that are coming out of research labs these days. While we told you about the latest speed record of 14 terabits per second over fiber in Japan, that really doesn't help use mere mortals who are still using 100Base-T routers in our homes and offices -- even though about a month ago, we spied one of the first gigabit routers on the market, which raised our spirits a bit. Well our hopes have been kicked up a few more notches today, with the news from GigaOm that Infinera, the University of California Santa Cruz, Internet2 and Level3 Communications have just demoed a 100 gigabit per second Ethernet connection over a fiber network between Houston, Texas and Tampa, Florida. Now if only we could get the IEEE bureaucracy and networking manufacturers to move this fast -- we need at least a gigabit per second in our pads, like, last year.
+      
+
+ 

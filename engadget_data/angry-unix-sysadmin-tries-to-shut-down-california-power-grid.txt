@@ -1,0 +1,5 @@
+
+ Looks like someone's trying to inspire a new generation of BOFH posts -- Lonnie Charles Denison, a UNIX sysadmin working at power grid data center in Folsom, CA, just pled guilty to attempting to kill the western US power grid in April. Denison had been fighting with his bosses and lost his access privileges to the system, which apparently led him to sudo up the old-fashioned way -- by taking a hammer to the data center's emergency shutoff switch. Fortunately, he did it late on a Sunday night, when the power-management center was not in high demand, but officials say he could have caused a power disruption in the western US if he'd gone loco in the AM. Denison also apparently emailed in a fake bomb threat to another worker the next morning, leading to his eventual arrest, and it looks like he's facing a fine of up to $250,000 and five years in jail. Wonder if he flipped an excuse card while on the stand?
+      
+
+ 

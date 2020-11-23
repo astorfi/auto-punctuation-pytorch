@@ -1,0 +1,52 @@
+
+On the morning after the Oppo N1 launch, Steve "Cyanogen" Kondik was surrounded by several Oppo ambassadors and tech writers at a hotel lounge in Beijing. It's a far cry from where he began: toying with Android ROMs out of "boredom" about five years ago.
+
+
+"When I started this thing, I had, like, no idea that people would actually care," said Kondik, the creator of CyanogenMod. "I was kind of watching out to see who was going to bring Linux to the first mobile device, in a way that it didn't absolutely suck."
+
+
+In the end, it was Android that stood out with its open-source development, and Kondik saw the potential of adding his own enhancements to devices running on this OS. By day, the Seattle-based developer was a lead engineer at a bioinformatics startup in Pittsburgh; but during his free time, he worked on what later became CyanogenMod for the legendary T-Mobile G1, the world's first commercial Android device. And of course, he bought it on the day it came out.
+
+
+
+
+It's obvious that Kondik isn't the only person who desires such a high level of software customization and polishing, especially long after the vendors stop supporting their outdated devices. To date, CyanogenMod has registered more than 7.9 million active installs across multiple devices. Plus, there's a team of voluntary translators adding languages that are sometimes not supported by either Google or the vendors. And these numbers will likely jump again with the launch of Cyanogen Inc., a small team backed by Benchmark Capital and "some great guys on the board." Their goal is to refine the CyanogenMod experience while still giving prosumers the same customization power, as well as working closely with manufacturers -- the first being Oppo with the N1.
+
+"What it's really going to be about is services. We're not trying to sell CyanogenMod or anything like that."
+
+"We have some good ideas coming, and you're gonna start seeing some interesting stuff that nobody's done before pretty soon," said Kondik. "What it's really going to be about is services. We're not trying to sell CM or anything like that. We're trying to build back-end services and things alongside CyanogenMod that are really high-end and really interesting."
+
+Alas, that was all Kondik could tell us at this stage, but the initial focus is set on getting as many users as possible by providing an easy solution to install CyanogenMod. With the recent release of the 10.1.3 build (based on Android 4.2), you can also see the team officially rolling out their CyanogenMod account service, which "provides access to value-added services and functionality." These currently include device tracking and remote wiping, though both are also offered by Google's Android Device Manager service.
+
+
+Of course, CyanogenMod has more to offer. Kondik pointed out that his ROM gets these cool features that sometimes "come out of nowhere" from contributors, and he reminded us that his was the first ROM to offer the "swipe-to-delete" action -- long before Google baked this into Android. Koushik "Koush" Dutta, creator of ClockworkMod and now VP of Engineering at Cyanogen Inc., has also been working on AirPlay Mirroring from a CyanogenMod phone, as he demonstrated with his work-in-progress in the above video. Kondik admitted that there's still a lot of work to be done here, but he believes such wireless implementation of enabling a second screen "is a big deal." Unsurprisingly, Google's now watching this space as well.
+
+As the saying goes: you win some, you lose some. One significant feature that CyanogenMod lost after the launch of Cyanogen Inc. was the Focal camera app, as its creator, Guillaume Lesniak, objected to letting the newly formed company controversially relicense his work. The developer argued in length that this would have meant Focal would no longer be recognized as a contribution, and that Cyanogen Inc. could do whatever it wanted with his app, despite the company's promise to also keep the app's GPL (General Public License) -- which begged the question as to why bother relicensing it in the first place -- as well as pay him according to his pricing. Many other contributors, too, felt they weren't given the full picture of CyanogenMod's plan to go commercial back then.
+
+Leaving the thorny issue of code licensing aside, another area of interest for Kondik's team is the theme market. While the ROM's been supporting themes for some time, users can only find them by searching through Google Play, which isn't ideal due to the severity of keyword spamming these days. On the other side of the fence, only the experienced developers can create these themes due to the lack of dedicated tooling, but there's less appeal for them to do so if their themes are buried by others who game the keyword system. Kondik hopes to fix both problems by building a dedicated ecosystem for themes, a feat that has helped popularize Xiaomi's MIUI in China.
+
+"I think the best thing about MIUI is that they did a really good job with their themes," confirmed Kondik. "I mean, it's really awesome; they really nailed it. They made it really easy to create them, too.
+
+"We're lacking a lot of that tooling as well; you kind of have to edit a bunch of XML yourself [and] run some crazy commands to build the theme APK (Android application package file). So we're looking at building some good tooling to make it really easy, so people can just really make it look and act however the heck they want."
+
+
+The bigger challenge for Cyanogen Inc. is to convince more OEMs to open up their bootloader and kernel to Kondik's team -- preferably ahead of device launches for more polishing. But the mobile industry's been going back and forth over this issue, so it'll be a tough road ahead even for a famous brand like Kondik's. Of course, patient modders can eventually hack their way through locked bootloaders and then into the kernel, but Kondik would rather not rely on, nor release, bootloader exploits for now.
+
+"What's more interesting is to see if we can get some cooperation, and end this nonsense of putting all these locks on there that don't really solve any problem," said Kondik. "All they do is just make people mad, and they get cracked like a week later, anyway. So it's just like this arms race that keeps escalating -- it's stupid; it's pointless."
+
+Looking from their perspective, though, Kondik thinks the old-fashioned companies fear that modders may enable some type of theft services (which is obviously not CyanogenMod's objective, said the founder), or that this has something to do with safeguarding their tethering services.
+
+"But all of that [is] on the service side; it's not something you'd lock down a device for. And then a lot of it is, 'Oh, you know, they might break the device; we may get returns.' It's really hard to brick one of these devices, though.
+
+"If you want to void your warranty, you should be able to void your warranty."
+
+"But if you want to void your warranty, you should be able to void your warranty," continued Kondik, who then praised HTC for coming up with a bootloader unlocking scheme that lets users make their own decisions. While there's also Google's AOSP program (in which CyanogenMod is also a participant), Kondik believes it can be a lot friendlier in terms of minimizing the complexity involved in offering choices to users -- between CyanogenMod's launcher and Google's Holo theme, for instance.
+
+
+What if Cyanogen Inc. was to release its own devices in the future, much like how Xiaomi ended up making its own phones for MIUI? "Well, it's a terrifying idea," responded Kondik, who implied that it's still early days for his core team of 17 people -- a stark contrast to, say, Oppo's 5,000-strong army. For now, the priority is on finding good partners to turn this event into something big -- so much so that Kondik sees the possibility of letting a mobile phone manufacturer acquire Cyanogen Inc., should this opportunity arise. That said, such an offer would "need to be wildly beneficial for both sides and really make sense," given how much emotional investment everyone's put in.
+
+"We don't want to sell it for a bunch of money to somebody that wouldn't know what to do with it. If something like that were to happen, it would have to be a big deal.
+
+"So far we haven't had any acquisition offers," added Kondik, who then turned to one of the Oppo ambassadors. "You wanna buy CM? $100 billion?"
+
+

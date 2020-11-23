@@ -1,0 +1,6 @@
+
+ 
+These PCIe SSD drives can't arrive fast enough for our needs... ok, wants considering the thousands they cost. The latest announcement comes by way of Super Talent Technology with its new 2TB RAIDDrive. The card slips into a PCIe x8 slot and ships in Enterprise (battery backed), Workstation, and Gamer (!) configurations with MLC (cheap, fast) or SLC (expensive, faster) NAND and optional RAID 5 capability. Super Talent claims that its RAIDDrives "are capable of delivering sequential Read speeds of up to 1.2GB/s, sequential Write speeds of up to 1.3GB/s." Unfortunately, no ship date or price was announced, only that we'll get more "performance details" in June. Presumably that means something useful like random IOPS benchmarks.[Via Impress]
+      
+
+ 

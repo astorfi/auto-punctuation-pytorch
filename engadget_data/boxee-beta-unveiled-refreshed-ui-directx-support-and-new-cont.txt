@@ -1,0 +1,6 @@
+
+
+Boxee's growing up! The media center's hit beta status, and with the new Greek letter comes a revamped UI and some new functionality. For starters, the front page has been redesigned to highlight the menu, your personal queue, featured content, and recommendations that are fed in from Facebook or Twitter. For video, local files and online content are integrated into the same menu, can be filtered by free or pay content, and television shows are now sorted by season and episode. We're particularly fond of the new global menu for quick shuffling through the menu and to shortcuts. At an event tonight in New York, the company's also announced three new apps: The Escapist, Suicide Girls, and most interesting of all, "TV Guide to the Web" Clicker. On the more technical side of things, the graphical backend has switched from OpenGL to DirectX, and NVIDIA's been cooperating to better optimize the software for use on the Ion platform via DXVA and Flash 10.1. Good changes all around, except we did just hear that it won't support 64-bit in Karmick Koala -- sorry, Ubuntu fans. As previously mentioned, there's no wide release available yet, so you'll just have to live vicariously through the gallery below!
+
+
+

@@ -1,0 +1,6 @@
+
+ 
+Despite limitations that keep us from crowning it the best Blu-ray player out there, the PS3 is the most popular way to get into the format. The PS3 also gets dinged as a Blu-ray player because of its Bluetooth remote control. Who knows what Sony was thinking -- maybe IR was just too old timey for their next gen console or maybe they just wanted to get as much "blue" as possible. Whatever the case, the use of Bluetooth makes it pretty much impossible to integrate the PS3 with your system's remote scheme. While there are USB-based workarounds, they leave out some functions (most notably power on/off). Enter the IR4PS3, which adds an IR receiver to the Bluetooth PS3 remote, effectively turning your Bluetooth PS3 remote into a IR-to-Bluetooth transceiver. IR goes in, Bluetooth commands go out, and you get full functionality. You want it, right? Well, you'll have to wait for the manufacturer to prepare a DIY-friendly revision (giving you time to polish up your soldering skills).[Image courtesy RemoteCentral]
+      
+
+ 

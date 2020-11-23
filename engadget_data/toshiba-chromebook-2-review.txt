@@ -1,0 +1,73 @@
+
+Competition is a beautiful thing. When Samsung first came out with its 13-inch Chromebook 2 earlier this year, it quickly became one of our favorite budget laptops, mostly because it was the only Chrome OS device with a sharp, full HD screen. Even so, it was hardly perfect: Its performance could have been faster; it was missing a full-size SD slot; and, at $400, it was kinda pricey too. Here's where that competition thing comes in. First Acer released something similar at a lower price, and now Toshiba is selling a full HD Chromebook of its own, also called the Chromebook 2. While it matches Samsung pixel for pixel, the price is also a good deal lower: just $330 for the top-of-the-line model. But let's not judge a machine purely by its spec sheet, shall we? How does the new Chromebook 2 actually perform? There was only way to find out: Use it as my primary laptop for a week.
+
+
+
+
+
+Hardware
+The Chromebook 2 might be Toshiba's best Chromebook yet, but it actually looks suspiciously like last year's model. As before, it's fashioned out of gray, textured plastic, with a bumpy dot pattern that does a good job masking scratches and fingerprints, even if it is a little cheap-looking. Once again, too, the screen measures 13 inches, although the footprint is slightly smaller than it used to be. Even the port selection is the same: two USB connections (one 3.0, one 2.0), a full-sized HDMI socket, a dual mic/headphone jack and, yes, the all-important SD card slot. While the two models look similar, though, this one is a bit thinner and lighter, coming in at 2.95 pounds and 0.76 inch thick (down slightly from 3.3 pounds/0.8 inch on the original). That's about the same weight as Samsung's Chromebook 2, though the Acer Chromebook 13 comes in at 3.31 pounds, which means you could definitely do worse as far as heaviness goes.
+
+The keyboard also remains unchanged; it's spacious, but the flat buttons don't always register your keystrokes. In particular, I often had to type my 12-digit Google password several times, unless I went out of my way to peck it out v e r y s l o w l y. The touchpad, meanwhile, is mostly functional, but I did occasionally lose control of the cursor. One time, for instance, I meant to click something from a website, but instead ended up opening random links from a different part of the page. Surely there's something Toshiba can do to ensure that gestures like "tap to click" work a bit more precisely.
+
+
+Now that we've gotten that out of the way, let's jump to the thing you're all most interested in: the display. Although the Chromebook 2 still comes standard with a 1,366 x 768 screen (the price there is $250), you now have the option of getting it with a full HD, 1,920 x 1,080 display instead (this is the $330 model). The difference in sharpness is immediately noticeable, as it is every time you graduate from a regular HD laptop to a full HD one. Those extra pixels came in especially handy for my marathon Netflix and Hulu streaming sessions, though I confess my eyes couldn't always handle the tiny text on regular webpages. In particular, I struggled with things like Gmail and the Spotify web player -- sites where there were just too many lines of text for me to be able to read without squinting. As you can imagine, I made frequent use of the "Ctrl and plus sign" keyboard shortcut. Even so, regardless of the scaling settings, the low-glare IPS screen allowed me to watch comfortably from all sorts of angles: sitting upright on the couch with the laptop on my legs, and lying down with the machine resting against my knees. The colors are nice too -- vibrant, but not so oversaturated that they look unnatural.
+
+Meanwhile, on the audio front, Toshiba recently started using Skullcandy speakers in most of its low-end and mid-range laptops, including the new Chromebook 2. Despite that brand name painted on the chassis, I still managed to be surprised by how good the sound was. For one thing, it's loud. Almost uncomfortably loud at times, but still, it's good to know it can crank up that high, when needed. I did notice a bit of distortion at top volume, which is often the case with laptops, but again, because the machine was so loud, there was plenty of leeway to lower the levels and still enjoy both good sound and audible volume. From there, with the volume set comfortably around 50 percent, I had a good time spinning all sorts of music: bluegrass, jazz, electronica, British pop from the '60s, hip-hop and whatever genre we think the Austin Powers theme falls into (kidding, Quincy Jones fans!). All told, it's some of the best audio I've heard on any laptop, which is especially amazing since this one only costs $330.
+
+Performance and battery life    SunSpider v.1.0.2* Google Octane Mozilla Kraken*     Toshiba Chromebook 2 (Celeron N2840, 4GB RAM) 967ms  7,714
+
+   4,284ms
+
+    HP Stream 11 (Celeron N2840, 2GB RAM) 404ms (IE Modern) / 312ms (IE Desktop)  3,557 (IE Modern) / 4,809 (IE Desktop)
+   7,576ms (IE Modern) / 6,618ms (IE Desktop)
+    Samsung Chromebook 2 (11-inch, Celeron N2840, 2GB RAM) 525ms  7,223
+
+   3,936ms
+
+    Acer Chromebook 13 (NVIDIA Tegra K1, 2GB RAM) 609ms  7,051
+
+   4,816ms
+
+    Lenovo N20p (Celeron N2830, 2GB RAM) 567ms  7,288
+
+   4,287ms
+
+    ASUS C200 Chromebook (Celeron N2830, 2GB RAM) 483ms  7,198
+
+   4,291ms
+
+    Acer C720 Chromebook (Celeron 2955U, 2GB RAM) 342ms  11,502
+
+   2,614ms
+
+      Dell Chromebook 11 (Celeron 2955U, 4GB RAM) 340ms  11,533
+
+   2,622ms
+
+     *SunSpider and Kraken: Lower scores are better.
+   Toshiba's second-gen Chromebook runs off an Intel Celeron N2840 chip, the same CPU inside Samsung's new 11-inch Chromebook 2 as well as the HP Stream 11, a Windows-based Chromebook equivalent. Also, if you get the Toshiba Chromebook 2 with a full HD screen, like the one on my test model, you'll also get 4GB of RAM, instead of the category-standard 2GB. Despite that extra memory, though, performance seems to fall in line -- if not slightly behind -- competing devices. In the JavaScript benchmarks Google Octane and Mozilla Kraken, its scores more or less match other Celeron-based laptops and actually, its SunSpider score is markedly worse. In real-word use, meanwhile, I recorded a nine-second startup time. That's plenty fast for me, but keep in mind that most Chrome OS devices boot up just as quickly; definitely don't base your purchasing decision on that.
+
+Setting aside those synthetic-test results, the Chromebook 2 was able to keep up with me. Most of the time, anyway. Using the built-in browser, I did a disgusting amount of Black Friday shopping, frequently opening new tabs to browse additional stores or compare prices. Throughout, the machine loaded new tabs quickly, and not once in my testing did it crash or fail to load a site. I also spent a good portion of my holiday weekend binge-watching Scandal, streaming from Google Play and Hulu for lord-knows-how-many hours. Video playback was always smooth, no doubt thanks to the upgraded 802.11ac WiFi radio. The machine never got hot, exactly, though I could feel the bottom side growing warmer as I rested the laptop on my legs -- and that was through my pants too. Really, the only time I felt at all frustrated was when I was listening to Spotify through the app's web player: There were multiple instances when I went to open a new tab and the audio cut out briefly before picking up again. Additionally, I noticed some tiling when resizing windows to full screen, but it always went away after a brief pause.
+
+     Battery life
+
+      Toshiba Chromebook 2 6:34 (full HD) / 7:31 (standard def)   ASUS C200 11:19 (standard def)   Acer Chromebook 13 10:07 (standard def)   Dell Chromebook 11 7:30 (full HD) / 8:37 (standard def)   Samsung Chromebook 2 (13-inch) 8:22 (standard def)   HP Stream 11 8:17 (full HD) / 8:45 (standard def)   Lenovo N20p 7:55 (full HD) / 8:58 (standard def)   Toshiba Chromebook 7:01 (full HD) / 8:15 (standard def)   Acer C720 Chromebook (Intel Core i3) 6:27 (full HD) / 7:53 (standard def)   Acer C720 Chromebook (Intel Celeron) 5:57 (full HD) / 7:49 (standard def)   Samsung Chromebook (2012) 6:33 (standard def)   HP Chromebook 11 5:08 (standard def)  Toshiba says the Chromebook 2's three-cell, 44Wh battery is good for up to nine hours of runtime, but I never quite reached that milestone. Particularly in our standard video-rundown test -- an admittedly grueling test if ever there was one -- I only got six hours and 34 minutes of continuous HD video playback. You could always drop down to standard definition, in which case you can expect around seven and a half hours. With lighter use -- surfing the web, checking email, streaming music -- you should get closer to the nine-hour mark. Even so, while the Chromebook 2's battery life is fairly normal compared to most competing devices, it's significantly short relative to other 1080p Chromebooks, specifically. The Samsung Chromebook 2, for instance, can last through nearly 8.5 hours of standard-def video, while the Acer Chromebook 13 managed around 10 hours.
+
+Software
+I'll keep this section short, just because Chrome OS hasn't seen any major updates recently. If you've only just started shopping for a Chromebook, though, there are a couple things you should know. First, every Chromebook comes with 1TB of Google Drive storage, free for two years. Additionally, buying the Chromebook 2 entitles you to 60 free days of Google Play Music, plus 12 free Gogo in-flight WiFi passes.
+
+Second: Though you can't exactly do everything offline, you can still do a lot more than you used to be able to. All the major apps -- Gmail, Google Drive and now Play Movies -- will work even without an internet connection. So, you won't be screwed if you find yourself on a long flight with no onboard WiFi -- but you will still have to do some advanced planning and "pin" individual files for offline use while you still have an internet connection. Finally, many of the apps in the Chrome Web Store support offline use too, including some big names like Pocket and Amazon's Kindle Cloud Reader. In fact, if you like, you can even filter the Chrome Web Store's search results to only show offline-ready apps.
+
+The competition
+If you're in the market for a cheap laptop, but still want a crisp 1080p display, your options are basically limited to four models: the Toshiba Chromebook 2 I'm reviewing here, as well as the 13-inch Samsung Chromebook 2 (now $350), the Acer Chromebook 13 ($300-plus) and the HP Chromebook 14 ($440). With the exception of the Acer, which starts with 2GB of RAM, all of them come standard with 4GB of memory. Other than that, then, the real differences come down to design and processor choice. I'll get the design part out of the way real quick and just let you know that the Samsung Chromebook 2 is the only one with anything resembling a "premium" design; the others are pretty plain.
+
+As for performance, Acer and HP use NVIDIA's Tegra K1 chip, which outshines its competitors in certain use cases -- namely, graphics-intensive websites -- but you're still not likely to notice much of a difference in everyday use. Samsung, meanwhile, uses its own proprietary Exynos chip, while Toshiba went with an Intel Bay Trail-series Celeron CPU, similar to what you'll find in most other Chromebooks. Across the board, performance is what I'd call "good enough," with sub-10-second boot-up times and rarely any crashes. If anything, battery life is the real differentiator here. As I said earlier, the Toshiba Chromebook 2 has the worst battery life of the bunch. Samsung's Chromebook 2 is only modestly superior, while Acer's is much better. Again, too, Acer's is also the least expensive, which is another plus.
+
+Whichever you choose, you're going to be hard-pressed to find a Windows PC at this price with such a sharp display. And as I found recently when I reviewed the HP Stream 11, though Windows PCs are getting cheaper and cheaper, they don't necessarily feel as fast as Chromebooks, even if they have the same processor. That said, some of you will still prefer the option of installing desktop apps like iTunes, in which case, the Stream 11 is a good buy indeed. Also, Microsoft is sweetening the deal by throwing in 1TB of OneDrive space and a $25 Windows Store gift card, and I suspect that as more PC makers start selling Windows-based Chromebook competitors of their own, you're going to see other brands offering the same promotion. Something to consider if you don't think you can live in the cloud 24/7.
+
+Wrap-up
+Toshiba's latest Chromebook is a clear improvement over its predecessor, what with its bright 1080p screen, boomier audio and slightly lighter design than some of its competitors. You generally can't go wrong here, especially at this price, but there are just enough quirks that keep me from calling this best in class. Chief among them are the cheap build quality and relatively shallow keyboard, especially since, for $20 more, you can get Samsung's 13-inch Chromebook 2, which has a faux-leather lid and cushier keys to type on. Also, while the Toshiba Chromebook 2 has decent battery life compared to other Chrome OS devices, it falls short of other 1080p models specifically; the Acer Chromebook 13, for instance, outlasts it by a good two and a half hours. It seems, then, that none of these big-name options are perfect on their own, but Toshiba's offering is at least pretty good.
+
+Photos by Will Lipman
+

@@ -1,0 +1,10 @@
+
+ Lock screens are around for a reason: to keep people from getting where they shouldn't. They aren't always infallible, though, and a few weeks ago, we saw a vulnerability in several builds of iOS 6 that granted access to the phone module without a passcode. Then, a couple of days ago, we reported on a Galaxy Note II bug that allows the quick-fingered to launch anything immediately behind the lock screen. Now, a similar flaw has been found on the Galaxy S III that breaks the lock screen altogether, permitting full use of the phone. To replicate the bug, you'll need to tap the "Emergency Call" button on the lock screen, then go into the ICE (emergency contacts) menu. From there, press the home button, followed quickly by the power button, and that's it. If successful, pressing the power button again will bring up the home screen straight away, and what's more, the lock screen won't return until the handset is restarted. Sounds worryingly simple, right? In our experience, not so much.
+
+ We first tried this method on an S III running Android 4.0.4 ICS, and a Note II for good measure, but to no avail. Then, we had a crack at an S III running 4.1.2 Jelly Bean, and were close to giving up trying to replicate it when voilà, it worked. We hoped to provide you with a video of the bug, but it must be camera shy. Despite literally hundreds of attempts in front of the lens and several more behind it, we've only managed it once -- we found it impossible to nail down the correct timing between the home and power button pushes. Samsung's likely aware of the bug already and when quizzed about the Note II vulnerability, said a fix for lock screen issues on affected "Galaxy devices" was in the works (read: they didn't say the Note II specifically). We've reached out for comment just to be sure, but until a patch is provided, keep your phone concealed from nosey types who read tech sites and have saint-like patience.
+
+ Update: Samsung has responded, confirming a fix is indeed on its way:
+
+  "Samsung considers user privacy and the security of user data its top priority. We are aware of this issue and will release a fix at the earliest possibility."
+
+

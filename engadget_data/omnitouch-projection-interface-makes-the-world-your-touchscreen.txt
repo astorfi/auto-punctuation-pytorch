@@ -1,0 +1,9 @@
+
+ 
+ Sometimes you just want to make notes on your forearm. Put that permanent marker down though, because PhD student Chris Harrison et al at Microsoft Research have created a new system that allows touchscreen interaction on hairy and uneven surfaces. It uses a short-range depth camera instead of the infrared sensor we've seen on similar devices, which allows it to gauge the viewing angle and other characteristics of surfaces being used -- and it can even handle pinch-to-zoom. There's a video after the break, if you fancy a bit of wall-based digital finger painting.
+
+
+
+
+ 
+ 

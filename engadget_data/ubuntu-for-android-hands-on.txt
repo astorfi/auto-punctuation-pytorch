@@ -1,0 +1,11 @@
+
+ 
+Canonical's announcement of Ubuntu for Android kicked up quite a stir, but it also left us with a few unknowns. The idea is that your phone becomes a mobile PC, switching from Android into full desktop Ubuntu mode when you dock it to a bigger display, keyboard and mouse. But just how well does it perform? When is it coming? How is it coming? And will tinkerers be able to install it for themselves? Canonical let us into its London office today to try out the software and pepper one of its engineers with questions. First, the good news: Ubuntu for Android is everything it's been claimed to be. It's a functional desktop OS that sits alongside Android, shares the same kernel and has full read / write access to everything on your phone (the connectivity hardware itself plus contacts, emails, videos, apps and pretty much everything else.). It's also ready for ARM-compatible Ubuntu apps, potentially expanding the range of things your phone can do.
+
+The bad news? It needs to be faster -- a lot faster. The prototype we saw was running on a TI OMAP 4430-powered Motorola Atrix 2 that had primarily been chosen for its ready-made docking accessory. The software hadn't been customized for that handset and neither Motorola nor TI have so far been involved in the project. Despite this, some tasks ran surprisingly well, like watching a video or adjusting a photo. However, surfing on the Chromium desktop browser suffered too much hanging and it was also clear that multi-tasking would be a serious burden. According to Canonical, better performance will come when manufacturers tailor the software to their newest handsets and offer it pre-installed. The company is doing everything it can to make that happen -- meeting with big players at MWC next week and trying to persuade them that it's not too late to offer Ubuntu on models scheduled for launch this year. We asked if Canonical would make the OS available to us ordinary folk sooner than that, so we can play with it and give our feedback, but that just isn't part of the company's game plan right now -- everything hinges on manufacturers seeing the 'differentiation' value and climbing aboard. To tide you over in the meantime, click past the break for a hands-on video.
+      
+
+ 
+
+ 
+ 

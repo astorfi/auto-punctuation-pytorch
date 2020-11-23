@@ -1,0 +1,12 @@
+
+Facebook is perhaps the most prominent example, but the internet, whether we want to accept it or not, is a gigantic data-mining operation where every thing about us is monitored, measured and experimented with -- even our love life, should we choose. The folks over at online-dating service OKCupid (OKC) have recently detailed, among other things, how they futzed with the site's match-percentage system to see if it'd affect users' messaging habits. To start, OKC wanted to see just how much bearing system had on the likelihood of sending one message. When the service took two people who were actually 30 percent compatible and fudged the numbers by, say, 60 points, the amount of first messages sent naturally increased. As the OKTrends blog notes, that's exactly what was expected because that's how the site's users have more or less been trained; a higher number means a potentially better match. But, as anyone who's used the site can probably attest, one message doesn't mean a whole lot.
+
+
+
+To see how much effect the data manipulation truly had, OKCupid set four messages as the bar for a successful match. By telling a couple that they were a good fit, people acted as though they were and messaged more. A stark contrast against the fact that in reality (as much as you can call algorithm-based dating that), they'd likely have never contacted each other via the site in the first place. The same held true even when it came to exchanging contact info and presumably meeting for a date, too. To make sure that the matching algorithm wasn't "garbage," the dating site flipped the experiment on its head, telling users who were actually high-matches that they in fact were not: the number of four-message exchanges was predictably low. Not surprisingly, the number of people who were legitimately compatible exchanged the most messages with those that the site noted were high-matches. 
+
+The blog post also details how much removing photos from all profiles affected messaging rates, and even what OKCupid's previous dual-rating system (personality and looks) meant in terms of messaging habits. Even if you haven't tasked the internet with playing matchmaker, it's still a pretty fascinating look at how A/B testing can affect our perceived notions about who we're compatible with. The ethics of doing so, of course, are a bit dubious.
+
+[Image credit: Thomas Hawk/Flickr]
+
+

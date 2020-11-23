@@ -1,0 +1,18 @@
+
+ 
+So what's this Thunderbolt stuff, and why is it in your new MacBook Pro? Intel just broke it down for us, and now we'll do the same for you. Simply put, Thunderbolt's a familiar-looking port, a brand-new chip, and a cord, which allows devices to pipe two data streams simultaneously -- in both directions -- over a single cable at up to 10 gigabits per second to start, primarily using PCI Express x4 for data and DisplayPort for video. The Thunderbolt controller chip -- required for the system, but Intel says it's hardware-agnostic and doesn't require an Intel processor or chipset to use -- acts as a miniature router of sorts that rapidly switches between the two bidirectional channels of data.
+
+Sounds great, but why would you want to buy into yet another copper cord? Intel defends that Thunderbolt will be backwards and forwards-compatible depending on the cable used. Representatives explained that the basic system can work with any other PCI Express 2.0-compatible I/O system with, say, a FireWire or eSATA adapter doing the dirty work --Intel wouldn't specifically comment on USB 3.0 -- and that the port you'll find in new MacBook Pros and storage devices can actually take an optical cable when those are cost-effective enough to roll out, because Intel will eventually bake the optical transceivers into the cables themselves. In the meanwhile, you can get up to three meters of range out of a basic cable, plus a fairly generous 10 watts of power over the bus, and since Thunderbolt devices are designed to be daisy-chained, you may be able to get another three meters for each device you add on that sports a pair of the ports.
+
+Though Intel wasn't talking about likely prices for the chips or cables in even the most general terms, Promise and LaCie had prototype devices on hand headed to the market soon -- get a peek at them and a closer look at the cable in our gallery below, and we'll have video up in a little while too.
+
+Update: Looks like LaCie's product now has a name and vague release date: it's the LaCie Little Big Disk, coming this summer, with a pair of solid state drives inside.
+
+Update 2: Video after the break -- get a load of Thunderbolt streaming four 1080p clips from a MacBook Pro and attached Promise NAS simultaneously!
+
+
+
+
+
+
+ 

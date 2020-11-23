@@ -1,0 +1,18 @@
+
+
+Some Stanford computer scientists have created a camera that allows pictures taken with a wide open aperture to
+still focus on every depth of field, allowing for brighter and faster, but still in-focus, photos. The "light field
+camera" uses a microlens array that sits between the main lens and the CCD, and holds 90,000 miniature lenses which
+separate the light before it hits the sensor. Software then manipulates this "expanded light field" to determine where
+the light rays would have landed if the camera had been focused at different depths. The result is an image where each
+subject has been digitally refocused. If this all sounds very confusing, it is, but the point of it all is for better
+images, especially in demanding situations such as science or security surveillance, so don't worry if this little
+feature doesn't start popping up in your local Best Buy's camera lineup anytime soon.
+
+
+ [Via RPTT]
+
+
+
+
+ 

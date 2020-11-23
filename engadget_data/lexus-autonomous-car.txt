@@ -1,0 +1,48 @@
+
+ 
+ Self-driving cars aren't just the future, they're the present. Sort of. They're out there, but you can't buy one just yet. Google of course has made waves with its driverless car and not too long ago Nissan impressed us at CEATEC with its self-driving NSC-2015. Toyota, perhaps feeling a little left out, has taken to CES to show off the Lexus Advanced Active Safety Research Vehicle, a machine capable of self-driving that, regardless, is still quite reliant on a fleshbag driver behind the wheel. Join us after the break for an explanation. 
+
+
+
+ 
+ The platform is built atop a Lexus LS 600 (Lexus is a division of Toyota), which has been comprehensively augmented with Advanced GPS, radar, laser range-finders and stereo cameras, plus a super-precise odometer and a collection of accelerometers. All those give the car plenty of senses to detect the world around it, even able to tell the difference between green and red lights ahead, but even so it's not designed to be self-driving.
+
+ We spoke with Jim Pisz, Corporate Manager of North American Business Strategy at Toyota, who explained the situation.
+
+  Autonomous does not mean driverless... technology should enhance a driver's skills, but we do believe that the technology is at a state where it can intervene in a case where driver error is absolutely evident.
+
+ This, then, is a research vehicle designed to help the boffins at Toyota make a smarter car that can avoid crashes, not a car that can drive itself. We're talking systems that can automatically brake if a collision is imminent or keep a driver from wandering out of their lane -- not a car that you can plug in a destination and take a nap.
+
+ To give it a proper testing ground, Toyota has also created an 8.6 acre urban testing ground at the Higashi-Fuji Technical Center in Toyota City, Japan. This simulates all the joys of an urban driving environment, complete with traffic lights, pedestrians and, presumably, dudes who try to wash your windows at every corner.
+
+ 
+ That's also to help Toyota help the development of the Intelligent Transportation System (ITS), a cross-manufacturer effort to enable vehicle-to-vehicle and vehicle-to-roadside communications to help one car warn another about things like inclement conditions, blind turns and accidents. We've seen many manufacturers develop their own systems, but it's great to see Toyota working for standards.
+
+ When might this technology appear in a car? Well, the 2013 LS already offers quite a suite of driver-safety widgets including an auto-braking pre-collision system, a lane departure warning system and blind-spot scanners. But, when might we see an honest-to-gosh self-driving Toyota? Not soon, says Jim.
+
+  Ultimately, [these technologies] may lead us to an autonomous vehicle, but there are a lot of things that have to happen. Society in general has to approve of all this. A trust has to be built with customers.
+
+ So, then, it seems the self-driving car is ready for us. The question is: are you ready for the self-driving car?
+
+  Show full PR text   TOYOTA MOTOR CORP. AND LEXUS SHOWCASE ADVANCED ACTIVE SAFETY RESEARCH VEHICLE AT CES
+   Lexus Research Vehicle Part of Evolving Autonomous Technologies That Aim to Make Driving Safer
+
+   LAS VEGAS – January 7, 2013 – Toyota Motor Corporation (TMC) and its Lexus Division unveiled its advanced active safety research vehicle for the first time at the International CES today to demonstrate ongoing efforts around autonomous vehicle safety technologies and explain Toyota's approach to reducing global traffic fatalities and injuries. The vehicle, based on a Lexus LS, advances the industry toward a new era of integrated safety management technologies.
+
+   The company's guiding strategy, called the Integrated Safety Management Concept, views traffic safety as a holistic blend of people, vehicles and the driving environment. The strategy carries through all five phases of operation:
+
+   • Initial time the driver and car begin a journey from a parked position  • Active safety systems designed to avoid a crash  • Pre-crash aimed at preparing for a collision  • Passive safety to help survive a crash  • Rescue and response after a crash has occurred
+
+   While key components of these research efforts could lead to a fully autonomous car in the future, the vision is not necessarily a car that drives itself. Instead, Toyota and Lexus envision technologies that enhance the skills of the driver, believing a more skillful driver is a safer driver.
+
+   "In our pursuit of developing more advanced automated technologies, we believe the driver must be fully engaged," said Mark Templin, Toyota group vice president and general manger of the Lexus Division. "For Toyota and Lexus, a driverless car is just a part of the story. Our vision is a car equipped with an intelligent, always-attentive co-pilot whose skills contribute to safer driving."
+
+   Safety Research Vehicle: A Glimpse Into the Future  The Lexus advanced active safety research vehicle is equipped with an array of sensors and automated control systems to observe, process and respond to the vehicle's surroundings. These include GPS, stereo cameras, radar and Light Detection and Ranging (LIDAR) laser tracking.
+
+   The vehicle systems are capable of tasks such as scanning movement of objects around it, identifying a green light from a red light and measuring the trajectory of the vehicle on the road.
+
+   • A 360-degree LIDAR laser on the roof of the vehicle detects objects around the car up to about 70 meters.  • Three high definition color cameras detect objects about 150 meters away, including traffic light detection using the front camera and approaching vehicles using the side cameras.  • Radars on the front and sides of the vehicle measure the location and speed of objects to create a comprehensive field of vision at intersections.  • A distance measurement indicator located on a rear wheel measures travel distance and speed of the vehicle.  • An inertial measurements unit on the roof measures acceleration and angle changes to determine vehicle behavior.  • GPS antennas on the roof estimate angle and orientation even before the vehicle is in motion.
+
+   The research vehicle is a testing platform aimed at the development of systems capable of enhancing the driver's perception of his or her environment, assisting in the decision-making process and improving overall driving skills.
+
+ 

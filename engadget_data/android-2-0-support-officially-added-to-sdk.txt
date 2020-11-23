@@ -1,0 +1,29 @@
+
+       
+Google's gone ahead and uncorked the bubbly to celebrate the launch of Android 2.0 "Eclair" today ahead of Verizon's big reveal tomorrow, bundling its announcements into two very important sections: SDK support, meaning devs can go ahead and start targeting the new bits, and a comprehensive list of changes in the latest version. Here are the major changes us lay folk are going to care about: 
+
+Support for multiple Google and Exchange accounts
+Third-party "sync adapters" allow apps to tie in to the phone's sync services
+Quick contact menus for fast access to specific key pieces of contact information
+Unified email inbox (yes!)
+SMS and MMS search
+Text message auto-delete after a user-defined thread size is reached
+Significantly improved camera controls with white balance, macro, effects, and more
+Improved keyboard layout, dictionary, and algorithm based on multi-touch support
+Double-tap zoom in browser, support for HTML5
+Bluetooth 2.1 support with addition of OPP and PBAP profiles
+"Better" graphics hardware acceleration
+
+
+Needless to say, we're extremely excited about the changes Google's made here -- and on top of the Droid, we can only hope this action is coming to legacy devices on the double. We'll find out soon enough (hopefully). Check a video of 2.0 in action after the break!
+
+[Via MobileTechWorld]
+
+Read - SDK support announcement
+Read - Android 2.0 changes
+      
+
+ 
+
+
+ 

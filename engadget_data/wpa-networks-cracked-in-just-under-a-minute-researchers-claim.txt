@@ -1,0 +1,4 @@
+
+ 
+To think it was just a few months ago that we thought taking 15 minutes to crack WPA encryption was a feat. Researchers from Kobe University in Japan are claiming they can best that by a wide margin by cracking any WPA-protected connection using the TKIP algorithm within just one minute flat. The details will be revealed at a tech conference on September 25th. Feeling paranoid? Bump up your encryption to the still-secure AES algorithm or WPA2... and if you're just wanting to live life on the edge, consider downgrading to WEP -- it's as good as open at this point anyway.
+ 

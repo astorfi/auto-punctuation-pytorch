@@ -1,0 +1,53 @@
+
+ You only have to look at the tidal wave of Ultrabooks to know that Intel design specifications can carry a lot of influence with manufacturers. That's why the chip-maker's claims about its latest reference tablet, built around a dual-core Atom Z2760 processor (aka "Clover Trail"), likely give us a broad hint of what to expect from devices like the forthcoming Lenovo Think Pad 2, ASUS Vivo Tab and Samsung ATIV Smart PC.
+
+ In particular, Intel has shown us slides claiming that the dual-core 1.8GHz chip with Imagination SGX545 graphics will offer the "best Windows 8 experience" on a tablet with "compatibility and support for traditional apps and peripherals." And if you think that sounds like a subtle jibe at ARM-based tablets running Windows RT -- a version of the OS that doesn't even try to play nice with existing software -- then you could be right. To be fair though, the point of RT is to offer superior portability, and that's why Intel is also keen to emphasize that Clover Trail won't impact too heavily on your freedom of movement. Tablets should come in below 1.5 pounds (680 grams -- similar to the RT spec and much lighter than a Windows 8 Pro tablet) and 8.5mm in thickness, with built-in 3G, 4G and NFC. You shouldn't need to carry a charger either, since a new power management system promises a distinctly un-laptop-like three weeks on standby and a full day of "active use" -- defined as being at least 10 hours.
+
+ Windows 8 tablets won't be like Windows 8 Pro machines, however, so don't go expecting USB 3.0, or a guarantee of 1080p visuals (most Clover Trail devices we've seen are 1,366 x 768) or souped-up security -- the Atom Z2760 is very much an evolved Medfield processor, with similar silicon and firmware, rather than a shrunken laptop chip.
+
+ Needless to say, what really matters is how well manufacturers adopt this design and what price points they manage to hit. Intel says that at least 20 different Clover Trail tablets are already in the works, and early price tags seem to be around the $799 mark -- a hefty demand for sure, but perhaps one worth paying for those who need full-fledged Windows 8 and true portability at the same time. RT tablets, meanwhile, will have to come in much cheaper than that in order to be worthwhile.
+
+
+
+  Show full PR text   Intel® Atom™ Processor Z2760 Built for Windows 8 Tablets
+   Sept. 27, 2012 -- Intel Corporation's new Intel® Atom™ Processor Z2760 is a highly integrated dual-core system on a chip specially designed and targeted for Windows* 8 tablets and tablet convertibles, including both the new Windows 8* user interface and familiar Windows desktop modes. The new Intel solution is built to deliver fast and responsive performance in sleek and lightweight form factors.
+
+   The Intel Atom Processor Z2760 allows for the thinnest, lightest tablets built on Intel® architecture -- as thin as 8.5mm and as light as 1 1/2 pounds. The technology also provides long battery life (over 10 hours2 of local HD video playback) and over 3 weeks of standby time. One-tap Near Field Communication (NFC) allows proximity pairing between the tablet and other NFC-enabled mobile devices. The technology package also includes support for an advanced HD camera (up to 8MP) as well as Wi-Fi*, 3G WWAN, and 4G LTE* WWAN.
+
+   Key features and capabilities of the Intel Atom Processor Z2760 are summarized below:
+
+   Intel® Atom™ Processor Z2760 (Formerly "Clover Trail")
+
+   • High-Performance Dual-Core Processor – The Intel Atom processor Z2760 is a dual-core, four-thread, up to 1.80 GHz processor featuring Intel® Burst Technology and Intel® Hyper-Threading Technology.1
+
+   • Intel® Burst Technology – Enables the processor to dynamically burst to higher performance, making it possible to provide on-demand, higher performance in small device form factors.
+
+   • Intel Hyper-Threading Technology – Intel Hyper-Threading Technology provides performance and support for multi-threaded applications, helping to deliver increased performance and system responsiveness in today's multitasking environments by enabling the processor to execute two instruction threads in parallel.
+
+   • System-on-Chip (SoC) Process Technology – The Intel Atom Processor Z2760 uses 32nm process technology with second-generation high-k metal gate transistors.
+
+   • Intel® Graphics Media Accelerator – Integrated graphics with up to 533 MHz graphics core frequency and hardware acceleration support for 1080p video encode and decode.
+
+   • Internal/External Display – Support for one internal MIPI-DSI or LVDS display in additional to one external HDMI* 1.3 display.
+
+   • Integrated Memory Controller and LPDDR2 Support – An integrated 32-bit dual-channel memory controller offers fast memory read/write performance through efficient pre-fetching algorithms, low latency and high memory bandwidth. The Intel Atom Processor Z2760 includes support for LPDDR2, 800 MT/s data rates, up to 2 GB.
+
+   • Storage – Embedded Multimedia Card 4.41 (eMMC 4.41).
+
+   • Power Management – Uses low power idle standby states (S0ix) to support Microsoft* Connected Standby.
+
+   • Camera and Image Signal Processor (ISP) – Integrated ISP with support for a primary HD camera (up to 8MP) and secondary camera (up to 2.1MP).
+
+   • Security – Secure Boot, with firmware-based Intel Platform Trust Technology (fTPM).
+
+   • I/Os – GPIOs, USB 2.0, I2C, UART, SPI, SDIO 2.0, MIPI* DSI and MIPI* CSI.
+
+   • Compact Co-PoP Package – A compact 14mm x 14mm design with support for LPDDR2 customer-owned package on package.
+
+   • Platform Sensors – Support for GPS, accelerometer / compass combination, hardware sensor hub, ALS, SARS, and proximity and thermal sensors.
+
+   (1. Available on select Intel® Atom™ and Intel® Core™ processors. Requires an Intel® HT Technology-enabled system. Consult your PC manufacturer. Performance will vary depending on the specific hardware and software used. For more information including details on which processors support HT Technology, visit intel.com/info/hyperthreading.)
+
+   (2. Battery life claim of over 10 hours of local HD playback is based on power measurements on a 10" Intel reference design at 200 nits with WiFi on and a 30 Whr battery.)
+
+ 

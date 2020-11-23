@@ -1,0 +1,16 @@
+
+ 
+
+Haptics and gaming have gone hand in hand for centuries it seems -- well before the Rumble Pak made itself an N64 staple, we vividly recall snapping up a vibration jumpsuit for our Sega Genesis. 'Course, it was on clearance for a reason. Ali Israr et al. were on hand here at SIGGRAPH's E-tech conference to demonstrate the next big leap in haptics, joining hands with Disney Research in order to showcase a buzzing game chair for use with Split/Second. The seat shown in the gallery (and video) below cost around $5,000 to concoct, with well over a dozen high-end coils tucked neatly into what looked to be a snazzy padding set for an otherwise uneventful seating apparatus.
+
+We sat down with members of the research team here in Vancouver, and while the gaming demo was certainly interesting, it's really just the tip of the proverbial iceberg. The outgoing engineers from Black Rock Studios helped the team wire stereoscopic audio triggers to the sensors, with a left crash, right scrape and a head-on collision causing the internal coils to react accordingly. Admittedly, the demo worked well, but it didn't exactly feel comfortable. In other words -- we can't exactly say we'd be first in line to pick one of these up for our living room.
+
+
+
+
+
+ That said, the gaming demo was likely brought to Vancouver for its ease of understanding, but it was clear that the team's hoping to license this technology out for use in far more sophisticated applications. Thanks to the Disney connection, it wouldn't surprise us to see a new coaster emerge with highly advanced vibration seats -- rather than just buzzing or not, these things are capable of pulsating left to right, intensifying and softening, and otherwise sending shivers up one's spine. Beyond that, we were told that the crew's considering both automotive and wearable avenues. Imagine a biking vest that senses when a vehicle's approaching and pulses accordingly to let you know how far to move away. How's about a vehicle seat that does likewise when another car encroaches in your lane, or senses that you're falling asleep?Unfortunately, it'll probably be a good while before Surround Haptics finds its way into the commercial world -- you know, considering that the researchers just tied up the technological loose ends prior to SIGGRAPH beginning. That said, it's clear that the next step is interacting with potential business partners, and if we had to guess, we'd say you'll be hearing about these guys at a CES within the next five years. You can bet we'll be keeping an eye out.
+
+       
+
+ 

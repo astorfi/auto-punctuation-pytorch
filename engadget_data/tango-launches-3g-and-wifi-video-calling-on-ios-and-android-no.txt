@@ -1,0 +1,13 @@
+
+ 
+Today at San Francisco's Mobilize conference, a company by the name of Tango launched its video calling application, appropriately called... yes, "Tango." Like Fring, it's available for both iOS and Android devices, and handles calls over 3G and WiFi. Like FaceTime, no account is required to initiate calls.
+
+We chatted with Eric Setton, CTO of Tango, who gave us a demo of the application (on video) using an iPhone 4 and EVO 4G. We also tested Tango by installing the application on an iPhone 4 and Nexus One, and it works as advertised -- although it only appears to initiate calls with people already in your contact list. Tango relies on the XMPP protocol used by Jabber and Google Talk to initiate calls via a centralized server, but the actual calls are peer-to-peer over 3G and WiFi. Call quality scales dynamically with connection performance. Currently, the iPhone 4, iPhone 3GS, and 4th generation iPod touch are supported, as well as devices running Android 2.1 and higher (not 2.0 as mentioned in the video).
+
+Give it a try and let us know how it works for you -- and remember, it takes two to tango. Follow the break for the video demo!
+      
+
+ 
+
+
+ 

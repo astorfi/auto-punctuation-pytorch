@@ -1,0 +1,10 @@
+
+ Hear that thunderous roar off in the distance, growing louder (and more frightening) as it persists? That is the sound of excited Android users emailing us to inform their fave gadget site that Google has just sent users an update to that little embarrassing SMS bug that we reported a while back. There seem to be two distinct issues: users have reported both opening one message to have a completely different message appear, and / or sending an text message to one contact yet having it delivered to another contact entirely. We need only say one word: sexting, to highlight just how dangerous this could be! Google promises us that a fix for these two issues are in the works. In the meanwhile, check out the e-mail below to read their response and work-around.
+
+[Thanks Jon, and thanks to everyone else who sent this in!]
+      
+
+ 
+
+Thanks to everyone for your patience while we've been investigating these reports. As it turns out, we believe there are two distinct situations being discussed on this issue chain. Fortunately, we have fixes for both of them.When some users tap to open a message in the Messaging application, they're seeing a different message appear instead. We don't believe this issue is affecting many users, but we've developed a fix that we're preparing to deploy. Of course, double-checking the displayed message before hitting "Send" will prevent any messages from being sent to the wrong recipients. We've found in testing this issue, it is more likely to occur if you tap on a message before the Messaging app is fully loaded, so we recommend waiting for all the elements to load before clicking on the message you want to display.Separately, some users have reported that their SMS messages are being delivered to the wrong people. It took us some time to reproduce this issue, as it appears that it's only occurring very rarely. Even so, we've now managed to both reproduce it and develop a fix that we will deploy.While we don't anticipate any persistent problems, we'll continue to investigate in case we come up with additional ways to trigger these bugs. Thanks again for helping us improve Android.
+ 

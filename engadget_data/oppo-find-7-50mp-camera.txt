@@ -1,0 +1,27 @@
+
+We've seen the teasers and we've seen the leaks, so it's about time to see the real thing. Oppo has finally unveiled the Find 7 in Beijing just now, and as promised, this Android 4.3 device really can take 50-megapixel photos! But as with many things in life, there's a catch here: the sensor is actually a 13-megapixel Sony IMX214 CMOS, so it's a software trick. Still, the results we saw earlier were surprisingly good, so read on to check out how it's done and what the rest of the phone is like. 
+
+
+
+
+
+
+The Find 7 comes with Oppo's latest image signal processor dubbed Pure Image 2.0, and this is what enables the 50-megapixel "Super Zoom" creation: the camera takes 10 consecutive shots extremely quickly, and then it automatically picks four best shots to combine them into a 50-megapixel still. Our 8,160 x 6,120 sample shots ended up being around 10MB large each, and as you can see above, there's a lot of detail preserved even up close, which puts the Xperia Z1's 20-megapixel camera to shame. While Super Zoom is a software-based feature, the 1/3.06-inch IMX214 sensor also deserves credit for its 480 megapixel-per-second bandwidth, which is 33 percent faster than the 13-megapixel CMOS chip on the Find 5. And of course, the bright f/2.0 aperture helps, too.
+
+
+
+
+
+Other notable camera features include 4K video recording at 30 fps, slow-motion video at up to 100 fps, long exposure for up to 32 seconds, HDR-capable GIF creation and RAW mode. You'll also be able to use some of these features with the 5-megapixel f/2.0 front-facing camera.
+
+
+The 5.5-inch Find 7 will come in two versions. The $499 Find 7a (aka Find 7 Lite in China) packs a 2.3GHz Snapdragon 800, 2GB of RAM, 16GB of internal storage, a 2,800mAh battery and a 1080p display. The more premium $599 Find 7 features a faster 2.5GHz Snapdragon 801, 3GB of RAM, 32GB of storage, a 3,000mAh cell plus a quad HD (2,560 x 1,440) display. This makes Oppo the second manufacturer to offer a quad HD phone, following sister company Vivo's Xplay 3S.
+
+Apart from the above points plus the different back covers (the Find 7's has a carbon fiber texture), the two models are otherwise identical. You get Gorilla Glass 3, microSD expansion (up to 128GB), micro-SIM slot, LTE radio (for Chinese, European and US models; 3G only for Indonesian model), a pulsing "skyline" notification light underneath the chin, award-winning MaxxAudio plus Dirac HD audio enhancement and "VOOC" rapid charging (you go from zero to 75 percent in just half an hour). About the last point, you apparently won't have to worry about potential heat issues while charging, as the Find 7 is built with five layers of thermal protective coating, and the solid titanium-aluminum alloy frame -- crafted with nano-injection molding -- also helps dissipate heat.
+
+
+The Find 7 will be shipped with Color OS 1.2 based on Android 4.3, and it'll come with many familiar features that are already on the N1. These include weather animation on the home screen, gesture shortcuts (including torch and camera activation even when the screen is off) and themes. Do look up our N1 review if you want to know more about Oppo's custom ROM. At the time of publishing this article, we have yet to hear any news about CyanogenMod development for the Find 7, so stay tuned.
+
+Interested folks outside China can order a Find 7a both online and offline come mid-April (there will be a $50 early bird discount from some retailers), or you can wait for the advanced Find 7 due May or June. If you happen to be in Beijing, CEO Tony Chen will be personally selling some units in one of the local shops tomorrow. Now that's a hands-on boss.
+
+

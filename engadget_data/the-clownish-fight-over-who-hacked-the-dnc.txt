@@ -1,0 +1,45 @@
+
+       A war of words has erupted over whether the DNC hack was an act of espionage by the Russian government, between soundbite-ready security firm CrowdStrike and a lone hacker who's unkindly claiming credit. And the conspiracy-theory fans went wild.
+      
+
+ 
+It all began with a Washington Post article many infosec denizens thought was a thinly-disguised PR puff piece for CrowdStrike.
+
+The June 14 article Russian government hackers penetrated DNC, stole opposition research on Trump was definitive. It was also singled out for being fawning, without skepticism and lacking in technical details. The article refrained from using the word "sophisticated," but did echo Cold War rhetoric about the Russian government's intent on evil like the Reagan '80s were back in style.
+
+"The depth of the penetration reflects the skill and determination of the United States' top cyber-adversary as Russia goes after strategic targets, from the White House and State Department to political campaign organizations."
+
+Using the Post like a TV commercial hand puppet, CrowdStrike said two different threat actors broke into the Democratic National Convention's systems. The security firm is known for many things, and its painfully xenophobic naming structure is top of the list. Names of the two attackers were given as "Cozy Bear" and "Fancy Bear."
+
+"Bear," as in Russia. And yeah, they use "Panda" when it's China, which is totally weird, right? Perhaps CrowdStrike would do well to have some Asian friends.
+
+
+CrowdStrike Chief Executive George Kurtz (Image: LA Times via Getty Images)
+Anyway, the press immediately parroted the rhetoric about fancy bears and Russian spycraft. It drifted on up to the Capitol, where Sen. Feinstein said such Russian cyberattacks were "expected," and waxed about Watergate. Conspiracy theories blossomed.
+
+This was all "let's bring back the Cold War" fun-and-games until last week. A hacker came forward saying, LOL no, it was actually me.
+Calling themselves "Guccifer 2.0," in reference to the attacker busted for accessing Hillary Clinton's email server (among other things), the hacker then published research snatched from the DNC.
+
+Namely, the DNC's opposition intel files on Donald Trump. Now the fly in CrowdStrike's ointment, Guccifer 2.0 proceeded to pick apart the company's claims that hacking the DNC was superhard and sophisticated, dropping minor technical tidbits in here and there to season the pot.
+
+Guccifer 2.0's criticisms were subtle. "I'm very pleased the company appreciated my skills so highly," they wrote in a blog post. "But in fact, it was easy, very easy [...] Fuck the Illuminati and their conspiracies!!!!!!!!! Fuck CrowdStrike!!!!!!!!!"
+
+That made CrowdStrike pretty mad. The company basically called the hacker a dirty, dirty liar, saying that "CrowdStrike stands fully by its analysis and findings identifying two separate Russian intelligence-affiliated adversaries present in the DNC network in May 2016."
+
+CrowdStrike said the hacker and their claims are actually an elaborate coverup by the sneaky Russians. Having interviewed Guccifer 2.0, Vice decided the Russian coverup narrative was the truthiest of the truths. The reasons put forth included that CrowdStrike and WaPo said it was Russia, the hacker's pseudonym is new, incorrect use of an emoticon, an instance of the username "Iron Felix" in the leaked docs, and they at some point used a cracked version of Office 2007. They also said it was because Russia obviously wants Trump to win.
+
+The security firm would not confirm to press whether the file was indeed original stolen material. But it did call on friends, Mandiant/FireEye and Fidelis Cybersecurity, to back it up in another Washington Post piece. A third company, ThreatConnect, hopped on the train, saying it found evidence of a phishing technique (a misspelled domain name) in its analysis. CrowdStrike said that this very common thing that countless phishers do is exactly what one of those Bears does all the time. So, it's obvious.
+
+But then the Post made us wonder just who was driving this crazy clown car. It wrote: "It is also possible, researchers said, that someone else besides the Russians were inside the DNC's network and had access to the same documents."
+
+But isn't that exactly what Russian spies would want us to think?
+
+Guccifer 2.0 came back out swinging this week, proceeding to dump piles and piles of docs. According to The Smoking Gun, among the more than 250 files are "Hillary Clinton's prior travel on private jets, the Clinton Foundation's investments and the Democratic presidential candidate's speech contracts." Guccifer 2.0 has turned over the rest of the docs to Wikileaks, which will purportedly publish them soon.
+
+While I'm not sure how this proves anything other than someone got hacked docs, and it could totally be an evil Putin-y plot, I'm also not sure how exactly one goes about proving they're not a Russian hacker-decoy.
+
+The question is, how far does this have to go until someone calls shenanigans?
+
+Because right now, something that could constitute an act of war has been reduced to little more than a pissing contest for public attention.
+
+

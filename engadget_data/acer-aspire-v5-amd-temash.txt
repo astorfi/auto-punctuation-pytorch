@@ -1,0 +1,9 @@
+
+While AMD announced its new Temash APU (alongside others) at this year's CES, the only device we've seen sporting it was an intriguing reference hybrid that made the rounds at the show. Now, details of an Acer Aspire V5 notebook have emerged, indicating the company is preparing its first Temash-powered device for general consumption. Acer already has a trio of Aspire V5 models with Intel Core processors and NVIDIA handling the graphics, but a half-complete product page for an unannounced V5-122P-0643 swaps those components out for AMD's wares. Formally called the AMD A6-1450, the Temash APU combines a quad-core 1GHz processor -- or 1.4GHz in "Turbo" state -- with a Radeon HD 8280 GPU. When put into tablets, it has an unusually low, sub-5W power envelope that allows for passive cooling. While we don't know exactly what wattage this Acer notebook will have, the presence of Temash should bode well for battery life. Head past the break for more details. 
+
+
+Aside from the AMD core, the V5-122P-0643 is listed as having an 11.6-inch multitouch "HD LED LCD" display for poking Windows 8, two gigs of DDR3 RAM and a 500GB hard drive. Other features worth noting are the Acer Crystal Eye HD webcam, SD card reader and the $450 price tag, which is slightly less than the going rate for an 11.6-inch Intel model. We wouldn't take any of these details as gospel right now -- the haphazard Acer listing looks like a placeholder, so things may change when the notebook is officially announced. Its existence is a hint, however, that we'll start seeing more devices with AMD's next-gen APUs sometime soon, and, hopefully, attractive pricing as a result.
+
+[Image credit: MiniMachines]
+
+

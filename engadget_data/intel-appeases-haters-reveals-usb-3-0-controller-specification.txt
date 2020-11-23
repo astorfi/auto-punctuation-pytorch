@@ -1,0 +1,5 @@
+
+ What's with all the hate, guys? For months now, AMD, NVIDIA and a host of other caps-locked companies have been harshing on the chip maker for withholding critical information in relation to the USB 3.0 controller specification. At long last, Intel can finally throw up its left hand and ask those pundits to talk to it, as the outfit has finally unveiled the Extensible Host Controller Interface (xHCI) draft specification revision 0.9 in support of the USB 3.0 (SuperSpeed USB) architecture. The spec hopes to provide a "standardized method for USB 3.0 host controllers to communicate with the USB 3.0 software stack," and it's being made available under RAND-Z (royalty free) licensing terms "to all USB 3.0 Promoter Group and contributor companies that sign an xHCI contributor agreement." So, are we all happy now?
+      
+
+ 

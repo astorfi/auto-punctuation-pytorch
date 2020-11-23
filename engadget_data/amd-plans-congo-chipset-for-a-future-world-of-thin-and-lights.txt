@@ -1,0 +1,6 @@
+
+ 
+Just like your mom keeps telling you, AMD thinks netbooks are a bit of a fad, and is laying down a roadmap for thin-and-lights while keeping its distance from any sort of "Atom killer." The existing Yukon platform -- featured in HP's dv2 -- just got an upgrade in the form of a dual-core AMD Neo chip, but things will really start to get exciting later this year with the introduction of Congo, which will pair a dual-core Neo with much better graphics and a more modern chipset. Perks in Congo, which is based on the M780G chipset and sports ATI Radeon HD 3200 IGP graphics, include hardware decoding for HD formats, DirectX 10 gaming, love for DisplayPort, HDMI and eSATA, and Hybrid Graphics potential for pairing the integrated chipset with discrete graphics. The hope is to compete well against Intel's CULV and NVIDIA's 9400M in the low-cost thin-and-light space, and if the price stays down and performance pans out, Congo just might.
+      
+
+ 

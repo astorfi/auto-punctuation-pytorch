@@ -1,0 +1,18 @@
+
+It turns out that Valve's hardware beta was an actual beta: the Steam Controller is dropping its touchscreen and adding some physical buttons before going up for sale via Steam and at retail later this year. It's unclear exactly where the buttons will be, but we're seeing reports that they'll approximate a d-pad and the standard A/B/X/Y configuration.
+
+
+According to attendees tweeting from Valve's Steam Dev Days conference, a "ghosting" mode is offered in replacement (which presumably shows a visualization on-screen of however your buttons are being mapped -- that's our best guess as information comes in). Valve's also got an API to help devs integrate the Steam Controller into their games, which apparently supports up to 16 players at once.
+
+
+We'll have more specific news as we hear more. For a look at the previously planned touchscreen, we've got a mockup in our gallery right here.
+
+
+Update: The controller mockup with buttons and no touchscreen can be seen above.
+
+
+[Image credit: @TheIneQuation]
+
+
+
+

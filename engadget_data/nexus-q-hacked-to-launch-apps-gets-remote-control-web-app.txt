@@ -1,0 +1,9 @@
+
+ 
+ So, that first round of Nexus Q hacks? Impressive in terms of turn around time, not so much when functionality is your primary metric. But, a couple of weeks with the gorgeous, if questionably useful device, has started to produce some truly exciting results. The one that has our tinkering fingers itching most, puts a launcher and apps right at your finger tips... well, mouse pointer. The hack is hardly for the meek but, if you're already in possession of a Nexus Q, we're sure pushing a few .apks via adb won't unsettle you too much. The solution is far from perfect, but the Android foundation is able to recognize keyboards and mice it seems without issue. What really makes this a great hack, of course, is the ability to install apps like Netflix and Angry Birds finally freeing the Q from its arguably artificial shackles. If you're looking for something a little less involved (and decidedly less cool) there's also QRemote, an .apk you can push to your Q that lets you control it via a web browser. It doesn't expose any additional functionality, but at least it lets you skip tracks from your PC or other non-Jelly Bean device. You can see both in action after the break, and all the relevant files and accompanying instructions live at the source links.
+
+
+
+
+    
+ 

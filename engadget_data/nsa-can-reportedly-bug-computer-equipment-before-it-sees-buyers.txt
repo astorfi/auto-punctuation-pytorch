@@ -1,0 +1,7 @@
+
+Don't think that the NSA always has to wait until people are using technology to start snooping on it. Spiegel has obtained documents which claim that the agency's Tailored Access Operations (TAO) group can intercept computer equipment orders and install tracking hardware or software before the shipments even reach their buyers. The division can target a wide array of hardware, too. Another NSA section, ANT, reportedly has a catalog of tools that can install back doors in everything from Cisco and Huawei network systems through to hard drives from most major manufacturers, including Seagate and Western Digital. Some of these bugs can give the NSA "permanent" access, since they're designed to persist if the owner wipes a device's storage or upgrades its firmware.
+
+
+The leak suggests that the targeted manufacturers aren't aware of what's happening; Cisco and other firms tell Spiegel they don't coordinate with the NSA. These hardware interceptions are also limited in scope next to remote surveillance programs. The agency isn't confirming any specifics, but it maintains that TAO is focused on exploiting foreign networks. Whether or not that's true, the discoveries show that the NSA's surveillance can reach the deepest levels of many networks.
+
+

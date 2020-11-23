@@ -1,0 +1,9 @@
+
+ 
+We thought the Samsung Focus was the only Windows Phone 7 launch device that could replace its external storage, but the HTC HD7 can apparently do the same -- there's an SD card slot under that Windows Phone logo, and The Unwired managed to replace it while dodging the dreaded "There's a storage error" screen. What sort of black magic did the publication cast to make it recognize the new card? They're not quite sure themselves, but several factory resets and physical reinsertion of the chip seemed to do the trick, if only for an 8GB card. If you're in a daring mood, let us know if it works for you in comments below!
+
+Update: HTC tells us that this particular surgery's a risky one, not only for your warranty but the connectivity of your phone. Here's what you're getting yourself into, according to a senior company rep:
+While this is not technically impossible, one thing that is important to know is that the process of removing the cover to access these components is actually very tricky – and in many cases, will result in the antenna section being irreparably detached from the circuit board (rendering the phone unusable). Additionally, to actually replace the card, a few reasonably important parts have to be forcibly removed. So, just a good warning to anyone thinking of attempting this maneuver is that the possibility of bricking is extremely high, and will, of course, void the product warranty.Update 2: But if you do throw caution to the wind, you may be able to get it to work with a 32GB card.
+      
+
+ 

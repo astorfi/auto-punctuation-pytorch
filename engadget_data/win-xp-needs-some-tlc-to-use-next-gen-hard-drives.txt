@@ -1,0 +1,5 @@
+
+ Solid state drives may be the fast-moving wave of the future in PC storage, but the technology for bigger and better magnetic media keeps on trucking. Only recently, that truck hit something of a pothole: the 4096-byte sector size that will allow advanced format drives to have more usable space (and surpass the current 2TB capacity limit) doesn't play nice with the world's most popular OS -- Windows XP. While manufacturers like Western Digital have already introduced software that successfully combats the problem, the new drives perform poorly in Win XP without it, and rival manufacturer Seagate told the BBC that even with software tricks, XP users should expect the occasional 5ms delay, or 10% speed reduction, during write times. Is this the end of Windows XP? Hardly. Should you make sure to install the software that comes with your next hard drive? Absolutely.
+      
+
+ 

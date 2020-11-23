@@ -1,0 +1,5 @@
+
+  We're big fans of quantum computing, and hopefully it's about to get a lot more reliable. Researchers at Yale have demonstrated quantum error correction in a solid state system for the first time. Quantum bits were created from "artificial" atoms using superconducting circuits, these qubits are then given either of the typical bit states of "1" or "0," or the quantum state of both simultaneously. The researchers developed a technique that identifies each qubit's initial state, so any erroneous changes can be reversed on the fly. Until now, errors have been a barrier in quantum computing, accumulating and ultimately causing computational failure. A reliable means of fixing these state changes is essential to developing a computer with an exponential speed-up, and fully realizing the quantum dream. The team at Yale hopes that this research might mean its platform of superconducting circuits becomes the one upon which quantum computing is ultimately built. We, on the other hand, just want our parallel universe.
+      
+
+ 

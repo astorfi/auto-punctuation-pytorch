@@ -1,0 +1,31 @@
+
+ 
+ Ski season (in the northern hemisphere at least) was in full swing when Recon Instruments announced that it'd be providing developers with an Android SDK for its HUD alpine goggles. Now, most of that snow may have melted, but the SDK is finally a cold, hard reality. Made available to the developing masses at Google I/O this week, frosty-fingered devs can use the tool to hook-in to Recon's visual display tools, including its MOD Live series. Given that this opens up the goggles' altimeter, barometer, accelerometer, gyro and magnetometer and temperature reader, that's a lot of detail to tuck into. Itching to get that downhill leaderboard app going? Slide on over to the source for the details.
+
+
+
+
+ 
+
+  Show full PR text   Recon Instruments Launches World's First Software Development Kit for Heads-up Display Technology at Google I/O
+   GOOGLE I/O – Moscone Center, San Francisco, CA – June 27th – Recon Instruments, the multiple award-winning technology company behind the world's first GPS enabled Heads-up Display (HUD) for alpine goggles, is excited to announce the release of their software development kit (SDK) for Android™ to the general public. For the first time ever Android™ developers can now build revolutionary apps for Recon's groundbreaking HUD technology.
+
+   Available now, at developers.reconinstruments.com Recon's HUD SDK for Android™ is fully compatible with MOD Live, the state-of-the-art HUD from Recon Instruments. Developers can now capitalize on the sensory data relayed by the device. This includes readings from the on board altimeter, barometer, 3-axis accelerometer, 3-axis gyro, 3-axis magnetometer, and temperature sensor. Add to this Bluetooth Smart Ready™ and GPS, and MOD Live provides unlimited options for developers to create apps that are truly innovative.
+
+   "We hope that launching our SDK will change the way people perceive the real-time information and HUD categories. As a company, we have embraced Android™ so we can give developers a familiar platform to create apps on, which will continue to drive innovation on our current and next generation HUDs" said Tyson Miller, Director of Online at Recon Instruments. "We are excited to see what is created following the launch our SDK at Google I/O. The RTP LiveView™ Android lifestyle application built by Active Network and launched in partnership with Recon at Google I/O really demonstrates what is possible."
+
+   Recon's HUD SDK for Android™ will also be compatible with the next generation of hardware coming soon from Recon Instruments for different sports and eyewear categories.
+
+   To celebrate the announcement of the HUD SDK's public release – Recon Instruments has joined forces with Active Network, the leader in cloud-based activity and participant management™ solutions, as its featured HUD app developer for MOD Live at Google I/O. The companies are unveiling a first-of-its kind demonstration of Active Network's new RTP LiveView™ Android lifestyle app integrated with Recon's HUD technology.
+
+   RTP LiveView technology is adapted from two of Active Network's proven mobile platforms-RTP LivePass™ and RTP REALX. The LivePass platform offers information about snow and weather conditions for ski runs, GPS mapping and live destination information including lift availability, along with personalized touches such as social media integration, photo galleries, and up-to-the-second personal statistics. In addition, RTP REALX was used to create REALSKI™, the first Augmented Reality application designed to help guests navigate ski resorts. Currently available for over 100 North American ski resorts, Active Network's patent-pending technology is being adapted to a new form factor to provide a unique navigation experience for users of MOD Live.
+
+   "We're excited to be the first entrant in the new and transformative Augmented Reality and Heads-up Display space. Active Network is committed to continuously push the limits of technology to innovate and enhance the consumer experience across all lifestyle verticals," said Darko Dejanovic, chief product, technology and innovation officer at Active Network. "We believe our LiveView HUD app for skiing and snowboarding represents another exciting development from Active Network for the global activities marketplace."
+
+   Recon Instruments is encouraging new developers to be the first to build apps for HUD technology by offering ten people the chance to become a Featured Developer Partner, with a further one hundred invited to become Developer Partners.
+
+   Featured Partners will receive a free MOD Live to help build their apps, while Developer Partners will be offered MOD Live at 50% off retail price - $199.99. These partners will also receive direct support from Recon's engineers, be granted access to beta releases of Recon's software and latest developer tools, and will have their apps featured in the Recon App Center where customers will be able to purchase the first ever apps for HUD by fall 2012.
+
+   To apply for the HUD Developer Partner program please visit: http://developers.reconinstruments.com/partners
+
+ 

@@ -1,0 +1,4 @@
+
+ Sony has announced that it'll release an SDK to 4K developers this month for its recently launched XAVC video format used by the new F5 and F55 CineAlta camcorders. The new specification uses MPEG-4 AVC/H.264 video compression, which allows up to 12-bit color depth, 60 fps shooting speed at 4k and 180 fps in HD. So far, fourteen companies including Adobe and Apple have signed on as licensees, and Sony says the format may come to consumer products as well. Details of the program along with an SDK will arrive this month, just in time for a possible Ultra HD onslaught.
+
+

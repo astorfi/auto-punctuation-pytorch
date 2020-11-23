@@ -1,0 +1,23 @@
+
+Lenovo found itself in a bit of hot water when some customers started noticing weird sponsored links in the search results on their brand-new PCs. The culprit it turns out was a little piece of adware called Superfish the company was shipping on laptops. The company listened to customer complaints and turned off the server-side portion of the app in January. It also stopped preinstalling Superfish on new machines around the same time. While Lenovo said originally that it had "temporarily removed" the software from new machines while its developers worked on an update to address concerns, it now says that it will not preload the software ever again.
+
+
+
+This is a problem. #superfish pic.twitter.com/jKDfSo99ZR
+- Kenn White (@kennwhite) February 19, 2015The add-on analyzes images and offers up ads for the same or similar products at a lower price. This, in and of itself, is slightly troublesome. But what really set off alarms was when users discovered how it worked; it installs a "man-in-the-middle" certificate that would allow Superfish and other parties to look at data from secure sites. Pop-up ads are annoying, but leaving your bank info vulnerable to prying eyes is downright dangerous.
+
+Lenovo says that has not found "any evidence to substantiate security concerns." Though, the tweet above, which seems to show a certificate to bankofamerica.com issued by Superfish seems like plenty of cause for concern. Even if the software is safe and secure, Lenovo doesn't seem interested in pissing off its customers. So Superfish won't be making a comeback.
+
+The manufacturer did want to make one thing abundantly clear in a statement given to Engadget:
+
+"Superfish technology is purely based on contextual/image and not behavioral. It does not profile nor monitor user behavior. It does not record user information. It does not know who the user is. Users are not tracked nor re-targeted. Every session is independent."
+
+Make of that what you will. But installing any sort of adware on a machine before it even leaves the factory seems like an obviously bad idea, regardless of whether or not it violates a user's privacy.
+
+Update: Lenovo's CTO Peter Hortensius sat down for an interview with the Wall Street Journal and told the newspaper that the company is building a tool to remove all trace of Superfish from a person's computer.
+
+"We will provide a tool that removes all traces of the app from people's laptops; this goes further than simply uninstalling the app. Once the app-wiping software is finished tonight or tomorrow, we'll issue a press release with information on how to get it."
+
+Update #2: If you weren't sure how open to abuse this vulnerability was, then know this: the browser certificate that Superfish uses to grant access to your secure websites has been hacked. This turns the problem from a cause for concern (see: "The Really Bad Part"), to a real genuine problem. Fortunately, Lenovo has come good on its promise, with full removal instructions here.
+
+

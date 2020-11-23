@@ -1,0 +1,8 @@
+
+ 
+The second bit of news for Canadian Netflixers in less than 24 hours deals with the other pressing issue facing the service in the Great White North: bandwidth caps. While they exist in the U.S., many Canadian ISPs have set the max amount of data allowed at much lower levels and they may cut further if a recent CRTC decision on usage-based billing stands. In response, starting today Netflix.ca accounts all have a new Manage Video Quality setting that lets users select Good / Better / Best bitrates as defaults for their video streams. According to CPO Neil Hunt's blog post, previously watching 30 hours of Netflix would typically consume up to 30GB of data, while now it can be as low as 9GB under the "Good" setting. Of course, dropping bitrate means lowering picture quality accordingly, despite promises that "the experience continues to be great." Even with HD and 5.1 audio available, PQ probably isn't your highest priority if you've turned to streaming, but it remains to be seen if customers find the compromise suitable, and whether a similar option comes to U.S. users facing similarly limited connections.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

@@ -1,0 +1,9 @@
+
+       
+Even though they don't make retail devices, the booths of component makers like Qualcomm, Broadcom, TI, and Marvell at trade shows are often great venues for actually seeing retail devices -- these guys have to help showgoers make the connection between a boring chunk of silicon and an end product if they're hoping to score orders, after all. Indeed, Marvell's tent at MWC this year is a veritable cornucopia of Good Things, and we couldn't help but notice that they're showing what appears to be one of Chumby's not-for-sale reference designs sporting an 800 x 600 display with an 800MHz Marvell Armada core (hence the appearance here in the booth). For the record, we're told this is a successor to last year's reference platform known as "Silvermoon" that had been running on a 1GHz PXA168 and that there's a chance it'll be available in retail form later this year. The UI's attractive, but not really as multi-functional as Sony's Dash -- you can think of this as more of a giant Chumby One, really, with some extra screen elements designed to take advantage of the significantly higher resolution. There's no guarantee this'll ever be produced -- or if so, when -- so for the time being, our video UI tour after the break is about as close as you're going to get.
+      
+
+ 
+
+
+ 

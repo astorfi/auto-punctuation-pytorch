@@ -1,0 +1,29 @@
+
+Another 1080p quad-core Android phone, you say? Well, there's a bit more to it. Launched by BBK spin-off Vivo in Beijing just now, this 5.7-inch Xplay goes one step further than its smaller X1 and X1S cousins by packing one extra audio chip and the OPA2604 operational amplifier from Texas Instruments in order to add extra oomph to Cirrus Logic's CS4398 DAC and CS8422 stereo asynchronous sample-rate converter -- both of which are featured on the X1 series. If you're a DIY audio enthusiast, you might have already tinkered with an OPA2604 while making your own headphone amplifier; so in other words, Vivo is trying to save you the hassle.
+
+
+Before we dive into the audio performance, let's quickly look at the rest of the phone first. Underneath the 500-nit LTPS display lies a Qualcomm Snapdragon 600 quad-core SoC (1.7GHz, 2GB RAM and Adreno 320 graphics engine), 16GB or 32GB of built-in storage, 3,400mAh battery and NFC. On the back you'll find a Sony 13-megapixel imager next to a pair of speakers (FLAC playback is supported natively), but flip the phone over and you'll be looking at a surprisingly generous 5-megapixel front-facing camera -- much like the one on Oppo's mid-range Ulike 2. Vivo's somehow managed to pack all of this into a 7.99mm-thick body with a screen bezel of just 2.3mm thick (which bests Pantech's thin-bezeled Vega Iron) and a large viewable-to-total area ratio of 75.11 percent. Alas, for 3G there's only WCDMA 2100, meaning the phone may have to rely more on GSM 850/900/1800/1900 or WiFi in many parts of the world. More after the break.
+
+
+Update: Hands-on photos added below, followed by a couple of video clips after the break.
+
+
+
+ 
+
+On the software side, we're happy to see that Vivo has finally ditched the old settings menu that it shamelessly copied from iOS (and the same goes for the X1S, the 720p plus quad-core refresh of the X1), but fans of vanilla Android 4.2 may still struggle to love Vivo's ROM. That said, the company's thrown a handful of surprises that may change one's mind. For one, to solve the ergonomic issue, the Xplay comes with a single-hand mode dubbed "Free Touch." Shake the phone sideways twice and you'll get a small window mirroring the current screen in your preferred lower corner (as pictured below) in real-time, which lets you tap your desired spot or scroll the web page with your holding thumb. What's more, you can also set your preferred window size to suit your tastes.
+
+
+Other nifty features include several touch-less gestures: wave across the front of the phone to flip a page, hover over an icon to launch apps with a cursor, hover over the phone to unlock, and place a hand on front side of the phone to mute an incoming call. There's also native support for transfer of files larger than 4GB, meaning you're more likely to use WiFi Display or DLNA to stream large video files, if not the videos supplied by Vivo's online store (in collaboration with LeTV and Baidu's iQiyi video platform). Last but not least, you can watch video in a pop-up window over other apps.
+
+The 16GB Xplay -- available in either black or white -- is now ready for pre-order in China for ¥2,998, or about $490, and the package includes some NFC tags, an OTG cable, a screen protector and a nice pair of earphones. No word on a date or price for the 32GB version, but hopefully it'll arrive soon after the 16GB's launch in the second half of May. Stay tuned for our upcoming hands-on -- we'll try to do a brief assessment on the audio quality.
+
+Update 2: Sadly, the software on the phone wasn't quite stable enough to ensure that the DAC chip was working properly (plus the venue was rather noisy, anyway), so stay tuned for our review instead.
+
+Bonus: A hands-on video of the electronic invitation card for Vivo's Xplay launch event.
+
+
+Bonus 2: And here's a video of the whacky performance right before the unveiling of the Xplay.
+
+
+

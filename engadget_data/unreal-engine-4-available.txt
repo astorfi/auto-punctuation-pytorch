@@ -1,0 +1,11 @@
+
+Unreal Engine 3 set the standard for games last generation, powering breakout franchises like Gears of War and Mass Effect. We don't know if Unreal Engine 4 will have the same impact, but today's move by Epic Games to massively democratize this game engine is certainly a step in the right direction. Today, Unreal Engine 4 is going subscription: For $19/month you get, "access to everything, including the Unreal Editor in ready-to-run form, and the engine's complete C++ source code hosted on GitHub for collaborative development." That's according to Epic Games head Tim Sweeney, who spoke at a GDC event this morning. Any game published commercially must also pay 5 percent of gross profit to Epic (which could get lucrative very quickly for Epic). It's a move aimed directly at the evolving world of contemporary game development, where indie hit-makers like Jonathan Blow take the stage at Sony's PlayStation 4 unveiling in place of triple-A studios. We were shown a simple Flappy Bird clone for iOS, for instance, as an example of the flexibility of UE4 (the demon lord seen above is an example of the other end of the engine).
+
+
+Beyond the subscription service and full access to the source code (which is a big move unto itself), Unreal Engine 4 is getting OS X support. There's also evidence in the source code that Epic's working on Oculus Rift, Linux, Steam Machines and HTML5 support. But we already kinda knew all that, right? So we asked Tim Sweeney for a deeper dive into today's news and what it means for Epic Games as both a game engine maker and a game studio. Head below for the full video!
+
+
+
+
+
+ 

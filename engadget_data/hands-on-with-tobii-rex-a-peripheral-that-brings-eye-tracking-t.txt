@@ -1,0 +1,24 @@
+
+
+ One of the neat things about CES is that it gives us a chance to check in with startups we covered the previous year. In the case of, Tobii, 12 months makes a world of difference. When we met with the company last January, it had never publicly shown off its eye-tracking Gaze UI, which allowed us to navigate, zoom, select and scroll on a custom Windows 8 laptop with just our pupils and a touchpad. After playing with it, it was obvious to us the technology still needed some fine-tuning, but nonetheless Tobii promised it would have a product to sell in about a year's time.
+
+ Fast forward 12 months: Intel now owns a 10 percent stake in the company, and Tobii recently started shipping its first piece of hardware, the REX. This small USB peripheral, just slightly thicker than a pen, attaches to the base of any computer display, allowing it to bring eye-tracking technology to any Windows 8 machine. For now, it's only available to developers for a price of $995, but Tobii expects to ship 5,000 consumer units by the end of 2013. Happily for us, though, we got to play with it here at CES 2013. Meet us after the break to see how the technology's grown up since we tried it out it a year ago, and then when you're done reading through our impressions, check out the walkthrough video at the end.
+
+ Follow all the latest CES 2013 news at our event hub.
+
+
+ The REX allows your machine to accomplish a specific set of eye-tracking gestures, including scrolling, zooming and selecting items. That was true last year, too, though this time the experience generally feels more polished. In part, that's because the Gaze UI now supports keyboard input, whereas last year it was completely touchpad-based (and we all know touchpads aren't the most reliable things even under normal circumstances).
+
+ Before you can get started, though, you need to do a one-time calibration process, which involves following a circle moving around the screen. As it happens, that's the same setup procedure we went through when we tested out Gaze last year, except it felt smoother and less buggy than it did last time. In any case, as we said, this is a short process you'll only have to undergo once, so the only thing that really matters is that you can get it to work.
+
+ As for those shortcuts, you only need to remember three keys before you can consider yourself a master: Delete, Insert and the squiggly line that sits below the Esc. key. As a beginner, you'll want to familiarize yourself with Delete first, as that's what you need to select things -- to click on them with your eyes, if you will. It really is very simple: just look at something and press the Delete key. More advanced users can use the squiggle line to expose all open apps, and then use the gaze-and-delete trick to select one. It's a neat trick for toggling through open programs, though it'd be just as efficient to swipe in from the left side of your screen / touchpad. Windows 8 is already pretty good at that, after all.
+
+ To scroll through things, hold down Insert and look toward the part of the page where you want to scroll. Two caveats here: though this works in web browsers, you can't yet scroll horizontally through Metro-style apps. Two: the scrolling speeds are slow -- slower, perhaps, than what you're used to. If you really want to cut through huge blocks of text, you're still better off using the scroll wheel on your mouse.
+
+ Zooming might be our favorite trick of them all. In our hands-on demo, we stared at a world map, and then used the scroll wheel on a mouse to zoom in on that particular country. It worked flawlessly, as did all the gestures -- even when we selected tiny countries like Denmark and Lithuania we were able to home in quickly and precisely. We'll say this too: the technology works even if you normally have a little trouble keeping your eyes focused on a given point. I should know: I have a mild case of strabismus.
+
+ For now, as we said, only developers can get their hands on this. In shelling out $1,000 for the kit, they get access to Tobii's SDK, so they'll have the chance to program some apps of their own. The consumer version will follow later this fall -- albeit in small quanities, though. And the year after that? A Tobii rep told us the next step is for device makers to integrate the Gaze UI directly into their products, whether they're laptops, desktops or something else. (Tobii did hint that they were aiming to implement the technology in more than just computers. We're calling it now: our money's on tablets.) Until then, we're already impressed by how much smoother the experience has gotten in just a year. Now if only it could be had for less than $1,000.
+
+ 
+ Steve Dent contributed to this report.
+

@@ -1,0 +1,12 @@
+
+NVIDIA announced Gamestream this morning, an initiative aimed at pairing the company's GPUs with streaming gaming via its Shield handheld game console. Company head Jen-Hsun Huang says the service takes NVIDIA's GeForce Experience software and pairs it with NVIDIA GPUs and the Shield to push streaming gaming to the living room.
+
+
+Huang said Gamestream's first stop is a re-branding of the Shield's streaming tech -- sounds like that PC streaming tech on Shield is coming out of beta. But Huang's not stopping there: he pulled NVIDIA's Ujesh Desai on-stage, and he showed Shield powering PC game streaming on a nearby LG 4K television. "What makes Gamestream special is the low-latency of it," Huang said. Desai used a Nyko wireless controller that he paired via Bluetooth with the Shield, and the Shield's Android OS ran on the television. Apparently the computer that powered the demo of Batman: Arkham Origins -- an unreleased WB game demoed via Steam's Big Picture Mode on Shield -- runs NVIDIA's $1,000 Titan GPU.
+
+
+The game sure looked snazzy running on a big 4K television, though we couldn't help but notice the same hitching issues with streaming that we encounter at home with our review Shield. Of course, the streaming will work on any old TV that has an HDMI-in. The Shield connected to the TV via its HDMI-out port -- something that previously made little sense. Huang said the game console mode of Shield will arrive in the coming months, as well as the update to GeForce Experience that enables streaming to televisions via Shield.
+
+
+
+

@@ -1,0 +1,8 @@
+
+ Now that the Megahertz race has faded into the distance (we hear it was a myth), Intel is well and truly kicking off the start of a multi-core war with the demonstration of an 80-core research processor in San Francisco last week. It's not the first multi-core processor to reach double figures -- a company called ClearSpeed put 96 cores onto one of its CPUs -- but it's the first to be accompanied by the aim of making it generally available; an aim that Intel hopes to realize within a five year timeframe. The long time frame is required because current operating systems and software don't take full advantage of the benefits of multi-core processors. In order for Intel to successfully market processors with CPUs that have more than say, 4 cores, there needs to be an equal effort from software programmers, which is why producing an 80-core processor is only half the battle. On paper, 80-cores sounds impressive, but when the software isn't doing anything imaginative with them it's actually rather disappointing: during a demonstration, Intel could only manage to get 1 Teraflop out of the chip, a figure which many medium- to high-end graphics cards are easily capable of. The multi-core war may have begun, but the battle will be fought with software, although that's not to say that the hardware side has already been won: apparently the test chip is much larger than equivalent chips -- 275 mm squared, versus a typical Core 2 Duo's 143 mm squared -- and Intel currently has no way to hook up memory to the chip. Hopefully half a decade should be long enough to sort out these "issues."[Thanks, Michael]
+      
+
+ 
+
+
+ 

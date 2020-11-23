@@ -1,0 +1,6 @@
+
+ 
+Been wondering how that new 6Gbps SATA interface and Marvell controller have been treating Intel's latest SSDs? The answer, it turns out, is really rather nicely. Faced off with OCZ's awesomely quick Vertex 3 drive, the 250GB SSD 510 from Intel more than holds its own, occasionally flashing ahead and taking the lead. Opting for Marvell's processing chip has improved Intel's sequential performance, but has actually led to it taking a ding on random read speeds -- the latter being arguably more important on a day-to-day basis. Still, this $584 drive is one of the finest the consumer world has yet had to feast upon and should encourage high expectations from Intel's 25nm G3 storage units, which are still to come. As to having the extra Serial ATA bandwidth, we'll leave it to Anand from AnandTech to summarize: "these next-generation SSDs not only use 6Gbps SATA, they really need it."
+      
+
+ 

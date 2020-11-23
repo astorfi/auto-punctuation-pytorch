@@ -1,0 +1,35 @@
+
+ 
+ Looking for something a bit more solid than a third-party benchmark? We can do that. "Already in production the Exynos 4 Quad is scheduled to be adopted first into Samsung's next Galaxy smartphone that will officially be announced in May," the horse's mouth reveals. Samsung boasts that the new 32nm 1.4GHz quad-core processor flaunts twice the processing power over its predecessor, thanks to its High-K Metal Gate (HKMG) low-power technology. The net energy savings? About 20-percent. "The application processor is a crucial element in providing our customers with a PC-like experience on mobile devices," explains Hankil Yoon, Senior VP of Product Strategy Team at Samsung, "Samsung's next Galaxy device, which will be officially announced soon, offers uncompromised performance and ground breaking multitasking features, thanks to Exynos 4 Quad's powerful performance and efficient energy management technology." Sammy says it's shopping the new processor around to other handset manufacturers (like Meizu), noting that the Exynos 4 Quad is pin-to-pin compatible with the Exynos 4 Dual (the brains behind the Galaxy S II and Note), which gives designers the ability to update product designs with minimal costs. Check out Samsung's full press release after the break.
+
+
+
+  
+ 
+  Show full PR text    Samsung's New Quad-Core Application Processor Drives Advanced Feature Sets in Smartphones and Tablets
+
+   Designed on 32nm HKMG process, new energy-efficient chip exceeds 1.4GHz per core
+
+   SEOUL, Korea--(BUSINESS WIRE)--Samsung Electronics Co. Ltd., a world leader in advanced semiconductor solutions, today introduced the industry's first quad-core application processor built on the High-k Metal Gate (HKMG) low-power process technology. With unprecedented performance capabilities exceeding 1.4GHz based on the ARM® CORTEXTM A9 quad-core, the powerful, yet energy-efficient Exynos 4 Quad, allows system-level architects to integrate maximized power efficiencies into smartphones and tablets which enables double the processing power at a 20 percent lower power bill over its predecessor, the 45nm process-based Exynos 4 Dual.
+
+   "The quad-core processor offers phenomenal multitasking abilities surpassing any single or dual application processor. Since all the cores must share a single battery, the power management and efficiency in the limited battery capacity are indispensable for mobile computing devices," said Taehoon Kim, vice president of System LSI marketing, Device Solutions, Samsung Electronics. "Given the diverse functionalities consumers are demanding from their mobile devices today, the Exynos 4 Quad meets those high-performance needs while keeping power consumption very low."
+
+   Multi-core processing delivers enhanced performance, enabling users to accomplish more tasks in a shorter period of time. For example, a task such as streaming video can run on one core while the other cores update applications in the background, connecting to the web and scanning virus-check simultaneously.
+
+   Benefitting from a use case where the parallel processing and workload sharing among the four cores is necessary, the Exynos 4 Quad is particularly well-suited for heavy-load applications such as 3D games, video editing, and calculation-intensive simulation.
+
+   Due to its 32nm HKMG low-power process and power-saving design, the Exynos 4 Quad has two times the processing capability over the 45nm process based Exynos 4 Dual while consuming 20-percent less power. To improve power efficiency, Samsung adopted hot-plug functionality to support on-off switching for each core as well as the per-core dynamic voltage and frequency scaling (DVFS), which offers a dramatic reduction in power consumption by adapting different levels of voltage and frequency when changing workloads.
+
+   Having identical form factor measurements (12mm X 12mm X 1.37 mm), the Exynos 4 Quad is pin-to-pin compatible with the 32nm process based Exynos 4 Dual, allowing mobile device designers to immediately adopt the new solution without additional cost, engineering or design efforts.
+
+   In addition, the new processor incorporates a full HD 30 frame per second video hardware codec engine for high resolution 1080p video recording and play-back, an embedded image signal processor interface for high-quality camera functionality and an HDMI 1.4 interface for sharp and crisp multimedia content transmission.
+
+   Samsung developed a power management IC (PMIC), the S5M8767, as a companion chip to power the Exynos 4 Quad processor. By integrating various circuitry such as nine highly efficient and programmable buck converters and 28 low-dropout regulators (LDOs) into the small package of 5.0 mm x 5.0mm x 0.4mm, the S5M8767 is designed to scale up or down the dynamic voltage depending on the clock speed in 6.25mV step for managing power delivery and maximizing battery life at the system level.
+
+   Already in production, the Exynos 4 Quad is scheduled to be adopted first into Samsung's next Galaxy smartphone that will officially be announced in May. Samsung's Exynos 4 Quad is also sampling to other major handset makers.
+
+   "The application processor is a crucial element in providing our customers with a PC-like experience on mobile devices. Samsung's next Galaxy device, which will be officially announced soon, offers uncompromised performance and ground breaking multi-tasking features, thanks to Exynos 4 Quad's powerful performance and efficient energy management technology," said Hankil Yoon, Senior Vice President of Product Strategy Team, Samsung's Mobile Communications Business.
+
+   Last year, Samsung introduced a new online hub dedicated to its Exynos processor. Designed to facilitate easy communication with industry partners and end users, the new micro-site takes you a step closer to the ultimate experience Exynos delivers; product information, user experience and information on promotion events. More information can be found at http://www.samsung.com/exynos.
+
+ 

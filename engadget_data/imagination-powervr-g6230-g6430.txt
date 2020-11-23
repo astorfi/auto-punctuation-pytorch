@@ -1,0 +1,34 @@
+
+ 
+ Imagination Technologies has launched two new variants of its Series6 "Rogue" GPU, giving manufacturers more choice for the loadouts of next-gen mobile devices, TVs and dash systems. The PowerVR G6230 and G6430 differ from the earlier Series6 cores in one single respect: they're bigger, which means they're designed for those who want to go "all out" for better performance. At this point it's not clear just how much extra juice they'll deliver, but in general the Rogue architecture is all about being "scalable" -- Imagination can simply add more "compute clusters" to boost frame rates at the expense of power consumption and it says "further cores will be announced" that will extend the eye-candy possibilities even further.
+
+
+
+  Show full PR text    Imagination adds to PowerVR Series6 'Rogue' family
+   PowerVR G6230, G6430 extend IP family range of two and four cluster cores
+
+   June 14, 2012 -- Imagination Technologies, a leading multimedia technologies company, announces the latest IP cores in its ground-breaking PowerVR Series6 GPU core family.
+
+   The PowerVR G6230 and G6430 GPU IP cores are the latest in a growing family of PowerVR Series6 GPU cores and deliver high compute efficiency while minimising power and bandwidth requirements.
+
+   Following on from the G6200 and G6400 cores, the PowerVR G6230 and G6430 offer two further design points in the Series6 family, which now includes two 'two-cluster' and two 'four-cluster' IP cores.
+
+   PowerVR G6200 and G6400 are designed to deliver the best performance at the smallest area possible for two and four cluster architectures respectively, while the PowerVR G6230 and G6430 'go all out', adding incremental extra area for maximum performance whilst minimising power consumption.
+
+   All 'Rogue' architecture cores deliver a power / performance ratio unmatched by competitor solutions, without compromising on feature set.
+
+   Says Tony King-Smith, VP marketing, Imagination: "With the four cores announced so far PowerVR Series6 can target a wide range of markets and requirements. PowerVR Series6 has already set a new benchmark for high performance, ultra-low power GPU cores. With G6200, G6230, G6400 and G6430 we deliver power, performance and area that fits the wide range of differentiated designs our licensing partners want to create."
+
+   PowerVR Series6 is based on the highly scalable 'Rogue' architecture and further cores will be announced to deliver the widest range of performance for licensing partners seeking to deploy the industry's leading graphics IP solution with the optimal intersection of product differentiation and the shortest time to market.
+
+   Inside Rogue
+
+   Based on a scalable number of compute clusters, the PowerVR Rogue architecture is designed to target the requirements of a growing range of demanding markets from mobile to the highest performance embedded graphics including smartphones, tablets, PC, console, automotive and TV. Using these arrays of programmable computing elements PowerVR G62xx and G64xx deliver high compute power efficiency while minimising power and bandwidth requirements. The PowerVR G62xx and G64xx, have two and four compute clusters respectively.
+
+   PowerVR Series6 GPU cores are designed to offer computing performance exceeding 100GFLOPS (gigaFLOPS) and reaching the TFLOPS (teraFLOPS) range enabling high-level graphics performance from mobile through to high-end compute and graphics solutions. Rogue cores are specified to ensure the fill rates required for the latest smartphones, tablets and TVs, as well as the multiple screen support demanded by the automotive industry.
+
+   Rogue meets requirements for compute APIs including OpenCL 1.x and Renderscript Compute, delivering an optimal balance of performance versus power consumption for mobile and embedded devices. All members of the Series6 family are designed to support all features of the latest graphics APIs including the next generation of the OpenGL ES API*, OpenGL 3.x/4.x, and DirectX10 with certain family members extending their capabilities to full WHQL-compliant DirectX11.1 functionality.
+
+   The PowerVR Series6 family delivers a significant portfolio of new technologies and features, including: advanced scalable compute cluster architecture; high efficiency compression technology including lossless image and parameter compression and the widely respected PVRTC2™ texture compression; an enhanced scheduling architecture; dedicated housekeeping processor based on Imagination's Meta technology; and a new generation Tile Based Deferred Rendering architecture. These features combine to produce a highly latency tolerant architecture that consumes the lowest memory bandwidth in the industry while delivering the best performance per mm2 and per mW.
+
+ 

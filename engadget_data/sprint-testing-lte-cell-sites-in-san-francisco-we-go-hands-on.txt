@@ -1,0 +1,29 @@
+
+It's not everyday that you get to mill around rooftops like Spider-Man, so when Sprint invited us to visit one of its LTE cell sites in San Francisco, our answer was a resounding "yes." While the company's been testing LTE in the city by the bay for several months now, we're still a few weeks away from an official rollout. Cell site SF33XC664 is located high above Van Ness Avenue with phenomenal views of the Golden Gate and Telegraph Hill. Sprint showed us around the various pieces of equipment and let us run some speed tests. Take a look at our hands-on gallery below then hit the break to join us on a complete tour. 
+
+
+
+
+This cell site provides LTE data and CDMA data plus voice connectivity, but no WiMAX support. Of all the cabinets in the picture above, only the furthest two will remain once Sprint launches LTE in San Francisco. The rest, which only provide CDMA service and are currently active, will be removed and recycled since the new gear handles both LTE and CDMA. Interestingly, AT&T shares this location with Sprint. It uses its own cabinets and antenna units (the smaller white ones in our pictures) but provides both companies with a fiber connection to the backhaul.
+
+
+Here you can see the junction box for AT&T's fiber connection on the right, the battery backup system in the middle (it powers the cell site for five to eight hours in case of an outage) and the main equipment cabinet (open door).
+
+
+This is the meat of the gear, which is made by Samsung. LTE data is handled by the top-most rack unit while the middle two deal with CDMA data plus voice. The Cisco router at the bottom interfaces with AT&T's fiber connection.
+
+
+Here's one of Sprint's antenna units on the right along with its RF heads. Three antenna units, made by Powerwave, are mounted in a circle and spaced about 120 degrees apart around the building's elevator shaft. Each unit is capable of handling 800MHz, 1900MHz and 2.5GHz but require separate RF heads for each band. You can see two RF heads for 800MHz (top) and 1900MHz (bottom) to the left of this antenna unit. The company will have to install additional RF heads for 2.5GHz when it decides to re-farm its WiMAX spectrum for LTE.
+
+
+We ran speed tests with an iPhone 5 and a Galaxy Note II and reached up to 21Mbps down 9Mbps up. Of course, Sprint's still in the process of fine tuning this LTE cell site and these numbers are not final. Performance isn't that great near the antenna units themselves but improves as you move further away and into the signal path (which is directional). That meant the edge of the rooftop for us.
+
+
+A couple more antenna units -- Sprint on the left and AT&T on the right.
+
+
+The cell site is littered with warning signs, a stark reminder of the power of radio waves.
+
+Update: one of our readers kindly chimed in to explain that these Powerwave antenna units don't actually support 2.5GHz. Inside are four discrete 1900MHz antennas (two on each side) and two 800MHz antennas (in the middle).
+
+

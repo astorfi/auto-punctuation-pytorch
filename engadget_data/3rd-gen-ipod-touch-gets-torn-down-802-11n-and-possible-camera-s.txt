@@ -1,0 +1,6 @@
+
+ 
+There's no denying that Apple let the entire world (yes, even the native Easter Islanders) down by not shoving a camera of some sort into its iPod touch, but if a delicate teardown completed by the screwdriver-wielding fiends over at iFixit is any indication, a seasoned modder could certainly add one. A 6- x 6- x 3-millimeter space was spotted between a Broadcom chip and the wireless antenna, which is reportedly not enough room for an iPhone-esque sensor, but just enough space for the video camera module found in the 5G iPod nano. In potentially more interesting news, the aforesaid Broadcom BCM4329 chip actually supports 802.11n. For the nerds in attendance, you'll recognize that even the iPhone 3GS can't handle those high-speed airwaves. Furthermore, the chip supports FM transmission, so at least theoretically, the device could stream tunes to your old school stereo through an open FM station. Eager for more? Tap that read link, buster.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Well it appears that despite all of our wishing, hoping, and positive-thinking exercises, Microsoft has failed to deliver on a small dream of ours, namely, 65nm chips for the new HDMI-rocking Xbox 360 Premiums. Despite signs pointing otherwise, new photos show that this batch of systems continue to carry the Zephyr motherboard layout, which uses the older, hotter 90nm chips, though the boys in Redmond have addressed the heat issue a little bit with the addition of a second "daughter" heatsink attached to the CPU by heatpipe. The new 65nm "Falcon" boards -- which chipmaker Taiwan Semiconductor Manufacturing Company (TSMC) confirmed are in production -- are still on their way according to the rumor mill, slated for release sometime this Fall. Interestingly, Microsoft and TSMC have just laid plans to produce the Xbox's graphics-memory subsystem using the chip manufacturer's 90nm embedded DRAM spec. We won't speculate on when we'll start seeing that addition appear, however.
+      
+
+ 

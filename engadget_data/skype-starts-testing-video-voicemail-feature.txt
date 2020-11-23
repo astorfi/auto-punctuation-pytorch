@@ -1,0 +1,19 @@
+
+ Facebook and Vine were just the beginning -- you should have known that. Especially once the biggest social network in the world started dipping its toes in the VoIP pool. Skype isn't about to let others encroach on its hard won territory without a fight. The Microsoft-owned messaging platform has started testing what amounts to a video voicemail feature on OS X, Android and iOS, something that had already been hinted at in its updated TOS. Why those operating systems at first, without any word about Windows or Windows Phone, we're unsure. But it's a safe bet Redmond's own platforms will get the feature sooner rather than later. Currently users in the US and UK should be seeing the option, just dig a bit as it might be hidden behind a more actions or overflow icon, as it is on Android. Customers are getting 20 free video messages to start, though we weren't able to wrangle any further details out of the company regarding pricing.
+
+ (Update: While we still have some unanswered questions regarding pricing, Skype did say that unlimited voice messaging will be included as part of a premium subscription.)
+
+ (Update 2: A Skype spokesperson reached out to us with the following statement about availability:
+
+  "Users in these markets across all Windows desktop and mobile platforms can receive messages, too. We will have send capability in Windows by end of April. In the meantime, we continue to test this new feature in its early release."
+
+ April isn't ideal, but it's better than nothing.)
+
+
+
+ 
+ We tested out video messaging quickly and, well, it works just as you'd expect. If a contact isn't around you can simply select the option from wherever its stashed on your OS of choice (try cmd+click on a contact's name in OS X) and the camera (front-facing on a phone) fires up. More than once we tried to switch from the front-facing to the rear-facing shooter on a Galaxy Nexus and it simply froze the app and crashed. Then, once you're ready to record your message simply tap the big red icon. You've got three minutes to get through your spiel and send it off to the recipient. On the desktop at least you've actually got the option to download the clip in MP4 format, though we couldn't find that feature on the mobile version.
+ The recordings themselves are pretty typical for Skype, at least on the mobile apps. Video was compressed and audio suffered from a few digital artifacts, but nothing so horrendous as to make it unintelligible. We did have one message simply lose audio halfway through, but we're willing to chalk that up to video messaging still being early in development. Skype was very clear that it's still in the testing phase, so hopefully some of the rough edges we encountered will be cleaned up before seeing wider release. Below you'll find a clip we recorded and if you've tested it out for yourself sound off in the comments.
+
+  Mat Smith contributed to this report.
+

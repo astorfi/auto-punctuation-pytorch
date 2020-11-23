@@ -1,0 +1,4 @@
+
+ As cutting-edge as Google can be, its Chrome browser has trailed in supporting Do Not Track by default; all its major challengers already have the option to cut off tracking cookies. At least that's where Google's fast-track development process comes in handy. Following a short beta, the stable release of Chrome 23 includes the DNT protocol to both safeguard privacy and prevent a few eerily well-targeted ads. The update is more fine-grained still with a quick drop-down menu to selectively turn off access to cameras, location and other sensitive details on a site-by-site basis. Even those who live their life in public get something: Windows users at last have graphics hardware acceleration for video, giving a lift to battery life on laptops and smoothing playback for those on borderline-acceptable PCs. More details are available at the source link, so get to clicking if you're not a fan of small text files shadowing your web visits.
+
+

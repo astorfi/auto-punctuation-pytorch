@@ -1,0 +1,5 @@
+
+ Hacks don't come much quicker than this. Just days after they started rolling out, one early recipient of an Apple TV has already cracked his open and claims to have gotten it to play nice with XviD files, although not without some wrangling. The first step -- and the one sure to stop the more warranty-aware folks among us in their tracks -- involves removing the Apple TV's hard drive, popping it into a USB enclosure, and mounting it on your computer. From there, you simply install the Perian video tool and the Dropbear SSH server in the appropriate locations, along with a script that disables the Apple TV's firewall and opens up the necessary ports -- then put it all back together. It's apparently not quite an ideal solution, however, also requiring the creation of reference QuickTime files for each XviD movie -- although, not surprisingly, they're already working on a tool to automate that process. [Via Electronista, thanks Jonathan]
+      
+
+ 

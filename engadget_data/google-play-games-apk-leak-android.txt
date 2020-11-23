@@ -1,0 +1,4 @@
+
+A Google-built alternative to Game Center on iOS and Games Hub on Windows Phone surfaced last month, and we know even more about it. Android Police dug into a new Play Services (an Android component you don't access directly, but does things like update Google apps) APK, and found the latest version hid a massive update getting ready for Google Play Games. Although it's not directly accessible yet, so far it's revealed support for system wide notifications, standardized notifications managed by Google+, and cloud synced game saves to work across multiple devices. Also built in are the other parts of any modern gaming service like matchmaking, leaderboards, achievements, lobbies and such. Exactly how all this works and how devs will put it to use will probably be revealed next week at Google I/O, but for now there are a few more screenshots beyond the source link.
+
+

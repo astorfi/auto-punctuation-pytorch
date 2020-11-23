@@ -1,0 +1,11 @@
+
+ 
+We'd actually already hacked up a 3G FaceTime video call using an iPhone 4 and a MiFi, but now that Apple's latest handset has been jailbroken, you can toss the extra hardware -- you just need a little Cydia app called My3G, which lets you run WiFi apps over 3G. FaceTime video quality appears to be unaffected, but from what we've seen the framerates suffer depending on your connection -- pretty much what you'd expect to get when running a video stream optimized for high-bandwidth connections on a smaller pipe. Still, it's instantly the best reason to jailbreak your phone -- check a video after the break.
+
+P.S.- If you're averse to jailbreaking, remember that Fring lets you make video calls over 3G without any shenanigans -- and unlike FaceTime, you can also video call non-iPhone users. Just sayin'!
+      
+
+ 
+
+
+ 

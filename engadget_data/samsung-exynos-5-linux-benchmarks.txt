@@ -1,0 +1,4 @@
+
+ Linux wizard Michael Larabel has been marking his benches over at Phoronix and in the process he's proved that the Samsung Exynos 5 Dual processor -- currently found in some of our favorite tablets and budget notebooks -- is remarkably nifty with Ubuntu. The chip, which contains two Cortex-A15 cores clocked at 1.7GHz and a Mali-T604 GPU, was stacked up against the A9-based Tegra 3 from NVIDIA plus a few Intel Atoms to represent the x86 side of things. Although the various test rigs couldn't be totally spec-matched in terms of RAM and storage, the scores were focused on pure computational grunt and they gave Samsung's SoC a "surprising" lead. Check out the source link below and you'll see that the majority of the graphs look similar to the one above, with the two weaker Atoms and the aging Tegra 3 being left for dust and only the Core i3, with its much higher wattage, being able to keep that Exynos ego in check -- at least until the eight-core version gets here.
+
+

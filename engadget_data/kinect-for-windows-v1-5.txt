@@ -1,0 +1,5 @@
+
+ 
+ Microsoft is busting out version 1.5 of its Kinect for Windows runtime and SDK that includes a raft of new features for the Xbox-lacking hoi polli. The update includes 10-joint skeletal tracking that'll work even when seated, face following capabilities and joint orientation -- the latter enabling it to predict how your body will move for greater accuracy. It's also gaining four extra languages for speech recognition: French, Spanish, Italian and Japanese, not to mention Kinect Studio, which will help developers record and play back your movements to fine-tune their applications. In addition, Redmond is offering language packs to ensure the sensor will play harmoniously with your local dialect, cobber.
+
+

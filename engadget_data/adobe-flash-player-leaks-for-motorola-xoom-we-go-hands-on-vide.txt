@@ -1,0 +1,21 @@
+
+
+
+March 18th may seem like an eternity if you expected your Motorola Xoom to come with Adobe Flash on day one. But you know what? If you put your trust in a mysterious file floating about the internet, there's no need to wait that long. MyDroidWorld obtained possession of a leaked build of Adobe Flash Player for the Xoom, which doesn't need root or even a preliminary update to install -- you just need to check the "Unknown sources" box under Settings > Applications, sideload the file or download it from the Xoom's browser and you're good to go. The best part? Based on our preliminary testing, Flash performs exceedingly well on the Xoom's dual-core Tegra 2 processor.
+
+While this early build of Flash was pretty choppy during HD playback, low-res video content rendered at perfectly viewable speeds, and we were able to play games (like Nanaca Crash and Canabalt) so long as they didn't require anything more than single-button control schemes. By contrast, Hulu was a no-go (it's still blocked), and this build has some kinks to work out when it comes to multitasking -- while any single Flash site ran well and we could quickly tab between, the more Flash-heavy tabs we had open, the slower each one ran individually -- which is why the video above starts out so choppy. Adobe's UI also seemed to have some difficulty detecting when we wanted to make a Flash item full-screen. Typically, you double-tap an item to enlarge it, but sometimes that didn't work... but with some Flash content, we found we could long-press on a Flash window to bring up a UI bar that would let us focus on it individually. Before you judge the merits of Flash on tablet, remember that this is a leaked version of a beta release, and if it's this good out of the gate, we're pretty excited about how well it might perform after a few tweaks. Don't miss our video above, and find the file you need to install Flash yourself at our source link.
+
+Update: We managed to get Flash to drop one of those context-sensitive buttons during a session of Canabalt and make the window full screen, which not only enlarged the window but also seriously sped up our little runner -- probably by redirecting the tablet's resources to our game. Photographic proof after the break!
+
+Update 2: We'll be shooting a second video later in the day to show how the Xoom handles Flash one site at a time. 
+
+Update 3: There's a brand-new video after the break! As it turns out, you can make certain Flash windows full-screen by long-pressing on them, and we've updated the article to reflect that. 
+
+Update 4: Adobe's confirmed that we're looking at a leaked build of Flash 10.2, but has also asked us nicely to take our link to the Surprise_flash.apk file down, saying that performance will be further optimized by the time it officially rolls out. Read the company's statement below.
+The leaked version of Flash Player 10.2 is an earlier build than the one we will make available on Android Market on 3/18. Additional optimization work has been completed since then and we'd like Xoom customers to receive the correct build starting this Fri.   [Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

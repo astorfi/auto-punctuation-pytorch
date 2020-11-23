@@ -1,0 +1,13 @@
+
+If you're hoping to get some more tactile feedback out of augmented reality environments, the folks at Disney Research have devised the AIREAL system that could end up doing just that. The team is showing off the project at SIGGRAPH's Emerging Technologies space, so we made sure to stop by for a look and feel. As quick refresher, the technology reacts to the user's gestures by churning out a vortex of air to provide tactile feedback in real space -- thanks to an almost entirely 3D printed enclosure and a smattering of actuators and depth sensors. In the demo we saw, hovering our hand just over a display summoned a butterfly.
+
+
+Once it landed, that small bit of air offered up the physical sensation that it was actually touching us. As we moved closer to a virtual open window, wings went a flutter and the whole sensation increased a bit. Sure, what we saw was a fairly simple use scenario, but there are aspirations for this to enhance gaming experiences and other augmented environments (likely within the confines of a Disney park, of course) with the addition of haptic feedback. Looking for a bit more info? Consult the video after the break for just that. 
+
+
+
+
+
+
+
+ 

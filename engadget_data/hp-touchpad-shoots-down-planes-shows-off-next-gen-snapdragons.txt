@@ -1,0 +1,15 @@
+
+
+
+
+We're willing to bet Qualcomm's Adreno 220 GPU is an abstract concept to most readers, but we can put it into perspective real quick -- here it is in the HP TouchPad, pumping pixels and mapping textures to a seriously stunning little air combat game. We got our hands on the webOS 3.0 tablet and gave Polarbit's Armageddon Squadron II a whirl at GDC 2011, and the experience felt pretty solid overall, framerate only dipping significantly when unleashing a hefty barrage of rockets upon your foes. What's more, the tablet easily -- and automatically -- paused our game when flexing webOS's multitasking muscle to check a text message that had just come in. What's that you say? You're wondering how the HP TouchPad does text messages? Well, it doesn't quite -- it requires a webOS smartphone paired via Bluetooth to share the cellular modem for texts and calls. But you knew that already, right?
+
+Armageddon Squadron wasn't the only title Qualcomm had handy to show off the power of the Adreno 220, though, as SouthEnd Interactive's Desert Winds seems to be the feather in the company's cap. It's a 3D action-adventure title starring some very fancy lighting effects for a mobile game -- not to mention a buxom female swordslinger who dredges up memories of ATI's Ruby. See that after the break!
+
+Update: Adreno 220 is actually a single-core GPU, part of the dual-core Snapdragon 8x60 system-on-a-chip.
+      
+
+ 
+
+
+ 

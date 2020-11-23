@@ -1,0 +1,6 @@
+
+ 
+Always Innovating has stopped innovating for a moment and started production. Its transformer of a netbook/tablet called the Touch Book is now rolling off manufacturing lines on track for shipments starting next month. Anyone who has pre-ordered already will be happy to know that the prices we spied in April are still in effect, meaning $299 for the tablet itself, while the clip-on keyboard comes in at $99 extra. For that price you get an 8.9-inch 1024 x 600 touchscreen, a USB 802.11 b/g/n adapter, Bluetooth, a TI OMAP3430 OMAP3530 processor, and 512MB of memory split evenly between RAM and NAND, plus a further 8GB of storage on an SD card. Not exactly a screamer, but performance running Linux (the only OS available) should be reasonably snappy, and we're curious to see what enterprising coders will do with its internal accelerometer. It does look a little like a knob-free Etch A Sketch...Update: As Kaa pointed out in the comments, we were off by 100 on the CPU revision. It's an OMAP3530, not 3430.[Thanks, Jeff]
+
+
+

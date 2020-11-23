@@ -1,0 +1,11 @@
+
+
+Microsoft is finally fixing a few of the most hated things about Windows. In a blog post, the software giant revealed that compared to Windows 8.1, Windows 10 will take up as much as 6.6GB less space, will re-install faster and possibly be easier to rid of crapware. To achieve those goals, Microsoft is using "Wimboot" disk compression to reduce system file and app sizes. To make sure it doesn't compromise performance, the OS will check your system RAM and other parameters before installing it. Also, instead of being stuck with files needed to recover from a failure, you'll create your own to backup and restore the OS and apps on PCs and tablets (Windows phones already have this feature). It added that the new technique will still allow recovery from "severe corruption."
+
+
+
+Windows 10 also eliminates a lot of re-installation headaches, according to Redmond. Currently, Windows users need to download and install all the security fixes and updates on top of the basic installation. When you "refresh and reset" Windows 10, however, it'll tap existing runtime system files, bringing your system to the same point you started at without the need to download.
+
+Finally, Microsoft said that "we are also redesigning Windows' refresh and reset functionalities to no longer use a separate recovery image (often preinstalled by manufacturers today) in order to bring Windows devices back to a pristine state." By "pristine state" Microsoft might mean "bloatware-free" -- in other words, users can quickly "refresh and reset" unwanted apps out of a new machine as soon as they buy it. Again, that's normally a time-consuming mess that sucks a lot of the fun out of owning a new computer. And thanks to the Lenovo Superfish fiasco, that's the first thing a lot of folks now do after buying a new PC.
+
+

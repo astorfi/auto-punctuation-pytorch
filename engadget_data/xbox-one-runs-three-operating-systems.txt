@@ -1,0 +1,12 @@
+
+The latest update out of the currently unfolding announcement in Redmond: the next-generation Xbox will run three operating systems simultaneously. Complementing Windows 8 and RT on PCs and tablets, there'll be a third distinct version of Microsoft's operating system that has been pared down specifically for the new console. This will be the main system OS used to run apps such as Skype and other non-game titles downloaded from the Xbox storefront. At the same time, virtualization technology similar to Microsoft's Hyper-V will be used to allocate the bulk of system resources to a second, dedicated "Xbox OS" when the user loads up a game. This game OS will remain a fixed entity throughout the life of the console, so that game developers can be confident their games will run regardless of how much the Windows side of the machine gets updated. Finally, the third OS sounds like a small layer to assist with the virtualization, allowing the two main personalities of the console to talk to each other. Read on for more.
+
+
+
+We're not sure yet just how much of the Windows 8 experience will be carried over to the Xbox, although the pictures shown on stage suggest we'll get something like a Start Screen with live tiles that mirror the rest of Microsoft's ecosystem. We're also told the Windows side of the console will support Snap mode for running two apps side by side.
+
+At a deeper level, the triple-OS approach is meant to work in conjunction with the console's ability to produce numerous visual "panes," which are full 1080p layers generated independently and displayed one on top of the other. These panes could could allow a user to play full-fledged Xbox games while also seeing their fantasy football app or Skype chat updating in a overlaid Windows pane. The multi-OS system also makes sense in relation to the HDMI passthrough feature, which will allow 1080p output from a separate source such as a cable box to be played in a window while another app or game is also running on top or alongside.
+
+In terms of whether apps will be cross-compatible between the regular Windows Store and the storefront accessed by the new console, we're told they won't. Developers will have to do a bit of work to make a Windows app suitable for the Xbox One, not least in terms of tuning their UI for Kinect or the wireless controller. But Microsoft's engineers told us that the underlying similarity between Windows 8/RT and Windows for the Xbox should make this a pretty easy feat for coders.
+
+

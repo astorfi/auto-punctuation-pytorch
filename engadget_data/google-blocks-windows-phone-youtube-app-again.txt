@@ -1,0 +1,21 @@
+
+Everyone was understandably excited when Windows Phone got its own native YouTube app. That is, until Google decided it violated the terms of service by blocking advertisements and promptly asked Microsoft to remove the app. The two companies kissed, made up and collaborated on a new version that would adhere to Mountain View's developer guidelines. Unfortunately, it appears that, despite Big G's involvement, the latest version of YouTube for Windows Phone still has some issues that can't be overlooked. Only two days after returning, with the ability to upload video added as a bonus, Google has again begun blocking Microsoft's efforts.
+
+
+In an official statement YouTube said:
+
+
+
+"We're committed to providing users and creators with a great and consistent YouTube experience across devices, and we've been working with Microsoft to build a fully featured YouTube for Windows Phone app, based on HTML5. Unfortunately, Microsoft has not made the browser upgrades necessary to enable a fully-featured YouTube experience, and has instead re-released a YouTube app that violates our Terms of Service."
+
+
+
+Sources tell us that, specifically, Microsoft was not on board with developing an HTML5 based app. Instead the company quietly went back to work on its own native version and reverse-engineered the ad system in order to satisfy Google's terms of service. Unfortunately, this work-around means that Google can't guarantee the correct ads will be served up, leading the company to revoke Redmond's API key. We've reached out to Microsoft for comment and will update when we hear back.
+
+
+Update: A Microsoft spokesperson provided us with the following: "Google is blocking our updated YouTube app for Windows Phone. We are working with them to resolve the issue."
+
+
+Update II: And now, Microsoft has issued a longer response, and it's a doozy. We'll let you have a gander right here.
+
+

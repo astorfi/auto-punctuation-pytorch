@@ -1,0 +1,10 @@
+
+Nest's Learning Thermostat and Protect smoke detector are now part of a much, much larger universe. The company has just launched a developer program that lets third-party apps and devices talk to Nest hardware, making it do things that aren't possible through official software. The initiative is kicking off with a whole host of partnerships in place, in many cases with feature updates either available now or due in the near future. Chamberlain's garage doors can now tell your Nest thermostat when you're home, while Mercedes-Benz lets you check the temperature on the road; Logitech's Harmony Ultimate remote can lower the heat in mid-movie, and Jawbone's Up24 fitness tracker can tell Nest when you wake up.
+
+
+
+This isn't strictly one-way interaction, either -- Nest gear can control other gadgets under the right conditions. If a Protect discovers smoke, it can tell LIFX light bulbs to flash red and have IFTTT's phone app text the neighbors. Whirlpool, meanwhile, is going the distance by linking the equipment to its washers and dryers. Nest's thermostat can not only have Whirlpool machines keep your clothes fresh until you get home, but delay the start of a given cycle to avoid a peak energy consumption period and save money, if you're using the right power provider.
+
+And yes, the program will eventually include support from Nest's parent company, Google. Come the fall, Google voice commands will let you set the temperature on your thermostat; Google Now, in turn, will optionally heat or cool your home as soon as you set off on your commute. It's ironic that Nest's owner will be late to the home automation party, but the first wave of developers should give you plenty to do while you're waiting.
+
+

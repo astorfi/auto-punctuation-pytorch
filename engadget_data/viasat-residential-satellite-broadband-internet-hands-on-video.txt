@@ -1,0 +1,14 @@
+
+ 
+
+Last Thursday, ViaSat announced pricing for its new home broadband service, which is set to deliver 12 Mbps+ download speeds (3 Mbps+ up) beginning next week for $50 per month. We just dropped by the company's demo home just a few feet from the Engadget trailer at the Las Vegas Convention Center parking lot to try it out, and were quite impressed with the speeds we saw, especially considering that data was passing through the ViaSat-1 satellite thousands of miles above the Earth. We've used other satellite internet services before, and while there's still just over a half-second of latency, bandwidth speeds were significantly faster than what we've experienced with other services in the past.
+
+HD YouTube videos loaded very quickly, after a brief delay, as did Engadget and many other media-rich news websites. We performed a speed test and registered ping speeds of about 600ms, download speeds of about 30 Mbps and upload speeds of about 2 Mbps, but results aren't as accurate as they would be with a land-based connection because of latency and the way packet data is handled. We also placed a VOIP call, and while the delay was noticeable there, it was still usable. Want to see for yourself? Jump past the break as we step through ViaSat's front door to hop online.
+
+
+
+
+
+
+  
+ 

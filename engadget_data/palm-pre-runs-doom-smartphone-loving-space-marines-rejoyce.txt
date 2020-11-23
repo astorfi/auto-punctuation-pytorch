@@ -1,0 +1,9 @@
+
+ 
+If you were holding off on buying a Pre until it had some great games, start warming up that credit card. We knew homebrewers were already at work and one of those, a bloke who goes by the name Sargun, has managed to get the iconic Doom running on the phone -- or the open-source PRDoom, anyway, which is close enough for us. Sargun re-built the game to use the DirectFB graphics library to pipe all the two-barreled action to the Pre's framebuffer, and said getting the whole thing up and running was "actually fairly trivial." Your mileage may vary depending on your compiler skills, but with any luck someone will host up some binaries to save us all the trouble. Video proof of this great achievement after the break.
+      
+
+ 
+
+
+ 

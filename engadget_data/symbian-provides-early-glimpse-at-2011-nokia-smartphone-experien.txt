@@ -1,0 +1,9 @@
+
+       
+We've been pretty hard on Nokia with regard to its miserable S60 5th (aka, Symbian^1) user experience as compared to the competition. Fortunately, Nokia's bound and determined to freshen things up in 2010 with two major updates scheduled for the first and second halves of the year. At the moment, Symbian^3 (that's Symbian three) is expected first with Symbian^4 coming before the end of the year (functionally complete in Q3 with S^4 devices shipping in early 2011 according to the symbian.org wiki page). What we've got above then, is a UI Concept proposal for the latter. As you can tell from the pics, Symbian^4 promises to deliver an entirely new user interface: navigation is streamlined and platform apps will be reorganized and redesigned to leverage next gen graphics meant to deliver visually appealing transparencies and transitions on Symbian devices. The experience is based on Direct UI and built upon Qt and Orbit -- a strategy that Nokia hopes will lure developers to the table by making apps easy to build and update with broad scalability across Nokia's entire lineup of handsets. Note that the concept is open for discussion (and thus change) so voice your opinion now. And no, responding "N900 FTW" doesn't count. One more image after the break.
+      
+
+ 
+
+
+ 

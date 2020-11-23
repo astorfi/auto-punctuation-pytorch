@@ -1,0 +1,5 @@
+
+ 
+You know, the Kindle runs Linux, has USB, uses all standard processors and chipsets, even comes with free built-in EV-DO -- you'd kind of think that stuff (and all the rest) would make it about as high a profile target for hardware modders and hackers as there are. So what gives, why hasn't the hacker community glommed onto this thing? Hit the poll: anyone can answer, but we really want to hear from the über-geeks in the house why the call to Kindle has gone unheeded.Update: Good news! Reader Thomas did us a solid with some obscure links on how to get hardware access to the Kindle's console (some soldering req'd), where you can muck around with the bootloader. Also found: the complete and impressively extensive list of keyboard shortcuts. Now, let's parlay this stuff into something useful, shall we? And by "we" we mean, "you", since we're merely editors of a gadget site.
+%Poll-10514%
+ 

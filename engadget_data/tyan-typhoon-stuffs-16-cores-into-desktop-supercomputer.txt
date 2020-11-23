@@ -1,0 +1,9 @@
+
+ 
+Soon you may able to get the power of asupercomputer in a convenient little box, and without resorting to daisy-chained Macs or quantum trickery. Tyan wasshowing off a desktop-ish sized box at CeBIT,called the Typhoon, that can hold as many as four blade servers of theOpteron or Pentium varieties, with a maxed-out configuration of 4 blades x 2 sockets per blade x 2 cores per chip = 16cores possible in one enclosure. These so-called Personal Super Computers, or PSCs, can handle up to 64GB (theB2881YDS4T Opteron) or 32GB (the B5160YDS4T Pentium 4) of RAM, sport one SATA hard drive per blade, and address heatand noise issues with a rack full of quiet-running fans. Quibbles with the configuration seem minor, such as the lackof integrated KVM support for direct keyboard/video/mouse access to the individual servers, if necessary, and the useof Gigabit Ethernet interconnects. So far we've heard nothing regarding price, availability, or whether it can playDoom. Keep reading to catch a view from the back...
+      
+
+ 
+
+
+ 

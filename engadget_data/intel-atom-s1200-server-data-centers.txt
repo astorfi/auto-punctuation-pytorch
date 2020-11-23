@@ -1,0 +1,63 @@
+
+ We often hear talk about the most powerful servers and supercomputers, but the most power-efficient are just as important. On that latter front, Intel has today announced what it claims is the world's first 6-watt server-class processor, the Atom S1200. That's a 64-bit system-on-a-chip designed for use in data centers, and it comes in three variants ranging from 1.6GHz to 2.0GHz, each of which support up to 8GB of DDR3 memory, eight lanes of PCI Express 2.0, and all the basic features an x86-based data center requires. Not surprisingly, going the Atom route also entails a relatively low up-front cost, with the processors starting at just $54 in quantities of 1,000. And Intel is naturally promising even bigger advances in energy efficieny for the future, including a "leap further ahead" in 2014 when it moves to 14nm manufacturing for low-power Xeon processors, and Atoms after that.
+
+
+
+  Show full PR text   Intel Delivers the World's First 6-Watt Server-Class Processor
+   Several Equipment Makers Building Microservers, Storage and Networking Systems Based on 64-bit Intel® Atom™ Processor S1200 Product Family
+
+   NEWS HIGHLIGHTS
+
+   Intel® Atom™ processor S1200 server system on-chip hits lower-power levels, and includes key features such as error code correction, 64-bit support, and virtualization technologies required for use inside data centers.  More than 20 low-power designs including microservers, storage and networking systems use the Intel Atom processor S1200 family.  SANTA CLARA, Calif.--(BUSINESS WIRE)--Intel Corporation introduced the Intel® Atom™ processor S1200 product family today, delivering the world's first low-power, 64-bit server-class system-on-chip (SoC) for high-density microservers, as well as a new class of energy-efficient storage and networking systems. The energy-sipping, industrial-strength microprocessor features essential capabilities to achieve server-class reliability, manageability and cost effectiveness.
+
+   "HP servers power many of those organizations, and the Intel Atom processor S1200 will be instrumental as we develop the next wave of application-defined computing to dramatically reduce cost and energy use for our customers."  "The data center continues to evolve into unique segments and Intel continues to be a leader in these transitions," said Diane Bryant, vice president and general manager of the Datacenter and Connected Systems Group at Intel. "We recognized several years ago the need for a new breed of high-density, energy-efficient servers and other datacenter equipment. Today, we are delivering the industry's only 6-watt1 SoC that has key datacenter features, continuing our commitment to help lead these segments."
+
+   Intel's Next Generation of Microservers: The Real Thing
+
+   As public clouds continue to grow, the opportunity to transform companies providing dedicated hosting, content delivery or front-end Web servers are also growing. High density servers based on low-power processors are able to deliver the desired performance while at the same time significantly reduce the energy consumption – one of the biggest cost drivers in the data center. However, before deploying new equipment in data centers, companies look for several critical features.
+
+   The Intel Atom processor S1200 product family is the first low-power SoC delivering required data center features that ensure server-class levels of reliability and manageability while also enabling significant savings in overall costs. The SoC includes two physical cores and a total of four threads enabled with Intel® Hyper-Threading Technology2 (Intel® HT). The SoC also includes 64-bit support, a memory controller supporting up to 8GB of DDR3 memory, Intel® Virtualization Technologies (Intel® VT), eight lanes of PCI Express 2.0, Error-Correcting Code (ECC) support for higher reliability, and other I/O interfaces integrated from Intel chipsets. The new product family will consist of three processors with frequency ranging from 1.6GHz to 2.0GHz.
+
+   The Intel Atom S1200 product family is also compatible with the x86 software that is commonly used in data centers today. This enables easy integration of the new low-powered equipment and avoids additional investments in porting and maintaining new software stacks.
+
+   New Milestones in Power Efficiency
+
+   Intel continues to drive power consumption down in its products, enabling systems to be as energy efficient as possible. Each year since the 2006 introduction of low-power Intel® Xeon® processors, Intel has delivered a new generation of low-power processors that have decreased the thermal design power (TDP) from 40 watts in 2006 to 17 watts this year due to Intel's advanced 22-nanometer (nm) process technology. The Intel Atom processor S1200 product family is the first low-power SoC with server-class features offering as low as 6 watts1 of TDP.
+
+   Broad Industry Support
+
+   Today, more than 20 low-power designs including microservers, storage and networking systems use the Intel Atom processor S1200 processor family from companies including Accusys*, CETC*, Dell*, HP*, Huawei*, Inspur*, Microsan*, Qsan*, Quanta*, Supermicro* and Wiwynn*.
+
+   "Organizations supporting hyperscale workloads need powerful servers to maximize efficiency and realize radical space, cost and energy savings," said Paul Santeler, vice president and general manager, Hyperscale Business Unit, Industry-standard Servers and Software at HP. "HP servers power many of those organizations, and the Intel Atom processor S1200 will be instrumental as we develop the next wave of application-defined computing to dramatically reduce cost and energy use for our customers."
+
+   An Even Brighter Future
+
+   Intel is working on the next generation of Intel Atom processors for extreme energy efficiency codenamed "Avoton." Available in 2013, Avoton will further extend Intel's SoC capabilities and use the company's leading 3-D Tri-gate 22 nm transistors, delivering world-class power consumption and performance levels.
+
+   For customers interested in low-voltage Intel® Xeon® processor models for low-power servers, storage and networking, Intel will introduce the new Intel Xeon processor E3 v3 product family based on the "Haswell" microarchitecture next year. These new processors will take advantage of new energy-saving features in Haswell and provide balanced performance-per-watt, giving customers even more options.
+
+   Pricing and Availability
+
+   The Intel Atom processor S1200 is shipping today to customers with recommended customer price starting at $54 in quantities of 1,000 units.
+
+   More information on the announcement including Diane Bryant's presentation, additional documents and pictures are available at http://newsroom.intel.com/docs/DOC-3172.
+
+   About Intel
+
+   Intel (NASDAQ: INTC) is a world leader in computing innovation. The company designs and builds the essential technologies that serve as the foundation for the world's computing devices. Additional information about Intel is available at newsroom.intel.com and blogs.intel.com.
+
+   Intel, Intel Xeon, Intel Atom and the Intel logo are trademarks of Intel Corporation in the United States and other countries.
+
+   *Other names and brands may be claimed as the property of others.
+
+   Software and workloads used in performance tests may have been optimized for performance only on Intel microprocessors. Performance tests, such as SYSmark and MobileMark, are measured using specific computer systems, components, software, operations and functions. Any change to any of those factors may cause the results to vary. You should consult other information and performance tests to assist you in fully evaluating your contemplated purchases, including the performance of that product when combined with other products.
+
+   Intel processor numbers are not a measure of performance. Processor numbers differentiate features within each processor family, not across different processor families: Go to: www.intel.com/products/processor_number
+
+   Learn About Intel® Processor Numbers
+
+   1Intel introduces three processors within new Intel Atom S1200 product family with actual TDP as follows: Intel Atom S1260 (8.5Watts), Intel Atom S1240 (6.1Watts) and Intel Atom S1220 (8.1 Watts)
+
+   2Available on select Intel® processors. Requires an Intel® HT Technology-enabled system. Consult your system manufacturer. Performance will vary depending on the specific hardware and software used. For more information including details on which processors support HT Technology, visit http://www.intel.com/info/hyperthreading.
+
+ 

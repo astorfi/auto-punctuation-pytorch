@@ -1,0 +1,81 @@
+
+ RIM's reached yet another milestone in the slow-going march to its big January 30th BB 10 reveal: its SDK toolkit has gone 'gold'. Now, developers that've been courted by the Waterloo-based company at one of many BB Jam conferences around the globe can start building apps for the next-gen BlackBerry platform using final versions of APIs. As we learned back in May, devs interested in BB 10 will have the option to code natively for the unreleased OS using the Cascades framework, create HTML5-based "rich web applications" with WebWorks, or use the included toolset for Adobe AIR apps or Android ports. And just in case you were questioning industry support, RIM's also included stats in its associated PR (furnished by Five Points Research) that paint a positive picture, claiming 58-percent of those surveyed would "recommend BlackBerry 10 as a development platform." While it's nice to have those numbers as backup for its bravado, the company still has a ways to go turning the tide of consumer perception and elbowing past that other third place platform. Windows Phone 8, we're looking at you.
+
+
+
+  Show full PR text    BlackBerry 10 SDK Toolkit Goes "Gold"
+   December 11, 2012
+
+   Interest from Global, Diversified Developer Community Continues to Grow as BlackBerry 10 Launch Approaches
+
+   Waterloo, ON – Research In Motion (RIM) (NASDAQ: RIMM; TSX: RIM) today released the "gold" build of the BlackBerry® 10 developer toolkit. The "gold" build includes all of the final tools, components, and APIs that will enable developers to create integrated, social and beautiful applications for BlackBerry 10, and have the confidence that their apps will delight customers at launch.
+
+   Native C/C++ and Qt developers can use BlackBerry® Cascades™ to build visually stunning applications that offer deeper integration with core feature elements, such as BlackBerry Hub, than any other mobile platform today. HTML5 developers can use BlackBerry® WebWorks™ to create compelling and rich web applications for BlackBerry 10 devices that deliver native-like performance and take advantage of core integration as well. BlackBerry 10 tools are also available for building with Adobe® AIR® and porting Android® applications to the platform.
+
+   Developer Interest Growing
+
+   With the BlackBerry 10 launch event less than two months away, developer interest and excitement for the BlackBerry 10 platform continues to grow. Top application developers have already committed to BlackBerry 10 in key categories including games, multimedia, business and productivity, published media and social networking. For example, at the recent BlackBerry Jam Asia conference in Bangkok, RIM showcased over 70 new top application partners and demoed several on the BlackBerry 10 platform including apps from Fox Sports, MTV India, Picstory, Viki Video, and Hot Remit.
+
+   Over the past few months, developer outlook toward RIM has improved broadly and significantly. According to a recent Pivot Point Research survey commissioned by RIM*, 58% of developers surveyed would recommend BlackBerry 10 as a development platform, a 123% increase from May to October, 2012. The survey also found a steady increase in satisfaction with the BlackBerry 10 platform among developers, growing by 56% over the same period.
+
+   "We have been actively engaged with developers from around the world for many months and as we near the final weeks toward the launch of BlackBerry 10, the growing dedication and commitment we see from our developer community is truly outstanding," said Alec Saunders, Vice President, Developer Relations and Ecosystems at Research In Motion. "The focus we have had on building a true developer ecosystem and community is clearly working."
+
+   -more-
+
+   "We are seeing continued excitement for the BlackBerry 10 platform from leading brands across the globe. Partners want the recognition and advantage of being first-to-market on this exciting new platform," said Martyn Mallick, Vice President, Global Alliances and Business Development at Research In Motion. "Developers see that BlackBerry 10 is designed to make it very easy to create compelling customer experiences that can lead to high adoption and engagement."
+
+   The BlackBerry 10 platform enables developers to create visually beautiful and powerful applications, with features such as easy sharing, integration with social networks, and the ability to seamless flow between apps. Here's what partners are saying:
+
+   PUBLISHED MEDIA:
+
+   "We are excited to offer PressReader on the new BlackBerry 10 when it debuts early in 2013. With PressReader, BlackBerry 10 customers will enjoy access to over 2,300 full-content digital newspapers and magazines in a highly engaging and immersive reading experience with just one subscription."
+
+   - Alex Kroogman, CEO of NewspaperDirect.
+
+   BUSINESS AND PRODUCTIVITY:
+
+   "With over 70% of our customers accessing their ecobee thermostats remotely every month, being able to manage their home energy via mobile is critical to how they interact with the product. As the home energy industry continues to move towards mobile, I'm confident that BlackBerry 10 is going to play a key role in helping us maintain our position as an innovative leader in the smart thermostat market. Our app on the new platform will offer a better experience and continued energy savings for ecobee customers."
+
+   – Stuart Lombard, President and CEO, ecobee Inc.
+
+   "Working with BlackBerry 10, we have realized the true potential of a platform that offers maximum flexibility for building apps quickly without compromising on performance. The seamlessness with which one can to do deep integration with device features and also use web technologies is simply amazing. BlackBerry 10, along with the security and connectivity of the BlackBerry platform, offers immense scope for developing consumer and business applications. We are quite excited about the potential that has for applications in the mobile payments space."
+
+   – Jay Krishna, Director, Digitsecure
+
+   MULTIMEDIA:
+
+   "Our new app for BlackBerry 10 is a major step forward in the NFB's growing partnership with RIM. A world leader in interactive media and groundbreaking cinema, the National Film Board has been successfully working with RIM over the past few years to make film and new media a more mobile, personalized experience than ever before."
+
+   – Deborah Drisdell, General Director - Accessibility and Digital Enterprises, National Film Board of Canada.
+
+   -more-
+
+   "We enjoy building for BlackBerry 10 with its easy to learn and responsive Cascades development framework. In addition, the seamless integration with the BBM Social Platform in BlackBerry 10 is simply awesome! The BlackBerry 10 tools have made developing the PicStory application much faster than on other platforms."
+
+   – Wvgen Wong, Chief Architect, Risto Mobile
+
+   "Apps for smartphones and tablets are a key part of our digital media strategy next year, and we are looking forward to being a part of the BlackBerry 10 launch. We plan to launch the MTV India app for BlackBerry 10 and are looking into our other brands, like VH1 India and Nickelodeon India, for the platform."
+
+   – Rajneel Kumar, Vice President and Business Head- Digital Media, Viacom18 India Pvt Ltd.
+
+   GAMING:
+
+   "Marmalade launched a major BlackBerry 10 promotion to our developer community in September and the uptake of the offer has far exceeded our expectations - so there's clearly a huge interest in developing for the new platform. We've got thousands of developers currently working on new and engaging apps and games for the BlackBerry PlayBook and BlackBerry 10 platform using the Marmalade cross-platform SDK, and we're seeing a steady stream of content from our developer community being submitted to the BlackBerry World store. At Marmalade, we passionately believe that more platforms mean more possibilities for developers so we'll continue to encourage our community to embrace the eagerly-anticipated new platform."
+
+   – Harvey Elliott, Managing Director and COO, Marmalade.
+
+   "Magmic has been following the development of RIM's new platform since the launch of the BlackBerry PlayBook. The real turning point for us was the release of the Dev Alpha test device and the beta release of the BlackBerry 10 Native SDK. We've experienced RIM's exceptional commitment to the developer community first hand, and we've seen enough of the BlackBerry 10 platform to know that it's going to be an extremely integrated, seamless and socially connected product. RIM doesn't just understand how people use mobile devices, they clearly understand how people WANT to use mobile devices and they are enabling it. RIM is bringing a great platform to market and they are committed to the success of their partners. That's great news for content developers like Magmic and the people that love our products."
+
+   – Troy Johnson, Director of OEM and New Platforms, Magmic.
+
+   "In partnering with RIM, Gameloft has received very solid support as they worked hand-in-hand with our development teams to get them the tools needed to bring our growing lineup of high-quality titles to BlackBerry 10. We are very excited about the potential of our HD games on this new platform, and we plan on bringing some of the best gaming experiences currently available on mobile to BlackBerry 10 customers."
+
+   – Baudouin Corman, Vice President of Publishing for the Americas, Gameloft.
+
+   -more-
+
+   "The BlackBerry 10 platform is a great opportunity for each developer to evolve his business. The XIMAD team is making a big bet on BlackBerry 10. We are confident it will be a large, competitive market with millions of customers and we want a big piece of that pie. It is a great honor for us to be among the first developers who have started to work with BlackBerry 10. And the most important point is that it is very easy to start working with BlackBerry 10 - this platform supports all the modern developer technologies."
+
+   – Boris Gavrilov, BlackBerry Executive Manager, XIMAD Inc.
+
+ 

@@ -1,0 +1,11 @@
+
+Microsoft has made a few announcements related to Windows Phone 8.1 this afternoon in Barcelona. While we don't expect to see the new update in its entirety until April, we got at least a few satisfying nuggets of info today. First, we're going to see a lot more flexible support for hardware: 8.1 will be able to support more Qualcomm chipsets, such as Snapdragon 200, 400 and 400 LTE; it will come with TD-LTE, TD-SCDMA and SGLTE support, the ability for phones to use dual-SIM, apps on microSD and virtual softkeys instead of capacitive keys. Devices won't be required to have a hardware camera shutter key anymore, either (but it's still offered as an option anyway). Additionally, we've been told that devices currently on Windows Phone 8 will be able to get an update to 8.1, so it's fortunately backwards-compatible to some degree.
+
+
+With the new update, Microsoft is going to introduce support for dual SIM devices, which is huge in developing areas of the world. As part of this support, WP8.1 will offer Live Tiles for each SIM, as well as the option to link messaging tiles together for both. Microsoft is also going to be compatible with Qualcomm's Reference Design (QRD), and VP Joe Belfiore brought a Snapdragon 200-powered Windows Phone reference device to show it off. Unfortunately he couldn't show it off to us personally, since there were a few things he didn't want us to see, but it's refreshing to see such sweeping hardware opportunities; this opens up more ability for growth in global market share.
+
+
+
+
+
+ 

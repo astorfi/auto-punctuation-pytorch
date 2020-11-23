@@ -1,0 +1,11 @@
+
+ Joining the handful of Insert Coin finalists at Expand is Azorean's cute Ziphius aquatic drone. While Fort Mason is located by the seaside, the folks actually brought their own little pool along to let their Raspberry Pi-powered robot splash around in; though it can happily operate in seawater as well and thus adding more use case possibilities -- be it for entertainment (including autonomous ball-chasing, for instance) or for environmental monitoring. Through a direct WiFi connection we were able to use an Android tablet to control both the Ziphius' surprisingly powerful motors and its camera's vertical position, as well as watching a live video feed at the same time.
+
+ The final version of the drone will come with an interchangeable chassis to suit different purposes or simply for personalization, and internally it'll be equipped with Raspberry Pi's upcoming high quality camera module, which will enable even better streaming and onboard 1080p 30fps capture. According to CEO Edmundo Nobre, the Kickstarter campaign will launch before the end of the month, and he's hoping to bring the Ziphius to the mass market with a price point at around $200 to $250. Not bad, huh? Check out our hands-on video after the break.
+
+
+
+
+ 
+ Edgar Alvarez contributed to this article.
+

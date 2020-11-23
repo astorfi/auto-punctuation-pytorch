@@ -1,0 +1,4 @@
+
+Mountain View's machine translation service does a pretty good job of sussing out the meaning of copy / pasted text from around the web, but what if you need to translate something you can't put your cursor on? Google's got that covered too: handwriting input. Users of the tool's mobile app have been able to manually write in characters for some time now, but the company has only recently implemented this feature on the Google Translate website -- making it easy to input text that falls outside outside of the standard standard roman character set. After scrawling your best Kanji-replica with a mouse, Google will offer users its best guess at the intended characters, which, when selected, drop into the translate box. Of course, don't blame Google if your writing illegibly sloppy. Check out the company's blog post at the source link below.
+
+

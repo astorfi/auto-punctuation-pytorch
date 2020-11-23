@@ -1,0 +1,20 @@
+
+ 
+It's been awhile, but we've got ourselves a brand spanking new OS X update in the mix, 10.6.2 for Snow Leopard. So far the biggest change here seems to be fixing that nagging guest account deletion bug -- and thank goodness for that. As for whether or not it supports Intel Atom processors, last we heard this morning it wasn't going to be there, but we're gonna have wait and see now that it's officially hit the nets. Leopard users who haven't made the upgrade also get a gift today, in the form of a security update. 10.6.2 release notes after the break.
+
+Update: We just installed it -- it took forever and a day on one of our machines, and sped by reasonably quick on another. Everything seems okay otherwise, how about you?
+
+Update 2: We've gotten enough reports to call it -- Atom support is out. Sorry, hackintosh community.
+
+[Thanks to everyone who sent this in!]
+
+ 
+General operating system fixes provided for:
+ an issue that caused data to be deleted when using a guest account  an issue that might cause your system to logout unexpectedly Spotlight search results not showing Exchange contacts the reliability of menu extras an issue in Dictionary when using Hebrew as the primary language shutter-click sound effect when taking a screenshot an issue with the four-finger swipe gesture an issue adding images to contacts in Address Book an issue in Front Row that could cause sluggish or slow frame rates while watching videos creation of mobile accounts for Active Directory users reliability and duration of VPN connections general reliability improvements for iWork, iLife, Aperture, Final Cut Studio, MobileMe, and iDisk overall improvements to VoiceOver performance this update addresses video playback and performance issues for iMac (21.5-inch, Late 2009) and iMac (27-inch, Late 2009) computers that may occur in some situations while AirPort is turned onFonts fixes provided for:
+ an issue with font spacing an issue in which some Fonts are missing font duplication issues an issue with some PostScript Type 1 fonts not working properlyGraphics fixes provided for:
+ an issue when connecting monitors to DVI and Mini DisplayPort adapters an issue in which the brightness setting may not be remembered on restart addresses functionality with specific display models general reliability and performance improvements when using some applicationsMail fixes provided for:
+ a situation in which Mail's unread count may not update properly as messages are read on another computer an issue in which deleted RSS feeds may return an issue in which Mail cannot preview or Quick Look attachments when composing a new message an issue that can cause Address Book and/or Mail to stop responding when opened an issue in which email messages received from an Exchange Server are not formatted correctly an issue in which Mail reports "Account exceeded bandwidth limits" for some Gmail accountsMobileMe fixes provided for:
+ performance when accessing files from iDisk via the Finder and syncing iDisk files an issue in which syncing iDisk files does not proceed beyond "checking items" reliability and performance when syncing contacts, calendars, and bookmarks with MobileMe (syncing with iTunes and iSync are also improved) an issue that prevents some users from logging into MobileMe via the MobileMe System Preference paneNetwork file systems fixes provided for:
+ compatibility with third-party AFP servers file synchronization for portable home directoriesPrinting and faxing fixes provided for:
+ automatic printer updates improvements Print dialog allowing you to enter and send to more than one fax recipientSafari fixes provided for:
+ a graphics distortion issue in Safari Top Sites Safari plug-in reliability

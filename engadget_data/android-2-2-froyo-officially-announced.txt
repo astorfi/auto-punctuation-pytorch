@@ -1,0 +1,6 @@
+
+ 
+No huge surprises here, but Google just announced Android 2.2 "Froyo" at I/O, and the big addition is a just-in-time compiler, which brings a 2-5x speed boost to the system. There are also 20 new enterprise features, including better Exchange integration and device administration APIs, as well as a new device backup app that'll let you transfer personal data to a new device. Android 2.2 also features a new cloud-to-device messaging API that Google called "much more than a push notification service designed to make up for a lack of basic features like multitasking," and of course, WiFi tethering -- which was used to get a WiFi iPad online during the demo to great cheers. Google also demoed a new JavaScript engine in the Android browser, which is billed as "the world's fastest web browser," and a Chrome browser plugin that allows you to send directions from Maps on your desktop directly to your phone.
+
+It's all going on live right now, so make sure to go hit our I/O liveblog!
+ 

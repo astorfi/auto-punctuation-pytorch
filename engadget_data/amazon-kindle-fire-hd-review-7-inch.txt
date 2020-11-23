@@ -1,0 +1,59 @@
+
+
+More Info
+
+Amazon announces 7- and 8.9-inch Kindle Fire HDs, pricing starts at $199
+Kindle Fire HD 7-inch hands-on (Update: video)
+Amazon Kindle Fire review
+
+
+It was 10 months ago that we had a doppelgänger in our midst. Amazon unleashed the Kindle Fire to the world and we spent much of the beginning of our review comparing and contrasting it to the (even then a bit long-in-the-tooth) BlackBerry PlayBook. Now, finally, we can stop making that comparison -- at least for this, Amazon's current top-shelf tablet.
+
+
+It's the Kindle Fire HD and it quite handily addresses nearly every concern that we had with the original Fire. It's thinner, lighter, faster and, yes, better looking. It's a huge step forward from that which came before and yet it still follows very much in the footsteps of its predecessor, existing as a physical portal to a digital marketplace with an alluring selection of premium content. Is it enough of an improvement to topple our current king of budget tablets, the Nexus 7? You'll just have to read on to find out.
+
+
+
+
+Hardware
+To borrow a bit of cigarette marketing, the Kindle Fire HD has come a long way, baby. Where the Fire is square, dark and decidedly slab-like, the Fire HD is... well, it still isn't a knockout in the styling department, but it is at least considerably more visually appealing. The angular edges from before have been banished, replaced by a profile that curves up to meet a few millimeters worth of flat surface that then curves back again to meet the glass up top. That surface is indeed made of Corning's Gorilla Glass, so you can probably do without a protector, and it covers a 7-inch panel, the same size as before. (The 8.9-inch model won't arrive until later this year.)
+
+The Kindle Fire HD measures in at 7.6 x 5.4 x 0.4 inches (193 x 137 x 10.3mm). That's slightly (3mm) wider, noticeably (17mm) taller and fractionally (1.1mm) thinner than the Fire. In other words, it occupies roughly the same dimensions, but the taper on the back surface does a compelling job of making this feel thinner. It's slightly lighter, too, weighing in at 395g (13.9oz) compared to the OG machine's 413g.
+
+The overall design remains understated; visually, a sea of soft-touch matte black will be your overwhelming impression here. But, with that comes an air of sophistication. The Amazon logo is still subtly printed on the back, a dark shade of gray stamped atop the darker exterior. You may be visually assaulted by Amazon branding at every turn once you switch the device on, but the exterior at least is reasonably clean.
+
+Both speakers are covered with a lined grille that makes us think of the radiator inlets on a Ferrari Testarossa.Across the back runs a slightly polished metal band, the lone bit of stylistic indulgence here. It spans the width of the tablet, running from one speaker to the other and, along the way, has the word "kindle" embossed. Yes, there are two speakers here, one for each of your ears in the natural way. Both are covered in a lined grille that makes us think of the radiator inlets on a Ferrari Testarossa, though that might be entirely due to the prevalence of said car on the walls of this author's childhood bedroom.
+
+
+Take a tour around the edges of the device and you'll find a far more comprehensive selection of buttons and ports than in the original Fire, a big step forward that shows Amazon listens to criticism. This is a tablet clearly designed to be held in a landscape orientation when enjoying media, and held thusly, you'll find micro-USB and micro-HDMI ports on the bottom. The USB port is used for charging or file transfers, though you can also email files to your device (via the custom address each Kindle is assigned) or upload them through the Cloud Player service. The HDMI output is a very welcome addition and enables pushing all those high-def movie downloads straight to your HDTV, should you be so inclined.
+
+This physical volume control is also new compared to the Fire, which asked you to hop into the UI whenever you wanted to turn up the jams -- or the Audibles, as it were.The left side of the device has nothing to offer, while the top has a small microphone. On the right is found the 3.5mm headphone jack, positioned atop a volume rocker and power button. This physical volume control is also new compared to the Fire, which asked you to hop into the UI whenever you wanted to turn up the jams -- or the Audibles, as it were. This is far more convenient, but we found all the physical controls to be very hard to find by touch. The power button in particular is virtually intangible: tapered and flush. You'll need to flip the tablet around to find it for at least your first week of ownership. The volume rocker, at least, has two slight protrusions to set it apart.
+
+Internals
+There are two storage options for the 7-inch Kindle Fire HD: 16GB for $199 or 32GB for $249. Opt for the smaller and you'll have about 12.6GB of space at your disposal, while the larger offers 26.9GB. Otherwise the two are identical, both using a 1.2GHz dual-core TI OMAP4460 processor. Amazon doesn't quote the amount of RAM, but a system check shows 752MB.
+
+There's no 3G / 4G option on the 7-inch Fire HD; you'll need to step up to the forthcoming 8.9-inch model for that -- and pay an extra $200, too. So, we're stuck with WiFi, but not just any WiFi. Jeff Bezos spent about five minutes of the Kindle Fire HD's coming out party to espouse the virtues of MIMO connectivity. That's multiple-input multiple-output if you're not hep with the lingo, basically meaning the tablet can both send and receive data simultaneously over its pair of antennas.
+
+In theory, if you're sending and receiving a lot of data this means you'll receive better overall throughput. The dual antennas will also mean higher overall signal strength, and compared to a few other Android devices we had kicking about (a Nexus 7 and a Motorola Droid RAZR M), the Kindle Fire HD was easily the best of the bunch. We loaded up the Wifi Analyzer app on all three and the Kindle consistently had a 10 to 15dBm stronger signal, and was able to keep that signal farther away from the router than either of the other two.
+
+Display and speakers
+If you hadn't guessed by the name, the Kindle Fire HD takes the tablet series into the world of high-definition. It's a 1,280 x 800 IPS LCD that, like its sadly lower-res predecessor, offers solid brightness and contrast mixed with wide viewing angles. It looks very good indeed and, with greater-than-720p resolution, can finally do all that HD content in the Amazon store justice. That said, with that HDMI output you also can push that content digitally to whatever other display you want.
+
+The HD also steps up to stereo speakers and Amazon is making a big deal about this being one of the few (if not the only) tablets offering Dolby Digital Plus. In theory that means better and broader support for digital compression algorithms, as well as other fun and largely useless stuff like virtual surround sound. We'll let you, the reader, decide how important virtual surround is to your listening enjoyment, but overall we didn't find the speakers themselves to be particularly impressive in terms of their acoustic delivery.
+
+In fact their sound is distinctly on the tinny side, as one might expect given the size, but they are respectably loud and, frankly, it's a refreshing change to have two of the things. Here they're well-positioned so that you get maximum stereo separation when watching a movie or playing a game and we found that they work well even when covered by your hands. That, too, isn't something that can be said for the sound ports on other slabs.
+
+Performance and battery life
+The Kindle Fire HD may only get a 200MHz boost in performance over the Kindle Fire that came before it, but it feels considerably quicker than that. The media-focused UI customization that the previous tablet couldn't really handle is far more responsive now. That main carousel of content and apps and websites that is the trademark of the Fire series no longer has fits and stops and stutters -- but there are still some sluggish moments, particularly when reading comic books. We spent a fair bit of time admiring Frank Miller's "Batman: The Dark Knight Returns" and couldn't help noticing the uneven rate with which the pages turn. But that didn't stop us from being glad we have access to such a wide swath of the DC back catalog.
+
+Web pages load quickly, the latest version of the remote-rendering Silk browser beginning to live up to its name, but it still doesn't beat a standard browser in either initial rendering time or fluidity of pinch-zooming. The Chrome browser on the Nexus 7 rendered every page we threw at it faster than the Fire HD, all without relying on any fancy off-site rendering techniques. Of course, the purported beauty of Silk is that it'll just get faster the more people that use it, but we never quite saw that come to pass with the last version, and we don't have particularly high hopes about this one picking up in speed.
+
+As with the last Fire, we didn't have much luck running specific Android benchmarks, but the SunSpider JavaScript browser test gave us an average score of 1,767ms. That's nearly 700ms faster than the previous Fire and almost identical to the Nexus 7's 1,785ms.
+
+    Battery Life     Amazon Kindle Fire HD 9:57   Samsung Galaxy Tab 7.7 12:01   Apple iPad 2 10:26   Acer Iconia Tab A510 10:23   ASUS Eee Pad Transformer Prime 10:17 / 16:34 (keyboard dock)   Samsung Galaxy Tab 10.1 9:55   Apple iPad (2012) 9:52 (HSPA) / 9:37 (LTE)   Apple iPad 9:33   ASUS Transformer Pad Infinity TF700 9:25 / 14:43 (keyboard dock)   Motorola Xoom 2 8:57   Samsung Galaxy Tab 2 (10.1) 8:56   HP TouchPad 8:33   ASUS Transformer Pad TF300 8:29 / 12:04 (keyboard dock)   Acer Iconia Tab A700 8:22   Acer Iconia Tab A200 8:16   Samsung Galaxy Tab 7.0 Plus 8:09   Samsung Galaxy Note 10.1 8:00   Amazon Kindle Fire 7:42   Galaxy Tab 2 7.0 7:38   Acer Iconia Tab A500 6:55   Archos 101 XS 5:36  When it comes to battery life Amazon says you can expect 11 hours of normal usage, and in our typical battery rundown test (with a looping video, WiFi on and the display set to a fixed brightness) we scored about an hour short of that. Nine hours and 57 minutes, to be exact -- eight minutes more than the Nexus 7 managed on the same test. Yet again, a near-identical score and well within the top-tier of tablets.
+
+Software
+Much of the appeal -- or the annoyance, depending on your perspective -- of the Kindle Fire series comes with its heavily content-focused user interface sitting atop Android. This time around it's Android 4.0 Ice Cream Sandwich that's been given the treatment and, in general, things are much improved for it.
+
+
+

@@ -1,0 +1,16 @@
+
+Yesterday a series of leaked PowerPoint slides in the Washington Post revealed a program codenamed PRISM that allowed government investigators access to data from a number of top internet companies. That leak has been followed up in the last 24 hours by a series of blanket denials as tech companies (and their CEOs, including Google's Larry Page and Facebook's Mark Zuckerberg) claimed they do not give "backdoor access," only generally acknowledging that they do respond to individual court orders. Meanwhile government officials including President Obama responded to the claims mostly by claiming whatever is going on -- including the bulk collection of call logs by the NSA -- is legal and has been "repeatedly authorized by Congress."
+
+
+Tonight, a New York Times article may be able to explain the difference between the statements, citing information from people briefed on the program and lawyers that handle the requests. Their report is that the companies discussed ways to "efficiently and securely" share data about foreign users in response to requests made under the Foreign Intelligence Surveillance Act. In contrast to the initial reports of direct server access, this report claims when a government request is made under an individual FISA request, it's reviewed by company lawyers and then sent over, sometimes electronically using company servers. That can include an investigation into a specific person, logs of certain search terms, and in some cases "real-time transmission of data." One specific instance cited involved an NSA agent going on-site at a company's HQ, installing government software on its server and remaining there for several weeks to offload data to a laptop.
+
+
+So why the quick denials about something the companies listed (including AOL, parent company of Engadget) may actually have ties to? Because FISA requests are by their nature secret, the report claims employees that deal with the requests can't discuss the details, even with their fellow employees. Notably, although companies must by law respond to the requests, they're not legally obligated to make it easy, and the article points out Twitter as a company that has declined to participate. Because of that, even if PRISM is more a streamlining of bureaucratic processes than a government backdoor into your Candy Crush Saga level, the semantic differences of company denials may not sit well with users, much less citizens voting for the officials who oversee the programs.
+
+
+Update: Google Chief Legal Officer David Drummond has chimed in once again via a post on Google+, denying (again) that the government has any access to Google servers. That includes directly, through a back door, or any kind of "drop box" as the Times report mentions had been discussed. Meanwhile, CNET has an alternate source who corroborates the company's claims of no direct access, describing the system as a "formalized legal process."
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

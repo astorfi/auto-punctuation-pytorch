@@ -1,0 +1,5 @@
+
+ 
+ If bits of launcher script, photographic evidence and a short video weren't enough to convince you Valve was porting Steam to Linux, maybe you'll take it directly from the horse's mouth: Steam is coming to Ubuntu 12.04. Sick, perhaps, of denying the project, Valve has created a Linux blog to document its efforts -- outlining its history with the open-source OS and making its goals public. The plan is simple: get Steam ported to Linux with full functionality, optimize Left 4 Dead to run at a respectable clip with OpenGL and port additional Valve titles. The team is also asking for feedback, and hope to leverage the ideas of the community. Eager to put in your two cents? Check out the blog at the source link below.  [Thanks, Andrew]
+
+

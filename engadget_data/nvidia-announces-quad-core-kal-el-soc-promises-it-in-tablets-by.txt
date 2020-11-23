@@ -1,0 +1,14 @@
+
+ 
+So it turns out that NVIDIA roadmap we saw last month was as true and pure as driven snow. The barely conceivable quad-core Tegra chip that it listed has now been made official by none other than NVIDIA itself, with the company also informing us that the new silicon is already sampling out to prospective clients. Known as Kal-El internally, this will most likely turn into NVIDIA's Tegra 3 as and when it's ready to enter the consumer market. Tonight NVIDIA whetted our appetite for what's to come with a demo that can most fittingly be described as an exhibition of unadulterated computational muscle. A 2560 x 1440 stream was being decoded on a developmental device, scaled down to that slate's native 1366 x 768 resolution, and additionally displayed on a connected 30-inch, 2560 x 1600 monitor. That entire voluminous workload was being handled in real time by Kal-El and we saw no signs of it struggling.
+
+By NVIDIA's own estimation, the quad-core newbie provides roughly double the processing power of Tegra 2 and triple the graphics-crunching prowess. In the second demonstration of the evening, we saw an instance of Great Battles Medieval -- ran at 720p with 650 enemy soldiers on the field -- on both a Tegra 2 and a Kal-El platform, which showed the baby superhero handily dusting its still very new brethren. This was in large part down to the full dozen GPU cores contained within Kal-El, though before you freak out about battery-draining insanity, NVIDIA claims things are much, much more efficient as well -- up to 12 hours of HD video playback are promised under the right circumstances.
+
+It's a big fat wedge of awesome boasts we've heard from the GeForce maker today, however the company's given us a schedule to hold it to as well. The "August timeframe" is when the quad-core Kal-El is expected to land in tablets, while smartphones will have to wait until the holiday season to benefit from what's likely to be a slightly downgraded variant. Skip past the break to eye the future Tegra roadmap for the next few years plus video of the wildly impressive demos we were witness to.
+
+
+
+
+
+
+ 

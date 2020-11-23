@@ -1,0 +1,6 @@
+
+ 
+That new processor smell has barely started to fade from Oak Trail and we're already getting some tantalizing details about the next generation of Atom chips -- Cedar Trail. As expected, Intel has moved to 32nm, which allows it to cram the GPU and the CPU onto the same sliver of silicon. The first two models, the D2500 and D2700, will be dual-core, sport 1MB of L2 cache, and have a miserly TDP of 10w -- 3w lower than current dual-core Atoms. The former will be clocked at 1.86GHz with Hyper-Threading turned off, while the D2700 flips the switch on those two extra threads and kicks it up a notch to 2.13GHz. The new integrated graphics will boast better HD decoding and support for Blu-ray playback which, when combined with the taunts of fanless designs and WiDi, make Cedar Trail a natural fit for the living room.
+      
+
+ 

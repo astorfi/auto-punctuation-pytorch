@@ -1,0 +1,7 @@
+
+ 
+ There's no visual overhaul as it just did yesterday with Facebook Messages, but Facebook has now announced an update for its iOS app that promises some fairly big improvements of its own. According to the company, the app was "rebuilt from the ground up," and is now twice as fast as the previous version. That includes a faster opening of the app itself, smoother and faster scrolling, and photos that are said to load "instantly" -- changes that are largely due to a switch from the old HTML5 code to iOS' native programming language. Unfortunately, we're not able to test those claims ourselves just yet, but Facebook says that the update (version 5.0) will be available later today.
+
+ Update: The app is now available to download from the App Store, and it does indeed appear to be quite a bit speedier.
+
+

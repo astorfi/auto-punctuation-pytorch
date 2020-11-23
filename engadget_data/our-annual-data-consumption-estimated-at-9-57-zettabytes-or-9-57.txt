@@ -1,0 +1,6 @@
+
+ 
+The internet is a mighty big place that's only growing larger each day. That makes it a perfectly unwieldy thing to measure, but the traffic it generates has nonetheless been subjected to a rigorous estimation project by a group of UC San Diego academics. Their findings, published online this month, reveal that in 2008 some 9.57 zettabytes made their way in and out of servers across the globe. Some data bits, such as an email passing through multiple servers, might be counted more than once in their accounting, but the overall result is still considered an under-estimation because it doesn't address privately built servers, such as those Google, Microsoft and others run in their backyards. On a per-worker basis (using a 3.18 billion human workforce number), all this data consumption amounts to 12GB daily or around 3TB per year. So it seems that while we might not have yet reached the bliss of the paperless office, we're guzzling down data as if we were. Check out the report below for fuller details on the study and its methodology.
+      
+
+ 

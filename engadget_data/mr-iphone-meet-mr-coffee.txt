@@ -1,0 +1,36 @@
+
+
+You know what's been missing in our lives? An Internet-connected, app-controlled coffeemaker. And that's why the good folks at Belkin and appliance manufacturer Jarden Corporation have teamed up to bring the world the Mr. Coffee 10-cup Smart Optimal Brew Coffeemaker with WeMo (US$149.99). To learn more about how your sad, depressing life can now be filled with happiness and freshly-brewed coffee, read on.
+
+
+Design
+
+Like the other Jarden/WeMo collaboration - the Crock-Pot Smart Slow Cooker with WeMo - the Mr. Coffee Smart Coffeemaker dispenses with fancy displays, replacing them with integration with the free WeMo app. The device looks a lot like a standard coffeemaker, featuring a large thermal carafe as well as the usual water tank and filter/grounds basket.
+
+
+But there are some technological differences that are not immediately apparent to the naked eye. First, the water tank is removable so you can put it under the faucet for filling. I love this idea, since my existing coffeemaker requires me to fill the carafe with water, then pour it into the tank - that usually means that I end up spilling at least a half-cup or two of water, even when I'm careful.
+
+
+
+The next difference has to do with the Optimal Brew technology, which heats water up to 205°F before sending it to the filter basket. According to the Mr. Coffee folks, this means that it not only extracts the most flavor from the ground coffee, but you can get a full pot of coffee in just under eight minutes. That's 20 percent faster than most competing thermal carafe-type coffeemakers.
+
+
+The Mr. Coffee Smart Coffeemaker should also be more energy efficient than those that don't use a thermal carafe, since it doesn't need to run a heating coil for a few hours each day to keep the brewed coffee warm.
+
+
+Functionality
+
+To test the Mr. Coffee Smart Coffeemaker, well, I made a pot of coffee - two, actually. It's a piece of cake to get ready to make a pot; you just fill the removable reservoir and then drop it into the appropriate place, then pull out the drawer for the filter basket and fill the basket with ground coffee.
+
+
+If you just want to make a pot of coffee, there's a button you can push and you'll have your steaming brew about 8 minutes later. The app comes in when you decide you want to set up a schedule.
+
+
+The app is the standard WeMo app, and setting up the coffeemaker for app control is easy. When you first power up the coffeemaker, it sets up a WeMo Coffeemaker Wi-Fi network. Attach your iPhone to that network, pull up the WeMo app, and it finds the coffeemaker. Within seconds the app sets up the coffeemaker so that it's working on your usual Wi-Fi network.
+
+
+The app can be used to simply "press the button" remotely, which would be useful if you were about to take a shower or something and wanted a pot of fresh coffee when you were done. It can also be used to set up a brewing schedule for each day.
+
+
+
+

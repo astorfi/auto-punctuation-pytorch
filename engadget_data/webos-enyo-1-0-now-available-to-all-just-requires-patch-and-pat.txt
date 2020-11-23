@@ -1,0 +1,5 @@
+
+  HP's Enyo framework is an essential ingredient for allowing new apps to work on webOS devices with different resolutions, but due to some sort of ethnocentric hiccup, v1.0 hasn't officially reached all international webOS phones and tablets. Fortunately, WebOS Internals has prepared a nice little Preware install package that anyone, anywhere can enjoy. At this point, adding Enyo will only provide access to a few extra apps, but at least the world will be reunited in its preparedness for a glistening future, right?
+      
+
+ 

@@ -1,0 +1,5 @@
+
+       Like anyone else, we can't get enough video formats -- not -- but unlike H.264, DivX, XviD and MPEG-2 the latest rage is Matroska (aka MKV) is not a codec, but a container. It is the format which holds other formats, so you should be wondering, what's so special about it? It is special because it can hold new combinations of codecs and it is open for anyone to use. The most popular new feature is its ability to contain x.264 video, DTS audio, and at the same time subtitles in multiple languages, all in the same file. It is quickly becoming the replacement for AVI, and has the best chance of becoming the mp3 of video, than any other container has before. The problem of course is support. As usual Windows is covered, but thanks to Perian, Macs have support now too. And of course the most universal player in the world, VLC does too. But now it appears it has warranted some commercial support and the next version of DivX will play nice too. This of course doesn't mean that any hardware vendors will join in -- other than the Popcorn Hour that is -- but it's a step in the right direction.
+      
+
+ 

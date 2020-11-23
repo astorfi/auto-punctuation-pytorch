@@ -1,0 +1,5 @@
+
+ Could Microsoft's Silverlight soon be following in the footsteps of Adobe's Flash Player for mobile devices? That's still unconfirmed by Microsoft, but ZDNet's Mary-Jo Foley is reporting that she's heard from several sources who say that Silverlight 5 will be the last version of the rich media platform, and that it's not clear how long it will be supported after it's released later this month. What's more, another source tells Foley that the final version of Silverlight 5 itself might only work with Internet Explorer on Windows, as opposed to earlier versions that have also supported Chrome and Safari on both OS X and Windows. As ZDNet notes, however, the end of Silverlight wouldn't necessarily mean an end to all of the work Microsoft has done on Silverlight -- we've already heard about a Silverlight-like app framework that's coming in a future Xbox update, and many of the same principles can also be found in the Metro-style apps for Windows 8.
+      
+
+ 

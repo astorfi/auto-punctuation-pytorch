@@ -1,0 +1,9 @@
+
+ 
+They're getting ever more practical, these Kinect hacks. Two days ago it was creating 3D models in free-space, today it's letting the blind see. Well, not really see, but better navigate through and stay informed about their environment, at least. A Kinect is attached to a helmet and connected to a backpack-mounted Dell laptop. Also connected to the laptop is an Ardunio-controlled belt that has three separate regions of vibration and a Bluetooth headset of the "obnoxious guy talking loudly to his stock broker on the train" variety. Finally, thanks to a little C#, the whole package allows someone to walk down a hall and receive verbal and tactile notifications of obstacles in their path. Wearers can also receive navigation to different areas and, thanks to ARToolKit identifiers stuck on the walls, even have signs read to them. It's called NAVI (Navigational Aids for the Visually Impaired), created by Michael Zöllner and Stephan Huber at the University of Konstanz, and it's all demonstrated for you below. Dig that hat, man. Dig that hat.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,7 @@
+
+Data.gov is getting a whole lot greener thanks to its new section dedicated to climate information. The new channel is the product of President Obama's Climate Data Initiative (PDF), and pulls information that can help predict the effects of climate change and prevent any damage that may result. The raw data comes from the likes of the Department of Defense, NASA and the US Geological Society, but probably isn't easy to grok for the average person. To help with that, Google and Microsoft have stepped in. Mountain View is donating 50 million hours of its Earth Engine's computing power -- the Global Forest Watch's backbone -- and is partnering with academics in the western US to produce a near real-time drought map and monitoring system.
+
+
+Redmond, on the other hand, has developed a tool (dubbed FetchClimate) that can both recall historical climate data and forecast future weather trends based on the stockpiles of information stored in Microsoft's Azure back-end. For example, the software giant says that this could allow state planners to predict extreme rainfall, preventing flood damage to infrastructure and transit lines as a result. These are still early days for the Initiative, but, as times goes on, more applications using its wealth of info will surely surface. For now, though, it's nice to see tech companies exploit government data instead of the other way around.
+
+

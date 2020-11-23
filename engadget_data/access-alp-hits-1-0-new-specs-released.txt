@@ -1,0 +1,12 @@
+
+ 
+We only caught a brief early glimpse of ALP at 3GSM this year before they quickly snuck away all the gear, but PDAStreet claims that ALP has hit 1.0 in its dev cycle, and has screencaps and a lot of info we've been waiting for to make the case. First up, hardware: it should run on current generation devices, requiring at least a 200MHz ARM9 CPU (400MHz+ recommended), 64MB RAM and 64MB flash memory, and has support for input via QWERTY, 12-key with 5-way d-pad, and touchscreen (obviously) or digitizer (interesting!)with four or five hard keys. Interestingly, supported resolutions include QVGA (240 x 320), HVGA (320 x 480), and WVGA (800 x 480) -- where's the 320 x 320 Palm OS Treos have had since the 650? We dunno. ACCESS still hasn't announced any licensees, but unless ALP switches up and adds a square aspect ratio, it doesn't look like we'll see this running on any Treos as we know them today. Oh, app list after the break.[Via Download Squad]
+      
+
+ 
+
+ALP apps, many of which are like totes obvs: Phone  Contacts  Calendar  Memos  Tasks  HotSync  NetFront browser HandMail  SMS+  iMessenger  Music  Video  Photos & Studio  Camera  Documents  Utilities (Clock, Calculator, Recorder, Home Screen, Flight Mode)Of course, as we learn what these strange new programs do (and don't), we'll undoubtedly be posting to Engadget Mobile.
+
+       
+
+ 

@@ -1,0 +1,7 @@
+
+While we learned many things about OS X Mavericks' feature set at WWDC, there were a few important details hiding in the woodwork. Apple has just revealed a few of them through a new overview of the platform. Among them is a potentially huge step forward in the Mac's willingness to play with others: Apple has switched its default network file sharing system from the ages-old Apple File Protocol to the more universal SMB2. The move gives OS X the same approach to sharing as more recent versions of Windows, helping it slot into the corporate world and mixed-platform households. AFP and the original SMB are sticking around, but they'll now kick in only when needed.
+
+
+The crew in Cupertino has also filled in many of the blanks surrounding Mavericks' vaunted performance and power optimizations. Battery-saving tricks like App Nap and timer coalescing mostly involve heavy task rescheduling and throttling. Memory compression, meanwhile, relies on an old yet largely untapped algorithm to avoid hard drive access. A deeper dive into the new OS X release is available at the source, although it's not for the faint-hearted -- the overview's developer focus doesn't exactly make for casual reading.
+
+

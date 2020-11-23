@@ -1,0 +1,9 @@
+
+ There's no denying that of all the Android OEMs, Sony's the most consumer-friendly. With a track record encompassing consistent and transparent software updates, easily unlocked bootloaders, a former flagship that's been in and out of AOSP and now this -- an Xperia flash tool -- the company's on a roll. Released today on the mobile outfit's developer site, the beta tool allows Xperia users with unlocked bootloaders to revert back to Sony's lightly-skinned stock ROMs. Currently, only the Xperia S, arc and arc S are supported, but work is underway to include additional handsets. If you're rocking a compatible phone, the process is as simple as downloading the program from its dev portal, connecting your device, selecting the available "services" (read: Xperia ROMs), flashing your ROM of choice and then rebooting. Easy enough, no? For a brief video walkthrough, head on past the break.  [Thanks, Nabeel Ahmed]
+
+
+
+
+ 
+
+ 

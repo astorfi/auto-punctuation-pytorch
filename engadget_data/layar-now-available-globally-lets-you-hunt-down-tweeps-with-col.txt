@@ -1,0 +1,8 @@
+
+ 
+Following a Netherlands-exclusive release back in June, SPRXmobile has now taken its so-called Layar "Reality Browser" for Android to the global stage and advanced it to version 2.0 in the process. Perhaps the first commercial augmented reality app to launch on a large scale, Layar's got a good amount of momentum behind it -- the company claims that 100 developers are already hard at work developing reality layers that users can toggle, and an additional 500 developers are being added into the mix with the latest release. Version 2.0 adds favorite layers (because we're sure you'll be stalking friends and foes all too often using the Tweetmondo layer), map and list views, and enhanced search capabilities, but the real secret to Layar's power might ultimately lie in the third-party ecosystem if they can get enough content providers on board.
+
+We grabbed Layar off the Market and took it for a quick spin; we're having trouble getting it to aim correctly, though Google Sky Map is having the same issues, so we're fairly certain that we're dealing with a phone or location problem rather than a Layar one. The key thing with an app like this is going to be speed and fluidity, and even on our Magic's relatively lightweight 528MHz core, it's plenty usable. The Google-powered Layar local search -- arguably the most important reality layer bundled with the software -- is a little annoying to use, primarily because the search box has no history or suggestion capability which means you've got to type out a full search every time you want to use it. Ultimately, though, the app's very young (as is this whole category of technology, for that matter) and we're stoked to see where this goes over the coming months.
+      
+
+ 

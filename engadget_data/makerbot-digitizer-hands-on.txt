@@ -1,0 +1,21 @@
+
+When Bre Pettis unveiled MakerBot's Digitizer, you couldn't wipe the smile off his face. And, upon opening our own unit, it's easy to understand why. When you lift the plastic unit, swaddled in black foam, out of its cardboard box, you feel like you're stepping into the future. 3D scanning isn't exactly new, but the allure hasn't worn off yet. It's the missing ingredient in the Brooklyn-born company's ecosystem. Its printers have improved in leaps and bounds since it first started shipping the Cupcake CNC as a kit back in 2009, it finally has a user-friendly software suite in MakerWare and Thingiverse provides a vast repository of designs for people to download and print. But until now there has been no easy, affordable way for users to turn the objects they already own into printable 3D models. Of course, "affordable" is a relative term. At $1,400 the Digitizer isn't exactly an impulse purchase, but it's certainly cheaper than comparable systems.
+
+
+And what qualifies as a "comparable" system? Well, we're talking about desktop scanners that capture a full 360 degrees, are largely hands-off and self-contained (i.e., not a DIY kit built around a Kinect or smartphone). That means the Digitizer is actually entering a rather sparsely populated field. The big questions though, are how does it fits into the MakerBot universe and, more importantly, the life of the DIY enthusiast? Does the Digitizer do as advertised and turn your pile of doodads into easily replicateable digital files? You know where to look for answers, after the break.
+
+
+
+
+
+
+Like we said, even before you power up the Digitizer, it already puts a smile on your face. The simple black plastic body definitely isn't going to win any design awards and it doesn't exactly ooze luxury, but it is playfully futuristic, in a way reminiscent of early '90s children's toys. It's angular, understated and utilitarian, which isn't necessarily a bad thing. Oddly there is some assembly required: the four rubber feet used to keep it from slipping about a desktop come packaged in a small zip-top bag. After you pop those little rubber guys in place, you're free to plug the Digitizer into an outlet and your computer's USB port and get going... with the calibration that is.
+
+Just like the replicator before it, the Digitizer needs to be carefully calibrated for effective use. And, while the process is much quicker and less labor intensive (no constant adjusting of knobs here), the scanner actually appears to be much more sensitive and needs more frequent tune ups. MakerBot's instructions call for recalibrating every 20 scans or once a week, but we needed to run the calibration three times in the course of a week and never topped 10 scans before our results started getting funny. But, more on that later.
+
+
+The calibration process itself involves making sure the filter is placed over the 1.3-megapixel camera at the center of the raised bar on one side, then placing a special calibration tool on the turntable. Over the course of about 10 minutes you'll be asked to place the checkered, three-sided calibration tool in a variety of poses while the MakerWare app takes measurements from the camera and dual lasers that flank it. From there scanning is a relatively straight forward process, so long as you follow MakerBot's words of advice. Those words: avoid anything dark, shiny, transparent, fury or larger than eight inches in any direction. If you do, the results will be decent, if hardly mind blowing. MakerBot's example scan of a gnome figurine is quite a bit clearer than any results we managed to get. Even when we scanned a plain white Munny figure, the model displayed some weird pitting, misshapen ears and webbing between the arms and the body.
+
+
+
+

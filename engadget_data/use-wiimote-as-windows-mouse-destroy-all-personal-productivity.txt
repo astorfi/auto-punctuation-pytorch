@@ -1,0 +1,9 @@
+
+   
+That "Wiimote acceleration values" vid was great and all, but those graphs get old after like 10 seconds. That's why we're glad to see somebody base an actual Windows cursor control on the snazzy technology from the Wii Linux folks behind that first tech demo. Unfortunately, the tilt sensing sensors of the controller just don't make for a great mouse, which leaves our intrepid hacker here floating across the screen in a rather frustrating manner. Nobody has managed to tap into the IR triangulating capabilities of the Wiimote over Bluetooth yet, which has the potential to improve such interfacing considerably, so we figure we'll hold out until such a time as that, or until the carpal tunnel becomes too great to bear -- whichever comes first.[Via Joystiq, Hack A Day]
+      
+
+ 
+
+  
+ 

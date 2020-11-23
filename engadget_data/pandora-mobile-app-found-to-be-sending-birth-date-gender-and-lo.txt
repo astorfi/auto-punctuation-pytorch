@@ -1,0 +1,5 @@
+
+ We still haven't heard much more about that Federal Grand Jury investigation into Pandora and other mobile apps over privacy concerns, but an independent security firm has now gone ahead and taken matters into its own hands. According to an analysis done by the folks at Veracode, Pandora does indeed seem to be sharing more information about you then it lets on. More specifically, they found that the Android app (they haven't yet gotten around to the iOS version) "appears" to be sending information about users' birth date, gender, Android ID and GPS location to various advertising companies -- bits of information that the firm notes could be combined to determine who someone is, what they do for a living, and even who they associate with. For its part, Pandora is simply declining to to comment at the moment, and we're guessing that's unlikely to change anytime soon given the aforementioned investigation. Hit up the source link below for Veracode's complete findings.
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ We all knew it was just a matter of time until someone figured out how to run a full blown version of OS X on an Apple TV, but who'd a guessed it would only take eight days? Semthex from hackint0sh has wrote a "processor emulation for the kernel", which was necessary to "sidestep" Apple's hardware locks. Semthex's only problem was he didn't have an Apple TV, so with some help from Apple TV Hacks, they recruited some testers and a day later they were in business. This effectively creates the least expensive Mac ever made -- at $299 -- and with a better video card than a mini to boot. While we doubt anyone will want to use a computer with only 256 MB of RAM as their main machine, MythTV frontends and other media centric applications should run nicely. Read - How to run OS X on an Apple TVWatch - Google video of OS X running on an Apple TV
+      
+
+ 

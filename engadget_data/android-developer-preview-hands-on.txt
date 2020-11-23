@@ -1,0 +1,29 @@
+
+
+By releasing a Developer Preview of the next version of Android (only known as "L" for now), Google is walking new ground -- and it's blazing a glorious path that will greatly benefit the platform going forward. Developers and manufacturers will no longer be in the dark for upcoming firmware updates; by making a preview available, Google is giving its valued partners and third-party devs the opportunity to prepare their apps and services for the forthcoming refresh, which is due out sometime this fall.
+
+
+This may not eliminate fragmentation (in which a vast majority of users are on old -- and different -- versions of Android) entirely, but it should reduce it significantly. Imagine, if you will, the day when Google officially releases the L update; how nice would it be if your six-month-old phone got it that very same day, rather than months later (if at all)? It seems like such a simple concept, yet this is exactly what Android users have put up with for years. 
+
+
+
+
+
+It's a solid indicator that Google's just as tired of the malarkey as everyone else is, and the Developer Preview is its solution to that problem. It's going to be available later today on the company's developer site, but I found a Nexus 5 running the Preview ahead of time and had the chance to spend a few minutes with it. The company's calling it a "preview" for a reason: It's limited in scope and is meant to give developers a quick dose of inspiration. In my time with the unit, I noticed changes to the phone dialer, notifications panel, lock screen, calculator and settings, but Google will pepper more changes into the preview as we get closer to L's final release.
+
+The L update is not so much of an enhancement to functionality as it is an education in Google's new design direction. The company is offering a brand-new set of guidelines, which it's calling Material Design. It's intended to create a sense of vertical space and motion. It comes with 3D UI elements, as well as shadow effects and new 60 fps animations that show movement, ripples and quicker touch feedback (the amount of time it takes to tell you that what you just touched is actually producing the expected result). This new design language features hierarchy; it's responsive and colorful; and it's meant to unify all Android-based platforms.
+
+I don't want to speak too much on performance because, as an early preview, it's not exactly the buttery-smooth Android I've come to expect from the last few versions. I have no doubt this will improve as it approaches final release, so it's a moot point for the time being. The preview features Project Volta, which is designed to make phones and tablets more battery efficient. It comes with a special battery saver mode baked in, and it kicked in as soon as my unit dropped to 15 percent. This mode starts turning certain features off, and this included L's precious animations; bye-bye, 3D ripple effects. No matter -- it's much more important for my device to actually stay on in this situation, so I don't mind.
+
+
+The darling of the preview is the notifications. Nearly every aspect of Android's notifications has been blessed with improvements, and there are even a couple features that are entirely brand-new. Notifications can be viewed on the lock screen now -- at least, the ones that you don't mind others seeing if they happen to peek at your locked phone. You can add privacy settings to certain notifications, however. For instance, you can see that you have a message, but need to unlock the device for the details, or if that's still too public, you can specify that you don't want to see any notification at all.
+
+Quick settings have also been integrated into the notifications panel, instead of being its own separate window. These settings are initially hidden from view when you pull down the notification bar, but they'll appear if you keep pulling (or if you tap the bar on the top). Settings, WiFi, Bluetooth, Airplane Mode and more are available here, and it even comes with a TouchWiz-style brightness adjustment bar. Finally, you can also have actionable notifications drop down from the top of the screen. We just barely saw a similar feature introduced in iOS 8 -- if a message comes in, you can choose to reply or dismiss it right away, instead of having to go into the notifications menu or your default messaging app. (Indeed, there are a few differences between the two platforms' implementations, but the general idea is very similar.)
+
+
+The new recent apps menu is a nice touch, although I didn't get to see it in its full glory just yet. It features a carousel-style setup, and cards have been expanded to include certain instances within apps -- Google gave the example of individual Chrome tabs and searches -- which theoretically makes it easier and faster to get back to specific parts of an app.
+
+This is just a small part of the L update, which will contain a plethora of features as well as 5,000 APIs for developers to take advantage of. It'll continue to expand as we get closer to the update's general release this fall. You can expect other neat features, such as the ability to keep your phone unlocked when your smartwatch is within range, 64-bit support, a faster and smoother ART runtime, an Android extension pack for better graphics and more support for corporate and personal apps to run on the same device. While you wait for the new update to arrive on your phone, we've got a few pictures and a video to tide you over. And certainly, we hope that this is the beginning of a new fragmentless trend for Google -- one that doesn't mean users have to settle for outdated firmware for months on end.
+
+Zach Honig contributed to this report.
+

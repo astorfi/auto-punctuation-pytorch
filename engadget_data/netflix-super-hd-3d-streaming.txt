@@ -1,0 +1,42 @@
+
+ Rumors that Netflix was offering ISPs access to higher quality streams in return for partnering on distribution surfaced early last year, and were followed by the announcement of its Open Connect CDN network in June. Now the full picture has been revealed with the company's announcement of "Super HD" 1080p and (in the US only, for now) 3D streaming, which comes to its customers at no extra cost, but only on certain devices plugged in to to Open Connect partner ISPs. The hardware list includes PS3, WiiU, Windows 8, Roku, Apple TVs as well as Blu-ray players and smart TVs with 1080p support.
+
+ According to Netflix, most of its international streams are already going through compatible ISPs, however the only major participants announced in the US currently are Cablevision and Google Fiber. Watch Instantly customers can see if their ISP on the list by visiting the Super HD page and, if it isn't, they're encouraged to call and ask for it. Netflix's ability to manage bandwidth will be increasingly important and the ISPs customers access its with and along with those rankings, "Super HD" is an important lure to get them to play ball.
+
+ We've been seeing some 3D ready titles pop up on the service in the last few weeks and now viewers can access titles like Art of Flight, Immortals and several titles from 3net. According to Dan Rayburn of Streaming Media Blog, the higher-quality encodes are targeted for 7 Mbps, while 3D streams top out at 12 Mbps. One question that lingers is how this quality bump aligns with recent changes some customers have noticed (if X-High suddenly reappears...), but until we get our eyes on the higher quality streams it's hard to tell. Reed Hastings says he wants all Netflix customers served by Open Connect (whether via colocated appliances or peered at common internet exchanges) as soon as possible -- we'll see if Comcast, Time Warner, Verizon, AT&T and the rest have a similar dream.
+
+
+
+  Show full PR text   Netflix "Open Connect" Delivery Network Gains Widespread Global Acceptance  Cablevision Most Recent Major Provider to Join Open Connect  New Super HD and 3D Video Formats Available on Open Connect  Jan 8, 2013
+
+   LAS VEGAS, Jan. 8, 2013 /PRNewswire/ -- Netflix Open Connect, the single purpose video content delivery network launched last year, is now delivering the majority of Netflix international traffic and is growing at a rapid pace in the domestic market.
+
+   (Logo: http://photos.prnewswire.com/prnh/20101014/SF81638LOGO)
+
+   In early 2012 Netflix began enabling Internet service providers (ISPs) to receive, at no cost to them, Netflix video directly at the interconnection point of the ISP's choice. By connecting directly through Open Connect, ISPs can more effectively manage their networks and more efficiently deliver Internet services to consumers, including the more than 1 billion hours of Netflix TV shows and movies consumers watch every month.
+
+   Netflix Open Connect is now widely deployed around the world, serving the vast majority of Netflix video in Europe, Canada and Latin America, and a growing proportion in the U.S., where Netflix has over 25 million streaming members.
+
+   "Leading-edge ISPs around the world such as Cablevision, Virgin Media, British Telecom, Telmex, Telus, TDC, GVT, among many others, are already participating in Open Connect to provide the highest-possible quality Netflix service to consumers," said Netflix Chief Executive Officer Reed Hastings. "Our goal is to have all of our members served by Open Connect as soon as possible."
+
+   "Optimum is committed to providing the highest-quality TV, phone and Internet to our customers, and our new partnership with Netflix supports this critical objective," said James L. Dolan, president and CEO of Cablevision, the most recent major provider to join Open Connect. "With Open Connect, we are establishing a direct local connection with Netflix that delivers a higher-quality Netflix viewing experience for Optimum customers than Verizon or AT&T can provide, including access to new Netflix Super HD and 3D TV shows and movies."
+
+   Netflix Super HD and 3D
+
+   Now available through Open Connect partners, Netflix Super HD is the highest quality video format offered by Netflix, providing an even better picture on 1080p HDTVs.
+
+   In the U.S., Netflix is also for the first time offering a small number of titles streaming in 3D through Open Connect partners. Available for 3D viewing are, among other titles, the action fantasy drama "Immortals," Red Bull Media House's snowboarding documentary "The Art of Flight," and a number of titles from the Discovery/Sony/Imax joint venture 3net Studios - including the native, original 3D series "African Wild," "Scary Tales," and "Live Fire." Depending on member demand, Netflix will consider adding 3D titles and expanding availability to international markets.
+
+   "These new Super HD and 3D formats are more challenging to deliver than our other video streams, which is why we will deliver them through Open Connect," said Ken Florance, vice president of content delivery at Netflix. "Any ISP that wants to be able to deliver our new formats can do so easily and for free."
+
+   Netflix members can verify if their ISP is part of Open Connect and provides access to Netflix Super HD and, in the U.S. only, 3D on this Web site: www.netflix.com/superhd
+
+   ISPs that are not yet on Open Connect can contact Netflix at openconnect.netflix.com to start their Open Connect relationship. As part of Open Connect, Netflix is also sharing its hardware design and the open source software components. These designs are suitable for any other provider of large media files and are very cost efficient.
+
+   About Netflix
+
+   Netflix is the world's leading Internet television network with more than 30 million members in 40 countries enjoying more than one billion hours of TV shows and movies per month, including original series. For one low monthly price, Netflix members can watch as much as they want, anytime, anywhere, on nearly any Internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. Learn more about how Netflix (NASDAQ: NFLX) is pioneering Internet television at www.netflix.com or follow Netflix on Facebook and Twitter.
+
+   SOURCE Netflix
+
+ 

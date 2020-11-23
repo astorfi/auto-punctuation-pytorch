@@ -1,0 +1,10 @@
+
+ 
+
+In case you missed it, Google's Native Client launched at the end of the summer, promising to ease cross-OS deployment by letting developers run x86 code natively in Chrome. Early adopters have had a few months to tinker with Google's new trick, and now the outfit is eager to show off their best work. Supergiant Games, for instance, has ported Bastion to the Native Client, opening up the Xbox Live hit to Mac, Linux and Chrome OS users. Google's Christian Stefansen says Native Client makes porting existing code bases written C, C++ or C# easy, citing Spacetime Studio's Star Legends -- an MMO with over half a million lines of code -- as an example of a large project that was ported in as little as two weeks. Google touts application middleware ports (such as Unity, Moai, Mono, fmod and more) and easy distribution to the Chrome Web Store as a major boon to developers, and encourages interested studios to check out its new Native Client site to help them get started. Interested? Hit up the links below, or simply skip past the break to hear Mr. Stefansen's spiel for yourself.
+      
+
+ 
+
+ 
+ 

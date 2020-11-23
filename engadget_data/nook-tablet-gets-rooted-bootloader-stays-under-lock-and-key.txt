@@ -1,0 +1,11 @@
+
+ 
+
+Jealous of that root-ready Kindle Fire, but not ready to trudge through the Amazon to get it? Don't worry, you can stay huddled up with your Nook Tablet and get all the device rooting you want -- with a few caveats. Although the good folks on the XDA Forums haven't unlocked the slab's bootloader just yet, they've managed to root the tablet all the same. Jumping through a few technical hoops (or stumbling across forum user Indirect's one-click Windows utility) will score you access to the Android market and another way to sideload apps on the souped up slate. Custom ROMs? Not yet; in addition to killing the root with every device reboot, the locked bootloader is keeping the Nook's tweaked build of Android 2.3 front and center. Hit up the source link below to get started.
+
+Update: Indirect has updated his forum post to clarify that the root is permanent.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

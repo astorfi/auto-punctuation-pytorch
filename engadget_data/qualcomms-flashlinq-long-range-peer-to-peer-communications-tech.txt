@@ -1,0 +1,12 @@
+
+ 
+Taken a look at our AllJoyn hands-on here at Mobile World Congress? You should, and then pick up here. Back? Good. Qualcomm's FlashLinq is a quasi-extension of AllJoyn, but unlike the latter, this is a proprietary solution that actually requires Qualcomm hardware to run (for now anyway; licensing deals could be in the works). Basically, this wireless technology allows FlashLinq-enabled devices to sense up to 4,000 other FlashLinq devices within a radius of up to 1km, which puts things like WiFi and Bluetooth to shame. Of course, that's under "ideal" circumstances, but even in subpar situations, the range should still beat out existing short-range alternatives. Why develop a solution like this? For one, businesses will be all over it; imagine a Yelp! instance that specifically hones in on businesses that have a FlashLinq-enabled device in their store, which is advertising deals for those who stop in and mention that FlashLinq sent 'em. Secondly, social networking / Latitude addicts will be head over heels for something like this. Once a connection is made, there's a steady 15Mbps beam available between the users -- that's more than enough for videochats, media streaming and multiplayer gaming. 
+
+The major difference between this and WiFi (aside from the range) is that unlike WiFi -- which operates in unlicensed spectrum -- FlashLinq requires licensed 5MHz TDD spectrum. That enables control over interference, which in turns boosts range and device density. Moreover, this system uses dramatically less power than BT or WiFi to sense other devices -- you're only using power for discovery two percent of the time, we're told. Beyond that, a lot remains up in the air. The company is still hammering out which chips will ship with FlashLinq support, and it'll be waiting for results from its SK Telecom trial (which starts in April) before committing to a commercialization date. Sadly, none of this can be retrofitted into older devices, but the good news is that it's hardly limited to mobiles. FlashLinq-enabled televisions, laptops, in-car infotainment systems, etc. could all be used to create a discoverable network of interactive goodness, but of course, it's hard to say how much success Qualcomm will have in a world already loaded down with connectivity options. The technology itself is fairly fascinating, though, as is the social networking demonstration that's embedded just past the break. Hop on down and mash play, won't you? 
+
+
+
+
+
+See more video at our hub!
+ 

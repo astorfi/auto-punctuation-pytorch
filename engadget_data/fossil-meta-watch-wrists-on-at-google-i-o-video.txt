@@ -1,0 +1,14 @@
+
+ 
+
+
+	Today at Google I/O we got a chance to play with Meta Watch, Fossil's wearable development platform, which allows developers to extend the interfaces of devices and applications to the wrist. Both watches -- one analog / digital with a traditional dial plus two small OLED displays, the other digital with a larger memory-in-pixel LCD (a highly reflective, always-on, ultra low-power screen) -- feature Bluetooth for communication, along with a vibration motor, three-axis accelerometer, and ambient light sensor. The devices are built around Texas Instrument's super efficient MSP430TM microcontroller and CC2560 Bluetooth radio and will run seven days on a charge. A set of contacts in the back allow the watches to interface with a debugging clip for charging and JTAG programming. The hardware is paired with an SDK which allows a tablet or smartphone running Android to register button presses and receive sensor data from the watches, and then respond by sending text or triggering the vibration motor. It's also possible to design custom embedded wearable applications running directly on your wrist, and it will be up to developers to truly unleash the magical possibilities here.
+
+	Speaking of which, the Meta Watch is currently available to pre-order for $199 (see our source link), with availability pegged for June 30th. Based on what we heard today at Google I/O, the watch is being hawked to developers only, but it's obvious that DIY-minded folks will be able to buy one as well. For now, just two of the models shown here will be sold, but there's no telling what will happen once the platform builds up enough of a backbone to support an influx of actual customers. The company isn't handing out a timeframe as to when it will be ready for the mass market, but we'd be shocked if it was still floundering around this time next year. Interested in having an early peek? Take a look at our gallery below and our hands-on video after the break.
+
+
+
+
+
+ 
+ 

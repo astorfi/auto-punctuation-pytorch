@@ -1,0 +1,5 @@
+
+ Well, it looks like those hoping to do a clean install of Windows Vista with an upgrade-only edition of the OS may not be entirely out of luck after all, although they'll still have to jump through a few hoops to get it done. According to Daily Tech, you can get around that pesky requirement to have Windows XP or Windows 2000 already installed on your PC by instead using the upgrade DVD to first install a 30-day trial version of Vista --that's done simply by not entering the product key when prompted to do so during the installation. Once you've got the trial version of Vista up and running, you simply start the installation process all over again from within Vista, this time entering the product key when prompted. After that's done, you should be staring at cleanly-installed, fully-functioning version of Vista, not once having set foot in Windows XP or 2000. As Daily Tech points out, this seems to suggest that any Vista upgrade DVD can function as a full retail copy of Vista, although it would also seem to be something that Microsoft could put the kibosh on pretty quickly, so you may not want to lose sight of that copy of your old OS just yet.
+      
+
+ 

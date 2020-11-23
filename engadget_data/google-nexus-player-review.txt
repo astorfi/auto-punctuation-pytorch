@@ -1,0 +1,33 @@
+
+ 
+
+Google has been trying to get into the living room for a long time, but it hasn't always worked out. The Google TV platform it launched four years ago never really took off and the curiously shaped Nexus Q was so beleaguered by its limited functions and high price that it didn't stand a chance. Last year, however, Google finally managed to get a taste of success with the Chromecast, an inexpensive video-streaming dongle that was so simple it eschewed the need for a remote control or dedicated UI. Almost too simple, some would say -- you still need another device lying around to cast content to it and the lack of a UI means it's not quite as user-friendly as a Roku or an Apple TV.
+
+
+
+
+
+So, Google is taking yet another stab at home entertainment with Android TV, a version of the Android OS rejiggered for the living room. Fittingly, the first Android TV device out of the gate is Google's own Nexus Player, a set-top box made in partnership with ASUS. Unlike the Chromecast, the Nexus Player (and the Android TV ecosystem in general) is squarely going up against the likes of Roku and is also positioned to take on the Amazon Fire TV with its Android-based gaming chops. But can it?
+
+Hardware
+The ASUS-made Nexus Player could essentially be described as a large hockey puck. It's a flat, disc-shaped device with the Nexus logo proudly inscribed on top. Yet, unlike the spherical Nexus Q, the Player is quite inconspicuous. Sure, its slightly unusual circular design might stand out amidst your home theater setup, but its small footprint and compact form factor -- it's barely the size of my hand -- means you probably won't notice it most of the time. Indeed, the only indication that it's powered on is a small LED positioned underneath the unit. That, combined with the fact that the remote works over Bluetooth and not IR, means you could tuck it out of sight and never have to deal with it once it's hooked up.
+Speaking of which, setup is pretty easy. Simply plug the player into a power outlet, connect it to your TV with an HDMI cable (which is sadly not included) and you're done. There's also a micro-USB port located on the rear, which Google tells us is for developers to use to create and debug apps. If you decide to get a gamepad (which I'll get to shortly), there's also a button underneath the Player that you can press to initiate the Bluetooth pairing process with the accessory. From there, setup is as easy as going through the on-screen instructions: You'll pair your remote, choose your WiFi network and sign in with your Google account. And no, there's no Ethernet port: The Nexus Player is WiFi-only by default. That might not be a big deal for some, but I would've really liked the option; streaming videos over wired connections is typically faster and more reliable than wireless. You could get a micro-USB-to-Ethernet adapter, but that's an additional cost you would have to factor in.
+
+On the inside, there's a 1.8GHz quad-core Intel Atom processor plus an Imagination PowerVR Series 6 Graphics 2D/3D Engine, which makes it more powerful than most, if not all, other streaming devices on the market. Navigating through the menus certainly feels zippy enough, and I experienced no noticeable lag when launching apps or playing games. It has 1GB of RAM and 8GB of storage, though the actual capacity might be less. That isn't a whole lot of space, which means you'll need to be careful not to load too many games on here.
+
+
+The Nexus Player has a dead-simple remote control that's slim, lightweight and home to just a few buttons. It's curved on the sides, so it nestles comfortably in your palm. And, just like the Fire TV's remote, it has a slight groove on the underside for your finger as well. Since the Fire TV is also based on Android OS, it's no surprise that the button layout is similar. There's a voice search button right at the top and a large, circular directional pad underneath. But the similarities end there. Instead of going with the traditional Android navigation controls, the only other keys are a Back button, a Home button (it's the one with the circle on it) and one for play/pause. The remote's overall build quality is a little chintzy, but the buttons have great travel and a nice "clicky" feel when pressed.
+
+If you'd prefer to use your Android phone as a remote instead, no problem: There's also a handy Android TV Remote Control app in the Play store. I installed it on a Samsung Galaxy S5 and was able to navigate through the menus just like I did with the physical remote.
+
+Gamepad
+The Nexus Player is more than just a streaming box; you can also use it to play games. And while you can certainly play some of them with the regular ol' TV remote, it's much easier to execute killer combo kicks or maneuver hairpin turns on a racetrack with an actual game controller. So, if you so choose, you can purchase the optional Gamepad for the Nexus Player for $40.
+
+The ASUS gamepad looks a lot like the Xbox 360's controller, but with a joystick arrangement that's more similar to the PlayStation's. In other words, the d-Pad is on the left; the two analog joysticks are in the middle toward you; and the four face buttons are on the right. Positioned in the center are the back, power and home buttons, while the triggers and shoulder buttons are located on the rear. The buttons aren't nearly as polished as the ones for the Xbox; the aforementioned triggers are on the squishy side, while the d-pad just feels clunky and cheap. Still, it gets the job done most of the time.
+
+Software
+As we saw a few months ago at Google I/O, Android TV has a fairly simple card-based user interface. You'll see a list of recommended titles and recently played shows at the top, and beneath that are your installed apps. YouTube and Songza come preloaded, as well as all the Google Play apps like Movies & TV, the Play store, Music and Games. Underneath that is a list of installed games, and right at the bottom is access to the usual network and display settings. Most apps look the same, with the navigation menu situated on the left and the various options on the right.
+
+
+
+

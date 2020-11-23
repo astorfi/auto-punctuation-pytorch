@@ -1,0 +1,10 @@
+
+This morning, several sites were shut down due to a distributed denial of service (DDoS) attack on Dyn, a large domain name server. Sites affected include Twitter, Spotify, the New York Times, Reddit, Yelp, Box, Pinterest, Paypal and potentially a lot more. It seems as if this attack was focused on the east coast. Now Reuters is reporting that the US government is investigating it to see if it was a "criminal act."
+
+
+The news outlet reports that it's not clear yet on who's responsible and the Department of Homeland Security has said that it's "investigating all potential causes." According to Dyn, it resolved one attack earlier this morning, but there was a second attack a few hours later. As of this writing, some sites like Twitter and Spotify appear to be back up, but there are still sporadic outages that result in broken images and links.
+
+
+Update: According to Krebs, security firm Flashpoint is now reporting that a Mirai-based botnet is involved in the attack on Dyn. Mirai is a malware that specifically targets IoT devices like routers, DVRs and cameras, turning them into bots that then report to a central server that could then send out mass DDoS attacks like we saw today.
+
+

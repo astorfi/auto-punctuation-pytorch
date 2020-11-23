@@ -1,0 +1,5 @@
+
+  Still wondering if Mountain View's Google Drive service will launch as a Google Docs rebranding? The folks at the Google Operating System blog have some code you might want to peek at, then. Apparently the Docs' source code mentions an SDK connected to the upcoming Google Drive, opening the door for third party app support. The code hints at deeper Gmail integration too, "Say goodbye to email attachments and hello to real time collaboration," it says, "Drag anything shared with you to My Drive for easy access." If Drive turns out to be more than a hefty Docs update, at the very least it seems clear that the new service will play nice with El Goog's other web apps -- after all, isn't that what that consolidated privacy policy is supposed to be about?
+      
+
+ 

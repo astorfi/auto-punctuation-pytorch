@@ -1,0 +1,62 @@
+
+Phones and tablets are getting boring. And the excitement around smartwatches was, to put it kindly, short-lived. And then there was virtual reality. What used to seem like a science fiction pipe dream has, in the span of a few years, become the next potentially groundbreaking technology platform. So saying that the Oculus Rift has a lot to prove is an understatement. If it fails, it could destroy the virtual reality market before it even gets started. No big deal.
+
+
+But after spending a week with the Oculus Rift, I have no doubt that its approach to virtual reality is indeed the real deal. It's well built and easy to set up, and there are already a few games and apps that'll make VR believers out of the most ardent naysayer. The only problem: It's $600 and requires a powerful gaming PC. Just as with every new technological milestone, it has the potential to change the world. But at this early stage, only a few can afford it. 
+
+
+
+
+
+Hardware#fivemin-widget-blogsmith-image-343607{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-343607, #postcontentcontainer #fivemin-widget-blogsmith-image-343607{width:100%;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-343607").style.display="none";}catch(e){}
+The Oculus Rift is basically a head-mounted box holding two OLED displays (one for each eye) running 1,200 by 1,080 pixels at 90Hz. There's an integrated gyroscope and accelerometer, and the headset also works together with the included IR sensor for 360-degree head tracking. Oculus has even added built-in headphones, and there's a microphone embedded as well. But perhaps more important than all of that technology: The Rift is also light (around 0.8 pounds) and easily adjustable.
+
+Indeed, after living with the second Oculus development kit for over a year, the consumer Rift feels like a major step forward. It even feels lighter than a Gear VR with a phone attached (no surprise, since the Rift doesn't need much hardware on the headset.) There's only one main cable leading from the headset, and it splits into USB 3.0 and HDMI cables. It's far less cumbersome than the Vive Pre, which is heavier and has four long cables coming out of its headset.
+
+
+You can adjust the Rift with three velcro straps: two on the side and one on the top. The headphones can also be maneuvered in a variety of ways to suit your ears, and you can take them out entirely if you'd rather use your own headphones. (As I explain below, that's not really necessary.) There's removable padding around the sides of the headset (Oculus also includes a replacement face pad), as well as soft cloth lining surrounding the actual displays. A sensor inside the headset turns on the displays when it's covered (which avoids burning them out), and there's also a small switch on the bottom to adjust the lenses to your pupillary distance.
+
+Inside the (impeccably designed) box, you also get the aforementioned sensor with a desk stand (it can also be mounted on a tripod), a small Oculus remote and an Xbox One controller and wireless adapter. No, there aren't any motion controllers yet. We've seen (and felt) them over the past few months, but Oculus still hasn't announced when they're coming or how much they'll cost.
+
+There's not much to report about the Xbox One controller: It's exactly the same as what comes with Microsoft's console, and you'll be relying on it as your main gaming controller. I've also been using Microsoft's wireless controller adapter since it came out last year, and it goes a long way toward making PC gaming feel like just playing on a console. You use the Oculus remote to navigate apps while wearing the display, and it also lets you control the headphone volume.
+
+Setup
+Before you can do anything with the Rift, you need a Windows PC that can actually handle it. At the minimum, you'll need to have an Intel Core i5 4590 (or equivalent) processor, 8GB of RAM and an NVIDIA GTX 970 or AMD Radeon 290 video card. Those aren't excessive specs -- you'd find the same sort of hardware in a midrange gaming PC -- but if you've got an older desktop, or you're starting from scratch, it might cost you a bit to upgrade. To make things easier for newcomers, there are also "Oculus ready" PCs from the likes of Alienware, ASUS and Dell starting at around $1,000 with the purchase of a Rift. And of course, you'll have to add at least another $200 for a monitor.
+
+I spent most of my time with the Oculus on my home-built desktop PC, which is powered by an Intel Core i7 4790k CPU running at 4GHz, 16GB of 2400MHz DDR3 RAM and an R9 Fury X GPU on loan from AMD. (I chose most of those parts last year, aside from the video card, with the express purpose of being ready for the rise of VR. For once, I wasn't burned by planning ahead.) I also received, from Oculus, an ASUS ROG G20 gaming PC powered by an NVIDIA GTX 970 for testing, which gave me a sense of how a slightly slower machine handled VR.
+
+Once you've got a capable rig, it doesn't take much to get the Oculus Rift up and running. Just plug the headset into a USB 3.0 port and HDMI port on your video card, then insert the sensor's cable into another USB 3.0 port and place it somewhere on your desk. From there, the Oculus Windows app leads you through the process of configuring and customizing the Rift. You might be prompted to install some video card updates before you get started (I had to download some freshly baked Radeon beta drivers myself).
+
+
+Learning how to put on the Rift, and customizing it to be comfortable for long periods, takes a bit longer. It's extra difficult for me, since I need my glasses to fit comfortably under the headset. If you're wearing contacts, or have good vision, the whole process will probably be a bit easier. I only had to adjust the side velcro straps once, but the top strap is something I've ended up readjusting every time I wear the Rift. After a couple of days, I figured out how to put on the headset pretty easily, though it still takes my glasses off whenever I remove it. Every. Single. Time.The built-in headphones were surprisingly one of my favorite parts of the Oculus Rift. They swing up so they're out the way when you're putting on the headset, and they can articulate in many directions to fit a wide variety of ears. They also sound pretty great, with a decent amount of clarity and bass oomph. That's not something you see very often with over-ear headphones. You can always remove them if you'd rather use your own, but I've always found it difficult to juggle a VR headset with extra audio gear. I wouldn't be surprised if most Rift users just stick with them.
+
+Software
+You'll have to rely on the Oculus app for just about everything, and thankfully, it's pretty easy to use. It's clean and well designed, with an overall layer of polish that's surprising for a first-gen product. It highlights some games and apps from the Oculus store, but it's also fairly simple to browse through categories or search through titles.
+
+Taking a cue from every other app store out there, each entry includes screenshots and a description and also lists the VR comfort level. "Comfortable" describes games with little movement, "moderate" steps that up a bit, and "intense" is reserved for experiences where you may be running, jumping or turning your head quickly. The app store also lets you know if a gaming controller is required.
+
+
+Naturally, the Oculus app also houses your entire library of content, and lets you configure settings for your headset. Grabbing content from the store is fairly straightforward, though you sometimes have to click through an extra dialog to finish installing an app (due to Windows permissions limitations).
+
+Just a year ago, I was relying on ugly software with complicated settings every time I wanted to do something with the Oculus DK2. Just getting a game to launch properly in that headset was a chore. Now you just have to launch the Oculus desktop app, put on the headset, and pick your virtual poison. It's that sort of ease of use that Oculus -- or any VR company, really -- must offer to appeal to consumers.
+
+Putting on the Oculus Rift automatically launches a slightly more interactive version of the Oculus desktop app within the headset. You'll be able to do everything you can with the desktop program, but you have the added advantage of easily jumping into games. You also return to the core Oculus application whenever you hit the home button on the remote, or the Xbox One remote. (Yes, it's a bit weird that hitting the giant Xbox logo brings you into a Facebook-owned app.)
+
+In use
+Two words you'll hear a lot when it comes to VR are "immersion and presence." In this context, they refer to creating experiences that fully make you feel like you're a part of a virtual world. Long before the Oculus was a glimmer in founder Palmer Luckey's eye, VR researchers were focusing on these concepts. It's worth remembering that the schlocky gear we saw in 1992's The Lawnmower Man doesn't look much different from what we're seeing today.
+
+So how does the final Oculus Rift hardware fare when it comes to the concepts of immersion and presence? Surprisingly well, it turns out. Over the past week, I've been a space pilot dogfighting in distant galaxies in Eve: Valkryie. I've been a part of a live-action Adventure Time story. And I've seen aliens up close up on their home planets with Oculus' own Farlands. Of course, the quality of VR experiences varies, but it's heartening to see some quality content so early in the game.
+
+You do have to look beyond some limitations of the Oculus Rift to fully immerse yourself, though. Sometimes the resolution of the OLED displays can make things look noticeably pixelated (this is one area where 4K mobile displays are going to be a big help). The nature of the Oculus' optics often makes the imagery shown on the sides of the displays blurrier than what's in the center. You still have to deal with a long cable coming out of the headset. And of course, most of the time you're still just sitting in a chair with an Xbox One controller. I haven't yet tested out the final, consumer-ready version of the HTC Vive, but the Vive Pre developer kit ended up delivering even greater presence in some games with its motion controllers.
+
+I didn't run into any performance issues with my home PC, but most games are also smart enough to choose the best settings without stressing your system. I cranked the visual performance all the way up to "Ultra" in Eve: Valkryie and felt nothing but pride. I also had no complaints with the ASUS ROG G20 desktop, even though it was running a slightly slower video card.
+
+One question I keep getting asked about VR: Will it make me sick? Fortunately for me, I'm not very susceptible to motion sickness, but I've talked to some people who feel woozy after even brief VR demos. If you're the sort who needs to pack Dramamine when you travel, be sure to pay close attention to Oculus' comfort levels. Oculus has also implemented a new feature called Time Warp that should help avoid some graphic issues that lead to motion sickness.
+
+I was able to wear the Oculus Rift for about an hour typically without needing a break. Eventually, my face would get a bit sweaty and my eyes would start to feel dry. It might just be my sensitivity to light, but wearing any VR headset eventually makes me feel like I'm sitting through Clockwork Orange–esque torture. And, needless to say, I also learned that it's not smart to spend time in VR ahead of bedtime. If blue light from our phones and computers can interfere with sleep, just imagine what a bright OLED screen right in front of your eyeballs does.
+
+Games and appsI basically had a smorgasbord of VR content at my fingertips while testing the Oculus Rift, but mostly I ended up returning to Eve: Valkyrie and Lucky's Tale, both of which are bundled with the Rift. In fact, they're impressive enough that I'd dare call them the first VR killer apps. 
+
+
+
+

@@ -1,0 +1,6 @@
+
+ 
+See all those little Samsung squares? That's NAND flash memory, 80 gigabytes worth on Fusion-io's ioDrive. Tweaktown got an exclusive look at the PCIe storage card and came away mightily impressed by its "near nonexistent latency." It's faster than the best SATA II SSD or fastest 15,000RPM drive loaded in an 8 drive RAID config. Put simply, it's the fastest storage device they've ever tested. Tweaktown was so impressed that they proclaim, "Fusion-io has raised the bar so high that once adopted, traditional solutions will be considered legacy products." Mind you, this is enterprise class storage designed for data center servers requiring ultra-fast IO. Still, the only thing preventing you from installing it inside your own 64-bit OS (only) gaming rig is the price: the 80GB ioDrive lists for about $3,000 on up to $14,400 for the 320GB model. Yeah, expensive, but not for your CIO. Eveyone else will have to wait for the consumer model said to be in the works. Hit the read link for all the benchmarks.
+      
+
+ 

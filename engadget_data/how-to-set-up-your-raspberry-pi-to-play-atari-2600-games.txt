@@ -1,0 +1,72 @@
+
+ So after your brain hurts a bit and you're tired of learning computer science on the Raspberry Pi, you might want to relax with a bit of nostalgia and exercise your thumbs with some retro gaming. Want to revisit your childhood memories of Pong? Ping away. Maybe your kids have been hounding you for a video game console but you don't have the $300 to spring for a PS3. The Pi can help you with this and help teach your kids something, to boot. After some slight software configurations and a hardware purchase or two, you can relive the days of the almighty Atari 2600. Catch us after the break and we'll show you how to get your Pi to play all your totally legal cartridge backups.
+
+
+
+ Getting your Raspberry Pi to play Pong is actually quite simple. Through a quick set of commands and a few configuration steps, you'll be vaulted back in time and playing Atari on your tube. With that said, let's get to blastin' Asteroids!
+
+ What you need to get started, hardware-wise You'll obviously need a few things to get your Atari 2600 nostalgia rockin' and rollin' so here's a list of hardware items to have:
+
+  A fully configured Raspberry Pi Model B Board with the latest Raspbian image installed. The Pi should be connected to a monitor or television. You can follow the setup guide here if you have issues with this.  An available USB port on your Pi if you plan to use a USB gamepad. Usually, this means you'll need a USB hub. (Note: you can also use a keyboard.) Lastly, as a reference point, here's what we used to get our own setup up and running:
+
+  Raspberry Pi Model B with the latest Raspbian image.  Logitech K260 wireless keyboard and mouse combo (read: it only uses one USB port, since the two share a dongle).  40-inch Samsung TV.  An old Logitech Precision USB gamepad we had lying around.  Bose surround sound speakers. So, once you've rounded up your gear and have your Pi set up like so, let's get it configured. Also, while you're doing this, we recommend adding the song "2600 Refugee" by the Super 8 Bit Brothers to your playlist for some inspiration.
+
+ Let's get started.
+
+ Emulators and ROMs Essentially, since the Raspberry Pi is a fully functional Linux computer, what you're doing here is installing a piece of software called Stella. Through a bit of genius reverse engineering, Stella emulates an Atari 2600 video game console.
+
+ That's great, but what about the games? 
+ Well, you're obviously not going to rig up a cable from your Raspberry Pi to an Atari cartridge through a bit of MacGyvering and then just start playing. So you can put that Swiss Army Knife down, because here we're going to use ROMs -- software backups of your physical Atari cartridges.
+
+ That's awesome, so how do I get them?
+ Well, the politically correct answer is that video game ROMs are completely illegal in the US, along with most other parts of the world. However, we aren't your parents and can't stop you from using Google. Piracy is bad, mmkay?
+
+ There's also a bit of a grey area it seems if you already own the physical copy of the game and are making a personal backup. Consult your attorney regarding that. Hey, we aren't lawyers!
+
+ With that said, let's get to chompin' ghosts, Pac-Man.
+
+ Setting up the Atari 2600 Emulator What we're going to do first is set up the Atari 2600 emulator Stella. In short, it's a top-notch emulator that runs reliably on the Pi. Audio, video and USB gamepads work smoothly -- always a major plus, we say.
+
+ We're going to assume you've already got your Raspberry Pi up and running and have the LXDE Desktop Environment up and running like so:
+
+ 
+ Open up an LXTerminal by double clicking the LXTerminal icon on your desktop and issue the following command on your keyboard:
+
+ sudo apt-get install stella
+ 
+ When prompted with the "Y/N" prompt, just hit Enter.
+
+ And that's it! Stella is installed. Now let's get it configured. First, you'll need to have your ROMs, err legal backups, handy in a folder on your system. Again, how you get those ROMs there is entirely up to you.
+
+ Execute Stella by typing "Stella" in your already open LXTerminal.
+
+ 
+ On the initial run of Stella, you'll be asked to set up the location of your ROM directory as we previously mentioned. Go ahead and navigate to where your Atari 2600 ROMs are by using the mouse or the arrow keys on your keyboard.
+
+ 
+ Once you've configured where your ROMs are located, you'll want to customize your controllers for playing games. First, click "Options" down at the bottom.
+
+ 
+ Then, click on "Input Settings" and the "Devices & Ports" tab.
+
+ Uncheck "Grab mouse in emulation mode" and "Use mouse as a controller" if you plan on using a gamepad.
+
+ 
+ Now, click the "Emul. Events" tab. Time to map the joystick buttons. Start by clicking the P0 Joystick Up item, click "Map" and then press the button to represent "up" on your joystick. Be sure to do that for the rest of your buttons.
+
+ 
+ Once you're happy with your settings, click "OK."
+
+ Now it's time to have some fun. Select one of the ROMs from your list and double click on it. In our case, we'll be launching Pole Position.
+
+ 
+ If all goes well, your game will load and you'll be off to the races.
+
+ 
+ These graphics are amazing -- just think how far we've come since Checkers!
+
+ You can hit Escape at any time to go back to your ROM list and choose another game. And that's a wrap, folks. You now have hours of Atari fun ahead of you.
+
+ Atari is great, what about other systems? Though we'd love to bask in 8-bit NES nostalgia as well, the Raspberry Pi doesn't yet have an emulator that packs the full punch yet. We've tried fceultra and mednafen, two popular NES emulators, and they each deliver horrible sound quality. Also, the OpenGL support for these two apps needs some tweaking. Hopefully down the road someone will get to porting the code so that it runs a bit better on the Raspberry Pi. For now, though, we hope you like Atari.
+
+

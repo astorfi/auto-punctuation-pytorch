@@ -1,0 +1,17 @@
+
+       So let's just boil down the newly-available firmware 1.1.3 to the nitty gritty, shall we? Here's what Apple's latest juicy morsel is going to do to your iPhone (or iPod touch, if that's how you roll and you have $19.99 to spare) once you can finally reliably get it from iTunes: 
+
+Maps: New hybrid view, same as Google Maps. Satellite imagery and street mapping available on a single view.
+Maps: Location triangulation. Uses nearby WiFi access points and GSM towers (on the iPhone, anyway) to roughly guesstimate your current location.
+Web Clips: Web bookmarks can now be saved as home screen icons, including zoom and location information.
+Home screen: Icons on the home screen can now be rearranged.
+Home screen: Up to 9 home screens can now be created and "flicked" between.
+SMS: A single text message can now be sent to multiple recipients; groups can be recalled for future use.
+iTunes: Movie rentals are now supported.
+iTunes: Support for lyrics.
+iTunes: Option to "manually manage" music and videos instead of synchronizing. Thanks, Vlade D!
+
+Additionally, the iPod touch now features Mail, Maps, Stocks, Weather, and Notes, all of which were previously exclusive to the iPhone. Cheers!
+      
+
+ 

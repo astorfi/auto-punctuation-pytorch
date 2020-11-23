@@ -1,0 +1,10 @@
+
+
+Microsoft's support for Android Wear smartwatches isn't limited to a handy OneNote app. The company's research wing has slipped out Analog Keyboard, a prototype input app that has you drawing individual characters on your wristwear instead of trying to hit tiny keys. It's not the fastest solution (and triggers a few flashbacks to old-school PDAs), but it's very straightforward -- you get a relatively big drawing area, and there's a smart auto-correct system that you turn off just by pausing for a while between letters.
+
+
+
+Before you start drafting a magnum opus on your timepiece, be aware that this is definitely rough code. You have to sideload the app, and it saves battery life by dropping support for capital letters. Also, it doesn't support either lower-resolution watches or future round models; your Gear Live or Moto 360 will work, but forget about trying the current Analog Keyboard on the G Watch or G Watch R. Provided that you're willing to live with the many quirks, though, it's worth a look if you're not fond of voice dictation.
+
+
+

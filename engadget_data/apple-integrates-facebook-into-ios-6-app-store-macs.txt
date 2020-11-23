@@ -1,0 +1,7 @@
+
+ 
+ The string of iOS 6 updates has brought one of the more heavily requested social networking features: Facebook integration. You can share from core apps like Maps, Photos and Safari, but it's woven even more deeply than Twitter was in iOS 5: you can use Siri to make your commands, and there's now a public API for Facebook so that other apps can do the same. The App Store gets its own share of integration, with app recommendations based on what friends are using, and contact syncing now makes sure your social network is all lined up. Best of all, the Facebook integration is coming to Macs as well -- so you'll have a consistent experience no matter what device you're on.
+
+ Check out our full coverage of WWDC 2012 at our event hub!
+
+

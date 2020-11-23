@@ -1,0 +1,5 @@
+
+ 
+ We only just learned in earnest that XBMC was coming to Android last month, and yet we're already looking at workable builds. Kermonine96 at the XDA-Developers forum has started offering his own, unofficial nightly versions of the media center front end, both for regularly supported devices with Neon processor code (most often HTC and Samsung devices) as well as Neon-free hardware, like phones and tablets carrying Tegra 2 chips. Needless to say, the alpha-grade code shouldn't be used as the heart of a mobile media center: hardware decoding isn't functional, battery life is low and even a stable picture isn't guaranteed. That said, anyone who's willing to risk a skip-heavy movie or miss out on plugins now doesn't have to receive the XBMC crew's blessing to get a preview of its Android efforts.
+
+

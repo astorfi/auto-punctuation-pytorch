@@ -1,0 +1,13 @@
+
+ 
+ Unless you've been hiding under a rock lately, we're pretty sure you've heard about the Raspberry Pi by now -- a $25 credit-card sized PC that brings ARM/Linux to the Arduino form factor. As a refresher, the system features a 700MHz Broadcom BCM2835 SoC with an ARM11 CPU, a Videocore 4 GPU (which handles HD H.264 video and OpenGL ES 2.0) and 256MB RAM. The board includes an SD card slot, HDMI output, composite video jack, 3.5mm audio socket, micro-USB power connector and GPIO header. Model A ($25) comes with one USB port, while Model B ($35) provides two USB ports and a 100BaseT Ethernet socket. Debian is recommended, but Raspberry Pi can run most ARM-compatible 32-bit OSes.
+
+ This past weekend at Maker Faire Bay Area 2012 we ran into Eben Upton, Executive Director of the Raspberry Pi Foundation, and took the opportunity to spend some quality time with a production board and to discuss this incredible PC. We touched upon the origins of the system (inspired by the BBC Micro, one of the ARM founders' projects), Moore's law, the wonders of simple computers and upcoming products / ideas -- including Adafruit's Pi Plate and Raspberry Pi's prototype camera add-on. On the subject of availability, the company expects that "there will be approximately 200,000 units in the field by the end of June". Take a look at our hands-on gallery below and our video interview after the break.
+
+
+
+
+
+ 
+
+ 

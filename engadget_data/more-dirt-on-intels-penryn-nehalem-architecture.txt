@@ -1,0 +1,6 @@
+
+ 
+While you've been off dreaming of long-range WiFi, Intel's not forgotten about its Penryn / Nehalem architectures, and thanks to an uber-boring slideshow presentation, we now know more than ever about the forthcoming duo. As expected, there isn't much new on the oft detailed Penryn front, but the fresher Nehalem most certainly piqued our interest; while built on the same 45-nanometer technology as its predecessor, Nehalem is being hailed as "the most dramatic architecture shift since the introduction of the front-side bus in the Pentium Pro in 1996." Attempting to back up such bold claims came news that HyperThreading would be native to Nehalem, and it would "share data at the L1 and potentially, the L3 cache levels," allow eight-core CPUs to clock down to two / four, and boast scalability options to satisfy a wider market. Most intriguing, however, was the "optional high performance integrated graphics" that could reportedly be included on the same processor die, which could certainly prove interesting if crammed into, say, a UMPC. So if you're still not satisfied with the highlights, and don't get enough mundane PowerPoint action from your corporate employment, be sure to hit the read link when your friends aren't looking.
+      
+
+ 

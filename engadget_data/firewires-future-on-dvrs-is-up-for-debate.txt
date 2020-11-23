@@ -1,0 +1,5 @@
+
+ Mandated by the FCC, Firewire ports have been commonplace, and sadly mostly unused, on our HD DVRs for some time, but recent requests by Intel and TiVo to forego their inclusion have brought the situation to a head. Multichannel News reports the 1394 Trade Association is calling Intel's waiver request "too broad" and cited its wide deployment as reasons it should still be included. Beyond some driver hacks to enable transfers of DVR'd programming, it seems like Ethernet and USB are getting the lion's share of use on boxes, while emerging DLNA and MoCa tech makes moving content around even easier, is anyone actually getting a benefit from the extra port on their boxes as we go into 2010?
+      
+
+ 

@@ -1,0 +1,8 @@
+
+Bike sharing systems like New York's Citi Bike may be taking off, but it's doubtful that many participants can find every station without checking a map. Thankfully, Adafruit has unveiled a smart helmet project that could help at least a few of those riders get to their destinations while keeping their eyes on the road. The DIY effort feeds locations to an Arduino-based Flora board and its positioning add-ons, which in turn use a string of NeoPixel LEDs on the helmet as turn indicators. Commuters just have to watch for blinking lights to know where to go next. While the system isn't easy to set up when cyclists have to manually enter coordinates, it is flexible: the open-source code lets it adapt to most any bike sharing system or headpiece. As long as you can get over looking like a Christmas tree on wheels while you navigate, you can build a smart helmet of your own using the instructions at the source link.
+
+
+
+
+
+ 

@@ -1,0 +1,5 @@
+
+  Wondering how those Medfield handsets stack up to their ARM-powered competition? Well, we can't promise a full suite of benchmarks just yet, but we do have a peek at a pair of browser-centric tests. The German Caschys Blog managed to get a hold of Orange's upcoming Santa Clara device at CeBit and ran Qualcomm's Vellamo and Rightware's BrowserMark on the Atom handset. In both metrics the Z2460 more than holds its own, scoring an 89,180 on the web-based BrowserMark -- putting it just ahead of the iPhone 4S which clocks in at 87,801, but well behind the Galaxy Nexus' 98,272. Things look just as promising on the slightly more hardware-intensive Vellamo where it trounced the latest Nexus and was hot on the heels of the Xiaomi Mi-One Plus and Transformer Prime. Of course, neither of these tests really tax the CPU or measure 3D graphics performance. We're not even sure what the clock speed on chip inside the handset is. We were originally led to believe 1.6GHz, though, Caschy is reporting the model he manhandled was running at just 1.4GHz. Then, there's perhaps the biggest question of all -- battery life. For that, we'll just have to wait and see.
+      
+
+ 

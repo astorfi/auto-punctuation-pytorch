@@ -1,0 +1,11 @@
+
+       This is an on going debate on certain forums and for good reason. The fundamental question is where should you decode your lossless audio? In DVD players we almost always decoded compressed audio in the A/V receiver, but when it comes to Blu-ray features like Bonus View, there is at least one specific reason to decode in the player.
+      
+
+ 
+
+It really come down to your system. If you have a great A/V receiver and a great decoder in your player, than it shouldn't make a difference where you decode. But saying that LPCM is always equal to bitstream just isn't correct. Sure, the decoder must be able to decode perfectly to be certified and get the sticker on the box, but that doesn't mean the player's analog circuitry (if you are using analog outputs) or HDMI chip doesn't screw it up after the fact. It also doesn't mean that your A/V receiver treats LPCM audio the same as it does audio that is internally decoded. Some think its silly to find satisfaction in seeing that little logo on your A/V receiver light up when it receives DTS-HD, but there is some comfort to knowing that the signal at least made it to your A/V receiver before getting mucked up. And lets face it, if your A/V receiver can't be trusted to properly handle the audio, does it really matter what signal it received? The long and the short of it is that "it depends," meaning it comes down to your equipment and your preferences. We think it's a good idea to choose equipment that offers multiple options so you can discover the best combination yourself. Although we do admit that 90 percent of even the most elite HD snobs can't distinguish a difference, but since when have we let that stop us from obsessing over the ultimate setup?
+
+       
+
+ 

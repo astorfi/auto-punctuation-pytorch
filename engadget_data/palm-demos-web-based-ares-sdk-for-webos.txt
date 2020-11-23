@@ -1,0 +1,5 @@
+
+ Currently, mobile entrepreneurs wishing to hawk their wares on the Pre (or Pixi, or unnamed webOS device of the future) use a software development kit from Palm called Mojo, a stack of Java-based tools that must be installed, studied, understood, loved, and respected before serious development can get underway. Palm sees that as a barrier of entry for web-oriented developers who want to make the leap to mobile apps, though, which is why they've crafted a new SDK called Ares that's based entirely on web technologies -- in fact, there's no install at all, apparently. Much of the interface is said to be drag-and-drop with enough JavaScript exposed to make your local .com designer feel right at home, potentially opening the app landscape to a whole new set of folks -- and considering that the App Catalog is tens of thousands of goodies behind the App Store and Android Market, they can use every loyal dev they get.
+      
+
+ 

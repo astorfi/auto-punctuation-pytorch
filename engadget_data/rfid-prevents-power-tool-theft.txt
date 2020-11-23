@@ -1,0 +1,20 @@
+
+
+
+Bosch Power Tools has an idea about how to stop power tools from walking off construction job sites: as part of
+their anti-theft Safe & Sound program, they're putting RFID chips in their circular saws, hammer drills and other
+tools sold to construction businesses. They'll be a bit more expensive than their non-tagged counterparts (by two to
+five percent), but considering the construction industry lost between $300 million and $1 billion to equipment theft
+last year, it may end up being a very small price to pay. The serial number of the RFID tags ties into an inventory
+database of asset-tracking records. On the construction site, managers use an Intermec 700 Series Windows Mobile device
+attached to a tag reader to scan the tools on site and transmit tracking information to the asset database. The obvious
+next step for this program is to bring in the Secom Robot
+X to handle the dirty work of smacking down on the tool thieves.
+
+
+ [Via textually]
+
+
+
+
+ 

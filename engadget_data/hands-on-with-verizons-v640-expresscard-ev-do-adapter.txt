@@ -1,0 +1,12 @@
+
+       
+So we've been a little lax about writing us up the Verizon V640 EV-DO ExpressCard we've had sitting around here for a couple of weeks, but there's not really a whole lot to say -- the thing is small, solid, and fast as the dickens. Like, seriously, we mean fast. We didn't have an ExpressCard equipped PC machine handy, but if your Mac has the latest OS X updates you should already have the drivers installed to make this thing hum, so installation is literally as simple as inserting, clicking ok to install the device, and then hitting connect. Obviously the first thing we did was test the bandwidth, and we were pleasantly surprised after spending as much time with the Kyocera KPC650 as we have in the past few months: for starters we got about 2mbps down, and 120kbps up. Click on for a ton of pictures of the ritual unboxing, it's a joy.
+      
+
+ 
+
+Here's the speed we got from the Speakeasy Speed Test (our fav).Less than 1/4th the downstream speed of our home connection, but more than a third of the upstream. Not bad!
+
+       
+
+ 

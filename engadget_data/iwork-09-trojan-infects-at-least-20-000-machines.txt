@@ -1,0 +1,5 @@
+
+ Quite a number of no-goodniks who thought they'd save a few bucks by downloading a pirated version of iWork '09 have gotten more than they'd bargained for -- in the form of a Trojan Horse called OSX.Trojan.iServices.A. This guy installs itself in the computer's startup as root, and once in place it can connect to a remote server and broadcast its location, allowing malicious users to take charge of the machine remotely. And since it has root access to the OS, the trojan can not only install additional components but can also modify existing apps, making this thing extremely difficult to remove. According to a white paper released by Intego, at least 20,000 people may have downloaded the infected software -- which they'll get around to installing as soon as they finish those episodes of Celebrity Rehab they grabbed at the same time.[Via Macworld]
+      
+
+ 

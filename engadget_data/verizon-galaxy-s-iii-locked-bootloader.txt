@@ -1,0 +1,10 @@
+
+ 
+ Based on Samsung's hacker-friendly track record, you'd generally expect one of it smartphones to come with an unlocked bootloader, making it easy to update or tweak with unofficial ROMs. That's not the case with Verizon's imminent version of the Galaxy S III, however. As the folk at XDA know only too well, this particular iteration of Sammy's flagship comes with a sealed bootloader, which makes it resistant (though not impervious) to hackery.
+
+ Of course, Sammy has nothing to gain from snubbing the modding community in this way, so it stands to reason that VZW pushed the Korean manufacturer to supply them with a locked bootloader -- despite the fact that all other variants have been left open. We've reached out to Big Red for comment, but in the meantime a clever soul over at Rootzwiki claims they've already found a workaround for root access. (At this point, though, we'd better provide our usual disclaimer: be very careful before you poke around in there, because going up against a locked bootloader can be risky. The apparent safety of modern life is just a shallow skin atop an ocean of blood, guts and bricked devices.)
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

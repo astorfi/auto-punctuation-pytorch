@@ -1,0 +1,5 @@
+
+ 
+ If you were hoping that you could force Windows 8 to bypass the don't-call-it-Metro homescreen and boot straight to the familiar desktop you've come to know and love, we've got bad news. Word on the street is, Microsoft has removed this ability from the latest builds of the OS -- so you're gonna have to stare at a pile of tiles when you boot up, whether you like it or not. According to Rafael Rivera, one of the authors of Windows 8 Secrets, there is a work around that involves creating a shortcut to the desktop and scheduling it to run at boot. But, it appears that even enterprise customers will be blocked from making the standard desktop the default environment. While Redmond is no doubt implementing such a policy to enforce consistency, it could prove to be a source of frustration for big businesses, which are notoriously resistant to change. We'll just have to wait for the final release to find out for sure.
+
+

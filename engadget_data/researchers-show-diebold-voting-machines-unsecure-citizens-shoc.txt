@@ -1,0 +1,5 @@
+
+ We're all for hacking stuff, generally, but hacking democracy for malicious purposes is just plain uncool. While no one's definitively proven that such a scenario has ever actually happened in real elections, vote-hacking remains a distinct possibility, given the state of our electronic voting equipment. If you were unconvinced the last time we covered this, of just how shoddy these Diebold voting machines are, here's another arrow in our quiver: Princeton University researchers have taken apart a Diebold machine, examined it from every angle, written a new paper on its flaws and have come to the following conclusions: 1) Malicious code "can steal votes with little if any risk of detection." 2) Said code can be installed in one minute or less. 3) The Dieblod machines run Windows CE 3.0 -- so, they're susceptible to viruses. 4) Some problems would require the entire replacing of hardware, yet another security risk. Still though, we would love to see a debate between the two candidates in this fictitious election: George Washington and Benedict Arnold.[Via Boing Boing]
+      
+
+ 

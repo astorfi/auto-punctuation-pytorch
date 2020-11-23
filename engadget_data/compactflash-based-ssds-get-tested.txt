@@ -1,0 +1,6 @@
+
+ 
+You know how much we love SSDs around here, but getting one the legit way currently involves poking a rather large hole in your wallet -- so we were pretty interested to see how a jury-rigged SSD built using that CompactFlash-to-SATA adapter we spotted a while back would hold up. While we probably would have sprung for something a little larger than the 4GB drives used in the test, the results are pretty encouraging: DIY SSD drives were overall faster than the 1.8-inch traditional drive found in the MacBook Air, and even a little faster than the VAIO TZ's 64GB SSD. The drives were bested by a 7200rpm 2.5-inch drive and a 128GB SATA SSD, as you'd expect, but what we weren't expecting was the negligible hit on power consumption -- it looks like SSDs really don't use less power, as the unchanged battery life of the SSD MacBook Air hinted. Still -- you know we want one. Check out all the results and a little howto action after the break.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+The stumbling blocks keep piling up as white space networking struggles to get off the ground: it looks like the manufacturers of healthcare equipment are set to join NAB in opposing the technology. Wireless medical telemetry devices like heart monitors have been operating in broadcast white spaces since the late 80s, and manufacturers like GE Healthcare say that the Microsoft- and Google-backed white space networking initiative could potentially "directly interfere" and "prevent patient monitoring." For its part, the FCC has set aside all of channel 37 for medical telemetry devices in 1998 after interference from a nearby TV station shut down the system at Baylor University Medical Center, but it wasn't mandatory, and hospitals that haven't made the switch could face millions of dollars in upgrade costs. That's not say that medical telemetry concerns are a problem that can't be solved -- the new Google push includes a channel 37 exception, for example, and there are some other compromise solutions on the table -- but it seems like there's no end of issues for a technology that hasn't really even been demonstrated working yet.
+      
+
+ 

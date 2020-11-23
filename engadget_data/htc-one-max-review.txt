@@ -1,0 +1,56 @@
+
+The debate around giant smartphones is over. Manufacturers like Samsung, Sony and LG have amply demonstrated that it's possible to build a pocketable, phone-like device with a screen bigger than five inches. Now it's HTC's turn. But instead of re-imagining the much-praised One for this new category of device, HTC's designers have mostly just cloned it, while adding a drop of Miracle-Gro to produce a 1080p panel that measures 5.9 inches diagonally, versus the One's 4.7 inches.
+
+
+The result is the One Max, a product that carries over some good things from the One while also finding room for a few notable extras like a fingerprint scanner and expandable storage. At the same time, it also introduces some major snags -- not least of which are the its intimidating size and weight. The job ahead of us is to somehow find the upper body strength to weigh it all up. 
+
+
+
+
+
+Hardware
+We need to kick things off with an unfortunate disclaimer: The device we're looking at here was not final, but rather a very late-stage factory sample -- one of the first units off the assembly line. HTC gave it to us on the premise that it was worthy of being reviewed, so we expected it to be virtually immaculate. It didn't quite turn out that way.
+
+Our sample unit is coming apart at the seams. The removable back cover doesn't fit properly; the power button often jams; there's a visible gap between the display and the bezel on the right-hand side, and the optional $90 Power Flip Case looks as if it was designed for some other phone, because its front flap fails to fully cover the One Max's enormous display. As a result, this review can't be considered final until we get a chance to play with an actual in-store device and post an update, which we hope to do when the One Max officially launches in the UK at the end of this week. We're still waiting to hear from HTC on SIM-free pricing, but one retailer as it on sale at £600 ($952) in the UK. We've also been told that tariff pricing on Vodafone UK will come to £19 on the 3G £47 tariff or free on the £52 4G equivalent tariff -- making the One Max slightly more expensive than Sony's Z Ultra and barely any cheaper than Samsung's Galaxy Note 3.
+
+Build quality and design
+Even forgetting about the build quality issues and starting with a clean slate, it's hard to find much good to say about the HTC One Max's design. The One's singular, expertly crafted block of anodized aluminum has been replaced by an undignified white polycarbonate band that keeps the aluminum back and front sides of the phone joined together -- kind of like elastic holding up saggy underwear. The result is even less One-like than the One Mini, which also has a white band but wears it better due to the fact it has a neater, non-removable back.
+
+Perhaps this is why we feel a pang of guilt about the One Max's design woes. Having badgered HTC for the past two years to include microSD expansion, the company has finally given us what we want -- and this loss of build quality comes as a direct result. We refuse to take all the blame, however, since Sony has managed to deliver microSD slots in its latest phones without having a removable back cover. We wish HTC had managed something similar here.
+
+And then there's the issue of size. Samsung's Note 3 (151.2 x 79.2 x 8.3mm) and Sony's Xperia Z Ultra (179.4 x 92.2 x 6.5mm) offset their big screens with tiny waistlines or bezels, but the One Max makes no such effort: its front-facing BoomSound speakers sit loud and proud along the top and bottom of the display, bringing the length to 164mm (around 6.5 inches). The curved back panel, so elegant as part of the smaller One, brings the thickness to 10.3mm along its spine, which feels every bit as thick as it sounds.
+
+
+HTC has thankfully retained the lovely etched metal volume rocker from the original One. It's also applied the same design to the power button, which it's sensibly moved to the right-hand side of the device, leaving the hard-to-reach top edge for just the IR transmitter and 3.5mm headphone jack. Even so, one-handed operation should be considered unlikely -- verging on impossible -- due to the fact the Android notifications pull-down can't be reached with a thumb, and the phone's 7.65-ounce weight (217g) makes it seriously unwieldy. (In comparison, the Note 3 weighs 5.93oz and the Xperia Z Ultra hits the scales at 7.48.)
+
+Turning the handset around, we see a set of pogo pins (which you use to attach the power case), the f/2.0 lens belonging to the 4MP "UltraPixel" camera, the flash module and, just underneath, the square-shaped fingerprint scanner -- which deserves a few paragraphs all its own. You can detach the spring-loaded back cover with a tiny lever on the side of the phone, and upon doing so, you'll have access to the aforementioned microSD slot and a micro-SIM slot as well.
+
+The battery is non-removable, since the Max takes advantage of the same pyramid-style component design we've enjoyed on the One, Butterfly series and Windows Phone 8X. Finally, like most large smartphones, it doesn't come with a stylus in the box, but HTC will offer one outside Europe and the US. Don't worry, you're not missing much here. It's just one of those typical capacitive pens that lack pressure sensitivity, and bizarrely, it doesn't work on several other phones -- not even the One.
+
+Fingerprint scanner
+So, this scanner works. Just about. You have to be really careful to swipe your fingers in a "natural" manner and direction during the software's training process (the scanner asks you to swipe each finger four times) -- in other words, not the way it's shown in the instructions. After a few days of practice, we got the process down to a couple of seconds and we achieved a hit rate of 80 to 90 percent -- not enough to remove the occasional time-wasting failure, which sends you to a password login screen.
+
+A big part of the frustration is that you can't really see or feel the scanner to position your finger on it properly. If you change your grip on the phone, or if you put it in a case, you have to guess at a way to adjust your swipe to hit the scanner at exactly the right angle. Equally, it's not obvious how the thing works -- it doesn't technically "scan" an image of your fingerprint, but instead measures the capacitance of your skin to create a unique signature. HTC points out that this should minimize security fears, because it says it's impossible to create a law enforcement-style print from the capacitance signature, and much like the Touch ID component on the iPhone 5s, your fingers don't get stored in the cloud.
+
+
+HTC approaches its fingerprint reader in a unique way compared to Touch ID; you can store up to three fingers (or other parts of your body, we presume) and you can assign a quick launch shortcut to each individual digit. Thus, you could swipe your thumb to open the camera, left index finger for messaging and perhaps your right pinky for Gmail. You can also choose to have your fingers simply open to the home screen, if that's all you need. This additional customization is a nice touch, though we'd like the Max to store even more fingers.
+
+Overall, the fingerprint scanner could work better; it's not quite as intuitive as Apple's Touch ID, and we'd happily have given it up in exchange for something more useful, like optical stabilization in the camera module. (More on that in a bit.)
+
+    HTC One Max     Dimensions 164.5 x 82.5 x 10.29mm (6.48 x 3.25 x 0.41 inches)   Weight 7.65 ounces (217g)   Screen size 5.9 inches (373 ppi)   Screen resolution 1,920 x 1,080   Screen type Super LCD 3   Battery 3,300mAh (non-removable)   Internal storage 16/32GB (around 10GB free on 16GB model)   External storage MicroSDXC, up to 64GB   Rear camera 4MP stills (1/3-inch sensor, f/2.0 lens with 28mm equiv. focal length)   Front-facing cam 2.1MP stills, 1080p video   Video capture 1080p   NFC Yes   Radios  HSPA+ (EMEA and Asia: 850/900/1900/2100 up to 42 Mbps, Sprint and Verizon 850/900/1900/2100 up to 14.4 Mbps); 3G CDMA (Sprint and Verizon: 800/1900); LTE (EMEA and Asia: 800/900/1800/2100/2600; Sprint: 1900; Verizon 700)
+
+    Bluetooth v4.0 with aptX   SoC Qualcomm Snapdragon 600   CPU 1.7GHz quad-core   GPU Adreno 320   RAM 2GB   Connectivity MHL, microUSB 2.0, USB OTG, WiFi Direct, DLNA, IR   WiFi Dual-band, 802.11a/ac/b/g/n   Wireless Charging No   Operating system Android 4.3 (with HTC Sense 5.5 skin)  Display and audio
+At last, some good news. HTC's Super LCD 3 panel is still the best in its class, and the best on the whole market if, like us, you prefer the natural colors of an LCD display to the over-saturated appearance of an AMOLED panel. The Xperia Z Ultra's display, which is one of Sony's best efforts so far (and a very good panel in general), is left behind in terms of viewing angles, contrast and outdoor visibility, if not color accuracy.
+
+Paired with the BoomSound speakers, which we believe to be feedback-equipped NXP circuits inside expanded speaker boxes, the HTC One Max delivers a perfect video-watching experience. Nothing comes close except perhaps the One, which also offers great entertainment despite the smaller screen.
+
+Headphone output from the One Max is nice and vibrant, and it doesn't lack volume even with relatively high-impedance cans. Fortunately the whole Beats gimmick has disappeared, this being HTC's first release since it announced that it's parting ways with Dr. Dre and his outfit. If you want a certain equalizer setting, which is effectively all Beats ever provided, there are numerous apps that facilitate it -- even Spotify now offers EQ options.
+
+Finally, a quick but important caveat: before you invest in the $90 Power Flip cover, make sure it will accept your headphones. The wide 3.5mm plug on our AKG K551s wouldn't push all the way in, rendering them unusable.
+
+Camera
+If you haven't already heard about HTC's "UltraPixel" technology, the rudiments of it are simple: by crowding fewer pixels onto the sensor, it's possible to get superior performance in low light -- but at the expense of high-res images that can be cropped and zoomed. The addition of an f/2.0 lens and some low-strength optical image stabilization in the original One gave it competitive imaging, albeit not in the same league as a camera-focused phone like the Xperia Z1 or Lumia 1020. 
+
+
+
+

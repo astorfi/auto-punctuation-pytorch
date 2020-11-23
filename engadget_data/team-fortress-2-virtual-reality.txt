@@ -1,0 +1,27 @@
+
+If Valve Software's Team Fortress 2 is anything, it's versatile. The company's demonstrating that versatility once more in porting the game to virtual reality goggles, which could result in some serious psychological trauma. Kidding aside, a Game Developers Conference blurb today revealed the internal project -- part of Valve's ongoing wearable computing efforts -- which says the talk, "will describe lessons learned from Valve's porting experience." In another talk, Valve hardware man Michael Abrash is diving into the possibilities he sees in the future of VR, as viewed through his own company's experience.
+
+
+It isn't clear whether Valve is using the much-loved Oculus Rift technology (seen above); the notes of the second talk only detail a general exploration of VR's weaknesses and strengths as they pertain to current technology. One thing is clear: both talks aim to educate game developers on what some Valve employees see as a burgeoning new frontier in game development. We welcome this bizarrely sci-fi future with open arms.
+
+
+
+Show full PR textValve to talk head-mounted display research, Team Fortress 2 VR port at GDC 2013January 15, 2013
+
+Game Developers Conference 2013 organizers have announced the recent addition of two talks from Valve that discuss porting Team Fortress 2 to VR goggles - plus research and development challenges for head-mounted displays and tracking systems.
+
+These talks are part of the Programming and Design tracks of the GDC main conference that will take place March 27-29 at the Moscone Center in San Francisco, CA.
+
+Valve programmer Joe Ludwig's 'What We Learned Porting Team Fortress 2 to Virtual Reality' will explore the efforts of several employees over the last year to get the game to run in virtual reality goggles.
+
+These efforts have included "what stereo support entails, rendering 2D user interface in a 90 degree field of view display, dealing with view models and other rendering shortcuts, and how mouselook can interact with head tracking in a first person shooter." Ludwig will also share ideas on how a game specifically designed for virtual reality could avoid many of the issues that Valve faced when porting Team Fortress 2.
+
+In addition, Valve's Michael Abrash will discuss the hardware challenges that lie ahead and possible solutions for virtual and augmented reality in 'Why Virtual Reality is Hard (And Where it Might be Going).'
+
+The talk will include "technical content involving head-mounted display hardware and its interaction with the human perceptual system," with Abrash examining one real world discrepancy to which human perception is sensitive. Those curious about the possibility of a platform shift to virtual and/or augmented reality are encouraged to attend.
+
+For more information on these or others in the show's growing lineup, check out GDC 2013's official Schedule Builder, which continues to add new talks every week. The deadline for discounted Early Bird passes is February 13th. GDC 2013 itself will take place March 25-29 at the Moscone Center in San Francisco.
+
+For more information on GDC 2013, visit the show's official website, or subscribe to regular updates via Facebook, Twitter, or RSS.
+
+

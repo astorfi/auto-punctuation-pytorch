@@ -1,0 +1,7 @@
+
+Don't think that the NSA's bulk communication data collection is focused solely on the communications themselves. The Washington Post has published more Edward Snowden documents which reveal that the agency collects large volumes of contact lists from email and instant messaging users around the world. While the NSA gathers the information on foreign soil, its method reportedly prevents it from automatically screening out any Americans in the list. The NSA and anonymous officials argue that American laws prevent analysts from accessing data unless they believe there's a foreign target hidden with, but the strategy still has the government storing contacts for "millions" of people.
+
+
+Yahoo customers are some of the most common targets of this surveillance, as the company doesn't normally encrypt webmail sessions. That's about to change, however. The internet firm tells the Post that its webmail service will default to using SSL encryption on January 8th, catching up with Facebook and Google. Yahoo isn't officially tightening its security in response to NSA activity, and using SSL won't necessarily stop interceptions when spies frequently have workarounds. However, the upcoming encryption will at least complicate any snooping -- whether or not it's part of an intelligence operation.
+
+

@@ -1,0 +1,6 @@
+
+ 
+So, 45nm sounds hip-cool and all, but what does that mean for performance? Intel's coming forward with some Penryn numbers -- with the help of Reg Hardware looking over its shoulder to make sure the tests are legit -- and it seems we're in for a decent speed bump, but not necessarily a revolution. Dual core and quad core 3.33GHz Penryns, each with a 1333MHz frontside bus, were pitted against the current desktop-leading 2.93GHz Core 2 Extreme QX6800 on a 1066MHz bus. Tests were run on top of a well decked test system, running Vista Ultimate. Naturally, the quad core Penryn took the top spot in all the tests, with varying margins depending upon which app was used -- no surprises there. The dual-core Penryn took third behind the spendy QX6800 for the most part, other than the single-threaded Half-Life 2 and the SSE 4-capable DivX test, which capitalized upon the media-friendly instructions Intel is adding to its new processors. Looks like we'll be seeing much more from these processors as more SSE 4 apps hit the market, but for now you shouldn't be feeling too bad about buying a QX6800 -- it's not obsolete by a long shot.
+      
+
+ 

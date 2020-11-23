@@ -1,0 +1,5 @@
+
+ Last we heard, there were whispers that Redmond's favorite runtime / framework / Flash-killer was due for a fresh release "soon." Confirming those rumors is version 5.0 of Microsoft's cross-platform Silverlight, now available for download. Headlining the release is hardware decoding of H.264 streams, improved postscript printing and a better graphics stack, replete with support for things in the third dimension. Rumors that Silverlight's own luminance is fading still go unanswered, without confirmation or denial from Microsoft -- but why let uncertainty get you down? Hit the source and turn that frown upside down.
+      
+
+ 

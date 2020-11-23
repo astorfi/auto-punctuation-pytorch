@@ -1,0 +1,5 @@
+
+ Color us resolutely unsurprised at the news that devs are starting to abandon the Windows Mobile platform in favor of, well, longer-lived opportunities. Firefox's maker, Mozilla, has come out with a statement that it's ceasing development of its WinMo builds and -- perhaps more importantly -- it's also curtailing work on a Windows Phone 7 offering until Microsoft opens its new platform up to native apps. So basically, no Native Development Kit from Microsoft equals no Firefox for Windows Phone from Mozilla. The browser maker does express hope, however, that Microsoft will make it possible to deliver the popular IE alternative in the future, pointing out that the underlying Windows CE 6 architecture suits Firefox well and the company is "well positioned to have an awesome browser on Windows Phone 7." For now, the focus in Mozilla's mobile HQ remains on bringing out a great product on the less restrictive Android and MeeGo platforms.
+      
+
+ 

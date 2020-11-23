@@ -1,0 +1,7 @@
+
+ 
+
+Well that didn't take long. Just four days after TiVo's DRM was hacked, and three days after we pointed you to the Zatz man's little exploitation guide, along comes the GUI wrapper that automates the process of downloading and decoding TiVo files onto your TiVoToGo-less Mac. TiVoDecode Manager v1.0 features automatic Bonjour discovery of local TiVos and the ability to one-click download any available recording listed by the date recorded, episode, etc. At the moment, only one recording can be downloaded at a time. Once on your Mac's disk, the decoded files still won't play in Apple's Quicktime player, but hey, that's why the Good Lord gave us VLC. As a front-end to software written by someone else, you'd be wise to heed the words of the developer: "use at your own risk." However, as tipster Brandon points out, he's "one happy geek" after giving it a whirl. Now quit hopping up and down clapping like little girls, there's decoding to be done. [Thanks, Brandon H.]
+      
+
+ 

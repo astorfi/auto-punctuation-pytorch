@@ -1,0 +1,5 @@
+
+ Mac owners hoping to boot Windowson their new Intel-based boxes have been pinning their hopes on Vista, which reportedly would be able to boot usingIntel's Extensible Firmware Interface (EFI), the BIOS replacementimplemented on the MacTel computers. However, those hopes were just dashed, as Microsoft has announced that EFI supportwill be delayed until the release of Longhorn Server, currently scheduled for sometime next year. Of course, all hope isnot lost: guerrilla efforts to get Windows to run on MacTel boxescontinue, and there's always the possibility that VMWare, WINE or a similar solution will make booting into Windows anon-issue. And if you really just need a break from OS X, there's always Linux.
+      
+
+ 

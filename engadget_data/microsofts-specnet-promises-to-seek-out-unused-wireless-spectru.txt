@@ -1,0 +1,6 @@
+
+ 
+Microsoft's been toying around with hardware for so-called white space spectrum for some time now, and it's now back with another fairly ambitious scheme. Dubbed "SpecNet," the hardware in this case in actually a network of spectrum analyzers that would seek out and map where spectrum is available and where it's not, and let unlicensed devices use it when it's available. Of course, that's still all a bit theoretical, and it does face a few significant hurdles. Those spectrum analyzers, for instance would cost between $10,000 and $40,000 apiece, and you'd obviously need a lot of them for a nationwide network, although Microsoft suggests that they could be set up on an ad hoc basis and assigned to different areas for a specific time period. Those interested in the finer technical details can dive into Microsoft's full paper on the subject at the source link below.
+      
+
+ 

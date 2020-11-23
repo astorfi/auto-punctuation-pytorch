@@ -1,0 +1,4 @@
+
+Microsoft announced back at its Build developer conference that it was bringing Internet Explorer 11 to Windows 7, and it's already partially made good on that promise by letting developers get an early look. By now, though, the company's given the browser enough spit and polish that it's ready for public consumption: the Release Preview is now available for anybody to download. As you'd expect, Microsoft claims IE11 is the fastest desktop browser available, and that it's 30 percent quicker than the next-fastest browser (that would be Firefox, or at least that's what Microsoft says). Also, the Release Preview is apparently a bit speedier than the Developer Preview was back in June: Redmond says average SunSpider scores have dropped from 144ms to an even-better 137ms. At any rate, now that the browser's available, you're free to download it and benchmark it yourself, if that's what floats your boat.
+
+

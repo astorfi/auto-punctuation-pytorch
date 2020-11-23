@@ -1,0 +1,35 @@
+
+ 
+ Been quietly pining for Belkin's couch potato home automation solutions? Well, the wait is (almost) over, as the company has finally put its WeMo Switch and Motion products up for pre-order. You can reserve yours through Belkin or Amazon, with the Switch costing $49.99 and the Motion / Switch bundle setting you back a neat $99.99. Apple likes it enough to add the gear to its home-friendly repertoire in-store on the 26th, while other retailers, Verizon included, will be stocking them shortly afterwards. Rig the Switch up to your WiFi at home and you can control the flow of juice from its outlet via the WeMo iOS app (sorry, no Android love). Add in the motion detector and you can set rules for power control based on proximity triggers. Interestingly, Belkin also reports IFTTT integration, meaning the devices can be used for a lot more than the simple on / off remote commands and scheduling we originally thought. For those with iDevices, the free WeMo app is available now, not that it's particularly useful just yet. Need Mo? Check out the official PR and a promotional vid after the break.
+
+
+
+   Show full PR text   Belkin Announces Availability of WeMo
+  WeMo Controls Household Electronics from Anywhere through Wi-Fi® and Mobile App
+   PLAYA VISTA, Calif.--(BUSINESS WIRE)--Belkin today launched WeMo, a line of modular, Wi-Fi-based products that turn an iPhone, iPad, or iPod touch into a remote control for household devices. Consisting of two initial products, the WeMo Switch and the WeMo Motion, WeMo works with the free WeMo app to create a scalable, customizable home control system designed to provide added safety, convenience, and peace of mind.
+
+   "With these two simple devices and the free WeMo app, you can create a variety of tasks or recipes, and integration with IFTTT is just one more way to make WeMo yours"
+
+   "WeMo uses familiar technology to create a plug-and-play solution for controlling gadgets and appliances remotely," said Jamie Elgie, senior director of product management for Belkin. "Designed to address simple automation needs without the hassle or expense of whole home automation, WeMo is an easy and fun way to put your home at your fingertips."
+
+   The WeMo Switch is a small device that plugs directly into any electrical outlet and serves as the main building block for WeMo. Once the Switch is connected to the home Wi-Fi network, any device plugged into it can then be turned on or off from anywhere, whether at home or on the go with the WeMo app. The app also enables users to put devices on a timed schedule, so devices will turn on or off at pre-set times.
+
+   The WeMo Switch + Motion adds a sensor that reads motion within 10 feet and will turn on or off anything plugged into the switch based on motion. The WeMo app tells any device plugged into the corresponding WeMo Switch what to do when motion is sensed. The app also allows users to create rules or schedules based on customized intervals. For example, turning off a lamp if no motion is sensed in the room after 10 minutes.
+
+   WeMo also features integration with IFTTT, an online service that allows you to create tasks combining different Internet-based services from one platform. Through the WeMo channel on IFTTT, you can use a WeMo Switch or Motion to trigger a variety of services, including email, weather, phone calls, Twitter, Facebook, etc. For example, you can set up a motion sensor by your front door and use IFTTT to create a rule that will send a text message to your phone anytime motion is sensed.
+
+   "With these two simple devices and the free WeMo app, you can create a variety of tasks or recipes, and integration with IFTTT is just one more way to make WeMo yours," said Elgie. "With WeMo, your home is at your fingertips and there are endless possibilities of what you can create. We are looking forward to seeing what people come up with once WeMo hits the market."
+
+  WeMo Switch (F7C027fcAPL) – $49.99
+
+   A plug that becomes a programmable on and off switch for any household device  Operates over Wi-Fi and mobile Internet, at home and away  Creates schedules for devices to turn on or off  Can work in tandem with WeMo Motion, or as a stand-alone product  Requires free WeMo app  Works with an existing Wi-Fi network and any iOS devices (v5.0 or higher)  WeMo app is iOS only, not Android compatible  Modular system makes it easy to add additional WeMo devices
+
+  WeMo Switch + Motion (F5Z0340fcAPL) – $99.99
+
+   Detects movement, and devices plugged into the WeMo Motion can be programmed to react to motion  6-foot power cord and 10-foot, 120° motion sensitivity range allow for optimal placement of sensor  Operates over Wi-Fi and mobile Internet, at home and away  Requires free WeMo app  Works with an existing Wi-Fi network and any iOS devices (v5.0 or higher)  WeMo app is iOS only, not Android compatible  Modular system makes it easy to add additional WeMo devices  Motion sensor sold bundled with WeMo Switch, not available separately
+
+   Availability
+
+   The WeMo Switch and WeMo Switch + Motion will be available for pre-order starting today at Amazon.com and Belkin.com, at the Apple store on June 26th, and at Verizon Stores and other select retailers in the U.S. in the weeks to come. The free WeMo app is available now for download from the Apple App Store.
+
+ 

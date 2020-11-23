@@ -1,0 +1,6 @@
+
+  
+If you'll recall, the Bluetooth Special Interest Group already had plans laid out to speed up Bluetooth by teaming it up with UWB, but needless to say, that didn't exactly take the world by storm. Thankfully, it seems the crew is trying something else in an effort to speed up BT transfers, and judging by the ubiquity of WiFi, we reckon this endeavor has a much better chance at gaining traction. According to Michael Foley, director of the Bluetooth SIG, these so-called Bluetooth-WiFi (just a temporary name, folks) devices will "use the regular low-power Bluetooth radios to recognize each other and establish connections, and if they need to transfer a large file, they will be able to turn on their WiFi radios, then turn them off to save power after finishing the transfer." For whatever reason, Foley also noted that it wouldn't be letting the dream go with regard to Bluetooth-UWB -- we're sure consumers will adore the confusion.
+      
+
+ 

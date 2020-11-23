@@ -1,0 +1,6 @@
+
+ 
+What's a Game Developers Conference without some sweet new tools for developers to sink their teeth into? Khronos Group, the association behind OpenGL, has today announced the fourth generation of its cross-platform API spec, which takes up the mantle of offering a viable competitor to Microsoft's DirectX 11. The latest release includes two new shader stages for offloading geometry tessellation from the CPU to the GPU, as well as tighter integration with OpenCL to allow the graphics card to take up yet more duties off the typically overworked processor -- both useful additions in light of NVIDIA's newfound love affair with tessellation and supposed leaning toward general purpose GPU design in the Fermi chips coming this month. Lest you don't care that much about desktop gaming, OpenGL ES (Embedded Systems, a mobile offshoot of OpenGL) is the graphics standard on "virtually every shipping smart phone," meaning that whatever ripples start on the desktop front will be landing as waves on your next superphone. If that holds true, we can look forward to more involvement from our graphics chips beyond their usual 3D duties and into spheres we tend to care about -- such as video acceleration. Now you care, don't ya?
+      
+
+ 

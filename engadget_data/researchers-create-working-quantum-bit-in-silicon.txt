@@ -1,0 +1,6 @@
+
+ If you've been paying attention, you know the quantum computing revolution is coming -- and so far the world has a mini quantum network, not to mention the $10,000 D-Wave One, to show for it. Researchers from the University of Melbourne and University College, London, have now developed the "first working quantum bit based on a single atom of silicon." By measuring and manipulating the magnetic orientation, or spin, of an electron bound to a phosphorus atom embedded in a silicon chip, the scientists were able to both read and write information, forming a qubit, the basic unit of data for quantum computing.
+
+ The team used a silicon transistor, which detects the electron's spin and captures its energy when the spin's direction is "up." Once the electron is in the transistor, scientists can change its spin state any way they choose, effectively "writing" information and giving them control of the quantum bit. The next step will be combing two qubits into a logic step, with the ultimate goal being a full-fledged quantum computer capable of crunching numbers, cracking encryption codes and modeling molecules that would put even supercomputers to shame. But, you know, baby steps.
+
+

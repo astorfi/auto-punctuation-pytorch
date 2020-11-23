@@ -1,0 +1,13 @@
+
+ 
+
+LifeFitness may have taken one too many creative liberties with its Cyberbike Wii accessory, but it did a laudable job of redeeming itself at Google I/O this week. The outfit brought a USB-equipped exercise bike to the show floor, where an Open Accessory-enabled Nexus S promptly stole the show. We were shown a demo of the CardioQuest app interfacing with the cycle over the aforementioned protocol; the bike itself had a heretofore unreleased firmware update installed that allowed it to interact with the phone, and we're told that said update will be available free of charge to existing customers in the coming weeks.
+
+As was announced yesterday during the opening keynote, the Android Open Accessory API is currently only capable of handling communications over USB, but that didn't stop a clever game from keeping a booth representative mighty busy. The gist is pretty simple -- pedal harder to move the Android up, and relax your stride to see him float down. The goal is to avoid the surrounding walls, while also keeping your mind from focusing on the fact that you're actually burning calories. Mum's the word on whether or not this particular app will ever make it into the Android Market, but there's a video of the chaos waiting just after the break, regardless.
+
+
+
+
+
+ 
+ 

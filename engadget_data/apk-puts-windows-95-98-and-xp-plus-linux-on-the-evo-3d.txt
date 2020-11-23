@@ -1,0 +1,5 @@
+
+  And here you thought Microsoft bringing Windows 8 to ARM was big news. Turns out, a member of the xda-developers forum has managed to make an APK that puts a variety of Redmond's x86 operating systems on the HTC EVO 3D and its 1.2 GHz Qualcomm Snapdragon silicon -- Windows 95, 98, XP and even your favorite flavor of Linux are all available for the three dee-equipped handset. All you need to do is install the Bochs Pentium emulator APK and the OS disk image of your choice, modify a couple files, and you'll be doing yesteryear's desktop computing on a handheld in no time. Feeling nostalgic? Detailed instructions how to do it yourself and the necessary files can be found at the source link below, but all we want to know is: does it do the blue screen of death or the force close dance when things go awry?
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+The Unified EFI Forum is a trade group that includes Microsoft, Apple, Intel, and ARM. The goal? To develop and implement UEFI (Unified Extensible Firmware Interface). The specification replaces BIOS as the software interface between your computer's hardware and OS, doing away with several limitations of the BIOS firmware interface in the process. Unlike the old, dependable BIOS, however, UEFI comes with a flashy-mouse driven interface; and instead of being written in assembly, it's written in C -- which means that it needs more resources, although it's also a lot more flexible. According to an article on THINQ.co.uk, MSI will introduce the spec on Sandy Bridge motherboards "towards the end of this year." Also according to THINQ, Seagate has stated that UEFI is "an essential requirement" for PCs with boot drives larger than 2TB. That said, it doesn't look like the classic text-based firmware is disappearing any time soon: most existing motherboards simply don't have the overhead to support its flashy successor. Besides, manufacturers have spent too much time developing their own custom BIOS and hardware features to throw 'em away just yet.
+
+Update: Of course, this is but a brief introduction to the topic. Special thanks to Brian Richardson for pointing out this post at Intel that goes into much greater detail.
+ 
+
+
+ 

@@ -1,0 +1,16 @@
+
+
+One of the more common issues with using GPS is its line of sight requirements — if you're in an urban area with
+substantial skyline, indoors or elsewhere without a good line to the sky, you could be out of luck in the accurate
+coordinates department. The AlwaysOnGPS service is designed to bridge that gap in global positioning by automagically
+switching your WiFi enabled PocketPC or PDA over to a WiFi Positioning System, obviating those line of sight
+requirements. It's simply a piece of software and not a third-party service, so it's a one time licensing fee of $19.95
+to purchase the application; 30-day trial available, as well.
+
+
+ [Thanks, Emily]
+
+
+
+
+ 

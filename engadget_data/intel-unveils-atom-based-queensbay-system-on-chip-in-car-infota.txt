@@ -1,0 +1,5 @@
+
+ Can't get enough of Intel's Atom? Try the new Tunnel Creek system-on-chip flavor that the company has announced. It's part of the Queensbay platform, something of a Menlow successor that's better suited for MIDs and the like thanks to its greater RAM capacity (still only 1GB), PCIe bus (opening the door to Ion), and integrated gigabit LAN. All that with a consumption of just 5TDP leaves our friend Chippy from UMPC Portal to say the platform could be "the natural choice for simple, low-cost MIDs." As Intel ramps up for its Developer Forum the company is also touting its partnership with the Chinese auto manufacturer HawTai to produce a MeeGo-based infotainment system that, wait for it, also runs on Atom. And, finally, China Mobile is looking to rely on Intel chips for "targeted platforms powering its wireless networks" and to "provide our broadband wireless network the benefits of world class energy efficiency." Next up: Atom-based pacemakers, espresso machines, and puppy dogs.
+      
+
+ 

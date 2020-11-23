@@ -1,0 +1,8 @@
+
+ 
+Good news, mobile gamers -- NVIDIA's looking out for you and yours, and if you're tired of lobbying to Congress about the inequities between driver releases for desktop GPUs and driver releases for mobile GPUs, you can finally move on to some other just cause. NVIDIA's Verde driver program has been a relative success over the years, but it's about to become a lot more gnarly when the company outs its 256 Series drivers in a few months. At that time, NVIDIA plans to "completely unify its GPU drivers, so mobile and desktop users will be able to get the latest releases simultaneously." Users won't find the desktop and laptop drivers in the same package, but we're sure each one will be clearly marked on the download page. It's worth noting, however, that these unified releases will only work with laptops featuring discrete GPUs, hybrid solutions utilizing NVIDIA-branded IGPs and Optimus-enabled machines; rigs with multi-vendor solutions (like the Alienware M11x, which uses an integrated set from Intel) won't be allowed to join the party. 
+
+In related news, the upcoming release of the 197.16 driver for laptops will bring along support for external displays with 3D Vision, enabling 3D Vision-ready laptops to pipe 3D content to 3D Vision-ready LCDs with ease. Good news all around, but you'll have to give those links below a visit if you're hungry for more.
+      
+
+ 

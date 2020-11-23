@@ -1,0 +1,16 @@
+
+In the ongoing he said/she said saga surrounding Netflix streaming potentially being throttled, we've got a new, potentially volatile piece of information: The CEO of the company that provides Netflix's bandwidth (Cogent) straight up says that Verizon, Comcast and Time Warner are causing the issues. "Every internet user is suffering today in their ability to access all the applications, content and other users across the internet," Cogent CEO Dave Schaeffer told Ars Technica in a recent interview.
+
+
+Due to the consumer-based ISPs (Comcast, etc.) demanding money from Cogent for an already existing, free (though mutually beneficial) relationship, and Cogent refusing to pay, streaming internet (and all other bandwidth, for that matter) has suffered. Specifically, he claims, Verizon (and others) refuse to upgrade the equipment that handles ISP traffic across the country. "Once a port hits about 85 percent throughput, you're going to begin to start to drop packets. Clearly when a port is at 120 or 130 percent, the packet loss is material," he told Ars, in reference to the existing ports being overused.
+
+
+We'd advise taking his claims with a grain of salt: Verizon's demanding money that he doesn't want to give, and he's using the public forum to negotiate -- that much is clear, regardless of the streaming situation. That said, he's far from the first to make the claim of traffic issues surrounding Netflix streaming. For what it's worth, Verizon contests the claims: "It is categorically false that we are doing anything to adversely impact Netflix traffic to benefit Redbox." Meanwhile, those of us simply trying to marathon House of Cards' second season are left screaming at our TVs.
+
+
+Update: Muddying the waters further, Gigaom points out a post by App.net cofounder Bryan Berg which he says shows Netflix's content servers connecting directly to Comcast at the San Jose Equinix datacenter. The site's corroborated his claim with industry sources,one of whom called the connection a recent development. Neither Netflix or Comcast has responded to comment on the story, but if you're suddenly seeing Frank Underwood's evil exploits more clearly, there's a reason why.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

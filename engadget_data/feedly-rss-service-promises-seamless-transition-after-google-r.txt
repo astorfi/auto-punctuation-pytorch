@@ -1,0 +1,4 @@
+
+ If you (like many of us at Engadget) are in a state of shock facing the end of Google Reader this summer, there may be an easy replacement. RSS app/service Feedly posts on its blog that it has been anticipating the shutdown of Google's service for some time, and invested in building its own backend. Dubbed "Normandy" it is intended to be a clone of the Google API running on Google's own App Engine, set to swap in on July 1st when the service ends. Even better, in the comments Feedly states it will open the API for other 3rd party clients once everything is stable. The only bad news? If you're considering jumping onboard you're not the only one -- Feedly's servers are pretty crushed right now, so you know, just test the waters out some time in the next few months.
+
+

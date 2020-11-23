@@ -1,0 +1,12 @@
+
+Hey everyone, the government's tracking you. Quelle surprise. In what has to be one of the least shocking pieces of news to come from the Edward Snowden leaks, The Washington Post is reporting that the National Security Agency has been gathering surveillance data on foreign cellphone users' whereabouts globally, with some Americans potentially caught in the net. The database, which collects about 5 billion records per day, is so vast that not even the NSA has the proper tools to sift through it all. That's not to say the agency hasn't been able to make "good" use of it with analytics programs, though.
+
+
+One such program, ominously labeled Co-Traveler, allows the NSA to determine "behaviorally relevant relationships" based on data from signals intelligence activity designators (or sigads for short) located around the world, including one codenamed "Stormbrew." That's a lot of jargon for what are essentially data hubs that collect geolocation information down to the cell tower level. Co-Traveler can locate targets of interest based on cellphone users moving in tandem, even if they're unknown threats -- frequent meetups with an existing suspect could reveal a close associate, for instance.
+
+
+As we've come to expect by now, both the NSA and the Office of the Director for National Intelligence argue that this location-based surveillance is legal. Agency representatives tell the Post that the collection system doesn't purposefully track Americans. However, the NSA also says it can't determine how many US residents get swept up in these location scans; there are concerns that it's following targets protected by Fourth Amendment search rights.
+
+
+Jon Fingas contributed to this report.
+

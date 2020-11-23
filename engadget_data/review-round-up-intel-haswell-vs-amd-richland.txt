@@ -1,0 +1,42 @@
+
+See that slide above? When we first clapped eyes on it we couldn't help but wonder if Intel had finally managed to turn the tables on AMD, at least in terms of integrated desktop graphics. After all, running BioShock Infinite at 1080p is no easy task and Intel's claimed frame rate of 35 fps is actually 4 fps higher than what AMD claims for its flagship Richland processor in a similar test. But, as ever, things are more complicated than that. For a start, this particular marketing slide represents a very niche version of Haswell with a BGA socket, rather than the Core i7-4770K that a regular upgrader might purchase. Secondly, it's hardly fair to stack a Haswell chip that costs more than $300 up against an AMD APU that comes for $150. What we need are independent tests that allow us to weigh more factors, and fortunately, those are exactly the sorts of reviews we'll be rounding up after the break.
+
+
+
+General computing
+Richland is very much a mid-gen incremental upgrade based on clock speed and memory changes that deliver some improvement over Trinity, but which fail to fix AMD's generally lackluster performance in all-round computing. Bit.tech's multitasking test (running mplayer and 7-zip simultaneously) found just a 5 percent lift from the A10-6800K vs. the 5800K, and barely any difference when the chips were given a reasonable overclock. TechSpot found more of an improvement in encoding performance, with the 6800K beating the 5800K by around 15 percent.
+
+In a comparison with Intel, even an Ivy Bridge Core i3 will trounce an AMD APU in some key general computing tests and a Core i5 will pretty much always win out. Hardware.info found that the A10-6800K lagged more than 10 percent behind an Ivy Bridge Core i3 and around 70 percent behind an Ivy Bridge Core i5 in its Photoshop benchmark. PC Perspective ran a direct head-to-head between the 6800K and the $242 Haswell Core i5-4670K and found much the same pattern.
+
+You'd need one of AMD's eight-core FX chips to even get close to Intel on a computing task, but Haswell makes the gap wider than ever. Therefore, if you want serious compute, and if you're ready to pay for it, then Haswell is an even better option than Ivy Bridge was. Tom's Hardware's productivity tests showed a 7-13 percent gain between the Core i7-4770K and the Core i7-3770K, while an AMD FX-8350 fell short by the same proportion as its price difference -- i.e., around 50 percent less. Anandtech's review of the new unlocked Core i5 shows mainly single-digit gains against its Ivy Bridge equivalent, but they're still high enough to be worth having if you're coming from Sandy Bridge or an earlier generation.
+
+Integrated graphics
+Needless to say, hardcore PC users may be put off Richland from the get-go, but that still leaves many who just need to run Windows 8 as a gateway to surfing, gaming, HTPC tasks and basic apps. This is where pricing and integrated graphics come into play, but it's also where we find a gap in the reviews: the visuals on cheaper desktop Haswell chips (Intel's yet to announce new desktop Core i3 CPUs) just haven't been tested much so far, so we can't price match easily with AMD.
+
+
+That said, it almost doesn't matter, because all the mainstream Haswell chips with HD 4600 GPUs, including the Core i7-4770K, still lose out to AMD in terms of 3D performance. In fact, they lose out to the last-gen Trinity APU, let alone the latest A10-6800K. As Xbit Lab's benchmarks show, sometimes the deficit is drastic, as with the 40 percent advantage in Hitman: Absolution at 1,366 x 768; and other times it's smaller, but significant, as with Metro: Last Light, which is technically playable at 30 fps on Richland at 1,366 x 768 at medium quality, but only runs at 26 fps on the Core i7. Ultimately, neither processor can handle 1080p gaming, but that results in another default win for AMD, because the bargain price of Richland leaves room to buy a discrete graphics card.
+
+To see any really significant gains in Haswell graphics, you need to get one of the new Iris-branded GPUs, and particularly Iris Pro 5200 with embedded DRAM memory, which only comes on a few select SKUs. Anandtech reviewed graphical performance on the mobile-class 47W Haswell Core i7-4950HQ and found that it beat AMD in Metro: Last Light by up to 20 percent despite the difference in wattage, and it was way ahead of HD 4600. This is a super-expensive chip, judging by Intel's price list, with a bulk unit price of $657. It's a true next-gen Haswell product, no doubt destined to come in some exciting premium laptops and other form factors (perhaps from Apple?), but that just makes it even harder to compare it against a $150 AMD chip based on a 2012 architecture -- they're just utterly different products.
+
+Wrap-up
+Feeling a bit lost? Never fear; we can muddy the waters further by trying to sum everything up. Put simply, the PC desktop landscape has shifted, but in the short-term it remains largely the same. Sticking within the realm of regular affordable desktop chips up to around $320, the advice is still that you should get an Intel Core if you need fast compute and productivity, or get an AMD if you want to build out a small-form-factor or budget rig for HTPC or gaming use -- in which case you could get the APU and a discrete graphics card within the same budget to cope with 1080p.
+
+The shift, insofar as it's visible today, comes in the form of proof that Intel is able to deliver powerful integrated graphics. It can't do it cheaply or with standard-socket desktop chips yet, but it can do it, and Haswell chips with Iris Pro 5200 graphics are bound to pop up in some very desirable products in the future -- perhaps a MacBook Pro, or maybe some sort of living room device. Once those products come out, comparisons with AMD's existing APUs will be irrelevant: we'll be looking for comparisons with the next-gen Kaveri and with customized AMD products housed in the Xbox One and PlayStation 4. In other words, we're moving beyond the scope of this article, which is a good reason to bring it to a close. Check out the reviews below for a fuller picture:
+
+Read -- Tom's Hardware on the Intel Core i7-4770K
+
+Read -- Bit.tech on the Core i7-4770K
+
+Read -- Hardware.info on the AMD A10-6800K and 6700
+
+Read -- PC Perspective on the A10-6800K and 6700
+
+Read -- Xbit Labs on the A10-6800K
+
+Read -- Anandtech on Intel Iris Pro 5200
+
+Read -- Anandtech on Intel Core i7-4770K and Core i5-4670K
+
+Read -- The Tech Report on the Core i7-4770K and Core i7-4950HQ
+
+

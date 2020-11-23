@@ -1,0 +1,5 @@
+
+ For AV freaks enamored with their own HDTV and hardcore gamers who doubt anyone's ability to unleash more graphical firepower than that found in their rig, prepare to be humbled. As part of the HIPerSpace visualization system, engineers at the University of California, San Diego "have constructed the highest-resolution computer display in the world, with a screen resolution of up to 220 million pixels." The system, which links between UCSD and UC-Irvine (responsible for the mighty HiPerWall) via dedicated optical networking, contains a "graphics super cluster" that relies on 80 NVIDIA Quadro FX 5600 GPUs. Reportedly, scientists dealing with large-scale applications involving "Earth sciences, climate prediction, biomedical engineering, genomics, and brain imaging" will be able to make use of the newfangled setup in order to better digest the information they're dealing with. Sheesh, all we want is a solid day with this thing, infinite Doritos, and Halo 3.[Via MedGadget]
+      
+
+ 

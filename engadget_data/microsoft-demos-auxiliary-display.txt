@@ -1,0 +1,18 @@
+
+
+It won't start showing up in laptops until Longhorn debuts sometime around the end of next year (yup, yup), but
+Microsoft has been showing off that new Auxiliary Display
+technology they were hinting at earlier this year. We got check out a prototype for an ASUS laptop with Auxiliary
+Display, and we were definitely digging it. Even though the laptop was off you can use the Auxiliary Display to check
+your calendar, view emails, control Windows Media Player, stuff like that. Obviously programs have to be written to
+interface with the display, but the Microsofties we spoke with said that the API will be open to software developers,
+it just wasn't clear yet whether it would work with user-installable software apps or whether it'd have to be
+integrated by the manufacturer (we're gunning for them to make this totally hackable, natch). Apparently the display
+doesn't have to always be a 2-inch by 2-inch LCD, it's also possible to use different-sized LCDs or single line
+displays.
+
+
+
+
+
+ 

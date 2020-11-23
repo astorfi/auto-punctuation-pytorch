@@ -1,0 +1,5 @@
+
+ It's an utterly inevitable upgrade to Intel's ubiquitous integrated graphics mobile chipsets, but we're still pleased to hear that it's coming sooner rather than later. TG Daily has learned that Intel's upcoming GM965 Crestline chipset, the core of the "Santa Rosa" platform, is indeed DirectX 10 compatible. It was already a bit of a surprise that some integrated graphics chips could handle Vista's Aero, but DirectX 10 implies a level of performance that should considerably exceed what we've seen in integrated laptop graphics previously. Naturally, we're not expecting much in the way of Crysis-level accomplishments (pictured), but that game is only the most visible of what are sure to be many more DirectX 10 games and apps in the future. The most recent word is that the chipset should be making its debut in May, with four FSB800 processors in tow: the 1.8GHz T7100, 2.0GHz T7300, 2.2GHz T7500 and 2.4GHz T7600. A couple of low-voltage versions should show up soon after that.
+      
+
+ 

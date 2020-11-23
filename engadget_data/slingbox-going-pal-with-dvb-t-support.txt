@@ -1,0 +1,6 @@
+
+ 
+Oh, just in case you weren't following along super closely this last week, the SlingPlayer update we covered that has some expanded PAL support options? Yeah, looks like that corresponds to the new UK PAL SlingBox we were expecting at some point, which according to SlingBox manual version 1.1.0.153 (PDF) will include broadcast DVB-T support, and is apparently due any time now. We'd like to take this opportunity to complain about not having integrated ATSC in our SlingBoxes, but we know it won't do us a ton of good until we get some more channels digitally broadcast anyway -- so to Europe we tip our hats, and say congratulations on your new gadget.[Thanks, Dave]
+      
+
+ 

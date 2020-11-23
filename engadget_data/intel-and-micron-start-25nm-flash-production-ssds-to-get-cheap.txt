@@ -1,0 +1,6 @@
+
+ 
+Intel and Micron have a history of pushing the state-of-the-art in flash storage -- their joint venture IMFT was responsible for the first sub-40nm NAND flash and bringing it to production -- and it looks they've done it again: IMFT is now sampling two-bits-per-cell 25nm NAND, which will eventually push prices down and capacities up when volume production begins in Q2. We'll have to see how pricing works out -- 25nm is something like twice the storage density per dollar, so we're hopeful -- but at the very least Intel's third-gen X25-M will come in 160GB, 320GB, and 600GB sizes when it launches in Q4 using these new chips. Yeah, we're going to want one. AnandTech has the full breakdown, hit the read link for more.
+      
+
+ 

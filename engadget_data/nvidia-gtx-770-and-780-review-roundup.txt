@@ -1,0 +1,21 @@
+
+Now that we have the low-down on NVIDIA's two mainstream heavyweights, the GTX 770 and the GTX 780, we figure it's time to move beyond specs and official slide decks and bring together some reviews from the specialist sites. Both cards contain the same Kepler architecture as NVIDIA's 2012 line-up, with no huge leaps in evidence, but they either add more of this silicon (in the case of the GTX 780) or drive it harder (in the case of the GTX 770) in order create new options for enthusiasts and for those upgrading from a card that is two or more generations old. At the same time, these products represent a major shift in NVIDIA's pricing strategy. At $649, the GTX 780 is priced much higher than its direct ancestor, and it aims to approach Titan-level performance without hitting the same thousand-dollar high. Meanwhile, the GTX 770 costs just $399 and yet is said to replace last year's flagship cards like the GTX 680 and Radeon HD 7970 GHz Edition, which are still being sold for $450 and upwards at some retailers. Read on and we'll summarize how these claims have stacked up against reality.
+
+
+
+GeForce GTX 770Let's start with the GTX 770 since it's more a reasonable proposition and it just came out this morning. NVIDIA claimed in a product briefing that the card would edge out the GTX 680 by around five percent thanks to faster memory and higher clock speeds, and the reviews below have borne that out. Tom's Hardware actually saw a 5-10 percent boost in Borderlands 2 (90fps) and Battlefield 3 (54fps) at 2,560 x 1,440 and max detail settings, and a surprising 35 percent advantage in BioShock Infinite (51fps). HotHardware noted that NVIDIA's stock cooler was quieter and more efficient 2012 cards, which ought to raise the bar for third party vendors. Meanwhile, the GTX 770's lead over the Radeon HD 7970 was slightly smaller, testifying to the impact of AMD's mid-gen GHz upgrade and driver improvements, but the lead was there nonetheless -- and AMD's card is still generally more expensive. The upshot: if you already own one of the aforementioned 2012 cards, there's nothing to fret about, but if you're shopping for an upgrade then don't, whatever you do, buy a GTX 680 (unless you find an absolute bargain).
+
+Read -- Tom's Hardware
+Read -- Hot Hardware
+Read -- TechPowerUp
+Read -- TechSpot
+GeForce GTX 780As mentioned, this card's pricing and internals class it as a deliberately scaled-down Titan, rather than as an alternative to more mainstream offerings. NVIDIA's notion is that non-obsessives will be drawn to the idea of making a large dollar saving in return for a small performance sacrifice relative to the best. And again, the marketing promise holds true in independent benchmarks. Anandtech found that the 780 delivers "90 percent of the Titan's gaming performance for 65 percent of the price." Plus, with a bit of overclocking it was "easy to exceed" the performance of a stock Titan and achieve frame rates beyond 60fps even in games like Total War: Shogun 2 at 2,560 x 1,440 and Ultra settings. Legit Reviews tested triple monitor performance and found a mere 9 percent reduction in fps relative to the Titan -- sufficient to achieve 43fps in BioShock Infinite playing at 5,760 x 1,080 and Ultra settings.
+
+Read -- Anandtech (and with overclocking)
+
+Read -- Legit Reviews
+Read -- Hexus
+Read -- Guru3D
+All in all, you can't escape the feeling that NVIDIA has rehashed and rebadged its existing architecture in order to capitalize on the strength of Kepler (and especially its power efficiency) and mold the market in the way it wants. Then again, the company hasn't tried to hide any of this -- it's been open about where it's simply added or substracted transistors, or tweaked the memory configuration, and it's also been made clear that those who upgrade from an existing Kepler card may not see a huge difference. As for the claims the company has made about these two cards, however, it's evidently able to live up to them.
+
+

@@ -1,0 +1,19 @@
+
+ 
+So, in February IBM's Watson will be in an official Jeopardy tournament-style competition with titans of trivia Ken Jennings and Brad Rutter. That competition will be taped starting tomorrow, but hopefully we'll get to know if a computer really can take down the greatest Jeopardy players of all time in "real time" as the show airs. It will be a historic event on par with Deep Blue vs. Garry Kasparov, and we'll absolutely be glued to our seats. Today IBM and Jeopardy offered a quick teaser of that match, with the three contestants knocking out three categories at lightning speed. Not a single question was answered wrongly, and at the end of the match Watson, who answers questions with a cold computer voice, telegraphing his certainty with simple color changes on his "avatar," was ahead with $4,400, Ken had $3,400, and Brad had $1,200. 
+
+Alright, a "win" for silicon for now, but without any Double Jeopardy or Final Jeopardy it's hard to tell how well Watson will do in a real match. What's clear is that he isn't dumb, and it seems like the best chance the humans will have will be buzzing in before Watson can run through his roughly three second decision process and activate his buzzer mechanically. An extra plus for the audience is a graphic that shows the three answers Watson has rated as most likely to be correct, and how certain he is of the answer he selects -- we don't know if that will make it into the actual TV version, but we certainly hope so. It's always nice to know the thought processes of your destroyer. Stand by for video of the match, along with an interview with David Gondek, an engineer on the project.
+
+Update: Video of the match is up, check it out after the break!
+
+Update 2: And we have the interview as well, along with a bit more on how Watson actually works.
+
+
+
+
+
+While Watson's ability to understand questions, buzz in, and give a correct answer might seem very human-like, the actual tech behind Watson (dubbed "DeepQA" by IBM) is very computer-ey. Watson has thousands of algorithms it runs on the questions it gets, both for comprehension and for answer formulation. The thing is, instead of running these sequentially and passing along results, Watson runs them all simultaneously and compares all the myriad results at the end, matching up a potential meaning for the question with a potential answer to the question. The algorithms are backed up by vast databases, though there's no active connection to the internet -- that seems like it would be cheating, in Jeopardy terms.Much of the brute force of the IBM approach (and why it requires a supercomputer to run) is comparing the natural language of the questions against vast stores of literature and other info it has in its database to get a better idea of context -- it has a dictionary, but dictionary definitions of words don't go very far in Jeopardy or in regular human conversation. Watson learns over time which algorithms to trust in which situation (is this a geography question or a cute pun?), and presents its answers with a confidence level attached -- if the confidence in an answer is high enough, it buzzes in and wins Trebek Dollars.
+
+       
+
+ 

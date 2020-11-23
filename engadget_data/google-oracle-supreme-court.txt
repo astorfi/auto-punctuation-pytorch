@@ -1,0 +1,14 @@
+
+Google and Oracle are still arguing over code at the foundation of Google's mobile operating system, Android. Google this week filed a petition with the United States Supreme Court, which appealed a lower court's ruling that Oracle can legally copyright foundational code. The decisions have gone back and forth over the course of the last four years: First a judge in California ruled in favor of Google; then an appeals court ruled in favor of Oracle; and now Google's pushing for the Supreme Court to get involved.
+
+
+But what are the two internet giants even arguing about? At the heart of Android are a set of Java APIs that Oracle is claiming aren't available for commercial use without a licensing fee (approximately $1 billion). Google argues that the API code is functional -- not a "creative work" -- and therefore isn't copyrightable. The case is, of course, far more complex than our explanation, but that's the big picture (our own Chris Velazco goes into far more background detail right here).
+
+
+
+Will the Supreme Court get involved? That remains to be seen. The two previous courts took vastly different perspectives on the case, and the case's ultimate outcome is precedent-setting. Should Oracle win, the door is potentially open for many more copyright claims on API code. One piece of Google's argument is that, had API code been copyrightable when Google started, the company wouldn't have succeeded. Essentially, Google argues that if the foundational pieces of computing technology were locked away behind licensing agreements, innovation wouldn't be quite so rapid.
+
+Should the Supreme Court choose not to see the case, there's not a lot Google can do. We could find out as early as November whether the Supreme Court will see the case or not. If it does, expect to hear a lot more from Oracle v. Google in 2015.
+
+[Image credit: Getty Images/Flickr RF]
+

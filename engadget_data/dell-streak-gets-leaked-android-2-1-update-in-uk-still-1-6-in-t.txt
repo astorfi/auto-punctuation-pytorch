@@ -1,0 +1,12 @@
+
+ 
+What is there to do on a cloudy Friday in Britain? Why, scouring the web for your phone's firmware update, of course. That's probably how a MoDaCo member unearthed the Dell Streak's latest Android 2.1 build (apparently just for locked O2 devices), anyway. Sure, the link's quirky domain name and sluggish speed may arouse some suspicion, but our sources have confirmed that this non-final update is indeed coming from Dell (and you can expect the link to be killed soon). Many users -- including ourselves -- are reporting a successful update and enjoying the same goodies we spotted in our preview: 720p camcorder, a much improved keyboard, live wallpapers, etc. Fancy giving it a shot? Here's how: copy the .pkg file to the SD card, rename it to "Update.pkg," then boot the Streak into recovery mode (hold down both volume keys and then power on), and finally choose to recover from said file (your phone will be wiped!). Of course, as with any firmware updates, make sure you have some sort of backup somewhere and tread carefully.
+
+In other news: as promised, Dell's AT&T Streak ordering page went live today, and yes, it'll still be shipped with Android 1.6. Looks like xda-developers and MoDaCo are well on course to beat Dell on releasing a 2.1 or even a 2.2 update.
+
+[Thanks to everyone who sent this in]
+
+Update: Looks like someone's managed to get this firmware working on an officially unlocked Streak. Again, do it at your own risk. And if all fails, you can try going back to the 1.6 firmware.
+      
+
+ 

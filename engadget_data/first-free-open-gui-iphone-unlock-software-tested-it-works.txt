@@ -1,0 +1,6 @@
+
+ 
+Erica Sadun of our sister site TUAW has already upped the ante by throwing in a basic GUI frontend to the first free, open source iPhone SIM unlock software. We've already got an early beta build of the graphical one-click iPhone-based software (sorry folks, it's not quite ready for release yet) and can confirm that despite the visual glitches you see above, it's already a fully functional one-click unlock solution, not too different from IPSF's paid unlock software. Unfortunately, you still have to actually get the app onto the phone and go through the faux-activation process with your SIM afterward (and re-enable YouTube, if you so choose), but this is the first major step in automating the process of quickly and easily unlocking everybody's iPhone. More information as we get it.Update: Partly edited to give proper credit to the proper developer of the GUI app, Erica Sadun; HaRRo, who supplied us with the above, glitched build, apparently based his version off of Erica's front end, but failed to credit her with creation of the app.
+      
+
+ 

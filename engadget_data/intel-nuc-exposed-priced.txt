@@ -1,0 +1,6 @@
+
+ Intel's Next Unit of Computing (NUC) is just about ready for store shelves, and Anandtech managed to get their hands on the DC3217BY model to provide us an early inside look at the mini-PC. Clearly aimed at enthusiasts, the motherboard and 4 x 4-inch chassis are all you get out of the box; you'll have to get the memory, the mini PCIe cards and even the power cord separately. Luckily installation looks quite easy -- only four screws hold the chassis and motherboard together. The bottom mini PCIe slot accommodates half height cards (for WiFi, presumably) and you can go ahead and put an mSATA drive or full height card at the top.
+
+ As we saw in our IDF hands-on, the NUC holds a Core i3 CPU, HD 4000 graphics, two SoDIMM sockets, mSATA and mini-PCIe interfaces, one to two HDMI and three USB 2.0 connectors. The DC3217BY eschews Gigabit Ethernet (which is available on the DC3217IYE) in favor of a Thunderbolt port. While we initially thought the NUC would go for somewhere around $400, it turns out it'll cost $300 to $320 and will be available from Amazon and Newegg in early December. If you're considering getting one for yourself, we recommend taking a peek at the source to get a more intimate look.
+
+

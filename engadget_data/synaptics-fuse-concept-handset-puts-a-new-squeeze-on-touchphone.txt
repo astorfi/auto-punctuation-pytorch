@@ -1,0 +1,9 @@
+
+ 
+In case you weren't aware, Synaptics dabbled in the touchscreen handset game way back in 2006 with the Onyx concept, before phones like the LG Prada and Apple's iPhone came along and proved the idea so convincingly. However, Synaptics thinks innovation has stagnated since, and has girded itself once again to attempt another trend-setting concept. This one's a bit more wild: the "Fuse" involves contributions from Alloy, TAT, Immersion and Texas Instruments, and includes squeeze, tilt and haptic interaction. The big idea is to approach single-handed and no-look operation on a touchscreen handset, no small feat to be sure. The result is a pure kitchen sink of sensors, including a touchpad on the back of the phone, touch and pressure sensitive strips along both sides of the phones, dual haptic feedback motors, a 3-axis accelerometer and of course a new-generation Synaptics touchscreen in front. The TI OMAP 3630 processor powers the TAT Cascades 3D UI Engine which attempts to contextualize UI interaction with perspective tilts and fancy motion, and the haptics feeds back to let you know where your finger is on the screen -- an attempt to emulate feeling out the correct nub for keypad orientation on a button phone. We'll have to play with it to find out if Synaptics is really on to something, but even if the Fuse isn't the next best thing, we could certainly see somebody using some of these sensors to improve existing handset interaction. Check out a quick video after the break.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,11 @@
+
+
+Look, we're not denying a pen can be a useful thing to have on a tablet. The problem is, it can be difficult to explain why you'd want one. You could circle things. You could doodle, if you had nothing better to do. You could obviously write stuff too, though you'd need to have open some sort of software that supports pen input. With a forthcoming app from Lenovo, though, you might be using your pen a little more often. The program, called WriteIt, taps into Win 8's accessibility layer, allowing you to enter handwriting in any text field, whether it be the built-in Windows search tool or the search bar on Engadget.com. Heck, you don't even have to color inside the lines, so to speak; it's OK if your handwriting extends beyond the boundaries of the text box. So long as your jottings at least begin in the box, WriteIt will use optical character recognition to decipher your handwriting, and serve up a list of suggested words you can tap.
+
+
+
+
+
+In a brief demo, I found the app worked accurately -- most of the time. As you'll see in the short demo video below, WriteIt had no problem understanding that we wanted to pull up the Mail app from the Charms bar, or that we wanted to write "Dear John" in a draft message. It could even parse more complicated phrases, like when I did a Google search for "Lenovo Yoga review Engadget." (It helps that search engines like Google are already good at compensating for typos.) Then again, when I searched for "Lenovo," WriteIt suggested "Lernout" on my first try. Clearly, then, there are some kinks to be worked out, but they also seem like issues that are fairly fixable. The app won't make its debut until this spring, at which point it will come installed on Lenovo's more business-oriented tablets (I saw the app demoed on a Helix 2 hybrid, for instance). Until then, if you've got a minute to spare, I suggest you check out the quick video below for a better sense of how it works.
+
+

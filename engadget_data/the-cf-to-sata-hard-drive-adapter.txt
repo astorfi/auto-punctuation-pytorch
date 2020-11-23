@@ -1,0 +1,6 @@
+
+ 
+While we've already seen that a four-barrel SD-to-SSD adapter will run you a stiff $258.50 sans flash cards, users who can't seem to find a good use for those CompactFlash cards that used to rule to roost in your recently replaced Nikon D70 finally have a solution. The much more reasonable CF-to-SATA hard drive adapter simply takes any CompactFlash I/II card and snaps it into the 2.5-inch SATA HDD slot on the bottom of most lappies. The device then allows the CF card to be recognized as an "ordinary hard drive" which can even be "configured as a boot device" without any additional drivers. Moreover, it supports DMA and Ultra DMA modes, and is said play nice with just about every flavor of Windows dating back to 3.1, Linux, and OS X operating systems. The best bit, however, is the attainable price, as we could certainly see ourselves forking over $35.99 just to see how a CF boot drive would really effect performance.
+      
+
+ 

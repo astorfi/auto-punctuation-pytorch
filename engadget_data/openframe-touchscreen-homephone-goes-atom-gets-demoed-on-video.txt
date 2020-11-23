@@ -1,0 +1,6 @@
+
+ 
+We first saw OpenPeak's OpenFrame home phone at CES, where it was sporting various FreeScale and ARM chips under the hood, but it looks like things have changed in development -- the company has been showing off production-ready units built on Atom chips at IDF. OpenPeak says that the ease of building for IA32 sped up development completely, and that only a fraction of the CPU is being used, giving the product room to grow -- probably a good thing, seeing as it supports open application development, rich services, and syncs with your PC and cell phone contacts and calendars. Of course, that still doesn't change the fact that it's a landline phone, and we're just not certain consumers are really clamoring for a $200 to $300 landline phone -- even it does rock a distinctly familiar touch interface. Anyone going to take the plunge when this thing hits in the first quarter of next year?  Read - Wired article Read - Video shown at IDF
+      
+
+ 

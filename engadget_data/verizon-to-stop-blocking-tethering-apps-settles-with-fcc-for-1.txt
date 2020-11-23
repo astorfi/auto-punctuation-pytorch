@@ -1,0 +1,35 @@
+
+ 
+ In May of last year, our free ride came to an end. US carriers started blocking third party tethering apps in the Android Market. Not long after, the built in feature was turned off on most phones. Our fortune may be reversing, however. The FCC has ruled that Verizon violated the rules governing the C Block of LTE spectrum by preventing consumers from using any application of their choice. The end result: Big Red will have to open up its airwaves and allow customers to circumvent its $20 a month tethering plan using apps from the Play store -- so long as you're on a "usage-based pricing plan." Though it's not explicitly stated, we assume that means those of you lucky enough to be grandfathered in to the unlimited data plans are left out. In addition to unblocking apps such as PdaNet and Barnacle, Verizon must pay a $1.25 million settlement to put an end to the investigation. For a few more details of the plan put in place to ensure compliance with the ruling, check out the PR after the break.
+
+
+
+  Show full PR text   VERIZON WIRELESS TO PAY $1.25 MILLION TO SETTLE INVESTIGATION INTO BLOCKING OF CONSUMERS' ACCESS TO CERTAIN MOBILE BROADBAND APPLICATIONS
+   Washington, D.C. – Today the FCC's Enforcement Bureau released a $1.25 million consent decree with Verizon Wireless that resolves an investigation into whether the company had fully complied with the FCC's "C Block rules," requiring licensees of C Block spectrum to allow customers to freely use the devices and applications of their choosing.
+
+   FCC Chairman Julius Genachowski said "Today's action demonstrates that compliance with FCC obligations is not optional. The open device and application obligations were core conditions when Verizon purchased the C-block spectrum. The massive innovation and investment fueled by the Internet have been driven by consumer choice in both devices and applications. The steps taken today will not only protect consumer choice, but defend certainty for innovators to continue to deliver new services and apps without fear of being blocked."
+
+    Verizon Wireless offers customers its 4G LTE service on C Block spectrum. Verizon Wireless bid at auction to acquire that spectrum, understanding that it was accompanied by open device and application obligations. Specifically, licensees offering service on C Block spectrum "shall not deny, limit, or restrict the ability of their customers to use the devices and applications of their choice on the licensee's C Block network," subject to narrow exceptions.
+
+   P. Michele Ellison, Enforcement Bureau Chief, said "This case was the first of its kind in enforcing the pro-consumer open access obligations of the C Block rules. It underscores the agency's commitment to guarantee consumers the benefits of an open wireless broadband platform by providing greater consumer choice and fostering innovation."
+
+   The Bureau launched an investigation after reports suggested that Verizon Wireless had successfully requested that a major application store operator block Verizon's customers from accessing tethering applications from its online market. ("Tethering" is using a wireless phone as a modem to obtain Internet access for another device, such as a laptop computer or tablet.)
+
+   The Commission also received an informal complaint alleging that Verizon Wireless had violated the FCC's C Block rules by making such a request. At that time, Verizon Wireless's terms of service required all customers who wanted to use their phones for tethering to subscribe to the company's Mobile Broadband Connect service, at an additional charge. In response, Verizon Wireless stated that the additional fee reflected the fact that customers who tether laptops or other devices have the capability to use more data capacity than others. At the time of that response, however, Verizon Wireless required not only unlimited data plan customers, but also customers who paid for data on a usage basis, to pay the  additional fee. Verizon Wireless asserted that third-party tethering applications could enable its customers to tether without paying an additional fee.
+
+   Under the terms of today's settlement, Verizon Wireless will make a voluntary payment to the Treasury in the amount of $1.25 million, and has committed to notifying the application store operator that it no longer objects to the availability of the tethering applications to C-Block network customers in the operator's online market. Verizon Wireless has also agreed to implement a compliance plan, requiring that:
+
+   · employees will receive training on compliance with the C Block rules;
+
+   · future communications with application store operators regarding the availability of applications to Verizon Wireless customers will be reviewed in advance by legal counsel; and
+
+   · Verizon will report any instances of noncompliance with the rule at issue that might occur during the two-year term of the plan.
+
+   In addition, the company recently revised its service offerings such that consumers on usage-based pricing plans may tether, using any application, without paying an additional fee.
+
+   -FCC-  For news and information about the FCC, please visit: www.fcc.gov
+
+ 
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

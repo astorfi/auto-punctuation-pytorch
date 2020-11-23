@@ -1,0 +1,7 @@
+
+Tonight's fun NSA revelation comes courtesy of the New York Times, reporting on an agency program to access and alter data on computers that aren't connected to the internet. Cherry picked from the NSA's tool kit of developments -- often used to bug equipment before it reaches the intended destination -- the technology described relies on a circuit board or USB device (called Cottonmouth I) installed on a PC that communicates wirelessly with a base station nearby. The base station itself has already been described by security expert Jacob Appelbaum; codenamed Nightstand, it's capable of hacking WiFi networks from up to eight miles away and retrieving or inserting data as necessary.
+
+
+The programs described are not exactly up to date, and the NYT's experts suggest recent developments are focused on making the US less dependent on physical access to do its hacking. Like the Dropoutjeep software created to attack iPhones, we're told these techniques are designed for use in places like Iran and China. Still, with an estimated 100,000 or so installations it probably wouldn't hurt to give your USB ports and internal expansion slots a once-over just in case.
+
+

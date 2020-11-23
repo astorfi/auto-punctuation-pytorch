@@ -1,0 +1,11 @@
+
+ 
+Guess we don't have to wait until MIX to have all our Windows Phone 7 Series questions answered! Microsoft's Eric Rudder, speaking at TechEd Middle East, showed off a game developed in Visual Studio as a singular project (with 90% shared code) that plays on Windows with a keyboard, a Windows Phone 7 Series prototype device with accelerometer and touch controls, and the Xbox 360 with the Xbox gamepad. Interestingly, not only is the development cross-platform friendly, but the game itself (a simple Indiana Jones platformer was demoed) saves its place and lets you resume from that spot on whichever platform you happen to pick up. Pretty impressive stuff, and while the words "Windows Phone 7 Series" weren't spoken by Eric, the use of the prototype ASUS device and the clear emphasis that this would place on Xbox Live for making the magic happen make it obvious that this is the "wave of the future" for all three platforms -- at least for casual gaming. Check out the demo on video below the fold.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

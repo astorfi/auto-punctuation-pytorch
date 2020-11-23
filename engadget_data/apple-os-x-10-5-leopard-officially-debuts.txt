@@ -1,0 +1,19 @@
+
+ 
+We came for the Mac Pro, but we're staying for Leopard, Apple's long awaited followup to OS X 10.4, released April of last year. Apple is promising a spring '07 release, and with all of those playground-style put downs of Vista they've been throwing around at WWDC, we don't think a targeted similarity in launch times is out of the question.Leopard will feature the new and/or improved:
+
+64-bit Cocoa and Carbon application support, right beside 32-bit apps, all native.
+Time Machine - Automatically backs up every version of your files to a hard drive or server. Includes snazzy 3D Time Machine view (pictured) to browse through older versions of folders.
+Boot Camp - "Even better." Ships with Leopard.
+Photo Booth - With expanded camera support.
+Spaces - Apple's term for virtual desktops. Allows you to group different applications together in their own environment for different tasks, and allows movement of windows between "spaces."
+Spotlight - Can search other machines over a network. Boolean operations, application launching, and recent items will also be added to the search tool.
+Core Animation - Developer architecture to create moving eye candy with little code.
+Universal Access - VoiceOver enhancements, Braille support, closed captioning and improved navigation.
+Mail - Stationary (templates), Notes (specially highlighted self-sent emails) and To-Do lists all built in.
+Dashboard - New Dashcode tool allows visual template-based Widget development. There's also a new Web Clip app that takes any part of a web page and turns it into a Widget.
+iChat - Allows multiple logins, invisible mode, animated buddy icons, video recording and tabbed chats (hooray.) There's also photo booth effects, iChat Theater (slideshows, Keynote presentations and videos displayed over video chat), and photo/video backdrops.
+Enhanced Parental Controls
+Xcode 3
+
+ 

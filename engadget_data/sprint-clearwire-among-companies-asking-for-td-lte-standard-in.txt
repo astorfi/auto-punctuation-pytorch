@@ -1,0 +1,5 @@
+
+ Clearwire has made it crystal clear that it isn't taking a "WiMAX or die" approach to 4G -- and frankly, it couldn't afford to, considering that the infrastructure suppliers and hardware manufacturers could easily continue their trend toward shunning the next-gen underdog. What's interesting, though, is that the company now appears to be taking a very active role in developing an LTE-based standard that could supplant WiMAX in its 2.6GHz spectrum should the need arise. Along with Motorola, Huawei, ZTE, Cisco, Nokia Siemens, Alcatel-Lucent, and -- surprise, surprise -- Clearwire partner Sprint, the company is asking the 3GPP to define a standard for running TD-LTE in the 2.6GHz slot. Unlike the more commonly-used FD-LTE -- the standard Verizon is using, among others -- TD-LTE operates unpaired, meaning it can operate in slimmer chunks of spectrum than its counterpart. Asking for a standard is clearly a far cry from actually building out a network, but it's interesting to note that Clearwire and Sprint alike both have their eyes firmly fixed on an LTE-based technology if the WiMAX industry packs it in.
+      
+
+ 

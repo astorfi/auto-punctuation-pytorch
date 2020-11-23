@@ -1,0 +1,15 @@
+
+Yesterday, Samsung released a developer kit that shows it's planning on releasing a version of its open-sourced Tizen platform to run on smart TVs, not just wearables and smartphones. At the Tizen Developer Conference in San Francisco yesterday, the company unveiled its first ever Tizen TV prototype to show off exactly that. Installed on what appears to be a Samsung TV with a curved screen, Tizen's smart TV interface is still in its early development stages, so it's entirely possible that the interface on display at the conference might not make it to the final version. Yet, it's a good indicator of Tizen's potential, so naturally we had to take a closer look.
+
+
+
+
+
+On the left of the Tizen's smart TV home screen is a "Home Bar" navigation menu that lists top-level items such as Live TV, Photo & Video, Music, Apps and Source. To the right is a "Dynamic Bar" that changes depending on what section you're in. The Music tab will reveal a list of albums, while Live TV would show current TV listings, for example. When asked how media would be loaded onto the television, a Samsung spokesperson said you'd transfer the files over USB. The Tizen OS also theoretically supports media streaming, but there's not yet an app that can demonstrate that. You could also store those files and apps on the cloud thanks to a new Tizen online storage system called CloudBox.Navigating through the different menu selections can either be done with a standard remote control or one that's more like a wand, allowing you to move a cursor around like you would a mouse. What's unique about the Tizen platform, however, is that you're also able to use a Web-based remote with your phone without having to really pair the two. All you have to do is head to a particular URL on your phone's web browser (either by typing it in or scanning a QR code) and you'll immediately see buttons that correspond to the TV's channel and volume controls. You're also able to key in words via a wireless keyboard interface, which is far preferable to entering text with the remote control and an on-screen keyboard.
+
+
+There wasn't much in the way of apps, which is understandable considering how new the system is. Still, we did see a web browser as well as a dedicated YouTube application. The browser seemed rather zippy and smooth for the few minutes we saw it demonstrated, but of course it's hard to really judge its performance in such a short time period. Samsung's Executive Vice President Jong-Deok Choi said on stage that Tizen's smart TV platform is designed to be very Web-friendly. Indeed, it's apparently able to run web apps that are written in standards such as HTML 5 and Javascript, which opens the doors for all sorts of applications and programs to enter the smart TV space.
+
+As Tizen is an open platform, Samsung tells us that other TV manufacturers would be able to adopt it as well. There's currently no concrete date for a Tizen-based smart TV from the likes of Samsung, though Choi did hint on stage that a Tizen-based smart TV could be coming to the market "very soon."
+
+

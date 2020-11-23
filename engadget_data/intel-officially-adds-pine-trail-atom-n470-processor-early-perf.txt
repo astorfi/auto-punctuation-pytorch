@@ -1,0 +1,6 @@
+
+       
+Intel introduced the new Atom N470 netbook CPU back in September and then Lenovo showed off its S10-3t with the new processor at CES, but chipzilla's taking the time today to give its newest Pine Trail CPU a proper unveil. The 1.83GHz N470 joins the 1.66GHz N450 as an option for netbooks, and like the rest of the Pineview integrates the GMA 3150 graphics controller on the same chip and supports hyperthreading. According to Intel, the major OEMs are expected to introduce new netbooks based on this processor soon, but if our experience with the Lenovo IdeaPad S10-3t is any glimpse into the "performance boost" of this processor we're not sure there's anything to wait for. Our full review of the S10-3t netvertible is almost done cooking, but we can tell you right now the system didn't feel faster in use even with its 2GB of RAM, and on PCMark05 it scored in the same range as other N450 netbooks. While the slightly faster clock speed may be a nice bragging right, at the end of the day Atom N470-based netbooks are still, well, netbooks.
+      
+
+ 

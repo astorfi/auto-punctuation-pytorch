@@ -1,0 +1,22 @@
+
+Despite contrary reports, Oculus CEO Brendan Iribe says that only one version of his company's consumer-ready virtual reality gaming headset is planned for launch. "We will be delivering a single Oculus Rift," Iribe tells Engadget. After giving a keynote during GamesBeat 2013 this week, it was widely reported (based on this VentureBeat piece) that two versions of the consumer Oculus Rift are being prepared for launch: one PC version, one Android. That is not the case according to Oculus. "We will be delivering a single Oculus Rift which is a tether to multiple different devices," Iribe says. The device is able to tether to a variety of laptop/desktop OSes (Windows/Mac/Linux), "and now we're looking to also support tethering to a mobile device."
+
+
+At launch, Android support is slim -- not exactly a surprise considering the horsepower required to run VR -- but Iribe promises it won't require next-gen, Kepler-grade mobile GPUs. "I don't think it's going to require that full Kepler capability. I think we'll be able to deliver on an even earlier chipset than that." He says that newly hired CTO John Carmack is producing impressive results already on existing mobile hardware. "I think people will be pretty surprised with what set of devices we're able to make this work on. We are focused on just a few right now, basically just to stay focused so that we can deliver a great experience on a couple devices first. Then over time we'll have that span out," Iribe says.
+
+
+Of course, he won't say what devices those are just yet, but we'd bet they'll be of the Snapdragon 800 variety -- something powerful. The company never specifies "mobile" as tablets or phones, and Iribe didn't say during our interview. When we followed up, the official company line is this: "We're testing the latest Android phones, tablets and gaming devices to see what delivers the best VR experience." Devs have yet to receive the Android SDK from Oculus; Iribe admits it's "taking a little bit longer," but he promises it's for the best. "When we do release it, and we say it works with this set of devices, and here is the SDK, and here are the demos and samples...when people try them they're blown away with how well they work. It's coming soon, but not ready to release a date."
+
+
+
+As for Carmack's vision of a standalone, Android-powered, wireless VR headset, that's longer term. "Right now, on our roadmap for V1, we are still focused on a PC-based product with Android compatibility as well. But a tethered product," Iribe says. "That's why we're optimizing for Android, but the Oculus Rift will have a cable that goes down to another device which provides the CPU/GPU computing -- whether that's a laptop, a desktop, or potentially a mobile device, that's always been our focus for V1, that continues to be our focus for V1." Beyond that, however, is where things get really interesting.
+
+"We definitely all have the same, shared longer-term vision of having the headset be capable of running standalone with the option of plugging into an external computing device with a wire -- maybe it's even just a cell phone in your pocket --to get extra computing," he tells us, sounding more excited by the second. Echoing Carmack and Rift creator Palmer Luckey before him, Iribe describes the future he sees for VR:
+
+"That's exciting! And what we're really excited about is you'll have this mobile, semi-untethered experience. And then you will be able to tether it to a PC to get that highest fidelity. And there'll be this incredible ecosystem of both PC content and mobile content. And there's gonna be a lot of great experiences on both."
+
+There is still no release date for the consumer version of the Oculus Rift headset beyond "2014," though we expect it won't be too long before we know more.
+
+[Image credit: Michael Clinard]
+
+

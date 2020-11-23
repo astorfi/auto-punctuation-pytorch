@@ -1,0 +1,6 @@
+
+ 
+A day earlier than expected, Microsoft has launched its third edition of Silverlight and its SDK. As Ars Technica notes, some of the bigger improvements on the user side are GPU hardware acceleration and new codec support including H.264, AAC, and MPEG-4. If you're looking to give it a spin, there's a Smooth Streaming demo available that, as the name suggests, does a pretty good job of streaming HD video with little stutter, even when skipping around. If you've got Firefox 2, Internet Explorer 6, Safari 3 or anything fresher, hit up the read link to get the update.[Via Ars Technica]Read - Download PageRead - Smooth Streaming demo
+      
+
+ 

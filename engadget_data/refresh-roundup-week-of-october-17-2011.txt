@@ -1,0 +1,68 @@
+
+ 
+
+Your smartphone and / or tablet is just begging to get updated. From time to time, these mobile devices are blessed with maintenance refreshes, bug fixes, custom ROMs and anything in between, and so many of them are floating around that it's easy for a sizable chunk to get lost in the mix. To make sure they don't escape without notice, we've gathered every possible update, hack, and other miscellaneous tomfoolery from the last week and crammed them into one convenient roundup. If you find something available for your device, please give us a shout attips at engadget dawt comand let us know. Enjoy!
+
+Official Android updates
+
+
+		Given up on the HTC Thunderbolt's mystical Gingerbread update? HTC's still insisting that it's on its way, despite multiple delays. This time, however, the OEM isn't giving a timeframe for ETA. [Droid-Life]
+
+		The T-Mobile G2 was boosted to Android 2.3.3 in July, but we're glad to see the device getting yet another refresh. This time the G2 is getting hooked up with 2.3.4, which promises better battery life and improved data roaming, among other minor fixes. [AndroidCentral]
+
+		What other device is getting 2.3.4 this week? The Sony Ericsson Xperia Arc, that's what. It's only rolled out to parts of Europe and the Middle East, so be patient if you haven't seen an update show up for your unit yet. [AndroidCentral]
+
+		Up north, the LG Shine Plus on Telus is getting Android 2.3.3. [MobileSyrup]
+
+		Anyone using a Motorola Atrix or Milestone 2 in the UK should expect to have an update to Gingerbread sometime next month. [Unwired View]
+
+		Motorola mentioned on its Facebook page that the Droid Bionic will receive Ice Cream Sandwich, though it wouldn't share details on when. [Thanks, Grant]
+
+Unofficial Android updates, custom ROMs and misc. hackery
+
+
+		Amazingly enough, the Samsung Epic 4G is still missing Gingerbread (officially, at least). In hopefully what could be considered another step forward, Sammy's pushed out the kernel source for Android 2.3. Keep those fingers crossed, Epic 4G owners. [AndroidCentral]
+
+		Motorola released the kernel source for the Droid Bionic. [AndroidCentral]
+
+		Speaking of kernel source, HTC's also gone ahead and released code for the myTouch 4G Slide, Desire (Gingerbread), and the Raider 4G. [AndroidCentral]
+
+		Three days after its kernel was made public, T-Mobile's version of the Samsung Galaxy S II has now been successfully rooted. [Phandroid]
+
+		Looking down at your HTC Sensation 4G (or any other Sense 3.0 or higher device) filled with Dre envy? Wish you had the cool Beats that's starting to trickle out to the latest HTC handsets? Leave it to XDA to find a way to port the new audio functionality over to any Sense 3.0 or 3.5 phone without having to ditch your current ROM. [Droid-Life]
+
+		Anyone frustrated by the news about the HTC Thunderbolt above and is savvy to the rooting world may want to check out a new Gingerbread RUU just leaked for the device. [Android Police]
+
+Other platforms
+
+
+		Select Symbian Anna devices are currently getting a bug fix. Sadly, it's not Belle. [Unwired View]
+
+		The Windows Phone Team has reported that the Mango update is available to nearly everyone now. [Windows Team Blog]
+
+		The iPhone Dev Team brought out a new version of Redsn0w, 0.9.9b7, which was designed to significantly reduce the amount of time it takes to jailbreak your iDevice. [Pocketnow]
+
+Refreshes we covered this week
+
+
+HP TouchPad gets webOS 3.0.4 update
+
+Kindle 3 gets software upgrade, ready to soar into the cloud
+
+Android 4.0 Ice Cream Sandwich roundup
+
+Android 4.0 now official, includes revamped design and enhancements galore
+
+HTC: we're reviewing ICS and determining future plans
+
+Motorola RAZR to get ICS in early 2012
+
+ICS unofficially ported to Samsung Nexus S 4G
+
+Sony Ericsson bringing ICS to Xperia handsets?
+
+ASUS: Android 4.0 tablets coming by end of this year
+
+HTC's new audio API beats OpenSense into developers
+
+ 

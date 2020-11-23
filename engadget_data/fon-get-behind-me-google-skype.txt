@@ -1,0 +1,5 @@
+
+ Securing another round of financing for a startup isn't usually such a big deal, but when your product turns yourWiFi'd Internet connection into a peer-to-peer VoIP network and the companies who are putting up the cash are Google andSkype (along with some VC firms), you look again. Fon, who's been operating fairly under the radar to date, is thecompany in question getting the big cash injection, presumably for their technology which allows you to roam theworldwide Fon network if you make your own router a node (or fonero as it were) on said network. If you're notoperating your own fonero you can get access to the Fon network, but for a price (which will supposedly be split withthe ISP). Derision for their P2P-like nature by Big Internet aside, we have a feeling with G and Skype behind themFon'll be able to fight the good fight, but really, more than anything else right now we'd just be worried about themfiguring out handoffs between WiFi nodes so you're not tethered to a single fonero. Well, that and uptake; it can behard finding people rearin' to flash the firmware on their Linksys.[Thanks, Giuppi]
+      
+
+ 

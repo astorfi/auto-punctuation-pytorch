@@ -1,0 +1,12 @@
+
+In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+Sure, crafting flawless 360-degree photos of objects can be a slog, but Jared Bouck's taken to Kickstarter betting that his solution can whip up such pictures and make them web-embeddable in as little as 15 minutes. Dubbed Zcapture, the hardware packs a rotating platform for items and cooperates with custom software to edit and produce the images without additional post-processing. As it stands, the gear works with cameras that boast external shutter controls (specifically Canon and Nikon models at the start), but stretch goals may bring support for other shooters, including IR header compatibility for point-and-shoots. With an Arduino at its core, and coupled with a circuit board packing additional ports and headers, the box is designed with modding in mind. In addition to snapping photos, Zcapture can even be used as a rotating base for 3D scanning.
+
+
+If you're wondering just what the system is capable of, just take a look at Bouck's work at Rotate 360 Studios, where he's made product shots for the likes of Foster Grant, Reebok, Xi3 and others. A USB-powered mini Zcapture along with the software is priced at $150 (or just $100 for the program), while other kits range from $300 to $690 for a fully-loaded version paired with soft box lighting. If the project meets its $46,000 funding goal, the contraption is expected to ship in December. With a little over $4,000 pledged so far, we hope -- if not for our review photos, for our eBay listings -- that it hits its goal before the two-month deadline.
+
+
+
+
+

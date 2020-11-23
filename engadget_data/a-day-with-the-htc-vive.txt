@@ -1,0 +1,38 @@
+
+Virtual reality in your home is finally ... well, real. And I'm not just referring to VR-lite experiences like Google Cardboard or Samsung's Gear VR. I'm talking about graphically rich, forget where you are, so genuine you can almost touch it, virtual reality. After dreaming about the possibilities of VR for decades and following its most recent wave closely, it's hard to believe it's finally here. That sentiment hit me with the force of a virtual tidal wave when the HTC Vive Pre arrived at my apartment yesterday. 
+
+
+
+
+
+While I was certainly excited to have some alone time with the HTC Vive -- it's consistently wowed us with demos over the past year -- I wasn't expecting such an emotional response. I've had the Oculus DK2 for a year now, so diving into VR at home isn't very novel for me. I've also tested out plenty of Google Cardboard and Gear VR demos at home, and I've gone through more Oculus and Vive demos at press events than I can count.
+
+But I quickly realized why the Vive Pre evoked such a different response: It's not just a dev kit -- it's the closest we've got to a polished VR experience that anyone will be able to buy. HTC just opened up preorders for the consumer version of the Vive this week, which will run you $799 and ship in April. That's pretty much the same hardware as the Vive Pre dev kit, save for a slightly more ergonomic head strap.
+
+
+I won't be reviewing the Vive Pre, since it's not consumer-ready hardware. And, frankly, there isn't much finished VR software out there yet. Instead, I'll offer up a series of dispatches around living with the HTC Vive.
+
+Once the exaltation of the Vive's arrival wore off, I took stock of all the hardware. Spread across three boxes were the Vive Pre headset, a link box (which plugs into your computer), two base stations, two motion controllers and all of their accompanying cables and power adapters. There weren't really any surprises, but this being my first chance to fondle the Vive's hardware for longer than a few minutes, I was able to appreciate its build quality a bit more.
+
+
+The motion controllers look large, but they're relatively light and fit into your hands well. They sport touchpads on top, along with menu and system buttons; a trigger button that sits right below your index finger; and two "grip" buttons around the sides. The controllers charge via micro-USB slots, and, naturally, they also have wrist straps to keep them from flying out of your hands. The large round portion of the controller up top is mainly used to communicate motion data the Vive base stations -- it's not something you ever have to touch. The base stations are simple cubes, but HTC wisely included threaded mounting slots on the bottom so that they can be attached to a wide variety of stands.
+
+The big takeaway from all of the hardware: Everything simply feels good. HTC has had a rough going for the past few years, but the Vive is a reminder that it can still build some solid gadgetry. Of course, it also had some assistance from Valve for this endeavor (which makes me think Valve would also be the perfect suitor if HTC's business continues to tank).
+
+Valve's setup instructions for Steam VR devices (the Vive is just the first of potentially many) are fairly straightforward. First, install the base stations on two high points on opposite corners of your room (I also received wall and ceiling mounts to make that process easier). Next, synchronize the base stations (I won't go too deeply into that process, since Valve says it's revamping it entirely for the consumer Vive setup). Then plug the link box into USB, HDMI ports on your computer, as well as a power outlet, and plug the Vive headset into the other side of the link box. Finally, install the SteamVR tool on Steam (Valve's gaming store) and turn on the motion controllers (they were instantly recognized by my computer).
+
+
+With everything up and running, I went through the SteamVR setup for room-scale VR. That simply involved taking one of the motion controllers and tracing the border of open space in my home office. I received a few warnings saying my space wasn't big enough with my first few tries, but eventually SteamVR registered enough open space. You can also run the Vive in sitting or standing modes, if you don't have much space (but then you won't be able to take advantage of some of the more immersive VR experiences).
+
+Next up, I installed a collection of sample VR software Valve is giving away to developers. That includes some demos Valve and HTC have been showing off for some time, like the underwater set piece theBlue: Encounter, as well as the 3D drawing app Tilt Brush (which legendary Disney animator Glen Keane recently used to recreate some of his iconic characters in VR).
+
+
+So how does the Vive actually work at home? In a word: Magnificently. Once I adjusted the headset so it fit comfortably over my glasses, I was presented with the smoothest VR experience I've had at home. Sure, it's still a large, HR Giger-esque headset attached to lengthy cables, but it's far more comfortable to wear than the Oculus DK2. I also had the advantage of some powerful hardware powering the Vive experience: My desktop is running a 4 GHz Intel Core i7-4790K CPU, 16GB of DDR3 RAM, a 512GB Crucial MX100 SSD and an AMD Radeon R9 Fury X graphic card.
+
+While I'm still waiting for that breakthrough, truly killer VR experience, the demos Valve bundled offer a glimpse into where we're headed. Ninja Trainer lets you reenact Fruit Ninja in the best way possible, with the Vive motion controller accurately recreating hacking and slashing with a katana. Space Pirate Trainer VR lets you relive your Han Solo fantasies by having you shoot down aliens. Jeeboman has a similar gameplay element, but it gives you a larger selection of weapons (and a nifty teleporting mechanic) to keep an alien invasion at bay.
+
+#fivemin-widget-blogsmith-image-127601{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-127601, #postcontentcontainer #fivemin-widget-blogsmith-image-127601{width:100%;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-127601").style.display="none";}catch(e){}Strange to say, the most enveloping VR experience I've had with the Vive so far came from a golf game. Cloudlands: VR Minigolf presents you with a selection of fantastical courses, but what really sells it is the surprisingly accurate motion tracking with the Vive's controller. [Check out Engadget's Richard Lai demonstrating Cloudlands and Jeeboman above.] It was easy to shift between soft and harder swings, more so than any motion-tracked golf game I've seen yet. The environments were also rich with detail -- I had a lot of fun simply looking around them.
+
+After awhile, I started to forget I was actually just standing in my office with a weird looking contraption strapped to my head. That's the sort of presence every VR experience strives for, and I'm looking forward to unearthing similar gems as I continue to test out the Vive.
+
+

@@ -1,0 +1,10 @@
+
+ 
+
+We already know that Siri can send texts, check the weather or find you a restaurant, but did you know she can also fetch you a beer. Well, sort of... with a little hacking. The folks at Redpepper dreamed up Beeri, an RC truck that cracks open a can of brew whenever it receives a tweet instructing it to "pour." Since you can text updates to Twitter (40404) and Siri can text, that means it's perfectly simple to tell Beeri it's Miller time. Whenever the Arduino embedded in the truck detects a mention with the word "pour," it drives forward, slamming a beer can into a puncture wall that drips into a funnel, filling a cup beneath the table top. It's a pretty ingenious system, and you can see it in action after the break. We just hope Beeri has a day job -- looking at all that head, it's clear she wouldn't last a day as a bartender.
+      
+
+ 
+
+  
+ 

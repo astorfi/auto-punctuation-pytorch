@@ -1,0 +1,6 @@
+
+ 
+Hello, obvious! Anyone who has actually used an Android-based tablet for any length of time would probably tell you that the experience is far from optimal. It works, sure, but it doesn't take a CSC major to understand that Google's existing builds of Android were crafted for smartphones and nothing more. Thankfully for those who are tired of arguing the point, Hugo Barra, director of products for mobile at Google, is stepping up to the plate and giving you some backing. Quoted over at Tech Radar, Hugo noted that "Android is an open platform, and we saw at IFA 2010 all sorts of devices running Android, so it's already running on tablets; but the way Android Market works is it's not going to be available on devices that don't allow applications to run correctly." He followed up by proclaiming that "Froyo is not optimized for use on tablets," and while he wouldn't go so far as to affirm that Gingerbread would be built for use on the aforementioned form factor, he did say that the company's working "to ensure our users have [the] right experience." How's that strike you, Galaxy Tab?
+      
+
+ 

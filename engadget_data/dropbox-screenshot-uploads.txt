@@ -1,0 +1,11 @@
+
+Dropbox's next move may be to take over your favorite screenshot sharing service, as the latest experimental build of its app adds the ability to upload screenshots automatically to your Dropbox folder. And that's not all! The latest build also adds iPhoto import functionality, which offers synchronization between local iPhoto libraries and your Dropbox account (it's only supported on the OS X version, of course, and only works with iPhoto 7.0 or higher), which are then viewable on the web.
+
+
+Of course, this stuff may never make it into the next release of the Dropbox app given the beta-esque nature of this release, but it sounds extremely likely that it will given the company's wording. At very least, these features won't hit wide, final-release until some point after the next update (the update after this next one, to be clear). Head past the break for the full, detailed list of additions in version 2.3.12, and to the Dropbox forum to snag the new build for yourself in the source link below.
+
+
+
+New in 2.3.12
+ Screenshot to Dropbox Move to Dropbox Import from iPhoto Much faster upload/download speeds for large filesNotes:
+ Screenshot to Dropbox is only supported on Windows and Mac. To trigger it just take a screenshot using Print Screen on Windows or on Mac Move to Dropbox is a context menu item that will show up for most files or folders outside of your Dropbox. Import from iPhoto is only supported on Mac with iPhoto 7.0 or higher. It will show up as a notification in your tray menu if you have photos in your iPhoto library. Your iPhoto albums and events will also be created as Dropbox albums (viewable on the web).

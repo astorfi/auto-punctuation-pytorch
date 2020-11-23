@@ -1,0 +1,7 @@
+
+ 
+ Google has just announced a new feature for Google Play that's sure to please anyone who's sat through an app update that never seemed to end. It now offers what it calls "Smart App Updates," which will let developers provide incremental updates to apps instead of forcing people to download a whole new APK for every minor update. On average, Google says those should be about a third the size of typical updates. What's more, the company has also announced that it's bringing added encryption measures to Android, which will let paid apps be encrypted with a device-specific key that makes them harder to rip and share. Both features will be supported on Android devices running Gingerbread or above.
+
+ Check out our full coverage of Google I/O 2012's opening keynote at our event hub!
+
+

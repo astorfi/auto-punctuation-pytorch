@@ -1,0 +1,6 @@
+
+ 
+We've heard a similar message from Nokia dating all the way back to MeeGo's introduction at MWC back in February, so it comes as little surprise that Espoo is apparently trumpeting the virtues of ARM for its first MeeGo-powered device that's still targeted for the tail end of 2010. What might make this particularly interesting is the fact that MeeGo 1.0 is clearly further along for Atom devices than it is for the Cortex A8-based N900, not to mention that Nokia has already warmed up to Intel thanks to its Booklet 3G -- but regardless of the silicon, getting the platform solid enough for any sort of retail device by the end of 2010 still seems like a tricky proposition when you figure that the ARM build doesn't even have a proper user interface yet. Ultimately, it might come down to a question of size; Intel still hasn't proven that it can scale Atom down far enough to tackle the smartphone market head-on, so if Nokia wants to go small with its first MeeGo hardware, that alone could be impetus enough to go ARM.
+      
+
+ 

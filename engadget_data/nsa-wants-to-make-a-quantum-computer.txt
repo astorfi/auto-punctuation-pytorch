@@ -1,0 +1,4 @@
+
+While the NSA can inflitrate many secure systems without breaking a sweat, there are still some encryption methods that it just can't crack. That may not be a problem in the long term, however. The Washington Post has published documents from Edward Snowden which reveal that the agency is researching a "cryptologically useful" quantum computer. The dramatically more powerful hardware could theoretically decode public encryption quickly enough to be useful for national defense; conventional PCs can take years, even when clustered together. That kind of decrypting power is potentially scary, but you won't need to worry about the privacy of your secure content just yet. It's not clear that the NSA is anywhere close to reaching its goal, and any success could eventually be thwarted by quantum-based encryption that's impossible to break by its very nature. Still, the leak is a friendly reminder that we shouldn't take existing security methods for granted.
+
+

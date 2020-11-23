@@ -1,0 +1,6 @@
+
+ 
+Not one to let the name Snapdragon down, Qualcomm's gone and announced a much faster generation of the processor family, with speeds up to 2.5GHz per core. The multi-core (one, two, and four) 28nm chipsets, codenamed Krait, will feature WiFi, GPS, Bluetooth, and FM, support NFC and stereoscopic 3D video / photo (capture and playback), and also boast multi-mode LTE modem integration. Qualcomm claims a performance increase of 150 percent and a power consumption drop of 65 percent over current ARM-based CPU cores. Included is a new Adreno 320 GPU with support of up to four 3D cores. Samples for the dual-core MSM8960 will be available in second quarter this year, while single-core MSM8930 and quad-core APQ8064 (for "computing and entertainment devices" -- i.e. tablets) versions are coming early 2012. The power-crazed products housing these chipsets? You'll have to wait even longer to see those.
+      
+
+ 

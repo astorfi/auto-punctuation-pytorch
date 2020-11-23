@@ -1,0 +1,21 @@
+
+
+We had a feeling Apple would announce a new iMac today, and indeed, the company didn't disappoint. Here in Cupertino, we just saw Tim Cook and co. unveil the 27-inch iMac with Retina display, which has basically the same slim design as the last version, except this time it packs a 5K, 5,120 x 2,880 display. And it's available today, starting at $2,499. I'd be lying if I said I got to spend much time with it -- the demo area here is extremely crowded -- but I did want to give you some early impressions. And you know, some hands-on photos, too. Have a gander at the gallery below, and keep your eyes peeled for a full review -- something tells us we'll be taking one of these bad boys for a spin very soon.
+
+
+
+
+
+It almost goes without saying: The new iMac has a stunning display. It's exactly as sharp as you'd expect, even from way off to the side. But what would be really helpful here would be to take a step back and talk about the technology behind that beautiful screen. I'll be the first to say that while I was liveblogging the keynote a little while ago, it was difficult to keep up with all the features that make this new 5K panel what it is. There was no way to do it justice, not in that fast-clip format. So let's slow down a bit, catch our breath and break down what we're looking at here.
+
+First of all, the term "5K" might not mean much to you. I know I'm already fatigued by marketing lingo like "4K" and "Ultra HD," and so might you. All lingo aside, this is 14.7 million pixels crammed into a 27-inch screen. That's seven times more pixels than a 1080p display. It's also 67 percent more pixels than even 4K. As I said in my liveblog, that might be the real kicker -- imagine being able to process 4K video pixel for pixel and still having room left over onscreen for other UI elements, like a video-editing dashboard.
+
+That's the first thing, that resolution. Then there's the actual image quality. And image processing too, when we get down to it. To even power that many pixels, Apple had to design its own timing controller, the chip that tells each pixel what to do and when. Obviously, this is the sort of thing I'll really want to observe once I get a review unit in; I'll want to see how fluid 4K video is, how well editing programs perform. Suffice to say, everything looked good in my brief eyes-on, but I'll be the first to admit that I'd need to spend more time with the machine to really evaluate that bit.
+
+Moving on, Apple used Oxide TFT (thin-film transistor) to pull off that even brightness. That, I feel I can already vouch for pretty confidently -- the brightness is level throughout, with no bleeding that I could see on first visit. A "compensation film," meanwhile, partially explains the excellent viewing angles, though truth be told, Apple was already putting out low-glare, high-contrast screens with its most recent iMac design, which debuted back in 2012. If you ask me, whatever Apple did here really just amounts to fine-tuning of an already-stellar display.
+
+At the same time, Apple claims this technique allowed for a 30 percent reduction in power consumption -- an important thing, because no one wants to see their beautiful 5K display suddenly overheat under too much strain. Finally, Apple borrowed the same "organic passivation" technology it already uses in its Retina display iPads to prevent any interference from the pixels themselves and the signals telling them what to do. This, too, has an effect on overall power consumption, though it's also partially responsible for the clear image quality.
+
+If this feels like an excessive number of paragraphs about a display, well, sorry-not-sorry. Really, though, it's the only new thing worth talking about. This is otherwise the same 5mm-thick iMac as before, with a keyhole stand around back. The specs have seen an upgrade -- fresh Intel Core processors and the latest AMD R9-series graphics -- but that's the sort of thing best left to a full review, not a hands-on. I will indeed be taking home an iMac with me (er, shipping it back to New York from California), so expect me to follow up soon with benchmarks and all that jazz. For now, though, how 'bout that screen?
+
+

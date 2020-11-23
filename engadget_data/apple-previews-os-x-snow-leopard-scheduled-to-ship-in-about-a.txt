@@ -1,0 +1,6 @@
+
+ 
+The next iteration of OS X was mentioned early on during today's WWDC 2008 keynote, but little was said afterwards. Thankfully, Apple hasn't left us completely out to dry, as a recent release gives a few clues as to what Snow Leopard has in store. First and foremost, the OS isn't expected to ship until about this time next year, and just as predicted, it will be more evolutionary than revolutionary. Specifically, it will "enhance the performance of OS X and set a new standard for quality... rather than focusing primarily on new features." Still, we do know that it'll play nice with Microsoft Exchange 2007 from the get-go, provide "unrivaled support for multi-core processors" with a new technology dubbed Grand Central, extend support "for modern hardware with Open Computing Language (OpenCL)," and raise the software limit on system memory up to a theoretical 16TB of RAM. Heck, you'll even find QuickTime X in there. Yeah, we love those new features, but we can honestly say we're looking forward to a nice round of polishing.Update: Looks like some more solid info has been posted to Apple's page. Head here for more on Snow Leopard desktop and Snow Leopard server (which will include iCal Server 2, 128-bit ZFS support, Podcast Producer 2, the first version of their Address Book server based on CardDAV, and more).
+      
+
+ 

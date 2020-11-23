@@ -1,0 +1,12 @@
+
+We've covered various transparency reports before, but now the whole notion takes on a different feel in our post-PRISM world. Microsoft's latest report details that it received 37,196 requests from law enforcement agencies between this January and June, which impacted 66,539 of its accounts. Seventy-seven percent of those requests were for data like a user's name, IP history and billing address, and with 21 percent of requests, no data was disclosed at all. However, in 2.19 percent of queries by law enforcement, Redmond disclosed "at least some" customer content. What does that mean? Well, the company's definition includes the subject or body of an email, photos stored in SkyDrive and address book info. According to the document, the info was all obtained via lawful warrants and court orders.
+
+
+While National Security Letters also fall under the guise of law enforcement requests -- which primarily come from the FBI in order to obtain records such as phone numbers and email addresses -- Microsoft is only allowed to publish these statistics on an annual basis. Hence, they're absent this time around, and will be published in the company's next Law Enforcement Requests Report. To see just how deep the rabbit hole goes, do check out the source. We suggest putting on a pot of coffee, though -- it's not a quick read.
+
+
+
+
+
+
+ 

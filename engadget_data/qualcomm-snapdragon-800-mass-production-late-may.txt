@@ -1,0 +1,8 @@
+
+ While Snapdragon 600 is already showing up on various flagship devices like the HTC One, PadFone Infinity, Galaxy S 4, Optimus G Pro and Xiaomi 2S, we're still looking forward to the big daddy of Qualcomm's lineup this year: the Snapdragon 800. At a media event in Beijing earlier today, Senior Product Manager Yufei Wang confirmed that his company's next flagship SoC will enter mass production in late May, but he refused to comment on which upcoming devices will feature it. And due to the current state of the silicon (even though vendors like ZTE are already sampling it), we weren't allowed to run any benchmark tests on the Snapdragon 800 development devices on display just yet, though we've been told to stay tuned in June.
+
+ What makes the 800 shine brighter than the 600 is its more powerful Krait 400 architecture, which can maintain a clock speed of up to 2.3GHz; but like before, the four cores are also clocked asynchronously for better power management. On top of that, the 800 comes with the new Adreno 330 graphics processor with 30fps 4K playback capability, while still featuring the improved Adreno 320's FlexRender technology that can dynamically switch between direct rendering and binning rendering for optimized performance and efficiency. We'll save the nitty-gritty for the proper launch of this 28nm chip later this year.
+
+
+
+

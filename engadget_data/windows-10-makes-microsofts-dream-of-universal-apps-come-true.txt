@@ -1,0 +1,16 @@
+
+
+We've been hearing about Microsoft's vision of universal apps for years -- apps that can be written once and run on a wide variety of devices -- but with Windows 10 it's finally becoming a reality. During today's massive Windows 10 event, Microsoft's operating system heads Terry Myerson and Joe Belfiore mentioned several instances of how universal apps will fit into the Windows ecosystem. Windows 10 apps will eventually show up on the Xbox One, Myerson noted, and Belfiore also showed off how Microsoft Office apps seamlessly scale from phones (which will also run Windows 10) to PCs. The notion of universal apps may seem a tad boring, but it's essential to making developers latch onto this new Windows entry in a way they never did for Windows 8. After all, it's much easier to convince someone to build an app for your platform when it can be easily deployed across all sorts of devices (and it makes up for the weak mobile ecosystem).
+
+
+
+
+
+Microsoft's still got a lot to prove to developers, though. Belfiore demonstrated how new versions of Outlook and PowerPoint function much the same across phones and computers, but we still haven't seen any successful third-party universal apps. But, in any case, it's still nice to see the company make some progress toward cross-compatible apps. It's something Microsoft has hinted at even before the launch of Windows 8 (and it's one reason it shoved the NT kernel into Windows Phone 8).
+
+The big takeaway from today's Windows 10 event? Microsoft is building a unified Windows platform -- not just another operating system upgrade. Aside from universal apps, that also translates into Xbox One gaming features like game DVR and cross-platform multiplayer support making their way into Windows 10 PC games. Even more intriguing, Windows 10 apps will also work with Windows Holographic, Microsoft's futuristic augmented reality play.
+
+"Windows is the home for the very best Microsoft experiences," Microsoft CEO Satya Nadella said today. "We are going to have services everywhere. But with Windows, we are not bolting on apps. We are seamlessly harmonizing our experiences."
+
+[Jon Turi contributed to this report.]
+

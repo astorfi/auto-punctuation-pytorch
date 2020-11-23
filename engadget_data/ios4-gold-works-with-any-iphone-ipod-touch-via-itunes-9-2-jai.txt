@@ -1,0 +1,14 @@
+
+ Want to get your hands on an iOS 4-equipped device now without being a registered Apple developer? As a number of readers have pointed out, it seems yesterday's gold build release works on any applicable iPhone / iPod touch whether or not its UDID has been sent to the dev center. Now that the previous restraint has been lifted, the only requirement now is a copy of iTunes 9.2 -- currently for Macs only and still blocked by the developer gate, but once you manage to obtain the appropriate files, the only thing in your path is time itself. Sure enough, we just got through installing the build on an unregistered iPhone without a hitch. Details available via Gumball Tech, and please, don't forget to back up your data ahead of time.
+
+In less rule-abiding news, the not-quite-surgical hand of the jailbreak community has taken a gander at the gold. A developer known as msft.guy, whose previous credentials includes recently-released binary "which enabled blacksn0w unlock port for iPhone 3GS on iOS 4 Beta 4" according to Redmond Pie, has updated PwnageTool for yesterday's update. As always, proceed with that one at your own risk, and if you're curious but hesitant, the ever-reliable iPhone Dev Team promise a full jailbreak / unlock suite later this month. Either way, video proof is available after the break.
+
+Update: Just to clarify, iOS 4 now works with any iPhone / iPod touch that's already been proven compatible -- the trick here is that you now don't need to register with Apple before trying.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

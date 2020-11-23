@@ -1,0 +1,9 @@
+
+ 
+ Google has opted to deliver Android 4.1 Jelly Bean as an OTA update to the ICS already on the Nexus phones and tablets it just handed everyone at I/O 2012, and there's a manual download link available too. As Android Police notes, only GSM phones running the IMM330D firmware will take the update (which you probably don't have, although a fresh phone from the initial Google Play run might work.) With this release already in the wild it's surely only a matter of time before various third parties open it up to a wider variety of hardware. As always with early and somewhat untested software YMMV, keep an eye on those XDA Developers threads for the latest updates.
+
+ Update: Just that quickly, an SDK port has already popped up for the HTC One X. Of course, it's described as unstable and the author has no plans to try to fix the numerous problems but if you're desperate to see Jelly Bean you can, you just probably shouldn't.
+
+ Update 2: And almost as quickly, a rooted version for ClockWorkMod Recovery and ROM Manager has appeared. Check the latest thread for all the details.
+
+

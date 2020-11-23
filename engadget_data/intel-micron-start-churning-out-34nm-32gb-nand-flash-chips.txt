@@ -1,0 +1,5 @@
+
+ 
+Intel and Micron's subsidiary IM Flash Technologies first announced its first-of-its-kind 34nm NAND Flash memory back in May of this year and, as promised, it's now finally followed through on things pushed 'em into mass production. The chip's themselves are 32 gigabit multi-level  cell chips, and can hold 4GB of memory on their own, or be stacked on top of each other in a standard 48-lead thin small-outline package (TSOP) to hold up to 64GB. That, the companies say, will not only allow for increased storage in small form factor devices, but less expensive solid state drives as well, given the reduced manufacturing costs. They're apparently still a little ways away from finding their way into some actual products, however, with the companies only going so far as to say that the first samples are on track for early 2009[Via Electronista]
+
+ 

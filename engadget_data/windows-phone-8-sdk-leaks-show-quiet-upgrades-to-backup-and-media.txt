@@ -1,0 +1,7 @@
+
+ 
+ The Windows Phone 8 SDK has escaped to the wild, and some sifting through the device emulator has dug up elements that Microsoft either skipped or only touched on lightly during the big unveiling in June. The most important addition may be the one customers see the least: backup. A WP7.hu search has the new OS replicating apps, settings and SMS messages in the cloud to prevent disaster, and that new SD card support will let WP8 owners shuffle photos from internal storage to the removable kind for safekeeping. There's also more work on Internet Explorer than we saw before, with MobileTechWorld noticing that DataSense provides an option for Opera-like remote compression to save that precious cellular bandwidth.
+
+ Media fans might have the most to gain. If we go by The Verge, both the Music/Video and Xbox hubs are getting fresh coats of paint -- both to integrate new ventures like Xbox Music as well as to jive more closely with the SmartGlass visual theme. Shutterbugs will like the long-awaited options to crop and rotate their work, pick multiple photos, and unify third-party camera apps under a Lenses concept. There's even more clever features in store, such as a Maps update that finds nearby WiFi hotspots, so head on over to the sources to get a full sense of where Microsoft will be going.
+
+

@@ -1,0 +1,16 @@
+
+ 
+We've been receiving numerous tips over the last hour that Nexus One owners on AT&T bands are receiving an over-the-air update for Android 2.2 FRF85, otherwise known as the "bulletproofed" Froyo build. No confirmation at this point, and since you're asking, no word yet either on an update for the larger T-Mobile N1 install base (though we've had at least one report of a user on FRF50 getting the OTA today). We've pinged Google for answers, will let ya know what we hear.
+
+Update: Thanks to a few readers, we've now got a direct link from Google's servers to update from EPE54B to FRF85.
+
+Update 2: Tipster Christian R has sent us a picture of his T-Mobile-banded Nexus One with FRF85, apparently updated from Android 2.1 build ERE27. Has the T-Mobile rollout begun? Not for us, at least.
+
+Update 3: And now we've got a direct link to download a FRF85 build that'll supposedly work for any Android build. We can safely say that it worked for us on a T-Mobile device with 2.1 / ERE27. Download from Google here, and if you need direction on how to do the update yourself, take a cue from our commenters. [Thanks, MRCUR and afinite]
+
+Update 4: And now it's official. Keep an eye on that notification bar if you're itching for the OTA method. So that's one phone down, quite a few to go! [Thanks, cl]
+
+[Thanks to everyone who sent this in]
+      
+
+ 

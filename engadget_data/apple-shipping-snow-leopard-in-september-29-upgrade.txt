@@ -1,0 +1,17 @@
+
+ 
+After showing off Mac OS X 10.6 "Snow Leopard" at last year's WWDC, Apple is finally ready to ship it out the door this coming September, for a quite reasonable upgrade fee of $29 for Leopard users (as opposed to the regular $129 for larger refreshes). Folks who buy a Leopard machine between now and December can get the upgrade for $10 in shipping. While the added feature list is relatively slim, and there are few surprises between what was confirmed last year and the various leaks from developer previews, Apple's still giving users and developers some fun new tech to play with -- particularly the GPU-exploiting OpenCL, and the Grand Central Dispatch tech for developers to ease application optimization for multi-core processors. Pretty nerdy stuff, but if it makes our Dashboard Sudoku Widgets run faster, we can hardly complain. Other updates to the OS Apple is trotting out at WWDC:
+
+Apple rewrote the Finder, while keeping it mostly the same on the surface, for a bunch of "little benefits." Tweaks include faster Quick Look previews and Spotlight searches.
+There's built-in Microsoft Exchange Server 2007 support in the OS, including Mail, Calendar and Address Book syncing.
+QuickTime X has a new "modern foundation," HTTP streaming and a whole new look. Users can record and trim video, and upload to sharing sites like MobileMe and YouTube.
+Snow Leopard has half the footprint of Leopard, amounting to 6GB in savings and 45% faster installs.
+New trackpads can handle handwriting recognition now, and there's new text selection "AI." There's also support for wireless Braille accessories (pictured).
+Safari 4 is available for Windows, Leopard and Tiger, but Snow Leopard adds "Crash Resistance," which keeps browser and tabs intact even if a plugin crashes -- user just refreshes the page. 64-bit version does JavaScript 50% faster.
+All core apps are 64-bit, and performance improvements abound. Mail boasts 85% faster message loads and 90% faster loads, while Time Machine has a 50% faster initial backup time.
+
+Update: More Snow Leopard additions and refinements are detailed here. Highlights we've spotted so far include Text Expander-style capabilities in Text Edit and Mail, and three finger and four finger multitouch gesture support for older (pre unibody) MacBooks! [Thanks, Jakob]
+
+
+
+

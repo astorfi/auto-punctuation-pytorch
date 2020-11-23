@@ -1,0 +1,11 @@
+
+ While Philips did eventually bring its Ambilight technology to PC monitors, it wasn't before others had decided to roll their own. Now you can add ambient backlighting to any computer display without any of the attendant soldering and Arduino-wrangling, thanks to the folks at Woodenshark. The team has built Lightpack, an Ambilight-esque system that'll connect to a Windows, OS X or Linux PC and project the display's colors onto the area surrounding the screen.
+
+ Plug the hockey puck-sized device into your computer, attach 10 LED modules to the back of your display and install the open-source software and you're good to go. Once ready, you can even set up custom alerts to measure CPU temperature or email volumes, and even control the lighting with your smartphone or tablet. The team has asked for the unusually specific figure of $261,962 in order to fund an initial production run of 5,000 units, with early backers able to snag one of the units for $50 instead of around $90. Interested to watch it in action? There's a video after the break, friends.
+
+
+
+  
+  Previous project update: Plenty of you are cloud-based home networking fans, but not enough, it seems, to get Skydog over the finishing line. The project is currently hovering just under its $75,000 goal, but there's still 19 days for it scrape those last few backers together.
+
+

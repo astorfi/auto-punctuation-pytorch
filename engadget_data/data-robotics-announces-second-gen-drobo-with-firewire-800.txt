@@ -1,0 +1,6 @@
+
+ 
+For those whose major complaint about the Drobo was its lack of FireWire 800, today's your day. The new version of the virtualized-storage device features the much requested interface (and a second port for daisy-chaining), but despite the fact that it still lacks built-in Ethernet / WiFi, it does come equipped with an upgraded processor to better take advantage of FireWire 800's higher throughput, as well as a much larger, quieter case fan. Data Robotics claims their new model can achieve data transfer speeds of more than 2x over the original model, as well as outperform ReadyNAS and LaCie models (in RAID 1/5) when tested with identical drives.The price stays the same at $500 for the device itself, and (as before) you can buy it bundled with two 1TB drives (for $900) or four 1TB drives (for $1,300). For those waiting for the price to dip even lower, Data Robotics is also clearing out inventory on its earlier model; until they sell out, first-gen Drobos will be going for $350, or $750 and $1,075 bundled with two and four 1TB drives, respectively.
+
+
+

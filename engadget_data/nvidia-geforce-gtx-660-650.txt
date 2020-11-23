@@ -1,0 +1,25 @@
+
+ NVIDIA's had some trouble shaving its Kepler GPUs down to an entry-level price point, but it looks to have put the problem behind it with the new GeForce 660 and 650 graphics cards. The company's ambition was to coax impoverished gamers clinging to DirectX9 (and to a lesser extent, 10) into switching up to this wallet-friendly pair of low-end units.
+
+ The 660 has been designed to be the "weapon of choice" for budget gamers. It'll play most games at reasonably high settings, thanks to its 2GB of RAM, 960 CUDA Cores and GPU Boost, which automatically overclocks the silicon according to the demands of your software. While we'll wait for real-world benchmarks, the company expects four-times the performance of the GeForce 9800GT, claiming games like Borderlands 2 and Guild Wars 2, in a resolution of 1,920 x 1,080 will play at frame rates of 51fps and 41fps with full 3D, respectively
+
+ The 650 is the company's self-proclaimed "gateway" into gaming, being the lowest-priced Kepler it's planning to produce. Unlike the other cards in the range, it lacks GPU Boost, but the company left six-pin power on the card, giving card makers 64W to push the "good overclocker" 1GHz units all the way to 1.2GHz. It's got 1GB of DDR5 RAM, which will apparently handle even the newest games at mid-range levels of detail with its 384 CUDA Cores. The pair are available from today, with companies like Maingear and Origin already announcing discounted desktops for them to nestle inside.
+
+
+
+  Show full PR text   NVIDIA BRINGS POWER OF GEFORCE GTX TO GAMERS EVERYWHERE WITH TWO NEW KEPLER-BASED GPUS
+   Priced at £179 / $229 and £89 / $109 (MSRP), GeForce GTX 660 and GTX 650 More than Quadruples Performance for Millions of Gamers
+
+  SANTA CLARA, Calif.-Sept. 13, 2012-NVIDIA today introduced two new high-performance GPUs, the NVIDIA® GeForce® GTX 660 and GeForce GTX 650. These new gaming GPUs deliver the exceptional performance and power efficiency of the award-winning NVIDIA® Kepler™ architecture at price points that will allow more gamers to experience the richness of next-generation PC gaming.
+
+   The GeForce GTX 660 and GeForce GTX 650 GPUs set a new benchmark for high-performance, remarkably-priced gaming when paired with the incredible line-up of top DirectX 11 games, including Call of Duty: Black Ops II, Assassin's Creed III and World of Warcraft: Mists of Pandaria.
+
+   The GeForce GTX 660 represents a phenomenal upgrade opportunity for gamers still playing games on last-generation graphics technology. For the millions of gamers still gaming on the GeForce 9800 GT, the 4X performance improvement[i] delivered by the GTX 660 will be an upgrade temptation not easily resisted. Similarly, the GTX 650 delivers an 8X performance improvement over the 9500 GT[ii], allowing gamers to step up to the GTX family with a low-cost solution that delivers a significant boost in performance.
+
+   Packed with cutting-edge technologies integrated into the NVIDIA Kepler™ architecture-including DirectX 11 tessellation, NVIDIA PhysX®, NVIDIA Adaptive Vsync, and temporal anti-aliasing (TXAA)-only GeForce GTX GPUs, such as the new GTX 660 and GTX 650, will ensure gamers have the most immersive gaming experience possible.
+
+   The NVIDIA GeForce GTX 660 and 650 GPUs are available now from the world's leading add-in card suppliers, including ASUS, EVGA, Gainward, Gigabyte, Inno3D, KFA2, MSI, Palit, Point of View, PNY, and Zotac.
+
+   The NVIDIA GeForce GTX 660 and 650 GPUs also feature at the core of superb new enthusiast PC systems built by One (DE), Komputronik (PL), Meijin (RU), Paradigit (NL), Komplett (NO), Scan (UK), Materiel.net (FR), TechnoComputer (IT), CoolMod (ES), Asbis (CZ), DigiTec (CH), INET (SE), and Mulitrama (GR).
+
+ 

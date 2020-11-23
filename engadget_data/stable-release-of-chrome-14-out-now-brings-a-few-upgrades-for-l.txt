@@ -1,0 +1,9 @@
+
+ 
+
+The very latest software goodness from Google has arrived, with Chrome hitting its 14th iteration (celebration, anyone?). This one gives Mac OS X Lion users a little something extra, with access to overlay scrollbars within the browser. Chrome can also can also upsize itself now -- accessible with a tap of the full-screen button or the more conventional Ctrl+Shift+F. The new web audio API gives developers the ability to add fancy sound effects and adjustments, whilst native client is an open-source addition; though this only supports apps in Chrome's web store, it allows C and C++ code to be executed within the browser. Google adds that there's been the usual bug clear-out, with the whole thing benefitting from a bit more polish -- gotta keep up with those pesky web apps! If you're already running Chrome, the automatic update should have kicked in, and new users can nab the download from the source below. If it's good enough for Gaga...
+
+[Thanks, Michael]
+      
+
+ 

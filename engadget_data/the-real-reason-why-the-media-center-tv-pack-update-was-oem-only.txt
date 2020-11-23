@@ -1,0 +1,15 @@
+
+ 
+One thing we know for sure is that the entire way Microsoft handled the TV Pack (code named Fiji) update was not well received by the enthusiast community. The primary reason for the disgust was the fact that the TV Pack update was OEM only (ie the likes of Dell and HP only), meaning those on the outside looking in felt slighted. The overall feeling seemed to be that Microsoft was once again pandering to the big OEMs -- like in the case of the original MCE or Digital Cable Tuners -- while leaving the build-your-own HTPC crowd on the sidelines. But here we are six months later and to our knowledge no OEMs are actually shipping Windows Media Center PCs with the TV Pack installed and we think we know why. At first we have to admit we had no clue what was going on, but then recently Microsoft proudly announced that unlike Windows Beta's before it, Windows 7 was only going to have one beta before going straight to release candidate 1 (RC1).
+
+
+
+
+          
+ 
+ 
+ This shortened beta process means that OEMs will have less time to prepare for Windows 7, which isn't a big deal when you consider that most of the Vista drivers will continue to work. But the same cannot be said for Media Center, which under went major changes when it comes to TV. We started to play around with all the new Media Center features in Windows 7 and quickly realized all the actual improvements were also a part of the TV Pack. This got us thinking, why would Microsoft release a super buggy update to Vista with all the great functionality improvements of Windows 7? The answer should be obvious at this point; to give the OEM's extra time to prepare for the drastic changes. As this occurred to us, something that we heard while we were in Redmond suddenly made much more sense. We asked Charlie Owen why the TV Pack was so buggy and the response was "because it wasn't meant for you." Now what he actually meant was that it was designed for International markets and the US features were there just because it made sense in the overall development lifecycle of Windows Media Center. But in the community we took it that the DIY type wasn't equipped to setup and support the update. But now that we think of it, it seems to make us think that the real reason why the TV Pack update was OEM only in the US was to compensate for the shortened beta cycle of Windows 7. So you see, Microsoft wasn't trying to give any advantage to the OEMs by giving 'em early access to an update, instead it was just meant to give them an extra six months to prepare for the major changes to the way TV works in Windows 7. We don't know about anyone else, but this somehow this makes us feel better.
+
+       
+
+ 

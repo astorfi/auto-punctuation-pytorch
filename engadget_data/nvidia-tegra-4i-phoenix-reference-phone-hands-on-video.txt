@@ -1,0 +1,13 @@
+
+ NVIDIA's latest venture in the mobile world, called the 4i, was introduced last week ahead of Mobile World Congress, and fortunately the chipset maker brought the product to Barcelona embedded in a reference phone known as "Phoenix." The 8mm-thick handset, which will find a home in the labs of manufacturers and carriers (as well as the desks of many third-party devs), sports a 5-inch 1080p display, 13MP rear-facing camera, PRISM 2, Chimera, DirectTouch and LTE (we're told that most major bands are included for testing purposes). As it's not geared for general consumer use, so it's not the thinnest, sleekest or best-looking device, and the back doesn't even seem to snap completely shut. Units are being sampled as we speak, and we should expect to see devices hit the market in nine to twelve months. Since it's still pretty early in the process, we weren't able to turn on the phone or benchmark the chipset; the only exception to this rule, as you'll see in the video, was when a rep showed a gaming demo on his particular unit.
+
+ While the 4i is the smaller brother of the Tegra 4 family, it's still expected to be quite powerful. The chip, which is designed specifically for smartphones (tablets will take advantage of Tegra 4 instead), features four 28nm Cortex-A9 r4 (beefed-up from the standard A9) cores that can be clocked up to 2.3GHz, 60 GPU cores (compared to 72 on the T4) and an integrated i500 LTE baseband modem. For additional comparison, NVIDIA showed us the two sibling boards side-by-side. Head below to check out our galleries of Phoenix and the two chipsets, as well as a brief video that shows off the graphics prowess of the 4i.
+
+
+
+
+
+
+ 
+
+ 

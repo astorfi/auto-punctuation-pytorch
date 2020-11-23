@@ -1,0 +1,223 @@
+
+ 
+ By Billy Steele, Sarah Silbert and Christopher Trout Illustration By ILoveDust
+ While planet Earth has yet to meet its demise, the end of 2012 is nigh. It was a year of lengthy legal battles and shifting power dynamics in the tech industry. It brought with it great advancements and great failures -- and, for some, the promise of the end of days. We've combed our archives to bring you just a few of the stories that made the biggest impact on our reporting this year. Herewith, an abridged look back at the year that was.
+
+
+
+ 
+ Photo: (Getty Images for Extra/Noel Vasquez)
+ The Year in Tech JANUARY 
+ January 1st Following a year of production delays for its high-end Karma hybrid, American automaker Fisker officially recalled 239 vehicles. A malfunction with its Li-ion batteries was found to increase the risk of an electrical short circuit and fire. This was far from the end of the company's woes. In August, a Karma owner returned from the grocery store to find the EV engulfed in flames.
+
+ January 8th At CES, Acer announced the "world's thinnest Ultrabook," the Aspire S5. The 13.3-inch notebook boasted a thickness of 0.6 inch and a weight just under three pounds. Though other systems like the 0.5-inch Samsung Series 9 would out-svelte the S5 later in the year, Acer's machine showed that the race for the slimmest system was kicking into high gear.
+
+ January 9th Also at CES, Nokia unveiled the long-rumored Lumia 900 smartphone as an AT&T exclusive. We liked its 8-megapixel rear camera, strong performance and blazing LTE speeds, but its successor, the Lumia 920, would wow us even more when it debuted in the fall.
+
+ January 14th LightSquared's years-long effort to integrate a wholesale 4G LTE network with satellite coverage was quashed by the National Executive Committee for Space-Based Positioning, Navigation and Timing, which found that the technology could interfere with GPS equipment. This came on the heels of Sprint reneging its 15-year resource-sharing agreement with LightSquared, and set the tone for many defeats on the company's eventual road to bankruptcy.
+
+ January 19th Federal prosecutors shut down popular file-sharing site Megaupload in the US, indicting founder Kim Dotcom and others for copyright violation, conspiracy to commit racketeering and other alleged illegal activities in the process. The takedown coincided with the high-profile online piracy debates brought about by the PIPA and SOPA bills. Megaupload has yet to rise from the dead.
+
+ 
+ January 19th Kodak filed for Chapter 11 bankruptcy in New York, with the goal of emerging with a completely reorganized business by 2013. The company received $950 million in debtor-in-possession financing, which it said would bolster liquidity and working capital. As a sign not only of the company's troubles, but also of the decline of non-digital photography, Kodak even sold the iconic film arm of its business later in the year.
+
+ January 20th Following statements of opposition from Google, Facebook, Twitter and just about every other major tech company, the US Senate and House decided to delay votes on PIPA and SOPA, respectively. The controversial anti-piracy bills called for greater government authority for banning websites that infringe copyrighted material. They've remained in limbo ever since.
+
+ January 22nd After months of investor backlash -- and the underwhelming launch of the PlayBook -- RIM announced a switch-up at the top. Co-chief executives Jim Balsillie and Mike Lazaridis stepped down from their positions, and COO Thorsten Heins was appointed to take over as CEO. The news was coupled with rumors that Heins would license the BlackBerry 10 operating system to other handset manufacturers.
+
+ Photos: Kodak film canister (AP Photo/Mel Evans); PIPA protest (STAN HONDA/AFP/Getty Images)
+ FEBRUARY 
+ February 2nd The internet got a first look at the Windows Phone 8 operating system, codenamed Apollo, when an internal Microsoft video leaked. In it, Windows Phone manager Joe Belfiore described support for dual-core CPUs, four screen resolutions, NFC and also hinted at Skype integration. When the OS was released at the end of October, all those features were indeed there.
+
+ February 13th Apple announced that Foxconn, one of its major manufacturing outlets -- and the subject of media scrutiny due to worker suicides and a factory explosion -- would receive a voluntary audit from the Fair Labor Association at factories in Shenzhen and Chengdu, China. The report was said to cover working and living conditions and would include polling thousands of employees.
+
+ February 13th The US Justice Department followed the lead of European regulators and gave the green light to Google's acquisition of Motorola Mobility. The $12.5 billion purchase was subject to close inspection due to concern that it would cause competition issues, though Mountain View made it clear it was just interested in Moto's patent portfolio to bolster the Android ecosystem.
+
+ February 20th Following reports that Google bypassed Safari's privacy features by tracking users through web ads, Microsoft found the search giant was also bypassing security settings in Internet Explorer to track users via cookies. Mountain View responded by calling Microsoft out for using a "widely non-operational" P3P protocol for privacy protection.
+
+ February 22nd While it was released in Japan in December of 2011, Sony's PS Vita (known previously as the Next Generation Portable) finally made its stateside debut, nearly a year after Nintendo's 3DS hit shelves.
+
+ February 26th At Mobile World Congress in Barcelona, HTC launched its new flagship handset, the One X. Along with the One S and One V also announced at the show, the phone represented a step away from brand dilution and toward a more unified line of products for HTC. Our reviewers gave top marks to the phone, applauding its attractive polycarbonate unibody design, Gorilla Glass-coated display and fantastic camera. The addition of AT&T LTE only sweetened the package.
+
+ February 27th Nokia had a big MWC announcement of its own: the 808 PureView, a handset running the Symbian Belle OS on a 1.3GHz single-core chip and offering a ho-hum 640 x 360, 4-inch screen. But the 808 really stood out for being the first smartphone with ultra-high-end camera technology: the shooter boasted a full 41 megapixels and a Carl Zeiss lens capable of continuous-focus 1080p.
+
+ 
+ February 29th The world's cheapest mini-Linux computer, the Raspberry Pi, went on sale with an asking price of $25 for the Model A version with 256MB of RAM and $35 for the Model B iteration with an extra USB port and an Ethernet hookup. Web retailers were overwhelmed with orders, and the Pi even sold out at distributor Premier Farnell.
+
+ Photo: Raspberry Pi (www.sotechdesign.com.au)
+ MARCH March 5th As part of Deustche Telekom's OSIRIS project, the company's T-Labs team successfully transferred data over a single optical fiber wavelength channel from Berlin to Hanover and back at a blazing 512 Gbps. It was a mighty impressive demonstration, but rest assured the widespread implementation of this tech was (and is) quite a ways off. March 6th The Android Market that supplied apps, books and movies to handsets running Google's OS was replaced by a one-stop shop for content called Google Play. The Play store incorporated the former Market, Google Music and the Google eBookstore.
+
+ March 7th Shedding the numbering convention for its tablet line, Apple announced the aptly named iPad with Retina display. The 9.7-inch panel sported 3.1 million pixels in a 2,048 x 1,536 configuration, and the Retina branding would next show up on the 15-inch MacBook Pro with an even more stunning 2,880 x 1,800 resolution. Just as exciting as all those pixels? The new tablet was Apple's first device to offer LTE connectivity, via AT&T and Verizon.
+
+ March 15th Famed Austrian skydiver Felix Baumgartner leapt from an altitude of more than 13 miles above the Earth, reaching a maximum speed of 364.4 MPH. This jump was just one of several lead-ups to Baumgartner's attempt to break the record of 120,000 feet; in October, he raised the bar with a 128,100-foot dive -- reaching a max speed of 833.9 MPH and breaking the sound barrier in the process.
+
+ March 19th Responding to travelers' complaints about gadget restrictions on flights, the FAA told The New York Times it would once again look into the rules regarding the use of laptops, tablets and other non-cellular gadgets on airplanes. Perhaps one tiny baby step in the right direction: in September, the FAA cleared American Airlines crews to use iPads in the cockpit at every point during a flight.
+
+ March 29th The Fair Labor Association released the findings from its audit of the Foxconn plants in China where Apple products are made. The group found violations of both FLA code and Chinese legal limits on hours worked, and as a result Apple and Foxconn agreed to drastically reform factory conditions by July 2013. The plant also agreed to raise employee wages and improve safety and health conditions.
+
+ March 29th In the wake of RIM's Q4 2012 earnings announcement, the company dropped the news that Jim Balsillie, who had already stepped down as co-CEO, was resigning from his position on the board of directors. In light of a dip in revenue, CEO Thorsten Heins admitted that RIM faced significant business challenges and said he would refocus on the company's enterprise business and BB10 -- which has still yet to launch.
+
+ Photo: Jim Balsillie (Jin Lee/Bloomberg via Getty Images)
+ APRIL April 3rd Nearly two years after launching on iOS, the extremely popular photo-sharing app Instagram finally made its debut on Android. The app included the same filters offered on the iOS version, and supported Android 2.2 and above.
+
+ 
+ April 4th Google released a video demoing Project Glass, a wearable heads-up display with Android on board. This would be the first of many high-profile public appearances for the device; two months later at Google I/O, Sergey Brin demoed the project with skydivers over San Francisco, and Mountain View put the glasses up for pre-order at $1,500 a pop.
+
+ April 9th Less than a week after the release of Instagram's Android app, Facebook CEO Mark Zuckerberg announced that his company was planning to purchase the popular photo-sharing platform. Rumors pinpointed the price tag at a cool $1 billion in cash and shares. Instagram's CEO stepped in to reassure users that "the Instagram app will still be the same one you know and love."
+
+ April 11th After allegations of anti-competitive pricing practices lead to an investigation of publishers in Europe, the Department of Justice launched its own charge against Apple, Hachette, HarperCollins, Macmillan, Penguin and Simon & Schuster. The DOJ's filing focused on charges that Apple and the publishers conspired to raise the cost of e-books and imposed that model on Amazon and Barnes & Noble.
+
+ 
+ April 11th Allerta, maker of the inPulse Smartwatch, launched a Kickstarter campaign for its new Pebble watch, offering full iOS compatibility and a 1.26-inch, 168 x 144 black and white e-paper display for $99. Within two hours, the smartwatch raised $100,000 in pledges, and it eventually broke Kickstarter's record with a total of $3.3 million raised. Successful though its funding efforts may have been, the project was plagued by delays -- as of mid-December, the watch was slated to debut in early 2013.
+
+ April 12th Barnes & Noble unveiled its Nook Simple Touch with GlowLight, an e-reader with an illuminated screen meant to let users enjoy e-books without disrupting their sleeping partners. It went on pre-sale for $139. Amazon would release its own version of the illuminated e-reader, the Kindle Paperwhite, later in the year.
+
+ April 23rd Along with introducing Creative Suite 6 -- with 14 applications including Photoshop and InDesign -- Adobe announced its move to the cloud, with a new monthly Creative Cloud plan that would let users access CS6's features over a broadband connection for a monthly fee of $75.
+
+ April 28th Two years after Google incurred the wrath of the Justice Department for collecting private data over WiFi while amassing Street View and location information, the DOJ cleared the company of all wiretapping violations. This move came as the DOJ and FCC said they couldn't find evidence that the search giant accessed any of the data it amassed.
+
+ MAY 
+ May 3rd At the company's Mobile Unpacked event in London, Samsung announced its latest flagship, the Galaxy S III. The handset touted a new (at the time) 1.4GHz Exynos 4 Quad chip for the heavy lifting alongside 1GB of RAM. Internals were tucked in behind a 4.8-inch, HD Super AMOLED display with TouchWiz-wrapped Android 4.0.
+
+ May 14th What became official for LightSquared on May 14th didn't come as much of a surprise. The company formally turned in its paperwork to begin a Chapter 11 bankruptcy filing in the US Bankruptcy Court of Manhattan. With this, the lofty goal of offering high-speed wireless for more than 260 million mobile users disappeared.
+
+ May 16th Verizon's CFO Fran Shammo confirmed what many unlimited data users on the network had long feared. The company announced that with the arrival of VZW's shared data plans, "everyone will be on data share." This meant that eventually, those grandfathered in would be forced into a monthly allowance.
+
+ 
+ May 17th Facebook gathered up its massive user base and decided to go public. The social network placed 421,233,615 shares of common stock on the table with an initial per-share price of $38. Excitement would be short-lived, though, as investors remained skeptical of ongoing growth and stock prices fell in the following months.
+
+ May 22nd After a long courtship and approval from China, Europe and the US of A, Google finalized its acquisition of Motorola Mobility. The folks in Mountain View also announced that Dennis Woodside would steer the ship as CEO of Moto's mobile unit for the foreseeable future.
+
+ May 25th Giving promise to the future of commercial space exploration and solidifying 2012 as a really good year for Elon Musk, SpaceX's Dragon became the first commercial spacecraft to successfully dock with the International Space Station.
+
+ May 31st Unfortunately, the long, drawn-out legal quarrel between Google and Oracle didn't wrap up when the infringement verdict arrived in May. Copyright proceedings determined that Google had infringed on parts of Java APIs. However, the judge ruled that Oracle's claim was in fact invalid, as it extended the rights of the copyright holder a bit too far.
+
+ Photos: Cell Tower (AP Photo/Mel Evans, File); Mark Zuckerberg at NASDAQ (AP Photo/Nasdaq via Facebook, Zef Nikolla)
+ JUNE 
+ June 5th More than three years after its official announcement, Tesla delivered the first of its more-affordable Model S EVs to a venture capitalist in the Bay Area. The vehicle was let loose two weeks before the expected June 22nd arrival. Later in the year, the Model S would be voted Motor Trend's Car of the Year.
+
+ June 11th Apple trotted out its own Maps application after nixing its long-standing use of Google's tech. However, the software arrived to a barrage of criticism for its glaring flaws, despite the inclusion of features like turn-by-turn navigation. The tech also touted full 3D capabilities, much like the upgrades Google announced mere days before.
+
+ June 11th In 2012, we watched as Apple pulled the cover off of its Retina display on a number of devices -- one of which was the next-gen MacBook Pro. The laptop was outfitted with a 220-ppi display panel that boasted a resolution of 2,880 x 1,800 on the 15-inch offering. At the time, the base model was priced at $2,199.
+
+ June 14th The hits kept coming for Nokia. In June, the company revealed plans to reduce its workforce by 10,000 before 2013 came to a close. Three executives also made their exit and the outfit sold off all but 10 percent of its stake in the luxury brand Vertu.
+
+ June 18th At a presser in LA that was announced just hours beforehand, Microsoft confirmed that a Surface-branded Windows RT slate was in the works. The rather unexpected move into tablet manufacturing touted a VaporMg, all-magnesium frame that wielded NVIDIA's ARM chip to power the business end of matters.
+
+ 
+ June 20th With its second event in less than a week, Microsoft made Windows Phone 8 official. The exhilaration was short-lived for those who had already jumped on the WP bandwagon, as the company announced that current handsets wouldn't see the new OS. This also proved that the early rumblings about upgrades were in fact false.
+
+ June 27th Looking to reveal the next version of its OS in grand fashion, Google detailed the software on its brand-new slate, the Nexus 7. The 7-inch tablet was the first and only device at the time to sport Jelly Bean (Android 4.1). The follow-up to the six-month-old Ice Cream Sandwich tacked on Project Butter and Google Now -- the company's answer to Apple's Siri.
+
+ June 28th After numerous outages and a shuffle at the helm, matters continued to get worse for RIM. For Q1 of its 2013 fiscal year, the company reported a $518 million net loss and 5,000 additional job cuts. The company also revealed that BlackBerry 10 smartphones wouldn't break cover until sometime in Q1 of the 2013 calendar year.
+
+ Photo: Tesla Model S (Will Lipman)
+ JULY July 2nd While it was granted a temporary injunction earlier in the year to halt iPad sales, China's Shenzhen Proview Technology sought compensation for its claim to the iPad trademark. The slates would return and a meager (by Apple's standards, anyway) $60 million was sent to Proview to resolve the matter, thus proving that Cupertino wasn't immune to having to pay up.
+
+ 
+ July 4th Though the cat was let out of the bag the day before, CERN's huge announcement still packed quite the punch. A new boson was observed with a standard deviation of 5 at 99.9 percent confidence. This preliminary result provided evidence of the heaviest discovery to date and the best proof thus far of the Higgs.
+
+ July 10th Riding the biggest first day in Kickstarter history, the Android-based Ouya gaming console took less than 12 hours to rocket past its funding mark of $950,000. Designed by Yves Behar, the unit touted a $99 price tag while being extremely accommodating to devs and lobbying for a wealth of free content.
+
+ July 15th Richard Branson had claimed for some time that he'd be on board Virgin Galactic's first commercial tourism flight to space, but he confirmed that said trip would happen at some point during the course of 2013. A mere $200,000 per person nabbed a seat for the voyage aboard the company's SpaceShipTwo craft.
+
+ July 16th Mountain View's first female engineer, a top executive and one of its first 20 employees departed this summer. Marissa Mayer decided to leave Google to become Yahoo's new CEO, joining the ranks after Scott Thompson's departure amid a résumé scandal.
+
+ July 18th A judge in the UK forced Apple to make nice with Samsung in the public forum. Judge Colin Birss made the Cupertino outfit post on its website and in several publications that Samsung didn't copy the design of the iPad. This action was said to counter the "damaging impression the South Korea-based company was copying Apple's product," but it wouldn't be its last forced apology.
+
+ July 23rd Before Nikon's foray into the space, rumblings of Canon's own mirrorless offering swirled around the internet. However, Canon's EOS M wasn't the change of pace from its DSLR offerings that the aforementioned competitor ushered in. The $800 shooter touted a spec sheet reminiscent of the Rebel T4i with an initial launch coming in October.
+
+ 
+ July 23rd After a battle with pancreatic cancer, Sally Ride, the first American woman to travel to space, died at the age of 61. Ride is remembered most for breaking NASA's gender barrier when she took part in an expedition on the Space Shuttle Challenger in June 1983. She also founded the administration's Office of Exploration.
+
+ July 26th Google ramped up its Google Fiber efforts in Kansas City, more than a year after the initial announcement. The extra oomph came in the form of Google Fiber TV -- a service that touts a tailored, searchable UI, 1TB of space on Google Drive and a Nexus 7 slate to help out with the channel surfing.
+
+ Photos: Particle Diagram (Courtesy CERN); Marrisa Mayer (David Paul Morris/Bloomberg via Getty Images); Sally Ride (Courtesy NASA)
+ AUGUST 
+ August 6th With the help of guided entry, a parachute, a powered descent and a sky crane, NASA's Curiosity rover touched down on the surface of Mars. Getting right to work, telemetry and the first images of Gale crater were sent back from the 2,000-pound (900kg) planet-exploring vehicle.
+
+ August 12th Another Fisker Karma caught fire this summer in a Woodside, Calif., parking lot. The hybrid EV was powered off and unplugged at the time of the incident, similar to the fire back in the spring. Fisker was quick to point out that its prized electronics weren't the source. An investigation pointed to a cooling fan, causing a recall days later.
+
+ August 24th After a three-week trial, a federal court jury presented a verdict in the lengthy patent infringement lawsuit between Samsung and Apple. Samsung was found to have knowingly infringed on Apple patents, with damages totaling more than $1 billion. On the other hand, the jury found Apple not guilty in all five instances cited by Samsung.
+
+ August 25th Following complications from heart surgery just a few weeks prior, Neil Armstrong, the first man to take a step on the moon, died at age 82. His pioneering expedition with Buzz Aldrin and Michael Collins aboard the Apollo 11 spacecraft changed the face of space exploration forever.
+
+ August 29th It wasn't a huge surprise when the latest supersized offering from Samsung was announced with a new stylus in tow. Screen real estate on the Galaxy Note II expanded to 5.5 inches and S Pen improvements nabbed most of the software tweaks this time around. A second-gen model signaled that the phablet was here to stay.
+
+ August 29th Mitt Romney, the GOP's presidential candidate, had already taken to Yahoo Answers to respond to voters' questions when the commander in chief decided to tackle internet inquiries himself. The virtual Q&A with Barack Obama took place via an Ask Me Anything session on Reddit, continuing his use of social media throughout a successful re-election campaign.
+
+ August 29th A name like Galaxy Camera surely meant placing the Android OS alongside a dose of touch functionality and added connectivity, right? Sure enough, the anticipated shooter was "Unpacked" at IFA with a 4.8-inch (308 ppi) display, onboard Jelly Bean and a standard 1/2.33-inch BSI CMOS sensor capable of 16-megapixel snaps.
+
+ 
+ August 29th Among the barrage of new gadgets that Sony announced with rapid succession at its IFA presser was the awe-inspiring 84-inch 4K Bravia TV. The 3,840 x 2,160 LCD display is outfitted with an X-Reality Pro Engine and supports greater-than-HD passive 3D upscaling. Thus continued the trend of super-high-res, crazy-expensive TVs.
+
+ Photos: Curiosity landing (Courtesy NASA); Neil Armstrong (Courtesy NASA)
+ SEPTEMBER September 5th Just nine months after the announcement of its Lumia 900 flagship, Nokia outed its successor, the 920. It may have been just as colorful, but this Windows Phone 8 handset was clearly a cut above, featuring a dual-core Snapdragon S4 CPU, a 4.5-inch (1,280 x 768) screen and an 8-megapixel camera packing the outfit's PureView technology.
+
+ September 6th Adding even more light to the fight, Amazon introduced its own illuminated entry into the e-reader field with the Kindle Paperwhite. Nearly five months after Barnes & Noble released its glowing reader, Amazon released its own $120 contender with a front-lit display. The screen also featured 25 percent more contrast and a 62 percent increase in resolution over other Kindles.
+
+ September 12th In evidence that doubling down on secrecy is easier said than done, Apple introduced a very familiar iPhone 5. Proving the rumor mill right, the phone was both taller and slimmer, and sported a two-tone exterior. That new screen measured four inches and packed a 1,136 x 640 resolution. It was the first iPhone to offer 4G LTE.
+
+ September 19th Continuing the unibody construction and naming scheme introduced with the One X, HTC announced its Windows Phone 8X. The colorful WP8 flagship would come in four distinct shades, with a 4.3-inch, 1,280 x 720 Super LCD 2 display; a dual-core Snapdragon S4 processor; an 8-megapixel camera; and Beats audio on board.
+
+ September 23rd Tesla founder Elon Musk teased the unveiling of the company's Superchargers saying it would "feel like alien spaceships landed at highway rest stops." And he was right. At the event, the company revealed its plans to deploy the otherworldly power pumps across the US, Europe and Asia. The stations were said to charge a Model S with 100 kilowatts in about 30 minutes.
+
+ September 25th Google's pet project, Glass, made yet another high-profile cameo on the face of Sergey Brin at the signing of a bill that established rules and regulations for allowing driverless cars on California's roads. Gov. Jerry Brown visited Google HQ in Mountain View to set the stage for the signing.
+
+ 
+ September 25th Its long-awaited touch-friendly OS refresh was no doubt the star of RIM's BlackBerry Jam developer conference, with the company outing details like a new face for BBM and even a new developer handset. However, it was a rather awkward video featuring a rendition of "Keep on Loving You" that stole the show.
+
+ September 28th It wasn't all multi-billion dollar earnings and Foo Fighters performances for Apple this year. Following what may be the company's most public failing of late, CEO Tim Cook issued an apology to its customers for delivering a subpar Maps app. The outfit went as far as to post a list of competitors' solutions to its App Store.
+
+ OCTOBER October 3rd Nearly 10 months after AT&T effectively left T-Mobile at the altar, the carrier was officially courted by another suitor. Deutsche Telekom announced that the magenta one would merge with MetroPCS.
+
+ 
+ October 14th After what seemed like endless delays, Felix Baumgartner's 128,100-foot jump was on. The daredevil broke records (and the sound barrier) for the highest-ever manned balloon flight as well as speed and altitude records for a free fall.
+
+ October 23rd With NASA's shuttle program officially shuttered, 2012 saw a number of the spacecrafts journey to their final resting places. It was Endeavour's stroll down the streets of LA, however, that had the world mesmerized.
+
+ October 23rd Steve Jobs was famously opposed to a smaller slate, but that didn't stop Apple's new regime from releasing the iPad mini. In an attempt to gain back a portion of its tablet market share from the proliferation of 7-inch tablets, the company introduced its own 7.9-inch offering.
+
+ October 26th And the hype beast came to rest. After more than a year of previews, teases and leaks of Windows 8, Microsoft finally made its touch-friendly OS available to the public, ushering in an army of laptop-tablet hybrids and touchscreen PCs.
+
+ October 29th Following the very public embarrassment that was Apple's Maps app, the company announced a shake-up at the top: SVP of iOS software Scott Forstall was on his way out. The head of Apple retail, John Browett, would also be parting ways. Meanwhile, Jony Ive, Bob Mansfield, Eddy Cue and Craig Federighi would all take on added responsibility to fill the void.
+
+ October 27th Having canceled its own hardware announcement due to Hurricane Sandy just two days prior, Google announced its latest Nexus devices via press release. The Nexus 10 was a 10.5-inch Samsung tablet that appeared to share much of its DNA with the Galaxy Tab 10.1, while the Nexus 4 was a 4.7-inch smartphone with a 1,280 x 768 HD IPS Plus display and Snapdragon S4 Pro CPU. Both were powered by the latest Android build: 4.2 Jelly Bean.
+
+ 
+ October 30th Setting off a storm of ridiculously cute (or annoying depending on your perspective) Mickey Mouse Star Wars memes, Disney announced plans to buy Lucasfilm Ltd. for $4.05 billion. The company also voiced its intentions to release a new Star Wars film every two to three years, much to the chagrin of some purists.
+
+ Photos: Baumgartner (Red Bull Stratos/Red Bull Content Pool); Space Shuttle Endeavour (AP Photo/Mark J. Terrill); George Lucas and Disney characters (AP Photo/Disney, Todd Anderson)
+ NOVEMBER November 10th In what appeared to be an attempt to avoid the courtroom drama that marked the Apple v. Samsung case, HTC struck an out-of-court settlement with Cupertino in its own patent suit. The original filing, initiated in March 2010, covered 20 patents related to iOS. This particular suit ended in a 10-year licensing agreement.
+
+ 
+ November 12th It was a big year for Microsoft's Steven Sinofsky. After overseeing the production and release of one of the company's most anticipated software versions ever, Redmond announced that Sinofsky would be leaving the company. Julie Larson-Green and Tami Reller would step in to fill his shoes.
+
+ November 13th When HTC announced its Droid DNA, it proved that the Retina display wasn't the only super-high-resolution game in town. Putting the iPhone 5's pixel count to shame with its 5-inch, 1080p Super LCD3 display (that's 440 ppi), the DNA also packed a Snapdragon S4 Pro processor, Android Jelly Bean, an 8-megapixel rear-facing camera and 1080p video capture.
+
+ November 18t We first got our hands on the Wii U's tablet-like controller in June of last year but it wasn't until its midnight launch event that it would reach consumers. The release came just in time for the holidays and sparked arguments over whether the second screen was a step forward in gaming or merely an over-hyped gimmick.
+
+ November 20th It's no secret that HP has had a tough go of things over the past few years. However, perhaps nothing rivaled the death of webOS in terms of bad news like the $9 billion hit the company reported during its Q4 2012 earnings call. The loss was blamed on accounting "improprieties," stemming from its 2011 software acquisition, Autonomy.
+
+ November 22nd First doesn't always mean best -- at least according to Popular Science. The publication named Google's Siri competitor, Now, its 2012 innovation of the year, calling it, "the first virtual assistant that truly anticipates your needs." Siri had this to say: "Sorry, I don't understand."
+
+ November 29th In further signs of growing political unrest in Syria, all 84 blocks of IP addresses used by the country were taken offline. It was not the first such blackout and again both President Bashar al-Assad's office and rebel forces blamed the opposing party. The US State Department voiced its own opinion, saying it believed Assad cut communications in an attempt to stifle opposition forces. Reports of a return of service surfaced two days later.
+
+ November 30th Two recalls and multiple delays later, Fisker put its Karma hybrid on hold once again. The company announced that it would temporarily halt production due to its battery supplier, A123 Systems, applying for bankruptcy in October. Fisker said it would continue production sometime after the outfit was auctioned off.
+
+ Photo: Steven Sinofsky (AP Photo/Damian Dovarganes)
+ DECEMBER 
+ December 3rd Despite the growing popularity of the tablet and simultaneous decline of print media, Rupert Murdoch's News Corp. announced that it would shutter its tablet-only magazine The Daily on December 15th. The news sparked debates about the viability of the old-school format in a new computing era.
+
+ December 4th It looks like Netflix may be the place to see Episode 8 of the Star Wars franchise on TV. The streaming service signed a licensing deal with Disney that will make it "the exclusive US subscription television service for first-run live-action and animated feature films from The Walt Disney Studios" starting in 2016.
+
+ December 6th According to a fellow dinner guest, Steve Jobs once said, "Those jobs aren't coming back," in response to an inquiry from President Barack Obama about what it would take to make the iPhone in the US. It may not be the iPhone, but during an interview with Brian Williams, Apple's current CEO, Tim Cook, did commit to producing "one of our existing Mac lines" stateside.
+
+ December 7th In what was no doubt upsetting (but, perhaps, unsurprising) news for backers of the Pebble smartwatch, Allerta announced that the Kickstarter darling was hit with further delays and would not be available for the holiday season.
+
+ December 18th Following an uproar sparked by an update to its Terms of Service, Instagram attempted to put an end to "Instagate." The company's co-founder Kevin Systrom took to its blog to clarify the changes, saying the company was simply looking "to experiment with innovative advertising" to increase revenue rather than attempting to sell users' photos as some suspected. Two days later, Instagram reverted to its previous terms.
+
+ December 21st Despite predictions to the contrary, the Apocalypse was not upon us.
+
+ Photos: Rupert Murdoch (AP Photo/Mark Lennihan, file); Disney / Netflix (AP Photo/File)
+

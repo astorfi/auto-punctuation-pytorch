@@ -1,0 +1,23 @@
+
+After nearly a month of beta testing, SwiftKey Cloud is now ready for the masses. Now in final form, the popular Android keyboard can backup and sync customizations across devices, and it can even learn phrases that are trending across the globe. Thanks to one-click authorization, it's now easier for SwiftKey to learn phrases from your Facebook and Gmail accounts, and it can also now tap into Yahoo Mail. You'll also find more responsive Flow predictions in the final version, along with some Emoji fixes. SwiftKey Cloud arrives as part of SwiftKey 4.2, which is available as a free update to current users. The app is also available for a free 30-day trial, but for a limited time, you can also snag the paid version for $1.99 / £1.49, which rings in at half off the regular price. Certainly worth checking out if the stock Android keyboard is no longer cutting it.
+
+
+
+Show full PR textIntroducing SwiftKey Cloud
+* Backup & Sync, Enhanced Personalization and Trending Phrases Added As Free Update to Android's Number One Paid App* Celebration Half Price SaleSan Francisco, CA, August 21, 2013 -- SwiftKey, the award-winning Android keyboard app, today launches its SwiftKey Cloud services as a free update to existing users. SwiftKey Cloud gives users of the popular app the ability to seamlessly backup and sync their personal writing style across multiple devices, creating a cloud-based hub for each user's personal language profile. The launch follows a successful round of beta testing by our community.Using powerful language analysis of major news stories and popular events, SwiftKey Cloud also updates the keyboard's predictions with daily Trending Phrases, letting users discuss the day's current affairs with ease. SwiftKey Cloud also makes it easier to personalize the keyboard based on online message archives, with an enhanced management console and new support for Yahoo! Mail.SwiftKey Cloud will be part of SwiftKey 4.2, a free update for existing users. To celebrate SwiftKey will be 50% off for new users, at $2.99 / £1.49 on Google Play, for a limited time only. SwiftKey can also be purchased from the Amazon App Store and Android PIT.
+
+Enabling SwiftKey Cloud delivers these essential features:
+
+Backup & Sync - With backup, if your mobile or tablet is upgraded, lost or stolen, your personal profile is kept safe in the cloud, giving you the personalized SwiftKey experience within seconds of installing the app on a new device. With Sync, the words and phrases that matter to you are seamlessly shared across all your devices.
+
+Trending Phrases - SwiftKey's technology analyzes Twitter and other news sources to sift out the most relevant daily discussions and localized trending topics. Using advanced language technology, SwiftKey captures the day's most important phrases from the worlds of news, showbiz and sport to help you type about what's on the agenda that day.
+
+This feature now supports more languages: English (US), English (UK), English (AU), Arabic, Dutch, French, German, Hindi, Indonesian, Italian, Korean, Norwegian, Portuguese (PT), Portuguese (BR), Russian, Spanish (ES), Spanish (LA), Swedish, Turkish.
+
+Enhanced Personalization - SwiftKey Cloud makes it easier than ever to ensure your next-word predictions and auto-corrections are tailored to you. Full integration with the Gmail and Facebook APIs allows for 'one-click' personalization for accounts registered on your device, and Yahoo! Mail has been added alongside Twitter, RSS and SMS personalization options.
+
+"We're incredibly excited to bring the power of our predictions to our users wherever they are," said co-founder and CTO Ben Medlock. "We know an increasing number of people have multiple devices that they use in different settings. With today's update, our users can now carry their personal experience with them across all their devices and receive words and phrases based on the news near them."
+
+SwiftKey 4.2 also introduces a range of other features including a clearer settings menu and enhanced configuration options for devices with a built-in or Bluetooth-attached physical keyboard.
+
+

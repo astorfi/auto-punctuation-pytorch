@@ -1,0 +1,6 @@
+
+ 
+Microsoft Download Center, October 22 -- add that to your already-busy Windows 7 release party itinerary. That'll be the quickest and most painless way to enrich your hot new OS with the now finalized code for XP Mode, a virtualized Windows XP environment for those who just can't let go of their legacy software. The solitary hitch is that you'll need to have purchased a copy of Windows 7 Professional or higher to get in on the fun, but you already knew that, right? Oh, and you might also want to check that your hardware manufacturer hasn't disabled virtualization as part of some overzealous security / party-pooping measure. [Via Ars Technica; Thanks, Eugen]
+      
+
+ 

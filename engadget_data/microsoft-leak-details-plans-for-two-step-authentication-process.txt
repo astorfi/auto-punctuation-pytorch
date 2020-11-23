@@ -1,0 +1,10 @@
+
+ Smoke goes up. Lights fade. The crowd roars. It's 2003, and the Dave Matthews Band is about to perform what would go on to become the theme song for security processes the world over a decade later. Weird visualizations aside, it sure seems as if two-step authentication has become all the rage these days. With Google implementing the process in 2011, both Apple and Dropbox have followed, and Evernote has made clear that it's going to join the fray as soon as feasible. Now, leaked imagery is demonstrating that Microsoft might not be far behind, with a two-step verification process evidently planned for its online services.
+
+ As you'd expect, the process should work pretty simply once it's instituted -- you'll need to enable two-step on your account, and then use an app on your mobile device to retrieve randomized keys when logging into a computer that's not on your trusted device list. Notably, the process isn't expected to work with linked accounts, and while a Windows Phone app appears to already be floating about, there's no word on whether Android, BlackBerry or iOS users will receive the same courtesy. Till then, keep your passwords guarded. And, of course, watch the video embedded after the break.
+
+
+
+
+ 
+ 

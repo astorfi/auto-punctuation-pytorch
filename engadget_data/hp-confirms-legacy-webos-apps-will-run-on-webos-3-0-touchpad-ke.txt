@@ -1,0 +1,6 @@
+
+ 
+We know the original Palm Pre models and Pixi won't get upgraded to webOS 2.0, and we also know all about the new Enyo app development framework. But what about running those apps written in the older Mojo framework on webOS 3.0 devices, like the TouchPad? They'll be supported, so says HP Developer Relations and Framework Engineer Ben Combee. A first tweet indicated that "On webOS 3, Mojo apps will run in an emulation window with back and forward buttons at bottom." He went on to say this won't be a traditional emulator in the "check out my Super Metroid ROM, yo" sense, rather "a smaller card with gesture area chrome." So, good news for existing apps continuing to be supported going forward, but of course it remains to be seen what the experience will look and feel like. It seems we'll have to wait a bit to find that out.
+      
+
+ 

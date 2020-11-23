@@ -1,0 +1,6 @@
+
+ 
+The Droid X got rooted just about a month ago, but still users are unable to run their own custom ROMs -- something seen as a basic right amongst the Android community. Now those chaps are a good bit closer to getting there thanks to a new recovery mechanism posted by Koush. What's taking so long? The security mechanisms on the Droid X are said to be "a real bitch" and, to circumvent them, Koush had to hijack a logging process that runs at boot-up. This process runs in place of that, allowing a user to restore their phone to a previous backup generated before trying to do something wild and crazy. What does this mean? ROM runners now have a means of safely retreating if they find themselves cornered (or bricked), allowing them to try more daring assaults more often, and meaning we could be only days away from Droid X users being allowed to fully express themselves.
+      
+
+ 

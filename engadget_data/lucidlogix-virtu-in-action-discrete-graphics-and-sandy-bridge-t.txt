@@ -1,0 +1,6 @@
+
+ 
+At CES, LucidLogix's Virtu software solution promised to get discrete and Sandy Bridge GPUs together in graphical harmony -- giving you both Sandy Bridge's greased-lightning video transcoding and the horsepower of an NVIDIA or ATI rig. The code also lets you watch content from Intel's forthcoming Insider movie service while running a discrete GPU. Now that Chipzilla's 2nd-gen Core i5 and i7 CPUs are getting to market en masse, the gang at Hot Hardware put an RC of Virtu through its paces to see what it can do. As expected, the software waxes chumps and smokes fools when encoding HD video, but gaming performance suffered slightly (in FPS and 3DMark 11 tests) with the technology enabled. The other nit to pick was that Virtu renders the control panel of your discrete card unavailable, so any graphics adjustments must be made in-game whenever the software is running. Time will tell if the final release has similar shortcomings. Hit up the source link for the full rundown.
+      
+
+ 

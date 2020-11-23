@@ -1,0 +1,87 @@
+
+A simple kind of happiness reigns in the world of mobile gaming. The app stores are brimming over with four-star ratings; popular titles are making billions of dollars for their creators; and folks on the morning commute seem generally content with what they're playing -- sometimes destroying rows of fruit, sometimes rows of candy. Few of us expect or demand anything deeper on a tablet or smartphone, and surely none of us would be crazy enough to choose our next handset based solely on a criterion as narrow as 3D gaming performance. Right?
+
+
+Well, yes and no. Things certainly get more complicated when you look at the cutting edge -- especially on Android. The industry is pushing the boundaries of what a mobile game can be, what a mobile processor can do and what an Android-based gaming device can look like. And as ambitions escalate, so do the risks. The old nemesis of fragmentation means that certain titles may stutter, or cause excessive battery drain, or fail to run at all, so that those glowing reviews turn into one-star complaints and customers go back to playing it safe.
+
+
+The industry is pushing the boundaries of what a mobile game can be
+That's why we reckon it's a good time to take stock -- to measure how well some current and older Android devices handle a sample of graphically demanding games. We've got cold, hard numbers to show you, which should help to pinpoint the most future-proofed products. We also have a secondary aim, which is to set a benchmark against which we can judge the next wave of hardware, soon to be announced at Mobile World Congress. Indeed, it's already becoming clear that, from a gaming perspective, smartphones don't always progress in the manner or at the rate that we might expect.
+
+
+
+The Test
+This bit could have been arduous, but it turned out to be surprisingly simple. An independent, UK-based company called GameBench has taken up the challenge of collecting real-world gaming performance data and it has kindly given us early access to its raw info. The numbers are based on a sample of four games (Despicable Me: Minion Rush, Real Racing 3, Dead Trigger and Deer Hunter 2014) played by three different players (one beginner, one intermediate and one advanced), with airplane mode switched on and everything else tuned out. Smoothness is measured in terms of the median frame rate, which is the best proxy for the performance as experienced by the gamer. The other key metric is battery drain, measured as percentage lost per hour, because most people will simply avoid games that kill their phones before they get home.
+
+GameBench's results are a lot more revealing than so-called synthetic benchmarks
+
+The big downside to our test is that it takes a lot of time. GameBench has its own app for monitoring performance and making testing easier, and it's working on testing more devices with a bigger sample of 20 games, but it couldn't provide all that data in time for MWC, so we had to make some tough decisions about what to include. The upside, however, is that even though GameBench's results aren't totally comprehensive or perfect, they're still a lot more revealing than the so-called synthetic benchmarks that we'd normally be forced to rely on -- i.e., scores collected by dedicated benchmarking apps that are easy to run and difficult to trust.
+
+The devices
+Since the biggest determinant of a device's performance is its processor, GameBench has tested products that represent the major chips currently on the market: two Samsung Exynos processors housed in Asian versions of the Galaxy Note 3 (N900) and Galaxy S4 (I9500); two Qualcomm Snapdragons inside the Western variants of the Galaxy Note 3 (N900x) and Galaxy S4 (I9505); two Tegras from NVIDIA inside a Shield handheld and an old (2012) Nexus 7; and finally an Intel Clover Trail+ chip inside a Lenovo K900.
+
+Yes, there are a couple of non-smartphones in that list. The Nexus 7 is included for curiosity's sake -- we wanted to see how an older device would fare, and whether the benefit of a tablet-sized 4,325mAh battery might be canceled out by the power draw of the larger display. The NVIDIA Shield, meanwhile, is included as a reference device. It has by far the best frame rates of any device GameBench has tested so far, achieving the maximum possible of 60 fps (i.e., the refresh rate of the display) in all the sample games except Minion Rush, which the Play store wouldn't let us install. The Shield also has great stamina, lasting for four to five hours of solid gameplay on a charge. At least part of this is due to the fact the Shield has a resolution of 720p, whereas the smartphones we're testing here are 1080p, but we want that to be part of the comparison: If the trend towards ever-higher pixel densities entails a big drop in frame rates, then it isn't necessarily something gamers should welcome.
+
+We can summarize the two key metrics for the Shield through a very crude bit of math: by dividing the average median frame rate (60) by the average battery drain percentage per hour (23), which gives us a result of 2.6 -- this certainly isn't an official GameBench score, or an alternative to looking at the raw data, but it's a handy little way of combining two averages into a single, vaguely representative figure.
+
+The results
+So, we arrive at the rankings. If you've just joined us, having skipped all the previous sections, that's OK -- we don't hold grudges, but we'll take this opportunity to reiterate an important disclaimer: These results relate solely to a device's game-playing ability, with everything else deliberately factored out, so they don't reflect our overall ratings of these devices (you need to check out our product pages to get those).
+
+Tier One - the best in the business     Galaxy Note 3
+
+ (Snapdragon 800)
+
+   Galaxy Note 3
+
+ (Exynos 5420)
+
+   Galaxy S 4
+
+ (Exynos 5410)
+
+      Minion Rush      - Frame rate (median) 25 27 29   - Drain rate (per hour) 22 24 32   Real Racing 3      - Frame rate 26 30 27   - Drain rate 24 21 22   Dead Trigger      - Frame rate 51 54 57   - Drain rate 23 23 28   Deer Hunter 2014      - Frame rate 51 54 57   - Drain rate 26 28 21   Average       - Frame rate / Drain rate 1.61 1.71 1.65  Let's start with the device that most of us will be familiar with: the American and European LTE version of the Samsung Galaxy Note 3, which runs on a Qualcomm Snapdragon 800. Although the phone came in under the other two devices in this tier, based on our approximate average score, it nevertheless had a solid mix of high performance and good stamina. This tallies with something we've been noticing about Snapdragon 800 devices in general: Whether it's a Note 3, Nexus 5, Sony Xperia Z1 or LG G2, the ratio of performance to battery life is healthy. If you can add a big, phablet-sized battery into the mix, preferably 3,000mAh or higher, you should end up with a pretty game-friendly device.
+
+But the big surprise here is the performance of the two Exynos-powered phones, the Asian Galaxy Note 3 and Galaxy S4. These phones top our chart with frame rates consistently close to or above 30 fps and at least three hours of gaming on a charge. This revelation may not be immediately practical to a phone buyer, since these devices are hard to get hold of and they're not compatible with Western LTE bands, but it leaves us keen to check out future Exynos-powered devices that are coming to the US and UK -- including the new Galaxy Note Pro 12.2, which we're hoping to review shortly.
+
+Tier Two - adequate gamers     Galaxy S4
+
+ (Snapdragon 600)
+
+   HTC One
+
+ (Snapdragon 600)
+
+   Nexus 7 2012
+
+ (Tegra 3)
+
+      Minion Rush      - Frame rate (median) 28 19 29   - Drain rate (per hour) 32 20 19   Real Racing 3      - Frame rate 27 21 37   - Drain rate 26 22 20   Dead Trigger      - Frame rate 51 49 33   - Drain rate 29 27 39   Deer Hunter 2014      - Frame rate 56 46 41   - Drain rate N/A 21 33   Average       - Frame rate / Drain rate 1.40 1.50 1.26  Next we come to the "ordinary" flagships: the Snapdragon 600-powered Galaxy S4 and HTC One, which are starting to show their age and are soon to be superseded. The first thing you notice is that they're forced to make a trade-off between frame rates and battery, instead of delivering on both like our top-tier devices did.
+
+As we've reported before, the GS4 goes for performance (partly due to having a higher clock speed), while the HTC One goes for stamina. Ultimately, however, GameBench would describe the GS4 as the better device for gaming, despite what our crude average score shows, and also despite what certain synthetic benchmarks might have shown in the past. This is simply because it plays our sample of games at frame rates much closer to 30 fps -- the traditional threshold for smooth-looking 3D graphics -- whereas the HTC is left rendering games like Minion Rush or Real Racing 3 at just 20 fps.
+
+The same trade-off is visible with the OG Nexus 7, which has very bad drain rates in a couple of games. Its big battery is of little help against a larger display, aging chip architecture and chunky transistors. That said, bearing its age in mind, the Tegra 3 tablet performs surprisingly well within this table, with strong frame rates throughout. In fact, if you prioritize frame rates over battery drain, then you could easily rank this tablet as top of the tier -- even above the GS4. We can speculate that other Tegra 3 devices, like the HTC One X+, should still have some life left in them for most Android games, so long as you don't stray too far from a power source.
+
+Tier Three - the Intel corner     Lenovo K900
+
+ (Intel Z2580)
+
+      Minion Rush    - Frame rate (median) 27   - Drain rate (per hour) 44   Real Racing 3    - Frame rate N/A   - Drain rate N/A   Dead Trigger    - Frame rate 38   - Drain rate 34   Deer Hunter 2014    - Frame rate 51   - Drain rate 40   Average     - Frame rate / Drain rate 0.98  As you can see, the Intel-powered device in this roundup didn't fare so well. This is the Lenovo K900 with a dual-core Clover Trail+ Z2580 processor -- a chip which, thankfully, is soon to be replaced by a new generation, although we won't see next-gen Intel Android handsets until later in the year.
+
+Intel's bad score shouldn't come as a surprise if you've seen synthetic benchmarks for this chip, but it highlights just how much of a disadvantage Intel faces when it comes to gaming: Clover Trail+ couldn't handle Real Racing 3 at all, and with some titles, the K900 burned its battery at twice the rate of an HTC One. In other words: Even if Intel doubles its Android gaming performance in the next generation of devices, it still won't be able to match that of ARM-based rivals.
+
+The problem, we suspect, is that most Android games are heavily optimized for ARM chips, and Intel's chip is forced to work harder to make a game run smoothly -- an amazing feat when you consider everything the processor must be doing behind the scenes, but one that leads us to the depressing conclusion that Intel is unlikely to be a force in Android gaming anytime soon.
+
+Wrap-up
+More Info Video: Unreal Engine 4 running on the Tegra K1 Phone makers cheat Android benchmarks Do you really need a 4K smartphone screen?Seven devices, three tiers and one unexpected conclusion. When you compare smartphones across a product range (e.g., Galaxy S4 vs. Galaxy Note 3) or across a processor generation (e.g., Snapdragon 600 vs. Tegra 3), raw performance doesn't appear to change a great deal. That's not to say that newer or more expensive chips aren't more capable, but their extra capability evidently isn't being turned into wildly better frame rates. Minion Rush and Real Racing 3 ran at 20-30 fps on most of the devices we tested, while Dead Trigger and Deer Hunter 2014 mostly generally ran at 40-60 fps.
+
+Instead, the biggest variation in smartphone hardware lies in the less sexy of our two metrics: battery life. Upgrade your phone and games don't suddenly look better; they just last longer. The most efficient handsets were those running on the latest Samsung Exynos Octa and Qualcomm Snapdragon 800 chips. In the middle, we find devices based on the Snapdragon 600 and premium chips from the previous generation, such as the Tegra 3. At the bottom end we have Intel, whose architecture apparently has to burn extra milliwatts just to keep up with ARM-based chips.
+
+"Upgrade your phone and games don't suddenly look better; they just last longer"
+
+The big exception to all of this is the NVIDIA Shield, which might have won this ranking if it had been born as a 1080p smartphone instead of a 720p hand-held console. It managed very high frame rates with equally good stamina, which makes it all the more ironic (but also perhaps revealing) that the Tegra 4 and the Shield itself are widely considered to be niche products and, frankly, commercial flops.
+
+How to explain all of this? It's tricky, but the answer almost certainly lies in that simple-but-happy image of Android gaming that we painted at the start of this article. If games continue in the same vein that they have, designed to run reasonably well across a majority of devices rather than pushing high-end processors to their limits, then chips and devices that prioritize 3D gaming performance will continue to be dismissed as overkill.
+
+If, on the other hand, 2014 highlights a different sort of Android developer -- one who deliberately caters only to a handful of top-end devices and the latest graphics standards, and whose games are amazing enough to justify that sort of attitude -- then a full-blown arms race could well ensue. Software creators and hardware makers would be forced to start working together a little more and, for better or worse, Android's fragmentation problem would be brought to a head. There's no guarantee that this will happen, of course. Perhaps mobile games are destined to remain as they are. But still, we have a gut feeling that we can't keep repetitively flapping around or attacking pigs forever.
+
+

@@ -1,0 +1,14 @@
+
+
+
+tweetmeme_url = 'https://www.engadget.com/2009/10/17/twitter-founder-jack-dorseys-squirrel-project-revealed-as-th/';
+tweetmeme_source = 'engadget';
+
+Remember the Square iPhone Payment System we told you about back in August? If you'll recall, the device -- which involves an iPhone app and associated dongle -- enables an iPhone or iPod touch to become a kind of mini credit card reader, allowing payments to be taken on the spot, no matter where you are or how big (or small) the transaction may be. When we'd first reported the device, word on the street was that it was only being alpha tested around New York City, and there wasn't much else to say. Now, we may have a little more insight on just where this device is headed, and who's behind the project.
+
+Jack Dorsey, the man who all but built Twitter in a matter of two weeks, has been working on a half-secret start-up project since around May. His new venture -- dubbed, funnily enough, Squirrel -- is based around the concept of using the iPhone as... yep, a portable, personal cash register; essentially the exact device which Square has created. And that's no accident. In the images we ran of the Square system, you can see a domain name on a receipt: squareup.com. Squareup.com is the domain of the Square System (obviously), and a casual investigation into the site's WHOIS profile reveals registrant info that points to an office in San Francisco, and a contact email address which reads... billing@paybysquirrel.com. Square, squirrel, square... are you getting it? So the cat, er, squirrel appears to be out of the bag. Now the question is whether or not Dorsey and co. can turn this fairly obscure piece of tech into the kind of firestorm which Twitter has become -- and who knows, maybe there'll even be a business model this time.
+
+[Thanks, Little Birdie]
+      
+
+ 

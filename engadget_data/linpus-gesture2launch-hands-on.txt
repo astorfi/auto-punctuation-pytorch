@@ -1,0 +1,10 @@
+
+ You might remember Linpus from its various Linux projects, but these days the outfit is getting into apps in a big way. We've just been hands-on with its latest offering, Gesture2Launch, a straightforward concept that could prove seriously useful to those with Windows 8 touch-enabled devices. The current app has default gestures that can be assigned to an array of functions -- both to launch applications and to trigger system actions. Most of the gestures are based on letters, so to launch the calculator you'd just bring up the charms bar (which primes the system for your input) and then draw the letter 'C'. An upside-down 'U' would bring up the lock screen.
+
+ The version we played with, however, takes things a step further. It lets you create your own gestures, which ought to make them a tad easier to remember. This feature should be added soon, but for now you can see how we fared with the app in the video after the break (demoed on a rather nice Acer Aspire S7) and then it try out free-of-charge via the link below. It leaves us wondering why Microsoft didn't implement something like this out of the box.
+
+
+
+ 
+ Dana Wollman contributed to this report.
+

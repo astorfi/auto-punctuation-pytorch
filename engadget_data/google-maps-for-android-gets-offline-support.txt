@@ -1,0 +1,8 @@
+
+ 
+ Google's Maps event has just given us a much-requested feature: true offline map support. Android users can soon opt to download full maps for given areas (instead of just caching routes) without needing a cellular or WiFi connection. It's a big boon for those of us who have to travel abroad to unfamiliar cities, or just to areas where underground tunnels might cut off Internet access before GPS. Unfortunately, that's all that Google was willing to share: Android phones and tablets will only be getting the upgrade sometime "soon." Still, that's one less advantage for Nokia Drive, and one more hurdle to jump for Apple at WWDC next week.
+
+ Update: We just followed up with Peter Birch following the keynote regarding version compatibility for offline and 3D Maps, and were told that Google "has nothing to announce at this time," but will do so in the coming weeks. We prodded a bit to see if 2.x devices would be in the mix, and all we got was a non-confirming reply about an "assumption" that if Google Maps Navigation is supported, offline and 3D would be as well.
+
+ Relive the memories in our liveblog... right here!
+

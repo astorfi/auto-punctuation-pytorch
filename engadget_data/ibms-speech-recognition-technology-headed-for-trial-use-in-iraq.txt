@@ -1,0 +1,6 @@
+
+ 
+Being frequent users of machine translation ourselves, we're fully aware of the difficulties present in its execution, but IBM seems to think they've got it worked out well enough for some real-life use in Iraq. Their "Multilingual Automatic Speech-to-Speech Translator," AKA Mastor combines speech recognition, machine translation, and text-to-speech technologies to create a common translation engine that is apparently independent of languages. The system develops translation patterns off of regular conversational use of the languages, and is purportedly as speedy as a human translator -- and provides a text read-out of the conversation to boot. DARPA has had similar tech in the works for a while, but now IBM's Mastor is apparently ready enough for actual use, since they're shipping 35 Mastor-equipped ruggedized laptops to Iraq as a trial run, and will consider even more depending on how these work out. So far Mastor works for translation between English and Iraqi Arabic, standard Arabic or Mandarin. The system can run on a laptop or PDA, and should be making its way to commercial channels such as medicine before long.
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+We've finally found ourselves a solid, confirmed shot of a micro SIM in the wild, thanks to an FCC filing from Lok8u -- the company that just inked a deal with T-Mobile -- that shows the innards of its GPS watch torn asunder. Over on the right there is one of the micro SIMs in question, and as you can clearly make out, the contact pad is identical to the one you'd find on a traditional SIM (that shot of an AT&T unit that we'd posted earlier was actually a mockup by our own Sean Cooper, you see). In other words, if you were really hard up to get that iPad up and running on a network that isn't providing micros, you could probably shoehorn a traditional SIM in there with a little elbow grease and handiwork, which happily matches up with information we've been hearing from several contacts of ours. Who knew Lok8u would be so important in this investigative process?
+
+Update: The ETSI has also confirmed to CNET UK that micro SIMs are electrically identical to their older counterparts, so that's a promising sign, and Boy Genius tells us that he used to shave down SIMs to micro SIM size back in the day for dual SIM adapters -- in other words, you're probably not going to damage the chip by trimming (and even if you do, it's a simple replacement from your carrier). Thanks, Matthias!
+      
+
+ 

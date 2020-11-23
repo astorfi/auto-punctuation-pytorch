@@ -1,0 +1,38 @@
+
+ 
+ Yes, you heard right. AMD just added to ARM's burgeoning heap of gold coins, having licensed the British company's Cortex-A5 design for use in its own hardware. While this might sound like a dramatic capitulation on the part of the struggling giant, particularly after yesterday's news, it probably isn't. AMD says it'll use the ARM component solely for adding better security features to its next generation of business-focused laptops and tablets. A spokesperson told us the company's "commitment to x86 hasn't changed," referring to the fact that it'll continue to use its regular in-house chip architecture for the primary task of running applications.
+
+ The Cortex-A5 will be one tiny core squeezed in amongst everything else on the future 28nm silicon. It'll be dedicated to running ARM's proprietary TrustZone technology, which protects sensitive apps from tampering -- stuff like mobile payments, DRM, and nudge, nudge corporate documents. Rather than invent its own system for doing the same thing, AMD reckoned it'd be easier to work with ARM's, and who can blame it? If we remember rightly, even Intel made a similar call five years ago.
+
+ [Tentacles via Shutterstock]
+
+
+
+  Show full PR text   AMD Strengthens Security Solutions through Technology Partnership with ARM
+   – Industry-first Collaboration to Extend ARM TrustZone Security Technology into x86- based AMD Offerings, Enabling More Secure Computing Experiences and Significantly Expanding the Security Ecosystem
+
+   SUNNYVALE, Calif. - June 13, 2012 - AMD (NYSE: AMD) today announced it will integrate a new security solution into its future products to meet the increasing need to provide consumers and businesses with secure access to their content and worry-free online transactions. Through a strategic technology partnership with ARM, AMD will integrate the established ARM® TrustZone® technology into future Accelerated Processing Units (APUs) via a system-on-a-chip (SoC) design methodology. This industry-first collaboration will help accelerate broader ecosystem support by aligning x86 hardware with the world's most broadly-adopted mobile security ecosystem.
+
+   By adopting the industry-standard approach to security that TrustZone technology embodies, AMD and ARM will provide a consistent approach to security spanning billions of Internet-connected mobile devices, tablets, PCs and servers − whether they are powered by ARM processor-based solutions or AMD x86 APUs. AMD plans to provide development platforms that have TrustZone security features on select APUs in 2013, expanding further across its product portfolio in 2014. In a presentation this week at the AMD Fusion Developer Summit 2012 (AFDS), AMD Senior Vice President and Chief Information Officer Mike Wolfe described AMD's vision to advance computing security by enhancing AMD's existing security technologies. This is expected to include developing a platform security processor using an ARM CortexTM-A5 CPU that features TrustZone technology, to monitor and help protect against malicious access to sensitive data and operations at the hardware level.
+
+   "With AMD's support for, and inclusion in, the expanding TrustZone ecosystem, consumers and businesses can rest assured their data and content are secured by an industry-standard security solution that spans a multitude of devices and operating systems," said Wolfe.
+
+   "This example of AMD's ambidextrous strategy, which leverages our history of x86 and graphics innovation while also embracing other technologies and intellectual property, will help drive a more secure computing experience for our consumer and businesses customers."
+
+   "As technology becomes more important to our everyday lives, security needs to be present in every single device. The challenge that the industry faces is how to make this a reality," said Ian Drew, executive vice president, strategy, ARM. "Through this technology partnership with AMD, and the broadening of the ARM TrustZone technology ecosystem, we're making another important step towards a solution. The aim is to make security accessible and consistent for consumers and business users across all computing devices."
+
+   Industry Support Demonstrates Market Need
+
+   In recognition of the first time hardware will be aligned to an industry-standard security solution between multiple processor architectures, the technology partnership has garnered wide support from industry leaders and influencers.
+
+   "At Alipay, we strive to provide safe and reliable online payment services to hundreds of millions of registered users for the tens of millions of transactions they make every day," said Stephen Zhu, senior director, Alipay. "By incorporating security at the hardware level, AMD and ARM are providing an added level of protection and taking us one step closer to achieving this goal."
+
+   "Hardly a week goes by without the emergence of another scary story regarding stolen identities or some other computer-related security breach – such as last week's hack of social career networking website LinkedIn that resulted in millions of stolen passwords," observed Nathan Brookwood, Research Fellow at Insight 64. "The bad guys have figured out that it's easier to steal money from a bank's computers than from the bank itself.
+
+   AMD's move to integrate ARM's TrustZone technology into future APUs will allow systems containing those APUs to attain the same level of hardware-enforced security as today's most advanced devices, and will allow the users of those systems to sleep more soundly at night.
+
+   ARM TrustZone Brings Security to Millions of Devices
+
+   ARM TrustZone technology - a system-wide approach to security - is a key component of the ARM architecture and is integrated into the ARM Cortex-A processor series. Launched in 2004, TrustZone is a result of ongoing co-development that ARM carries out with a wide range of companies and has been implemented in a wide array of devices to date. The aim of the TrustZone ecosystem is to drive industry alignment and scalability. This will enable billions of TrustZone technology-based devices to meet the system security needs of consumers, service providers, enterprises and device manufacturers.
+
+ 

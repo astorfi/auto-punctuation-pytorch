@@ -1,0 +1,11 @@
+
+ 
+Good news and bad news: the good news is that we got to look at Synaptics' Fuse concept phone, which pairs capacitive touch overload with tilt sensing, squeeze sensing and a fair bit of haptics. The bad news is that Synaptics is holding off on showing the actual UI until MWC in February. So for now we've got a working prototype that demonstrates that the sensors really do work. It's an abstract affair, involving the formation of little 3D spheres that roll around on the screen and can be tweaked, pushed and generally confused by the various input methods. Everything works great, with wonderful touch sensitivity on the back of the "phone" being one of our favorite elements we'd like to see in more devices. One thing that became clear while playing with the phone is that while it's targeted at improving one-handed operation, it's actually impossible to actuate all the various sensors simultaneously with one hand, which we suppose Synaptics should see as a mark of distinction. Check out a couple videos of the demo in action after the break. 
+
+
+
+
+
+
+
+ 

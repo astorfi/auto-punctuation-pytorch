@@ -1,0 +1,15 @@
+
+
+This isn't the first time we've heard of viruses
+preloaded on hard drives as they make their way out the factory door — but IO Data Device Corporation has announced
+that certain models in their "HDP-U" line of portable hard drives somehow escaped loaded with the "W32/Tompai-A"
+trojan. What might be even worse is how IO Data Device handled the problem; they didn't release the serial numbers of
+infected drives until some 14 hours after the announcement of the infection. We realize that even a good six sigma
+program won't pick up every defect, but this kind of muck up should really never occur — and IO Data isn't even
+offering a removal tool (yet). Apparently they expect you to use your own software or download a 30 day trial of Trend
+Micro's software; thanks for the help, IO Data!
+
+
+
+
+ 

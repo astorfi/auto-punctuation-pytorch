@@ -1,0 +1,4 @@
+
+The Syrian Electronic Army isn't happy with VoIP app developers as of late -- following an attack against Tango last week, the politically motivated hacking group has compromised Viber's support page. The SEA claims to have downloaded database backups from Viber that include phone numbers, device IDs and push notification tokens. However, the company believes that the attack was largely harmless for regular customers; SEA's team got access to top-level support systems, but not the all-important user databases. They're kept in a system that can't be reached by attacks like these, according to Viber. While that news is reassuring, we'd advise playing it safe by watching for any suspicious account activity.
+
+

@@ -1,0 +1,24 @@
+
+You may not have come across DJI before, but this brand is no stranger in the world of hobbyist drones. Even production studios use the company's gear for aerial videography, but that involves a lot more money than the average consumer can stomach -- DJI's three-axis camera gimbal alone can cost up to $3,500, on top of about $3,000 for its latest six-rotor aircraft. And this is before you include a camera plus a remote control. Fortunately, we now have a more affordable option that still comes with camera stabilization: the Phantom 2 Vision.
+
+
+With a $1,199 price tag, this all-in-one package is aimed at prosumers who are looking for something more serious than, say, Parrot's AR.Drone series. While the latter's designed for entertainment, the Phantom 2 Vision gives you a taste of the advanced maneuverability and camera features from DJI's pro-level products. The relatively light 1.16kg drone features a built-in 14-megapixel camera (with a 1/2.3-inch sensor), which is mounted on a tilt-axis gimbal under the belly. The only bits that need to be installed are the four self-tightening propellers, along with a swappable 57.72Wh battery that lasts up to 25 minutes (but takes from one to two hours to fully charge when depleted). 
+
+
+
+
+
+
+The package comes with its own remote control. This is powered by four AA batteries and features spring-centered sticks, with the left one taking care of height and yaw, and the right one for moving horizontally. To take off, hold both sticks down toward the bottom-center of the controller until the propellers are active. Doing the same when they're spinning kills the motors, or you can just hold down the left stick until the propellers are idle. We initially found the controls to be quite sensitive, but over time we got the hang of it and managed to fly the drone without accidentally speeding -- the top speeds are 15m/s for flight (beating the AR.Drone 2.0's 11.11m/s) and 6m/s for ascent or descent, both of which are quite impressive. If needed, the sticks' sensitivity can be adjusted through the drone's desktop assistant software.
+
+With the iOS or Android app installed, you can get a live stream of the drone's view.
+
+Now, in order to take advantage of the drone's camera, you'll need to install DJI's app on your iOS or Android phone, and then mount it on the controller using the bundled clamp -- it just about managed to fit our HTC One Max. As the phone will rely on the drone's WiFi hotspot instead of the controller's 5.8GHz radio, you'll also need to mount the included WiFi range extender onto the controller to get the 300m reception range (we've managed to go up to about 500m). With the iOS or Android app installed, you can get a live stream of the drone's view, as well as the ability to adjust the camera's various parameters (tilt angle, field of view, resolution, ISO, white balance, exposure compensation, sharpness and more) and get live feedback for the drone's bearing, altitude and speed.
+
+Here's the clever bit: If the drone goes out of range or somehow loses contact, it will attempt to head back to its takeoff point and land, provided that its GPS is active in the first place. Another fail-safe mechanism is that when the battery level goes below 15 percent, the drone will start to descend and land automatically, so be sure to start bringing the device closer to home when you get the first battery alert at 30 percent power (especially when you're flying over water!).
+
+
+
+
+
+

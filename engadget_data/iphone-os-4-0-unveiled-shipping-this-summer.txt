@@ -1,0 +1,45 @@
+
+ 
+Just a bit more than a year after we first laid eyes on iPhone OS 3.0, Apple is back with the latest big revision of the OS that powers the iPhone, iPod touch and iPad. iPhone OS 4 is shipping this summer (iPad in the fall), and the developer preview will be out today. iPhone 3GS and new-gen iPod touch will get all the features, but some features won't make it to the iPhone 3G, original iPhone, and older iPod touches. The biggest new feature is multitasking, which Apple says is going to be the "best" implementation in the smartphone space, though it's obviously not the first. App switching is activated by double tapping the home button, which pulls up a "dock" of currently running apps, and Apple claims it can do this without hurting battery life or performance for the front app. Unfortunately, this multitasking won't be available for devices older than the 3GS and new iPod touch. Multitasking is just one of seven different new "tentpole" features, including Game Center, enhanced Mail, and more...
+
+Notable new features for users ("tentpoles" are in bold):
+
+Multitasking.
+Spell check (like on the iPad).
+Bluetooth keyboard support (again, on the iPad).
+User-defined wallpaper (a jailbreak favorite).
+Tap to focus when recording video, just like with photos, and a 5x digital zoom for the camera.
+Playlist creation and nested playlists.
+App folders for sorting apps! You can even put an app folder in the dock.
+Enhanced Mail! You can have a merged inbox view, switch between inboxes quickly, and sync to more than one Exchange account. There's also threaded messaging (at last!) and in-app attachment viewing.
+iBooks, just like on iPad, only smaller. You can wirelessly sync books between platforms, a la Kindle.
+Enterprise features, including remote device management and wireless app distribution.
+Game Center. It's like Xbox Live, but for iPhone games. Includes achievements, leaderboards, and match making. It will be available as a "developer preview," and out for consumers later this year.
+
+
+Developers are getting plenty of new tricks too:
+
+New SDK, available today.
+1,500 new APIs.
+Background audio (think Pandora).
+Background VoIP (think Skype).
+Background location data, both with live GPS for backgrounded turn-by-turn, and cell tower-based for lower power draw.
+Local notifications. Like push notifications, but sends a notification straight from the app without needing a push notification server, perfect for an alarm, for instance.
+Fast app switching. Saves the state of an app and resumes it from where you left off, without dwelling in memory.
+iAd. Apple says it's for keeping "free apps free." The ads keep you in the app, while also taking over the screen and adding interactivity -- using HTML 5 for video -- up to simple gaming in-ad. Apple will offer a 60 / 40 split on revenue, and users can even buy apps straight from an ad.
+In-app SMS.
+Map overlays.
+Quick look for previewing documents.
+Photo Library access.
+Calendar access.
+Full access to the camera.
+Video playback and capture.
+Date and address "data detectors."
+Automated testing and performance / power analysis (the same tools Apple uses).
+
+
+
+  
+
+Make sure to check out the iPhone OS 4.0 liveblog to see how it all went down!
+      

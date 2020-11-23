@@ -1,0 +1,16 @@
+
+
+
+As expected, this year's WWDC was all about the software, and certainly there was plenty to talk about on that front, what with the unveiling of of iOS 7 and OS X Mavericks. We did get a little bit to whet the appetite of hardware lovers, however -- mainly a sneak peak of the cool new cylindrical Mac Pro and a refresh to Apple's popular MacBook Air line. We managed to snag a few pictures of the forthcoming tiny desktop workstation, and now we've got our hot little hands on the new ultraportable. From an aesthetic standpoint, there's not too much to write home about -- nothing, really. This is the same Air you know and, possibly, love. It's tapered thin, brushed aluminum shell, with all those standard ports (original Thunderbolt, included). And the display, while sharp, is no Retina -- you'll have to keep waiting on that front.
+
+
+Odds are Apple opted not to swap in the higher-res screen in order to not sacrifice the laptop's battery life -- and certainly the company's got some bragging rights on that front, with a reported bump from five to nine hours on the 11-inch and from seven to 12 on the 13-inch. We'll be reporting back on that fact in the near future -- once we have a good half a day to try it out. That bump comes thanks to new innards -- specifically the inclusion of those new Haswell chips. Apple has also promised that the new CPU has given the systems a nice pep in their performance step, as well. We ran the Air through some benchmarks to see if it's all it's cracked up to be. Check those out after the break.
+
+
+
+
+There's definitely some good news on the Blackmagic Disk Speed Test front. We clocked 433.4 MB/s on the write speed for the test -- an excellent number, though not unheard of. Better yet is the read speed -- the plucky little ultraportable got a 725.4 MB/s. That is, indeed, almost twice the speed of the current 15-inch MacBook Pro with Retina. Curiously, though, we saw a dip in our Geekbench and Xbench numbers -- we're still trying to get to the bottom of that, but it's certainly possible that those apps might not be quite up to speed for the new hardware. We'll investigate and report back in a full review to come.
+
+Follow all of our WWDC 2013 coverage at our event hub.
+Myriam Joire contributed to this report.
+

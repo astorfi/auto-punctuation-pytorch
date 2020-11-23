@@ -1,0 +1,6 @@
+
+ 
+We've been following Nicholas Negroponte's One Laptop Per Child initiative ever since the machine was still priced below $100, but once they jettisoned the hand crank, we've been wondering how they're going to deliver power to the 500MHz device. Enter Squid Labs, an R&D firm chock full of MIT Media Lab grads -- the same lab that Negroponte founded and ran for many years -- with an innovative human-powered generator that works by repeatedly tugging on a string in a motion similar to firing up a gas-powered lawnmower or snowblower. The team at Squid designed the external generator so that one minute of pulling yields ten minutes of computing, and included an electronic variable motor loading feature so that it can be operated by users of varying strength. Another nice feature of this system is that it can be configured in a number of different ways: users can either hold the device in one hand and pull the string with the other, or clamp it to a desk and operate the string with their legs. As long as further testing confirms the design's durability, and a better option doesn't come along, it looks like we'll be seeing classrooms full of string-pulling students when the laptop finally goes into mass production next year.[Via Slashdot]
+      
+
+ 

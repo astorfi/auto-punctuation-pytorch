@@ -1,0 +1,6 @@
+
+ 
+Barnes & Noble provided most of the specs for the Nook Color when it launched the device on Tuesday, but notably absent was any word on the processor that powers the e-reader. Thankfully, Texas Instruments has now come out confirmed that the Nook Color uses its ARM Cortex A8-based, 45nm OMAP3621 processor (still no word on the speed). What's more, the processor is actually part of TI's eBook Development Platform, which the Nook Color also relies on. That's particularly interesting considering that the processor and platform support a few features that the Nook Color does not, not the least of which is 3G connectivity. Of course, that doesn't necessarily mean we'll see a future Nook Color that takes advantage of those features, but at least we know it's not too much of a stretch for Barnes & Noble to add them.
+
+Update: Texas Instruments pinged us to say the chip within the Nook Color hums along at 800MHz.
+ 

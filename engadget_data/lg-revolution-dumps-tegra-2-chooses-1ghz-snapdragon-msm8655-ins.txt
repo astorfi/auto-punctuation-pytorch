@@ -1,0 +1,15 @@
+
+ 
+Consider it a mystery solved. Throughout the week here in Barcelona, we've spent an inordinate amount of time chasing down suits from LG, Qualcomm, NVIDIA and Verizon Wireless to answer one simple question: "What's up with the processor in the Revolution?" If you'll recall, NVIDIA actually sent one of its own to Verizon's LTE press event at CES 2011, specifically to bust out a Revolution and gloat about the Tegra 2 chip within (video's after the break if you don't believe us). As it stood, it seemed as if the Thunderbolt and Revolution would be butting heads from a CPU standpoint, with the former definitively sporting a 1GHz Qualcomm Snapdragon MSM8655. And then, came the confusion. We showed up at Qualcomm's booth here at Mobile World Congress to see which phone it was using to demonstrate the recently unveiled Netflix-on-Android support -- lo and behold, LG's Revolution was the handset of choice. Obviously, there had to be a new Snapdragon processor within, as only the newest of the new will have the necessary DRM libraries at a hardware level that are necessary to pass muster with the MPAA. 
+
+After venturing over to LG's booth, we were also able to confirm that the only Revolution it knew of was boasting a Qualcomm CPU, and the shot above (which was sourced from there) proves it. We also confirmed with Verizon Wireless' paperwork that the version it's expecting in the next month or so will ship with Qualcomm inside. Finally, NVIDIA refused to comment on the matter, simply suggesting that we contact LG for more details. Put all of that together, and we're able to come to two main conclusions. First off, it seems as if LG yanked support for the Tegra 2 at some point between CES and MWC -- right around four weeks. Hard to say if there were reliability issues, an unsatisfactory amount of power drain, or just irreconcilable differences between the two CEOs (joking, of course). Secondly, it's reasonably safe to assume that Verizon's Revolution will be the first Android handset on Big Red to stream Netflix directly, which may please those who were planning on buying one but weren't looking forward to going without Netflix thanks to the Tegra 2 that was (presumably) slated for inclusion. Qualcomm 1, NVIDIA 0. 
+
+Update: NVIDIA finally saw fit to drop us a line and clarify a bit. Turns out, the confirmation in the video below was a gaff to begin with, as the Revolution was never going to be outfitted with NVIDIA innards. Go figure, right?
+
+Vlad Savov contributed to this report.
+ 
+
+See more video at our hub!
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

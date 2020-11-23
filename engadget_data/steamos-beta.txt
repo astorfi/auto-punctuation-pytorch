@@ -1,0 +1,7 @@
+
+ 
+
+Valve released its SteamOS beta with a warning: Only touch this if you know what you're doing. While that surely did something to separate true testers from the first wave of eager users, there were a few problems. Even the qualified needed a relatively new machine with UEFI, and a dedicated one at that, given attempts to make the OS a secondary boot option were troublesome at best. However, a fresh beta that folds in efforts by both Valve and the community is now available. On top of fixing the aforementioned issues, thereby welcoming more to get to grips with early SteamOS, other major updates include partition, recovery and DVD install support. This doesn't mean it's ready for general consumption, though, so we'll point the brave to the source link below and swiftly wash our hands of you.
+
+
+ 

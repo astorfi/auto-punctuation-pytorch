@@ -1,0 +1,15 @@
+
+ 
+
+Here's an interesting idea from a Chinese company called Netcom (not to be confused with the Norwegian operator): adding NFC capability to existing phones via microSD. That's right, rather than relying on external add-ons that occupy ports, Netcom decided to fit NFC chips plus their antennas onto ordinary microSD cards, yet still managing to cram in up to 8GB of NAND memory at the same time. This sure sounds convenient, but there are some caveats: the first rule is that neither the back cover nor the microSD card holder should be made out of metal; then secondly, we noticed that due to the tiny antenna coil, scanning could become tricky if the reader has a small sensing area -- you'd need to position your phone at just the right spot; and lastly, the phone needs a special background app to communicate with the NFC circuitry.
+
+The demo we saw used a Java app running on a Chinese dumbphone, and we were told that Android will be next in line to receive similar support. Alas, consumers won't be able to pick up one of these cards from the shops, though Netcom's already working with a "top ten" phone manufacturer on a compatible device due in three to six months, so stay tuned. Hands-on video after the break.
+
+Update: As pointed out by some readers, it turns out that DeviceFidelity beat Netcom to the market last year.
+
+
+
+
+
+ 
+ 

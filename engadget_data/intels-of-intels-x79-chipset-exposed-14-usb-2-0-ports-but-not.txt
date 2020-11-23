@@ -1,0 +1,6 @@
+
+ 
+Finally all's well in the Sandy Bridge camp, Intel exorcizing the demons and getting its current generation of hardware flowing smoothly. You know what that means: it's time for the next, a revision called X79 that will supersede the current X58 chipset sometime toward the beginning of 2012. According to the leaked slide above, X79 motherboards will feature 2011-pin LGA sockets for E-series CPUs, where 'E' stands for "Enthusiast" not "Elephant." 14 SATA connections are available, 10 of which will manage 6Gb/s, and another 14 USB 2.0 ports means you can have just about every USB-powered member of the Crapgadget Hall of Fame connected simultaneously. That said, there's no mention of a single USB 3.0 port, something of a bummer for those hoping that standard would be, well, standard by 2012. Of course Intel's thrown its weight behind Light Peak Thunderbolt, but curiously there's no integrated support for that, either.
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+Ruh roh. Looks like Dell's stepped onto its own toes real hard with the Streak's Android 2.1 update -- O2 just confirmed to us that due to some "feedback from users," it's decided to suspend said download while Dell gets cranking on a revised software release over the next two or three weeks. We weren't given the exact reasons behind this quiet withdrawal, but our friends over at MoDaCo might have had the answer for some time -- soon after the release, they discovered that the 2.1 firmware was in fact pre-rooted, thus leaving the Streak vulnerable to unauthorized access and modification (although handy for the seriously tech-minded). Yikes. On the bright side, such substantial time frame suggests that the upcoming fix should also address other bugs like incompatibility with the desktop suite, weird loading behavior in the browser, and missing WMV video playback functionality. 
+
+And here comes the inevitable question: what about Froyo? Well, neither Dell nor O2 could provide a date for the Streak's scoop of frozen dessert, but we'll bet you a white iPhone 4 that it won't be out in October.
+      
+
+ 

@@ -1,0 +1,20 @@
+
+ 
+So we've been doing this whole gadget blogging thing for a while now, and we've noticed a timeline trend with these major, buzz-filled launches. They tend to go something like this:
+
+T minus 2 hours: lines reach critical mass across the country; odds are you'll find some of us in those lines. Camaraderie amongst line-waiters is at a high, but it's a guarded emotion -- the scene'll turn ugly the second inventory runs out.
+T minus 30 minutes: for morning lines (particularly those where folks have waited overnight), store managers come out and offer coffee and pastries. Anything less is uncivilized -- don't hesitate to complain.
+T minus 0 minutes: the gizmo goes on sale.
+T plus 1 hour: the first teardowns and cost estimates hit the web.
+T plus 4 hours: mass (or at least loud) complaints of manufacturing defects, bugs, and shortcomings start cropping up.
+
+It's still too early to tell whether the Pre is more, less, or equally as defective as any other blockbuster product in recent memory, but as you might expect, there are plenty of issues being sporadically reported in the first weekend of availability and it'll be interesting to see how Palm spins and handles them. Here are a few we're tracking:
+
+A good number of early adopters are reporting "splotchy," distorted, or discolored displays (we've seen reports of dead pixels, too, though we'd actually be more weirded out if there weren't). See examples here, here, and here.
+We've also heard reports of unexpected system shutdowns (like those reported in the LAPTOP piece above) that require a battery pull to resolve. We're hearing that you can also patch this up by holding down the power button and toggling the ringer switch three times, but your mileage may vary. If we had to guess, this'll be fixed up with a firmware update at some point, which really drives home the value of OTA capability.
+Text fields in the web browser don't seem to support symbols that aren't on the keyboard (that is, symbols you need to hold down "Sym" to access). We've independently verified this one, and it's nasty -- it'll be particularly bad once the phone launches internationally, so we'd also expect this to be patched sooner rather than later.
+
+If you've noticed anything else, drop us a line in comments -- we think Palm and Sprint are both motivated to make this launch a smooth one, and something tells us their ears are firmly planted to the ground right now.[Thanks to everyone who sent these in]
+      
+
+ 

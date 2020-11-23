@@ -1,0 +1,5 @@
+
+ Intel's already been doing quite a bit of talking about future products amid the hubbub of the Intel Developer Forum, but it looks like it still has plenty on its plate, with the company now revealing some details on two slightly nearer-term initiatives. First up, the company has confirmed its long-rumored, general purpose GPU-competing Larrabee processor, which it describes as a programmable, multi-core processor that'll reach "at least one teraflop." The first such chips, apparently with "tens of cores," are set to be demonstrated sometime next year, with a number of different versions of the processor also planned, each with varying numbers of cores. On another front, Intel also looks to be making a big push for integrated powerline Ethernet, with the company set to work the HomePlug AV 200Mbps powerline standard into its desktop designs next year as an optional feature, in particular in its Viiv platform.Read - The Register, "Intel confirms programmable, multi-core chip"Read - Reg Hardware, "Future PCs to integrate powerline Ethernet"
+      
+
+ 

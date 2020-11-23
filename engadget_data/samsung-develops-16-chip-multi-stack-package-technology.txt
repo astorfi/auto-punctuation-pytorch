@@ -1,0 +1,6 @@
+
+ 
+We already knew Samsung was working on PRAM as an alternative to the slightly more common NAND flash memory, and now the mega corporation has unveiled a way to cram 16GB of storage onto an 8Gb NAND chip. Improving on its current 10-chip MCP, the leaner, meaner 16-chip multi-chip package technology slimmed down the overall thickness of each fabricated wafer to just 30 micrometers (about the size of a human cell), and trimmed the height down to 1.4 micrometers (previously 1.6 micrometers). All this "wafer thinning, layer redistributiing, chip sawing, and wire bonding" technology allows engineers to increase the number of chips stacked vertically in order to yield a higher density module with heightened storage capacity. While Samsung didn't mention how quickly we can expect these beefed up NAND units to hit the market, we can't envision it holding off too long considering the competition.[Via TGDaily]
+      
+
+ 

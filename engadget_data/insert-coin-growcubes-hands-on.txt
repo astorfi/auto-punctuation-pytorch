@@ -1,0 +1,27 @@
+
+Food. It's a bit of a big issue. After all, half the world doesn't have enough, and the other half has so much it doesn't really know where it comes from. Chris Beauvois, a software developer turned inventor, has created a device that could potentially solve both of these problems in a single swoop. GrowCube is a gadget that's designed to grow plants with aeroponics -- think, hydroponics, but with mists instead of trays of water. It uses just two square meters of space and 95 percent less water than traditional farming methods. Now the company is here at Engadget Expand as an Insert Coin semi-finalist in the hope of earning a big stack of cash to help bring this product to the wider world. 
+
+
+
+
+
+Beauvois' stated goal is that "food should be healthy, tasty and accessible to all," although that wasn't his original project. In fact, GrowCube was originally born to show off Beauvois' research into thermal power. Serendipity, however, would see the GrowCube become his passion project. There are two models, an appliance-sized version that's built to the same scale as a domestic dishwasher and wouldn't look out of place beneath a countertop, and a pro-level edition that would be used in commercial farming enterprises.
+
+"Food should be healthy, tasty and accessible to all."
+
+The idea is devilishly simple to describe, but difficult to execute: A rotisserie-esque wheel spins six plates around in a circle under a strip of LEDs, which provide the necessary light for photosynthesis. Above, a device sprays a nutrient-rich mist that'll seep into the roots to make plant growth much more efficient. Inside, there's a BeagleBone Black paired up with an Arduino Duo microcontroller, although there are plans to move across to a custom-made motherboard in the near future. Now, the prototypes haven't been priced as yet, but Beauvois hopes to offer the pro-sized models for $2,000 per unit.
+
+
+When it comes time to planting, simply stick your seeds in a growing medium of your choice and download the iOS app. From there, you can select and download a "grow recipe" from the cloud, which works with the numerous sensors inside the cube to control the microclimate. Worry not, people who aren't fans of Apple devices; Android and Windows Phone apps are on their way. Users are also encouraged to tweak and fork the recipes as they see fit, helping to improve the growing and to offer variations. So if you want crisper lettuce, you can select that as an option. While plenty of the Cube's current hardware is custom, Beauvois is a hacker at heart, and plans to open-source big chunks of his technology further down the road.
+
+"Beauvois is a hacker at heart, and plans to open-source big chunks of his technology further down the road."
+
+In experiments so far, GrowCubes have happily produced herbs, flowers and foodstuffs like wheatgrass, microgreens, pea-shoots and even 28 heads of lettuce. On average, it promises to be faster than traditional methods of growing, with a cube full of strawberries taking between four and six weeks to grow. This is opposed to the shoving-seeds-into-dirt-and-waiting method, of course, as you can grow the same produce throughout the year. The technology can also be used to grow both grapes (with a few tweaks) and hops, so perhaps it'll garner the interest of the brewing industry looking for ever greater control of its crops.
+
+
+Another benefit of the technology is that the GrowCube is pressurized, which keeps the microclimate bug-free. With an ultraviolet germicidal lamp and a HEPA filter (as well as plenty of bug-killing filters in the pipes where the nutrient mixes are pumped), there's little risk of pathogens getting all over your food. The upside of that, perhaps unsurprisingly, is that you don't need to use fertilizer or pesticides in your growing.
+
+If GrowCubes wins our grand prize this weekend, then Beauvois plans to build 100 of the models, with the bulk of them going to schools to create an educational vertical farm. In the future, he wishes to see a wider rollout of the product, with a dream of seeing units used as domestic growing devices and for commercial applications. You never know, maybe your local fruit & veg co-op will be supplanted with a row of GrowCubes in a few years' time.
+
+Nicole Lee and Edgar Alvarez contributed to this report.
+

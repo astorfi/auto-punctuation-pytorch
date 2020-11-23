@@ -1,0 +1,9 @@
+
+ When you think of factors affecting Internet speed, domain name servers probably don't top your list. But a consortium including Google, OpenDNS and a number of content delivery networks believes otherwise, and wants to draw attention to DNS optimization. To that end they've proposed the Global Internet Speedup initiative. What's that, you ask? The group wants to append truncated IP addresses to typical webpage requests: that will provide geographic information, letting providers make better choices about how to serve their users.
+
+For example, if a user in Kalamazoo, Michigan happens to have a DNS server in San Francisco, that server might pass the request off to the nearest content network – also in San Francisco. That means having to push data from SF to Kalamazoo, which is obviously a longer trip than necessary. If the DNS server knew just where its requests originated, geographically, it could make smarter choices about content providers: that Kalamazoo user, say, might instead use a Detroit content network.
+
+Not everyone's on board with the plan; Akamai isn't impressed, saying there are better ways to speed up the net. But you'll surely earn geek cred for bringing up DNS optimization at your next cocktail party.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+
+
+One of the key updates to XBMC promised back in March was to fix the open source software's Android capabilities. That's finally arrived in the June and July cycle of the Gotham build, where XBMC on Android now has Zeroconf support. That essentially lets any Android device act as an AirPlay receiver without any third-party workarounds. Further, media launched from an Android browser can now be played by default on XBMC, where it couldn't before. Other new features from the release include the immediate addition of ripped CDs to the music library, ripping support for AAC and WMA, new settings descriptions, locked profiles and general performance tweaks. Head on over to the source link for more on what the latest XBMC offers, and feel free to download test versions of the software if you like to live on the bleeding edge.
+
+

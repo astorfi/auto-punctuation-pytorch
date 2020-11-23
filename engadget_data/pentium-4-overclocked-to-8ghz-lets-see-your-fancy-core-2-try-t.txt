@@ -1,0 +1,6 @@
+
+ 
+Back in the olden days, before Abraham Lincoln put an end to the megahertz myth -- or was it Theodore Roosevelt, we always get so confused -- the Pentium 4 ruled the land, with its deep instruction pipeline and PR-friendly xtreem clock speeds. Luckily, Intel wised up and started beefing up the quantity and efficiency of cores instead of just the megahertz, but the megahertz myth still lives on in our hearts, and OC Team Italy keeps that hope alive with its latest achievement: an 8000MHz (8GHz in layman's terms) overclocked Pentium 4. The lucky chip to reach such ridiculous frequencies is a "Cedar Mill" Intel Pentium 4 631, with a standard clock speed of 3GHz. It wasn't just a case of flipping a few pins here and there, the OC folks used a modified ASUS P5B motherboard, with an added copper pipe and a few voltage modifications, along with a little bit of your garden-variety liquid nitrogen to keep it all cool. Golf claps all around, OC, now can you do something to rev up a processor that's actually going to be useful for something? Wait. What's gotten into us? Keep up the good work![Via Slashdot]
+      
+
+ 

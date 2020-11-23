@@ -1,0 +1,6 @@
+
+ If you'd rather not let your Nexus 7 live out its life as a Jelly Bean-toting device, Canonical's freshly minted Ubuntu Nexus 7 Desktop Installer can help. Instead of allowing Ubuntu to ride shotgun with Android, the installer requires unlocking the device's bootloader, which wipes the slate clean. Once the Nexus 7 is unlocked, started in fastboot mode and connected to an Ubuntu machine, the one-click installation software takes care of the rest. Roughly 10 to 15 minutes later, your tablet will be running full-blown Ubuntu. Since development is currently focused on getting the core of the desktop OS up and running, there's no tablet-specific Unity UI to see here. However, Raring Ringtail is set to flesh out the mobile experience with an emphasis on sensors, memory footprint and battery life, among other features. Those who regret ousting Google's confection-themed operating system can simply reload their device with stock Android. For the entire walk through, hit the first source link below.
+
+ [Thanks, Keith]
+
+

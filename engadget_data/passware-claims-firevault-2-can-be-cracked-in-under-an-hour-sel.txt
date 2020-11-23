@@ -1,0 +1,5 @@
+
+  Lunch hours may never feel safe again. That is, if you have a Mac running Lion / FileVault 2, like leaving your computer around, or have unscrupulous colleagues. Data recovery firm Passware claims its "Forensic" edition software can decrypt files protected by FileVault 2 in just 40 minutes -- whether it's "letmein" or "H4x0rl8t0rK1tt3h" you chose to stand in its way. Using live-memory analysis over firewire, the encryption key can be accessed from FileVault's partition, gifting the pilferer privy access to keychain files and login data -- and therefore pretty much everything else. If you want to try this out for yourself, conveniently, Passware will sell you the software ($995 for a single user license) without so much as a flash of a badge.
+      
+
+ 

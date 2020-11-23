@@ -1,0 +1,5 @@
+
+ It sounds like we may have another name to add to the pantheon of anti-DRM digital freedom fighters: Alex Ionescu, who's claiming his driver signing bypass method allows end users to bypass Vista's Protected Media Path DRM (the junky stuff that prevents you from watching "premium" content and HD material on non-HDCP outputs, like component, VGA, older HDMI TVs, etc.) Using Alex's technique (which has yet to be released to the general public, for fear of going the way of our man Viodentia), no unsigned drivers are loaded in the process, thereby convincing the media applications that are scanning for anti-DRM "badware" that everything's peachy, go ahead and output that signal even though it may be through the analog hole. We'll all be waiting, Alex, for you to move to Sealand so you can release the hack, we've got a lot of HD DVD and Blu-ray movies to watch, and not a lot of patience for HDCP-carrying gear.[Via Slashdot, thanks gamebittk]
+      
+
+ 

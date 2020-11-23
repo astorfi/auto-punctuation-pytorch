@@ -1,0 +1,24 @@
+
+After checking out SoftKinetic's embedded 3D depth camera earlier this week, our attention was brought to a similar offering coming from Germany's PMD Technologies and Infineon. In fact, we were lucky enough to be the first publication to check out their CamBoard Pico S, a smaller version of their CamBoard Pico 3D depth camera that was announced in March. Both reference designs are already available in low quantities for manufacturers and middleware developers to tinker with over USB 2.0, so the two companies had some samples up and running at their demo room just outside Computex.
+
+
+
+
+The meat of these modules is their 3D image sensor, which is co-developed by PMD and Infineon. The former provides its time-of-flight pixel architecture, and the latter takes charge of the CMOS chip manufacturing -- including the integration of an intelligent sequence programmer, a matrix modulation driver and an A/D converter. Such level of functionality integration is apparently the highest in the 3D image sensor category, and this can save circuitry space as well as cost.
+
+These guys have so far announced the IRS1010C sensor with a 160 x 120 resolution, as well as the more powerful IRS1020C sensor with a 352 x 288 resolution. The CamBoard Pico (85mm x 17mm x 8mm) can be shipped with either sensor, whereas the smaller CamBoard Pico S (85mm x 15mm x 6.6mm) is only compatible with the IRS1010C due to its shorter z-height. That said, we were told that even the lesser 160 x 120 resolution is already very good for precise input on HD resolution screens.
+
+
+Indeed, PMD's Director of Business Development Jochen Penne was able to prove his point in his demos, which were done on an Acer all-in-one desktop with a CamBoard Pico (equipped with an IRS1010C sensor and an infrared LED) integrated into the bottom of the screen. Penne first opened up Paint in Windows 8, and by simply pointing and "clicking" in air using his index finger, he was able to repeatedly draw a tiny dot on the same spot. This author was able to experience the same precision as well as low latency, except his hand shortly grew tired as this posture may take some getting used to.
+
+Penne then demonstrated drag-and-drop by quickly flicking his index finger up to toggle the action, and when done with dragging with the cursor, he'd pause for half a second to let go of the object (be it an icon or an in-game object). We did struggle with this gesture, but fortunately, these CamBoard reference designs aren't limited to any particular set of gestures, as that part is up to the middleware. For example, Gestigon, a company also based in Germany, provides skeleton recognition middleware that is sensor agnostic, so its software solution already works with these CamBoards, as well as other depth cameras from the likes of SoftKinetic and PrimeSense. This provides a great opportunity to build an ecosystem without the developers having to worry too much about compatibility.
+
+
+In addition to the two aforementioned gestures, PMD's demo also included a swipe-left action to toggle Windows 8's charms bar, the toolbar that's usually hidden on the right. While there were no multi-finger gestures to try, we could see that this is possible through other middleware, as our fingertips were clearly recognized simultaneously through PMD's LightVis visualization tool. Likewise, PMD has a video showing Gestigon's software performing the same task.
+
+While neither PMD nor Infineon could comment on the cost of integrating their solution, Penne told us that it will at least be very competitive when compared to Leap Motion. They also argued that 3D depth cameras provide a more natural input than having to hover a hand over a sensor, especially since the latter wouldn't be able to detect another hand above the existing one. Still, there's no stopping manufacturers from trying a similar use case with PMD's offering -- even PMD itself retrofitted a CamBoard Pico into the top of a lightly modified Mac mini as an example (with a humorous twist).
+
+
+As mentioned earlier, PMD is already offering the CamBoard Pico and CamBoard Pico S to manufacturers and developers. Similarly, Infineon has small quantities of the chips' early engineering samples, should OEMs want to try making their own depth cameras from scratch. While the sensors aren't expected to be mass produced until mid-2014, PMD said it's open to negotiation should a module maker require an earlier volume ramp-up. Hopefully this means we'll see products with an integrated 3D depth camera even before next summer.
+
+

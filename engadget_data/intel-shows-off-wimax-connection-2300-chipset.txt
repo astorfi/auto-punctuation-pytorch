@@ -1,0 +1,5 @@
+
+ Intel has had some decent success with its "kitchen sink" approach to WiFi ubiquity and integrated graphics dominance, and it doesn't look like they're taking any chances with WiMAX. Hardly more than a month after busting out its first WiFi-integrated WiMAX Connection chipset, the 2250, Intel is testing out a new 2300 version which supports mobile WiMAX and MIMO functionality. The the new all-in-one chip also claims lower power requirements and less heat generation than its predecessor, making adoption of the newly improved chips a relatively painless one. The whole shebang is still managed by the same unified software, and Intel is supporting "over-the-air provisioning" to allow for easy configuration and consumer activation of services, as opposed to the traditional service provider-based way of doing things. Hard to tell how that PR-speak will end up playing out for actual consumers, but it at least sounds promising. With the design finalized, Intel still has some more testing to do, but hopes to start busting this thing out in card and module forms in late 2007.[Via Laptoping]
+      
+
+ 

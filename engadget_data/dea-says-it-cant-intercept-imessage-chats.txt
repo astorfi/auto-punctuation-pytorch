@@ -1,0 +1,4 @@
+
+ Apple mentioned back in 2011 that iMessage used encryption to safeguard conversations, but we've never had an exact understanding of how deep the security layer goes. It's deep enough to stymie interception attempts at the DEA, according to an intelligence note gleaned by CNET. The agency warns its staff that it's "impossible" to tap the messages through usual methods -- great for privacy, but a worry for law enforcers. There isn't much that officials can do, either, short of discovering a clever in-the-middle attack or enacting proposed changes to the law that would mandate backdoor access. And before you ask: BlackBerry Messenger isn't necessarily as secure. While BES-based BBM chats are largely locked down, there's a common encryption key for all BlackBerrys that makes it relatively easy to crack regular BBM discussions. We wouldn't assume that any digital communication is completely private, but iMessage may have come closer to the target than most.
+
+

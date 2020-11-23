@@ -1,0 +1,5 @@
+
+ 
+ We know TSMC's energy-miser 28-nanometer manufacturing process has a lot of headroom, but the company just ratcheted expectations up by a few notches. Lab workers at Taiwan's semiconductor giant have successfully run a dual-core ARM Cortex-A9 processor at 3.1GHz under normal conditions. That's a 55 percent higher clock speed than the 2GHz maximum that TSMC normally offers, folks, and about twice as fast as a 40nm chip under the same workload. Don't expect that kind of clock speed from your next smartphone or tablet, though: expect processors of this caliber to find "high-performance uses," which takes us that much closer to NVIDIA's Project Denver as well as other ARM-based desktops, notebooks and servers that should give x86 chips a run for their money.
+
+

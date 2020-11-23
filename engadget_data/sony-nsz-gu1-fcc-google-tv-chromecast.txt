@@ -1,0 +1,11 @@
+
+We already heard from Google that it will press forward with its Google TV ambitions along with the new Chromecast dongle, and this FCC filing for a Sony device may reveal what the future holds. Dug up by GTVHacker team member cj_000, the NSZ-GU1 internet player has a model number that follows all of Sony's previous Google TV set-top boxes (NSZ-GT1, NSZ-GS7 and most recently the NSZ-GS8), so there's little doubt about which family it belongs to but there are other questions. Unlike Sony's previous Google TV hardware it actually has an FCC filing, dated June 20th and credited to manufacturer Wistron, and it comes with a USB cable. The notes also show a test layout (after the break) suspiciously similar to the one found in Google's FCC documents for the H2G2-42 Chromecast.
+
+
+Does this mean it's a Sony-branded Chromecast device? While it's possible, there are a few differences that suggest it isn't. The NSZ-GU1 has an IR blaster like other Google TV boxes, and Bluetooth where the Chromecast doesn't include either. The power adapter it's tested with also could be overkill for a simple dongle-like device, but its input rating is very similar to what's listed on the MST3K power adapter that shipped with the Chromecast. We couldn't find any other information to base a final decision on (update: other than a hit on the A1: Dev SD benchmark), hit the source link to take a peek at the filing for yourself and see if there are any clues we may have missed.
+
+
+
+Hrmm. 5V USB device, with HDMI, by Sony. NSZ-GU1 Sony #Chromecast ? Or something else? #GTVHacker #interestingtiming https://t.co/RMGSBC8anh
+- CJ Heres (@cj_000) August 7, 2013
+

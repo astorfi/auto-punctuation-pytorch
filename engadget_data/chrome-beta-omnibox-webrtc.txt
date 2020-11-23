@@ -1,0 +1,4 @@
+
+Google has rolled out some changes to its Chrome browser on a number of fronts today, with new betas hitting Windows, Mac, Linux and Android. For those on a traditional desktop or laptop, the biggest change comes to the address bar (or "omnibox," as Google calls it), which the company says will now offer suggestions based on the based on the recency of websites visited and deliver "more contextually relevant suggestions at the right time." Those using Chrome on an Android phone or tablet can apparently expect to see faster page loading times, as well as higher-quality web-based audio applications courtesy of the Web Audio API (Google has a MIDI Synth demo you can try out) and in-browser videoconferencing that's now possible thanks to the new WebRTC implementation.
+
+

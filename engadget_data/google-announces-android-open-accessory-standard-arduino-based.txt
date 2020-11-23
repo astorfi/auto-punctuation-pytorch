@@ -1,0 +1,8 @@
+
+ 
+
+
+	Google's really not leaving any stone unturned at IO today -- it's now also announced a brand new Android Open Accessory standard, which promises to effectively be its own version of "Made for iPod." That means that any accessory designed using the API (which could even be something like an exercise bike) will be compatible with any Android phone or tablet -- running at least Android 2.3.4 or 3.1, that is. What's more, Google is also making a reference hardware design dubbed an "ADK" available to developers and, get this, it's based on Arduino. Right now, it only includes USB, but Bluetooth support is planned for the future -- developers can hit up the link below for the complete details on how to get started with it.
+
+
+

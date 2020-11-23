@@ -1,0 +1,8 @@
+
+ 
+It hasn't gotten quite the attention of the iPhone 4's antenna problems or its proximity sensor troubles, but iOS 4 has caused some heartbreak for corporate users who connect to Exchange servers -- checking mail or syncing contact and calendars can stall out interminably, with no option but to restart and try again. We've definitely had this problem ourselves, but happily Apple's right on the case with this one -- iOS 4 users who need to get their Exchange on can download an updated configuration file that seems to make things better. The new settings don't seem to do much other than increase iOS 4's idle timeout, but if it works, it works -- and in our limited testing things appear to be going swimmingly. Okay, that's one -- now let's polish up the rest, shall we?
+
+[Thanks, Paul]
+      
+
+ 

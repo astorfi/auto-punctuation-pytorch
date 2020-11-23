@@ -1,0 +1,8 @@
+
+ HTC is legendary for its tacit support of the Android ROM cooking community. Motorola... not so much, thanks in large part to the company's policy of locking down the bootloader as a means to prevent unapproved software from running on its Droid handsets. An annoyance recently exacerbated by a moderator of Moto's YouTube channel who suggested that customers looking to install custom ROMs should "buy elsewhere." Ouch. The resulting public relations kerfuffle then prompted Motorola to publish a clarification to its bootloader policy on Facebook: 
+
+We apologize for the feedback we provided regarding our bootloader policy. The response does not reflect the views of Motorola. We are working closely with our partners to offer a bootloader solution that will enable developers to use our devices as a development platform while still protecting our users' interests. More detailed information will follow as we get closer to availability.
+Obviously, we'll have wait for said details to get official before calling this a shift in strategy. It's certainly an improvement over Moto's previous approach of lawyering-up with cease and desist orders. Perhaps Motorola is taking a cue from Microsoft who seems to have recently discovered that it's better to embrace than to annoy a motivated hacking community -- customers who tend to be a company's most dedicated fans and evangelists.
+      
+
+ 

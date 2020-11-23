@@ -1,0 +1,4 @@
+
+Developers seeking to create apps for Google's Glass headset have had limited options so far, but the company will break things wide open during a two-day hackathon -- like the ones held earlier this year to show off its Mirror API -- starting on the 19th. An invite sent out today describes a San Francisco event where a group of developers can test out the Glassware Development Kit. Until now, devs have been able to practice on the regular Android SDK, but after the GDK arrives they'll be properly equipped to build apps that work offline and have direct access to the hardware. All this comes just as the Glass program opens up to wider audiences, but we'll have to wait couple of more weeks to find out what else is in store. Can't make it to SF? No worries -- the invite promises "the announcement" will be recorded after the event, while office hours will also be available in NYC and LA next month.
+
+

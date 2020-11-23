@@ -1,0 +1,10 @@
+
+
+
+Most of us use Facebook to show off a new car, an engagement or a particularly notable lunch, but Mark Zuckerberg does it a bit differently. In a Q&A session yesterday Zuckerberg referenced his company's plans for using lasers to connect more areas to the internet, and today he posted a few demonstration pictures from the Connectivity Lab. According to the Facebook founder, we won't actually be able to see the beams (that's just for show) but the connections will "dramatically" increase the speed of sending data over long distances, and this is just one of the connectivity projects in development. Last year Facebook mentioned combining this laser tech with drones and satellites to help connect the next billion people with its Internet.org initiative, and it appears that work is still moving along.
+
+
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));As part of our Internet.org efforts, we're working on ways to use drones and satellites to connect the billion people...
+
+Posted by Mark Zuckerberg on Wednesday, July 1, 2015

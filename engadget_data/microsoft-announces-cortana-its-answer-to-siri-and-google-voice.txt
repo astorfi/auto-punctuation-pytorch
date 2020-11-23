@@ -1,0 +1,11 @@
+
+
+Microsoft has just announced Cortana, a new voice search tool for Windows Phone 8.1. Powered by Bing, it will eventually replace the search function in Windows Phone, and you'll be able to access it (her?) through a special Live Tile. On top of search, it can make calls, send texts, take notes, give reminders and set alarms. Microsoft also said that it'll work with third-party apps, and that it's already been working with select developers like Hulu and Facebook. To show that Cortana isn't just vaporware, despite its beta status, Windows Phone manager Joe Belfiore ran through a demo at Build 2014 -- more details after the break.
+
+
+
+Like Siri and Google Now, Cortana doesn't need to learn your voice and tries to interact with you naturally. For instance, it'll remember your previous question so that you don't have to repeat yourself for a follow-up. The app will supposedly get smarter over time as well, learning more about you based on your search requests, interests and app use. For instance, it'll ask questions such as whether it should track a flight it found in your email -- a nice, if slightly invasive Google Now-type touch. Belfiore even showed Cortana functioning as a pseudo-secretary, making sure you're not disturbed during quiet times, while still letting people from your inner circle get through.
+
+Finally, we saw some of the third-party app integration alluded to earlier. Microsoft started off easy with its own Skype app, launching a call using a voice command. It then used Hulu Plus to verbally queue up a show, and performed a similar trick with Facebook, asking "what's up with Terry Myerson?" which led straight to his profile page. Overall, it seemed to work well during the demo despite small hiccups, but Belfiore reminded us that for now, Cortana is still beta software only.
+
+

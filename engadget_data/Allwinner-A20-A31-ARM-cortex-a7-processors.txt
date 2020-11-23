@@ -1,0 +1,4 @@
+
+ Whimsically monikered Chinese chip-maker Allwinner has added a pair of ARM Cortex-A7 processors to its lineup supporting Android 4.2 or higher systems. The A20 is a dual-core design with 512KB L2 cache, dual-core Mali 400 graphics and 2160p HD video playback support, while the quad-core A31 packs a 1MB cache, PowerVR SGX 544 graphics and UHDTV (4k) video decoding talents. The A20 is pin compatible with its Linux-hobbyist favorite sibling, the A10 -- meaning devices such as the MK802 mini-PC using that chip could likely be upgraded by manufacturers on the cheap. However, the more powerful A31 seems destined for higher-end Android or Windows RT devices only, considering its beefier PowerVR graphics. On top of the extra zip, licensor Imagination Technologies keeps its source code cards close to the chest -- likely ruling out Linux for that chip.
+
+

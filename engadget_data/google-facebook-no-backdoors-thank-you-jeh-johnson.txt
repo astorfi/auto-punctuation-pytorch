@@ -1,0 +1,14 @@
+
+
+
+The Department of Homeland Security is setting up shop in Silicon Valley, with the agency's head Jeh Johnson pushing for easier access to our private data. Naturally, both Google and Facebook have started to openly resist this call to create backdoors for state surveillance. At the RSA security conference, Google's Keith Enright told MIT Technology Review that any attempt to breach his company's encryption would harm civil liberties.
+
+
+
+The search engine's privacy chief went on to say that if operatives use backdoors to access your data, they're that much more likely not to bother getting a warrant. Instead, Google has pledged to "drive as much transparency for law enforcement access as possible."
+
+His words were echoed by Facebook's Erin Egan, who said that "the trust of the people that use our services is paramount," and that anything that goes against that "we're not going to be okay with." It's a sentiment shared by Mark Zuckerberg, who has previously gone on the record to criticize the NSA's PRISM program.Oh, and here's something that's always worth mentioning when an official says that they need backdoor access to encrypted data. When asked, FBI Director James Comey couldn't cite a single example of how encryption had obstructed an ongoing investigation. So, there's no actual proof that such access is required, and it's already been shown that said privilege is routinely abused.
+
+[Image Credit: AFP/Getty Images]
+
+

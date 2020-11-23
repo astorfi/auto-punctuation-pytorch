@@ -1,0 +1,10 @@
+
+
+Shortly after Microsoft wrapped its epic Windows 10 keynote today, we had a chance to see the latest version of the next-gen OS running on some honest-to-goodness hardware. Using a Dell Venue Pro 11 tablet on display here at Microsoft's Redmond headquarters, we got to experience the software in a slightly more final form than when we last saw it. New features include a button for bringing the Start Screen to full-screen, a notification center, revamped Photos and Settings apps and, most importantly, Cortana voice search built right into the desktop. In addition, we got a closer look at the so-called Continuum feature that allows the UI to change depending on what device you're using (laptop, tablet, et cetera).
+
+
+
+#fivemin-widget-blogsmith-image-885142{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-885142, #postcontentcontainer #fivemin-widget-blogsmith-image-885142{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-885142").style.display="none";}catch(e){}Unfortunately, Microsoft's new Spartan browser wasn't ready to test, and neither were most of the redesigned core Windows apps. (The reason being: They won't be included in the next build, which will roll out to testers in the Windows Insider program starting next week.) That said, this remains the most detailed look we've had yet of the OS. Have a peek, and stay tuned for more updates, if not today, then sometime soon; Microsoft says it plans to reveal even more about the OS at its Build developer conference in April.
+
+Ben Gilbert and Edgar Alvarez contributed to this report.
+

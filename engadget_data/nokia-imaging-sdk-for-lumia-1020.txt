@@ -1,0 +1,11 @@
+
+Nokia's Lumia 1020 has finally gone official today and, no surprise here, it's all about imaging. To complement the handset's 41-megapixel BSI sensor and accompanying ProCamera software, Nokia's released an imaging SDK to devs that want to impose their own camera customizations. As of now, the Finnish company's seeded the SDK out to the likes of CNN, Vyclone, Panagraph, Snapcam, Foursquare, Hipstamatic's Oggl Pro, Yelp, Flipboard and Path -- all of which have already been working on custom applications for the 1020. So what does that mean for the end user? Most likely, these third-party tweaks will entail high-res photo sharing and custom filters, as in the case of Path's Lumia app. Nokia's posted the SDK on its site for all developers today, so if you're interested in seeing what the Lumia 1020's beastly sensor can do for your app or what its SDK can do for WP8 apps in general, you know where to look.
+
+
+Check out all the news from today's Nokia event at our hub!
+
+
+
+
+
+ 

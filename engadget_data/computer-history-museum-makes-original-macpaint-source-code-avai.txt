@@ -1,0 +1,4 @@
+
+
+With all the tricky Photoshoppery we do 'round these parts, it's easy to forget that once the only way to get Justin Bieber into a shot with Steve Jobs and Bill Atkinson involved an X-Acto knife and rubber cement. For a peek into that dark and distant time (the 1980s) check out the Computer History Museum website, which has recently posted the source code for both MacPaint 1.3 and the QuickDraw graphics library. It's pretty amazing to consider that software this cutting edge consisted of a single, 5,822 line Apple Pascal file (in conjunction with another whopping 3,583 lines of code in assembly language). If poring over twenty-six year old code isn't your bag, the museum's website also contains an oral history of the development of MacPaint and more. Hit the source link to check it out.
+ 

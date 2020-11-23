@@ -1,0 +1,7 @@
+
+
+ Interested in seeing all the adorable little parts inside Apple's smallest iPad yet? iFixit's already got its hands on one and has a currently-in-progress teardown going on, should that be your kinda thing. And what's the verdict? Well, the teardown is still happening, but as of right now, there are some good signs. For one, the LCD and front glass are separate components, making replacement of individual components a possibility (and making a repair less expensive). And that LCD is once again of the Samsung variety, confirming Apple's continued relationship with its legal adversary. As iFixit points out, Apple "often relies on multiple supplies for a single component," so it's possible that your teardown of another Mini will yield a different LCD manufacturer. More tidbits found inside thus far: confirmation of stereo speakers (a big change from the regular iPad's mono setup). The teardown points out that the Mini's Lightning charging port (significantly smaller than the previous 30-pin port) is likely what's making space for that extra speaker. As for a final repairability rating, iFixit's giving the iPad Mini a 2 out of 10 (not so easy to repair) based on a several factors: while the LCD/glass isn't fused, nor is the battery soldered to anything, tons of adhesive and the lightning connector being soldered to the logic board make at-home repair less than ideal. 
+
+ [Image credit: iFixit]
+
+

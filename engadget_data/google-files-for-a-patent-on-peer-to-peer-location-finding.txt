@@ -1,0 +1,5 @@
+
+ 
+ Crowdsourcing map data itself isn't a surprise; it's been the cornerstone of OpenStreetMap and is about to get a big boost through iOS 6. Crowdsourcing actual positions is still a relatively untapped resource, however, and Google thinks that it might just be the ticket to getting a device's location when GPS alone doesn't cut it. Much as your current phone uses triangulation between cell sites to help speed up a position lock, a technique in a new Google patent application uses the physical distances between nearby devices to get a complete picture, even if GPS is completely on the fritz. The peer-to-peer technique still needs an internet connection to reach the central service piecing information together -- there isn't much help if you're in areas where reliable internet access isn't always guaranteed. Likewise, there's no certainty that Google will use the patent in a future build of Android or Chrome OS. If it does, though, at least some of us may say goodbye to the days of our map positioning going haywire the moment we drive through a tunnel or step into an office without WiFi.
+
+

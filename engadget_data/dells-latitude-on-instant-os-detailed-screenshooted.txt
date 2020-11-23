@@ -1,0 +1,9 @@
+
+ 
+Seems the act of waking a sleeping laptop to a full-blown OS is no longer in vogue. We're not sure when this happened though we're pretty sure that ASUS' decision to embed SplashTop into its P5E3 mobo had something to do with it. The benefit, of course, is an extension of battery life to days instead of hours assuming that you're not regularly booting into Vista or XP (which you probably are). Anyway, these new instant-on OSes are all the rage these days in products from netbooks, to ultra-portable fashion statements, and now business laptops thanks to Dell. Dell's solution, as applied to its newly announced Latitude E4200 and E4300, features a fully-dedicated, Linux-based system-on-a-chip subsystem consisting of a low-power ARM processor and flash memory that runs independent of your laptop's CPU and storage. The OS is based on SUSE Linux Enterprise Desktop 10 and includes a Firefox-based browser with custom email, calendar, and contacts applications, MS Office and PDF viewers, and all the drivers required to make use of the laptop's hardware and HSDPA radios -- an Instant Messaging client and browser support for Flash and Java are in the works. Data is pulled (you set the refresh rate) from an Exchange server via wireless connection, only. IT types should be aware that the first batch of Latitudes will ship in a "reader" mode which boots the OS and apps off the laptop's hard drive and likewise reads the laptop's cached data. In November, Dell will rollout the fully embedded Latitude ON system and offer a mini-PCI upgrade to those first-release models. Check the video after the break to hear Dell explain it in their own words.[Via Electronista, thanks Khoa K.]
+      
+
+ 
+
+
+ 

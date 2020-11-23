@@ -1,0 +1,32 @@
+
+ 
+ The Galaxy S III was widely tipped to possess a Wolfson digital-to-analog converter for high quality audio output -- a feature not seen in this range since the first Galaxy S. That notion has just been confirmed by the Scottish electronics firm itself, which says its WM1811 Audio Hub has been selected for use in Sammy's flagship. The chip promises "crystal clear voice call quality" and "enriched audio playback for music and video" thanks to its 24-bit hi-fi DAC, active noise reduction circuits and other wizardry. The GS II, meanwhile, used a Yamaha DAC to convert digital data (e.g. in an mp3 file) into an analog signal that could drive a speaker (for example in your headphones), but even if most people couldn't hear the difference, audiophiles have insisted they preferred the sound in the older Galaxy. The only question remaining, which the PR after the break does not expand upon, is whether the Wolfson hardware is found in all variants of the new phone. Check out the More Coverage links for further reading.
+
+ Update: Francois Simond (aka Supercurio) tweeted us to say that the US variant of the GS III uses Qualcomm's own WCD9310 for audio, not the Wolfson. Yup, it's that multi-talented Snapdragon S4 again.
+
+
+
+  Show full PR text   EDINBURGH, Scotland--(BUSINESS WIRE)--Wolfson Microelectronics plc, a global leader in the design and development of mixed-signal semiconductors and high definition (HD) Audio solutions for the consumer electronics market, has today announced that its ultra-low power HD Audio Hub, the WM1811, has been selected by Samsung for inclusion in its highly-anticipated new smartphone, the GALAXY S III.
+   "We are delighted that Samsung has once again demonstrated its confidence in our Audio Hub solutions, this time by incorporating the WM1811 into its flagship GALAXY S III smartphone, the launch of which will further strengthen Samsung's position as a world leading smartphone manufacturer."
+
+    This announcement builds on Wolfson's strong partnership with Samsung, having already designed Wolfson's WM8994 Audio Hub into several of its leading-edge smartphones, including the Samsung Wave and Galaxy S.
+
+   Featuring class-leading technology, the WM1811 provides crystal-clear voice call quality and enriched audio playback for music and video while minimising power consumption, enabling manufacturers such as Samsung to create outstanding HD Audio user experiences with long battery life.
+
+   Commenting on the announcement, Wolfson's Chief Executive Officer Mike Hickey said: "We are delighted that Samsung has once again demonstrated its confidence in our Audio Hub solutions, this time by incorporating the WM1811 into its flagship GALAXY S III smartphone, the launch of which will further strengthen Samsung's position as a world leading smartphone manufacturer.
+
+   "Our continued success with Samsung, particularly within its range of smartphones and tablets, is testament to the unrivalled quality of our HD Audio Hubs, and the unique features in our products that allow manufacturers to create differentiated audio experiences."
+
+   Packed with innovative technology designed for humans, the GALAXY S III is effortlessly smart and intuitively simple to make people's everyday life easier.
+
+   About Wolfson Microelectronics
+
+   Wolfson Microelectronics is a global leader in the supply of high performance, mixed-signal semiconductor solutions to the consumer electronics market. In the home, in the office and on the move, Wolfson's innovative technology can be found at the heart of many of the world's leading digital consumer goods, including premier hi-fi equipment, mobile phones, tablet computers, gaming devices, MP3 players, flat panel TVs, digital still cameras and portable navigation devices.
+
+   Wolfson is committed to the design and supply of ground-breaking audio products, including its architecture-defining audio hub solutions, silicon micro-electro-mechanical system (MEMS) microphones, power management IC's and noise cancellation solutions, all of which come together to allow Wolfson to deliver industry-leading HD audio to consumer electronics applications This rich portfolio allows Wolfson's global customers to better differentiate their digital consumer products and create whole new end-user experiences.
+
+   The company's headquarters is located in Edinburgh, UK. Wolfson's customers are located worldwide, and so is Wolfson, with design centres, sales offices, applications teams and engineering expertise across Europe, the US, Australia and Asia.
+
+   Wolfson Microelectronics plc is listed on the London stock exchange (LSE: WLF.L).
+
+ 

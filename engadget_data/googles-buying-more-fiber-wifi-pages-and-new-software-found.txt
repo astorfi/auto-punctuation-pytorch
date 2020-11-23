@@ -1,0 +1,51 @@
+
+
+Man, this whole GoogleNet thing is getting sticky and
+suspicious and interesting—a real page turner, if you ask us. So if you recall, we reported before that Google was
+supposedly buying up unused fiber and spare backbone bandwidth like crazy—enough to move some serious, serious data.
+Then yesterday our man Om pointed out
+IP Democracy's report that Google has
+been further reviewing bids for building a nationwide DWDM (dense wavelength division multiplexing) fiber network, one
+theoretically capable of terabit speeds, and at the bargain basement price of under $100 million—apparently this thing
+could even be up and running in months, according to their sources. Yes, we know how crazy-conspiracy-theory this stuff
+sounds sounds, but where it goes from here is increasingly less questionable. So even though Goog can easily snap up
+all this backbone bandwidth, they're left with the last mile issue, hence speculation of a WiMax or WiFi network. Now
+today it's come out that yes, they actually have a piece of working WiFi VPN software to download called Google Secure
+Access, and that it "is only available at certain locations in the San Francisco Bay Area"—coincidence that that's
+where they happen to have a test bed of location-tracking WiFi hotspots to provide Google-local based ads on top of
+free WiFi access? And knowing Google, of course they'd want VPN
+software running on "GoogleNet," what kind of PR nightmare would it be for them having millions across the nation
+getting online on open WiFi on account of the "do no harm" company? Ordinarily we might say this is all kind of
+crackpot speculation, but these pieces keep falling together and it's kind of freaking us out.
+
+
+ [Via The Washington
+Post]
+
+
+P.S. We gave the Google Secure Access client an install—click on to check it out.
+
+
+
+  
+ Nothing out of the ordinary on the TOS, at least not that we could see.
+
+ 
+ Small, as usual.
+
+ 
+ Disconnected.
+
+ 
+ Connecting?
+
+ 
+ It worked!
+
+ 
+ ... well, kind of. Once on their network, Windows knew to route traffic by default to through the Google VPNinterface. Except they obviously detected we weren?t on a Google WiFi hotspot, so our traffic didn?t go anywhere.
+
+ 
+ This is an old Horace idiom. It might be a lot less cryptic if it didn?t roughly translate as: ?It?s of your concernwhen the nearest wall is burning.? Oh, Goog.
+
+

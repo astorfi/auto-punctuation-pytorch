@@ -1,0 +1,8 @@
+
+ 
+Looks like Intel, the big bad daddy of silicon, is about to unleash its first consumer oriented SSDs into the market. While Intel's 1.8- and 2.5-inch 80GB and 160GB SSD plans were pretty thoroughly detailed in those May leaks, Expreview has slapped up an honest-to-goodness slide which looks like it came straight from the Intel deck. Assuming it's authentic, then we now know that Intel's 2.5-inch X25-M and 1.8-inch X18-M SSDs top out with a 240MBps sustained read and 70MBps write. That's just a bit slower than the blazing Micron RealSSD C20 but still seriously quick and hopefully priced for the mainstream audience they are targeting. Dell, for example, sells a 128GB Samsung SSD for $450 -- surely Intel can beat that cost per Byte... right Intel? We're guessing that the enterprise-class 32GB and 64GB X25-E SSDs will feature some of that Micron co-developed "world's fastest" SLC NAND in order to achieve that ridiculous 240MBps / 170MBps read / write speed at what's expected to be an equally ridiculous price. The 80GB X25-M and X18-M are expected to launch in Q3 (so any day now) while the 160GB solid state slab should break free for consumers in Q1 (not Q4 2008) of 2009. Expect to hear more on these next week as Intel kicks off another International Developers Forum. 
+
+[Via TG Daily]
+      
+
+ 

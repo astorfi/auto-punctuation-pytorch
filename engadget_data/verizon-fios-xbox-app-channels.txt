@@ -1,0 +1,10 @@
+
+Verizon's FiOS app has been leading the way on the Xbox One live-TV front, and now it's getting a handful more channels in its stable. If you're a subscriber, you now have access to the likes of AMC HD, Showtime, Encore, Bloomberg TV and ten others. As Verizon tells it, this brings the total channel count to 88 across both the Xbox 360 and its younger brother, the Xbox One. Whether you're going to use them to keep up with the exploits of the Ricktatorship or Homeland, however, is up to you.
+
+
+
+
+var bc_params = {"api":"hybrid","playerId":"83327935001","playerKey":"AQ~~,AAAAAAuyCbQ~,-gfAmfm8njJ8S-9E4q2UfzG931rvkxuP"};brightcove.createExperiences();
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

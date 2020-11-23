@@ -1,0 +1,11 @@
+
+
+Closed-circuit security cameras are supposed to make you safer, but some malware is turning them into weapons. Researchers at Incapsula have discovered code that turned about 900 Linux-based CCTV cameras into a botnet, which promptly bombarded an unnamed "large cloud service" that serves millions of people. The intruders compromised cameras from multiple brands, all of which had lax out-of-the-box security -- in some cases, they'd been hacked by more than one person.
+
+
+
+The botnet conducted a "run of the mill" denial of service attack, and it would be relatively easy to thwart the attackers with a bit of caution. However, it underscores the potential dangers of security cameras. There are millions of connected cams worldwide, many of which likely weren't installed properly -- and it'd be trivial to use those cameras to spy on people. Until companies either ship more secure cameras or tell their customers how to protect themselves, these surveillance systems will likely represent an ongoing risk.
+
+[Image credit: Oli Scarff/Getty Images]
+
+

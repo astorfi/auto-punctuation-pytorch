@@ -1,0 +1,4 @@
+
+ Long heralded as the darling of the open web, the standards for HTML5 haven't actually been finalized by the W3C -- it was just recently that the international consortium pledged to get it done by 2014. So it's good to hear the group just hit a significant milestone on the road to that goal by publishing the full definition for the spec this Tuesday. With that accomplished, the next step is interoperability and performance testing to make sure HTML5 plays nice with any and all browsers, servers and other web tools. The W3C hopes that this will bring "broad HTML 5 interoperability" by 2014, which fits right in to the organization's philosophy of bringing the entirety of the web -- however divisive -- together.
+
+

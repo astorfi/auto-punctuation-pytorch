@@ -1,0 +1,6 @@
+
+ 
+
+
+	No Android security flaw is good news for Google, but the recently discovered ClientLogin issue that left the OS vulnerable to impersonation attacks is surely at least a bit more welcome than some of the alternatives. That's because the flaw can be fixed at the server-side level (rather than on millions of Android phones), and Google has now confirmed that a fix is rolling out today, although it may take a few more days for it to cover all users (there's no action required on your part). The company's not quite out of the woods just yet, though -- while we've confirmed with Google that the fix addresses the issues with Calendar and Contacts, the problem with Picasa remains, and there's still no indication of a fix for it. Incidentally, Google had already fixed the Calendar and Contacts issues on the phone-side with Android 2.3.4 (although that still left 99 percent of phones vulnerable), but it too is still stuck with the Picasa vulnerability.
+ 

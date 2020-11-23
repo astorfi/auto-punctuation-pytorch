@@ -1,0 +1,11 @@
+
+ 
+
+What's the point of investing $100 million in a mobile payment system if you don't have the goods to back it up? AT&T may be adopting this philosophy, beginning with the Galaxy S II. With the aid of eagle-eyed Android dev François Simond, we conducted an extended analysis of Ma Bell's latest gem and discovered it's rife with NFC. In addition to containing kernel drivers and a pre-installed APK, the system files also indicate the device is running in a mode named NDEF -- short for NFC Data Exchange Format. We haven't been able to determine if the handset will be capable of making payments, but the presence of Near-Field Communications in the Galaxy S II is definitely a good sign. T-Mobile is keeping a tight lid on its variant for the moment, preventing us from getting an in-depth look, but FCC filings confirm it will contain NFC as well.
+
+As for the third handset announced last night, the Epic 4G Touch contains no mention of NFC. Upon further analysis, we uncovered something else potentially more disturbing: it's using the same WiMAX module (cmc732) as the Samsung Nexus S 4G, a handset that was plagued with performance issues when it was originally released (those concerns were eventually resolved in a later update). In this case, it's hard to tell if that means we'll relive the painful experience once again, or if it will come with improved firmware to ensure it doesn't take the same path as its 4G brother. We're starting to unravel the mysteries, folks, and will continue to fill you in as we learn more. If you're considering one of these three lovely models, will these discoveries sway your decision in a particular direction?
+
+[Thanks, François Simond]
+      
+
+ 

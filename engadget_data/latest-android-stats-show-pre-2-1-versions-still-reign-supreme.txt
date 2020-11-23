@@ -1,0 +1,6 @@
+
+ 
+Fragmentation's a red herring, eh, Google? We'd suggest you look at your own stats, where -- as of yesterday, anyway -- fragmentation was alive and well, no matter how you define it. In the two-week period of Google's data collection ending June 1, some 54.5 percent of devices in the field were still using pre-Eclair versions of Android, a pretty sorry stat considering that it was released back in late 2009 and xda-developers members have proven countless times that every Android phone ever made can run 2.0 and above with aplomb. To be fair, 2.1 picked up significant steam since the last roundup and the trailing devices aren't entirely Google's fault -- manufacturers and carriers need to take most of the blame for the delays in getting upgrades pushed out -- but it's Google's wild development pace that has left this trail of premature obsolescence in its wake. Upgrades are good, but necessitating that your development community has its eyeballs on at least four versions of your platform (1.5, 1.6, 2.1, and 2.2) is generally bad.
+      
+
+ 

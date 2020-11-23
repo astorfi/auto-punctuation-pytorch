@@ -1,0 +1,6 @@
+
+   
+Sure, we knew 4x4 was on the way, and we had an idea AMD was prepping a fancy new "Quad FX" moniker for the spankin' new chipsets, but we were still waiting for the stamp of legitimacy, which just came in the form of an AMD unveil this morning in Japan. The new chipset integrates NVIDIA's nForce 680a SLI chipset with AMD's fresh Athlon 64 FX-70 dual-core processors to great effect, with clock speeds hitting 2.6, 2.8 and 3.0GHz for the FX-70, FX-72 and FX-74 processors. The 90nm chips include 2MB of L2 cache, consume no more than 125W of power, and can support 800MHz DDR2 SDRAM, all based on AMD's Socket F workstation infrastructure. Of course, all this integrated action doesn't come cheap -- or tiny, as the picture above proves -- since the CPUs will run you $599, $799 and $999 respectively. By the time you buy two of 'em, plus 4 NVIDIA cards and a motherboard to hold 'em all, your bank account will be hurting mightily, but if cost is no concern, there's no arguing with the power potential here.[Via El Reg]
+      
+
+ 

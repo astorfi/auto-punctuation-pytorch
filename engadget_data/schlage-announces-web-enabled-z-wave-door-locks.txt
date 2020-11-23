@@ -1,0 +1,5 @@
+
+ The Z-Wave standard for home automation has already proven itself to be a pretty versatile bit of technology, and it looks like its now set to ensnare yet another part of your house, with lock-maker Schlage set to introduce some web-enabled Z-Wave door locks. Those will let you lock or unlock your door from your PC, cellphone or any other wireless, web-enabled device -- or, of course, from the lock itself. That's done with the aid of a Z-Wave gateway that connects to your router, which relays the RF signals to and from the lock (or one of up to 256 other Z-Wave devices), and gives you the added benefit of extending the life of the batteries in the lock, which Schlage says should last for up to three years. Otherwise, the details on the locks themselves are pretty light, with the folks at Schlage only going so far as to say that they'll look "pretty similar" to their non-Z-Wave locks (pictured at right), and that they'll be "affordable," though presumably not less than the $150 their current locks go for.[Thanks, Steve]
+      
+
+ 

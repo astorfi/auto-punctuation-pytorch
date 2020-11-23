@@ -1,0 +1,15 @@
+
+ 
+Remember our good friends from AirStash at last year's CES? Well, this year they're back with the same wireless storage dongle, but now bolstered with a new firmware and smarter ways of transferring files to and from your mobile devices. As before, the AirStash is essentially an SD card reader that can be accessed as an ordinary USB storage device, or a basic read-only file server via WiFi tethering, meaning the host device doesn't require a card reader or a USB host. Upon requests from many users, AirStash is now finalising an HTML5-based web app and a free native iOS app, both of which offer in-app image browsing and media streaming, including HD videos and Apple DRM content on iOS (associated with the appropriate Apple ID, of course). 
+
+What really surprised us was the claim that the AirStash's minuscule 600mAh cell can do streaming for around five hours, regardless of the media type. That said, we were only given a demo with a standard-definition video clip, and even that took about 25 seconds to buffer over 802.11g WiFi, so you can imagine how many sunsets you might see while waiting for an HD clip to load. With about a full month away from release, AirStash thinks it can push the loading speed up in time for launch, so we shall see. Read on to see the other new features.
+
+
+
+
+
+What differentiates the native iOS app from the HTML5 flavor is mainly the former's iPhoto import feature. Simply click on the import button at the bottom of AirStash's app, and then you can choose to either import the currently opened directory, or import everything from the AirStash. Oddly enough, there's no way to select multiple directories for importing, but the AirStash folks have taken in our tip for consideration. Further down the simple menu, there's a switch for toggling either original size import or just native screen resolution import, depending on how much space you want to fill up on your iPad, iPhone, or iPod touch. Either way, this is a pretty handy method for browsing or showing off your fresh shots on any sizeable display.We were then shown the AirStash's WebDAV compatibility using iOS' Keynote. With this increasingly popular protocol, supported mobile apps -- regardless of their platform -- are able to read from and write to our little WiFi device. In this case, we opened Keynote, chose a presentation file, and let the app download it via WiFi. Had we edited the file, we could've also saved a new copy to the AirStash via WebDAV as well, and then distribute the file any way we wanted (as opposed to just emailing it out, especially if it's a large file and your recipient is sat right next to you).All these new features sure make the $99.99 AirStash a more tempting deal, especially for road warriors attempting to fully replace their laptops with low-powered tablets. There's no hurry to whip out your credit card though -- we'll be giving the AirStash a spin once the firmware is ready in a few weeks' time, and hopefully we'll also dig out more WebDAV apps for various platforms, so stay tuned.
+
+       
+
+ 

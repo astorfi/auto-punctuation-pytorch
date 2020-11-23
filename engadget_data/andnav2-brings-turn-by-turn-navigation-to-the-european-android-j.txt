@@ -1,0 +1,8 @@
+
+ 
+Although G1 users have that sweet compass-based Street View implementation, we haven't heard much about turn-by-turn nav on Android until now -- AndNav2 is a new alpha app that uses OpenStreetMap data to get you where you're going. It's currently supported in the UK, Ireland, Germany, Austria, France, Denmark, Spain, Switzerland, and Italy -- apparently the folks at AndNav don't have server enough for a Stateside implementation, although they hope to have this remedied in the future. In the meantime, it looks like Americans hoping to get from one place to another will have to either continue to rely on their superior sense of direction or, more likely, their Knight Rider GPS.[Via Googleandblog]
+
+ 
+
+
+ 

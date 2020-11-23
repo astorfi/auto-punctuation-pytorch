@@ -1,0 +1,6 @@
+
+ Stitcher's Android app can do many things with radio and podcasts, but one thing it hasn't done lately is blend in -- its interface is out of sync with a platform that has had its own distinct style for more than two years. A major remake today helps make amends. The new Stitcher app relies on the Action Bar and overall concepts of Holo-native apps for input, simplifying things for anyone who's comfortable with Ice Cream Sandwich or Jelly Bean -- and more than a little prettier, we'd add. It's more than just eye candy, though. The Android build now has a dedicated Smart Station to listen to recommendations, browsing that keeps interruptions to a minimum and Jelly Bean-specific playback controls in notifications. While there's no fundamental changes that would lure someone who's wedded to a single-purpose app, the Stitcher refresh could be worth a look if previous versions ever felt like strangers on Google's turf.
+
+ Update: Not long afterwards, Stitcher has updated its iOS app to add Topic Search, which lets listeners find shows covering specific topics, even drilling down to exact show segments.
+
+

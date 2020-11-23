@@ -1,0 +1,5 @@
+
+ 
+ Adobe was very public about dropping mobile Flash last fall. In case that wasn't clear enough, the developer just drew a line in the sand: Android 4.1 doesn't, and won't ever, get certification for Flash. The company is stopping short of saying that Flash won't run, but it's evident that Adobe won't help you if the web browser plugin doesn't install (or breaks in spectacular fashion) on that Nexus 7. Just to underscore the point, the firm is also halting new installations of Flash from Google Play as of August 15th. Security updates and other vital patches will continue on for existing users. Any fresh downloads after that fateful day, however, will have to come from Adobe's mausoleum for old versions. The company had already said that HTML5 was the way forward on phones and tablets -- now we know just how quickly it's backing up that claim.
+
+

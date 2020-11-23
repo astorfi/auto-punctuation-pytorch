@@ -1,0 +1,8 @@
+
+
+As you may have noticed, there were a few reports making the rounds earlier today that suggested Flash 10.1 for Android would be limited to phones running Android 2.1. Adobe itself didn't seem to be saying much about the matter, however, so we inquired with them and received a statement that raises about as many questions as it answers. According to Adrian Ludwig, group product marketing manager for Flash Platform:
+
+Adobe, Google, and other members of the Open Screen Project are working together to make ensure the full Web experience can be delivered on largest possible number of devices. Support for full Flash Player 10.1 requires some enhancements to existing versions of Android. These enhancements are expected to be available as an upgrade to existing devices and for new devices starting in Q2 2010.
+
+The key detail there, obviously, is that support for the full Flash Player 10.1 will indeed require "some enhancements" to current versions of Android, meaning that one way or another you'll have to update, and that an update for every Android phone isn't necessarily guaranteed. What the statement doesn't confirm, however, is whether those "enhancements" are, in fact, Android 2.1, or an update of some sort that will follow Android 2.1 -- we'll let you know if we get any further clarification on that.
+ 

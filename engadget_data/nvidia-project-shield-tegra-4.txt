@@ -1,0 +1,62 @@
+
+
+
+A video shown on-stage during NVIDIA's press conference just unveiled "Project Shield," a gaming controller / portable console running the just announced Tegra 4. The controller looks an awful lot like a PlayStation 3 DualShock 3, albeit with an HD screen attached. NVIDIA's promising 38 hours of gaming 5 to 10 hours of gaming, and 24 hours of HD viewing out of the 38-watt rechargeable lithium ion batteries built-in, a swanky audio system "on par with" jamboxes, and a full-on Android gaming experience. A micro SD sits next to an HDMI output, one USB port, and a standard eighth inch audio jack, directly below the customizable 5-inch "retinal display" touchscreen. Update: It's a 1,280 x 720 screen at 294 dpi, for the record.
+
+
+NVIDIA's hoping Shield will replace your average controller as well -- perhaps with that newly detailed Grid system? -- and company CEO Jen-Hsun Huang showed off its use in-tandem with a swanky LG 4K television on-stage, navigating through media without pause. He also gave us a taste of a few games running on it (Blood Sword: Sword of Ruin and a boxing title) via NVIDIA's Tegrazone gaming store. But beyond just Android games we've already seen, still-in-development Unreal Engine 3 title Hawken was also given a multiplayer run, and looked notably more attractive than the previous two titles.
+
+
+As good as the handheld's newfangled Tegra 4 chip seems to be, it still can't hold a candle to Nvidia's own GTX 680 -- Huang explained that the Shield can play more than just Tegrazone games -- it can take over your gaming PC, too. He explained that Nvidia's GeForce Experience software can pipe PC gaming to the handheld over your local network, giving Shield owners access to their Steam library (navigatable by Big Picture Mode, of course) directly from the device. It looks like users will be able to purchase PC games through Tegrazone, too.
+
+
+Huang showed the crowd Need for Speed: Most Wanted running in real-time on the device. It's ... well, it's really impressive. There's little (if any) perceptible lag, and this is a racing game we're seeing (as in that lag really matters). The next game up is Assassin's Creed 3, which looks similarly impressive on the Shield's 5-inch screen. Finally, we're seeing Steam launched directly from Tegrazone, and it launches directly into Big Picture Mode. Beyond just playing games via streaming, it looks like we'll be able to buy them directly on Steam, through Shield. We'll be getting a closer look at Project Shield later this week, and we'll be sure to put it through its paces. Oh, and we'll ask for a price and release window, as we've yet to hear official word on either. Can't wait? Tide yourself over with NVIDIA's official press release after the break.
+
+
+Update 2: NVIDIA tells us Project Shield's roughly in the beta stage of development, and currently doesn't include an LTE radio (WiFi only). It's running Jelly Bean at the moment, but may change by the time it's expected to ship, in "Q2 2013." Still no word on pricing, sadly.
+
+
+
+
+Show full PR textNVIDIA Untethers Gaming With Project SHIELDSunday, January 6, 2013
+CES -- NVIDIA today announced Project SHIELD, a gaming portable for open platforms, designed for gamers who yearn to play when, where and how they want.Created with the philosophy that gaming should be open and flexible, Project SHIELD flawlessly plays both Android and PC titles. As a pure Android device, it gives access to any game on Google Play. And as a wireless receiver and controller, it can stream games from a PC powered by NVIDIA® GeForce® GTX GPUs, accessing titles on its STEAM game library from anywhere in the home.
+
+"Project SHIELD was created by NVIDIA engineers who love to game and imagined a new way to play," said Jen-Hsun Huang, co-founder and chief executive officer at NVIDIA. "We were inspired by a vision that the rise of mobile and cloud technologies will free us from our boxes, letting us game anywhere, on any screen. We imagined a device that would do for games what the iPod and Kindle have done for music and books, letting us play in a cool new way. We hope other gamers love SHIELD as much as we do."
+
+Project SHIELD combines the advanced processing power of NVIDIA Tegra® 4, breakthrough game-speed Wi-Fi technology and stunning HD video and audio built into a console-grade controller. It can be used to play on its own integrated screen or on a big screen, and on the couch or on the go.
+
+Tegra 4 at Its HeartAt the core of Project SHIELD is the world's fastest mobile processor, the new NVIDIA Tegra 4, which delivers enormous power from its custom 72-core GeForce GPU and the first quad-core application of ARM's most advanced CPU core, the Cortex-A15. These, combined with its battery-saver core and energy-saving PRISM 2 technology, deliver hours of gameplay on a single charge.
+
+Windows and Android GamesWindows and Android are the world's most successful computing platforms, with massive ecosystems of system and software developers. While not specifically designed for gaming, both open platforms have drawn gamers by the millions. Project SHIELD is designed to allow them to enjoy Android and Windows games in a new, exciting way.
+
+Project SHIELD can instantly download Android games, including Android-optimized titles available on NVIDIA's TegraZone™ game store, which has already delivered more than 6 million downloads to gamers. It can also be used as a wireless game receiver to a nearby PC equipped with an NVIDIA GeForce GTX 650 GPU or higher.
+
+Console-Grade ControllerProject SHIELD's ergonomic controller was built for the gamer who wants ultimate control and precision.
+
+Retinal Gaming DisplayBrilliant gameplay and video are provided by Project SHIELD's integrated 5-inch, 1280x720 HD retinal multitouch display, with 294 dpi. Plus, Tegra 4 with Direct Touch technology gives it touch responsiveness that is a more consistent, accurate and smooth-flowing touch input experience than a standard touch device.
+
+Tuned Port, Bass Reflex Portable Speaker SystemDeep, rich audio is critical for a great gaming experience. And Project SHIELD provides fidelity and dynamic range never before available on a portable device, through its custom, bass reflex, tuned port audio system -- with twice the low-frequency output of high-end laptops.
+
+Project SHIELD can also access Android apps such as Hulu, Netflix and Slacker Radio, so users can enjoy their movies and music anywhere without expensive, clumsy wired or wireless speakers.
+
+Support by Leading Industry AnalystPatrick Moorhead, president and lead analyst at Moor Insights & Strategy, said: "The market has waited years for a breakthrough gaming device that offers the flexibility, quality and total enjoyment of Project SHIELD. Few companies other than NVIDIA have the vision, guts and deep gaming experience to have pulled this off."
+
+Support by Leading Game DevelopersYves Guillemot, co-founder and chief executive officer of Ubisoft, said: "Ubisoft is always excited about new hardware developments, and Project SHIELD promises to bring both mobile and PC gamers a great new gaming experience. Seeing the PC version of Assassin's Creed III run on the device is a great example of this, and further strengthens Ubisoft's long-standing relationship with NVIDIA."
+
+Mark Rein, vice president and co-founder of Epic Games, said: "With Project SHIELD, NVIDIA brings an uncompromising, high-performance console experience to mobile devices. Amazing games including Real Boxing and Hawken, which utilize the latest Unreal Engine technology, look fantastic on Project SHIELD. This is just the beginning, and we're truly excited to see what more Unreal Engine developers will do with so much horsepower in such a compact gaming device."
+
+Bill Wagner, chief production officer at Meteor Entertainment, said: "Coming from the openness of a PC platform, we love how accessible Project SHIELD is, and the flexibility it gives gamers everywhere. Project SHIELD gives us the cutting-edge ability to bring a huge free-to-play PC game like Hawken to the handheld gaming audience."
+
+Support by Broader Industry"Shadowgun and Dead Trigger showed how Tegra can redefine mobile gaming on Android. Project SHIELD's performance has allowed us to bring an even better experience with Dead Trigger 2, debuting first on Tegra 4 devices. Our fans are going to love it."- Marek Rabas, chief executive officer of MADFINGER Games
+
+"Project SHIELD has changed how we approach mobile game development. Tegra 4 helped us create Bloodsword -- a new game debuting with the highest resolution textures, graphics and shading we've ever seen on a portable device."- Seunghee Do, co-founder at OneQ Soft
+
+"We are very excited to be part of Project SHIELD, and are quite amazed by the gaming potential of this device. Project SHIELD is by far the fastest mobile device we've worked on and it lets us put console quality graphics on a handheld device."- Stine Waern, chief executive officer at Ravn Studio AS
+
+"Thanks to Project SHIELD's performance, we're able to use the same quality textures and shaders in Rochard as on the PC version. We're super excited to bring Rochard to Project SHIELD, the first time it's ever been playable on a mobile device."- Jan Achrenius, chief executive officer at Recoil Games
+
+"Put simply, Project SHIELD is an amazing leap forward, enabling us to create console-quality visuals previously unthinkable on a mobile platform."- Arden Aspinall, chief executive officer and project lead at TickTock Games Ltd.
+
+More information is available at shield.nvidia.com.
+
+

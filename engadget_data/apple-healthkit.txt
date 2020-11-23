@@ -1,0 +1,18 @@
+
+Apple's iPhone is going from part-time health stat monitor to full-time mobile monitoring unit. HealthKit is a new service coming to the iPhone that tracks, records and analyzes your fitness level across a variety of metrics (sleep, movement, etc.). The way you use it on iOS 8 is through a new app called, simply, "Health." The initiative works with companies like Nike to bring all your health information into one place, under the Health app in the next update to iOS. It looks a lot like Passbook, using cards to identify various stats. Thusly, it enables customization of the stats you want tracked and how you want it presented.
+
+
+
+
+
+Apple says Health will work with more than just Nike, though other big players weren't given the same shoutout. Beyond exercise applications, HealthKit is working with health care providers to provide up-to-date information on patient vitals in real time.
+
+The Mayo Clinic, a Minnesota nonprofit, is already working with Apple on making the software work best for both doctors and patients. In the examples shown today at Apple's WWDC event in San Francisco, Health advised patients of wellness plans set by their doctors and enabled a futuristic approach to health care; where doctors and patients interact constantly, in real time, at the very least on a data level. We haven't seen the app in action just yet, but it's easy to guess at some major implications here for health care.
+
+Health assuredly works with Apple's M7 chip, first introduced in the iPhone 5s, which tracks motion stats and enables collection of much of the metrics HealthKit aims to collect. To that end, it's not clear how well Health will work with older iPhone models without onboard data collection. Regardless, Health and HealthKit sound like the software bedrock for the long-rumored iWatch concept -- a smartwatch/wearable of some form directly from Apple -- though we've yet to hear anything official on that.
+
+Update: Apple issued a press release following today's presentation. It describes the Health app and HealthKit as such:
+
+"The new Health app gathers the information you choose from your various health apps and fitness devices, and provides you with a clear and current overview in one place. iOS 8 offers developers the ability for health and fitness apps to communicate with each other. With your permission, each app can use specific information from other apps to provide a more comprehensive way to manage your health and fitness. For example, the Nike+ apps using NikeFuel will be able to pull in other key HealthKit metrics such as sleep and nutrition to build a custom user profile and improve athletic performance."
+
+

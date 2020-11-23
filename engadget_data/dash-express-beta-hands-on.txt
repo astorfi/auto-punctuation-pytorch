@@ -1,0 +1,19 @@
+
+ 
+We recently got to take a Dash Express beta unit for a spin, and while they're still gluing all the software together behind the scenes in anticipation of launch, we did spot the makings of a few obvious and ridiculously useful features new users can expect in February. Besides the stuff we've already heard about (like sending addresses and geo-RSS feeds via WiFi and cellular, or local Zillow property values), the Dash Express has some other tricks up its sleeve, like:
+
+The ability to display current local gas prices in its gas station search!
+Local theaters show movies and showtimes (although you can't order tickets through the Dash Express -- yet).
+Yahoo Local searches show aggregate user ratings.
+Over the air updates via cellular data. (We're not yet sure what happens if you opt out of service -- we'd guess you'll just have to use the old USB cable or WiFi.)
+And, of course, there's the traffic data, which not only shows which local roads with traffic data from real time and historic Dash GPS users but also uses Inrix traffic feeds.
+And just so you know whether the system is or isn't too sure about its traffic predictions, the Dash Express also gauges its "confidence" with dashed and solid lines -- see above. (Of course, it also plots routes predicted by ETA and traffic flow, and not necessarily just by distance.)
+
+Compared to your usual, run of the mill GPS, whole connected navigator experience was not dissimilar from the jump between going from a VCR to a TiVo -- which is why we think maybe, just maybe, people might actually want to pay for service with this thing. Of course, the downside for dash is most people won't even realize what an amazing boon these kinds of features really are until they've taken one home and discovered it first hand out in the world. (Oh, videos after the break.)
+
+
+
+
+
+
+ 

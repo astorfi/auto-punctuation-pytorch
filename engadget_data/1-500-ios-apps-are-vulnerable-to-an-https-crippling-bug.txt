@@ -1,0 +1,13 @@
+
+According to analytics service SourceDNA, nearly 1,500 iPhone and iPad apps currently available in the App Store include a bug that breaks HTTPS. This could leave users' sensitive personal information exposed to hackers. Analysts have identified an out-of-date version of open-source code library AFNetworking as the source of the vulnerability. The library itself has already been patched, however, many apps are still using the older, insecure version. "We tested the app on a real device and, unexpectedly, we found that all the SSL traffic could be regularly intercepted through a proxy like Burp without any intervention," researchers Simone Bovi and Mauro Gentile wrote in March.
+
+
+
+          
+ 
+ 
+ It should be noted, however, that this vulnerability does not break security system-wide. Instead, it poses an issue when a vulnerable app is active. That is, if you have the Alibaba.com app running (which is vulnerable), only the data that you send through that app will be at risk; the information you send using, say, the eBay app or via the Amazon website will still be secure. SourceDNA analyzed the binary code of every free app, as well as the top 5,000 paid ones, to assemble its list. The company has also released a search tool to help users see if their favorite apps are affected. Hopefully all this added attention will incite developers to patch their programs, though as of yesterday, about 1,500 apps remain at risk.
+
+       
+
+ 

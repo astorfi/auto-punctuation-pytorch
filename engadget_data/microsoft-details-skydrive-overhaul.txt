@@ -1,0 +1,8 @@
+
+   We heard whispers of SkyDrive desktop applications a few days ago. Today, Microsoft confirmed just that alongside a Metro-style offering for Windows 8 and other improvements to its cloud storage tech. In a post on the Building Windows 8 blog, the outfit discusses file sync via desktop app for easy drag-and-drop use -- much like we've become used to with Dropbox. The overhaul will support 2GB max file uploads through Windows Explorer and the desktop software will play nice with both Vista and Windows 7. Upgrades will also bring snappy, "touch-first" perusal of your files in a dedicated Windows 8 app and will offer accessibility in other Metro-syle applications should the need arise. The post states that "For app developers, this means that, so long as your app supports opening and saving documents and photos, it will automatically support SkyDrive without any additional work." Similar to its cloud storage competitor, SkyDrive will also enable remote access via its web site in case you need to "fetch" that presentation on a co-worker's PC. Still no word on extended storage options / pricing that we've heard rumblings about, though. For a closer look at the some of the tweaks, peep the gallery below or hit the source link for more on the particulars.
+
+
+  Update: A video demo now awaits you on the other side of the break.
+
+ 
+ 

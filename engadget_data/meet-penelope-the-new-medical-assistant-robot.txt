@@ -1,0 +1,5 @@
+
+ Just in case EMMA the nursebot didn't do it for you, there's a new medical assistant bot in town, codename: Penelope. This metallic medico may have all the personality of a swinging desk lamp, but it may also save your life. Penelope is trained to respond to a surgeon's commands for specific tools; if a surgeon calls out for a scalpel, then Penelope will hand it to her. Or if that's too practical for you, try Robotic Surgial Tech's explanation that its robot is like an "Instrument Server." As the company states on its site: "Much as a web server manages and serves web pages, Penelope manages and serves surgical instruments. Penelope processes requests for instruments as they come in. The instrument is located, fetched, and delivered." So does that mean if multiple surgeons ask for multiple items then it will suffer a distributed denial of service attack and start to 404?[Via Robot Gossip]
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Technically, OCZ outed this here PCI-Express SSD way back at CeBIT in March, but it's just now making things super official. Now available with a fresh face and hard specifications, the Z-Drive is aiming to take on wares by firms like Fusion-io and provide blistering transfer rates to anyone who buys in. Essentially, this device removes the SATA bottleneck by employing the PCIe architecture and four Vertex controllers configured in four-way RAID 0 array. Curious about performance? Read speeds can hit upwards of 510MB/sec, while write speeds top out at 480MB/sec -- plenty respectable in our eyes. OCZ's planning to push these out in 250GB, 500GB and 1TB capacities, and while final pricing is still being kept under wraps, we're told that it'll be kept "competitive."
+
+
+

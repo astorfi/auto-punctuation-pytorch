@@ -1,0 +1,9 @@
+
+ 
+ At certain point in every geek's life, their mother gives up and stops yelling at them to sit up straight. If the lack of constant reminders to maintain good posture has you slouching and hunching, there are countless technological substitutes. Even a few nice DIY ones. But we've got to give Ellen Sundh props for the simplicity of her solution. While similar projects rely on accelerometers, which can be difficult for the budding hobbyist to work with, to monitor the angle of your body, Bad Posture sticks with a simple bend sensor to keep tabs on your spinal cord. The flexible plastic is arranged vertically in a fabric belt that also houses an Arduino, a Wave Shield from Adafruit and a push button for calibration. Sit at your optimal angle, press the button and you're ready to go. Bend too much and the Wave Shield plays a warning -- "bad posture!" Check out the video after the break to see it in action.
+
+
+
+
+ 
+ 

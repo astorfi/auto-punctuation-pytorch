@@ -1,0 +1,6 @@
+
+ 
+Fans of SageTV will love this one -- out now in the latest beta release of the software is HD Theater streamer playback of ripped Blu-ray discs. There's no support for the interactive features, but based on what we've seen from BD-Live so far, you won't be missing much; what you are able to do is point the HD Theater at the ripped BDMV folder on your SageTV PC and enjoy multiple audio tracks and chapter support, with subtitles promised somewhere down the road. For now, this only works when the HD Theater is used in extender mode, but a future firmware upgrade promises to bring the functionality to streamers used in standalone mode. This certainly gives SageTV something to crow about with respect to, say, a Kaleidescape setup, doesn't it? Beta testers, let us know how this feature works out for you.
+      
+
+ 

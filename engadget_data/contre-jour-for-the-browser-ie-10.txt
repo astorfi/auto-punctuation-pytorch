@@ -1,0 +1,8 @@
+
+ Say it with us: Developers! Developers! Developers! That's Steve Ballmer's mantra and indeed, it says a lot about the way Microsoft has gone about promoting Internet Explorer. In addition to a series of prime-time ads (maybe you've seen 'em), the company has been using certain HTML 5 apps to show devs what they can do using IE 10's deep multitouch support. Now the outfit's back, this time with a game: Contre Jour is coming to the web, and while it runs in any modern browser, you'll need IE 10 and a Windows 8 machine to play a third of the levels (it shouldn't make a difference if you have a touchscreen or a multitouch trackpad). That's because in some parts of the game, you'll be required to use as many as three fingers at once to pull off certain maneuvers. In IE 10 you can do this, so you get access to all 30 levels; if you're using a different browser that doesn't support these gestures, the levels will remain locked. Hit up the source link to play the game for free, and if a game based on "The Little Prince" doesn't do much for you, at least check out the Behind the Scenes section -- coding geeks should appreciate the deeper explanation as to how the web app was built.
+
+
+
+
+  
+

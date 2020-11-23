@@ -1,0 +1,13 @@
+
+ 
+ While we've been pleasantly surprised by some favorable browser scores, we couldn't help sneaking another peek at the phone's (second) launch -- this time right in the center of London. We took the Orange Santa Clara San Diego for a spin on our latest benchmarks. See how Intel's new mobile processor fares against much pricier competition right after the break.
+
+
+
+       Orange San Diego
+    Samsung Galaxy S III
+    Motorola Droid RAZR
+       Quadrant    3,648   4,454    2,357      Vellamo    1,285   1,751    1,021      AnTuTu    5,663   11,960    6,027      SunSpider 0.9.1 (ms)    1,620   1,460    2,140      GLBenchmark Egypt Offscreen (fps)    28   99    28      CF-Bench    2,447   13,110    6,191  
+ Running the phone against only the Galaxy S III sounds like it would be a cruel and unusual punishment, and of course that superphone wins on every count -- but the 1.6GHz Medfield phone still copes admirably. At a fraction of the price, we have some strong benchmark scores to go on, with the strange exception of CF-Bench. The SunSpider browser test results treads especially closely to Samsung's new flagship, tying in with Intel's explicit promise that good browsing was core to its aims for the mobile processor. The San Diego trumped the dual-core RAZR and its TI OMAP 4430 engine on several of our tests, despite having a slightly higher 600 x 1024 resolution and running Orange's proprietary skin (including gestures) on top of Android. The Quadrant score consists of a very strong memory component that appears to catch up with some bigger, badder and multi-cored Android rivals. All that we're waiting for now is the chance to test the much-lauded battery-life and do a full run-down with a review sample -- expect that pretty soon.
+
+

@@ -1,0 +1,6 @@
+
+ One of the biggest hold-ups in the global deployment of LTE and long-range WiFi is a lack of available spectrum. Even when a particular frequency is free and usable for mobile broadband, it's often officially reserved for some other purpose. Google's charitable wing, Google.org, has long claimed that as much as 6 MHz of white space kept aside for TV channels in the US is actually untapped, and now it's going to get a chance to prove the point. The FCC has just granted it a 45-day window in which to run a trial public database (linked below) to keep track of exactly which bits of spectrum are free in which parts of the country.
+
+ If all goes well, Google should find itself among up to ten other organizations that are allowed to supervise spectrum sharing -- in other words, allowing mobile devices to temporarily exploit available TV spectrum that isn't being used by the primary holder. Google's ultimate aim, we're told, is simply to "improve connectivity" at a global level. As to whether the other nine names on the FCC's list -- like Microsoft and Ericsson-owned Telcordia -- are equally altruistic, we have absolutely no idea.
+
+

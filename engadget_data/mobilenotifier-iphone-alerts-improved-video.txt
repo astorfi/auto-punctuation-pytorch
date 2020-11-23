@@ -1,0 +1,9 @@
+
+ 
+If you haven't jailbroken your iPhone yet then MobileNotifier might just push you over the edge -- a place you're probably already teetering upon given Apple's pathetic push notification implementation. MobileNotifier beta v3 is a free open-source rewrite of iOS' notifications from Peter Hajas (lead developer) and Kyle Adams (UI and UX). Perhaps the biggest feature of MobileNotifier is the addition of unobtrusive alerts that appear at the top of your existing app. Unlike Apple's interfering popups, MobileNotifier alerts can be ignored, leaving them on the display without inhibiting use of the device. You can also take immediate action on alerts or tap them away for later. Pending alerts can be found in the AlertDashboard -- the previously unused area above the app switcher, accessible with a double-press of the iPhone's home button. Pending alert counts are also displayed as a line item on the Lockscreen. We've been running MobileNotifier for a few hours. While it's not perfect (opaque windows?) we have no plans to remove it either. At least not until we see what Apple has in store for iOS 5 which, with any luck, will be revealed on Wednesday for a summer launch. Another screenshot and demo video can be found after the break.
+      
+
+ 
+
+ 
+ 

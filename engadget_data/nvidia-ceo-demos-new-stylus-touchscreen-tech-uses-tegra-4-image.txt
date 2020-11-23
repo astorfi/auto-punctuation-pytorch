@@ -1,0 +1,7 @@
+
+
+
+Elaborating from the battery-saving PRISM screen tech that we saw on Tegra 3 devices, the NVIDIA CEO Jen-Hsun Huang showed off a new software-based touchscreen technology that allows you to use a simple capacitive stylus with a degree of pressure-based input. Showing of his writing skills at Computex on an experimental 7-inch tablet, he used a simple (ie. non-digitizer) stylus to write at several different thicknesses, utilizing a flat surface at the other end of the pen to erase any mistakes -- there's sensitivity to the millimeter, apparently. NVIDIA reckons this will improve battery life while using the stylus and offers a high detection rate (thanks to the software-based processes) for slick, curved lines. The primary hardware necessary? No less than NVIDIA's new Tegra 4 chip, of course, and DirectTouch. Check out the gallery of the stylus in action below, and we can expect the company to elaborate on which devices will house the feature in the near-future. 
+
+
+

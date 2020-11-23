@@ -1,0 +1,19 @@
+
+ 
+Looking for a jailbreak for your iPod touch or iPhone running iOS 4.1? Your chariot is named limera1n -- assuming you're willing to risk your device on a software developer showdown. The infamous Geohot just upstaged the iPhone Dev Team and Chronic Dev Team by releasing a reportedly buggy beta exploit of his own, which you can find at our download link immediately below. It only works on Windows at the moment, hacks only official releases and iPhone 3GS isn't supported right now, and it claims to be an unpatchable, untethered release for those of you who appreciate what those terms mean. 
+
+As you can imagine, rival developers aren't terribly happy that Geohot's back in the limelight. MuscleNerd (of the iPhone Dev Team) claims that limera1n will re-lock iPhones that were unlocked by his team's ultrasn0w software, and recommends you skip limera1n, but the main reason the iOS hacking community is angry at Geohot is because if more than one exploit is released simultaneously, Apple can fix them both in one fell swoop. By releasing first, Geohot has allegedly forced other teams to decide between the good of iPhone users over the short term (by releasing a different, more stable exploit) or over the long term (by saving their exploit for future use) and so far it looks like both teams have chosen to prolong the fight -- the iPhone Dev Team is asking folks to withhold its Shatter exploit, and Chronic Dev Team says it will modify its greenpois0n jailbreak to use Geohot's hack instead. What a weird, wild world we live in.
+
+Update: How might this work on an iPad, given that beta versions of iOS (like 4.2) aren't currently supported? Good question. We've struck all references to iPad accordingly, until the powers that be figure it out.
+
+Update 2: Video after the break! Also, we're hearing that some folks have jailbroken their iPads successfully with limera1n, and we personally got it working quickly on a pair of iPhones with iOS 4.1... but one of the two was missing icons upon restart and didn't regain App Store, Maps, Game Center and Calendar even after a restore. Be careful, now!
+
+Sam Sheffer contributed to this report.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

@@ -1,0 +1,9 @@
+
+
+Intel's latest Atom processors aren't just for phones and tablets -- they're going to show up in many of the other devices you own before long. The chip maker has unveiled a new version of its Atom x3 (aka SoFIA) that's designed to run Internet of Things gadgets, such as smart appliances and outdoor sensors. They have built-in 3G or LTE data to stay online, and they're tough enough to survive extreme temperatures that would faze regular silicon. Unsurprisingly, these processors are made with Linux and Android in mind. There's no word from Intel as to which companies are using the new x3, but you'll definitely have to be patient. The developer kits don't start shipping until the second half of the year, so you probably won't see a truly wide range of Atom-powered gear until 2016.
+
+
+
+
+Richard Lai contributed to this article.
+ 

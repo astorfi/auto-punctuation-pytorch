@@ -1,0 +1,6 @@
+
+ 
+You know we really thought Microsoft learned its lesson back in February when the first wave of the analog channels went dark, but we were wrong. A quick trip to The Green Button shows that the hottest topic this weekend is the fact that any ATSC channel that changed frequencies on Friday, doesn't work anymore. The exact cause isn't known, but what is, is that while anyone who has a $50 digital converter box can just rescan to find the channels at their new home, Media Center users have to go well beyond anything your mom could do to get all the channels back. Our guess is that instead of looking at the PSIP data of discovered channels, Media Center uses guide data to map the frequencies to the channel and this data wasn't updated on Friday. On Vista you'll want to first manually delete the channels in your atscchannels.xml file, then you can add the missing channels via a menu (Settings>TV>Guide>Add Missing Channel) -- Windows 7 users don't need to edit the file first. You will need to know the new frequency when doing this, which you can find on Antennaweb.org. Or you can just wait a few days until Microsoft gets its act together, it isn't like there's anything on TV in the Summer anyways.
+      
+
+ 

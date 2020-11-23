@@ -1,0 +1,9 @@
+
+It looks like the Stingray tools law enforcement agencies have been using to track cellphones are even worse than we thought. They also have the ability to record your calls and access your text communications, according to Justice Department documents obtained by the ACLU. As Wired points out, that's something privacy advocates have long suspected, but these documents are the first to prove that. To refresh, Stingray devices are used by law enforcement to mimic cell towers and trick nearby phones into connecting to them, which gives up their locations. The documents note that you can also use the devices to wirelessly flash a phone's firmware and use a cellphone as a bug. Given that these documents are from 2008 though, it was most likely referring to flashing older cellphones, and not complex smartphones. Now the documents don't mean Stingray devices were actually used to record calls, they just give us a clearer sense of their abilities.
+
+
+
+It's not too surprising that law enforcement agencies have figured out ways to track cellphones, but Stingray devices has been particularly disturbing because they've reportedly been deployed willy-nilly over the past decade, without the need for warrants. Things are looking up on the civil liberties front, though. Both the Department of Homeland Security and the Department of Justice now require warrants to use Stingray devices, except under extenuating circumstances. The news comes only a few days after we learned the IRS also purchased some Stingray equipment for unspecified reasons, making it the 13th government agency to do so.
+
+[Photo credit: Shutterstock]
+

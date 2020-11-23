@@ -1,0 +1,14 @@
+
+ 
+Up until now, we'd heard and believed that Windows Phone 7 would be based on Microsoft's time-tested Windows CE 6 kernel -- aging, yes, but still considerably newer and more technically modern than the CE 5 upon which Windows Mobile 6.x operates. Thing is, Windows Embedded evangelist Olivier Bloch just dropped the knowledge this week that the company's all-new phone platform will actually be "based on the Windows Embedded Compact 7 core," which sounds a lot to us like Redmond skipped right over CE 6 and went straight for the latest and greatest (and still unavailable to the general public) stuff.
+
+[Thanks, Jeff]
+      
+
+ 
+
+That may very well be the case, but Microsoft's official response on the matter is a little less clear. Basically, they're saying that Windows Phone 7 was built on the latest release of CE 6 (R3, in case you're curious), but that they took it further and "incorporated innovative features and functionality on top of the platform." If we had to guess, what they're trying to say is that the Windows Phone 7 project was started when the Compact 7 kernel was still nothing more than a twinkle in Steve Ballmer's eye, so they took the latest code and started mucking with it to meet their needs. It's entirely possible that the Compact 7 team took that code back and kept working on it to create what would ultimately become what we know as the Compact 7 kernel, but that's not something the company is commenting on. At least, not directly. Anyhow, here's the official verbiage:Windows Phone 7 is based on the Windows Embedded CE kernel – the next generation of the Windows Embedded CE platform will be Windows Embedded Compact 7 when released, and the current version is Windows Embedded CE 6.0 R3. Although Windows Phone 7 was built on the Windows Embedded CE kernel at its core, the Windows Phone team has incorporated innovative features and functionality on top of the platform to develop an OS specifically designed to meet the needs of mobile phone manufacturers.Oh, and just a note: based on that statement, you might be wondering how we deduced that they're saying they started with a CE 6 core. Basically, Microsoft is in the midst of changing naming conventions in its Windows Embedded range; the current release of CE is 6 R3, but the full name of the next version is Windows Embedded Compact 7. The company states that "Windows Phone 7 was built on the Windows Embedded CE kernel at its core," so yeah, there you have it.
+
+       
+
+ 

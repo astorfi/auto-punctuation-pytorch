@@ -1,0 +1,6 @@
+
+ 
+Call it coincidence if you will, but on the same day that Super Talent announced that its 2TB RAIDDrive would begin shipping next month, OCZ has finally confessed that its Z-Drive is shipping... right now! Originally shown in prototype form back at CeBIT, this PCIe card is equipped with four SSDs linked in a RAID 0 configuration. We'd originally assumed that just a few capacities of the same device would be available, but we're learning today that two iterations will be produced: the Z-Drive p84 will be MLC-based and tout a 750MBps maximum read rate / 650MBps maximum write rate, while the SLC-based Z-Drive e84 cranks that to 800MBps and 750MBps (respectively). Also of note, both models will be available in 256GB and 512GB sizes, though the 1TB flagship will be p84 only. We've checked Amazon again and it's still showing "1 to 3 months" before release, but hopefully there's a memo waiting in some admin's inbox to remedy that.
+      
+
+ 

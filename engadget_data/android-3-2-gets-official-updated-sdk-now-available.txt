@@ -1,0 +1,5 @@
+
+ And just like that, it's official. After hearing about the next incremental step in Honeycomb's journey by way of Huawei's MediaPad, we've seen breadcrumbs about its functional differences. Today, we're being given the full shebang -- Google has just made official v3.2, boosting the API level to 13 and releasing the SDK into the wild in one fell swoop. The new build brings along optimizations for a "wider range of tablets," as well as "compatibility zoom for fixed-sized apps," media sync from SD card (huzzah!) and an extended screen support API. Head on down to the links below for a closer look, and expect to see this rolling out to [insert your favorite Android tablet here] in due time.
+      
+
+ 

@@ -1,0 +1,17 @@
+
+ Valve Software's experiments with virtual reality, most recently exposed as a "VR Mode" of its popular free-to-play shooter Team Fortress 2, are actually just an offshoot of the company's longer-term goal: augmented reality. The dozens of AR markers plastered to the three walls of Valve programmer Joe Ludwig's shared office are testament to that (seen above). "We're mostly looking at a software level. We've talked to a bunch of different display vendors on the augmented reality side, and none of them are quite ready to go yet," Ludwig says when we prod him for more on Valve's AR efforts. One thing's for sure: we didn't spot any Google Glasses on-site, nor products from other companies producing wearable computers, not to mention in-house glasses.
+
+ "We've done some gameplay prototypes," he says. "We've done some test pattern type stuff. But that's basically it. There's an application that we call 'Sea of Cubes' that fills the room you're in with cubes just to basically test a bunch of different tracking methods and displays." Thus far, though, Valve isn't much deeper than that. A variety of different cameras mounted on tripods can be seen throughout Ludwig's office. A $30,000 3D camera, which looks an awful lot like a giant Microsoft Kinect, sits in one corner. Ludwig tells us it can pinpoint specific objects with incredible accuracy, though he wouldn't share much more. It's not clear what all of this means for Valve's AR work, but it's clearly still a work-in-progress. Indeed, when the company first started talking wearable computing, Valve's Michael Abrash called it "more research than development." So, what fruit has come of that research since last April?
+
+
+
+
+ "Augmented reality, it turns out, is a lot harder than virtual reality," Ludwig explains. And in looking into AR, virtual reality solutions started cropping up. "There are just a lot more problems to solve," he says. "Virtual reality, in solving a subset of those augmented reality problems, would be an interesting place to look." And that's exactly why Valve is focusing on VR so much right now, despite its initial wearable computing research having little to do with virtual reality headsets. There's also the question of hardware not really existing for AR gaming just yet -- at least in the way Valve's talking about it, not to mention limitations of non-gaming hardware:
+
+  Field of view is much more limited -- where something like the Oculus Rift has a field of view of 80 or 90 degrees, many of the AR displays are more like 30 degrees. So they may work for annotating things in the world or for telling you you've got mail or whatever, but they're not gonna work for anything that's immersive, or anything you're supposed to feel like these things are in the environment around you, or recoloring the environment, or whatever.
+
+ There is progress being made, however, albeit slowly. "We've mostly just messed with software a little bit in the margins, and learning more about the technology so that we knew what problems still existed and where we could work on solving some of those things," Ludwig says. And considering that Valve's saying both AR and VR will be "a huge deal over the next several years," that puts the Bellevue, Washington-based software company in a good position against the other guys -- that is, of course, if Valve's right about both AR and VR becoming a bigger deal than they currently are. For that part of the equation, only time will tell.
+
+ [Image credit: Michael Clinard]
+
+

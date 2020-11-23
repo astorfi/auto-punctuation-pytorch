@@ -1,0 +1,4 @@
+
+ WiFi-only flavors of the Chromebook Pixel have only just started shipping, but if you're already itching to install Linux on one of them, you're in luck. Not only have kernel patches been submitted for the hardware, but Google's Bill Richardson has now laid out exactly how to load up the devices with Linux Mint. Richardson says that part of the Chrome OS BIOS is read-only, so changes to it are generally exclusive to new hardware. Pixel, for example, has been tuned to support user-provided custom bootloaders thanks to an unverified BIOS slot. Unfortunately, Mint doesn't support the laptop's touchscreen and trackpad because it leverages the stock kernel. Adventurous types looking to boot a Tux-powered OS on a Pixel can hit the neighboring source link for step-by-step instructions.
+
+

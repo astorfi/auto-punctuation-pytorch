@@ -1,0 +1,5 @@
+
+ In case anyone needed more proof that we're all living in a Philip K. Dick novel, a pair of hackers have recently demonstrated how human-implantable RFID chips from VeriChip can be easily cloned, effectively stealing the person's identity. Annalee Newitz and Jonathan Westhues showed off their handiwork at the HOPE Number Six conference in New York City this weekend, with Newitz herself playing the role of guinea pig, implanting a VeriChip RFID chip in her right arm. To clone the chip, Westhues first read Newitz's arm with a standard RFID reader, then scanned it again with a homebrew antenna connected to his laptop, which recorded the signal off the chip. He then used the same RFID reader to read the signal from his laptop, which promptly spit out Newtiz's supposedly unique ID. For its part, VeriChip has only said they haven't yet had a chance to review the evidence but still insist that "it's very difficult to steal a VeriChip." [Via Techdirt]
+      
+
+ 

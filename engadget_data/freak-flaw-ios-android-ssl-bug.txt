@@ -1,0 +1,16 @@
+
+A team of cryptographers have discovered that a security flaw from way back in the '90s still leaves users today vulnerable to cyberattacks. They've dubbed it "Factoring attack on RSA-EXPORT Key" or FREAK, and it renders everyone who uses Safari on Mac and iOS devices or Android's stock browser susceptible to hacking when they visit certain "secure" websites. The researchers listed these affected websites on the study's official page, and notable entries include government-owned ones, such as Whitehouse.gov, NSA.gov and FBI.gov. To understand what FREAK is, we need to go back to the early 1990s when SSL was in the midst of being developed.
+
+
+
+Apparently, the US government required companies to use weaker, 512-bit encryption for visitors from overseas, and stronger encryption for visitors stateside. In order to do that, SSL's developers designed a mechanism that could deliver both. While the government eventually pulled the requirement, it was too late: this mechanism propagated and ended up being used on various software. That's why during the research, the team managed to force browsers to use the weaker encryption, which one member was able to break within seven hours using the power of 75 computers. In comparison, a 1024-bit encryption would require a team of crackers, the power of a few million PCs, and around a year to hack into.
+
+According to Johns Hopkins research professor Matthew Green, this "export-grade" encryption was, in theory, "designed to ensure that the NSA would have the ability to 'access' communications, while allegedly providing crypto that was still 'good enough' for commercial use." If this fossil from the era of JNCO pants and MC Hammer can still haunt us today, one has to wonder how NSA's alleged backdoor entries into company websites and devices can affect us in the future.
+
+The researchers can't say whether anyone already exploited the flaw, but they've proved that it can be used to steal a visitor's personal info, as well as to hack into the affected website itself. Both Apple and Google are already working on a patch: iOS and Mac users can expect the fix for their devices to roll out next week. Android users, however, will have to wait for their manufacturers or carriers to issue an update, so it may be best to switch to Chrome for mobile, which isn't vulnerable to the flaw, according to The Washington Post.
+
+PS: Want to read FREAK's more technical details? Check out the researchers' "State Machine AttaCKs" website.
+
+[Image credit: Shutterstock]
+
+

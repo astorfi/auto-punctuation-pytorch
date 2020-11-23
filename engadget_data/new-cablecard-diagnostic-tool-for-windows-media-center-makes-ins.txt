@@ -1,0 +1,6 @@
+
+ 
+Let's be honest, getting a CableCARD to work with Windows Media Center is far, far, far from a smooth process. Thankfully, the Media Center Integrator Alliance -- this sort of the things is its bag, naturally -- are set to show off a Digital Cable Tuner Diagnostics tool at next week's Electronic House Expo. It'll provide all kinds of information on your tuner and CableCARD, including modulation type, format, frequency, carrier, PCR Lock, encoding level, and authorization -- and if all that goes way over your head, there's an option to export the data to XML and send it to someone who can help. No word on when we'll see an official release, but no matter what, it won't be soon enough.
+      
+
+ 

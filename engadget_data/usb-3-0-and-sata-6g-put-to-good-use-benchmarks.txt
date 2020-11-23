@@ -1,0 +1,9 @@
+
+       
+The fine folks at both HotHardware and PC Perspective have run the new ASUS P7P55D-E Premium motherboard through its paces, which has the particular distinction of handling both USB 3.0 and the up-and-coming SATA 6G through controllers by NEC and Marvell, respectively. Lucky for us, both sites' tests came to similar conclusions. The Seagate Barracuda XT SATA 6G drive has almost zero improvement over SATA 3G, other than in some burst speeds due to the fancy cache on the 6G -- the bottleneck here is the drive, not the controller. Meanwhile, USB 3.0 has speeds that are roughly 5 to 6 times faster than USB 2.0 with the same drive, a huge win for fans of external storage the world over. Perhaps even better news is that an ASUS US36 controller card with USB 3.0 and SATA 6G support is a mere $30, so this stuff is already basically within reach to the average desktop user.
+
+Read - HotHardware
+Read - PC Perspective
+      
+
+ 

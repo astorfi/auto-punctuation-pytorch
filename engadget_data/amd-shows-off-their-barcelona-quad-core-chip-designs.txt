@@ -1,0 +1,6 @@
+
+   
+If you're not super excited by technical chip jargon like "advanced branch prediction" and "sideband stack optimizer," you might want to skip this one over, but for you chipheads out there, AMD has just unveiled the nitty gritty specs behind their forthcoming Barcelona quad-core processors. Built on a 65nm SOI process, the new chips will take the place of AMD's Opteron line, and will power workstations and servers sometime mid-2007 before the technology trickles down to consumer versions of the chips. AMD couldn't help but take a little pot-shot at Intel for their quad-core systems, which they claim are just two dual-core CPUs packed together, but we're pretty sure most consumers are going to be more concerned with performance, price and performance per watt than semantics. AMD hasn't provided any benchmarks yet, but we'll all be watching closely, since they're currently playing catchup to Intel on most of those fronts.[Via Slashdot]
+      
+
+ 

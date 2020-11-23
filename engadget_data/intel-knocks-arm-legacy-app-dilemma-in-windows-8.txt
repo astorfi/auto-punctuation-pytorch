@@ -1,0 +1,5 @@
+
+ 
+ Intel has typically kept its cool in responding to Windows 8 on ARM, but that war of words (and chips) just got a little more heated at an investor meeting. CEO Paul Otellini saw his more mobile-oriented competition facing a "big uphill fight" without the presence of legacy Windows app support. That's a big drawback for corporate buyers that have legions of traditional apps they want to keep running, the executive said. He also used the opportunity to rib ARM over a lack of any existing Windows hardware. There's certainly no question that Intel has a head start in Windows 8 support, but the remarks do come with a degree of irony. Intel is cutting into ARM's territory with Atom-based Android phones, and while it won't have as much of a problem with legacy OS support as ARM will with Windows, Intel has a lot to prove on its own.
+
+

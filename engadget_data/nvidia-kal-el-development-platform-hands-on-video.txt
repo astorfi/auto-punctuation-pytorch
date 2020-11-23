@@ -1,0 +1,11 @@
+
+ 
+
+As if showing up in two of the first four reference devices for Windows on ARM wasn't enough of an achievement for NVIDIA's quad-core Kal-El superchip, it decided to visit us in person here at Computex to demonstrate its splendid graphical prowess. Running Android 3.1 on a 10-inch, 1280 x 800 screen, it gave us a first-hand look at the Glow Ball demo that wowed us in video form just a couple of days ago. What we saw on the dev tablet before us was no less impressive; lighting was being rendered in real time and scattered over a multiplicity of surfaces, while the cloth simulation was, to use a terrible pun, silky smooth. NVIDIA also ran us through a sightseeing tour of the Unreal Development Kit and Lost Planet 2, noting that the PC game took only a couple of months to port over to work on the Kal-El architecture. Unfortunately, no new details were forthcoming about when Kal-El devices might be coming or what developers we should expect to see coding games and other content to exploit the platform's evidently mighty capabilities. For now, we'll just have to sate ourselves with the video after the break.
+
+
+
+
+
+  
+ 

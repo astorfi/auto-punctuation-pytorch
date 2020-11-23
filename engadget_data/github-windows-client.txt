@@ -1,0 +1,5 @@
+
+ 
+ GitHub, the version tracking and collaboration platform for developers, has proven quite popular, especially with the open source crowd. There's been one glaring issue with the dev hub, though -- lack of an easy to use Windows client. Sure, app creators could sync their changes though command line tools and SSH, but Mac devs have had a slick desktop app to call their own for sometime. Now Microsoft users get the same benefits, including the ability to merge branches and roll back changes, wrapped in pretty Metro-friendly package. You'll find more info and a download link at the source.
+
+

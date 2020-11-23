@@ -1,0 +1,17 @@
+
+       
+We just got our new 15-inch MacBook Pro review unit, and although it looks almost exactly the same as the previous MBP, it has that fancy new Thunderbolt icon on the side, which ought to make I/O nerd hearts flutter the world over. Unfortunately, there aren't any Thunderbolt peripherals on the market yet, so we can't really test the new connection yet, but we can report that backwards compatibility with Mini DisplayPort performs as advertised and that all of our display adapters worked without issue -- the first time we can ever remember Apple switching a standard and not requiring all new dongles.
+
+As for performance, we were given the $2,199 configuration with a 2.2GHz quad-core Sandy Bridge Core i7, discrete AMD Radeon HD 6750M graphics, 4GB of RAM and a 750GB HD, which clocked a preliminary GeekBench score of 9647. We'll have tons more testing in our full review, including detailed comparisons of the discrete chip with Intel's new integrated HD Graphics 3000. 
+
+Apple did give us a quick demo on the new system with a prototype Promise RAID unit and a stock Cinema Display connected over Thunderbolt -- remember, Thunderbolt just uses a Mini DisplayPort connector, so displays can be daisy-chained right in. Apple's demo was a variation of the same thing Intel's been doing for a while -- they played four uncompressed HD video streams off the RAID simultaneously, which pegged the Thunderbolt throughput meter at 600-700MBps. We also watched a 5GB file transfer in just a few seconds -- all very impressive, but we're definitely anxious to try some of this stuff ourselves once Thunderbolt devices start shipping sometime in the spring.
+
+Apple also told us that Thunderbolt is running on copper and not optical cables (like the Light Peak protoypes) so that it can support bus-powered devices -- there's 10 watts of power available on the bus, up slightly from FireWire's 8 watts. Up to six devices can be daisy-chained from one port, and since Thunderbolt is based on PCI Express, it can even support FireWire and USB adapters. That's great news for the future of the interface, but the MacBook Pro still has two USB 2.0 and one FireWire 800 port, so it's not of critical importance right this second.
+
+We'll have much, much more in our full review -- check back in a few days!
+
+Update: We got a closer look at Thunderbolt working with some peripherals this afternoon -- believe us, you don't want to miss the video demo. 
+
+
+
+

@@ -1,0 +1,60 @@
+
+We gasped our way through the liveblog. We brought you news of the specs and the software and all that other good stuff. But now it's time to take a deep dive into the Xbox One, Microsoft's next-gen console, and what it might mean for Earth's living rooms. Engadget was given exclusive access to the hallowed labs at the heart of this project and to the engineers who made it happen. We got to play with prototypes of the hardware and to discover firsthand whether Kinect 2.0 really can tell if we're winking. Read on past the break and we promise to spare you no detail.
+
+
+
+
+
+We ought to mention something you won't find in this hands-on, and that's our usual barrage of photographs and video. Microsoft's hardware wasn't final, so our access to it was granted on two conditions: First, we had to leave our DSLRs, phones and shirt-button spy cams at the door. And second, we had to accept that there'd be limits to what we could try out and to what we could ask, seeing as so much must be deemed commercially sensitive at this point. We figured these conditions were fair enough; and if the new Kinect works in the dark (which it does) then so could we. Plus we at least have eyes-on shots from today's event, which show how the final console should look.
+
+Kinect 2.0
+This might seem a strange place to start, considering that motion control is a still relatively small part of the current-gen console experience. But when you realize what the new sensor is capable of, it'll all make sense.
+
+Alas, we weren't able to play any Kinect games. Instead, we were shown a demo of a developer program that showed all the new Kinect camera systems functioning individually. These systems consist of a regular camera component that allows for 720p Skype action as well as helping with visual authentication of users, plus an IR sensor that uses the time-of-flight of photons to measure the depth of objects. A wider view should help to solve the issues many people with smaller living rooms had with the old Kinect, and we're told that even a relatively tall person can be fully tracked within a few feet of the sensor.
+
+The IR sensor works off infrared light emitted by the Kinect module itself and it had no problem capturing our group even with extremely low light. The same goes for extremely bright light, all of which we were shown in a terrifying low-budget-movie-set-esque room containing an incomplete female mannequin. Despite our best efforts to lose the skeletal tracking, and to break its new depth-sensing capabilities against nearby humans, we were often stymied. It's still not perfect by any means, but it's also still far from finished.
+
+Presumably thanks to its 250,000-pixel resolution, we saw the IR module tracking joint rotation, facial expressions, individual fingers, open / closed eyes and even how many calories we were burning as we moved around. Oh, and it can track up to six people at once -- although things got a bit spotty for us with everyone standing relatively close together.
+
+We also put it to the traditional "couch test" to see how well it picked us out from a couch-like background -- in this case an office chair with a cloth draped over the front to provide a background for our legs. But at that point, one of the engineers was quick to jump in and point out that such a test isn't one of hardware, but of software. "This is a software and algorithmic question," he said.
+
+"We are targeting [couch detection], yes. The biggest question -- and this is the billion-dollar question, is 'Will it be the experience that it really needs to be?' And we know it."
+
+Overall, it's easy to see how all that new info that Kinect can detect could dramatically affect the games of tomorrow.
+
+The new wireless controller
+There were no game demos for the gamepad, but we were allowed to grip it in close, personal detail. Visually, it's a bit less striking than the 360 gamepad, with an air of false futurism; a slight awkwardness of proportions, perhaps, but it was mostly a positive experience.
+
+The biggest additions are definitely the "impulse triggers" -- essentially, little rumble motors built into each trigger, which allow you to "feel the kick in the trigger", as one of the engineers put it. The triggers felt otherwise very similar to that of the current 360 gamepad, though they're a bit larger, with more rounded edges and the gap between them and the shoulder buttons is non-existent.
+
+Continuing on the rear of the gamepad, the battery pack area was shrunken into the controller. The one we saw employed two AAs, like the 360 gamepad, though it's always possible that'll change before it's final. There's a micro-USB port at the top of the controller and an "accessories port" in the usual headset port position. Both grips on the bottom were slightly smaller than before, which we were told was a deliberate ergonomics decision.
+
+Out front, the Xbox Home button is a bit higher, but in the same central position (which should help it get out of the way of accidental pushes), and the start / select buttons remain in the same place as they are on 360. There's no Share button here, but there's a redesigned d-pad that falls in line with industry standards. It's an equilateral cross which feels clicky and directional, just as d-pads ought to feel; certainly a step up from that of the 360. Plus, it appeared to take up less space.
+
+The thumbsticks have seen significant alteration. They're shorter and have a newly designed edging to keep your thumbs from slipping off. We can verify that this does, indeed, keep your thumbs from slipping off, and we look forward to putting it to the test at the controls of a Warthog in the not-so-distant future.
+
+The four standard A / B / X / Y face buttons are just about identical to the 360 gamepad and again the overall philosophy seems to be pretty conservative. In this regard, one of the engineers specifically mentioned that there was no desire to "add a bunch of gimmicks like putting displays on it."
+
+Processor(s) and performance
+So much for the Kinect and controller, but what about gaming and performance? Again, there were limits to how far we could explore, but we did manage to get enough detail from the engineers to help us form some idea of likely performance, beyond their general claim of an eight-fold improvement. So, rather than just skip this whole area, we'll do our best to relay what we know and what we're able to estimate.
+
+At this point, it's worth mentioning that there are five unique pieces of silicon in the console, including a heavily customized APU taking care of computing and graphics, two further input (southbridge) and signal processors in the box and two more in the Kinect. The overall impact of all these unknowns is to create a box of mystery that cannot be compared to anything else on the market, or even to the PlayStation 4. Just something to bear in mind!
+
+If you were concerned that the inclusion of AMD's low-power "Jaguar" cores somehow meant the new Xbox would be a mobile-class device, or the type of thing you'd stick in a dashboard infotainment system, worry not. The APU burns at up to 100W, which is actually more than the latest iterations of the Xbox 360 Slim or PS3. Moreover, transistor size has been reduced to 28nm, which means that the performance per watt will also increase relative to the 45nm processors of the last generation. Comparisons to any existing AMD APUs in desktop PCs are rendered moot by the fact that there are an unusual number of transistors all working together in the Xbox system (around 5 billion) and, unlike the sprawl of a regular Windows desktop, they're honed and focused on very specific tasks.
+
+The way memory is used in the new console is also fundamentally different and hard to predict. In addition to a 32MB cache of high-bandwidth embedded SRAM (versus 10MB of EDRAM in the 360), the CPU and GPU both share the same block of 8GB DDR3 memory and they do so in an interesting way, with no need to copy data that is shared between the two components. This could potentially improve performance relative to a traditional system, such as a gaming PC, that has a discrete GPU and a traditional architecture that moves data in a more convoluted manner.
+
+Noise
+All those watts need to be cooled, but we're told that the new Xbox will be "four times quieter" than its predecessor. This stat is almost impossible to grasp without some math, so let's try it: Anandtech has measured the noise of the Xbox 360 Slim under load at 45dB. As a rough benchmark, subtracting 3dB halves the perceived noise, which means we could be looking at 39dB for the next generation -- still audible, but only slightly above the likely 35-37dB noise floor of your living room.
+
+Microsoft told us that it's made other changes to reduce noise, with low-power states that keep the console active (e.g., for the purpose of voice activation) at very low wattages. We're also informed that games will automatically be ripped from their Blu-ray discs, which should reduce the console's reliance on noisy motors. As an added reassurance, the deafening whir of the first 360 and PS3 models from 2005 / 2006 should be a thing of the past: those old Hoovers consumed as much as 200W under load.
+
+GraphicsThere's not much we can say about the GPU at this point except that it's designed to work with DirectX 11.1 APIs, which implies that the same graphical tools and techniques that developers currently use for PC games should port across pretty easily to the new console.
+
+We also know that the console will handle 4K output and that it'll also be able to deliver multiple "panes" of 1080p. For example, it could render two panes for a game (one for the environment and one for the HUD), plus a third pane on top for background system tasks (such as a Skype chat). It's hard to say what all these separate panes will be used for -- AR goggles and IllumiRoom both spring to mind -- but the point is that they must require some serious grunt.
+
+Wrap-up
+More Info Xbox One hardware and specs: 8-core CPU, 8GB RAM, 500GB hard drive and more Xbox One runs three operating systems, including cut-down Windows for apps The PS4's processor and performance: what we know and what we think we knowHaving said all of this, we come full circle to the theme of this article: despite everything we saw and heard during our Redmond adventure, the new Xbox is full of unknowns. The Kinect hardware looks revolutionary, but will depend on software. The controller seems conservative, but isn't finished. And if we had to hazard a guess about performance, we'd say that Microsoft's customization of the console's silicon won't deliver unheard-of levels performance, but will instead allow the relatively low-wattage system (low relative to, say, a gaming PC) to punch well above its weight and keep up with the competition from Sony. In terms of differentiation, it'll boil down to non-hardware factors: namely Kinect apps and games and how the console hooks up to the rest of the Windows ecosystem, and those happen to be exactly Microsoft's strong points.
+
+Sharif Sakr contributed to this post. 
+

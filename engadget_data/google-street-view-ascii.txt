@@ -1,0 +1,9 @@
+
+ 
+ Nostalgia is a powerful force. It's driven some to search Google through a Bulletin Board System-like interface or, in the case of programmer Peter Nitsch, it's compelled him to graft ASCII art onto the physical world. Simply plug an address into his project's website and you'll be able to pan through an ASCII facsimile of a real-world Street View vista. Leveraging WebGL and Javascript, the system samples the search giant's images and generates text art using the appropriate characters and hues. Nitsch's fondness for retro visualizations don't end there, however, he also created a system that superimposes a gaggle of characters in the wake of a physical paintbrush using a Kinect and a projector. Built as a plugin for the openFrameworks toolkit, the code relies on a GPU for the real-time image conversion and is freely available for tinkering. Hit the source link below to see the modified Street View in action or head past the break for a video of the ASCII painting. For some of the technical nitty-gritty, tap the more coverage link.
+
+
+
+
+ 
+ 

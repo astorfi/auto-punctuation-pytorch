@@ -1,0 +1,12 @@
+
+The Leap Motion controller is a curious little motion sensor, but it isn't always easy to use. The hand-sensing tech has a tendency to lose sight of where your fingers are and almost every application that uses it has its own learning curve. Soon, that might change -- today Leap is launching the public beta for its next generation (V2) tracking software. This free update makes some big promises, including improved resistance to sunlight and infrared interference, better tracking algorithms and, best of all, the ability to track individual joints. We dropped by the company's San Francisco office to try it out and found the update to be a significant improvement.
+
+
+
+"V1 is a great experience for early adopters," Leap CEO Michael Buckwald told us. "But what we want to do with V2 is make interacting with the computer the same as interacting with the physical world." Leap's new software helps. The update's predictive software allows the device to track controllers that aren't directly seen by its sensors. Buckwald showed us on a demo machine: a flat hand could easily be seen by a V1-equipped computer, but in a vertical orientation, all but the lowest hanging digit disappeared. V2 accurately tracked all five fingers. It sounds simple, but it's a game changer: developers can now implement more delicate pinch and grab motions. Buckwald pulled up a demo for that too, and asked us to pick up and toss a collection of ragdoll soldiers. It was easy, just as it should be.
+
+The update also encourages developers to include a hand model in their applications. "The vision has always been that using leap should feel just like reaching through the screen and grabbing something," he explains. "That's how it feels with the onscreen hand -- seeing all your joints and fingers and watching it move as your real hand moves." While the onscreen limb isn't quite as flexible as the real deal, it makes the learning curve shallow. " If the actual interaction is a commodity like that, the focus can be on being creative."
+
+The update is available to developers now, but there aren't many applications that use it just yet. Still, it's an encouraging evolution for the Leap Motion controller, and bleeds of the same thing the device always has: potential.
+
+

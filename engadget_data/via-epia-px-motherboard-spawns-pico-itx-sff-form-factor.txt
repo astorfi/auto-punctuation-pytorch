@@ -1,0 +1,5 @@
+
+ Although it wasn't too awfully long ago that AMD unveiled what it hoped would become an accepted standard for small form factor PCs, it looks like Via is already trying to one-up DTX. The forthcoming Epia PX media-oriented motherboard will clock in at just 3.9- x 2.8-inches, which provides "half the surface area of its already-tiny 4.7- x 4.7-inch Nano-ITX" standard and looks utterly dwarfed beside the 6.7- x 6.7-inch mini-ITX. Via's boards have become commonplace in applications which can sacrifice raw horsepower for low-power requirements and cool operation, such as being housed in Mini-Box's VoomPC-2. Consequently, the the Epia PX will purportedly tout just a 1GHz C7 processor (at least initially), and there's speculation that some flavors might actually support HDTV resolutions and video-in, but most of the expansion will be done through pin headers. Via hasn't opened its mouth to divulge details surrounding price nor availability, but it's assumed that this wee motherboard will run folks between $250 and $350 whenever it finally lands.
+      
+
+ 

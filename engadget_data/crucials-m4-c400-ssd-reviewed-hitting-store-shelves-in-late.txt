@@ -1,0 +1,11 @@
+
+ 
+When Micron's RealSSD C300 came out, there were no competitors in sight -- 355MB / sec read speeds and a SATA 6Gbps interface made for an unbelievably sprightly (though also finicky) solid state drive. Today, that's simply not the case, as Intel's SSD 510 and OCZ's Vertex 3 are furiously fighting for the crown in the high-end consumer SSD space. On or about April 26th, the C300's successor will hit the market branded as the Crucial M4, but this time it won't be the cream of the crop, as even though it's assuredly a speed demon, it's actually shown up by its predecessor in a few tests. In particular, AnandTech noted that the drive seems to have sacrificed sequential read performance in exchange for faster write speeds -- and was worried slightly about Crucial's delayed garbage collection routine -- but overall, reviewers are coming away fairly happy with the speedy performance they're seeing. Still, the most crucial variable, price, has yet to be revealed -- over a year later, the C300 remains an expensive drive, but the new C400 uses Micron's 25nm NAND flash, which could make solid state storage cheaper.
+
+Read - AnandTech
+Read - The Tech Report
+ Read - Hardware Heaven
+Read - Tom's Hardware
+      
+
+ 

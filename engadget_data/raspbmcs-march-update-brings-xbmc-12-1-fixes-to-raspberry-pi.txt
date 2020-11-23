@@ -1,0 +1,4 @@
+
+ Just because you have a Raspberry Pi, and the know-how to change the world, doesn't mean you want to do everything the hard way. For those who haven't already applied the 12.1 update to XBMC  running on their Raspberry Pi, the Raspbmc team is now eager to handle the dirty work for you. Wondering how easy it is to upgrade? Just reboot your Pi and wait about 15 minutes. Seriously, that's all the elbow grease required to receive a litany of fixes and enhancements in the latest version of XBMC as well as a number of specific patches for Raspbmc. Specifically, there is a newer version of HDMI-CEC, improved support for internet streams and third-party modules, and finally, a few security fixes.
+
+

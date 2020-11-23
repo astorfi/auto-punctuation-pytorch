@@ -1,0 +1,8 @@
+
+ 
+We had an inkling NVIDIA wouldn't keep the Fermi goodness just to the desktop and here's our first pseudo-official confirmation. Rushing in ahead of any announcements, Eurocom has started listing a GeForce GTX 480M part, replete with 2GB of GDDR5 memory and a $345 markup relative to ATI's Mobility Radeon HD 5870. It's not clear whether the 100W number refers to the TDP or power requirements of NVIDIA's new GPU, but it's safe to expect both to be pretty high. The MXM 3.0b interface provides a 256-bit linkup between the GPU and CPU, lending plenty of bandwidth, but it also demands plenty of PCB real estate. As a result, Eurocom is offering the GTX 480M on its 17-inch Cheetah and Panther and 18.4-inch Leopard desktop replacements, but not on its 15.6-inch Cougar. Man, no love for the Cougars. According to the listing, we're only a month or so away from release.
+
+[Thanks, Jacob]
+      
+
+ 

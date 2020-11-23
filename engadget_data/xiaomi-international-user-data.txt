@@ -1,0 +1,13 @@
+
+
+Xiaomi's a force to be reckoned with in China -- its new phones routinely sell out online in seconds -- but its influence is steadily growing outside its native home. That's why the company's infrastructure has been quietly shifting these past few months, and VP/former Googler Hugo Barra pulled back the curtain on what Xiaomi's been up to. Long story short: it's moving user data around the world, not only to make sure its services work better, but also to better protect its users' information.
+
+
+
+Some of the changes Xiaomi enacted are purely prosaic: it's moving its e-commerce platform to Amazon data centers in California and Singapore so the site runs faster. Great! Of course, there's something more crucial to Xiaomi's future than making sure its website loads quickly. We're talking about privacy here, and Xiaomi doesn't exactly have a spotless track record when it comes safeguarding user info. 
+
+Finnish security firm F-Secure learned earlier this year that some Xiaomi phones relayed sensitive information like phone numbers and device identifiers back to company servers in China (in plain text, no less). Xiaomi quickly addressed the issue, but it was still enough to spook some curious players around the world. Take India, for instance - Xiaomi pulled off a very successful (if quiet) launch there, selling 40,000 phones in a hair over four seconds in early September. Earlier this week, though, The New Indian Express reported that the Indian Air Force has been cracking down on the use of Xiaomi phones because of their habit of relaying information back to China. Similar concerns caused the Taiwanese government to conduct its own investigation on Xiaomi phones, though officials haven't yet published their results.
+
+Xiaomi's great data shift might be the right answer at the right time. Barra noted that international users' data would no longer live in Beijing -- instead, it'll be stored on Amazon servers in Oregon and Singapore, far away from the Chinese government's curious eyes. If Xiaomi's really going to grow into the global giant it clearly wants to be, it has to do pull of the greatest feat of them all: it has to make the world's potential customers trust it. The move won't be done until later this year, but still -- it's a very clear step in the right direction.
+
+

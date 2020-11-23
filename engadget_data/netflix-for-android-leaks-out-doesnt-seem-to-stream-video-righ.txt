@@ -1,0 +1,8 @@
+
+ 
+This prototype LG Revolution may be the only Android phone actually capable of streaming Netflix at the moment, but there's nothing keeping you from giving it a go -- some enterprising hacker extracted a full system dump from the Revolution this week, tossed it to AndroidSPIN, and @al3xevolved subsequently pulled out the juicy Netflix innards. The app's APK is now freely available on the web, though we'll warn you that it isn't good for much -- you can browse and add items to your queue, but should you try to play a video the app will inform you that it "could not reach the Netflix service." The question is, will Netflix simply flip a switch to turn streaming on, or is it waiting for DRM authentication from a Qualcomm MSM8655 processor?
+
+[Thanks to everyone who sent this in]
+      
+
+ 

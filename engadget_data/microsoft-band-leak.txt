@@ -1,0 +1,16 @@
+
+It looks like the curtains have been raised early on Microsoft's attempt to join the wearable game. Windows Central points out that sync apps have appeared in the Mac and Android app stores (update: and Microsoft's), set to personalize and track data for your "Microsoft Band." Rumors had pointed to a fitness tracker more than a watch that could debut within weeks, and judging by the apps that's just what we'll get. According to the Google Play, Windows Phone Store and iTunes listings, the device itself has more in common with Nike's FuelBand than the what we've seen from Apple and Google so far. That includes tracking steps, heartbeat, calories burned and sleep quality. 9to5Mac linked a privacy agreement that goes into even deeper detail about what else it can do, namely display notifications from your mobile device or take notes and set reminders with Cortana.
+
+
+Update: Microsoft confirmed that the Band will go on sale for $199 Thursday in its online and physical stores, to US customers only, in "limited quantities." Designed by Quentin Morris (who also developed the Xbox One controller), it carries ten sensors onboard to measure things from heart rate to UV exposure to stress levels, and can last as much as 48 hours on a single charge. As indicated by the apps, it's ready to work with whatever mobile platform you bring to the table, but with its built-in GPS, you can go running without a phone and still track your workout.
+
+
+
+
+
+
+The Microsoft Health service that does all the heavy lifting of storing data and syncing notifications to the Band's 310 x 102 res display is similar to Apple HealthKit and Google Fit, but the plan here is to open it up for use on devices and platforms built by others. As our source indicated, not only is the device cross platform-ready, Microsoft will look for other companies (think Samsung, HTC, Pebble, Fitbit) to make their devices Microsoft Health compatible. That way they can sync into the data and notifications immediately, all powered by the Microsoft backend.
+
+Microsoft Health is also your way into its "Intelligence Engine", which automatically tells you things like which exercises burned the most energy, and how well you've been sleeping. The plan is to wrap that data up with info from your Outlook calendar and GPS data to give a broader look at what's impacting your fitness level. Other companies can license the ten sensor setup for their own devices, while UP by Jawbone, MapMyFitness, MyFitnessPal and RunKeeper are already on board with Microsoft Health. Another feature that's coming is the ability to share data (if you choose) from the HealthVault with your medical provider. Microsoft thinks it has the perfect system for folks active both at work and in the gym -- take a peek at the demo video below and see if it's worth the $200.
+
+

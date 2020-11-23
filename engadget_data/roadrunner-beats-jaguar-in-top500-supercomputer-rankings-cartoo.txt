@@ -1,0 +1,5 @@
+
+ 
+
+While titles like "world's fastest" and "world's largest" are fleeting at best, it's rare that we see such things taken down this quickly. Last week Cray delivered a big dish of braggadocio, talking up its 1.64 petaflop XT Jaguar supercomputer as the fastest (non-classified) machine in the world. Now, like some rocket skate-wearing coyote who's run out of thrust, it's been stymied by IBM's Roadrunner, deployed at Los Alamos. TOP500 is the authority on these matters and that list's latest rankings place Roadrunner in first place with a speed of 1.105 petaflops; Cray's Jag comes in second with a paltry 1.059. What about that 1.64 figure from last week? That was the hypothetical limit, and while it did deliver real-world performance of 1.3 petaflops for the folks at Oak Ridge, TOP500 relies on the Linpack benchmark for its ratings and apparently the Jag just couldn't deliver the goods there. Perhaps, Cray, it's time to make another call to ACME -- or AMD as it were.
+ 

@@ -1,0 +1,7 @@
+
+ 
+ Motorola were quick to tell us that we're testing on pre-release RAZR i here -- software updates may arrive before the device does, but these figures below should give you a good estimate at what the 2GHz Intel processor can do. We've pitched it against the US-bound Droid RAZR M, with a capable dual-core Snapdragon S4 clocked at 1.5GHz, and ZTE's Grand X IN, which houses Intel's 1.6MHz Medfield Z2460 and Android ICS.
+
+       Motorola Droid RAZR M   Motorola RAZR i   ZTE Grand X IN      Quadrant   4,944  4,125   2,710    Vellamo   2,442  1,906   1,550    SunSpider 0.9.1 (ms)   1,951  1,062   1,355    AnTuTu   6,364  6,175   N/A    GLBenchmark Egypt Offscreen (fps)   56  41   N/A    CF-Bench   9,392  2,973   873    SunSpider: lower scores are better   So what do all these numbers mean? Well, Intel's 2GHz processor is pretty capable. Although the RAZR i only bests the RAZR M on SunSpider browser performance (something that Intel's been focusing on with its mobile hardware), it's a substantial score difference. Otherwise, the Europe-bound RAZR skates pretty close, if behind the RAZR M's benchmarks. There's a hiccup on the CF-Bench score, something that we also noted on the Grand X IN. While both the ZTE and Motorola devices are running Android 4.0, there's still a tangible difference in these early benchmarks -- perhaps testament to both Motorola and Google's proximity and the debut of Intel's faster 2GHz Medfield processor. We'll be testing out those power-saving promises from the chipmaker over the next few days.
+
+

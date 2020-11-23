@@ -1,0 +1,7 @@
+
+
+
+More goodies for devs here at I/O: Google just announced that Google Cloud Messaging -- the push-notification system that debuted last year -- is now a part of its Google Play Services, and it will get three new features, to boot. These include "persistent connections," which should help push out messages quickly, upstream messaging for sending data from your app to your servers and -- most importantly -- synced notifications across devices. This means that if you dismiss an alert on your phone, it will similarly hit the dust on your slate. Mountain View recently announced that Cloud Messaging will now integrate with all versions of Chrome and Chrome OS, so today's news is a (very big) cherry on top. 
+
+
+

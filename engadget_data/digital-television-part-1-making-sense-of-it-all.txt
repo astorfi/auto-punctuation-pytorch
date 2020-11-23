@@ -1,0 +1,172 @@
+
+
+
+DigitalTelevision (DTV) is upon us friends — some of you already lie prostrate at its feet, a few of you cower in terrorat its approach, and we’ll lay odds that most of you, whether you live in Amsterdam or New Amsterdam, are confusedas hell about what it all means. So let’s all gather ‘round this phosphorescent global campfire, andwe’ll tell you a scary story which makes that man with a hook-hand sound as passive as Bo Peep.
+
+
+First,prepare yourself for a pig’s breakfast of acronyms son, there’s just no way around it: DAB, T-DMB, DVB-T, DVB-H, ATSC,and ISDB-T. At least these are the tastiest of the morsels under global mastication. Come on, don’t sweat it, youmanaged PCMCIA didn’t you, and that’s six whole letters! Besides, you really only need to learn the coupleselected by the country you call home to effectively talk down to your local hi tech sales goon, mkay? So do join us as we take anextensive, in-depth look at what's really going on with the world of digital television.
+
+
+
+
+Misconceptions
+Let’s clear up a few things right away: 1) DTV is not HDTV, and 2) ifyou are a reader of Engadget, your TV is not likely to go black once your friendly government pushes the big red buttonlabeled “analog switch off.”
+
+See, HDTV is simply the highest quality format of digital television --that “D” is for definition, not digital. Your digital broadcaster may in fact choose to broadcast inStandard-Definition (SDTV) format which offers an equivalent pixel resolution as the best analog signal, but allowsbroadcasters to squeeze more channels down the same analog TV pipe. Broadcasters could also enhance the quality a bitto EDTV (Extended-Definition, similar to DVD resolution), or, god willing, throw down that good HDTV fix we’veall got the jones for.
+
+Ok, that’s a bit more clear, now how about your TV’s viability after theanalog switch off? Well, that old Emerson boob-o-tube you watch while bleeding pigs in the barn might have some troubleonly if your Hee Haw reception requires adjustment to the rabbit ears. However, if you’re pumping a cable orsatellite signal into that old set then the accompanying set-top box provided by Cablevision, DirecTV, etc. is alreadydoing the analog-to-digital signal conversion for you. Oh, and if all else fails you’ll likely be able to appealto GeeDub or other governmental body for a free signal convertor. After all, they stand to make billions (and billions)in revenue as they auction off the reclaimed analog spectrum which sits in the wireless sweet-spot — offering lowtransmitter density due to long signal propagation while avoiding the worst effects of man-madeinterference.
+
+Analog TVs will also continue to work with cable, satellite, VCRs, DVD players, camcorders, videogames consoles and other devices for many years to come. However, at some point you’ll have to throw down for aswank new digital television if you really want to explore your favorite starlets in all two million pixels of pockmarked glory. By 2007,it will be tough to find a new analog set in the US since by then the FCC will have mandated the inclusion of digitaltuners in all new TVs larger than 13-inches.
+
+Oh, and one more thing — that sweet, sweet digital TVwe’ve seen on those Korean cellphones does not runover 3G. Mobile DTV is broadcast independently of the existing carrier signal. See, mobile DTV solutions offer aone-to-many broadcast service (i.e. digital terrestrial broadcasting) whereas 3G and other cellular technologies areone-to-one solutions. Even UMTS’ Multimedia Broadcast Multicast Service (MBMS) can easily become overloaded whenbroadcasting popular video programs. Not that this is really an issue since voice and data is going to fetch far morerevenue per minute per subscriber than video anyway. If you really want to broadcast the evening news to rush hourcommuters, then 3G just ain’t gonna cut it. And unless you live in Japan, mobile DTV handsets require a separatebroadcasting standard from that which pumps DTV into your living room TV, at least if you expect your battery to lastmore than a few minutes.
+
+Why switch?
+Besides superior picture qualityand your irrational lust for the latest-and-greatest, DTV consumers also stand to gain all the CD quality sound,on-demand-video, and digital broadcast content we sick TV lovin’ bastages could ever hope for. Likewise,DTV’s ability to deliver data enables broadcasters to provide sophisticated, web-like functionality overlayingprogramming as well as rich, IMDB-like electronic program guides -- you know, the good stuff required before committingto two-hours of a made-for-TV movie (even if it is “based on real life events”). The options are thick andwill just keep coming as those analog frequencies become available for reuse, bringing to market the advanced wirelessconsumer services we crave and improvements in public safetyservices we need.
+
+As already mentioned, governments stand to make mad fists of cash as they reclaim and thenauction off the analog spectrum. The US sale should generate anywhere between $10 and $30 billion with similarcha-chinging sounds resonating from Europe. Makers of DTV set-top boxes like Philips and Thomson are already doingbooming business with Nokia and others testing the waters as well. And let’s not forget conventional broadcasterswho see the opportunity to diversify and sell more ads. And when DTV goes mobile in 2006, even cellular operators willget in on the action.
+
+Of course, all this goodness comes at a price. Standards must be agreed under intensepolitical lobbying, broadcast frequencies must be allocated in an already very crowded radio spectrum, and thenthere’s that small matter of paying to replace the analog production, transmission, and reception equipmentrequired for full digital implementation. Oh, and expect to operate DTV and analog TV services in parallel for severalyears during the cutover.
+
+And the economics of DTV are still risky — are viewers willing to pay more forextra lines of resolution, and more importantly, do they really want to receive TV on their cellphones? Well, theindustry is counting on you to squint dutifully into your cellphone for several minutes at a time with research firmslike Juniper estimating that as many as 65 million people will tune-in globally by 2010 — each prepared tofork-over a fixed fee of about $5-10 per month. The draw: sports, weather updates, news briefs, and all the latestsocial intercourses for your afternoon commute consumption.
+
+But if the carrots of higher quality television andmobile reception aren’t enough to convince peeps to switch, there’s always the stick. Big-mama governmentseverywhere are setting hard switch-off dates into law by which analog broadcasts must cease. These dates range from2006 for the Netherlands to well, like-forevah for countries still weighing the benefts vs. cost vs. demand vs.available standards. Yes, like any good standard…you have several substandards to choose from.
+
+Broadcasting standards
+Fortunately, the standards battle for bringing digitalTV into your home has pretty much been fought and won. Yeah, you may not be happy with your country’s selection(cough, USA) but at least we can get on with the teevee bidness in the living room. However, the landscape is not nearly so tidyin the fight to bring TV to mobile devices like cellphones.
+
+See, DTV reception must cover two primaryaudiences: fixed devices inside buildings that have ample power and rarely move, andthose mobile handheld devices powered by batteries (cellphone / PMP / laptop) that might bein or outdoors, or even travelling down the autobahn. As such, we have either fixed or mobile handsetbroadcasting standards which require a bit of explaining. So, let’s bump uglies with these two technologies awhileshall we?
+Fixed Reception
+Let’s start easy bytalking about digital broadcast standards targeting fixed reception devices, since these decisions are pretty much setin stone for those blooper-loving first-world countries. At the moment, North America and South Korea are on-board withAdvanced Television Systems Committee (ATSC) and pretty much the rest of the world (besides Japan) has gone Terrestrial Digital VideoBroadcasting (DVB-T). Japan has chosen to go it alone with Terrestrial Integrated Services Digital Broadcasting(ISDB-T), which they are not pushing as a global standard even though Brazil has shown interest. Here’s a veryhigh level summary of those standards head-to-head.
+
+      ATSC
+
+   ISDB-T
+
+   DVB-T
+
+     Video
+
+   MPEG-2
+
+   MPEG-2
+
+   MPEG-2
+
+     Audio
+
+   AC-3
+
+   AAC 
+
+   AC-3 or AAC 
+
+     Disadvantages
+   ATSC signal cannot adapt to changes in propagation conditions
+
+ Cannot broadcast to eitherhandheld or mobile devices, unless of course, you fancy carrying around your     42-inch plasma
+   Almost all TV broadcasts are encrypted with copy-once protection — tuners and TVs are relatively    expensive
+
+   Requires lots of power to transmit asignal into rural areas
+
+ Can not transmit to handheld devices due to severe battery drain
+
+     Advantages
+
+   Requires as little as half thetransmission power for same reception quality of DVB-T
+
+   Good for simultaneously broadcasting both a robust HDTV signal and one for handset/mobile reception
+
+   Open global standard which offers better reception inurban areas
+
+ Can transmit to mobile devices such as bus TVs
+
+     Not much sense in going into why each country selected which. Let’s just say that DVBis European developed and ATSC patents holders reside in The States… ‘nuff said.Mobile Handset Reception
+
+If you’re a fan of format wars a la Betamax vs. VHS or more recently, Blu-ray vs. HD DVD then you’ll love what’scoming with mobile DTV. In one corner, we’ve got the DAB (Digtal Audio Broadcasting) boys teamed up with South Korea’sSamsung, LG, and HTC  manufacturing muscle pushing the TerrestrialDigital Multimedia Broadcasting (T-DMB) standard, while Nokia, Motorola and others are staunchly backing Digital VideoBroadcasting for Handhelds (DVB-H) in the other. This battle is going to be big for broadcast digital video… theway that children think of God as big.
+
+Nokia is making it absolutely clear that they are committed tomaking DVB-H the global standard. They claim DVB-H is in pilot in about 40 countriesworldwide — er, we found 15, and some of those are completed already but you can define “pilot”pretty broadly these days a la Google and “beta.” Nevertheless, Nokia equips nearly allthese pilots with their own 7710 handset andare also developing an end-to-end IP-Datacasting (IPDC) service (available to the pilots) which schedules and processesthe incoming video and audio services and transforms them into a DVB-H signal. With their recent launch of the N92, they have even started taking public shots at DMB saying“we think DMB is going to be Korea-based from here to eternity.” In fact, you’ll hear a lot aboutDVB-H being the ”European standard” especially if you listen to Nokia execs.True, it is the ETSI (European Telecommunications Standard Institute) mobile TV recommendation for Europe with thekeyword here being “recommendation” — ETSI recommendations are not compulsory. Hell, DMB is also anETSI standard for mobile TV. As such, countries can still do as they please, and they are. 
+But this isn’t just a two horse race, particularly in the US where Qualcomm is coming uphard on the outside with their MediaFLO mobile DTV offering.They are already busy testing and deploying the $800 million MediaFLO network across the nation in Qualcomm’s 700 MHz spectrum, which they purchasedfrom the FCC for an additional $70mil. Volume shipments of FLO handsets are expected next year as Qualcomm begins its commercial rollout in partnership with Verizon. The next natural stepthen, is for Qualcomm to start stamping out chipsets and license the technology to their CDMA buddies in Asia and go after the standards-lovin’GSM boys in Europe all over again.
+And as we already mentioned, Japan has their ISDB-T digital broadcastsolution which also coversmobile and handheld devices nicely but will remain an exclusively Japanese phenomena — nothing new to see here, so we’llmove along.
+
+So let’s take a look at the biggies side-by-side with one caveat: there isenormous disagreement regarding the differences in these technologies. This is only further exasperated by the particularfrequencies governments allocate for broadcasting (affecting handset antenna design, transmitter density/coverage, interference, etc) as well aslimitations introduced by sub-optimal handset designs (Nokia 7710). One thing is certain — MediaFLO was designedspecifically for mobile DTV handset reception whereas T-DMB and DVB-H are modifications to existing technologies tomake them suitable to the task. However, as we well know, the best technology rarely doesn’t alwayswin.
+      T-DMB
+
+   DVB-H
+
+   MediaFLO
+
+     Video
+
+   MPEG-4 (H.264)
+
+   MPEG-4 (H.264)
+
+   MPEG-4 (H.264)
+
+     Audio
+
+   BSAC
+
+   AAC 
+
+   AAC 
+
+     Core Technology
+
+   Eureka 147Digital Audio Broadcasting (DAB) with additional error correction — DAB is already popular in     Europeparticularly in the UK and Germany
+
+   DVB-T withtime-slicing and operating in IP environment — DVB-T already rolling out in Europe and     elsewhere
+
+   Proprietary Qualcomm multicast technology technology calledForward Link Only (FLO)
+
+     Disadvantages
+
+   The L-Bandfrequencies (1452 - 1467.5 MHz) already set aside for DAB require     a much higherdensity of transmitters to provide adequate coverage — and scaling up for large amounts of     services wouldrequire additional frequency allocation
+ DAB-happy UK and others have rolled out digital radioin band III (around 221 MHz) which could mean large     antennas strapped to their DMB enabled cellphones should these countries choose to ride their DMB broadcasts on top     of DABtransmissions
+
+ Maximum data rate of 1.152 Mbps in about 1.5 MHz of bandwidth
+
+ Current Korean handsets have long telescoping antennas that westerners would reject
+
+   More susceptible to signal variations and synchronization problems
+
+ Requires higher transmitter powers
+
+ UHF frequencies (470-860 MHz) are ideal for DVB-H but theseare tied up with analog TV transmissions — other     frequency bands can also be used
+
+ TheNokia 7710 used in European tests has demonstrated poor battery life and delays of 12-to-15 seconds     betweenchannel changes — delays are in part due to DVB-H time slicing     technology
+   Proprietary, isolated technology currently without the backing of the larger wireless industry — will be    difficult to get a foothold globally without industry support
+
+ Qualcomm has yet to trial thetechnology publicly keeping it tightly held until it matures in-house
+
+ Designed towork in UHF from 450 MHz to 3 GHz some of which is currently     allocated to analog televisionbroadcasts — only the US has allocated the 700 MHz frequency for MediaFLO, all     other countries would haveto assign spectrum
+     Advantages
+
+   Open standardwith wide-backing from wireless industry in Asia and DAB community in Europe
+
+ L-Band frequencies arealready set aside for DAB so DMB could take advantage of these where available     with little     legislation
+
+ Time Division Multiplexing delivery inherent in DMB transmits specific content at specific time    intervals which allows the receiver to be shut down in between these intervals to save power
+ Channel switching time of about 1.5 seconds on current T-DMB devices
+
+   Open standard with wide-backing from the wireless industry, particularly in Europe
+
+ Maximum data rate of 15 Mbps in 5-8 MHz of bandwidth down to 5 Mbps if robust reception required
+
+ Time-slicing helps conserve battery power since the receiver is only on when viewing the channel of    interest
+
+ While DVB-H can be transmitted on a dedicated channel, it is designed to share a multiplexwith DVB-T and     can take advantage of the hierarchical transmission capability of DVB-T
+
+   Built from the ground up for transmitting content to handheld devices —technologically superior to both     T-DMB and DVB-H
+
+ Claim average channel switching time of 1.5seconds
+
+ Claim to fit more channels per chunk of bandwidth thereby     offering     access to more     than twice as manychannels as DVB-H (which DVB-H disputes)
+
+ Like T-DMB,MediaFLO uses Time Division Multiplexing to conserve power
+
+ More aggressive error correction and aform of hierarchical transmission called “layering” provides a more     robust signal reception even inpoor signal areas
+
+   That's a good amountfor today -- come back tomorrow and we’ll look at implementation status on a globalscale. So stay tuned, as they say!
+
+

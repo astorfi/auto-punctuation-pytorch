@@ -1,0 +1,21 @@
+
+ When NVIDIA unveiled Tegra 4 back at CES, we scrambled to get hands-on with a reference device. And though our initial performance impressions were positive -- it runs 1080p video and games smoothly -- there was only so much we could say to illustrate how fast the performance is. After all, Tegra 3 already does a fine job handling games and full HD movies. What we really needed were benchmarks, some quantitative data to help show the difference between Tegra 4 devices and whatever's currently on the market. Fortunately for all of you, we just got our chance: here at Mobile World Congress, the company has reference tablets set up expressly for the purpose of running tests. So, we did just that... over and over and over until we had a long list of scores. Meet us after the break to see how it fared.
+
+
+
+       Tegra 4 reference tablet   Sony Xperia Tablet S (Tegra 3)   ASUS Transformer Pad Infinity (Tegra 3)      Quadrant (v2)   16,436   4,349   4,685    AnTuTu    36,305     11,301
+
+    12,027    SunSpider 0.9.1 (ms)   499     1,608
+
+    2,012    CF-Bench   41,325   12,625   7,874    SunSpider: lower scores are better   As you can see, those numbers are pretty impressive, but before we go any further, we feel compelled to offer a little disclaimer. Ideally, we would have had some of our older Tegra 3 review units with us here in Spain -- you know, the Sony Xperia Tablet S, the ASUS Transformer Pad Infinity, maybe even the Acer Iconia A700. Basically, other 10-inch Android tablets with quad-core processors. Unfortunately, we didn't have them on hand, so we couldn't re-run the benchmarks on those devices with the latest software installed. That would have made for the best comparison, and we plan to do just that when we eventually start reviewing some Tegra 4 products.
+
+ Still. C'mon. Just look at those benchmark scores. Even if we were to repeat all of our benchmark tests on those older tablets, we're pretty sure a software upgrade would not be enough to help these older tablets match Tegra 4, or even come close. Quadrant scores in the 16,000s? CF-Bench results in the 40,000 range? All unheard of.
+
+ Just look at those benchmark scores. Particularly stunning was that SunSpider result, which should give you a strong idea of what you can expect in terms of web browsing performance. In short, the tablet chewed through all that code in just 499ms (keep in mind that lower numbers are better in this particular test). To give you some perspective, the iPad 4 scores an average of 865ms in the test. So if you enjoy the web browsing experience on your iPad, you're going to be pretty pleased what NVIDIA has to offer here. Put differently, when we ran SunSpider on a laptop, the desktop version of Chrome achieved a score of 188.8ms -- we're used to seeing a much bigger gap between desktop and mobile browsers.
+
+ In addition to letting us benchmark our hearts out, NVIDIA showed us a demo of that same reference tablet hooked up to the same sort of power meter OEMs use to measure power consumption. As you can see in the video below, we've got a 1080p video running, with the power rating hovering around 950 milliwatts, compared to 1.2 watts on some other 1080p devices. The result, says Matt Wuebbling, director of Tegra product marketing, is an extra two hours of battery life compared to the competition. Of course, we can't take his word for it -- we'll just have to wait until we get our first Tegra 4 phone in to review. If nothing else, though, that clip below gives you another chance to see how Tegra 4 handles full HD movies. Take 'er away, and stay tuned for some proper reviews -- hopefully in the not-too-distant future.
+
+ Update: We decided to remove Tegra 4's GLBench score (57 fps) from the comparison table because the older tablets listed there were benchmarked using a different version of that test. Suffice to say, though, NVIDIA says a score of 57 fps in that benchmark is typical for a Tegra 4 device.
+
+  
+

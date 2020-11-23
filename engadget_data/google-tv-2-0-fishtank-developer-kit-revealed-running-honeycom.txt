@@ -1,0 +1,9 @@
+
+ 
+
+As Google TV gears up for a Honeycomb-based v2.0, the team announced at the I/O event that developers could get access to "Fishtank" hardware for them to test their apps on and here it is, revealed by Geek.com. The hardware itself is a relatively nondescript box packing an Intel CE4100 processor (no ARM...yet) and a Logitech Revue wireless keyboard that connects wirelessly via a USB dongle, plus a few more ins and outs than retail boxes have including coax. The software is the real star with its Android 3.1 style blues and blacks in the new menus providing access to a list of running apps, logged in accounts and notifications. Things could change before the beta ends, but this report indicates a major issue between is how developers will get to display or interact with live TV. Being able to overlay data on a live feed, or at least have Dual View picture-in-picture is a big part of many developer's plans and so far Google has apparently not committed to making API access available. Bringing interactivity to broadcasts would be a major advantage for Google TV as a connected TV platform if it can pull it off, we'll see if it makes it into this summer's update or if it ends up on the waiting-for list alongside SageTV integration.
+
+[Thanks, @ohpleaseno]
+      
+
+ 

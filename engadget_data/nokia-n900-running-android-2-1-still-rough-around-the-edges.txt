@@ -1,0 +1,11 @@
+
+ 
+This wouldn't be the first time we've heard of Android being lovingly grafted onto Nokia's N900, but this looks to be the most proactive effort yet to get it functional enough for lay N900 users (read: us) to actually install. Eclair's now up and running on the device, complete with both keyboard and touchscreen support -- important fundamentals, we reckon -- and it looks like there's enough chatter on the subject going on over in Maemo's official forums to keep this ball rolling. Everything's being managed under the so-called NITDroid project that aims to get Android ready to roll on both the N900 and the N8x0 series of tablets, so feel free to chip in some advice if you like -- a functional radio stack would have to be high on the priority list, you can bet. Follow the break for a little video of brilliant hackery in action.
+
+[Thanks, Nosa]
+      
+
+ 
+
+
+ 

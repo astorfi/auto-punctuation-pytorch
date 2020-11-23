@@ -1,0 +1,7 @@
+
+What would a Google liveblog be without some updates on Android activations? Well, in case you're curious, the newest figure is 900 million -- a big jump from the 400 million activations reported last year. What's more, Google says there have been 48 billion app installations to date, including 2.8 billion in the last month alone, with revenue per user 2.5 times what it was a year ago. To put that in context, that's not far off Apple's latest numbers: the company has logged just under 50 billion downloads of its own.
+
+
+Moving on to Chrome, meanwhile, Google is touting 750 million active users, and that includes not just the desktop, but phones and tablets too. That's up from 450 million users at this time last year, with 300 million switching over in the past 12 months. Finally, if you want to get really granular, Google also gave an update on its Google Cloud Messaging service, which was announced last year. Apparently, 60 percent of apps are now using GCM, and 17 billion messages are pushed through the service per day. We'll let you chew on that for a moment while you follow the liveblog, but it seems to us now would be a good time to start placing bets on when we hit the 1-billion-activations mark.
+
+

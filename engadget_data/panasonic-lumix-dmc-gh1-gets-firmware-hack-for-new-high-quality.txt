@@ -1,0 +1,11 @@
+
+ 
+The Panasonic GH1 can do some great video for its size, thanks to that fancy micro four-thirds optical setup, but it's been held back the low bitrates it uses when recording. Now some enterprising hacker named "Tester 13" has reversed engineered the GH1's firmware and unlocked the true power of the camera (much like Magic Lantern has done for the 5D Mark II). In fact, the main trouble now is that Tester 13's firmware uncovers too many options: users are trying out different configurations to maximize quality without bumping into the camera's buffer limitations. The current flavors of choice include 50Mbps MJPEG at 1080p (the stock camera caps out at 720p in MJPEG), to be augmented by 32Mbps AVCHD when the crazy high-end MJPEG causes the camera to buffer overflow. It's all very technical and video-nerds-only in theory, but results speak for themselves: check out a sample video after the break. And try out the new firmware if you dare.
+
+[Thanks, Steve]
+      
+
+ 
+
+
+ 

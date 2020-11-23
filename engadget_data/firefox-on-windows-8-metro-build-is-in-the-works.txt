@@ -1,0 +1,5 @@
+
+  We all know that Windows 8 will have a split personality, with a Windows 7 style "Classic" desktop environment working hand-in-hand with a finger-friendly Metro UI. Given that Firefox has a significant market share in the PC web browsing market, it's only natural for Mozilla to accommodate both parts of Microsoft's new OS. According to its 2012 Strategy & Roadmap, the company has plans for a proof-of-concept Win8 Firefox release in Q2 of this year. In that document, Mozilla reveals that a "simple evolution" of its existing browser will work with the "Classic" environment, but brand new new front-end and integration code is needed for Firefox to play nice with Metro. The plan is to build a Gecko-based browser that brings full Firefox capabilities and can handle Windows 8's unique requirements like being suspended by the OS when it's not being viewed and supporting multiple "snap" states to ensure a good browsing experience when multiple apps are open. Looks like Mozilla's crew of coders has their work cut out for them, and you can peep the full to-do list at the source link below.
+      
+
+ 

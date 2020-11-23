@@ -1,0 +1,5 @@
+
+ 
+ Getting hung up by having to constantly reinstall the firmware while working with your Raspberry Pi? So was developer Hexxeh (of ChromiumOS fame) who apparently got fed up enough to write his own tool that greatly simplifies the process. Thankfully for the thousands of other folks lucky enough to get their hands on their own Raspberry Pi already, he also recently went ahead and released the tool for free. Hit the source link below for all the necessary details to get started with it.
+
+

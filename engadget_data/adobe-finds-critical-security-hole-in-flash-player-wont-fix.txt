@@ -1,0 +1,5 @@
+
+ Oh, here we go again. Adobe's kicked out a security bulletin for users of its Flash Player on "all platforms" -- that'll be the entire population of the internet, then -- warning them that a new critical vulnerability has been discovered that may cause crashes and potentially permit the hijacking of systems. The issue also affects the company's Reader and Acrobat software products. Even better news is that Adobe has found it's being actively exploited "in the wild" via a .swf file embedded in an Excel spreadsheet, but a fix won't be forthcoming until the beginning of next week. So, erm, enjoy your full web experience until then!
+      
+
+ 

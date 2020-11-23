@@ -1,0 +1,11 @@
+
+
+Just because FBI director James Comey believes his agency has a right to  see your phone's encrypted data doesn't mean he'll get his way. Members of Congress from both major parties, including House Representatives Darrell Issa and Zoe Lofgren as well as Senator Ron Wyden, are saying that there's "zero chance" they'll pass a bill requiring that device encryption includes backdoor access for federal investigators. They argue that law enforcement has blown whatever chance it had at public support -- accountability problems at multiple agencies (especially the NSA) have led many to distrust the government's data requests. As it stands, the FBI is battling some fierce legal headwinds. The House recently passed a bill banning the NSA from using backdoor searches, and it's doubtful that these politicians will heed Comey's calls for more access.
+
+
+
+The director's requests haven't passed technical muster so far, either. While he casts the encryption access as a "front door" that would have transparency, it would still amount to a mandatory security hole. Anyone who figured out how to exploit that access, whether it's a thief or a government surveillance agent, would have access to your content. Also, encryption doesn't lock everything away -- the feds can still intercept phone calls and many other forms of unprotected (or loosely protected) content that they want when pursuing cases. Your phone may not be completely secure, then, but there are enough privacy concerns that the FBI isn't likely to get the keys to your kingdom any time in the near future.
+
+[Image credit: Getty Images]
+
+

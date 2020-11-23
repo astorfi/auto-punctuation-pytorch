@@ -1,0 +1,14 @@
+
+Hackers outside of the United States attacked two state election databases in recent months and the FBI is warning voting officials across the country to bulk up security and investigate their own systems for similar malicious activity, Yahoo News reports. The twin hacks were outed in a "flash" alert from the FBI's Cyber Division. The alert does not say which states were targeted, though Yahoo reports that it likely refers to attacks in Arizona and Illinois.
+
+
+
+Officials in Illinois closed the state's voter registration system for 10 days in July after hackers stole the personal data of 200,000 citizens. In Arizona, malicious software was found in the state voter registration system in June, but no information was stolen.
+
+The FBI alert discloses eight IP addresses used in the hacks and suggests that the attacks were linked, as one of the addresses was used in both intrusions. The bureau is investigating whether the hackers attempted to infiltrate other state election systems as well.
+
+"The FBI is requesting that states contact their Board of Elections and determine if any similar activity to their logs, both inbound and outbound, has been detected," the alert reads, as shared by Yahoo. "Attempts should not be made to touch or ping the IP addresses directly."
+
+The FBI does not indicate which country is behind the state attacks, though currently the international hacking spotlight is on Russia. Russia is believed to be behind a major attack on the Democratic National Convention that led to the leak of 20,000 Democratic party emails in July. The FBI is looking into whether the state hacks are related to the massive DNC breach, Yahoo reports.
+
+

@@ -1,0 +1,14 @@
+
+Valve's original vision for a PC gamepad was an arresting deviation from the norm: touch-sensitive control pads in place of dual analog thumbsticks and a full-on touchscreen in lieu of actual buttons. The company's latest revision -- codenamed "D0g" after the character from Half-Life 2 -- skews a little more traditional, replacing the curious touchscreen with eight regular buttons. Is it a loss worth lamenting? We caught up with Valve at GDC 2014 to find out.
+
+
+
+
+On the whole, not a lot has changed between Steam's last controller prototype and its new kit: Subtle vibrations still tick from under its two large touchpads, and its ergonomic body is as comfortable as ever, if a bit less polished than the last model we saw. Internal batteries give it a bit more heft, of course, and the body may have minor tweaks, but the major revisions are apparent: buttons. Eight new toggles pock the face of Valve's latest gamepad, taking up the traditional role of the d-pad and A, B, X and Y functions. They feel a little smaller than the average controller button, but are no less responsive for their form factor. As for the touchpads? They're still a little flighty. Although they still work wonders at emulating traditional mouse movement, twitch-based FPS gameplay still feels hyper-sensitive and frankly, a little odd.
+
+
+On their own the buttons feel good, but we couldn't help but wonder what we lost in their implementation. Valve told us it envisioned the touchscreen as displaying non-critical information -- like Steam community notifications -- but notes that its gameplay functionality may yet live on. The software developed to utilize the abandoned screen's "Ghost mode" can be applied to the controller's touchpads, allowing a player to assign multiple actions to the surface of either pad, but only activating them when a secondary button is depressed. Valve couldn't say if this kind of implementation would appear in the final hardware, but told us it's still experimenting with the software designed for the touchpad.
+
+Valve told us it hopes to launch the consumer controller sometime this fall, but warned us that the tentative window was far from solid -- the controller is designed to be iterative, and the company plans to continue to tweak and revise it even after launch. We were even told that the orphaned touchscreen could return in a future revision, but we're not holding our breath. People seem to like buttons.
+
+

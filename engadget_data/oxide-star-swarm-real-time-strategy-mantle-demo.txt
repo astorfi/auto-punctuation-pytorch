@@ -1,0 +1,22 @@
+
+Every real-time strategy game has some kind of population cap, limiting the number of units that can be placed simultaneously on a player's terrain. This limit can stem from the designers' need to balance competition between armies, but ultimately it'll also have something to do with the underlying hardware in a PC or console, because a processor will slow down if it's asked to simulate too many independent, physical 3D objects at once. Some RTS games set the limit at 50-70 units, while others can cope with as many as 500, but a new game engine called Nitrous takes things up a level: It uses AMD's Mantle programming tool to speed up communication between the CPU and GPU, allowing up to 5,000 AI- or physics-driven objects (i.e., not mindless clones or animations) to be displayed onscreen at one time. Coming up, we've got a 1080p video of Star Swarm, a demo simulation that shows off what Nitrous can do, plus an explanation of how Oxide Games, the company behind Star Swarm, made this possible.
+
+
+
+
+As you'll hear from the video's narration, three Nitrous-based RTS games are currently in production and Oxide believes that these titles will represent a major leap forward for the real-time strategy genre thanks to the "epic scale" permitted by the high population limit.
+
+"It's a difference of at least an order of magnitude," says Oxide founder Dan Baker (who was previously Graphics Lead on Civilization V). "Take the most complex scene you've ever seen in StarCraft II and multiply it by 10."
+
+There are a couple of ingredients that are essential for delivering the huge 5,000-unit spectacles seen in Star Swarm. Firstly, you need a robust CPU, since processing this quantity of AI and physics relies on general computing power just as much as on graphics. Unlike many games on the market, those based on Nitrous will be able to make full use of all available CPU cores at the same time. The configuration in the video includes an aging, but powerful six-core Intel Core i7 980.
+
+"Take the most complex scene you've ever seen in StarCraft II and multiply it by 10."
+
+Secondly, to allow for both scale and enhanced visual effects such as motion blur, the graphics side of the system must contain a recent AMD GPU that supports the Mantle programming tool. As we've reported before, Mantle brings hardware-specific (read: brand-specific) programming to PC games, because it allows developers to code directly for AMD's Graphics Core Next architecture without going through fluffy, hardware-agnostic middlemen like Microsoft's DirectX drivers. In this instance, Mantle speeds up the communication between the CPU and GPU, allowing multiple CPU cores to delegate tasks to the GPU without causing a jam. The result is a GPU that does more, like calculating lighting effects for every object, and a CPU that is also freed up to do more, such as simulating independent AI-controlled gun turrets on bigger ships. (For deeper technical detail on this, check out Oxide's presentation at APU13.)
+
+
+Star Swarm is actually the first hard evidence we've seen of what Mantle can do, and the numbers speak for themselves: With everything else being equal, enabling Mantle increased the demo's frame rate by nearly 300 percent, from an unplayable 13 fps to a buttery 44 fps. AMD promised as much when it launched its Kaveri APU earlier today, adding that Star Swarm will run at playable frame rates even on low-power 65-watt versions of the APU (versus 95 watts for a regular desktop chip).
+
+More Info AMD says Kaveri outperforms Intel for less money AMD's graphics card comeback Battlefield 4's Mantle update delayed until January 2014Separately, AMD claims that a forthcoming Mantle update for Battlefield 4 will boost performance in that title by as much as 45 percent. We've also heard some gossip that the PC version of Sniper Elite 3 will support Mantle, likely reflecting the fact that its developer, Rebellion, is making PS4 and Xbox One versions of the first-person shooter and is therefore already accustomed to optimizing its code for AMD's architecture. All in all, if these games live up to the precedent set by Star Swarm, it could well be worth having some Mantle juice in your gaming rig in 2014.
+
+

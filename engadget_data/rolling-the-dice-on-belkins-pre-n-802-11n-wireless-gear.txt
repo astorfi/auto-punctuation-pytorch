@@ -1,0 +1,17 @@
+
+So this past weekend Engadget reader Dimitrios Gazis
+decided to take a risk and try out Belkin's pre-N wireless router and laptop card even though it uses a version of
+new 802.11n wireless protocol that hasn't been officially ratified yet (if that previous sentence doesn't make any
+sense to you, don't sweat it—all you need to know is that 802.11n is more or less the next-generation of
+WiFi).
+
+Living in the heart of NYU territory, I've found it impossible to keep a stable WiFi connection between the laptop
+and router in my apartment. Even with a signal strength of better than 90% signal, the interference from over a dozen
+other wireless networks that are in range, plus countless cordless phones, has meant restarting the WiFi router every
+few minutes.
+
+
+
+ I upgraded from D-Link?s 802.11b gear to theirExtreme-G 802.11g router and card?same crappy behavior. Last weekend, I got fed up with this, and so I went to J&Rand bought the new Belkin pre-N router and laptop card.I?ve had the laptop running on WiFi for two days now without losing my Internet connection once. Setting up with theBelkin router was simple and automated - a non-techie can have it up and running in under 10 minutes. The only extraeffort is security (WEP/WPA, MAC filtering), and that is made as simple as possible (the manual explains it verywell).  With both of my D-Link setups I had to use an AP in repeater mode in the living room just to get the signal from mybedroom to work. The pre-N router in the bedroom is strong enough and has good enough range to give me a consistent95%+ signal in the whole apartment, without a single hiccup in the connection. You might pay a little extra forBelkin?s pre-N gear might be expensive, but for Manhattanites (or anyone else) who have given up on WiFi, this might bethe answer.
+
+

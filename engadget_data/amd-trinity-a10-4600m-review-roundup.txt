@@ -1,0 +1,7 @@
+
+ 
+ If you've been following AMD's game plan over the last couple of years, then you probably won't be totally shocked by what follows. That said, reviewers' verdicts of the new high-end Trinity laptop APU, the 2.3GHz quad-core A10-4600M, do include some dizzying highs and despairing lows, which are still kinda surprising in their own way. Like how? Well, HotHardware found that AMD's chip beats Intel's Ivy Bridge (with integrated HD 4000 graphics) by 30 to 50 percent in some games, albeit with a few stumbles over immature DX11 drivers. Similarly, AnandTech's handy table above shows just how far ahead Trinity is across fifteen common titles. On the other hand, most reviewers found that non-gaming CPU performance fell far short of Ivy Bridge and even Sandy Bridge mobile chips. For example, Hexus's Geekbench scores put the APU 40 percent behind last year's Dell XPS 15z, which is totally underwhelming. So, as usual, it'll all depend on what you need a laptop for -- but if you're after something that costs $699 or less, handles regular day-to-day tasks okay and can also play current games with decent frame-rates, then you'll be keen to conduct further research at the links below.
+
+ Read - HotHardware Read - AnandTech Read - Hexus Read - PC Perspective
+
+

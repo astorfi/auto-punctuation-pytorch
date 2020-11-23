@@ -1,0 +1,28 @@
+
+
+
+"Mobile VR doesn't have to mean [physically] moving around, but rather something you can access as easily in a café or a plane as you can at home. It was a choice made from day one: to create a fun and accessible experience by being static."
+
+
+JC Gaudechon, executive producer at CCP, the Icelandic developer famous for the massive space MMO EVE Online, is speaking about Gunjack, a demo turned fully fledged game for Gear VR, Samsung's mobile virtual reality headset. Gaudechon has spent the last six months shifting the project into a downloadable Gear VR title as CCP's betting big on the second coming of VR. With its upcoming blockbuster Valkyrie dogfighting sim, the studio's positioned as a major launch partner for both the Oculus Rift and Sony Morpheus headsets next year. But Gunjack is not Valkyrie. Built from the ground-up for mobile, it required a totally different approach from its better-known stablemate. It required learning how to make VR work on the smallest scale.
+
+
+
+Gunjack's origins can be traced to the EVE Fanfest, CCP's annual gathering in Reykjavik for all things EVE Online. There, attendees were offered a Samsung Gear VR demo called Project Nemesis, which gave a short taste of what it's like to control a single turret on one of the EVE universe's giant spaceships. At the time, it was unclear if anything would come of Nemesis -- it was just one of multiple demos at the event. But then at Gamescom in Cologne, Germany, this month, the company showed off the near-final game, complete with a new name.
+
+When I first met Gaudechon at EVE Fanfest, he explained how his team translated the company's enormous universe to the small screen: "First, focus in on the concept. Don't try to go outside what the hardware or the game can give you. ... Embrace the limitations." In practice, that means working with the Gear VR's sole input: the touchpad. Mounted on the right side of the headset, the touchpad's capable of acting like four buttons, as well as accepting swipe gestures. For Gunjack, which requires the player to remain seated while controlling the in-game turret with head movement, the entire touchpad functions as a single button to fire projectiles and take out enemies. It's a far cry from the experience of piloting an entire spaceship in Valkyrie, but it has to be.
+
+Samsung's Gear VR has limited input options. The only other control is a simple swipe to reload. "The point is not to go into a very complex experience, putting multiple inputs on different parts of the panel to shoot at stuff," Gaudechon said. "Just have one button; make it fun; and put a smile on [the player's] face after five seconds."
+
+"VR has a long way to go to become something that doesn't make half the world dizzy."-- JC Gaudechon, CCP
+
+For all its good looks -- and it does look surprisingly gorgeous for a game powered by a smartphone — Gunjack plays out like an old-school arcade shooter: Waves of enemies fly around firing projectiles at you, and you need to destroy them all. Speaking at Gamescom, Gaudechon revealed that missions have been pared down to allow for shorter play sessions, something key for a mobile experience, and for VR in general. "That's to make sure it's not too tiring for you," he said. "We experimented with how much we can put in your eyes before it gets too much." The average Gunjack mission lasts between three to five minutes, after which the player can decide if they're up for another challenge, or need to take a break. "VR has a long way to go to become something that doesn't make half the world dizzy."
+
+#fivemin-widget-blogsmith-image-128337{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-128337, #postcontentcontainer #fivemin-widget-blogsmith-image-128337{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-128337").style.display="none";}catch(e){}
+What CCP has created with Gunjack is a hat trick of sorts: It's a mobile game, an arcade game and a game that feels like it belongs in VR. The headset provides the immersion, and the visual polish and simplicity of the controls prevent players from being taken out of the experience. Firing by tapping on the panel, reloading with a swipe and aiming with ease (you just tilt your head and look at the enemy) -- it all works perfectly. There are over 20 missions planned for the final game, all of which add replayability for perfectionists by rating performances with stars. It's easily the most fun I've had with a smartphone strapped to my head. The question remains, though: How much do you charge for it?
+
+'Gunjack' is easily the most fun I've had with a smartphone strapped to my head.Without any obvious in-game, micro-transactional hooks, CCP definitely needs to make some money by charging up front. "It's quite early for the Oculus Store," said Gaudechon. "There aren't thousands of products there. We're trying to be cautious. It's got to be within the mobile range. ... We can't expect people to pay [console prices]." Although Gaudechon won't talk specifics, it seems that a game with such high production values might be able to command $5 or even $10, especially given the lack of quality content for the Gear VR right now.
+
+The content problem works both ways, though. While VR games remain few and far between, so will headset sales at the outset. That's likely why Samsung and Oculus have been so supportive of CCP's efforts in the space. If VR is to have a future outside of the home, it will need more than CCP and Samsung on board. Perhaps if Gunjack does well, it may persuade other large developers to start creating similarly focused mobile VR experiences.
+
+Images: CCP

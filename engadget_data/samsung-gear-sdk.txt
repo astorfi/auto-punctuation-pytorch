@@ -1,0 +1,10 @@
+
+Among the many frustrations we had with Samsung's first smartwatch, the Galaxy Gear, was the limited number of apps available for it. While the company offered premium access to select partners, it never came out with a software development kit (SDK) for anyone and everyone to submit their own app. When the Gear 2 was announced earlier this week, Samsung also promised that it would deliver an SDK for its latest series of wearables. At the company's developer keynote at MWC this morning, that's finally changed -- Samsung has announced the "immediate availability" of kits for the Gear 2, Gear 2 Neo and Gear Fit, as well as another SDK for S-Health.
+
+
+There's a bit of a difference between the Gear and the Gear Fit kits, however. The Tizen-based Gear SDK will make it possible for developers to create applications that run on both Gear 2 watches (using both Android apps and web apps), while the Gear Fit version offers an emulator and the ability to control the device from an Android app. We'll continue to update you as we get more information at this morning's keynote.
+
+
+Update: we're not seeing the kits live on the site quite just yet, but Samsung just stated that it'll be available today.
+
+

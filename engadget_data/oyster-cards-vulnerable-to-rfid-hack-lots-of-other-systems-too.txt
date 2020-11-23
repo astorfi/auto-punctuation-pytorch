@@ -1,0 +1,9 @@
+
+ 
+Sure, it's fun to say that one billion RFID cards are now at risk due to the Mifare Classic's broken encryption, but it's another thing to comprehend how widespread the fallout could potentially be -- the London Underground's Oyster Card is based on the chip, for example. And that's just the tip of the iceberg: a new report says that the system can be broken in minutes using a typical PC -- check the video after the break for a demonstration. We've also listed all the other now-potentially-vulnerable Mifare RFID implementations we could find, but there's got to be more -- put 'em in comments!
+      
+
+ 
+
+Cities / countries using the Mifare Classic for access control and / or mass transit ticketing: London (Oyster Card) Boston Netherlands (OV-Chipkaart) Minneapolis / St. Paul South Korea (Upass, T-money, Mybi) Hong Kong Beijing Milan Madrid (Sube-T) Australia (Smartrider) Sao Paulo (Bilhete Unico) Rio de Janeiro (RioCard) Bangkok New Delhi
+ 

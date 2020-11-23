@@ -1,0 +1,4 @@
+
+Google wants to make it faster to unlock your Android device in trusted environments with a new feature called "personal unlocking." For instance, if your compatible Bluetooth watch is connected and nearby, you'll be able to swipe open your home screen without an unlock code. If the watch is off, however, you'll need to punch it in. It also won't challenge you for a code if you're in pre-programmed locations or if it recognizes your voice. That's part of the new Material Design UI coming up for future versions of Android, which will arrive in the coming months.
+
+

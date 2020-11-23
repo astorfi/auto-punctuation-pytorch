@@ -1,0 +1,12 @@
+
+You know how it goes -- "rules" are only "rules" if someone bothers to enforce them. And enforce Google has. While programs such as AdBlock, AdAway, AdFree and the like have been running unabated for quite some time now, Google has evidently buckled down and yanked the lot of 'em overnight. Of course, the company's Play Store developer agreement already makes clear that apps designed specifically to hinder the natural course of advertising won't be allowed, but it's certainly interesting to see the company finally making good on its words. Specifically, the agreement states:
+
+
+
+"You agree that you will not engage in any activity with the Market, including the development or distribution of Products, that interferes with, disrupts, damages, or accesses in an unauthorized manner the devices, servers, networks, or other properties or services of any third party including, but not limited to, Android users, Google or any mobile network operator."
+
+
+
+See that bit about third-party clients' services? We're guessing that it's in reference to implementations of advertising code. Looks like the wild, wild west has a sheriff in town.
+
+

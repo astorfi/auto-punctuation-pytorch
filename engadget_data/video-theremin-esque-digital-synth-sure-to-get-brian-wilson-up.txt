@@ -1,0 +1,8 @@
+
+ 
+The theremin is just one of those instruments that nerds can't stop digging and modding. This newest iteration, the Squaremin, resembles the much-loved instrument in that you don't touch it to play it -- rather you move your hands about to control the octave and output of notes. The Squaremin was made using an ATmega168 chip, and boasts two infrared sensors to measure proximity -- one to control the note played, the other to control the octave which is played out of the front speaker of the instrument. Check out the video after the break.[Via Make]
+
+ 
+
+
+ 

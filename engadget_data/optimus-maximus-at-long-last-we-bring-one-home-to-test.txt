@@ -1,0 +1,16 @@
+
+ 
+It's the damnedest thing: years after seeing the renders we're actually finally writing this post on our very own Optimus Maximus. We've had ours for a few weeks for testing, but we weren't able to do a whole lot with it until we got some later firmware updates. Here's the preliminary report:
+
+The OLED displays look really good, and are bright and colorful, just like we'd hoped.
+Key changes were instant (or almost) in Windows mode, but had a slight delay in Mac mode, where some key bindings were also little out of whack. These are known issues, though, and are being worked on.
+The keyboard itself is friggin massive, and very sturdy-feeling. The thing is a tank.
+Replacing keys is pretty easy, but larger keys are more difficult to pull off. You're really only intended to replace the standard-sized keys, so far as we can tell.
+Typing on it, well, sucks. We kind of hate to say it, but this thing more than likely won't replace what ever keyboard you're writing your novel on -- it's better off used as an absurdly configurable swiss army knife for tasks like gaming, Photoshop, or just about any other productivity app that doesn't require a lot of typing.
+Okay, why does typing on the Optimus suck, you ask? Well, although the keyboard uses mechanical switches and a lot of high quality components (evident when we pulled off some keys), and there is some clicky tactility to keypresses, as a whole it just requires way too much force to depress keys. And the larger the key, the more force is required, so enter is easier than space, but harder than tab. Let's put it this way, we sit around and type all day long and this thing wore us out in about 30 seconds to a minute. Carpal sufferers, beware.
+The Configurator is everything we hoped it'd be and more. The ability to paint directly onto the keyboard maps with the image editor of your choice is most excellent. Mapping keyboards to applications and conditions is ridiculously easy. Not everything was working properly though, since we were testing early beta software.
+
+We'll have some video in a bit. We so can't wait for people to start getting their keyboards so we can benefit from their wacky layouts.
+
+
+

@@ -1,0 +1,32 @@
+
+ The date we were promised an introduction to Sailfish is here, and it turns out Jolla's not just targeting smartphones with its MeeGo-based OS, but tablets, smart TVs and other devices, too. Jolla has kept its OS under wraps until now, but it wants Sailfish to be an open-source affair which "will be built through community involvement and participation." The SDK will be available soon, and we should get a look at the UI during a presentation occurring shortly. We're assured superb multitasking capabilities, as well as deep personalization and "fast and effortless interaction." Jolla has said Sailfish will be available for use with "multiple chipset technologies," and is already supported on ST-Ericsson's NovaThor platforms. It's also reported that it's partnering with Finnish carrier DNA to promote and sell Sailfish smartphones on home turf. The full reveal is coming shortly, so we'll let you know more as soon as we do.
+
+ Update: The Jolla team took to the stage with touchscreen hardware in hand (we also spotted a Raspberry Pi), keen to express how they've been working all hours to boot Sailfish on anything they can find. The company called its creation the first truly "open ecosystem," and said that development will be fully transparent from the outset. While there will be Jolla-branded phones launching, Sailfish is also being offered to handset manufacturers to use on their own hardware. The UI tour wasn't as in depth as we'd have liked, but "true multitasking" was the main focus. Active programs can be pinned to the homescreen as tiles (in a layout that looks something like BlackBerry 10), which offer some control of the app without it hogging the screen. They also showed off a feature called "Ambiance," which uses colors from a picture you select to tint the UI. We wish we had more info to share, but right now, we're all just left wanting more.
+
+
+
+  Show full PR text   Sailfish advances - Sailfish OS, with SDK and UI introduced
+  Helsinki, Finland - Today at the Slush start-up event Jolla and Sailfish take significant steps forward and bring Sailfish Software Development Kit (SDK) for the community and showcases it effortless and innovative User Interface (UI) for the first time.
+
+   Sailfish OS already supports multiple chipset technologies that are being demonstrated today in Slush, and further support is continuously being built for all the major chipsets. Today Jolla is happy to announce that ST-Ericsson is ready to support Sailfish OS in its NovaThor platforms.
+
+   "We are pleased to add Sailfish OS to the mobile operating systems supported on our NovaThor ModAp platforms. Supporting Sailfish from its inception shows how flexibly ST-Ericsson's NovaThor platforms can adapt to different mobile OS'es and we look forward to seeing Sailfish powered devices in the market next year," said Peter Oaklander, Senior Vice President for Sales & Marketing, ST-Ericsson.
+   "We warmly welcome ST-Ericsson onboard. It is great that this industry leader is partnering with us and Sailfish. ST-Ericsson's NovaThor platform combined with Sailfish OS will enable vendors to bring highly competitive mobile products to the market. We welcome other players in the mobile industry to join and contribute to this game changing movement. We also target to announce other chipset provider partnerships soon," said Marc Dillon, CEO of Jolla.
+   Sailfish Alliance is first and foremost a movement that will unite OEM and ODM manufacturers, chipset providers, operators, application developers and retailers. The key target is to bring innovation to a stagnating market and help mobile industry players to stay on the bleeding edge of the mobile OS development.
+
+  Sailfish SDK preview introduced to facilitate community work and application development
+   The Sailfish OS and UI are highly adaptable and will support smartphones, tablets, smart TVs, automotive and other device classes. Sailfish is a real opportunity for developers to participate in and build solutions with existing open source projects such as Qt, Mer Core, and the Linux kernel. The new OS will be built through community involvement and participation. 
+   The Sailfish SDK consists of Mer Core's tools, Qt Creator, Jolla UI components, Sailfish UI framework and Sailfish handset application interfaces. The SDK encourages Sailfish friends to extend the tools to support development for their company's style. The SDK is the right choice for Sailfish Alliance partners for both contributing to the direction of the operating system and developing new and magical products.
+   The SDK is available and developed at www.sailfishos.org. 
+  Fastest Use
+   The Sailfish user interface, shown for the first time at Slush, has been designed with the most recent consumer needs in mind. With the most modern mobile UI Sailfish provides effortless multitasking. 
+   Users are able to multitask instantly between truly running applications. Even more, users are able to interact with the running applications directly on the home view: ending a call, pausing a song - without needing to enter the application. This multitasking feature brings usability and speed-of-use to a totally new level, unseen in the mobile industry.
+
+  
+   The UI features other innovations, the Pulley Menu enabling fast and effortless interaction; at-a-glance peeks at status information; effortless personalization of the device to match the user's style and mood.
+   For the UI demo, please visit http://www.youtube.com/user/jollaofficial.
+
+  
+
+
+

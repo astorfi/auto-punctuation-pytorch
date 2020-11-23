@@ -1,0 +1,9 @@
+
+ 
+We're not sure why this was never mentioned before the BlackBerry Playbook launch, but it looks like AT&T customers opting for RIM's new tablet won't be able to take advantage of one key feature, at least officially. For reasons yet unknown, AT&T appears to be blocking folks from downloading BlackBerry Bridge to their BlackBerry smartphones, with the speculation being that it doesn't like the free tethering the Playbook enables. As the folks at CrackBerry have discovered, however, AT&T is only blocking the Bridge app, not the actual Bridge process -- which means you can still download the app though unofficial means and Bridge your AT&T BlackBerry to your Playbook. Here's hoping AT&T figures out a workaround of its own sooner rather than later.
+
+Update: We just heard back from AT&T, and it's looking like you'll need to have a bit of patience here as the kinks are worked out. Here's the direct quote from a company spokesperson:
+
+AT&T is working with RIM to make the BlackBerry Bridge app available for AT&T customers. We have just received the app for testing and before it's made available to AT&T customers we want to ensure it delivers a quality experience for our customers.
+
+ 

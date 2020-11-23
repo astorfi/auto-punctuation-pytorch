@@ -1,0 +1,4 @@
+
+ 
+Sure, you've been hearing NVIDIA toss around names like CUDA, Fermi and Tesla for what seems like ages now, but we're guessing this is the sort of thing that'll get most folks to really take notice: a promise to cut supercomputing costs by a factor of ten. That rather impressive feat comes courtesy of the company's new Tesla 20-series GPUs, which come in the form of both single GPU PCI-Express Gen-2 cards and full-fledged GPU computing systems, and promise a whole host of cost-saving benefits for everything from ray tracing to 3D cloud computing to data analytics. Of course we are still talking about "cheap" in supercomputing terms -- look for these to run between $2,499 and $18,995 when they roll out sometime in the second quarter of 2010.
+ 

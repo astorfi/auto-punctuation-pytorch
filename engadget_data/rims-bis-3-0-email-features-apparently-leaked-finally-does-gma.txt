@@ -1,0 +1,9 @@
+
+       For a platform billing itself as the business user's best friend, BlackBerry's list of unsupported protocols that have achieved ubiquity is actually astonishing: you can't do two-way read status sync with an IMAP email account, for example, and amazingly, you can't natively connect to an Exchange ActiveSync service without being routed through RIM's back-end software. In a shocking move that's straight out of 2002, it seems at least one of those niggles is going to get patched up soon thanks to a leaked list of email features in BlackBerry Internet Service 3.0, the software carriers deploy to marshal all data connectivity on the handsets they've deployed to customers. Yes, that's right: you'll be able to synchronize read status and sent items with your Gmail account, just as if you were using virtually any other phone produced in the last several years! It's hard to fathom that it's taken this long, but hey, we'll take it -- unfortunately, it's up to each carrier to decide when they're going to deploy BIS upgrades, so your mileage may vary on the wait time. Of course, RIM could just add IMAP support directly to its phones so that this whiz-bang tech would work with any third-party email service and wouldn't have to go through BIS in the process, but that would be crazy talk, right?
+
+[Thanks, Jeff]
+
+Update: Unfortunately, we've had to remove the image on our legal team's advice. Sorry!
+      
+
+ 

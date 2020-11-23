@@ -1,0 +1,5 @@
+
+
+Google is ready to up the level of Chromebook voice control, judging by a new, experimental release. According to François Beaufort, you can now say "OK, Google" to activate voice search on your Chrome OS notebook anytime the screen is on and unlocked. That always-on functionality has been available for a while now on Android phones and tablets, but until now, Chromebook users had to first open the app launcher or a new tab in Chrome. As it's still in the experimental stages, you must be running on the dev channel and enable the relevant flags, as shown in the source. Following a short voice training session, you'll be ready to start barking commands.
+
+

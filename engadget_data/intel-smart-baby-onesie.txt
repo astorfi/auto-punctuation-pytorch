@@ -1,0 +1,17 @@
+
+The most crowded area of Intel's CES booth? Not the phone section, not tablets, not even two-in-ones. Nope, everyone's huddled around a desk with coffee mugs. That, and a plastic baby doll lying face-up in a carrier. Just like Intel CEO Brian Krzanich hinted, the company is going all-in on wearables this year. Except the outfit isn't showing off fitness trackers; it's showing off an internet-connected baby onesie. Most surprising of all: it's not even a concept but rather, a real, final product that will ship this week. 
+
+So what does it do? Best to ignore buzzwords like "smart" and think of this simply as the baby monitor of the future. The Mimo Baby, made by a company called Rest Devices, has two green stripes on the front that are actually respiratory sensors. Additionally, the onesie comes with a removable, turtle-shaped clip, with sensors allowing it to monitor the baby's body position, activity level and skin temperature. Then, parents can see all that data in an iOS/Android app or, potentially, a light-up smart mug that shows the baby's respiratory patterns. In short, then, this is aimed at the same kind of parent who would otherwise buy a baby monitor. Except, you know, it offers an unprecedented amount of data. "You can look at your smartphone and know that everything is OK," said Carson Darling, one of the founders of Rest Devices.
+
+
+
+
+
+          
+ 
+ 
+ Inside, of course, there's an Intel chip running the show -- specifically, a dual-core Edison PC the size of an SD card. What's interesting is that the onesie will actually ship this week without that Intel componentry inside, since Intel has already said that Edison won't ship until this summer. To be sure, Rest Devices will eventually ship an Edison version too, which Darling says will be easier for his company to develop for. In the meantime, though, the non-Edison will still function exactly as advertised. That will sell for $199 as a starter kit, with three onesies and a turtle clip-on. Thereafter, individual onesies will sell in $29 two-packs, with sizes ranging from zero to 12 months. The chances of us reviewing this on a real baby are slim, so you'll have to make do with our photos of a plastic doll. Enjoy, and, uh, please keep the dead baby jokes to yourself.
+
+       
+
+ 

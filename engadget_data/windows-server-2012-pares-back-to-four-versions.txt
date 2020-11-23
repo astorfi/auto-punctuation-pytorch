@@ -1,0 +1,5 @@
+
+ 
+ Microsoft has been devoting most of its OS update attention this year to Windows 8, not its suit-wearing Windows Server 2012 counterpart. Some of the mystery has been cleared up through word of a greatly simplified server OS lineup. Just four versions of Windows Server will sit in IT backrooms versus the whopping 12 from Server 2008 R2, with an emphasis on making the feature slope a little gentler. The biggest improvement is the near-identical feature set of Windows Server 2012 Standard compared to its Datacenter equivalent: the only advantage of Datacenter is the jump to unlimited virtual machines, giving smaller businesses a way to save some cash. Foundation and Essentials will cover the basics for these outfits if just 15 or 25 very real machines need to hop onboard. The base prices of $425 to $4,809 per copy for all but the OEM-only Foundation still make it doubtful that we'll be loading Server 2012 on a PC tucked into a closet at home, but it's evident between this and the streamlined Windows 8 selection that Microsoft wants to avoid the flood of versions that confused buyers during the Windows Vista and 7 days.
+
+

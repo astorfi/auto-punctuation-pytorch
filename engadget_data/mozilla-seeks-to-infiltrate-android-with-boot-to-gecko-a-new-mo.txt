@@ -1,0 +1,7 @@
+
+ 
+
+Remember those rumblings about Mozilla and its very own mobile OS known as Boot to Gecko? We now have further details to share, and unlike most operating systems -- which demand their own hardware -- this one is aiming to shack up with Android smartphones. Given the existing complexity of altering many of these devices, Mozilla's Boot to Gecko will likely find favor among geeks alone, but the project itself has much greater ambitions. First and foremost, the OS will be designed with web apps in mind, yet with functionality and device integration that's on par with native applications. The true boon here is the potential for other operating systems to integrate Mozilla's technologies into their own browsers, thus allowing true cross-platform application development and the possibility of bolstering platforms that struggle for developer interest. Right now, much of the project exists only in the minds of a few tenacious developers, but the group hopes to unveil a public demo early next year. As if this weren't wild enough, while Mozilla has no intention of creating its own Boot to Gecko device, the group has expressed a willingness to work with OEMs that share its dream of a web-based future. Go ahead and count us in.
+      
+
+ 

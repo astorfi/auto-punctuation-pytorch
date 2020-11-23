@@ -1,0 +1,5 @@
+
+ 
+No CableLabs isn't going to make it so you can purchase an ATI Digital Cable Tuner without an OEM PC, but it's almost that big of a change. Believe it or not, currently, even after you pony up for a PC and CableCARD tuner from the likes of Dell or Niveus, every single recording made with the CableCARD tuner is locked down with DRM -- no it doesn't matter whether the content is marked as copy freely or not, crazy huh? Well it finally looks like there is some sanity over at CableLabs, because the recently revised OCUR specification (6/20/08) no longer requires this draconian limitation. No clue when this change is going to take affect to current owners however, but it appears that a firmware update for the tuners and the elusive Vista Media Center TV Pack may be required. Either way this is a step in the right direction, but there is still no way these things will really take off until the OEM requirement is eliminated too, especially considering the current alternatives.
+
+ 

@@ -1,0 +1,22 @@
+
+After all the time we've spent with Oculus VR's latest Crystal Cove prototype last week -- our first Best of CES award winner! -- you might think we're all VR'd out. You'd be wrong, and when the folks at GameFace Labs offered us a chance to check out their Android-based, standalone VR headset, we jumped at the chance.
+
+
+The Mark IV model of GFL's unnamed headset is a 3D-printed proof of concept, and it serves that goal fantastically. We put on the headset, were handed a paired Bluetooth gamepad (Sony's DualShock 3) and were instantly transported to a lower-res version of the Tuscany demo we've seen running previously on the Rift. Only there's one major difference here: no wires.
+
+
+
+
+
+Pushing one of three front buttons on the outside of the headset, we jumped back out to a basic (placeholder) app grid where a handful of demos were selectable. Using the DualShock 3, we next jumped into a roller coaster demo where disorientation hit an all-time high -- it was the first time this writer's ever felt nausea while playing any VR demo.
+
+
+That disorientation may be a standard of GFL's VR headset, at least for now...and it's kind of not their fault. The act of standing up and using a VR headset, untethered, is extremely scary. With a VR headset strapped on, there's no way to re-center yourself in reality. After moving around, the only way to figure out where you are (again, in real life) is by removing the headset. By that point, you're feeling really disoriented. Or at least we did.
+
+All that said, it's incredible using a VR headset without even one wire running out of it. The model we tried had a Tegra 4 powering games, meaning stuff like Dead Trigger and the Tuscany demo rarely hitched, or tore, or any other issues we'd expect to see with a low-horsepower device. A 5.2-inch LED panel with 1,920 x 1,080 resolution is cradled inside the headset, though a larger size is in the works. The folks at GFL are also planning on building out an Android VR store to support the headset, as playing games on the scale of the Oculus Rift simply isn't possible (which makes sense, given that the Rift is powered by your PC).
+
+But that's okay, because for now, operable VR is impressive enough to circumvent graphics complaints. A platforming demo really sold us on GFL's headset: a snaking, thin platform must be navigated, and the DualShock 3 only controls forward momentum and jumping. To turn or look, you must physically move your head and body. Oh, and the world is floating in the sky -- which is terrifying. That last bit cannot be overemphasized. Despite rough graphical chops, the sense of vertigo was nearly overwhelming.
+
+GFL's got big plans for the Mark IV, which includes retail availability by the end of this calendar year as the device goes from prototype to product. The company's even in talks with NVIDIA to potentially incorporate its new K1 chip, which would assuredly add another layer or two of processing power and graphical chops (as well as Unreal Engine 4 support).
+
+

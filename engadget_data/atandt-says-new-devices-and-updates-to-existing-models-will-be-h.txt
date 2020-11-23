@@ -1,0 +1,4 @@
+
+ 
+Our digging revealed that the Inspire 4G and other devices in AT&T's current stable are more than capable at the hardware level of using HSUPA for high-speed upstream connections, but for whatever reason, the carrier seems to currently require that most handsets handshake with the network using an old protocol stack that doesn't include HSUPA. The result? Glacial uploads, which especially suck when you're trying to tether. Though there's no resolution yet, AT&T's now circulating a mildly hopeful statement: "...we have a number of HSUPA devices today and we will have more HSUPA-enabled devices in the future-new devices and updates to existing models." We're hoping that means we'll see a bunch of firmware updates in the next few months that flip the switch on HSUPA, especially for owners of phones like the Inspire and the Atrix, both of which have a shaky "4G" tacked on to the ends of their names.
+ 

@@ -1,0 +1,13 @@
+
+
+American police and spies love the idea of back door access to encrypted data that lets them snoop on suspicious types, but many will tell you that they're wildly optimistic. Even if you don't mind the implication that the government has a right to spy on anyone, this could easily introduce a flaw that any attacker can use. National Security Agency chief Michael Rogers thinks there's a happy medium, however. At a recent speech, he called for a "front door" encryption key that would provide access, but would be broken into pieces that prevents any one agency or person from getting in. This theoretically prevents thieves (and less than scrupulous authorities) from grabbing your data, but still lets officials look around when they have permission.
+
+
+
+The idea is part of a broader set of suggestions that the White House is considering, such as letting courts order the creation of mirror accounts (to let investigators see every message as it arrives) or backing up data as soon as it's unencrypted. President Obama should get a report on these options as soon as this month, so there may be a change in policy relatively soon.
+
+However, solutions like Rogers' are already facing a lot of pushback from not just privacy advocates, but fellow institutions like the National Institute of Standards and Technologies (which helps define encryption as we know it). They note that any door is likely to introduce security holes, even if you create a split key. Agencies like the FBI and NSA don't like widespread encryption precisely because it works so well, after all. And of course, this only works so long as there are key holders that won't simply roll over when there's a request. As has become clear with the NSA's cozy relationship with the Foreign Intelligence Surveillance Court, there's a tendency for government overseers to rubber stamp surveillance rather than call it into question.
+
+[Image credit: Chip Somodevilla/Getty Images]
+
+

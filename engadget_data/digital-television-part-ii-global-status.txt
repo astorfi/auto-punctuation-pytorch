@@ -1,0 +1,212 @@
+
+We already tried to make a bit of sense of the global digital television (DTV) salmagundi in Digital Television, Part 1:Making Sense of it all. Now, let's look at the DTV implementation status on a global scale affecting your livingroom TV and future, mobile handheld devices shall we? First, we should look at how DVB-T and DAB implementations areprogressing globally since these are the underlying technologies for DVB-H and T-DMB respectively — thus givingus a hint, but by no means dictating future country selections for digital TV on mobile handheld devices.First DVB-T (click the picture for a larger view):
+ 
+
+And now DAB (click the picture for a larger view -- warning: PDF link): 
+
+
+
+
+So based on these graphics, you can imagine Samsung, LG and the rest of the T-DMB camp all hunkered down intheir red jerseys ready to battle Nokia and the ravenous DVB-H posse kitted-out in dark-blue. That makes MediaFLO skinsthen, though we shudder to think of the Qualcomm execs shirtless but we digress. It's easy to see why a standards war isa-brewin with western Europe equal parts red and blue i.e., both DAB and DVB-T services operational. Click on for more.
+                 
+ So let’s drill down country-by-country and look at how digital TV rollouts are progressing globally. Thefollowing tables aren’t exhaustive, but they do capture those furtherest along their DTV deployment path.First, those countries who have adopted DVB-T:    DVB-T Countries
+
+   Service Launch
+
+   Analog Switch Off
+
+   Mobile Reception
+
+     Australia
+
+   2001
+
+   2011 proposed — pay TV providers agree to 2007
+
+   Jul 2005 trial started in Sydney with Nokia, Telstra, and The Bridge Networks
+
+ T-DMB:none
+
+     Belgium
+
+   2003 Flanders (Antwerp)
+
+ 2005 Wallonia (Brussels)
+
+   2010 (at thelatest)
+
+   DVB-H:none
+
+ T-DMB: none
+
+     Finland
+
+ (home of Nokia)
+
+   Oct 2002
+
+   Aug 2007
+
+   DVB-H: Mar-Jun 2005 trial conducted in Helsinki withNokia, Sonera,     Elisa, and Digita
+
+ T-DMB: none
+
+     France
+
+   Mar 2005 free-to-air, 2005/06 pay TV
+
+   2010
+
+   DVB-H: Early 2005 trialconducted in Cannes with TDF and     Nokia
+
+ Sep 2005 launches three trials in Paris with Nokia,SFR, France Telecom, Orange, TDF, TPS, and Canal      all taking part in the action
+
+ T-DMB: Oct 2005 trial started in Paris with TF1, VDL, Samsung and     Perstel
+
+     Germany
+
+ (home of 2006 FIFA World Cup)
+
+   Mar 2003
+
+   2010 (already started for some regions)
+
+   DVB-H: Sep 2005 trial started in Berlin with Microsoft, DFL,     Bundesliga
+
+ T-DMB: Q1 2006 T-DMB trial starting in Regensburg
+
+     Italy
+
+   Jan 2006
+
+   2006 (start)
+
+   DVB-H: Starting in 2006 via Telecom Italia Mobile and     Mediaset
+
+ T-DMB: testing or trials underway
+
+     Netherlands
+
+   Nov 2003
+
+   2004 (start)
+
+ 2006 (complete)
+
+   DVB-H: Jul 2005 trial started in the Hague with Nokia,    KPN, Digitenne, and Nozema Services
+
+ T-DMB: testing or trials underway
+
+     Spain
+
+   Nov 2005
+
+   2010
+
+   DVB-H: Oct 2005 trial started in Madrid and Barcelona by Nokia, Abertis    Telecom, and Telefonica Moviles
+
+ T-DMB: testing or trials underway
+
+     Sweden
+
+ (home of Ericsson)
+
+   Sep 1999
+
+   2008 (already started in some regions)
+
+   DVB-H: none, er, maybe because Ericsson backs DMB.
+
+ T-DMB: none,which is strange since Nokia arch-rival, Ericsson backs     DMB
+
+     Switzerland
+
+   2005
+
+   2015
+
+   DVB-H: Nov 2005 trial started in Bern with Nokia and Swisscom
+
+ T-DMB: none
+
+     Taiwan
+
+   2005
+
+   2006
+
+   DVB-H: Trials to start by Jan 2006 inTaipei with Nokia, CTS, CHT, and     CMC Magnetics
+
+ T-DMB: none
+
+     United Kingdom
+
+   Nov 1998
+
+   2007 (start)
+
+ 2012 (complete)
+
+   DVB-H: Sep 2005 trial startedin Oxford with Nokia, O2, Arqiva, and Sony     Semiconductors and Electronic Solutions
+
+ T-DMB: Jun 2005 trial started in London with BT, Virgin Mobile, and     HTC
+
+   And now those pesky ATSC countries. The US and South Korea are furthestalong here, with Canada and Mexico yet to set hard time lines for analog switch off let alone offering definitive plansfor reception of DTV on mobile handsets.  While things look all rosy to us on the periphery, SouthKorea’s mobile DTV status is actually quite convoluted since their version of terrestrial DMB is (gasp) differentfrom the more generic version developed within the world DAB forum. However, the two DAB variants are very similar andare expected to use the same device hardware. Also, South Korea is running both satellite DMB and terrestrial DMBservices. S-DMB is nationwide operating at 2.6 GHz thus requiring heaps of terrestrial transmitter dishes scatteredabout cities in order to keep signals flowing around buildings and underground. As a bonus though, those higherfrequencies mean very small antennas (which we love) on S-DMB mobile devices. T-DMB is operated as a regional serviceat the low, low 200 MHz frequency, thus requiring those big ol’ telescoping antennas we hate. SoATSC countries look a little somethin’ like this:    ATSC Countries
+
+   Service Launch
+
+   Analog Switch Off
+
+   Mobile Reception
+
+     United States
+
+   Nov 1998
+
+   2009 (proposed)
+
+   DVB-H: Oct2004 trial started in Pittsburgh with CrownCastle and     Nokia
+
+ Q1 2006 Crown Castle's Modeowill begin delivering their commercial mobile TV service over     Crown’s L-Band (1670-1675 MHz) ownedfrequencies covering the top 30 US markets by 2007 
+
+ T-DMB: DAB-based DMB is thedark horse in The States with a shot of     entering the race via XM’s satellite radio service (2.3 GHz)     in partnership with DirectTV who announced in    November plans to work with “an array of partners” to bring video to devices other than televisions.
+
+ MediaFLO: 2006 QUALCOMM and Verizon Wireless expect to launch mobile TV     servicesover the MediaFLO network in approximately half of the 171 metro areas already covered by Verizon    Wireless’ EV-DO-based broadband network
+
+     South Korea
+
+ (home of DMB)
+
+   2001
+
+   2010
+
+   DVB-H: no way, this is South Korea!
+
+ T-DMB: Dec 2005 terrestrialservice launched by the country’s major     cable news, radio and TV broadcasters
+
+ S-DMB: May 2005 satellite service launched by SK Telecom and TU     Media
+
+   And just for kicks, let’s throw down the stats for Japan who haverolled out their proprietary ISDB-T solution yet are fervent supporters of T-DMB…outside of Japan anyway. Brazilis also considering ISDB-T after finding it superior to both DVB-T and ATSC for their needs.    ISDB-T Countries
+
+   Service Launch
+
+   Analog Switch Off
+
+   Mobile Reception
+
+     Japan
+
+   2003
+
+   2011
+
+   DVB-H: none
+
+ T-DMB: none
+
+ ISDB-T: Launched consumer service in Oct, 2004 dubbed MobaHO! (quit     snickering)
+
+   Tomorrow, digital TV device pr0n!
+
+             

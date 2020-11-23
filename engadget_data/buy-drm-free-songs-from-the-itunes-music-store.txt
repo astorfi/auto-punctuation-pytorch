@@ -1,0 +1,24 @@
+
+
+
+Jon Johansen, aka DVD Jon, aka the secret crush of hackers and DRM-haters everywhere, has struck again. And this
+time he's not screwing around, he's done something that will so seriously provoke Apple and the recording industry that
+he may have to go into hiding: he's figured out how to buy DRM-free tracks from the
+iTunes Music Store. How?
+With a PyMusique, a new front-end he and some pals/future co-defendants created for the iTunes Music Store that let's
+you buy songs without any of that bothersome DRM stuff. Seems that our good friend discovered that when you buy
+something from the iTMS, the DRM is only added to the tracks after you've purchased and downloaded them, which
+sort of makes sense since they do need to be tagged to your account. You'll still have to actually pay for the music,
+but PyMusique conveniently neglects to wrap the file with any copy protection, which means you're free to do what you
+want with the unrestricted file, including copying it to multiple machines or sharing it over P2P. Hard to imagine how
+this could possibly be legal, since Apple specifically requires you to access the iTMS only through their software
+(Laurie Duncan actually read the ToS and checked), but you may as well enjoy the next six to twelve hours before Apple
+devises a way lock PyMusique users out.
+
+
+
+
+
+
+
+ 

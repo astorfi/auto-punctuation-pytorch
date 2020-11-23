@@ -1,0 +1,6 @@
+
+ 
+Okay, any talk that consistency in Apple's approval process for the App Store has improved definitely has to be put on hold at this point; first we had that BdEmailer situation that duplicates functionality (albeit shoddily) of the iPhone's own email capabilities, and now we have official confirmation that Google did a no-no when it slipped its voice-powered search through the checkpoint. The problem is that enabling the automatic voice detection requires use of an undocumented API call for the proximity sensor that Apple neither guarantees nor approves use of, meaning firmware updates can break it at will. In and of itself, that's not a huge indiscretion on Google's part since they're probably committed to keeping it up-to-date, but the real issue is that this violates an explicit rule of the App Store that bans the use of undocumented calls. Apple, guys, seriously: if you want to be jerks about what gets through and what doesn't, fine -- but at least do it consistently so it doesn't look like you're favoring companies run by members of your own executive board (or in the case of BdEmailer, companies that are doing a bang-up job of making your own products look better).[Via mocoNews]
+      
+
+ 

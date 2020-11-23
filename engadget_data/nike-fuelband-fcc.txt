@@ -1,0 +1,5 @@
+
+   All of these wrist-mounted fitness gizmos are pretty nifty, but we always wonder how they get those rigid circuit boards into such an unsuitable form-factor. Well, thanks to those scalpel-happy boffins at the FCC's underground bunker, wonder no more. Nike's FuelBand was wheeled in on a trolley and torn (quite literally) to pieces, and we felt we just had to share the pictures with you. A long peruse of the user manual revealed that the two metal extender links (for bigger-wristed enthusiasts) have to be swapped out using a sizing tool -- but the manual notes that if one isn't to hand, a bent paperclip will suffice. The documents also revealed that it's using a TI CC2564 Bluetooth radio and a stack provided by Stonestreet One. The monopole antenna is etched directly into the substrate of the flexible circuit board -- ensuring it'll bend around your bones and still operate. We also learned that once connected to your cellphone, it'll sit in a low-power "sniff mode," for two minutes and if there's no further activity it'll shut down. Of course, what's interesting to you (and us, honestly) is all the pictures in the second gallery, so get looking! 
+
+
+ 

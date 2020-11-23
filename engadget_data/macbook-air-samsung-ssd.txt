@@ -1,0 +1,12 @@
+
+
+Lost in the news of Retina-equipped, 12-inch MacBook was the arrival of all-new MacBook Air models with the latest Intel HD6000 graphics and CPUs. Apple also boasted that the 13-inch version has disk speeds "up to two times faster" than the last generation, and thanks to iFixit, we now know why. The bigger model packs a brand new 128GB M.2 x 4 SSD from frenemy Samsung -- which owns the PCIe SSD market at the moment -- giving it a stellar max read speed of 1,285 MB/s.
+
+
+
+
+That's twice as fast as the SanDisk-equipped 11-inch MacBook Air, which still cooks along at a mere 668MB/s. The good news is that the SSDs are one of the few replaceable parts, and you could actually swap in the faster part on the smaller Air. That's assuming you're feeling brave -- the MacBook air only rates 4 out of 10 on iFixit's repairability scale.
+
+[Image credit: iFixit]
+
+

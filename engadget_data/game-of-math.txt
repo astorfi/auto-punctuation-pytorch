@@ -1,0 +1,10 @@
+
+Tired of waiting for George R. R. Martin to finish the next book in the Song of Ice and Fire series? So is the University of Canterbury's Richard Vale: he's created a statistical model based on the series' previous tomes to predict what might be in the next book. Don't worry though, it's mostly spoiler free. Vale's analysis of Game of Thrones doesn't account for plot or foreshadowing -- it's strictly a numbers game.
+
+
+
+Martin's epic is known for telling each chapter from the perspective of a different starring character, rotating protagonists throughout the series. Vale's mathematical is focused on finding out who the final two books will be about, but not what those characters will be doing. It does prod a few lingering mysteries, however -- predicting that a character left to an ambiguous fate not only has a 60% chance of survival, but may be the starring character of the series' conclusion.
+
+It's a neat experiment, but Vale admits that it relies on a relatively small set of parameters -- new characters, settings or deaths could muck up the results, and the predictions really shouldn't be relied on as a sure thing. That doesn't mean it's not a neat experiment though, and besides: the project's resulting chart puts some of our favorite characters front and center. Check out Vale's full write up (and feel free to check his math) at the source link below.
+
+

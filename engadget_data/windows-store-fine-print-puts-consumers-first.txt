@@ -1,0 +1,6 @@
+
+ 
+
+
+	Digging into the Windows Store fine print reveals Microsoft's "consumer first" policy for the metro-style apps for next year's operating system. The company wants developers to make every app fully touch compatible, with every gesture working the same way as it does in Windows 8. It'll have to cater for every CPU architecture as well (or face having to tailor multiple editions) since users can install it on up to five machines. Video downloads are capped at 256Kb/s and audio at 64Kb/s to prevent apps maxing out the data caps on your plan -- if it wants any more, it'll have to politely ask for your permission. The only thing the company isn't offering to users is a returns policy, (except in countries where it's legally obligated to) but we can't have it all our own way, eh?
+ 

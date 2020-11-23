@@ -1,0 +1,19 @@
+
+
+In a classic case of "if we don't play my way I'm taking my toys and going home," electronic voting machine
+manufacturer Diebold has announced that it will no longer do business in North Carolina because the state refused to
+grant an exception that would let Diebold keep its source code secret. After more voting machine blunders in 2004
+(little things, like how it was discovered that even monkeys
+can hack Diebold gear), North Carolina passed a law that requires e-voting vendors to place their source codes in
+escrow as a precaution against future irregularities, meaning that the state is not even asking Diebold to reveal its
+code publicly. Nonetheless, Diebold claims that because their machines contain some Microsoft software, they don't have
+to right to release the code. Okay folks, which explanation sounds more reasonable: A. Diebold is willing to lose an
+entire state's worth of business in order to protect Microsoft or themselves on the off-chance of a successful lawsuit
+or B. Diebold is petrified that their code is so full of security flaws, and other "issues" that should it ever be
+scrutinized, the company would most likely go out of business? Now before you answer, remember once again that this is
+Diebold we're talking about here.
+
+
+
+
+ 

@@ -1,0 +1,5 @@
+
+ AMD is apparently getting ready to launch its new Phenom processor on November 19th, according to DailyTech. The chipmaker's media guide for the launch seems to have been leaked early, and it's got some interesting info in it regarding the Phenom and the next-gen Radeon. We already knew most of the Phenom deets, but it looks like the supporting RD790 chipset is also ready to go, along with three versions of the RV670 Radeon HD 3800 series. The low-end 3850 is actually a revised version of the existing Radeon HD 2900 with a die shrink from 80nm to 55nm, but the top-end Radeon HD 3870 is a new design with a 100MHz clock bump to 775MHz. All the cards feature support for Quad Crossfire and AMD's Triple Play Physics system, but don't feature any of the hardware video decoders that had been rumored. Unless something changes, we should be seeing all this stuff on the 19th -- which is probably when we'll know about pricing as well.
+      
+
+ 

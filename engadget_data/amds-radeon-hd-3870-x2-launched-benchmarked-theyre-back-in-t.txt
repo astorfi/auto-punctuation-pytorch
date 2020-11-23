@@ -1,0 +1,5 @@
+
+ 
+Holy Teraflops gamers, AMD just launched the Radeon HD 3870 X2. Their new flagship card previously known by its R680 codename features a pair of RV670 GPUs with CrossFireX built-in to a single card. According to HotHardware's performance testing, The 3870 X2 was "usually the highest performing single-card in the group." Yes, that group includes the NVIDIA GeForce 8800 GTX. Here's the rub though, according to HotHardWare: the X2's performance is determined by how well the card's drivers scale in a particular game -- a new game without appropriate support renders the card's performance to that of a single-GPU HD 3870. A problem initially demonstrated during their Crysis testing and later solved with a new set of AMD drivers. Still, as PCPer sums-up, the ~$449 3870 X2 meets or beats NVIDIA's best in today's most demanding DX9 and DX10 titles and should be on your "short list" if searching for the ultimate performance graphics card. Read -- PC Perspective Read -- Hot HardwareRead -- Press Release
+
+ 

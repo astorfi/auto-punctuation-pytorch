@@ -1,0 +1,8 @@
+
+ We've heard of using a Wiimote to handle home automation tasks, but building a device in order to create an automated Xbox 360 controller is another animal entirely. An intrigued and efficiency-minded individual set out to to achieve an additional 60 Xbox Live gamer points by trudging through 1,000 Death Matches and 1,000 Dark Ops rounds, all without him actually being there. Thus the xBot automator was born -- a robotic dictator that was programmed to simply hit the start and B buttons on a timed interval in order to progress through all the matches needed in order to snag the oh-so-coveted points. Essentially, the completely non-intrusive machine utilizes two rotational solenoids driven by a TTL (Transistor to Transistor Logic) controller, and while the actual programming steps were indeed a bit more in-depth, the creator isn't divulging all of his secrets just yet. So if you think you've got the DIY skills necessary to concoct one of these yourself, and would rather spend "around 10 hours" piecing together an automating machine rather than 40 (or more) hours in Perfect Dark: Zero, be sure to hit the read link for a few more deets on the whole process, and click on through for a live demonstration.[Via Digg]
+      
+
+ 
+
+
+ 

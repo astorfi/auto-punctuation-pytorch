@@ -1,0 +1,6 @@
+
+ 
+One obvious and debated question on a lot of potential buyers' minds: okay, I'm dropping nearly two large on this here machine, but will the external optical drive even work with one of my other laptops and/or desktops? The answer: no. Regular USB simply doesn't support the power draw an optical drive needs, which was evidenced as plugged the SuperDrive into a stock MacBook Pro and it came up bupkis. It wouldn't even let us insert a disk without forcing it down the drive's maw. Of course, it worked just fine on the Air. Seriously though, how many machines do you have that need an external optical drive, anyway?P.S. -For inquiring minds: yes, the USB port looks identical to your stock port. Apple is obviously just jamming some more amperage down the line.P.P.S. -No, this won't work with a powered hub.
+
+
+

@@ -1,0 +1,4 @@
+
+Spreadtrum certainly isn't a household name in the US, but Mozilla is less concerned with brand recognition than it is with delivering an ultra-cheap handset. The two companies have announced a new partnership that will see Spreadtrum building reference designs for Firefox OS phones with a target price of $25. (And no, we're not missing a zero there.) The heart of the effort is the SC6821, a Cortex A5-based chipset that supports WCDMA and EDGE networks, but not LTE. The platform includes WiFi, Bluetooth, cameras and FM radio, though touchscreen support appears to top out at 3.5-inch HVGA panels. The lack of 4G connectivity, older CPU design and low screen resolutions clearly mark this as a low-end initiative, but its one that will give it a major leg up in emerging markets like India where feature phones still rule supreme.
+
+

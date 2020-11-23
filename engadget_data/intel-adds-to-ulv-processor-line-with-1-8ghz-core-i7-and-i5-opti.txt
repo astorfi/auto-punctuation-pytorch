@@ -1,0 +1,7 @@
+
+ 
+
+Intel's so-called Ultrabooks may be a little way off into the distance at the moment, but the company isn't making you wait until its Ivy Bridge rollout to get a taste for ultraslim laptops with some real power inside them. A trio of new ultra-low voltage CPUs, each rated with a TDP of just 17W, has been added to the company's catalog, starting with the top-tier Core i7-2677M, whose pair of cores run at 1.8GHz by default but can be sped up to 2.9GHz when duty calls. Then there's the i7-2637M, which looks to only differ in clock speeds (1.7GHz default, 2.8GHz under Turbo Boost), and the i5-2557M that makes do with a 3MB L3 cache (1MB less than its i7 brethren) and a 1.7GHz / 2.7GHz speed range. All three 64-bit, 32nm processors also integrate a GPU (350MHz base clock, maxes out at 1.2GHz) within their walls, which is what makes their ascetic power consumption all the more impressive. OEMs should soon start splicing these new options into their next generation laptops, and while the obvious speculation centers around a MacBook Air refresh, CNET tells us the Core i5-2557M has already found a home in ASUS' upcoming UX21, a (purportedly) sub-$1,000 11.6-inch featherweight contender.
+      
+
+ 

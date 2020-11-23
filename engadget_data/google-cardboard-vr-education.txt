@@ -1,0 +1,43 @@
+
+ 
+
+I was standing on the surface of Mars. The rocky terrain was red and dusty, with nothing above it except the vast expanse of space. "Now if you look over here, this is where the Spirit rover landed," said a voice. An arrow emerged, pointing to a circle hovering over a sandy spot close to me. Yeah, okay, I wasn't really on Mars; I was in the Moscone Center in San Francisco. That voice belonged to a Google engineer, who was giving a small group of I/O attendees a brief tour of Mars through "Expeditions," a piece of VR software for educators. He was holding a tablet, talking us through the different points of interests, while everyone -- including me -- held up phone-carrying Cardboard VR viewers to their faces.
+
+
+
+
+
+
+Expeditions is the third VR-related announcement at this year's I/O, but it's arguably Google's strongest effort yet at mainstreaming it. Essentially a tool for teachers and other educators, a standard Expeditions kit has 30 phones and Cardboard viewers plus a tablet for the teacher, who acts as the tour guide. All of the devices are perfectly synchronized. There are already hundreds of places they can go: the Great Barrier Reef; Verona, Italy; and yes, Mars.
+
+Now, I'm no stranger to VR. I've strapped prototypes of the Oculus Rift, Samsung's Gear VR as well as the recently announced HTC Vive to my noggin and was blown away by the experiences on all of them. Which is why it's all the more incredible that all it took was a piece of cardboard, a couple of lenses and a phone, to replicate the same thing. Cardboard is cheap. An Oculus Rift? Not so much.
+
+But it wasn't until I tried out Expeditions that I understood the power of Google's Cardboard. It's bringing that same power of VR beyond just playing games and watching a movie. It's bringing it into the classroom. Education, not gaming, is what will make VR palatable to the masses.
+
+
+Until Cardboard, virtual reality has been largely inaccessible. The only ways to get into VR was either to get your hands on an Oculus Rift developer kit or one of Samsung's Gear VR headsets. Both cost hundreds of dollars -- heck, the consumer version of the Rift along with a VR-ready PC will likely cost upward of $1,500 -- which makes them out of reach of most consumers.
+
+And with the addition of Sony's Project Morpheus and the recently announced HTC Vive, it's clear that VR is becoming an important part of the tech landscape, with use cases far beyond just gaming. After all, Facebook has already said that one of the reasons it purchased Oculus was to explore new ways of communicating. But in order for VR to be part of our world, it needs to be easier and cheaper to access.
+
+"Our goal with Cardboard was really to make virtual reality accessible, affordable, easy and fun," said Clay Bavor, a VP of Product for Google. He heads up Gmail, Google Docs and Google Drive, which are arguably three of Google's most important products, but he's also the guy overseeing Cardboard. "Not only is it made of cardboard, [but] we also deliberately called it Cardboard," he said. "It's not meant as a joke. We just wanted to say, 'Hey, it's just cardboard,' you know? Anyone can get into it."
+
+
+Google made a few more announcements at I/O that aim at opening up VR to more people: a new Cardboard viewer that's compatible with the iPhone, a Cardboard SDK that supports both Android and iOS, plus a whole new Jump platform that lets anyone create and share VR videos. It even partnered with GoPro to make a 360-degree circular camera array just for that. The first player to support Jump? YouTube. You can't get much more mainstream than that.
+
+But the highlight is still Expeditions. During the keynote, Google showed it being used in a classroom, with kids staring in awe at what they saw before them. When I was a kid, I had ambitions of being an astronaut -- what little kid didn't dream of flying to the stars? Still, I never really thought it was possible. But with a VR viewer that showed me what it's like to walk on Mars? Maybe my young mind would've been swayed. Maybe after taking this same virtual field trip, hundreds of other young kids will be inspired to be aeronautical engineers and rocket scientists.
+
+"What's been really interesting is to see how teachers are using it," said Bavor. The obvious use case for Expeditions is for a marine biology class to take a tour of the Great Barrier Reef, for example, but Bavor has also heard of an English teacher who brought her class to Verona because that's where Romeo and Juliet takes place. Or a math teacher who had her kids tour the Great Wall of China in a lesson on estimation, asking them to guess how many bricks there are in the wall.
+
+
+Bavor tells me that Google also took a GoPro Jump camera to the American Museum of Natural History, filming exhibits like the hall of mammals and the blue whale room, so that kids can have field trips to the museum without ever leaving their classrooms.
+
+With the emphasis on low-cost materials and educational use, Google is enabling VR adoption on a scale that no one else could even imagine. You can't expect to hand out 30 Oculus Rift or Gear VR headsets in classrooms. It would break the bank and is not something that most schools can afford. But a piece of cardboard? Anyone can manage that. Heck, you could even have the kids make the viewers themselves out of stuff in the recycling bin and make that part of the experience.
+
+A Cardboard viewer will very likely be someone's first VR experience. And that's an amazing thing.
+
+"Cardboard is about VR for everyone," said Bavor. And Google is just getting started. "This is not the end of our ambitions. We have plans far beyond what we showed."
+
+So, is a VR viewer made of cardboard pretty silly? Sure. But is it also perhaps one of the most interesting things Google has ever done? Absolutely.
+
+
+ 

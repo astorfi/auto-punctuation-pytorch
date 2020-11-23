@@ -1,0 +1,6 @@
+
+ 
+So the ROM included with the Windows Phone 7 Developer Tools refresh that was launched this week (to get it up to speed with the final release of Visual Studio 2010) has already been unlocked and torn apart over on xda-developers, and as you might expect, there are quite a few changes and additions in here versus what we've seen in the previous release. The most notable change appears to be the inclusion of Office, but we've also got dialer and in-call user interfaces, call history, call notifications (using Windows Phone 7's standard notification paradigm, of course), and a method for uninstalling apps. Clearly, we're still a long way from going final with this thing -- and fortunately, Microsoft has given itself basically the rest of the year to get it good and solid. Andale, ladies and gentlemen.
+      
+
+ 

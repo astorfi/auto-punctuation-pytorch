@@ -1,0 +1,6 @@
+
+ 
+AMDs Bulldozer is the company's anticipated high-power rival to Intel's Core i7 and the company just released a slew of new information about its internals. Now, pay attention 007 -- the "Zambezi for Socket AM3+" chips will include four modules, each with two cores and 2MB of L2 cache. Operating above these is a single Northbridge with 8MB of L3 cache to direct data between two 72-bit DDR3 channels and 4 x 16-bit receive / transmit HyperTransport links. Finally, the "Turbo Core" increases the whole chip's click speed when taxed or kills power to idle cores when it's not. Hustle on down to the source link to see the slides yourself.
+
+	[Thanks, Bertrandsbox]
+ 

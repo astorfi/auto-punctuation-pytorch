@@ -1,0 +1,14 @@
+
+ 
+
+To complement its new version of OS X, Apple's also improved its native web browser, Safari. Alongside a cleaner homepage design, there's now easier access to your Reading List and a new shared link function that'll tie into sites that others have sent to you. On the technical side, there's javascript improvements, a new shared memory resource cache, plus power-saving improvements and background tab optimizations. According to Apple, the new version will apparently use one third of the energy it takes to power Firefox and significantly bests even Chrome on Javascript benchmark tests.
+
+
+Better still, iCloud keychain will now hold onto your passwords, credit cards and WiFi logins -- all within Safari. In fact, the browser will even auto-suggest passwords. "A super-secure one," apparently, but if you're using Apple's web browser (with the new iCloud keychain support) forgetting it won't even be an issue.
+
+
+Follow all of our WWDC 2013 coverage at our event hub.
+
+
+
+

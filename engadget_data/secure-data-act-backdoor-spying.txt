@@ -1,0 +1,15 @@
+
+While the FBI thinks that all communication tools in the US should have backdoors for law enforcement, a new Senate bill has proposed the exact opposite. The Secure Data Act, introduced by Senator Ron Wyden, would prohibit the government from forcing companies like Google and Apple to grant access to encrypted data. A different bill to curb the NSA and other agencies (the USA Freedom Act) was denuded by the House of Representatives, while a recent vote allowed the Feds to carry on with massive surveillance. However, the Secure Data Act would specifically bar US agencies from forcing private companies to "design or alter their commercial information technology products for the purpose of facilitating government surveillance."
+
+
+
+Wyden's bill cites some familiar problems with backdoors that emerged with the mass of documents revealed by Edward Snowden. The main point is that such measures have the effect of weakening security overall. For instance, it cites a backdoor placed by law enforcement in Greece to monitor cellphone calls, that was later exploited by third parties to listen in on government officials. It also contends that such security exploits hurt innovation, since companies have no incentive to create new security tech if they're forced to deliberately open holes. Finally, it cited the loss of trust by the public, both stateside and abroad, in US products and services.
+
+
+In light of recent revelations like the NSA's AURORAGOLD, Apple, Google and others recently started encrypting mobile phone data by default. That prompted a strong reaction from FBI director James Comey, who said that law enforcement can't keep up with the latest communication tech and apps (though he couldn't cite any cases where encryption thwarted law enforcement). In any case, members of Congress from both parties said they'd never pass a bill giving the FBI unfettered access to encrypted data.
+
+Such security exploits hurt innovation, since companies have no incentive to create new security tech if they're forced to deliberately open holes.
+
+The bill makes an exception for products and services already covered by the Communications Assistance for Law Enforcement Act (CALEA), and builds on a bipartisan effort to limit NSA backdoor spying. It sounds well and good, but whether it'll survive the House and Senate is another story -- the US Freedom Act is still cooling its heels in the Senate.
+
+

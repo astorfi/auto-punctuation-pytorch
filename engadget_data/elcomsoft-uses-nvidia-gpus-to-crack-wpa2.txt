@@ -1,0 +1,6 @@
+
+ 
+Elcomsoft has been using NVIDIA's CUDA GPU computing architecture to accelerate its Distributed Password Recovery tool for a while now, but it looks like the latest version of the cracking utility takes it to the next level -- it can break a WPA2 password using two GeForce GTX 280-based boards 100 times faster than with just a CPU. It's still a brute-force crack, but only a few packets need be sniffed, and the GPU accelerates the algorithm used to generate keys significantly -- even laptop-grade 8800M and 9800M GPUs speed things up 10 to 15 times. We wouldn't worry too much about wardrivers with trunk-mounted bladeservers going nuts, however -- the base version of the software costs $599, and things ramp up to $5,000 pretty quickly.[Via HotHardware]
+      
+
+ 

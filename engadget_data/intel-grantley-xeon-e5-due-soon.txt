@@ -1,0 +1,14 @@
+
+
+AMD and Intel have been in a race to stuff their highest-end processors with as many cores as possible, and it appears that this one-upmanship isn't about to end any time soon -- much to your advantage. As Macworld UK notes, Intel is  close to releasing a new range of Xeon E5 processors where more cores (and thus more parallel computing power) is par for the course. According to ChipLoco's leaked roadmap, even the lowest-spec chips start with six cores versus today's four; the best model touts a whopping 18, which should help heavy-duty systems juggle a huge number of simultaneous workloads.
+
+
+
+          
+ 
+ 
+ You may get to see this new Xeon in action, too. The new E5 is expected to launch on September 9th in Dell Precision workstations, and it's also a direct upgrade to the chips used in the Mac Pro. Sadly, you likely won't find an 18-core desktop in an Apple Store any time soon -- that processor will be too hot and power-hungry -- but it's entirely possible that a 14-core Mac will show up. Whichever platform you prefer, you shouldn't have to wait for much longer for a dream 4K video editing rig.
+
+       
+
+ 

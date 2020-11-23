@@ -1,0 +1,7 @@
+
+Microsoft sits between a rock and a hard place when it comes to privacy -- it can't reveal more about FISA requests, but it's also accused of assisting with NSA eavesdropping. The company is trying to settle both matters today, starting with a call on the US Attorney General for help. Microsoft hasn't had a response to its June 19th request to publish aggregate security request data, and it wants the Attorney General to directly intervene by legalizing these disclosures. The government official hasn't publicly acknowledged the request so far, although we weren't expecting an immediate answer.
+
+
+At the same time, Microsoft is expanding its denials of The Guardian's recent reporting that it facilitates large-scale NSA snooping. Along with insisting once more that it only offers specific information in response to legal requests, the firm claims that its supposedly eavesdrop-friendly actions were innocuous. Microsoft was only moving Skype nodes in-house rather than simplifying the NSA's access to audio and video chats, for example. It's doubtful that the public position will completely reassure doubters given the veils of secrecy surrounding the NSA and its collaborators, but the crew in Redmond at least has a full statement on record.
+
+

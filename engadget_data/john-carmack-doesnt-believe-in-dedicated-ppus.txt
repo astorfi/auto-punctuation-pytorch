@@ -1,0 +1,5 @@
+
+ John Carmack has always been vocally opposed to the concept of dedicated Physics processors for gaming PCs, but his latest statement on the topic really hammers the nail in. Talking to Boot Daily on the topic of Intel's QX6850 CPU, Carmack states that future multiple core CPUs will be able to take the strain of physics processing. Carmack does have a fair degree of interest in this area, with Ageia's PhysX card being supported on the Unreal Engine 3 platform, which happens to be developed by iD software's rival, Epic Games. If there's one thing we can be sure to garner out of this statement, it's that iD software's new gaming platform iD Tech 5 won't be one that favors dedicated physics processors.[Via Digg]
+      
+
+ 

@@ -1,0 +1,16 @@
+
+ 
+Don't look now, but Microsoft is apparently readying a Vista Performance and Reliability Pack for release, and while it's certainly not available through Windows Update just yet, that doesn't mean it's not hiding elsewhere. Reportedly, the aforementioned pack and the Vista Compatibility and Reliability Pack will institute a number of welcome fixes and performance increases in a variety of areas, and though the list is indeed lengthy, a few notables include:
+
+Increased compatibility with many video drivers. 
+Improved visual appearance of games with high intensity graphics. 
+Improved quality of playback for HD DVD and Blu-ray disks on large monitors. 
+Improved reliability for Internet Explorer when some third party toolbars are installed on Vista. 
+Improved reliability of systems that were upgraded from XP to Vista. 
+Resolves an issue where creating AVI files on Vista may get corrupted. 
+Improves the performance of Vista's Memory Manager in specific customer scenarios and prevents some issues which may lead to memory corruption.
+
+So if all the red flags prove correct, Vista users can eagerly await an official release of the updates, or if you're the adventurous type, you can bypass the whole "waiting" thing altogether and get your download on immediately.[Via TechSpot]
+      
+
+ 

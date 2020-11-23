@@ -1,0 +1,8 @@
+
+ 
+Remember EVGA's seven-GPU motherboard monstrosity, the W555? That experimental beast of a board just got declassified -- and given immediate launch orders. Under the new "Classified SR-2" callsign, the board's layout has hardly changed since CES (though the heatsinks certainly got a makeover) but the big news here is that each of its two CPU sockets will support those fancy new six-core Xeon processors. As you're well aware, two times six is twelve -- and since each of the Xeon 5600's cores can handle 2 threads, you're looking at the basis for a 24-threaded powerhouse for mondo multitasking performance. Factor in enough slots for 4-way SLI, CrossFireX and 48GB of RAM, and it's not hard to figure out why the red-and-black HPTX (15- x 13.6-inches!) creation commands a $600 price point. The only questions are how much a full system will deplete your wallet, and how many fuses your house will blow after pressing the power button.
+
+Correction: Just a note that Intel's Core i7-980X isn't supported here, but the new Xeon 5600 CPUs are.
+
+
+

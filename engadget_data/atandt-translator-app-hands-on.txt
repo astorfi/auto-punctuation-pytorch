@@ -1,0 +1,9 @@
+
+ 
+ Translation apps aren't exactly the newest or sexiest thing in the world of technology, but we've got to hand it to AT&T for whipping up a rather impressive demo. The company showed off a next-gen version of its AT&T Translator app, which may one day allow people to communicate in real time regardless of their spoken language. The app uses the carrier's new Watson Speech API, in this case via a VoIP call on a pair of iPads, to not only transcribe dialog, but translate it from English to Spanish (and vice-versa), then play it back in the target tongue using a computer generated voice. This isn't like the Google Translate app on your phone -- the translation happens in near real time, with only a slight latency as your words are fed through the system. The demo wasn't without its hitches (the room was noisy and filled with bloggers totting wireless devices), but it went more or less as planned, and our gracious hosts were able to complete a call requesting a taxi cab. One day AT&T hopes to make this a standard feature of its services, eliminating the language barrier once and for all. To see the app in action check out the video after the break.
+
+
+
+
+  
+ 

@@ -1,0 +1,9 @@
+
+ 
+To hear most mobile companies tell it these days, you'd think that NFC (or near field communications) is only for mobile payments. That's not the case at all, of course, and a group of researchers at Stanford's MobiSocial lab have now thrown a few new ideas of their own onto the table after getting a pair of Nexus S phones to play with. After first making a few tweaks to overcome some of Gingerbread's limitations -- it only uses NFC for reading tags -- they were able to develop a few social-minded applications that make use of the P2P functionality possible with NFC. That includes one example that lets you share photos simply by pressing two phones together, and a second that lets two phones share an application -- collaborative whiteboard, in this case. Unfortunately, those aforementioned tweaks to Android mean you can try out the apps yourself just yet, but the researchers are hopeful that similar applications will eventually be supported by Android and other platforms. Head on past the break to check them out on video.
+      
+
+ 
+
+
+ 

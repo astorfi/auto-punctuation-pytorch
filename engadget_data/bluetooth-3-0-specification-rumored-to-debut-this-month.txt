@@ -1,0 +1,8 @@
+
+ We've seen no official word from the Bluetooth Special Interest Group, but phonescoop has it that the Bluetooth 3.0 specification is just about ready for prime time. Reportedly, the spec will feature "dramatically increased speeds, allowing for the transfer of large video files, music collections and photo libraries wirelessly within seconds." BT 3.0 should also include a newfangled ability called Enhanced Power Control (EPC), which will supposedly "reduce the occurrence of disconnects that can be caused by actions such as putting a phone in a pocket, backpack, briefcase or purse." We're told to expect a whole boatload of details, along with a list of chip makers already lined up to provide support, on April 21st.Update: It's official -- April 21st is a go. Head past the break for the official verbiage.
+      
+
+ 
+
+On April 21, the Bluetooth SIG will officially announce Bluetooth 3.0 – it's Bluetooth, faster, via 802.11. The speed of Bluetooth 3.0 will expand home entertainment and CE use cases in these under-penetrated markets. Transferring an entire music library, a complete DVD, a vacation's worth of photos, all within seconds at the touch of a button and wirelessly will now be possible. And while speed is the coolest part of 3.0, there's also good news for the headset and handset crowds – a new feature called Enhanced Power Control reduces the incidence of disconnects caused by movement such as placing a phone in a pocket or purse. On the technical side, it is a Generic Alternate MAC/PHY (AMP) that will enable Bluetooth profiles to take advantage of 802.11 speeds. The 802.11 Protocol Adaption Layer (PAL) will enable the Generic AMP feature to be used with an 802.11 radio.
+ 

@@ -1,0 +1,6 @@
+
+ 
+Sending a webpage from an HP Pre 3 to a Touchpad is as easy as tapping them together, a technique we've not previously seen -- but something that's now possible in the latest flavor of Gingerbread: Android 2.3.3. This adds some expanded functionality for working with the NFC chip found in the Nexus S (and, presumably, others soon) enabling, among other things, NFC to work with Bluetooth. As demonstrated a few weeks ago, the NFC chip can be used to send networking and establish a connection when the two phones touch, so no more manual pairing required, just sweet tapping and sharing.
+      
+
+ 

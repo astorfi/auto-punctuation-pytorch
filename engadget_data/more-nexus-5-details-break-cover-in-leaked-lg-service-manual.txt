@@ -1,0 +1,10 @@
+
+It appears that nothing about the hardware of Google and LG's next Nexus smartphone will be left to the imagination by the time it releases. Android Police just got its mitts on what's claimed to be a 281-page draft of a service manual for the DE21. Surprise! The product specs match up nicely with the DE20 that went through the FCC a month ago -- and then some. This leak reveals the best shots yet of both the internals and the exterior, as well as a through listing of every spec. To refresh your memory, we've known those to include a 4.95-inch display, a 2.3 GHz Snapdragon 800 processor, 2GB of RAM, inductive charging and NFC. This particular model's LTE bands (1, 3, 5, 6, 7, 8 and 20) are optimized for Asia and Europe.
+
+
+Let's move on to the notable new bits. There's an eight-megapixel camera with OIS on back and a 1.3-megapixel shooter on the front. Storage is capped at 32GB and the battery tops out at 2300 mAh. The IPS display has a 1080p resolution and screen tethering is supported via Slimport (just like the Nexus 4). While it's packing the usual array of sensors for a phone (gyroscope accelerometer, compass, proximity and light), there's also one that detects pressure. Lastly, there's the obligatory notification light and a Micro SIM slot. Be sure to be slightly wary of all this, however -- as Android Police notes, there are some oddities in the document (Bluetooth is now listed as 3.0 instead of 4.0, for instance). You'll find the full manual embedded after the break and you can hit the source link for further insight. We'll update you if we discover any other juicy bits.
+
+
+
+LG D821
+

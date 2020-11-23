@@ -1,0 +1,7 @@
+
+ Now, we've all been concerned about recent updates to the iPhone dev agreement -- you haven't been sleeping and your parents are, quite frankly, worried for your sanity. And it's a heady subject: "what is the fate of PhoneGap in the wake of the iPhone OS 4 beta SDK?" Well, worry no more, little one -- it seems that Jesse Macfadyen, a contributor to the project, pinged Apple to make sure that users of the mobile development platform wouldn't find their apps rejected simply for using the tool. As you remember, the agreement states: "Applications must be originally written in Objective-C, C, C++, or JavaScript as executed by the iPhone OS WebKit engine" (and of course HTML and CSS are cool), so PhoneGap -- which indeed sticks to HTML, CSS and Javascript -- is totally safe. Now developers can get back to having their apps rejected for any number of other silly reasons.
+
+[Thanks, Bea]
+      
+
+ 

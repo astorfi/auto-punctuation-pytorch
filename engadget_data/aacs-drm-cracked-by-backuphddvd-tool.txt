@@ -1,0 +1,14 @@
+
+ 
+
+
+Can it be? Is Hollywood's new DRM posterchild AACS (Advanced Access Content System, see more here) actually quite breakable? According to a post on our favoritest of forums (Doom9) by DRM hacker du jour muslix64, his new BackupHDDVD tool decrypts and dismantles AACS on a Windows PC. Just feed the small utility a crypto key (it comes bundled with keys for a few popular HD DVD titles, with the promise of more on the way), and it'll dump the video right off the disc onto your hard drive, supposedly playable in any HD DVD compatible player. If true, this would instantly become the DeCSS of high def optical (where you at, Jon?), as AACS is the copy protection scheme used not only by HD DVD, but by Blu-ray as well. Code and source posted in read link, let us know what you find!Note: We're working on testing this ourselves, we'll report back with our findings asap.[Thanks, Max and Adam]Update: Well, it definitely does something. Click on for some pics and our experiences using the app.
+      
+
+ 
+
+So we have our Xbox 360 HD DVD plugged into our system with the Toshiba HD DVD / UFS 2.5 file system drivers going on, and are able to read the directory contents (drive G:).We pulled the TRAILER.EVO file down and named it encrypted_TRAILER.EVO. We then ran BackupHDDVD on the disc (Full Metal Jacket).We quit after we hit TRAILER.EVO, since that's what we wanted to compare against.We then ran a binary compare against the two. You'd think an unencrypted movie file would have more than just a few hex offsets changed by the unencryption process, but we haven't yet been able to test playing back the files, namely because WinDVD and PowerDVD both totally blow as demos. More shortly.
+
+       
+
+ 

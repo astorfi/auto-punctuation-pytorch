@@ -1,0 +1,6 @@
+
+ 
+This Wii hack set-up looks a bit dubious, at least at first glance, but may hold something promising for mod maniacs. Textb00k posted a video of his modded Wii playing a backup of Red Steel where he ditches the trusty modchip for a couple wires soldered to the drive board and routed to his PC's parallel port. The setup (PC only) also requires a patching program like Syndicate or WAB's "ISO Loader" or "WABModCheap" to make sure the Wii's firmware allows backups to load. He stresses that the video's purpose is to illustrate a cheap and easy hack alternative (about $3 and a trip to Radio Shack) to a modchip, but we say do it at your own risk, and if you're a Mac user, please return to playing your Wii as is. [Via Digg]
+      
+
+ 

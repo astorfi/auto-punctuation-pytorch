@@ -1,0 +1,21 @@
+
+Leap has been accepting pre-orders for its motion controller for some time now, and has been promising a ship date of May 13th since February, but there's now been a slight change of plans. The company has confirmed that it's delaying those shipments until July 22nd. In a letter sent to pre-order customers (included after the break), Leap CEO Michael Buckwald explains that the company has already manufactured over six hundred thousand devices and delivered twelve thousand to developers, and says "the reality is we very likely could have hit the original ship date." But, he adds, "it wouldn't have left time for comprehensive testing." 
+
+That's now set to begin in the form of a beta test that will start in June, which will see developers who've already received a unit get a feature complete product, and other non-developers invited to join as well. According to Buckwald, that expanded beta test is "the only way we felt 100% confident we could deliver a truly magical product that would do justice to this new form of interaction." He'll be participating in an open Google Hangout tomorrow to discuss the move further -- specific details on it are promised to be coming soon.
+
+
+Show full PR textRelease Date Update
+
+I wanted to reach out to update you on the status of our ship date. After a lot of consideration, we've decided to push back the date and will now be shipping units to pre-order customers on July 22nd.
+
+This is not a decision we take lightly. There are hundreds of thousands of people in over 150 countries who have pre-ordered Leap devices, some as long as a year ago. These people are part of our community and there is nothing more important to us than getting them devices as quickly as possible.
+
+We've made a lot of progress. When we first started taking orders back in May we were twelve (very tired) people in a basement. Now we are eighty (although still tired and possibly still in a basement). We've manufactured over six hundred thousand devices and delivered twelve thousand Leaps to amazing developers who are building applications that let people do things that just wouldn't have been possible before. These developers have given us great feedback that we've used to make huge improvements to the stability and polish of the product. We're really proud of Leap as both a company and a product.
+
+The reality is we very likely could have hit the original ship date. But it wouldn't have left time for comprehensive testing. This will come in the form of a beta test that will start in June. We will give the 12k developers who currently have Leap devices access to the feature complete product including OS interaction (today developers only have access to the SDK). We will also invite some people who are not developers to join the beta test.
+
+Ultimately, the only way we felt 100% confident we could deliver a truly magical product that would do justice to this new form of interaction, was to push the date so we would have more time for a larger, more diverse beta test.
+
+I really appreciate your patience. I know it's been a long wait. Everyone that works at Leap is working tirelessly to make sure that wait is worth it. Thanks so much for your help and support.
+
+

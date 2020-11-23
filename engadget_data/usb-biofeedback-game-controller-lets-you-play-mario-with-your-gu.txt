@@ -1,0 +1,11 @@
+
+ 
+
+
+	Those gun-show tickets you've been offering out to everyone (that nobody ever takes) can suddenly do a lot more, thanks to Advancer Technologies. It's developed an Arduino-based plug-and-play bio-feedback game controller that uses EMG (electromyography) sensors to monitor the electrical activity in your skeletal muscles and turn them into game controls. For example, a bicep twinge represents jump, a gripped fist means run forwards -- as long as you've sufficient definition for those two to be distinctive. Check out the must-see muscle action after the break, or see how it's done at the source link.
+
+	[Image courtesy of Dreamworks]
+ 
+
+    				Show full PR text  Play Video Games Using Biofeedback 				Biomedical company develops muscle sensor based computer game controller; releases construction instructions to cultivate next generation of great minds and ideas.  Raleigh, NC, December 15, 2011 – Advancer Technologies has developed a plug-in-play USB device that harnesses the power of electromyography (EMG) to allow players to directly control computer games with their muscles. This technology is demonstrated in their latest video, in which they navigate their way through the first level of the classic Nintendo game Super Mario Brothers 3 using only the signals generated from their muscles. You can now make one for your own by going to Instructables.com and working your way though the tutorial. In these illustrated instructions, Advancer Technologies goes through each step in detail to reproduce and program this remarkable controller. 				Founded in 2010 and located in Raleigh, NC, Advancer Technologies is a small company devoted to developing innovative game-changing biomedical and biomechanical technologies. One of their core aspirations is to help cultivate and educate the next great minds and ideas in the field. They seek to accomplish this auspicious task by posting informative step-by-step tutorials and videos on their innovative technologies. To learn about Advancer Technologies and see more of their exciting projects in biomedical and biomechanical technologies, visit www.advancertechnologies.com.  
+ 

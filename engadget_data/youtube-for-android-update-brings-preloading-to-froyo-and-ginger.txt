@@ -1,0 +1,4 @@
+
+ Just because your Android hardware hasn't been upgraded to the most recent (or, next to the most recent) version of the OS doesn't mean you have to miss new features. Google has shipped a new version of its YouTube app that brings the preloading feature we saw arrive on ICS and above devices back in June to Gingerbread and Froyo. You'll still have to be online to watch preloaded videos from your subscriptions or watch later list, but they precache while you're on WiFi and plugged in so you don't have to wait through buffering to show someone Gangnam Style at the bus stop. Otherwise, the initial Watch page has changed slightly, there are more channels in the Channel Store and you can also queue up videos to play later on any YouTube-enabled TV (Google TV, PS3 etc.) device you've paired with your mobile.
+
+

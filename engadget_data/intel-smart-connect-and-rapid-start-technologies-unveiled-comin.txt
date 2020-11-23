@@ -1,0 +1,7 @@
+
+ 
+
+As part of its keynote at Computex today, Intel unveiled a pair of new sleep-related technologies, though funnily enough, neither of them is particularly boring. Smart Connect checks up periodically on web apps you have open while your computer is in sleep mode -- meaning that email clients and in-browser web apps like Twitter and Facebook will update themselves without the need for you to flip the computer on in full. Updates will be ready and waiting for you when you get back. Rapid Start is a new hibernation mode that can resume within 5 to 6 seconds and can remember your computer's state with zero power. Though, admittedly, the zero-power operation doesn't look like it can be maintained for too long, the hibernation itself can keep your computer going for up to 30 days. Pretty neat stuff. It's all coming to Sandy Bridge laptops with Windows 7 soon, with widespread availability promised by the holidays.
+      
+
+ 

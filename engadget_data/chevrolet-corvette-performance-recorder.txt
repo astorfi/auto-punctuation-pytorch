@@ -1,0 +1,18 @@
+
+Chevrolet spent some time before CES showing us how it plans to offer Corvette owners a new instrument to hone their track skills: the Performance Data Recorder (PDR). The system, which was designed with British auto engineering company Cosworth, will begin shipping in 2015 Corvette Stingrays as a factory add-on. In its simplest form, the PDR captures video with user-selectable levels of vehicle telemetry overlaid on the 720p output. In its most complex, the session data can be dissected by the included Cosworth Toolbox software on your PC.
+
+
+The PDR consists of three main bits: audio and video recording, telemetry capture and an SD card slot in the glove compartment where the data is sorted. The driver then selects one of four modes: Track, Sport, Touring or Performance and with the click of a button on the car's 8-inch display, sets the start/finish line and begins recording the lapping session. Once started, the system starts grabbing info from a dedicated GPS receiver that captures data points five times more often than a normal GPS, a 720p camera mounted at the top of the windscreen begins recording and then hooks into the car's Controller Area Network (CAN) for access to all the vehicle's performance data. During our time in the driver's seat, we used Track mode as it records the most metrics including speed, throttle position, brake force, rpm, g-force, lap time and even a location-based map. Once you come to a stop, you can quickly replay the video in-car or take it offline and examine every nuance of the drive on your desktop. 
+
+
+
+
+
+
+
+When loaded in Cosworth Toolbox, the data is superimposed on a Bing map of the track and can be compared to a reference lap in real time to help find where you're losing precious seconds with corner traces, vehicle speed and cornering forces. Obviously, the PDR won't sell Corvettes -- they do that perfectly well all by themselves -- but for a novice or pro driver looking to help improve their skills, it seems Chevrolet has put together a very compelling suite of tools.
+
+
+
+Billy Steele contributed his driving skills to this report. 
+

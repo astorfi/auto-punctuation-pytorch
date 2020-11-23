@@ -1,0 +1,8 @@
+
+AMD has already shown what its mobile Richland APUs can do, and it's now ready to reveal their desktop equivalents' potential. The company's new, full-power A6, A8 and A10 Elite processors are more evolutionary bumps than overhauls, but they still have a few clear advantages over last year's Trinity chips. Along with a bump in Turbo Boosted frequencies to between 4.1GHz and 4.4GHz (3.5GHz to 4.1GHz normally), the updates ship with Radeon HD 8000 video and can handle speedier DDR3-2133 memory (on the A10). Wireless is just as important as it is with the firm's newest mobile processors: the desktop Elites improve streaming games to other devices using Splashtop, with relatively little lag when modern AMD processors are on both ends.
+
+
+As for performance? AMD didn't have the luxury of comparing against Intel's Haswell chips at the time it gave us benchmarks, but it did claim big gains over Ivy Bridge in both general-purpose computing and gaming. A 4.1GHz A10-6800K is up to 3.3 times faster in OpenCL than a 3.2GHz Core i5-3470, and games like Bioshock Infinite are playable at 1080p (if barely) where they're unusable with the HD 3000 graphics of Intel's CPU. Performance boosts over Trinity are a more modest eight to 21 percent, however. If you want to know how well the Elite line fares in the real world, it won't take much effort to find out. AMD is shipping its processors this month, at very frugal prices that range from $69 to $142. 
+
+
+

@@ -1,0 +1,7 @@
+
+ 
+
+Did you hear the news? Apple "resurrected" the LP! It turns out that a complete reversal of millions of music lover's listening habits has been accomplished by throwing some images, videos, interviews, and DRM-free 256Kbps AAC audiofiles into a WebKit package playable in iTunes. OK, so maybe we are a little jaded -- our busy 21st century lives generally don't afford us the time to stare glassy-eyed at our computer screen (any more than we have the time to stare glassy-eyed at 12-inch album covers while sitting on the floor of our incense-soaked Haight-Ashbury crash pads). But if you're morbidly curious about the inner workings of the new iTunes LP format, an experience accomplished via HTML 4.01, CSS and JS, hit the read link for the down-and-dirty tear down from web developer Jay Robinson. And who knows? You just might learn something.
+
+[Via Daring Fireball]
+ 

@@ -1,0 +1,5 @@
+
+ 
+ Microsoft has been going into very exacting detail as to how Windows 8 works, but one area it hasn't explored much is what happens before you even see the Start screen. As user experience manager Chris Clark notes, the days of mashing F8 repeatedly to reach a pre-boot configuration are (mostly) over: you can invoke it either through an "advanced startup" in settings, through Start menu shortcuts or, if your PC is truly sick, let it show automatically. At least on systems blessed with UEFI instead of an aging BIOS, you'll get a lot more to tinker with as well, including going straight to the command prompt, recovering from a system image or booting from external storage. The emphasis on choosing your environment before you hit the power button is virtually necessary. A Windows 8 PC with a solid-state drive leaves just a 200-millisecond slice of time for any user input, and Microsoft would rather not have users caught in an infinite loop of restarting their systems as they unsuccessfully try to boot from USB drives. You'll likely discover the pre-boot space first-hand when the OS ships later this year, but for now you can check the source for more.
+
+

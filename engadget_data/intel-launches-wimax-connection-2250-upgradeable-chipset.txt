@@ -1,0 +1,5 @@
+
+ More WiMAX news out of this week's big WiMAX World conference in Boston, with Intel following Nortel's lead in announcing some speedy new next-gen wireless gear. The company's just unveiled the Intel WiMAX Connection 2250, which is apparently the first system-on-chip able to support both fixed and mobile WiMAX networks, as well as all global WiMAX frequencies with the aid of Intel's  discrete tri-band WiMAX radio. The chip will initially ship only with support for fixed 802.16-2004 WiMAX, however, an over-the-air firmware upgrade will magically endow it with mobile 802.16e-2005 support. Not one to waste any time, Intel's announced that Motorola will be integrating the chip into its CPEi 200 Series of  WiMAX customer premise equipment, with "several other" manufacturers also expected to churn out Connection 2250-based products in 2007.[Via WiMax Networking News]
+      
+
+ 

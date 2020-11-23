@@ -1,0 +1,5 @@
+
+ The more cells you can pack onto a NAND chip, the cheaper the storage, so we're excited about Hynix's recent announcement of triple-level-cell NAND flash. You might have noticed that MLC-based SSDs are cheaper than SLC units, and TLC keeps the trend alive -- Hynix says the cost of TLC production is some 30 percent lower than current chips. On top of that, the 32GB chips themselves are 30 percent smaller than current NAND chips, meaning device manufacturers will be able to cram more storage into our PMPs and phones. We'll have to wait a little while though: production is going to ramp up in October, and Hynix hasn't committed to using the new chips in SSDs quite yet.
+      
+
+ 

@@ -1,0 +1,12 @@
+
+  
+ The coolest thing at Google I/O this year isn't a cheap tablet or a pair of overpriced glasses or even a killer keyboard. It is, believe it or not, an alarm clock. But not just any alarm clock -- this is an alarm clock with potential. What you see above, and demonstrated in the video after the break, is the gadget that was handed out to attendees who went to learn about the Android Accessory Development Kit. It has an array of RGB LEDs on the front which it can use to display simple numerals and digits, but thanks to a bevy of sensors -- and plenty of connectivity options -- that's just the beginning. USB? Check. NFC? Definitely. Accelerometer, colorimeter, magnetometer, barometer, hygrometer, thermometer? Yes, all that and more.
+
+ What starts out as an oddly shaped clock held together only with magnets has the potential to be hacked into something truly amazing -- and that's the point. With this, developers have what they need to try out all sorts of crazy ideas relying on a wide assortment of sensors. It's an empowering collection of abilities and, when a dev finds some combination that works, they can turn around and spin that into something new. We're very eager to see what eager engineers do with their ADK demo units, but for now you can see what it can do right out of the box in the video below. 
+
+
+
+
+ 
+
+ 

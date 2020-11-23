@@ -1,0 +1,4 @@
+
+ Despite all the nightly builds of CyanogenMod 10.1, there hasn't been much of anything definitive to hang our hats on. There's at last some sense of reliability now that Milestone 1 versions have hit the servers. Most Nexus devices, as well as swaths of Samsung's Galaxy S and Galaxy Tab 2 ranges, can get the unofficial Android 4.2 build for themselves. The M1 code is deemed "mostly stable" and good enough for daily use, although that's relative -- it's not yet to the level of a fully stable build, let alone factory firmware. If you only needed fewer risks than before, though, the downloads and details await at the source links.  [Thanks, Rashid]
+
+

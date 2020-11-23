@@ -1,0 +1,5 @@
+
+ When a company cuts 40 percent of its transistors from an upcoming processor, one question comes to mind: why? According to ExtremeTech, AMD issued an update stating that its Bulldozer eight core / four module CPU would feature 1.2 billion transistors, as opposed to the previously stated two billion transistors. The reduction occurred despite the fact that the die size remains unchanged at 315 square millimeters -- putting it on par with AMD's lesser Llano chip -- and depriving the chip of valuable horsepower before I/O, an integrated memory controller or HyperTransport are added. When approached for comment, company representatives stated they were simply correcting a mistake regarding the chip's actual specifications. Before you bemoan the fate of the Bulldozer chip, remember that the drummer from Def Leppard has had a terrific musical career with only one arm, so what's the loss of several hundred million transistors to AMD's latest?
+      
+
+ 

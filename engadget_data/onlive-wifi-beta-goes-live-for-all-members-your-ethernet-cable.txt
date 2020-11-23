@@ -1,0 +1,5 @@
+
+ As any hardcore gamer would likely attest, we'd still recommend keeping whatever rig you're running OnLive on connected to the world wide web via a patch cable, but if you simply must cut and run, at least a cable-free setup is being officially supported now. From the onset, many OnLive beta users were using a bridge in order to stream their games over the air, but the company has been toiling in the labs to create an officially supported solution that better takes into account the uncertainties of wireless connections. According to Steve Perlman, OnLive's founder and CEO, the technology "handles many real-world WiFi scenarios including management of interference, congestion and drop-outs if you get out of range," and it'll even allow users to lose their connection entirely for up to five minutes without forgetting their place in the game. It's recommended that beta testers use wireless networks that can sustain at least 3Mbps, but feel free to press your luck and the service's boundaries in one fell swoop.
+      
+
+ 

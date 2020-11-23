@@ -1,0 +1,20 @@
+
+Anyone who's played Halo, the iconic first-person shooter based 500 years in the future, knows where Microsoft came up with the name of Cortana, its new voice recognition program on Windows Phone 8.1. Master Chief might be the star of the video game series, but Cortana is the heroic digital sidekick that saves his behind in almost every level. Granted, the Windows Phone version may not help you explore an alien planet or teach you how to defeat the bad guys, but it's still capable of some great stuff.
+
+
+Just press the search button on the bottom of every Windows Phone device (as long as it uses 8.1, of course) and Cortana pops up, ready to listen and obey your commands. What kinds of things can she do? You can tell her to call someone, send a text, set reminders, take notes and hook you up with all sorts of information that you might need throughout the course of any given day. And since it's powered by Bing, the engine working behind the scenes has a solid amount of oomph. 
+
+
+
+
+
+At present time, there's one major catch to the feature, which is currently in beta status: While Cortana is quite functional, the only way to activate the service is to physically press a button on the screen. We're told that always-listening capabilities (as seen on devices like the Moto X) are in the works and hopefully can be incorporated at some point down the road, but for right now, that remains a significant limitation to the service.
+
+We hope to get more personal time with Cortana in the coming weeks as new Windows Phone 8.1 devices come out, but we at least got a few minutes to play around with the service. It'll start out in beta mode, which means that Microsoft still has some work to do before it's a completely solid and reliable feature. In its early stages, interacting with Cortana was still an enjoyable experience, although there were a few instances in which we had to repeat (or rephrase) our request in order for the system to recognize what we were asking. For instance, Cortana interpreted "find me a..." as "find Mia," and attempted to find a contact in the People Hub under that name. Still, we were also in a crowded room with a lot of voices nearby, so we have a feeling that it performs more reliably in quieter environments.
+
+
+Regardless, we're pretty happy with what Cortana is capable of. When you first try to set up the service, you'll be prompted to answer a few questions about yourself, so Cortana can become better acquainted with your preferences. You can assign nicknames to yourself and other contacts, and it uses its own "virtual notebook" to remember what you've done in the past. The service can parse email and detect that you have a flight booked -- and then it will ask you if you want her to track that flight. Indeed, Microsoft is taking a more personal (as in, personal assistant) approach to Google Now. 
+Additionally, Cortana will learn your voice and your preferences as time goes by, so in theory the service should get even more accurate and reliable the more you use it. And since developers have access to Microsoft's speech API, third-party apps can be a part of the fun; because of this, you'll be able to pull up your contacts' Facebook pages, send out tweets, add shows to your Hulu Plus queue and do plenty more. Finally, Windows Phone 8.1 now features geofencing, which means you can tell Cortana to remind you to pick up groceries when you pass by the store of your choice.
+Even though it's not completely perfect yet, Cortana's off to a pretty good start. There's a lot of room for improvement, of course, but we're excited by what Microsoft has been brewing up for the past two years. And who knows -- perhaps in a few years the actual Cortana herself will pop up as a hologram to the delight of video game fans everywhere, but we might be getting ahead of ourselves.
+
+

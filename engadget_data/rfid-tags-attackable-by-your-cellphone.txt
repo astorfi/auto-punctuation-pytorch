@@ -1,0 +1,5 @@
+
+ So Adi Shamir, co-author of theSHA-1 hashing standard with Ron Rivest, announced at the RSA Conference that after spending some time with an antennaand digital oscilloscope he was able to quickly familiarize himself with even the bit-for-bit transactions made betweenreaders and RFID tags. Using these scanning techniques for crackingthe crypto wasn't expressly mentioned, but Shamir did announce that a modified cellphone would have more than enoughpower to attack and compromise all RFID tags in the vicinity. So, is it time to panic on RFID? No, we don't think so,not yet, but we certainly do think these guys proved their point: the powers that be pushing RFID should probably startconsulting the industry's top security analysts before, not after, shipping product (or implanting tags intotheir employees).[Via Slashdot]
+      
+
+ 

@@ -1,0 +1,26 @@
+
+Buy a new Lenovo computer recently? Well, it looks like it could be infected with some factory-installed adware. Users on the official Lenovo forums started noticing that search results were being injected with sponsored links (like what happens when a machine is infected with typical adware or spyware) as far back as last September, and some even report that sites including Kelley Blue Book and JetBlue wouldn't render properly at all. This apparently isn't the only problem, however. As Facebook engineer Mike Shaver recently discovered, the program at fault, Superfish, appears to install a man-in-the-middle certificate that allows outside parties to take a peek at secure websites you might be visiting, too. Like your bank's, for example.
+
+
+
+This is a problem. #superfish pic.twitter.com/jKDfSo99ZR
+- Kenn White (@kennwhite) February 19, 2015For its part, Lenovo admitted that it was installing Superfish on its machines (users report finding it on the G40 and the pictured-above Y40 and Z50) late last month and said that it'd "temporarily removed" it from new consumer products until Superfish's developer could release an update that'd address the problems users were encountering.
+
+Lenovo's forum post reads as such:
+
+"All,
+
+As an update on this...
+
+Due to some issues (browser pop up behavior for example), with the Superfish Visual Discovery browser add-on, we have temporarily removed Superfish from our consumer systems until such time as Superfish is able to provide a software build that addresses these issues. As for units already in market, we have requested that Superfish auto-update a fix that addresses these issues.
+
+To be clear, Superfish comes with Lenovo consumer products only and is a technology that helps users find and discover products visually. The technology instantly analyzes images on the web and presents identical and similar product offers that may have lower prices, helping users search for images without knowing exactly what an item is called or how to describe it in a typical text-based search engine.
+
+The Superfish Visual Discovery engine analyzes an image 100% algorithmically, providing similar and near identical images in real time without the need for text tags or human intervention. When a user is interested in a product, Superfish will search instantly among more than 70,000 stores to find similar items and compare prices so the user can make the best decision on product and price.
+
+Superfish technology is purely based on contextual/image and not behavioral. It does not profile nor monitor user behavior. It does not record user information. It does not know who the user is. Users are not tracked nor re-targeted. Every session is independent. When using Superfish for the first time, the user is presented the Terms of User and Privacy Policy, and has option not to accept these terms, i.e., Superfish is then disabled."
+
+Lenovo is far from the only OEM that pre-installs software on its computers (Dell and WildTangent games say "hi"), but putting what very much looks to be malware on machines is pretty brazen. What's more, The Next Web even reports that antivirus software denotes Superfish as a virus and suggests removal. An enterprising YouTube user has even posted a tutorial video for doing just that, too. We've reached out to the company for more detail and will update this post should we hear back.
+
+Lenovo confirms they ship preinstalled software that injects ads into sites including google https://t.co/DIDMrgw62z via @shaver
+- Adrienne Porter Felt (@__apf__) February 19, 2015

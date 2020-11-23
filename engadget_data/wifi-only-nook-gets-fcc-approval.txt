@@ -1,0 +1,6 @@
+
+ 
+If you'll allow us to do a little dot-connecting and hand-waving here, we think we may have just stumbled across a new version of Barnes and Noble's Nook that drops the GSM connection and soldiers on with WiFi alone, matching up nicely with a rumor that spread across the webs not long ago. You see, the Nook's FCC ID is BNRZ100, and this thing that we just found in the FCC's filing system under Barnes and Noble's name has an ID of BNRV100 -- and the test reports are very explicit about the fact that this is for "EBOOK, WLAN, AND USB PORTS WITHOUT WWAN." WWAN, of course, is a fancy way of referring to a cellular connection, so that's that. If this thing can sell for, say, $100 less than the Nook's $260 -- a price that puts it out of reach of the average person's impulse purchase limit -- we could see some significant new uptake of the platform, we'd wager. No word on a release, but we'll keep our ears to the ground.
+      
+
+ 

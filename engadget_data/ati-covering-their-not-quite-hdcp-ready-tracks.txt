@@ -1,0 +1,6 @@
+
+   
+Remember the HDCP fiascothat we were talking about the other day? You know, how ATI and NVIDIA claim their chips are HDCP ready, but since thegraphics boards don't support the standard, there's no way you're getting HDCP? Well it's still just as lame soundingas the other day, but it looks like ATI decided they'd do a littlecover up. They've started to remove references to HDCP readiness in their online product spec sheets, while it's stillclear from retailer information and cached versions of the pages that they once proclaimed "HDCP ready" loudand proud. No telling how this will all go down, and we can't pretend to hope that ATI will be shipping us all boxes of"I'm sorry" cookies along with new HDCP graphics cards, but we would like some answers. And some cookies.[Via Slashdot, thanks Cassidy]
+      
+
+ 

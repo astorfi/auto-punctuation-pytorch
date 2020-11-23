@@ -1,0 +1,19 @@
+
+The FBI released documents today about its investigation into presidential candidate Hillary Clinton's use of a home email server during her time as Secretary of State. After the investigation, the Department of Justice decided not to file charges. Clinton was found to have not deleted sensitive emails, but the State Department called her actions "extremely careless."
+
+
+
+The investigation focused on whether classified information was stored or transmitted to the unclassified server. It also looked at whether any top secret information was compromised by unauthorized individuals.
+
+The investigation noted that 81 email chains containing information that ranged from "classified" to "top secret/special access program" level were found on the unauthorized email servers between 2009 and 2013. Of those correspondences, 68 still remain classified. During that time there were two systems used. Initially Clinton used an Apple server, but eventually migrated to BlackBerry. No big surprise there, Apple got out of the server game years ago.
+
+Yet unlike the DNC, it looks like the private servers were not compromised by hackers according to the FBI. But the FBI noted that because it didn't have an SSL certification from January 2009 until March 2009, it was vulnerable to attacks. It's worth noting that the Clinton's asked that the servers be encrypted but that the company managing the system, Platte River Networks never followed through because it said it would interfere with system administrators that were troubleshooting accounts.
+
+During her time as Secretary of State, Clinton used a personal BlackBerry for her personal and official email because she didn't want to carry two devices. She did tell the FBI she asked for a secure BlackBerry but doesn't recall why she never received one. Also, while an email system admin says he remembers her using two phones during her time as Secretary of State, Clinton and others stated she only used a flip phone while in the senate.
+
+When the FBI presented the classified correspondences found on her personal server to her, Clinton said she did not believe the emails contained classified information.
+
+The documents also include information about failed spearphishing attempts and information about an interview with hacker, Guccifer who admitted he lied to FOX news about hacking into Clinton's email account and the FBI's interview with Clinton.
+
+
+

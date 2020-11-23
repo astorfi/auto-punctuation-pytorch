@@ -1,0 +1,9 @@
+
+Raspberry Pi and the Raspbmc OS already make a solid combo as a media center, but if you encounter music-related limitations then it may be worth giving the RaspyFi distro (v1.0) a shot instead. In addition to supporting Apple AirPlay and a range of lossless file types, this audio-centric form of Linux also works with a long list of external USB DACs, including asynchronous playback, so you can avoid relying your Pi's tiny stock DAC and amplifier. RaspyFi's other big feature is that it comes with its own web-based UI (shown in the video after the break), which ought to make it easy to control playback of both local and streamed content (such as web radio or Spotify) from virtually any browser-equipped device on your network. A quick health warning, though: audiophilia is a slippery slope that may subsequently cause you to develop an unhealthy suspicion towards your Pi's standard power supply.
+
+
+
+
+
+
+ 

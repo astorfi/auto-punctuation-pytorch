@@ -1,0 +1,7 @@
+
+ 
+
+A new version of Android (4.3, and still called Jelly Bean) is already doing the testing rounds on Samsung's Galaxy S 4 and thanks to some porting work from SAMMobile, it's apparently working on both the Google Play and original iterations. We've caught a glance of Android 4.3 on LG's Nexus 4 already, but we're now getting a second look at a refreshed camera interface, some minor design tweaks (like more regular appearances of a share button) and, well, we're still perusing the gallery for more nuggets. If you know what you're doing (and don't fear voiding your warranty) you can find the files at the source -- early reports suggest that the GS4 is "fully working" on this early build. We'll update this post if we find anything else new, but early impressions suggest it's a relatively gentle upgrade from the existing mobile OS.
+
+
+ 

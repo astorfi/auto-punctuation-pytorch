@@ -1,0 +1,12 @@
+
+
+Samsung has been hinting at new Exynos processors for both a Galaxy S5 variant and the Galaxy Note 3 Neo, and today it's detailing the two CPUs in earnest. The GS5's expected chip, the Exynos 5422, is primarily a speed bump of the eight-core Exynos 5 Octa we saw last July; it boosts the clock speeds of the Cortex-A15 and Cortex-A7 cores to 2.1GHz and 1.5GHz respectively. The processor also delivers support for running all eight cores at once, and can handle both 2,560 x 1,600 displays as well as 4K video recording.
+
+
+The Exynos 5260 (aka Exynos 5 Hexa) destined for the Note 3 Neo isn't quite so glamorous, dropping to two 1.7GHz Cortex-A15 cores and four 1.3GHz Cortex-A7 cores. However, it still has many of the features of its bigger sibling -- it can run all six cores at once and use the same screen resolutions. Not surprisingly, it doesn't have the horsepower to record 4K video. Both of the new Exynos designs are either in production or will be by the end of the first quarter, so you can expect to see them in shipping smartphones relatively soon.
+
+
+
+
+
+ 

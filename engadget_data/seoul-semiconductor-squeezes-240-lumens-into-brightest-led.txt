@@ -1,0 +1,5 @@
+
+ LEDs have been beating up on all the other little light sources in that little light sources school yard of theirs for a few years now, but Seoul Semiconductor just bumped the stakes and made those fluorescent and incandescent nerds look downright lame. SSC's new P4 LED product emits 240 lumens at 1A, and claims the industry's highest efficacy (fancy word for ratio of visible light to overall electromagnetic radiation, including heat): up to 100lm/W@360mA. In comparison, fluorescent manages 70lm/W and incandescent pulls a mere 15lm/W. The LED is designed for all sorts of applications, from flashlights to traffic signals, but we're particularly looking forward to this thing showing up in projectors and LCD backlights. Just to rub it in, Seoul Semiconductor has plans for 135lm/W by 2007 and 145lm/W by Q1 2008, so we'd start shopping for sunglasses now if we were you.
+      
+
+ 

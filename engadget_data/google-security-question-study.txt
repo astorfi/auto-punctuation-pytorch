@@ -1,0 +1,11 @@
+
+
+If you've ever thought that "what was your first pet's name?" is a lousy way to keep intruders from resetting your password, you now have some evidence to back up your suspicions. Google has published research showing that security questions aren't that secure at all. In many cases, your answers are straightforward enough that attackers stand a decent chance of getting them right in 10 guesses or less. And you probably don't want to use bogus answers to throw people off the scent, either. Many of those who try this strategy use common words and make it easier for someone to get in.
+
+
+
+So what's the alternative, then? Google doesn't think that multiple security questions would help, since that increases the chances that you'll forget at least one answer and lock yourself out. Instead, websites are better off using SMS-based reset codes, alternate email addresses and other methods that someone can't crack with a good guess. Thankfully, big sites like Google already do this -- the big challenge is getting your favorite store or social network to follow suit.
+
+[Image credit: AP Photo/Virginia Mayo]
+
+

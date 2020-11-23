@@ -1,0 +1,6 @@
+
+ 
+Stolen Camera Finder is a site that promises to find missing cameras, as long as they've been stolen by cooperative criminals. All you have to do is drag and drop a JPG photo taken with your lost camera, and Stolen Camera Finder will hunt for any matches on the web, using the image's EXIF data. To find matches, the site consults a database of photos posted on Flickr and elsewhere, though, without only one million images to its name, this database is still very much a work-in-progress (the tests we conducted came up dry). It's a nifty idea, but one that would probably pay dividends only under certain circumstances. For instance, the thief would have to take pictures with the camera (rather than selling it) and post the images online without wiping the EXIF data. In other words, he'd have to be someone willing to steal a camera purely for the sake of sharing undoctored self-shots on Flickr. We're not sure those people exist.
+      
+
+ 

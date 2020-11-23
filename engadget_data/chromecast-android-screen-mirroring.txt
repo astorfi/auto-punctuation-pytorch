@@ -1,0 +1,8 @@
+
+AllCast developer Koushik Dutta has hinted that he could do more with Chromecast than just queue up media, and he now has a demo video to prove it. The clip (below) shows Dutta using Google's peripheral to mirror an Android phone's screen on a TV, much like you might with Miracast (or an Apple TV, for that matter). There's some noticeable lag, but the frame rate is smooth enough to reproduce a couple of rounds of Flappy Bird. Dutta hasn't said just when he expects to release the new code. However, he hopes to build the feature into AllCast; you'll likely get Chromecast screen mirroring on Android at some point, even if Google never officially supports more than Chrome tab casting.
+
+
+
+
+
+ 

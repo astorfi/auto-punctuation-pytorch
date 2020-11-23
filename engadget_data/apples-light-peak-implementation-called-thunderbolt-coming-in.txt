@@ -1,0 +1,15 @@
+
+ 
+The rumor gears are really starting to churn with regard Apple's upcoming MacBook Pro refresh and now we have a purported leak of the upcoming spec sheet for the new 13-inch model. The highlight is a note (and image, above) seemingly confirming that Apple will implement Intel's Light Peak high-speed interconnect, renaming it the Thunderbolt. Yes, we know there's an HTC handset headed to Verizon with that very same name -- and we've checked the USPTO archives, Verizon's the only tech company with any trademark claim filed for "Thunderbolt" -- but Apple has done weirder things before. Also notable are the apparent inclusion of an SDXC card reader and the absence of a discrete GPU chip, indicating that perhaps the new Core i5 integrated graphics from Intel are finally good enough to convince Cupertino to rely on them full time. Jump past the break to see the full data sheet.
+
+Update: We now have an image claiming to show the new Thunderbolt port, which happens to look exactly like the Mini DisplayPort but has a tidy little lightning logo next to it. That's extremely easy to Photoshop, as is the accompanying photo displaying a broader trackpad on the MBP, but we'll let you judge the validity of those images for yourself. Check them out after the break.
+
+Update 2: One more image of the spec sheet, this time in English, provided by MacRumors along with the note that it's for the "low-end" 13-inch MacBook Pro. The doc states that the Thunderbolt port supports "high-speed I/O and Mini DisplayPort devices," which would explain why it looks the way it does.
+
+[Thanks, Leon and Rodney]
+      
+
+ 
+
+
+ 

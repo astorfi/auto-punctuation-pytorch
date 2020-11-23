@@ -1,0 +1,19 @@
+
+
+
+So here's the scoop: Microsoft and Samsung at WinHEC introduced their new HHD (hybrid hard drive), designed for use
+in the next generation of Windows (which we all know as Longhorn). So how's it work? It's outfitted with a 1Gbit NAND
+flash buffer (instead of the usual 8-32MB buffer of volatile memory), and it only spins up the platters and writes to
+the drive when its good n' full. If nothing else, this kind of system could be great for conserving juice in laptops by
+reducing the amount of power-hungry spin-time on the drives; they're also claiming significant speed increases,
+especially when boot-time data is written to the flash buffer, but unless they've got some tricky trick up their
+sleeves it's going to be hard to use that buffer to predictively increase the read speed. Thus, we must continue
+another year of holding our collective breath for fully solid state hard drives.
+
+
+ [Via I4U]
+
+
+
+
+ 

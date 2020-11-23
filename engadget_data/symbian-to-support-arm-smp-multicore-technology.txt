@@ -1,0 +1,6 @@
+
+ 
+Ever so shortly after hearing that next-generation cellphones could boast some pretty powerful onboard graphics processing, Symbian has just announced that these same phones could support the ARM Symmetric Multi-processor (SMP) architecture. The firm has inked a deal with ARM that will enable future versions of the Symbian OS to support ARM SMP multicore technology, which is said to offer "exceptional multicore performance for media-rich applications along with the power efficiency required to continue to deliver industry leading battery life." Apparently, the two are looking to stuff the newly unveiled ARM Cortex A9 multicore processor into Symbian-based smartphones by 2010, so unfortunately, we've got a few years left to wait before this goes commercial.
+      
+
+ 

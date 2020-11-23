@@ -1,0 +1,9 @@
+
+ 
+When we met with Finnish startup Aava Mobile today, they pulled out the same old prototype phone... then, to our great surprise, dropped a brand-new device right alongside to show us how their Moorestown-based ambitions have grown. This is the Virta 2 reference design, which will ship to developers soon, with the same basic hardware inside but a few important tweaks. First of all, you'll note that's MeeGo on this screen, not the droid we were looking for, but that's because the development kit can switch between operating systems by merely swapping out the microSD card. 
+
+Whereas the original prototype had a thin, flimsy shell, the Virta 2's gone downright rugged, ditching the iPhone chrome for a more durable gunmetal frame, and there's a full compliment of sensors (compass, accelerometer, ambient light and proximity) alongside quad-band radios, WiFi, Bluetooth and a pair of cameras for your video chat testing needs. At €1900 (roughly $2393) per unit, the dev handset isn't exactly cheap, but where else are you going to get an Atom Z600 to play around with? Devices ship late August or early September, and Aava expects the platform (but not this exact handset) to see commercial availability next year. Find preorders at our source link, if you've got the bankroll. 
+
+
+
+

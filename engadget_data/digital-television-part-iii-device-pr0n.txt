@@ -1,0 +1,32 @@
+
+Here we are at the end of this three part series on digital television (DTV). Part 1: Making Sense of itall set out to, um, make some sense of all the standards while Part II: Global status provideda snapshot as to how the implementations are shaping up on a world wide scale. But we know what you really want: devicepr0n. So without further ado…
+
+
+
+FIXED RECEPTION DEVICES
+
+Nothing too exciting inthe fixed reception category since we've all seen digital televisions before. However, the 103-inch Panasonic Plasmawhich throws down about 30 square feet of viewing space, a 3001:1 contrast ratio, and pushes over 2 millionpixels progressively is still worth a drool.
+
+And in case you're wondering, here's a Philips DTR2520 set top box which decodes UK Freeview (a Crown Castle partner) DVB-T transmissions onyour old analog TV.
+
+
+Just for kix, here's a DVB-T tuner and recorder for your Mac from Elgato with a CI (CommonInterface) slot for a PayTV CAM (Conditional Access Module).
+
+Some manufacturers have already released "portable" DVB-T devices like the Artec T2 Happy to Go DVD player. Sure, these willwork, but without the time-slicing technology included in DVB-H, reception is gonna wring your battery dry all lickitysplit-like.
+MOBILE HANDSET RECEPTION
+
+Things get much more interesting when we look at mobile DTV handsets. Let's start old-school with thecurrent DVB-H whipping boy, the Nokia 7710. This deviceis pretty much the exclusive handset used in DVB-H trials globally and comes handicapped by up to 15 seconds in channelchanging delay.
+
+Here we have Nokia's great-silver-hope, the N92 which will be blowing the DVB-Hcavalry call by mid-2006. It should help to shave down those channel changing times to a more respectable 2-4 secondsclaimed by the DVB-H standard.
+
+On the other side of the technology front, we have those South Korean DMB phones. Here’s a Samsung B2300 satellite DMB phone receiving DTVbroadcasts at 2.6 GHz (note integrated antenna).
+
+And here we have LG’sPM80 billed as the world’s first PocketPC running on South Korea’s 200 MHz T-DMB system (notetelescoping antenna due to low frequency band).
+
+Rounding out the lot is a suite of phones from LG, who like Samsung announced phones at CES 2006 coveringDVB-H, T-DMB, S-DMB, and finally... MediaFLO. This kind of standards promiscuity by two major handset manufacturers isa good indicator that the fight for a world-dominating mobile TV broadcast standard is anybody's ballgame.
+
+Finally, a little love for Japan who are going their own way with ISDB-T.Here’s the Toshiba MTV-S10 handheld DTV device available on the MobaHO! network.
+
+So there you have it. That digital TV opiate is wafting its way into your living room whether you’relooking for that fix or not. And by 2008, mobile digital TV services are bent on re-defining “prime time”as the 5-6:00PM commute hour when squinting wage donkeys are tuning in and dropping out on the train, subway, or busride home from work. But first, the world must layeth the smack down on mobile DTV with the first grudge match set to launch in Germanythis June as vendors gear up to provide mobile DTV coverage of the 2006 FIFA World Cup. So let’s all pull up alog, hold hands, and sing a few verses of kumbaya while we wait for the dust to settle. It’s going to get ugliera lot quicker than it's gonna get pretty.
+
+

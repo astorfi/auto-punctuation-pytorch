@@ -1,0 +1,29 @@
+
+Each week Ross Rubin contributes Switched On, a column about consumer technology.
+
+In the early days of the internet economy, the saying went that webpages were created on Macs, served on Unix and viewed on Windows. In the iOS app economy, it's often the case that apps run on devices by Apple, but connect to services by Google. With the exception of many games, at this point, apps increasingly strive to be internet services.
+
+
+Google has been investing in more of these services for a longer time and in a way more directly tied to apps than Apple has. Google Maps has been the best example, but others include Google Drive (with its editing features), Google Voice and Google+. In contrast, Apple's biggest consumer online service success (other than the iTunes store) has been iCloud, which is less app-like and more of a silent shuttle for documents and files among iOS devices.
+
+
+
+The latest Google app to come to iOS is the newest version of one of the search giant's oldest ones: Google Search, now noteworthy for including the Google Now feature set that has become an indirect competitor to Siri. Both interaction models have value. But whereas Siri is about having a conversation, Google Now is about avoiding one. It can do this because, unlike Siri, it is tied into a matrix of information about you through other cloud-connected Google services. Google Now is the proactive payoff for using them. In contrast, Siri requires you to manually specify your name and indicate your address.
+
+
+In addition to Google's heritage being web-based (some of its early rationale for Android was to ensure that it wouldn't be locked out of Microsoft's then-ascending position in the smartphone space), it now has its own Chrome OS that is little more than a window into optimized web applications.
+
+Much has changed between Apple and Google since the stalemate around Google Voice, an app that, at least in theory, could have done so much towards winning Google's allegiance on the mobile phone. Apple has virtually abandoned the prohibition against replicating the functionality of its own apps and Google hasn't delivered any major new functionality to Voice in years, instead turning its messaging attention to the social focus of Google+ and its integrated Hangout video chats.
+
+One Apple policy that has affected Google apps on iOS has been the prohibition against alternate rendering engines in other browsers on the platform combined with not being able to use Apple's "Nitro" JavaScript engine. However, the speed hit that followed hasn't stopped Chrome from becoming one of the most popular apps for the iPhone and iPad.
+
+Google's support for iOS is, on one hand, a simple way to reach out to a significant share of the smartphone market.
+
+Google's support for iOS is, on one hand, a simple way to reach out to a significant share of the smartphone market. The company's line is that it would be open to, for example, supporting Windows Phone were the installed base high enough. However, iPhone users are desirable to Google -- not only to try to get them into Google's rival ecosystem, but to provide a broader target audience, particularly for Google's premium advertisers.
+
+That said, Google apps on the iPhone are developing their own visual style with fonts and gestures that look and act more like a modern Android app than most iPhone apps -- helping to expose and acclimate iPhone users to Google's aspirational app interface. That situation is reminiscent of when Microsoft's Mac apps had a particularly Windows-like look and feel during the days when dark gray toolbars and status bars ran amok in Office. There was an eventual backlash that forced a reversal, but Google's services extend far deeper into our lives than Office likely ever will.
+
+The next chapter of Google's love affair with Apple users will play out in devices that extend beyond the smartphone. Will there be a Glass app for the iPhone? Would Google Now cards pop up onto an Apple watch? For now, anyway, the detente between the two rivals is allowing rich functionality for those with divided loyalties.
+
+ Ross Rubin is principal analyst at Reticle Research, a research and advisory firm focusing on consumer technology adoption. He shares commentary at Techspressive and on Twitter at @rossrubin.
+

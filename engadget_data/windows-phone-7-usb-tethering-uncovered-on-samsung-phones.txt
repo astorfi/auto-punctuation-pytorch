@@ -1,0 +1,6 @@
+
+ 
+If you're the proud owner of a Samsung Focus or Omnia 7, you can scratch a pretty major item off the list of basic features missing from WP7: USB tethering. A couple of sites have come upon a quick and relatively easy hack to enable using your handset as a 3G modem on Microsoft's new platform. You'll need to dial up ##634# to get into a diagnostics menu, switch over to a "Modem, Tethered Call" mode and deal with a few more prompts along the way, but the end result is that you'll have a pretty much automated USB tether setup on your hands. Our own testing on HTC's Trophy and LG's Optimus 7 hasn't been quite so productive, perhaps because those devices require a different route to achieving it, but it seems like Windows Phone 7 is perfectly capable of performing the USB tethering task. Let us know how you get along in the comments below!
+      
+
+ 

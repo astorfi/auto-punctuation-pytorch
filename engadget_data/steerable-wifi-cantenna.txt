@@ -1,0 +1,5 @@
+
+ Despite maybe, possibly being illegal in some parts (but not many), fearless DIY-er Adrian Smith has gone forth and out-MacGyvered all other cantenna makers with his steerable, WiFi-sniffing rig. Using the requisite tin can, along with a PIC microcontroller and a couple of servos, the cantenna is able to be controlled by a custom Visual Basic program that can automagically sniff out the strongest wireless signals and zero in on them (complete with satisfying bzzzzz, whizzzz sound effects, we're sure). Unfortunately, he hasn't provided detailed step-by-step plans for the more engineering-challenged among us, so you'll need some reasonable skills of your own to put one of these to use "sharing" your neighbors' bandwidth.[Via Hack a Day]
+      
+
+ 

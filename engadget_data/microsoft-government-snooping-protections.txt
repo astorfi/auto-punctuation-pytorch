@@ -1,0 +1,7 @@
+
+The NSA / PRISM / MUSCULAR scandal sparked by Edward Snowden's leaks stained many tech companies, and tonight Microsoft has laid out several plans it hopes will convince customers (particularly non-US businesses and foreign governments) they're safe using its products and services. In a blog post, general counsel and executive VP Brad Smith lays out a three pronged approach of "immediate and coordinated action" against the threat of government snooping. It's expanding the use of encryption to cover any content moving between it and its customers, any transmissions between its data centers, and data stored on its servers -- all of this is said to be in place by the end of 2014.
+
+
+In terms of court orders that may push it to reveal data, Microsoft is committing to notify "business and government" customers of any legal orders, and if it is prevented from doing so by a gag order, says it will challenge those in court. Finally, it's expanding the existing program giving governments access to its source code so they can make sure it doesn't contain any back doors. According to Reuters, this will put Microsoft on par with other Internet companies like Amazon Web Services, Yahoo and Google for how it treats data. Still, while that may help foreign diplomats feel better about logging into Outlook or Skype, there are probably a few individuals who will keep their tin foil hats on, Kinect cameras covered and cellphones off.
+
+

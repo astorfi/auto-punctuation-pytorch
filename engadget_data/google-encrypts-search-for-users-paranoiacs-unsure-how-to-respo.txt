@@ -1,0 +1,7 @@
+
+ 
+
+When Al Gore first created the internet (hard wink, everybody), we're pretty sure the plan was for Big Brother to collect your data, not Silicon Valley titans. Now Google, the company that mainly tends the gates to the web's vast array of information, is stepping up to its "Do No Evil" motto, and making encrypted search the norm -- for account users. While Gmail's long had SSL set as a default login, good ol' Joe Public's had to specifically access Mountain View's dedicated encrypted search page for anonymous surfing privileges. No longer, as Gmail users signed in to Goog's suite of web services will be automatically redirected to https://www.google.com where their searches and results will be hidden from prying eyes. The protection doesn't extend out to web advertisements, so those specific clicks will deliver the same metric-relevant info that helps marketers optimize their hyper-targeting. Any of that put you conspiracy theorists at ease? Good, now you can open those curtains again.
+      
+
+ 

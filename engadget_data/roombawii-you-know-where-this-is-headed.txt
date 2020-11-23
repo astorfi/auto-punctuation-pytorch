@@ -1,0 +1,9 @@
+
+ 
+People have come up with numerous ways to control their Roombas -- USB, Bluetooth, MacBook tilt sensors, and even a MIDI keyboard -- and now that the Wiimote has been hacked to operate several non-Wii devices -- computers, home automation systems, and even an RC truck -- it's no surprise that some clever modder would make these two great tastes taste great together. And sure enough, a gentleman named Chris Hughes has just completed a script that merges Tod Kurt's Roomba control software with the recently released DarwinRemote, resulting in a little slavebot that scoots around using just a flick of your wrist. As you might expect, tilting the Wiimote forward and backward causes Roomba to move in those directions, while tilting it side to side sends the vacuum spinning either clockwise or counter-clockwise. There's a slight delay between manipulating the Wiimote and Roomba actually executing a command, though luckily Chris has kindly provided his RoombaWii script for download, so perhaps you can play around with it and reduce some of that latency. You can check out a short vid of his setup after the break, but if the term "flippin' awesome" is considered a little too racy for your office, you may have to file this one under NSFW....
+      
+
+ 
+
+
+ 

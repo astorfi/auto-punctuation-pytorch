@@ -1,0 +1,67 @@
+
+
+More Info
+
+Sony announces its first Ultrabooks, the VAIO T13 and T11, for the European market
+Sony's VAIO T13 Ultrabook coming to the US this month with Ivy Bridge in tow, prices start at $800
+Sony VAIO T Series Ultrabook hands-on (video)
+
+
+Until recently, Sony's name has been conspicuously absent on the ever-growing list of Ultrabook makers. Sure, we've known about the VAIO T series since CES, when the company teased an unnamed notebook behind glass, but it didn't get its official reveal until May, when it hit the European market -- with last-generation Sandy Bridge processors. That's no way to make a splash when Ivy Bridge CPUs are now de rigueur for Ultrabooks and mainstream laptops alike.
+
+
+Luckily, Sony got things right on the US side, releasing the 13-inch VAIO T13 with Ivy Bridge processors in tow. Other than those new chips, the Ultrabook features identical specs to the European model, not to mention the same brushed silver aluminum design. And while the brand is in for a serious game of catchup as it enters an already-crowded market, its VAIO T is priced to compete at $770. Let's welcome Sony to the Ultrabook game by giving the T13 the full review treatment. 
+
+
+
+
+Look and feel
+The VAIO T13's brushed-aluminum design, in an icy, elegant shade of silver, is attractive, especially for an Ultrabook with a budget price. It's not just the lid, accented by the VAIO logo in a light-reflecting silver, that had us wide-eyed: sweet touches like the reflective silver hinge make it clear that design was top of mind for Sony in crafting this machine.
+
+That's not to say the T13 takes the Ultrabook design cake. While a sleek aesthetic is appreciated, if not expected, so is an extra-slim profile. The laptop's boxy frame is a counterbalance to the premium feel: there's no tapered chassis or curved edges here, and the bezel is quite wide, too. At 0.71 inches thick, the laptop isn't chunky, per se, but it does look chubby next to the Acer Aspire S3 (0.5 inches thick, 3 pounds) and the HP Envy Spectre XT (0.57 to 0.69 inches thick, 3.07 pounds). It's not the thickest machine out there, to be sure -- the HP Folio 13 also measures 0.71 inches at its widest -- but at 3.45 pounds the T13 is one of the heaviest.
+
+The laptop's boxy frame is a counterbalance to the premium feel.
+
+At least the T13's relatively thick chassis affords a generous selection of ports. An Ethernet jack, VGA port, HDMI out and a full-size SD card slot are on board, not to mention one USB 2.0 and one USB 3.0 connection. There's also a card reader on the right side, along with the headphone output, while the power port sits on the left edge.
+
+Keyboard and trackpad
+Sony naturally had to cut corners to keep the price so low, with the keyboard being the most obvious example. The T13 sports a spacious, island-style layout -- almost too spacious, in fact. Even with pianist's hands, yours truly frequently mistyped or dropped letters due to the distance between keys. The keys are incredibly shallow as well, which might explain why they often failed to register our presses. Of course, many Ultrabooks suffer from shallow layouts. Even so, the thinnest machines are often the worst culprits, and the T13 is hardly the sveltest in its category. When we performed the Ten Thumbs Typing Test, we scored 20 words per minute less than usual, with a higher-than-normal error rate of five percent. While many Ultrabooks include keyboard backlighting, that feature is MIA on the T13, which shouldn't come as much of a surprise given its price tag. Still, there's no option to add it for an additional fee.
+
+The T13's Synaptics clickpad is plenty responsive, executing gestures such as pinch-to-zoom and swiping up and down seamlessly. The built-in buttons accurately recognize right and left clicks, and good palm rejection means you won't have to contend with a wayward cursor floating across the screen as you type. Our one complaint about the clickpad is its size: at 3.9 x 2.3 inches, it covers significantly less area than the touchpad on the Lenovo IdeaPad U310 (4.1 x 2.9 inches). A more spacious design would certainly be more comfortable.
+
+Display and soundWe weren't blown away by the T13's display, which features a standard 1,366 x 768 resolution and kicks back plenty of glare due to its glossy finish. When we watched a few trailers on YouTube, colors looked accurate but not as rich as they have on other laptops' panels. Viewing angles aren't great either: both vertically and horizontally, moving off-center will cause images to appear washed out.
+
+Audio quality on the T13 is similarly middling. Sony used Clear Phase technology for crisper sound and xLoud volume-boosting tech to enhance your listening experience with the built-in speakers. The good news is that sound is indeed quite loud; you should have no trouble filling a small- to medium-sized room. The downside is that you can expect plenty of tinniness. When we streamed music over Spotify, an unpleasant metallic buzz made it harder to enjoy our favorite tracks. Sadly, the speakers don't deliver much bass, either.
+
+Performance    PCMark Vantage 3DMark06     Sony VAIO T13 (1.7GHz Core i5-3317U, Intel HD Graphics 4000) 8,188 3,847   MacBook Air (2012, 1.8GHz Core i5, Intel HD Graphics 4000) 13,469 5,827   ASUS Zenbook UX31 (1.7GHz Core i5-2557M, Intel HD Graphics 3000) 10,508 4,209   ASUS Zenbook Prime UX21A (Ivy Bridge Core i7 processor, Intel HD Graphics 4000) 10,333 4,550   Lenovo IdeaPad U300s (1.8GHz Core i7-2677M, Intel HD Graphics 3000) 9,939 3,651   Samsung Series 9 (15-inch, 2012, 1.6GHz Core i5-2467M, Intel HD Graphics 3000) 10,580 4,171   Lenovo IdeaPad U310 (1.7GHz Core i5-3317U, Intel HD Graphics 4000) 8,345 4,549   HP Envy Sleekbook 6 (2.1GHz AMD A6-4455M, Radeon HD 7500G graphics) 3,978 3,625   MacBook Air (2011, 1.7GHz Core i5-2557M, Intel HD Graphics 3000) 9,484 4,223   Note: higher scores are better  The VAIO T13 is configurable with up to a Core i7 Ivy Bridge processor, 8GB of RAM and a 512GB SSD, but the model we tested ran a Core i5 CPU clocked at 1.7GHz with 4GB of memory and a 500GB hard drive combined with a 32GB SSD. In our usual benchmarks, the T13 performed similarly to the IdeaPad U310 and the HP Envy Sleekbook 6, and its average write speeds of 92.5 MB/s and reads of 131 MB/s are far from impressive. Still, in day-to-day use this machine is a capable performer.
+
+A 3DMark06 score of 3,847 doesn't suggest out-of-this-world graphics performance, but while we've seen systems with Intel HD Graphics 4000 score significantly higher, the T13's modest frame rates are what you'd expect -- and they're good enough for some casual gaming. While there's no discrete GPU on board to help shoulder the workload, the T13 managed a playable 30 frames per second in World of Warcraft with the resolution set at 1,366 x 768 (maxing out the graphics takes that down to 15 fps). In Batman: Arkham City, we got an average of 40 fps.
+
+Sony says the T13 wakes from sleep in "about two seconds," and while it took five in our tests, it has all the responsiveness you'd expect from an Ultrabook. Cold-booting into Windows 7 Home Premium takes 19 seconds, which is on par with other ultraportables. (By comparison, the Lenovo IdeaPad U300s, the HP Folio 13 and the new MacBook Air all take 18 seconds.)
+
+Battery life    Battery Life     Sony VAIO T13 5:39   Samsung Series 9 (15-inch, 2012) 7:29   Samsung Series 9 (13-inch, 2012) 7:02   Lenovo ThinkPad X230 7:19   MacBook Air (13-inch, 2012) 6:34 (OS X) / 4:28 (Windows)   HP Folio 13 6:08   HP Envy Sleekbook 6 5:52   Toshiba Portege Z835 5:49   ASUS Zenbook UX31E (2011) 5:41   MacBook Air (13-inch, 2011) 5:32 (Mac OS X) / 4:12 (Windows)   HP Envy 14 Spectre 5:30   Lenovo IdeaPad U300s 5:08   Samsung Series 5 Ultrabook (14-inch, 2012) 5:06   Dell XPS 13 4:58   Lenovo IdeaPad U310 4:57   Samsung Series 9 (13-inch, 2011) 4:20   ASUS Zenbook Prime UX21A 4:19   Acer Aspire S3 4:11  When it comes to longevity, the T13 falls somewhere between outstanding and abysmal. Its runtime of five hours and 39 minutes puts it ahead of systems like the Samsung Series 5 and the ASUS Zenbook Prime UX21A, but the Samsung Series 9 and the MacBook Air outlast it by about an hour and a half.
+
+SoftwareThe T13 comes with Sony's VAIO Gate, an app launcher that sits at the top of the screen. Hover with your cursor, and it reveals shortcuts to several programs, including the company's branded VAIO media software, Skype, Internet Explorer and ArcSoft WebCam Companion 4. (You can also customize the Gate with shortcuts to other programs.) In any case, it just seems a little pointless, given that Windows 7 allows you to pin both programs and files to the Taskbar.
+
+As far as Sony's own software goes, you get Media Gallery for enjoying your photos, videos and music; PlayMemories for importing and organizing your media; Music Unlimited and Sony VAIO Care. If you're not a fan of the Gate, you can prevent it from launching at startup, though it can't be uninstalled. Sony also pre-loads Microsoft Office 2010 Starter and a 30-day trial of Kaspersky Internet Security.
+
+Configuration optionsThough our configuration of the T13 goes for $800, the entry-level model costs $770. For that price, you get a Core i5 CPU, 4GB of RAM, and 320GB of storage paired with a 32GB SSD. Shell out $1,000 and you'll get a Core i7 CPU clocked at 1.9GHz, 6GB of onboard memory and a 500GB hard drive paired with a 32GB SSD. A $1,200 version steps up to a 128GB SSD with 6GB of RAM, while the top-of-the-line model goes for $2,100 with a Core i7 CPU, a 512GB SSD, 8GB of RAM and Windows 8 Professional instead of the standard Windows 7 Home Premium.
+
+The competitionIf the VAIO T13 is on your shopping list, you're likely looking for a value-priced system. In other words, the $1,300 Samsung Series 9 and $1,200-plus MacBook Air might cost more than you were hoping to spend. We'll list a few relatively affordable alternatives to the T13 for you below. As you'll notice if you research any of our recommendations, the T13 is more configurable than most Ultrabooks, but it's still far from your only option.
+
+The 14-inch Samsung Series 5 starts at $949, and while its 3.94-pound weight is pushing it for an Ultrabook, the design is thick enough to include an optical drive, and you can expect decent performance thanks to its Core i5 processor and hybrid hard drive. You'll have to shell out more for a solid-state drive (the base configuration comes with a 500GB HDD) though, and this guy trails the T13's five-hour, 39-minute battery life by nearly a half-hour.
+
+Another modestly priced option is the Dell XPS 13, which for $999 offers a comfortable keyboard, a 128GB SSD and a Core i5 CPU that delivers snappy performance. At 2.99 pounds, it's also significantly lighter than the T13. There's also the HP Envy Spectre XT, which starts at $1,000 and has many of the same specs as Sony's Ultrabook (Ivy Bridge CPU, 1,366 x 768 display, USB 3.0 and an Ethernet port) but includes a 128GB SSD and boasts a backlit keyboard.
+
+Lenovo's IdeaPad U310 should draw obvious comparisons as well. For $799, the 13-inch U310 has a Core i5 Ivy Bridge CPU and 500GB of storage plus a 32GB SSD. While our review of this laptop is still to come, we went hands-on at CES and have listed its benchmark scores in the table in the performance section.
+
+For an Intel-approved system that keeps the price well south of one grand, the VAIO T13 is a respectable specimen.
+
+We'll submit one more notebook for consideration: the HP Envy Sleekbook 4t. Though this isn't an Ultrabook (the entry-level Sleekbooks ship with AMD APUs inside or otherwise don't meet Intel's Ultrabook requirements), a model configured with similar specs to the T13's (Core i5 Ivy Bridge CPU, Intel HD Graphics 4000 and a 500GB hard drive) costs $800, and comes with Beats Audio.
+
+Wrap-up
+A budget-friendly Ultrabook is almost an oxymoron. Usually, the thinner the laptop, the higher the price. Solid-state drives and nice-to-have extras like backlit keyboards and high-res displays don't come cheap, either. For an Intel-approved system that keeps the price well south of one grand, the VAIO T13 is a respectable specimen. Though it's hardly the thinnest Ultrabook, it has a sturdy, attractive design, and it packs enough processing power to see you through word processing, web surfing and casual gaming.
+
+What might hold you back, though, is that flat keyboard. Shallow keys and some uncomfortably wide spacing add up to an unpleasant typing experience, so we'd recommend giving the laptop a test run in the store before making a commitment. In any case, Sony now has a horse in the Ultrabook race, and we have a feeling there will be more to come.
+
+

@@ -1,0 +1,11 @@
+
+  
+ 
+
+Remember the first time you used Google Street View? Amazing, right? Thing is, traversing a busy urban street in a 360-degree photographic bubble can be disorienting, especially when searching for a specific address or business. So check this: Microsoft Research has developed a rather nifty solution it calls Street Slide. Zoom out of your panoramic bubble and the street is presented as a dynamic, multi-perspective "strip" giving you an instant visual summary of the surroundings -- similar to viewing the entire street from a distance. Fortunately, Microsoft took advantage of what would otherwise be the unused letterboxed screen above and below the strip to add navigational and informational aids like clickable business logos and building numbers. Pretty impressive, and Microsoft is already working on taking Street Slide mobile with an iPhone port, and no doubt a version for the upcoming Windows Phone 7 series of devices. Unfortunately, don't expect this to be released anytime soon as the team has only processed about 2400 panoramas so far covering just 4 kilometers of streets. Check the video after the break, you'll be glad you did.
+      
+
+ 
+
+
+ 

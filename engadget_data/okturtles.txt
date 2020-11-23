@@ -1,0 +1,14 @@
+
+
+The encryption that protects your email and social updates is far from flawless -- it's relatively easy for spies to intercept your data using spoofs and hacked servers. If Greg Slepak has his way, though, there will soon be a safer way to send your info. His okTurtles project uses blockchains (the transaction databases you see in virtual currencies like Bitcoin) to let you communicate over the web without the risk of a man-in-the-middle attack. Rather than rely on website security certificates that could easily be compromised, it gives individual users public keys that unlock data within blockchains. There's no centralized authority, and you can even run one of the necessary servers yourself if you don't trust others. When complete, okTurtles will have a browser add-on that lets you use this authentication on virtually any site. You could talk to a fellow okTurtles user through Gmail without worrying that someone besides your recipient could easily read the message, for example.
+
+
+
+          
+ 
+ 
+ The underlying technology (DNSChain) is already available, but you'll have to wait a while for something that's easy to use; Slepak is launching a crowdfunding campaign "soon" to help get things moving. He's also quick to acknowledge that the system works only so long as both the software and keys aren't compromised. If either of those are cracked, you're just as vulnerable as anyone else. As long as they remain safe, though, okTurtles could easily reduce the chances that snoops and thieves will pry into your business.
+
+       
+
+ 

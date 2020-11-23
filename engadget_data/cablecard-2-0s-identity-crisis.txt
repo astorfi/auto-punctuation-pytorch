@@ -1,0 +1,6 @@
+
+ 
+It is commonly misunderstood that we've been waiting for CableCARD 2.0 in order to have two way communications between our cable host device and our cable co'. We've talked about how this just isn't true before, and in fact the CableCARDs we've had since day one are capable of authorizing a host device for two way communications. Part of the reason for all the confusion is CableLabs -- the entity responsible for this whole thing -- and now it appears they're going to continue to mix things up. What we thought was CableCARD 2.0 is really Open Cable Application Platform (OCAP) and later named OpenCable for short, and now according to Mike Robuck at CED reports, the name is likely to be changed to Tru2way. Sure, we see how much more sense this makes, but if they do end up changing the name as CES this year, we just hope that this time they stick with it.
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ Sure, we have just as many concerns over RFID-related security technology as anybody, but a new report by mobile security experts Flexilis seems to take things a bit too far. In their report on the lacking shielding of the new e-passports, allowing the passport to be read by a high-powered reader if the book is slightly open, they go on to illustrate the "dangers" of such a security lapse by calling it a potential bomb trigger. Their demonstration involves a passport-toting dummy brushing by a trash can, which explodes once the dummy gets too close. The Flexilis guys even conjecture that a country ID code could eventually be identified in passports, allowing for targeted bombing of citizens from specific countries. The problem with all this, is that any radio-transmitting device could potentially trigger a bomb (phone, Bluetooth device, etc.), nobody has hacked an RFID country code yet, and the situations that would call for this sort of bomb are even more far-fetched than the concept. There's nothing much special about RFID in this regard, other than some security "experts" trying to cash in on the hysteria. Check the video after the break, and judge for yourself whether or not RFID is going to be the hip-cool new detonation system of the decade. We're thinking no.[Via textually.org]
+      
+
+ 
+
+  
+ 

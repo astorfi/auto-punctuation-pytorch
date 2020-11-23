@@ -1,0 +1,7 @@
+
+For a company that keeps millions of users' personal emails and data under lock and key, Google found itself in a bad place earlier this year -- on a list of "providers" that reportedly gave the NSA direct access to their central servers. The company immediately took steps to calm consumers, assuring its user base that it didn't create a federal "back door," and demanding more transparency from government agencies. Now, the Mountain View search giant has told The Washington Post that it's accelerating its encryption initiative, which will hopefully offer users another layer of comforting protection.
+
+
+"It's an arms race," Google VP of security engineering Eric Grosse told the paper. "We see these government agencies as among the most skilled players in this game." That is to say, protecting user data isn't easy -- intelligence firms and skilled hackers can eventually find their way around even the most sophisticated encryption, but building these kinds of walls has become a necessity in a post-PRISM world. The move is designed to protect Google users against unauthorized snooping, but Mountain View will still have to comply with court orders and official requests. Still, who are we to argue with a more defensible inbox?
+
+

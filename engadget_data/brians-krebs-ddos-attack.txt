@@ -1,0 +1,10 @@
+
+       Just a few weeks after helping to bust some of the biggest cyberattack sellers on the web, security researcher Brian Krebs' popular site, KrebsOnSecurity, has been knocked offline by a distributed denial of service (DDoS) attack. Earlier this week, Krebs noted that the site was facing one of the biggest DDoS attacks ever recorded, reaching a peak of 620 Gbps at its peak. But while his site managed to withstand the initial assault thanks to Akamai's Prolexic service, it was eventually taken offline after Akamai removed KrebsOnSecurity from its network. 
+      
+
+ 
+It's looking likely that KrebsOnSecurity will be offline for a while. Akamai's kicking me off their network tonight.
+
+— briankrebs (@briankrebs) September 22, 2016Krebs notes that he was using Akamai's service for free, so he "can't really fault" them for their decision. He added on Twitter, "I likely cost them a ton of money today." While its unclear when KrebsOnSecurity will be back online, you can still access the site's archives via the Internet Archive.
+
+

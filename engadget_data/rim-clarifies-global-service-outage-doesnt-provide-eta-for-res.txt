@@ -1,0 +1,19 @@
+
+
+
+If you don't own a BlackBerry yourself, chances are you know somebody who does. And if that person lives in Africa, Asia, Europe, North America or South America, they're probably quite unhappy with RIM at the moment. This week's service outage began with a server failure in the UK, and spread like wildfire to Africa and the Middle East, before continuing on to parts of Asia, the US, Canada and a good portion of South America. This is only the latest BlackBerry service outage for RIM, bringing email, BBM and web browsing services to a halt. But with BlackBerry services playing a critical role in real-time business and government communications, any interruption is unacceptable, and costly for all.
+
+RIM CTO David Yach responded to questions during a press conference this afternoon, explaining the original cause of the outage (that UK server failure, along with a series of failed redundancies), and how that grew into the global outage we're experiencing now:
+
+
+		"It's a backlog issue. Clearly we have a backlog in Europe, based on the initial outage and the time it's taken to stabilize that. At this point, we have not throttled the other regions, but as you can imagine, with the global reach of BlackBerry, people using it to contact others around the world, there's a lot of messages coming to Europe from Asia and the Americas, and those would be backed up on the other system. It's looking like over time that backlog built, and started impacting those other systems."
+
+
+
+The obvious solution would be to clear the backlog and restore service, but in doing so, RIM would purge any undelivered messages. Yach said that all emails will eventually be delivered, however, so you shouldn't have anything to worry about there (there was no related comment regarding BBM messages). When asked what the company would be doing to "make right" by way of its customers, Yach emphasized that his focus was only on restoring service at this point, and made no promises of restitution.
+
+Is the BlackBerry outage affecting you? Let us know by voting in our poll, or leaving a comment after the break.
+                 
+
+  
+ 

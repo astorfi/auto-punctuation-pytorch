@@ -1,0 +1,25 @@
+
+"We're not scanning every object in the collection," Adam Metallo tells me, offering up the information almost as soon as we set foot in the Smithsonian's Digitization office. It's an important piece of information he wants to make sure I have, right off the bat. It seems that, when the story of the department's 3D-scanning plans first hit the wire, a number of organizations blew the scope of the project out of proportion a bit. And while the team's project is certainly ambitious, it's not, you know, crazy. It's the work of a three-person team, still in its nascent stages, attempting to prove the value of new technologies to a 167-year-old museum affectionately known as "the nation's attic."
+
+
+In the fall of 2011, Metallo and fellow Smithsonian 3D scanner Vince Rossi (a duo the institute has lovingly deemed its "laser cowboys") unpacked their equipment in Chile's Atacama Desert. "They were widening the Pan-American Highway, and in doing so, they uncovered about 40 complete whale specimens," Rossi explains. "But it might take decades for them to remove the fossils from the rock, so we were able to capture this snapshot of what that looked like in 3D." The tool of choice for the expedition was a laser arm scanner, which utilizes a process the duo compares to painting an object, moving back and forth across its surface as the device records the relative position of its axes.
+
+
+
+
+
+The results speak for themselves. As we sit down for an interview, two employees carry in a scaled-down 3D print of one of the scans, an impressively detailed and still rather large object they place on the table behind Metallo. The team is planning to print the whale out at full size for a future exhibit -- albeit in pieces, due to build-volume constraints in even industrial-level 3D printers. "The prospect of printing a 25-foot-long whale that we scanned in the Atacama Desert in Chile is pretty exciting," Rossi says with a smile.
+
+Also impressive is the sheer diversity of the team's work -- fitting though, when you consider the breadth of the Smithsonian itself. Metallo and Rossi rattle off a number of 3D scans they've done for the museum, a list that includes orchids, gunboats, the first aircraft to ever fly and various parts of Abraham Lincoln's body. "About three years ago, we had a 3D scan of a cast of Abraham Lincoln's hand," says Rossi. "We did 3D scanning because mold making was not an option -- pouring silicone rubber on this object posed a risk to it. Without touching the object, we're able to capture it in 3D on the computer and deliver that data to a 3D printer that can bring it back into the world."
+
+
+On a table next to the whale fossil sits a variety of 3D prints and laser-cut cardboard versions of the president's head. "Life casts were taken of Lincoln, just before the Civil War and in the remaining months of the war," explains Metallo. "So we have a 3D representation of a sitting president over the course of a few years. By scanning the masks and seeing the toll the war took on the president, we have a much more visceral understanding of what he was going through." The key is minimal invasiveness -- 3D scanning affords the opportunity to create a lifelike representation of the objects without actually touching them.
+
+The team utilizes a few 3D-scanning technologies, including the arm, each with its own limitations and employed for different jobs. The large-range scanner sitting on a tripod on the other side of the room, for example, might be employed to scan a roomful of dinosaur fossils, a process that involves setting up a number of targets throughout the room to give the machine clearly defined reference points. None of these devices, however, were actually developed with such work in mind. "All these tools that were developed for different industries, like engineering, architecture, the medical industry," explains Rossi. "We can see how these tools can be applied to the Smithsonian's mission."
+
+
+It's a learning process, as is determining what to do with the final product. It's clear that there's value in scanning these priceless objects for posterity. However, unlike the museum's documents (which are scanned on a machine that shares the same space), it's hard to say precisely what the information will ultimately be used for. "The first reason we make an object available in digitized form is 3D research and education use," explain Rossi. And indeed, the team is partnering with educators to increase student engagement with the work, which will come in part with the increase of 3D printing in the classroom, thanks to consumer devices like 3D Systems' CubeX, which is churning away on a project for the majority of our visit.
+
+And then there's the question of what the general public will do once the data is released on a wider scale. "We're intrigued to see what people can make with the data," says Metallo. "Everyone knows what to do with a photograph, but we want to see what the world can do with polygon models of Smithsonian artifacts."
+
+

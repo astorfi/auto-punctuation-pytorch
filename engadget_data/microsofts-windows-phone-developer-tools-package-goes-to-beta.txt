@@ -1,0 +1,6 @@
+
+ 
+Early versions of the tools Windows Phone 7 developers will use to craft their wares have been floating around since Microsoft's MIX event in March, but it looks like things have finally gotten robust and feature-complete enough this week to bless the kit with a beta label. In fact, Microsoft is coming out and saying that this release "represents the near final version," which we take to mean you can develop with some confidence that your world won't be turned upside down when the time comes to prep your apps for shipping devices and firmwares. The actual API has been tweaked and Expression Blend is now fully integrated with the tools, though there are apparently still a few controls that aren't ready for primetime and will be added over the coming weeks. Oh, and if no emulator is enough to satisfy your intense cravings, you might be excited to learn that more developer devices are slated to ship next week -- so keep an eye on your mailbox and your porch if you signed up to get one.
+      
+
+ 

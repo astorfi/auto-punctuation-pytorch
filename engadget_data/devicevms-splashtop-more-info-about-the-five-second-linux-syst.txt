@@ -1,0 +1,6 @@
+
+ 
+In Asus's new P5E3 Deluxe we saw the first hardware launch of embedded Linux developer DeviceVM's new SplashTop platform, but we didn't exactly get a lot of hard info about what the system is or how it's supposed to work. While specifics of the hardware might change from implementation to implementation, SplashTop refers to the software platform -- kind of an embedded Linux-based internet appliance-like environment running off a flash memory chip, which is linked directly to the BIOS (read: not on the IDE / SATA bus). This, of course, allows quick and painless pre-boot access to the included sandboxed browser (FireFox) and VoIP (Skype) environment. As of this time users can't yet add their own apps (though that might change later), but hey, they can get online pretty fast, and that's a start, right? Of course, it's arguable that if you need to get online there's always suspend mode for your Vista or XP machine, and that internet appliances didn't work then, so why should they work now? Then again, suspend mode still draws more power than "off", and internet appliances were never built into your day to day computer either -- so we'll be tracking where this one heads.
+
+
+

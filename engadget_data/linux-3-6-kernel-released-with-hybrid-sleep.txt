@@ -1,0 +1,4 @@
+
+ The last couple of Linux kernel updates have been a bit of a circus, with Android merging in the 3.3 ring and graphics integration on a (noisy) 3.4 center stage. Version 3.6 of the open source kernel has less flashy, more serene features this time, with hybrid standby, a revised file system and other esoteric networking and architectural features befalling the penguin. That sleep mode, which caches the RAM contents to a disk to prevent data loss, has been available for a while now on Windows and Mac machines and will be especially handy on Linux laptops. The so-called Btrfs file system has also been updated (though is still in a developmental mode) and Google's experimental TCP Fast Open extension has been added, along with additional network drivers, more virtualisation options and additional processor support. Sleepwalk to the source for the complete changelog.
+
+

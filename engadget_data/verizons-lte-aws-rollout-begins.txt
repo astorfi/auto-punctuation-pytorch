@@ -1,0 +1,20 @@
+
+The prospect of faster LTE over AWS frequencies has made Verizon lick its chops since late 2011, and now it's finally starting to sate its speed-demon appetite. Big Red has confirmed to PhoneScoop that many of its "major markets" are now being graced with the fresh spectrum (Band 4, if you're curious), which is expected to boost bandwidth, help its infrastructure cope with growth and improve reliability. While the carrier didn't specify which areas are seeing the rollout, several reports indicate that the new frequency has arrived in parts of New York City. In particular, GigaOM reader Milan Milanovic has pulled down 80 Mbps on the new waves while in Midtown Manhattan, with uploads hovering around 15 Mbps. Of course, those speeds are sure to take a dive as more and more folks jump on the bandwagon. Milanovic says fellow network testers have seen Verizon activate AWS in Chicago and Los Angeles, but we've yet to spot speed test results for those areas.
+
+
+Before you get too excited at the prospect of increased bandwidth, keep in mind that only handsets with the appropriate radios can surf the AWS band. However, Verizon says an update for phones sporting the right hardware, such as the Galaxy S 4, is due in the near future. There's no word on how quickly AWS will spread throughout the wireless telco's domestic empire, but we've reached out for a timeline and will update things here if and when we get one.
+
+
+
+Update: Verizon has passed along the following statement on LTE over AWS, compatible devices and software updates:
+
+As our customers' wireless data usage continues to grow, AWS spectrum is being deployed to ensure the continued consistent reliability and capacity of our 4G LTE network. Verizon Wireless has begun activating 4G LTE service on its AWS spectrum in many of our major markets across the US. A limited number of devices are AWS capable at this time. We plan to push a software upgrade to other AWS-capable devices in the near future.
+Update 2: Reader grantmethepower has chimed in to let us know that he's seeing 72 Mbps down and 25 Mbps up in East Los Angeles. Look out below for a screencap of the speed test.
+
+
+[Main image credit: Milan Milanovic]
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

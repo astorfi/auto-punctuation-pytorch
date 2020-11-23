@@ -1,0 +1,4 @@
+
+ There was a certain degree of irony to the first CyanogenMod 10.1 nightly reaching a lone device that already runs Android 4.2. What about the rest of us? Thankfully, logic is getting the upper hand with the arrival of regular test builds for a much wider hardware selection. All versions of the Galaxy Nexus, Nexus 7 and Nexus 10 get their expected turn at the code. However, the mix also includes devices that weren't predestined to receive an official update to the latest instance of Jelly Bean, such as ASUS' Transformer Pad Infinity and Samsung devices ranging from the original Galaxy S through to both Galaxy Tab 2 slates. It's still throwing caution to the wind by running an unfinished version of unofficial firmware, but we're sure CyanogenMod's target audience is comfortable enough with the risks to visit the source link.
+
+

@@ -1,0 +1,17 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+ We've seen a few stabs at smartphone-enhanced car diagnostics as of late, but many good solutions like Automatic Link and Delphi's Vehicle Diagnostics are primarily useful after you've parked. The upcoming Dash OBD-II adapter is certainly up to that side of the job, telling a Bluetooth-connected iOS device (and eventually, Android) about your car's problems and estimating fuel costs based on the gas tank's levels. Where it stands out is its usefulness while on the road: the custom app offers custom live gauges, including a Green-Meter for ideal fuel economy that you won't usually find in a real instrument cluster. There's even a dashcam mode that overlays travel details on captured video, whether it's to support insurance claims or just to immortalize a drive through the back country.
+
+
+
+ If the Dash approach sounds intriguing, you'll be glad to hear that the contribution tiers are simple. Drivers who want their own Dash can pledge $69 if they live in the US, or $20 more if they're in Canada; adding another $51 to either pledge bundles a second model for two-car households. Both the mobile app and a web-based logging service will be free. Those who donate should get their units in October if Dash makes its $750,000 goal, although eager adopters willing to spend $150 on a beta tester's tier should get a not-quite-finished example in July. Hit the source link if you'd like your car's data to be more of a constant companion.
+
+ Update: A few days after we first posted, the Dash team has let us know that it's officially planning to support Android devices that have Bluetooth 4.0, and also expects to support relatively recent cars in Australia, Europe, New Zealand and the UK.
+
+ Update 2: Dash has been pulled from Kickstarter due to an intellectual property dispute; hopefully this is shortlived, as was the case with the GameStick. Thanks to Brian for the heads-up.
+
+ Update 3: The project has quietly come back as Lynk -- obviously, naming was the main issue. Feel free to make a pledge once again.
+
+  Previous project update: Although it's been just a few days since we looked at the Duo 3D motion sensor, it's been making solid progress: there's over $36,300 raised with more than three weeks left. It still has to meet a $110,000 target before becoming a reality, however, so please consider a pledge if you'd like to see a DIY alternative in motion control.
+
+

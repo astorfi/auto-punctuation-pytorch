@@ -1,0 +1,29 @@
+
+ 
+
+If you had told me years ago that Microsoft would come out with a futuristic augmented reality headset, I'd have said you were nuts. And yet, a few months ago, it did exactly that. The headset is called HoloLens, which, when worn, allows you to interact with holographic objects set in the real world. It's pretty crazy, sci-fi-level stuff -- as we saw earlier this week at Build, you could have Windows apps floating around you as you sit in your living room or walk around a projected image of a human skeleton. Yesterday, in a 90-minute presentation, I not only had the chance to get my hands on a much more polished version of the hardware, but also tried my hand at creating my very own holographic app.
+
+
+
+
+
+
+First, let's talk hardware. Unlike the rough early prototype we saw in January (which was burdened by a tethered computer and exposed circuitry), the HoloLens I tried out yesterday actually looks like the product seen in press photos and promotional videos. The headset is essentially comprised of two parts -- a headband that you secure to your noggin, along with an attached visor. First, you'll have to place the headband around your head similar to the way you'd don a backwards baseball cap -- front up, back down -- and then tighten it with an adjustment wheel. The headband is there to support the visor so it doesn't weigh down your nose. From there, you then tilt and slide the visor around to fit your face.
+
+While the model I tried is certainly better than the one we saw earlier this year -- it's an all-in-one unit complete with built-in battery and tiny speakers -- it could still use some improvement. Fitting the headband was a chore every single time; I couldn't get it to stay still without it slipping around. And even though you can wear the HoloLens with glasses, it just felt a little more cumbersome trying to adjust the visor to fit around them. With enough help from a Microsoft employee, I was able to put them on each time, but it was still a lot more difficult than I anticipated. It's definitely still a prototype, which could explain why Microsoft is so secretive about it -- no one was allowed to take any photos or videos during the demo. Attendees were even instructed to keep all our belongings (yes, even our phones) in lockers set up outside the conference room. This was the same precaution used during the January event, which tells us Microsoft is still being very guarded.
+
+The HoloLens field of view isn't this big.
+But the real magic behind the HoloLens is what you see when you put it on. As we mentioned back in January, HoloLens is an augmented reality headset and not a VR one. That means you won't get a display that fills your entire field of vision and the experience won't be as immersive. Think of it as a really fancy pair of ski goggles -- you can see through them except for a small display of "mixed reality" in the middle. This does mean, however, that the field of view for holographic apps is actually quite small -- they don't take up the entire room like Microsoft's demos and promotional videos might suggest.
+
+Now onto the actual presentation. I was in a group of 30 or so journalists and we basically went through an express version of what Microsoft is calling a "Holographic Academy" session for developers (the original developer edition takes four hours, not 90 minutes). With the assistance of a helpful Microsoft mentor and pre-written code, we were taught to use Unity 3D and Microsoft's Visual Studio to cobble together a holographic application, adding specific features and action triggers to it along the way.
+
+At first, the app was simply a static 3D structure that consisted of a bunch of origami sculptures -- cubes, paper airplanes and a couple of paper balls -- on top of a giant notepad. Then I learned to add a small red ring cursor, which I could move around simply by looking at where I wanted it to go. From there, I added the ability to "tap" an object by waving my finger in front of it, and soon I was able to nudge those paper balls from the sculpture to the floor. Next I included voice commands, so I could say "drop sphere" and the balls would fall off the structure. At one point, I was able to see the wireframe of the room as the HoloLens attempted to make sense of its surroundings. The app wasn't all visual either -- we were also instructed to add "spatial sound" so that the closer you were to the object, the louder the sound.
+
+The commands all worked pretty well, and I was surprised by how instantly the actions triggered. Yet, the experience wasn't really perfect either. Midair finger taps often took a couple of tries before anything would happen and the visuals did seem a little glitchy -- sometimes they would disappear and then reappear depending on where I looked. It's important to remember that this is all very much in beta, however.
+
+Microsoft saved the best demo for last. We were told to add a target in the middle of the notepad so that when the paper balls fell, the notepad would explode in a puff of smoke, exposing a spacious "underworld" with green hills, a river and a flying paper bird. It was pretty hilarious to see a dozen or so journalists on their hands and knees trying to make out what was going on in a fictional hole in the ground.
+
+On the whole, it's still early days yet for HoloLens as far as hardware goes -- the fit and finish are still very rough around the edges. But judging by how easy it was to whip up an app, software is probably the HoloLens' most intriguing characteristic, especially since developers can make any Windows 10 app compatible with it. I suspect that whenever HoloLens makes its public debut, it'll have a whole slew of apps ready to launch alongside the device. It just remains to be seen if people will actually buy it.
+
+
+ 

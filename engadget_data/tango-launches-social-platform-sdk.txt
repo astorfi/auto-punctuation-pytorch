@@ -1,0 +1,4 @@
+
+Tango has wanted to expand beyond the basics of multi-platform messaging for awhile, going so far as to add games within its own app. It now wants to become the social glue for just about everyone: it's launching a platform for other apps. The new SDK both integrates Tango chat into titles and make its easy to send app invitations to anyone using Tango, with leaderboards when games are involved. The company has garnered some early support from developers like Bubble Gum Interactive and Gameloft, which plan to release Tango-aware iOS versions of Jetpack Jinx and Candy Block Breaker in the near future. Android users will have to wait until July to get their shot at these two games, but developers who want more sociable apps can apply to use the SDK today.
+
+

@@ -1,0 +1,14 @@
+
+ 
+
+Google has cobbled together yet another fun Chrome Experiment, and this time it's Cube Slam, a Pong-inspired tennis-style game with video chat support built-in. It was developed with WebRTC, an open source project that lets you enable video conferencing in the browser without plug-ins. This way, you can initiate a game with a friend just by sharing a link. The idea here is to propel a cube at your friend three times in a row until the screen collapses. Various power-ups like fireballs, lasers and shields are available along the way and every level presents an increasingly difficult set of obstacles and challenges.
+
+
+If you're feeling anti-social, you can also play against a computer character called Bob the Bear (seen above). Indeed, as WebRTC is not available on mobile just yet, the Bear will be your only opponent if you want to play the game on your phone or tablet. We were able to play a single-player game on Safari and Firefox, but Chrome is required for multi-player. Offline play is also available by downloading the app from the Chrome Web Store. Head on past the break to watch a demo of the game in action, or just click on the appropriate source to start hurling cubes at Bob. 
+
+
+ 
+
+
+
+ 

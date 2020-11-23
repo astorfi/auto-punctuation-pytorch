@@ -1,0 +1,6 @@
+
+ We all know about the central issue surrounding iOS 6. For the suits and ties among us, however, there's a potentially more glaring problem with Exchange support. Some users quick to upgrade to Apple's latest mobile OS report losing automatic push delivery of their email, requiring that they check for themselves to get any fresh messages. The issue isn't carrier- or device-specific, and attempts to reboot, reconfigure or restore devices are at best temporary fixes: what flows smoothly at first runs dry several hours later. Apple technicians are aware that the flaw exists, but it's tough to know if and when engineers will have a fix -- the company typically waits until it has a solution in hand before it goes on the record. We've reached out to Apple for a possible comment all the same. In the meantime, let us know if your Exchange access (or push data as a whole) is going awry.  [Thanks, Daniel]
+
+ %Poll-78044%
+
+

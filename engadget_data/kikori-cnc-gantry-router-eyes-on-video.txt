@@ -1,0 +1,17 @@
+
+ 
+ Judah Sher's cubicle wasn't originally on our slate of scheduled stops during yesterday's trip to the Artisan's Asylum hacker space in Somerville, Massachusetts, but the man behind the Kikori CNC gantry router lured us in with a rather large piece of plywood leaned up against a wall, reading "Sindrian Arts Welcomes Engadget," our familiar logo carved out in big letters. The wood was cut in Sher's sawdust-covered space, using the Kikori, one of the more unwieldy devices in the space's 118 cubes.
+
+
+
+
+ 
+ The low cost gantry router was created with help from a Kickstarter campaign, which hit its $20,000 goal late last July. As promised, Sher has open sourced the project, and interested parties can download the design plans to create their own Kikori at home -- or, for $4,000, you can pick up a kit with most of the pieces (sans table, router and computer) from his site. The Kikori is a CNC (computer numerical control) router, controlled by designs created on a connected PC, capable of maintaining accuracy within 1/32 of an inch when plowing through plywood. And, as you can see in the above video, it does so pretty quickly as Sher recreates our logo on a small sheet of wood.
+
+ 
+ It can tackle much larger products, with a cutting area of 90″ by 50″ by 6.5″. Sher has also set up his own Kikori to interface with a Wiimote, moving the gantry back and forth with the motion controller. Even cooler, is the prospect of self-replication -- the Kikori is capable of building its own parts -- in fact, the gantry on top of the unit in Sher's cube was build using an older model. The creator assured us that he's built a "fail-safe" into the design, however, explaining that while it can self-replicate, it can't yet self-assemble, so the streets of Somerville shouldn't be overrun by killer Kikori any time soon.
+
+ 
+ Sher's army of creations goes well beyond plywood signs. The above balisong screwdriver -- sort of a butterfly knife for handymen -- was one of the cooler products we saw floating around his cube. You can get more information on the Kikori -- and plans to make your own -- in the source link below.
+
+

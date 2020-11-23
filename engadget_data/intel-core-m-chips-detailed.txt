@@ -1,0 +1,19 @@
+
+
+Indisputably, the star of this year's IFA show is going to be wearables: round ones, flashy ones, head-covering ones. After that, though, you're also going to see a lot of super-thin tablets and 2-in-1 PCs, many of them made possible by Intel's new low-power Core M chips. Intel first teased these processors earlier in the summer, in the form of a 7.2mm-thick tablet that was even thinner than the iPad Air. Now many such systems are about to go on sale, which means it's time for Intel to fully explain what these new chips are capable of.
+
+
+
+
+To be clear, although these CPUs fall into the "Broadwell" family -- the one that comes after the current Haswell line -- these are not the replacements for Intel's standard-voltage fourth-generation Core processors, the ones inside most new high-end laptops. Those won't come until sometime next year. Rather, Core M is the follow-on to a specific variant of Haswell processors, the ultra-low-powered "Y series," which are already used in 2-in-1 PCs like this. Indeed, Core M is also meant for 2-in-1's (plus super-thin notebooks); it just promises faster performance and longer battery life. You know, like you'd expect on a new chip.
+
+Because Intel moved from a 22-nanometer process with Haswell to a 14-nanometer one with Broadwell, this new crop of PCs will be both thinner and lighter than was previously possible for a full-fledged PC. In particular, Intel says some of these devices will measure as little as 7mm thick, though the company has warned from the beginning that not every Core M device will be as thin as that iPad Air-like tablet we mentioned earlier. Again, all this is possible thanks to some significantly shrunken components. The motherboard alone is 25 percent smaller; the die size, meanwhile, is 37 percent smaller.
+
+
+As for power consumption, the power draw can go up to 6W, though Intel says the typical TDP for systems on the market will be 4.5W. As a result, the company claims you can expect up to 1.7 hours more battery life versus Haswell-Y depending on the use case, with the biggest gains coming from local 1080p video playback. These systems should run cool enough, too, that just about all of them will be fanless. (You could technically do this with a 4.5W-TDP Haswell CPU, though most PC makers chose not to.) Additionally, Intel says CPU performance is up to 50 percent faster, with Intel's integrated HD 5300 graphics notching a 40 percent performance improvement.
+
+Other features of these processors include Wireless Display 5.0; Intel's Smart Sound technology, which allows the device to wake on voice; and native support for PCIe storage disks. Core M chips will eventually support the WiGig wireless docking standard as well -- just not at launch, according to Intel. That last bit is important, as it's a key step in Intel's plan to one day enable PCs with zero cables or ports.
+
+All told, more than 20 models with Core M are on the way, according to Intel, with the first being Lenovo's just-announced ThinkPad Helix. For now, Intel is shipping three different processor SKUs, the specs of which you can find in the table below. More CPU options will follow early next year, including some vPro-enabled chips for corporate-issued machines. Eventually, too, Intel still says prices will drop as low as $599 -- just don't count on seeing anything that cheap right away. Everything you'll see here at IFA is likely to be a bit pricier.
+
+

@@ -1,0 +1,10 @@
+
+Google Play game developers and players alike are getting a quartet of game-changing additions today: real-time multiplayer, leaderboards, cloud saves and achievements. And that's not all -- the latter three services will function cross-platform between Android, iOS and the web. The whole initiative is called -- unsurprisingly -- "Google Play Game Services," and it's available today in a smattering of games. Unlike Apple's Game Center application, what Google's offering is backend support for developers rather than a standalone application. Think of it more like OpenFeint than Game Center -- you can sign in using your Google+ login in-game, and that login will track your identity (including leaderboard scores, achievements and saves) across various games and devices.
+
+
+Any developer launching a game on the Google Play store has access to game services, though Google isn't making it an obligation. "We won't make it a mandatory exercise, or have any certification process around it," Google lead product manager Greg Hartrell told us. "We create fantastic services that allow developers to create these great game experiences, and help promote their discovery, help retain their users and keep them engaged."
+
+
+
+
+Beyond offering a new suite of functionality, game services comes with new APIs for monitoring piracy -- regularly cited by game devs as the number one reason for not publishing on Android. "Game services introduces APIs to allow for additional checks in the game to see if the game was purchased through the Play Store," Hartrell said. Of course, it's still up to developers to do the actual policing. "A developer can leverage those checks and see how they wanna handle the piracy of their game when it's detected," he added.

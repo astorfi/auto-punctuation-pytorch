@@ -1,0 +1,12 @@
+
+ 
+Though it really came to a head with the recently-launched Inspire 4G, users have noticed that there really aren't many phones in AT&T's stable that deliver stellar upload speeds -- the Atrix 4G is suffering the same sub-megabit performance, as are older devices that should seemingly support HSUPA like the Samsung Captivate.
+
+We've chatted in the past few days with a source who offers an interesting explanation: AT&T currently requires that all handsets that it sells "handshake" with the network as 3GPP Release 5 devices, the last official set of 3G specifications that lacked support for HSUPA. That feature -- also known as EDCH, or FDD Enhanced Uplink -- was added in Release 6. Though AT&T is apparently working on permitting the bulk of its handsets to handshake Release 6, presently only the iPhone 4 (and presumably all of its recent data devices like USB modems, which may also use Release 7) are allowed. Neither we, nor our source, know why this is. Our source believes that the Release 6 certification may happen within a "month or two," which would explain why some AT&T sales reps in live HSPA+ areas are telling customers that the "4G network" isn't live yet.
+
+You can form your own conclusions as to why AT&T might be imposing this arbitrary limitation, but we do know that "enhanced" backhaul figures prominently into the company's 4G story; there may be concerns that flipping on HSUPA for everyone right now would overwhelm its legacy infrastructure. At any rate, it sounds like this could all be solved soon through a combination of network changes and possibly firmware updates for individual devices, so let's keep our fingers crossed.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

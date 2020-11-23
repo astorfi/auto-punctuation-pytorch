@@ -1,0 +1,5 @@
+
+  PSP hacker "FreePlay" has turned his gaze to the PS3, and come up with a method for the first PS3 homebrew outside of Linux and that little "hello world" proof of concept a few months back. The minimal devkit doesn't seem built to take advantage of the PS3's wiles, however, and is instead working with the Java prowess built into the Blu-ray playback end of the PS3. Who knows how much power that'll lend to homebrew developers, but it's Java, so we're not expecting great things either way. Wake us when we can play PS2 games, would you?
+      
+
+ 

@@ -1,0 +1,43 @@
+
+They said it wouldn't last. And they -- pundits, analysts, bloggers, GSM fanatics -- were right. WiMAX, that flavor of 4G found in the 2500MHz band, has proven to be more of a hindrance than help during Sprint's transition from underdog to reinvigorated titan. Then there are the kerfuffles it's endured standing on the sidelines -- namely, watching one-time LTE partner LightSquared squander its regulatory good graces. Beleaguered would be putting it mildly; Sprint faces a treacherous climb uphill to the mobile Olympus where Verizon, AT&T and now-spectrum-rich T-Mobile sit -- after all, it's hard to change the tide of public perception, overcome the limitations of a dreadful 3G CDMA network and move away from weak third-party 4G signals. Yet, with all of those negatives working against it, a planned rollover to LTE technology might just be the panacea Sprint has so badly needed.
+
+
+Right now, at least, a wish and a hope are all Sprint can dole out to existing subscribers toying with the idea of switching carriers. Its nascent LTE network, currently in testing across six US cities, hasn't been cleared for launch, which makes its first 4G handset, the Viper 4G LTE, a dress rehearsal of sorts. And what a low-key affair it is: no cutting-edge aesthetics or kickstand here, just mid-range specs and a humble design made from recycled materials. But for anyone itching to surf those faster waves, LG's dual-core, NFC-enabled workhorse could be a tempting buy when it goes on sale Sunday for $100 (with a two-year contract). So will the dangling carrot of faster 4G persuade consumers to choose this over all those other mid-tier Android phones? Let's find out.
+
+
+
+
+HardwareAlmost every time we've handed someone the Viper, we've been greeted with initial recoil, followed by resigned dismay. It makes you wonder if LG put this phone in front of a focus group before sending it along to retail shelves. At 0.46 inches thick, it certainly cuts a striking figure, just not in the way most consumers would want. Had the Viper been put on a diet, it could've approached decently likable status. Instead, this clunker is saddled with a chassis so engorged that you'd expect Sprint to bundle it with a mini in-home 4G LTE cell tower just to accommodate its capaciousness.
+
+
+Will that matter to users scraping by on their purse strings, eager to experience speeds similar to what AT&T and Big Red are offering? Not likely, to be totally honest. The faux-metal brushed casing (it's actually 50 percent recycled plastic) is home to LG's logo and a 5-megapixel module with a single LED flash. That chintzy back curves up to the screen where it's met by a silvery border. The 3.5mm headphone jack and power button sit on the top edge, while the volume rocker and micro-USB socket reside on the left -- an arrangement that frees up the remaining real estate, giving the phone a somewhat sterile feel. Peel off the casing and you'll find an NFC chip embedded in the shell, as well as a 1,700mAh Li-ion battery and microSD slot, which comes stuffed with a complimentary 4GB card.
+
+
+Shrouded in a black bezel is that 4-inch (800 x 400) NOVA display, flanked by a Sprint logo, VGA camera, metallic-trimmed earpiece and four capacitive Android buttons. Curiously, those navigation keys don't stay lit for very long, so you'll have to become quite familiar with their layout if you want to carry on with your daily routine, uninterrupted. For what it's worth, the screen is readable from a variety of angles, though you might encounter some distracting glare. And for the more accident-prone among Sprint's subscriber base, the Viper also benefits from a Gorilla Glass coating, keeping its face (mostly) free from scratches.
+
+Performance and battery life
+Stock Gingerbread on an Android handset was a much clamored-for breath of fresh air back in mid-2011. Now, it just smacks of something old, a second-hand cast-off lacking the refinement, visual uniformity and software optimization ushered in with Ice Cream Sandwich. Thankfully, an upgrade to Android 4.0 is on the way, though LG and Sprint aren't committing to an ETA. That's not to say the two companies haven't added their own spices to the UI -- some subtle signs of skinning (read: a different camera app and Sprint's ID packs) are present.
+
+Though our experience with the device was often pleasant, transitions can start to feel irksome after a while: instead of that swooping animation used for a switch between app drawer and homescreen, LG gussied the Viper up with a gradual dissolve that quickly escalates from elegant to annoying. Yes, it's a pretty embellishment, but it also contributes to a feeling of perceived slowness, even though the phone is actually the opposite: powered by a dual-core 1.2GHz MSM8660 chip and 1GB of RAM, this handset proved more than capable of quickly switching between apps.
+
+
+To give you a fair sense of how the Viper stacks up alongside similarly specced budget offerings, we pitted it against AT&T's LTE-enabled Pantech Burst and T-Mobile's Samsung Galaxy S Blaze 4G. All three run a version of Qualcomm's Snapdragon S3 SoC, although the Viper is clocked 300MHz lower than its dual-core 1.5GHz brethren, so bear that in mind as you look over those mixed benchmark results. From a raw processing standpoint, LG's handset takes a firm backseat to its contenders, coming in dead last in Quadrant, SunSpider and Linpack single- and multi-thread. Where graphical prowess is concerned, however, it charges to the head of the class, toppling the competition with consistently higher frame rates.
+
+    LG Viper 4G LTE Pantech Burst Galaxy S Blaze 4G   Quadrant (v2) 3,031 3,189 3,600   Linpack single-thread (MFLOPS) 44.3 50.1 44.5   Linpack multi-thread (MFLOPS) 72.9 80.6 75.4   NenaMark1 (fps) 61.9 56.0 55.9   NenaMark2 (fps) 55.8 53.0 55.3   Neocore 61.7 56.2 55.3   SunSpider 9.1 (ms, lower scores are better) 2,952.8 2,692 3,068   Vellamo 1,226 1,151 1,009   Battery life 4.8 hours 7.5 hours 11.3 hours  Even when limited to Sprint's 3G network, web surfing within the native Android browser is a relatively painless affair. Full desktop pages render in under 20 seconds and pinch-to-zoom performs admirably, tracking our finger movements with only a slight loss in detail.
+
+A product sold on the back of a phantom service? Meet the Viper. Without the support of Sprint's forthcoming 4G LTE network, LG's handset is forced to sit alongside the other 3G products currently staffing Sprint's CDMA lineup. So, while we'd like to tell you how it'll perform with that specific radio tuned into those next-gen waves, we can't -- there's no available signal here in New York City to test.
+
+
+What we can attest to is the longevity of its battery while in EVDO-only mode (you can enable or disable this in the settings menu). Under the stress of our standard rundown test the handset lasted four hours and 49 minutes. That's with brightness set to 50 percent, WiFi and GPS enabled, Twitter syncing at 15-minute intervals and one push email account active. With light to moderate use, you should be able to force the phone past the 24-hour mark, especially if you opt for more conservative settings.
+
+Network speeds
+GSM carriers here in the US have long trumped their CDMA counterparts in terms of speed. Even so, anyone familiar Sprint's 3G network should know not to expect fast rates, which is precisely why subscribers might be tempted by the promise of LTE. Sadly, without that live 4G network, the phone is at the mercy of Sprint's lackluster EVDO speeds. Around New York City, which is blanketed in 3G coverage, we saw download and upload speeds max out at 1.3Mbps and 0.90Mbps, respectively, with the average hovering between 0.15Mbps to 1.05Mbps down and 0.21Mbps to 0.86Mbps up. In areas where signal penetration was relatively weak, we waited with increasing aggravation for a 2MB app to download and install. Things could change mid-year when Sprint flips the switch on its repurposed radio waves, but for now consider yourself warned.
+
+Camera
+In a bid to seem different, LG's outfitted the Viper with its own camera app, putting a shred of distance between it and all those other Gingerbread handsets. Users won't be disappointed with the customizations on tap, nor will they be incredibly amazed -- it offers all of the features we've come to accept as standard on modern smartphones. While you don't have the option to tap-to-snap, you can highlight an area on screen to focus in on your intended subject. We do have one minor gripe with the app, and that's the lag between shots.
+
+
+
+
+
+

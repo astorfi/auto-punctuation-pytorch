@@ -1,0 +1,14 @@
+
+ When most people think of Verizon and sports, the company's NFL Mobile app usually comes to mind. However, this may soon be changing thanks in part to a collaboration between the carrier and Cisco. A project referred to as the "Connected Athlete" will soon allow people to track an athlete's step-by-step performance in real-time. Here's how it works: a user's gear (helmet, shoes and gloves) is outfitted with sets of motion and pressure detecting sensors that track information based on its wearer's motions. Using Verizon's wireless network to transmit data, the information is fed to the cloud through Cisco's 819 Integrated Services Router.
+
+ Aside from counting how many steps a running back took in a game, the Connected Athlete may also be able to prevent injuries by tracking an athlete's performance habits, such as favoring a specific foot over another. The demonstration that Verizon had on hand was connected to a football helmet that would ideally monitor the impact a player absorbed during a collision. If used properly, Verizon hopes that this type of data will help coaches and athletes catch a progressing injury before it happens. 
+
+
+
+
+ While this information sounds exciting, don't expect to find it on the shelf at your local sporting goods store anytime soon. Verizon is hoping to release the Connected Athlete to enterprise customer by the second half of the year and eventually follow up with a consumer release at an undetermined time.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

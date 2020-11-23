@@ -1,0 +1,8 @@
+
+ 
+Not a lot of details to be had, but NVIDIA wants you to know Fermi isn't the company's be-all, end-all GPU -- "hundreds of engineers" are already hard at work on Codename Kepler, expected to go to production this year and ship in 2011. Kepler's based on a 28nm process, we're told, and will thankfully deliver an estimated 3 to 4 times the performance per watt compared to Fermi, and hopefully run cool. If you built your last PC to last, however, you might wait for Maxwell in 2013, supposedly bringing a sixteen-fold increase in parallel graphics-based computing just two years after that, including advanced features like the ability to autonomously process some content independent of a CPU.
+
+Update: Does this roadmap mean we should expect new GPUs from NVIDIA every two years? Jen-Hsun Huang wouldn't commit to that, but said that there will be "mid-life kicker" product launches in-between each new NVIDIA chip to keep the wheels turning. 
+      
+
+ 

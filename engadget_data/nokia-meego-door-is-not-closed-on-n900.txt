@@ -1,0 +1,14 @@
+
+       
+Now that we have clarity with regard to a Windows Phone 7 update on the HD2 (sorry, folks), let's move on to the next contentious platform: Nokia's N900 and MeeGo. As Nokia's only Cortex-A8 handset, there's plenty of hope that Nokia sees fit to upgrade the N900 to MeeGo once the unified Maemo and Moblin OS is ready for consumers. Hope all but crushed yesterday after CNET reported the following from an unnamed, but apparently official Nokia source:
+
+"Maemo on Nokia N900 is not upgradeable to MeeGo."
+We ran this past Ray Haddow, Senior Manager within Nokia Communications who took the quote back to the project team in Finland. According to Ray, the "the door is not closed" with regard to MeeGo on the N900 -- a final decision has not been made. This also echos the words of Valtteri Halla when he announced the MeeGo repository in early March. In response to questions at the time, this one-bodied half of the MeeGo Technical Steering Group had this to day: 
+
+"N900 is a natural tool for Nokia to drive MeeGo support for our designs and for the ARM CPU architecture in general. We want to have baseline HW that is powerful, easily available for anyone and form-factor stuff so that one HW works for most platform and application development needs.
+
+That said, please do not take this yet as a commitment to fully productise MeeGo on N900. I am quite confident that we will end up having a really good developer distro for N900 already but committing to stabilise a consumer-grade MeeGo 1.0 (first half this year) for N900 is another story. That is a product business decision beyond my scope. Also, we do not yet know about MeeGo 1 release content. I am not yet sure if I would be personally ready to let my Maemo5 go for the first MeeGo release in my daily N900 use. Let's see."
+So, looks like another long game of wait and see, eh?
+      
+
+ 

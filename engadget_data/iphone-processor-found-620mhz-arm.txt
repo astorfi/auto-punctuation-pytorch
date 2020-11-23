@@ -1,0 +1,17 @@
+
+ 
+Looks like today's morning's firmware leak turned up some well hidden details about the iPhone's hardware engine -- and also confirming some reports we'd previously received. From what we can tell, it looks like the iPhone's got a 620MHz ARM chip running under the hood. Specifics:
+
+ARM1176JZF chip with TrustZone (enables trusted computing environment for media, apps, network, OS, etc. -- very bad for hackers)
+Can vary in clock speed up to 700MHz or more, depending on implementation (thanks, Nigma)
+ARM Intelligent Energy Manager (claimed to reduce power consumption 25-50% in portables)
+16K / 16K cache
+Features vector floating point coprocessor ("for embedded 3D-graphics")
+ARM Jazelle enabled for embedded Java execution (hmm...)
+SIMD, high perf integer CPU (8-stage pipeline, 675 Dhrystone, 2.1 MIPS)
+0.45 mW/MHz power draw (with cache) 
+
+Whatever it is Apple's got that thing doing, they're doing it right. Thus far our iPhone battery life tests have far exceeded expectations (more on that soon).Update: Sascha at Gear Log seems to think given the recently discovered Samsung chip in the iPhone, perhaps the processor in question is a Samsung S3C6400, a recently-produced 667MHz ARM1176JZF-based CPU that seems to fit the bill.
+      
+
+ 

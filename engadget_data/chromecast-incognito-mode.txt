@@ -1,0 +1,4 @@
+
+Chromecast is a pretty neat little gadget, but there are some things you might not want showing up in your browser history -- we'll leave it to your imagination as to what those things might be. With that in mind, the folks at Android Central have put together a brief walkthrough to explain how to use incognito tabs with Chromecast. It's pretty much the same way you'd access any extension in Chrome's disposable browser session: just type in "Chrome://extensions," find the Google Cast section and select the "Allow in incognito" option. While we're the last people to judge how you choose to use your dongle, some things should probably be kept private.
+
+

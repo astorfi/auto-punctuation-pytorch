@@ -1,0 +1,7 @@
+
+ 
+They're far from the first to try their hand at a brain-controlled wheelchair, but some researchers at the École polytechnique fédérale de Lausanne (or EPFL) in Switzerland seem to have pulled off a few new tricks with their latest project. Like some similar systems, this one relies on EEG readings to detect specific brain patterns, but it backs that up with some artificial intelligence that the researchers say allows for "shared control" of the wheelchair. That latter component is aided by a pair of cameras and some image processing software that allows the wheelchair to avoid obstacles, but it doesn't stop there -- the software is also able to distinguish between different types of objects. According to the researchers, that could let it go around a cabinet but pull up underneath a desk, for instance, or potentially even recognize the person's own desk and avoid others. Head on past the break to check it out in action.
+ 
+
+
+ 

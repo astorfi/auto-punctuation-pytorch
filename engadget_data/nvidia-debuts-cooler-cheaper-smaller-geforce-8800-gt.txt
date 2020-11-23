@@ -1,0 +1,4 @@
+
+ 
+Even if it's smaller, cooler, and cheaper than its higher end brethren, that unfortunately doesn't mean it's better: the formerly G92-codenamed NVIDIA GeForce 8800 GT sits in the middle of the 8800-series with a single slot configuration that uses 100 Watts less power than the top of the range model, but with a lower clock speed and six less "stream processors." It's a fair bit higher spec than the GTX and GTS models though, with the same "stream processor" (what the hell are these?) clock speed as the Ultra at 1500MHz, and a memory frequency of 900MHz. It also supports PCIe 2.0 and the PureVideo HD engine which offloads H.264 encoding onto the GPU. It sells for between $199-249, and should be available within the next few days at the usual online stores.
+ 

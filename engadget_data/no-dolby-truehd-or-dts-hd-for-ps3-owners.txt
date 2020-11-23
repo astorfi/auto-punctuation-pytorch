@@ -1,0 +1,6 @@
+
+ 
+When the PS3 hit the street it was recognized as one of the most full featured Blu-ray players to date, but it seem now that PS3 owners aren't getting everything they thought they were. It has recently been uncovered that although the PS3 does have an HDMI 1.3 port, the software does not support bit stream audio. What this means for Blu-ray fans is that when they finally pick up one of those new Onkyo receivers with HDMI 1.3, that they still can't enjoy Dolby TrueHD or DTS HD because there is no way to get the bits out of the PS3. Of course the DTS track can still be down mixed and PCM audio is supported, but so much for being the most capable Blu-ray player available. ** Dolby TrueHD can still be decoded inside the PS3 and sent as uncompressed audio to the AV receiver, but if the AV receiver has an integrated decoder it can't be used instead of the PS3's decoder. **** This was confirmed by a Sony representative.**
+      
+
+ 

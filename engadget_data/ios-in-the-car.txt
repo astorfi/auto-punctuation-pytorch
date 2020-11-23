@@ -1,0 +1,12 @@
+
+Apple's iOS in the Car, which we first met last summer at WWDC, may soon make an official debut. In fact, the dash-friendly interface has been hiding right under our noses in the public version of iOS 7.0.3. Developer Steven Troughton-Smith managed to capture an early version of the interface in action by emulating a vehicle display on his desktop -- he posted a video walkthrough of the pre-release software today. The current iteration appears to include a full-screen map, with simple touch controls and indicators framing the top and bottom. There's even a software home button, which can be used to switch between apps and return to the (currently nonexistent) home screen.
+
+
+Based on today's demo, you'll be able to enter a destination directly into the vehicle by speaking a search term, or by searching on a connected iPhone or iPad. Current functionality appears to be limited to basic location entry and map readouts, but it's definitely a work in progress -- another dev, Denis Stas, managed to get his hands on a screenshot from the iOS 7.1 beta, which offers a more iOS 7-like look and feel. We have yet to hear from vehicle manufacturers about confirmed partnerships with Apple, so there's no word on when iOS in the Car will actually hit the road, though judging by the tremendous interest in iOS integration in general, several agreements are already in the works.
+
+
+
+
+
+
+ 

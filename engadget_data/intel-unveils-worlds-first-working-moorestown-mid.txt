@@ -1,0 +1,8 @@
+
+ 
+This sexy MID has been dropping jaws for more than a year now. Unfortunately, the plastic mock-up has always been a non-working, gutless model with little more than a glossy screen and backlight to demonstrate the form factor Intel's gunning for with its future Moorestown Mobile Internet Devices. That all changed today when a world's first working, Moorestown prototype (which we think is the device above) hit the stage at Intel's Taipei, Developer Forum in the familiar hands of Anand Chandrasekher. Moorestown consists of a Lincroft micro-architecture that integrates the 45nm processor, graphics, memory controller, and video encode/decode functions onto a single, tiny chip with 10x less idle power draw than those first-gen, Atom-based MIDs and UMPCs. That's pretty Impressive. As we've heard before, we can expect the new Moorestown MIDs to hit in 2009 / 2010 with support for wireless 3G, WiMAX, GPS, Bluetooth and digital mobile TV. We can hardly wait. We'll update you with video just as soon as we can track it down. Until then, check Anand's original video demonstration of the concept from 2007 after the break.Update: Sadly, it now appears that the demonstration was little more than a validation board running fresh from the factory, three-day old Moorestown silicon in an Intel lab. Significant, but hardly a working MID prototype. A working Moorestown MID like that pictured above remains the stuff of Intel's graphics department fantasy for the time being.Read -- World's first Moorestown platformRead -- Moorestown MID prototype on display in Taipei
+
+ 
+
+
+ 

@@ -1,0 +1,12 @@
+
+When we reviewed Adidas' Smart Run training watch, we were very fond of it. That said, we had three major niggles: the poor battery life, the low volume of the media player and the inability to export your map/run data from either the watch itself, or the companion miCoach website. Today, we can strike all three off our gripe list. Exporting of GPS data from miCoach went live today (you can now import a GPX file to your training log of choice), while the latest firmware update improves the Smart Run's battery life considerably, activates the previously inaccessible Marathon Mode and jacks up the volume limit to personal best-inducing levels. What's more, Simon Drabble, Adidas' director for miCoach told Engadget there's even more to come:
+
+
+
+Today, we allow for the simple export of a .gpx file where a workout is recorded with GPS. The next step will be to allow platform to platform connectivity for data to be ported from miCoach to other existing communities and vice versa. Ultimately, it is no secret that we are targeting an open API in the not too distant future.
+
+
+
+So, if you were stuck to the couch with purchasing indecision, perhaps these tweaks will be enough to get you up on the starting blocks?
+
+

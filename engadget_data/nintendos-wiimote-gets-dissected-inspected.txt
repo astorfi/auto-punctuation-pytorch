@@ -1,0 +1,6 @@
+
+ 
+While the console launch frenzy has given us some exciting innards to look at lately, it's good to see someone finally take a big step away from that potentially hazardous (and sued) Wiimote, pick up a screwdriver, and delve right in. Similar to the precise movements that splayed the Wii itself, these folks used utmost caution (and a fairly nice digicam, too) when dissecting their brand new Wiimote. Beneath the casing was the IR sensor, capacitors, a Broadcom BCM2042 Bluetooth chip, vibration motor, LEDs, accelerometer, EEPROM, and a myriad of other random forms of circuitry. Interestingly enough, the kids behind the scenes got a little carried away and found that the "EEPROM contained all the constants like Bluetooth ID, firmware revision, etc.," while the Wiimote "functionality was burned into the Broadcom" chip itself. So if cramming a SIXAXIS controller into a model airplane is too amateur for you, crack open that Wiimote (before it does the same to you) and get to hacking.[Thanks, Kevin]
+      
+
+ 

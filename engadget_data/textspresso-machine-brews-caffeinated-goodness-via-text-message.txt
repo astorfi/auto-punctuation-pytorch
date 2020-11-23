@@ -1,0 +1,8 @@
+
+  The folks at Zipwhip may have unwittingly discovered a new business model. While the company is primarily focused on cloud messaging services, it's recently created an espresso maker that allows employees to whip up custom brews from the comfort of their mobile phone. Known as TextSpresso, it's based on the Jura Impressa XS90, but unlike the retail model, the machine accepts orders via SMS. As if that weren't enough, it's part of a larger system that's capable of printing employee names onto the foam (using edible ink) and then placing the drink onto a warming tray. TextSpresso is very much a custom job, but if you'd like an inside peek of the system -- complete with servo motors, an Arduino microcontroller and a retro-fitted Canon printer -- be sure to hop the break and dream of what could be.
+      
+
+ 
+
+    
+ 

@@ -1,0 +1,8 @@
+
+  While we already know that Qualcomm's Snapdragon S4 will offer a quad-core variant, incorporate LTE and use a 28nm manufacturing process, the company posted an article to its media blog ahead of Mobile World Congress showcasing the new features provided by the chipset's Image Signal Processor. You're likely familiar with some of the imaging functionality available in Qualcomm's existing Snapdragon processors -- technology like Scalado's Rewind (pictured above) which we've covered before. The new SoC cranks things up a notch with support for up to three cameras (two in the back for 3D plus one front-facing), 20-megapixel sensors and 1080p HD video recording at 30fps. In addition to zero shutter lag, the Snapdragon S4 includes proprietary 3A processing (autofocus, auto exposure and auto white balance) along with improved blink / smile detection, gaze estimation, range finding and image stabilization. Rounding things off are gesture detection / control, augmented reality and computer vision (via Quacomm's FastCV). Want to know more? Check out the source link below, then hit the break for video demos of the S4's image stabilization and gesture-based imaging chops.
+      
+
+ 
+
+  
+ 

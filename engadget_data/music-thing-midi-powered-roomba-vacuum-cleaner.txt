@@ -1,0 +1,9 @@
+
+ Each week Tom Whitwell of Music Thing highlights the best of the new music gear that's coming out, as well as noteworthy vintage equipment:
+
+Can there be any greater expression of man's ingenuity than hacking a robotic vacuum cleaner so that it can pay the Mario Brothers theme? Roombas contain a little beeper and several noisy motors. So Tod Kurt decided he could put the whole thing under MIDI control, so you can play a Roomba from a MIDI keyboard, or sequence it from a computer. 
+
+Tod wrote a Java application called RoombaMidi, which runs on a Mac driving the Roomba. Connect a keyboard, and when you play an E three octaves below middle C, the robot will spin left. Press the key harder, and it will spin faster. Play a low C sharp and the LED will flash. Hit the key harder, and it will change colour. The low C triggers the vacuum motor, which creates a kind of kick drum thud.  Despite featuring both the Pacman theme and Mario Brothers, Tod's demo video isn't too musical, but the sofware can control up to 16 Roombas over different MIDI channels, so a Roomba orchestra is surely coming soon.
+      
+
+ 

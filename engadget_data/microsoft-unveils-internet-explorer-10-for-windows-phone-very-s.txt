@@ -1,0 +1,4 @@
+
+ How do you perfectly complement a brand new mobile operating system? Why with a brand new browser designed to handle the modern web. Microsoft just took the wraps off Internet Explorer 10 for Windows Phone, and it looks to be a significant upgrade over the version that came bundled with Mango. In fact, it borrows quite heavily from its desktop sibling. The SmartScreen anti-phishing filter has finally been ported to the mobile space and performance is through the roof. Javascript performance has improved four-fold compared to Mango and HTML5 performance has doubled since Windows Phone 7.5. Microsoft was even willing to put the browser through its SunSpider paces on stage, hitting a blindingly fast 1,200ms. By comparison, the Galaxy S III only managed 1,460ms in our review. Perhaps most importantly for a primarily touch-driven device, though, IE 10 now includes touch support for HTML5 apps. We'd say that Microsoft has more than closed the mobile browser gap.
+
+

@@ -1,0 +1,13 @@
+
+ 
+Apple certainly took its sweet time releasing iTunes 10 yesterday, and we're beginning to think it's because the company was making a last-second change to its new Ping social-network-for-music: the removal of Facebook Connect for finding friends. Seriously -- although an option to find friends via Facebook was conspicuously present during Steve's keynote demos, it's not there anymore. Oddly, the option was there at the very beginning -- several Engadget staffers definitely saw a Facebook button when they signed up for Ping last night, and there's a whole thread on Apple's support site of people who also saw it and are now wondering where it's gone.
+
+Just to make things even more confusing, Kara Swisher at All Things D got two very different statements from Steve Jobs and Phil Schiller at the event yesterday: Schiller was enthusiastic about finding friends via Facebook, while Jobs said Zuckerberg and co. were demanding "onerous terms" that Apple refused. We're assuming Jobs was talking about something deeper than just finding friends via Connect, but it's still all very strange -- and as it stands, finding friends on Ping right now requires a fair bit of guesswork and searching, so we're hoping this all gets sorted soon. Check the video of Phil Schiller talking about Facebook and Ping after the break, as well as a snap of it (sort of) working from last night.
+
+Update: We can't confirm this, but we've just gotten a tip saying the problem is primarily on Facebook's end -- the service is currently denying requests from Ping, and the resulting errors apparently caused enough other problems for Apple to pull the plug on the connection entirely until it's fixed. That certainly would explain why Ping has seemed buggy and slow from the outset, but we're still waiting for some official explanation of what's going on.
+      
+
+ 
+
+
+ 

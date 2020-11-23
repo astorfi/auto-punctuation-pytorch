@@ -1,0 +1,9 @@
+
+ 
+"Dominator I" sounds more like a monster truck than a collection of small boxes that collectively erase 20 years of relatively secure wireless phone service, doesn't it? Alas, what you're looking at here is a convenient, plug-and-play solution for exploiting the hard work the world's hacking community has put into cracking the A5/1 encryption used on GSM networks in Europe and the US over the past few years. The system consists of two nondescript white boxes, two directional antennas that you'll point in the direction of your victim, and a laptop that you can use to get a glimpse at all of the phones currently connected to your nearest cell site and record up to four active calls simultaneously -- and if you're more of the text messaging type, Dominator I's got you covered there, too, with full access to SMS. The company claims that the system was "declassified only last week" and is completely undetectable both by the operator and the end user, putting it in this rare nexus of "awesome" and "completely terrifying." It can't do the 128-bit A5/3 used in UMTS, but now that it's been cracked in a somewhat practical way, we're sure the Dominator II can't be far behind. Follow the break for Meganet's video of the system in action.
+      
+
+ 
+
+
+ 

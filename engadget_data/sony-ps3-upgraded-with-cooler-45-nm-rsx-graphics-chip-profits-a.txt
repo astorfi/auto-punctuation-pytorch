@@ -1,0 +1,6 @@
+
+ 
+It's a milestone folks: the PS3 hardware is finally ready to generate a profit. The loss-leading console once estimated to cost Sony more than $800 per (losing between $241 and $307 per console sold back in 2006) has likely turned a corner thanks to a reduction in manufacturing costs. While Sony isn't saying anything on the matter, PocketNews confirms that the latest PS3 SKU -- CECH-2100A spotted in the FCC back in February -- uses an improved RSX graphics chip based on smaller 40-nm processes similar to the PS3 Slim's new 45-nm Cell processor. The result is a 15 percent decrease in console power consumption when compared to the 120GB CECH-2000A PS3 Slim sporting a 65-nm RSX. The cooler running chip allows for a stealthier heat sink and power supply in addition to a smaller cooling unit. Those changes combined with fewer adjoining chips around the shrunken RSX should make the console cheaper to build which is good news to Sony's sagging bottom line.
+
+Update: PocketNews has confirmed with Sony that the RSX graphics chip is built using 40-nm processes (not 45-nm). Post updated to reflect the change.
+ 

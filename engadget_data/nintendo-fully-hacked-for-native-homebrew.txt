@@ -1,0 +1,6 @@
+
+ 
+The homebrew scene hasn't gotten a whole lot accomplished with this latest round of home consoles -- which isn't surprising given the difficulty of the task and lack of incentives to succeed. Especially with the PS3 shipping with Linux compatibility, the Wii boasting VLC, and the 360 being such a chore to hack and keep hacked, there's really not much of a point. The Wii was compromised pretty early on to be able to play burned discs and GameCube homebrew such as Linux, but until now Nintendo has managed to isolate Wii hardware such as the extra horsepower of the console and wireless connectivity from hackers. But the walls are coming down. Some hackers from Germany have just showed off their fully hacked Wii at the 24th Annual Chaos Communication Congress. Nothing fancy is running yet, all they've achieved so far is a proof of concept that they've bypassed the Wii's protection with some encryption codes they swiped from the Wii's memory. Apparently a bootable Linux DVD is on the way, and we can't wait to see what homebrew coders manage to pull off with that Wiimote pointed where it belongs.[Via WiiNintendo]
+      
+
+ 

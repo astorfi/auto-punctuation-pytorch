@@ -1,0 +1,19 @@
+
+
+
+
+You probably already know that Sony BMG has started selling at least some CDs that include
+built-in copy-protection, making it difficult to play the
+CDs on a computer using any media player other than the one bundled on the CD, and limiting the number of copies you
+can make. But it turns out that, behind the scenes, Sony may also be installing invisible services in the form of a
+hidden directory containing cloaked files, which run when you use that media player. Mark Russinovich of SysInternals
+did a detailed analysis of a "rootkit" (their word, not ours) he found on his PC, and discovered that, not only was it
+surreptitiously installed when he played a protected CD, but it also hogged system resources and integrated itself into
+Windows so deeply that uninstalling it disabled his CD drive. Mark's conclusion? Choice words such as "frustrating and
+irritating," "malware," and "the software is poorly written and provides no means for uninstall." Yowch. Sony, you want
+to respond? (Though, Mark, seriously: Van Zant?)
+
+
+
+
+ 

@@ -1,0 +1,4 @@
+
+ Raspberry Pi's Model B computer will be no stranger to regular readers. We've seen it turn up in all sorts of projects, and generally stretched in various directions. If you were holding out for the cheaper, lower specced Model A however, your time is near. A recent post on the official Raspberry Pi site confirms that the first Model A samples are rolling off the production line. The main differences? Whereas Model B has two USB ports and 512 MB of RAM plus Ethernet, Model A sports only the one port, has half the RAM, and no Ethernet connection, making it more power economical as well as $10 cheaper. Price likely isn't the issue here, but if you were after the even more stripped back version, it's estimated they'll be ready to purchase online early next year.
+
+

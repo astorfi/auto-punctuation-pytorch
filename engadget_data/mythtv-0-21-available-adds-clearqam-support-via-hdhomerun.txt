@@ -1,0 +1,5 @@
+
+ It's been a while since we checked in on the MythTV project, just updated to version 0.21, most notably adding QAM recording for HDHomeRun owners. If merely recording unencrypted HDTV via cable isn't enough, upgraded users may notice lowered memory consumption, the ability to record main and/or secondary audio channels, a couple new official plugins and a bunch of other tweaks. Check the wiki for the full list and get your Linux DVR going.[Via TV Squad]
+      
+
+ 

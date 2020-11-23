@@ -1,0 +1,21 @@
+
+Intel used this year's Computex to officially debut Haswell-based Core processors, and it had no shortage of willing launch partners: seemingly everyone had at least one updated PC to reveal. The refinements to battery life and graphics also led to quite a few companies pushing the boundaries, whether it was in cutting-edge screens or exotic form factors. Quite frankly, there was a lot to cope with in several days -- enough so that we're putting the more important Haswell offerings in one convenient roundup. Read on for our look at the desktops, laptops and tablets that launched in sync with Taiwan's premier tech event.
+
+
+
+Convertibles
+It's apparent that PC builders haven't finished experimenting with new form factors: we saw a few convertible tablets arrive hand in hand with Computex. ASUS used Haswell to test the limits of design in what's arguably the most memorable product of the show, the Transformer Book Trio. The system is effectively two complete devices in one, with a full Core i7 laptop in the base and an Atom-powered Android tablet in its display. Could the Trio have relied on an Ivy Bridge chip? Possibly, but Haswell could give the PC the battery life it needs to be genuinely practical.
+
+Other convertibles were less about pushing the envelope and more about fulfilling promises that weren't kept in the Ivy Bridge era. A combination of Haswell with bigger batteries has given the updated Dell XPS 12 and new Sony VAIO Duo 13 the long battery life that their ancestors couldn't manage. And though we don't have many final specs for Dell's Yoga competitor, the XPS 11, we're hopeful Haswell is up to the task of powering a 2,560 x 1,440 display in such a tiny frame.
+
+Laptops and Ultrabooks
+Just about every PC builder with announcements timed for Computex had Haswell laptops waiting in the wings, so we won't mention every new model here. Companies like Acer, Dell, MSI, Origin PC and Toshiba all upgraded their bread-and-butter notebook lines with Intel's new technology, even if it was just to keep pace with the industry. There were few instances where we could see Intel's Iris and Iris Pro graphics cores in action, which suggests that many PC makers still prefer discrete chipsets when they want extra video performance.
+
+However, we saw more than a few instances where Haswell was vital for more than just a speed increase. Take Acer's second-generation Aspire S7 as an example: with the help of both new processors and a bigger battery, the Ultrabook should last longer on a charge and carry a sharper 2,560 x 1,440 display. Sony's VAIO Pro 11 and 13 can also deliver respectable runtimes despite their touchscreens, and the Fujitsu Lifebook UH90 is as thin as its predecessor even after moving to an extra-dense 3,200 x 1,800 LCD. If there's any one Computex trend that will last throughout 2013, it's this tendency toward no-compromise hardware revisions -- vendors no longer have to sacrifice longevity or screen resolution for the sake of thinness.
+
+Other companies turned to Haswell for gaming-friendly small laptops, where the new CPU's efficiency opened the door for dedicated graphics chips that weren't always viable before. Acer's Aspire S3, Gigabyte's U series, the Maingear Pulse 14 and Razer's 14-inch Blade all combined svelte profiles with mid-tier GeForce GTX 700M series video. So far, we've been generally happy with anything beyond basic video in this size class; it's now relatively easy to play games at high frame rates without resorting to a big, bulky desktop replacement.
+
+Desktops
+While Computex was dominated by portable systems, we did see a few stationary PCs launch around the event schedule. Most, such as the refreshed Alienware X51, ASUS ET2702, Gigabyte BRIX and Toshiba PX35t, are pedestrian compared to the laptops. The innovation we saw mostly resided in the ASUS Desktop PC G10, whose UPS-like battery pack isn't linked to Haswell at all. The G10 is really just a clever tower that happens to use the latest Core technology. Intel targeted mobile products with most of Haswell's improvements, and many of its manufacturing customers have shifted their strategies to match.
+
+

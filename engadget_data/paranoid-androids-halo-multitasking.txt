@@ -1,0 +1,9 @@
+
+It's been a couple months since we first saw the fruits of team Paranoid Android's labor around in-app pop-up window multitasking, and it looks like Paul Henschel and co. are finally sharing the finished product. HALO, as it's called, loosely combines the ideas behind Samsung's Multi Window and FaceBook's Chat Heads into a slick multitasking interface. The feature is activated from the notification tray. It places an icon -- or halo -- on the display, which can be moved around very much like Chat Heads, or dismissed by double-tapping and dragging it towards the red X at the top. Swiping sideways from the halo shows a series of white lines and text bubbles that match and highlight the notifications in the status bar. Releasing your finger is like tapping on the selected notification, but instead of launching full-screen, the app opens in a pop-up window on top of whatever's already running, just like Multi Window. The background app continues to run while you interact with the foreground app -- to dismiss the pop-up window, simply tap outside of it. Other cool functionality includes swiping up to dismiss the last notification and the ability to pin apps permanently to the halo. But what's really most exciting is that team Paranoid Android's decided to make HALO open source so anyone can be involved. Check out the awesome demo video after the break.
+
+
+
+
+
+
+ 

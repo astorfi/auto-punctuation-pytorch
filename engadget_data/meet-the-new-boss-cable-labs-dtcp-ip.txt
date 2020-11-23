@@ -1,0 +1,5 @@
+
+ CableLabs' latest DRM scheme, DTCP-IP (Digital Transmission Copy Protection), got approval from a number of movie studios last week. This new streaming protocol is an extension of the DTCP protection on FireWire links, and is supposed to allow secured sharing of digital content within a home network. How secure? According to the CableLabs CEO, the new protocol allows for the "same level of protection, functionality, and treatment of content" as with AACS. Ahem. If that's true, count on a crack before the standard ever sees the light of day. Still, we're hoping that this will open up possibilities for TiVO functionality that has gone missing, like To-Go and Multi-Room Viewing. We also wonder what the real definition of a "home network" means to CableLabs -- could this spell trouble for place-shifting devices like the Slingbox?
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+ It looks like Nike+ is making moves to get more people playing with its gear. The Next Web reports that Nike has opened up its APIs on the company developer site today, which means devs now have a way to hook into the data all those FuelBands and SportWatches generate. Among these streams of info is access to a chronological list of user activities, GPS data, and the amount of NikeFuel earned both in total and on an individual activity basis. If that's got you dreaming up fitness apps and games, head on over to the source armed with your Nike+ login info, and that treasure trove of data can be yours to play with, too.
+
+ TNW goes on to point out that the APIs were freed in conjunction with Nike's Accelerator startup program, on the off chance that any of those apps are part of a worthy business plan. In case you weren't aware, the Accelerator startup incubator's run by TechStars, the same people who also provide seed money and business guidance to aspiring Kinect devs. So, idea-men and women should feel free to embrace the Xbox collaboration possibilities knowing their angel funding's coming from folks who'll understand them. Sound like something you're into? The deadline to apply is February 3rd, so those applying best be ready to hit the ground running when the Accelerator starts a month later.
+
+

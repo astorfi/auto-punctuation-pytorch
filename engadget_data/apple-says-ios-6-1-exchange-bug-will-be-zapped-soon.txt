@@ -1,0 +1,4 @@
+
+ Apple's iOS and Microsoft Exchange Server have been cronies for quite awhile now, but since iOS 6 there's been some issues. The latest rift is a version 6.1 recurring calendar event bug that causes "excessive communication" if you respond to an exception error. Cupertino's identified the problem and says a fix is incoming, though it didn't specify exactly when -- and iOS 6.1.1 just hit devices to fix network connectivity issues, so it may not be imminent. Meanwhile, Apple advises that you not respond to the exception and to disable, then enable any Exchange calendars that run amok -- which should keep you BYOD-ing in the interim.
+
+

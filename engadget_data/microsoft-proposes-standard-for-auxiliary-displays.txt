@@ -1,0 +1,19 @@
+
+
+Microsoft has proposed a standard for displaying data on an LCD mounted on the lid of a closed laptop, similar to
+the way some clamshell cellphones display date, time and Caller ID info (as in the gratuitous image at the right). The
+company plans to incorporate the technology into
+Longhorn (whenever it ships), and
+would also make the standard available on desktop machines, allowing them to work with an "auxiliary" display that
+could function separately from the host PC, with its own processor and memory. While we like this idea, and think being
+able to, say, check our email queue without opening our laptop, would be great, we can't help but be a little intrigued
+by the system Microsoft plans to build this on:  Smart Personal Objects Technology, better known as
+SPOT, which has been a
+less-than-stellar success as the system that runs "smart watches." Is SPOT the right solution for this, or is Microsoft
+trying to salvage something useful from the ruins of the smart-watch biz? We'll have to wait for Longhorn to find out,
+so we guess we'll just have to be (very) patient.
+
+
+
+
+ 

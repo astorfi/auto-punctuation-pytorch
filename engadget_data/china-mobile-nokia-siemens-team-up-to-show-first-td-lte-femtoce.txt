@@ -1,0 +1,5 @@
+
+ LTE's being designed to support deployment in both frequency division (FD-LTE) and time division (TD-LTE) modes depending on bandwidth allocation and the legacy network that's being upgraded, and in China Mobile's case, they're looking at possibly rolling out a mix -- TD-LTE makes for an elegant and inexpensive upgrade path when you're starting with another tech with "TD" in its name, TD-SCDMA. Carriers around the world are looking to lean heavily on femtocells to boost LTE footprint out of the gate, and to that end, China Mobile has teamed up with Nokia Siemens -- a company that's been pushing a number of "world's firsts" lately -- to show off the first functional TD-LTE femtocell demo by streaming video over a base station in the carrier's labs. It's still a ways off yet before customers will actually have these tucked away in the corners of their homes, but it's a step in the right direction.
+      
+
+ 

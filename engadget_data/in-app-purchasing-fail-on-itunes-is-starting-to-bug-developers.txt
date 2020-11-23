@@ -1,0 +1,9 @@
+
+ 
+
+In-app purchases via iTunes have apparently been failing in a big way for the last ten hours and app creators who depend on this heavily taxed income are getting antsy. We're hearing unconfirmed speculation that the problem may be connected to fake purchase receipts getting into the system. Whatever the cause, one developer told us the failure is "losing lots of sales" for apps that use receipt verification and is "threatening to more-or-less take down the entire IAP ecosystem." Seeing as Apple insists on this being the only route for in-app purchasing, they'd better fix it pretty darned quick.
+
+[Thanks, Tipster]
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Remember Intel's Larsen Creek SSD? It's not alone. By the end of the year, it looks like Intel expects to ship five new solid state storage series in total -- some of them even speedier than its current SSD 510 Series flagship. We managed to obtain this leaked roadmap listing the potential additions, and we're afraid to ask how much the new kings of the hill might cost -- the "Ramsdale" SSD 720 Series uses up to 400GB of SLC NAND in a PCI Express card form factor, and the "Lyndonville" SSD 710 series with a similar quantity of enterprise-grade MLC flash. There's also a direct successor to the current top-of-the-line in the "Cherryville" SSD 520 Series, which will stretch all the way up to 480GB and down to 64GB in Q4 of this year, as well as Paint Creek, which seems destined for boot drives with only 80GB and 40GB capacities to choose from. Still, the most intriguing addition might be Larsen Creek after all, which sounds like it's been purpose-built for caching data from your existing rotational storage. It's slated to come in both 2.5-inch SATA and mSATA configurations in Q3 and uses SLC NAND, which suggests it won't run cheap despite the tiny capacity here. We can't wait to find out for sure.
+      
+
+ 

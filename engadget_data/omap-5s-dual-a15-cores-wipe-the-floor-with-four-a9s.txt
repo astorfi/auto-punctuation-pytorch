@@ -1,0 +1,8 @@
+
+  We've seen Texas Instrument's OMAP 5 in action, but we haven't been able to pit it directly against a competitor. The Dallas company must be growing more and more confident in its product however, as its posted a video demoing its pair of A15 cores alongside an unspecified quad-core A9 part -- presumably the Tegra 3. The video shows the next-gen TI part powering through the EEMBC BrowsingBench in 95 seconds, while its opposition takes a whopping 201. What's more, this thrashing was performed by an 800MHz part -- the four A9s were clocked at 1.3GHz. Of course, Tegra 3s are already in shipping products, while the OMAP 5 might not find a home in consumer devices before 2013. It's also unclear just how much of a hit these new high-powered ARM cores will have on battery life or how much the pair of M4 companion cores helped in the benchmark. Head on after the break to watch a pair of tablets load up 20 websites in quick succession.
+      
+
+ 
+
+  
+ 

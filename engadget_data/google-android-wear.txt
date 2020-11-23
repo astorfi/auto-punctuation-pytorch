@@ -1,0 +1,15 @@
+
+Google's getting into smartwatches in a rather large way. As previously reported, the search giant is extending its Android platform to more wearables than just Glass. In a blog post that went out today, Google announced Android Wear, which is essentially a way for the company to extend its mobile OS to a new category of devices while offering a lower cost for developers and users -- think Nexus for smartwatches. Of course, smartwatches are just the beginning, Google acknowledged that there's plenty more to come, but it was " starting with the most familiar wearable."
+
+
+One of the most eye-catching features we've seen so far is the same always-listening experience that we've enjoyed on the Moto X. Anytime you need to do something with your watch, just say "OK Google" and everything from pulling up nearby gas stations, to restaurant reservations are just a quick voice command away.
+
+
+
+But there's more to Wear than just putting voice search on your wrist. As the rumors have suggested, it pulls in contextual updates as well, just like Now -- putting the power of its preemptive search a quick glance away. Obviously it also pulls in notifications from messaging apps like Hangouts or your social networks. But the real power lies in the ability for developers to extend their applications to your Android-powered smartwatch. For example, Google is already promising that "favorite fitness apps" will offer real time speed and distance tracking. (Get on that RunKeeper!)
+
+We're still waiting to get details on specific watches, but features like these (and many more) have to be incredibly power efficient to ensure your new fancy piece of digital jewelry actually lasts longer than a day. Expect to start seeing devices working on the new platform sometime next quarter (as luck would have it, Google I/O will be held at the very end of that quarter). And, fingers crossed, maybe Google will announce that Now is opening up to third parties as part of its wearable push. Developers can go sign up for a preview of the Wear SDK here.
+
+
+
+

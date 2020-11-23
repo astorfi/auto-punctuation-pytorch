@@ -1,0 +1,6 @@
+
+ 
+With ASUS' Eee PC 1000HE up for pre-order, it's clear that netbooks are ready to make the jump from Intel's lowly 1.6GHz Atom N270 to the suped-up 1.66GHz N280. In fact, Intel just confirmed shipments of its new Atom processor to PC makers. Now don't let us hear you bellyaching about that being a meager 0.06GHz jump -- the magic isn't in the clock but in the faster 667MHz (up from 533MHz) front-side bus and new GN40 chipset with hardware-based 720p video decoder. That easily bests the Atom N270 pairing with the customary 945GSE chipset without any increase in power consumption. Think about that when trying to make a 10-inch netbook choice between ASUS' Eee PC 1000HE (with new N280 proc and GN40 chipset) and Acer's new N270-based Aspire One. Then again, maybe you're waiting for the first netbook to ship with NVIDIA's Atom-based Ion platform with full 1080p playback? Might as well, who knows, maybe you'll land a production version of Windows 7, a swiveling touchscreen, and a finger-optimized UI in reward for your patience.Update: Looks like the Eee 1000HE doesn't have all the new bits -- Laptop did some digging and found that it's still got the same old 945GSE to go with that new proc, although it is still capable of doing 720p video playback. Boring, we'll wait for the real GN40 machines to show up soon.
+      
+
+ 

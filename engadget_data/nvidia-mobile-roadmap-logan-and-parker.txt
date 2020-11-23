@@ -1,0 +1,4 @@
+
+ Thought the new Tegra 4i was the bees knees when it we saw it last month? Well, NVIDIA gave us a bit more info on the next steps in the Tegra roadmap, Logan and Stark Parker. It turns out that these next two mobile platforms will both utilize NVIDIA's CUDA technology, with Logan packing a Kepler GPU and Parker running a Project Denver 64-bit ARM CPU and a next-gen Maxwell GPU. Logan arrives early next year, while Parker won't be in devices until sometime in 2015.
+
+

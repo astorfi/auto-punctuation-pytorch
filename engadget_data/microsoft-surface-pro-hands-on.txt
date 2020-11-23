@@ -1,0 +1,25 @@
+
+ Even though Microsoft doesn't have a booth at CES this year, that doesn't mean it skipped Vegas altogether. Panos Panay, the general manager for Surface products, is in town, holding meetings with a few members of the media, us included. And he brought some toys with him. Specifically, the forthcoming Surface Pro along with the pressure-sensitive pen that goes with it. We only had a few minutes of hands-on time and in any case, we plan on going into much more detail when we eventually write our review. For now, though, we've got a first look waiting for you past the break. Join us.
+
+
+
+
+ In making the move from the Surface RT to the Surface Pro, we step up from 1,366 x 768 resolution to 1080p. Same 10.6-inch screen, just a lot more pixel density. And believe us when we say the difference is appreciable. In a side-by-side comparison with the RT, everything looked a little sharper, a little less pixelated. The "S" in the word "Start" on the Start screen, for instance, is thinner, less jagged than on the RT. It's a difference anyone can appreciate, even people who swear they're not display snobs.
+
+ Other than the resolution, though, the underlying technology is largely the same: this too is a ClearType screen with deep blacks and vibrant colors. Like the panel on the RT, it's optically bonded, meaning the LCD and touch panel comprise a single layer. As ever, that helps cut down on glare, so even if you're resting the tablet face-up on a table, you should be able to follow along with a movie or continue reading a document.
+
+ But that optical bonding has a second benefit: it helps make for a more natural pen experience. Unlike with other pen-enabled tablets, where you might see air pockets in between the screen layers, this actually comes close to matching what it feels like to write on paper. In the few minutes we spent writing and drawing, we found we didn't have to apply much more pressure than we would if we were sketching on a pad of paper.
+
+ The screen, which makes use of modified Wacom technology, is also smart enough that if you run the pen across the screen without applying any pressure no marks will show up; the algorithms can tell you didn't mean to write anything. Ditto for palm rejection. You might hesitate at first to rest the heel of your palm on the tablet while you're doodling, but you may as well get comfy: the tablet won't register any markings where your hand was.
+
+ Additionally, you can flip the pen over and use it as an eraser, the way you would with a number 2 pencil. In OneNote, at least, the pen seems to be aware of what you mean to erase: after drawing an Engadget logo in blue ink, we started to erase it and after a few swipes, the whole thing disappeared from the screen. Clearly, the tablet knew we wanted to completely get rid of it. So, insofar as erasing digital markings can be tedious, we were glad the Surface saved us a little time.
+
+ As for the rest of the hardware, this is and is not like the Surface RT we reviewed last fall. It has the same magnesium VaporMg casing, as well as the same kickstand, neat clicking sound and all. It's also compatible with the same Touch and Type Covers as the Surface RT. Still, there's no getting around the fact that this thing is bulkier than its little brother: 13.5mm thick and about two pounds, compared with 9.4mm and around 1.5 pounds for the RT. And, of course, it has to be bigger: it has a Core i5 processor, two fans and a 42.5Wh battery, whereas the RT has a Tegra 3 chip, a 31Wh battery and no fans. You know what, though? Two pounds is still lighter than the Acer Iconia W700, which weighs 2.09 pounds, so for a product in this class, the Surface Pro might even pass for compact.
+
+ Speaking of those fans, they're not very obvious. It's almost as if Microsoft realized "fans on a tablet" would have a negative connotation and went out of its way to make them discreet. In fact, you could easily miss them if you didn't know where to look. Rather than traditional vents, Microsoft went with a thin opening that rings the perimeter of the device. (The official name is actually the "perimeter vent.") If you put your ear to it you'll hear the faintest of noises, but you won't feel any air coming out of it. The device itself doesn't get hot, per se, but after a bit of use it felt slightly warm to the touch. Nothing that would make the tablet uncomfortable to use, but enough to remind you there's a heavy-duty, laptop-grade processor inside.
+
+ Performance from the Core i5 processor seemed zippy at first blush: apps close and open quickly, and transitions are smooth. Is it technically faster than other Core i5-powered Windows 8 hybrids? Only time and benchmarks will tell, we suppose. Suffice to say, it appears to perform about as well as other products.
+
+ Unfortunately, we weren't permitted to record video at this event, but rest assured we'll follow up with that when we eventually publish our review. For now, enjoy the hands-on photos and feel free to ask questions in the comments -- we're listening and will answer to the best of our ability.
+
+

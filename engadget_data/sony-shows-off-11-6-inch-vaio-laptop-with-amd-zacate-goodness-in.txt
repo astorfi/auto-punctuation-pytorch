@@ -1,0 +1,8 @@
+
+ 
+AMD's Fusion processors might finally be well and truly official, but all the hardware that will wrap around them hasn't yet filtered through into public knowledge. One such machine is the above, as yet unnamed, VAIO laptop from Sony. It's an 11.6-inch machine driven by an E-350 Zacate chip (meaning a dual-core APU running at 1.6GHz) and the particular unit we handled also came with 4GB of RAM, 500GB of HDD storage, 802.11n WiFi, Bluetooth and that utterly delectable pink lid. Construction felt solid enough, with little to no flex in the keyboard and a sturdy display hinge. This HDMI-equipped laptop also feels pretty light in the hand and is easy enough to hold and to adore with just one hand. The one thing that shocked and disappointed us was that once we unplugged it from the mains, the VAIO offered us a measly three hours and six minutes of autonomous runtime. Before you rush to accusing AMD of over-promising with its Fusion chips, do note that it was running an Internet Explorer-based graphical benchmark, which obviously isn't your typical usage scenario, as well as Sony's excessively frugal 3500mAh battery. This thing with a beefier power cell could be a pretty gorgeous lightweight mobile computer, in our opinion, let's see if Sony decides to give us such an option when it makes it official some time soon. The AMD rep informed us that this and all the other Zacate laptops should be making their way to market in the next six weeks.
+
+Update: Sony's gotten in touch to say that the demo unit we handled wasn't at a production level, and promises a typical battery performance of six hours per charge.
+
+
+

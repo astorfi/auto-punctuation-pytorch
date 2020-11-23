@@ -1,0 +1,16 @@
+
+
+Two research projects from the University of Essex are using a combination of Linux, tiny embedded computer modules,
+and Bluetooth to control fleets of unmanned aircraft that can fly in formation and perform parallel, distributed
+computing tasks. The Gridswarm project uses model aerobatic trainers that can fly at speeds up 120mph, while the
+Ultraswarm project uses co-axial helicopters that can fly indoors (seen at right). That helicopter also apparently has
+the distinction of being the world's smallest flying web server. Kind of brings a whole new meaning to a server crash
+(forgive us).
+
+
+ [Via Slashdot]
+
+
+
+
+ 

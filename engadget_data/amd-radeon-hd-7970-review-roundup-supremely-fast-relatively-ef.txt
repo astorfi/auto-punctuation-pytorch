@@ -1,0 +1,13 @@
+
+ 
+
+AMD's next flagship graphics card was only announced a few hours ago, and it won't arrive on the gaming public's plate until January, but already the tech punditry has tasted it, tested it and spat out a soggy little piece of paper that reads: "the fastest single-GPU card in the world." What we're really looking for, though, is the type of performance that beats older rivals like NVIDIA's GeForce GTX 580 without blowing the house up like a dual-GPU product. As it turns out, most reviewers agree that is exactly what this new $549 Radeon delivers, albeit with the few caveats summarized after the break.
+      
+
+ 
+
+AnandTech found that the 7970's power draw under load in Metro 2033 was 391W -- that's 34W less than the GTX 580 despite a 20-30 percent performance lead, thanks to the 28nm process. That said, it was also the noisiest single-GPU card under heavy load, being only slightly quieter than the dual-GPU GTX 590.HotHardware, on the other hand, generally praised AMD's redesigned cooling, saying that the 7970 was "somewhat quiet in real world use cases" and "all but silent" when idle.Bit.tech noted that NVIDIA cards handled anti-aliasing better in Battlefield 3, making that the only game in which AMD failed to trump the GTX 580 by a significant margin. Nevertheless, the 7970 showed 30 percent better performance than its rival in Arma II, and was also faster with Skyrim played at 2,560 x 1,600.Hexus said the 7970 scored best in its 'Bang4watt' aggregate metric but the high launch price pushed it towards the bottom of the table in terms of 'Bang4buck'.HardOCP reckoned that the 7970 was a minimum of 31 percent faster than the Radeon HD 6970 and a minimum of nine percent faster than the GTX 580, and concluded that "these percentage differences were enough to allow us to play at higher settings in every single game."
+
+       
+
+ 

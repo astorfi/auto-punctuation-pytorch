@@ -1,0 +1,33 @@
+
+ 
+ We asked for third party apps, copy and paste, multitasking, wireless sync, data-only messaging and better notifications and year by year, they all arrived. iOS 5 may be one of the most mature, and popular mobile operating systems out there, but that doesn't mean Apple can take the day off. If you'd like to know what we're hoping Scott Forstall announces when he takes to the WWDC stage in a few short hours, head on past the break.
+
+
+
+  More Info   Apple's WWDC hitting San Francisco on June 11th  WWDC 2012 schedule confirmed, adds keynote details and companion app  Report: Apple dumping Google for own Maps app in iOS 6  Tim: Open up the keyboard I'm quite confident this isn't going to happen, but I'm going to throw it out there anyway: I'd like to see Apple open up the keyboard on iOS. I use SwiftKey on my Android device and have absolutely fallen in love with it. It learns my patterns and knows my habits. I can jerkily throw my thumbs at the screen as fast as possible yet still get meaningful sentences out the other end. Stepping back to the iOS keyboard on an iPhone or iPad feels like trading in your Ferrari for a tired Corolla that's seen 150,000 miles of hard use as a rental car.
+
+  The iOS keyboard feels like trading in your Ferrari for a tired Corolla that's seen 150,000 miles
+
+ I'd love to see Apple open things up so that third-parties (namely: SwiftKey) can plug in their own means of textual input. Short of that, Apple needs to take a big step forward with the stock keyboard. It needs to be customizable, it needs to be better about learning what I type and it needs to learn a few tricks from SwiftKey or RIM's slick new keyboard. I need gestures, I need personalization and I need something smart enough to figure out what I meant to type when my big fat thumbs are tapping fast and furious.
+
+ Dan: Deeper integration Not a big problem, but the lack of cross-device integration is a niggle, of the type which Cupertino generally believes in eliminating post-haste -- but so far it's been left to fester. Getting an iMessage on my phone, responding and then finding that it's still waiting for me on my desktop and iPad is pretty annoying. Having to start Angry Birds from fresh and clearing Twitter mentions makes me wonder why iCloud isn't doing more of the heavy lifting.
+
+ The lack of cross-device integration is a niggle, the sort Cupertino believes in eliminating In a similar vein, I'd like to be able to push files between my devices without going through the rigmarole of synching or having to wait for iCloud. Sometimes I'll need an iPhone screenshot for a story and the fastest way of getting that image into my workflow is to email it to myself. Would it be too hard to bake a version of AirDrop (or WiFi Direct) into the OS that would enable me to push the picture straight to my desktop?
+
+ Jon: Cameras, file systems HTC and Samsung both upped the ante considerably in camera apps with the One series and Galaxy S III, and Apple will definitely want to equal or beat that in iOS 6. I'd like to see a rapid-fire, best shot camera mode (this may need a new iPhone) to make sure I never miss a shot. I'd also like to see more intelligent tagging and sharing. Samsung already has the ability to share posts with recognized faces to Facebook, but I'd like to see that happen with Twitter, too. Wouldn't it be great if you could upload to Flickr, 500px or Smugmug with tags for people, locations and more already filled in?
+
+  I'd also like to see more intelligent tagging and sharing.
+
+ For that matter, I'd like Apple to offer a very simplified common file storage area. Not the overly complex file system you get when you plug in most Android phones -- just a "stuff goes here" space that apps can use to share content outside of their own confines. Ideally, you'd see this as a lone folder when you plug the device in or hop on the local WiFi network. It would go a long way towards quelling the gripes of Android fans who think drag-and-drop is a matter of life or death, or that apps need to be more than just islands.
+
+ Ben: Notifications, messaging Apple's yearly iOS refresh cycles aren't for everyone, but the day of WWDC has become something we look forward to with hope. As a prisoner of AT&T and the iPhone, the cost to switch to another platform deters me from looking over the fence too much -- but that doesn't mean I don't hope that Apple addresses my biggest gripes with its OS.
+
+ Last year, I dreamed of a revamp of the notification system, this year I'm really hoping for glance-able information. It seems crazy to me that when I wake my phone, I'm only presented with the time and a picture -- assuming there aren't any notifications. Speaking of that picture, why not let it change automatically and load my latest photo stream addition instead?
+
+  Why can't iMessage interact with AIM, Yahoo or Live Messenger?
+
+ Beyond being able to make better use of the lock screen, I'm really hoping for more APIs -- Siri integration is the most glaring, but the ability for a third party to build a better email program would be huge. If Apple can't do that, it could at least make conversations work right and finish off Exchange ActiveSync integration by adding Out Of Office, Sync Notes, Free Busy look up and GAL Photos support. While we're on the topic of communication, why can't iMessage interact with AIM, Yahoo or Live Messenger?
+
+ The last item on my wish list is something I remember fondly from my BlackBerry days, which is the ability to schedule alert profiles. Getting woken up at 1am by a text is no fun, but remembering to enable audible alerts after I get up isn't gonna happen either. All in all, iOS has come a long way and serves me well enough, but for my money, iOS 6 can't get here fast enough.
+
+

@@ -1,0 +1,73 @@
+
+Just days after an LTE-Advanced variant of Samsung's Galaxy S 4 leaked, Korean carrier SK Telecom has officially announced it's launching the world's first publicly available LTE-Advanced wireless network. The Galaxy S4 LTE-A is also official (in red or blue) as the first device able to take advantage of the new technology for even faster data transmission speeds. According to the press release, SK Telecom plans to have as many as seven LTE-A devices available by the end of the year, all capable of up to 150Mbps. While SK Telecom is using Carrier Aggregation and Coordinated Multi Point technology to improve speeds right now, it will add Enhanced Inter-Cell Interference Coordination in 2014 to go even faster. After that, it suggest carrier aggregation will improve to support higher speeds and faster uploads in subsequent years.
+
+
+To take advantage of the higher speeds, SK Telecom's Btv IPTV service will begin offering 1080p video streaming in early July. That will be accompanied by enhanced multiview baseball broadcasts, more free videos, an HD video shopping service with six channels on one screen in August and the addition of FLAC audio files via its music package. Right now, the company has Seoul covered in LTE-A, and plans to eventually offer it in 84 cities, all at the same price as existing LTE service. Check after the break for the press release with all the details, plus video of a speed test.
+
+
+Update: We've just come across another juicy tidbit that makes the Galaxy S4 LTE-A all the more worthwhile -- it'll ship with a Snapdragon 800 SoC that contains a 2.3GHz quad-core CPU, plus 32GB of built-in storage and a 2,600mAh battery. It goes without saying that this phone will be speedy on all angles. As spotted by SlashGear, the new GS4 variant will also see the debut of a new Samsung software feature: ImageON. Explained as a Google Googles-esque app, it'll automatically analyse photos and offer up related videos and "extend access to relevant content on the internet."
+
+
+
+ Show full PR textSK Telecom Launches World's First LTE-Advanced Network
+Launched the world's first publicly available LTE-A network with the world's first LTE-A compatible phone, Samsung Galaxy S4 LTE-AOffers LTE-A at LTE prices to allow customers to benefit from the faster network without having to pay extra costsPlans to expand its LTE-A device lineup to a total of seven smartphones in the second half of 2013Commercialized LTE-A in the entire Seoul area and central cities of Gyeonggi-do and Chungcheong-do, and plans to expand LTE-A coverage to 84 cities nationwideExpects LTE-A to boost the popularity of ultra high quality broadcasting/video contents and servicesSeoul, Korea, 26 June 2013 – SK Telecom (NYSE: SKM) announced that it today launched the world's first LTE-Advanced (LTE-A) service through smartphones.The company achieved such a milestone in only less than two years after commercializing the nation's first LTE service in July 2011.LTE-A offers ultra-fast network speeds of up to 150 Mbps, which is two times faster than that of LTE, and 10 times faster than 3G network. For instance, LTE-A users can download an 800MB movie in just 43 seconds.With the commercialization of LTE-A, the company expects to further improve customer satisfaction in mobile Internet services, and increase the use of ultra fast video contents and other diverse mobile value added services.Achieves another world's first with its advanced network technologies
+
+To commercialize LTE-A, SK Telecom successfully developed and applied the most-advanced mobile network technologies. The company already applied Carrier Aggregation (CA) and Coordinated Multi Point (CoMP), and plans to apply Enhanced Inter-Cell Interference Coordination (eICIC) in 2014.
+
+CA, commercialized for the first time in the world by SK Telecom, supports up to 150Mpbs speed by combining two 10 MHz components carriers to form an effective bandwidth of 20 MHz spectrum bands.
+
+With the surge of data traffic worldwide, CA will act as the key enabler for network evolution among mobile operators around the world. According to network experts, CA will be further advanced to realize up to 300Mbps speed by aggregating two 20MHz component carriers by 2015, and become capable of combining three component carriers by 2016. In addition, they expect to see the realization of uplink CA by 2016. The current CA standards allow for up to five 20 MHz carriers to be aggregated.
+
+SK Telecom has fiercely competed with mobile carriers of other advanced nations to achieve the world's first LTE-A commercialization. Up to date, 13 operators*1) of 8 nations, including Verizon, AT&T, NTT Docomo and Telenor, have announced plans to launch LTE-A, and among them Sprint, Telstra, 3 Italia and Yota said that they will do so within this year. However, no carrier, besides SK Telecom, has yet reached the goal by launching LTE-A network through LTE-A compatible phone.*1) Released by Wireless Intelligence, market research firm under GSMA (as of Jun 8, 2013)
+
+Since launching the nation's first generation analogue network (1G) in 1984, SK Telecom led the popularization of mobile telecommunications service by commercializing CDMA (2G) for the first time in the world in 1996, and introduced video telephony service through the commercialization of CDMA2000 1X in 2000. In 2006, the company opened the era of mobile data communications service by commercializing the HSDPA technology over its 3G WCDMA network using a mobile phone for the first time in the world. Then, SK Telecom has launched the Korea's first 4G LTE in 2011 and successfully commercialized the Multi Carrier (MC) technology, for the first time in the world, in July 2012.
+
+■ Improves customer satisfaction by offering LTE-A service at LTE prices and introducing a rich device lineup
+
+SK Telecom announced that its existing LTE price plans will apply to the LTE-A service, meaning that customers will be able to enjoy twice faster network speeds without paying extra. The decision comes as part of its commitment to maximize customer benefits and satisfaction through innovative technologies and services.
+
+With the commercialization of the world's first LTE-A network, SK Telecom today released Samsung's 'Galaxy S4 LTE-A.' The Samsung device, the world's first phone optimized to work over LTE-A network, will come in two different colors, red (exclusively available at SK Telecom) and blue.
+
+SK Telecom will embed useful services like 'Safe Message' and 'Safe Data Backup' as basic features in all its LTE-A phones. Safe Message is designed to protect users from smishing (SMS phishing) attacks by enabling them to check whether the message is sent from a trusted source; and 'Safe Data Backup' enables users to upload personal data stored in their smartphones to the cloud server to keep data safe from smartphone loss and accidental deletion. The company also plans to mount these features on all its to-be released LTE phones as well.
+
+Customers can purchase Galaxy S4 LTE-A at SK Telecom's official online store named T World Shop (www.tworldshop.co.kr), or at one of 2,850 authorized SK Telecom T World retail stores. The company has secured an initial supply of 20,000 units of Galaxy S4 LTE-A.
+
+Furthermore, SK Telecom will vigorously expand its LTE-A phone lineup to boost the popularization of LTE-A service. It plans to provide a total of seven different LTE-A compatible smarphones in the second half of 2013.
+
+Begins offering LTE-A in Seoul and central areas of Gyeongg-do and Chungcheong-do, and plans to expand LTE-A coverage to 84 cities nationwideSK Telecom plans to expand its LTE-A coverage at an unmatched speed to keep offering the best call quality to customers.
+
+To achieve early commercialization of LTE-A, the company, for the first time in the world, developed the MC technology and applied it to its LTE network in July 2012. During the process, SK Telecom designed and built MC base stations in a way that they can support an optimized evolution towards LTE-A.
+
+In March, SK Telecom has launched aggressive plans to expand the coverage of MC base stations to 200 university areas and central areas of 84 cities nationwide. The company has built a total of 20,000 RU (Radio Units) as of June 2013. With MC in place, the company can easily evolve the network to LTE-A s through simple software upgrades.
+
+SK Telecom's LTE-A, launched today, covers the entire Seoul, central areas of 42 cities in Gyeonggi-do and Chungcheong-do, and 103 university areas. Furthermore, the company will gradually expand its LTE-A coverage to 84 cities across the nation.
+
+Plans to promote ultra high quality, large volume and multi channel services
+
+SK Telecom projects that, as mobile connectivity continues to gain importance, LTE-A will promote the development of ultra high quality video contents/services as well as a wide variety of new applications.
+
+On June 27, 2013, the company will launch a group video calling service for up to four users. The service, an upgraded version of the 3G network-based multi-party video conferencing service, will support 12 times better video quality and 2 times clearer audio quality.
+
+SK Telecom's 'Btv mobile,' an IPTV service with 550,000 paid subscribers, will begin providing full HD (1080p resolution) video streaming service, for the first time in the world, from early July. Full HD video streaming requires a speed of 2Mbps or above, which is well supported by the LTE-A network.Required speed for each level of image quality - SD: 1Mbps, HD: 2Mbps, Full HD: 4~8Mbps
+
+The company will also launch 'T Baseball Multiview,' to enable users to watch two different games on one screen in July 2013. T Baseball is a free, real-time professional baseball game broadcast service optimized to the LTE network. Launched in August 2012, the service is currently enjoyed by 1.1 million users.
+
+Moreover, SK Telecom plans to launch 'T Freemium 2.0,' a free multimedia content package that offers three times more contents – e.g. dramas, TV entertainment shows, music videos, sports game highlights, etc.- than its previous version, 'T Freemium,' in July 2013.
+
+The company is also planning to launch a new HD video-based shopping service in August 2013 to make shopping more fun and convenient for customers. Users will be able to seamlessly watch 6 different home shopping channels on one screen.
+
+Also, SK Telecom's online/mobile music portal service MelOn yesterday opened a new service category to allow users to listen to original CD quality music by downloading Free Lossless Audio Codec (FLAC) files.
+
+Meanwhile, SK Telecom will hold a large-scale contest named 'LTE-A i.con' to boost the creation and provision of diverse innovative contents and applications optimized for the LTE-A network.
+
+Demonstrates LTE-A's ultra-fast speed and strong performance
+
+At today's LTE-A press conference held at SK T-Tower, SK Telecom's head office, the company demonstrated the speed of its LTE-A network by comparing it with those of LTE and 3G.
+
+It also showcased innovative LTE-A-based mobile value added services including MelOn's FLAC files, 'T Baseball Multiview' and Btv mobile's full HD video streaming service.
+
+Moreover, Kwon Hyok-sang, Head of Network Division of SK Telecom, made live video calls from SK T-Tower to Gangnam Station and the company's Daejeon office to show LTE-A's ultra-fast speed.Park In-sik, President of Network Business Operations at SK Telecom said, "SK Telecom is proud to announce the world's first commercialization of LTE-A. By supporting twice faster speeds than LTE, LTE-A will not only enhance customers' satisfaction in network quality, but also give birth to new mobile value added services that can bring innovative changes to our customers' lives."
+
+About SK TelecomSK Telecom (NYSE: SKM, KSE: 017670), established in 1984, is Korea's largest telecommunications company with more than 27 million subscribers, accounting for over 50% of the market. The company reached KRW 16.301 trillion in revenue in 2012. As the world's first company to commercialize CDMA, CDMA 2000 1x, CDMA EV-DO and HSDPA networks, SK Telecom launched the nation's first LTE service in July 2011. Backed by rapid nationwide deployment, a rich device lineup and diverse mobile value added services, the company secured over 10 million LTE subscribers as of April 2013. SK Telecom also became the world's first mobile carrier to launch LTE-A on June 26, 2013 by applying core LTE technologies including Carrier Aggregation and Coordinated Multi Point. Also, based on its strength in network operations business, SK Telecom is seeking new growth engines by building ICT convergence business models in areas of healthcare, enterprise solutions, media and education. For more information, please visit www.sktelecom.com or email to press@sktelecom.com
+
+

@@ -1,0 +1,7 @@
+
+ 
+ If Microsoft can't use the Metro name, no one else can. Not in its company-owned Windows Store, at least. An update to the Windows 8 app criteria guide explicitly tells developers that any submitted Windows Store app with Metro in the title will "fail certification" -- effectively, it's banned. There's a certain irony to the aggressive stance on naming when Microsoft itself still mentions Metro prominently across many of its pages, but the restriction isn't a laughing matter for developers already trying to support an OS that doesn't ship for another two months. One of the most popular apps in the pre-release Windows Store, MetroTwit, likely faces imminent exile without a name change; there's also worries that mass transit apps might get the boot for entirely innocuous uses of the word. We've reached out to Microsoft for comment on its legal rights in the area. In the meantime, it's safe to say that "metro" is only to be spoken in hushed tones anywhere near Microsoft's official content portals.
+
+ Update: Word from WPCentral is that the language restricting developers from using the Metro name wasn't a new addition to the Windows 8 app criteria guide. Turns out, it was an older error that has since been removed. Rejoice, developers! It appears that the word is not off limits. We've reached out to Microsoft for confirmation and will update when we hear back.
+
+

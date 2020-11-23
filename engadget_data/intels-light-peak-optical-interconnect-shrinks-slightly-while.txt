@@ -1,0 +1,7 @@
+
+ 
+Intel's Light Peak isn't setting any new speed records at IDF 2010 -- it's still rated at 10Gbps for now -- but the optical data transfer system is finally looking like it might appear in some actual products. As you can see immediately above, a Light Peak to HDMI converter has shrunk considerably since May, and a number of optically-infused sample products were on display at Intel's Light Peak booth. Compal's got a laptop with the optical interconnect built in, while Western Digital showed an external hard drive, from which the Compal could pull and edit multimedia in real-time using a Light Peak-enabled Avid rackmount. Meanwhile, LaCie showed off what appeared to be a 4big Quadra RAID array with two Light Peak ports catapulting high-definition video content at 770MB/s to a nearby Samsung TV, though we should warn you that the TV itself was a bit of a hack job, and not a collaboration with Samsung -- note the big, honking EVGA video card sticking out of the back. Though obviously a good bit of work went into these prototypes, Intel reps told us none would necessarily become a reality. Either way, don't expect to see Light Peak products until sometime next year. 
+
+
+
+

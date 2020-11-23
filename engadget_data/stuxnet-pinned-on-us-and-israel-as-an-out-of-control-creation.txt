@@ -1,0 +1,7 @@
+
+ 
+ Ever since Stuxnet was discovered, most of the accusing fingers have been pointed at the US, Israel or both, whether or not there was any evidence; it was hard to ignore malware that seemed tailor-made for wrecking Iranian centrifuges and slowing down the country's nuclear development. As it turns out, Occam's Razor is in full effect. An exposé from the New York Times matter-of-factly claims that the US and Israel coded Stuxnet as part of a cyberwar op, Olympic Games, and snuck it on to a USB thumb drive that infected computers at the Natanz nuclear facility. The reason we know about the infection at all, insiders say, is that it got out of control: someone modified the code or otherwise got it to spread through an infected PC carried outside, pushing Obama to either double down (which he did) or back off. Despite all its connections, the newspaper couldn't confirm whether or not the new Flame malware attack is another US creation. Tipsters did, however, deny that Flame is part of the Olympic Games push -- raising the possibility that there are other agencies at work.
+
+ [Image credit: David Holt, Flickr]
+
+

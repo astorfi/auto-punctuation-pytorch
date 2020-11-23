@@ -1,0 +1,30 @@
+
+The idea of the gamepad is so entrenched in our mind, it's easy to forget that there are other ways to play video games. No, we're not talking about the PC gamer's keyboard and mouse, or even the traditional arcade stick -- but custom, purpose built controllers made to augment a specific experience. At GDC 2014, we found an interactive gallery full of them. The event, Alt.Ctrl.GDC serves as a showcase for indie game experiences that aren't fully accessible without specialized hardware, but to us, it was simply an alternative arcade of creativity. 
+
+
+
+
+
+The wooden control board for Analog Defender looks more like a missile control console than video game, but it had our attention right away. The complicated array of arcade buttons, protected toggles and switches control a complex Space Invaders clone, tasking players with managing power, weapon modes and special attacks by frantically mashing buttons and changing analog input plugs. The learning curve is steep, but the novelty of the controller makes it an easy climb -- the experience is fresh, despite the game's nostalgic familiarity.
+
+
+Not every controller in the showcase was custom built from wood, switches and spare wire: Rakete, a collaborative moon lander game, cannibalized old guitar pedals to give four players their own rocket accelerators. The game forces four pilots -- each controlling only one thruster -- to work together to keep their craft aloft.
+
+
+Some of the hardware we saw was familiar, too. Please Don't, Spacedog uses a MIDI controller to explore the body-displacement effect of the Oculus rift -- challenging players to use a complex controller without being able to physically see their hands. It's also probably the world's only canine-astronaut simulator.
+
+
+Of course, you don't need an Oculus Rift to create a virtual reality. The designers behind Roflpillar used a sleepingbag, some pulleys and a sensory isolation tent to create a two-player caterpillar simulator. Frankly, it's pretty intuitive: wiggle to move. It's also hilarious.
+
+
+Ever thought you'd play a video game without a screen? Now you can -- but you'll need some help. Bonus Look is a game that splits the functions of a computer between two players, giving one player the screen and arrow keys and the other almost everything else. The "pilot" controls the player character's actions, but can't get more than a few steps without the help of the blind "wizard." The screen-less second player also has access to a cryptic ASCII map, burned into a sheet of wood. It's an absolutely bizarre twist on cooperative gameplay, but figuring it out is half the fun.
+
+
+Speaking of games without screens, Choosatron was easily one of our favorite games in the exhibit. This "deluxe adventure matrix" is pretty simple under the surface: four buttons, a thermal printer and an Arduino board -- but it was enough to turn choose-own-adventure fiction into a passable game. Plus, players get to keep their freshly printed epic for posterity, and we're suckers for souvenirs.
+
+
+Alternative controller types don't always mean alternative games, either. Canabalt 100p offers the same endless running experience we all know and love -- it just adds a few dozen extra runners. The game uses a standard MIDI keyboard as a control device, assigning each piano key to a specific avatar. Just how many characters you can play as depends on the size of the piano, so sadly, our demo fell short of the promised 100.
+
+Alt.Ctrl.GDC's exhibit of quirky controllers isn't likely to rock the industry, but its perspective on gaming is refreshing. By discarding the standards we've grown accustomed to, it creates an opportunity explore the idea of what electronic gaming is. We often think about the visual aspect of the experience -- but how we experience the game is just as important as how the game looks. Sometimes, the controller makes (or breaks) the game.
+
+

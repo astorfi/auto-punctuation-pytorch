@@ -1,0 +1,6 @@
+
+ 
+Lest you forget, the Boxee Box is a capital C computer, just like Google TV. In fact, both products share nearly identical processors, with the Intel CE4110 in Boxee and the CE4150 in Google TV, each clocked at 1.2GHz. Turns out, much of the mass of the Boxee Box is used for the heat sink and fan that are cooling that sucker, as revealed in iFixit's timely teardown of the media powerhouse. Other things they found inside include 1GB of RAM, 1GB of flash memory, and a digital-to-analog audio converter to allow for 1080p video out of HDMI while still using legacy audio hardware. Sounds like some good stuff -- so, after years of hacking the Apple TV for Boxee use, who will be the first to repay Boxee the favor and get something else running on here?
+      
+
+ 

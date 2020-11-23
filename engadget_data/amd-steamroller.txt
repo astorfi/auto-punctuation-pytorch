@@ -1,0 +1,5 @@
+
+ 
+ AMD's Bulldozer CPUs remind us of Betamax (or MiniDisc), in that its superlative design hasn't been embraced thanks to one or two humbling limitations. However, Mark Papermaster, Sunnyvale's new CTO, took to the stage at Hot Chips to show how he's changing the situation with the third-generation Steamroller architecture. It's rowing back on the more experimental elements of the design, scrapping the single shared fetch-and-decode hardware in favor of dual-cores that should double the amount of instructions it can handle. It's hoping to make performance gains of 15 percent, clawing back some of Intel's lead, and is considering roping in the GPU to help with the heavy-hitting in future versions. The chips will be built at Globalfoundries 28-nanometer line and are hoped to be out at some point next year.
+
+

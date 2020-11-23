@@ -1,0 +1,84 @@
+
+
+It's no secret that people like Chromebooks. That can't be good news for Microsoft, which used to own the market for cheap computers. Not one to take this sort of encroachment lying down, Microsoft came out with a lower-cost version of Windows 8.1 that PC makers could use to build small, lightweight devices inexpensive enough to take on Chromebooks. The HP Stream 11 is among the first of these so-called Chromebook killers: an 11.6-inch laptop running full Windows and priced at just $200. For the money, it looks and performs like a netbook, with a colorful plastic shell and an Intel Celeron processor chugging away under the hood. Then again, though, you also have the option of installing traditional desktop apps, which you can't do on a Chromebook, and Microsoft is further sweetening the deal by throwing in a terabyte of OneDrive storage and a yearlong subscription to Office 365. So is this just netbooks, redux? Or does an aggressive price make all the difference?
+
+
+
+
+
+Hardware
+I meant it when I said the Stream 11 looks like a netbook: It's a small, fanless machine, weighing 2.74 pounds, with a plain plastic shell. But damn if it isn't one of the more stylish netbooks I've seen. Available in either magenta or the cobalt blue you see in the above photos, the Stream has a neat fade-out effect, with the colors on the keyboard deck getting lighter and lighter as you get toward the touchpad. The keyboard deck also has a subtle dot pattern throughout, creating the illusion of texture on an otherwise smooth machine (it also looks cool, if you ask me). I also like the way the white keyboard contrasts with the colorful interior. Anyway! You're probably sick of hearing me opine about design, but I assume you get the idea: Love or hate the aesthetic here, I think we can all agree this has a more interesting look than most of the other gray boxes you're gonna find at this price.
+
+Around the edges, you'll notice that HP matches Chromebooks spec for spec, offering all the same ports you'd find on a Chrome OS device. This includes two USB connections (one 3.0, one 2.0), a full-sized HDMI socket, a full-sized SD card reader and a combination headphone/mic jack. There's also a Kensington lock slot -- a particularly crucial feature for schools that choose to use this in classrooms.
+
+
+Just like a typical 11-inch Chromebook, the Stream 11 features a 1,366 x 768 non-touch display, complete with a healthy amount of bezel. I've no complaints about the resolution: There's no other machine I know of at this price that also has a full HD display. I do, however, have some quibbles about the actual quality. First off, despite having a matte, anti-glare finish, the viewing angles are fairly narrow, especially from head-on, when you try and dip the lid forward. I've also noticed that the colors tend to wash out when I crank up the brightness, but if I settle on a more medium setting, everything looks dull and muted. Again, not a shocker at this price, but it is a reminder of the sort of trade-offs you'll be making.
+
+One thing that might surprise you is the audio quality. Even with the speakers located on the bottom side of the notebook, I still enjoyed loud volume with the machine resting in my lap and on flat surfaces. And, thanks to the DTS Studio Sound technology on board, the actual quality was disarmingly good, too. For almost every genre I tried -- jazz, orchestral, swing, pop, electronica -- tracks came through loud and clear, with minimal tinniness or distortion.
+
+
+Finally, I was also pleased with the keyboard -- as I often am on HP laptops, I might add. Despite the fact that this is a petite, 11.6-inch machine, the keyboard is nearly full-sized, with generous spacing between the buttons and very few undersized keys (the Ctrl and Fn buttons on the far left side are the two major exceptions). Also, because the Stream 11 doesn't claim to be a particularly skinny laptop, HP was able to build in a little extra keyboard travel, making for some springy, tactile button. As for the touchpad, I had an easy time pulling off multitouch gestures, like using two fingers to scroll side to side through the Start Screen, but single-finger tracking was sometimes an issue in desktop mode.
+
+Performance and battery life    SunSpider v.1.0.2* Google Octane Mozilla Kraken*     HP Stream 11 (Celeron N2840, 4GB RAM) 404ms (IE Modern) / 312ms (IE Desktop)  3,557 (IE Modern) / 4,809 (IE Desktop)
+   7,576ms (IE Modern) / 6,618ms (IE Desktop)
+    Samsung Chromebook 2 (11-inch, Celeron N2840, 2GB RAM) 525ms  7,223
+
+   3,936ms
+
+    Toshiba Chromebook 2 (Celeron N2840, 2GB RAM) 967ms  7,714
+
+   4,284ms
+
+    Acer Chromebook 13 (NVIDIA Tegra K1, 2GB RAM) 609ms  7,051
+
+   4,816ms
+
+    Lenovo N20p (Celeron N2830, 2GB RAM) 567ms  7,288
+
+   4,287ms
+
+    ASUS C200 Chromebook (Celeron N2830, 2GB RAM) 483ms  7,198
+
+   4,291ms
+
+    Acer C720 Chromebook (Celeron 2955U, 2GB RAM) 342ms  11,502
+
+   2,614ms
+
+      Dell Chromebook 11 (Celeron 2955U, 4GB RAM) 340ms  11,533
+
+   2,622ms
+
+     *SunSpider and Kraken: Lower scores are better.
+   The Stream 11 might be cheap enough to compete with a Chromebook, but that doesn't necessarily mean it performs like one. Though it uses an Intel Celeron N2840 processor similar to what you'll find in many Chrome OS devices, it feels... slower. A cold-boot, for instance, takes 26 seconds, and that's just to get to the lock screen; even after you enter your password, you're looking at another eight seconds or so until the desktop is fully loaded. Most Chromebooks, meanwhile, take well under seven seconds to boot up -- maybe 12 on really sluggish models. Either way, a half-minute boot sequence is unheard of on Chrome devices.
+
+Web performance is a mixed bag too: the Stream 11 beats every other Chromebook in the SunSpider benchmark, but it falls far short in other JavaScript tests like Google Octane and Mozilla Kraken. That doesn't bode well, especially since two of its competitors -- the Toshiba Chromebook 2 and the entry-level Samsung Chromebook 2 -- have the same CPU, RAM allotment and screen resolution.
+
+    PCMark7 3DMark06 3DMark11 ATTO (top disk speeds)     HP Stream 11 (2.16GHz Intel Celeron N2840, Intel HD Graphics) 2,607 N/A  E374
+
+  168 MB/s (reads); 72 MB/s (writes)  You might also be excited about being able to use the standard file manager on the Stream 11, but be warned that the poky disk speeds are likely to slow down any file transfers. In the ATTO benchmark, read speeds on the 32GB flash-based disk reached an average high of 168 MB/s. Writes, meanwhile, topped out around 72 MB/s. As for multitasking, I found that the Stream 11 was sometimes slow to load desktop apps like Spotify, though I had no problem zipping through Modern-style programs I downloaded from the Windows Store. At any rate, all of this convinces me that while the performance here isn't bad for the price, the bar is definitely set higher on Windows machines than it is on Chrome devices; you can do more with them, but the performance overhead is also greater than it would be if it were running the Chrome browser as an OS. 
+     Battery life
+
+      HP Stream 11 8:17   ASUS C200 11:19   Acer Chromebook 13 10:07   Dell Chromebook 11 8:37   Samsung Chromebook 2 (13-inch) 8:22   Toshiba Chromebook 8:15   Acer C720 Chromebook (Intel Core i3) 7:53   Acer C720 Chromebook (Intel Celeron) 7:49   Samsung Chromebook (2012) 6:33   HP Chromebook 11 5:08   Chromebook Pixel 4:08 (WiFi)/3:34 (LTE)  You gotta hand it to HP for truth in advertising: The company says the Stream 11's 37Wh battery can last up to eight hours and 15 minutes on a charge and indeed, I logged eight hours and 17 minutes in my usual rundown test. That was with me looping a full HD video, but if you're willing to settle for good ol' standard def, you should expect closer to nine hours. All told, that's hardly the longest runtime we've seen from a Chromebook-type machine, but it's still decent, especially when you consider that the Stream 11 keeps pace with bigger machines like the 13-inch Samsung Chromebook 2.
+
+Software
+If you were worried that a "lower-cost version of Windows" meant a watered-down version, you can lay those fears to rest right now. This version -- "Windows 8.1 with Bing," as it's called -- is, for all intents and purposes, the same version of Windows 8.1 that ships on every other PC. The only difference is that Bing is the pre-set search engine in Internet Explorer. Even then, you can go into the settings and switch the search engine to Google, Yahoo, et cetera; it's just that Bing needs to be the default option out of the box.
+
+As I said earlier, too, the Stream 11 comes with 1TB of OneDrive storage (free for the first year), along with a one-year subscription to Microsoft Office 365. (Chromebooks come with 100GB of Google Drive space for two years -- either way, that's way more space than most people could possibly need.) As a bonus too, the Stream 11 also comes with a $25 gift card to the Windows Store. Hooray!
+
+In any case, that's what Microsoft is offering, but HP threw in a few apps of its own too. These include HP Connected Photo, Connected Music and Connected Drive, none of which are as useful as they sound. Connected Photo is basically a glorified Snapfish app: Using pictures from your Snapfish and Facebook accounts, you can order prints or photo gifts using -- yep, you guessed it -- Snapfish. Connected Music, meanwhile, allows you to connect your TuneIn Radio and Beats Music accounts and create custom playlists. Nothing wrong with that, of course -- if you happen to use either of those two services. Given how few streaming services are supported, I'd just as soon steer you toward Windows' built-in Xbox Music app, which is excellent at both organizing your music collection as well as helping you discover new tracks. Finally, there's HP Connected Drive, which allows you to access your files on various devices. It's a well-intentioned idea, but here too, only certain online storage services are supported. Given that, why not just use something with wide cross-platform support? Something like, I don't know, OneDrive?
+
+Other than that, you'll also find a few third-party apps, including Amazon, TripAdvisor, Netflix and mysms, which lets you send and receive texts on your phone. The truth is, that's not a whole lot as far as extraneous programs go, but if you feel strongly about having a clean copy of Windows, you can always buy the Stream 11 through the Microsoft Store, which strips its PCs of any and all bloatware.
+
+The competition
+For all the talk about how the Stream 11 is supposed to be a Chromebook killer, there aren't actually that many Chromebooks to be had for $200. Other than Acer's entry-level C720 Chromebook ($200), which uses an older Celeron 2955U CPU, everything else starts at around $250. Both the 11-inch Samsung Chromebook 2 and the 13-inch Toshiba Chromebook 2 use the same processor as the Stream 11, and they start at $250 with comparable 1,366 x 768 displays. The 11-inch ASUS C200 also starts at $250, and though it's a bit slower than even your average Chromebook, it has best-in-class battery life. From there, it only gets more expensive. HP's own Chromebook 11 costs $280 with a dual-core Exynos 5250 chip and a higher-quality IPS screen. Dell's Chromebook 11 starts at $300, while Lenovo's N20p goes for a relatively pricey $330. For the money, you get a rotating, Yoga-like touchscreen that bends back slightly, but believe me when I say that the flimsy, uncomfortable keyboard is not worth the higher price.
+
+Meanwhile, though the Stream 11 is a rare breed, it's not the only Windows device you'll find in this price range. ASUS recently released the EeeBook X205, an 11-inch Windows 8.1 laptop currently going for $180. I haven't had the chance to review it, unfortunately, so I can't vouch for its performance, but I can tell you that the Intel Atom processor inside is lower-clocked than on the Stream 11, while battery life is supposedly longer: up to 12 hours, according to ASUS. Similarly, Acer's Aspire ES1 is priced at $199 and has the same CPU and 2GB of RAM as the Stream 11. I'd suggest you include that in your cross-shopping too, except I haven't tested this either, so I can't go so far as to offer a recommendation, per se.
+
+In addition to laptops, you might also consider a cheap tablet. ASUS' year-old Transformer Book T100, for instance, has seen a price cut, so that it's now just $250 at Amazon. Now it's true, the performance won't be quite as fast as on the Stream 11, but think about what you're getting here: a 10-inch tablet with nearly 11-hour battery life, and an attachable keyboard in the box. If you think you might want a touchscreen, the T100 is definitely the better pick, though I'd also warn you that the detachable keyboard there is rather cramped; when it comes to typing, the Stream 11 is still the stronger option.
+
+Wrap-up
+For many people, the fact that Windows laptops can run desktop apps (and work fully offline) means they're inherently better than Chromebooks, regardless of the price. As a bonus, the Stream 11 actually costs less than most Chrome OS devices, which could make it a no-brainer for some shoppers. And there's definitely something to that: The Stream 11 is a full-fledged Windows machine, but it's also portable and inexpensive, with a comfortable keyboard, cute design and surprisingly good audio. Oh, and it comes with a $25 Windows Store gift card, which, depending on how you look at it, could knock the price down to $175. Either way, it's a good deal for the money.
+That doesn't mean there aren't any trade-offs. The display quality is a step down from most Chromebooks. And although the Stream 11 has similar specs as a Chrome OS device, and costs about the same, there is a noticeable difference in performance: The battery life is shorter than on some competing models, and the boot-up time is slower too. That isn't necessarily a dealbreaker, but I would encourage anyone considering this to adjust their expectations. Yes, you can do more with a miniature Windows laptop like this, but because of that, you also need more power for it to run smoothly. As it stands, the Stream 11 is usable, but in the way netbooks were usable, which is to say it can be a bit poky. Then again, for $200, you might be able to forgive that.
+
+

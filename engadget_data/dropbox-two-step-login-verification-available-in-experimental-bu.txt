@@ -1,0 +1,6 @@
+
+ Following up on its promise to tighten account security following a recent breach, Dropbox is now offering two-step login authentication to users who install the service's latest experimental desktop build. The team says the functionality will roll out to all users in the coming days, but listed full instructions to forum users who just can't wait. Those who op-in only need to download a new version of the Dropbox desktop software and activate the feature in their account settings. Once set up, Dropbox will require all unrecognized machines to provide a code, culled from an authenticator app or received via text message. The firm also provides an emergency back-up code that'll disable the feature should you lose your phone. Feeling insecure? Check out the source link below to get started.
+
+ Update: Dropbox just made it official, detailing set up instructions once more on the Dropbox blog.
+
+

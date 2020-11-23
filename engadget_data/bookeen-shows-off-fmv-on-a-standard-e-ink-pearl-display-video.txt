@@ -1,0 +1,9 @@
+
+ 
+The details are few with this one but really it's the highlights that matter here: Bookeen has managed to get smooth full-motion video to play on an E Ink Pearl display. Yes, the same sort that delivers agonizingly slow refreshes on the latest Kindles and such. It's a simple H.264-encoded clip (the same one with the chubby rabbit you've probably seen a dozen times before) played on a TI OMAP3621 processor. Power consumption in this mode is said to be no more than a non-backlit LCD, which is quite frugal indeed. No word on which actual readers this will debuting in, but according to E-Ink-Info.com it will be "available on the next-gen e-readers to appear soon." Check out the demo embedded below.
+      
+
+ 
+
+
+ 

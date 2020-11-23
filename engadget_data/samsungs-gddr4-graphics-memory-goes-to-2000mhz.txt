@@ -1,0 +1,5 @@
+
+ While Samsung has been dabbling in the RAM world quite a bit of late, kicking out the micro-sized OneDRAM and cellphone-bound gigabit-density DRAM, the firm is now officially loosing its 2000MHz GDDR4 RAM on the world. While the zippy memory is already found on ATI's Radeon X1950 card, it'll now be available en masse to graphics card producers in order to speed up current and future offerings "by up to 66-percent." By using 80-nanometer production technology, the memory boasts a 4Gbps throughout, which is nearly two-thirds higher than the widely used 2.4Gbps GDDR4 variety out now; additionally, it'll be offered to vendors in just a 512MB density, rock a 32-bit data bus configuration, and utilizes "JEDEC-approved standards for signal noise reduction to help attain the highest possible speed." No word on how much Sammy plans on charging speed-freaked manufacturers, nor how long it'll take for a kilowatt-burnin' card other than the X1950 to include such a luxury, but we wouldn't count on it being too much longer, regardless.[Via TGDaily]
+      
+
+ 

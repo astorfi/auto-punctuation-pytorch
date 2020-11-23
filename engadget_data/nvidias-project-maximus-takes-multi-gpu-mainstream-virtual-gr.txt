@@ -1,0 +1,16 @@
+
+ 
+
+NVIDIA just wrapped up an intimate press briefing here at SIGGRAPH 2011, where -- amongst other things -- it officially took the wraps off of two major initiatives. Project Maximus and Virtual Graphics are the two main topics of conversation here, and while both are obviously targeting working professionals at the moment, there's no question that a trickle-down effect is already on the company's mind. With Maximus, the outfit plans to stop recommending bigger GPUs to pros, and start recommending "a light Quadro GPU and as large a Tesla as you can get in the system." The overriding goal here is to make multi-GPU technology entirely more accessible; to date, it hasn't exactly been easy to get a finely tuned multi-GPU setup to the masses, but it sounds like a good deal of future flexibility (it'll be "nearly infinitely scalable") aims to change that. Just imagine: dynamic coupling and decoupling of GPUs depending on user load, at a far more detailed level within the application...
+
+Update: Regarding that Tesla bit, NVIDIA clarified with this: "What we're saying is for applications that are light on graphics / don't place a heavy demand on graphics, but more so a heavy demand on computational tasks, users will have an option to choose an entry- or mid-level Quadro card for graphics functions, such as the Quadro 600 or Quadro 2000. For certain applications, better performance is achieved by adding a Tesla companion processor, as opposed to scaling up the primary Quadro graphics. Users still require as much graphics as possible."
+
+
+
+
+
+As for Virtual Graphics? That's a technology preview that's being shown for the first time at the company's booth tomorrow, and while we weren't shown a sneak peek tonight, we heard more than enough to get our juices flowing. The introduction of Tegra proves that NVIDIA's paying attention to the explosion of connected devices, and there's "a real opportunity" to get high-power graphics access on these mobile devices. The answer lies in a sophisticated mashup of technologies that'll eventually bring Quadro-like, app-agnostic graphical oomph to anything with a solid internet connection. That's Project Monterey, and we're told that it'll be demoed on a Tegra tablet and x86-based desktop here in a few hours. Oh, and in case you haven't resolved all this -- yeah, we're talking about pro-level graphics... in the cloud.Adobe and Autodesk are already onboard on the software front, while a three-GPU HP Z800 workstation is on tap for the fall. We'll be swinging by once the doors open up to get a peek of how things are progressing, but till then, you can keep your eyes peeled for more "commercial availability announcements" in September and October.
+
+       
+
+ 

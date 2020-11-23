@@ -1,0 +1,42 @@
+
+
+  More Info   Toshiba announces Excite 10, 7.7 and 13 tablets, Thrive slates on their way out  Toshiba Excite 10 ICS tablet goes on sale, prices start at $450 for 16GB model  Toshiba AT200 review  In the tablet market, big as it is, one notion generally holds true: thinner equals better. Toshiba, for example, surely tried to equate a svelte silhouette with a premium product in its super-slim Excite 10 LE. And indeed, its 1.18-pound body and solid Honeycomb experience add up to tablet that puts Toshiba's earlier Thrives to shame. That $530 model is definitely priced like a high-end tablet, but it's accompanied by a new, lower-priced Toshiba slate, the Excite 10.
+
+ For $450, you get a tablet with a tad more meat on its bones, but that increase in weight and thickness comes with some more powerful specs: a quad-core NVIDIA Tegra 3 processor with 1GB of RAM -- not to mention Ice Cream Sandwich. While you can probably guess which of these slates makes a stronger contender (hint: the one without the "LE"), figuring out the Toshiba Excite 10's place in the grand hierarchy of tablets takes a little more exploration. Luckily, that's what we're here for, so join us past the break as we do our best to get through the review without a single "excite" pun. 
+
+
+
+
+ Hardware 
+ If you've ever had your hands on -- let alone glimpsed -- the Toshiba Thrive 10, the first thing that will strike you about the Excite 10 tablet is the slimmer silhouette. While the Thrive measures 0.6 inches (15.24mm) thick, the Excite is whittled down to 0.35 inches (8.89mm). Similarly, Toshiba has cut down on weight: the Excite 10 weighs 1.32 pounds (21.12 ounces) compared to 1.6 (25.6 ounces) for the Thrive 10. This, of course, makes it much more comfortable to hold for extended periods of time.
+
+  The Excite 10 ditches the Thrive's rubberized cover for a classier aluminum backing.
+
+ Toshiba clearly went back to the drawing board to improve upon the chintzy build quality of its Thrive slates. In addition to slimming down the design, the company opted for more premium materials. The Excite 10 ditches the Thrive's rubberized cover for a classier aluminum backing. It doesn't sacrifice a good grip, thanks to a dimpled texture. While the slate is comfortable to hold, it bears mentioning that the design doesn't feel very sturdy -- if you press on the back, you'll notice a bit of flex.
+
+ 
+ The Excite 10 has the right idea when it comes to ports. The left side of the slate houses a headphone jack, micro-HDMI connection, micro-USB 2.0 and a full-size SD card slot that lets you add up to 128GB of external storage (and theoretically more). The left side sports the power button, a lever for locking screen orientation and a volume rocker, while the top has the 2-megapixel front camera and 5-megapixel rear-facing shooter.
+
+ Moving on to the display, we have a 10.1-inch Corning Gorilla Glass panel with a 1280 x 800 resolution. At 149ppi, that pixel density isn't anything out of the ordinary, but the screen at least delivers good viewing angles and accurate colors. One pitfall, though, is that the display exhibits some backlight bleeding. This is most noticeable when you're viewing darker screens, and while it doesn't make it impossible to enjoy movies and YouTube clips on the tablet, it does separate the Excite 10 from higher-end slates.
+
+ Performance         Toshiba Excite 10 ($450)         ASUS Transformer Pad TF300 ($379)
+
+     Acer Iconia Tab A510 ($450)  Acer Iconia Tab A200 ($350)  Samsung Galaxy Tab 2 10.1 ($400)      Quadrant (v2)    4,016        3,695    3,754    2,053    2,602      Linpack single-thread (MFLOPS)    45.8        41.7    47.8    37.2    35.6      Linpack multi-thread (MFLOPS)    121.9        89.8    120.5    60.4    57.1      NenaMark 1 (fps)    85.4        60.3    62.8    45.6    29.5      NenaMark 2 (fps)    47.8        46.9    55.8    20.4    19.0      Vellamo    1,471        1,320    1,500    1,290    Would not run      With a quad-core NVIDIA Tegra 3 processor and 1GB of RAM, the Excite 10 provides performance that's nothing to sniff at. In benchmarks such as Quadrant, it posted a high score of 4,016, which bests the Samsung Galaxy Tab 2 10.1 (2,602), the Acer Iconia Tab A510 (3,754) and the ASUS Transformer Pad TF300 (3,695).
+
+ Scrolling through web pages on the Excite is fluid, with only the occasional lag in registering swipes, but zooming in often causes white tiles to appear before the page reloads. Light gaming on the tablet is a pleasure -- we quickly rekindled our love for Angry Birds Space on this 10-inch touchscreen. We never experienced any glitches when streaming HD video from YouTube.
+
+ Still, the tablet didn't handle everything seamlessly. When we took the Excite 10's camera for a test drive, the device got significantly warmer. Worse still, the camera app once crashed, and took us to a home screen plagued by errant blue pixels. Cold-booting into Ice Cream Sandwich takes about 30 seconds.
+
+ Battery life    Tablet  Battery Life    Toshiba Excite 10  9:24     Samsung Galaxy Tab 7.7   12:01     Apple iPad 2   10:26     Acer Iconia Tab A510   10:23     ASUS Eee Pad Transformer Prime   10:17 / 16:34 (keyboard dock)     Samsung Galaxy Tab 10.1   9:55     Apple iPad (2012)   9:52 (HSPA) /  9:37 (LTE)     Apple iPad   9:33     Motorola Xoom 2   8:57     HP TouchPad   8:33     ASUS Transformer Pad TF300   8:29 / 12:04 (keyboard dock)     Acer Iconia Tab A200   8:16     Samsung Galaxy Tab 7.0 Plus   8:09     Amazon Kindle Fire   7:42     Galaxy Tab 2 7.0   7:38     Acer Iconia Tab A500   6:55     Toshiba Thrive   6:25   Though the Excite 10 is significantly thinner than the Thrive 10, it doesn't sacrifice endurance along with the heft. In fact, this tablet has respectable, if not stellar, endurance. On our video rundown test, the Excite lasted 9 hours and 24 minutes, which tops the Thrive 10's 6:25 run time. That time is about on par with the original iPad (9:33), though the Iconia Tab A510 has it bested by almost an hour (10:23), and the Samsung Galaxy Tab 7.7 blows it out of the water with a lasting time of 12:01.
+
+  Though the Excite 10 is significantly thinner than the Thrive 10, it doesn't sacrifice endurance along with the heft.
+
+ Software The Excite 10 runs Ice Cream Sandwich (build 4.0.3, to be exact), and as with past tablets, Toshiba didn't tamper with Google's interface. Yep, it's pretty much stock Android here, and that's not a bad thing. Ice Cream Sandwich's streamlined interface shines on the 1280 x 800 display, and the tablet isn't bogged down by obtrusive bloatware.
+
+ Toshiba pre-loaded the full host of Google apps -- including Calendar, Gmail, Play Market, Search, Voice and YouTube-- along with its own branded utilities. There's Media Player for playing music and watching videos, File Manager for keeping tabs on your media and News Place for, well, catching up on the headlines. The third-party apps are for the most part useful; you get Adobe Reader, Netflix, Quickoffice and the Zinio e-magazine reader. Sure, there are five games, including Backgammon and Solitaire, pre-installed, but these are pretty inoffensive.
+
+ Camera 
+ Like most tablets, the Excite 10 is no point-and-shoot camera replacement, and the 5-megapixel shooter won't deliver any frame-worthy shots. In fact, the camera is downright bad -- images look fuzzy and lack detail, and zooming in only makes matters worse. Expect the washed-out colors that come standard on mid-range tablets' cameras. No vivid reds and blues here; pics we snapped on the street looked dull and overexposed. Moreover, images show pixelation and, even when we pinpointed our focus spot, not very sharp. 
+
+
+

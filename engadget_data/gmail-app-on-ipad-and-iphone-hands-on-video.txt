@@ -1,0 +1,17 @@
+
+ 
+
+We've been clamoring for a dedicated Gmail app on iOS for so long that, now that there's one available, we couldn't help but take it for a test drive. Once installed the thing differentiates itself from the previous, HTML5-based app by using a darker, more mysterious black background for the app icon. Otherwise it's the same white and red envelope. Open that up and the app inside looks mighty familiar too. Join us after the break for some quick impressions.
+
+Update: Google's confirmed on its blog that the Gmail app contains a bug that breaks notifications, and it's pulled the app while it fixes it. A new version is promised "soon."
+
+
+
+
+
+
+On either the iPhone or the iPad the experience is much like the HTML5-based apps we've used before. On the phone (or iPod touch) the main view is a simple list of messages within the current label. Tap "menu" and a black bar pops in from the left, enabling your selection of other labels. We haven't yet found a way to specify which of those is kept in sync for offline viewing, but hopefully that's something coming in a future release.Composing new emails does allow for attachments, but otherwise this offers little more functionality than we had before, and less than is found on the Android version -- most notably, if you have multiple accounts fed into your Gmail account, you can't choose which of those to send a message from. On the iPad it's the same functionality just presented with a three-column view: list of labels, list of emails within the current label and a view of the current email on the far right. It's clean and workable but sadly a bit buggy. We had to reboot our iPad before it would let us sign in and we got notification-related errors upon launching both apps for the first time. We also had issues with content falling off the right side of the screen, partially obscured from view.But, the good news is the apps do now support notifications, so you'll always know when someone wants a reply. Ultimately the apps don't rock the boat, but they're a start and an encouraging step toward proper Gmail platform independence.
+
+       
+
+ 

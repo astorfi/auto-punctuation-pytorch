@@ -1,0 +1,5 @@
+
+ Being number one is usually an honor, but not when it comes to Kaspersky Lab's top ten PC vulnerabilities list. Unfortunately for the software giant, Adobe took top dishonors for Q1 this year, pulling in five total spots on the list, including the top three. According to the security firm, all of the vulnerabilities appearing on the list allowed cyber-criminals to control computers at the system level. The number one spot was occupied by a vulnerability in Adobe Reader that was reportedly detected on 40 percent of machines running the application, while Flash Player flaws took second and third. Other dishonorees included the Java Virtual Machine, coming in at fourth and fifth place, Apple QuickTime, Winamp, and Microsoft Office. That ain't bad, considering Microsoft ruled the vulnerabilities roost in 2010.
+      
+
+ 

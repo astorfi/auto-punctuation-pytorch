@@ -1,0 +1,6 @@
+
+Microsoft believes the children are our future, and to prove it, it's teamed up with the Computer History Museum to make source code available for two groundbreaking programs: MS-DOS and Word for Windows. In a blog post that outlined the deal, Roy Levin, managing director of Microsoft Research, said the company granted the museum permission to make the code public for MS DOS 1.1 and 2.0 and Microsoft Word for Windows 1.1a, "... to help future generations of technologists better understand the roots of personal computing." MS DOS, originally code named "Chess," took root in 1980 when IBM asked Microsoft to produce an OS to run on its computers. Word for Windows was released in 1989, and with in four years had captured half of the revenue of the word-processing market, according to Levin.
+
+Both programs marked the beginnings not only of great successes for Microsoft, but also the PC industry as we know it today. The museum's Chairman, Len Shustek, had this to say about the effort: "We think preserving historic source code like these two programs is key to understanding how software has evolved from primitive roots to become a crucial part of our civilization." The move marks an ongoing effort to make landmark software code available to the public; the museum released the source for the 1989 version of Photoshop early last year.
+
+

@@ -1,0 +1,5 @@
+
+ 10's a nice round number, isn't it? Round, yes, but also wildly impressive when you put the word "petaflops" behind it as Fujitsu has done with its upcoming K supercomputer, which will be able to crunch through 10 quadrillion operations every second. Compare that to the current champ of processing farms, Cray's Jaguar, which can handle only (only!) 1.75 petaflops of workload and you'll know that we're talking about a seminal leap in performance. Japan's Riken Research Institute is the fortunate addressee on the crates of ultrafast SPARC64 VIIIfx processors that Fujitsu is now shipping out and the current plan is to have everything up and running by 2012. In total, there'll be 80,000 CPUs, each possessing 8 cores running at 2.2GHz, which will be housed within 800 racks. So yes, there'll be a machine somewhere on the Japanese isle with 640,000 processing cores at its disposal. Feeling safe?
+      
+
+ 

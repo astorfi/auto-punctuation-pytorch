@@ -1,0 +1,9 @@
+
+ 
+If, despite our warning, you were still hoping that the Zii was some sort of new form factor media player or maybe even a futuristic computer that could morph and change shape as needed, prepare to be a bit disappointed. Creative has revealed all, and while everything we know has indeed not changed (contrary to earlier promises) we can now confidently tell you that Zii is a system-on-a-chip architecture for high-demand media applications, featuring numerous discrete processing elements that, to our untrained ears, sounds at its core a bit like Sony and IBM's Cell. It's said to offer performance to rival a supercomputer, easy scalability to provide limitless growth (from gigaflops to petaflops), and some sort of integrated throttling to enable higher efficiency by shutting down disused aspects of the system. The first piece of hardware from this platform is called the ZMS-05 Media-Rich System-On-Chip, and companies like MSI and PowerLinux have pledged their support, the latter of the two planning to use the processor for its embedded Linux video conferencing systems. We're definitely eager to see what sort of innovative uses come out of this new architecture, but for some reason we don't quite feel like the hype was warranted.Update: Philip wrote in to let us know that the ZMS-05 is effectively just an updated and expanded version of 3DLABS's older DMS-02 chip, which, while also impressive, didn't change everything we know either.Update 2: Video added after the break.[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

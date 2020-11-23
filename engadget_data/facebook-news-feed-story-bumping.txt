@@ -1,0 +1,18 @@
+
+
+
+Have a love/hate relationship with your Facebook news feed? Sure, that feed serves up plenty of photos and posts from friends and family that you want to see, but there are also plenty of posts you could do with out, or posts you wish had been assigned greater importance. Facebook knows this, and is constantly tinkering and iterating its news feed post ranking processes to provide the most relevant stories possible to each individual user. To that end, Facebook's rolling out a new feature, called story bumping, to better percolate the stuff you care about to the top of your feed. Story bumping has already been launched on the web, and will be rolling out to mobile in the coming weeks.
+
+
+Previously, Facebook evaluated the most recent posts on the social network by assigning each post a score based upon a series of factors including: number of likes and comments, the relationship between you and the poster, the type of content, etc. Using those signals, Facebook runs them through a proprietary algorithm to determine a post's score. News feed then displays the posts with the highest score at the top of the feed. However, this method often resulted in relevant posts being relegated below the fold, and those posts would forever be lost in the never-ending social story avalanche. Story bumping provides a way for such posts to be seen by tweaking the recency logic previously used. Instead of picking from the most recent posts, the system now looks for the most recent posts that have not been viewed by the user, so that those older, yet relevant posts get a second crack at showing up in the top of your feed.
+
+
+
+
+Lars Backstrom, the engineering manager of News Feed ranking, explained that the problem of posts getting buried is something the company has known about for awhile. However, it took a few months to build out the infrastructure needed to run the story bumping feature, and there was plenty of internal testing done with FB employees before this public rollout. According to Lars, Facebook is optimistic that story bumping will be well received -- employees are among the most vociferous and critical users of the service, and he received only one complaint during the internal two-week test run. And, for those worried about the effect this will have on sponsored posts, Backstrom informed us that this story bumping feature has only been implemented for user generated content, what Facebook calls organic feed ranking (read: not ads).
+
+In addition to story bumping feature, Facebook has also begun to incorporate what it calls a Last Actor signal into its relevancy calculations. In practice, this means that Facebook evaluates a user's last 50 post interactions (likes, comments, etc.), and gives a higher subsequent value to stories from the same source of the post that was liked.
+
+Will these new features actually improve your Facebook experience? Only time will tell, but rest assured, Lars and his team know their task to build the most pertinent personal news feed is far from over, and there will be many more changes to come.
+
+

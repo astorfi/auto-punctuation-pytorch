@@ -1,0 +1,6 @@
+
+ 
+Things weren't looking good for BlackBerry in India, with threats of bans that were avoided at the last minute. We knew at the time that RIM had made "certain proposals" that would enable its messaging services to stay alive in India and now, about four months later, we're learning what those proposals amount to. Basically, RIM has created a backdoor into the company's messaging services, a "lawful access capability" that "meets the standard required by the government of India for all consumer messaging services offered in the Indian marketplace." That's a little disconcerting, but if you're pinging your connects exclusively through BlackBerry Enterprise Server you can take it easy, as RIM is keeping that service locked up tight -- or, at least, that's what it wants you to believe.
+      
+
+ 

@@ -1,0 +1,4 @@
+
+Even as smartphones are getting bigger and better, battery life is often an issue. Google announced today at I/O that its upcoming version of Android includes "Project Volta" to tackle the problem head-on. A "Battery Historian" gives more info on exactly what's draining energy, while a battery saver mode lets users squeeze up to an extra 90 minutes out of each charge by doing things like lowering the screen refresh rate. Following Project Butter to make the OS more responsive and Project Svelte to optimize it for cheaper phones, Volta could quickly have a very tangible effect on how we use our smartphones (and other Android devices). Developers can make their apps much smarter about battery usage by avoiding updates or holding off on energy-intensive tasks when power is running out. If you want to try out the new modes immediately, keep an eye out for the L Developer Preview arriving tomorrow for the Nexus 5 and Nexus 7.
+
+

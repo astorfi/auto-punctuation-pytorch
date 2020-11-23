@@ -1,0 +1,16 @@
+
+Facebook Home and the First phone to ship with it on board were revealed just over a month ago, and in the time since, the Home team has been hard at work improving the platform. Today at Facebook HQ we got to check in with Cory Ondrejka, Director of Mobile Engineering and Adam Mosseri, Director of Product to see how Home has been doing since its debut, and to hear what's in store for Home moving forward.
+
+
+Thus far, Home's been installed on almost a million phones, which has given Facebook some clear insight about the ways it needs to be improved. Most complaints thus far have centered on Home's failings as an app launcher -- when you install Home on any phone, it rearranges your apps because there's no folder support and no app dock. Well, Mosseri and Ondrejka feel your pain and assured us that those two features will be rolling out in the coming months, and they plan to continue to iterate to make Home a robust launcher. Facebook also has plans to roll out a new buddy list feature that'll show up as an overlay on top of Cover Feed with a simple swipe. This lets users start conversations directly from Cover Feed instead of having to open up the messenger app to start chatting. That's not all Facebook has in store, however, so join us after the break for more.
+
+
+
+The company also realizes that switching to Home from a standard launcher can be difficult. In order to shorten the learning curve, Facebook is working on a way to better educate users how to use Home through a series of blue instructional text bubbles (affectionately called Blues Clues) that explain Home's features when you first try to access them.
+
+Looking even further into the future, Mosseri's exploring ways to incorporate widgets into Home, and is also working to bring Home to tablets at some point. The key holdup with both features, however, is figuring out how to deliver them in a polished way, with a good UX. For example, the Cover Feed looks fantastic on tablets -- "it looks like a gorgeous personalized magazine about your friends" says Mosseri -- but neither viewing a massive 16 x 24 grid of icons in the app tray nor making a six-inch swipe to remove a Chat Head provides an ideal user experience.
+
+
+Speaking of a less-than ideal UX, Mosseri also informed us that Facebook has discovered well over 10,000 users who have sideloaded Home onto unsupported devices. In order to make life easier for those folks, Facebook changed the app permissions to allow those apps to download updates -- so users will be able to keep up with Facebook's monthly dev cycle instead of being stuck with the version they originally sideloaded. When asked when Home would start rolling out to more phones, Mosseri wouldn't give us a timetable, but he did say that for now, his team is focused on improving the Home platform as opposed to putting home on more kinds of hardware.
+
+

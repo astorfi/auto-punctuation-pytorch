@@ -1,0 +1,5 @@
+
+ 
+ HP's plans to open-source webOS included mention of Enyo 2.0, a framework designed to spread webOS' learnings to other platforms -- to spread the love around, so to speak. The code foundation, while behind schedule, has just left beta: any developer with a mind to producing web apps can now create interface elements and whole apps using the technology derived from Palm's legacy. Any reasonably modern browser will run the end result, whether it's running Android, iOS or a full-fledged desktop release. We may never recreate the exact feeling of using an HP TouchPad on our iPads and Galaxy Tabs, but we know that some of its software design heritage will carry on.
+
+

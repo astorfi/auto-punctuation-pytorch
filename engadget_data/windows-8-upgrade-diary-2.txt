@@ -1,0 +1,16 @@
+
+ Nothing's nicer than a happy ending. Except maybe a happy beginning, which is precisely what you're looking at above -- Microsoft's new OS captured in all its glory within minutes of completing the installation. What's more, if you saw the first part of this upgrade diary, then you'll know I was aiming for a trickier-than-average setup, with Windows 8 Pro running on a brand new and untouched SSD, alongside Windows 7 Ultimate running in dual-boot mode on my old HDD. As it turned out, this configuration was a breeze -- so long as I totally ignored the Getting Started instructions that came in the box. Read on if you'd like to know more.
+
+
+
+  
+ My problems started and finished with Microsoft's assumption that I wanted a regular in-place installation, effectively replacing Windows 7 on the same drive and partition. This assumption underlies (and undermines) the advice on the single-page Welcome pamphlet that comes in the box, which told me to run the Windows 8 disc from within my current OS. I gave this a shot, but it never once offered me the option of a custom or advanced installation to a drive partition of my choice, so I eventually hit "Cancel" and tried a different tack: booting from the Windows 8 disc itself.
+
+ This initially looked like a dead-end, because after booting the disc simply threw a Windows logo onto two of my three monitors and hung there. I tried this three times with the same result, until being ordered to take out the trash -- an inconvenience which rescued me, since when I came back after about five minutes I found evidence of movement on the screen. The disc was finally working!
+
+ This new setup program immediately saw that I had an empty and idle 240GB drive (already formatted as NTFS using Windows 7's stock disc management utility) and allowed me to install Windows 8 there. The next thing I knew, I was looking at a lovely Windows 8 personalization screen. There was no Internet connection, which made my Belkin N300 USB WiFi adapter the only piece of hardware that needed to be re-installed from its CD before I had a basically operational system.
+
+ And what a system! It's super-fast running off my SSD, and seeing as most of my Engadget workflow is cloud-based anyway, I was able to install just a couple of browsers and applications and then get right to work. The next episode in this journal will cover personalizing and learning the new OS, which will definitely be the most exciting part of this upgrade process -- not least because much of what happens at this stage will be linked to my Microsoft ID and will therefore carry over to other Windows 8 devices I work with in the future. Upgrading my Trinity-powered HTPC is also high on my to-do list, and will give me a chance to do some benchmark comparisons, since switching the OS will be the only variable on that machine. Anyway, that's it for now -- I'm off to download me some Catalyst drivers.
+
+ (My current rig, for the record: a Sandy Bridge i5 running on a Gigabyte Z68 motherboard; NZXT Switch 810 case; Gelid Tranquillo Rev. 2 cooler; Seasonic 600-watt PSU; Sapphire AMD Radeon HD 7970; 8GB Crucial XMS3 RAM; ASUS Xonar Phoebus sound card; three 1080p ViewSonic VX2336S LED monitors; 240GB SanDisk Extreme primary drive; 1TB 5,400 rpm media drive.)
+

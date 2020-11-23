@@ -1,0 +1,15 @@
+
+ 
+If you were curious as to why Boxee suddenly became available for OS X 10.4 users, here's your sign. The underpinnings of the Apple TV are indeed based on Tiger, thus paving the way for Scott Davilla, a developer for the aTV-bootloader project, to announce that Boxee and XMBC can now be installed on Apple's set-top-box. In order to take advantage, you'll need the aTV Flash bootloader on a bootable USB drive, an Apple TV and the software in the links below. Currently, things are setup to run on Mac only, though PC / Linux versions are promised for next week. After signing up for a Boxee invite, jump on past the break for the step-by-step guide to getting this going.
+
+
+
+
+Read - ATV Bootloader siteRead - Boxee Alpha signup
+
+
+How-to installation guide:Step 1 - Download the ATVUSB-Creator from http://code.google.com/p/atvusb-creator/Step 2 - Insert a "bootable" USB drive into your MacStep 3 - Run the ATVUSB-Creator- select which plug-ins you'd like to install- this list will grow over time, but currently includes SSH, Boxee, XBMC, and some binary utilitiesStep 4 - Remove the USB drive and plug it into your Apple TVStep 5 - Power on your Apple TV and the patchstick will run the ATV bootloader (previously the patchstick program was unavailable; people had to manually format their USB drive to be bootable and install the ATV bootloader.)Step 6 - After the bootloader finishes, remove it from your Apple TVStep 7 - Restart your Apple TVStep 8 - It now has options for Boxee / XBMC on the main menuStep 9 - Click on Boxee, then select update (this will download boxee from the Internet)Step 10 - Once boxee is done installing, restart your Apple TVStep 11 - Click "Boxee", then select "Boxee" in the sub-menu to start boxee. 
+
+       
+
+ 

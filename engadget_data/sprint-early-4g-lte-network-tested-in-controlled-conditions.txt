@@ -1,0 +1,8 @@
+
+ 
+ Sprint doesn't have much time to meet its goals and get its 4G LTE network up and running by mid-2012. The Now Network is definitely getting closer, though, and just gave PCMag the chance to test its fledgling LTE in Atlanta. Average speeds on the downlink sit squarely in between AT&T and Verizon, at 9 to 13Mbps, despite Sprint having to use 5MHz channels half as large as what AT&T can muster in some cities. Just don't expect to upload 4K videos from your phone anytime soon: the 2.2Mbps average upload rate is certainly faster than on WiMAX or T-Mobile's HSPA+ network, but it doesn't hold a candle to the 4Mbps or even 6Mbps of Sprint's bigger rivals. We'd likewise take the results with a large grain of salt. Even though Sprint is promising to focus on consistently good speed rather than bragging rights, the tests are in controlled conditions on a mostly unpopulated network. Our hope for now is just that the network goes live and that our EVO 4G LTEs live up to their potential.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,6 @@
+
+ 
+There's a lot of confusion around CableCARDs and more specifically what's stoppin' companies like TiVo and Microsoft from making OpenCable host devices that can access two-way services. VOD and PPV is one thing, but not having access to programming that you've already paid for just 'cause they're being deployed with the latest distribution technology is another. Don't get us wrong, we love new technology, but we don't like it when we bought the latest HD TiVo or Vista Media Center with a CableCARD slot only to be disappointed 'cause the latest HD channel is only available via our provider issued POS STB. The latest OpenCable specification is supposed to change all this, but for companies like MS and TiVo it isn't worth the price of admission. Now it looks like there will be another option, in the way of a so-called Tuning Resolver. This device will physically resemble a USB tuner, and will plug into your TiVo and your cable co's coax feed, and with a little help from a software update on your TiVo, it'll allow you to watch those switched digital channels that you'd otherwise be denied access to. At this point it's nothing more than a proposal from the NCTA to the FCC, but with any luck it'll materialize and before we know it the Chicken Littles will have to find something else to run around and complain about.
+      
+
+ 

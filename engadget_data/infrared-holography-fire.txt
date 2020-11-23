@@ -1,0 +1,30 @@
+
+ Firefighters already use infrared cameras to find people in burning buildings, but the technology can't distinguish between a person's heat and that of the surrounding fire. That's because a zoom lens is needed to concentrate the infrared rays in a way that enables the apparatus to form a human-readable image. Fortunately, a team of researchers from the Italian Institute of Optics has developed a system that ditches the lens in favor of digital holography that produces detailed 3D images in the darkness. The hardware isn't out of short trousers just yet, but the team is planning to develop a portable version for field work -- and chief Pietro Ferraro hopes that the idea will be co-opted by the aerospace and biomedical industries, too. Curious to see what all the fuss is about? Head on past the break for a video.
+
+
+
+  
+  Show full PR text   Infrared Digital Holography Allows Firefighters to See Through Flames, Image Moving People
+   Other applications could include monitoring breathing, cardiac beat detection and analysis, body deformation measurements during exercise
+
+  WASHINGTON--(BUSINESS WIRE)--Firefighters put their lives on the line in some of the most dangerous conditions on Earth. One of their greatest challenges, however, is seeing through thick veils of smoke and walls of flame to find people in need of rescue. A team of Italian researchers has developed a new imaging technique that uses infrared (IR) digital holography to peer through chaotic conflagrations and capture potentially lifesaving and otherwise hidden details. The team describes its breakthrough results and their applications in a paper published today in the Optical Society's (OSA) open-access journal Optics Express.
+
+   "It became clear to us that we had in our hands a technology that could be exploited by emergency responders and firefighters at a fire scene to see through smoke without being blinded by flames, a limitation of existing technology"
+
+   Firefighters can see through smoke using current IR camera technology. However, such instruments are blinded by the intense infrared radiation emitted by flames, which overwhelm the sensitive detectors and limit their use in the field. By employing a specialized lens-free technique, the researchers have created a system that is able to cope with the flood of radiation from an environment filled with flames as well as smoke.
+
+   "IR cameras cannot 'see' objects or humans behind flames because of the need for a zoom lens that concentrates the rays on the sensor to form the image," says Pietro Ferraro of the Consiglio Nazionale delle Ricerche (CNR) Istituto Nazionale di Ottica in Italy. By eliminating the need for the zoom lens, the new technique avoids this drawback.
+
+   "It became clear to us that we had in our hands a technology that could be exploited by emergency responders and firefighters at a fire scene to see through smoke without being blinded by flames, a limitation of existing technology," Ferraro says. "Perhaps most importantly, we demonstrated for the first time that a holographic recording of a live person can be achieved even while the body is moving."
+
+   Holography is a means of producing a 3-D image of an object. To create a hologram, such as those typically seen on credit cards, a laser beam is split into two (an object beam and a reference beam). The object beam is shone onto the object being imaged. When the reflected object beam and the reference beam are recombined, they create an interference pattern that encodes the 3-D image.
+
+   In the researchers' new imaging system, a beam of infrared laser light is widely dispersed throughout a room. Unlike visible light, which cannot penetrate thick smoke and flames, the IR rays pass through largely unhindered. The IR light does, however, reflect off of any objects or people in the room, and the information carried by this reflected light is recorded by a holographic imager. It is then decoded to reveal the objects beyond the smoke and flames. The result is a live, 3-D movie of the room and its contents.
+
+   The next step in moving this technology to the field is to develop a portable tripod-based system that houses both the laser source and the IR camera. The systems may also be suitable for fixed installation inside buildings or tunnels. In addition, the team is exploring other applications, most notably in the biomedical field for non-destructive testing of large aerospace composite structures.
+
+   "Besides life-saving applications in fire and rescue, the potential to record dynamic scenes of a human body could have a variety of other biomedical uses including studying or monitoring breathing, cardiac beat detection and analysis, or measurement of body deformation due to various stresses during exercise," Ferraro says. "We are excited to further develop this technology and realize its application for saving and improving human life."
+
+   Paper: "Imaging live humans through smoke and flames using far-infrared digital holography," M. Locatelli et al., Optics Express, Vol. 21, Issue 5, pp. 5379-5390 (2013).
+
+ 

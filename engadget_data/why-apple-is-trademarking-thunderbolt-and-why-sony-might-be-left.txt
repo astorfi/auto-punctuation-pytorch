@@ -1,0 +1,14 @@
+
+ 
+
+
+Thunderbolt (formerly known as Light Peak) may have been developed by Intel, but it's Apple that's been snatching up all the trademark glory. The company first filed in November of 2010 in Jamaica, then followed up in February of this year by securing the rights to the name in Canada, before registering similar claims in Europe, China, and now the US. This raised some interesting questions about Intel's claim to be the exclusive trademark holder (see the more coverage link) and whether or not other companies would be able to use the Thunderbolt brand. Intrigued, we did a little digging and you'll find what we uncovered after the break.
+      
+
+ 
+
+We spoke to Intel, and it turns out that as part of its collaboration on Thunderbolt Apple filed the initial trademark requests before transferring them to Chipzilla. So, there are no worries about this being a Cupertino exclusive on branding. The connector will be known as Thunderbolt across all platforms provided it meets some basic requirements. As Intel's Dave Salvator told us, "a Thunderbolt implementation needs to use the controller chip, and the Thunderbolt connector." That means if Sony is in fact using a USB port, instead of the Mini DisplayPort-like jack found on MacBook Pros, then it will have to find another name for its high-speed peripheral interface. That's not to say it couldn't made compatible with a simple adapter, after all it's just PCI Express in cable form. But, whatever it looks like, it couldn't be called Thunderbolt. While Thunderbolt requires a chipset that is, for now, built exclusively by Intel, there is nothing preventing other motherboard manufacturers from integrating it into their products. That's good news, especially for AMD fans afraid they were going to be left out. In the future the Santa Clara-based company may bring others into the fold should market demand exceed their manufacturing capabilities.For now there doesn't seem to be much of a reason to worry about Android-style fragmentation of the Thunderbolt platform. In fact, Intel expects to seen the brand in "many places in early 2012," but there does seem to be room for others to muddy the standard. Meanwhile, USB 3.0 just keeps marching its unified front towards peripheral dominance...
+
+       
+
+ 

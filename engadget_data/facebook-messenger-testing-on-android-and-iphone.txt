@@ -1,0 +1,8 @@
+
+Facebook announced a few weeks that it would start testing a new Messenger mobile experience, and now more users of the social network should be seeing it. The new version arrived on some of our Android devices within the last 24 hours, and an update to the company's blog post says that now it's coming to iOS as well. The new design is meant to be faster with swiping to switch between conversations and it also asks users to confirm their phone numbers, used to match contacts who have your number, but that you're not yet friends with. While it's now available "more broadly" not everyone is seeing it yet, for a better peek at the new app you can check out Facebook's Messenger website. The more dev-oriented should look at a post on its Engineering blog that explains some of the under the hood changes made to get everything moving faster on both platforms.
+
+
+
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));Post by Facebook Engineering.
+ 

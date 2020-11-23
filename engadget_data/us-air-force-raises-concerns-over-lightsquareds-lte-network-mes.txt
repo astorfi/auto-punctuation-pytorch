@@ -1,0 +1,10 @@
+
+ 
+Following a navigation system's instructions without driving into a ravine is hard enough as it is -- can you even imagine how hard it'd be if you kept losing GPS reception every time you drove within range of an LTE tower? There have been a few anecdotal concerns raised over the last several weeks that LightSquared's proposed LTE network -- which would repurpose L-band spectrum formerly used for satellite -- is too close to the spectrum used by the Global Positioning System, leading to unintentional jamming when the towers overpower the much weaker GPS signals. Things have gotten a little more interesting, though, now that the US Air Force Space Command has officially piped in. General William Shelton has gone on record saying that "a leading GPS receiver manufacturer just ... has concluded that within 3 to 5 miles on the ground and within about 12 miles in the air GPS is jammed by those towers," calling the situation "unbelievable" and saying he's "hopeful the FCC does the right thing."
+
+Presumably, the USAF thinks that "the right thing" would involve pulling LightSquared's license, but for its part, the company says it believes Shelton is referring to a test conducted by Garmin (possibly explaining that recent outage in the Southeastern US?) using simulated interference filters -- not the actual filters that it has spent several million dollars developing and perfecting. Regardless of how effective the filters might be, the idea that the only thing standing between a functional GPS system and a constellation of space-borne paperweights is a private company's privately-developed, privately-operated filtering equipment... but then again, we love LTE. Decisions!
+
+[Thanks, Brian]
+      
+
+ 

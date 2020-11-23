@@ -1,0 +1,119 @@
+
+ For years now, the BlackBerry OS has occupied something of a special state, almost feeling as if it were thrown down into a pit and locked into a bar of carbonite, preserved in stasis for future generations to see. Want to show your kids what using a smartphone was like in 2006? You just needed to find a Bold on display at the local electronics store and let your little ones gaze wide-eyed at a sea of menus and tiny buttons.
+
+ BB7, then, was a disappointment for many, feeling like a bare-minimum update to those versions that came before rather than the complete QNX-based retooling we'd all been waiting for. The PlayBook showed us what was possible with a clean-sheet approach to a BlackBerry OS, and we wanted that on a phone. Now, two years after the release of that tablet, here we have it. It's BlackBerry 10. It's a wholly new experience, very different even than the PlayBook, and in general it's quite good. But is it good enough to thrive in a world dominated by iOS and Android? Let's find out.
+
+
+
+ General layout and gestures 
+ The input-free BlackBerry Z10 drives home the need to use gestures to interact with this new OS, because there's a complete lack of buttons on the face -- only the volume controls and a power / lock toggle on top remain. Even the touch-heavy 9850 Torch made room for a suite of discrete inputs, but not here. So, it'll be gestures, then, which means there's a bit of a learning curve. Thankfully, it's a slight one.
+
+ So, it'll be gestures, then, which means there's a bit of a learning curve. Thankfully, it's a slight one. The most important gesture is swiping up from the bottom bezel, which always brings you back to a tiled view of all the running apps. This will be the gesture most familiar to PlayBook users, and is one of the few that survived. (Swiping from the left or right bezels to switch apps, for example, isn't possible here.) Up to eight apps can be kept running in the background on this screen and bringing one back to life just requires a tap. Or, to properly kill a running app, hit the X in the lower right, an action that feels a bit ornery compared to the fun of flinging an app that you no longer needed off the top of the PlayBook's display.
+
+ 
+ From here you can swipe your way left or right. To the right lies a grid of icons, on the Z10 arranged in a 4 x 4 matrix of rectangular tiles, each holding an app icon and a name. Repositioning is performed by tapping and dragging, while dropping one on another creates a folder. Folders are represented by a smaller grid of icons within a single app icon space, with no other identifying characteristic, which makes them a bit hard to pick out amidst the sea of apps.
+
+ App icon and folder pages extend off to the right as more apps are installed and there's no attempt at categorizing them, again unlike the PlayBook, which had pages for "Favorites" and "Media" apps. Widgets and other desktop-like controls are not supported here. Just icons. But, a bit of room was carved out to create a static area holding three special controls: a phone, a search glass and a camera.
+
+ Tap the phone and the dialer interface shows up. This is split into three sections, with the leftmost giving you a look at your previous incoming and outgoing calls. In the middle is a long list of contacts (sucked in from BBM, Facebook, Twitter and Google Contacts, among others) that is searchable and, in the right tab is a simple dial pad in case you're one of the lucky few who can actually remember a phone number.
+
+ 
+ The search icon takes you into a universal search that, with one form, enables the querying of apps, contacts, messages, calendar appointments and even web history. The results, then, tend to be a bit long, but thankfully you can filter them by category. If that weren't enough, third-party apps can also hook into the search interface, represented at the bottom of the search results. Tap an app icon and your search text is handed off to the app in question.
+
+ Finally, the camera icon predictably brings up the photography interface, which we'll explore in more detail later.
+
+ Again, swiping up from the bottom bezel is the gesture that takes you to this interface, but if you extend that gesture you begin what BlackBerry calls the "Peek." Swiping up and holding causes a row of icons to arrive from the left, representing unread emails, calendar reminders and the like. A red asterisk by any of these means you have something new to look at. To see what that is, just continue that gesture off to the right, which brings you to the BlackBerry Hub, a section of the OS best covered in its own section.
+
+ BlackBerry Hub  This is the place that BlackBerry thinks will be so vital to your BlackBerry 10 experience that it's made available from anywhere, in any app, with just a single gesture. The name "Hub" is apt. This is the place that BlackBerry thinks will be so vital to your BlackBerry 10 experience that it's made available from anywhere, in any app, with just a single gesture. Swipe up and to the right and you're immediately hit in the face with an aggregated list of emails, Twitter replies and DMs. Also, text messages, BBMs, Facebook messages, voicemails and missed calls. Also, system updates and, yes, even LinkedIn messages will be listed here. It can be a little overwhelming for sure -- especially if you have multiples of each type of account to manage.
+
+ In theory this could make it a great way to keep up with all your connected options, but we found it a bit cumbersome to use when quickly managing masses of messages. For example, if you want to select a bunch of emails and file them all away, it's two taps just to enable multiple-select mode. If you want to simply delete a single email, it's three taps: one tap to open it, a second to bring up a menu and then, finally, a third on the "delete" button. Or, you can perform a long tap and wait for a context menu, which takes a few seconds to pop up.
+
+ By comparison, in the latest Gmail app you can delete an email right from the list with just a quick, single swipe. Overall, as a communication tool, BlackBerry Hub is powerful if you get relatively few messages scattered across multiple platforms, but if you spend a good portion of your day fending off a mountain of email, it can begin to feel unwieldy.
+ But, when it comes to jumping into calendar invites, that's made very easy. Just scroll down in Hub and those appear up top, ready for your tapping. And, as ever, if those meetings take place on a conference bridge, just tap the number to dial in. This sort of navigation has always been a trademark of BlackBerry, and it's great to see it live on here.
+
+ But, if that mega-list of all your messaging gets overwhelming, you can filter it by an individual account, perhaps showing only Twitter messages and replies for your work account or only your BBMs. This is done by grabbing the lower-left icon, which has three notches drawn on the side, and dragging it right to expose all the accounts you've added to the phone. This is a gesture and control common on many of the stock apps. You then tap the content that you want or, for more control, you can dive into the settings and individually pop them on or off.
+
+ From here you can compose messages in any of these aggregated accounts, including sending Twitter direct messages, BBMs, text messages and, yes, emails. To do that, you'll need something to type on.
+
+ Keyboard 
+ The virtual keyboard in BlackBerry 10 is good. Really good. It's the best stock keyboard of any mobile OS at the moment. Much has been made of the relatively pain-free method of text entry on BlackBerry's traditional, QWERTY keyboard-having devices -- and much has been said of the agony of entering text on any of Blackberry's previous keyboard-free devices. Each one, we were told, would deliver a typing experience as good as a physical keyboard without the compromise in screen size and each one failed to deliver. Until now.
+
+ The virtual keyboard in BlackBerry 10 is good. Really good. It's the best stock keyboard of any mobile OS at the moment -- a good thing, because there's no way to replace it. It starts with a comfortable layout, which includes rows of generously sized keys separated by gray bars meant to evoke the chrome ones found on many a BlackBerry QWERTY handset in the past. This gives even meaty thumbs plenty of space for hunting and pecking, but that's only the beginning.
+
+ It's a four-row layout to begin, with no dedicated buttons for numbers or characters other than letters, comma, period and, of course, a space. But, to get to numbers and other special characters you just swipe downward, which kindly cycles through two pages of special characters. A swipe from right to left, meanwhile, deletes whatever word was just entered, à la SwiftKey.
+
+ Finally, the most talked-about point here is the predictive nature of the thing. The keyboard snoops through your email and social history to get an idea of what phrases you commonly type and files those away. As you type, it's helpfully suggesting what you might want to type next, and it does so in an interesting way: presenting whole words hovering above keys. To type that word, you simply swipe up from the key and the keyboard enters it for you -- plus a space.
+
+ For example, if you want to type "Good morning," you'd start by hitting the "G" key. And, immediately, the BB10 keyboard superimposes the word "Good" above the "O" key. Swipe up on that and you can immediately move on to the next word, "morning," which is now conveniently floating above the "M" key. Swipe up and you're done with just three presses of the screen.
+
+ Mind you, it doesn't always work this way, and in practice it can actually be a bit distracting and befuddling at times. In SwiftKey, for example, the predicted next word is always in the same place and, to select it, you hit the space bar. You very quickly get used to looking in that spot, which means you don't need to look at the keyboard itself. In BB10, the predicted words are scattered all over the letters, forcing you to follow your thumbs as you type. If you've learned to touch-type on your smartphones, this can take a bit of adjustment.
+
+ But is it truly better than a physical keyboard? We still hold the Bold 9900 at the pinnacle of smartphone typing experiences and, from a tactility sense, a touch experience isn't going to win. But, from a typing speed perspective, we have to give the nod to the BlackBerry 10 keyboard. We were able to blurt out emails and texts in record time.
+
+ Voice recognition 
+ If typing isn't your thing, BlackBerry 10 offers full voice recognition -- handled via network, as on most mobile devices, meaning you'll need to stay actively connected if you want to take this for a spin. There's a dictation feature, accessed by holding down the period key. We found the voice recognition to be quite impressive, nailing easy phrases like "The quick brown fox jumps over the lazy dog," and even perfectly parsing more complex ones, like "I live in Schenectady, New York and I'm looking for a Mexican restaurant."
+
+ Then there's also the Voice Control feature, which allows you to give your phone some simple commands -- much like Siri, it must be said. Hold down the play / pause button on the phone (which is nestled between the volume up and down buttons) and a feminine voice asks you what you'd like to do. From here you can say things like "call Amanda" or "send a text message" or even "BBM Alex: Hey I just saved you 10 cents by not sending a text message."
+
+ We found phrases like "note to self" to set a reminder or "schedule a meeting" most powerful, but couldn't help but wish there were more available commands. When saying, "call my wife," the phone reacted by trying to find a contact named "wife," rather than asking which of your existing contacts is your wife. Any attempt to get directions or navigation to a location or contact was rebuffed, and the service is unfortunately unable to deliver answers to simple questions, like: "How many ounces are in a pound?" It simply hands all those off to Bing.
+
+ Camera 
+ The camera has a dedicated icon on the bottom of the main interface, though you can also bring it up from the lock screen by performing a long press on a camera icon there, too. The interface is simple, with a focus reticle in the center that changes to green and contracts slightly when focus is achieved. The typical ellipsis in the lower-right corner brings up a quick menu that lets you switch between front and rear cameras, toggle shooting modes, select from one of four pre-defined scenes (like Action or Whiteboard), enable / disable the flash and, finally, select between 16:9 and 4:3 images.
+
+ When it comes to the business of taking photos, there's no discrete shutter button here, either physical or virtual. You just tap anywhere on the screen to take the picture. To select a different focus point other than dead-center you have to manually drag the reticle around before snapping the picture, something that we found cumbersome. We'd much prefer tap-to-focus with an on-screen shutter release.
+
+ BlackBerry has also bundled in a feature called Time Shift that, when taking a shot of a group of people, actually takes a burst of photos and then lets you selectively choose the best frame for each individual in the photo. This works well when it identifies all the faces, but in our trials it had a difficult time identifying bearded faces, which are quite common this time of year -- especially among the Engadget staff.
+
+ Once images are taken, you can review them and, should you like, open them up in a reasonably comprehensive editor to crop, rotate, color adjust -- or get more funky with a series of Instagram-like filters. No, there's no official Instagram app here, but you can put a predefined sepia hue on anything you like. What better way to add a little mystique to that blurry shot you took of the whiteboard before the mortal remains of your last brainstorming session were swept aside?
+
+ BlackBerry Protect 
+ BlackBerry Protect returns in BB10, BlackBerry giving you an integrated way to find your handset should you and it part company. Enable the service on your device and you're enabling the means for it to phone home when lost. That's done via a BlackBerry-hosted website, which offers the ability to view your phone's current location, make it play a sound or make it display a message. You can also lock it remotely and, if things should go completely pear-shaped, remotely wipe it with the click of a button.
+
+ All this is accessed via your BlackBerry ID, so we'll go ahead and remind you to make sure you chose a secure password for that service. Once logged in, you'll need to create a separate password via the website, and then you can start making the phone blurt out horrible sounds, so that you can find it in the sofa cushion. Frustratingly, there's no way to stop those annoying sounds once they start -- they'll play for 60 seconds no matter what.
+
+ In our testing, these control signals took about five minutes to actually get to our Z10, only happening after the website had indicated a failure to communicate before putting on its mirrored glasses and walking away. But, those commands were indeed delivered.
+
+ BlackBerry World 
+ BlackBerry World is the all-conquering portal for spending money on BlackBerry 10. Here you can get apps, music and movies -- the vast majority of which are all available at a premium. Yes, there are plenty of free apps, but you'll find a disappointingly low ratio of free to paid distractions in here compared to Google's Play Store and even Apple's App Store. And, being a new OS, there's a general shortage of apps overall.
+
+ There are a lot of heavy-hitters, like Dropbox, Angry Birds Star Wars, Box, Foursquare and, uh, Hockey Night in Canada. But, there are also a lot of missing players, like Netflix and Hulu, media apps that many smartphone users on other platforms use daily. (Kindle isn't there, but it's coming, says Amazon.) And, while many PlayBook apps are available for download here, those that we sampled almost universally looked terrible. Controls were often stuffed together to fit into the phone's display, stacking on top of each other and often making the apps unusable. In one app, a Pandora client called Apollo, the Terms of Service was formatted such that the "Accept" button was somewhere off the bottom of the screen.
+
+ Plenty of premium music is on offer, though we found pricing here to be consistently higher than elsewhere. That shortage of apps does not extend to the multimedia aspects of BlackBerry World, thankfully. Plenty of premium music is on offer, though we found pricing here to be often higher than elsewhere. Unorthodox Jukebox from Bruno Mars is $11.99 here, or $1.49 per track, versus just $5.99 on the Amazon MP3 Store (where it's $0.99 per track). Likewise, it's $10.99 in iTunes ($1.29 per track). Similarly, Babel from Mumford & Sons is $12.99, compared to $9.99 on Amazon and $11.99 at iTunes.
+
+ Video content, thankfully, has more competitive pricing. Taken 2 is $4.99 to rent here ($4.98 on Amazon, $5.99 on iTunes) or $16.99 to buy ($12.99 on Amazon and $14.99 on iTunes), while an episode of Modern Family is $1.99 to buy here, which matches both Amazon and iTunes. But, it must be pointed out that this content can only be downloaded to up to five devices, an unfortunate and seemingly dated restriction in these halcyon days of cloud-based, download-whenever-you-want media.
+
+ Stock apps While a world of apps awaits in BlackBerry World, there are quite a few pre-installed, some more useful than others. Here are some highlights.
+
+ Browser 
+ We'd rather have Flash with the option to disable it than not have it at all, and it is indeed here. A new mobile platform will set off on a rocky start without a solid web browser, and thankfully the one built into BlackBerry 10 is quite good indeed, and we'll get what may be its hallmark out of the way early: it supports Flash. Yes, this is one mobile browser that's happy to serve up every annoying, flashing and bouncing banner ad it can find, plus the thousands of obnoxious restaurant websites that were sadly made into overcomplicated "experiences." That Flash is disabled by default says a lot.
+
+ Also, it's worth noting that sites like Hulu and Netflix have predictably blocked access to their content, which drastically reduces the usefulness of this once-great mobile technology. Still, we'd rather have Flash with the option to disable it than not have it at all, and it is indeed here.
+
+ Otherwise the browser is a fairly traditional experience, with a URL bar at the bottom doubling as a search field for Bing. A button to the left of that gives quick access to bookmarks and history, while the vertical ellipsis on the right pops up a context menu offering buttons for things like accessing settings and bookmarking the current page. It also allows access to the Reader mode, which strips out all the pictures and ads and gives you a single, lean look at the text on the page. Unfortunately, there's no way to save that view for later offline reading.
+
+ BBM 
+ BBM lives on, and gets the very useful (and, these days, necessary) addition of video chat. That adds on to the voice chat feature that was included with BlackBerry 7. To start a voice or video chat, just go to the messaging interface with that person and tap the icon in the upper-right corner. Video chats are only possible with people also using BB10, but you can do a voice chat with folks on older versions. It's unclear at this point which (if any) carriers will allow this on a cellular connection.
+
+ Also new is a screen-sharing function, which could make mobile enterprise support a far easier thing. While in a video chat, users can opt to share what's currently on their own display, making collaboration or troubleshooting much easier -- even when you're just stuck trying to fill out a digital crossword puzzle.
+
+ And, as we mentioned above, BBM is integrated into the BlackBerry Hub, so you can send and receive messages directly in there, too.
+
+ Calculator 
+ The funky calculator on the PlayBook, an obvious product of The Astonishing Tribe, was one of our favorite pre-loaded apps on that tablet. The calc app in BlackBerry 10 is much the same, offering the same playful color scheme and quirky skeuomorphism. Punch away and your figures are tallied on a virtual paper tape, which can be virtually torn off and thrown into the virtual trash bin. There's also an integrated unit converter and a handy tip calculator, if you really want to make sure your cheap friends are doing their part.
+
+ Compass 
+ Compass is another simple but visually striking (and fun-to-use) app. This is just a floating compass that always points north (thanks to the integrated magnetometer), but it has a very clean, simple look that makes it a pleasant thing to look at and, as the compass disk is floating freely, it's interesting to turn the phone around and see that disk from the sides and even the bottom. Granted, not the most useful app here, but you might be more inclined to use this to find your way about than the default maps application.
+
+ Maps 
+ The app only works when you're online, not even caching routes once you get going, so you'd best restrict your expeditions to areas with good signal coverage. In an era when mapping and navigation are increasingly important pieces of a mobile platform's pie, the Maps app in BlackBerry 10 is functional at best. The features on offer here pale in comparison to even Apple's oft-derided option in iOS 6. It's instead best compared to the bare-bones carrier-installed options like VZ Navigator -- especially since they were both developed by the same company.
+
+ You can search for POIs and look at a map to see where a given contact is located and then get barebones navigation to that destination. By "barebones" we mean no re-routing for traffic, no satellite overview, no POI displays, no gestures to look around the map while navigating and, should you ever lose your connection, a complete loss of functionality. The app only works when you're online, not even caching routes once you get going, so you'd best restrict your expeditions to areas with good signal coverage.
+
+ Wrap-up 
+ It's challenging to put down a final verdict on an operating system that's just emerging after such a long period of incubation. Like Microsoft with Windows Phone 7 back in the day, BlackBerry is basically starting from scratch here, and that's a difficult thing to do when the two biggest competing platforms, iOS and Android, each have millions of users deeply entrenched within their respective ecosystems, users happily sated by the hundreds of thousands of apps from all the major players.
+
+ As a company, BlackBerry has been doing a ton of legwork to ensure that app partners are lined up and ready to deploy their wares here, and indeed there's a lot of potential for BlackBerry, but at this point it's hard to imagine that potential outshining the established goods offered by the competition.
+
+ As a replacement for older versions of BlackBerry OS, BB 10 is a huge step out of the dark ages of mobile OS design. It's something that finally feels intended for a modern, full-touch device, yet still offers the core productivity focus we think BBID-holders will like. Does it have mainstream appeal? Yes, it does, but we're not sure a great stock keyboard and some trick gestures are enough to unseat the current kings of mobile devices.
+
+

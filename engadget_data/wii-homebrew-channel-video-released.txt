@@ -1,0 +1,7 @@
+
+ 
+We've already seen some rudimentary Wii homebrew channel support, but this latest video released by homebrew developer Bushing steps things up considerably, with it turning what was once a curiosity into something that quite a few non-homebrew dabbling folks will likely be eager to get their hands on. As you can see after the break, the channel looks to be about as straightforward as can be, and it apparently includes built-in support for loading ELF and DOL homebrew executables via USBGecko and TCP/IP, in addition to support for loading 'em off SD cards. Sadly, there's no word on a release just yet, but we can't imagine it being kept under wraps for too much longer.[Via DCEmu, thanks Craig]
+
+ 
+
+

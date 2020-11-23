@@ -1,0 +1,6 @@
+
+ 
+
+
+	Using your phone's GPS to guide you down city streets can sometimes be a harrowing experience, especially in signal blackspots (or when there's a mild breeze). Fortunately, there's a fancy new solution -- for some of you at least. High Fidelity Position is an app specifically for Samsung Mango phones that supercharges the GPS module with two upgrades to help positioning. The first leverages the on-board accelerometer and compass to help the Windows 7 device orient itself on congested city streets. Second is that it will now access GLONASS -- Russia's equivalent to GPS -- pinpointing your location to within a few feet. When installed, the app is only visible in the settings menu, where you will need to activate it. We can also expect to see more of GLONASS in the future, since Russia's imposing import taxes of about 25-percent on any device that's incompatible with the Soviet standard, and manufacturers won't want to take a hit of that magnitude on a feature they can use. Samsung WP7.5 owners who want every excuse to celebrate the triumphs of Gagarin, Sputnik and Laika can find the app available at the source link below.
+ 

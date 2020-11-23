@@ -1,0 +1,7 @@
+
+ 
+ You could call it technological baptism of sorts... just not the kind Apple would want. A Russian scam app known as Find and Call managed to hit the App Store and create havoc for those who dared a download, making it the first non-experimental malware to hit iOS without first needing a jailbreak. As Kaspersky found out, it wasn't just scamware, but a trojan: the title would swipe the contacts after asking permission, send them to a remote server behind the scenes and text spam the daylights out of any phone number in that list. Thankfully, Apple has already yanked the app quickly and explained to The Loop that the app was pulled for violating App Store policies. We'd still like to know just why the app got there in the first place, but we'd also caution against delighting in any schadenfreude if you're of the Android persuasion. The app snuck through to Google Play as well, and Kaspersky is keen to remind us that Android trojans are "nothing new;" the real solution to malware is to watch out for fishy-looking apps, no matter what platform you're using.
+
+ [Image credit: C Jones Photography (wallpaper)]
+
+

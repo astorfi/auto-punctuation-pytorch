@@ -1,0 +1,10 @@
+
+ Sometimes the plays on words are unavoidable -- in fact, they form the very heart of Scott Garner's recent musical creation. His BeetBox turns six of its namesake root vegetables into drum pads through SparkFun capacitive touch sensors, all of which are controlled by (what else?) a Raspberry Pi. Cleverness goes beyond the core technology and food jokes, as well. All of the circuitry and audio equipment is hidden within the wood box, making it look more like a horticultural project than machinery. We don't mind the lack of production plans when there's source code available; we're mostly curious as to what in our garden would make for a good rhythm section.
+
+ [Image credit: Scott Garner, Flickr]
+
+
+
+
+ 
+ 

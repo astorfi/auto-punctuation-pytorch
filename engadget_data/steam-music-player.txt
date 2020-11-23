@@ -1,0 +1,9 @@
+
+       
+Valve's game distribution service has been going through a lot of small changes recently: not only has Steam been given a fresh coat of paint and a completely redesigned storefront, but now it plays music, too. This isn't a total surprise, of course -- Valve has been testing music playback for months, and even rolled the feature out to beta users over the summer -- but now Steam Music Player is available to anyone running the latest version of the client. It's a pretty simple addition, too: Steam scrubs your PC's common (or manually defined) music folders for MP3s and, well, plays them.
+      
+
+ 
+It does get a little more complex -- the music player is accessible in the client's game overlay, which means you can control and play music without alt-tabbing back to the desktop. It also offers an easy way to listen to soundtracks of supported games, but this part of the experience is a little clunky: since Steam offers soundtracks as game DLC, it appears that most of the service's music can't be downloaded separately from the game itself. If Portal 2 isn't installed, neither is the game's music. Need some music to test it out with? Valve at least has you covered here: Half-Life, Half-Life 2 and both Portal games are 75% off in celebration of the new feature, and all of those games come with free soundtrack DLC. Neat.
+
+

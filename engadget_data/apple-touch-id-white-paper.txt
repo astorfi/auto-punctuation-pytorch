@@ -1,0 +1,5 @@
+
+
+If you've ever wanted to know how the iPhone 5s' Touch ID fingerprint security works beyond a basic overview, you'll be glad to hear Apple has just delivered a motherlode of new details. An updated version of its iOS Security white paper (PDF) explains much of what happens to your finger data after you touch the sensor. In short, your information may be more hack-resistant than it seems at first glance. Each A7 chip has a unique secure space that neither the A7 nor Apple can read, and every authentication session is encrypted end-to-end. The company is also offering a deeper explanation of what it does with your fingerprint image, noting that the print only lasts in memory until it's turned into a decryption key. As we've known for a while, there are safeguards that wipe out that key after 48 hours of inactivity, a reboot or five failed login attempts. While the new insights will only have so much usefulness when developers can't use Touch ID for their own apps, they suggest that there's little to no chance of fingerprint theft or a large-scale data breach.
+
+

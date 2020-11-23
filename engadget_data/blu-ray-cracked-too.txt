@@ -1,0 +1,5 @@
+
+ It's still early on to tell whether this is actually true, but HD DVD cracker muslix64 is back, and with the help of another anti-DRM cracker, Janvitos, claims to have also broken the Blu-ray's implementation of AACS. Although their protection does not yet account for BD+ copy-protection, they claim to have been able to implement the same key-grabbing known-plaintext attack as muslix64 used to crack HD DVD in order to successfully to crack Blu-ray without even using a disc or drive (apparently they just used a raw encrypted data file and nothing more). Unfortunately they haven't yet posted code for us to test this out, so we'll have to take their word for it for the time being.[Thanks, Ken F]
+      
+
+ 

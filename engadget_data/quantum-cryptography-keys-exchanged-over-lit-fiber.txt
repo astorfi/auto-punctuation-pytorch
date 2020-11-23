@@ -1,0 +1,8 @@
+
+ Quantum computing has teased us with its potential for some time, but we won't be seeing qubits in our laptops anytime soon. However, science has also sought to leverage quantum physics in cryptography, and a recent breakthrough will allow for quantum encryption over fiber optic cables already in use. Researchers from Toshiba and Cambridge University discovered that they could transmit and receive encryption keys using pulses of quantum light and a specialized photodetector.
+
+ The trick was to build a detector with a gate capable of both sensing a single photon and opening for just one tenth of one billionth of a second at the precise time that the photon arrives. Knowing the timing of the photon's arrival with such precision allows the quantum light to be captured and filtered out from other light pulses carrying regular data in the cable. Why all the effort to use quantum light? Well, if any quantum photon carrying an encryption key is intercepted during transmission, it's permanently changed. This, in turn, alerts those intended to receive the info that the encryption key may have been compromised.
+
+ Previously, quantum encryption keys could be exchanged, but only if sent using a dedicated fiber line, which isn't a cost-effective solution. This new method allows keys to be sent via existing lines already in operation transmitting data, so no dedicated fiber need be installed. In testing, simultaneous 1 Mbps quantum key data rates and 1 Gbps regular data rates were achieved, and one researcher told BBC News that the technology is "not too far away" from being used to secure financial networks. For now, the new quantum key distribution method remains in the lab, but you can read all about it at the source below.
+
+

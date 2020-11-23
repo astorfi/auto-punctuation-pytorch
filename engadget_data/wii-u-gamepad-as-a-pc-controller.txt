@@ -1,0 +1,8 @@
+
+ It may not be as easy to crack as the Bluetooth powered Wiimote, but the Wii U Gamepad is finally getting a little hacker's limelight -- one clever modder has figured out how to use it as a PC controller. By pointing the Wii U web browser at a local web server running a custom script, Chris Manning is able to read the Gamepad's input and map it to keyboard functions -- giving gamers with time and patience a complicated way to use the Wii U tablet as a simple PC gamepad. Manning told Kotaku that a future update will include touch-screen input, and he's also trying to crack Gamepad streaming, for PC gamers who can't quite wait for NVIDIA's Project Shield. The Wii U is still a long way from being properly hacked, of course, but we certainly won't shake a Wiimote at clever workarounds like this. If it works, it works. Skip on past the break to see the trick in action, or read Manning's video description at the source link to grab the necessary files.
+
+
+
+
+ 
+ 

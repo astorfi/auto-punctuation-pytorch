@@ -1,0 +1,6 @@
+
+ 
+Although not quite as stealthy as some of the other spybots that we've seen, the 6.5-ton Crusher UGCV (Unmanned Ground Combat Vehicle), with its 8,000-pound payload and one-kilometer range, is certainly more versatile than your typical robosnake or Packbot. Unveiled today by the National Robotics Engineering Center (NREC) at Carnegie Mellon's School of Computer Science's Robotics Institute, Crusher, like its predecessor Spinner, was commissioned by DARPA to provide combat troops with a durable cargo and surveillance option that can operate mostly autonomously even in rough terrain. Crusher is powered by a series of electric motors whose batteries are charged with a turbo diesel generator -- giving it a top speed of 26 miles-per-hour -- and manages to avoid obstacles using an array of cameras and ladar lidar. Although its first two years of service will be restricted to support role duties, Army and DARPA officials will use Crusher's performance during the probationary period to evaluate its potential use in combat as well. [Warning: PDF link]
+      
+
+ 

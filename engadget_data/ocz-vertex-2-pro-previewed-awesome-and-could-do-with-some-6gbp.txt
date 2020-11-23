@@ -1,0 +1,7 @@
+
+ 
+
+Speedy SSDs might still be a pipe dream for most of us, but at least picking a top brand isn't a challenge. OCZ would no doubt be a popular choice, and SandForce has just made it easier with its debut SSD controller, SF-1500, to be featured on the forthcoming Vertex 2 Pro SSD. Our friends at AnandTech managed to harvest some jaw-dropping results out of their 100GB prototype -- most notably, the drive topped the charts with 2MB sequential performances at around 260MB/s (which is "virtually bound by 3Gbps SATA"), as well as a 50.9MB/s 4KB random write rate. SandForce dubs the magic behind these results DuraWrite, which is likened to real-time compression on the drive thus saving a significant number of write cycles. No prices announced yet, but hey, do we even care any more?
+      
+
+ 

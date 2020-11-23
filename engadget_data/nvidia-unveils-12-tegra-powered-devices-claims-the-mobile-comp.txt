@@ -1,0 +1,14 @@
+
+ 
+You've read about it, maybe even dreamed about it in your fantasies of a Microsoft Pink smartphone drizzled with Zune media. Now we've got Tegra taking center stage at Computex with a dozen "mobile internet devices" powered by the Tegra processor, the "world's smallest and lowest power computer-on-a-chip" according to NVIDIA. Of notable importance, the latest Tegra press release contradicts the Mobinnova Elan release by claiming 1080p video playback is supported by Tegra, not just 720p. Something we saw for ourselves (and had confirmed by NVIDIA) during our hands-on with the Elan. Now, get this; NVIDIA is using the term MID unlike Intel uses MID even though the terminology is of Intel origin. Instead of referring to handheld devices for consumers, NVIDIA's MIDs are classed as Tegra-based netbooks and tablets. In other words, the 8.9-inch Elan is a MID. Ugh. Semantics aside, the platform is smokin' hot with promise offering the following benefits:
+
+25 days of music or 10-hours of 1080p video playback on a single charge 
+video games play at up to 46 frames per second 
+GPU accelerated Adobe Flash animations (huzzah for Hulu!) 
+always-on processors for instant access to the network
+3G, WiFi, and WiMax solutions support
+
+Great on paper, but still not available for purchase. Rest assured, we'll be hands-on with more Tegra devices on the quick.Update: Tegra devices are expected to land before 2009 is through, priced around $200 or less with carrier subsidies.
+      
+
+ 

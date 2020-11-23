@@ -1,0 +1,6 @@
+
+       
+Well, here we go: NVIDIA just gave us the heads-up that the next generation of Ion chips (which we'll be calling Ion 2 until it gets a proper name) will be compatible with Intel's new Pine Trail platform and arriving in Q1 of 2010. That's good news, seeing as the Pine Trail-based Eee PC 1005PE we just reviewed didn't offer much of a performance benefit over the older Diamondville chips and definitely couldn't bust through the first few seconds of a YouTube HD clip. Though we got NVIDIA to confirm that it'll improve some of the battery life concerns we've had, we couldn't get much out of them in terms of how Ion 2 will play with the Intel GMA 3150 GPU that's now integrated into the Atom N450 die. NVIDIA also didn't hold back when it came to Intel's reliance on third-party HD accelerator chips for video duties -- they think customers want richer gaming and multimedia experiences on netbooks than Atom alone can offer, and they don't seem to care that Intel keeps calling Ion "overkill." All drama aside we're looking forward to just getting some YouTube and Hulu HD playback on our netbooks -- we'll see what NVIDIA has to show off at CES.
+      
+
+ 

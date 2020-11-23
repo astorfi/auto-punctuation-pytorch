@@ -1,0 +1,14 @@
+
+
+Not sure what became of the torrent leaked a couple of weeks ago that had folks speculating that Apple was
+intentionally seeding copies of OS X for Intel into the wild (though signs were pointing to fake), but there's now
+supposedly a legitimate build that's been leaked, as "borrowed" from a test developer box at
+WWDC '05. Folks are reporting that they've gotten it to
+work by modifying the incorrect instructions from the leaker — if you wanna live on the bleeding edge, there's an
+install guide
+available.
+
+
+
+
+ 

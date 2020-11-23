@@ -1,0 +1,13 @@
+
+Speaking to a packed exhibit hall through a Google Hangout, Edward Snowden said the keys to protecting the public from government surveillance is encryption and civilian oversight. The world's most famous whistleblower has said it before, but reiterated it for the SXSW crowd, that end-to-end encryption would go a long way towards protecting user data from both spying and attackers. Many current communications systems, like the aforementioned Hangout, encrypt data at either end, but companies often decrypt your information in between because it needs to harvest data in order to serve up ads. If communications are encrypted the entire time, mass surveillance of the sort that the NSA has engaged in becomes extremely difficult and prohibitively expensive. Of course, if you're a target of the NSA, encryption won't be able to protect you. However, breaking through those protections would require a much more targeted attack, rather than a broad collection of data.
+
+
+
+Of course, encryption tools also need to be easier to use. Popular tools like PGP (pretty good privacy) and Tor are incredibly difficult to install and use for the less technically inclined. The ACLU's Ben Wizner, who was moderating the conversation, said that when Tor is the best choice for the "average user" to protect themselves "we've failed."
+
+The second essential ingredient is public oversight of our spy agencies and government. He singled out Michael Hayden and Keith Alexander as having weakened America's cyber defenses during their tenure at the NSA by shifting the agency's priority to "offensive" operations. The focus on data collection meant has meant leaving open backdoors and spreading vulnerabilities. Networks and services have been designed with surveillance in mind under their watch, which makes these platforms vulnerable to hackers and criminals, as well as governments.
+
+You can watch the entire conversation below.
+
+
+

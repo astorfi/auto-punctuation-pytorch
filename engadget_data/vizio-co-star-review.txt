@@ -1,0 +1,28 @@
+
+ 
+  More Info   Vizio Co-Star Google TV set-top box is up for pre-order, $100 brings it your way in August  Vizio Co-Star teardown supplies the tech specs we never had  Sony NSZ-GS7 Google TV review  And then there were two. We're talking about standalone Google TV boxes, folks, with the Vizio Co-Star recently joining Sony's NSZ-GS7. Both feature the same version of Google's software and come with a remote offering a full QWERTY keyboard and touchpad. But with Vizio's model selling for just $99, it's half the price of Sony's entry, so you might be wondering how extensive the differences are. Now that we've had a chance to test both, we're ready to weigh in. Read on to find out if that 50 percent price difference makes the Co-Star worth it.
+
+
+
+
+ Hardware 
+ There must be some unwritten rule that internet TV streamers are supposed to be little boxes. We suppose if they aren't the proper AV equipment width (approximately 17 inches), we couldn't care much less about what they shape they were. This little two-tone fanless square has Vizio's logo on top, but not on the front. In fact there is nothing on that front face -- not even an LED. The box has a decent look and feel to it, with its black and gray plastic and decent heft, but nothing really sticks out about it from an aesthetic perspective. There is a status LED out back along with a single USB port, two HDMI ports, a wired network port and a place to plug in the wall-wart power supply. What's missing is a built-in IR emitter or even a port for an external one -- something other Google TV boxes do have.
+
+ Under the hood, there's a Marvell ARM dual-core, 1.2GHz Armada 1500 processor, built-in WiFi, Bluetooth and 4GB of storage. The HDMI port supports pass-through of just about every video format, including 3D. It also has HDMI-CEC for controlling other devices via HDMI. Without any other audio outputs, you're basically limited to sources that accept HDMI audio, but A2DP support is there as well, in case you want to pair it with Bluetooth headphones.
+
+ Remote 
+ The Google TV experience is still very much centered around the ol' mouse and keyboard, which means a QWERTY remote with a built-in touchpad is a requirement. It's really hard to make a good remote that acts as both a keyboard and a mouse, and indeed, Vizio doesn't knock this one out of the park the way the Sony NSZ-GS7 does. It isn't as bad as the original Sony Google TV remote or the Logitech one, but it isn't our favorite either. In a word, the thing is fat. It's just so unusually thick in the middle that it's awkward to hold. What's more, we can't seem to find the right amount of pressure to apply to the keys, which results in either double presses or no press at all.
+
+ Still, the overall layout of the remote is good, with the super useful V button in the middle that brings up the App Tray (which we'll talk about in the next section), and dedicated buttons for Amazon, Netflix and M-GO. There are basic transport controls, but no skip forward or back, which you'll mostly miss if you like to use the 30-second skip on your DVRs. The good news is the remote makes use of both IR and Bluetooth. The result is that it controls the Co-Star without requiring line of sight and can also be programmed to control your TV and other devices via onscreen menus. Lastly, there's also a sensor inside that can detect where the remote is pointed to help avoid accidental presses.
+
+ Software 
+ Like the Sony NSZ-GS7, the Co-Star runs Google TV 3.2, which features many of the same features we've detailed previously. The setup varies a bit from other Google TV boxes -- for instance, you're expected to use your TV's speakers instead of an audio / video receiver, but an overscan optimizer is still there. Codec support includes H.264, in both MP4 and MKV containers, as well as popular audio formats like MP3, AAC and WMA -- subtitles in SRT files are not on the menu, however. There are a number of built-in apps (some of which can't be deleted) with the most notable being OnLive.
+
+ Speaking of the sort, you can play games with the included remote, a USB keyboard plugged in the back or by buying an OnLive controller. The Google Play store has plenty more to choose from, including a few that will add DLNA sources to the list of accessible media the Co-Star provides access to. Some of the "apps" are little more than shortcuts to a website, though.
+
+ One thing that really sets the Co-Star apart from other Google TV experiences (and we mean this in a good way) is the App Tray. Summoned from the left side of your screen via the V button, the App Tray provides easy access to all your apps, with your favorites listed up top. The tray slides over whatever app is currently running, which makes it easy to do things like tweak settings without exiting an app.
+
+ Wrap-up 
+ Vizio is known for delivering bang-for-your-buck products and the Co-Star is no exception. While it isn't as polished and refined as Sony's offering, it's still a better deal at half the price. That said, what you get for the extra Benjamin is the remote, and we think worlds more about the one that comes with the Sony NSZ-GS7. What's more, we suspect many will pay extra for it. Of course, many people don't feel as strongly about their remote, and for those folks we certainly would recommend the Co-Star. Ultimately, we still can't say that we believe Google's approach to internet-enabled set-top boxes is better than the rest, but at least for $99 the Vizio Co-Star delivers Google's vision for the living room for a price comparable to other internet TV streamers.
+
+

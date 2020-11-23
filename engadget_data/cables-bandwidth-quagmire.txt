@@ -1,0 +1,5 @@
+
+ Most people think going digital means going HD, but we know all too well that this couldn't be further from the truth. One thing that going digital does mean is more efficient use of the limited resource, bandwidth. Big cable looks forward to digital for many reasons, but most of all so they can drop all those bandwidth sucking analog channels and shift the throughput to additional revenue streams. We learned last month that this wasn't going to happen untill at least 2012, but cable has a few options -- none of them are good. They have the option to deploy STBs, but thanks to another FCC mandates these boxes are no longer cheap and can cost about $150 because they have to support CableCARDs and the hardware for OCAP. The most interesting option is from a company called Broadlogic that produces a chip that can decode 80 MPEG-2 streams at the same time, which would convert the signal from digital to analog at the house and eliminate the need for STBs while saving the bandwidth of the analog channels. It could be worse however, if the FCC had forced them to provide an analog and multiple digital versions of a channel.[Via ConnectedHome2Go]
+      
+
+ 

@@ -1,0 +1,12 @@
+
+ 
+ We interrupt our wall-to-wall laptop and Windows 8 coverage to bring you some news about... chips. Specifically, Intel's latest ultra low voltage chips, and new features they'll bring to Ultrabooks, in particular. Here at Chipzilla's Computex keynote, we just got a demo of a new security feature that causes an alarm to go off on your PC if a stranger attempts to move it. Using Bluetooth 4.0 and a custom Android app, you designate your PC as the one that needs protection, and then you set a threshold for when the alarm should go off (the range is customizable, but doesn't go beyond five feet). If someone tries to burgle your laptop, he or she will have to enter a password to silence the wailing.
+
+ It's all worth a look in our demo video below, but we can think of a couple caveats. For one, in order to receive an alert on your phone, letting you know someone picked up your PC, you'd have to be within Bluetooth range, which means if you're covering a tradeshow in Taipei and someone robs your apartment in New York, you'll be none the wiser. Second, the technology isn't yet integrated with Intel's other security features, such as identity protection or its "poison pill" that prevents the PC from even booting. On that front, then, best to keep it up with those unguessable passwords.
+
+
+
+
+ 
+ Zach Honig and Myriam Joire contributed to this report.
+

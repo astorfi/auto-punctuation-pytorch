@@ -1,0 +1,7 @@
+
+        Ready for another long, drawn-out copy and paste controversy to overtake your every waking moment for a year or two? Good: Microsoft just mentioned in a Q&A session here at MIX10 in no uncertain terms that clipboard operations won't be supported on Windows Phone 7 Series... so that's that. Kind of ironic considering that the WinMo of old has been enjoying the functionality since time immemorial, isn't it? Of course, anything is possible going forward -- they've said on several occasions in different talks and sessions this week that they're already looking at a number of enhancements that were scoped out of the initial release of the platform -- but for the phones you buy this holiday season, don't expect to be copying anything between apps.
+
+Update: We just super-double-ultra-plus-confirmed this with Microsoft -- Windows Phone 7 Series will not have copy and paste functionality. There is a data-detection service built into the text-handling API that will recognize phone numbers and addresses, but Microsoft says most users, including Office users, don't really need clipboard functionality. We... respectfully disagree? Sure, let's leave it at that.
+      
+
+ 

@@ -1,0 +1,13 @@
+
+
+The threat posed by state-sponsored malware might be even larger than first thought. Antivirus developer Kaspersky Lab says it discovered an attack on its network by allegedly government-made spyware that appears to be an upgraded version of Duqu, the Stuxnet-based worm used by Israel and the US to derail Iran's nuclear efforts. This "Duqu 2.0" not only tried to obtain details about Kaspersky's investigations and detection abilities, but remained remarkably stealthy. Pre-release software was necessary to catch it, and there were attempts to throw researchers off the scent by suggesting that China or Eastern Europe was to blame.
+
+
+
+While there's no smoking gun proving who was responsible, the list of additional victims narrows the possible culprits. There were less than 100 targets, including participants in negotiations surrounding Iran's nuclear program -- it's easy to see Israel or the US once again being involved. The scope of the attack is likely "much wider," according to Kaspersky, and its competitor Symantec suspects that the snoops were using their tool for "multiple intelligence gathering campaigns."
+
+The good news? While it's not certain just what the intruders collected, the immediate damage is relatively minimal. Kaspersky says that Duqu 2.0 didn't compromise its customers or products, and Microsoft just recently patched the Windows vulnerability that let the attackers in. It almost goes without saying that Kaspersky's antivirus tools now know to look for the offending software. However, the implications of the breach are severe. They suggest that a government body was willing to compromise a security company, one of its supposed allies, in the name of developing harder-to-find hacking technology -- an "outrageous" idea in Kaspersky's eyes. It's now less likely that private security researchers will cooperate on cyberdefense issues, which could worsen the situation for everyone.
+
+[Image credit: Image credit: IIPA via Getty Images]
+
+

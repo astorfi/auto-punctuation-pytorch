@@ -1,0 +1,6 @@
+
+ 
+The TOP500 supercomputing list was just announced and IBM's BlueGene/L system has kept its crown. In fact, IBM's and the Department of Energy's co-developed monster at Lawrence Livermore has occupied the number 1 position since 2004. Of course, an upgrade was required boost the Linpack benchmark to 478.2 TFlop/s from the 280.6TFlop/s the machine was clocking just 6 months ago. The top 10 swath is dominated by the US, Sweden, and Germany with India breaking into the list for the first time at the number 4 position with its HP Cluster Platform 3000 BL460c system measuring 102.8TFlop/s. [Via Impress]
+      
+
+ 

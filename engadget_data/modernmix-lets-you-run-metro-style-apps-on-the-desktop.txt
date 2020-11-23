@@ -1,0 +1,6 @@
+
+ Sometimes you just wanna close a window. Or resize it, or drag it so that it overlaps with something else. That's how Windows works, and it's more or less how you'd expect to interact with Windows 8 in particular. The problem is, those old-world rules don't necessarily apply to newer Metro-style apps: yes, you can snap them in place next to traditional x86 programs, but you can't resize those windows, nor can you arrange them so that they overlap with each other.
+
+ Fortunately for you multitaskers out there, Stardock's new app ModernMix squeezes all your Metro programs into traditional desktop windows -- ones you can resize, minimize, drag around and even close completely. The app also lets you pin Metro apps to the Taskbar on the desktop, as well as run them at full-screen when the mood strikes. It's priced at $5, but Stardock is offering a 30-day free trial to folks who prefer to try before they buy. Just remember: you'll need Windows 8, not RT. Not that you RT users are spending much time in the desktop anyway.
+
+

@@ -1,0 +1,6 @@
+
+ 
+That switch to HD for The Daily Show and Colbert Report has more results than just a sharper image of their star hosts, but also the problem of capturing HD versions of the news clips presented for skewering daily. To achieve the goal of archiving more than 30 HDTV channels daily, the show is upgrading from the bank of TiVos it previously relied on to SnapStream Server, the business option from the guys behind BeyondTV. No word on exactly how it's pulling in the channels, Dave Zatz suggests ClearQAM, Happauge's HD PVR or component capture cards as possibilities, but it looks like a couple of years of development have reduced starter costs from $6,000 to $2,000, just in case your YouTube clip show needs a little more oomph.
+      
+
+ 

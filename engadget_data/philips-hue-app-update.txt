@@ -1,0 +1,37 @@
+
+ 
+
+"What's new with Hue?" Philips' connected light bulb just picked up a bounty of fresh tricks, thanks in no small part to the Hue 1.1 app update. The refresh, available for download today on iOS, brings a variety of additional features. Most significant, perhaps, is a partnership with IFTTT, which lets you create macros (called "recipes") for an unlimited number of functions. For example, if the forecast calls for rain, Hue can glow blue when it's time to leave in the morning. You can set visual notifications (a flashing light or change in color) to remind you of calendar appointments, let you know there's a new post on your Facebook wall, you name it.
+
+
+The new app also uses your smartphone's GPS for geofencing, so you can program the system to flip on lights as you approach your home, or turn everything off after you walk out the door. An alarm tool can wake you at a specific time, while the timer function will tweak the lights when the clock hits zero. The LED bulbs will run you $60 a pop, or $200 in a pack of three that also includes a (compulsory) wireless bridge. You can snag the updated app for free at the source link below, then join in on some pun-filled fun in the video after the break.
+
+
+ 
+
+Show full PR textPhilips announces the next phase of its connected lighting journey and upgrades Philips Hue making it even smarter
+New downloadable app 1.1 with location-based functionalities, alarms and timers
+
+Eindhoven, The Netherlands – Today, Philips announces a number of innovations making Philips Hue - the world's smartest connected LED lighting system – even more intelligent, convenient and accessible to homes across the world. These updates reflect valued feedback from the growing community of Hue enthusiasts and developers worldwide.Now connected light can keep you up-to-dateThe next generation of the Hue app (version 1.1) can now hook up to your essential internet services via your smartphone or tablet, meaning your bulbs can act as indicators for weather, stock quotes, sports scores, email, social media and more. They can be set to behave in any way you choose. For example, to change color if it's going to rain; to blink if you receive an urgent email, Facebook message from someone special; illuminate gradually as the sun sets; or even flash in your sports team's colors when they score. This is made possible through internet automating service, IFTTT (If This Then That), meaning your home lighting can now connect to the world in innumerable, exciting new ways.New location-based lighting to welcome you homeApp v1.1 is the first upgrade to Hue's future-proof system and will be delivered to existing users via a simple-to-download software update. Its new 'geofencing' feature means your smartphone or tablet can detect when you or your family are approaching or leaving home and trigger Hue's bulbs to turn on/off automatically, change color or light setting – all without having to even take your phone out of your pocket.Intuitively enhancing your lifestyleThe recurring schedules feature means you can programme Hue to enhance your family's daily routine and create settings for activities such as waking up, homework or bedtime - without the need to reset each day. If you go on holiday, the timer function can be set to turn lights on and off at random times while you're away to give you peace of mind.Light with limitless potentialDevelopers are also excited about the possibilities to extend Hue's capabilities with new applications and integration with other products and services. Since Philips published Hue's open APIs and software developers' kit (developers.meethue.com) on 11th March, over thirty new apps have already hit the market. Some of these allow Hue's smart bulbs to coordinate with music and album art, visualize your heart rate for home workouts, assist in planetary study, respond to spoken commands, and synchronize with television screens for an ambient, immersive viewing experience."People have really taken to Hue and the idea that connected lighting is the key to the connected home", commented Filip Jan Depauw, Senior Director, Philips Lighting. "We're proud to bring the power of connected light to enhance people's day-to-day lives. Through ongoing innovation, listening to users, supporting developers and joining forces with new partners, we'll continue to push the boundaries, and put LED light at the center of connected homes."
+
+A smart solution for a smarter homeUsing the ZigBee LightLink standard, Hue bulbs can not only communicate with each other, they have the potential for communicating with other ZigBee-based devices such as motion sensors and home thermostats, while offering a broad signal range and using significantly less stand-by power than traditional Wi-Fi systems. Additional apps developed for Hue are available through app stores or meetHue.com, allowing users new ways to further enhance their lighting experiences and lives. Further innovations such as new Hue bulb types are also due to be announced later this year.
+
+Available at more stores near youBuilding on its commitment to unleash the possibilities of connected lighting to the world, Philips is expanding availability of Hue via a new retail partners and to new markets including Australia and New Zealand, all of the EU and some Eastern European countries starting this month. In addition to availability at Apple stores and Apple.com, Hue will also roll-out across a network of 550 approved Apple resellers across Europe and at Amazon.com in the United States. For a full list of retail partners and countries, please visit www.meetHue.com.For more information about Philips Hue, visit www.meetHue.com.About Philips HueWith its high quality energy-saving LED light, Philips hue allows you to tune shades of white light or create any color. In addition, Philips hue can:
+
+Save your favorite light scenes for each room or time of day and recall them in an instant
+
+Use any photo on your phone as a color palette to paint your room with light and bring your memories back to life
+
+Tune white light from warm candlelight to vibrant, cool white light
+
+Create ambience or complement your decor with the colors of the rainbow
+
+Control and monitor your lights remotely when not at home for security and peace of mind
+
+Set timers to help manage your daily routine
+
+Let light wake you up refreshed or help your loved ones fall asleep
+
+The app for Philips' Hue also features expert LightRecipes: four pre-programmed lighting settings based on Philips' research around the biological effects that lighting has on the body. These scenarios adjust bulbs to the optimum shade and brightness of white light to help you relax, read, concentrate or energize.
+
+

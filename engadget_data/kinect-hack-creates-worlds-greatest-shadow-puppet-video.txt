@@ -1,0 +1,11 @@
+
+ 
+Hey Xbox 360 Kinect owners, want to spice up those family shadow puppet shows? Then check out the installation prototype created by Emily Gobeille and Theo Watson using an Xbox Kinect connected to a laptop using the libfreenect Kinect drivers and ofxKinect. The openFrameworks system tracks the elbow, wrist, thumb, and tips of the fingers to map a skeleton onto the movement and posture of an animated puppet. And get this: it was made in a day. So just imagine the Kinect homebrew we'll have around this time next year. See it in action after the break.
+
+[Thanks, Pradeep]
+      
+
+ 
+
+
+ 

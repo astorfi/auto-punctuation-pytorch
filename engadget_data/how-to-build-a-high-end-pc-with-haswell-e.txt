@@ -1,0 +1,70 @@
+
+This is not an article from a PC virtuoso who builds water-cooled, quad-SLI gaming rigs with not a wire out of place. Nope, it's by a guy who's fantastic at buying stuff on Amazon, but more likely to start an electrical fire than build a sophisticated PC. But that's never stopped me before! So, with a screwdriver in one hand and unmerited self-confidence in the other, I set out to build an overclocked Intel Haswell-E Core i7 machine for video editing, 3D animation and light gaming. Whatever could go wrong?
+
+
+
+What parts do I need?Let's talk about my needs. I need a faster computer, of course, and Haswell-E delivers on that, according to this chart, a lovely article by AnandTech (seriously, read it) and virtually no other information, because I'm a busy man. Apart from that, I wanted the fastest RAM I could afford, a fast NVIDIA graphics card (just one) and factory-sealed liquid cooling because I actually do want to avoid electrical fires. For video editing, I need lots of fast storage, including external storage and a hard drive dock. My final requirement was dual Ethernet ports, because I live in the middle of nowhere and need two internets.
+
+
+With those specs, and a certain budget in mind, I came up with this motley lineup:
+
+ Thermaltake Chaser A71 full-tower case Intel Haswell-E 5820K Core i7 CPU ASRock X99 Extreme6 motherboard ASUS STRIX GTX780 OC 6GB graphics card 16GB of G.Skill DDR4 "Ripjaws 4" 2800MHz RAM Samsung XP941 256GB M.2 PCIe SSD for OS/graphics programs Kingston HyperX 240GB SSD for other programs Cooler Master V-Series 850W power supply Corsair H100i CPU watercooler Windows 8.1 64-bitTotal Price: $2,300 (including other bits and pieces)
+That's quite a collection of wildly ill-named products, but let's start with the full-tower case. You can find tasteful models, but most are gonzo things with lots of bells and whistles designed to awe your pals and keep you single. I needed something between the two, so I settled on the Thermaltake Chaser A71, as it's pretty cheap at $140, has a hard drive dock on top and supports up to eight internal drives. It's easy to hide wires at the back of the case, reducing the need for wire-neatening chores. Yes, it's a bit silly looking, but I'm already married.
+
+
+Intel has three Haswell-E Core i7 CPUs. The highest-end i7-5960X would be best for my 3D and video-effects rendering with its eight cores, but it costs over a grand. The i7-5930K is also pretty great for half that price, but it's still too much. Since AnandTech called the i7-5820K ($390, B&H) "the most promising member of the three (new) CPUs" given the price-performance ratio, that's the one I chose. Gamers who run multiple graphics cards may want to avoid it, however, as it has fewer PCI lanes (bandwidth).
+
+ASRock's X99 Extreme6 motherboard ($292, Amazon) was one of the few, and cheapest, X99 boards that had dual LAN ports. It also sports eight RAM slots, M.2 SSD Gen3 x4 support, 10 SATA 3 slots, 10 USB 3.0 connections and an eSATA port at the rear.
+
+
+Haswell-E systems require DDR4 RAM, which is expensive. The cost is holding back many fledgling X99 builders, who are waiting until the supply-demand curve doesn't intersect on "ouch." Price is strongly linked to speed, with 2133MHz RAM priced at nearly half of 3000MHz RAM. But I was determined to overclock, so I compromised with 16GB of 2800MHz "Ripjaws 4" series RAM from G.Skill ($270, Newegg). Once it's installed in the case and this article is finished, I will hopefully never type or think of "Ripjaws" and all that implies ever again.
+
+
+Of all the parts, Samsung's 256GB XP941 M.2 Gen2 x4 SSD (above, $249, Newegg), appeals most to my inner nerd by promising speeds double that of a regular SSD. From what I can glean, it's a PCIe drive that takes four "lanes" (hence the x4), but has an adorable little receptor so you don't have to use up a valuable PCI Express slot (like this OCZ model). Read speeds top out at 1GB/s, with writes a touch slower -- enough to keep me feeling secure in my masculinity. Most importantly, it should boot Windows 8.1 in an X99 board without any special tweaking, something that proved vexing for earlier motherboard owners.
+
+
+Finally, ASUS's STRIX GTX780 graphics card (around $450) has a high level of performance and overclockability for the price, though it's been superseded by the STRIX GTX980. The 6GB of VRAM isn't especially useful for games, but is very handy for Autodesk's 3DS Max and Adobe Premiere Pro CC 2014, both of which can use the extra memory to speed things up.
+
+As for the rest of the lineup, Corsair's H100i ($95, Newegg) is considered to be the bare minimum for any serious overclocking. It should work well with the Thermaltake case, which has enough space for the two large fans above the main enclosure. Cooler Master's 850W power supply has plenty of power, and the connectors can be unplugged to keep things neat.
+
+The assemblyPutting the system together was straightforward, apart from the odd detour into stupid-ville. Installation consisted of screwing the motherboard and power supply to the case, installing the processor and cooling system and then jamming the rest of the components and cables in the only holes they fit in. (The exception being the header connectors, which are always a pain.) There was some cable-neatening to be done afterward, but I'm not what you'd call anal-retentive.
+
+
+See that four-pin connector up there? It really needs to be plugged in, or nothing happens when you hit "on." Stop laughing. Other gaffes: The Thermaltake case has space at the top for the water-cooling fans, but putting them there means you have to screw them into the radiator below through purpose-built holes in the case. Unfortunately, said screws weren't long enough, and said holes didn't all line up. That left the fans slightly offset from their ideal position directly over the radiator, which I don't care about.
+
+Finally, Corsair's H100i cooling block was intimidating to install, sitting as it does on a chip with 2.6 billion transistors. That brings us to the most crucial lesson I learned: Even though the Intel CPU is fragile and expensive, be sure to tighten the cooler onto it firmly (but carefully) in an "X" pattern. The CPU ran hot at first when I overclocked it, but cooled significantly when I went back and tightened the cooler down. I would've saved myself a lot of time had I done that in the first place.
+
+
+Otherwise, everything went swimmingly. I do have a few beefs with ASRock's motherboard: The M.2 x4 SSD slot is directly under the graphics card, so I'm worried that my Samsung XP941 drive will get hot. Also, multi-GPU gamers beware: You'll lose the third PCI Express port if you add an M.2 SSD. The SATA 3 connectors are also directly under the graphics card (once it's installed in the preferred first slot), making it hard to connect and disconnect cables. And two of the 10 connectors share ports with the M.2 and external eSATA connectors, so you may need to avoid those.
+
+Overclocking and performanceDepending on how much you want to push things, overclocking is either a cinch or a nightmare. Most folks will be happy with the one-click tweak to the "turbo" settings in the BIOS setup, which instantly boosts the clock speed 20 percent from 3.3 to 4GHz and bumps the memory speeds to match your RAM.
+
+Beyond that, if you've never done overclocking before, you'll want to read up elsewhere as using this article would be like taking a calculus class from a chimp. Check out sources like LifeHacker's guide to overclocking, this HardOCP Haswell-E article and X99 overclocking videos like this one. That said, here's what I found by stumbling through the internet.
+
+
+Take a breath. There are endless arcane settings, but just a few are important. Let's start with the memory. If you bought fast RAM, you'll need to change the settings from "Auto" to an XMP Profile as shown above. (Figuring that out was not easy, so you're welcome.) If you leave the settings stock, the money you paid for your high-performance RAM goes down the toilet. After making the tweak, I was able to select a DRAM frequency that matched my RAM (2802MHz). However, it also changed the "base clock" (BCLK) frequency from 100 to 127.4, which confused my brain.
+
+
+Then I figured out that when you multiply the "CPU ratio" by the base clock, you get the CPU speed in megahertz. Normally it's 100, so choosing a multiplier of 45 will give you a speed of 4500MHz, or 4.5GHz. Simple, right? But as mentioned, the ASRock motherboard wouldn't support my memory without upping the base clock. I could have compromised by choosing the max RAM speed for BCLK 100 (2666MHz) without losing much performance (more on that later), but I decided to see if I could work with the new base clock. To do so, I chose a CPU ratio of 35, which gave me a clock speed of 4459MHz.
+
+Once you increase your CPU ratio, you'll need to give your CPU more "core voltage." Increasing that will cause your processor to run hotter, and for anything above 1.25V-ish, water-cooling is advised. Assuming a base clock of 100, the voltages needed for Intel's Core-i7 5820K are approximately as follows:
+
+   4.2GHz 1.15V - 1.25V   4.4GHz 1.25V - 1.35V   4.5GHz 1.3V - 1.4V   I learned that if you have a base clock over 100, you can go lower, so I settled on a core voltage of 1.23V. If I tried to bump it higher, my computer would either freeze or blue-screen, so I stopped there.
+
+Other than changing the XMP setting, CPU ratio and CPU core voltage, I left the other settings at "Auto." You could no doubt eke more performance by tweaking the offsets and whatnot. But the gains would likely be small for the labor put in, and what more do you want from me? However, I did do one more thing: I changed the BCLK to 100 with a slightly slower 2666MHz memory speed, to see if that helped. That gave me a 45x multiplier and a 1.35V CPU core voltage. The results of that test, which I'll discuss below, were mixed.
+
+Finally, it's worth noting that I also overclocked the ASUS GTX780 STRIX graphics card using ASUS' own tool and this guide from HardOCP. I followed the suggestions and got around 15 percent more performance without much stress.
+
+Results and lessons learnedDespite my lack of experience and gung-ho attitude, this exercise was shockingly successful. The new machine feels fast. I'd chalk that up to the overclocking combined with Samsung's killer M.2 SSD. Windows 8.1 loads instantly and software installs double-quick. All my apps, including Adobe Photoshop CC 2014, Premiere Pro CC 2014 and 3DS Max 2015 feel fast. The whole setup is a joy to use.
+
+
+More objectively, my machine now bests a top-of-the-line stock $1,000 Haswell-E Core i7-5960X. Intel's Extreme Tuning Utility gave me a score of 1,754 marks, putting my machine near the top of its rankings (it was 1,354 before overclocking). By lowering the memory speed to 2666MHz and upping the CPU ratio, I was able to score 1,787, but with considerably higher CPU temps (see above). I preferred to run cooler, so I changed it back.
+
+The computer is very stable with the final overclock settings, and temps are never above 70 degrees Celsius. I can play RAW, 2K Blackmagic BMCC video files in real time on Premiere Pro CC 2014 (each frame is 5MB, so that's a lot of data to crunch). Renders are stupid-quick. Same goes for Photoshop and 3DS Max 2015.
+
+
+But will it play Crysis? Hell yeah! The overclocked machine ran Crysis 3 in 2,560 x 1,440 at high frame rates with every setting maxed. Considering it's still one of the most graphically demanding games out there, I assume it'll also work well with titles like Assassin's Creed Unity or ARMA III.
+
+Overclocking is intimidating, but rewarding. I lack the patience and craftsmanship to be a great PC builder, but I did do one thing right: the research. Yes, I have a few issues with the ASRock motherboard, but it plays nicely with Samsung's SSD and runs smoothly. I would probably buy 2666MHz RAM if I did it again, considering that it's cheaper and makes overclocking easier. But otherwise, I have no regrets about any of the parts. And along with the fun of building it, I now have a fast, cheap machine that I can use to do video editing, 3D animations, Photoshop and gaming. Oh, and Engadget articles -- this one was largely written on it.
+
+

@@ -1,0 +1,7 @@
+
+ For better or worse, ESPN is planning to pull its MPEG-2 feeds at the end of June and transmit to affiliates solely in MPEG-4. Like HBO, ESPN already transmits all of its channels in MPEG-4 via satellite and will save money by cutting out the older backups, but since most cable companies are still sending streams to customers in MPEG-2 (although some are following DirecTV's lead) they'll need to transcode the signal an extra time which could affect the picture quality. Multichannel News mentions ESPN is supplying the necessary Motorola decoders to affiliates that need them, at this point all we can do is wait until July and see if there's any notable difference in sports quality on our end of the pipe.
+
+[Thanks, Chevelleman]
+      
+
+ 

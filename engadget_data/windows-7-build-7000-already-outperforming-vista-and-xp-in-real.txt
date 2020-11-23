@@ -1,0 +1,6 @@
+
+ 
+You might've heard that crazy rumor making the rounds that Microsoft leaked the Windows 7 beta on purpose to build some positive buzz, and while there's no real evidence (or likelihood) of that of any sort, the seemingly-magical build 7000 is certainly doing well for itself. Following up on wide praise for the fledgling OS, ZDNet's Adrian Kingsley-Hughes pitted the beta up against XP and Vista in some informal "real-word" tasks like boot up, shut down, file maneuvers, installations and other common tasks. On both test systems, an AMD Phenom 9700 setup and an Intel Pentium Dual-Core E2200 number (with ATI and NVIDIA graphics, respectively), the Windows 7 install soundly bested XP and Vista task by task, with few exceptions. Performance testing is never an exact science, but it's clear that Microsoft is taking performance very seriously this time around -- we can't wait for the next conveniently-leaked beta to bolster this rep even further. Next on the benchmarking agenda? Real World: Brooklyn tasks.[Via Ars Technica]
+      
+
+ 

@@ -1,0 +1,5 @@
+
+  If you were lucky enough to be at the International Solid-State Circuits Conference, then you might have caught a glimpse of Samsung's latest sliver of mobile silicon. The as yet unnamed Exynos parts will come in dual- and quad-core configurations running at up to 1.5GHz. Perhaps the most important change though, is the switch from a 45nm manufacturing process to 32nm. That means smaller parts that draw less power, while delivering better performance. The A9 cores are paired with Sammy's own GPU, an OpenGL ES 2.0-capable chip with four pixel processors. According to the company, the new CPUs deliver a 26 percent boost in performance and up to a 50 percent increase in battery life. Of course, we'll have to wait to run our own benchmarks to confirm that lofty claim. Who knows, maybe we'll see it show up in some phones at MWC.[Thanks, Vlad]
+      
+
+ 

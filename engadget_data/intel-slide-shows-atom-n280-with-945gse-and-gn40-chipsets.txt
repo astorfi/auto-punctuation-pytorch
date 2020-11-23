@@ -1,0 +1,6 @@
+
+ 
+It may be hard for you monogamists to understand, but in the world of CPUs, it's perfectly acceptable to play friends with multiple chipsets. To that end, the leaked Intel slide above sure explains a lot about what's going on with the newfangled 1.66GHz Atom N280. First spotted in the ASUS Eee PC 1000HE with Intel's older 945GSE chipset, many wondered why the supposed match-made-in-heaven GN40 chipset (and its 720p hardware-based video decoder) was left out. Apparently, it's all part of the plan. Both the N280 + 945GSE and N280 + GN40 are considered "off-roadmap" solutions meant to give companies a subtle differentiating factor until the "real" N270 successor hits the scene. So yeah, that 1000HE you've got on the brain isn't actually a hodgepodge of components, but a real, certifiably okay combination of CPU and chipset -- though it'd be so much more bodacious with that GN40. Confused yet?[Via Fudzilla]
+      
+
+ 

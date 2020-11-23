@@ -1,0 +1,10 @@
+
+ 
+
+Old PR2 can already fold towels, play pool and grab an ice cold beer -- really, the Willow Garage robot is just one task of short of mastering the day-to-day activities of your average college student. What's that? It can get a sandwich, too? Never mind. And this isn't just any "get me a sandwich" command -- the stout white 'bot uses semantic search to infer possible locations for sandwich, using knowledge of similar objects and environmental models. In the below video, you'll see PR2 make its way to a refrigerator, in search of sustenance, only to come up empty-clawed. Undaunted, it hops on an elevator and makes its way to a Subway sandwich shop. The joint project from the University of Tokyo and University of Munich was recently shown off at recent robotics conference. No word on when PR2 will be programmed to hold the onions.
+      
+
+ 
+
+ 
+ 

@@ -1,0 +1,5 @@
+
+ 
+ Thought the Oracle v. Google litigation fireworks were over? Well, if you weren't aware, during the copyright phase of the trial, the jury found that Google had infringed the structure, sequence and organization of Oracle's Java APIs. However, at the time, Judge Alsup had yet to evaluate the validity of Oracle's API copyright claims upon which that verdict was based. Today, Alsup found that Oracle's argument didn't hold water because it would expand the breadth of copyright holder's rights too far -- in essence, it would allow owners of software code to prevent others from writing different versions to perform the same functions. This ruling renders the jury's earlier infringement verdict moot, and gives Mountain View yet another courtroom victory. Despite this latest defeat, Oracle's sure to run the case up one more rung on the legal ladder, so let the countdown to the appeal begin.
+
+

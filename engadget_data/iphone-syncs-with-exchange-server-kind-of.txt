@@ -1,0 +1,6 @@
+
+ 
+For the few and extremely brave in the business world who bit the hype bullet and sprung for the iPhone only to discover that you were out looking in when it came to Exchange Server action -- some help is on the way. Synchronica, a UK-based company long in the market of getting devices to play nice with Microsoft's business end has devised a solution for the Apple wunder-phone. Using its Mobile Gateway 3.0 software, the phone is able to access email on corporate Exchange servers via Redmond's Outlook Web Access (or OWA), thus delivering emails direct to the iPhone's mail app. Of course, not everyone is going to have the OWA option, as its use is at a company's discretion -- so while this isn't the full-on, seamless integration many were after, it does look like a pretty promising middleware stop-gap until Apple improves its enterprise options.[Thanks, Alvin]
+      
+
+ 

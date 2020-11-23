@@ -1,0 +1,34 @@
+
+ Even though Samsung only announced volume production of ultra-fast eMMC memory chips back in August, it's already upgrading to a newer generation of hardware. Moving from the previous 20nm process to 10nm, the new 64GB eMMC Pro Class 2000 has a 20 percent smaller physical footprint, and claims 30 percent advantages in both performance and manufacturing productivity. While its previous chips only starting taking advantage of JEDEC's eMMC 4.5 interface standard a few months ago, Samsung plans to approach the group next year to create a new standard that can handle this design. It has a write speed of 2,000 IOPS (input/output per second) and a read speed of 5,000 IOPS, besting the 1,500/3,500 numbers reported on the older hardware, and kicks up the bandwidth to 260 MB/s read and 50MB/s write. These chips went into production late last month and are destined for slim phones and tablets near you, even if they don't say Samsung on the outside.
+
+
+
+  Show full PR text   Samsung Introduces Advanced Memory Storage Solution for Slim Smartphones and Tablets  SEOUL, Korea on Nov. 15. 2012
+
+   Samsung Electronics Co., Ltd., the world leader in advanced memory technology, today announced a next-generation 64GB embedded multimedia card (eMMC) using 10 nanometer (nm)-class* process technology. The new 64Gb NAND memory went into production late last month.
+
+   Myungho Kim, vice president of Memory marketing, Device Solutions, Samsung Electronics noted, "The new high-speed, small form factor eMMC reinforces Samsung's technology leadership in storage memory solutions. We look forward to expanding our line-up of embedded memory solutions in conjunction with the new chip's design, in pursuing a system-level adoption of application processors and other key components that form the foundation for the most advanced mobile platforms. This will allow us to better attend to time-to-market demands enabling the design of more convenient features for next-generation mobile applications."
+
+   Embedded memory is the key memory component in popular mobile applications such as smartphones and tablets. Advanced high-performance, high-density eMMCs allow users to access high-density and high-resolution content such as full HD video on their latest mobile devices and provide a better user experience for web browsing, gaming and running rich applications.
+
+   Samsung is applying 64Gb high-performance NAND memory using its10nm-class technology to the new 64GB eMMC Pro Class 2000 memory solution. The new embedded memory solution exceeds the performance levels of the conventional 64GB eMMC Pro Class 1500 based on an eMMC 4.5 interface.
+
+   The new high-speed eMMC will be submitted next year to the industry standards body JEDEC, (Joint Electron Engineering Council) for adoption as an industry standard.
+
+   Samsung's next-generation 64GB eMMC Pro Class 2000 comes just five months after the company introduced its first embedded memory supporting the eMMC4.5 interface and delivers a 30 percent advantage in performance over that solution.
+
+   The 10nm-class technology based NAND also is process compatible to Samsung's advanced 20nm-class* 64Gb MLC NAND, which was first available last May, improving manufacturing productivity by 30 percent.
+
+   The new memory solution has a random write speed of 2,000 IOPS (input/output per second) and a random read speed of 5,000 IOPS. In addition, sequential read and write speeds are 260 megabytes per second (MB/s) and 50MB/s respectively, which is up to 10 times faster than a class 10 external memory card that reads at 24MB/s and writes at 12MB/s, greatly enhancing the smoothness of multitasking on mobile gadgets.
+
+   Current mobile applications show a distinctive trend to slimmer designs and larger display screens, while using advanced multi-core processors and high density (2 Gigabyte) LPDDR2 memory for higher performance, with larger batteries for longer usage on a single charge. This new chip accommodates the increasing size limitations of mobile form factors at the component level.
+
+   The 64GB eMMC Pro Class 2000 measures 11.5mm by 13mm, which represents a 20 percent reduction in size over the conventional embedded memory form factor (12mm by 16mm).
+
+   For more information about Samsung memory, visit: www.samsungsemi.com or www.samsung.com/memory
+
+   ###
+
+   Samsung and the stylized Samsung design are trademarks and service marks of Samsung Electronics Co., Ltd. Other trademarks are the property of their respective owners.
+
+ 

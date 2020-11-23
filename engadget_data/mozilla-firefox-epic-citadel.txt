@@ -1,0 +1,9 @@
+
+Mozilla wants to quell any doubt that its Unreal Engine 3 Firefox port works well, so it's just released a demo browser version of Epic Citadel so you can see for yourself. The game was ported to Javascript using the technology, and will run in HTML5 on most browsers without any plugins -- though using the latest nightly build of Firefox is recommended. Epic says that the performance of such games "rivals native" with "stunning" visuals, and in a short test, we managed to get about 16fps on a reasonably equipped PC. Mozilla wants to recruit more developers to the new platform as part of its Emscripten project (see More Coverage link), but meanwhile you can grab the game at the source or see the video after the jump -- just don't count on wreaking any havoc, as the demo's strictly a scenic tour.
+
+
+
+
+
+
+ 

@@ -1,0 +1,13 @@
+
+When you thought we were ready for Google's next announcement, along comes some fresh information, courtesy of regular Google news-breaker, Amir Efrati. He's apparently taken a look at confidential documents outlining what's going on with the next big mobile OS update. The Android KitKat iteration will apparently tackle that tricky fragmentation issue, and has been designed to work well even on lesser-specced Google-powered handsets. The new Android OS "optimizes memory use in every major component," and will include tools to make memory-friendly apps for "entry-level devices" with memory even as low as 512MB.
+
+
+The other major point is how Google, a well-known proponent of wearables, is already is prepping for even more smartwatches and visors on its mobile operating system. The new version will reportedly include support for three new sensors: geomagnetic rotation vector, step detection and step counters, which could be Android's way of answering Apple's inclusion of a dedicated motion processor in its latest iPhone. The source reckons these are geared towards Google's rumored smart watch -- or possibly glass. Google is apparently still working on making NFC a bigger deal, and has also worked internally on improving smartphones' skills controlling your TV and other devices. Apparently, this will involve unifying how Android deals with IR blasters, rather than the fragmented approach brought by phone makers including Samsung, LG, Sony and HTC. Bluetooth is also rumored to see significant improvements, with Bluetooth HID over GATT and Message Access Profile both mentioned what Android-running hardware can talk with.
+
+
+Update: The author's also taken to Twitter, adding that there will be a new fullscreen mode, with the ability for developers to create interfaces from edge to edge. The navigation bar will apparently remain hidden. Sharing the love over on G+, he adds that there could well be power savings alongside the update, with both sensor and WiFi batching helping to eke out battery life.
+
+
+We'll hopefully see soon how much of this hits the mark, and have our fingers crossed that there's also a new phone, primed with those sensors, to go with it all.
+
+

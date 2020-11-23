@@ -1,0 +1,10 @@
+
+OUYA and NVIDIA have a kind of love thing going on right now. The $99 Android-powered game console designed by Yves Béhar's fuseproject is powered by NVIDIA's Tegra 3 -- this much we already know. What we didn't know is that the folks at OUYA are working directly with a team of folks at NVIDIA on the project, and that NVIDIA is helping the company to max out its Tegra 3 processor for use on a console rather than a mobile (no battery dependency means the little chip can go much further than usual).
+
+
+"The partner that we've worked the most with, that is incredibly supportive of developers, NVIDIA, they have multiple people on their team dedicated to our account," OUYA CEO Julie Uhrman told us in a recent interview. She was responding to a question regarding partnerships the company's forged to make OUYA a reality, such as the aforementioned involvement with Béhar's fuseproject studio. Despite the OUYA running Google's mobile OS, Uhrman said, "We haven't worked very much with Google." As for NVIDIA, however, the American chipmaker is going all in, helping the OUYA to be the, "best Tegra 3 device on the market," according to Uhrman.
+
+
+That praise isn't all one-sided, of course; NVIDIA had praise to heap as well. "We have a dedicated team working with OUYA to ensure that Tegra 3's performance is being maximized. They've been amazing to work with," NVIDIA senior VP of Content and Technology Tony Tamasi told us. "The rich catalog of optimized and differentiated TegraZone games -- along with the work being done with developers -- ensures a flourishing ecosystem is in place and continues to grow." That support is unlikely to end with this year's OUYA. Uhrman said her company's console, unlike the big three console manufacturers, will launch anew annually, following the mobile model. And that model means beefier internals, such as NVIDIA's Tegra 4, announced just over a month ago at CES. In so many words, we very much expect NVIDIA and OUYA's lovefest to continue.
+
+

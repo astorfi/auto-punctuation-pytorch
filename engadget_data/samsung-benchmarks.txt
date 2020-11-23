@@ -1,0 +1,18 @@
+
+Benchmarks often catch the ire of critics because their scores don't necessarily reflect real-world experience, and it appears that some Samsung devices aren't helping that reputation out at all. Our friends at Anandtech started sifting through data for two Exynos octacore variants of the Galaxy S 4, and discovered multiple benchmarks that appear to run those devices at higher CPU and GPU clock speeds than they normally run. Some of the apps included in the report are GLBench 2.5.1, AnTuTu, Quadrant and Linpack. Coincidentally, the site also found code within the GS4 that indicates the existence of a program called "BenchmarkBooster," which is responsible for overclocking the processors when certain apps are running. Is this an evil plot by Samsung to take over the world using rogue benchmarking results? Is this something other manufacturers are doing? It's hard to say, but there is certainly something curious afoot. Check out the source to get all of the skinny on what exactly is going on.
+
+
+Update: Samsung has posted a short response on its official Korean-language blog, proclaiming its innocence, saying that the GS4 is designed to run at a higher clock speed on many full-screen apps, and that benchmarking apps simply fall into that category. On the other hand, it hasn't explained the "BenchmarkBooster" code, so we're still waiting on a more detailed explanation from the manufacturer.
+
+
+2nd update: We now have an English language response from Samsung, which accepts that benchmark apps may run at higher clock speeds than some games, but again denies that this is a deliberate attempt to distort specific scores:
+
+
+
+"Under ordinary conditions, the GALAXY S4 has been designed to allow a maximum GPU frequency of 533MHz. However, the maximum GPU frequency is lowered to 480MHz for certain gaming apps that may cause an overload, when they are used for a prolonged period of time in full-screen mode. Meanwhile, a maximum GPU frequency of 533MHz is applicable for running apps that are usually used in full-screen mode, such as the S Browser, Gallery, Camera, Video Player, and certain benchmarking apps, which also demand substantial performance.
+
+
+The maximum GPU frequencies for the GALAXY S4 have been varied to provide optimal user experience for our customers, and were not intended to improve certain benchmark results. Samsung Electronics remains committed to providing our customers with the best possible user experience."
+
+
+

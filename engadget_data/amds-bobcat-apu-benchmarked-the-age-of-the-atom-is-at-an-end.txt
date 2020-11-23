@@ -1,0 +1,10 @@
+
+ 
+So small, and yet potentially so disruptive. AMD's 1.6GHz Zacate chip, bearing a pair of Bobcat modules, has been taken off the leash today, resulting in a torrent of benchmarks pouring down onto the internet. While perusing the sources below, you might think to yourself that it's not exactly a world beater, sitting somewhere in the middle of the pack on most tests, but compare it to Intel's dual-core Atom D510 -- its most immediate competition in the target sub-$500 laptop price range -- and you'll find a thoroughgoing whooping in progress. The highlight of these new Fusion APUs is that they integrate graphics processing within the CPU chip, and Zacate didn't disappoint on that front either, with marked improvements over anything else available in its class. The resulting chips might still not have quite enough grunt to earn a place in your daily workhorse mobile computer, but their power efficiency and netbook-level pricing goals sure do look delightful. Or dangerous, if you're Intel. 
+
+Read - AnandTech
+ Read - Tech Report
+Read - PC Perspective
+Read - Hot Hardware
+Read - Legit Reviews
+ 

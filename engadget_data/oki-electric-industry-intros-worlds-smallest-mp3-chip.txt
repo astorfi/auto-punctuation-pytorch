@@ -1,0 +1,5 @@
+
+ As decreasing chip sizes seems to be all the rage these days, Japan's Oki Electric Industry isn't missing out on its own opportunity to go small. The company recently announced that sample shipments of the "world's smallest MP3 playback chip" were being dispersed, and that manufacturers of cellphones, PDAs, MP3 players (clearly), and essentially anything in which MP3 playback could be crammed into should take notice. The minuscule module -- dubbed the ML2011 -- packs an MP3 decoder and 650mW amplifier onto a 3.6mm x 4.2mm wafer, and can be conveniently paired with Oki's reference board and "SoundLib" software in order to bypass that whole headache-inducing "playback software development" phase. If you can spare just a tad more room, and want something that's instantly mountable, the 5mm x 6mm QFN-packaged version is also on the horizon. While pricing details were kept under wraps, Oki plans to ramp up full scale production by December, and will probably lobby mighty hard to get under the hood of Motorola's next cash cow.[Via CrissCross]
+      
+
+ 

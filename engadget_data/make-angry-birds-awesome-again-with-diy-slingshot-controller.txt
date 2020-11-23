@@ -1,0 +1,8 @@
+
+  Look, we're as tired of Angry Birds as you are -- the phenomena has certainly run its course. But, if we had Simon Ford's home-made slingshot controller, we might still be addicted to hurling the pissed-off poultry through the air. The DIY peripheral is built around an mbed microcontroller, three-axis accelerometer and a stretch sensor. Pinching and pulling the band initiates a click and drag, while the position of the slingshot itself determines the angle of launch. It's not the easiest gaming controller hack we've ever seen but, if you can follow directions, you could build your own courtesy of the instructions at the source link. If you're a little too intimidated to try it yourself, check out the video after the break to see it in action.
+      
+
+ 
+
+  
+ 

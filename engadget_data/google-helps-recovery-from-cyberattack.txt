@@ -1,0 +1,10 @@
+
+Journalists are no stranger to making enemies bent on retaliation. However, it's becoming increasingly difficult to survive that retaliation in the internet era... just ask security writer Brian Krebs. An unknown party knocked his website offline last week with a massive distributed denial of service attack (620Gbps of non-stop data) as revenge for exposing two major cyberattack sellers who've since been arrested. He's only back online after taking advantage of Alphabet's Project Shield, which protects journalists against censorship-oriented denial of service campaigns. His previous anti-DDoS provider, Akamai, had little choice but to drop him -- the company tells the Boston Globe that a sustained attack on that level would have cost the company "millions."
+
+
+
+The campaign might not have required an elaborate effort, either. Krebs believes that the attackers took advantage of a botnet made up of hacked Internet of Things devices like DVRs, home internet routers and security cameras, many of which have poor or even unchangeable passwords. A larger attack recently played havoc with a French web host using similar tactics. There's also the chance that the culprits used spoofing, which magnifies attacks by tricking machines into sending reply messages to the victim.
+
+To Krebs, the incident highlights the dangers to free speech in the modern era. It's not just that it's relatively trivial to mount a censorship campaign, it's that the cost of defending yourself against that campaign can be prohibitive. One anti-DDoS service estimated that an Akamai-level defense would cost Krebs over $150,000 per year. How could any small-scale news outfit afford that kind of protection? A concerted effort to clamp down on device exploits and block spoofed traffic could be vital not just to improving basic internet security, but protecting freedom of expression. Countries with a penchant for censorship can easily use these data floods to silence critics, and they might just try so long as it's easy.
+
+

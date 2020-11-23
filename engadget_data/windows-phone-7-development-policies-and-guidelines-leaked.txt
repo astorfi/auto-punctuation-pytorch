@@ -1,0 +1,9 @@
+
+ 
+We expect to learn a lot more about Microsoft's plan to entice developers to Windows Phone 7 at the MIX 2010 developers conference. Until then (March 15-17), aspiring WP7 devs have to rely upon rumor and innuendo to feed their curiosity. So here you go: three purportedly official Microsoft docs from January that provide a glimpse into Microsoft's Windows Phone OS 7.0 Application Platform. First up, the docs claim that WPOS 7.0 is built around Silverlight, XNA (like the Zune HD), and the .NET Compact Framework -- a mostly clean break from WinMo's past as far as developers are concerned. Native apps are restricted to OEMs and mobile operators in order to extend the experience and functionality specific to a phone or network. Even then, they'll be limited to a set of managed APIs that Microsoft will audit during the app submission and provisioning process. Sound familiar?
+
+As you'd expect, the OS supports preemptive multitasking -- not that Microsoft will necessarily allow its devs (OEMs, mobile operators, and independent software vendors) to send their apps to the background. The primary development tools include Microsoft's Visual Studio 2010 and Express Blend used in combination with a Windows Phone emulator. Check the docs in the gallery for the full read and be sure to hit up XDA-Developers if you want to commiserate with your like-minded peers.
+
+
+
+

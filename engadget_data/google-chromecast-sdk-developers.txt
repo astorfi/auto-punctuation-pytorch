@@ -1,0 +1,4 @@
+
+Now that Google has let its $35 Chromecast HDMI dongle out of the bag at its breakfast press event, it's gonna need developers to chip in some apps for it. To help boost that effort, the company is releasing the Google Cast SDK to help those folks bring content from mobile and the web to TVs. By using the kit, developers won't need to build new applications for the big screen from scratch; they'll just need to make a few tweaks to their existing mobile apps. Mountain View expects Google Cast tech to be embedded in future hardware from its partners, with Chromecast being "the first instantiation" of such an ecosystem. You can now grab a preview (at the source) for iOS, Android and Chrome -- which is good news, since the wee dongle already appears to be sold out on Play.
+
+

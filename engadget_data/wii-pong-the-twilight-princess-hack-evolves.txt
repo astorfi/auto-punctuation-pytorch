@@ -1,0 +1,9 @@
+
+ 
+Those hackers work fast. Two days ago, we saw a demo of the Zelda: Twilight Princess exploit, which allowed for the possibility of Nintendo's Wii to boot homebrew code off of SD cards via stack smashing (buffer overflow). Now a clever coder named Auby has gone ahead and extended the hack to load an ELF version of Pong which was originally coded for the GameCube. Right now the controls aren't functioning, but it appears that this is a work in progress, so we should be seeing updates to it soon. Check the video after the break to watch the breathtaking drama unfold.[Thanks, Craig]
+      
+
+ 
+
+ 
+ 

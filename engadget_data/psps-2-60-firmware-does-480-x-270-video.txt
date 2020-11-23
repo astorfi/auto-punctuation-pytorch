@@ -1,0 +1,15 @@
+
+
+It seemed as though Sony glossed over any sort of new video functionality with
+2.60 firmware for the PSP, but it turns out that's not
+entirely true. In addition to the Podcast and Windows Media Audio support that was added, Sony threw in compatibility
+for "Copyright-protected video data provided by a content provider or other services." Now it's been cleared up, and
+we've got an explanation for you after the jump.
+
+
+
+Back when 2.00 firmware was announced, So-net (SonyCommunication Networks) quietly launched a PSP-centric video distribution service in Japan called Portable TV.At launch, the service featured only free content, but gave the promise of rental-based content in the near future. Itturns out that future is now: Sony held a press conference yesterday in Japan to unveil the ?new? version ofPortableTV, which is fully compatible with the PSP?s browser, thus eliminating the need for a PC to get video from theservice. Fire up your PSP?s browser, navigate to the site, download videos directly to your Memory Stick Duo, and oogleat the sexiness that is the H.264 codec.
+
+ What?s more? Some of the rental videos are available at a resolution of 480 x 270, dispelling the rumors floatingaround that such video resolution wasn?t possible from a Memory Stick Duo. Don?t expect to see video encoders capableof creating compatible video at this resolution anytime soon, though ? not only are the videos distributed by PortableTV heavily encrypted with Sony?s DRM technology (which itself requires firmware 2.60), they?ve made no announcementsabout updating their PSP Media Managersoftware to incorporate these new capabilities. Still, we?ll keep our fingers crossed.
+
+

@@ -1,0 +1,6 @@
+
+ 
+It appears that DeviceVM won't be able to sit around and gloat over its "instant on" SplashTop Linux OS that's being integrated into ASUS motherboards, as they've got some competition on the horizon. A company called Phoenix Technologies is introducing a new mini-OS called HyperSpace (what's with all these compound names?) that features a four second boot time. Using a form of virtualization which sets aside memory and disk space for the small boot, the ROM-based environment lets you access Firefox, launch a DVD movie, or fire up other apps while your system loads Vista or XP in the background. Apparently, the BIOS-embedded platform will also allow manufacturers and developers to embed their own, customized applications, thus extending the range of uses for the system. Soon, you won't have to wait even a tenth of a minute to check your Facebook inbox.[Via Good Morning Silicon Valley]
+      
+
+ 

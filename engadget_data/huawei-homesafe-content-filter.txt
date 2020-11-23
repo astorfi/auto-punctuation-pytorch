@@ -1,0 +1,7 @@
+
+Authorities in the UK have never had quite the same level of anxiety over Huawei that we've witnessed in the US, and they've so far been happy to let the Chinese firm get involved with numerous parts of the country's data infrastructure. As it turns out, the company's control even extends to the "Homesafe" filter used by internet service provider TalkTalk, which David Cameron recently praised during his push for tighter controls on adult content. The BBC discovered that UK-based Huawei employees are able to decide which sites are blocked on TalkTalk's service, and that even users who opt out of Homesafe have their internet usage data routed through Huawei's system. Whether or not this is an issue depends entirely on how much you trust reports of close ties between Huawei and the Chinese government, versus Huawei's claim that these concerns are based on anti-Chinese prejudice rather than evidence. From a purely practical point of view, however, if the mission is to block off huge swathes of the internet, why wouldn't you hire an expert?
+
+
+Update: A representative of Huawei has been in touch to provide the company's side of the story. He said that Huawei doesn't "run" the Homesafe system, but that the system is "supported by Huawei" without Huawei having control over it. He added that Huawei does not decide which sites are blocked, and that the final decision as to what filters are implemented rests with TalkTalk. Meanwhile, the BBC is apparently standing by its story, since it has issued no retraction.
+
+

@@ -1,0 +1,5 @@
+
+ 
+ We fully expected Microsoft put minimal effort into Media Center on Windows 8, but we have to say we didn't expect it to get like this. It was one thing when our favorite HTPC app didn't get a single enhancement, but another when it didn't receive a single bug fix. Now, in the latest Release Preview of Windows 8 the folks at Redmond have gone out of their way and disabled the ability to boot directly to Windows Media Center -- a feature required for any proper HTPC build. Another required feature, in our minds at least, is the ability to record TV and use a remote and it seems Microsoft no longer wants any part in that either. Revealed in the Windows Logo Program Newsletter is the sad reality that the ability to test TV tuners and remotes is no longer included in Windows Hardware Certification Kit. This doesn't preclude someone from making tuners for Windows 8 Media Center, but it certainly does indicate what type of support said manufacturer can expect from Microsoft.
+
+

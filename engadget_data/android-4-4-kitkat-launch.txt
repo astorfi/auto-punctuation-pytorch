@@ -1,0 +1,12 @@
+
+After entirely too much teasing, Google has at last taken the wraps from Android 4.4 KitKat. The new mobile OS is based on efficiency that brings smartphones to "the next billion people," according to Android Senior VP Sundar Pichai. Google's own apps use less memory, and the interface will automatically scale back to fit on devices with only 512MB of RAM. While the company can't enforce anything, it wants KitKat to be ubiquitous on Android phones released in 2014, regardless of performance -- a lofty goal when some low-end phones still ship with Gingerbread or Ice Cream Sandwich.
+
+
+
+Much of the interface has been streamlined. There's now a camera shortcut and more immersive "now playing" content on the lock screen, and there's an option to rearrange home screens. The navigation interface disappears when you're inside of supporting apps, giving back real estate on devices without hardware keys. The dialer and Hangouts make it easy to search for nearby addresses; fans of self-expression will be glad to hear that emoji icons are available in the keyboard. New frameworks bring both AirPrint-like wireless printing and support for third-party cloud storage in the Gallery app. Behind the scenes, Google is improving battery life through sensor batching, which cuts back on data requests. Developers can write apps that support infrared control, pedometer-like step counting and a carrier-independent NFC payment architecture.
+
+KitKat also puts a stronger emphasis on Google's main business, search. Voice search is going hands-free through keyword activation, and it will ask questions if it needs clarification. The speech recognition engine is about 25 percent more accurate, according to Google. An upcoming refresh of Google Now, meanwhile, will bring up context-sensitive cards for both shopping as well as attractions. You'll get to buy movie tickets through Fandango when at the theater, for instance.
+
+As to when you'll get the software? Today, buying a Nexus 5 is the quickest way to get KitKat; Google tells us that upgrades for other devices will roll out in the "coming weeks." Other manufacturers haven't yet said that they'll upgrade their phones to the new Android version, although we're anticipating at least a few announcements for recent hardware.
+
+ 

@@ -1,0 +1,4 @@
+
+ An Ubuntu release is always a momentous occasion for a large portion of the Linux community, although it's coming with a mild share of controversy this time around. Ubuntu 12.10 (Quantal Quetzal) is finished and brings with it support for pinning web apps to the Launcher as well as search that includes web results, detailed photo results and quick previews. They're all appreciated upgrades -- what's raising hackles is the development strategy for 13.04, or Raring Ringtail. Company head Mark Shuttleworth wants a "skunkworks" approach that will silence pre-release discussion of some features outside of key, trustworthy community members. While there will still be open-source code and only a light layer of secrecy, Ubuntu's progress in the near-term won't be quite as transparent as we're accustomed to with Linux. There's a good chance that most end users won't mind the difference enough to skip the download.
+
+

@@ -1,0 +1,10 @@
+
+Nowadays, we can't help but be skeptical of products that claim to be a smartwatch. In fact, what is a smartwatch, anyway? Perhaps GEAK, a Shanghai-based subsidiary of content giant Shanda, has a somewhat convincing answer. Simply dubbed the GEAK Watch, this wearable device packs a surprising number of components, with the most notable one being the 802.11b/g/n WiFi module -- a feature that Motorola's MOTOACTV already boasts. This lets the Android 4.1 system download apps directly or even receive OTA updates, but you can also create a wireless ad hoc network to do instant messaging with fellow users nearby -- the watch can apparently do voice-to-text input. There's also Bluetooth 4.0 and NFC for device pairing, along with GPS and FM radio -- yes, there's a headphone jack, too.
+
+
+In terms of sensory features, the GEAK Watch offers to monitor the user's sleeping pattern, pulse, blood pressure, body temperature, mood and number of steps walked (some of these require additional accessories). The components that take care of all these are somehow tucked into the 8mm-thick body of the watch, with the brain being the rare 1GHz Ingenic JZ4774 that's based on MIPS architecture. The chip's accompanied by 512MB of RAM, 4GB of storage and a suspiciously minuscule 500mAh lithium polymer cell -- no word on the battery life just yet, though. There's a 1.55-inch, 240 x 240 multi-touch OGS display to seal the device, and overall the watch is certified for a reasonable IPX3 water resistance.
+
+
+Honestly, this smartwatch sounds too good to be true, and it's only priced at just ¥1,999 or about $330. It'll be up for pre-ordering in China from July 3rd, so it shouldn't be long before we find out if the GEAK Watch is worthy of the "world's first true smartwatch" title.
+
+

@@ -1,0 +1,6 @@
+
+ 
+The HD-PVR FAQ on Hauppauge's website has always been very clear that the reason why there wasn't support for Windows Media Center was because when it comes to Live TV, Vista Media Center couldn't handle h.264. So it should come as no surprise that now that the Windows 7 Beta has been out for a bit, someone has figured out a way to get the two to play together. The DVBSBridge add-on is available now for those who can't wait for Hauppauge's drivers and are of course running Windows 7 -- Vista fans need not apply -- but we'll warn you; we just took a look at the directions and this is not for the faint of heart.[Via Geek Tonic]
+      
+
+ 

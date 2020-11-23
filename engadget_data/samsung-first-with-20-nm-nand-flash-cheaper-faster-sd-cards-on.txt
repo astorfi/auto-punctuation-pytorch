@@ -1,0 +1,10 @@
+
+ 
+Let it sink in, 20 nanometers. It wasn't that long ago when 45-nm manufacturing processes were all the rage. Now we've got Samsung following Toshiba with a sub-25nm flash memory announcement all its own. Samsung's 20-nm class 32Gb (gigabit) MLC NAND is sampling now, however, for use in embedded memory solutions and SD memory cards ranging from 4GB to 64GB. In addition to increasing densities and decreasing manufacturing costs, Samsung's 20-nm class NAND is claimed to be more reliable and 30 percent faster than the 30-nm MLC chips forming the core of its existing 8GB and higher SD cards. That translates to cheaper class 10 (20MBps read, 10MBps write) SD cards when these ship to consumers later this year -- always a good thing.
+
+Update: There's a chance that Samsung is playing fast and loose with words here. It repeatedly says "20-nm class" without specifying the actual node size. Is it 20nm, 22nm, 27nm? We're digging for details and will update this post when we have them.
+
+Update 2: Samsung's response: "Unfortunately, we are not disclosing the actual process node for our memory devices. Thank you in advance for your understanding." Yeah, we understand: Samsung's process node is likely larger than the 25nm threshold set by Intel and Micron.
+      
+
+ 

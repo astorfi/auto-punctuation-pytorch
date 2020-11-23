@@ -1,0 +1,7 @@
+
+ 
+Curious to see how the latest preview release of Internet Explorer 9 stacks up against the competition when it comes to HTML5 performance in Windows? So was Download Squad, and it's now revealed its findings in some vivid, if not entirely scientific tests. The end result is that Internet Explorer 9 and Firefox 3.7 were well ahead of the pack in the 1,000-fish stress test (with Firefox about 5 or 10 percent ahead of IE), while Opera was stuck somewhere in the middle, and Chrome placed a distant last (and maxed out the CPU) -- all with hardware acceleration enabled, of course, although that had to be done via command line switches in the case of Chrome. Head on past the break to check out the four-way showdown for yourself, as well as an earlier test with just IE9 and Chrome.
+ 
+
+
+ 

@@ -1,0 +1,13 @@
+
+As we walked out of today's Google I/O keynote, we -- and all other keynote attendees -- were handed the second-generation version of Cardboard, Google's low-tech effort at a VR headset. As was announced at the keynote itself, the new Cardboard is designed to fit phones that are 6-inches or larger, which makes sense given the size of Google's own Nexus 6. It's also now much easier to set up; in just three easy steps. Another improvement is that it no longer has the magnetic ring trigger of the original, which apparently didn't work with all phones. Now it has a simple top button that when pressed, activates a lever coated in capacitive tape -- think of it as a cardboard finger touching the phone's screen. This, of course, makes the Cardboard viewer compatible with a lot more phones -- including, yes, the iPhone.
+
+
+
+
+
+I had the chance to try out the new viewer with both a Nexus 6 and an iPhone 6, and well, it certainly is easy to put together. Just snap out the velcro, fold the pre-scored pieces of cardboard, put in your phone, and voila -- you've got a VR headset. The top button is also far easier to push down, giving it a very ViewMaster feel. As for content, Google also announced the new Cardboard app for iOS today, along with an updated Cardboard SDK for developers to build VR apps for Apple's mobile OS as well. The demo apps for iOS are a little different -- there's an Exhibit app of different museums plus a colorful kaleidoscope -- but the experience is very similar to the one on Android. Images are surprisingly colorful and sharp, though I did experience a bit of lag when transitioning between different screens.
+
+As ever, Cardboard won't have the same fidelity and immersiveness as something like the Oculus Rift or Gear VR -- there's no danger of light leaking through, for example -- but it's pretty great for what is essentially just a piece of cardboard and some lenses. If you want one for yourself, you'll have to either make it yourself from Google's own specs, or get one from Dodocase for around $25. Oh, and that Cardboard app for iOS? It's out already, so go on and try it out if you have an iPhone and that new Cardboard viewer lying around.
+
+Don't miss out on all the latest news and updates from Google I/O 2015. Follow along at our events page.
+

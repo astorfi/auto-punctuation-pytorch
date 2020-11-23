@@ -1,0 +1,11 @@
+
+
+If you're a console gamer, you're probably all too aware of Lizard Squad, the hacker outlet that allegedly knocked both the PlayStation Network and Xbox Live offline for a good chunk of the Christmas break. But just why and how is this group causing so much grief? Thanks to the Daily Dot, we now have a better (if imperfect) idea of what's going on. It might not shock you to hear that the team is doing this both for laughs, à la LulzSec, and to expose the "incompetence" of the security teams at Microsoft and Sony. However, they also claim to have access to undersea internet cables and other "core routing equipment" that lets them flood networks with massive amounts of data. They supposedly bombarded PSN and XBL at a rate of 1.2 terabits per second, or three times the rate of the previous largest attack on record.
+
+
+
+It's tough to know just how capable Lizard Squad really is. It's fond of bragging, including boasts that the group suffers from "undoxability syndrome" (that is, you could never identify anyone involved). Some would also argue that denial of service attacks like this aren't all that sophisticated, even if they reportedly required hacks to get all the necessary bandwidth. The group doesn't appear to be having as much success breaking the Tor anonymity network as it did with Microsoft and Sony. However, there aren't exactly a lot of hacker outfits that can say they've disabled two gaming networks at once -- at the least, it's worth taking the team's threats seriously.
+
+[Image credit: Philippe Desmazes/AFP/Getty Images]
+
+

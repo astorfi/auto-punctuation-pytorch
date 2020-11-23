@@ -1,0 +1,6 @@
+
+ 
+Well we have to say we never saw this coming, but have dreamed of it for years, but it appears that the FCC is actually listening to the CEA and is asking for comments on how to replace CableCARD with something that would actually make the network open. For those just catching up, Congress mandated that cable had to be open with the Telecommunications Act of 1996 -- yeah that long -- and 3rd party CableCARD devices first became available in 2004 and five years later there are only 14 3rd party certified devices and 443k 3rd party devices in service. The fact that CableCARDs just don't work is no surprise to anyone who has tried to use one -- ok we're exaggerating here, but we've had our fair share installed and every one makes for a funny story. Now obviously admitting you have a problem is the first step, but it also means we are years away from a solution. But since they asked, here's ours. Instead of silly cards and middleware, just specify a two way communications protocol and embed signed certificates that CableLabs will control the distribution of in the box for authentication and encryption. It really doesn't have to be any harder than that.
+      
+
+ 

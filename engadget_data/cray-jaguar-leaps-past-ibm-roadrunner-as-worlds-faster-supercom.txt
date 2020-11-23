@@ -1,0 +1,9 @@
+
+ 
+Cray has finally clawed IBM back from the lead position on the Top500 Supercomputer chip-measuring contest. After just missing out on the title to IBM's Roadrunner last year, Cray's XT5 supercomputer (aka, Jaguar) at Oak Ridge National Lab in Tennessee received an update from quad- to six-core Opteron processors to boast a 2.3 petaflop per second performance peak (theoretical) and 1.75 petaflops as measured by the Linpack benchmark; a feat requiring almost a quarter million AMD cores. IBM's Roadrunner, the very first supercomputer to race past the petaflop per second threshold, managed just 1.042 petaflops by comparison. Remember, one petaflop per second is equivalent to one quadrillion calculations per second. Of course, chip makers put their own spins on the list by noting that 4 of the top 5 systems depend on AMD for performance while Intel can be found powering 402 of the Top500. Video of the AMD processor upgrade procedure can be found after the break.
+      
+
+ 
+
+
+ 

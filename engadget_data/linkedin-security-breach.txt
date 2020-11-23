@@ -1,0 +1,16 @@
+
+ Reports began swirling this morning that around six million passwords attached to LinkedIn accounts had been compromised, and after looking into the matter, the site has confirmed that "some of the passwords" attached to accounts of LinkedIn members have been affected. The network doesn't specify the number of passwords leaked, nor does it confirm the rumored count of six million. It does, however, promise that it will invalidate passwords of the hit accounts -- and vows to send an email to each affected user with instructions on how to reset their password, followed by another piece of correspondence explaining what happened. Below you'll find the company's official statement, as well as what it is doing to ensure its members are safe.
+
+
+
+  Show full PR text   An Update on LinkedIn Member Passwords Compromised   Vicente Silveira, June 6, 2012
+
+   We want to provide you with an update on this morning's reports of stolen passwords. We can confirm that some of the passwords that were compromised correspond to LinkedIn accounts. We are continuing to investigate this situation and here is what we are pursuing as far as next steps for the compromised accounts:
+
+   1. Members that have accounts associated with the compromised passwords will notice that their LinkedIn account password is no longer valid.   2. These members will also receive an email from LinkedIn with instructions on how to reset their passwords. There will not be any links in these emails. For security reasons, you should never change your password on any website by following a link in an email.   3.These affected members will receive a second email from our Customer Support team providing a bit more context on this situation and why they are being asked to change their passwords.
+
+   It is worth noting that the affected members who update their passwords and members whose passwords have not been compromised benefit from the enhanced security we just recently put in place, which includes hashing and salting of our current password databases.
+
+   We sincerely apologize for the inconvenience this has caused our members. We take the security of our members very seriously, if you haven't read it already it is worth checking out my earlier blog post today about updating your password other account security best practices.
+
+ 

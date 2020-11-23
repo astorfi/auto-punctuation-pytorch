@@ -1,0 +1,6 @@
+
+ 
+When Apple released its redesigned MacBook Air in October 2010, much was made of the switch to flash storage using a custom-built Mini PCI Express form factor SSD drive. It took a few weeks but these SSDs would ultimately be released as the commercially available Toshiba Blade X-gale SSD module, model TS128C. Now we're seeing user reports showing MacBook Airs equipped with a second, even faster SSD with a SM128C part number -- the "SM" hinting at its presumed Samsung manufacturing origins. Samsung's SSD manages up to 260MBps read and 210MBps write speeds compared to Toshiba's 210MBps read and 185MBps write performance. Of course, it's hardly unusual for Apple to multi-source components. And a recent decision to source parts from Korea's Samsung would have been a smart move to keep just-in-time supply lines fully stocked following the spate of disasters in Toshiba's home country of Japan. Unfortunately, there doesn't appear to be any way of confirming which SSD you're about to purchase without cracking open the retail box and running the OS X System Profiler. Good luck with that.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+A lot of people had differing emotions when reading the Zune HD launch announcement yesterday: joy that the system would indeed sport a selection of apps and games, all free; dismay that those apps would be developed almost exclusively by Microsoft. Today you can turn that frown upside down, sweetheart, as it seems that exclusivity won't last long. An update to the XNA Game Studio development environment has already been released, enabling coders to target the Zune HD. The new version, 3.1, adds libraries for handling the system's accelerometer and multitouch screen, both put to use by developer Elton Muuga to create a simple drawing app, shown in video form after the break. It makes lines on a screen with finger touches and, like a ridiculously expensive Etch A Sketch, erases with a shake. It's not much, but impressive given the thing's only been available for a day now, and while we're still unsure how apps like this will find their way into the Zune's app store, we're sure all will be answered soon enough.[Thanks to everyone who sent this in]Read - XNA Game Studio 3.1Read - First Zune HD Multi-Touch Drawing App
+      
+
+ 
+
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+Looks like the Android-toting Cius wasn't the only tablet out of Cisco this week -- the company's also announced a countertop unit for home energy management with a 7-inch, 800 x 480 capacitive touch screen. Running Ubuntu Linux for MID on a 1.1GHz Intel Atom chip, the Home Energy Controller connects to smart thermostats and appliances over 802.11n WiFi or gigabit ethernet using protocols including ZigBee. It then lets you keep tabs on your electricity usage, and suggests ways you could improve -- assuming you're using the tablet for its intended purpose instead of watching hardware-accelerated videos on Mediafly, browsing the included app store, or (potentially) using it as a phone of some sort. Forbes reports the device will run $900 per installation, though it's more likely it'll arrive subsidized by a monthly power bill. See it in action right after the break, and hit up that PDF at the more coverage link for a full spec sheet.
+      
+
+ 
+
+
+ 

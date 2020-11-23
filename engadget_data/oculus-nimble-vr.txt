@@ -1,0 +1,15 @@
+
+Right now, the term "virtual reality" still means "headset" for most people. What we should really think when we read "virtual reality" is first-person immersion. The headset -- like Oculus VR's Rift, Sony's Project Morpheus, and Samsung's Gear VR -- is simply the first tool for creating that sense of immersion or "presence." But once you're in a headset, the first things you do are the undoable: reach out with your physical hands into virtual reality. It's not exactly surprising, then, that Oculus VR would acquire Nimble VR -- the company behind Nimble Sense, a camera and software combo that brings the world around you into virtual reality. Think of it like Kinect: cameras that are able to track your skeletal movement and create a point cloud around you, which then translate that data into a virtual representation on-the-fly.
+
+Still confused? We've got a video hands-on of Nimble VR's Sense camera from early November below the break, used in-tandem with Oculus VR's second Rift development kit (pictured above).
+
+
+
+#fivemin-widget-blogsmith-image-615389{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-615389, #postcontentcontainer #fivemin-widget-blogsmith-image-615389{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-615389").style.display="none";}catch(e){}
+Oculus' acquisition announcement wasn't solely for the quintet of dudes at Nimble VR -- the Facebook-owned virtual reality company also scooped up 13th Lab (a company that created tech for mapping and modeling 3D interiors) and motion capture expert Chris Bregler. What all of these folks are up to is anyone's guess, but Oculus is saying for now that all three parties are wrapping up their current work and going to work at "both product engineering and Oculus Research."
+
+For those playing along at home, Oculus now owns a company that designed some of gaming's greatest controllers (Carbon Design), has some of the smartest VR folks (from John Carmack to Michael Abrash to founder Palmer Luckey), and is bringing in-house the ability to track and re-create the world around you while in VR (with Nimble VR). Presumably that consumer-grade VR headset is coming sooner than later, right? Right?
+
+Update: It looks like Nimble VR's Kickstarter was also canceled as of 4PM ET -- heads up to any backers of Nimble Sense!
+
+

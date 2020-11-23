@@ -1,0 +1,13 @@
+
+ 
+The 27th annual Chaos Communication Conference already hacked encrypted GSM calls with a $15 cellphone, but there was a second surprise in store this morn -- the souls who unlocked the Nintendo Wii's homebrew potential (and defended it time and again) claim to have broken into the PlayStation 3 as well. Last we left the black monolith, Sony had won a round, forcing the community to downgrade their firmware for any hope at hacking into the console. Well, the newly formed fail0verflow hacking squad says that won't be a problem any longer, because they've found a way to get the PS3 to reveal its own private cryptography key -- the magic password that could let the community sign its very own code. 
+
+So far, the team hasn't provided any proof that the deed's been done, but they have provided quite an extensive explanation of how they managed the feat: apparently, Sony didn't bother generating any random numbers to secure the blasted thing. (We don't really know how it works, but we have it on good authority that dead cryptography professors are rapidly spinning in their graves.) The group intends to generate a proof-of-concept video tomorrow, and release the tools sometime next month, which they claim should eventually enable the installation of Linux on every PS3 ever sold. Catch the whole presentation after the break in video form, or skip to 33:00 for the good stuff.
+
+Update: The proof-of-concept vid is a bit underwhelming -- fail0verflow had to SSH into a PS3 over ethernet -- but it's here nonetheless. See it after the break, and find the team's full set of presentation slides at our more coverage link. [Thanks, Paolo S.]
+      
+
+ 
+
+
+ 

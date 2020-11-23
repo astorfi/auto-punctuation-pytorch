@@ -1,0 +1,16 @@
+
+
+And with a name like SubjuGator, what do you expect, really? This past weekend saw the 8th Annual Autonomous
+Underwater Vehicle Competition in San Diego pitted 19 collegiate teams against each other to complete three tasks:
+finding a docking station, inspecting a pipeline, and surfacing in a recovery zone. The University of Florida's
+SubjuGator dethroned MIT to walk away the victor — an autonomous submarine designed to operate underwater at depths in
+excess of 32 feet. The unit is controlled by over 10 microcontrollers and peripherals, and is based on a single-board
+Pentium M system running Windows XP. No word if Ballmer performed the monkey dance upon hearing the news.
+
+
+ [Via Slashdot]
+
+
+
+
+ 

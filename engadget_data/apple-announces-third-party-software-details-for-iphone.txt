@@ -1,0 +1,6 @@
+
+ 
+As expected, Apple used WWDC as the stage to announce a third-party development solution for the iPhone, putting to rest fears that the handset would be a closed (read: non-smartphone) platform. Calling it a "sweet solution" for allowing devs to get their wares onto iPhones across the globe without sacrificing stability or security, Apple is using its full Safari-based browser to let folks code up true, Web 2.0-compatible apps that can be accessed and updated on developers' own servers. Though any apps that third-party developers put together will run under Safari, they'll be totally customizable and maintain the platform's unique look and feel. Better yet, they won't require any special SDK -- Jobs claims that a working knowledge of modern web standards is all we'll need to code up custom iPhone goodies to our hearts' content.
+      
+
+ 

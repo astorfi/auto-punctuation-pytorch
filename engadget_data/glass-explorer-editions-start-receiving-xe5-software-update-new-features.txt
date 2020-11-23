@@ -1,0 +1,8 @@
+
+Google's cadre of Glass explorers only started receiving the headgear last month, but the folks in Mountain View are already pushing out an update. Named XE5, the fresh software carries a raft of tweaks and new features, ranging from crash reporting to Google+ notifications. Among the more notable upgrades are the ability to comment and +1 posts on the search titan's social network, alerts for incoming hangouts, improved battery life estimation and quicker transcription. One thing that may dampen spirits is a new charge to sync policy, which only allows background uploads when devices are plugged in to power sources and connected to WiFi. For the complete list of tweaks, hit the break for the changelog.
+
+
+
+
+ Change to sync policy: require power + WiFi for background uploads Crash reporting Incoming G+ notifications (direct shares, comments, +mentions), including ability to comment and +1 Incoming Hangout notifications Transcription of queries & messages is now wicked-fast Long-press to search from anywhere in the UI (no longer just from off) International number dialing + SMS Hop animation on disallowed swipes in the UI New On-Head Detection calibration flow Show device Serial Number on Device Info card More reliable estimation of battery charge remaining New recipient-list mosaic
+ 

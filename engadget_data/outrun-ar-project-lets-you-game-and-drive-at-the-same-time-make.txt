@@ -1,0 +1,11 @@
+
+ 
+
+
+	Cool game, or coolest game ever? That's the question we were asking ourselves when we first came across Garnet Hertz's augmented reality-based OutRun project -- a concept car that weds Sega's classic driving game with an electric golf cart, allowing players to navigate their way around real-life courses using only arcade consoles. Hertz, an informatics researcher at the University of California Irvine, has since brought his idea to fruition, after outfitting the system with cameras and customized software that can "look" in front of the car to automatically reproduce the route on the game cabin's screen. The map is displayed in the same 8-bit rendering you'd see on the original OutRun, with perspectives changing proportionally to shifts in steering. The cart maxes out at only 13 mph, though speed isn't really the idea; Hertz and his colleagues hope their technology can be used to develop game-based therapies for disabled users, or to create similarly AR-based wheelchairs. Scoot past the break to see a video of the car in action, and let your dreams converge.
+
+	[Thanks, Stagueve]
+ 
+
+   
+ 

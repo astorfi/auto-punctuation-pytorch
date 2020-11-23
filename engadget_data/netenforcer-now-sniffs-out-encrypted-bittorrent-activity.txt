@@ -1,0 +1,6 @@
+
+ 
+Looks like ISPs now have another weapon at their disposal to keep all that BitTorrent traffic under control, with Allot Communications updating its NetEnforcer traffic management devices to root out encrypted BitTorrent packets. According to Allot, BitTorrent traffic accounts for some 40-50 percent of ISP bandwidth, with many ISPs already taking steps to throttle it, but until now they've been unable to do anything about the encrypted torrenting that's been possible with the latest clients. To crack that nut, the NetEnforcer uses what Allot calls deep packet inspection technology, which they say lets ISPs "identify and analyze hundreds of applications and protocols, track subscriber behavior, prioritize traffic and shape traffic flows." So, simple traffic management -- we have no idea what else it could possibly be used for. Oh, and Sweden's Pirate Party definitely does NOT endorse this product; go figure.[Via Monkey Bites]
+      
+
+ 

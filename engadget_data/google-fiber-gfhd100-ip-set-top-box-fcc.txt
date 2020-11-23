@@ -1,0 +1,9 @@
+
+The future of Google as a hardware manufacturer (beyond its purchase of Motorola) continues to be shrouded in rumor and mystery, but the GFHD100 box that just popped up in the FCC's database is very much a fact. As seen in the pictures, it's sporting a Google Fiber label which suggests it's a part of rolling out video services to the Kansas Cities, and also reveals it's being built for Google by Humax. The MAC address shown in the picture is registered to Google directly, while the test report calls it an IP-set top box, equipped with WiFi, IR, USB, Ethernet, HDMI input and output and an Ethernet / coax (we assume MoCA?) bridge, which sounds similar to the boxes favored by Verizon's FiOS. Unfortunately our only view of the device itself is from underneath so there's not much else to glean about its abilities or possible relation to the hardware Google has reportedly been testing around the country, but you can hit the source link below to dig through the documents yourself or check a close up of the label (we tried the QR code, it appears to be for registration but it didn't work) after the break.
+
+
+
+
+
+
+ 

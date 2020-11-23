@@ -1,0 +1,6 @@
+
+ 
+ Microsoft's been letting loose all of Windows Phone 8's secrets this morning, and the latest tidbit is all about VoIP calling. Turns out, the team in Redmond's really putting that money it spent on Skype to good use by integrating the video chatting/VoIP service deeply in its new mobile OS. From a user perspective, incoming Skype calls are treated like cellular communications, meaning that they appear as regular calls and are integrated with standard phone features -- like call waiting -- to maintain a seamless calling experience. The VoIP apps continue to run in the background, of course, thanks to WP8's new multitasking capabilities, and VoIP integration will be available to all developers.
+
+ To check out the latest updates from Microsoft's Windows Phone event, visit our liveblog!
+

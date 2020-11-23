@@ -1,0 +1,12 @@
+
+       
+Even on the latest round of Snapdragon-powered models, Android apps don't typically seem to exhibit the same level of buttery-smooth prowess as their iPhone equivalents. There are a variety of reasons for that, but the most damning seems to stem from Google's choice of the Dalvik Java runtime, which -- to put it simply -- trades performance for diminutive processor and memory footprints. You may not have ever heard of Swiss company (and OHA member) Myriad, but it sprung to life through the merger of Esmertec and Purple Labs and claims to have software running on an astounding 2 billion phones worldwide -- in other words, these guys know a thing or two about phones -- and they've applied their expertise to tighten up Dalvik and make it burn rubber. Follow the break for video!
+      
+
+ 
+
+Myriad has demonstrated the appropriately-named Dalvik Turbo engine for us here at MWC, claiming performance improvements of up to two or three times depending on the app -- and from the spinning 3D cube we saw running on a pair of Android Dev Phone 2s, we don't doubt it. Of course, the ADP2 is an ARM11-based phone, which means that the new runtime could effectively breathe new life into low- to midrange chipsets and let them enjoy some of the spoils usually reserved for high-end devices. Unfortunately, you won't be able to buy, download, and install Dalvik Pro yourself; Myriad is instead positioning it as a differentiator for carriers and manufacturers -- not unlike Sense or TouchWiz -- that would allow them to tout improved app performance across their Android lineup versus competitors'. The runtime is apparently 100 percent compatible with Google's stock Dalvik implementation, so you would be able to run any app... just a little faster than you'd otherwise be doing. We're told there's reason to believe we'll see this on production retail devices before the year's out, so these guys are definitely worth keeping an eye on.
+
+       
+
+ 

@@ -1,0 +1,12 @@
+
+
+
+You know those cookies web services use to track your history and serve up personalized ads? It appears that the government is using them too. The National Security Agency is apparently leveraging a Google-specific cookie to tap into the computers of suspicious users, according to presentation slides Edward Snowden leaked to The Washington Post. With an assist from Mountain View's "PREF" file, the NSA can track a target's web visits, then identify the computer and send a remote exploit in.
+
+
+What's more, the documents also show that the outfit has used a program called "HAPPYFOOT" to map internet addresses to precise physical locations leaked by mobile apps when generating locally-germane ads. Perhaps the key takeaway here is this newest revelation's scope: The government could gain alarmingly precise information about individuals using data already spread throughout the internet, seeded under the not-quite-as-threatening guise of marketing and/or social media. Consider this a friendly reminder to clear your browser history, courtesy of Uncle Sam.
+
+
+[Image source: Everyspoon/Flickr]
+
+

@@ -1,0 +1,10 @@
+
+MediaTek, a chipset manufacturer based out of Taiwan, has been making some huge moves lately. Just over two months ago, it came out with the "world's first true octa-core" processor, which consisted of eight Cortex-A7 cores capable of operating simultaneously. Now that ARM has announced Cortex-A17 technology, however, MediaTek is ready to start sampling a new octa-core chip that consists of four 2.2-2.5GHz A17 cores and four 1.7GHz A7s, and comes with a Rogue PowerVR Series6 GPU to take care of any graphical needs you might have.
+
+
+As an aside, the A17 cores come with a 60 percent improvement in performance over the current-gen A9s, and are primarily designed to make midrange smartphones and tablets even faster. That said, MediaTek tells us that its new chips, known as the MT6595, are actually meant to be featured in premium devices and will square off directly against Qualcomm's Snapdragon 800 and 805. And it's certainly got a few noteworthy features: first, the chip will use ARM's big.LITTLE architecture and Heterogeneous Multi-Processing, which means you can use all eight cores for the most intense tasks, or you can use just one or two at a time for incredibly basic activities. The company claims that this chip will be faster and more power efficient than the octa-core Exynos options, which feature four A15 cores and four A7s at lower frequencies.
+
+
+Additionally, the MT6595 claims to be the first octa-core LTE system-on-chip with an H.265 Ultra HD Codec built-in to the platform, which offers 4K2K video recording and playback capabilities. In much the same way that most manufacturers don't enable all of a chip's features, however, it'll be up to each individual company to add it in. The chips will begin sampling to phone makers and carriers in the first half of this year, and it's expected to arrive in products during the second half. And while it should find its way into smartphones and tablets around the world, MediaTek wants the MT6595 to enjoy a huge presence in the US.
+
+

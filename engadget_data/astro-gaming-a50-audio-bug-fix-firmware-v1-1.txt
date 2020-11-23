@@ -1,0 +1,9 @@
+
+ 
+ We generally enjoyed the virtual surround sound prowess of Astro Gaming's A50 wireless headset when we reviewed it back in July, but you'll recall it had one especially glaring issue: the audio would frequently cut out. At the time, the company informed us that a fix was on the way via a firmware update, and now it's recently arrived with a few other goodies. To refresh your memory, the A50 headset relies on a MixAmp TXD wireless transmitter, so you'll actually be dealing with a duo of updates to get your system on the straight and narrow: A50 Headset Firmware v1.1 (Build 2856) and A50 MixAmp Tx Firmware v1.1 (Build 2855).
+
+ On the headset side, notable changes include "various audio and volume leveling tweaks," a decrease in background noise and enhancements to the noise-gate for voice chat across platforms. Better yet, volume and game / voice chat balance levels will now stay as you left them upon powering it down. The Tx itself haa been deemed the culprit behind the audio problem, as Astro notes that it's "fixed [the] occasional optical audio drop" -- where "occasional" is putting it nicely. Beyond that, both units should now have better success pairing up, and further compatibility with KleerNet-enabled wireless devices.
+
+ We tried out the firmware refreshes with a few sessions of MW3 and can happily report that the audio issues do seem to be resolved. Now, installing the update is simple, if a bit tedious. First we had to hook up the headset via USB into the TXD, which itself connects your computer via USB as well. From there, we downloaded and ran Astro's Device Manager for OS X and 32 bit Windows (available at the source below), prompting us to install the updates. Lastly, we re-paired the two and were back to our virtual fragging sans the audio hiccups -- hopefully you'll have the same results. Need all the details? Hit up the source link below.
+
+

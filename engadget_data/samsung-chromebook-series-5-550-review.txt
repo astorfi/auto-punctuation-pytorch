@@ -1,0 +1,62 @@
+
+
+More Info
+
+Samsung Chromebook Series 5 review
+Samsung is refreshing the Series 5 Chromebook, releasing the Chromebox in Q2
+Chrome OS review (version 19)
+
+
+When the first Chromebooks hit the market last year, they were greeted with skepticism, curiosity and some noisy debate. Which makes sense: after all, who had ever heard of an operating system based entirely on a browser? Laptops that were only usable when you had an internet connection? It was a wild, ambitious idea, to be sure, but since then, we haven't heard much on that front save for the occasional price cut.
+
+
+Now, though, Samsung is selling the new Chromebook Series 5 550 (and Chromebox Series 3) it teased at CES, while Google is rolling out a new version of its operating system with offline doc editing, a basic photo editor and a desktop-like space that makes it easier to launch and switch between apps. Like last year's model, the Series 5 still has a matte, 300-nit, 12.1-inch display, 16GB of built-in flash storage and an optional Verizon Wireless 3G radio, but it's dressed in more conservative digs with a retooled touchpad and an Celeron -- not Atom -- processor. Accordingly, the starting price for the WiFi-only model is slightly higher ($449, up from $429), and the battery life is now rated for six hours, down from 10. Finally, the new model adds an Ethernet jack and DisplayPort -- both of which Google hopes will appeal to the schools and businesses considering using Chrome devices.
+
+
+Most interestingly of all, Google is planning on selling its new Chromebook in retail, signaling an intent to expand beyond geeky early adopters and one-to-one laptop programs in classrooms. If the idea is to win over more consumers, will a faster CPU and improved user experience be enough to make up for the drastically shortened battery life? Should folks in need of a portable machine with a keyboard spend their $450 on a Chromebook instead of a netbook or Transformer tablet? That's a tough one -- meet us past the break where we'll hash it all out. 
+
+
+
+
+Look and feel
+Chrome OS is now a year old, so it's fitting that Samsung's Chromebook has grown more serious with age.Chrome OS is now a year old, so it's fitting, perhaps, that Samsung's Chromebook has grown more serious with age. In fact, Google reps have suggested that the new design is meant to appeal to the buttoned-up schools and businesses already using Chrome devices. For starters, this includes the addition of some more office and classroom-friendly features like a built-in Ethernet jack and DisplayPort (no dongle needed).
+
+That, and the design is more staid. Like the prototype we saw at CES, the 550 we have before us trades the semi-gloss for a decidedly less playful matte gray finish. Even the Chrome logo is less conspicuous than before. For the most part, the chassis is constructed from plastic, as you'd expect from a $449 machine, though the palm rest is now made of inlaid metal, which makes the palm rest, at least, feel sturdier. At 3.3 pounds (1.48 kg), it's slightly heavier than the last-gen model, which weighed 3.26. Either way, it's on par with some 13-inch Ultrabooks we've handled, which means nobody should be complaining about its bulk -- especially when this thing costs half the price.
+
+All told, it looks more somber than the last-gen model, though Samsung at least erred on the side of tasteful. With the exception of some thin chrome trim around the touchpad, there are no superfluous flourishes, and the finish is fingerprint- and scratch-resistant, to boot. Even the power button is built into the top row of the keyboard, adding to the general cleanliness of the design.
+
+Given that Chrome OS isn't your typical kind of operating system, the list of associated sockets is short, and our tour around the device will be brief. On one side, you'll find the AC port, a USB 2.0 socket, a DisplayPort, a headphone jack and that newly added Ethernet connection. On the other, there's an SD reader, Kensington lock slot and a second USB 2.0 port. Simple stuff, for people with simple needs. If you're looking to connect your trusty wireless mouse, the Chromebook supports Bluetooth 3.0, though you'll need to plug a dongle into one of those two USB ports. (The Chromebox has native Bluetooth 3.0 support, in case you were wondering.)
+
+Keyboard and trackpad
+One of the best we've tested lately. Seriously, folks, you're looking at a $449 netbook-like machine whose island-style keys put thousand-dollar Ultrabooks to shame. Compared to Samsung's own Series 9 laptops and other ultraportables, the chiclet keyboard on offer here actually has some bounce to it. The slightly deeper keys and even the quiet sound make it easy to settle in for hours of web surfing, email and story writing (well, if you're an Engadget editor, anyway).
+
+
+None of this should come as too much of a surprise, given how much we loved the keyboard on last year's Series 5. If you recall, though, we were less fond of the flaky touchpad. Well, it appears like we weren't the only one with complaints: Google says its improved the trackpad experience to make it more precise. Whatever fine-tuning it did seems to have worked: cursor navigation feels controlled, and we also had no problem pulling off gestures like pinch-to-zoom and two-finger scrolls. What's more, the clickpad itself is easy to press -- something far too many laptop makers get wrong. If you happen to disagree, you can always use the keyboard's built-in backward, forward, full-screen and refresh buttons to minimize clicking.
+
+Display and sound
+One of the best things about Samsung's first Chromebook was that, for less than $500, you got a higher-quality display than you were likely to find on laptops costing twice the price. Thankfully, then, Samsung left good enough alone and once again went with a 12.1-inch, matte screen. That 300-nit screen -- the same brightness level you'll find on a $1,000 Series 5 Ultrabook -- means you can use this outdoors in the sunshine. (The non-glossy finish helps here, too.) That's all particularly useful on a mobile machine like this, whose 3G radio allows you to get online almost anywhere. As for the resolution, we might, under normal circumstances, pooh-pooh the 1280 x 800 pixel count, but the truth is it's sufficient for an OS that only allows you to open two windows at once anyway.
+
+The audio here is pretty poor, and we're not even complaining about typical laptop tinniness. The volume is dim, even at the highest setting, and we often found that the speakers went silent for a second or two as we started to crank the decibels up or down. As you adjust the sound, you might see the onscreen volume bar move before you actually hear louder sound. If you're impatient, then, you could easily pump the volume close to the max before you actually hear anything coming out of the speakers.
+
+PerformanceOne downside in upgrading from Atom to Celeron is that the Chromebook isn't rated for nearly as much runtime as its predecessor.With this generation, Samsung moved from a netbook-grade Intel Atom processor to one of last year's dual-core Sandy Bridge Celeron CPUs. On board you'll also find 16GB of built-in flash storage (just like last time), along with 4GB of RAM. For what it's worth, those are the same key specs for the Chromebox mini-desktop, which we also just reviewed.
+
+Though we can't remember the last time we listed a Celeron processor as a spec, it's perfectly adequate for doing the sorts of things you'd do on a Chrome OS device -- namely, spend lots of time inside the browser. We timed a six-second startup, and once we were inside we didn't encounter a single "Aw, snap!" or "He's dead, Jim" error page. In general, too, we had an easy time switching tabs, and didn't have to wait long when we minimized pages or opened new apps. An important thing, given that the newest version of Chrome allows you to pin shortcuts in a row beneath the browser, as well as view multiple windows onscreen at once (more on that in a moment).
+
+We did find, in both our Chromebox and Series 5 550 reviews, that these Chrome OS devices don't re-connect to known networks after waking from sleep as quickly as some Ultrabooks we've tested recently. We also sat through a good deal of tiling while watching an .mp4 video file at full screen. Thankfully, at least, 1080p YouTube videos (new for Chrome OS) run smoothly, as do clips from other sites such as Hulu and Vimeo. If you're so inclined, you can also stream Netflix on your Chromebook -- all the kinks should be ironed out by now.
+
+Battery life
+If there's one downside to upgrading from Atom to Celeron, it's that the Chromebook isn't rated for nearly as much runtime as its predecessor. Whereas the first Series 5 had a 10-hour battery, this one's expected to last no more than six hours. With light usage (read: web surfing and Gmail) you should be able to achieve that, though if you plan on watching a movie you'll want to have the charger nearby. In our standard battery test, with a video looping, WiFi on and the screen brightness set to 65 percent (in this case, 10 out of 16 bars), it lasted three hours and 23 minutes.
+
+Chrome OS
+The new Chromebook and Chromebox both run version 19 of Chrome OS, which was released to the public just today. Even if you already own a Chromebook you might want to read this anyway, simply because the software will automatically become available to devices new and old. Actually, if you're really curious, we'll point you toward our full review, which goes into more detail than you'll find here. Still, it's worth repeating the basics: this version of the OS ushers in a desktop of sorts, which allows you to attach shortcuts at the bottom of the screen, not unlike the way you pin apps to the Taskbar in Windows 7. You can also minimize, maximize, close and resize windows (joy!) or snap one into place so that it takes up just half the screen (again, nothing you can't do in Win7). Or, if you like, you can shrink a bunch of windows and litter the screen with them. Your call.
+
+As rudimentary as such things sound, they do a lot to make multitasking feel easier. Still, we'd warn you not to confuse this with a traditional desktop: though you can change the wallpaper, you can't populate that space with shortcuts to books, documents or anything like that. While this might look and feel more like a traditional PC, and is indeed more intuitive to use, there's still a frustrating amount of blank, unusable space when you boot up the machine.
+
+
+Moving on, version 19 of Chrome OS brings a photo editor with basic tools such as cropping, brightness / contrast control and auto-enhancing. Though it's possible to save the original, this step could be more intuitive. Also, while it's nice that you can share touched-up photos to Picasa, we think a lot of folks would appreciate being able to upload to Facebook or Twitter as well. Staying on the subject of media for a moment, Google Music is now baked into Chrome OS, and the media player has a cleaner look, to boot. We have to say we dig the redesign, though we're still missing more advanced features like the ability to loop or shuffle tracks.
+
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

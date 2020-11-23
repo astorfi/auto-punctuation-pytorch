@@ -1,0 +1,19 @@
+
+ 
+1,024 total CUDA cores, 94 ROPs, and 3GB of GDDR5 RAM on board. Yup, the NVIDIA GeForce GTX 590 is indeed a pair of GTX 580 chips spliced together, however power constraints have meant that each of those chips is running at a tamer pace that their single-card variant. The core clock speed is down to 607MHz, shaders are only doing 1.2GHz, and the memory clocks in at 3.4GHz. Still, there's a ton of grunt under that oversized shroud and reviewers have put it to the test against AMD's incumbent single-card performance leader, the Radeon HD 6990. Just like the GTX 590, it sports a pair of AMD's finest GPUs and costs a wallet-eviscerating $699. Alas, after much benchmarking, testing, and staring at extremely beautiful graphics, the conclusion was that AMD retains its title. But only just. And, as Tech Report points out, the GTX 590 has a remarkably quiet cooler for a heavy duty pixel pusher of its kind. Dive into the reviews below to learn more, or check the new card out on video after the break.
+
+Read - AnandTech
+Read - HardOCP
+Read - Tech Report
+Read - PC Perspective
+Read - Guru 3D
+Read - X-bit labs
+Read - Hot Hardware
+Read - techPowerUp!
+Read - TechSpot
+      
+
+ 
+
+
+ 

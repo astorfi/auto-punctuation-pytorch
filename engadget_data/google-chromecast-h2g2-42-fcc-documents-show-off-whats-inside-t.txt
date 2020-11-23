@@ -1,0 +1,4 @@
+
+Even though Google only announced its new Chromecast HDMI dongle earlier today, we got our first peek at it in May. That's when the mysterious H2G2-42 leaked in FCC documents, with few details other than the name referencing Douglas Adams' book. As Anandtech's Brian Klug points out, the documents have been updated, and now include a few pictures of the Chromecast with its external casing removed. Inside there's a Marvell DE3005 chip, plus Azurewave hardware to handle its (2Ghz only) WiFi duties. Hit the link below to take a look, although at the $35 sticker price you can probably afford to do an iSuppli-style teardown of your own.
+
+

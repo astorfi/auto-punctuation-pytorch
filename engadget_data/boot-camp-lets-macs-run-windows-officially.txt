@@ -1,0 +1,5 @@
+
+ If you want to run Windows on yourIntel-based Mac but found narf and blanka's solution a little toointimidating, you now have another option -- and this one's from Apple. The company has released a public beta of atechnology called Boot Camp, which will be included in the next version of OS X. As its name implies, Boot Camp isessentially a boot manager, and allows Mac owners to install Windows XP and choose whether to run OS X or Windows atstartup. It also includes a selection of Windows drivers for common Mac hardware, along with a utility to let you burna CD to run the installation and partitioning tools. Yes, you still need your own copy of XP, but it looks like Apple'staken most of the pain out of dual-booting. Great job Steve, but we're sorry to tell you that the $13K bounty's already been won. [Thanks to everyone who sent this in]
+      
+
+ 

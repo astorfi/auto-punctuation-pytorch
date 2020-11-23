@@ -1,0 +1,6 @@
+
+ 
+Love it or hate it, you've gotto admit that the iPod would certainly be a lot more fun if you could play Pac-Man on it. And now, thanks to the ipodMame project,you can. A subset of the iPodLinux project, iPodMame aims tobring the MAME game emulator to iPods, allowing owners to play classic games on their audio players. Currently, theemulator is confirmed to be able to run Pac-Man and Ms. Pac-Man on the nano and iPod with video. Other classic gamessupported by MAME are also supported, so you should be able to play Pengo and -- yes! -- Joust on your iPod.
+      
+
+ 

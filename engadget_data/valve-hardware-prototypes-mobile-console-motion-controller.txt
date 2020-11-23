@@ -1,0 +1,24 @@
+
+A small table in a side office at Valve's headquarters is littered with Steam Controller prototypes. Designer Greg Coomer is walking me through the thought process behind Valve's first hardware release, and he begins his story on an unexpected topic: the Nintendo Wii. "We were watching other platforms like the Wii innovate in input, and the PC was stagnant. The mouse and keyboard was basically decades worth of static; lack of innovation there," he said.
+
+
+It's with that in mind that the hardware experiments began. First, with a motion controller. They sourced the guts (at least in part) from a Razer Hydra controller, though the changes Valve's engineers made are substantial.
+
+
+"It's a break apart motion controller where there were gyroscopes or magnetic sensors in either path, to sense orientation and position," Coomer explained. "There were also buttons under all your fingers here. A sort of hi-hat thumbstick. So it was really a Frankenstein." The idea behind this controller -- the first of many prototypes that eventually spawned the Steam Controller -- was to find out what works, what doesn't, and what PC gamers want from a new input method.
+
+
+
+
+
+
+When the hardware team landed on clickable touchpads in the place of thumbsticks and face buttons, the concept of hardware virtualization was temporarily applied controller-wide. It worked for the front of the controller, so why not everywhere else? "We had a lot of success with that and we started to have conversations about, 'Actually touch is so great, shouldn't we just scrap physical inputs altogether and start building a device that's really more like a fully software-driven control surface?'" Coomer said.
+
+That talk of total virtualization went further than just talk -- the mockup seen below is one model of several, "some of them more functional than others." If you're looking at that model and thinking the top piece (which is removable) looks a lot like a phone connected to a controller, you're not alone.
+
+
+"It looks a lot like a phone," Coomer told us. "But we were actually planning -- doing some thought experiments around -- our own device that really can move between different kinds of input devices as a communication and input core." An enticing thought for sure, and one that Valve's not putting to sleep just yet. "It seemed like maybe something we should pursue in the future, but not really core to what we were trying to accomplish," he added.
+
+Designer Eric Hope offered a bit more detail on the project, which explains why Valve eventually moved on. "We had interactive versions and we were quickly learning that it was more abstract and farther removed from anything people were familiar with. And so it was introducing noise to the experience of playing your games," he said. As for a mobile Steam device that acts as a "communication and input core," you can be sure we'll continue asking Valve about that for some time.
+
+

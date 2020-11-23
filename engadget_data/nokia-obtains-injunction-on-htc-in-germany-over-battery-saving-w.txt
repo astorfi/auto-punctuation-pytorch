@@ -1,0 +1,19 @@
+
+ Last May Nokia announced a serious patent offensive against several companies, one of which is HTC. According to FOSS Patents, today a German court awarded Nokia a patent injunction based on power saving technology it has patents for, and it claims is infringed upon by Qualcomm chips used in HTC's phones. While some of its other cases in Germany were stayed or dismissed, this ruling could be used by Nokia against HTC even during a potential appeal. We'll see if this is resolved in the courtroom or by some sort of license agreement, in the meantime we've contacted both companies for more information on the latest round of patent lawsuit bingo.
+
+ Update: Nokia has responded, mentioning that it has 30 other patents asserted against HTC in the US, UK and Germany, with a US case scheduled to start in two months. You can read its response in full after the break.
+
+ Update 2: HTC tells us that its German business will not be affected by the ruling, and that its newer handsets do not use the technology in question. You can also read their statement in full after the break.
+
+
+
+ Nokia:
+  Nokia is pleased with this decision, which confirms the quality of Nokia's patent portfolio. Nokia has also patented this power saving invention in the US, UK, France, Italy, Sweden, Austria, Japan and Hong Kong. In addition to this case in Germany, we have asserted the patent against HTC in the UK and in the US International Trade Commission, with a hearing in the US scheduled to start in two months' time. More than 30 further Nokia patents have been asserted against HTC in other actions brought by Nokia in Germany, the US and the UK. HTC must now respect our intellectual property and compete using its own innovations.
+
+ HTC:
+  Today, the District Court of Mannheim handed down a judgment that HTC had infringed the German part of patent EP 0673175 (the '175 patent) entitled "Reduction of Power Consumption in a Mobile Station". HTC is naturally disappointed with the decision of the court, as it believes that Nokia failed to prove its case adequately. However, as the judgment only covers three handsets that HTC no longer imports into Germany (the Wildfire S, Desire S and Rhyme), this judgment is of little significance.  HTC's German business will not be affected by it.
+
+  The power-saving technology described in this patent is trivial and contributes only a negligible reduction in power-consumption, so HTC has removed any allegedly corresponding functionality from all of its current German handsets as a precaution against any attempt by Nokia to extend the scope of the judgment unfairly. HTC will be appealing the present decision but also believes that this patent is invalid and so will be continuing with the invalidity actions pending before the German Federal Patents Court and the English Patents Court. 
+  To date, of the twenty-two infringement actions that Nokia has brought against HTC in Germany, two (EP 1329982 and EP 1474750) have been stayed because of concerns over validity and two (EP 0812120 and EP 1312974) have been dismissed outright. This decision cannot be described as a 'win' for Nokia because it only applies to handsets that are no longer imported into Germany, and newer HTC handsets do not use the accused technology.  As Nokia clearly went to great lengths to assert its strongest patents first, we are confident that its non-essential patent portfolio poses little threat to HTC.
+
+

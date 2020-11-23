@@ -1,0 +1,24 @@
+
+ 
+ Futuremark, one of the preeminent benchmark companies out there, is gearing up to let loose a new version of its 3DMark gaming test. The new suite will hammer GPUs with a DirectX 11-based scene designed to push a system to its limits. Now, benchmarks are hardly the sort of thing that people get excited for... usually. But Futuremark still sees a need to drum up interest for its Windows-only program in a landscape increasingly focused on mobile gaming and power-sipping GPUs. Hence the trailer (which you'll find after the break) that shows off just what 3DMark will demand of your next gaming rig. Its visuals aren't quite as jaw-dropping as Epic's Unreal Engine 4 demo, or as over-dramatic as the Samaritan demo NVIDIA has been running for the last few years. But, it's still an impressive showcase of dynamic lighting techniques, particle effects and fluid dynamic simulation. In particular the subtlety of the smoke is eye catching. For more info hit up the PR after the break.
+
+
+
+   Show full PR text   New 3DMark Trailer Shows Stunning DirectX 11 Graphics
+   HELSINKI, FINLAND June 21, 2012 Futuremark today released its first trailer for the next version of 3DMark. Designed for measuring the gaming performance of everything from tablets and notebooks to high-end desktop gaming systems, the next 3DMark for Windows will be the world's first unified graphics benchmark allowing testing of DirectX 9, DirectX 10 and DirectX 11 capable hardware through the DirectX 11 API. Expected to be released after the launch of Windows 8, this new 3DMark will also be compatible with Windows 7 and Windows Vista. The new trailer provides a preview of the DirectX 11 test and is now available online and in high definition for the first time at http://www.3dmark.com
+
+   3DMARK DIRECTX 11 TECH DEMO  In the trade town of Scarport, buildings cling to canyon walls above canals of lava and provide shelter from the toxic volcanic atmosphere. Gaudy neon signs flicker as steam rises from the molten rivers running beneath the town. A trader walks along ledges carved from the volcanic rock, smoke swirling around her flowing cloak. Her robotic sentinels keep watch, but what dangers lie hidden in the shadows?
+
+   The 3DMark DirectX 11 tech demo brings this scene to life with intelligent tessellation and advanced volumetric lighting using real-time light scattering. The visible particles and clouds of smoke in the scene react to other objects using fluid dynamics simulation. Post processing, ambient occlusion and various lens effects complete the look.
+
+   Trailer on YouTube
+
+   The new 3DMark is currently in development and is expected later in 2012 following the launch of Windows 8. It will also be compatible with Windows 7 and Windows Vista. Follow Futuremark on Facebook for the latest 3DMark news at http://www.facebook.com/Futuremark or visit http://www.futuremark.com
+
+   ABOUT 3DMARK  3DMark is the world's most popular benchmark and PC test. 3DMark uses specifically designed tests featuring high-end real-time graphics to accurately and consistently measure PC gaming performance. Futuremark currently offers 3DMark06 for Windows XP, 3DMark Vantage for Windows Vista, and 3DMark 11 for Windows 7. New versions of 3DMark for Windows 8 and Android are currently in development and are expected to be released in 2012. Find out more and download 3DMark for free from http://www.3dmark.com
+
+   ABOUT FUTUREMARK  Futuremark creates the world's most popular benchmarks and PC performance tests. Futuremark's free 3DMark, PCMark and Peacekeeper tests have helped millions of people measure and improve their PCs' performance for games, media, applications and the web. Futuremark has offices in Saratoga, California and Helsinki, Finland. http://www.futuremark.com/
+
+   2012 Futuremark Corporation. Futuremark and 3DMark trademarks and logos, character names and distinctive likenesses, are the exclusive property of Futuremark Corporation. The names of other companies and products mentioned herein may be the trademarks of their respective owners.
+
+ 

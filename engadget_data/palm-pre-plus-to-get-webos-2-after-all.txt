@@ -1,0 +1,6 @@
+
+ 
+We won't lie: we did feel a little put out when our pal Jon Rubinstein told us that webOS 2.0 wouldn't be coming to the Palm Pre Plus -- something about the older hardware not having the necessary "oomph" to handle the new OS. But perhaps all hope is not lost! According to a rep from O2 Germany (as espied on the company's support forums) HP will make with the new operating system at some point in the near future -- just not as an over-the-air update. When the time comes (indeed, if the time comes) you'll need to download it from HP's website not your computer and install it via USB. And maybe that will be the point when we discover the joys of running a new OS on an underpowered handset for ourselves!
+
+Update: Okay, maybe not. Mitchell wrote in to let us know that HP pulled the webOS 2.0 SDKs and are "actively encouraging" devs to stick with 1.4.5 for the Pre Plus. So, yeah, bummer.
+ 

@@ -1,0 +1,6 @@
+
+ 
+Quietly, in-car infotainment systems have progressed greatly here at CES 2011. What started a few years back with the integration of SYNC into Ford vehicles has blossomed into an industry-wide obsession, and now two of the biggest names that work behind the scenes are joining up to better integrate mobiles (and applications) with vehicle entertainment systems. Jungo and RealVNC's newfound bond has resulted in a CEA-approved solution to make that kind of magic happen, and it's one that just so happens to support Terminal Mode. The combined Automotive Connectivity middleware will enable a car's head unit to automatically detect, access and control mobile devices in the vehicle and display their content on the screen in the dashboard. The design combines VNC (remote access and control) technology from RealVNC with Jungo's tech, featuring device connectivity, media and network management, USB and Bluetooth protocol stacks. Hard to say when automakers will grab hold of this stuff and start offering it from the factory, but if we know anything about progress in the automotive industry, we'd say we're still a year or so out.
+      
+
+ 

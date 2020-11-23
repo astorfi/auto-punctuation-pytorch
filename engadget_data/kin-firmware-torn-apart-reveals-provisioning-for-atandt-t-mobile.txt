@@ -1,0 +1,6 @@
+
+ 
+In public, Microsoft has been adamant about its relationship with Verizon in bringing the Kin to market, even saying that the research and development process involved regular trips to Big Red's New Jersey offices -- but how strong is that bond behind the scenes? Well-established WinMo hacker Conflipper seems to have stumbled across a Kin ROM in recent days, tearing it apart in search of interesting tidbits, and here's a doozy: the firmware appears to be ready for provisioning on a variety of North American, European, and Asian carriers, including T-Mobile and AT&T in the US, Fido (a Rogers subsidiary) in Canada, O2, 3, TeliaSonera, China Mobile, China Unicom, Bharti Airtel for India, and both NTT DoCoMo and SoftBank in Japan. Amusingly, launch partner Vodafone is misspelled as "Vodaphone" in the files, but seriously, we're wondering how close any of these deals are to actually going down. Fido would make a lot of sense since Microsoft has yet to announce a Canadian partner, but we've previously heard that Microsoft has no intention of taking the phone to Asia -- so this could be a completely meaningless list after all.
+      
+
+ 

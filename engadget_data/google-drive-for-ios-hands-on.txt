@@ -1,0 +1,25 @@
+
+It's an exciting time when two worlds collide, especially for iOS users that have an affection for Google services. The head honchos in Mountain View took to the stage at Moscone West today and announced two programs were going to be made available in the App Store by the end of day: Chrome and Drive. The latter pushed out first, so we decided to give the free app a closer look. Head below for some screenshots and our impressions of the service.
+
+
+
+
+Before we even managed to download the app, we had a pretty good idea in our heads as to what it would look like: lately Google has been favoring a minimalist user interface across the board, which means Android and iOS users should be able to find their way around Google services without experiencing the hazards of a learning curve. That's not to say these two versions are exactly the same -- they offer different functionality and various design languages associated with their respective platforms (the Android app utilizes Roboto font and pull-down tabs, as a brief example).
+
+After you enter the app and put in your Google creds, you're directed to an all-too-familiar menu consisting of My Drive, Shared, Starred, Recent and Offline options. This isn't breaking new territory, since these folders are the core of what Drive is all about. At the bottom you'll find refresh on the left and settings on the right, though you won't find many opportunities to take advantage of it -- settings offers the ability to sign into a different account and view the obligatory legal and privacy docs. There's also a section where you can see how much space you've used in your account.
+
+
+As you start to look at the list of docs, you can star the item on your left, click the middle to view it or hit the arrow on the right side to share the file, rename it or make it available offline. When you go into the doc itself, you can use pinch-to-zoom (and with the iPhone's screen, this feature will definitely be used immediately upon entrance). But what else can you do? Not much.
+
+First and foremost, the most disappointing observation is the lack of editing on the iOS version. For such a large-scale cloud service, the concept of only being able to view your documents or other files without the ability to edit them is completely unacceptable. In fact, speaking of cloud services, Google has decided to allow you the opportunity to open your Drive docs in other iOS apps. In three clicks you can have your doc ported over to QuickOffice, Dropbox, Box.net, Evernote or whatever other document viewing program you like to use. But this doesn't mean you can actually edit your file -- text docs port over to other apps as PDFs, which means they're still stuck in view-only mode for every program we currently have on our device.
+
+
+If you really, madly, deeply want to edit your docs, there's one way to do it -- click on the share button on the top right corner and choose "Open in Safari" to pull up the Google Drive web app that's been available on iDevices since the service launched. Indeed, this completely defeats the purpose of having a standalone app at all; you're better off keeping that web app shortcut on your springboard and accessing your files that way. At least it takes less steps to begin editing your docs.
+
+The absence of this crucial feature in the app itself might be more understandable if it weren't for the fact that the Android app has the editing functionality built-in (although it essentially wraps the web app to do so), and there's no technical restriction preventing Google from actually adding it into the iOS app. On a good note, that means we may very well see this included in a future update.
+
+Aside from this gaping hole in the service's usability in iOS, almost everything else worked without incident. Text docs, spreadsheets, PDF, JPG, PNG and .MOV formats could be easily viewed, but we weren't able to download any MP3 files through the app -- and when offered the chance to view in another app, no programs were listed.
+
+Google Drive on iOS will work great for you if you have no need to edit docs, but we have a feeling that most Drive users need to take advantage of the functionality on a regular basis -- especially if so many businesses (such as Engadget) use the service religiously. When the web app is more feature-rich than the standalone version, it's pretty tough to say it's worth even the time and energy to download it. It's better than nothing, but we're going to keep a close eye on the update section of the App Store for now.
+
+

@@ -1,0 +1,9 @@
+
+
+Didn't think that Raspberry Pi's namesake computer could get any more miniscule? Think again. The organization has unveiled the Compute Module, a board that stuffs the Pi's processor and 4GB of storage into the space of a stick of DDR2 laptop memory; you're looking at the tiny new device on the left. This isn't meant to show off Raspberry Pi's miniaturization skills, though. Fitting the system into a small standard connector lets circuit board builders attach whatever interfaces they like, rather than make do with the built-in ports on a conventional Pi design. You'll have to buy the Compute Module alongside a starter IO Board when the hardware launches this June, but it will eventually be possible to get the modules by themselves. Individual pricing isn't available just yet. However, Raspberry Pi says that large-scale buyers (think educators and entrepreneurs) can buy batches of 100 at about $30 per piece.
+
+
+
+
+
+ 

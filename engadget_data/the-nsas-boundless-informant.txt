@@ -1,0 +1,10 @@
+
+Leaks, denials and declassifications aside, one thing has been clear recently: the National Security Agency takes in a lot of data -- allegedly collecting call logs, internet records and even Facebook photos from folks all over the world. So, how does the outfit handle all this data? With custom software, of course. According to documents obtained by The Guardian, the NSA sorts through its treasure-trove of intelligence with a tool called Boundless Informant, data mining software that helps the NSA sort out how closely they're monitoring a given part of the world.
+
+
+According to the documents, Boundless Informant reportedly "allows users to select a country on a map and view the metadata volume and select details about the collections against that country." A screenshot found by The Guardian shows this in action, highlighting over two billion reports in the United States alone. According to the outlet, the screenshot also outs the program's heaviest hitters: in March of 2013, Boundless Informant boasted 14 billion reports from Iran, 13.5 billion from Pakistan and 12.7 billion from Jordan. We've got to hand it to the NSA -- we may not like what it's up to, but at least it's organized.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

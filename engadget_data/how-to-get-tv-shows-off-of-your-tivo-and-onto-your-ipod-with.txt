@@ -1,0 +1,68 @@
+
+This week's How-To comes to us courtesy of Dave Zatz, a long-time
+Engadget pal who we finally convinced to join the staff as a contributor. Dave is the master of all things TiVo, and
+for his first How-To he's whipped up a guide to getting TV shows off of a Series 2 TiVo and on to a
+video-enabled iPod.
+
+
+You may or may not agree that $1.99 is a fair price to download an episode of Lost, but you'll certainly
+agree that Apple's initial video library is quite sparse. Well, I've got good news for those of you with a networked
+Series 2 TiVo – all you need are TiVoToGo and a few software tools and  you'll be watching Monster Garage
+on that shiny new iPod in no time.
+
+
+As with all video conversions, there are many ways to skin this cat. Below you'll find my preferred method, which I
+use because of its high rate of success, relative ease, and low cost (free). I'm operating under the assumption that
+you've already figured out how to use TiVo's Desktop software to transfer shows to your PC and have had success in
+playing them back. Sorry Mac users, TiVo has forsaken you.
+
+
+
+I. Strip TiVo Metadata  TiVo doesn?t want you trading shows on BitTorrent, so they?ve gunked up a typical MPEG2 file. Let the de-gunkingbegin?
+
+   Launch DirectShow Dump (http://prish.com/etivo/tbr.htm)
+
+   Click ?Add Files?
+
+   Browse to My Documents\My TiVo Recordings
+
+   Highlight the .tivo file you?d like to work with
+
+   Click ?Open?
+
+   Wait for conversion to complete
+
+   Click ?Close?
+
+   
+ II. Convert MPEG2 to MPEG4
+
+ The video-capable iPod only supports MPEG4 and MOV files, so we?re in need of a conversion?  1. Launch VLC (http://www.videolan.org/vlc) 2. Click File > Open File 3. Browse to My Documents\My TiVo Recordings 4. Highlight converted .mpg show 5. Click ?Open? 6. Check ?Stream Output? 7. Click ?Settings?     a. Check File, type the file name and location such as C:\vidpod\show.mp4     b. Check MP4 for Encapsulation Method     c. Check Video Codec, choose mp4v in drop-down, choose Bitrate 1024, Scale 1*     d. Check Audio Codec, choose mp4a in drop-down, choose Bitrate 128, Channels 2channels
+
+      * If your TiVo?s connected to a satellite receiver viaS-Video and recording at ?Best?: Scale .75; DVD-burning TiVos recording at ?Best? or ?Good?: Scale .5
+
+ 8. Click ?OK?
+
+   
+ 
+ III. Load Up iTunes and iPod  
+  All that?s left is importing the video into iTunes and syncing up?
+
+   Launch iTunes
+
+   Click File > Add File to Library
+
+   Browse to and highlight file
+
+   Click Open
+
+   Click Videos to see your show has arrived
+
+   Sync and go!
+
+    Once you?ve mastered these basics, you may consider exploring more powerful and complex methods of manipulating video.For example you can script batches, further compress video file size, or choose specific output resolutions using PSPVideo 9 (http://www.pspvideo9.com/). With Apple diving into theportable video market, we?re also bound to see new software solutions springing up ? some of them may even beuseful.
+ Resolution Addendum for the Geeky
+
+ For those of you in the know, the new iPod is capable of handling MPEG4 video up to 480x480. That corresponds nicelyto most TiVo devices which output 480x480 video at ?Good? and ?Best? quality. Resolution is slightly less using lowerquality and/or RF Smoothing. Resolution is higher on DVD-burning TiVo units and those connected to satellite receiversvia S-video. To compensate for those higher initial resolutions, VLC allows us to scale back the resolution as needed.For example, a DVD burning model?s 720x480 resolution must be brought down 50% to 360x240 for iPod playback. While aTiVo connected to a satellite receiver via S-video and recording at ?Best? quality serves up 544x480, and should bedropped down 25% to be iPod compliant.
+
+

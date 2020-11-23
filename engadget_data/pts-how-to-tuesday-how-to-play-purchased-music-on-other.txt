@@ -1,0 +1,141 @@
+
+
+
+ So you've got an iPod, you go and buy music but then your machines dies, or have many many computers and devices you
+listen to music on, or maybe sometimes you use an operating system not supported by iTunes, how can you listen to your
+purchased music? Well, usually you can't- why? Because the songs you purchased are DRM protected, that means you can
+only listen to them on specific computers and devices. For most folks the limits of a few computers or devices are
+fine, but for the gadget geek- nope, we have too many computers and devices. It would be like buying a DVD but only
+being able to watch it in some rooms, or only some TVs.
+
+
+Now to be clear, this isn't a way to take music you bought and give it to someone else, this is so
+you can listen to your own purchased music on other systems or devices. In fact, your personal info is still in the
+file. The application we're going to talk about is called hymn, and here is the description from the site:
+
+
+The purpose of hymn is to allow you to exercise your fair-use rights under copyright law. It allows you to free
+your iTunes Music Store purchases from their DRM restrictions with no sound quality loss. These songs can then be
+played outside of the iTunes environment, even on operating systems not supported by iTunes. It works on Mac OS X, many
+unix(-ish) variants and on Windows.
+
+A little history
+hymm started out as "Playfair" which was on Sourceforge, where you could grab
+the source / program. Then, Apple had requested for it to be removed, so PlayFair outsourced itself to India, where it
+was later removed, again. Now the application is called "hymn", or "hear your music anywhere".
+
+
+According to the site "Anand Babu has taken official ownership of the project. FSF India (Free Software Foundation
+of India- http://fsf.org.in/) is providing legal support".
+
+
+How it works
+hymm decodes the songs you have purchased using the key from your iPod and/or
+your operating system and make a new file which is not protected, it keeps the cover art and song data as part of the
+file. Since this is using your key, you can only do this for your songs, which I personally think is fair- they're the
+songs you bought, you should be able to put them on your other computers or devices.
+
+
+The application works on a Mac or PC and the source code is also available from the hymm site.
+
+
+Here's how to use the application.
+
+
+
+
+Download the appropriate application (Mac or PC) from hymn, here:
+http://hymn-project.org/download.php
+
+
+
+Install the application as per the instructions. The Mac version allows you to drag and drop the files, for the
+  PC side you need to use the command line version.
+
+
+
+
+Mac: It's pretty simple, all you need to do is grab the .m4p files from your music folder and drag them in to
+  the main window. They are usually in: (home)/music/iTunes/iTunes Music/(artist name)/(album name)/ The songs will
+  appear in the list and you can then covert them.
+
+
+
+
+Click convert! You'll be asked where you want these files to go and once converted it will become a m4a file,
+  which means you can play it on other systems/devices. Keep in mind that your username/data is still in the
+  file.
+
+
+
+
+PC: For the PC you'll need to use a Command Line Interface, which means you'll need to type in what to convert.
+  To make this simple, create a hymn folder on your C: drive. Place the application in there, also move your m4p
+  files in to that folder as well.
+
+
+
+
+The music you purchased is usually here:
+
+   C:\Documents and Settings\(user name)\My Documents\My Music\iTunes\iTunes Music
+
+
+
+
+Click the Start Menu, then click Run…Type cmd, this is the command program.
+
+
+
+
+Type: cd c:\hymn this will get you to the folder you created in command line mode.
+
+
+
+
+Type dir to see a listing of the files in the folder. You should see your m4p files as well as a file called
+  "hymn.exe".
+
+
+
+
+Type hymn. You'll see a list of options.
+
+
+
+
+To keep this simple, convert one file by typing the following (for this example, our file is called
+  test.m4p).
+
+
+   hymn test.m4p
+
+
+
+
+You'll notice a small pause, and then when you see the command line again, it's done! Double click "My Computer"
+  then double click the hymn folder, you'll notice there is a new file test.m4a, and this is an unprotected file with
+  all the data as well as your personal data inside of it. When you click once on each file (the m4p as well as the
+  m4a) you'll notice one says "protected and one does not in the side panel.
+
+
+
+
+There are many other options in the application as you could gather, from specifying more files, or having the
+  output extension AAC.
+
+
+
+
+There ya go, that's it, here are some links.
+
+
+Hymn:
+http://hymn-project.org/
+
+Hymn manual:
+http://hymn-project.org/docs/hymn-manual.html
+
+
+
+ 

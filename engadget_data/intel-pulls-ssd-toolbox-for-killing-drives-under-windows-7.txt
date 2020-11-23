@@ -1,0 +1,13 @@
+
+ 
+Well, that was a short honeymoon -- Intel's now pulled its SSD Toolbox and associated TRIM firmware update amid reports that it was bricking drives under Windows 7. We haven't heard more than anecdotal evidence about this, but we'd definitely pick having a functional drive over the promised 40 percent speed boost from the code, so you should probably hold off if you've downloaded but haven't updated yet. We're looking into things, we'll let you know -- but man, the X-25M just hasn't had an easy life, has it?
+
+Update: Intel just gave us its official statement on the matter: 
+Yes, we have been contacted by users with issues with the firmware upgrade for our 34nm SSDs and we are investigating. We take all sightings and issues seriously and are working toward resolution. We have temporarily taken down the firmware link while we investigate.
+ [Thanks, Joseph and Ty]
+
+Read - Former SSD Toolbox download page
+Read - Intel support forum page
+      
+
+ 

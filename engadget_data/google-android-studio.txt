@@ -1,0 +1,5 @@
+
+On stage at I/O today, Google just announced Android Studio, an integrated development environment for building apps. Based on IntelliJ IDEA Community Edition, this new environment works as a WYSIWYG for creating applications, essentially, letting you make changes and get a preview in real time, boosting productivity and making it easier to build nice-looking apps with a bit less effort. There's a wide variety of emulators for previewing apps, so even if you don't have a particular device on hand, you can still make sure everything's working as intended. Also on display today was a new development console, offering up optimization tips, revenue graphs, beta-tester control and usage metrics pulled from analytics. All of these features will make things easier to manage for developers, giving them more time to create more polished apps that work well on a variety of Android devices.
+
+
+

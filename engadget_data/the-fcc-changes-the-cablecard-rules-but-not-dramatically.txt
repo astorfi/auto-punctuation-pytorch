@@ -1,0 +1,21 @@
+
+ 
+The long awaited rule changes pertaining to CableCARDs that was originally proposed in the FCC's Broadband Plan finally got some resolve today, we have to say we're not convinced things will get that much better. While the FCC failed to kill Tuning Adapters or make the CableLabs certification process any less painful, it did make some changes, which include:
+
+CableCARD fees have to be the same for everyone, no matter which package you have.
+If your cable company allows any self installs, they must allow CableCARD self-installs.
+Cable companies must support SDV for CableCARD users -- this was implied before, now it is black and white.
+By default, all new deployments must be M-Cards (unless you actually request a S-Card).
+Cable companies can include an IP interface in set-top-boxes lieu of a 1394 port.
+One way HD boxes without CableCARDs are no longer forbidden and they don't require IP interfaces.
+
+Obviously nothing is as simple as six bullet points and there's much more detail in the 59 page order, so click on through for our interpretation of the nitty-gritty or hit up the PDF source and go nuts.
+      
+
+ 
+
+The biggest let down is that the FCC didn't kill Tuning Adapters and although the order specifically mentions all the reports from consumers to the FCC about non-working Tuning Adapters, the FCC doesn't want to force a solution in fear of deterring the use of SDV -- which is cool and useful technology, when it works. Instead the FCC will mandate that whatever solution a provider wants to use must actually work. It went on to say that support to tune four channels is the new minimum and that reliability is mandatory. The complaint website is going to be updated to make it easier for users to notify the FCC of issues and if the reliability issues persist, the FCC will revisit the decision.Many wanted the rental price of the CableCARDs in their own line item on the bill, but the FCC agreed with the NCTA that it might do more harm than good. So instead it's mandated that the price has to be the same regardless of if you own your own box or not, and the price has to be on the cable company's website. In addition, cable companies can't play any price games with the packages to hide the costs. This one is kind of complicated so we'll just quote it word for word.Accordingly, we also adopt a rule that requires cable operators to reduce the price of packages that include set-top box rentals by the cost of a set-top box rental for customers who use retail devices, and prohibits cable operators from assessing service fees on consumer-owned devices that are not imposed on leased devices. These price reductions must reflect the portion of the package price that is reasonably allocable to the device lease fee.As for the new self install rule, it goes into effect in nine months if the provider already supports self installs, 12 for everyone else. And you have to be able to request CableCARDs like any other hardware, so if you can get a DVR via the web, you can get a CableCARD that way too. Finally, when you order a CableCARD they have to notify you of the self install option.One big loss is that there're no apparent changes to the certification process, but maybe we're wrong as this paragraph was clear as mud. We had hoped that it would be easier and cheaper to certify CableCARD devices, and the software that works with them, but the FCC basically said everything was working as planed.The last item was about the new IP interface requirement, the content served from it must be in a recordable format (MPEG2, MPEG4, h.264) and pass through closed caption data -- as well as a number of other things like discovery. But since there was no mention in the change of the DRM requirements of this interface, there's no reason to believe anything will change. You see, all the boxes will serve up HD content via 1394 currently, but since the DRM used it seemly impossible to get a license for, the ports go unused. All in all there are a few good things here for consumers and some of this might encourage manufacturers to create new CableCARD devices, but we can't help but thinking this is even less than the basic band-aid we were hoping for while we wait for All-Vid. So in other words, you were all right.
+
+       
+
+ 

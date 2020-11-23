@@ -1,0 +1,3 @@
+
+ Today, Firefox's Nightly channel received a pick me up in the form of its asm.js optimizer known as OdinMonkey. Baked into June's stable release of Firefox 22, this subset of Mozilla's rendering engine lets developers compile C or C++ to JavaScript by using Emscripten. This gives the code the potential to run within 2x its native performance. For those of you who've now gone cross-eyed, simply put this should give Firefox a hefty performance boost and open the door to more sophisticated browser-based games as well as faster web apps. For its inaugural offering, OdinMonkey is only available to Windows and Linux users, but the company says that OSX and ARM version are near completion.
+

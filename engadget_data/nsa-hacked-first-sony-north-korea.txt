@@ -1,0 +1,10 @@
+
+The US government recently took the rare step of directly blaming North Korea for the crippling hack of Sony in retaliation for its satire film, The Interview. But how could it be so sure in the face of doubters, who said another hacking group disguised as North Korea, or a malcontent insider were to blame? According to a new pile of Edward Snowden documents revealed by der Spiegel and other publications, it's simple: the US government inserted backdoor software into North Korea's computer systems years before the hack even happened.
+
+
+
+The NSA used South Korea's established inroads to install malware on North Korean networks, which was able to provide enough evidence to pinpoint the nation as the source of the Sony hack, according to anonymous government officials. This leads to the question, if the NSA had enough intel, why wasn't it able to advise Sony of the attack ahead of time? Administration officials said that the "spear-phishing" attacks -- which entice e-mail users to download infected files -- didn't look out of the ordinary or raise any alarms. But those attacks allowed the hackers to steal a key system admin's credentials, which they used to carefully infiltrate the system, search out key files and eventually destroy or leak them.
+
+Though the NSA's backdoor "beacons" in North Korea's systems didn't help it see the hack coming, they were instrumental in building a case against the nation afterwards. The evidence convinced President Obama to quickly accuse Kim Jong-Un's of orchestrating the hack -- the first time the US has made such a charge, according to the New York Times.
+
+

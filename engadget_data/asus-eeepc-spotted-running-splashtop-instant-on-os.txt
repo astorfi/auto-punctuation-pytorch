@@ -1,0 +1,6 @@
+
+ 
+You probably remember the SplashTop instant-on, Linux-based OS from past posts or perhaps developer DeviceVM's demo at last October's reader meetup in San Francisco. It's well known that this embedded feature will ship standard on select ASUS motherboards, but as we were cruising around the PC manufacturer's booth today, we happened to catch a rather unexpected application for SplashTop: running on the EeePC. Neither ASUS nor DeviceVM has made any announcements with regard to porting the software onto the popular ultra-portable laptop, but unless our eyes were deceiving us, this Eee was all ready to run Pidgin, Skype, or a browser without booting into the main OS. We'll keep our eye on this one, as the merger of these two technologies would certainly create quite the compelling user experience.
+      
+
+ 

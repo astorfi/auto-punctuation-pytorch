@@ -1,0 +1,4 @@
+
+ Just because XBMC 12 Frodo has been officially released we wouldn't expect the team behind the media PC software to take too long of a break. In fact, in a blog post it's announced plans to return to a monthly development cycle, as well as a code name for version 13 of the software: Gotham. While we wait for the next official release to arrive, the February build features improvements to UPnP with a "Play Using..." push server feature that should be familiar if you've used Play To on Windows for example. also new are Android fixes that let it rotate in any direction, and control the device's native audio. there are other changes as well, which can be reviewed beyond the source link, along with test versions for your preferred platform.
+
+

@@ -1,0 +1,20 @@
+
+ 
+ We've already benchmarked the Galaxy Note II and the ZTE Grand X IN at IFA, and as the week wraps up we're circling back to test the mettle of other handsets announced here in Berlin. We ran mobile benchmarks on Sony's new flagship Xperia T, the Xperia TX (the US version of the T) and the LTE-enabled Xperia V. All three devices pack dual-core Snapdragon S4 Krait processors clocked at 1.5GHz, and they're currently running Ice Cream Sandwich -- though a Jelly Bean update is reportedly on the way. Meet us past the break for a first look at how these smartphones stack up.
+
+
+
+ 
+        Xperia V
+    (1.5GHz dual-core Qualcomm MSM8960, 1GB RAM)
+
+    Xperia T
+    (1.5GHz dual-core Qualcomm MSM8260A, 1GB RAM)
+
+    Xperia TX
+    (1.5GHz dual-core Qualcomm MSM8260A, 1GB RAM)
+
+        AnTuTu     7,369     8,013     8,056       Quadrant     5,808     5,373     5,466       Linpack (single-thread)     130     97     101       Linpack (multi-thread)     268     189     198       NenaMark 2 (fps)     59.2     60     60       Vellamo     2,471     2,430     2,417       SunSpider 0.9.1 (ms, lower is better)     1,909     1,652     1,838       CF-Bench     7,915     9,120     9,475    Simply put, these results are none too shabby. In Quadrant particularly, Sony's handsets score several hundred points higher than most dual-core phones we've tested recently. The Xperia V logged a very respectable score of 5,808, while the TX and T trailed by a few hundred points. The Sony Xperia S, which runs an older dual-core Snapdragon S3 processor, notched significantly lower numbers when we reviewed it back in March: 2,033 in Quadrant, for example. We weren't able to download GLBenchmark on these phones (confounded trade-show units!), but we'll be running these tests anew once we get final models in our hands.
+
+ Zach Honig contributed to this report.
+

@@ -1,0 +1,5 @@
+
+ In a press release recently issued by Qualcomm, the company states that it's taking direct aim at the sub-$150 smartphone market with a new chipset on offer. The platform -- known as the MSM7227 -- is apparently designed with higher-power, lower-cost handsets in mind, offering HSDPA / HSUPA radios, a 600MHz CPU, 320MHz application DSP, 400MHz modem processor, hardware-accelerated 3D graphics, Bluetooth 2.1, and GPS support integrated in a 12mm x 12mm chipset. The MSM7227 can also supposedly handle 8 megapixel camera and 30 FPS WVGA encoding / decoding with ease, and is capable of supporting Android, S60, Windows Mobile, and BREW platforms. Given the company's recent foray into Snapdragon and other pricier options, it's interesting to see them taking a shine to the low end of the market. We know that ASUS are planning on launching a cheaper Eee phone sometime soon, and they're currently snuggling up to Qualcomm for chip duty on an Android device. Is this the year we'll see the rise of the smartphone version of the netbook (cheap, plentiful, almost disposable)? Only MWC knows for sure.[Via The Inquirer]
+      
+
+ 

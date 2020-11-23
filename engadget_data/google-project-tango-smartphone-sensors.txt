@@ -1,0 +1,15 @@
+
+
+
+Google's just announced Project Tango, a 5-inch Android smartphone prototype equipped with Kinect-like 3D sensors and other components to track motion and map your surroundings. Unlike other 3D-sensing devices including Kinect, Project Tango includes the Myriad 1 vision processor from Movidius, which allows for advanced motion and depth tracking without sucking a ton of power. Available to a limited group of developers today, the handset could enable enhanced indoor navigation and immersive gaming, among other things.
+
+
+Google's Advanced Technology and Projects (ATAP) group is the brains behind Tango, and ATAP head Johnny Lee (formerly of the Microsoft Kinect team) said that the prototype "strives to give mobile devices a human-like understanding of space and motion ... enabling new and enhanced types of user experiences." Gaming and navigation applications are two prime examples, but overall the goal seems to be harnessing precise location and mapping information to enhance your mobile experience. Google also mentions the possibility of navigation assistance for the visually impaired, and it's not a leap to guess that Mountain View could integrate ads with this sophisticated mapping technology as well.
+
+ATAP, one important holdover of Google's acquisition (and subsequent selling off) of Motorola, hadn't revealed any hardware prior to today's announcement, so we'll be following this project with interest. Head past the break for a video demo of Project Tango.
+
+
+
+
+ 
+ 

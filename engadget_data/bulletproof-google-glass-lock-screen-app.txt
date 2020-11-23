@@ -1,0 +1,9 @@
+
+In our review of the Explorer edition of Google Glass, we were surprised at the lack of security features -- there's nothing to stop anyone from picking up your pair, accessing your data and having complete control. We're obviously not the only ones to have noticed this, and developer Mike DiGiovanni, who has his own set of high-tech specs, has come up with an app to alleviate those worries. Called Bulletproof, the app registers when Glass parts from face and engages a lock screen, which can then be disabled with a user-defined combination of swipes and taps on the wearable's touchpad. A brief video demo of the app is available below, and those with the hardware will likely know how to get it loaded using the files linked at the source. It's good to see the dev community already putting out useful software, but it does make you wonder why Google didn't think of it first.
+
+
+
+
+
+
+ 

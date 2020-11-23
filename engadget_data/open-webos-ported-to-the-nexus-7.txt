@@ -1,0 +1,8 @@
+
+ More than a few enthusiasts were gutted when HP exited webOS hardware before the Touchpad Go could even have the distinction of a press release. WebOS Ports' Simon Busch can't resurrect HP's miniature tablet plans, but he can give us an inkling of what we missed with his new alpha port of Open webOS for the Nexus 7. The conversion is surprisingly complete given its basis on a related Galaxy Nexus edition: along with supporting core functionality like the accelerometer and WiFi, it at last cuts the cord and works independently of a PC connection. The only clear flaw is occasional lag. We'd still be cautious with a rough build of an OS that wasn't ever intended for Google's tablet; if that's no obstacle, however, the Nexus 7 port is the next-best way to relive HP's original vision for 2011.
+
+
+
+
+ 
+ 

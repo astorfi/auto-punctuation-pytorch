@@ -1,0 +1,10 @@
+
+ 
+
+Arduino, meet .NET Gadgeteer -- your newest homebrew hacking rival. Born from Microsoft Research engineers' desire to build prototypes quickly and easily, the two-and-a-half-years in the making ARM7-powered mainboard packs 4MB Flash, 16MB RAM, Ethernet, WiFi, an SD card interface and USB ports. Novice mods might wanna put the Netduino down because this homespun alternative also runs atop MS' .NET Micro Framework, and thanks to its IntelliSense feature, makes auto-coding a breeze for first-timers. If you're interested in what Ballmer & co. are offering, you can head to the project's site now to pre-order its GHI-made hardware: a $250 Spider Starter Kit and the $120 Spider Mainboard. Both will be available by the end of September, but if you need a preview of what this burgeoning open source community has to offer, peep the stop-motion making mod after the break.
+      
+
+ 
+
+ 
+ 

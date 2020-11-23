@@ -1,0 +1,6 @@
+
+ 
+One critical detail we missed about the positioning stuff in iriver's new 4GB and 8GB W10 media player: they're using Skyhook's WiFi-based system to offer GPS-like positioning info in dense urban areas. Obviously not going to be usable as GPS if you're out on the open road -- any WiFi-based positioning system is only as good as its database of WiFi access points -- but GPS is notoriously ineffective both indoors and in big cities. The W10, which they're aiming at "urban explorers", will come preloaded with Navteq maps and points of interest data (banks, ATMs, mass transit, hotels, restaurants, and shoppings), and they have plans to offer Location Based Services. Should be out in April.
+      
+
+ 

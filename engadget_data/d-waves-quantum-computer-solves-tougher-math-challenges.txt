@@ -1,0 +1,4 @@
+
+D-Wave has long wanted to show that its quantum computing technology is the real deal, and it may have just come closer to proving its case. The company now says that its computer has calculated Ramsey numbers, or solutions to optimization-based math problems that are sometimes difficult to find using traditional systems. The computation represented one of the biggest-ever implementations of an algorithm, according to researchers. However, the feat isn't necessarily proof of quantum computing at work. As Wired explains, we've seen all of these numbers in previous experiments; the challenge wasn't difficult enough to require the involvement of a quantum computer. However, D-Wave may have better evidence in the future. Its third-generation system, due in 2015, should have enough power to find Ramsay numbers that are theoretically impossible to calculate today.
+
+

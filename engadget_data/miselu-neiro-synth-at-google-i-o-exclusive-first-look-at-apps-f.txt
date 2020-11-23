@@ -1,0 +1,19 @@
+
+ 
+ Remember Miselu's Neiro -- that prototype app-based Android-powered synth we last played with at SXSW? Not only is it being showcased at Google I/O 2012 here in San Francisco, but we got an exclusive first look at some of the apps being developed for the new platform ahead of the event. The company's been on a roll since our meeting in Austin, gaining (ex-OQO CEO) Jory Bell as CTO and building relationships with partners like Korg and Yamaha.
+
+ Now on its second iteration, the laptop-like synth has evolved from the hand-built prototype we saw at SXSW to a more polished reference design -- complete with breakout board for SD card and Ethernet support. As before, the device runs Gingerbread on a dual-core TI OMAP processor and features a two octave velocity and pressure-sensitive keyboard, a capacitive multitouch widescreen, WiFi and Bluetooth connectivity, audio and MIDI I/O, plus USB and HDMI ports. This version even adds XLR and quarter-inch audio jacks -- just keep in mind that those specs have not been finalized.
+
+ What's really exciting about the synth is the apps. The company's ongoing partnership with Retronyms to create a suite of touch-controlled, cloud-enabled musical apps has evolved beyond the drum-machine demo we covered at SXSW. Called nStudio, the suite now also includes a pad-based sampler / sequencer and a mixer. Plasma Sound is a touch-based musical instrument that's part theremin, part keyboard / sequencer. It's already available for other devices on Google Play, but was easily tweaked to run on the Neiro -- sight unseen -- thanks to Miselu's musicSDK and OS X-based emulator.
+
+ Miselu will be showcasing two more apps on its synth here at Google I/O: Korg's Polysix and Yamaha's Vocaloid. The Polysix app faithfully recreates Korg's legendary 1981 synth -- known for its rich, thick analog sound. A real, mint-condition Polysix was even available for comparison during our brief time with the app (see our gallery). Vocaloid takes full advantage of the NSX-1 DSP chip that's built-into the Neiro. It's a singing synth app produced by Yamaha that "uses concatenative synthesis to splice and process vocal fragments extracted from human voice samples."
+
+ We'll be spending some time with the Vocaloid app and its creator -- video game designer Tetsuya Mizuguchi (of Sega and Lumines fame) -- later today. In the meantime, check out the gallery below and watch our hands-on video with the other apps after the break.
+
+
+
+
+
+ 
+
+ 

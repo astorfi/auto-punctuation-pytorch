@@ -1,0 +1,10 @@
+
+ If you prefer robot bartenders to lack limbs that could be used against you in the impending robopocalypse, Bartendro might be your kind of bot. After two years of building and tweaking, the folks at Party Robotics have finally polished their Raspberry Pi-powered cocktail-making rig and have posted it to Kickstarter. Born from a need to re-create mixed drinks in perfect proportion, Bartendro uses food-grade tubing, pumps and custom-built electronics to pipe liquids out with a measurement accuracy of a milliliter. According to the projects' site, however, it can't quite handle carbonated beverages in its current state. By using a device connected to the contraption's own WiFi network, thirsty folks will be able to select drinks from a web-based interface. Mixologists, on the other hand, can leverage the control panel to customize cocktail recipes, manage dispensers and even read reports of what drinks were made and how much of which ingredients were used.
+
+ Both the hardware and the software that make up Bartendro are open source, and the team behind it even wants to create an online drink compendium that's free as in freedom and beer. The hope is that intrepid enthusiasts can hack together mods ranging from breathalyzers to a stirring or shaking mechanism. Early supporters can snatch a ShotBot with one dispenser for $249, a Bartendro with three for $375, a model toting seven for $1,199 and a fourth version carrying a whopping 15 for $2,499. However, crafty DIYers can roll their own system by pledging coin for individual dispensers and the Linux boxes that power them. The group has currently raised over $20,000, but it's aiming for $135,000 to push the bot into production. Click the bordering source link if you're inclined to chip in or hit the jump for Party Robotic's pitch video.
+
+
+
+
+ 
+ 

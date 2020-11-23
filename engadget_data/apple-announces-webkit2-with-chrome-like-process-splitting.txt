@@ -1,0 +1,6 @@
+
+ 
+Apple's big announcement of the day might have been iPhone OS 4, but another reveal that's gone slightly under the radar might actually turn out to be a bigger deal: WebKit2, which now runs browser elements as separate processes, much like Google Chrome. Actually, Apple's devs say it goes a little farther than Chrome, since the process model is built into the foundation so other non-Safari clients can use it. That's pretty wild stuff, considering how prevalent WebKit has become across the mobile space and the fact that Chrome itself uses the rendering engine. No word on when this will all go final, but hey -- it's all open source, and you can actually grab Mac and Windows binaries right now. Let us know how it goes, won't you?
+      
+
+ 

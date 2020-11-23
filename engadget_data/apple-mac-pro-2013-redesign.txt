@@ -1,0 +1,25 @@
+
+It's been brewing for a while, and now Apple has finally redesigned its flagship cheese grater pro desktop. The 2013-era Mac Pro has been totally redesigned with a new, cylindrical chassis and vastly upgraded internals that have been designed to last for "(another) 10 years." At the center of the new Mac Pro is a 12-core, 256-bit Intel Xeon E5 processor with 1,866MHz DDR3 RAM capable of 60GB/s data transmission. Following the trend of the MacBooks, the new power tower uses PCIe-based flash storage, and so pro users will be relying upon four USB 3.0 and six Lightning 2.0 ports (that can take up to 6 devices per port with 20Gbps throughput) for expandability. Fortunately, for those of you who intend on placing the hardware beneath your desk, the expansion ports light up to help you find your connections in the gloom. Other connections include HDMI-out 1.4, dual gigabit Ethernet jacks, WiFi 802.11ac, Bluetooth 4.0 and the usual pair of 3.5mm audio in and out ports.
+
+
+This machine is also the first Mac that'll ship with dual AMD FirePro GPUs as standard, which'll support 4K displays. Of course, the most striking change is in the design, which occupies 1/8th the volume of the current Mac Pro and stands 9.9-inches tall and 6.6-inches wide. The change is thanks to a new thermal core, a triangular air duct that runs through the center of the hardware -- with one huge fan mounted at the top. Presumably, this new model has also been tweaked to conform to new regulations concerning electrical shielding, meaning that the hardware can finally return to European shores when it arrives later in the year -- at a (probably high) price that's still to be decided. 
+
+
+
+
+Show full PR textApple Gives Sneak Peek Into the Future of the Pro Desktop
+SAN FRANCISCO-June 10, 2013-Apple today showed a sneak peek into thefuture of the pro desktop with a first look at the next generation MacPro. Designed around a revolutionary unified thermal core, the Mac Prointroduces a completely new pro desktop architecture and design thatis optimised for performance inside and out. With next generation Xeonprocessors, dual workstation-class GPUs, Thunderbolt 2, PCIe-basedflash storage, and ultra-fast ECC memory, the new 9.9-inch tall MacPro packs an amazing amount of power into an incredibly small package.
+
+"With the latest Xeon processors, dual FirePro GPUs, ECC memory,PCIe-based flash and Thunderbolt 2, all built around a revolutionarythermal core, the next generation Mac Pro is the most radical Macyet," said Philip Schiller, Apple's senior vice president of WorldwideMarketing. "All this performance and expandability is packed into adramatic new design that's one-eighth the volume, and best of all, itwill be assembled here in the USA."
+
+The next generation Mac Pro is architected around an ingenious unifiedthermal core that allows the desktop to efficiently share its entirethermal capacity across all the processors. The result is a prodesktop with breakthrough performance packed into a design that isone-eighth the volume of the current Mac Pro. Next generation IntelXeon E5 processors with up to 12 core configurations deliver doublethe floating point performance. With two AMD FirePro workstation-classGPUs, the all-new Mac Pro is up to 2.5 times faster than the currentMac Pro and delivers up to an amazing 7 teraflops of compute power.The new Mac Pro also features PCIe-based flash storage that is up to10 times faster than conventional desktop hard drives and includes thelatest four-channel ECC DDR3 memory running at 1866 MHz to deliver upto 60GBps of memory bandwidth.* With all that power, the new Mac Prolets you seamlessly edit full-resolution 4K video while simultaneouslyrendering effects in the background.
+
+The next generation Mac Pro is the most expandable Mac ever built.With six Thunderbolt 2 ports that can deliver up to 20Gbps ofbandwidth to each external device, Mac Pro is perfect for connectingto external storage, multiple PCI expansion chassis, audio and videobreakout boxes, and the latest external displays, including 4K desktopdisplays. Each of the six Thunderbolt 2 ports supports up to sixdaisy-chained devices, giving you the ability to connect up to 36high-performance peripherals. Thunderbolt 2 is completely backwardscompatible with existing Thunderbolt peripherals, and allows you totransfer data between Macs faster and easier than ever.
+
+The next generation Mac Pro will be available later this year. Tolearn more, visit www.apple.com/mac-pro.
+
+*Performance claims are based on technical specifications ofpreproduction Mac Pro hardware as of June 2013.
+
+Apple designs Macs, the best personal computers in the world, alongwith OS X, iLife, iWork and professional software. Apple leads thedigital music revolution with its iPods and iTunes online store. Applehas reinvented the mobile phone with its revolutionary iPhone and AppStore, and is defining the future of mobile media and computingdevices with iPad.
+
+

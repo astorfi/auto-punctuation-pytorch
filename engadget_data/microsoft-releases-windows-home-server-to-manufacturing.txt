@@ -1,0 +1,6 @@
+
+ 
+If you've been itching to get your hands on a new flavor of Windows, or if you're just sick and tired of being teased by that release candidate, the wait for Microsoft's Windows Home Server is drawing to a close. Reportedly, the firm has released the software to manufacturing, where it should flow down and hit pre-fabricated boxes "in late September and early October." According to Joel Sider, senior product manager, the move to RTM means that the company has "wrapped up WHS and handed it off to its internal distribution teams and hardware partners." Additionally, Iomega and Fujitsu-Siemens were added to the list of OEM partners that already included HP, Gateway, LaCie, and Medion. Notably, there won't be a great many alterations in the final release compared to RC1, as the main change stated (aside from squashing a few stray bugs) was that the "domain for remote access is now homeserver.com." Hold tight folks, Windows Home Server will be coming your way soon, and the brigade will be led by HP's forthcoming MediaSmart Server.[Via ArsTechnica]
+      
+
+ 

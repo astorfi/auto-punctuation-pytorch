@@ -1,0 +1,12 @@
+
+Yahoo recently announced that it will encrypt webmail by default, and today Marissa Mayer shared that the security measure will be applied across all Yahoo products "by the end of Q1 2014." In a post on the company Tumblr, CEO Mayer outlined three specific measures to protect user data:
+
+
+
+Encrypt all information that moves between our data centers by the end of Q1 2014;
+Offer users an option to encrypt all data flow to/from Yahoo by the end of Q1 2014;
+Work closely with our international Mail partners to ensure that Yahoo co-branded Mail accounts are https-enabled.​
+
+This news is no doubt a response to persisting questions -- and court cases -- about the scope of the NSA's information-tapping policies as they relate to internet giants such as Facebook, Google and Yahoo. As the company has previously asserted, Mayer emphasized that Yahoo has "never given access to... data centers to the NSA or to any other government agency. Ever." 
+
+

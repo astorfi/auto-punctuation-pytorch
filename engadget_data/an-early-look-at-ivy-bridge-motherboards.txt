@@ -1,0 +1,11 @@
+
+  Ssshh. Ivy Bridge is officially still a mystery, remember? Nevertheless, through some quirk of chronology, the accompanying Z77 chipset for motherboards has already been announced. If there's a reason for this early entrance, it's probably because Z77 is backwards compatible with Sandy Bridge, which means that the latest crop of motherboards from Asus, Gigabyte, Intel and MSI can be considered fully-fledged products in their own right. Well, kind of, anyway. In reality, some of the key selling points of Z77 won't get activated until you clamp on Ivy Bridge silicon -- including PCIe 3.0 support (hitherto only found on X79 big-momma-boards), so the real testing can't begin in earnest until the new kid arrives. With that caveat out of the way, read on for a quick review round-up.
+      
+
+ 
+
+As we'd expect, the consensus is that these boards perform similarly to Z68 Express, such that there's no point upgrading if you're intending to hold onto your current processor. HotHardware couldn't even find anything significant to differentiate between the different boards on offer -- they all have built-in USB 3.0 support, are Thunderbolt ready (with an added controller) and deliver other features in line with their price points, which range from to $189 to $279. ExtremeTech, meanwhile, only looked at the in-house Intel board -- the DZ77GA-70K -- and found it to be "unready for prime time" due to some "clearly unfinished" BIOS issues. Tom's Hardware noted that USB 3.0 integration and improved Lucidlogix Virtu GPU switching are the two biggest reasons to upgrade, and suggested that new system builders would have "nothing to lose and a few small things to gain" by opting for Z77 at this stage. The Tech Report also praised the performance of Intel's SuperSpeed USB controller, saying it beat auxiliary controllers. That site also made a valid point: while the early launch of this chipset might seem anti-climactic, at least it's better than the other way round -- imagine buying an Ivy Bridge processor before tailored motherboards became available. Unconscionable!
+
+       
+
+ 

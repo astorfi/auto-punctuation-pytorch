@@ -1,0 +1,6 @@
+
+ 
+We've been hearing about Intel's Sandy Bridge moniker for over two years now, and though we're still some months away from their release in early 2011, AnandTech has managed to get one to play with -- a Core i5 2400 model running at 3.1GHz, to be exact. Through the course of a typically exhaustive two-part, 15-page report, Anand details exactly how that chip performs and, more recently, what's coming on the mobile front. For the desktop, the quad-core processor with integrated graphics performs quite well, besting similarly-clocked current processors by around 10 percent while offering similar power consumption. What the chip, and indeed the whole series, doesn't offer is overclocking -- at least not proper overclocking, with Intel locking down both the multiplier and the FSB. On the mobile side things will initially be a bit slower, with clock speeds maxing out at around 2.7GHz, compared to 3.4GHz on the desktop side. But, all mobile chips will have 12 graphics "EUs," Intel's arbitrary concept of graphics cores, enough for Anand to conclude that discrete graphics will not be needed for most laptops going forward. That, dear readers, is what we like to call progress.
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ Hot on the heels of the activation hack, iPhone enthusiasts from the irc.osx86.hu channels #iphone-talk and #iphone-mac have deepened the cracks in the Apple device's armor by creating an application called iPhoneInterface, a Windows and Mac tool which allows you to manipulate the phone's state, fiddle with launch services, and interact with the iPhone's filesystem. With the new app, you will have the ability to scan the device's file structure, create and remove folders (which should open doors for those not feeling the sync options), and start iPhone services. Plans for a public server are underway, so fasten your seatbelts. Update - The hack is officially available (Windows only right now) for your ever-lovin' pleasure, so get it here.[Thanks, Chris V]
+      
+
+ 

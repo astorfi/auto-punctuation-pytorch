@@ -1,0 +1,8 @@
+
+ 
+It was only a couple of days ago that Sony flicked the switch on 3D compatibility for the PS3 -- albeit without retail games that can yet exploit it -- so what better time to dig into the nitty gritty details of the company's implementation of the third dimension? Digital Foundry have done just that, starting off with a discussion of how Sony translated WipEout HD from 2D into 3D. Noting that the original version ran at 1080p, Sony's senior development manager Simon Benson explains that notching resolution down to 720p opened up some pixel processing overhead (one 1080p stream requires nearly 2.1 million pixels, whereas a duo of 720p images is around 1.85 million in total), while reducing the refresh rate to 30Hz allowed the devs the breathing room to complete the extra geometric calculations required by 3D. That's certainly not the 1080p video at 100Hz per eye that we were hearing about at IDF last year, but at least it shows that games that haven't been coded for 3D can be translated, albeit at more demure settings.
+
+In the case of Motorstorm: Pacific Rift, the game already ran at a 720p / 30fps clip, so the solution was to generate it at a lower resolution and to use hardware upscaling and a few optimizations to make 3D work. Lest you think the transition was all bad news on the graphical immersion front, the SCEE devs also mention that quite a few field-of-view and motion-illustrating effects could simply be disabled in 3D, as in that mode "you get [them] for free." Of course, we're still only talking about retrofitting 3D, and Sony's big hope is that developers will code for the new format right from the start, resulting in visually richer and technically more efficient implementations. Hit the source for more.
+      
+
+ 

@@ -1,0 +1,23 @@
+
+ 
+While not quite a robot as we here at Engadget typically think of them, there's no doubt that Data Robotics's Drobo storage array / external enclosure is making some interesting propositions with this new storage device. Here's everything the storage-minded need to know about the company and its forthcoming product:
+
+The device will come drive-free, and cost $700. It will launch in the summer.
+It does not use RAID of any kind. Instead, it uses pooled virtualized storage.
+Unlike RAID 5, which requires 3+ drives of the same size, users can add disparate SATA (I or II) drives of any size.
+The storage pooling impact is estimated as the size of the largest drive. So if your largest drive is 500GB, that will be the maximum amount of space lost from the storage pool for redundancy. With four 1TB drives you would get 3TB addressable storage, and ~2.7TB after formatting.
+The device can address an infinite amount of storage, limited only by file systems and drive capacities.
+All drives are hot swappable; new drives are instantaneously available.
+The device is block-aware and makes use of a "virtual hot spare", meaning that if a drive is pulled or lost and there's enough free space on the drives, data will be double-copied and made redundant again.
+Data has corruption protection as well; if data is corrupt on one drive, the device will intelligently find another copy of the data which is not corrupt.
+For lack of necessity, the device does not support FireWire 400 / 800 or eSATA; its internal data speeds are not fast enough that those interfaces would benefit performance.
+The device will only format NTFS and HFS (PC and Mac); it may be updated to support other file systems.
+It features NVRAM and a battery backup so even non-journaled file systems will be protected against corruption during loss of power.
+It will monitor drive health by its own system of metrics, and pre-emptively predict drive failures.
+Data Robotics plans to launch higher capacity Drobos with more drive bays.
+There will also be an open API for interfacing with the Drobo.
+
+Hopefully that should answer a few questions about this thing -- got any more? We'll and find out. So, kinda high price aside, you as stoked about this thing as we are?
+
+
+

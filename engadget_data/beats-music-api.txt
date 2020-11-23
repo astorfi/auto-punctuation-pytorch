@@ -1,0 +1,4 @@
+
+Beats Music is already integrated with Apple's CarPlay system, which means you'll be able to stream music from Beats' catalog in any vehicle that happens to have Apple's setup installed. Now, new API support could mean we'll be able to kick out the jams from even more cars. The streaming music service made its API public today, a move that gives third-party developers access to its vast music collection. In particular, developers get access to the company's library of tunes, album art and track metadata (Beats previously shared its API privately with a few big names like Sonos and Bop.fm). So far, Chevrolet has announced it's adding Beats to its AppShop system -- and we're sure it won't be the last company to do so.
+
+

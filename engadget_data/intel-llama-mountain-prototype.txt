@@ -1,0 +1,21 @@
+
+
+
+When Intel announced the new 14nm Core M (Broadwell) processor to enable thinner, fanless convertible devices, I knew the "Llama Mountain" reference design would be impressively svelte. But hearing a spec is different than seeing it; this laptop-tablet hybrid is insanely skinny. At 7.2mm (0.28 inch), the slate is thinner than the iPad Air (7.5mm), and it's also significantly lighter than two-in-one devices already on the market; it's a notebook-class PC running Windows 8.1 Pro, yet it weighs just 1.47 pounds, compared to 1.76 pounds for the Surface Pro 3.
+
+
+
+
+
+
+The prototype's light and slim footprint is made possible by the Core M's efficiency and low heat production -- the chip allows for a fanless design. Despite its slimness, the slate can fit a 32Wh battery, which should get you at least eight hours of regular use on a full charge. Of course, different OEMs may opt to use a different-sized fuel pack, so once devices running the Core M come to market, we could see even longer run times.
+
+ASUS announced its own similar computer at Computex yesterday -- the Transformer Book T300 Chi. With ASUS' model, you'll actually be able to pick it up in stores, unlike Intel's reference design, which won't ship to consumers. The ASUS slate, which is only a hair thicker at 7.3mm, also includes a 12.5-inch touchscreen. The Chi's display features a 2,560 x 1,440 display, and while Intel reps were unable to confirm the Llama Mountain reference design's resolution, it's not unreasonable to expect a similar pixel density from other manufacturers.
+
+
+Since we're talking about a device category that's part-work, part-play, it's only natural that Intel's reference design includes a separate media dock. To that end, the base of the device -- the only edge that isn't hair-thin -- is just barely thick enough to accommodate the requisite dock connector, along with a 3.5mm headphone jack and a USB 3.0 port. It's kind of hard to imagine tablets getting even skinnier, but with Intel's ever-evolving technology, they probably will. For now, though, we can all look forward to carrying a tablet (and keyboard base) that's shockingly thin.
+
+
+Zach Honig contributed to this report.
+
+ 

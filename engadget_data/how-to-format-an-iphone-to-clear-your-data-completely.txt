@@ -1,0 +1,6 @@
+
+  
+We briefly mentioned using junk data to overwrite the iPhone's flash as a last-ditch method of securely clearing off your user data yesterday, and although we were half-joking, that's pretty much your only option until Apple provides a proper secure erase feature. Security researcher Rich Mogull has helpfully laid out the steps for you, and they're pretty much what you'd expect: restore your iPhone, don't sync any personal data to it, and then manually transfer three different playlists large enough to fill the flash. Essentially you're doing a manual three-pass overwrite, which is pretty much exactly the long and tedious process it sounds like -- but we wouldn't dream of selling or giving away our iPhones (or any other phone with personal data on it) without struggling through it.[Via Hack A Day]
+      
+
+ 

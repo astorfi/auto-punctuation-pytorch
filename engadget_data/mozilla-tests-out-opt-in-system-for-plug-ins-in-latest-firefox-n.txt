@@ -1,0 +1,3 @@
+
+   Plug-ins bogging down your web browsing? Then it looks like you could soon have another option to cut through the clutter right in Firefox. The latest nightly build of the browser includes a new feature that lets users turn off all plug-ins by default and then click on each to enable them (something that, we should note, can already be done through third-party add-ons). While that functionality is still in the early stages, Mozilla's Jared Wein says that they're now working on adding the ability to remember plug-in settings on a per-site basis, and hope to have the feature ready for the release version of Firefox 14 (currently due out in July). In the meantime, you can get an early look at the feature in the latest nightly build available at the source link below.
+ 

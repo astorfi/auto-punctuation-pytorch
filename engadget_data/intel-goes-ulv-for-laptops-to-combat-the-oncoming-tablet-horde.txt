@@ -1,0 +1,5 @@
+
+ Intel has been talking up its x86-powered smartphones and battery-sipping Atoms for tablets quite a bit recently, but the company hasn't forgotten its roots in traditional PC form-factors. At an investor event in San Francisco, CEO Paul Otellini announced a significant change to its line of notebook CPUs -- ultra low voltage will be the new norm, not just a niche chip for high-end ultra-portables. The baseline TDP for future CPUs will be in the 10 to 15 watt range, a huge drop from the 35w design of the mainstream Core line and lower than even current-gen ULV chips (which bottom out at 17w). The company also plans to make NVIDIA eat its words by putting the pedal to the metal on die shrinks -- releasing a 22nm Atom next year followed by a 14nm version in 2013. That could mean our fantasy of true all-day battery life in a sleek and sexy laptop will finally come true. Don't crush our dreams Intel!
+      
+
+ 

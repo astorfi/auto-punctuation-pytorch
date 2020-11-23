@@ -1,0 +1,6 @@
+
+ 
+Following the initial euphoria of realizing that a genuine, honest-to-goodness official iPhone SDK was finally upon us, the cold, hard reality of Apple's draconian rule wasted no time setting in. TechCrunch has a solid overview of some of the downsides of being an Apple developer -- an Apple iPhone developer, specifically -- and the list definitely takes just a little fun out of the June countdown. Front and center on the list has to be the fact that third-party applications can never run in the background, meaning that you can pretty much kiss your dreams of downloading (or creating) an always-on IM client goodbye. Quoth Cupertino, "users should not feel that leaving your iPhone application and returning to it later is any more difficult than switching among applications on a computer." Ah, but you can have a whole slew of apps running at once on those shiny Macs of yours, remember, Apple? Granted, they're suggesting here that apps should be smart enough to save and restore state as they're killed and restarted, but we figure it takes more than that to simulate true task switching.[Thanks, Andrew]
+      
+
+ 

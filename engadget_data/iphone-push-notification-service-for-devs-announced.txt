@@ -1,0 +1,5 @@
+
+ 
+Apple's just announced a push notification service for the iPhone that it'll provide to all developers. It'll maintain a persistent IP connection to the phone and let a 3rd party server ping Apple's notification service in order to push out notifications your device, which can be in the form of badges, sounds or custom textual alerts. According to Apple, the service will preserve battery life and maintain performance, not to mention work over WiFi or cellular. Look for it to roll out in September, with seeding to developers starting next month.
+
+ 

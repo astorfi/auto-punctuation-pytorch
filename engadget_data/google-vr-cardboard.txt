@@ -1,0 +1,10 @@
+
+Even Google is getting in on the virtual reality game. At the end of the search giant's I/O 2014 keynote, Sundar Pichai announced that everyone in attendance would get a nondescript cardboard package, but was coy about its contents. Turns out, it's the firm's attempt at a do-it-yourself VR headset. You can use household materials to build one, and a rubber band to hold your smartphone in place on the front of the device. Assembly instructions, plans and links for where to source the needed parts (like lenses) -- as well as an SDK -- are available on the project's website. Have a few pizza boxes lying around? So long as they're from an extra-large pie, Google says they'll work, too. Mountain View hopes that by making the tech inexpensive (unlike offerings from, say, Oculus), developers will be able to make VR apps that hit a wider audience. For now, the list of fully supported phones includes the Google Nexus 4 and 5, the Moto X, Samsung Galaxy S4 and S5 and, oddly enough, the original Samsung Galaxy Nexus.
+
+
+
+Cardboard pairs with your handset via NFC, and there's already a handful of demos for the app. How the project works with Google Earth, YouTube and Photo Sphere seems pretty self explanatory (the standard experiences for those, but on your face), but Exhibit, Street Vue and Windy Day are a little more intriguing. Exhibit allows you to gawk at cultural artifacts from every angle, according to its description, while Street Vue consists of a drive through Paris and Windy Day is an interactive animated short.
+
+Sure, this seems like little more than a novelty compared to the likes of the Oculus Rift, but even with that influx of cash from Facebook, Oculus still needs to charge for each headset. With Cardboard, Google has probably undercut everyone in the field on one of the most important aspects: price.
+
+

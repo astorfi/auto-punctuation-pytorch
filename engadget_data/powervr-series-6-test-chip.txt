@@ -1,0 +1,13 @@
+
+ 
+ Imagination Technologies is on a high right now. Throughout 2012, the company's PowerVR graphics processors continued to monopolize the iPhone and iPad as well as appearing in (late 2011) Android flagships, the PlayStation Vita and even the first Clover Trail-powered Windows 8 tablets. But you know what? That's old news, because all those devices run current-gen PowerVR Series5 silicon. Most new top-end devices in 2013 and 2014 will either contain the latest Mali GPUs from rival ARM, or they'll pack PowerVR Series6, aka Rogue. This latter chip is currently being developed by at least eight different smartphone and tablet manufacturers and is expected to make a good bit of noise at CES next week.
+
+ But who's going to wait that long if they don't absolutely have to? To get a fuller understanding of what awaits us in the coming weeks and months, we scoped out a Rogue test chip at Imagination's sparkly new HQ just outside of London, UK. The test silicon doesn't represent the true power of Series6 because it's running on an FPGA board that severely limits its bandwidth, but it's still able to show off one crucial advantage: namely the ability to run OpenGL ES 3.0 games and apps. This API is all about improving mobile graphics through making smarter use of GPU compute, without annoying the battery, and the three demos after the break show just how it pulls that off.
+
+
+
+
+
+ 
+
+ 

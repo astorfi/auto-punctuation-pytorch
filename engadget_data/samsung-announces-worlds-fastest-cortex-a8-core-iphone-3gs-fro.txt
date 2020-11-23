@@ -1,0 +1,6 @@
+
+ 
+Some of the most advanced mobile devices on the market today are built around cores based on ARM's Cortex A8 architecture, including a couple you may be familiar with: the Palm Pre and the iPhone 3GS. The 3GS, for example, runs a Samsung S5PC100 system-on-chip clipping along at a healthy 600MHz, enough to make it noticeably snappier than the 3G it replaces -- but time marches relentlessly forward, as always, and that S5PC100 is suddenly starting to look a little long in the tooth with today's news. Sammy has partnered up with silicon design firm Intrinsity to develop what it's billing as the world's fastest Cortex A8 core, a 1GHz unit codenamed "Hummingbird" that's based on 45nm manufacturing techniques and can deliver peak performance at a single volt with power consumption characteristics favorable for mobile use. Translation: this thing should be nipping at the heels of Snapdragon once Samsung finishes up work turning this core into a system-on-chip that can be sourced by manufacturers, and it should do so without causing batteries to beg for mercy. Unfortunately, there's no word just yet on exactly when we'll see phones running this setup in the market, so Pre, 3GS, you're safe for now -- but the clock's ticking.
+      
+
+ 

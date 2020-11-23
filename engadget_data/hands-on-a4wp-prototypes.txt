@@ -1,0 +1,18 @@
+
+ The Alliance for Wireless Power (A4WP), a group created through the joint efforts of Qualcomm and Samsung, is getting ready to tackle the growing wireless charging market by introducing its very own standard to compete against the likes of the WPC. This morning the consortium, which claims TI, Powermat and Deutsche Telekom (among several others) as members, not only went into greater detail on its plans for the future but also brought along some prototype pads and embedded furniture to show us.
+
+ The A4WP's solution is a "non-radiative magnetic resonance-based wireless power transfer ecosystem" -- in short, it allows your phone, tablet or other A4WP-certified gadget (such as light bulbs, as demonstrated above) to charge from a small distance. What does this mean to you, dear consumer? In short, your device doesn't have to be directly touching the pad in order to receive a charge; instead, you could place your phone on top of a notebook or other obstruction (heck, you could even stack your phone on top of another phone or tablet) and still power up your handset. lt will also allow you to place more than one device on the same pad -- and even more than one device type, so tablets and phones can charge together in harmony despite the fact that they both have different power requirements -- and move them around anywhere on the pad without interrupting the charge. These are key differentiators that make A4WP's option a very tempting one for the general user.
+
+
+
+
+
+ Another key area in which A4WP differs from the rest of the crowd is its implementation of Bluetooth 4.0 LE as a type of command center; it's used to send messages back and forth between the charging surface and the transmitter, telling each other when to start and stop charging.
+
+ We had some time to play with the new charging surfaces, which consisted of a large pre-production pad and embedded furniture (coffee tables, countertops and even car compartments were featured). We were very impressed by how solid everything seems to be working so far; there were absolutely no hiccups in its performance, beginning and ending each charge nearly instantly. It was also nice to see that metal objects (coins, for instance) can lay on the same surface without getting hot.
+
+ From what we could tell, it's pretty far along in its development, and reps told us that the certification process should be ready for its members towards the end of the first half of the year. Not many specs are publicly available at the moment, but we're hoping to nail down a few details involving frequency and power efficiency. Once we do, we'll update the post. In the meantime, check out the gallery above and an A4WP-produced video below to behold the possibilities.
+
+ Update: We received word that the frequency of the power transfer field is 6.78 MHz.
+ 
+

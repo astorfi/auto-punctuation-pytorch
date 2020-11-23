@@ -1,0 +1,4 @@
+
+ It's a fairly bold claim, but Mozilla and Samsung have announced today that they're now attempting to "rebuild the web browser from the ground up on modern hardware." That initiative takes the form of Servo, a new web browser engine designed for Android and ARM and based on Mozilla's Rust programming language, which itself sees a new release today. Expectedly, details on the browser engine remain light, with Mozilla and Samsung offering no indication of a release schedule or a final product. In the blog post announcing the engine, Mozilla says only that it'll be "putting more resources into Servo" in the coming year as it also aims to complete the first major revision of Rust, and that it and Samsung will be "increasingly looking at opportunities on mobile platforms." You can find the full announcement, and the source for both Rust and Servo if you're so inclined, at the source link below.
+
+

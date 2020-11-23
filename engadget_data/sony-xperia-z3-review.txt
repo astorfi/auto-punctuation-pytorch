@@ -1,0 +1,47 @@
+
+When you're trying to compete in the phone-making game, there are certain challenges. On the one hand, you want to dazzle customers with innovative features. On the other hand, you want to keep the suit-wearing shareholders happy with growth and strong, continued sales. The bottleneck in this equation is often technology. You can't force it to progress. So once you've more or less caught up, you're left with a choice: Innovate with software/hardware design, or take a risk with gimmicky features. Any of the above will do in lieu of the (unspeakable) alternative -- not releasing a new model this year.
+
+
+We're not trying to preload this review of Sony's new Z3 flagship, which arrives barely six months after its predecessor. Or maybe we are. What we're definitely doing is spelling it out right here in the intro: The Z3 looks a lot like the Z2, and after a quick glance at the spec sheet, you might argue it sounds a lot like it too. This is pertinent because, by its own admission, Sony isn't doing very well at competing in the phone-making game. Given the above, is the Z3 going to tempt existing customers to upgrade? Or perhaps lure those over from other brands? T-Mobile will be stocking it this fall, though the price isn't yet known. Currently it's £550 in the UK -- a touch above the HTC One and Galaxy S5. Let's have a look, shall we? 
+
+
+
+
+
+Hardware
+As we hinted in the intro, the Xperia Z3 has a lot in common with the Xperia Z2. When we reviewed that phone back in April, we had plenty of good things to say about it. Mostly how far along the display had come. The good news is, that's one of the things the Z3 inherits -- a 5.2-inch full HD Triluminos panel with X-Reality (you can watch Sony explain what those marketing terms mean here). The silicon is remarkably familiar too. The Z3 boats a 2.5GHz quad-core processor, up from 2.3GHz in the Z2. But both are Snapdragon 801 chips (MSM8974AB in the Z2 vs. the Z3's MSM8974AC if you're keeping score). Both handsets have a 20.7-megapixel camera and run Android 4.4 KitKat.
+
+Then, of course, there's the design. Xperia phones in general aren't known for their bold and varied aesthetic, especially not the Z series. If you lined them up from the original Xperia Z through to the Z3, you'd mostly be picking at details to tell them apart. The original Xperia Z might cast more or less the same shadow as the Z3, but the newest flagship has a much more premium feel thanks to the matte-finish metal edges. The corners are actually nylon -- to make them less prone to dings should you drop it -- but you wouldn't notice unless you were looking closely.
+
+
+The buttons and ports are still hidden under sealable caps to help keep it waterproof, with micro-USB on the left side, and nano- (not micro-) SIM and a memory card slot on the right. There's still a dedicated camera button on this side too, which is always nice. Other internals remain the same this time: 3GB of RAM and 16GB of onboard storage. If you were a fan of the slightly generous top and bottom bezels that Sony seems so fond of, well, good news -- they're still here too.
+
+For all its familiarity, the Z3 is still its own phone. It's slightly trimmer by about one millimeter in each dimension, and at 152 grams, it's lighter than its 163-gram predecessor, making it less prone to butterfingers. It's also more waterproof than before and is now fully dust-resistant (rated to IP65/68, up from IP55/58), which means it can sit in 1.5 meters of water for a full half-hour. Finally, the camera has some new features (more on that later), and the display is brighter.
+
+
+All things considered, while Sony marketing is duty-bound to argue that this is the best Xperia Z ever, with reasonable improvements on many of the key specifications, we're willing to roll with it. Not all specs are up, though: Weirdly, the battery capacity is actually down from 3,200mAh to 3,100mAh. More on that later, though.
+
+    Sony Xperia Z3 Sony Xperia Z2     Dimensions 146 x 72 x 7.3mm  146.8 x 73.3 x 8.2mm    Weight 152g 163g   Screen size 5.2 inches 5.2 inches   Screen resolution 1,920 x 1,080 1,920 x 1,080   Screen type Triluminos LCD with 16.7 million colors Triluminos LCD with 16.7 million colors   Battery 3,100mAh Li-ion (non-removable) 3,200mAh Li-ion (non-removable)   Ruggedness IP65 and IP68 waterproof and dustproof IP55 and IP58 waterproof and dustproof   Internal storage 16GB (12GB free) 16GB (12GB free)   External storage MicroSDXC MicroSDXC   Rear camera 20.7MP (1/2.3-inch sensor, 25mm-equiv. focal length) 20.7MP (1/2.3-inch sensor)   Front-facing cam 2.2MP stills, 1080p video 2.2MP stills, 1080p video   Video capture 1080p, 4K 1080p, 4K   NFC Yes Yes   Radios  HSPA+ (850/900/1700/1900/2100); GSM GPRS/EDGE (850/900/1800/1900); LTE (Bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 20)
+
+   HSPA+ (850/900/1700/1900/2100); GSM GPRS/EDGE (850/900/1800/1900); LTE (Bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 20)
+
+    Bluetooth v4.0, aptX, A2DP v4.0, aptX, A2DP   SoC Qualcomm Snapdragon 801 (MSM8974AC) Qualcomm Snapdragon 801 (MSM8974AB)   CPU 2.5GHz quad-core Krait 400 2.3GHz quad-core Krait 400   GPU Adreno 330 Adreno 330   RAM 3GB 3GB   Entertainment MHL, USB OTG, WiFi Direct, DLNA, Miracast, FM radio MHL, USB OTG, WiFi Direct, DLNA, Miracast, FM radio   WiFi Dual-band, 802.11a/b/g/n/ac Dual-band, 802.11a/b/g/n/ac   Wireless Charging No No   Operating system Android 4.4.4 (Sony-specific UI) Android 4.4.2 (Sony-specific UI)  Display
+The display is sure to generate mixed feelings. There will be some who wish for Sony to up its game in the spec wars, and join the 2K club. But it hasn't. It's resolutely stayed put at 1080p. Battery life might be one reason; it certainly seems to take a toll on the 2K-capable LG G3, which is lucky to make it through the day. Given how far the displays on the Xperia Z line have come since the original Z, it looks like Sony's taking the time to try and get things right before jacking up the pixel count. That is to say, the display on the Xperia Z3 is much nicer to look at than the original Z and Z1. Viewing angles are much improved; the color representation in my photo comparisons seems natural and more balanced than before. Also, as mentioned, at 660 nits, it's brighter than last time around, too (the Z2 topped out at 428 nits).
+
+Comparing photos and videos with source materials shows blacks to be deeper and darker than on the Z1 (harder to tell apart on the Z2), while colors are perhaps a little warmer. Still, it's nowhere near the levels you might find on a Samsung GS4 or GS5. So, if you were hoping Sony's experience with higher resolutions in the TV market meant its phones would be going 4K before everyone else, then you'll be disappointed. But you shouldn't be -- the company's apparently investing its efforts elsewhere.
+
+As a complete package, there's no doubt the Z3 is, in my opinion, the nicest Xperia phone I've ever laid my hands on. It's perhaps the improved finish on the sides, or the way the port covers neatly click in place, or the dense (yet not-too-heavy) feel, or the upgraded display, or the all-round good specs. Perhaps through a combination of the above, in a "greater than the sum of its parts" kinda way, Sony's finally made a phone that doesn't feel blocky and flat next to the likes of the HTC One M8 or the Nexus 5.
+
+Camera
+For the last two generations of Sony flagships, there's been a 20.7-megapixel camera. That's still the case here. And frankly, we're not surprised the megapixel count hasn't gone up again. There are plenty of other ways to improve a camera other than bumping up the number of pixels. Sony's addressed a few of them here. The biggest change on a hardware level is the wider 25mm lens. This means you get a little more in the shot with each photo (see below for an example).
+
+Most of the other significant changes are software based. Sony already bundled a lot of custom features with its camera (such as Info-eye, and Picture effect modes), and now there's more. Namely "Multi-camera" (which combines the shots of two Z3s) and a new "AR fun" mode. The merits of many of these features are open for debate. Some, like "Live on YouTube" or "Background defocus," can be genuinely useful. But others, like AR fun (which lets you draw your own augmented reality critters on screen)? Not so much. Fun to use once; probably never to be used again.
+
+
+
+Should all of these modes not be enough for you, there are a bunch of others you can download to further augment your camera's functionality. These range from the productive (Evernote, PDF scanner) to the obscure (one claims to turn your camera into a global air-traffic radar!). I tinkered with a number of these modes, but found myself defaulting back to either full auto or manual, depending on what I wanted to shoot. I do still like the idea of being able to stream live to YouTube through my phone; I just need to find a reason to do so. 
+
+
+
+
+

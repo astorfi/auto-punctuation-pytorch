@@ -1,0 +1,5 @@
+
+ We've been covering the progression of SandForce for over a year now, creator of smart SSD processors that extend the life of flash storage by better spreading writes across them, boosting performance and reliability along the way. This, according to the company, makes them reliable enough for enterprise use, and IBM has added its vote of support, configuring a 9189 Power 780 server with 56 177GB SSDs (10.5TB in all) sitting behind SandForce's SF-1500 processor. That combination, when running the TPC-C benchmark, delivered a performance of 150,000 transactions per minute per CPU core. That's 50 percent higher (per-core) than other entries in the TPC-C benchmark -- and considerably cheaper, too. IBM's configuration is set to be available around October of this year, perhaps ushering in a new era of the platter-free enterprise.
+      
+
+ 

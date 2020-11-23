@@ -1,0 +1,5 @@
+
+ Intel's Paul Otellini IDF keynote shed some new light on the company's Larrabee processor, which is now set for a 2010 release and will compete against AMD and NVIDIA in the realm of high-end graphics. Paul says the chips will scale up to teraflops in speed, and be targeted at science and analytics in addition to graphics -- though he dodged questions about Larrabee potentially being a discrete graphics competitor for AMD and NVIDIA, and only reiterating that "Graphics will also be an area for the chip." Intel has so far stayed squarely in the realm of integrated graphics, but a move to discrete graphics would be quite a welcome shakeup to the current market, and teraflops would certainly make it all the more interesting.
+      
+
+ 

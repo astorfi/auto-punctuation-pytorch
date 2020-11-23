@@ -1,0 +1,12 @@
+
+ RIM's BlackBerry Developer Conference is going down this week in San Francisco, and as you might expect from a developer-focused event, there are a handful of newsy items that'll affect the development community first and consumers down the road. Here's a roundup of what's what:
+
+WebWorks development platform. From what we've heard of this so far, it's basically a quick way for web devs to get into the BlackBerry app game by offering a tightly-integrated platform for HTML5, CSS, and JavaScript code with hooks to native BlackBerry OS functions and a packager for turning them into "real" BlackBerry apps.
+BlackBerry Messenger Social Platform. RIM's historically held BBM very, very close to the chest, but it's starting to open up a tad with this particular announce. Don't look for BBM on other platforms (yes, we know that's what some of you were hoping to hear), but third-party app developers will now be able to tap into the system for sending and receiving messages, files, user profiles, and invitations. Interestingly, the company is pitching it as a platform for multiplayer gaming, using BBM as a conduit to move information between devices in real time.
+BlackBerry Advertising Service. Google bought AdMob and Apple bought Quattro, but RIM's taking a more democratic approach to its advertising platform, allowing both "simple" and "rich media" ads to be served from a handful of providers "with only three lines of code." It'll be a 60 / 40 revenue split between devs and RIM.
+BlackBerry Payment Service SDK. This one's launching in beta this week, bringing third-party in-app payments over credit card, PayPal, and carrier billing (available on AT&T right now, more carriers by the end of the year). It'll be out of beta before 2010's out.
+
+Nothing on the so-called BlackPad so far, but at any rate, seems like this roundup is great news for anyone looking to slide some content into App World over the next few months.
+      
+
+ 

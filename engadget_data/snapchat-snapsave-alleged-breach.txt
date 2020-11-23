@@ -1,0 +1,23 @@
+
+Snapchat is a photo sharing service known for its temporary nature: you send a photo to a friend, a few seconds later the photo disappears and is erased. If you snap a screen of the image, Snapchat tells the other person. That's the elevator pitch, anyway. A variety of third-party apps skirt around that temporality, enabling users to secretly save the images they're sent -- occasionally of the nude variety -- and anonymous internet forum 4chan is claiming it hacked one of those apps to access hundreds of thousands of images. Worse, those images are allegedly tied to usernames. Yes, that means your images may be at risk of exposure. Snapchat can't confirm the alleged leak because it didn't involve the company's servers if it did happen, but the company says its data centers are secure. Here's what Snapchat told us:
+
+
+
+"We can confirm that Snapchat's servers were never breached and were not the source of these leaks. Snapchatters were victimized by their use of third-party apps to send and receive Snaps, a practice that we expressly prohibit in our Terms of Use precisely because they compromise our users' security. We vigilantly monitor the App Store and Google Play for illegal third-party apps and have succeeded in getting many of these removed."
+
+
+
+
+First things first: don't panic. The images from the leak aren't actually online just yet, making the hack a claim at most right now. So, what allegedly went down?
+
+4chan users, posting anonymously, say that the third-party service Snapsave was hacked. Snapsave is a third-party app for both iOS and Android that enables users to save snaps without the other person knowing. The posts allege that Snapsave uses cloud saving, and when it was breached, the cloud database was downloaded with approximately 200,000 images. Snapsave has yet to return our requests for comment, and 4chan says to expect the image database online by October 12th (this Sunday).
+
+Due to the recent hacking of various celebrities and the subsequent leaking of images depicting said celebrities in the nude -- which was dubbed "The Fappening," a reference to an internet term for masturbation -- some media outlets are calling this alleged breach, "The Snappening."
+
+Update: Snapsave rep Georgie Casey says, "Our app had nothing to do with it and we've never logged username/passwords." Moreover, he says that Snapsave doesn't run on a cloud setup.
+
+A report on Business Insider states the service in question is known as "SnapSaved" (the same name, but in the past tense), a website that enabled Snapchat users to log in and save their images. "The service acted as a web client for the Snapchat app that allowed users to receive photos and videos, and save them online," BI writes. "What its users didn't realize was that the site was quietly collecting everything that passed through it, storing incriminating Snapchats on a web server, with the usernames of senders attached."
+
+The website "www.snapsaved.com" no longer resolves -- as of this writing, it's just a blank white page.
+
+

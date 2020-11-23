@@ -1,0 +1,7 @@
+
+ Windows Phone 7 Series might have been the big news out of Mobile World Congress this year, but it looks like Windows Mobile 6.5 will live on as the basis of Windows Phone Starter Edition. We'd already heard some whispers to that effect, but now it's been confirmed by ZDNet's Mary Jo Foley, who got some answers about the stripped-down mobile OS directly from Redmond. It's obviously designed to be a cheaper alternative for developing and emerging markets, much like Windows 7 Starter on the desktop, and it'll come in versions with and without Office Mobile preloaded when it ships on devices later this year. (Office 2010 will be included when it's officially released.) Here's the odd thing, though: when asked which features of 6.5 have been stripped to create Starter, MS replied with a list of radio support that conspicuously omits HSDPA 3G, but includes EV-DO. Simple typo, or an attempt to force international adoption of WinPho 7 in developed countries with 3G networks? We'll do some digging and find out.
+
+P.S.- Just to be clear here, it appears that the family will be Windows Phone 7 Series, and then potentially two WinMo 6.5 products: Windows Phone Classic and Windows Phone Starter Edition. Only Starter has actually been confirmed at this time, though, and we still don't know exactly how Microsoft is going to organize all of this and sell it. We'll keep you updated.
+      
+
+ 

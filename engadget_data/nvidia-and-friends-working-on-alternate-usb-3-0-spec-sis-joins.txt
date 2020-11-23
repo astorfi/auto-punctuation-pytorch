@@ -1,0 +1,5 @@
+
+ Remember middle school? These guys do. NVIDIA, AMD, VIA and now SiS (only two capital letters? Not trying hard enough) have all teamed up in a fight against Intel of truly pubescent proportions. Intel has denied accusations of hiding the USB 3.0 spec, since it's not their spec to hide, and claims it has no obligation to disclose its actual host controller specification before it's ready. This apparently has the other chip makers scrambling to make their own host controller, so they aren't beholden to Intel's schedule. That could cause problems for the end product -- if they don't build theirs exactly like Intel's, and with Intel's already being on the market by the time they're done, they'll have to return to the drawing board and possibly delay their release by nine months. They claim this could give Intel two years of zero competition in the USB 3.0 space, but Intel figures since it plans to release the spec for free, is investing heavily in its development, and isn't done yet anyways, it doesn't owe those companies a thing. This just gets better and better.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+  A little gem known as Android 4.0.4 wriggled its way onto the interweb last week, and while it was geared specifically for Sprint's Nexus S 4G, a similar version has just cropped up for the CDMA / LTE Galaxy Nexus from Verizon. While it's only available for tenacious users who've unlocked their bootloader, it seems that a host of improvements are on deck for the official release. First and foremost, the ROM is said to be noticeably faster, with the speed gains also extending to the web browser and the device's boot time. The release also packs a new radio file that (at least from user impressions) offers more seamless transitions between the CDMA and LTE networks. All in all, the rest of the changes are rather minor, but if you'd like to join the bleeding edge, you'll find everything you need in the source link below.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

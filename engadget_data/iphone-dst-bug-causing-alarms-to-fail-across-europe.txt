@@ -1,0 +1,20 @@
+
+  
+An iPhone bug already seen when Australia switched between Daylight Savings Time and Standard Time a few weeks ago has now hit Europe. Twitter just lit up with reports of recurring iPhone alarms going off an hour later than usual. So even though the iOS clock changed correctly over the weekend, the alarm did not. Thing is, according to a ZDNet Australia report from more than three weeks ago, Apple acknowledged the bug with a promise to fix it with a software update. So why wasn't it rolled out in time to avoid this mess in Europe? Let's see if Apple fixes it before North America makes the switch on November 7th, otherwise, you've been warned.
+
+Update: Deleting and re-adding the alarms will NOT fix the issue. We've now tested a number of scenarios under iOS 4.1 on European iPhone 4 and 3GS devices for ourselves. The bug (demoed on video after the break by Roman) appears when using a repeating alarm for anything other than "every day." So for example, your alarm will go off an hour late if it's set for "weekdays," or "weekends," or every "Monday." The following alarms are not affected by the bug:
+
+An alarm that doesn't repeat (repeat set to "never")
+An alarm set to repeat "every day"
+
+You can test yourself by creating a repeating alarm (but not every day) to go off one minute in the future and 59 minutes in the past.
+
+Update 2: Some US readers are now waking up to alarms reportedly going off an hour early.
+
+[Thanks, David O. and Matthieu Di B.]
+      
+
+ 
+
+See more video at our hub!
+ 

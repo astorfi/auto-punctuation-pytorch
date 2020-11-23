@@ -1,0 +1,5 @@
+
+ 
+ Microsoft's been dishing out details on all kinds of goodies we'll see in Windows 8, and the Photos app is the latest to get the behind the scenes treatment from the Building Windows 8 blog. If you downloaded the Windows 8 Consumer Preview, then you got to check out a trial version of Photos -- and its four-column Metro UI that can access your local pics, plus those from Facebook, Flickr and SkyDrive. In the Release Preview, Microsoft's given users who install the SkyDrive desktop app -- regardless of OS -- the option to have all their photos archived automatically in the cloud. That means all those photos are then accessible via the Photos app on any Windows 8 device. The app's also gained the ability to import photos directly, and sharing them's gotten easier as the Share charm now lets you send them as attachments or SkyDrive links. Want to know more? A fuller accounting of the Photos app awaits at the source, as does a video showing off all the fresh features.
+
+

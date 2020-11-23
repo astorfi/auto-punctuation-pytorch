@@ -1,0 +1,9 @@
+
+ 
+
+We already knew that there would be multiple flavors of the next version of Windows. This is, after all, Microsoft, and if it isn't available in dozens of different SKUs, one for each rung on the ladder from student to corporate executive, then it isn't worth stamping to a disc and throwing in a box. However, thanks to Intel Senior Vice President Renee James, we now know for sure that there will be a decisive split between the various ARM and x86 editions. James confirmed yesterday that x86 versions will work just fine on Intel, AMD, and other compatible chips, running all your legacy applications with aplomb.
+
+However, the ARM versions of the OS (which may number as many as six) won't include any sort of instruction emulation, James saying "Our competitors will not be running legacy applications. Not now. Not ever." That's something that Intel CEO Paul Otellini hinted at back at CES, which means Office running on ARM must have been a re-write -- or at least a re-compile. That's bad news for anyone hoping they'd be able to install Command & Conquer Collector's Edition on the Tegra-powered Windows 8 tablet of their dreams. James additionally indicated there will be four separate Windows 8 ARM SoCs, meaning someone has joined NVIDIA, Qualcomm, and TI since the CES unveil. Intrigue!
+      
+
+ 

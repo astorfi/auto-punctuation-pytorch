@@ -1,0 +1,69 @@
+
+When Sony's VAIO Duo 11 slider debuted late last year, its strong performance and crisp HD display weren't enough for us to overlook a flawed design and unimpressive battery life. The Duo 13, just announced at Computex, looks to be a formidable second attempt. A lot has changed here, from a revamped hinge and a beefier power pack to a higher price: $1,400 up from $1,200. Oh, and it offers a more spacious keyboard and a proper touchpad, too. Is Sony's second try a success, especially considering the $200 premium? Skip past the break to find out. 
+
+
+
+
+Design
+We can't give ourselves too much credit here, but it certainly seems like Sony took our -- and other reviewers' -- critique of the Duo 11 to heart. The device looks and feels sleeker this time around, and indeed, despite a larger 13.3-inch display, the 2.93-pound machine is only a hair heavier than its predecessor (2.87 pounds). This is thanks to a carbon fiber construction, which is lighter than the magnesium alloy used on the older model. We still have painful memories of the Duo 11's jagged edges, so we're happy to report that Sony opted for a more rounded frame this time around. The company also ensured that the display and keyboard base line up perfectly in tablet mode, further reducing the chance that you'll impale your wrists while completing a Bing search.
+
+Sony's revamped hinge is much easier to activate.
+
+This is pretty huge: Sony completely revamped its hinge design. The so-called Surf Slider mechanism on the Duo 13 is much easier to activate; we could even pull up the screen with just one hand. The slider mechanism feels much sturdier this time around, too; collapsing the device back into slate mode feels steady and secure rather than wobbly. The hinge also looks a lot better, as the cabling is now tucked behind the hinge rather than exposed (huzzah!).
+
+On the front of the slider, you'll find the expected Windows 8 Start button along with a 2-megapixel front camera and Sony branding. Pulling up the display reveals the VAIO logo on the keyboard (a larger version of this is etched on the hinge itself). All the ports are located on the back edge of the Duo 13, while the left and right sides are completely bare. Sony says this new arrangement allows for a better grip when you're using the device in tablet mode, and it's also a nod to graphic designers, who prefer to keep cables in the back for a cleaner workspace. All told, you get an SD card slot, HDMI, two USB 3.0 ports, a headphone jack and the power connector. High-end configurations that include Windows 8 Pro will also ship with a VGA adapter. Flip the machine over, and you'll find a speaker grille as well as Assist and Volume buttons. Finally, there's an 8MP camera, which sits off to the left rather than dead-center.
+
+Keyboard, trackpad and stylus
+By design, sliders have limited keyboard space -- it's how they accommodate the pull-out display. Sony did its best to minimize this inconvenience by moving the screen a bit back on this model. As a result, you get a roomier set of island-style chiclets. The backlit layout definitely feels less cramped than the Duo 11's, and there's more pitch here too, which is greatly appreciated. We wouldn't call the keyboard spacious, per se, but the keys are well-spaced enough to net us a surprisingly low error rate on typing tests.
+
+Tiny though it may be, the touchpad is a welcome addition to the VAIO Duo slider. Sony replaced the optical pointing stick and left- and right-click buttons with a full-fledged Synaptics clicker, which makes scrolling, pinch-to-zoom and other gestures much more fluid. Don't for a second think this is a top-notch tracker, though; its small size makes actions such as copy-and-pasting an ordeal, since it requires a bit of strategy to negotiate the limited space. One note: Sony says its final-production trackpad will offer a slightly firmer button press, though we didn't have any issues with the one on our review unit.
+
+The bundled N-Trig digitizer is a bit heftier this time around, and that's a good thing. It feels better in the hand, and the pressure-sensitive stylus still works well for doodling and transcribing with both included pen tips. And whereas the Duo 11 offered no slot for storing the pen, this model gives you two options: a clip that attaches the stylus to the right side of the device, and a slide-out hook that lets you stand the scribbler at an angle, similar to an ink well. To use the clip, you insert it into a slot on the back of the Duo 13, and then slide in the pen's handle to attach it. Now you just have to make sure you don't lose this small piece of plastic.
+
+Sony also added "pen wake" functionality to work with this clever storage idea. An MR sensor built into the system will detect when you remove the stylus and will automatically wake the system from sleep. You can configure the feature to launch a particular program when the pen is removed, such as Note Anytime. It's quite similar to what we've seen on the Galaxy Note 10.1, but it's a handy trick nonetheless, and it seems to work pretty well.
+
+Display and sound
+The VAIO Duo 13 takes the Duo 11's 1080p IPS touchscreen and improves it with Sony's Triluminos tech, which first debuted in Bravia TVs and is also on its just-announced VAIO Pro lineup. The panel is every bit as bright as you'd expect, and viewing angles are generous. Though you can't adjust the slider display's position, you shouldn't have a problem making out images on-screen when viewing it from the left or right of center. The capacitive touchscreen also recognized all our input flawlessly, which is especially important for using the device in tablet mode. While we clearly like this display, it's worth mentioning that the newest crop of Windows 8 devices includes products with much higher 2,560 x 1,440-pixel resolutions.
+
+You'll enjoy relatively clear audio on the Duo 13, especially considering that the speakers are bottom-mounted. Of course, that doesn't mean music and dialogue sound extremely rich, but sound is sufficiently loud, and it's definitely adequate for watching movies or listening to music in a medium-sized room.
+
+Performance and battery life    PCMark7 3DMark06 3DMark11 ATTO (top disk speeds)     Sony VAIO Duo 13 (1.6GHz Core i5-4200U, Intel HD 4400) 4,440 6,047  E1,853 / P975 / X297
+
+  546 MB/s (reads); 139 MB/s (writes)   Sony VAIO Pro 13 (1.6GHz Intel Core i5-4200U, Intel HD 4400) 4,502 4,413  E1,177 / P636 / X203
+
+  1.04 GB/s (reads); 479 MB/s (writes)   Sony VAIO Pro 11 (1.8GHz Core i7-4500U, Intel HD 4400) 4,634 N/A  E1,067 / P600 / X183
+
+  558 MB/s (reads); 255 MB/s (writes)   Sony VAIO Duo 11 (1.7GHz Core i7-3317U, Intel HD 4000) 4,545 4,807  E1,107 / P621 / X201
+
+  540 MB/s (reads); 525 MB/s (writes)   Samsung ATIV Book 7 (1.8GHz Core i5-3337U, Intel HD 4000) 4,418 4,045  E1,081 / P600
+
+  626 MB/s (reads); 137 MB/s (writes)   ASUS Transformer Book (1.9GHz Core i7-3517U, Intel HD 4000) 4,414 3,840  E924 / P512 / X177
+
+  482 MB/s (reads); 317 MB/s (writes)   Toshiba Kirabook (2.0GHz Core i7-3537U, Intel HD 4000) 5,275 5,272  N/A
+
+  553 MB/s (reads); 500 MB/s (writes)   Acer Aspire S7 (1.9GHz Core i7-3517U, Intel HD 4000) 5,011 4,918 E1,035 / P620 / X208 934 MB/s (reads); 686 MB/s (writes)   MSI Slidebook S20 (1.8GHz Core i5-3337U, Intel HD 4000) 4,043 3,944  E1,053 / P578
+
+  484 MB/s (reads); 286 MB/s (writes)   ASUS TAICHI 21 (1.9GHz Core i7-3517U, Intel HD 4000) 4,998 4,818 E1,137 / P610 / X201 516 MB/s (reads); 431 MB/s (writes)   Microsoft Surface Pro (1.7GHz Core i5-3317U, Intel HD 4000) 4,673 3,811 E1,019 / P552 526 MB/s (reads); 201 MB/s (writes)   Lenovo IdeaPad Yoga 13 (1.7GHz Core i5-3317U, Intel HD 4000) 4,422 4,415  E917 / P572
+
+  278 MB/s (reads); 263 MB/s (writes)   Dell XPS 12 (1.7GHz Core i5-3317U, Intel HD 4000) 4,673 4,520 N/A 516 MB/s (reads); 263 MB/s (writes)  Usually this section of a review sees us pitting similarly specced Ultrabooks against each other -- and as you may know, the playing field is more or less level for these machines. But today we're treading into uncharted terrain, as the VAIO Duo 13 runs Intel's new fourth-gen Haswell processor under the hood. More specifically, this guy's rocking a dual-core Core i5-4200U CPU clocked at 1.6GHz (with turbo boost to 2.6GHz). When we put the machine through its paces in the usual suite of benchmarks, we saw a marked improvement over the Duo 11 and its Core i5-3317U chip.
+
+This step up was most noticeable in graphics tests, such as 3DMark06, where the Duo 13 scored 6,047 compared to its predecessor's 4,807. That showing even bests the numbers of higher-powered Ivy Bridge Ultrabooks, such as the Acer Aspire S7, which netted 4,918. General-performance benchmarks such as PCMark7 show a less dramatic jump -- in fact, the Duo 13 scored slightly lower than the 11. And on the disk benchmark ATTO, Sony's new slider turned in marginally faster read speeds (546 MB/s compared to 540 MB/s for the Duo 11) and, curiously, significantly lower write speeds (138 MB/s versus 525 MB/s). We also tested the VAIO Pro 11, and its Core i7-4500U chip similarly showed a slight improvement over Intel's third-gen processors.
+
+On our battery test the, Duo 13 endured for a whopping 11 hours and 20 minutes.
+
+While those numbers are interesting, we're at the dawn of the Haswell era, and we'll need to test several more machines before drawing definite conclusions about the performance jump. For now, though, we like what we see. One of our biggest performance complaints about the Duo 11 was its unacceptably laggy accelerometer. Thankfully, that glitch doesn't carry over to the Duo 13. Here, the screen switches orientation in just a second or two, as it should. A cold-boot into Windows 8 takes just six to seven seconds, and the Duo 13 generally ran very smoothly during our hands-on time. We only encountered two instances of app crashes, and those might have something to do with not-final firmware.
+
+     Battery life
+
+      Sony VAIO Duo 13 9:40   Sony VAIO Pro 13 8:24   Acer Iconia W700 7:13   Samsung Series 9 (13-inch, 2012) 7:02   Sony VAIO Pro 11 6:41   MacBook Air (13-inch, 2012) 6:34 (OS X) / 4:28 (Windows)   Dell XPS 14 6:18   Sony VAIO T13 5:39   Lenovo IdeaPad Yoga 13 5:32   Dell XPS 12 5:30   Samsung Series 5 UltraTouch 5:23   ASUS Zenbook Prime UX31A Touch 5:15   ASUS Zenbook Prime UX51Vz 5:15   Toshiba Satellite U845W 5:13   Toshiba Kirabook 5:12   Toshiba Satellite U845 5:12   Acer Aspire Timeline Ultra M3 5:11   Toshiba Satellite U925t 5:10   Lenovo ThinkPad X1 Carbon 5:07   Acer Aspire Timeline Ultra M5 5:05   Samsung ATIV Book 7 5:02   ASUS Transformer Book 5:01 (tablet only)   Lenovo ThinkPad X1 Carbon Touch 5:00   Sony VAIO Duo 11 4:47   Acer Aspire S5 4:35   MSI Slidebook S20 4:34   ASUS Zenbook Prime UX21A 4:19   Acer Aspire S7 (13-inch) 4:18   Acer Aspire S3 4:11   Lenovo ThinkPad Twist 4:09   HP Spectre XT TouchSmart 4:00   Vizio Thin + Light (14-inch, 2012) 3:57   ASUS TAICHI 21 3:54   Microsoft Surface Pro 3:46  While the original Duo only lasted 4 hours and 47 minutes on our battery test, Sony says the Duo 13 will endure for up to 10 hours. This longevity is achieved by adding a much bigger power pack -- the company says it's the equivalent of the Duo 11's normal battery plus its optional sheet attachment. When we ran our battery test (playing a video on loop with display brightness set to 65 percent and WiFi on), the device lasted an impressive 9 hours and 40 minutes, much longer than the current Ultrabook average.
+
+Software and warranty
+The Duo 13 may depart from the Duo 11 in several ways, but its software pre-load is not one of them. You'll find many of the same apps, including Hulu Plus, Skype and Slacker Radio. Unfortunately, Kaspersky Now is here as well, and it's as much of a nuisance as it was on Sony's last-gen machine. We disabled the pop-ups almost immediately, and we'd suggest all new owners do the same. Other pre-installed apps include ArtRage Studio Pro and Note Anytime for use with the bundled stylus. There's also Sony's new CamScanner app for snapping receipts and other documents, and of course you'll find branded utilities such as VAIO Care and VAIO Control Center. Notably, NFC support is also on board.
+
+Sony bundles the Duo 13 with a one-year international warranty that includes in-home service for owners in the US.
+
+Camera
+You'll find two cameras on the Duo 13: a 2MP front-facing shooter and an 8MP rear cam, each with an Exmor RS for PC image sensor. Sony says the sensor is useful for both shooting in low-light conditions and capturing documents with the device's previously mentioned CamScanner app. Unfortunately, the 8MP shooter sits in a rather awkward spot: precisely where you'd likely grip the right side of the device when it's in tablet mode. Still, sample shots do look pretty clear, and shadowy areas come through with a good amount of detail. We found auto focus to work much better than manual focus, which isn't even an option for the front-facing lens. That lens does shoot video in 1080p, and sample footage showed accurate colors, if not mind-blowing detail. 
+
+
+

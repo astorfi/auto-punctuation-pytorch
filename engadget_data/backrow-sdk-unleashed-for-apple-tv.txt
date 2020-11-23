@@ -1,0 +1,6 @@
+
+ 
+As if the Apple TV hasn't been hacked up enough in its infancy, Alan Quatermain is keeping the fun rolling with the unleashing of his BackRow software development kit. The completed SDK includes headers for the BackRow framework, iPhotoAccess framework, and QuartzComposer frameworks, which are reportedly all that's necessary in order to build and run your appliance plug-ins and the BackRow Test application. Additionally, you'll find a project template for Xcode, which "creates the Info.plist with the required elements, Appliance and ApplianceController classes, and links in the appropriate frameworks (Foundation and BackRow) for you." Of course, the possibilities are far too numerous to cover in this space, so do yourself a favor and hit the read link if you've managed to hold back your trigger finger 'til now for a detailed account at what the SDK entails.[Via iLounge]
+      
+
+ 

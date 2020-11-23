@@ -1,0 +1,9 @@
+
+ 
+Turns out that the DROID does support multitouch after all -- it's just not as baked as the MILESTONE's, and it's certainly not the kind you'll see out of the box. The DROID's European cousin features multitouch right in the phone's core software load (most notably pinch-and-zoom in the browser, which we've seen demoed on video) whereas the DROID itself still features multitouch capability in APIs but doesn't expose it through any built-in app. Translation: the apps you use every day -- Google Maps and the browser, chiefly -- get left out in the cold for some reason that neither Google nor Motorola (nor Verizon) have thus far been willing to adequately justify. Where you can experience the magic of pinch-and-zoom is in third-party apps written to take advantage of Android 2.0's new APIs (Phandroid demos it on a fresh version of Picsay, for instance), but at the end of the day, that's a consolation prize -- we still want a spin-free explanation of why this was all turned off for the base apps. Follow the break for video of Picsay's support for the good stuff in action.
+
+[Image via mobile-review]
+ 
+
+
+ 

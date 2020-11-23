@@ -1,0 +1,37 @@
+
+ 
+
+When I first saw Google's Cardboard VR contraption earlier this year, I laughed. I thought to myself, "This is a joke, right?" How could this piece of cutout cardboard with a phone in it possibly work as a virtual reality headset? Compared to the Oculus Rift and Samsung's own smartphone-powered Gear VR, this Cardboard thing seemed more like a high school arts and crafts project than anything high-tech. I didn't take it seriously.
+
+
+I was wrong. 
+
+
+
+
+
+
+Not only is Google's Cardboard virtual reality experience more enjoyable than I imagined (we'll get to my hands-on experience later), but also Cardboard is much more than just a DIY toy. As silly as it seems, this combination of cardboard, Velcro strips, magnets and plastic lenses is Google's first serious entry into the brave new world of virtual reality. How serious? Well, while the initial iteration of Cardboard was a result of a 20 percent passion project -- something a small team of employees did in their spare time -- as of today, it is now a 100 percent project. That means Google is now officially invested in virtual reality, with Cardboard leading the way.
+
+To mark the occasion, the company made three key announcements today. First, there's now a dedicated section in Google's newly updated Cardboard app that highlights Cardboard-compatible apps in the Play Store. Some notable ones include a Paul McCartney concert, a Volvo test drive and Proton Pulse 3D, a 3D Pong-style game that's also been made for the Rift. There's also a cool Tiltbrush 3D app that paints animations for you. "All of this is wrapped up in an easier user experience," says Andrew Nartker, the product manager for Google's new Cardboard division. "It's easier for people to find and discover new content."
+
+Next, it's introducing Cardboard SDKs for both Android and Unity, the latter of which is entirely new to the platform. There was already an early developer SDK for Android, but now it's more powerful, with a set of tools that Nartker says will allow anyone to create immersive VR experiences. And, lest you think these virtual reality apps are just for Cardboard viewers; they're not -- if configured properly, they should work for any VR headset powered by an Android device, be it the Gear VR or something like the VR One.
+
+
+Third, Google is releasing new building specifications and tools for makers of its Cardboard headset, whether they're businesses like DODOCase and Knoxlabs or individuals like you and me. The newly released specifications include richer design templates and more detailed manufacturing tips, like the kinds of tools they recommend for each cut job. There's even something called a viewer calibration tool, which makers can use to ensure their cobbled-together headsets will play nice with Cardboard-compatible apps. "This way anyone can make a Cardboard VR device, make it their own, set their own parameters and make sure the content always works," says Nartker.
+
+The whole Cardboard VR movement started in the weeks leading up to Google's annual I/O conference earlier this year. Nartker and a group of other VR enthusiasts within Google came together and started prototyping different ways to make simple VR headsets in their spare 20-percent-project time. "VR for everyone" was the ethos. After tinkering around a lab space with laser cutters and some materials from the local hardware store, they came up with the idea of a cardboard-based VR viewer.
+
+"Cardboard is good enough for the story we wanted to tell," explains Nartker. "Everybody knows what it is. It's low-cost. You probably already have it." It's a simple idea, but it's one that caught on internally at Google. Eventually, it made its way to I/O as a mysterious surprise gift to attendees this year, and the response they got was overwhelmingly positive. Indeed, the team announced that 500,000 Cardboard viewers will have been built as of today. "We really didn't expect it," says Nartker. "We built it mostly for hobbyists and enthusiasts like ourselves, for the maker community. That was really the intention, to put the knowledge and tools in the hands of makers."
+
+
+Well, make they did. So much so that small businesses like I Am Cardboard and Unofficial Cardboard were formed out of just making and selling the Cardboard designs that Google open sourced. Nartker was also surprised at the amount of attention they got from advertising and education circles. The developer community for Cardboard VR, it turns out, was a lot stronger than initially thought.
+
+I had a chance to try out the initial version of Cardboard VR at Google's offices recently, and I was truly surprised by how immersive the experience was. The viewer itself is really just a giant piece of cardboard cut out to hold the phone -- a Nexus 5 in this case -- while the lenses are simply cheap plastic magnifying glasses. But, amazingly, the whole thing works. Head tracking and positioning are done with the phone's accelerometers and gyroscopes and is pretty responsive. Due to some clever software tricks, the apps and video I watched were surprisingly bright and sharp, without any of that screen door effect that happens when you put your eyes too close to a display. On the rear is an NFC tag that informs the phone the configuration of the viewer that it's placed in.
+
+One of the things I liked most was a switch located on the left temple, which consists of just a couple of magnets and a metal ring. I could trigger actions and select items in the menu simply by swiping down on it. It truly felt like I was using an old-school View-Master from my childhood, except now I can do things like watch movies and play games.
+
+As for the future of Cardboard? Well, good news to anyone who's got VR chops and who wants to work for Google: The team is hiring. "Google is committed to VR," says Nartker. "We want to build a rich ecosystem of developers and manufacturers, to create awesome VR experiences ... We want to show everyone what VR could be. Cardboard will be a good point to get people introduced."
+
+
+ 

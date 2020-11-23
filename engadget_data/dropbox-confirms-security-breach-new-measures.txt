@@ -1,0 +1,4 @@
+
+  Dropbox has admitted that spam reported by its users over the last few weeks was the direct result of a security breach. Both login names and passwords were stolen from an unstated number of users, including a Dropbox employee. That account contained a list of clients' email addresses, which is what the company believes led to the spam in the first place. In response, it has contacted those affected to protect their accounts and outlined several new security features. These include a two-factor authentication option coming in several weeks and a new automated feature that will check for suspicious activity. A new landing page will also show you any logins to your account, while Dropbox reheated that always-helpful advise to avoid reusing passwords on multiple websites -- noting that a breach on one site can cause an entire cascade of grief.
+
+

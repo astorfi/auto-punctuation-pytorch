@@ -1,0 +1,9 @@
+
+ 
+It's an old adage that no security measure is worth anything if an attacker has physical access to the machine, but things like heavy-duty disk encryption are supposed to at least slow things down. Sadly, that may not actually be the case, as a group of Princeton researchers has just published a paper detailing an exploit that requires little more than a spray duster and a screwdriver. Since the encryption key for systems like BitLocker and FileVault lives in RAM, all an attacker has to do to get it is cool the RAM modules with the air duster held upside down, yank the DIMM, and insert it into another machine, where it can then be read to access the key. Of course, this assumes that you've already typed in your password, but check the video after the break to see how long bits in RAM stay written -- even if you've turned off your computer, there's a chance the key can still be read. Looks like there's an actual benefit to MacBook Air's soldered-in RAM after all, eh?
+      
+
+ 
+
+
+ 

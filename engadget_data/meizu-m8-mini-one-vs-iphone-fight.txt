@@ -1,0 +1,10 @@
+
+ 
+So we finally had the chance to lay palms to Meizu's M8 prototype. Better yet, we set it up side by side with it's muse, the Apple iPhone. Let's be clear, the prototype is not functional by any stretch of the imagination. It simply turns on and then slaps up one of three images representing the home screen, dialer, or media player depending upon which of the three physical buttons you press along the bottom of the main display. The capacitive touch panel does not work at all. While the physical components may or may not be in place, this is clearly a very early engineering sample. Having said that, Meizu claims that the hardware is complete and final -- they are only working on their Meizu OS tweaks to the Windows CE 6.0 base. However, the GUI and icon designs are pretty much locked in at this point with only minor changes expected before this hits China this August for a to be determined price. Unfortunately, Meizu is still working on their international deployment strategy (duh, they're looking to sign up distributors at CeBIT) so they are not willing to commit to any dates or prices. Gotta say, for all our justifiable M8 bashing, the mini One felt good in the hand and the additional hard buttons, 720 x 480 pixel display, 3 megapixel camera and likely el cheapo price tag have once again perked our interests. Still, it's a long way from it's original 3G HSDPA and kitchen-sink roots and a bit too late (GSM/EDGE in 6 months, Puh-leeze) at this point to be anything more than a novelty outside of China. Nevertheless, the development lifecycle has been fun to watch. Click through for the main features and specifications expected at launch. Video in a jiffy.Update: Video now available, also of the UI.
+
+
+
+
+
+So here are the final specs and features now expected at launch: quad-band GSM/EDGE 850/900/1800/1900 Bluetooth 2.0+EDR 802.11b/g WiFi 3.4-inch 720 x 480 capacitive touch LTPS TFT-LCD 3 megapixel autofocus camera 667MHz ARM11 processor WinCE 6.0 based Meizu OS H/W encoder/decoder 107 x 59 x 11.9-mm 8GB of 16GB of flash NAND TV-out phone, music, video, camera, internet browser automatic backlight and display orientation adjustment
+ 

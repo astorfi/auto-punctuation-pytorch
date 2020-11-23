@@ -1,0 +1,54 @@
+
+A little good / bad news for those dads who scored an AR.Drone 2.0 for Father's Day over the weekend. It's already time to upgrade. Starting next week, Parrot will be offering up those new add-ons it announced way back at CES. The "black box" Flight Recorder has been priced at $130, adding the ability to save flight data and GPS information from runs, which can be viewed in 3D through AR.Drone Academy maps. The device plugs into the quadcopter's USB port, bringing 4GB of storage that can also be used to save up to two hours of HD video. The Recorder also lets users perform simple piloting maneuvers via smartphone and tablet. The high density battery, meanwhile, has been priced at $70, bringing 18 minutes of flight time to the 'copter. Both are available now through Parrot's store.
+
+
+On the software side, the $3.99 2.0 piloting app brings Director Mode to the flier, giving users more control over the video they shoot with their drone, including editing and picture settings like white balance and saturation. Parrot's offering the Rescue Mode update for free, meanwhile, with random shake and over balance settings to help rescue your drone from quadcopter-eating trees.
+
+
+
+Show full PR textParrot AR.Drone 2.0: Flying further, faster, higher!
+In June, Parrot offers AR.Drone 2.0 fans' to experience even more astonishing flights:
+• Flights displayed on 3D, video storage and GPS localization thanks to the new Flight Recorder module;
+• Access to Director Mode feature for filming the world from the sky like a pro;
+• Increased flight time by 50 percent thanks to a new High Density Battery.
+With new features and accessories, beginner and expert pilots will benefit from the most advanced technology and limitless flights!
+Flight Recorder: The black box...
+As black boxes are standard on commercial aircrafts, Parrot AR.Drone 2.0 will now have the option to utilize the new Flight Recorder system, which can save flight data and GPS-localized information.
+When plugged into the Parrot AR.Drone 2.0, this module can accurately (+/- 2 meters) save the exact position of the quadricopter throughout each flight.
+The collected data can be viewed in 3D and can be analyzed through the AR.Drone Academy maps.
+Equipped with a 4GB Flash memory; Flight Recorder also can record approximately two hours of HD video. This content can be easily shared with the AR.Drone community via the AR.Drone Academy.
+Flight Recorder provides access to two additional unique features:
+• « Click & Go » Piloting ModeThanks to the Flight Recorder module, the pilot and its quadricopter and geolocalized on a map. One click on the piloting smartphone or tablet screen and pilot defines a destination. After adjusting the flight altitude and speed, the Parrot AR.Drone 2.0 will reach the selected destination (depending on Wi-Fi range).
+• « Return Home » feature
+One click on the Home button and the Parrot AR.Drone 2.0 goes back to its original departure location.
+For expert pilots:
+The Flight Recorder module is compatible with MAVLink Open Source communication protocol and can be used with QGround Control solution for defining flight routes.
+Also, team at the Delft University of Technology integrated the open source high end autopilot software, paparazzi, in the AR.Drone hardware. There is no need to change the AR.Drone hardware but only to plug in the Parrot Flight Recorder. Next step is to have a laptop with paparazzi on it, to connect the laptop Wi-Fi to the AR.Drone, to launch paparazzi and to click on « compile » so that the software will be put on the AR.Drone. You're now ready to fly!
+Video: http://www.youtube.com/embed/oX423smmPEc?autoplay=1
+Wiki Page: http://paparazzi.enac.fr/wiki/AR_Drone_2/getting_started
+Flight Recorder is available on www.parrotshopping.com and at select stores.
+List of point of sales: www.parrot.com
+Price: $129.95 USD
+For immediate release Paris, June 17, 2013
+Director Mode: Film like a pro!
+Pilots equipped with an iPhone®, iPad® or iPod touch® can benefit from the Director Mode feature, which is available through the Parrot AR.Drone 2.0 piloting app.
+This feature gives pilots the opportunity to create smooth videos using nine pre-registered movements (forward/backward travelling, panoramic, crane, etc.) allowing them to modify speed before or during flight.• Camera settings
+Director Mode feature offers a number of different camera settings, including: white balance, saturation, exposure, etc.
+• Post-production settings
+To achieve a clear view from the sky, Director Mode offers advanced video settings. While watching a previously recorded AR.Drone 2.0 video, a graph highlighting image vibrations is displayed on the smartphone or tablet piloting screen. The pilot can then select sequences to post-production edit for improving image stability.
+• Sequences edits
+Is your video from the Parrot AR.Drone 2.0 too long? Sequences not interesting enough? Pilots can easily select sequences to keep or delete in just a few clicks. The software also can edit sequences to create a new video.
+All videos can be shared from the piloting app on YouTube, Facebook or the AR.Drone Academy.
+Director Mode: $3.99 USD
+*The piloting app must be up-to-date to download Director Mode and is currently available on the App Store℠ (Android™ version will be available in September).
+High Density Battery: Fly more...
+Thanks to the new High Density Lithium-Polymer battery, available as an optional accessory, Parrot AR.Drone 2.0 can fly non-stop for 18 minutes!
+The High Density Battery is available on www.parrotshopping.com and in select stores.
+List of point of sales: www.parrot.com
+Price: $69.95 USD
+Bonus: 'Rescue Mode'
+Due to piloting errors or bad weather conditions, Parrot AR.Drone 2.0 can get stuck in a tree or other obstacle. To recover the AR.Drone 2.0, pilots now have the option to select from two propeller movements (random shake or over balance) from the smartphone or tablet piloting device.
+Rescue Mode is available for free after updating the AR.Drone piloting app in the App Store.
+Watch Parrot AR.Drone 2.0 vides on YouTube.com/ardrone
+Parrot AR.Drone 2.0 embodies the most advanced technologies, including ultra-robust and powerful engines. Technical specifications of this state-of-the-art technology can be found here.
+

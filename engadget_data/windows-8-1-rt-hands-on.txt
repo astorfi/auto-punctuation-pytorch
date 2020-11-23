@@ -1,0 +1,12 @@
+
+When we got hands-on with the Windows 8.1 preview earlier this week, it was on a Surface Pro -- i.e., an x86 system running full Windows. Until today, though, we hadn't had a chance to try the software on a device running Windows RT. Well, fortunately for us, Microsoft has a row full of freshly updated Surface RT units on display here at Build, so we took the opportunity poke around a little. As you'd expect, Windows RT 8.1 has all the trappings of the full Windows version, including an always-there Start button and new apps like Food & Drink and Health & Fitness. What's sort of interesting is that you can boot to the desktop here as well, just as you would on Windows 8.1. (We say "interesting" because, well, how urgently do you need the desktop on RT anyway?) The desktop also still comes with Office apps pinned to the Taskbar, in case you were wondering.
+
+
+Performance seems much the same as before, particularly because we were handling last year's Surface RT, which still ships with a Tegra 3 SoC. Browsing and loading tabs in IE11 feels snappy but then again, IE11 was supposed to be a tick faster than IE10. Overall, navigating the OS can still feel slightly sluggish, but the build we tried is at least stable. Other than that, it looks like we'll have to wait for some new ARM chips before we can revisit performance in Windows RT. We'll also be back to take a look at the forthcoming RT Outlook app, which we haven't seen yet. Until then, don't expect us to write another 4,000 words on the subject.
+
+
+
+
+
+Myriam Joire contributed to this report.
+ 

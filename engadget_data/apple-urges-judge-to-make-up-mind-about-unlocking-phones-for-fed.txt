@@ -1,0 +1,10 @@
+
+Today, Apple tried to prod New York Magistrate Judge James Orenstein into settling a months-old debate about unlocking an iPhone at the heart of a criminal investigation. A letter submitted by one of the company's attorneys maintains these sorts of unlocking requests aren't going to to stop anytime soon, and that both Apple and the Department of Justice agree the judge should make a ruling. And really, that's about the only thing those two players agree about.
+
+
+
+To fully understand this story, let's flashback to October 2015 when a man named Jun Feng plead guilty after being charged with possessing and conspiring to distribute methamphetamine. Normally that would be the end of the story, but what happened after was even more interesting — federal prosecutors tried to compel Apple to unlock Feng's iPhone 5s so they could sift through potentially juicy details hidden inside. If Feng had updated his phone to run iOS 8, there's not a thing Apple could have done — the update brought with it strong file encryption and security so Apple can't get at a device's sensitive data. Older versions, like the iOS 7 build on Feng's phone — didn't have those enhanced protections, leaving Apple with the ability to unlock them if legally forced.
+
+At the end of the day, the DoJ wanted Apple to unlock Feng's phone to help with its ongoing investigation into a narcotics ring. Apple, meanwhile, was concerned how a forced extraction of data "could threaten the trust between Apple and its customers and substantially tarnish the Apple brand". And until Judge Orinstein makes a decision — one that will definitely be appealed anyway — the folks in Cupertino and D.C. will remain in a sort of legal limbo.
+
+

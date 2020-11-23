@@ -1,0 +1,6 @@
+
+ 
+ The lives of devs eager to take advantage of storage in the cloud are about to get a whole lot easier thanks to Dropbox's new Sync API. The tool streamlines the process of integrating with the service, offloading most of the heavy lifting onto Dropbox itself. Now, that's not entirely new, since Dropbox has been open to other app makers for sometime. The big sell here are the actual syncing capabilities. Until now, apps have been able to tap into your online well of files, but syncing has always been a dev-implemented process built on top of the existing APIs. The downloading, storing, change tracking and uploading were all the responsibility of the developer. The Sync API does away with the much of the set up work and allows the creation of apps that simply sync across platforms without any hacking or jury-rigging. Apps can simply ask if you want to sync with Dropbox now and the act of creating and maintaining a folder won't necessitate any further user input (though, it still can if the dev so chooses). The API is available today, and the first program to take advantage of the private in-app Dropbox client, Squarespace Note is awaiting approval before landing in the App Store. For more, check out the blog post at the source.
+ Update: As some of you may have noticed the source link was missing. Sorry for the inconvenience.
+
+

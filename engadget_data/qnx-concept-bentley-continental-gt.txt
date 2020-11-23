@@ -1,0 +1,79 @@
+
+ RIM's subsidiary QNX has a serious thing for cars. Today, the company announced the QNX Car Platform 2.0 and an associated development platform, which is now available to auto manufacturers. Later this year, the group will also release an HTML5 SDK, which will provide specialized APIs for accessing various hardware components within a vehicle. To show off the platform, QNX partnered with Bentley to produce a concept Continental GT, which the duo unveiled today at CES. It's said to boast smartphone integration, voice recognition and video conferencing -- scary to think about that last one. In the following clip, you'll find an overview of the development process, along with a peek of the interface and controls. Consider the Porsche 911 officially jealous.
+
+
+
+ 
+  Show full PR text   QNX Announces Release of QNX CAR Platform 2.0
+   Platform already being adopted by automotive community for next-generation infotainment systems
+
+   LAS VEGAS, 2013 International CES (North Hall, Booth 1837), January 8 - QNX Software Systems Limited, a global leader in software platforms for in-car electronics, today announced that a release of the QNX CAR™ application platform 2.0 and of its associated tooling environment, the QNX CAR™ development platform 2.0, is now available to the automotive community.
+
+   The QNX CAR application platform 2.0 supports an exceptionally rich set of pre-integrated technologies, both from QNX Software Systems and from dozens of ecosystem partners. This pre-integrated platform, built on an OS proven in tens of millions of vehicles, enables automotive customers to hit the ground running and significantly reduce the time required to build connected, cutting-edge infotainment systems.
+
+   "The era of multi-year design cycles in car infotainment is over; our customers now want to develop at the speed of mobility. Case in point: we helped one customer slash their development effort down to 14 months - a massive improvement over the industry standard of 3 years," said Andy Gryc, automotive product marketing manager, QNX Software Systems. "At the same time, our platform helps infotainment systems stay relevant long after they've been deployed, through an HTML5 framework that simplifies smartphone integration and that enables manufacturers to keep vehicles fresh with new apps and content."
+
+   To help mobile developers and automakers work in tandem, QNX Software Systems also plans to release an HTML5 SDK for the QNX CAR application platform by mid 2013. HTML5 is the only application environment that works with all of the major mobile platforms. The SDK will provide mobile developers with specialized APIs for accessing automotive devices and hardware. It will also include an emulator that lets mobile developers quickly see how their apps would look and function in an actual car.
+
+   QNX Software Systems has also released the QNX CAR development platform 2.0, which provides the tools that customers need to create, modify, debug, and test their custom versions of the QNX CAR application platform.
+
+   "For almost a year, automotive companies in the U.S., Germany, Japan, and China have been putting the QNX CAR application platform 2.0 through its paces. We're thrilled to see the many next-generation designs that customers already started developing on the platform during the early access program," said Andy Gryc.
+
+   Platform demonstration at 2013 CES
+
+   To demonstrate the extraordinary flexibility of the QNX CAR application platform 2.0, QNX Software Systems has created a new technology concept car based on a Bentley Continental GT. The car, which will be unveiled today at 2013 CES, showcases unique technologies never before seen in a car, as well as advanced smartphone integration, natural voice recognition, and video conferencing. See accompanying press release, "QNX Re-imagines the Driving Experience with New Technology Concept Car."
+
+   QNX Software Systems has licensed its software technology for millions of in-vehicle systems worldwide, including digital instrument clusters, hands-free systems, multimedia head units, connectivity modules, and 3D navigation systems.
+
+   ---
+
+  QNX Re-imagines the Driving Experience with New Technology Concept Car
+   Car demonstrates how exceptional flexibility and integration of QNX CAR application platform 2.0 can help auto companies move faster from whiteboard to showroom
+
+   LAS VEGAS, 2013 International CES (North Hall, Booth 1837), January 8 - QNX Software Systems Limited, a global leader in software platforms for in-car electronics, today unveiled a technology concept car that demonstrates how the QNX CAR™ application platform 2.0 is bringing new levels of design flexibility and development speed to the automotive industry.
+
+   The concept car, based on a Bentley Continental GT convertible, integrates technologies never before seen in any vehicle, to show how QNX Software Systems is helping its customers build the "connected cockpit" of tomorrow. To create the car, the QNX concept team used the same base platform that QNX offers its automotive customers - a dramatic illustration of how the platform empowers automotive companies to build unique, cutting-edge products.
+
+   "From smartphone integration to 3D navigation, our tier one customers are under pressure to deliver market-differentiating features at the speed of mobility," said Derek Kuhn, vice president of sales and marketing, QNX Software Systems. "Consumers have become conditioned by the rapid evolution of mobile devices, and the QNX CAR application platform was expressly designed to help automotive companies address those time-to-market expectations - while maintaining automotive-grade reliability and performance."
+
+   The concept car is a testament not only to the flexibility of the QNX CAR application platform 2.0, but to the rich, closely knit ecosystem of technology partners that QNX Software Systems has built over the last decade. Highlights include:
+
+   Revolutionary center stack with DLP® display from Texas Instruments Incorporated (TI) - Say goodbye to the conventional flat touchscreen. This immense DLP-enabled display features an organically curved surface, full HD graphics, and TI's optical touch input technology, which allows physical control knobs to be mounted directly on the screen. The result: an ideal balance in physical and touchscreen controls. "Always available" 3D navigation from Elektrobit makes full use of the display, enabling the driver to know where they are at all times. Crank Software's Storyboard™ Suite was used to develop the dynamic user interface and rich animations.
+
+   Natural voice recognition based on AT&T WatsonSM - Just say "Hello Bentley," and the car's voice recognition system immediately starts interacting with you, in a distinctly British accent. No button pushes needed, as the system uses Truly Handsfree™ keyword spotting technology from Sensory. The system is powered by AT&T Watson speech recognition technology, which enables handsfree control of the media player and navigation system. The AT&T Watson multimodal and multilingual speech engine runs on a cloud-based server to provide high-quality recognition with low latency. The system also uses an intent framework from QNX Software Systems for adapting AT&T Watson to a variety of in-car applications.
+
+   Flexible smartphone integration - The Bentley showcases how the QNX CAR application platform enables advanced integration with popular smartphone platforms. For instance, the car can communicate with the user's smartphone to stream music, or to provide notifications of incoming email, news feeds, and other real-time information, displayed in a manner appropriate to the automotive context.
+
+   Multimedia system with first in-car implementation of Shazam music discovery service - The infotainment system includes an HTML5 implementation of Pandora® Internet radio that is deeply integrated into the media player, as well as the first implementation of the Shazam® music discovery service embedded in a car.
+
+   Web app for remote monitoring - Simply connect to a web app and keep tabs on the Bentley in real time! The Bentley is cloud-connected and continuously publishes a variety of data about itself (current media track, fluid levels, tire pressure, etc.) that you can view on any device with a browser that supports HTML5 - no app download needed. In the real world, only the driver would have access to this functionality, but the demo is available to everyone to demonstrate the possibilities of cloud access.
+
+   Video conferencing with realistic telepresence - The Bentley raises the concept of the mobile office to a new level by providing advanced video conferencing - while the car is parked, of course. Separate cameras for the driver and passenger provide independent video streams, while high-definition voice technology from QNX offers expanded bandwidth for greater realism, as well as stereo telepresence for making the remote caller sound as if they're sitting right next to you.
+
+   Reconfigurable digital instrument cluster - Implemented entirely in software, the cluster can be reconfigured on-the-fly to provide the driver with a variety of context-appropriate information. For instance, it integrates with the center stack's 3D navigation system to display turn-by-turn directions, right where they're easiest to see. It can also display current weather conditions and a video feed of the car's back-up camera, as well as a tachometer, speedometer, and other virtual instruments.
+
+   LTE connectivity - The Bentley features an LTE radio modem, as well as a Wi-Fi® hotspot for devices brought into the car.
+
+   QNX reference vehicle with mobile integration and user personalization QNX Software Systems will also demonstrate the QNX reference vehicle, a specially modified Jeep Wrangler that showcases what the QNX CAR application platform 2.0 can do, straight out of the box. Highlights include one-touch Bluetooth® pairing with smartphones using NFC, an auto-centric HTML5 framework for leveraging the mobile ecosystem, DLNA® support for phone and home -based media, high-definition hands-free communication, and advanced personalization options for drivers, OEMs, and developers. The vehicle also integrates a variety of partner apps and technologies for hybrid navigation, natural speech recognition, streaming Internet radio, weather reporting, parking search, Twitter® access, FOTA (Firmware Over-The-Air) software updates, and integrated Bluetooth profiles.
+
+   QNX Software Systems has licensed its software technology for millions of in-vehicle systems worldwide, including digital instrument clusters, hands-free systems, multimedia head units, connectivity modules, and 3D navigation systems.
+
+   Customer and partner demonstrations
+
+   The following automotive companies will demonstrate QNX-based systems at 2013 CES:
+
+   Delphi - Delphi will demonstrate the first customer implementation of the QNX CAR application platform 2.0 to run on a TI OMAP 5 applications processor. The demo will showcase how Delphi has leveraged the HTML5 framework in the QNX CAR platform to create a powerful graphics system for automotive use. Visit LVCC, North Hall, booth 730.
+
+   Harman - Harman will showcase a variety of QNX-based in-dash electronics, ranging from premium solutions for customers such as Audi, BMW and Chrysler, to the latest in full-featured infotainment that combines mobile ecosystem advantages with automotive grade reliability. Visit LVCC, Central Hall, booth 10431.
+
+   Panasonic - Panasonic will demonstrate a Chevy Malibu equipped with an infotainment system based on QNX automotive technology. Visit LVCC, Central Hall, booths 9406, 9806.
+
+   The following members of the QNX automotive ecosystem will demonstrate their technology running on the QNX platform:
+
+   Elektrobit (EB) - EB will demonstrate its connected embedded navigation solution, EB street director navigation, on the QNX CAR application platform 2.0 in the North Hall, booth 3220. Highlights include 3D landmarks and city models, animated exit views, and integration of location-based services.
+
+   Gracenote - Gracenote will feature its music database and latest automotive software on the QNX CAR application platform 2.0 at the Gracenote Lounge at the Cosmopolitan Hotel, fourth floor. Demonstrations will be held throughout the week with a showcase on Wednesday, January 9, by appointment.
+
+   TI - TI will demonstrate the QNX CAR application platform 2.0, fueled by a high-performance, low-power OMAP™ processor. The QNX CAR platform demo includes TI's DLP technology, which powers most of the world's digital movie theatre projectors. Demonstrations will be held in the TI Village, rooms N115-N119, by appointment.
+
+ 

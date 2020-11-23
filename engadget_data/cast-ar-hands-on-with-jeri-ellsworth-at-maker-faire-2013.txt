@@ -1,0 +1,18 @@
+
+When Valve's first hardware hire, Jeri Ellsworth, tweeted back in February that she was fired from the company, we were disappointed but also intrigued by what she meant by "time for new exciting projects." Well we finally saw what she's been up to here at at Maker Faire 2013. It's called Cast AR, and it's a pair of 3D augmented-reality glasses that she and former Valve programmer Rick Johnson were working on at Valve before they left.
+
+
+The model we saw is still in the early prototype stages, but the concepts are already in place. Perched atop a pair of active shutter glasses are a couple of miniature LCD projectors, which bounce images from a connected computer onto a special reflective surface at a 120Hz refresh rate. A camera module sits on the eyewear's bridge and monitors an array of infrared LEDs embedded in the reflective surface. This allows for quick and accurate head tracking. Join us after the break for our impressions and our video interview with Jeri Ellsworth. 
+
+
+
+
+
+Unlike virtual reality goggles like the Oculus Rift, putting on the Cast AR doesn't cocoon you in another world. Even though we were immersed in a 3D environment, we could still see our surroundings and what was in front of us; the open-sided see-through glasses are purposefully designed not to close us off from reality. We interacted with a variety of environments, from a flying tour over a digital landscape to shooting up zombies with hooked up Xbox controllers, and was amazed at how intuitive and natural the controls felt. We also waved a LED-equipped wand around to throw a wrecking ball into a Jenga-style tower, which delighted us to no end. Not once did we feel nauseous or disoriented even as we bobbed and weaved.
+
+Ellsworth's new company, Technical Illusions, plans to bring Cast AR from prototype to finished product with Kickstarter later this year to help fund the project. Together with her team, she's already created a mock-up of what she hopes the final item will look like. She wants to sell the whole kit -- glasses, wand accessory and required reflective surface -- for under $200.
+
+As for her feelings on Valve, Ellsworth is appreciative of her time there, and she's certainly grateful that she was allowed to take her passion for AR beyond the company even though Valve's core product line doesn't quite allow for it. "Actually I didn't even think AR was very interesting at first," she said. "But as I started seeing the potential for all these brand new game experiences that you could have, I'm very passionate about AR, and am putting all my effort into AR."
+
+Myriam Joire contributed to this report.
+

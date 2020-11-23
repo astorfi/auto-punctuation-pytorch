@@ -1,0 +1,10 @@
+
+ 
+Been looking for the perfect thing to boast to your iPhone-owning friends about? Well brace yourself, because doubleTwist has just gone wireless with its latest update, introducing a feature called AirSync which allows Android users to keep their media collection simpatico sans cabling. The new app for PC and Mac boxes couples with its Android counterpart (along with a new AirSync component) and lets you do most of your management without needing a wire between your phone and computer. The desktop application and DoubleTwist player for phones won't cost you a thing, though AirSync itself is $0.99 on the phone for the first 10,000 buyers, and then jumps to $4.99 a shot.
+
+Setup is relatively painless, requiring just a passcode from your phone which is input on the PC side. From then on, whenever you've got the app open and your device in range, the content stored on the phone will appear in your DoubleTwist list just as if you'd plugged the phone in (similar to the Windows Phone 7 / Zune wireless sync). We took AirSync for a ride with our Mac and Droid Incredible, and everything seemed to work fine, though we did notice a few bugs (one that was pretty major) that need worked out. Firstly, you'll probably want to just start fresh with syncing your collection -- we made the mistake of trying to pick up where we'd left off and accidentally wiped the content stored on the phone. We also noticed issues with the application trying to sync or update your database while listening to music; more than once our playback abruptly stopped when the app was attempting to talk to the phone. Syncing can also be pretty slow depending on your connection -- really slow if you've got a big collection.
+
+Despite those complaints, AirSync (and both the doubleTwist Android app and desktop client) are incredibly slick solutions to a problem plaguing lots of smartphone users. The company obviously has just begun its work with the app -- and it's clear that there are kinks to work out -- but the dream of a wireless future for Android users just got a lot closer to reality.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+   
+If the TellyRAID we saw yesterday is the NAS for TV nuts, we'd have to say this N5200 NAS from Thecus is the NAS for people with actual secure storage needs (lame) -- or who are just plain nuts. First, the N5200 houses five hard drives, which by our count means you could get about 3.75TB worth of 750GB drives in this thing. For networking there are four Gigabit Ethernet ports, which should hopefully keep up with most small business networks. The box runs on a Celeron M CPU to manage all the crazy storage and bandwidth, and supports USB RAID if you'd like to get all redundant on your flash drives. Thecus has added AFP and NFS network support -- along with the usual suspects -- and are even throwing in an admin utility for Macs. Overall, the device is quite feature full, and its RAID6 and RAID10 support make it a haven of redundancy. No word yet on price or availability.
+      
+
+ 

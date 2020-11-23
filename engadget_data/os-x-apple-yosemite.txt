@@ -1,0 +1,29 @@
+
+Apple's just unveiled the latest update to its desktop operating system for Macs and it's called Yosemite. While last year's Mavericks brought the inevitable reality of iOS/OS X integration even further with the introduction of familiar apps, like Maps and iBooks, this time around, Apple's Tim Cook promises both systems are now "engineered to work seamlessly together."
+
+
+Craig Federighi, SVP of software engineering at Apple, explained that Apple's focus for OS X Yosemite was on clarity, continuity and clear font type throughout the operating system. Finder window menus are now translucent, matching up with the image backgrounds on your desktop to dynamically shift for personality and color temperature. This effect has been translated to the refreshed dock, which itself has also gotten a slight makeover with newer, flatter-looking icons and even a new trashcan; something Federighi referred to as "fundamentally still Mac." There's even a new "dark mode," giving users the option to eschew translucency for dark gray toolbars. 
+
+
+
+
+
+
+As Cook mentioned at the start of today's WWDC kickoff, the prevailing theme of this OS X update is one of uniformity and the enhancements made to Yosemite reflect that direction. The OS now sports changes to menu navigation for Apple's suite of desktop applications that see the nav bar moved to the left rail across all programs, like Messages or FaceTime.
+
+Federighi went on to highlight changes to Notification Center in Yosemite, saying that users can expect to now see a full day's worth of their schedule lumped in with regular notifications from other apps. To swap between the two, Apple's added in tabs at the top to let users minimize the information (e.g., calendar, reminders, news updates) shown at a glance. Widgets for weather, stocks and calculator have also been tossed into this new Notification Center for easy access.
+
+One of the more glaring changes to OS Yosemite is the addition of Spotlight search as a front-and-center service throughout the system. A search bar, akin to Google's search bar across Android devices, will appear in the midst of the desktop so users can quickly index and surface apps, docs and other items of interest without having to go all the way to the icon on the upper-right corner of the menu bar. This new Spotlight can even be used to bring up full contacts info and any related information -- be it a shared document or scheduled appointment -- attached to a specific contact search.
+
+The change to Spotlight here, as we mentioned previously, really seems to be going after the preemptive search of Google Now. Federighi showed off how the feature can now make recommendations for movie times, nearby restaurants and even offer measurement conversions. Apple's even worked Spotlight into the address bar of the revamped Safari browser, again to give users a one-stop shop for search across the web and local files.
+
+As for Safari, that browser has predictably been updated for "continuity," Federighi's favorite buzz term for this WWDC. The browser's window carries over the translucency seen in other areas of the operating system, but also sports changes to some familiar functions. Favorites are now hidden by default, but users can access these by clicking on the address bar. Sharing out links to social networks has been simplified with a one-click process and RSS feeds will populate in the browser's sidebar.
+
+AirDrop in Yosemite now works with iOS, so iPhone owners can easily transfer files to the Mac and back. Another example of "continuity" is Handoff, OS X Yosemite's ability to recognize work being done on iOS that a user might want to continue on the desktop. The feature works very simply: Once an action is detected on iOS, Yosemite will create an icon on the desktop to remind the user to complete the task. This sensing ability also extends to creating a tethered connection, as a user's iPhone will now appear as a connection option in the WiFi dropdown.
+
+Gmail users have long enjoyed the ability to make and receive calls from their laptops and now Apple's giving users of its ecosystem that same perk. Once connected to your iPhone, Yosemite will prompt users with notifications to answer or ignore incoming calls (both audio and video); a feature Federighi demoed by ignoring his mother's call and then calling new Apple employee, Dr. Dre. The OS will even allow users to click on a number within a website (say from a restaurant page) to dial it directly.
+
+Since WWDC is a developer-focused conference, Apple is making OS X Yosemite available as a preview for those folks beginning today, with a non-dev beta to be released this summer. But, as it was with OS X Mavericks, today's Yosemite reveal is only a teaser for the Apple user public-at-large and that full retail release won't be available until sometime this fall. Though, when Apple does unleash OS X Yosemite later this year, users will be able to download it for free.
+
+Which OS X Yosemite feature excites you the most? 
+

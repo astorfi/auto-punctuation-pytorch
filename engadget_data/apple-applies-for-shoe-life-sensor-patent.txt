@@ -1,0 +1,6 @@
+
+ Nike's running sensor, a detachable piece of tech that connected to a companion iOS app, is the closest that Apple's associated itself to foot metrics so far, but folded inside the company's patent applications for today is this left-field addition, a shoe wear-out sensor. We assume the idea is geared towards runners -- presumably these brogue outlines we're looking at above are just red herrings.
+
+ The application draws together two possible outcomes: one with an thin sensor layer built your footwear of choice and another which keeps the sensor in the heel. A "unitless activity number" is also mentioned, where the device (which could include accelerometers, flexibility sensors and more) could craft an "activity value" based on your movement -- this would then also be used to gauge the shelf-life of your current footwear. When this pre-specified threshold is exceeded, it would then sound the alarm. According to one diagram, the process could connect with an external display, likely broadcasting its concern to your nearby iOS device. But if your running needs demand a sensor to tell you when your sneakers are cooked, there might be other things worth tracking.
+
+

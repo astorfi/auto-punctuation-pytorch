@@ -1,0 +1,13 @@
+
+       A few days ago many of you didn't like Matt's assertion that you probably can't tell the difference between 1080i and 1080p. Theoretically he is correct, but as we all know that reality can be different.
+      
+
+ 
+          
+ 
+ 
+ There are a few problems here and the first is a difference between CRT TVs and everything else. Until recently the only 1080 TVs were CRTs and they were 1080i, well at least in theory they are 1080i. In reality they are more like 600-700 lines, but that is a simply the difference between a manufactures specs and reality. The first TVs that could actually live up to their specs were the 1080p LCDs and later DLPs.   The second problem; How to get from 1080i to 1080p?  Matt mentioned in his post how the TVs signal processor will deinterlace the 1080i and turn it into 1080p and once again theoretically you shouldn't be able to tell if the signal was converted. The problem is that many TVs don't do this properly. A few month back in a Home Theater Magazine there was an article about how many TVs actually threw out half the lines when converting from 1080i to 1080p. The correct way is to take each 540 line field and weave them together to create a single 1080p frame. For whatever reason, (probably because it's cheaper) the TV would instead takes the 540 line field and doubles it creating a 1080p line frame, this is called bobbing. Obviously this is less horizontal resolution than 720p and only about 14% more than EDTV. Home Theater Magazine tested most of the 1080p TVs from 2005 and only about 48% of them passed the test. Follow the link to see how your TV did. It will be interesting to see results from the 2006 models.  The other interesting thing to mention is that there are more options with true 1080p sourced material. Material sourced from the networks is likely never going to see anything higher than 30fps while Blu-ray or HD DVD should be able to deliver up to 60fps which would obviously have advantages. Of course film sourced material will be best viewed at 24fps, but IMAX or HD video sourced material could take advantage of the higher frame rate.
+
+       
+
+ 

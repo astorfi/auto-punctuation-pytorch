@@ -1,0 +1,5 @@
+
+  AMD's Trinity APU can do some remarkable things, but we still don't know exactly what magic ingredients make its Piledriver cores superior to the tepidly received Bulldozer. Now though, a firm called Cyclos claims it's supplying 'resonant clock mesh' power-saving technology for use in the new module. In speaking to the media, it's revealed that this will help to enable a "4+ GHz" factory clock speed, which sounds high if it definitely refers to an integrated chip with low-power credentials. As for the resonant clock mesh itself, it's a bit like KERS for processors: it recycles clock power instead of letting it dissipate and thereby enables higher clock speeds in "next generation SoCs that also require ultra-low power consumption." We also know that the technology is financially backed by ARM and Siemens and has seen precious little implementation prior to AMD -- which is fine, so long as all that resonance doesn't make our rig hum even louder.
+      
+
+ 

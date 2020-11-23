@@ -1,0 +1,6 @@
+
+ We've just seen an update to Firefox for Android, but that's not the only revision that Mozilla has had in the works. Today also sees the release of version 17 of the desktop browser, which brings with it a number of changes and one noticeable omission. The latter is a lack of support for Mac OS X 10.5 (a.k.a. Leopard), which Mozilla first announced last month -- those on Leopard can of course continue to use Firefox 16, they just won't receive any updates. Otherwise, you can expect a new "Awesome Bar" with larger icons, more than 20 promised performance improvements and a new click-to-play functionality for dealing with outdated or potentially vulnerable plug-ins. Also receiving the bump to version 17 is the Extended Support Release (or ESR) version of the browser, which disables the automatic updating to cause less headaches for those dealing with mass deployments. You can find the full change log at the source link below.
+
+ Update: As TechCrunch notes, version 17 also adds the new Social API to Firefox, although Facebook is the only site to take advantage of it so far -- it now lets you add Messenger to the browser's sidebar.
+
+

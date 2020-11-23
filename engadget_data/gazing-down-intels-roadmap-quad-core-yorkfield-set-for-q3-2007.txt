@@ -1,0 +1,5 @@
+
+ If nailing down the specs to Intel's Classmate PC wasn't thrilling enough, and you were left neck deep in transistors after wading through all those CPU announcements, how about a taste of next year, only right now? DigiTimes has it that Intel's roadmap (which has been surprisingly accurate thus far), already has plans for the next, next quad-core processor, dubbed Yorkfield. Slated to hit motherboards in Q3 2007, the Yorky builds on the forthcoming Kentsfield chip by operating in a "more efficient" manner. Whereas the Kentsfield rocks two separate L2 caches, shared separately by each pair of processors, the Yorkfield sports just a single L2 cache shared directly by each pair of chips, enabling more streamlined quad-core operation with less front side bus bandwidth. Manufactured on 45nm process technology, next year's quad-core CPU will be paired with the impending Bearlake chipset family (which will support a 1333MHz FSB and a PCI Express 2.0 interface), and will target that oh-so-lucrative "high-end gaming" market when it drops.[Via TGDaily]
+      
+
+ 

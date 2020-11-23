@@ -1,0 +1,4 @@
+
+A number of issues have plagued WhatsApp on Windows Phone 8, but hopefully this latest update has addressed some of them. While it's yet to integrate a VoIP function like Viber and other competitors, the new version allows you to initiate a call through the phone's dialer. It promises to fix notification problems as well, although you can still see a lot of complaints about push notifications on the Windows Phone Store. The latest version also adds support for Windows Phone background agents, which prevents the app from killing off music and other tasks. Let's not forget the new emoticons, because WhatsApp sure deserves a smiley for these much-needed changes.
+
+

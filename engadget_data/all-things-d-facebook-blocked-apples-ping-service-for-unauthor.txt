@@ -1,0 +1,6 @@
+
+ 
+We'd already heard whispers that Apple had to yank Facebook Connect integration from its new Ping music network because the connection was being denied by Facebook, and now Kara Swisher at All Things D is confirming it -- and she's saying Facebook shut down access on purpose after Apple used the find-your-friends API without permission. Juicy! Here's the deal: Facebook's friend-finding API is generally open access, but anyone that wants to hit it an extreme number of times has to sign a deal agreeing to protect Facebook user data and limit network impact. Given the sheer size of the iTunes customer base, it's no surprise that Facebook wanted such a deal, but apparently negotiations broke down -- possibly over what Steve Jobs referred to as "onerous terms" -- and Apple decided to just go ahead and use the API anyway. (Which, truth be told, is pretty in character for Apple.) Facebook then blocked access, Apple had to scramble to clean up all the Facebook references, and here we are. Only possibly not for long: Swisher also says Apple and Facebook are still negotiating, and Facebook Connect might eventually reappear in Ping. There is no word when Ping might actually be useful or interesting, however.
+      
+
+ 

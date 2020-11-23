@@ -1,0 +1,8 @@
+
+ 
+It's sort of funny that this is the hardest evidence we have of an Apple tablet, but here we go: mobile app analytics company Flurry is saying that it's detected around 50 devices on Apple's Cupertino campus that have the "characteristics" of a tablet, running a new version of the iPhone OS numbered 3.2. How? Around 200 different apps with Flurry's tracking code were downloaded and used on these mystery devices -- mostly games, followed by entertainment and media apps -- and Flurry first noticed this new device in October, with numbers picking up in January. Unfortunately, Flurry hasn't said what these mysterious tablet characteristics are, so we don't have much to go on -- and without specifics like a bigger screen size or a faster processor we're skeptical. For all we know, this is just a new iPhone running a slightly tweaked build of OS 3.0 that supports a higher-resolution screen or something -- especially looking at that 3.2 version number, when everything else we've heard suggests the tablet will jump to 4.0.
+
+What's more, 200 apps in the grand scheme of things really isn't that many -- Flurry only tracks small percentage of the 100,000 apps in the App Store. We're not exactly willing to accept any detailed analysis based on a dataset that narrow, so let's just say that it's very likely that Apple's testing new devices running a new version of the iPhone OS and leave it at that until Wednesday, shall we?
+      
+
+ 

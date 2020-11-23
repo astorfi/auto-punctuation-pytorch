@@ -1,0 +1,7 @@
+
+ 
+Arduino is so much about what is made with Arduino boards that we hardly spare a thought for the boards themselves. Well, Arduino cares, and they've just gone about redesigning their base model, now dubbed the Arduino Uno. It's of course backwards compatible with existing Arduino add-ons, but sets itself apart with a new USB controller with lower latency and driver-free operation on Mac and Linux. This should make Arduino slightly more friendly to the super novices, but of course the USB chip can be reprogrammed by the experts to be all sorts of things. Meanwhile, the Arduino Mega is getting the same USB chip along with an ATMega2560 processor with twice the memory. Right now only 128K is available, but that's a software limitation and they're working to unlock the rest of the memory space. The Mega sells for $65, while the Uno goes for $35. Next up? An Arduino board with built-in Ethernet and microSD. Crazy, we know. 
+
+
+
+

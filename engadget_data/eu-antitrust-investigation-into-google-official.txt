@@ -1,0 +1,19 @@
+
+
+It's been coming for what seems like an eternity, but today's the day that Europe finally hits Google with an official investigation into its business practices. The European Commission has announced that it'll open an antitrust probe into Android, and has laid out its objections following a similar probe into Google Shopping. In essence, regulators believe that the search giant has "abused its dominant position," or playing favorites with its own products and crowding competitor's products out of the market.
+
+
+
+The complaint regarding Google Shopping boils down to the fact that, when you compare products, its own price comparison tool is prominently displayed on the search screen. The potential risk, as far as watchdogs are concerned, is that you might not get the best, or cheapest result, but the one Google profits from. Another complaint levied at the company is that its own shopping service isn't subject to the same up and down rankings other (non-Google) sites get, even if it's not performing well. That's considered to be "systematic favourable treatment," and to solve the problem, the company should treat Google Shopping as it would any other comparison shopping service.
+
+Commission adopted Statement of Objection. Our preliminary view: Favourable treatment of Google Shopping is an abuse of dominant position.
+
+- Margrethe Vestager (@vestager) April 15, 2015Meanwhile, the newer complaint, regarding Android, centers around the way Google ships the software and if that somehow creates a monopoly. For instance, handsets that ship with access to Google Play are required to ship with Gmail and Chrome pre-installed, theoretically making AOSP handsets second class citizens. Regulators are concerned that bundled access to Google's services crowds out potential rivals and harms their development. In addition, commissioners are worried that withholding privileges for AOSP and forked versions of the OS is "illegally hindering the development" of rival mobile operating systems.
+
+CONFIRMED: @vestager confirms to @POLITICOEurope that she & Commission are willing to take Google complaint thru to fines stage (up to €6bn)
+
+- Ryan Heath (@RyanHeathWriter) April 15, 2015The tl;dr explanation of all of that is that the European Commission is worried that Google's got a monopoly on Europe's smartphone and price comparison market, and wants to dig deep to confirm if that's the case. Should the allegations turn out to be true in the eyes of the regulator, Google could be slapped with a fine totaling $6 billion. Europe's competition chief, Margrethe Vestager has said that she'd prefer to work with Google than against it, and invites the firm to take all opportunities to avoid the fine.@vestafer also strikes a canny constructive tone: invites Google to take all opportunities to avoid fine, confirms she likes their products
+
+- Ryan Heath (@RyanHeathWriter) April 15, 2015For its part, Google's Policy Blog has already responded to the complaints by saying that it isn't the 800 pound gorilla it's made out to be. Google VP Amit Singhal points out that competition in the European price comparison market is thriving, and Google Shopping is dwarfed by other sites, including Amazon and eBay. In another post, Android's Hiroshi Lockheimer says that Android is a "key player in spurring this competition and choice" in the modern world of smartphones. He also throws a sharp elbow towards Apple, saying that "there are far fewer Google apps pre-installed on Android phones than Apple apps on iOS devices."There's no deadline to how long this investigation can take, and considering how long it took for the Commission to decide on the bundling of Internet Explorer, don't hold your breath for a speedy resolution of this one.
+
+             

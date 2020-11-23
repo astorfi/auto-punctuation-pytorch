@@ -1,0 +1,5 @@
+
+ Right around this time last year, Texas Instruments was busy showing off its OMAP 3 platform, which enabled 720p playback from a mobile phone. At this year's MWC, we've got a real live handset recording 720p, and TI upping the ante once more with a chip that handles 1080p. For those still with us after being blasted with resolutions, the predictably titled OMAP 4 aims to bring 1080p support, 20 megapixel imaging and "approximately a week of audio play time" to mobiles and MIDs that house it. Granted, TI also calls this stuff "future-proof," so don't believe it's totally incapable of uttering some pretty outlandish stuff. At the heart of the platform is a dual-core ARM Cortex A9 chip, a programmable multimedia engine based on TI's C64x DSP and a POWERVR SGX540 graphics engine. We're told that it'll play nice with Linux variants such as Android and LiMo, Symbian and Windows Mobile, though it'll have to be mighty impressive to outgun NVIDIA's Tegra. Battle on, we say.[Via Linux Devices]
+      
+
+ 

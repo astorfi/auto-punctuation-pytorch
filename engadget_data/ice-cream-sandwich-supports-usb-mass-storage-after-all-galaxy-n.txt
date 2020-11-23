@@ -1,0 +1,24 @@
+
+
+
+
+	When we gave our first impressions of the Samsung Galaxy Nexus, we were a bit taken aback by the fact that USB mass storage wasn't supported on the device, leading us to believe that it was a flaw in Android 4.0. Android engineer Dan Morrill took to the 'net to sort out the confusion, explaining that Ice Cream Sandwich does indeed support the feature, but only on devices that offer removable storage cards -- which explains why we weren't able to use it on the Nexus. Here's why, according to Dan:
+
+
+			It isn't physically possible to support UMS on devices that don't have a dedicated partition for storage (like a removable SD card, or a separate partition like Nexus S.) This is because UMS is a block-level protocol that gives the host PC direct access to the physical blocks on the storage, so that Android cannot have it mounted at the same time.
+
+
+
+
+
+			With the unified storage model we introduced in Honeycomb, we share your full 32GB (or 16GB or whatever) between app data and media data. That is, no more staring sadly at your 5GB free on Nexus S when your internal app data partition has filled up -- it's all one big happy volume.
+
+
+
+
+
+			However the cost is that Android can no longer ever yield up the storage for the host PC to molest directly over USB. Instead we use MTP. On Windows (which the majority of users use), it has built-in MTP support in Explorer that makes it look exactly like a disk. On Linux and Mac it's sadly not as easy, but I have confidence that we'll see some work to make this better.
+
+
+
+	Mystery solved. To check out the full transcript of his comments, you can head over to the More Coverage link, where Android Police has done a nifty job of putting it together into an easy-to-read format.

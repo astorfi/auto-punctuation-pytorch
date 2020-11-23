@@ -1,0 +1,23 @@
+
+Qualcomm's Snapdragon 800 chip is still pretty dang new, but the company's already churned out a follow-up: the Snapdragon 805, a so-called Ultra HD processor. Like the 800, this version is a Krait-based, quad-core chip, and its biggest selling point is support for 4K video playback on your mobile devices as well as your smart TV. The 805 also includes an Adreno 420 GPU, which Qualcomm says offers 40 percent more graphics performance. Of course, this is the sort of tech that you really need to see to believe. Luckily, a recent trip to San Diego gave us a chance to stop by Qualcomm's HQ and check out the latest Snapdragon demos. Head past the break for a look at the chip's graphics and video chops.
+
+
+
+
+
+All four demos utilized the Snapdragon 805 Development Platform, an Android tablet with a 2,560 x 1,440 display, dual cameras with 3D sensors and surround-sound speakers. While devices packing the 805 chip won't debut until late 2014, these setups tease some of the visual improvements you can expect.
+
+Selective focus and other camera apps
+With the 805, Qualcomm is commercializing several software algorithms that allow for advanced photo-editing tools no matter what smartphone you're using (as long as it packs this Snapdragon chip, that is). For example, an app called UbiFocus let us change what parts of an image were in focus à la the Lytro camera. It worked well, and thanks to the 805's processing oomph, there wasn't noticeable delay on-screen. Other programs include Optizoom, which sharpens a particular area (such as text) of a photo, and Chromaflash, which fuses flash and natural-light versions of a photo for an enhanced picture.
+
+Multi-view 3D
+One of the coolest demos on hand showed off the 805's Adreno 420 GPU. When hooked up to an external monitor, the Development Platform was capable of streaming eight different feeds of 3D video to the display, allowing for an ideal viewing experience no matter where we stood in front of the setup. Multi-view 3D is one of the Snapdragon 805's most significant advantages -- at least in terms of graphics -- over the 800, which can't pull it off with its Adreno 330 GPU.
+
+Improved graphics efficiency
+Qualcomm added hardware tessellation to the Adreno 420 GPU, which makes for a marked improvement over the Adreno 330 in terms of visuals. Essentially, the GPU supports additional geometry (i.e., graphics details) without stressing the CPU's processing power and memory. It's the kind of GPU heavy lifting that's been doable on consoles and high-end PCs previously, but not on a tablet. A comparison between the Adreno 330 and 420's rendering of an insect moving around makes it clear just how much better the latter performs.
+
+High-quality images, small file size
+Thanks to hardware 4K HEVC (high efficiency video coding), the Snapdragon 805 can decode and stream high-quality video without using much power. And we really mean high quality; just check out the clip above, which should give you a decent idea about the level of detail you can expect on mobile platforms and TVs alike. The processor also packs improved Dolby Audio, including vertical surround sound, but that experience doesn't transfer as well to a video hands-on.
+
+Zach Honig contributed to this report.
+

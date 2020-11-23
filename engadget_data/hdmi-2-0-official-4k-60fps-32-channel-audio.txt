@@ -1,0 +1,37 @@
+
+Only just after it leaked out, the folks at HDMI Licensing are announcing HDMI 2.0 officially. Arriving just in time for the wide rollout of a new generation of Ultra HDTVs, it adds a few key capabilities to the connection standard. With a bandwidth capacity of up to 18Gbps, it has enough room to carry 3,840 x 2,160 resolution video at up to 60fps. It also has support for up to 32 audio channels, "dynamic auto lipsync" and additional CEC extensions. The connector itself is unchanged, which is good for backwards compatibility but may disappoint anyone hoping for something sturdier to support all of those suddenly-popular dongles. The cables won't change either, as the group claims current high-speed Category 2 wires can handle the increased bandwidth. Some companies have suggested upgrade paths for their UHDTVs already on the market -- hopefully we'll find out more about those plans this week at IFA 2013.
+
+
+Update: The HDMI Forum has listed a few more specs in its FAQ, including that HDMI 2.0 is spec'd to handle up to 1536kHz audio sample frequency, dual video streams for multiple users on a single screen, multi-stream audio to as many as 4 users at once and support for 21:9 widescreen displays.
+
+
+Follow all of our IFA 2013 coverage by heading to our event hub!
+
+
+Show full PR textHDMI FORUM RELEASES VERSION 2.0 OF THE HDMI SPECIFICATION
+Increased bandwidth provides the infrastructure for new features that will drive the next generation of consumer entertainment
+BERLIN, Germany - September 4, 2013 – IFA 2013 – HDMI Forum, Inc., a non-profit, mutual benefit corporation, today announced the release of Version 2.0 of the HDMI Specification. This latest HDMI Specification, the first to be developed by the HDMI Forum, offers a significant increase in bandwidth (up to 18Gbps) to support new features such as 4K@50/60 (2160p), which is 4 times the clarity of 1080p/60 video resolution; 32 audio channels; as well as dynamic auto lip-sync and extensions to CEC. The complete Version 2.0 of the HDMI Specification is available to Adopters on the HDMI Adopter Extranet. HDMI Licensing, LLC will host a press conference to discuss the new features of the HDMI 2.0 Specification at IFA 2013 in Berlin on Friday, September 6 at 12:00pm in the TecWatch Forum area of Hall 11.1.
+
+Version 2.0 of the HDMI Specification, which is backward compatible with earlier versions of the Specification, was developed by the HDMI Forum's Technical Working Group whose members represent some of the world's leading manufacturers of consumer electronics, personal computers, mobile devices, cables and components. The HDMI Forum currently has a membership of 88 companies.
+
+"The introduction of the HDMI 2.0 Specification represents a major milestone for the HDMI Forum," said Robert Blanchard of Sony Corporation, president of the HDMI Forum. "Our members collaborated closely to take the highly successful HDMI Specification to the next level by expanding audio and video features for consumer electronics applications."
+
+The HDMI Forum has chosen HDMI Licensing, LLC to be the Agent to license Version 2.0 of the HDMI Specification. In this role, HDMI Licensing, LLC will provide marketing, promotional, licensing and administrative services, as well as education on the benefits of the HDMI Specification to adopters, retailers, and consumers.
+
+"We are pleased to continue our work in supporting the HDMI Adopter base as well as the entire HDMI ecosystem," said Steve Venuti, president of HDMI Licensing, LLC. "Adopters can now continue to develop new product functionality over the HDMI interface as well as look to HDMI Licensing, LLC as their single contact for all their licensing and administrative needs."
+
+Version 2.0 of the HDMI Specification does not define new cables or new connectors. Current High Speed cables (category 2 cables) are capable of carrying the increased bandwidth.
+
+The HDMI 2.0 Compliance Test Specification (CTS) is expected to be released before the end of 2013.
+
+For more information about Version 2.0 of the HDMI Specification please visit http://www.hdmi.org.
+
+About HDMI Forum, Inc.The HDMI Forum, Inc. is comprised of the world's leading manufacturers of consumer electronics, personal computers, mobile devices, cables and components. An open trade association, The HDMI Forum's mission is to foster broader industry participation in the development of future versions of the HDMI Specification and to further expand the ecosystem of interoperable, HDMI-enabled products. For more information, please visit www.hdmiforum.org.
+
+HDMI, the HDMI logo, and High-Definition Multimedia Interface are trademarks or registered trademarks of HDMI Licensing, LLC in the United States and/or other countries. All other trademarks and registered trademarks are the property of their respective owners in the United States and/or other countries.
+
+About HDMI Licensing, LLCHDMI Licensing, LLC is the agent appointed by the HDMI Forum to license Version 2.0 of the HDMI Specification and is the agent appointed by the HDMI Founders to license all earlier HDMI Specifications. The HDMI Specification combines uncompressed high-definition video, multi-channel audio, and data in a single digital interface to provide crystal-clear digital quality over a single cable. HDMI Licensing, LLC provides marketing, promotional, licensing and administrative services, as well as education on the benefits of the HDMI Specification to adopters, retailers, and consumers. HDMI Licensing, LLC is a wholly owned subsidiary of Silicon Image, Inc. (NASDAQ: SIMG). For more information about the HDMI Specification, please visit www.hdmi.org.
+
+# # #
+
+

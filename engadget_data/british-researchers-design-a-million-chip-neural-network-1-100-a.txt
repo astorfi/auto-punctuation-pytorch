@@ -1,0 +1,5 @@
+
+ If you want some idea of the complexity of the human brain, consider this: a group of British universities plans to link as many as a million ARM processors in order to simulate just a small fraction of it. The resulting model, called SpiNNaker (Spiking Neural Network architecture), will represent less than one percent of a human's gray matter, which contains 100 billion neurons. (Take that, mice brains!) Yet even this small scale representation, researchers believe, will yield insight into how the brain functions, perhaps enabling new treatments for cognitive disorders, similar to previous models that increased our understanding of schizophrenia. As these neural networks increase in complexity, they come closer to mimicking human brains -- perhaps even developing the ability to make their own Skynet references.
+      
+
+ 

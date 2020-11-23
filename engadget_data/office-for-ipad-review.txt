@@ -1,0 +1,31 @@
+
+
+After loads of leaks -- and some serious denial from Microsoft -- the company has finally released a version of Office for iPad. It's not surprising, in a way, given that Microsoft already has Office Mobile for iPhone. And yet, this new trio of apps (Word, Excel and PowerPoint) isn't at all what we expected. In fact, it's a lot better. You see, rather than simply blow up the current iPhone app to iPad-sized proportions, the company started from scratch, and built a software suite that takes advantage of the iPad's extra screen real estate. This means a lovely design that looks less like a mobile app, and more like a full version of Office. It also means more features -- everything from custom text colors to a "whiteboard" that you can use to write off-the-cuff comments during presentations. But as ever, you'll need an Office 365 subscription to edit or create documents with it, and meanwhile, there are plenty of free alternatives. That said, could it still be worth it?
+
+
+Getting started
+Though the product is called Office for iPad, it's actually a trio of individual apps (Word, Excel and PowerPoint) listed separately in the App Store. As with Office Mobile for iPhone, each of these core programs is free to download, and you can use them in read-only mode without a paid subscription. If you wanna edit or create documents, though -- and let's face it: You definitely will -- an Office 365 subscription is required. In particular, we're told it will even work with Microsoft's upcoming 365 Personal plan, which will cost $7 a month when it launches later this spring. And if you happen to be a student using Office 365 for University ($80 for four years), the monthly cost of ownership drops to just $1.67.
+
+All told, this subscription model isn't a problem if you already have an Office sub; in fact, your iPad download won't even count toward the usual five-PC/Mac limit. Unfortunately, too, this is also one of the only mobile office suites that works with Microsoft OneDrive and SharePoint, so if that's where you store your documents, you're best off sticking with Office. That said, Apple offers its iWork suite for free, so long as you purchased your device on or after September 1st, 2013. And, it works with popular services like Google Drive, which Office doesn't, so depending on what ecosystem you use, Office might immediately seem like a weak proposition.
+
+General UI
+All told, Office for iPad looks exactly as you'd expect. Which is to say, it features the same Ribbon UI as desktop Office apps, along with a few icons borrowed from Microsoft's OneDrive service. Regardless of which Office app you're using, a few things are universal: When you enter the app, you'll see your Microsoft profile pic in the upper-left corner, with icons just below for creating a new document, opening a file or viewing only the recent ones. By default, you'll open files from your OneDrive account, though you can search just through your iPad's local storage as well. You can also add a storage location, but again, your only other options are another OneDrive account (personal or business) and a SharePoint site. No integration with other cloud storage services, sadly.
+
+Once you open a document, whether it be a spreadsheet or a PowerPoint presentation, you'll see a small file-shaped icon in the upper-left corner, where you can turn off AutoSave (not recommended), create a duplicate, restore a previous version or inspect the file properties (mainly useful if you want to see how much space it takes up). Nearby are self-explanatory undo and redo buttons. Meanwhile, over on the right, there's a people-inspired icon for sharing. From here, you can email a file as a link or an attachment, or simply copy the link to your clipboard. Basically, any sharing options you already enjoy in Office Online you can use here too. Finally, in Word and Excel there's a magnifying glass in the upper-right corner that's for, well, you get the idea. One thing you won't see, though: an option for printing stuff. See? Desktop computers are still good for something, right?
+
+Oh and by the way, because the UI is so straightforward, with so many settings hidden inside the Ribbon menu, the whole thing scales well in both landscape and portrait mode. Even with a vertical orientation, that upper layer of menus and icons never looks busy. In fact, we rather enjoyed using Word in portrait mode, as the keyboard took up less vertical space. If you do find yourself switching, though, you'll find the accelerometer and A7 chip inside the new iPads do a good job keeping up.
+
+Word
+Ah, this looks familiar. If you've been using Word, even just the online version, you should instantly feel at home here. Up top, as we said, is the Ribbon menu, where you'll see options for Home, Insert, Layout, Review and View. Below that are all the super-common formatting options, including fonts, letter size, bold, italics, underlining, strikethrough, subscript, superscript, text effects, text color, background color, text alignment, line spacing, bullets, numbered lists and indentation.
+
+Phew.
+
+Let's just back up for a minute and say that this is already more than you can do with the iPhone version. Even in cases where the iPhone app does offer a given feature, it's usually less complete than what you see here. Whereas the iPhone variant only gives you a handful of text color options, for instance, the iPad app has a custom color gradient allowing you to pick from along a wide spectrum. Not too shabby.
+
+Might we add, too, that in addition to being a more full-featured offering, it's just an all-around easier user experience. With the extra screen real estate, you can actually see how big the font is; you don't have to press up and down arrows and hope for the best. Comments appear along the right-hand side, just where you'd expect them, and it's easy to tweak those simply by tapping the comments box.
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+
+ 
+If you just shelled out some pretty pennies for the a high-speed, low-power SSD, Tom's Hardware may have stumbled onto some findings that won't sit well. According to a rigorous benchmarking session, they discovered that not only do the drives not save you battery power... they eat more of it. How is this possible you ask? Well mechanical drives only hit peak drainage when the actuator has to move the heads, whereas SSDs use full power whenever they're in use, so the end result is actually a diminished efficiency. What that means is that the hype over "green" drives may be just that: pure hype. On the other hand, you're still getting a drive with no moving parts, which at least makes your data more secure, if not more eco-friendly.[Via Eeeuser; Thanks, Tony]
+      
+
+ 

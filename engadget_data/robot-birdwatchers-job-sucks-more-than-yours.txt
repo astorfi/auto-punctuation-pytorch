@@ -1,0 +1,6 @@
+
+ 
+Nothing like birdwatching to put your hobbies and line of work into perspective -- you've really got it pretty well off. Take this robo-birdwatcher, for instance. Ornithologists have gotten wind of a recent ivory-billed woodpecker sighting, and have set up the bot in a snake and mosquito-infested swamp to watch for the bird -- which was thought to be extinct for more than half a century -- for months on end. The bird-bot has dual cameras that photograph the sky at 22 fps, and automatically sorts out all images but the ones with foreign objects in the sky, which usually turn out to be birds. To keep hunters from putting this poor bot out of its misery, its designer has affixed a radiation hazard sticker to it, which seems to have done the trick so far. Next up is a bot that can spot birds in a more complicated environments, such as the forest floor or in trees, but there's some serious algorithm design needed before that can become a reality.[Thanks, Dan]
+      
+
+ 

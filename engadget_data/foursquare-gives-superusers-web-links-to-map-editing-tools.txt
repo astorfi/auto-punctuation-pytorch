@@ -1,0 +1,4 @@
+
+Foursquare switched to editable OpenStreetMap data for its check-in services over a year ago, but many of its users wouldn't know it when there hasn't been a way to tweak maps through place pages. As of today, Foursquare is encouraging a little more interaction: Superusers (frequent contributors) in Australia, Brazil, Germany and the UK can now click a web link to edit a location in OpenStreetMap. Those who aren't keen on signing up for OSM can still leave a note with their proposed changes. There's no mention of plans to expand access to regular users, but the firm expects additional rollouts to Superusers in areas where map data is less than trustworthy.
+
+

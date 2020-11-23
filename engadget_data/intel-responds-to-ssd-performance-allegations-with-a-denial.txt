@@ -1,0 +1,6 @@
+
+ 
+Did you catch the news yesterday about those chronic performance problems that cropped up in a trio of Intel X25-M SSDs under review by PC Perspective? Intel apparently did, promptly responding and identifying what it believes to be the issue: the testers. The review alleged that the drives' write algorithms, intended to evenly spread wear and extend their lives, result in extreme fragmentation and major decreases in performance. Intel is saying it wasn't able to replicate the results, that "the synthetic workloads they use to stress the drive are not reflective of real world use," and that "the benchmarks they used to evaluate performance do not represent what a PC user experiences." The reviewers were largely just copying files around and installing/uninstalling applications, which sounds fairly realistic to us. We're thinking these two aren't going to agree to disagree on this one, and that there will be more updates to come.
+      
+
+ 

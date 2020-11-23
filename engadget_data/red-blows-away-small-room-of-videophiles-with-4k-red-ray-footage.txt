@@ -1,0 +1,6 @@
+
+ 
+While RED has been pretty tight-lipped about its planned RED RAY product, some footage shown off at RED's NAB party gave a sizable hint that RED RAY could be much more than meets the eye -- specifically a $1,000 device that can play cinema-quality 4k video off of standard DVDs. At the party they played an uncompressed showreel of 4k footage on a Sony 4k projector, which clocked in at 1.3GB per second, and then showed that exact same footage under the "RED RAY" codec at a mere 10Mb/s (megabits, not bytes; about half the bitrate of SD DV), at a compression rate of 700:1. Attendees claimed they could see zero visible compression, though a projector in a ballroom isn't exactly the best case scenario to test that sort of thing. Unfortunately, there's little other info about how they're achieving this (we hear "wavelets" come into the equation at some point), or to what nefarious aims, but with compression like this the implications for content distribution are pretty stunning: 1080p+ streaming for all. Naturally, the down side of all of this is probably some pretty hefty processing power on the consumer end, but we'll cross that I/O bridge when we come to it.[Thanks, Ben H]
+      
+
+ 

@@ -1,0 +1,9 @@
+
+
+
+Have you been using Tinder (an iOS/Android dating app that shows pictures of users in your area) these past months to try and find the one? Well, if you're deathly scared of stalkers, you might want to sit down. Apparently, there was a flaw on the dating app's API, which made it possible to pinpoint user distances down to a hundred feet. According to a report published by whitehat hacker Max Veytsman from Inside Security, he discovered the vulnerability in October 2013. It could've been around since July, though, as it was a byproduct of the fix issued for a previous flaw that revealed users' latitude and longitude coordinates.
+
+To demonstrate how damaging the security loophole could be, Veytsman created an app that automatically shows a user's location on Google Maps by using triangulation, as you can see in the video after the jump. Thankfully, Tinder's management was more receptive to feedback than Snapchat's, and though Veytsman didn't receive a reply to half his emails, tests he conducted on January 1st revealed the issue no longer exists. Now, we can only hope no ne'er-do-well had any success matching up Tinder addresses with Snapchat phone numbers.
+                 
+
+

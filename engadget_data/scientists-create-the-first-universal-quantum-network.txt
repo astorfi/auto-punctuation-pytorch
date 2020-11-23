@@ -1,0 +1,5 @@
+
+ We all know that most networks are, well, just not "quantumy" enough. Good news, then, that German boffins at the Max Planck Institute of Quantum Optics have created the first "universal quantum network." We've been hearing about plain old quantum computing since the first qubit was sent, but now we have to get our tiny minds around the idea of a quantum internet too. Data was sent using single rubidium atoms in reflective optical cavities and single photons emitted over optical fiber. Given that data was only successfully transmitted 0.2% of the time, and the network spanned just 21 meters, a complex LAN with multiple nodes is a way off just yet, but the proof of concept is there. If that concept is the early '90s internet that is.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+
+
+	Keeping an eye on your server health isn't the most romantic of pastimes. That's what compelled modder mkanoap to build a computer-free monitoring system that was as cheerily simple as Xymon's red-yellow-green symbols. His solution? Install an ethernet-enabled Arduino into a stoplight and mount it on the wall of the office. On one hand, the cubicle creativity factor just has to be commended, but on the other, we're guessing it's not an entirely selfless endeavor -- it's not exactly enthralling answering those system status calls, you know? Anyone who wants to follow in his footsteps can click our source link, which includes details of where to acquire a stoplight without a stealthy, nighttime, screwdriver-assisted jaunt to your nearest intersection.
+ 

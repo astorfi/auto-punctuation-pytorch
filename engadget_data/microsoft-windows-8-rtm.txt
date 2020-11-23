@@ -1,0 +1,9 @@
+
+ 
+ RTM. To the everyman, those three letters may not mean much. To those waiting with bated breath for Microsoft's next operating system, it's a huge milestone worth celebrating. Microsoft has today confirmed that Windows 8 has been released to manufacturing, enabling its OEM partners to grab the final code and begin implementation on systems that'll be tempting you mightily starting on (or around) October 26th.
+
+ If you're curious about the specific rollout details, here goes. Starting August 15th, devs will be able to download the final version of Windows 8 via their MSDN subscription, and IT pros testing Windows 8 in organizations will be able to access the final version of Windows 8 through their TechNet subscriptions. On August 16th, customers with existing Microsoft Software Assurance for Windows will be able to download Windows 8 Enterprise edition through the Volume License Service Center (VLSC). Also on that day, Microsoft Partner Network members will have access to Win8. On August 20th, Microsoft Action Pack Providers (MAPS) receive access to the goods, while Volume License customers without Software Assurance will be able to purchase Windows 8 through Microsoft Volume License Resellers on September 1st.
+
+ Update: Microsoft has just affirmed that starting today, any qualifying business in a supported market can now submit a Metro style app for Windows 8. Boom.
+
+

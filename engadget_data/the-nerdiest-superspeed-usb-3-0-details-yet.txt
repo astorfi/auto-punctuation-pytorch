@@ -1,0 +1,6 @@
+
+ 
+We've been hearing about SuperSpeed USB 3.0 since CES last year, and now that the spec's been officially released, we're getting way more details at this year's show -- like new power features, which include the elimination of device polling to enable an energy-saving "virtual sleep" mode, more juice for bus-powered devices, and the ability to charge a completely dead device, which USB 2.0 can't do. According to Intel's Jeff Ravencraft, the spec is designed to last for the next five years, with room to pump 25 gigabits per second over a hypothetical optical connection. Sounds sexy -- we'll see how well this stuff demos when the doors open.
+      
+
+ 

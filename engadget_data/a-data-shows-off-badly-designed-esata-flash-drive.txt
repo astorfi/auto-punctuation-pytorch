@@ -1,0 +1,6 @@
+
+ 
+We're not exactly sure what's up with the design here, but apparently, A-DATA felt it was a great idea to unveil an uber-speedy eSATA SSD flash drive that requires both an eSATA and a USB connection. Supposedly, this 16GB to 32GB unit can't actually be plugged directly into an eSATA port as-is, as power from the USB socket is necessary for things to function properly. Essentially, the flash drive has to be connected to the pictured dongle -- which obviously takes up two ports in your machine -- in order to operate. Needless to say, we've all ideas that we'll see a design tweak before these ship en masse.
+      
+
+ 

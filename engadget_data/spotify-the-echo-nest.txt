@@ -1,0 +1,13 @@
+
+Spotify now owns The Echo Nest, better known as "the company that powers the vast majority of internet radio." That includes competing services like Twitter #Music, Rdio and more. But today's news doesn't necessarily mean that those services will lose support from Echo Nest's API, as Spotify's news announce today says, "The Echo Nest API will remain free and open to support its robust developer ecosystem." The Echo Nest is staying in Somerville, Mass., with employees assuredly making Revolutionary War jokes every now and again to their Spotify counterparts in England. It's not clear just yet what this will mean for Spotify Radio, but there's this one oblique line about the acquisition's potential impact: "The addition of The Echo Nest to Spotify will also strengthen Spotify's ability to help brands and partners build amazing music experiences for their audiences." Sure! Anyway, Spotify now owns the company that powers most of your internet radio. Take that as you will.
+
+
+Update: A Spotify rep gave us a few more details on the acquisition. First, Echo Nest is a "wholly owned subsidiary" of Spotify, and will operate relatively autonomously as such. Second, it looks like relationships with the competition may not last forever. "In the few cases where The Echo Nest does work with direct competitors we will work with them to understand these relationships and determine the next business steps. The Echo Nest will meet all contractual obligations to all customers," we were told.
+
+
+
+In other Spotify news, there's a new iOS SDK as well, available today, that's been "written from the ground up" to go even faster. It's apparently missing some functionality comparatively with the existing iOS SDK, but it's able to access search, playlists, metadata lookup, audio playback "and more" much faster, according to Spotify. Should that pique your interest, there's a Github page right here to get you started.
+
+Correction: This piece previously stated that Pandora is powered by Echo Nest tech, which is incorrect. Our apologies!
+
+

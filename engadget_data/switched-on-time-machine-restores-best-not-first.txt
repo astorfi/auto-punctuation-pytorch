@@ -1,0 +1,19 @@
+
+Each week Ross Rubin contributes Switched On, a column about the future of technology, multimedia, and digital entertainment:
+
+
+At this week's World Wide Developers' Conference, Apple nary missed an opportunity to jest at how certain features in Vista bear similarity to those in Mac OS 10.4, recalling banners from the 2004 geek gathering enjoining the developers of Windows to "start their photocopiers." However, the copy machines at Microsoft aren't the only ones free of cobwebs. For example, a decade before Spotlight shone in Tiger, utilities such as On Locaiton provided classic Mac OS lightning-fast index-based searches. And Konfabulator, now owned by Yahoo, inspired Dashboard.
+
+
+Spaces, slated for Leopard, promises to be merely the best-implemented in a long line of virtual desktops long known to Unix users and even made available as a PowerToy from those Windows wannabes. And what of Time Machine, the fourth-dimensional feature that was the WWDC showstopper? Among its predecessors are System Restore, a drably named subset of Time Machine's functionality available since Windows ME; Rewind, a classic Mac OS utility once promised for Mac OS X; and GoBack, a PC utility that was purchased by Symantec. When I first saw GoBack, the earliest of these, which debuted at a DEMO conference, I thought it was one of the most ingenious pieces of software I'd ever seen -- even without Time Machine's extraterrestrial eye candy.
+
+
+
+
+ However, none of these utilities could claim Time Machine's operating system integration or its visual appeal, the latter of which extends well beyond its galactic garnish. Time Machine is a restoration utility for the age of media content. Consumers, who frequently cite photos as the content type they are most concerned about losing, would be at a loss to recall the gibberish that digital cameras assign to photos. In addition to searching for deleted files with Spotlight, Time Machine enables them to browse a folder through a reverse chronology to find the missing file. Operating system-level support also enables applications like Address Book and iPhoto to browse back through time to find an accidentally deleted contact or "roll" of pictures.
+
+ Time Machine is one of those features that consumers hope they never have to use, but count on to work right when they do. Indeed, on a Mac with Boot Camp or virtualization software, Time Machine's approach could make it more effective at bringing back lost Windows files or a botched installation than Microsoft's System Restore does today. Were Microsoft to integrate backup and restore in Windows this seamlessly, they would have a much stronger case that the functionality was an operating system feature and not merely a bundled utility. As it is, Apple stands to profit more from the feature, giving new Mac owners a convincing reason to pick up an extra hard disk with their computers.
+
+ It took too long, but the Mac will finally have an integrated backup and restore application next year. Until then, Apple developers will need time to add features, fix bugs, and track down a universal binary of the flux capacitor.
+
+ Ross Rubin is director of industry analysis for consumer technology at market research and analysis firm The NPD Group and a contributing editor for LAPTOP. Views expressed in Switched On are his own. Feedback is welcome at fliptheswitch@gmail.com.

@@ -1,0 +1,17 @@
+
+ 
+It's looking like things are just as bad as we feared and that "external intrusion" got a little deeper than we might have liked. In an update on its PlayStation.Blog, Sony just confirmed that the ongoing PSN outage was caused by "malicious actions," which we already knew, but continues by indicating that there has also been "a compromise of personal information." Exactly what that means Sony isn't saying, and it stops short of saying that credit card data for PSN and Qriocity users has been exposed, but the company does say "your credit card number (excluding security code) and expiration date may have been obtained." Yes, it may have been obtained -- even Sony isn't sure. There's no further ETA for when PSN may be back up online or when you might be able to finally sample Portal 2's delicious online co-op mode, but at least you can still watch Netflix.
+
+Update: Our friends at Joystiq are reporting that Connecticut Senator Blumenthal is rip roarin' mad about the situation, "demanding answers" from SCEA president Jack Tretton. Right now, we're more curious what Kevin Butler has to say about things.
+
+Update 2: Sony UK is shedding more light on just what data has been exposed, and frankly we were happier when it was dark. By the sound of things, everything Sony had about you has been accessed. There's a full list after the break, so only click on through if you dare.
+
+Update 3: Sony's just posted a clarification regarding the delay of their response: in a nutshell, PSN was shut down after the intrusion on April 19th, and the company needed to work with outside experts to "understand the scope of the breach" before posting the full lowdown earlier today. For those interested, Sony has a lengthy FAQ page regarding this incident.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+Here's what Sony UK indicates was exposed: Name Shipping address Billing address Country E-mail address Birthdate PSN/Qriocity ID PSN/Qriocity password PSN/Qriocity security question and answer Purchase history
+ 

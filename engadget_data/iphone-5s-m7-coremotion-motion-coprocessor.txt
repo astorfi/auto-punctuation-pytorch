@@ -1,0 +1,12 @@
+
+Apple's new flagship iPhone 5s is about to have much more detailed information about how much its users are moving, thanks to a new M7 "Motion co-processor." Unveiled during today's live event, it works along with the new 64-bit A7 CPU to measure motion data continuously from the accelerometer, gyroscope and compass without draining the battery as heavily. It looks like the iPhone 5s will be ready to take over for hardware extras like the FitBit or Nike Fuel wristband, but with a new CoreMotion API, devs for those companies and others can pull the information into their apps. The CoreMotion API specifically works to identify user movement, and offers "optimizations based on contextual awareness." Overall, it's very similar to what we'd heard would be in the Moto X, although we haven't seen all of these extra sensors used for activity tracking quite in this way. Nike was on hand with a new Nike+ Move app that used the M7 and GPS to track users' activities, and we wouldn't be surprised if others follow closely behind. Nike called the Move app an "introductory experience" to Nike Fuel in a tweet, so maybe it's planning to upsell customers on (potentially?) more detailed tracking with its hardware add-ons afterward.
+
+
+Check out all the coverage at our iPhone 'Special Event' 2013 event hub!
+
+
+ Get active, stay active with the Nike+ Move app, an introductory experience to NikeFuel made to move with the iPhone 5S. Coming soon.
+
+- NikeFuel (@NikeFuel) September 10, 2013Show full PR textEvery iPhone 5s includes the new M7 motion coprocessor that gathers data from the accelerometer, gyroscope and compass to offload work from the A7 for improved power efficiency. Developers can also access new CoreMotion APIs that take advantage of M7, so they can create even better fitness and activity apps that go well beyond what other mobile devices offer. The M7 motion coprocessor continuously measures your motion data, even when the device is asleep, and saves battery life for pedometer or other fitness apps that use the accelerometer all day.
+
+

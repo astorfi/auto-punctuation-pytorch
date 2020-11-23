@@ -1,0 +1,13 @@
+
+
+We know Apple just annoucned they're going Intel, but
+AMD would just like you to know that by the time Apple's moved over to x86 in 2007, they're planning on having
+quad-core CPUs on the market—and we ain't just talking dual-core Hyperthreaded devices. Later plans include scalability
+to up to 32 processors in their devices, but since most applications still aren't multi-threaded and won't take
+advantage of such systems, we're hoping they've got some tricks in their bag for making faster really mean
+faster.
+
+
+
+
+ 

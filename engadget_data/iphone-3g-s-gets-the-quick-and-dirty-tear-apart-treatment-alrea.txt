@@ -1,0 +1,9 @@
+
+ 
+Well that was fast. Orange Boutique in Paris, France did a midnight release of the iPhone 3G S, and the gang at Rapid Repair were there to pick one up and subsequently rip their new toy to shreds. There isn't much here in terms of analysis of parts yet, it's more so just a quick and dirty job to get it out to the world, but hey, if you're into watching someone rip apart brand new, expensive gadgetry, we've got just the gallery for you.Update: They've identified the chipset as the SoC S5PC100 from Samsung and thus confirm an ARM Cortex A8 running at 600 MHz (operates at up to 833MHz though) and the ability to record 720p video and handle real-time video conferencing should Apple choose to go in that direction (iPhone 3G S records VGA only). PowerVR SGX graphics and 256MB of RAM too as expected. S5PC100 block diagram after the break.Read -- S5PC100 [warning: PDF]Read -- RapidRepair Teardown
+      
+
+ 
+
+
+ 

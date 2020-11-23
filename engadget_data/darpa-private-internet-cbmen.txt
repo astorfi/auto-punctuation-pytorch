@@ -1,0 +1,33 @@
+
+Sure, we hear about DARPA's robots all the time, but they're not the only things keeping the agency busy. Take CBMEN, for example -- a DARPA project that's goal is to create a private ad-hoc data network for the military, and it's recently completed initial field testing. CBMEN, or Content-Based Mobile Edge Networking, allows soldiers to share images and other info without a traditional mobile internet connection. Each device loaded with the CBMEN software will automatically blast data to other hardware within reach via WiFi, cellular and radio frequencies -- no intermediate infrastructure required. Early trials of the tech using Android smartphones and Army Rifleman Radios were deemed successful. We don't know if CBMEN will ever be available to civilians, but seeing as DARPA mentioned its potential use in disaster response operations, it's not entirely impossible. Before anyone else can test drive the nebulous network, though, it first has to ace the second phase of field testing that aims to make it more efficient and secure.
+
+
+
+Show full PR textCREATING A SECURE, PRIVATE INTERNET AND CLOUD AT THE TACTICAL EDGE
+August 21, 2013
+Content-Based Mobile Edge Networking (CBMEN) program completes initial field testing of software for rapidly sharing up-to-date imagery, maps and other vital information directly among front-line units
+Squads of Soldiers or Marines on patrol in remote forward locations often don't have the luxury of quickly sharing current intelligence information and imagery on their mobile devices, because they can't access a central server. Troops frequently have to wait until they're back at camp to download the latest updates. In the meantime, mission opportunities may erode because the information needed at the tactical edge isn't immediately available.
+
+DARPA's Content-Based Mobile Edge Networking (CBMEN) program aims to provide an alternative approach to the top down focus of most military networks, which provide content over a common operating environment from the strategic to tactical level. Unfortunately, the tactical level is still a severely constrained communications environment, and often when deployed, networks may not have connectivity to higher headquarters and servers needed to provide the latest updates from other units in the area.
+
+CBMEN turns this world upside down and starts the content sharing at the individual Soldier or Marine level. If a set of radios or cell phones are disconnected from higher headquarters units, the individuals can still generate and share critical content on their own, significantly improving their common situational awareness and the ability to carry out their mission. This concept moves past the Internet's "hub-and-spoke" paradigm of requiring point-to-point communications to first go through a central server.
+
+DARPA successfully field-tested CBMEN software loaded on Android-based smartphones and Army Rifleman Radios recently at Fort A.P. Hill, Va., marking the completion of Phase 1 of the program.
+
+"CBMEN may not sound revolutionary, because people take server access for granted when cell towers, fiber-optic connections and 4G/LTE networks are so widely available worldwide," said Keith Gremban, DARPA program manager. "But when that infrastructure is not available, CBMEN technology enables real-time information sharing where it hasn't been possible before. CBMEN puts secure, private collaboration and cloud storage in your pocket."
+
+The program aims to make each squad member's mobile device function as a server, so content is generated, distributed and maintained at the tactical edge where it's needed. As long as troops are within communication range-whether by radio, cellular, Wi-Fi or other radio frequency devices-CBMEN software automatically replicates and shares updates, causing the tactical cloud to grow and diminish as users move in and out of range of each other. Any connected collection of warfighters can store and share information in many places right at the tactical edge, making the system tolerant of communications disruptions. In essence, CBMEN creates secure frontline cloud storage services that provide content with decreased latency and increased availability.
+
+The field tests proved the concept works and highlighted the potential benefits of real-time information sharing. At one point in the testing, two squads on foot patrol came within communication range of each other. One squad had information about a simulated person of interest that the other squad was seeking. The CBMEN software, working in the background on the troops' mobile devices, automatically transferred the information from the first squad to the other, without the second squad having to ask for it. As the second squad entered a building where the person of interest was, the squad used that information to immediately identify and apprehend its target.
+
+The testing also identified areas that need further development such as enhancing security and improving efficiency of information exchange, which will be the focus of the next phase of the program. The goal is to reduce the number of transmissions required, which would save power, and to also reduce the bandwidth needed.
+
+A key factor that enables CBMEN is the tremendous computing power available in current mobile devices. "There's more computing power and memory in my smartphone than the supercomputer I used in college," Gremban said. "With 64 gigabytes of storage in a single smartphone, a squad of nine troops could have more than half a terabyte (500 GB) of cloud storage. CBMEN taps into that huge capacity."
+
+Beyond supporting troops on the frontlines, CBMEN technology may also be useful for civilian applications, especially disaster response, where the established communication infrastructure is unavailable or destroyed. Like forward-deployed troops with no established communications infrastructure, firefighters, police, medical personnel, National Guard members and others responding to a major disaster could quickly share imagery and vital information amongst each other.
+
+Phase 2 of CBMEN program kicked off this month to mature the technology. The objective is to demonstrate improved warfighting mission support in a complex joint-content sharing environment between United States Marine Corps and Army networks using both military radios and commercial smartphone Wi-Fi capabilities.
+
+"Content sharing, starting at the tactical edge, is changing the world in the way information can be shared for warfighters who need it most," Gremban said.
+
+

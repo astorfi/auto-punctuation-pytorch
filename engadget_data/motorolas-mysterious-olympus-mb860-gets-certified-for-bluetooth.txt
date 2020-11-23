@@ -1,0 +1,6 @@
+
+ 
+What is the Motorola MB860? It's hard to say for sure, but it could be one of the infamous Tegra 2 tablets that Motorola's been allegedly working on. Ameblo recently discovered that the MB860 had been certified for Bluetooth 2.1 + EDR and dual-band 802.11 a/b/g/n WiFi, and then noticed that the UPnP Forum had attached a curious codename -- Olympus -- to the device. This is where things get fairly fuzzy, but Android and Me recently reported that the Olympus was one of two Motorola tablets in testing -- though it may not be the Stingray, as that supposed 10-inch device has an alphanumeric designation of its own: MZ600. For those of you inspired to go sluthing on your own, we've got a couple final notes. First, the Bluetooth SIG has already changed its MB860 filing to read BT0001, according to Google's cache. Second, though the WiFi interoperability certificate above reads "smartphone," that's not necessarily true -- according to the Wi-Fi Alliance, Samsung's Galaxy Tab is a "phone" as well.
+      
+
+ 

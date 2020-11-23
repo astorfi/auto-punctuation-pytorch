@@ -1,0 +1,5 @@
+
+  You didn't think the modders that form the very underpinnings of Android's base would let a little unicorn like the One X slide by unscathed, did ya? That polycarbonate überphone hasn't even made it out of the official launch gate and yet, thanks to MoDaCo, it's already been rooted. Sidestepping the usual dense how-to's typically associated with achieving root on non-Nexus devices, our eager beaver hacker's compiled Superboot: a one-step, no fuss boot image that automates the process for you sans the need for adb commands. The hack is said to work with retail versions of the handset and should play friendly with Mac, Windows and Linux operating systems, though it will require S-OFF or an unlocked bootloader courtesy of HTCdev. So if you were tantalized by the possibilities of this quad-core phone, but not quite convinced you could handle another skinned UX, this might help to ease your quandary.
+      
+
+ 

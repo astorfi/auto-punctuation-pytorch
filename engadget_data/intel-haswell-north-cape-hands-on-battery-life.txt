@@ -1,0 +1,14 @@
+
+ We've just spotted a familiar friend at Intel's Innovation Future Showcase in London -- its Haswell-powered North Cape laptop / tablet hybrid. As a quick reminder, alongside that fourth-generation Intel Core processor there's a 13-inch 1080p display that detaches from the keyboard, and now we've been given a few important updates on the reference device, battery performance on Haswell and how Intel's reference design will transfer between tablet and Ultrabook mode. All that and more after the break.
+
+
+
+
+ In an effort to square those two different use cases, Intel designed North Cape so that when it's undocked from the keyboard, the screen shrinks to a more hand-friendly 11.6-inch capacitive display that will ignore your grip along the sides of the screen. The company reckons this means you'll get the widescreen real estate you need for full laptop use, along with a tablet that won't stutter as you handle it. In fact, to unsheathe the tablet we needed to press a little button along the top edge which activates an electrical catch that connects the two parts. The thinking behind this (and it's interesting to see Intel increasingly involve itself in hardware design) is that many users want to be able to single-handedly detach the tablet, something that's often been tricky or at least inelegant with some of the hybrid Ultrabooks we've seen so far.
+
+ In an unfortunate twist of fate, however, the reference model wasn't able to charge -- despite an adapter cable being flown in especially from Europe -- so we were unable to see that docking mechanism (or that Haswell chip) in action. Despite that, we still gave the machine a cursory play, and the keyboard seemed to be among the stronger offerings we've seen from Ultrabooks so far, with well-spaced buttons and an appropriate amount of give. Indeed, Intel's Markus Weingartner, who explained some of the decisions behind the design process, said capable keyboards were a high-priority here, as customers choosing such devices are already forgoing a tablet for that specific feature.
+
+ We also got an early glimpse of battery performance from Intel's incoming Haswell processor: you can expect to glean 10 hours of use in tablet mode, which is on par with many lower-powered tablets already on the market (think: Atom, ARM, et cetera). Factor in a keyboard battery (at least on this reference device) and you can expect an additional three hours of runtime. Unfortunately, there's still no word on when those next-generation low-power chipsets will arrive, although there's plenty of time till the next big PC show, Computex, rolls into Taipei.
+
+ James Trew contributed to this report.
+

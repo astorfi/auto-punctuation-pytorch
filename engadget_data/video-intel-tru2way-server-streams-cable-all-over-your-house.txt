@@ -1,0 +1,9 @@
+
+ 
+Look, Moblin and MIDs and USB 3.0 are all well and good, but the real highlight of IDF is hiding in plain sight: it's Intel's CE 3100 Media Processor-based Tru2way DVR server, which has three digital cable tuners that can be streamed over a regular gigabit Ethernet or MoCA to any number of clients, ranging from other 3100-based set-top boxes to DLNA devices like laptops and even the PS3. It's seriously cool -- the clients all see the server's tuners as their own, so the experience is seamless, and since it all runs on the Tru2way stack, it doesn't matter what kind of client you plug in -- the three clients on the show floor were running interfaces from Intel, Comcast (Rovi), and Digeo. Of course, since it's a DVR, you can actually add more clients than tuners and have them play back recorded content while your other boxes use the tuners -- Intel was demoing XBMC on a Sony laptop connecting over DLNA and streaming a recorded program while a PS3 nearby ran a photo slideshow, all while the three cable clients streamed uncompressed HD video from the tuners. Intel says a number of cable companies are interested in deploying this stuff and that we should see things on the market in the next year -- we honestly can't wait. Check a video after the break.
+      
+
+ 
+
+
+ 

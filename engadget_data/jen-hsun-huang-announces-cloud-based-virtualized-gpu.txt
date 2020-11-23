@@ -1,0 +1,109 @@
+
+ 
+ We're here at NVIDIA's GPU technology conference here in San Jose, California and CEO Jen-Hsun Huang just let loose that his company plans to put Kepler in the cloud. To make it happen, the company has created a virtualized Kepler GPU tech, called VGX, so that no physical connections are needed to render and stream graphics to remote locations. So, as Citrix brought CPU virtualization to put your work desktop on the device of your choosing, NVIDIA has put the power of Kepler into everything from iPads to netbooks and mobile phones.
+
+ While the virtualized GPU has application in an enterprise setting, it also, naturally, can put some serious gaming power in the cloud, too. Fear not, for Jen-Hsun's crew has created GeForce GRID technology that leverages Kepler's cloud capabilities to augment online gaming services like Gaikai by greatly reducing input latency by up to 30ms. Naturally, NVIDIA's not spilling the secret sauce that makes it happen, but you can read all about the new technology at the PR and source below.
+
+ Sean Buckley contributed to this post.
+
+
+  Show full PR text   NVIDIA Introduces World's First Virtualized GPU, Accelerating Graphics for Cloud Computing NVIDIA VGX Cloud Platform Puts GPUs in Enterprise Data Centers, Freeing Users to Run Microsoft Windows, Any Applications From Their Connected Device
+   SAN JOSE, CA -- (Marketwire) -- 05/15/2012 -- GPU Technology Conference -- NVIDIA today unveiled the NVIDIA® VGX™ platform, which enables IT departments to deliver a virtualized desktop with the graphics and GPU computing performance of a PC or workstation to employees using any connected device.
+
+   With the NVIDIA VGX platform in the data center, employees can now access a true cloud PC from any device -- thin client, laptop, tablet or smartphone -- regardless of its operating system, and enjoy a responsive experience for the full spectrum of applications previously only available on an office PC.
+
+   NVIDIA VGX enables knowledge workers for the first time to access a GPU-accelerated desktop similar to a traditional local PC. The platform's manageability options and ultra-low latency remote display capabilities extend this convenience to those using 3D design and simulation tools, which had previously been too intensive for a virtualized desktop.
+
+   Integrating the VGX platform into the corporate network also enables enterprise IT departments to address the complex challenges of "BYOD" -- employees bringing their own computing device to work. It delivers a remote desktop to these devices, providing users the same access they have on their desktop terminal. At the same time, it helps reduce overall IT spend, improve data security and minimize data center complexity.
+
+   "NVIDIA VGX represents a new era in desktop virtualization," said Jeff Brown, general manager of the Professional Solutions Group at NVIDIA. "It delivers an experience nearly indistinguishable from a full desktop while substantially lowering the cost of a virtualized PC."
+
+   The NVIDIA VGX platform is part of a series of announcements NVIDIA is making today at the GPU Technology Conference (GTC), all of which can be accessed in the GTC online press room.
+
+   The VGX platform addresses key challenges faced by global enterprises, which are under constant pressure both to control operating costs and to use IT as a competitive edge that allows their workforces to achieve greater productivity and deliver new products faster. Delivering virtualized desktops can also minimize the security risks inherent in sharing critical data and intellectual property with an increasingly internationalized workforce.
+
+ d   NVIDIA VGX is based on three key technology breakthroughs:
+
+   NVIDIA VGX Boards. These are designed for hosting large numbers of users in an energy-efficient way. The first NVIDA VGX board is configured with four GPUs and 16 GB of memory, and fits into the industry-standard PCI Express interface in servers.
+
+   NVIDIA VGX GPU Hypervisor. This software layer integrates into commercial hypervisors, such as the Citrix XenServer, enabling virtualization of the GPU.
+
+   NVIDIA User Selectable Machines (USMs). This manageability option allows enterprises to configure the graphics capabilities delivered to individual users in the network, based on their demands. Capabilities range from true PC experiences available with the NVIDIA standard USM to enhanced professional 3D design and engineering experiences with NVIDIA Quadro® or NVIDIA NVS™ GPUs.
+
+   The NVIDIA VGX platform enables up to 100 users to be served from a single server powered by one VGX board, dramatically improving user density on a single server compared with traditional virtual desktop infrastructure (VDI) solutions. It sharply reduces such issues as latency, sluggish interaction and limited application support, all of which are associated with traditional VDI solutions.
+
+   With the NVIDIA VGX platform, IT departments can serve every user in the organization -- from knowledge workers to designers ---with true PC-like interactive desktops and applications.
+
+   NVIDIA VGX Boards
+
+   NVIDIA VGX boards are the world's first GPU boards designed for data centers. The initial NVIDIA VGX board features four GPUs, each with 192 NVIDIA CUDA® architecture cores and 4 GB of frame buffer. Designed to be passively cooled, the board fits within existing server-based platforms.
+
+   The boards benefit from a range of advancements, including hardware virtualization, which enables many users who are running hosted virtual desktops to share a single GPU and enjoy a rich, interactive graphics experience; support for low-latency remote display, which greatly reduces the lag currently experienced by users; and, redesigned shader technology to deliver higher power efficiency.
+
+   NVIDIA VGX GPU Hypervisor
+
+   The NVIDIA VGX GPU Hypervisor is a software layer that integrates into a commercial hypervisor, enabling access to virtualized GPU resources. This allows multiple users to share common hardware and ensure virtual machines running on a single server have protected access to critical resources. As a result, a single server can now economically support a higher density of users, while providing native graphics and GPU computing performance.
+
+   This new technology is being integrated by leading virtualization companies, such as Citrix, to add full hardware graphics acceleration to their full range of VDI products.
+
+   NVIDIA User Selectable Machines
+
+   NVIDIA USMs allow the NVIDIA VGX platform to deliver the advanced experience of professional GPUs to those requiring them across an enterprise. This enables IT departments to easily support multiple types of users from a single server.
+
+   USMs allow better utilization of hardware resources, with the flexibility to configure and deploy new users' desktops based on changing enterprise needs. This is particularly valuable for companies providing infrastructure as a service, as they can repurpose GPU-accelerated servers to meet changing demand throughout the day, week or season.
+
+   Leading Businesses Endorse NVIDIA VGX
+
+   "Jaguar Land Rover is a global company with an international workforce. The 'holy grail' for us is to deliver virtualized desktop to engineers overseas so we can harness the best engineering talent on the planet without risking the security of our new car designs. The NVIDIA VGX platform is the most promising step we've seen in addressing the user experience for our virtualized workforce. With NVIDIA VGX, engineers for the first time can run all of the office productivity and technical applications they need in a virtualized environment. This will dramatically improve the productivity of our global workforce."  -- Gordon McMullan, interim CTO, Jaguar Land Rover
+
+   "Larson Design Group is a growing company that teams with our clients to provide responsive, innovative solutions for facility, transportation, land development and environmental needs. We therefore look to deploy technologies that will help sustain our growing geographic reach, ease administration and allow our engineers to reach their creative maximum and be more connected to client needs. With NVIDIA VGX, our engineers can now take any mobile device to the client's site, work interactively with them on a fully virtualized desktop and still maintain the industry's highest productivity levels."  -- Keith S. Kuzio, CEO, Larson Design Group
+
+   "Desktop virtualization is rapidly becoming mainstream for enterprises. By leveraging the NVIDIA VGX platform, combined with XenDesktop and HDX technologies, we are enabling enterprise customers to virtually deliver graphics-intensive apps beyond power users and designers. Now, they can also serve users who require only occasional access to graphics-intensive apps, which previously would have been cost-prohibitive. The combined virtual desktop solution for serving these users can be reduced by up to 80 percent, while enabling users to securely access GPU-accelerated apps from any device."  -- Sumit Dhawan, vice president and general manager of Receivers and Gateways, Citrix
+
+   "NVIDIA virtualized GPU technology aligns with Cisco's vision of cloud and delivery of desktop and rich-media applications. GPU virtualization is the one major technology challenge that has been holding back deeper adoption of VDI in the enterprise. We believe NVIDIA's breakthrough will deliver the unique user experience and ease of management customers have been demanding."  -- David Yen, senior vice president and general manager of Data Center Business Group, Cisco
+
+   "Virtual desktop environments can enable mobile workforces to perform tasks more efficiently. With HP VirtualSystem utilizing HP Blade Servers and the NVIDIA VGX platform, clients can easily deploy a simplified virtualized environment that quickly delivers the information or applications users need."  -- Chuck Smith, vice president of Worldwide Industry Standard Servers, HP
+
+   Availability and Pricing  The NVIDIA VGX platform, including new NVIDIA VGX boards, the NVIDIA GPU Hypervisor and NVIDIA USMs, is planned to be available for deployment across the enterprise through NVIDIA's hardware OEM and VDI partners later this year. Additional information is available at www.nvidia.com/object/vdi-desktop-virtualization.html.
+
+   Show full PR text   Cloud Gaming Moves At The Blink Of An Eye With NVIDIA GeForce GRID  Tuesday, May 15, 2012
+   GPU Technology Conference -- Gaming enters a new era today with the launch of the NVIDIA® GeForce® GRID cloud gaming platform, which allows gaming-as-a-service providers to stream next-generation games to virtually any device, without the lag that hampers current offerings.  With the GeForce GRID platform, gaming-as-a-service providers can deliver the most advanced visuals with lower latency, while incurring lower operating costs, particularly related to energy usage. Gamers benefit from the ability to play the latest, most sophisticated games on any connected device, including TVs, smartphones and tablets running iOS and Android.
+
+   "Gamers will now have access to seamlessly play the world's best titles anywhere, anytime, from phones, tablets, TVs or PCs," said Phil Eisler, general manager of cloud gaming at NVIDIA. "GeForce GRID represents a massive disruption in how games are delivered and played."
+
+   GeForce GRID was introduced at the GPU Technology Conference (GTC), as part of a series of announcements from NVIDIA, all of which can be accessed in the GTC online press room.
+
+   The key technologies powering the new platform are NVIDIA GeForce GRID GPUs with dedicated ultra-low-latency streaming technology and cloud graphics software. Together, they fundamentally change the economics and experience of cloud gaming, enabling gaming-as-a-service providers to operate scalable data centers at costs that are in line with those of movie-streaming services.
+
+   NVIDIA GeForce GRID GPUs  Using the highly efficient NVIDIA Kepler™ architecture, NVIDIA GeForce GRID GPUs minimize power consumption by simultaneously encoding up to eight game streams. This allows providers to cost-effectively scale their service offerings to support millions of concurrent gamers.
+
+   Featuring two Kepler architecture-based GPUs, each with its own encoder, the processors have 3,072 CUDA® technology cores and 4.7 teraflops of 3D shader performance. This enables providers to render highly complex games in the cloud and encode them on the GPU, rather than the CPU, allowing their servers to simultaneously run more game streams. Server power-consumption per game stream is reduced to about one-half that of previous implementations, an important metric for data centers.
+
+   Fast Streaming Technology  Fast streaming technology reduces server latency to as little as 10 milliseconds -- less than one-tenth the blink of an eye -- by capturing and encoding a game frame in a single pass. The GeForce GRID platform uses fast-frame capture, concurrent rendering and single-pass encoding to achieve ultra-fast game streaming.
+
+   The latency-reducing technology in GeForce GRID GPUs compensates for the distance in the network, so gamers will feel like they are playing on a gaming supercomputer located in the same room. Lightning-fast play is now possible, even when the gaming supercomputer is miles away.
+
+   GeForce GRID Enables the Virtual Game Console  Also at GTC, NVIDIA and Gaikai demonstrated a virtual game console, consisting of an LG Cinema 3D Smart TV running a Gaikai application connected to a GeForce GRID GPU in a server 10 miles away. Instant, lag-free play was enabled on a highly complex PC game, with only an Ethernet cable and wireless USB game pad connected to the TV.
+
+   Leading Gaming-as-a-Service Providers Companies Endorse GeForce GRID  A number of leading gaming-as-a-service providers announced their support of the GeForce GRID. Among them:
+
+   "Not so long ago, engineers said cloud gaming was impossible, and that it was not possible for cloud gaming to be as fast or high-quality as local, console-based gaming. Obviously, they didn't know that Gaikai and NVIDIA would be working together. We're proving the doubters wrong."  -- David Perry, CEO, Gaikai
+
+   "Just like iPhone games have taken over the handheld games market because of ease of use, cloud gaming will expand gaming by making it incredibly convenient."  -- Guy De Beer, CEO, Playcast Media System
+
+   "We have worked closely with NVIDIA to use the GeForce GRID processor architecture in Ubitus GameCloud®. Ubitus delivers highly scalable cloud gaming solutions with a native-like gaming experience for service providers."  -- Wesley Kuo, CEO, Ubitus
+
+   Game Developers Endorse GeForce GRID  A range of leading game developers also announced their support of GeForce GRID. Among them:
+
+   "At Epic, we're really excited about NVIDIA's announcement of the GeForce GRID platform. NVIDIA's GRID technology, with its latency reduction and improved image quality, combined with higher density and power efficiency, are significant steps toward making cloud gaming a true console-like experience today, and bringing that high-quality gaming experience to more people.
+
+   "Cloud has the potential to deliver an even more powerful experience in the future by enabling ultra-high-end GPUs like the GeForce GTX 680 to stream ultra-high-quality graphics such as those made possible by UE4 to a huge range of devices, well beyond console capabilities. The result will be that more people can enjoy EPIC's games on more devices at higher quality."  -- Tim Sweeney, founder and CEO, EPIC Games
+
+   "The compelling advances that GeForce GRID introduces to cloud gaming are especially beneficial to Capcom game fans, as we are focused on delivering AAA action games that are reliant on low latency for the best experience. We are, therefore, very excited about NVIDIA's contributions in this space."  -- Masaru Ijuin, deputy general manager, Technology Research and Development, Capcom Co., Ltd.
+
+   "Online gaming with underlying cloud infrastructure is an important part of modern games. Cloud gaming is an exciting new way of delivering games to streaming customers. In reviewing NVIDIA's GeForce GRID, I see the potential for this technology to reduce some of the latency issues that affect game streaming. This is an exciting development."  -- Juancho Buchanan, vice president of Technology, THQ Inc.
+
+   For more information about GeForce GRID, please visit: http://www.nvidia.com/geforcegrid.
+
+ 
+ 

@@ -1,0 +1,21 @@
+
+PC game service operator and game development studio Valve announced SteamOS this afternoon, finally formalizing a PC gaming hardware project known as "Steambox" we've heard dribs and drabs about over the past few years. The OS will function on "any living room machine," and it also streams games from your Mac and PC, as well as offering media playback functionality. The OS seems to be multifunctional in this aspect, both acting as an operating system for living room-based machines directly connected to televisions, and offering streaming capability from computers outside the living room. "Just turn on your existing computer and run Steam as you always have - then your SteamOS machine can stream those games over your home network straight to your TV," the announcement page says. The OS is free and built on Linux; it will be available "soon."
+
+
+Valve says it's "achieved significant performance increases in graphics processing, and we're now targeting audio performance and reductions in input latency at the operating system level," with regards to streaming capability. "Game developers are already taking advantage of these gains as they target SteamOS for their new releases." No specific developers are named, but a job posting from Crytek points at one suspect.
+
+
+The project is intended to compete with traditional game consoles, and it seemingly evolves Steam's "Big Picture Mode" to that end (which isn't to say that service is going away). Valve specifically lists four new features as the pillars of SteamOS: in-home streaming, family sharing, music / TV / movies, and family options. Let's dive into those after the break.
+                 
+
+For in-home streaming, Valve promises simplicity by allowing you to simply turn on an existing PC or Mac with Steam and start beaming games over WiFi to your TV. How your television will receive that signal is unclear, nor is it clear how controlling games would work in that scenario (would you have to be close enough to the PC for a wireless controller to work?). A digital receiver of some form may be the next part of this puzzle, but we've got no word of any hardware connected to SteamOS just yet.
+
+In terms of media, Valve says it's working with "many of the media services you know and love" to bring access to various media services -- we're guessing that means stuff like Netflix and Hulu Plus -- though little specificity is offered on that front.
+
+Family sharing and family options both offer accessibility for Steam to multiple household members, as well as the ability to restrict certain features or content to younger users. Specifically, users can " take turns playing one another's games while earning your own Steam achievements and saving your individual game progress to the Steam cloud." Family sharing is actually already in beta on Steam right this minute.
+
+All four pillars that Valve speaks to are part of SteamOS, but they're also coming to the Steam client itself. The company repeatedly separates the two, which sounds like SteamOS is very much its own beast. Its also referred to as an evolving, open platform. "With SteamOS, 'openness' means that the hardware industry can iterate in the living room at a much faster pace than they've been able to. Content creators can connect directly to their customers. Users can alter or replace any part of the software or hardware they want. Gamers are empowered to join in the creation of the games they love," the announcement page reads.
+
+A countdown timer on the company's Steam news page ended at 1PM ET this afternoon, which gave way to the SteamOS news...but another such timer popped up in its place, counting down to another two days from now. We'll see you folks here again on Wednesday, apparently! Valve has three announcements planned for this week (we're guessing Friday might be the final one if another 48 hours are added on Wednesday), with SteamOS kicking things off. Join us as the week continues!
+
+             

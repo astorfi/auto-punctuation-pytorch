@@ -1,0 +1,65 @@
+
+
+More Info
+
+ASUS Eee Pad MeMO ME171, ME370T and high-end Transformer Prime TF700T revealed
+ASUS rebrands its tablets 'Transformer Pads,' announces the high-end Infinity Series with either Tegra 3 or Snapdragon's S4 chip
+ASUS Transformer Pad Infinity Series hits the FCC
+
+
+When ASUS first teased the Transformer Pad Infinity TF700 back at CES, many customers looked on, simmering with rage. You see, only several weeks earlier the company started selling the Transformer Prime, a top-tier tablet priced at a not-so-cheap $500. It was a state-of-the-art product... until ASUS unveiled the TF700, a tablet that was similar, only better. It, too, has a Tegra 3 chip and 8-megapixel camera, but it adds a higher-res, 1,920 x 1,200 display and promises improved signal reception, a pain point for the Prime.
+
+
+Little did those disgruntled Prime owners know it would actually be a long time before the TF700 ever became available. Now, we're finally hearing it will go on sale in the US in mid-July, at which point the Prime is expected to drop in price before it gets discontinued. But is the TF700 all that much of an improvement over the original? And how does it stack up against comparably priced tablets, such as the new iPad, Acer Iconia Tab A700 and Toshiba Excite 10? Check out our early review to find out.
+
+
+
+
+Hardware
+Everything about the TF700 is reminiscent of the original Transformer Prime.You've seen this tablet before -- and no, we're not referring to the time we handled it at Mobile World Congress. Everything about the TF700 -- the thin shape, that spun metal lid, the gold and purple color options -- is reminiscent of the original Transformer Prime. With the device powered off, the only noticeable difference is that the back cover now has a thin strip of plastic stretching across the top, presumably to improve signal reception. Otherwise, it's as sturdy and well-built as any other Transformer tablet, though it's slightly chubbier at 1.3 pounds / 0.33 inches thick (versus 1.28 pounds / 0.32 inches for the Prime). Does that extra hundredth of an inch make a difference? Not for us, anyway.
+
+Taking a tour around the device, the selection of ports hasn't changed either. On the bottom, there's a trio of connectors allowing the tablet to fit snugly in the optional keyboard dock. The left landscape side is home to a micro-HDMI socket, along with a 3.5mm headphone jack and uncovered microSD slot. On the top edge, meanwhile, you'll find a volume rocker and the all-important power / lock button. Flip the tablet around and you'll find the same 8-megapixel, f/2.2 camera used on the lower-end TF300, along with an LED flash. As with other Transformer tablets, there's also a 2-megapixel webcam tucked into the front bezel.
+
+Display and sound
+So what has changed? The display, for starters. Yes, this has a 10-inch, FHD IPS (make that Super IPS+) screen, just like the Prime, but this time it trades a 1,280 x 800 pixel count for 1,920 x 1,200 resolution. Yes, it's crisp, even if it is not quite as stunning as the 2,048 x 1,536 Retina display. The viewing angles are wide -- so wide, in fact, that you can easily watch a movie with the tablet placed face-up on a table in front of you (not that you'd need to do this with the keyboard dock).
+
+Still, with the default settings enabled, the screen glare sometimes overpowers whatever's on screen. In situations like that, you'll want to flip on Super IPS+ mode, which bumps the brightness to a staggering 600 nits. Once we did that, we had no problem framing still shots while standing in direct sunlight. And hey, even if you don't plan on taking this outside the home, you might find that the Super IPS+ feature makes it a bit easier to use the tablet near a window, or in an office with harsh overhead lights.
+
+We did find one flaw with the display: it's bonded in such a way that if you press down on the screen you'll see air pockets form beneath your fingers. This isn't the first time we've seen this on a tablet, but it's also not the sort of thing we'd expect to find on a premium $500 product.
+
+
+Like ASUS' other tablets, the TF700 comes endowed with SonicMaster audio, which makes for some loud, though not exceptionally rich sound. Just keep in mind that the speaker is located on the back side, which means if you set the tablet down on a table any songs or movie dialogue will sound muffled. Then again, if you plan on watching movies with the tablet propped up in its dock, this is a moot point.
+
+Keyboard dock
+The optional dock offers the same features it always has, but for any first-time Transformer buyers who might be reading this, here's a quick primer: in addition to being an external keyboard, the dock is home to an SD card slot, a full-size USB 2.0 port and a built-in 19.5Wh battery, allowing you to go longer without charging your tablet. As you see in our photo gallery, the tablet is roughly the same size and thickness of a netbook when combined with the keyboard dock, and we never felt like the slate was about to tumble out of its cradle.
+
+The whole setup is actually rather sturdy, but we've always felt the dock is a little too scratch-prone; it tends to scuff more easily than the tablet itself. We'd also caution you that when the tablet is docked inside the keyboard the weight distribution becomes lopsided -- so much so that unless you angle the display just so the whole thing might tumble backward off your lap. Thankfully, this should be less of an issue if you place the dock on an airplane tray, or some other flat surface.
+
+And by the way, we're using that flight scenario quite deliberately. As cramped and flimsy as this keyboard is, it feels like an improvement over the touchscreen when it comes to pecking out short web searches and answering emails on the go. But we would never suggest a student use this to bang out 10-page term papers -- heck, we're loathe to even write 3,000-word reviews on it. Keys this shallow and this crowded simply can't take the place of a standalone laptop, but they're at least convenient when you find yourself with no other options. So go ahead and splurge on the keyboard, but think of it as a travel accessory and not the missing ingredient for some magical, low-cost laptop replacement.
+
+
+As for the keyboard dock's built-in trackpad, it responds surprisingly well to two-finger scrolls, but the pad's tiny size means you won't actually have much space to pull off those kinds of gestures.
+
+As we hinted at earlier, the best thing about the TF700's keyboard dock is that, well... you don't necessarily need it. Back when we reviewed the mid-range Transformer Pad TF300, many readers were upset to learn that they couldn't re-use their OG Transformer dock, meaning if they wanted to upgrade they'd have to buy a new tablet and a new keyboard, to boot. Here, there are no such compatibility issues: the TF700 will work with the dock belonging to the original Prime. That's good news for fed-up Prime owners who've had enough of the GPS issues but don't have a reason to trade in the dock, per se.
+
+Performance    ASUS Transformer Pad Infinity TF700 ($499) Toshiba Excite 10 ($450) ASUS Transformer Prime ($499, pending price cuts)     Quadrant 4,685 4,016 4,137   Vellamo 1,475 1,471 1,418   AnTuTu 12,027 10,521 10,269   SunSpider 0.9.1 (ms) 2,012 1,939 1,861   GLBenchmark Egypt Offscreen (fps) 75 62 fps 68 fps   CF-Bench 7,874 12,012 11,861   SunSpider: lower scores are better  Like last year's Prime, the TF700 packs a quad-core Tegra 3 chip, though this time the clock speeds reach 1.7GHz with single-core performance and 1.6GHz when two to four cores are in use. (Compare that with 1.4GHz and 1.3GHz, respectively, for the Prime.) This tablet, too, has 1GB of RAM, but the memory is now of the DDR3 variety.
+
+So what does that mean in terms of actual performance? Well, if benchmarks are to be believed, the TF700 is faster than the Transformer Prime and Tegra 3-packing Toshiba Excite 10, but only slightly. Heck, on Vellamo, it beat the Excite 10 by a mere four points, and actually lost to it in SunSpider by about 50. Unarmed with raw numbers, it's near-impossible to tell the difference.
+
+As we've said in previous reviews, Tegra 3 shines most in gaming. When we played titles like Temple Run, Big Top THD and Zen Pinball, we enjoyed smooth graphics, though more than once the screen failed to respond to our swipes (so much for sliding under a tree trunk to escape those monkeys). In fact, finger input sometimes didn't register when we were simply navigating the OS (fortunately, this wasn't too frequent). We also observed a few other hiccups: apps were sometimes sluggish in opening and closing, and the camera application downright halted when we tapped the home button to exit.
+
+    Power Saving Balanced Performance     Quadrant 2,045 4,685 4,714   Vellamo 1,007 1,475 1,573   AnTuTu 5,498 12,027 12,421   SunSpider 0.9.1 (ms) 2,857 2,012 1,745   GLBenchmark Egypt Offscreen (fps) 75 75 75   CF-Bench 3,815 7,874 8,357   SunSpider: lower scores are better  Like every other Transformer tablet ASUS has produced, the TF700 has not one, but three battery modes: Power Saving, Balanced and Performance. For the purpose of making comparisons with other devices, we used the default Balanced setting, but we were also curious to see how each of these three power management profiles had an impact on overall performance. Running the same benchmarks in each mode, we found that there's not much of a benefit to using the Performance settings: the battery will drain faster, and the difference in scores between this and Balanced mode is actually quite modest. On the other hand, if you flip to Power Saving mode you can expect your scores to plummet, sometimes by more than half compared to what you'd otherwise get in Balanced mode.
+
+Battery life   Tablet Battery Life     ASUS Transformer Pad Infinity TF700 9:25 / 14:43 (keyboard dock)    Samsung Galaxy Tab 7.7 12:01   Apple iPad 2 10:26   Acer Iconia Tab A510 10:23   ASUS Eee Pad Transformer Prime 10:17 / 16:34 (keyboard dock)   Samsung Galaxy Tab 10.1 9:55   Apple iPad (2012) 9:52 (HSPA) / 9:37 (LTE)   Apple iPad (2011) 9:33   Toshiba Excite 10 9:24   Motorola Xoom 2 8:57   Samsung Galaxy Tab 2 10.1 8:56   HP TouchPad 8:33   ASUS Transformer Pad TF300 8:29 / 12:04 (keyboard dock)   Acer Iconia Tab A200 8:16  The TF700 packs a 25Wh battery rated for up to nine and a half hours of runtime. Indeed, it lasted nine hours and 25 in our battery rundown test, which involves looping a video with WiFi on and the brightness fixed at 50 percent. That's still not as impressive a showing as the Prime, whose 25Wh cell lasted 10-plus hours in the same test. It also doesn't match the Acer Iconia Tab A510, new iPad or last year's iPad 2. That said, 9.5 hours should be plenty for most users, and it's longer than many other 10-inch tablets are capable of.
+
+Meanwhile, the 19.5Wh battery inside the keyboard dock promises to add an extra five hours or so of runtime. With the help of that dock, the tablet was able to last 14 hours and 43 minutes on the same video run down test. It's also worth noting that if you choose to use the OG Prime's dock you should enjoy even longer runtime, as the battery there is rated at 22Wh, compared with 19.5.
+
+A quick note on charging: though you can use the included cable to charge the tablet over USB, that convenience doesn't apply to the keyboard dock. To charge that piece of equipment, you'll need to find yourself a power outlet.
+
+Update: And the results are in: the TF700 lasted 14 hours and 43 minutes in our video rundown test, with the keyboard dock attached.
+
+Camera
+As we mentioned back in the hardware walk-through, the TF700 has the same 8-megapixel, f/2.2 camera module as the TF300, except this guy also includes an LED flash for slightly better low-light shots. As you'll see in that gallery down there, the image quality is hardly perfect, but it's certainly better than what you'll get from most tablets. Though the camera struggles in harshly backlit situations, it does a better job of capturing close-ups than pretty much any other tablet we've tested. The autofocusing camera is also quick to lock in on subjects, and though we had the option of tapping to focus, we found we rarely needed this feature; the camera usually identified the most salient aspect of the shot on its own. Predictably, the auto-focusing sensor was most likely to stumble in dimmer conditions, though our low-light samples weren't actually that grainy. As it turns out, this wasn't just us being optimistic: ASUS has indeed tweaked the flash since releasing the original Transformer Prime.
+
+
+

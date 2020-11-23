@@ -1,0 +1,5 @@
+
+
+Remember how companies were working with the Unicode Consortium to get more diversity into the emoji characters you use? Well, there's now a clue as to how those more accommodating characters are likely to work. A newly proposed update from Apple and Google would build a skin tone modifier into Unicode; you'd only have to add it to existing emoji to change skin color and better reflect your identity. The technique would be easy to implement on a phone (a press-and-hold button would work), and it would fall back gracefully when you're chatting with someone whose phone can't handle the new code. The Consortium still has to accept and implement the new emoji before you'll see them, but it's hard to see the organization turning down such a straightforward approach.
+
+

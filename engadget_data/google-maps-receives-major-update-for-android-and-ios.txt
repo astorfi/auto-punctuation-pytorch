@@ -1,0 +1,11 @@
+
+Ever since Google Maps returned to iOS with a completely new UI last December, we knew it was only a matter of time until the Android app followed suit. The search giant even said this much when it launched a revamped web edition of Google Maps at I/O. Earlier today, version 7 of Google Maps popped up in the Play store boasting a new discovery feature, enhanced navigation and more. It's now official -- a major update is currently rolling out for the Android version of Google Maps, with an iOS build to follow. Beyond normalizing the UI across platforms, this update brings significant new functionality to the table. We took the revised Android app for a brief spin, so hit the break for our first impressions. 
+
+
+
+
+ It's immediately obvious that this new version of Google Maps for Android is simpler, cleaner and faster. There's less clutter and the map view is rendered noticeably quicker. Latitude is gone, which is unfortunate -- you're encouraged to use Locations in the Google+ app instead, but it isn't quite the same. The "info sheet" familiar to iOS users carries over to the new Android version, complete with left and right swipe gestures to loop through search results and tap to expand for more details. Once you become familiar with the new UI, this Google Maps update provides a more streamlined and polished user experience -- it's quite refreshing, really. Note that it requires Android 4.0.3 (Ice Cream Sandwich) or higher.
+
+The new functionality includes Explore, which lets you discover nearby places to eat, drink, sleep, play and shop, by simply tapping the search box. Enhanced navigation shows real-time traffic congestion and incidents ahead and suggests alternate routes (with an option to reroute). Zagat is now integrated into the search results with badges and curated lists and the rating system uses a five star scale (displayed with a decimal place). Of course, both the Android and iOS apps feature dedicated tablet apps. For those wondering where the offline maps option went, Google created an Easter egg: just type or speak "OK Maps" in the search box to cache what's currently in the map view. Check out the details in Google's blog post at the source link below.
+
+

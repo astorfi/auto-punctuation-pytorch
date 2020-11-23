@@ -1,0 +1,4 @@
+
+ Facebook already sports advertisements baked into its own website and mobile apps, and now it'll begin serving ads on other handset-optimized websites and smartphone applications. TechCrunch reports that the firm has begun testing a new ad network that leverages user data to display hyper-relevant ads on third party turf. Instead of relying on vanilla tracking cookies to gain insight into visitor interests, the platform accesses information including age, gender, likes, location, which apps friends have used and other data points when users are logged into a site or application with Facebook credentials. Zuckerberg and Co.'s solution lets advertisers bid on certain demographics and uses existing networks such as iAds and AdMob to serve appropriate ads based on anonymous ID's tied to Facebook accounts. For now, Menlo Park's new program is limited to the all-important mobile market, but don't be surprised if the service finds its way to the desktop.
+
+

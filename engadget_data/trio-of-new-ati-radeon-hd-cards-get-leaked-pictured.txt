@@ -1,0 +1,6 @@
+
+ 
+AMD removed any lingering secrecy when it gave the official word to expect new kit based on the R680, RV620 and RV635, but now we're seeing a trio of actual products (all PCIe 2.0) that are purported to be built around the aforementioned cores. According to MadBoxPC, the ATI Radeon HD 3450 will be based on the RV620, utilize 55-nanometer fabrication technology and will feature a 525MHz core clock, 400MHz memory clock (800MHz DDR), 256MB of DDR2 RAM and VGA / Display Port outputs. Moving on up, we've got the Radeon HD 3470, which is based on the same core but gets clocked a hair faster and ditches Display Port for DVI. Finishing things off is the RV635-based Radeon HD 3650, which will come in a 800MHz XT flavor and a 600MHz Pro iteration along with 256MB - 512MB of GDDR3 RAM. The trifecta is reportedly going to ship sometime next month, and they'll cost you just $50, $60 and $100, respectively.[Via DailyTech]
+      
+
+ 

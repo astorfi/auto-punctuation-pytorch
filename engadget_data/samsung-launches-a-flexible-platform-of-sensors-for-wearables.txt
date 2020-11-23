@@ -1,0 +1,16 @@
+
+
+At Samsung's "Voice of the Body" event today, the company announced SIMBAND, a modular reference platform for wearable health sensors that it hopes will inspire a new generation of fitness products. The prototype device you see above has a multitude of sensors built right into it, including an optical light sensor that can detect the variation of light absorption through the skin in order to come up with your pulse and other data. There's even an ECG sensor integrated into the watchband so that when you touch the clasp, an electrical route is completed.
+
+
+
+Samsung says SIMBAND is completely multimodal -- the optical, electrical and physical components can be swapped out, and it's entirely built for customization. The company also wanted to drive home that SIMBAND is designed to be very power efficient (it has a new shuttle battery) while not taking up a lot of space -- the prototype watchface on stage is only about half the size of an SD card. Additionally, it has a 1GHz dual-core ARM Cortex-A7 28nm chip along with WiFi and Bluetooth technologies.
+
+
+SIMBAND is designed as an open platform that allows developers to create new applications, and the SDK is slated to be out in the next few months. Through several open APIs that it hopes to release later this year, Samsung is looking to integrate the platform with SAMI (Samsung Architecture for Multimodal Interactions), its internal data-collection initiative that attempts to make all that fitness data accessible to other services and devices, such as S Health, your phone or perhaps your scale.
+
+The potential for the platform goes beyond just fitness trackers. Samsung also says it's working on a partnership with UCSF's Digital Health Innovation Lab to see if these huge data sets can create new predictive models of health and wellness for all of us, and not just on the individual level. This way, it could provide a "truly meaningful impact on health." UCSF has said it's happy to partner with startups to ensure that their application or device is doing what it's intended to do.
+
+To cap off the event, Samsung announced the Digital Health Challenge, which is essentially a $50 million investment fund aimed at startups so that they'll adopt Samsung's open platforms and the latest health technologies.
+
+

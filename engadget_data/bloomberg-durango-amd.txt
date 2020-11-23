@@ -1,0 +1,8 @@
+
+ The Xbox 360 successor may not support Xbox 360 game discs, according to a Bloomberg report. The issue arises from the as-yet-unannounced console's chip, which allegedly comes from AMD and, like the PlayStation 4, uses x86 architecture (like a PC). Resultantly, backwards compatibility would have to be handled on a software level through emulation, as game discs won't play (like with Microsoft's last console). Today's report, which cites unidentified "people with knowledge of the matter," reflects earlier rumors of the next Xbox -- codenamed "Durango" and / or "Kryptos" -- containing AMD's "Jaguar" SoC. The chip design is intended for laptops and tablets, allowing the chipset to push the maximum amount of power without employing too much wattage.
+
+ Earlier this year, specs for the retail version of the next Xbox were said to be as follows: a 64-bit D3D11.x 800MHz GPU, an 8-core 1.6GHz 4MB L2 CPU, 8GB DDR3 RAM, 500GB of on-board memory, USB 3.0, HDMI-out, and an optical drive for 50GB discs. It's unclear if the reported specs have changed since then, but we'll likely find out in the near future as Microsoft's expected to detail its next game console ahead of this year's E3 gaming conference in early June.
+
+ [Image credit: Kotaku]
+
+

@@ -1,0 +1,8 @@
+
+ 
+It may not be a big deal -- Android's done it for years -- but some will no doubt be interested to learn that Apple can monitor your GPS. In the latest revision of its privacy policy, presumably updated for iOS 4, it revealed the company can anonymously track the "real-time geographic location" of devices and is free to share that data with "partners and licensees" as well. In a nutshell, that means Cupertino could potentially sell location data, but don't get in a tiff just yet -- the company says it will do so anonymously and for location-based services only.
+
+Speaking of sales and personally identifiable data, another addition to iOS 4 is the ad network iAd, which monitors your browsing habits and interests and serves up targeted advertisements respectively. According to the updated privacy policy, however, you don't need to let the OS do that. Simply navigate to http://oo.apple.com to shut down automated cookie collection, and you'll see boring, generic ads instead.
+      
+
+ 

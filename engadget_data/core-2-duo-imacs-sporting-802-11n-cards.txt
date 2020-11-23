@@ -1,0 +1,6 @@
+
+ 
+Well, what have we here? Since the IEEE taskforce apparently can't make up its mind about a final 802.11n protocol, some manufacturers have (understandably) just rolled out products based on the current draft(s). An eagle-eyed user has reportedly spotted one such wireless card in a less-than-expected location: within Apple's newest iMac. While booted up into the latest version of Windows Vista, the built-in network adapter was recognized as being of the "Broadcom 802.11n" variety -- not exactly the 54Mbps version we all expected to see. While we aren't certain if there's really a draft-spec card under the hood -- especially since OS X is fairly adamant that it only supports 802.11b/g -- Windows Vista is either uncovering a subtle secret (iTV to support 802.11n?), or else its a bit too sauced up to be taken seriously.[Via MacRumors]
+      
+
+ 

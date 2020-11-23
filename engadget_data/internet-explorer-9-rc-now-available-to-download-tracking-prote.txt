@@ -1,0 +1,8 @@
+
+ 
+The Internet Explorer 9 beta pleasantly surprised us with Microsoft's renewed competitiveness in the web browser wars, and the pinnable, hardware-accelerated experience is getting even better today -- you can download the IE9 release candidate right now, which streamlines and beautifies the tabbed browsing layout considerably, adds those previously promised, fully customizable tracking protection lists for privacy and freely toggled ActiveX filters, as well as an updated Javascript engine, geolocation support via HTML5, the ability to pin web apps to the taskbar, and a host of assorted speed and functionality improvements. Find the files you need at our source link below, and let us know if the Beauty of the Web captivates you this time around.
+
+Update: We spoke to Microsoft IE9 privacy guru Andy Ziegler, and learned to our dismay that tracking protection lists won't actually be included in the browser per se; rather, the company's created a feature where you can generate your own lists or download ready-made one from providers like TRUSTe. The thing is, IE9 won't suggest one for you, or even curate a group of them when you install -- you'll need to put on your power user hat and do the legwork there yourself. 
+      
+
+ 

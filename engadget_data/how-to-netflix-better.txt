@@ -1,0 +1,43 @@
+
+We've heard your complaint: you can't find anything to watch on Netflix. Despite all the A/B testing, app updates and data Netflix is measuring behind the scenes, the way it presents the library makes it nearly impossible to see everything that's available to watch, and sometimes you want to do the choosing instead of letting an algorithm or hired gun do the work. The good news is there are a ton of different ways to sort through the pile -- or ditch sorting for the bliss of random selection -- but the bad news is that some of them will be going away soon (more on that in a minute). If you're not already taking advantage of third party tools like InstantWatcher to dive deep into the catalog, we're here to explain why you should be.
+
+
+
+InstantWatcher
+If you're the very selective type of person, this is the best way to browse Netflix -- although maybe not the prettiest. Want to dive into a specific genre (or sub genre), sort by year, view only highly-rated movies (Rotten Tomatoes & New York Times), see what's new or what's popular, see what's new and popular -- Instantwatcher can bring all of that, and it's available on the web or in your palm via apps for Android and iOS.
+
+What if you still can't decide? That's fine, there's a constantly refreshed list at the top right showing what other people have just queued using the site -- yes, if you're logged in to Netflix.com, you can queue or play with just a single click -- and a random button just for kicks.
+
+Ways to use it: Web, iPhone, iPad, Android
+Can I Stream It?
+You know what you want to watch -- but you don't know if you can, or where. Can I Stream It? solves that problem by tapping into the databases for not just Netflix, but also almost everywhere else. That includes other all-you-can-eat services like Amazon Prime and Hulu Plus, rental/purchase sources like iTunes, Google Play, Redbox and Amazon VOD, discs from Netflix, Redbox and Amazon, and even cable TV streaming sources from Comcast. If what you're looking for isn't available yet, (or isn't on the service you have) just set up a reminder, and the website will let you know when it's ready for viewing in the right place.
+
+Ways to use it: Web, iOS, Android, Windows Phone, Chrome
+Nu for Netflix
+Nu for Netflix is pretty self-explanatory. Especially useful now that Netflix has cut off the RSS feed for new additions, it's more focused than the two entries above by just feeding you new additions to the streaming catalog, every day. Contrary to what many users think, the "new releases" category in the usual Netflix queue isn't consistently refreshed with the latest bits. It also features specific lists for different regions, so if you travel a lot -- or your VPN does -- you can keep an eye on what's coming in around the world. The Twitter feed currently only works for Canada, but there's an Android app too. The free (ad-supported) version will show information for your region, searchable by movie/show/person, genre with ratings from Rotten Tomatoes. A $4 upgrade lets you search worldwide and drops the advertisements. The same developer has also launched a website called Netflix Notifier -- just add a movie to your queue there, and they'll let you know when Netflix has it to watch.
+
+Ways to use it: Web, Android (Update: iOS now available!)
+
+MoreFlicks
+This website blends the strengths of Can I Stream It? with the international reach of New On Netflix. It searches not only Netflix*, but also Vudu, Hulu, iTunes*, Fox and Crackle*, plus BBC iPlayer (on Netflix, iTunes and Crackle it can search the libraries for different countries individually.) Most Popular, New Arrivals, Expiring Soon, Oscar Winners -- MoreFlicks has a number of ways to drill down to the content you want.
+
+Ways to use it: Web
+FeedFliks
+This Netflix helper has been around for a while, and it's all about making sure you're getting your money's worth. Changes to the movie service's API have hamstrung some of its cooler features, but if what you need is an all-in-one service to let you know when new movies arrive or how long you've had that DVD -- FeedFliks has your back. There's also a premium service available for $10 per year that makes the whole process nearly automatic, it will automatically add favorite movies to your queue when they're available, remind you to send back DVDs after a while, let you see when movies from your disc queue are ready to stream and sort your queue by which movies are expiring first.
+
+Ways to use it: Web
+The Walking DeadThese next couple of helpers are ready for you to use now and even add some cool features, but they may be on their way out. Netflix announced it's shutting off its public API on November 14th. That means only sites that don't use the API, or ones that have been granted special access, will keep working. After that, you'll be restricted to a shorter list of third parties, or those that rely on scrapers for data that can sometimes be out of date, to fill in the sort of features Netflix hasn't added yet.
+
+AllFlicks
+AllFlicks has been around since late last year, and developer Ville Salminen says it's been averaging around 15,000 users per day. Like some of the others, it gives a few different ways to browse or filter through Netflix's US & Canada catalog, but feature we like the most is that you can create custom queues, and then share them with others. Netflix's own social efforts tied to Facebook haven't quite caught on so far, and aren't nearly as customizable. AllFlicks is asking for your help in getting Netflix to reconsider -- check here for more information.
+
+Ways to use it: Web
+Mimmsy
+Mimmsy is another Netflix frontend that's facing shutdown, and like some of the others, it's all about giving you more ways to search. It puts filters ahead of box art when it comes to browsing, and should let you narrow down to exactly the type of movie or TV show you want to see. The developer has even put together a quick demo video to show you how to use it -- it's free and ad-supported, but if you create an account you can add movies directly to your Netflix queue without leaving the site.
+
+Ways to use it: Web
+Those are our favorite ways to make sense out of Netflix, with our thanks to the folks at AllFlicks and the r/Netflix discussion on Reddit for suggestions. If we missed any -- or if you just have a great idea that someone should build into one of these platforms -- let us know about it in the comments below.
+
+[Image credit: Netflix (TV / remote), Paul Sakuma/AP]
+
+

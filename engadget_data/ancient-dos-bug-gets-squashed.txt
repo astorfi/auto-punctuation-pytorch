@@ -1,0 +1,6 @@
+
+ 
+What can we say about you, DOS? You've rocked the personal computer world and changed the way we all feel about white on black console screens. Your retirement is a well deserved one and... wait, you're getting a patch? Amazingly, Microsoft is fixing a bug that has existed in the Windows Virtual DOS Machine (VDM) subsystem since it was added to Windows NT way back in the simple days of 1993, when flannels were everywhere and 32 bits were more than we knew what to do with. Google engineer Tavis Ormandy found the exploit a few weeks ago, which grants an attacker the ability to run code in kernel mode, and a critical update has been issued to fix this most aged of vulnerabilities. Perhaps now, DOS, your work is finally done.
+      
+
+ 

@@ -1,0 +1,10 @@
+
+ 
+ Never one to focus exclusively on the very latest hardware, a new mod has brought an 6502 microprocessor to a Minecraft world near you. The system is made from three separate cubes, representing the CPU, monitor and disk drive, respectively, all connected by ribbon cables. Part of pre-release 5 of the RedPower 2 mod, programmer Eloraam has also thrown in pumps and solar panels to keep crafters busy -- you're no longer limited to light switches. The emulated 8-bit processor can interact with other Minecraft blocks and while the computer can be programmed alone, its creator has been kind enough to include a Forth interpreter alongside the hardware, for those looking to get a little more involved. Such types can also skip over the break for an intense 23-minute tutorial on the mod.
+
+
+
+
+ 
+
+ 

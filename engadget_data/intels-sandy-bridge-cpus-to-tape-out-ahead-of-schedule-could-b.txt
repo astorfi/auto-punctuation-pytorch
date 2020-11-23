@@ -1,0 +1,6 @@
+
+ 
+Right now, Intel has every right to lay contentedly atop the laurels of its biggest quarterly profit ever, but that's not what the company is doing at all. Instead of protracting the life of its current-gen processors unduly, Intel is planning to accelerate the roadmap for its next generation of multicore parts, codenamed Sandy Bridge. The difference between the Nehalem-based stuff we have today and the upcoming chip is that the Sandy Bridge architecture takes everything down to 32nm -- including the graphics processor and memory controller which are built at 45nm at present -- while keeping it all within the same enclosure. Enthusiastic feedback from customers who were given tasters of the Sandy stuff has been to blame for this haste on Intel's part, and we're told that with additional investment in 32nm infrastructure, the chip giant plans to make deliveries late this year. That in turn could potentially result in some eager vendor pushing a Sandy Bridge laptop or desktop out before 2010 is through -- which would be all kinds of nice.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+We wouldn't want to jump to conclusions, but Archos might just be onto something with its upcoming 9pctablet, which is due to launch alongside Windows 7. The Windows 7 bit isn't an accident, since it's really the first OS from Microsoft that makes it conceivable to use much of the OS with a finger, rather than the stylus. It's not all there, of course: Archos had to build its own touchscreen keyboard to replace Microsoft's woefully inadequate implementation, and there's an optical mouse sensor on the side of the display and a stylus buried within to pick up the slack. 
+
+Overall the hardware seems very solid and astonishingly dense, and despite the recent advancements we've seen in thin and light laptops, it's pretty incredible that Archos has a full Atom-based PC running inside this thin, fanless slab. What wasn't so incredible was the resistive touchscreen, at least on the unit we were playing with. Our touches kept getting misread inexplicably as an inch below where we were tapping, and it didn't feel like a "light touch" resistive model at all -- no confusing what we felt with capacitive, though perhaps we got a faulty unit. This is probably a scenario where resistive makes sense, but we'd say Archos has a lot of work to do on the drivers or something to make this more usable. The good news is that there will be an optional, super-slim external keyboard, which should make input on the 9 a bit less of a chore. 
+
+
+
+

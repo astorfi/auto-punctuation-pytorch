@@ -1,0 +1,4 @@
+
+ We already knew Twitter was planning on expanding its Card content to include app, gallery and product info. But the company apparently had another sweeping change waiting in the wings: a UI refresh for Android version 4.0 and up. The update, which is currently rolling out to users, aims to bring the 140 characters or less experience more in line with native Android design (hello! Holo). To that end, the new layout enlarges the size of tweets displayed in the timeline, incorporates long-presses for "quick actions," and adds an ability to swipe left or right to parse through navigation tabs. As for that new Card integration, it's live now, so users on Android, iOS and Twitter's mobile site should be seeing those tweaks soon.
+
+

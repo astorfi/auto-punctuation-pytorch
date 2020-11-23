@@ -1,0 +1,5 @@
+
+ 
+Seattle-based Cray has been wowing us with massive, ridiculously fast supercomputers since the '70s, establishing a position for its machines high on every geek's most wanted list -- despite never publishing a Doom benchmark. In recent years the title of "world's fastest" supercomputer had been lost by the company, ping-ponging from Wako, Japan to Armonk, NY, but is now back in Cray's hands with the implementation of the XT Jaguar. It's comprised of over 45,000 quad-core Opteron processors, 362GBTB of memory, and has a 10PB (petabyte) storage array, able to perform calculations at a massive 1.64 petaflops. That's over one and a half quadrillion operations per second and more than 50 percent faster than IBM's previous heavyweight. Mind you, Cray is quick to point out that this is the fastest machine being used for non-classified research, a caveat that just makes us even more curious about what's keeping the Pentagon's server rooms warm and loud... and apparently orange. Update: That should be 362 terabytes of memory, not mere gigabytes.[Via UPI.com]
+
+ 

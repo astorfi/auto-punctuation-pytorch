@@ -1,0 +1,10 @@
+
+Intel is going full throttle into wearables with the release of a button-sized piece of hardware called Curie at CES 2015. The module is composed of several elements, the main one being the company's minuscule system on a chip, called Quark. It also comes equipped with a Bluetooth Low Energy radio, six-axis sensor with accelerometer and gyroscope, as well as 384kB flash memory. Intel says Curie hasn't been authorized by the FCC yet, but if all goes well, it's scheduled to ship out in the second half of 2015. Since Quark was designed to run for extended periods and be very energy-efficient, the module can help make it easier (and faster) for manufacturers to design and produce low-power wearables. Plus, since the module is tiny, it can be incorporated into a wide range of objects to create devices such as smart rings and pendants, or even smart buttons.
+
+
+
+Intel really wants to help speed up the development of Curie-based devices, so it's providing partners with the Intel IQ Software Kit along with the module when it does ship out. The company says these kits are "designed to help customers, including fashion, sports and lifestyle companies, incorporate advanced functionality into their wearable designs, [and] help speed time-to-market."
+
+This is, as you might know, far from being Intel's first foray into wearables. The company started building sensors to go into a high-tech shirt in 2014, released a fancy smart cuff called MICA, formed partnerships with fashion eyewear designer Luxottica and smart glasses developer Vuzix. Intel has just also announced a partnership with sunglass-maker Oakley, among many other ventures.
+
+

@@ -1,0 +1,25 @@
+
+ Most portable projectors are tasked with striking a delicate balance between power consumption and picture quality. With this in mind, Texas Instruments' DLP arm has unveiled a new system at MWC known as IntelliBright, which is intended to improve the brightness of pico projectors without making hardware hungrier. It's no fancy set of circuits, though, but a pair of algorithms which tinker with image brightness and contrast to produce a more radiant picture. What's more, the algorithms can be tweaked separately by hardware manufacturers for any desired result, and can incorporate data from ambient light sensors to increase projector efficiency. DLP recently introduced its new Tilt & Roll Pixel chip architecture at CES, which is also designed to make pictures brighter and batteries happier in the next generation of pico products. All we hope is the developments inspire Samsung to create a Galaxy Beam II, just with more focus on the phone part this time
+
+
+
+  Show full PR text   Texas Instruments Makes Mobile Device Projection Even Brighter With The Announcement of DLP® IntelliBright™
+  BARCELONA, Spain, Feb. 25, 2013 /PRNewswire/ -- Today at Mobile World Congress (MWC), Texas Instruments (TI) (NASDAQ:TXN) DLP® Products premiered the IntelliBright™ system, a new suite of image processing algorithms designed to intelligently boost image brightness and contrast, while also minimizing power consumption. IntelliBright will enhance all classes of new DLP Pico™ products – mobile phones, tablets, digital video players, mobile accessories, and near-eye displays.
+
+   True to its name, the IntelliBright algorithms have the ability to intelligently analyze image content real-time and create brighter, higher contrast images without raising net power consumption. For consumers, IntelliBright means clearer, more vivid images in bright lighting conditions as well as longer battery life. For manufacturers, IntelliBright will offer further flexibility to tailor product performance to the specific needs of their customers and markets.
+
+   "We are very excited about the performance enhancements offered by IntelliBright," said Frank Moizio , business unit manager of DLP Pico. "When combined with the resolution and efficiency gains from our recently announced Tilt & Roll Pixel (TRP) architecture, the next generation of DLP Pico products will delight consumers with a whole new level of performance."
+
+   The IntelliBright suite consists of two distinct, patent-pending algorithms: Content-Adaptive Illumination Control (CAIC) and Local Area Brightness Boost (LABB). Since these algorithms operate autonomously, manufacturers can independently tune them to achieve desired product performance.
+
+   The CAIC algorithm operates by adjusting red, green and blue illumination strength on a frame-by-frame basis. The algorithm can be configured to maintain "constant image brightness" (which results in lower power consumption) or to maintain "constant illumination power" (which results in higher image brightness). This enables manufacturers to select their desired amount of brightness boost versus power savings.
+
+   The LABB algorithm also operates on a frame-by-frame basis by identifying "dark areas" and "bright areas" within a frame, then adding a programmable amount of gain to the dark areas, resulting in a more realistic and viewable image.
+
+   To combat variable ambient light conditions that can affect image visibility, manufacturers have the option of integrating ambient light sensor readings into the CAIC and LABB algorithms. Exact brightness increases and power consumption decreases are completely dependent on content and ambient light factors, along with manufacturer decisions, and therefore cannot be generalized.
+
+   DLP Pico is currently collaborating with manufactures to integrate IntelliBright and the TRP architecture into next generation products to deliver superior display performance.
+
+   To learn more about DLP Pico, please email dlpcore@waggeneredstrom.com to set up a meeting with DLP during MWC 2013. You can follow DLP on Twitter at @TI_DLP and on YouTube at YouTube.com/DLPTechnology. For the latest on other applications for DLP technology overall, please visit DLP.com.
+
+ 

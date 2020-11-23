@@ -1,0 +1,21 @@
+
+"It's kind of a no-brainer." That's what the San Francisco Giants' Chief Information Officer, Bill Schlough, said when asked why the team is implementing Apple's iBeacon technology this season.
+
+
+
+For the uninitiated, iBeacon is a small Apple device that communicates with iPhones through Bluetooth to expand the location services in iOS. In practice, it's a marketing tool that lets apps know when you approach or leave the presence of an iBeacon. This is the first season that pro baseball is implementing the technology with 20 of the 30 Major League Baseball teams participating, though retailers have been using it since last year.
+
+For the Giants, the technology is another way to better engage with fans. "Mobile and digital experiences are paramount to our fan experience," according to Schlough, "and they have played a role in the fact that we've had 246 straight sellouts." (Winning two World Series in the past five years probably doesn't hurt ticket sales, either.)
+
+The Giants have long been one of the most technologically progressive organizations in baseball. Fans first enjoyed in-stadium cell coverage in the early 2000s, and in 2004 the club became the first in professional sports to turn its stadium into a WiFi hotspot. Currently, there are 1,289 WiFi antennas blanketing AT&T Park with connectivity good enough to stream video to thousands of fans. Plus, during the offseason, when the Giants installed the iBeacons (it only took a day to do it), Schlough's team put in an entirely new LTE backhaul system to deliver more mobile bandwidth to ticket holders.
+
+All told, 19 iBeacons are located at all of the fan entry and exit points of the ballpark, per MLB policy. That number will vary at other stadiums -- the Dodgers, for example, are reported to have 65 installed, presumably due to the presence of more ways to get inside Dodger Stadium. They'll be used to check fans in (think Foursquare) upon entry, assuming they have an iOS 7 device running the MLB At the Ballpark app and have Bluetooth turned on when they walk through the gate. The app's available to both iOS and Android devices -- and provides maps, concession info, video clips and the ability to upgrade your seat -- but only folks with Apple devices benefit from the bespoke iBeacon experience.
+
+Once checked in, teams can push tailor-made notifications and relevant offers through the app. Fans need not fear that they'll be bombarded with junk, though, as MLB is soft-launching the technology as a pilot on Opening Day, and there are restrictions on its use... at first, at least. "We don't want to turn this into some sort of SPAM engine," says Schlough. So, the club'mms exploring new and creative ways to use the devices to improve, not take away from the gameday experience. Of course, users can always opt-out of the program altogether, too.
+
+Generally speaking, iBeacon strategy is controlled by MLB: the league tells teams where to place the hardware and what sorts of stuff can be sent to folks who check in using the technology. For now, that means fans get a welcome message when they check in, and maybe an offer to upgrade their seat or get a discount on concessions. Schlough wouldn't tell us exactly what kind of offers the Giants will be making, but he did say that he's particularly excited about geo-targeting. "It opens up a world of possibilities," he says, indicating that iBeacons could enable the club to send notifications about activities happening nearby (not everyone sits and watches the game from their seat) or target offers for specific parts of the park.
+The expectation is that MLB will let clubs "get more creative" once iBeacon has proven stable and useful for fans. Naturally, the Giants don't know when that'll be, but the team will have things ready to go whenever the league office gives the go-ahead. Until then, Schlough's biding his time and figuring out how to best use iBeacon to service one of the most tech-savvy fan bases in the bigs.
+
+[Lead image credit: Jeff Chiu,AP]
+
+

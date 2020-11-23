@@ -1,0 +1,24 @@
+
+ 
+ Think it's nifty when your carrier deigns to provide your smartphone with that long awaited OTA update? That's nothing. Over the weekend, NASA's Curiosity rover will be receiving its first long-distance OTA update -- all the way out there on Mars. The goal is to transition both redundant main computers from software suited for landing the vehicle to software optimized for surface exploration -- such as driving, obstacle avoidance and using the robotic arm. NASA calls it a "brain transplant" and points out that the software was actually uploaded during the flight from Earth. Now can someone please enable OTA downloads for the human brain? We'd really like to know kung fu. PR after the break.
+
+
+
+  Show full PR text   NASA Curiosity Mars Rover Installing Smarts for Driving   PASADENA, Calif. -- NASA's Mars rover Curiosity will spend its first weekend on Mars transitioning to software better suited for tasks ahead, such as driving and using its strong robotic arm.
+
+   The rover's "brain transplant," which will occur during a series of steps Aug. 10 through Aug. 13, will install a new version of software on both of the rover's redundant main computers. This software for Mars surface operations was uploaded to the rover's memory during the Mars Science Laboratory spacecraft's flight from Earth.
+
+   "We designed the mission from the start to be able to upgrade the software as needed for different phases of the mission," said Ben Cichy of NASA's Jet Propulsion Laboratory in Pasadena, Calif., chief software engineer for the Mars Science Laboratory mission. "The flight software version Curiosity currently is using was really focused on landing the vehicle. It includes many capabilities we just don't need any more. It gives us basic capabilities for operating the rover on the surface, but we have planned all along to switch over after landing to a version of flight software that is really optimized for surface operations."
+
+   A key capability in the new version is image processing to check for obstacles. This allows for longer drives by giving the rover more autonomy to identify and avoid potential hazards and drive along a safe path the rover identifies for itself. Other new capabilities facilitate use of the tools at the end of the rover's robotic arm.
+
+   While Curiosity is completing the software transition, the mission's science team is continuing to analyze images that the rover has taken of its surroundings inside Gale Crater. Researchers are discussing which features in the scene to investigate after a few weeks of initial checkouts and observations to assess equipment on the rover and characteristics of the landing site.
+
+   The Mars Science Laboratory spacecraft delivered Curiosity to its target area on Mars at 10:31:45 p.m. PDT on Aug. 5 (1:31:45 a.m. EDT on Aug. 6), which includes the 13.8 minutes needed for confirmation of the touchdown to be radioed to Earth at the speed of light.
+
+   Curiosity carries 10 science instruments with a total mass 15 times as large as the science payloads on NASA's Mars rovers Spirit and Opportunity. Some of the tools, such as a laser-firing instrument for checking rocks' elemental composition from a distance, are the first of their kind on Mars. Curiosity will use a drill and scoop, which are located at the end of its robotic arm, to gather soil and powdered samples of rock interiors, then sieve and parcel out these samples into the rover's analytical laboratory instruments.
+
+   To handle this science toolkit, Curiosity is twice as long and five times as heavy as Spirit or Opportunity. The Gale Crater landing site at 4.59 degrees south, 137.44 degrees east, places the rover within driving distance of layers of the crater's interior mountain. Observations from orbit have identified clay and sulfate minerals in the lower layers, indicating a wet history.
+
+  
+

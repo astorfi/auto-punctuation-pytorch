@@ -1,0 +1,13 @@
+
+
+
+YouTube only recently came to Windows Phone 8 as a full-fledged app, but its availability may be short-lived. According to documents obtained by The Verge, Google has requested that Microsoft remove the app from it Windows Phone Store -- and disable installations on devices -- immediately. The reason? Apparently the app didn't get Goog's stamp of approval before going live, and it blocks the ads that typically run on YouTube. Naturally, ads are an important source of revenue for both Google and no shortage of third parties, so Mountain View may not be out of line for crying foul. And that's not the only strike against Redmond: according to the cease and desist letter, YouTube on WP8 lets users download videos, in addition to streaming content that's been restricted on certain devices. Oh, and all the above-mentioned issues violate YouTube's Terms of Service. Google is giving MS until May 22nd to remove the app -- we're sure this isn't the last you'll hear on this subject.
+
+
+Update: Microsoft has responded. We have the full statement from a Microsoft spokesperson after the break.
+
+
+
+YouTube is consistently one of the top apps downloaded by smartphone users on all platforms, but Google has refused to work with us to develop an app on par with other platforms. Since we updated the YouTube app to ensure our mutual customers a similar YouTube experience, ratings and feedback have been overwhelmingly positive. We'd be more than happy to include advertising but need Google to provide us access to the necessary APIs. In light of Larry Page's comments today calling for more interoperability and less negativity, we look forward to solving this matter together for our mutual customers.
+
+

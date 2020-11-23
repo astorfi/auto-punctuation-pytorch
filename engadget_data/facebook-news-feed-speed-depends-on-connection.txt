@@ -1,0 +1,10 @@
+
+To better accommodate its users in emerging markets, many of whom only have access to 2G signal, Facebook announced a number of improvements to News Feed on Tuesday. In short, the news services has been revamped to ensure that it loads efficiently, regardless of network speed or the model of device being used. So if you're trying to load News Feed from a flip phone on a shaky connection, the service will push fewer video posts (which wouldn't load anyway) in favor of more status updates and link posts.
+
+
+
+What's more, if the system notices that your connection is slow, it will begin to download stories related to whatever you're reading, while you're reading it, so the next post you read will be ready when you're done with the current one. Facebook has also implemented a progressive JPEG format that will display a lower-quality version of the image while it's downloading. Furthermore, if you're on a particularly terrible connection (say, a refugee camp or anywhere in Montana) News Feed will now at least show you previously-downloaded stories instead of just a blank screen. It's better than nothing, right?
+
+[Image Credit: Getty]
+
+

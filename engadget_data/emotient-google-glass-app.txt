@@ -1,0 +1,8 @@
+
+
+It's not always easy to read someone's emotions -- and that's a problem for retailers, which can't easily tell if their products intrigue you or simply confuse you. They may not have to guess for much longer, though, as Emotient has launched the private beta for a Google Glass app that identifies feelings using the device's camera. The software scans faces for emotional cues that reflect an overall sentiment, even if it's subtle; the app can tell if you're mildly pleased, for instance. Privacy shouldn't be an issue, since the app is only saving anonymous data, not images.
+
+
+Emotient is testing its app with just a handful of companies right now, but the finished app should help stores please customers in the future. There's also a chance you'll see the underlying technology in something you can try for yourself. The company tells The Next Web that its emotion detection will reach Intel's RealSense platform, so don't be surprised if your next webcam can tell that you're in a good mood.
+
+

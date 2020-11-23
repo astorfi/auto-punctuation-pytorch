@@ -1,0 +1,18 @@
+
+ The GameStick is the second of two Kickstarter-backed Android-powered game consoles announced in the past 12 months, and its arguably the less visible of the two (the other being OUYA, of course). It's a bit different than the OUYA as well, in terms of both form factor and specs: the GameStick is roughly the size of a USB thumb drive and runs a dual-core Amlogic processor, rather than the Tegra 3 found in the OUYA. Similar to the OUYA, the GameStick also comes with a proprietary wireless controller -- the standard four button layout, two analog sticks, two shoulder buttons, and a d-pad make up its inputs -- though the GameStick's controller is actually the bulk of the hardware. The GameStick itself actually nestles into the back of the controller, making the whole bundle rather portable.
+
+ But perhaps you already know all of this? We have been hearing about the GameStick for some time now. Should that be the case, you'll wanna know how the thing actually feels, and we can deliver that just beyond the break, as we've just put GameStick and its controller through the paces.
+
+
+
+
+ Despite looking awkwardly rectangular, the GameStick's angles aren't a hindrance in usage. The gamepad feels more than serviceable for the hypercasual games its PlayJam service employs the controller with. Buttons are appropriately springy and the analog sticks feel responsive (they also double as buttons, allowing you to click them in). Unlike the final unit which will house the actual GameStick itself inside, the dev units keep the thumbdrive-esque GameStick separate. Shoulder buttons felt a bit dull, as did the d-pad -- PlayJam promises to improve the d-pad in the final model, though no word on those not-so-squishy shoulder buttons.
+
+  The console's UI is rather spartan, similarly to the OUYA's -- a left rail holds games, media, a profile page, and settings. Enter into the games section and you'll see a section for popular games and a section for all games. That's it. The media section currently houses a Netflix app and the previously announced XBMC integration. The profile page displays ... well, your profile (naturally), recent purchases, in-game achievements, and displays your account's balance (should you wish to buy any games). It stands to reason that this will expand dramatically as time goes on, especially given the current dev kit-only release of the GameStick.
+
+ We also got a chance to check out the dock that'll eventually arrive with GameStick's retail version, which features a whole mess of ports and is also in a prototype stage at this point. It's still a prototype, so we're reserving some criticism for now, but its current state isn't what we'd call "solid." The plethora of ports is welcome, as is the ability to not have the GameStick sticking out of the back of your TV's HDMI ports, but it looked and felt rather cheap.
+
+ Overall, the system feels like its off to a strong start, though -- as tends to be the case with these things -- it all depends on the content available. Thus far, a variety of not-so-thrilling Android games are available, but we're hopeful for the future.
+
+ 
+

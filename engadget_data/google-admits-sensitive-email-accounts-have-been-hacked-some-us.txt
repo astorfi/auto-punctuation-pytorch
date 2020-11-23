@@ -1,0 +1,11 @@
+
+ 
+
+The Contagio security blog posted evidence back in February of targeted attacks against government and military officials on Gmail. Today, nearly four months later, Google has finally admitted this is true: hundreds of personal accounts have been compromised by hackers it believes to be working out of Jinan, the capital of China's Shandong province. The accounts include those of "senior U.S. government officials, Chinese political activists, officials in several Asian countries (predominantly South Korea), military personnel and journalists." The hijackers' aim appears to have been to spy on their targets using Google's automatic forwarding function. But unlike the PSN fiasco, Google insists its internal systems "have not been affected." Instead it seems the hackers used a phishing scam, possibly directing users to a spoof Gmail website before requesting their credentials. Google says its own "abuse detection systems" disrupted the campaign -- but in a footnote right down at the bottom of their official blog page they also credit Contagio and user reports.
+
+Update: And in comes China's response, courtesy of Foreign Ministry spokesman, Hong Lei. "Allegations that the Chinese government supports hacking activities are completely unfounded and made with ulterior motives." Ok then, that settles that.
+
+Update 2: And the saga continues... According to an AP story published earlier today, the Obama administration has stated that the FBI is looking into allegations that hackers broke into Google's email system, but denied that any official government accounts were compromised. A White House spokesman went on to say that government employees are free to use Gmail for personal purposes, and can not be sure who in the administration might have been affected by the attack. Let's just hope they know how to leave the sensitive stuff at the office.
+      
+
+ 

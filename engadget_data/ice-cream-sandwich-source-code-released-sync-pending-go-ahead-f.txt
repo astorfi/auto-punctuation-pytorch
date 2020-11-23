@@ -1,0 +1,8 @@
+
+ 
+
+
+	If you're champing at the bit waiting to get your hands on a nice cool piece of Android 4.0, your wait may soon be over. Pending a final go-ahead from the Android Open Source Project, you'll be able to sync the now available Ice Cream Sandwich source code. Due to the "large push" (presumably because of all the changes), the roll out is going to take some time to complete -- project members will give the final word when things are good to go. If you try to sync prematurely, be forewarned that you'll get an incomplete copy that will be useless. The available flavor is 4.0.1 which will be the version to ship on the Galaxy Nexus, the first ICS device. This release also includes "the full history of the Android Code," signaling the first time Honeycomb source has seen daylight. Can't wait for a taste? The extremely impatient can hit that coverage link below, but we prefer our frozen treats to be properly chilled before consumption.
+
+	[Thanks to everyone who sent this in]
+ 

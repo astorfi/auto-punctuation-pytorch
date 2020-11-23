@@ -1,0 +1,6 @@
+
+ 
+Hacked your Kinect recently? Then you probably know something most regular Xbox 360 gamers don't -- namely, that the Kinect's infrared camera is actually capable of higher resolution than the game console itself supports. Though Microsoft originally told us it ran at 320 x 240, you'll find both color and depth cameras display 640 x 480 images if you hook the peripheral up to a PC, and now an anonymous source tells Eurogamer that Microsoft wants to do the very same in the video game space. Reportedly, Redmond artificially limited the Kinect on console in order to leave room for other USB peripherals to run at the same time, but if the company can find a way around the limitation, it could issue a firmware update that could make the Kinect sensitive enough to detect individual finger motions and inevitably lead to gesture control. One of multiple ways Microsoft intends to make the world of Minority Report a reality, we're sure.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+It was only a matter of time,but hey, for those closely monitoring the progress of Windows on Macs, it looks like peeps on the OSx86 Project forumshave fully done the deed with Vista on aniMac. We're not going to get into the nitty gritty right here and now, but it sounds like the trick is to get Vistato stop trying to kill the OS X partition when installing with Boot Camp -- an urge in theinstaller that seems to be kept at bay by taking out the 200MB EFI partition. But if you're the type of person howwants to go for the gold and not just read about this stuff (which you probably are if you've gotten this far), wesuggest actually looking into this a little further before knocking around partitions on your Mac just to get a betaMicrosoft operating system up and running, mkay?[Thanks, Mike and Jon]
+      
+
+ 

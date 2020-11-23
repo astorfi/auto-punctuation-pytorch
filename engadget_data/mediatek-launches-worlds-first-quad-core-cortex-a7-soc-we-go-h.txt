@@ -1,0 +1,40 @@
+
+ There's a new player in the quad-core SoC game and it's called the MT6589. MediaTek announced today that it's launching the world's first quad-core Cortex-A7 SoC and gave us the opportunity to take it for a spin -- in prototype form, of course. The MT6589, which includes the aforementioned quad-core Cortex A7 1GHz+ CPU, also features a PowerVR Series5XT GPU, high-performance multimedia support (13MP / 3D camera, 1080p video and display, Miracast) and a built-in 42Mbps HSPA+ / TD-SCDMA-capable dual-SIM dual-active radio. By combining competitive performance with high thermal efficiency and low power consumption in an affordable package, MediaTek's new chip is well suited for a wide-range of smartphones and tablets running Jelly Bean and beyond. The MT6589 will be available in devices starting Q1 2013. Check out the gallery below and hit the break for our impressions and benchmarks plus MediaTek's videos and PR. 
+
+
+
+
+          MediaTek MT6589 (quad Cortex-A7)
+
+     Global One X+ (quad Tegra 3)    Droid DNA (quad S4 Pro)    Galaxy Note II (quad Exynos)    Global Galaxy S III (quad Exynos)    AT&T One X (dual S4)      Quadrant Advanced    3,384 (Quadrant Standard)    7,457    8,028    6,819     5,852
+
+     5,385    Vellamo 2 HTML5    1,229    1,897    1,752    1,831    1,565    1,638    AnTuTu 2    10,429    13,591    14,474    13,539    11,960    6,317    AnTuTu 3    12,898    15,864    20,894    18,198    16,280    9,731    We played with two devices equipped with the new chip -- a generic handset with branding covered up by MediaTek stickers and an upcoming Alcatel smartphone with a 1.2GHz MT6589, five-inch HD display, 8MP 1080p camera, dual-SIM 42Mbps HSPA+ connectivity, Miracast support and a 2500mAh battery. While our hands-on time was extremely limited we managed to run some benchmarks on Alcatel's prototype -- namely Quadrant, Vellamo 2 and AnTuTu 2 / 3. As you can see in the table above, the scores are generally lower than the competition, but the results are still decent enough. Both handsets felt snappy despite neither using final software or hardware. What's more impressive is how efficient the MT6589 appears to be in MediaTek's videos below, both in terms of heat dissipation and power management. We'll reserve judgement until we're able to test a production device equipped with the company's new quad-core Cortex-A7 SoC, but it sure looks like 2013 is going to be an interesting year in the chip business.
+
+ Update: It turns out Qualcomm beat MediaTek out the gate: this is actually the world's first quad-core Cortex-A7 SoC.
+
+ Update 2: We reached out to MediaTek and it clarified that the MT6589 is the first commercially available quad-core Cortex-A7 SoC, with devices shipping in Q1, ahead of Qualcomm's chip.
+
+ 
+ 
+  Show full PR text   MediaTek Strengthens Global Position with World's First  Quad-Core Cortex-A7 System on a Chip – MT6589
+   An advanced smart device platform delivering leading power efficiency and multi-media experience without compromising performance
+
+   Drives competitive advantage in the mid-to high end mobile device ecosystem
+
+   TAIWAN, Hsinchu – 12 December, 2012 – MediaTek Inc., a leading fabless semiconductor company for wireless communications and digital multimedia solutions, announced the launch of the MT6589, the world's first commercialized quad-core System on a Chip (SoC), available for mid to high-end Android smartphones and tablets worldwide. The new quad-core SoC integrates MediaTek's advanced multi-mode UMTS Rel. 8/HSPA+/TD-SCDMA modem, a power-efficient quad-core Cortex™-A7 CPU subsystem from ARM, PowerVR™ Series5XT GPU from Imagination Technologies, and is delivered in 28nm process technology. As a leader in Dual-SIM technology, the MT6589 is also the world's first HSPA+ smartphone platform supporting Dual-SIM, Dual-Active functionality to address increasing multi-SIM demand around the world. The integration of these compelling features makes the MT6589 a universal platform that delivers premium multimedia capabilities with extremely low power consumption for an outstanding user experience. It also enables handset makers to reduce time to market, simplify product development and manage product differentiation in a more cost effective way, for any market worldwide.
+
+   "The ARM Cortex™-A7 is the most power-efficient applications processor ever developed by ARM. We are pleased MediaTek is the first company to combine a quad-core Cortex-A7 and leading edge 28nm manufacturing with TrustZone® for system-level security. The MT6589 system-on-chip brings the performance and features associated with high-end mobile devices to mass-market smartphones and tablets," said Laurence Bryant, director of mobile solutions, ARM.
+
+   The MediaTek MT6589 quad-core solution supports 1080p 30fps/30fps low-power video playback and recording, a 13MP Camera with Integrated ISP, up to FHD (1920x1080) LCD displays, and enhanced picture processing for DTV-grade image quality. In addition, the MT6589 also supports MediaTek's "Cool 3D" suite, which includes support for stereo 3D cameras and displays, real-time 2D-to-3D conversion and an optimal 3D user interface. Leveraging MediaTek's established 3D technologies from the DTV and Digital Home markets, this suite helps create an optimal stereo 3D display with a custom-tailored 3D interface, providing an extremely flexible platform for product differentiation.
+
+   Tony King-Smith, Vice President Marketing, Imagination Technologies, said, "Today's smart device users have very high expectations for graphic quality and performance. The MT6589 gives Imagination a great opportunity to show the abilities of the PowerVR™ Series5XT GPU, which delivers around twice the performance of previous generation devices while maintaining the lowest possible power and silicon area. We are delighted to contribute to this impressive, highly integrated solution, which demonstrates the benefits of our ongoing close strategic relationship with MediaTek."
+
+   The MT6589 also supports Miracast™ technology for multi-screen content sharing and pre-integrates MediaTek's leading 4-in-1 connectivity combo, which supports 802.11n Wi-Fi, BT4.0, GPS and FM.
+
+   Jeffrey Ju, GM of the smartphone business unit at MediaTek, said, "As the world's first quad-core SoC, the MT6589 is a strong proof point of MediaTek's growing global presence and ambition to drive the democratization of the smartphone and reshape the mid to high-end device market. Having built a solid reputation for quality and reliability over the last 15 years, we've created a one-of-a-kind achievement with the MT6589 platform-marrying blazing performance and flexibility with surprising affordability and simplicity. It's an innovative solution that accelerates product development, simplifies differentiation, and offers the best possible experience that mid to high-end smart device owners desire."
+
+   "The demand for a Smartphone SoC that can be delivered anywhere in the world has never been greater, which is why the MT6589 is so important to our business," said Dr. Ji-Yang Wang, COO at TCL Communications Technology/Alcatel One Touch. "As the first truly universal platform it is designed with the customer in mind to give us a crucial competitive edge. The MT6589 will make the life of our customers and partners easier, allowing them to bring the best possible experience to mid-to high-end users in multiple markets in the most timely and affordable manner, and most importantly, without compromising its performance."
+
+   The MediaTek MT6589 is currently being incorporated into smart devices by MediaTek's leading global customers, and the first models based on this new chipset are expected to ship commercially in Q1 2013.
+
+ 

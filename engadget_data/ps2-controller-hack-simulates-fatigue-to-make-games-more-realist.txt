@@ -1,0 +1,5 @@
+
+ 
+We've seen more than our share of game controller hacks in our day, but few as devious as this creation by the folks at Near Future Laboratory, which promises to make games more "realistic" by simulating fatigue. That was done with the aid of the ever-versatile Arduino platform, which was wired to the DualShock 2's analog sticks and programmed to tweak the output signal ever so slightly so that the longer you play, the slower your character moves. Madness, we know, but if you want to give it a shot yourself, you can find the details and necessary code at the link below.[Via MAKE:Blog]
+
+ 

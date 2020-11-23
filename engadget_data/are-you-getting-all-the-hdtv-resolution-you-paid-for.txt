@@ -1,0 +1,5 @@
+
+ Not necessarily, given the results of Home Theater Mag's recent tests of 61 HDTVs. Using test patterns from a Silicon Optix HQV HD DVD, they tested deinterlacing, 3:2 detection and for the 1080p sets, bandwidth. Unfortunately, just over 54% of the HDTVs failed the deinterlacing test, 80% failed the 3:2 test, but the 1080p sets passed the bandwidth test, despite all but one (Pioneer Elite PRO-FHD1) losing some detail. If a HDTV doesn't pass these tests, then you're losing at least some visual information from a 1080i signal. Some televisions throw away half the horizontal lines, which results in a fail on the deinterlacing test, or don't perform inverse telecine on moving images appropriately, failing the 3:2 test. Of course, contrast ratio, refresh rate and black levels still contribute to overall picture quality, but you should take a look at their results to make sure you're getting every pixel you expected from your new HDTV.[Thanks, Ryan]
+      
+
+ 

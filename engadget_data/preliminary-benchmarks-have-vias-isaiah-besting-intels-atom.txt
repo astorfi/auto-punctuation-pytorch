@@ -1,0 +1,6 @@
+
+ 
+digg_url = 'http://digg.com/hardware/Prelim_benchmarks_have_VIA_s_Isaiah_besting_Intel_s_Atom'; You knew this day would come: Intel positioned Atom perfectly to compete with VIA's low-power offerings, and VIA is trying to stay one step ahead in the low power game with its Isaiah processor. Who will be the winner? Well, we'd say it's still a little early to call it, but German site Eee PC News did some quick and dirty benchmarks that show Isaiah on top by a decent margin. At this point the numbers are just in "ALU" and "FPU," but hopefully some real world benchmarks from some retail products can clear this up before long.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Months after Hitachi announced their big 3.5-inch, 1TB drive, Samsung and Seagate have finally matched that capacity by sheepishly launching their own 3Gbps SATA disks. Sammy does it all with efficiency boy, by spinning 3x 334GB platters to Hitachi's 5x 200GB platters (10 heads) or Seagate's 4 platters (8 heads) of 250GB each. That little trick should keep the weight, decibels, and power draw of their SpinPoint F1 (pictured) to a minimum. Hitachi's Deskstar 7K1000 still packs that impressive 32MB buffer which Samsung and Seagate can only aspire to with their 16MBs of respective cache. Expect both of the newcomers to be priced around $400. Cheap, but we'll be holding our wad for the inevitable head-to-head (to-head) shootout we're sure somebody is cooking up.Read -- Seagate Barracuda 7200.10 Read -- Samsung SpinPoint F1
+      
+
+ 

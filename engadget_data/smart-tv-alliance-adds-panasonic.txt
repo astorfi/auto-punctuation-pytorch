@@ -1,0 +1,49 @@
+
+ 
+ Looks like LG and Toshiba aren't the only TV manufacturers dreaming of a platform-independent future for Smart TVs -- Panasonic has joined the Smart TV Alliance too. Founded to help build a non-proprietary ecosystem for Smart TV apps, the Alliance's ranks have grown to include Panasonic IBM Specific Media, ABOX42 and TechniSat. Smart TV Alliance president Richard Choi is optimistic that the new members will help it mend a fragmented market, giving developers a chance to focus on building apps, rather than navigate compliance processes. A CES developers conference hopes to get them started, too -- introducing the latest SDK's upcoming features, including updated HTML5, CSS3 and JavaScript specifications, as well as support for new video codecs and 3D video. Technical presentations will be available this Wednesday for folks in Sin City. Everyone else? Check out the Alliance's official press release after the break.
+
+ Follow all the latest CES 2013 news at our event hub.
+
+
+  Show full PR text   PANASONIC, ABOX42, IBM, SPECIFIC MEDIA AND technisat EXPAND
+   'Build Once, Run Everywhere' SMART TV ALLIANCE Ecosystem
+
+   Smart TV Alliance introduces 5 new members and an updated SDK at CES 2013,
+
+   increasing market reach, promoting richer apps and optimizing Smart TV experience
+
+   LAS VEGAS – INTERNATIONAL CES 2013 – Jan. 6, 2013 – Smart TV Alliance announced today that five new industry-leading manufacturers and solution providers joined the Alliance to stimulate cross-platform Smart TV applications and services. Consumers will enjoy a richer Smart TV experience with 3D video, the highest quality video and audio, and the greatest variety of content with applications created from a new software development kit (SDK) for 2013 TVs from global manufacturers.
+
+   New Smart TV Alliance members include manufacturers Panasonic, ABOX42 and TechniSat, and solution providers IBM and Specific Media. They recognize the need for and value in being able to develop and provide apps across multiple platforms and join Alliance founders LG Electronics, TP Vision and Toshiba, as well as Obigo, Qualcomm Incorporated and YuMe, in creating a non-proprietary ecosystem for application developers to create attractive, platform-independent services.
+
+   "Smart TV Alliance members are repairing a fragmented market opportunity for app developers and TV manufacturers, creating the best Smart TV experience for consumers," said Richard Choi, president of Smart TV Alliance from founding member LG Electronics. "Now app developers can concentrate on doing what they do best. Instead of chasing down each manufacturer's individual requirements and compliance process, they can make the most out of their creative energy by developing innovative applications and services."
+
+   The upcoming SDK captures the latest trends and features available to app developers so they will be able to deliver the most current and exciting apps for 2013 Smart TVs from LG, TP Vision and Toshiba. The new SDK features include:
+
+   For 2013 Smart TVs:
+
+   · Richer applications available from upgraded HTML5, CSS3 and JavaScript specifications
+
+   · 3D video
+
+   · MPEG-DASH support with more reliable audio and video quality with less stuttering and freezing
+
+   · More and better content choices with updated digital rights management (DRM) features that reflect DRM requirements from content owners
+
+   For application developers:
+
+   · New common emulator allows developers to test an application once to ensure it will work with Smart TV Alliance member televisions
+
+   · Application compliance checking tool enables developers to test compliance automatically with Smart TV Alliance cross-platform requirements
+
+   · Advanced debug tools help developers solve application problems faster and more easily
+
+   Smart TV Alliance CES 2013 Events
+
+   Smart TV Alliance will host two events in Las Vegas on Jan. 9, a press event and a developers' conference.
+
+   · The Smart TV Press Event at at 11 a.m. will include presentations by Alliance members, as well as an introduction of the new SDK, a joint quality assurance pilot program, and a review of the Alliance roadmap.
+
+   · The Developers Conference from 6 to 9 p.m. will include demonstrations of apps on new Smart TV Alliance compatible TVs and technical presentations including an application development case study by Obigo.
+
+ 

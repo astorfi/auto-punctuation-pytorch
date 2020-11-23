@@ -1,0 +1,10 @@
+
+Last week, Microsoft's YouTube app for Windows Phone came under fire for not adhering to some of Google's requirements. The result was an ultimatum from Mountain View, requesting that Microsoft make the necessary tweaks by May 22nd or pull the app entirely. Today, which just so happens to be that aforementioned date, Microsoft has released a new version of its YouTube app for Windows Phone. This time around, video downloads are disabled -- users who already have the app won't retain this functionality, either -- but one important feature is still missing: ads. It's unclear whether Google approved of this update, though that does seem unlikely, but we've reached out to Microsoft for comment. In the meantime, WP users can nab the new app via the Windows Phone store.
+
+
+Update: Microsoft responded with the same line it gave to other news outlets such as ZDNet. It doesn't exactly address our questions, but it's proof that Redmond is in damage-control mode. Head past the break for the full statement.
+
+
+
+"Microsoft updated the Windows Phone YouTube app to address the restricted video and offline video access concerns voiced by Google last week. We have been in contact with Google and continue to believe that our two companies can work together to hone an app that benefits our mutual customers, partners and content providers. We're earning new customers every day, with IDC reporting recently that Windows Phone posted the largest year-over-year gain among leading operating systems. We look forward to working with Google to maintain a great YouTube experience for the growing number of people who rely on both of our respective products."
+

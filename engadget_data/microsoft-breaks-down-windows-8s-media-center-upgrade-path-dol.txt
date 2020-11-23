@@ -1,0 +1,25 @@
+
+
+ Many in the Windows Media Center community were afraid that Windows 8 would mark the end of Media Center, while others thought it would be like Notepad -- present, but unchanged. In the end both were wrong as Microsoft announced Media Center would be available as an add-on to Windows 8. Until now though, we didn't know exactly how that process would work. Steven Sinofsky outlined on the Building Windows 8 blog how users will be able to use Add Features to Windows 8 in Control Panel and purchase the same great Media Center experience that was included in Windows 7 Premium and Pro. The price is still unannounced but is expect to be "in line with marginal costs" -- whatever that means. The price paid will cover the royalties for the required codecs to support broadcast TV and DVD playback (DVDs still won't play in Media Player). One codec that will be supported in all version of Windows 8, but will require the computer maker to license the codec directly, is Dolby Digital Plus. So yeah, something else that was included in Windows 7 for free. We're glad it's there, but wish we'd get something new for the new premium price. Like most, we'll probably hold on to our Windows 7 HTPC a little bit longer.
+
+
+
+  Show full PR text    May 03, 2012 04:05 PM Eastern Daylight Time Microsoft Selects Dolby to Create Immersive Entertainment Experiences on Windows 8 Tablets and PCs
+  Dolby Digital Plus delivers high-quality sound to expanding world of entertainment and high-definition devices
+   SAN FRANCISCO--(BUSINESS WIRE)--Dolby Laboratories, Inc. (NYSE:DLB) today announced that Microsoft® has selected Dolby® Digital Plus to create the most realistic and immersive audio experiences for Windows® 8 on tablets and PCs. The addition of Dolby Digital Plus enables the playback of Dolby-encoded content across a growing number of devices. Today's announcement underscores the essential role that Dolby Digital Plus plays in delivering high-quality sound for online entertainment services and personal media applications.
+
+   "Additionally, all of their existing and future home videos recorded with Dolby Digital Plus audio will work great on Windows 8 right out of the box."
+
+   "Dolby's goal is to deliver the best possible entertainment experience, wherever content is delivered through broadcast, broadband, or wireless networks," said Ramzi Haidamus, Executive Vice President, Sales and Marketing, Dolby. "We are pleased to be working with Microsoft to address the growing demand for high-definition content delivered across a broad range of services and devices. Widespread availability of Dolby Digital Plus on Windows 8 will enable more people to enjoy cinematic sound anytime, anywhere, and on any device."
+
+   "With the incredible growth of online download and streaming media, particularly for video content, this agreement ensures a great audio experience for those consumers who wish to download or stream TV and movies containing Dolby Digital Plus," said Tami Reller, Chief Financial Officer and Chief Marketing Officer, Windows and Windows Live, Microsoft. "Additionally, all of their existing and future home videos recorded with Dolby Digital Plus audio will work great on Windows 8 right out of the box."
+
+   Incorporated in more than 640 million devices, Dolby Digital Plus transforms the entertainment experience and is recognized as a standard for high-quality audio on many types of products, including smartphones, tablets, PCs, connected TVs, Blu-ray Disc™ players, and game consoles.
+
+   Developers will be enabled to deliver the highest level of immersive experiences and cinematic sound through Windows 8 APIs in desktop and Metro-style apps, including those developed for x86 and ARM architectures. Dolby Digital Plus 5.1-channel decoding and Dolby Digital two-channel encoding will be supported in all PCs and tablets licensed to run Windows 8, Windows 8 Pro, and Windows RT editions.
+
+   About Dolby Laboratories
+
+   Dolby Laboratories (NYSE: DLB) is the global leader in technologies that are essential elements in the best entertainment experiences. Founded in 1965 and best known for high-quality audio and surround sound, Dolby creates innovations that enrich entertainment at the movies, at home, or on the go. For more information about Dolby Laboratories or Dolby technologies, please visit www.dolby.com.
+
+ 

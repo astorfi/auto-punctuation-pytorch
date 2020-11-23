@@ -1,0 +1,19 @@
+
+One camera. Two separate lenses. That's the conundrum raised by leaked images of HTC's forthcoming M8 smartphone, which is rumored to bring some interesting new imaging features that go far beyond mere 3D. But what could those features be? For an answer, we turned to a startup called Corephotonics, which is currently pitching precisely such a dual-lens concept to smartphone makers. The company's representatives told us that they're not behind the specific module in the M8 -- that camera must be coming from some other rival or from within HTC itself -- but they were keen to show us what their module could do for image quality, if it was ever put to work inside a smartphone or compact camera.
+
+
+
+
+
+
+The big trick here is Corephotonics' use of two lenses with two different focal lengths. One lens is wide-angle, while the other is at 3x zoom. This means you can switch lenses to magnify more distant subjects without resorting to digital zoom. In the test set-up shown in the video above, which compared the dual-lens system side-by-side with a traditional smartphone camera (with both modules pointed at a test card around a foot away), the Corephotonics system outputted a clear 13-megapixel image regardless of whether it was at 1x or 3x zoom.
+
+By contrast, Nokia's PureView cameras rely solely on digital zoom such that outputting a 3x magnified image entails a drop in resolution down to five megapixels. Corephotonics' system can also deliver smooth zooms, for example during video recording, by employing a mix of digital zoom and lens-switching.
+
+
+The second benefit to using two parallel lenses, each with its own sensor, is improved low-light performance. Corephotonics' software works in real-time to match each pixel from one lens with the corresponding pixel from the other lens, and it uses scene analysis to detect which pixel is likely to be closer to the truth. As a result, noise is reduced and we end up with a cleaner picture -- just as we would if we had one big imaging sensor instead of two little ones.
+
+The third and final advantage is one we've touched on very briefly already: Having two lenses enables a degree of depth analysis. Although "3D" has become something of a dirty word of late, depth analysis allows for extra control over images, such automatically blurring out of backgrounds in portrait shots, quicker autofocus and augmented reality.Add all these things up and you get a technology with real promise, which could well explain why HTC has drilled an extra hole of the back of the M8 -- even if it's not a Corephotonics-sized hole just yet.
+
+Steve Dent contributed to this report.
+

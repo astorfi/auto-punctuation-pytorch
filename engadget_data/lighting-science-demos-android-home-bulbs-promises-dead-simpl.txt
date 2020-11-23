@@ -1,0 +1,16 @@
+
+ 
+
+'Tis amazing what a partnership with Google can do. Unless you're a frequent patron of Home Depot, there's a slim chance you'd ever heard of Lighting Science prior to this week's opening I/O keynote. Now, said company is leading the Android @ Home charge, and based on what we learned yesterday at its booth, we're feeling better than ever about home automation's chances in the mainstream market. Company representatives noted that this Google-led mesh networking solution -- which beams out commands on the 900MHz frequency band -- is the first HA solution that's truly designed to be ultra-low-cost and easy to implement. Compared to Z-Wave and Zigbee, there's far less technical expertise needed to start automating things in your home, and there's no need to take out a second mortgage to open your garage door with your handset. Oh, and there's zero chance anything fails due to congestion on the 2.4GHz band.
+
+We pressed the company on pricing details, and it stated that the wirelessly enabled light shown above would be priced "at parity" with the non-wireless counterpart available today. At last check, that puts a single bulb at around $30. In order to make these kinds of devices compatible with existing Android phones and tablets, a couple of WiFi-to-900MHz adapters will be available. From Lighting Science alone, you'll soon see a light switch, security lamp and a regular wall wart on sale to handle the transfers. In other words, you can pick up a dirt-cheap plug, toss it in your guest room, and immediately give your Nexus One the ability to dictate Android @ Home products. Not too shabby, but what does this mean for the broader industry?
+
+
+
+
+
+The company's expecting to have this bulb on sale by the year's end, and it'll be announcing five additional Android-friendly products next week -- those include a step light, security light and a few other bulb form factors. Naturally, representatives seemed optimistic that the rest of its product line could be outfitted with 900MHz transceivers (which are barely larger than a quarter) in no time flat.Beyond this one outfit, though, we're seeing a genuine chance for home automation to take off in a way that has never been possible before. Why? 400,000 Android activations a day -- that's why. There's only a handful of Control4 remotes that are doled out each day, and with Android's install base growing by the second, we're fairly certain that the tinkering sect will at least give Android @ Home a passing glance. As Goog maintains, it's totally up to the development community to make something like this worthwhile, but with capable hardware set to ship with next to no price premium in tact, we can't help but feel warm and fuzzy about the odds.
+
+       
+
+ 

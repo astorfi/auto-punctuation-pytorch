@@ -1,0 +1,6 @@
+
+ 
+Great news for the VoIP world: iCall, the maker of the iCall VoIP iPhone app that can catch a GSM call and flip it over to WiFi, has issued a press release saying that the new iPhone SDK allows for VoIP over 3G cellular connections. Previously such calls had to be made over WiFi, since AT&T's network (or someone well acquainted with AT&T's network) didn't think it was man enough to take the VoIP traffic. Interestingly, iCall says its 3G-friendly VoIP app is available now, and is the first and only such app in the App Store -- which seems like some pretty quick turnaround on everyone's part, but apparently the 3G restriction wasn't anything to do with the software itself, but instead a server-side block. We just tested this out and it totally works, and while we'll be looking for more verification that the ban has indeed been lifted, it sounds like it's time for some cheaply connected international parties in the streets.
+      
+
+ 

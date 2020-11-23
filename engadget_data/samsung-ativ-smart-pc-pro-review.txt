@@ -1,0 +1,55 @@
+
+  More Info   Samsung announces Series 5 and Series 7 Windows 8 tablets with S Pen apps, optional keyboards  Samsung ATIV Smart PC review (AT&T LTE)  Samsung ATIV Smart PC Pro tablet with LTE clears the FCC  At this point we've seen countless Windows 8 devices -- Ultrabooks, convertibles and hybrids, oh my -- but to date there are only a few in the latter category running Ultrabook-grade processors. Exhibit A, of course, is Microsoft's long-awaited Surface Pro, but Samsung also has a horse in the race: the ATIV Smart PC Pro. This $1,200 machine packs a Core i5 CPU and includes a keyboard dock and an S Pen to appeal to productivity-minded users. We've spent some time with this 11.6-inch hybrid's Atom-powered sibling, the ATIV Smart PC, and walked away unimpressed. So does the Smart PC Pro's higher-end performance make for a more worthwhile product? Head past the break to find out. 
+
+
+
+
+ Look and feel 
+ The ATIV Smart PC Pro's design is almost identical to the ATIV Smart PC's; the only difference is the inclusion of vents to accommodate the Core i5 CPU, plus a different keyboard dock. It's clad in black plastic, with a subtle brushed texture on the back providing the only flourish. Accordingly, it doesn't feel very premium -- we thought the design looked too cheap for the $800 (off-contract) Smart PC, and the Smart PC Pro costs $400 more. At 1.89 pounds and 0.5 inch thick -- 3.5 pounds and 0.78 inch thick in clamshell mode -- this isn't the slimmest slate, but those dimensions do allow for a USB 3.0 port. Still, as we noted in our review of the ATIV Smart PC, an 11-inch tablet is on the large side, and it definitely feels more natural to use the PC Pro as an Ultrabook.
+
+  The black plastic design doesn't have a premium feel.
+
+ Connecting the tablet to the included dock is extremely easy and intuitive, as it should be: simply center the tablet over the keyboard and let the latch system work its magic. You won't have to feel around too much for the device to lock into place -- we had that issue with the HP Envy x2, and it definitely made switching from slate to laptop mode anything but seamless. When the slate is docked, its hardware Windows 8 button is mostly obscured, and the glossy finish surrounding the 11.6-inch display contrasts strongly with the matte plastic of the keyboard deck. It's not a sloppy look, per se, but it definitely feels a bit mismatched, like the keyboard dock could be from a third-party vendor.
+
+ Let's move on to the formal tour. The front of the tablet is relatively unadorned, save for the Samsung logo on top of the display, the aforementioned hardware Start button, a 2-megapixel front-facing camera and a long speaker grille along each edge. The volume rocker and a micro-HDMI port line the left edge, while the right edge is completely clean save for a slot for the included S Pen (more on that later). Lining the top are the 3.5mm headphone jack, the power button, a toggle for turning autorotate on and off, a full-size USB 3.0 port and a microSD card slot. The bottom edge sports the grooves for attaching the tablet to the keyboard dock, along with a power connector for charging the standalone slate. Flip the slate over, and you'll see the Samsung name etched in silver letters, along with four air vents and the 5MP rear shooter.
+
+ Keyboard and touchpad 
+ One of our biggest sticking points with hybrid devices is their tendency to sacrifice comfortable keyboards for thin designs. Luckily, the ATIV Smart PC Pro strikes a good balance between portability and ergonomics. The island-style keys on this layout offer plenty of travel, and they're well-spaced enough that you won't be hitting the wrong letter every two seconds. The chiclets themselves are also decently sized. We had no issues pounding out emails and made very few mistakes, even if our words-per-minute score on a typing test was a bit lower than usual. As we mentioned earlier, this keyboard isn't interchangeable with the ATIV Smart PC's, which may explain why we had a much worse experience with the other machine's dock.
+
+ The trackpad, located below the chiclet keyboard, is on the small side, and it provided quite the hit-or-miss experience throughout our hands-on time. Standard Windows 8 gestures like swiping from the right to reveal the Charms Bar work well, but pinch-to-zoom and other multi-finger movements occasionally didn't register on the first attempt.
+
+ S Pen 
+ Samsung offers the S Pen as an alternative input option, and there's thankfully a small built-in slot for storing it. The Surface Pro doesn't include a slot for its pen, and while the device magnetically attaches to the power connector, it's still prone to coming loose in your bag. The Wacom-certified digitizer registers 1,024 degrees of pressure, which contributes to a great drawing and note-taking experience on the 11.6-inch display. This S Pen is shorter and stockier than the versions made for the Note I, II and 10.1, and it offers a very comfortable grip.
+
+ A number of pre-loaded programs tie in with the pen's functionality; essentially, the S Pen suite has been ported over to Windows 8. S Note includes several templates and handwriting recognition, while Mini S Note simply offers different pen options and a grid-style notepad. Fresh Paint, as usual with Win8 machines, is also pre-installed.
+
+ Display and sound 
+ The ATIV Smart PC Pro sports an 11.6-inch, 1080p display with a brightness of 400 nits. When we indulged in some West Wing episodes on Netflix, we found images to be extremely sharp, with accurate colors. There are a variety of display settings, including Movie and Sharp, that alter the panel's brightness and contrast, but we stuck with the default setting and had no issues. Viewing angles aren't exceptional -- this isn't an IPS panel -- and the display's glossy finish does kick back a lot of glare. This got in the way of us enjoying some YouTube clips at our desk, where this is strong overhead lighting, but we had no trouble viewing the screen when relaxing in our dimmer apartment.
+
+  The ATIV Smart PC Pro strikes a good balance between portability and ergonomics.
+
+ With just two smallish speakers, the ATIV Smart PC Pro can't really be expected to pump out high-caliber audio, and, well, it doesn't. Bass is negligible, and sound isn't especially crisp or rich. Still, volume at 100 percent is sufficiently loud, and we enjoyed listening to music and playing some casual games with headphones.
+
+ Performance and battery life         PCMark7    3DMark06    3DMark11    ATTO (top disk speeds)        Samsung ATIV Smart PC Pro (1.7GHz Core i5-3317U, Intel HD 4000)    4,436    2,763     E1,037 / P567
+
+     535 MB/s (reads); 347 MB/s (writes)    Acer Iconia W700 (1.7GHz Core i5-3317U, Intel HD 4000)    4,580    3,548    E518 / P506    542 MB/s (reads); 524 MB/s (writes)    Lenovo IdeaPad Yoga 13 (1.7GHz Core i5-3317U, Intel HD 4000)    4,422    4,415     E917 / P572
+
+     278 MB/s (reads); 263 MB/s (writes)    Microsoft Surface with Windows Pro (1.7GHz Core i5-3317U, Intel HD 4000)    4,673    3,811    E1,019 / P552    526 MB/s (reads); 201 MB/s (writes)    Samsung Series 5 UltraTouch (1.7GHz Core i5-3317U, Intel HD 4000)    3,239    4,339     E1,062 / P573
+
+     115 MB/s (reads); 110 MB/s (writes)    The Smart PC Pro's Core i5-3317U processor turned in some respectable benchmark scores. In 3DMark 11, it slightly bested the Microsoft Surface Pro, and it came in right behind Redmond's slate in PCMark 7. When we ran the ATTO disk benchmark, the machine's 128GB SSD notched blazing max reads and writes of 535 and 347 MB/s, respectively.
+
+ 
+ Booting up takes just 10 seconds, which is in line with most Windows 8 systems we've tested. In everyday use, we didn't notice any glitches like lagging responsiveness or apps force-closing. After a half-hour of streaming Netflix, though, the Smart PC Pro felt quite warm -- not quite uncomfortably so, but enough to get our attention. For the record, we also noticed the fan kick up when we streamed full-screen video on the Surface Pro.
+
+  The Core i5 processor offers good everyday performance.
+
+ The ATIV Smart PC Pro packs Intel's integrated HD Graphics 4000, which typically allow for some light game playing and movie streaming but not much else. In our real-world gaming tests, the device turned in almost unplayable frame rates: we're talking a max of 15 fps in Mafia II. This system certainly isn't targeted at serious gamers, but it should be able to handle casual titles with more aplomb.
+
+          Battery Life
+
+       Samsung ATIV Smart PC Pro  5:07      Acer Iconia W700    7:13      Samsung Series 9 (13-inch, 2012)    7:02      MacBook Air (13-inch, 2012)    6:34 (OS X) / 4:28 (Windows)      Dell XPS 14    6:18      Sony VAIO T13    5:39      Lenovo IdeaPad Yoga 13    5:32      Dell XPS 12    5:30      Samsung Series 5 UltraTouch    5:23      ASUS Zenbook Prime UX31A Touch    5:15      ASUS Zenbook Prime UX51Vz    5:15      Toshiba Satellite U845W    5:13      Toshiba Satellite U845    5:12      Acer Aspire Timeline Ultra M3    5:11      Toshiba Satellite U925t    5:10      Lenovo ThinkPad X1 Carbon    5:07      Acer Aspire Timeline Ultra M5    5:05      Lenovo ThinkPad X1 Carbon Touch    5:00      Sony VAIO Duo 11    4:47      Acer Aspire S5    4:35      ASUS Zenbook Prime UX21A    4:19      Acer Aspire S7 (13-inch)    4:18      Acer Aspire S3    4:11      Lenovo ThinkPad Twist    4:09      HP Spectre XT TouchSmart    4:00      Vizio Thin + Light (14-inch, 2012)    3:57      ASUS TAICHI 21    3:54      Microsoft Surface Pro    3:46    On our battery life test, which entails playing a locally stored video on loop with WiFi on and brightness set to 65 percent, the Smart PC Pro's four-cell lithium-polymer power pack held out for five hours and seven minutes. That's within Sammy's suggested runtime of four to seven hours, and while it's not stellar longevity, it's better than the Surface Pro's three hours and 46 minutes. That said, the Acer Iconia W700 with the same specs makes it into the seven-hour range.
+
+ Cameras 
+ The ATIV Smart PC Pro features a 5MP rear camera that delivers decent shots for a tablet. When we snapped a few frames of a sunny park scene in lower Manhattan, autofocus worked well and we saw accurate colors. Straying into lower-lit areas, including a street with heavy shadows from surrounding buildings, resulted in more pixelation. Color balance was also thrown off in those situations: we got shots that were at times overly blue or way too yellow. Camera options include adjustable brightness and contrast along with manual and auto options for focus and exposure. We found that autofocus did a fine job, especially in well-lit areas, but switching to manual on a dimly lit subway platform resulted in a clearer image. The camera is also capable of shooting video in 720p. The built-in mic does a good job of capturing audio, but objects in our sample footage looked blurry. 
+
+

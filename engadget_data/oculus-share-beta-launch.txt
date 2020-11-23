@@ -1,0 +1,64 @@
+
+
+
+Oculus Rift is a pretty incredible little peripheral, enabling intense and thrilling virtual reality interaction with a variety of PC games. While the device is still in developer kit form, though, finding and sharing games can be a bit on the challenging side. Oculus is making its first attempt to fix that issue today in launching Oculus Share, a web subdomain which gathers Oculus-ready experiences from a variety of devs and runs them through a submissions process before making them widely available.
+
+
+There are few details on the submissions process, but it sounds like it's merely a temporary concept. "Initially, we'll be vetting submissions to make sure the content isn't offensive or malicious. If you're planning to submit your work right away, please be patient as we improve and streamline the approval process," company head Palmer Luckey wrote in an email to Rift backers.
+
+
+Oculus also hired on a new head of developer relations, Aaron Davies, who's officially on the lookout for new developers. Of course, considering Oculus just hired one of the most famous developers ever just recently in John Carmack, we'd say other prospects have a mighty high watermark to reach.
+
+
+
+Show full PR textAnnouncing Oculus Share (Beta)!
+
+We're constantly looking at ways to improve the Oculus developer experience. One area we've focused on behind-the-scenes is the sharing and publishing of Oculus-ready games and experiences.
+
+Today we're excited to announce the beta launch of Oculus Share, a new platform that lets you self-publish, discover, download, and play the best VR games and experiences out there.
+
+Oculus Share (or simply, Share) is the first of many steps we're taking to build the best virtual reality platform. With Share, you can host Oculus-ready games and experiences that you've created, browse and download content from other developers, rate experiences on quality and VR comfort level, provide feedback to devs on what you enjoyed (and what you didn't), and tip fellow developers for their work in cash, should you feel so inclined.
+
+Oculus Share is available now at share.oculusvr.com. You can log in with the same Oculus username and password you use for the Developer Center.
+
+Experimentation, iteration, and actual playtesting are at the heart of pushing virtual reality forward. One of the main goals in building Share was to help developers on all these fronts by creating a centralized community portal for Oculus content. And while it's simply a sharing service today, over the coming months we'll work toward making Share an incredible marketplace for Oculus-ready games, experiences, and applications.
+
+Initially, we'll be vetting submissions to make sure the content isn't offensive or malicious. If you're planning to submit your work right away, please be patient as we improve and streamline the approval process.
+
+We'd like to give a special thank you to the developers who helped us alpha test Share, including Cloudhead Games, Owlchemy Labs, UXGround, Justin Moravetz, Aldin Dynamics, Lumina Celare, TerraNovita Software BVBA, and Enno Gottschalk.
+
+Share is designed to be community-driven. If you have questions, comments, or suggestions on how we can improve, let us know at support@oculusvr.com.
+
+We hope Share helps you build the best VR games you possibly can. This is just the beginning!
+
+VR Jam Update
+
+VR Jam 2013 is now in the final stretch, with over 250 teams in the running for over $50,000 in prizes!
+
+Teams will be submitting their final builds this Sunday, Aug. 25th. We'll be playing each and every one with the help of IndieCade, looking for the best of the best. Finalists will be announced on Sept. 13th and official winners will be announced Sept.19th!
+
+Many screenshots, videos, and demos have been posted on the official VR Jam forums, but here's a quick taste of what you can expect when all is said and done:
+
+We're especially excited to see your VR Jam games that make it into Share for the community to enjoy and learn from. We'll have a special "VR Jam" category in Share just for games submitted from the jam.
+
+A special thank you to all the VR Jam participants: You have really blown us away with everything we've seen so far. We're looking forward to playing the games for ourselves next week!
+
+Introducing Aaron Davies
+
+In concert with the launch of Oculus Share and VR Jam, we're like to introduce you to our new director of developer relations, Aaron Davies!
+
+Aaron has spent his career developing virtual worlds and the hardware platforms they run on. His passion for VR began at industry pioneer Evans & Sutherland, where he developed flight simulators for the US Navy and NASA. He eventually moved into the video game industry, developing games and hardware platforms at Tsunami and THQ, while simultaneously teaching game development at the Art Institute and ASU. He later joined Intel, where he focused on building a world-class developer experience for Larrabee and HD Graphics. Aaron also led one of Intel's human-computer interaction R&D groups.
+
+Please come introduce yourself to Aaron at an upcoming event if he doesn't track you down first!
+
+Building a VR Platform
+
+Oculus Share is just one small piece of our vision for the Oculus platform. As always, you can stay up to date with news and announcements by following the Oculus blog or on Twitter by following @oculus!
+
+Over the next two weeks, the team will be at GDC Europe, Gamescom, Unite, PAX Dev, and PAX Prime. If you're in the area, stop by and say Hello!
+
+Thanks again,
+
+-- Palmer and the Oculus team
+
+

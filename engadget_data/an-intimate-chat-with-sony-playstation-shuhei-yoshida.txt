@@ -1,0 +1,120 @@
+
+
+Sony PlayStation's Shuhei Yoshida is the best kind of corporate executive. The Worldwide Studios head is affable, open-minded and, best of all, he embraces competition from rivals. I'm speaking, of course, about Microsoft's recent move to partner up with every other company working on virtual reality that's not Sony, of which Shu (as he's commonly referred to) says is no concern.
+
+
+At E3 this week, I had a chance to sit down with the friendly face of PlayStation to pick his brain about making Morpheus more social, embracing crowdfunding to revive cult classics and just what is going on with The Last Guardian.
+
+
+
+You had announced at GDC that the first half of next year would be the retail release of Morpheus. Are you still on track for that?
+
+In terms of development, it's going very well. The hardware is near-complete. And if you try the demo at E3, the team has been making slight improvements here and there. So I challenge you to find the changes since GDC for the better.
+
+Next up is the system software guys. They have to make sure the integration is seamless. We're not showing the OS side of [Morpheus]. But the team is working hard on that. That's going to come out later, before the launch. And, of course, we've been supporting the third-party's and first-party's developments and everything has to align. So we are waiting for that time to come. Overall, we're on schedule.
+
+Can you talk a little bit more about the UI design for Morpheus -- when the user puts on the helmet -- and give me some idea of what that will look like?
+
+Our OS team doesn't want us to talk about it as yet because they are still trying to finalize it. But it's going to be cool.
+
+
+On Monday, at the press conference, you guys talked briefly about making Morpheus social. And there's been a lot of talk that the barrier to VR, even though we've overcome things technically, is making that a social experience because it's very isolating. So can you elaborate on that? How are you going to do that?
+
+So from the get-go, what we pride ourselves on is [that] we're a hardware company and also a software company. So the Worldwide Studios teams are heavily involved in the system development itself. And I spend lots of time joining the meetings with the hardware guys and debating the technical issues and design issues. So one of the things our games teams suggested and our hardware guys agreed to implement is for PS4 game developers [to] be able to render two different screens at the same time: one for Morpheus and one for TV. So what you are going to try and see at this E3? Japan Studio has made a new demo called Monster Escape. So that's a five-player game; one versus four. One being the person wearing Morpheus. And if you're in Morpheus, you become the Monster. And the four people holding the DualShock and looking at the TV and playing the game like a regular game [are] against the monster. The only difference is that the Monster is played by you. So in your view, you look down and there are four small robots running around and trying to shoot and throw something at you. ... So that's the gameplay. So that's how we came up with the tool for game developers to create social experiences. 
+
+And actually, third-party devs were ahead of us in terms of making the game called Keep Talking and Nobody Explodes. Have you noticed the Morpheus game we showed at the PS Experience last December? It's a two-player game. One person is wearing Morpheus and that person looks at the bomb, like a time bomb. And in order to stabilize it, the other person, who is not wearing Morpheus, has an instruction manual. And that person has to tell the person wearing Morpheus how to do the job. But that person doesn't see what the person wearing Morpheus sees. So they have to communicate. ... So that's a social experience. 
+And implementation is done so that we just switch off the TV because around December of last year we only had mirroring mode. So the people outside the Morpheus see the same screen as the person in Morpheus. But, going forward, that game can be totally designed so that you're making use of the new feature. So that the person not wearing Morpheus can watch the TV screen that may have some instructions and talk to the person wearing Morpheus. So that way it's a completely social experience.
+
+I know there are about 30 Morpheus titles in development. How much of an emphasis on the PlayStation side is there on making these games social? And how many of these demos that we're seeing will be the pack-in experience the way you had The Playroom when the PS4 launched?
+
+The answer to that last question is that we are not talking about what's going to be in the package. We are working to finalize the price and release date and day one launch titles and what's in the box, including if there's any game to come with it. That we'll do when we're ready before the launch. 
+
+But the first question: We have just implemented that ... two-separate-screen feature. And we are demonstrating it for the first time with Japan Studio's game Monster Escape this E3. So we will talk to, reach out to third-party developers and say this is something you can do.
+
+What about Morpheus-to-Morpheus communication? In terms of online?
+
+It's no different from PS4 regular titles. So on the show floor, we have six kiosks of Rigs -- that's a new [Guerrilla Cambridge] game. It's a robot shooter, three-on-three. And it's online, multiplayer. It's super fun. It's amazingly fun. You don't want to stop playing it. We made it very short, just five-minute sessions. But it can be changed like any online shooter. And it works surprisingly well. ... It's serious gaming. 
+
+So what's exciting for this E3 is that there are more games you can play on Morpheus. One game [is] called Battlezone. The developer licensed the old wireframe game and made it more like a combat tank simulator.
+
+Do you have a personal favorite [Morpheus demo]?
+
+I would say Rigs for this E3. It's super, super fun. And the other thing ... Monster Escape is amazing. You say [to yourself]: "I have never experienced something like this!" And the new demo called Kitchen by Capcom. It's something like the first part of the London Heist demo we had at GDC. ... It's kind of scary and you're part of the story and something really bad happens to you. It's called Kitchen. That's my favorite.
+
+Oh and also, Bandai Namco brought Summer Lesson to the US. So I'm super interested in how people outside Japan will react to it because people in Japan totally fell in love with it. And not just men; you know girls love the demo, as well. So try it if you have a chance. 
+
+
+Are we any closer to wireless for Morpheus?
+
+You know this is running at 120Hz 1080p. You cannot just send that wirelessly. You know, in the future, the time will come that you'll be able to do that. Or a mobile solution -- everything will be in the headset. But for now, in order to send that signal, you need a cable. 
+
+What about the input solution? You know Oculus came out with its new controllers and Move was the basis for...
+
+You know, I don't want to claim it was the basis. They won't like it. But it's basically a similar idea. They added something new, some gesture control. I'm so excited to try it when I have a chance. ... I totally enjoyed a couple of demos I tried during GDC with [the] HTC Vive. That [Job Simulator by Owlchemy Labs]  is super fun. I was totally smiling and throwing stuff. So, it's just natural for them to come up with a hand solution. And it's great for devs, because without Oculus doing it, devs would have to make a tough choice to use Move and Valve to allow the hand presence and skip Oculus or redesign for Oculus. Or not use it at all. ... I am so happy about their announcement.
+
+Is there a redesigned Move coming in terms of ergonomics?
+
+No, no, no. It just works. 
+
+So the standard one we have will look the same?
+
+Absolutely.
+
+So that Move 2 leak was nothing?
+
+It's not a leak. It was a fake. ... some design studio or something.
+
+I know that there's a lot of shared knowledge in VR even with separate companies. Are you at all worried about Microsoft's approach to VR and that it's just partnering with everyone that's not Sony PlayStation?
+
+Not at all. I was slightly concerned before because Microsoft was not working on VR publicly; they might say, "Oh VR is not a 'now' thing." But, now they are in it. So I'm so happy that every company is working for the advancement of VR. And it's just natural because they provide an OS for PC. So HTC, Valve and Oculus have to work very closely with Microsoft to have the tight integration because every mistake counts. So we can do it internally because PS4 is our own OS.
+For Morpheus, I know you guys are going beyond game development to partner with NASA, auto companies and Sony Pictures Entertainment. Is that stuff still on track? Are we going to start to see that stuff?
+
+(Shu addresses Sony PlayStation PR.)
+
+Have they announced, Sony Pictures? Are they not doing the event already? 
+...
+
+
+There's something very, very cool that Sony Pictures is working on.
+
+But in general, we've been approached by everyone, all sorts of companies for marketing purposes to industry applications to simulations. We cannot spread our efforts too thin, so we are picking the right projects and making priorities. But there's lots of interest from many different types of industries. And that's another reason why I totally like what Oculus and Valve are doing because PC is an easier platform to customize hardware and [address] all those specific needs for all those different industries. And the PC is an open platform.
+
+
+So I want to switch gears a little bit. I want to talk to you about Shenmue and crowdfunding. That was announced onstage on Monday and it's at about $3 million now. So let me ask you: Why did Sony PlayStation decide to allow that crowdfunding announcement as opposed to funding it?
+
+Ah, no, no, no. It's a very exciting project and there are lots of PlayStation fans asking for it. But it's a Sega IP and of course Suzuki Yu-san is the creator. So somehow Suzuki-san was able to work out with Sega to allow them to Kickstart the project. And because we liked the project, our third-party relations team struck a deal to help Kickstart the campaign at the E3 conference. That's great PR.
+
+Are there other beloved cult titles we can expect to see Sony boost in terms of crowdfunding?
+
+I don't know. Gio Corsi [director of third-party production and developer relations] is the guy working on that.
+(Sony PlayStation PR: They're building a list.)
+
+Is there any game that you would like to see crowdfunded so it comes back?
+Well, there are many old IPs that have not seen any new games. I can't name any specific ones. But this Shenmue campaign is very successful and also [Koji] Igarashi-san's Bloodstained campaign was very, very successful. And [it] proves that there are a lot of game creators in the past and [that] there's demand for their kind of games by the current consumers. So I hope that the developers in Japan, especially who are used to making console games ... see the success of Igarashi-san's and Suzuki-san's and get encouraged to do their own. 
+
+Where are we with development on The Last Guardian? It's been six years and you would expect a release date, but it's still a little vague.
+
+Yeah, so the video we showed [on Monday] is totally playable. It's a small section of a larger level. And we chose to do video because the press conference is really tightly scheduled and because the nature of the game is an adventure game. So the AI involved, the bird, might not do what we want it to do. So in order to make that tight press conference schedule work, we just recorded video. But the game runs like that. Performance-wise it's going very well. 
+
+The move from PS3 to PS4 was difficult. Actually, making the game on PS3 was super difficult so basically we gave up. Because it was too slow, the progress. And the team did an amazing job porting the code onto the SPUs. But still the game didn't perform to the required levels and some features are still missing. And the PS4 was approaching and the dev kit became available. So it was obvious for us to move it to the PS4. So the old engineering effort had to go back to the drawing board and be remade for PS4. And that took a long time. But since last year, the development has been going very well. So we have a good amount of confidence in terms of this window for next year.
+
+What about the visual style? Personally, I enjoy it. But there was a lot of reaction on social media where people were saying, when you look at Horizon versus The Last Guardian, it seems very much like a new-gen game versus a PS3-era game. So are the visuals going to get an upgrade?
+
+No, that's the vision for the project. The vision hasn't changed since the PS3 era. It's just that we couldn't achieve that on PS3. [Fumito] Ueda-san doesn't view the need for any changes.
+
+
+
+Pre-conference, you guys announced that media player capabilities were being added to PS4. And our audience was very excited by that. Why did you guys, not bury it, but not include it in the greater presentation? 
+
+Yeah, that's a good question. It could have been a good announcement during the show. So what's the perfect answer from corporate communications?
+(Sony PlayStation PR: We were focused on games.)
+Now this is something that my team keeps pestering me about asking you and our Twitch audience wants to know: They want me to ask you about light bar support. And, in particular, what's your favorite use of light bar support on the DualShock 4?
+
+Now that we have Morpheus and the devs use the light bar tracking -- so one of the games from Polytron ... it's a puzzle game and it tracks the light bar and you see a silhouette of the DualShock. 
+
+I mean, in terms of colors for it?
+
+Yeah, I think Bloodborne. When you play Bloodborne, it's really red and it puts you in the right mood.
+This interview has been edited and condensed.
+Photos: Edgar AlvarezCheck here for everything happening at E3 2015!
+

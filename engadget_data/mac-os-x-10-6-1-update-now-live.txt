@@ -1,0 +1,9 @@
+
+ 
+Well, that was fast -- just over week after Snow Leopard officially shipped, the first update's on the books. Nothing major in the changelog here, but we're told Flash has been updated to a newer, more secure version. Let us know how it goes for you, eh?
+      
+
+ 
+
+ Improves compatibility with some Sierra Wireless 3G modems Addresses an issue in which some printer compatibility drivers might not appear properly in the Add Printer browser Addresses an issue that might cause DVD playback to stop unexpectedly Addresses an issue that might make it difficult to remove an item from the Dock Resolves an issue in which the Command-Option-T keyboard shortcut would sometimes bring up the special characters menu in applications such as Mail and TextEdit Addresses instances in which auto account setup in Mail might not work Resolves issues when sending mail with certain SMTP servers Addresses an issue in which Motion 4 could become unresponsive Includes an update to Adobe Flash Player plug-in version 10.0.32.18
+ 

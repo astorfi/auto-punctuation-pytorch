@@ -1,0 +1,6 @@
+
+ 
+When it comes to boring 'ol text and images, there are plenty of formats that modern e-readers can manage -- your EPUBs and OPFs and the like. But, when it comes to integrating multimedia content into a kind of next-gen e-book experience, the sort Wired is pushing on the iPad, things are rather less standardized. Sharp wants to be on the forefront of bringing that style of content together under a single standard: XMDF, or ever-eXtending Mobile Document Format. It enables video and animations and flashy presentation to be mingled in with the text, surely with the intent of distracting you from actually having to read anything. Of course, XHTML can manage all this stuff too, but it never was particularly great at the sort of precision text layout publishers crave, and presumably that's also being addressed here. Naturally we're a little more excited about hardware, and Sharp showed off two prototype readers measuring 5.5- and 10.8-inches respectively... though it didn't have much to say about them otherwise. More details later this year, supposedly.
+      
+
+ 

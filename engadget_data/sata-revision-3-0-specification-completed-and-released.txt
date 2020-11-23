@@ -1,0 +1,5 @@
+
+ Well, it sure took 'em long enough. In August of last year, the Serial ATA International Organization (SATA-IO) got us all hot and bothered when it introduced the SATA Revision 3.0 specification to double transfer speeds to 6Gbps. It's taken until today, however, for that very specification to be completed and released. Thankfully for those who love to relish in the past, the new spec is backward compatible with earlier SATA implementations, and for those looking forward to new innovations, you'll appreciate the new streaming commands for isochronous data transfers between audio and video applications and the Low Insertion Force (LIF) connector for more compact 1.8-inch storage devices. We're told to expect SATA Revision 3.0 demonstrations next month at Computex, but who knows how long it'll be before this stuff seeps into shipping products.
+      
+
+ 

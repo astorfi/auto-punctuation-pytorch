@@ -1,0 +1,11 @@
+
+Chromecast may deliver on promises of sending wire-free video to TVs, but it's not hands-free -- or at least, it wasn't. Leon Nicholls has unveiled a homemade  Kinect app for the desktop that gives him gesture-based control of videos playing through Google's streaming stick. While there's just two commands at this point, Nicholls hopes to open-source the code in the near future; this isn't the end of the road. If you can't wait that long, though, there's a quick demonstration available after the break.
+
+
+Update: A few days later, Nicholls has posted the source code for his project; you'll need to whitelist your Chromecast for development to use it.
+
+
+
+
+
+ 

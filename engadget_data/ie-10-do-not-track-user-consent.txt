@@ -1,0 +1,7 @@
+
+ 
+ Remember how Microsoft said it'd enable the "do not track" feature by default for all users of Internet Explorer 10? Well, it's not likely to happen -- at least from the looks of things. The move caused more than an uproar in the advertising industry, which had agreed to abide by these preferences only if users could, indeed, choose for themselves. With Microsoft's bullish decision to go forward and make this setting default, advertisers argued they'd be left with no choice but to bust the deal wide open and ignore these preferences. In attempt to make sure the whole "do not track" effort isn't derailed, the latest compromise proposal -- authored by the EFF, Mozilla and Jonathan Mayer of Stanford University -- now includes a specific provision that requires users to provide explicit consent before any tracking preferences can be transmitted. The same document acknowledges that the proposal has yet to be extensively discussed with stakeholders, but from the looks of things, "do not track" by default seems headed for a quick death. It's too bad we didn't have the time to get better acquainted with Microsoft's heavy lash against advertisers, but we've a feeling that you can decide this one for yourselves, right?
+
+ [Image credit: Tomas Fano, Flickr]
+
+

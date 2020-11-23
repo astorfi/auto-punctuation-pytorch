@@ -1,0 +1,11 @@
+
+ 
+If a set of supposedly leaked slides are legitimate (and they sure look convincing to us) then the shape of Intel's dirt-brown 2011 plans has finally been revealed. As you can see immediately above, Chipzilla's 25nm flash process is just about ready to double the size of the company's award-winning consumer SSDs, bring up to 400GB of "enterprise-grade" multi-level cell memory to the enterprise space, and create a series of netbook-sized mini-SATA drives with the remains of the 34nm silicon.
+
+On the processor front things are a little more iffy, but it seems safe to say that the naming scheme has changed, as the silicon wafers you'll slot into a Q67 Express motherboard will have an extra digit (and often a letter) affixed to the end. Instead of a Core i7-870, you'll see the likes of Core i7-2600, i7-2600S, i7-2600K and i5-2500T, with the K (as in the past) affording you an unlocked multiplier for overclocking and the S equaling reduced power consumption, or vastly reduced for the T models. German publication ComputerBase -- which found and subsequently pulled the slides -- somehow managed to dig up nearly full specs for desktop and laptop CPUs as well, and though we can't verify their legitimacy, you're welcome to marvel at the idea of a 3.5GHz processor running on just 35 watts by visiting the source link below. 
+
+
+
+
+[Thanks, Aristo]
+      

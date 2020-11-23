@@ -1,0 +1,4 @@
+
+ More than a few of us were surprised when Facebook tried pushing Android app updates outside of Google Play. Was it switching app distribution models? Not quite. We've since learned that Facebook was trialling a program that lets social networkers volunteer for beta tests, and the same update is now available in Google Play for everyone. The update isn't special in itself, mostly adding profile photo changes (also seen on iOS) as well as ways to hide or report posts. However, it also includes the beta version's request for permission to download files without notification when on WiFi, which may let testers receive future pre-release updates even when they haven't explicitly approved non-Google Play installations -- we've reached out to Facebook to verify that this is the case. No matter how much Facebook expands the beta pool, prospective Guinea pigs and cover shot seekers just need to visit the source link.
+
+

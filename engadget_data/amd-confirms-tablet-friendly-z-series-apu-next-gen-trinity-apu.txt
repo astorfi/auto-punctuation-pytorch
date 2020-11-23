@@ -1,0 +1,8 @@
+
+ 
+
+
+	AMD likes to take its time before stepping inside the ring, but it's turned up at Computex with its gown off and mouthguard in. Its much-leaked Z-series Fusion APU (aka "Desna") for tablet devices is now official and could well steal some of ARM's thunder. Whereas ARM chips will get along with the next version of Windows, AMD's Z-series is already tuned into the here-and-now. Its integrated dual 1Ghz Bobcat chips and Radeon HD 6250 graphics should allow the full Windows 7 experience on a tablet, from USB peripheral compatibility right down to XBOX 360 Media Extender functionality. What's more, it drinks less than 6W of power so is significantly leaner than the 9W Ontario APU powering Acer's Iconia W500 Windows 7 tablet. Additionally, AMD claims MSI has already made that leap with its new WindPad 110w (though we can't be sure if the pre-release device we just handled was carrying a Z-series chip).
+
+	Meanwhile, AMD left any traces of shyness far behind as it went on to confirm plans for a range of A-series and E-series chips with which it hopes to tackle Intel's dominance in the laptop and desktop spheres -- right up to the level of the Core i7. This includes the leaked high-end quad-core A8 and, more surprisingly, a new Trinity APU. Looking way into the future, AMD intends Trinity to be a successor to the mid-range A-series Llano, which isn't even out yet but is expected imminently. Unfortunately we have no concrete specs for the Trinity -- AMD thought it was sufficient to wave the thing around at the press conference and declare it "2012's best APU". Depending on how you look at it, that's either fighting talk or plain posturing.
+ 

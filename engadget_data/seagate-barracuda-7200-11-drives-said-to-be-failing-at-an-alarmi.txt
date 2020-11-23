@@ -1,0 +1,5 @@
+
+ 
+Rumors flying, sensational headlines, dogs and cats living together. Yes, its another apparent rash of hard drive failures -- this one centered on Seagate's spacious 1TB Barracuda 7200.11 drives. Apparently, the problem lies in a faulty firmware found on drives manufactured in Thailand, which causes them to fail before they're even able to boot up and leaves them completely inoperable, with some extensive data recovery measures the only option for those looking to hang onto their data. What's more, while Seagate is now said to be updating the firmware on newly manufactured drives, it's apparently not possible to update the firmware on the toasted drives, as they're not even able to be detected by the BIOS once they fail. Seagate still doesn't seem to be addressing the issue publicly, however, and as Tom's Hardware points out, they haven't yet issued a recall on unsold drives, so anyone planning on upgrading or building a new PC may want to proceed with caution.[Via The Register]
+
+ 

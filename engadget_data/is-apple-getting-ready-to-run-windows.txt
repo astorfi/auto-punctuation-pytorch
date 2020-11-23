@@ -1,0 +1,5 @@
+
+ Notable curmudgeon John Dvorak raised hackles last month when he suggested that an Intel-powered Apple would dump OS X and switch to Windows. Turns out he may have been right -- sort of. Word is out now that Apple has joined BAPco, an industry group that does one thing and one thing only: create benchmarks for testing the performance of Windows-based PCs. The move comes on top of rumors that Apple will include VMWare-style virtualization capabilities in the next version of OS X, which could enable the Mac OS to run Windows apps without requiring a third-party emulator or a reboot. While those rumors have yet to be confirmed, it does seem possible that Apple is indeed working on a way for OS X users to run Windows apps, and wants to use BAPco's tools to benchmark the Windows-on-OS X performance (though the tools are said not to work all that well in virtual environments). Either that or they just want to confirm the rumors that the MacBook Pro is the fastest Windows laptop out there.
+      
+
+ 

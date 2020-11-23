@@ -1,0 +1,5 @@
+
+ 
+ Sprint might not have its 4G LTE network up and running to power your EVO 4G LTE, but it's already getting more headroom. The FCC has just tweaked the rules around the ESMR (Enhanced Specialized Mobile Radio) spectrum to let Sprint, and the considerably more regional SouthernLINC Wireless, run their CDMA voice calls and LTE data on the 800MHz band they're currently using for their soon-to-end iDEN networks. In practice, the extra frequency access should be a tremendous help to at least Sprint, which hasn't had the low-level, indoors-friendly airspace that AT&T and Verizon enjoy with their 700MHz networks. Just don't expect your EVO or the rest of the initial Sprint LTE devices to take advantage any time soon, as you'll need to both get an 800MHz-ready phone as well as endure the long, long wait until Sprint switches on the extra LTE band in 2014.
+
+

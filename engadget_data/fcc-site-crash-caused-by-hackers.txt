@@ -1,0 +1,15 @@
+
+
+The only thing more charming than John Oliver's 13-minute net neutrality explainer? The idea that we, his viewers, managed to crash part of the FCC website because we submitted too many comments about its proposed net neutrality regulations. In fact, though, while Oliver did indeed send fans to FCC's comments page, and though the site did indeed collapse soon after, it appears the comedian and his band of trolls aren't to blame. In a statement to Vice, the Federal Communications Commission confirmed that it was actually hackers who took down the site, using a database denial-of-service attack. In layman's terms, that means they were able to get at the infrastructure of the site -- not surprising, considering the FCC's comment system is 17 years old (yikes). The irony, of course, is that the attack temporarily made it impossible for anyone to leave a comment. Fortunately, the problem seems to be fixed, so head here if you didn't get your say in the first time around -- the site might be old and creaky, but it can probably handle a few of you complaining at once.
+
+
+Update: An FCC spokesperson contacted us to say its statement to Vice about the recent site crash was misconstrued. The commission says it has no evidence of a malicious attack; if anything, a high volume of traffic caused the collapse (precisely because of the aging website infrastructure we mention in our story). Now, does that mean John Oliver incited a crash after all? The FCC says it has no way of proving that, but we suspect many of you are convinced anyway.
+
+
+Update #2: Vice says it confirmed with a "high-level FCC source" that the FCC site suffered a database denial-of-service attack. The publication stands by its story.
+
+
+
+@DanaWollman high-level FCC source explicitly said "malicious attack" to us in describing a db-DOS, we stand by the story
+
+- Derek Mead (@derektmead) June 11, 2014

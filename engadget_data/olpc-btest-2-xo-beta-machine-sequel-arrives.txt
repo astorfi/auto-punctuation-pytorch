@@ -1,0 +1,6 @@
+
+ 
+Good things happened with that last round of test XO test machines, and now OLPC has shipped out round two, with an improved screen (now with real-live diffuser action), and at last the appearance of a touch pad. The main thrust of BTest-2 is mesh networking and suspend / resume functionality, the industrial design is relatively unchanged, since there wasn't enough time to implement changes found in BTest-1. The third BTest of this trilogy will be supposedly much more rugged -- for instance, Jean Piché already noticed some trackpad woes: "Because of blotches and air bubbles, I almost tried to peel off what seemed like a protective strip of paper on the trackpad. It's a mylar sheet not to be removed!" Thanks for the heads up, Jean. Now what nerdy prof do we need to mug to get a bit of BTest-2 up in the HQ?[Via OLPC News, photo courtesy of Jacob Kaplan-Moss]
+      
+
+ 

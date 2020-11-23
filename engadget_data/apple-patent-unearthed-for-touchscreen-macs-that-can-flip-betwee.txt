@@ -1,0 +1,9 @@
+
+ 
+As far as we can tell, the general logic behind touchscreen iMac rumors goes something like this: "Apple is good at touch UIs, so it should build a touchscreen iMac." Unfortunately, the reality of a usable, desirable touchscreen desktop computers has yet to materialize (sorry, HP and Microsoft), and so far Apple has steered clear of those dangerous waters. An international patent recently unearthed at the World Intellectual Property Organization, however, shows just how Apple might go about a touch UI on a desktop computer.
+
+Basically, the patent covers the method of transitioning from a traditional "high resolution" UI (best operated by a mouse) to a "low resolution" UI suitable to finger operation (like iOS). A myriad of sensors can be employed to detect the user moving the screen into touch mode, and as the user does this the difficult high res bits like cursors and scrollbars and drop down menus "slide off the screen," leaving only a touch UI at the end of the transition. It's all very broad and vague, naturally, being a patent, but it's an interesting idea, and makes more sense than ruining the good thing desktop UIs have going with a tacked-on touch UI in the style of Microsoft's Windows. Of course, stuffing two UIs into one device also seems rather un-Apple like, so we're not going to start expecting an Apple-built touchscreen iMac or MacBook to act exactly like this until Steve gets on stage and starts telling us how we magical and revolutionary it is. 
+
+
+
+

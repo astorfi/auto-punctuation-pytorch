@@ -1,0 +1,6 @@
+
+ 
+As part of the Open Screen Project, which should be getting Adobe Flash onto many new platforms, Adobe, NVIDIA and Broadcom are all hard at work getting GPU acceleration to do what it ought for Flash Player, with improvements in store for everything from Tegra MIDs to Broadcom Crystal HD netbooks (like HP's new Mini 110XP, pictured) to tablets and beyond. Of note is H.264 playback acceleration, which should at last make Hulu and YouTube bearable on netbooks and nettops -- a major shortcoming in the otherwise enticing form factors. Unfortunately, the most precise timeline we have on all this is from Broadcom, who says its Flash Player support will be available in the first half of 2010. We're also going to be bugging Adobe and Intel about when this functionality might hit mainstream Intel integrated chipsets as well, though at least Broadcom's Crystal HD accelerator can be added to some existing netbooks such as a PCI Express mini-card or ExpressCard 34 add-on. Perhaps we sound ungrateful, but this sort of acceleration for Flash -- the internet's most popular multimedia delivery method -- is long overdue, and we're not overly impressed with the idea of waiting until mid-2010 for it to happen.Read - Adobe and NVIDIARead - Adobe and Broadcom
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+ ARM is still cooking its next-generation Mali-T604 mobile graphics, but it has what could be a massive lift to performance coming considerably sooner through the Mali-450 family. The architecture is almost almost literally two Mali-400 chips (the same that powers the Galaxy S II) grafted together, and the maximum eight cores accordingly run up to twice as quickly as what we saw just a year ago. The real achievement might be just be targeting the Mali-450 at a more down-to-Earth audience: where the 400 was all about conquering the high-end, ARM wants the 450 to focus on mid-range and even entry-level phones. Design work for the new Mali video should be done before the end of 2012, although it'll be up to chip manufacturers to carry the torch and finish work that likely won't show in phones and tablets until 2013.
+
+

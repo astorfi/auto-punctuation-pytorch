@@ -1,0 +1,4 @@
+
+Quantum cryptography is crack-proof by its nature -- you can't inspect data without changing it -- but the available technology is currently limited to one-on-one connections. Toshiba has developed a quantum access networking system that could bring this airtight security to groups as large as 64 people. The approach gives each client a (relatively) basic quantum transmitter, and routes encrypted data through a central, high-speed photon detector that returns decryption keys. Such a network would not only secure entire workgroups, but lower the cost of encrypting each user. Quantum access networks won't be useful across internet-scale distances until researchers improve the signal integrity, but there may be a time when surveillance agencies will run out of potential targets.
+
+

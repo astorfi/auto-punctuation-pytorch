@@ -1,0 +1,13 @@
+
+At IDF 2013 in Beijing, Intel is again making a big push for perceptual computing by way of voice recognition, gesture control, face recognition and more, and to complement its free SDK for these functions, Intel's been offering developers a Creative Interactive Gesture Camera for $149 on its website since November. For those who missed it last time, this time-of-flight depth camera is very much just a smaller cousin of Microsoft's Kinect sensor, but with the main difference being this one is designed for a closer proximity and can therefore also pick up the movement of each finger.
+
+
+We had a go on Creative's camera with some fun demos -- including a quick level of gesture-based Portal 2 made with Intel's SDK -- and found it to be surprisingly sensitive, but we have a feeling that it would've been more fun if the camera was paired up with a larger display. Intel said Creative will be commercially launching this kit at some point in the second half of this year, and eventually the same technology may even be embedded in monitors or laptops (remember Toshiba's laptops with Cell-based gesture control?). Until then, you can entertain yourselves with our new hands-on video after the break.
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,7 @@
+
+ That the Atrix got itself rooted before it was even available made us wonder just how... receptive it would be to the caresses of the hacker community at large. Sadly we're finding it's perhaps a bit more frigid than its friendly demeanor might have lead us to believe. User adlx.xda over at the xda-developers forums has found that the phone's system files are not encrypted, but they are signed. This will make the process of replacing them and loading custom builds and the like rather more complicated -- but surely not impossible.
+
+[Thanks, chaoslimits]
+      
+
+ 

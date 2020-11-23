@@ -1,0 +1,7 @@
+
+We're on the eve of a Google event with Sundar Pichai, and while we have some idea of what we'll see, the folks in Mountain View might've just shown us some of their other cards. Droid Life spotted "Chromecast" listed as a device on Google Play's support docs, but the entry has since been removed. The outlet speculates -- with the help of an anonymous tipster, of course -- that Chromecast is related to a TV dongle dubbed Chromekey, which streams content from mobile devices to television sets. What's more, a Droid Life reader chatted with a Google Play support representative who mentioned that "Chromecast is a TV service that's provided in some areas." The whole picture is fairly murky at this point, but we're hoping things will become clearer tomorrow.
+
+
+Update: Version 5.1 of Google Play Music just started to trickle out, and an APK teardown has revealed even more mentions of Chromecast. By the sounds of an error message buried within the app's code, Chromecast devices will stream songs over the internet rather than from local hardware.
+
+

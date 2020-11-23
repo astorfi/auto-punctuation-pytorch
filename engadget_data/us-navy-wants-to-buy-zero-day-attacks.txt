@@ -1,0 +1,11 @@
+
+
+It won't surprise you to hear that governments are eager to buy unpatched security exploits for the sake of cyberdefense or surveillance, but they're rarely overt about it. No one must have told that to the US Navy until this week, however. The Electronic Frontier Foundation caught the military branch soliciting for both zero-day exploits and recently discovered vulnerabilities (less than six months old) for relatively common software from the likes of Apple, Google and Microsoft. The Navy quickly took the posting down, but it was clear the organization wanted to turn these flaws into "exploit binaries" -- that is, finished software that would be useful for attacks.
+
+
+
+The American government has policies for disclosing exploits to app makers in time to protect the general public, and it's not clear that the software would be used strictly as an offensive weapon. Security testers often write programs to prove that security holes are dangerous, after all. However, the request raises questions about priorities. While the US is making arrangements to limit the export of zero-days and similar attacks, it's simultaneously encouraging security researchers to sell their findings before they warn developers. The fear is that you'll be left open to hackers for longer than necessary in the name of fighting digital wars.
+
+[Image credit: AP Photo/Phil Coale]
+
+

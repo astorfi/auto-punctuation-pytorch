@@ -1,0 +1,6 @@
+
+ 
+
+
+	Wondering what RIM's got up its sleeves for its forthcoming lineup of BBX-based handsets? According to the company, it's derived at least some of its inspiration from its very own BlackBerry PlayBook. Speaking to PC Mag, VP of Developer Relations and Ecosystem Development Alec Saunders confirmed that the manufacturer's next generation smartphones will boast the same 1024 x 600 display resolution and 16:9 aspect ratio that you'll find on the PlayBook, all squeezed into a smaller frame. He also reassured developers that apps designed for the tablet will be compatible with BBX handsets. "Look, if you build [an app] for the PlayBook, then it will run on BBX," Saunders explained. "We have maintained aspect ratios, BBX also has the ability to upload multiple dimension graphics... [and the standard resolutions] are the same as PlayBook." Oh, and as for those rumors that RIM's first BBX phone (Colt?) would lack BES support? Pure hogwash, according to Saunders, who said the phones will also feature a native e-mail client, and that users shouldn't expect BBX "to be behind the PlayBook."
+ 

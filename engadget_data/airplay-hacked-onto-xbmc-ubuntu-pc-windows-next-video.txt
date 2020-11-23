@@ -1,0 +1,9 @@
+
+ 
+You won't find this hack available for download just yet, but Erica Sadun over at TUAW has posted a video showing AirPlay streaming from an iPad to an XBMC media server running on Ubuntu. As we understand it, the Linux box runs the AirPlay client service with XBMC advertising its availability using the Bonjour-compatible Avahi. Erica, who helped initiate all this AirPlay trickery with her early code spelunking efforts, says that Windows hacks are also in development. Click on through to see AirPlay take another bold step down the path of device agnosticism.
+      
+
+ 
+
+
+ 

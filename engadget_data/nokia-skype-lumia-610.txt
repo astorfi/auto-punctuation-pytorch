@@ -1,0 +1,8 @@
+
+ 
+ It took nearly a full month, but Nokia has finally been convinced that Skype is indeed incompatible with low-memory Windows Phones. In reaching out to a spokesperson, the company confirmed to us that it has decided to yank the official client from the Marketplace on the Lumia 610. The device -- which utilizes a scant 256MB of RAM -- originally allowed the service to be downloaded despite Skype's claims that 512MB was the minimum amount of memory required for the app to function properly. The internet phone service, as it turns out, was correct: Nokia, stating that the user experience is "workable" but not "up to par with Nokia's and Skype's expectation," has pulled the plug on any future downloads. Users who managed to snag the app before it disappeared can still enjoy (or hate, depending on your experience) it on their Lumia 610, but until Skype is able to lower the memory restrictions, it looks like everyone else is out of luck. Head below for the full translated statement.
+
+
+
+  Nokia attaches great importance to the launch of products and services to bring the user experience, so even if the Skype Windows Phone version on the Nokia Lumia 610 does, but after intensive testing, we found the user experience does not guarantee to Nokia and Skype the expected level.  Therefore, we do not recommend users to use Skype on the Nokia Lumia 610.  Nokia Lumia 610 users in the Windows Phone Marketplace will not be able to download Skype, Windows Phone version.  Skype, Windows Phone version will continue to open to other users to download.
+

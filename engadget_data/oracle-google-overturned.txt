@@ -1,0 +1,10 @@
+
+Oh, you thought Oracle and Google's heated legal battle was over? Not quite: the US Court of Appeals for the Federal Circuit (CAFC) overturned a lower court's decision that Oracle's Java APIs weren't copyrightable. This means that Oracle gets another shot at making Mountain View pay for its alleged transgressions, assuming Google can't prove that its use of the APIs in Android falls under the fair use doctrine of US copyright law.
+
+
+
+To fully understand what's going on, we need to flash back to 2010. Oracle sued Google for billions because it believed (among other things) that the search giant infringed the "structure, sequence, and organization" of 37 Java application programming interfaces (APIs) while it was first building Android. Two years and lots of legal jostling later, a jury decided that Google did in fact infringe on Oracle's copyrights (but not its patents). Seems like an open and shut case, no? Judge William Alsup eventually shot down the copyright claims their verdict was based on, though, basically nullifying the jury's decision.
+
+The court ultimately decided that those APIs aren't copyrightable, prompting Oracle to accept a whopping $0 in damages from the folks in Mountain View. Today, that's no longer the case. In short, the appeals court took issue with Alsup's original conclusion (and some of the intellectual leaps that lead to it) and overturned the ruling. APIs can indeed be copyrighted now, which itself is quite a can of worms to open because of the potential pitfalls for software creators trying to craft apps and services that interact with others. Last time around the jury found itself deadlocked on whether Google's actions fell under fair use -- expect another trial and still more legal intrigue to come.
+
+

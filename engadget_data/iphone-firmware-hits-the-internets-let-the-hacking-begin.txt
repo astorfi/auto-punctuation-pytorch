@@ -1,0 +1,5 @@
+
+ No use on non AT&T networks, A2DP, MMS, chat app, 3rd party programs, widgets, extended codec support, etc.? No problem -- maybe. It looks like the iPhone's system restore image has already shown up online; it might be a while before anyone can deconstruct this thing into meaningful, moddable bits (and perhaps even longer before modded iPhone ROMs can be flashed to users' devices -- everything looks pretty well encrypted at this point), but hacking device software always starts at the same place: a firmware image.
+      
+
+ 

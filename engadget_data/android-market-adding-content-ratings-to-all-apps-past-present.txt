@@ -1,0 +1,7 @@
+
+ Mandatory content ratings were added to Apple's App Store back in iPhone OS 3.0, and now it's Google's turn on news that they'll become obligatory for Android developers "in a few weeks" (at least, those that want their content in the Market). The company teases the fact that they'll be showing the ratings for all apps along with other "Android Market upgrades in the coming weeks" -- presumably timed to coincide with the release of Gingerbread -- and that any dev that fails to specify a rating level for their existing apps will have their content automatically listed as "Mature" (that is, the most restrictive level) until they take care of the problem. In addition to Mature, available ratings will include Pre-teen, Teen, and naturally, an "All" option for apps guaranteed not to offend even the most sensitive of young minds. Definitely good news for parents whose young'uns are demanding Android phones this holiday season, though it's still basically on the honor system for devs to correctly tag their content... and an All-rated app is probably going to sell better than a Mature one for the same reason R-rated movies outsell NC-17 ones. At any rate, sounds like Google intends to evolve the Market pretty rapidly with the next release or two, so we'll have to see how this shakes out.
+
+[Thanks, Paul]
+      
+
+ 

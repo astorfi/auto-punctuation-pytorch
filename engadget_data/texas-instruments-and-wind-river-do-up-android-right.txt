@@ -1,0 +1,10 @@
+
+ 
+We just got a great look at the potential of Android on Texas Instruments' new Zoom OMAP34x-II Mobile Development Platform, a sort of sexy cousin to Compulab's exeda. The OMAP3430-powered unit is being built by Logic and is meant for software developers to work on the OMAP3 chipset, but it's actually a pretty neat "device" in its own right, with a 4.1-inch WVGA capacitive touchscreen LCD, HDMI out, all sorts of connectivity, 16GB of storage, an SD card slot, large QWERTY keypad and an 8 megapixel camera. There's also a debug board with Ethernet, USB plugs and some other technical stuff. For $1150 developers can pick up a WiFi-only unit, and $1399 buys you a 3G unit -- consumers can buy 'em too, and we can imagine certain enthusiasts wouldn't mind the cost for what basically amounts to the ultimate Android device. The unit runs other flavors of Linux, but we're really in it for the Android, especially thanks to that screen. Wind River has been doing development on Android for a while, contributing to the original source code as part of the OHA, and one of its developers even ported Android to OpenMoko. They've got a refined Android interface running on the Zoom, which includes a tabbed application browser, fancier widgets and a spruced up unlock screen. They wouldn't consider what they're doing a skin or a port, but it's exactly the type of stuff that device manufacturers will be looking for to differentiate their Android-powered handset. Video of all the magic is after the break.
+
+
+
+
+
+
+ 

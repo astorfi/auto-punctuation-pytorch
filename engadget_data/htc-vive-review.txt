@@ -1,0 +1,64 @@
+
+The virtual reality wars have officially begun. Last week the consumer version of the Oculus Rift finally started shipping, and now HTC's $800 Vive headset is ready to roll. It's a collaboration between HTC and Valve, and it's also a showcase for Valve's SteamVR platform. In particular, the two companies are aiming for a more immersive VR experience: The Vive comes with motion controllers, and you can turn an entire room into a VR play field. More so than the Rift, the Vive shows us that interacting with virtual environments naturally is a key part of immersion. But unfortunately, you'll have to deal with additional discomfort and a higher cost to achieve that. 
+
+
+
+
+
+Hardware#fivemin-widget-blogsmith-image-996506{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-996506, #postcontentcontainer #fivemin-widget-blogsmith-image-996506{width:100%;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-996506").style.display="none";}catch(e){}
+It's worth checking out our Vive coverage over the years to see how far HTC has come. When we first saw it back at Mobile World Congress 13 months ago, it was a huge headset with insect-like sensors visible from the front and a mess of wires connecting it to a PC. Still, the VR experience was impressive enough to win us over. The Vive Pre, which debuted during CES, was even more refined, with a slightly smaller headset, better ergonomics and a cleaner overall look. The Pre, which started shipping to developers a few weeks ago, was also my first experience setting up VR at home. I came away mostly impressed, but I also hoped that HTC would streamline the consumer experience before it reached customers.
+
+For the most part, the final version of the Vive is pretty similar to the Pre. They both have the same hardware under the hood, including two OLED displays running at 1080 by 1200 pixels each. Additionally, there are a slew of sensors in front and an integrated webcam. But HTC also made some useful ergonomic changes: The straps holding the Vive to your head feel a bit smoother and higher quality than on the Pre. It's a small change at first, but one that could be useful when wearing the headset for longer sessions.
+
+
+Although HTC has certainly made progress with the Vive's design, it's still a bit bulkier than I'd like. The headset is noticeably heavier than the Oculus Rift, and there are three long cables that have to rest on top of your head — and that doesn't include the cable for headphones. Whereas Oculus went ahead and integrated headphones into the Rift, the Vive comes with a small pair of earbuds that you have to plug in manually. You can, of course, use your own headphones, but I wouldn't want to wear large cans on top of the already-large Vive.
+
+Whereas the Oculus Rift looks like a refined version of the insane getups we saw from VR researchers during the '90 and were popularized by things like The Lawnmower Man or The Outer Limits, the Vive is more of a direct descendant. There's a wonderfully geeky quality about it -- wearing the Vive makes you look like some sort of H.R. Giger monstrosity -- but that may also work directly against its appeal to normal users.
+
+
+The Vive comes with two motion controllers, which admittedly look large and unwieldy at first blush, but they're actually fairly light and easy to hold. They're dominated by a circular motion sensor on top and feature a clickable touchpad, a trigger button that sits under your index fingers, and buttons around the grips. The controllers are contoured to fit into your hands fairly well, which is a good thing since you'll be dual-wielding them quite a bit, and they charge over micro-USB. HTC also used a slightly rougher material around their grips this time. In contrast, the controllers for the Vive Pre are totally smooth, which could lead to gripping issues when your palms get sweaty.
+
+Also included in the box are two base stations (more on those in the setup section below), and a link box that plugs into your PC and serves as the main connection point for the headset.
+
+Setup
+HTC says it should take around 30 minutes for you to set up the Vive, and I found that to be a pretty good estimate. Upon opening the box, you're presented with all of the hardware nestled safely in individual compartments. Aside from a mini-poster which details everything that's supposed to be in the box, there aren't any instructions included. Instead, you're directed to download HTC's setup app, which walks you through the process of assembling everything.
+
+For most people, the most difficult part will be installing the two base stations, which have to be placed high up and angled down on your play area. And yes, they also need to be connected to power. They're what the Vive headset communicates with to determine your location in VR, so it's important you find safe and stable spots for them to rest. I was able to secure them on top of bookcases in my office, but HTC also includes wall mounting equipment if you want something a bit more permanent. The stations also sport standard tripod mounts, which gives you a variety of ways to install them. (I also considered screwing them onto flexible camera mounts.)
+
+
+With the base stations installed, the setup app asked me to make sure they were in the appropriate modes (something you can change by hitting a button behind them) and synced without an issue. If, for some reason, the sensors can't see each other in your room, you can also connect manually with an extra-long cable that's included in the box. But really, I'd recommend doing everything possible to have them work wirelessly. It's also worth noting that the sensor boxes have fans and emit audible noise when they're on. I installed them on power strips that I can turn off when I'm not using the Vive, but you might just want to unplug them to save energy.
+
+I was directed to plug the Vive's link box into a USB 3.0 port and an HDMI socket on my computer, and then plug in the cables from the headset into the other side of the link box. After that, I flipped on the two remotes and the setup app confirmed that all of my Vive hardware was in working order.
+
+HTC's setup program automatically downloaded the full Vive app on my computer and detected that I already had Steam installed. If you don't (which would be surprising, given Steam's PC gaming dominance over the past few years), it'll download it for you.
+
+
+Once all of the software was good to go, I was asked to choose between setting up the Vive for seated/standing use, or for whole-room VR (which requires at least 6.5 by 5 feet of free space). I went for the latter option and was then directed to trace the boundaries of open space in my office using one of the remotes. I once again had a few issues getting the Vive to register that I had enough open space (the same problem occurred when I set up the Vive Pre), but after a bit of creative reorganization, it approved my office layout. Heads-up if you're planning to turn a large room into a VR playground: HTC says that the base stations can only be separated by 16 feet at the most, but I've seen some developers demoing Vive setups in bigger spaces.
+
+As with every VR headset, it'll take you a while to figure out the best way to put on the Vive. I followed the same method I used for the Oculus Rift -- putting it on carefully over my glasses first, and then following through with the rest of the head strap -- and that generally worked pretty well. Adjusting the straps after you've put on the Vive is pretty simple. You can also tweak the pupillary distance (the space between your eyes) with a small dial on the bottom of the Vive, as well as the lens distance by pulling out and turning the circular strap holders on the sides of the headset. The Oculus Rift doesn't let you change its lens distance at all; instead you have to swap out its foam lining to give glasses a bit more breathing room.
+
+Of course, you'll need a powerful PC to really take advantage of the HTC Vive. The company recommends a PC with at least an Intel Core i5 4590 (or equivalent) CPU, an NVIDIA GTX 970 or AMD Radeon R9 290 GPU, and 4GB of RAM. That's pretty much what Oculus asks for as well. I tested the Vive on my home-built desktop PC, which is powered by an Intel Core i7 4790k CPU running at 4GHz, 16GB of 2400MHz DDR3 RAM and an R9 Fury X GPU on loan from AMD.
+
+Software
+As you probably expected, you'll be using Steam quite a bit with the Vive, this being a SteamVR headset and all. If you're a PC gamer, there's not much new for you to learn. Steam can be a bit daunting to mainstream users, though; it's certainly not as welcoming as the standalone Oculus app that the Rift relies on. HTC has also developed a Vive app to keep track of your VR library, but Steam is where you'll actually discover and purchase titles.
+
+Once you put the Vive on, you're placed in a white room and presented with an interface that looks like a virtualized version of Steam's Big Picture mode for TVs. It's where you'll be spending most of your time when not inside of a game or app. And as with just about every Vive experience, you'll have to rely on a motion controller to navigate the interface.
+
+From here you can also enable some of the more intriguing features HTC and Valve have built for the Vive. Desktop theater mode replicates your Windows desktop to let you follow up on IMs and email, or even launch non-VR games. It's not quite as impressive as the third-party app "Virtual Desktop," which wraps your desktop around resplendent virtual environments, but it's useful since HTC is offering it for free. You can also turn on the Vive's webcam and see what's going on outside of your headset, which is great for keeping an eye on naughty pets that try to play with your VR headset cables. (I'm looking at you, cats.)
+
+In use
+When it comes to the idea of presence -- wonk speak for how convincingly a VR experience can make you feel like you're actually there -- the Vive beats out the Oculus Rift in many ways. Its displays are a bit more detailed, its motion controllers are more engrossing than a mere Xbox One controller, and whole-room VR can be a life-changing experience. And yet, HTC still has some work to do before I can wholeheartedly recommend it.
+
+When everything is working well, the Vive is the most convincing argument yet that virtual reality isn't just hype and wishful thinking. It manages to convincingly place you in the centers of virtual worlds and, thanks to the base stations, there isn't much of a chance you'll lose synchronization and have to suffer through choppy video. Performance was smooth overall on my computer, and I never felt any motion sickness. It doesn't take long for the motion controllers to feel like a natural extension of your own hands. Most games don't even have to tell you to reach out and grab objects: It simply becomes second nature.
+
+
+I also appreciated the Vive's Chaperone feature, which puts up virtual walls when you're approaching the edge of your usable VR space. It saved me from bumping into my desk hard several times. You can also have the Vive's webcam turn on you automatically give you an outline of what you almost bumped into.
+
+But oh, that headset. Sure, it's a more impressive piece of kit than the Rift, but boy is it heavy. And that's a problem when you've got it strapped to your face for hours on end. I often have to tighten the Vive's straps a bit more than the Rift to keep it stable, and that inevitably causes my face to start sweating after 30 minutes or so. After an hour, my neck usually starts to ache. While I could wear the Rift for an hour or more at a time, that's not possible for me with the Vive in its current state.
+
+Games and apps#fivemin-widget-blogsmith-image-771982{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-771982, #postcontentcontainer #fivemin-widget-blogsmith-image-771982{width:100%;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-771982").style.display="none";}catch(e){}
+HTC wisely bundled several solid titles with the Vive: Fantastic Contraption, a virtual puzzle game that involves building strange structures; Job Simulator, a hilarious game that has you perform repetitive jobs badly; and Google's Tilt Brush, a 3D painting app that's currently being used by the likes of Disney legend Glen Keane. They're all great VR experiences in their own right, though they're not conventional games like Lucky's Tale and Eve: Valkyrie, which come with the Oculus Rift.
+
+
+
+

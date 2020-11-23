@@ -1,0 +1,17 @@
+
+Just as we were wrapping up CES today, we caught up with our friends over at PMD Technologies who surprised us with a little exclusive. What you see above is the new CamBoard Pico XS gesture camera that's dwarfed by the Pico S -- the one we saw at Computex -- next to it. This tiny module is only 4mm thick, 39.5mm long and 15.5mm wide, making it 1.5mm thinner and almost half as long as its predecessor, while still packing the same Infineon IRS1010C 3D image sensor chip. Given the size plus the fact that it already uses MIPI (Mobile Industry Processor Interface) instead of USB, the Pico XS is truly integration-ready for OEMs.
+
+
+The main changes that enabled this size reduction are the smaller lens -- which is compensated by a sharper laser illumination (but still 850nm infrared) -- plus the removal of the aluminum heat sink (which is actually the chassis), courtesy of a much lower power consumption. Instead of a typical 1W you get on the Pico S, the Pico XS requires less than 50mW typically (at 25fps) and 350mW max (up to 45fps). Temperature-wise it goes up by just 10 degrees Celsius at most, apparently.
+
+
+Despite the slightly reduced viewing angles, we've been told that this smaller depth camera offers the same performance as before. That certainly seems to be the case after this author tried it using PMD's Nimble UX middleware (co-developed by 3Gear Systems), which is able to do two-hand skeletal tracking down to finger level, as shown in our video after the break. 
+
+
+
+
+
+
+Like before, the Pico XS is optimized for close range gesture control within 50cm, as PMD is currently focused on the "comfort zone" just above the PC keyboard in front of the screen. In other words, you can expect computer manufacturers to embed the Pico XS below their monitors, facing towards the user (unlike Leap Motion). Of course, it'd be nice to have this on mobile tablets as well. As to when we'll see products shipping with this little depth camera, we'll let you know as soon as we hear about it.
+
+

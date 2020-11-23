@@ -1,0 +1,13 @@
+
+
+After a mention on stage back at WWDC when Apple Health was first announced for iOS 8, Fitbit was absent when the feature went live. Now, the activity-tracking outfit says it doesn't "currently have plans" to opt in. "It is an interesting new platform and we will watch as it matures, looking for opportunities to improve the Fitbit experience," a moderator responding to Fitbit forum inquires explained. "At the moment, we're working on other exciting projects that we think will be valuable to users." Of course, Fitbit does have its own software. Even if it has a trackerless app in the works to leverage the iPhone's internals, it would make sense to share stats with the iOS repository. Fitbit was the top seller for activity trackers in Q1 2014 according to ABI Research, accounting for nearly 50 percent of shipments. It doesn't appear to be struggling to grow the user base, so the need to have its wares in more places isn't pressing. However, as you can see in the forum thread, those who have already invested in a tracker aren't too happy with the company's current stance.
+
+
+
+Update: As one reader pointed out, Fitbit's trackers do work with MyFitnessPal. And through that app, some info can be sent to Apple Health. They also integrate with Withings, RunKeeper, MapMyRun, Endomondo and others that are all HealthKit-friendly. It seems that the sharing Fitbit is referencing here is directly from its own app, and this post has been updated to reflect that.
+
+Update 2: Fitbit CEO and co-founder James Park offered the following comment on the matter:
+
+At Fitbit, our mission is to help people lead healthier, more active lives, so we're always looking for ways that our users can use their data to support their fitness goals. For the past few years, we've been the leader in developing direct partnerships through our open API with hundreds of the most popular health apps, wellness programs, incentive systems, and other services that have enabled our users to make the most of their Fitbit products and data. Because of this commitment to connect with other applications, HealthKit is really interesting to us. Since its announcement, we've been evaluating integration with HealthKit as more of its features and benefits are revealed. Fitbit remains committed to supporting all of our users, whether they sync their Fitbit products with iOS, Android or Windows Phone devices, Macs or PCs. While HealthKit works only on the iOS platform, we also plan to maintain direct integrations with our partners so that Android, Windows Phone and PC and Mac users in addition to our iOS users can benefit from our partnerships.
+
+

@@ -1,0 +1,11 @@
+
+ 
+After yesterday's wrap-up of the gargantuan Auction 73 to offload the newly-freed 700MHz spectrum, it looks like the two champions to emerge are Verizon and AT&T. Big Red has emerged with virtually all of the highly coveted C Block save for Alaska, Puerto Rico, and the Gulf of Mexico, a logical move considering its recent foray into the wide world of open access. AT&T, meanwhile, has scored much of the B Block, giving it 12MHz of spectrum in many of over 700 "cellular market areas" nationwide. In total, Verizon laid out a whopping $4,741,807,000 to pick up the Block C airwaves, leaving early competitor Google in the dust -- and affirming rumors that Mountain View wasn't in it to win it, it just wanted to make sure the reserve price was met and open access rules were assured.Other winners include Qualcomm, which won bits and pieces of the B and E Blocks -- more MediaFLO spectrum, perhaps? -- and Frontier Wireless, scoring the overwhelming majority of the low-bandwidth E Block. Frontier is in cahoots with Echostar, though it's not clear how (or if) the new spectrum would augment its satellite TV service.Left out in the cold was the D Block, a wireless range which the FCC had required to be used in partnership with public safety groups; it failed to meet its minimum reserve price of $1.33 billion, which means that a new Auction 76 will be automatically spawned for bidders to have another go at it. Follow the break for the big winners, broken down by block.
+      
+
+ 
+
+#comparechart { border: 2px solid #333; border- collapse: collapse; } #comparechart td { padding: 3px; border: 1px solid #ccc; vertical-align: top; margin: 0; line-height: 1.3em; } #comparechart th { font-weight: bold; text-align: left; padding: 4px; background: #eee; } #comparechart th.mainth { border-bottom: 1px solid #333; font-size: 1.2em; } #comparechart td.red { background-color: #f08c85; } #comparechart td.green { background-color: #b3e2c4; }    BlockBig winnerTotal spent (approximate, across all blocks)   A  No clear winner     B AT&T $6,636,658,000   C Verizon Wireless $9,363,160,000   D Qualcomm $472,042,000 (did not meet reserve)   E Frontier Wireless $711,871,000  
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

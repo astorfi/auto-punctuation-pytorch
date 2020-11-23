@@ -1,0 +1,9 @@
+
+ 
+ We caught our first glimpse at the new, simplified Arduino Leonardo at Maker Faire back in September of last year. At the time, we were promised a late October shipping date, but it failed to materialize. Finally, Massimo Banzi has taken the wraps off the slimmed down microcontroller and its now in stock at retailers across the web. The Leonardo sports a new pin layout, dubbed R3 (which the Uno has also been updated with), that will become standard across all Arduino boards. That's a big deal for shield makers who only have to design and manufacture an add-on once to ensure it's compatible with the entire product line. The new layout also adds some extra pins and versatility, especially in the realm of shields, which can use to the new IOREF pin to determine the voltage of the processor and thus its model. That means a shield doesn't have to be designed specifically with the new ARM-based Due in mind. The other big news is that the circuitry for converting USB to serial communication and the processor itself have been combined, which not only simplifies the design and drives down costs, but allows it to communicate directly with a computer and imitate all sorts of accessories (such as keyboards and mice). Best of all, is the price. The Leonardo, complete with headers, costs just $25 -- a good $10 less than the Uno -- while the headerless, solder-friendly version retails for $22.50. Check out the video after the break for a few more details from Massimo himself.
+
+
+
+
+  
+ 

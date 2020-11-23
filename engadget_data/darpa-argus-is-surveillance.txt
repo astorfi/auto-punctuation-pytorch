@@ -1,0 +1,9 @@
+
+ It's been three years since we first heard about DARPA's ARGUS-IS, but thanks to a PBS Nova special entitled "Rise of the Drones," we finally have more information about the 1.8-gigapixel camera that is supposedly the highest-resolution surveillance system in the world. The documentary showed video footage of the imaging system in action, though the camera itself remains shrouded in mystery for security reasons. Designed to be used with UAVs like the Predator, the ARGUS-IS (which stands for Autonomous Real-time Ground Ubiquitous Surveillance - Imaging System) can spot a six-inch object within a ten square mile radius from 20,000 feet in the air. As shown in the clip after the break, the high-res cam doesn't quite reveal facial features, but you can spot details like a bird flying around a building and the color of someone's clothes.
+ The video goes on to reveal that the camera's internals are actually a collection of 368 sensors that are identical to the ones found in 5-megapixel smartphones. But the ARGUS-IS wouldn't be much without the processing power of the platform behind it. We're not entirely sure how this is done, but the camera allegedly streams around 1 million terabytes (that's an exabyte, folks) of video, which adds up to roughly 5,000 hours of HD footage per day. Thankfully, there's software that helps guys on the ground filter through the mass of data. As seen in the image above, it lets them track moving objects with up to 65 simultaneous windows. The military potential here is obvious, but DARPA is keeping mum on any future implementations of the ARGUS-IS -- or if it's been in use all this time. 
+
+
+
+ 
+
+ 

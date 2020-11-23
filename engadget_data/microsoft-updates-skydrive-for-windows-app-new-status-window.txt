@@ -1,0 +1,5 @@
+
+ 
+ We dug into Microsoft's recently updated SkyDrive efforts in a review earlier this year, and it looks as if the company's still intent on improving things based on user feedback. The newest update to SkyDrive for Windows (version 16.4.6003.0710, for the number crunchers) includes quite a few under-the-hood improvements that are said to bolster "performance, reliability, and compatibility." But beyond that, you'll also see a much-requested status window; put simply, this guy gives users a glanceable view at whether or not their SkyDrive is in sync, and displays the time at which it was last updated. In the event that a sync is still ongoing, you'll also see the number of megabytes and files you have remaining to sync. Finally, Microsoft has refreshed the SkyDrive logo -- not surprisingly, there's a pinch of that Metro styling throughout.
+
+

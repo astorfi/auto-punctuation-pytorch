@@ -1,0 +1,7 @@
+
+
+ Well, it's certainly taken a while, but the popular CyanogenMod finally has a stable version of its ninth iteration. It's yet to hit the ROM's homepage, but that's probably because its only available for the GSM Galaxy Nexus at the moment. The Ice Cream Sandwich-based ROM has clearly posed some issues for the devs, but it's worming its way towards a wide release and work on CM10 (which is based on Jelly Bean) is already progressing quite nicely. In many ways moving to a build of Android 4.0.4 will be a step backwards for those running stock 4.1, but CM9's support for themes, gestures and the top-notch DSP equalizer will surely lure a few away from the official Google release. Hit up the source to download the stable Maguro-friendly release for yourself.
+
+ [Thanks, Jul]
+
+

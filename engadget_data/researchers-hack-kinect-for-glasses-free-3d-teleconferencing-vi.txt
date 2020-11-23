@@ -1,0 +1,9 @@
+
+ 
+
+
+
+
+
+	Since the dawn of Kinect hacking, we've seen cameras strung together (or rotated) to create 3D, video game-like environments, while others have tweaked it for headtracking. Others, still, have used it for teleconferencing (albeit, the flat, two-dimensional variety). Now, a team of researchers have gone and thrown it all together to achieve 3D video chats, and if we do say so, the result is greater than a sum of its parts. The group, based out of UNC-Chapel Hill, uses 3D mapping (and at least four Kinects) to render the video, and then employs headtracking on the receiving end so that people tuning in will actually see the live video in 3D, even without wearing 3D glasses. The result: a tableau that follows you as you move your head and spin around restlessly in your desk chair waiting for the meeting to end. That's mighty impressive, but we can't help but wonder: do you really want to see your colleagues in such lifelike detail? Have a gander at the video and decide for yourself.
+ 

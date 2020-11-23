@@ -1,0 +1,46 @@
+
+Notice how so many maker projects require open-source hardware like Arduino and Raspberry Pi to function? Intel has, and the company is leaping into bed with the former to produce the Galileo development board. Galileo is the first product packing Intel's Quark X1000 system-on-chip, Santa Clara's (designed in Ireland, trivia fans) new low-power gear for wearables and "internet of things" devices. Don't imagine, however, that Intel is abandoning its X86 roots, as Quark's beating heart is a single-thread Pentium-based 400MHz CPU. As part of the new project, Intel will be handing out 50,000 of the boards to 1,000 universities over the next 18 months -- a move which we're sure will make Eben Upton and Co. delighted and nervous at the same time.
+
+
+
+Show full PR textROME--(BUSINESS WIRE)--MAKER FAIRE ROME - Intel Corporation CEO Brian Krzanich today announced a collaboration agreement with Arduino LLC, the leading open-source hardware platform in the maker and education community. Krzanich also unveiled the Intel® Galileo board, the first product in a new family of Arduino-compatible development boards featuring Intel® architecture.
+
+"I look forward to our collaboration and believe that our work together will produce some fantastic development vehicles that help foster some very exciting innovations."
+
+Arduino development kits and software programming interface make it easier for artists, designers and other do-it-yourself enthusiasts – who often don't have technical backgrounds – to create interactive objects or environments.
+
+Building on the Galileo development board, Intel and the Arduino community will work closely together on future products that bring the performance, scalability and possibilities of Intel technology to this growing community of makers.
+
+Also as part of this effort, Krzanich announced a large-scale donation of 50,000 Intel® Galileo boards to 1,000 universities worldwide over the next 18 months.
+
+"Through our ongoing efforts in education, we know that hands-on learning inspires interest in science, technology, engineering and math," said Krzanich. "I've been a 'maker' for many years and am passionate about the exciting possibilities of technology and what can be created with it. We look forward to a productive collaboration with Arduino and to providing this community with some incredible Intel products that will help push the boundaries of our imaginations."
+
+Today, Intel is working with 17 universities across six continents to develop curriculum based on the new Intel Galileo board. The goal of the education effort is to put the power of Intel technology into the hands of as many educators and students as possible. The company expects to name additional universities in the coming months.
+
+"We're thrilled to be working with Intel and to having the performance of Intel technology for the first time in our development boards," said Massimo Banzi, founder of the Arduino community. "I look forward to our collaboration and believe that our work together will produce some fantastic development vehicles that help foster some very exciting innovations."
+
+"The agreement signed between Intel and Sapienza University of Rome will give Intel access to the research excellence of Europe's largest university and they offer us the ability of a dedicated knowledge transfer structure gained from working alongside the technology industry," said Stephen Trueman, Director, Sapienza Innovation Center.
+
+Intel® Galileo Development Board: What Will You Make?
+
+Intel Galileo is the first in a line of Arduino-compatible development boards based on Intel architecture and is designed for the maker and education communities. The platform is easy to use for new designers and for those looking to take designs to the next level.
+
+Intel Galileo combines the performance of Intel technology and the ease of the Arduino software development environment. The development board runs an open source Linux operating system with the Arduino software libraries, enabling scalability and re-use of existing software, called "sketches". Intel Galileo can be programmed through Mac OS*, Microsoft Windows* and Linux host operating software. The board is also designed to be hardware and software compatible with the Arduino shield ecosystem.
+
+Intel Galileo features the Intel® Quark SoC X1000, the first product from the Intel® Quark technology family of low-power, small-core products. Intel® Quark technology will extend Intel architecture into rapidly growing areas – from the Internet of Things to wearable computing in the future. Designed in Ireland, the Quark SoC X1000 is a 32-bit, single core, single-thread, Pentium® instruction set architecture (ISA)-compatible CPU, operating at speeds up to 400MHz.
+
+Helping to expand native usage and capabilities beyond the Arduino shield ecosystem, the Intel development board comes standard with several computing industry standard I/O interfaces, including ACPI, PCI Express*, 10/100Mb Ethernet, SD, USB 2.0 device and EHCI/OHCI USB host ports, high-speed UART, RS-232 serial port, programmable 8MB NOR flash, and a JTAG port for easy debug. Intel Galileo also brings together the benefits of the Arduino IDE with the broad software development and advanced capabilities of a full, unmodified Linux* software stack into one platform, supported by a common open source tool chain.
+
+Overall, the Intel Galileo development board is a great tool for quickly prototyping simple interactive designs such as LED light displays that respond to social media, or for tackling more complex projects from automating home appliances to building life-size robots controlled by a smartphone.
+
+Intel® Galileo will be available by the end of November. Visit http://maker.intel.com and www.intel.com/support/go/galileo for information on where to buy and to learn more about Intel® Galileo.
+
+Intel: Education and the Maker Community
+
+Intel supports the maker movement to encourage innovation, whether it takes place in a classroom, a lab or a workshop in someone's garage or home.
+
+The company is a founding sponsor of the Maker Education Initiative along with Maker Media*, Pixar* and Cognizant. Intel also drives its Start Making! initiative that aims to build creative confidence and excitement with children for STEM education. Through the program, Intel introduces hands-on learning activities that can be replicated at home or in the classroom using readily available electronics kits, software tools and everyday household materials.
+
+In the past decade, Intel has invested more than $1 billion in K-12 and higher education in over 60 countries to provide the tools and resources necessary to bring 21st century learning into each and every classroom.
+
+

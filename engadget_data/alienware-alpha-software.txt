@@ -1,0 +1,35 @@
+
+When PC gaming juggernaut Valve announced its Steam Machines initiative in Fall 2013, it was unveiled as such:
+
+
+
+"Entertainment is not a one-size-fits-all world. We want you to be able to choose the hardware that makes sense for you, so we are working with multiple partners to bring a variety of Steam gaming machines to market during 2014, all of them running SteamOS."
+
+
+
+
+
+Not long after, at CES 2014, Valve revealed a full line of Steam Machines from 14 different companies. Chief among them was Alienware, Dell's gaming PC arm, which showed a teensy $550 box called the "Alpha." Alienware was a standout not just due to name recognition, but because the company proposed a launch window for its "game console". The Alpha won't ship with any of the promises of the Steam Machines initiative: no Steam OS and no Steam Controller. Valve's delayed both, but Alienware's pushing on nonetheless with a fall launch.
+
+That's all to say one thing: While the Alpha is still a "Steam Machine" in size and horsepower, it isn't a Steam Machine. The Alienware Alpha is a weird gaming PC.
+
+Alienware held an event last week in New York City to show off the Alpha. We were given time to play games on the system, sure, but the focus of the event was on the custom operating system that Alienware's built to get around the fact that Valve's initiative isn't ready.
+
+According to Alienware, Valve president Gabe Newell sees the Alpha as the "ideal Steam Machine." It's hard to see how, at least at the moment: It runs Windows 8.1, it ships with an Xbox 360 wireless gamepad, and it requires a USB-based wireless dongle to make that gamepad function. Alpha is $550 -- $50 more than the most expensive new game console -- and it's lacking in the horsepower department. Which GPU is inside? A "custom" NVIDIA Maxwell GTX. How about processing? Handled by an Intel i3.
+
+In so many words, the Alpha is roughly as powerful as the Xbox One and PlayStation 4, only it costs more and is nowhere near as accessible.
+
+THE ALPHA UI
+In place of Steam OS, Alienware's got a custom user interface that allows you to skip the Windows 8 desktop. It's non-ironically called the "Alpha UI," which is fitting given how vacuous it feels. We weren't actually able to use it; instead, Alienware guided media through a slideshow of its features. Those features are sparse: play games, adjust a small handful of settings, and a button combination that helps players escape the pitfalls of playing PC games.
+
+Ever go to play a Ubisoft game, only to have the UPlay dialog box pop up? Not such a big deal if you're sitting right in front of your computer, keyboard and mouse in-hand, but quite a frustration if you're playing a PC game using a gamepad from your couch. The Alpha gets around this issue by offering a kill command for offending software.
+
+Ever play a Steam game that advertises "partial controller support?" Alienware reps say they're working with Valve to test every single game and update all those listings. For now, however, workarounds like the kill prompt will have to do.
+
+
+Let's be clear: the Alpha is a system of workarounds. No Steam OS? Alienware built a bare bones OS to shepherd consumers from a Windows 8 experience to Steam's living room-friendly Big Picture Mode. No Steam Controller? Alienware's straight up buying Xbox 360 wireless gamepads and dongles to ship a controller with each Alpha.
+
+Unfortunately for Alienware and folks excited for the Alpha, another word for "workaround" is compromise. Alienware says you'll be able to upgrade to Steam OS and the Steam Controller whenever Valve's got those ready. For now, though, the Alpha feels undercooked -- a rushed product which serves Alienware's bottom line and little else. We're reserving full judgement until we've got a final unit this November when it ships to customers, but color us worried as of late Summer.
+
+Edgar Alvarez contributed to this report.
+

@@ -1,0 +1,11 @@
+
+ There's a story going around the past couple days that HTC's Inspire 4G for AT&T -- a phone that you would assume to be wicked fast on both uploads and downloads in light of the name -- doesn't support HSUPA, a critical element to offering reasonable uplink speeds. Turns out it's not quite that simple. Here's what we're hearing from trusted sources:
+
+Contrary to AT&T's official line -- which is flatly that the Inspire's specs don't include HSUPA -- the hardware most certainly does support it.
+For some reason, HSUPA has been disabled in the current firmware, but could be easily enabled in a future update if HTC and AT&T were to agree to do so. For what it's worth, we're not even aware of an HSPA+ chipset that lacks support for HSUPA, so that definitely sounds right.
+We've also been told that AT&T's network may simply have HSUPA disabled in 4G areas. That doesn't necessarily make sense since other HSUPA-compliant devices on AT&T (like the iPhone 4, to name an obvious example) can regularly hit HSUPA uplink speeds, but we suppose it's possible that there's some specific incompatibility between the infrastructure and the chipset used by the Inspire. An eerily-similar incident has happened in the past, after all.
+
+We'll keep our ear to the ground as we get more on this situation, but the bottom line is that hope is not lost for heavy uploaders with Inspires -- we just need to find out what it's going to take to get HTC to push an update.
+      
+
+ 

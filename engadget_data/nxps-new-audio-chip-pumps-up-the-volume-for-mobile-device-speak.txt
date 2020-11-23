@@ -1,0 +1,34 @@
+
+ 
+ Dutch company NXP -- best known for it's NFC solutions -- introduced a new audio chip today that's set to significantly improve the sound quality of the micro-speakers commonly built into mobile devices such as smartphones and tablets. The TFA9887 integrated circuit combines NXP's CoolFlux audio DSP, a class-D amplifier with current sensing and a DC-to-DC converter to boost the output level of micro-speakers up to five times (up to 2.6W RMS) without damaging the driver. Class-D amplifiers are highly efficient and, when combined with a DC-to-DC converter, provide a strong and clear signal regardless of battery level. With current sensing, the chip uses feedback from the driver to optimize power delivery, allowing micro speakers to provide louder, richer sound with deeper, tighter bass over the entire lifetime of a mobile device. Are you ready to turn it up to 11? Check out the full PR after the break.
+
+ Update: Hit the break for a couple videos from NXP.
+
+
+
+ 
+ 
+ 
+  Show full PR text   Revolutionary Mobile Audio Solution Delivers Over 5 Times the Power to Micro Speakers  NXP's TFA9887 to bring a new generation of louder, more reliable mobile devices with better sound quality
+
+   Eindhoven, Netherlands, July 17, 2012 – A revolutionary embedded algorithm in a new audio system from NXP Semiconductors N.V. (NASDAQ: NXPI) boosts the output power of micro speakers by over 5 times, vastly improving the sound quality of mobile devices. By driving over 2.6 watts RMS into micro speakers that have previously been limited to 0.5 W, NXP's TFA9887 IC will give mobile phones, portable music players and tablets much louder sound, deeper bass, and higher sound quality – without risking speaker damage. With a unique combination of safety features including adaptive excursion control and real-time temperature protection, the TFA9887 monitors speakers through a current-sensing amplifier and enables safe operation while working at near peak output at all times.
+
+   "Digital natives have come of age taking poor mobile sound quality for granted. As speakers have become smaller, the quiet, tinny sound we've come to associate with mobile devices has got even worse," said Shawn Scarlett, director of marketing, mobile audio product line, NXP Semiconductors. "Our new audio system transforms the listening experience, enabling louder, richer sound quality from virtually any mobile device. The improvement is so striking that consumers, handset makers and operators will immediately hear the difference."
+
+   No need to cut bass frequencies
+
+   Speaker makers have to balance competing demands for good sound, small size and reliability. As micro speakers have shrunk, phone, media player and tablet designers have been forced to limit output power and sound quality. Amplifiers could easily deliver enough power to destroy the speaker at one frequency, while under-powering it at others. Until now, it has been impossible for system designers to know for sure when it was safe to apply extra power. The rule has therefore been to cut out bass frequencies and limit output power to avoid blowing the speaker – a common cause of failures in mobiles.
+
+   By incorporating circuits that monitor speaker performance and prevent damage, NXP's TFA9887 allows designers to break this rule. Adaptive excursion control measures the actual excursion of the speaker membrane to ensure that it never exceeds its rated limit. Real-time temperature protection measures the voice-coil temperature directly to prevent thermal damage.
+
+   Boosting audio performance
+
+   Because the speaker is fully protected, the system can deliver significant levels of extra power to make the sound louder and better than before. The TFA9887 optimizes the audio signal based on the movement of the speaker, something no other system is capable of, using the full capabilities of the speaker without pushing beyond the limits. An advanced clip avoidance algorithm monitors audio performance and prevents clipping, even when the power supply begins to sag. Bandwidth extension increases the low frequency response well below speaker resonance. And an intelligent DC-to-DC boost converter maximizes audio headroom from any supply level despite battery undervoltage. The TFA9887 automatically adapts to any changes in the speaker – including ageing, damage to the enclosure, and blocked speaker ports – helping to optimize performance and maintain the desired sound quality.
+
+   The entire system is integrated into a single chip with digital interfaces for portable devices. The IC incorporates NXP's CoolFlux audio DSP, a high-efficiency class-D amplifier with current sensing, and a DC-to-DC boost converter. The advanced, embedded algorithms require no separate licensing. Additional tools allow designers to customize audio sound quality and choose how to optimize mobile device performance.
+
+   Availability
+
+   Product samples and demo boards of the TFA9887 are available immediately.
+
+ 

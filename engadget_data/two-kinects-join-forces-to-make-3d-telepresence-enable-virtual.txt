@@ -1,0 +1,9 @@
+
+ 
+UC Davis's Oliver Kreylos has been responsible for two of our most impressive Kinect hacks yet. He was one of the first to get proper 3D video out of the thing, following that up by pairing up two of the cameras, one to fill in the gaps of the other. You might have thought he was just playing around but no -- oh no. There was a method to the madness and his ulterior motive has been revealed: 3D telepresence. This is what he's been working on all along and he has an early version operational, using the output from two Kinects in a remote office to beam a 3D representation of another person to his display, which he can navigate around (and through) using a Wiimote. Meanwhile, the viewer can see the position of Oliver in real-time, a virtual camera floating around and enabling them to maintain eye contact despite her not actually looking at either physical camera. That demonstration is embedded after the break along with a somewhat fanciful follow-up in which Kreylos engages in a rather... protracted lightsaber battle against the forces of evil.
+      
+
+ 
+
+
+ 

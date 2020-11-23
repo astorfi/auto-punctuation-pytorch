@@ -1,0 +1,5 @@
+
+
+Since its beginnings, the Android platform has been known for being heavily customizable. As such, it's not exactly a surprise to hear Google say its new smartwatch ecosystem, Android Wear, is due to support watch faces from third-party developers. However, having actual confirmation makes for perfect peace of mind. In a Google+ post, Wear's Senior Developer Advocate, Wayne Piekarski, affirmed this would be the case, stating that the team is already working on a custom watch face API. "Customization has helped Android thrive, and the same will be true for Android Wear," he wrote. The incoming API will make it "as simple as possible" for devs to make all-around great watch faces, ones which can look good, not drain a battery and blend well with the watches card-based UI. Piekarski said "some" of these things won't be available until later this year, but that they are, without a doubt, on their way. So, don't worry, soon enough you'll have better (and official) choices to deck out that smart tick-tock wearable of yours.
+
+

@@ -1,0 +1,18 @@
+
+With the emergence of desktop 3D printing, a long-trusted name in creative software is looking to offer tools for the task. Adobe has announced an update to Photoshop CC that includes 3D printing capabilities as a means of "simplifying the 3D print process." The new functionality allows you to refine, preview, prep and output those three-dimensional creations. Starting from scratch or using an existing model, Photoshop's tools like automated mesh repair and support structure generation lend a hand with final production. The software will also add scaffolding under your creations so that they don't collapse during the production process and automatically check for watertightness.
+
+
+When you're ready for printing, Photoshop CC has built-in support for four 3D printers (more on that in a bit), Shapeways online community/marketplace for printing away from home and publishing models via Sketchfab. Using Sketchfab's 3D viewer, projects can be posted to Behance for online portfolio purposes. Support for directly printing from Photoshop to 3D Systems Cube, MakerBot Replicator 2, MakerBot Replicator 2x and Zcorp Full Color is baked in, as is the ability to export an STL file. You can also preview finished prints from each device and the Shapeways marketplace to achieve a more accurate final product. Photoshop even allows for the selection of materials and provides pricing, if you choose to go with the online printing company. Support for more of "the most popular" printer models is said to be on the way.
+
+
+"Before today there was a gap between the content produced by 3D modeling tools and what 3D printers need in order to deliver high quality results. Now, by simply clicking 'Print' in Photoshop CC, creatives can bring 3D designs to the physical world," said Winston Hendrickson, Adobe's VP of products, Creative Media Solutions. What's more, the outfit says that it expects current users to stay in Photoshop to 3D print items such as packaging mockups and more.
+
+
+Don't worry, tools for regular use are included in the update as well. Perspective Warp allows you to change an object's viewpoint and Linked Smart Objects to improve collaborative efforts with automatic updating. All of the new tools and features are available now as a free update to Creative Cloud subscribers.
+
+
+
+
+
+
+ 

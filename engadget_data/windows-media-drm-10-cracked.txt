@@ -1,0 +1,17 @@
+
+
+Uh oh, Microsoft. Okay, we can't vouch for the validity of this right now, but word has it that a particular
+Japanese site has discovered a method to break Microsoft's Windows Media
+DRM 10 on WMV files (which is Windows Media Video, if
+you haven't been paying attention).  No word on whether the two apps that aim to do it (DrmDbg and DRM2WMV) can be
+retooled for decrypting DRM'd audio files (WMA), and it looks like you need to have a license for the content you want
+to crack in the first place—though obviously once the DRM is stripped away, you should be generally able to do whatever
+you want with the file (share it online, transfer it to a personal video player, etc.).
+
+
+ [Via Chris Lanier]
+
+
+
+
+ 

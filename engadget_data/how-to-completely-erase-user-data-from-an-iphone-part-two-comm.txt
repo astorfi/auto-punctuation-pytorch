@@ -1,0 +1,6 @@
+
+ 
+Steve might have finally made with the iPhone 3G yesterday, but as we've mentioned before, would-be upgraders have a slightly bigger dilemma than just shaking down the couch cushions for an extra $199: getting their user data securely erased from their old iPhones. Simply hitting "restore" still leaves your data in an accessible state, and while we've covered ways to do a three-pass wipe with iTunes playlists, Jonathan Zdziarski has posted up a set of instructions for getting at your flash from the command line and wiping it directly. Sure, you'll have to jailbreak your phone and it'll take at least an hour or so -- but hey, you've got a month to kill anyway, right?
+      
+
+ 

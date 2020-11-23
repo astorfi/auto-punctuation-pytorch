@@ -1,0 +1,7 @@
+
+After weeks of testing, Firefox 23 has arrived in completed form -- and it's bringing more than just a new logo. On the desktop, the new release includes a mixed content blocker that prevents insecure content from being compromised on otherwise secure websites. There's also a new network monitor for developers, more options to switch search providers and numerous minor tweaks. Mozilla hasn't yet said what's new in a corresponding upgrade to the Android build, but the new releases are available now at the source links.
+
+
+Update: Mozilla has detailed what Firefox 23 brings to Android. The finished version includes an improved Awesome Screen with address autocomplete and fast tab switching. There's also an auto-hiding title bar, easier RSS subscription, simple search engine selection and support for both Hungarian and Turkish.
+
+

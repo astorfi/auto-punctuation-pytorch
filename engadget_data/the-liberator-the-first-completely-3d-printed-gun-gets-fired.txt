@@ -1,0 +1,15 @@
+
+The (almost) all-plastic 3D-printed Liberator pistol was announced by Defense Distributed late last week, but with the gun's blueprints and construction details now live on the company's own DefCAD design site, it's also released a video taken during its testing. In front of a Forbes onlooker, the clip apparently shows a .380 caliber bullet being fired by the Liberator.
+
+
+The only non-plastic part of the design is a common nail, which acts as the firing pin. Defense Distributed's founder Cody Wilson has worked over a year on the project, apparently citing the one-shot pistols that were designed to be air-dropped over France during World War II as inspiration -- also called the Liberator. This modern version is, however, formed of 15 components made inside a Stratasys Dimension SST 3D printer. The video of the test shot and more details are right after the break.
+
+
+
+
+One of the more notable design twists is the use of vaporized acetone which reduces friction between the polymer components within the barrel. The test apparently went well, with Forbes reporting that the gun received no visible damage -- although there was a misfire during another test when the aforementioned firing pin failed to hit the cartridge's primer cap. Another test, however, using a rifle cartridge (with the trigger pulled at a distance) caused the handgun to explode.
+The design's lack of metal (aside from an easily purchased hardware shop nail) would mean the product could sidestep typical detection methods used in airports and elsewhere. Although Defense Distributed complies with the Undetectable Firearms Act, adding a six-ounce steel chunk into the body to guns it's manufactured so far, there could be wider issues if the design is subverted by less scrupulous individuals. The development of 3D-printed guns is being closely monitored, with New York Senator Charles Schumer weighing in yesterday to demand new legislation banning 3D-printed firearms.
+
+Last year, Defense Distributed's 3D printer was seized by Stratasys after it discovered what the company was working on. It now holds a federal license to manufacture firearms, and is currently adapting its design to work on cheaper printers, including open-source models like RepRap. Even if a barrel is deformed after firing, which is the section most prone to damage, the current arrangement has a removable barrel that can be exchanged in seconds. Wilson is aware of the attention the design is getting: "I recognize that this tool might be used to harm people. That's what it is: it's a gun. But I don't think that's a reason to not put it out there."
+
+

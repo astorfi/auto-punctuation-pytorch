@@ -1,0 +1,6 @@
+
+ 
+Nah, it's no BlueGene L supercomputer, but IBM's latest dual-core microprocessor runs at a cool 4.7GHz while sporting 8MB of total cache per chip. The device reportedly runs "twice as fast" and packs four times the cache as the POWER5, and boasts a processor bandwidth of 300Gbps. Interestingly, the massive power increase doesn't seem to come with a boost in energy requirements, as IBM claims that the 65-nanometer POWER6 somehow ups its game while "using nearly the same amount of electricity" as its predecessor. The company plans on shoving the new darling into the System p570 server, and preliminary testing showed that all four of the "most widely used performance benchmarks for Unix servers" were shattered by its CPU. Unfortunately, there's no word on pricing nor availability just yet, but we're anticipating a bit of sticker shock when it does finally land.[Via LinuxDevices]
+      
+
+ 

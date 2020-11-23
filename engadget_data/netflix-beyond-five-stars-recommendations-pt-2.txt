@@ -1,0 +1,5 @@
+
+ 
+ The Netflix Tech Blog produced part one of a deep dive into how its recommendations work back in April and now the team is back with the other half. If you're among the many wondering why certain movies get pushed to the front of your recommendations and others don't, the key is their attempt to predict, mostly based on data from other users, what you will both play and enjoy. The most interesting bit we found? There's a lot more at play here than just popularity, as one graph shows ratings plus the team's other optimizations improving rankings over the baseline by 200+ percent. Data parsing heads should definitely dig hearing about logistic regression, elastic nets and matrix factorization (job applications are accepted at the end if you make it that far), while those of us that fall asleep when the spreadsheets come out can probably focus on the broader strokes of Netflix's testing methodology and approach.
+
+

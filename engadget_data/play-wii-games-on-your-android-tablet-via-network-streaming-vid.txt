@@ -1,0 +1,10 @@
+
+ 
+
+In case you haven't met him already, Obiwan222222 represents the minimalist alternative to hardcore modding. He's already shown us Wii games running on the PSP and iPod Touch, and now he's pulled off the same trick on his Asus Transformer. It's all done with network streaming: he loads up Super Mario Galaxy 2 on his PC using the open-source Dolphin emulator and then transmits it to his tablet via the Splashtop HD remote desktop app for Android. He also throws in an Xbox 360 controller to make things look more confusing than they really are. We'd obviously worry about lag with this type of setup, but the video after the break makes it look just about playable. 
+      
+
+ 
+
+ 
+ 

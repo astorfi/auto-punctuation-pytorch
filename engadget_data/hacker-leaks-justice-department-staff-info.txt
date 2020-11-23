@@ -1,0 +1,10 @@
+
+The US government has yet another security breach on its hands. Late yesterday, a Twitter account posted a Department of Homeland Security staff directory containing names, titles, email addresses, phone numbers and more for over 9,000 employees. "This is for Palestine, Ramallah, West Bank, Gaza, This is for the child that is searching for an answer," the post read. What's more, the hacker claims they have details on 20,000 FBI employees and plan to leak those next.
+
+
+
+Before the post hit Twitter, Motherboard published an article detailing how a hacker had obtained 200GB of data from the Justice Department before reaching out to the site. The hacker went on to explain how the information was obtained through a compromised email account. After failing to log in to the a staff portal, the hacker called the correct department, offered a story about being a new employee and was given a code that granted them access.
+
+The credentials were then used to access a virtual computer tied to the email account, including files stored on the DOJ intranet. According to Motherboard, the hacker claims to have had access to 1TB of data, but only took 200GB. The outlet placed several calls to numbers on the leaked employee list, confirming that the information was mostly legit. What's more, the hacker used the account to email Motherboard to provide further evidence of the access. The list of leaked employees contains a range of positions, including analysts, special agents, language specialists and more. And it could be just the beginning too, if the hacker proceeds with plans to dump the FBI database.
+
+

@@ -1,0 +1,47 @@
+
+
+What happens when you look to get more out of your engineering knowledge? For littleBits CEO Ayah Bdeir, that meant making electronics and programming accessible to everyone, regardless of skill level. The company's Lego-like smart toys can be used to build any number of things: from a simple blinking LED to a custom-built synthesizer or smart thermostat. And, as we found out, the company plans for its DIY modules to get even smarter. With those endless possibilities in mind, we caught up with the littleBits' founder to chat "making" made easy, why gender has no role in tech and the future, DIY-connected household.
+
+
+
+Before littleBits, you worked as an engineer. So I'm wondering how the idea of the Lego-like kits came about?
+I'm an engineer. I have a background in computer engineering and then did my masters at MIT at the Media Lab, but I always wanted more out of engineering. I wanted to use it for creative purposes, to be able to make art or design, invent new products or the next big innovation. So I started to use electronics as a material, and wanted to make it accessible to other people to use the material in the same way, without having to become engineers or programmers themselves.
+
+littleBits is really inspired by other mixed technologies that have started in the hands of experts, but then somebody came along and democratized them and they became accessible. Like 3D printing, for example, democratized manufacturing or object-oriented programming democratized software and game development. I wanted to do the same thing with hardware.
+
+
+Bdeir speaking at Engadget Expand last November
+With littleBits, you don't need any knowledge of building, hacking or programming, and you can make something that works in a matter of minutes. Is that ease of use something that has been a goal from the start, and has that been something you keep in mind as you develop new additions to the littleBits line? 
+Yeah, absolutely. The goal has always been to make the barrier to entry very, very low, so that it's really easy to get started. It literally takes you seconds to get started and you can start building simple stuff like a blinking LED or a moving motor. Or very complex stuff like a wireless transmission or a radio frequency or make something programmable[.] But at the same time, after we built up the foundation of the library -- the lights and sounds and sensors and motors and stuff -- we started to raise the ceiling so that you can make complex things that are really intelligent that have timing and logic and hardware and software relationships. So the newest bit that we launched, the cloudBit, is a very powerful bit -- it's a little computer. And it lets you make anything internet-connected.
+
+What was the spark that led to a collaboration with Korg for a music-making kit? 
+Since we started the company, we always wanted to make synthesizer bits. ... We've always wanted to do it, but never got around to it. Then in 2012, I met Reggie Watts for the first time, and showed him littleBits, and he said it would be amazing if you could make little music synthesizer bits that people can make instruments and perform with. We were like: Well, we've always wanted to do that; we'll get in touch with you if we ever do. And then a few months later, also incidentally, Korg emailed us and said we love what you're doing and we're huge fans, and we want to make a synthesizer kit with you. So we set up a sort or three-way partnership between us, Reggie Watts and Korg and put the synth kit together.
+
+
+You've already touched on the cloudBit, but with that new addition, makers can build their own connected devices or even add internet to non-connected devices. How will that ability to "just add internet" change what littleBits are already capable of?
+It means that you can recreate some of the most popular devices. For example, you can make your own Nest, Sonos or SMS-activated door lock. But this means also that you can create things that have never existed before, so you can make the next big idea. We've seen people make pet feeders and remote-controlled doorbells, and be able to build prototypes for an invention. We have an ego meter that someone made to display every time you get a like on your Instagram, so you can visualize your ego getting bigger. We see all kinds of things; some that are functional around the home and some that are just playful and inventive.
+
+There are ways for teachers to get their students making things in the classroom. Could you elaborate a bit on how that specific initiative got started? We have over 2,000 schools that are using littleBits, and to be honest, a lot of it was organic. We didn't even have an education team. They just started purchasing them and using them as we started seeing it online. They used them in science classes to teach gravity or in math classes, arts and crafts ... They used them in problem-solving and design-thinking classes -- all sorts of things; it's really all over the place.
+
+We have these products that are made specifically for teachers. One is called the Workshop Set, which has 100 modules and it's specifically optimized for running your own workshop with large groups of kids. We also have a Pro Library, which is a wall unit full of electronics that's perfect for prototyping and workshops. They have it at places like Google X, Techstars, IDEO and a bunch of after-school programs and museums.
+
+
+A cloudBit-enabled smart thermostat
+Last fall, Google announced that they had teamed up with MIT, the Girl Scouts and others for the Made with Code program to inspire more young ladies to code at an early age. With you already lending a hand in the classroom, what's your advice for young ladies looking to dive into making and programming?
+I'm one of the mentors of the program and we did a video series that I was in. My advice really is to never look at any technology or any skill as being gendered. There is no "engineering is for boys and art is for girls." That's an obsolete, outdated and wrong statement. Really, I don't believe that there are gender lines. I believe that everyone is different. Some people like art; some people like math; and some people like both. And disciplines are really dead. It's really about looking at the intersection of disciplines.
+
+"My advice really is to never look at any technology or any skill as being gendered. There is no 'engineering is for boys and art is for girls.'"My advice for young girls that are either afraid or not ready to get into it is just give it a shot. Just give it a shot and you'll see how quickly you'll be engaged. With littleBits, you can snap bits together in seconds and suddenly you get a flurry of ideas that come to you and you can't help but be inspired. There are other tools out there like that as well and it becomes really the beginning of long journey of being creative and inventive.
+
+littleBits aren't just for the younger folks either. What would you say is a good first project for someone who is a bit older to start with?
+There's a portion of our demographic that's kids and education, and there's a large portion that's adults and professional engineers -- people that are using it for prototyping and making their own solutions for their homes. One of the newest, very popular projects that someone came up with using the cloudBit is a remote-controlled feeder for your pet. And another that's a way to find out whether your cat came through the door or not, things like that. There's a whole series of pet projects that are fun. And there are also things that are more solutions, like an SMS doorbell, which is popular with people that sometimes work in the garage or sometimes wear headphones. They make a doorbell so when the button is pressed, they receive a text message.
+
+What would you say is the most creative use of littleBits that you've seen someone create? Not necessarily someone who works for the company, but maybe that a user has made. 
+The most creative is difficult to say because new ones are always being made. But recently, there was one that I really loved that was actually something that everybody wanted to make and never did. It's a notifier that reminds you to take your umbrella. One of our community members, Jeremy Blum, he's a hacker and a maker, used the cloudBit to make this umbrella stand that connects to IFTTT and listens to the weather to see if it's raining. At the same time, it detects you've left your home, sending you a text message reminding you to take the umbrella with you.
+
+The existing littleBits have touched on elements of space, music making, programming and, most recently, internet connectivity. Is there any chance you could tell us maybe a little bit of what we might see next? 
+The next thing is gonna be really big, so I'm not quite ready to talk about it yet. It's definitely worth holding for.
+
+This interview has been condensed and edited.
+[Image credit: Craig Barritt/Getty Images (Ayah Bdeir); littleBits (fish feeder, littleBits Korg, smart thermostat)]
+
+

@@ -1,0 +1,8 @@
+
+ 
+One of the biggest complaints with Android since the dawn of civilization is that the expansive plains of storage available on microSD cards have been left under-utilized; coldly ignored by the OS while it did everything it could to stuff the measly couple-hundred megs of internal storage with apps. Soon that problem will finally be rectified, with a Google representative closing the long-running Issue 1151. The issue, which covers external installation of apps, was opened in October of 2008 and since then was voted on by 2561 people, all of whom want Google to set their memory cards free. Exactly when this functionality is coming it remains to be seen, but the "coming soon" note in comment 535 is very encouraging. Froyo, anyone?
+
+[Thanks to everyone who sent this in]
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+ It's been a long-running saga as to when Linux users will finally see some native gaming action on Steam, but according to Phoronix that happy day will likely arrive within "months." Valve has been busily hiring Linux OpenGL boffins, including people recommended by Phoronix's founder, Michael Larabel, who certainly seems to be on the inside track. His photo above offers some proof of progress: it shows Left 4 Dead 2 running natively on Ubuntu 11.10 with AMD Catalysts drivers. Why has it taken so long since news of a Linux client was first floated (and officially denied) back in 2010? Larabel attributes it to Valve's "flat management structure" that allows its developers to work on what they want. (And you still question the importance of hierarchy?)
+
+

@@ -1,0 +1,17 @@
+
+ 
+Rumors have been buzzing about since June, but Google just made it official -- the company's baking Google Voice calls right into Gmail today. Like the Google Chat text, voice and video chat integrated into the web-based email client in prior years, full phone calls will also be an option using VoIP technology from the Gizmo5 aquisition. Google's demoing the "Call from Gmail" service for us in San Francisco this morning, and it's looking like it's not free, but fairly cheap -- a product manager just called Paris for $0.02 a minute. Incoming calls pop up as a chat window in Gmail (and ring your Google Voice-equipped phones simultaneously) and you press a "Call phone" button that appears near the top of the Chat window to send an outbound call, at which point a dialer appears where you can copy and paste numbers or tap them in manually. Users can screen incoming calls or send them to voicemail with a single tap. 
+
+
+
+
+
+You'll be able to make calls to US and Canadian landlines completely free of charge, buying prepaid credits using Google Checkout for international landline calling at $0.02 a minute and a good bit more (We saw $0.19 to Spain) for calls to international mobile devices. Google will sell its own credits for the program (via Google Checkout), which should be available in a few weeks, but the Voice in Gmail service goes live today in the US and will begin rolling out to users immediately. Google's only committed to free calls to US and Canadian landlines through the end of the year, as paid international calls are the sole revenue stream here: "Our hope is we'll be able to make enough margin on international calls to keep offering it at that low price," a product manager told us. We're going to give some VoIP goodness a spin right now, check back later for impressions! 
+
+Update: Google Voice product manager Vincent Paquet confirmed that the service's newfound VoIP functionality does indeed stem from the Gizmo5 acquisition -- Call from Gmail is partially based on Gizmo5 technology, was developed by a team including Gizmo5 engineers, and resides in part on Gizmo5's backend. He wouldn't comment any more specifically on the technology than that. Also, that cherry red phone booth up top apparently isn't just for show -- Google's agreed to trial free calling booths at an airport and a pair of universities!
+
+Update 2: We've just tested Call to Gmail and Skype side by side using the exact same setup, and found Google's service boasts surprisingly competitive voice quality to the reigning incumbent. When we called a fellow editor's iPhone 4 from a Gmail-equipped laptop, the sentences he spoke sounded much clearer than through Skype, with each individual word crisper and more recognizable even as volume and pitch sounded much the same. Unfortunately for Google, the inverse wasn't true -- Skype did a much better job canceling noise from our integrated laptop microphone in a crowded room.
+      
+
+
+ 

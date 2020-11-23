@@ -1,0 +1,7 @@
+
+ 
+It's been less than a year since Ubuntu 9.10 "Karmic Koala" was released, but the next big version of the Linux OS has now already arrived to take its place: Ubuntu 10.04 "Lucid Lynx." In addition to the usual tweaks and fixes, this one promises a boot speed that is "noticeably quicker" on almost any machine (and especially on those with SSDs), along with a range of new features including a social networking-oriented "Me Menu," Ubuntu Software Centre 2.0 for easier access to new software, and a slew of new cloud-based services courtesy of Ubuntu One -- not to mention the Ubuntu One music store. The release also marks the first time that GIMP doesn't come pre-installed (you get F-Spot instead), and it is naturally complemented by Ubuntu 10.04 Netbook Edition, which promises even faster boot speeds and other optimizations. Ready to make the jump? Then you can grab the Release Candidate right now at the link below, or you can wait a bit for the final Long-Term Support (LTS) version, which is said to be "just around the corner."
+
+Update: And just like that, the LTS version is out! Get it at the source link below.
+ 
+ 

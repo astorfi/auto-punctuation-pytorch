@@ -1,0 +1,8 @@
+
+Did you think AMD showed all its mobile GPU cards when it launched the Radeon HD 8000M series in January? Think twice. The company has just unveiled the 8900M series, an adaptation of its Graphics Core Next architecture for desktop replacement-class gaming laptops. To call it a big jump would be an understatement: compared to the 8800M, the flagship 8970M chip doubles the stream processors to 1,280, hikes the clock speed from 725MHz to 850MHz and bumps the memory speed slightly to 1.2GHz. The net effect is about 12 to 54 percent faster game performance than NVIDIA's current mobile speed champion, the GTX 680M, and up to four times the general computing prowess in OpenCL. The 8970M is more than up to the task of powering up to 4K in one screen, and it can handle up to six screens if there are enough ports.
+
+
+We'll see how long AMD's performance reign lasts, although we won't have to wait to try the 8970M -- MSI is launching the GPU inside the new GX70 laptop you see above. We got a brief, hands-off tease of the 17.3-inch GX60 successor at the 8900M's unveiling, and it's clear the graphics are the centerpiece. We saw it driving Crysis 3 very smoothly on one external display while powering 2D on two other screens, albeit through a bulky set of Mini DisplayPort, HDMI and VGA cables. Otherwise, the GX70 is superficially similar to its ancestor with that chunky profile, an unnamed Richland-based AMD A10 processor, Killer networking and a SteelSeries keyboard. More than anything, price should be the clincher: MSI is pricing the GX70 with the new Radeon at $1,100, which amounts to quite the bargain for anyone whose laptop has to double as a primary gaming PC. 
+
+
+

@@ -1,0 +1,5 @@
+
+
+If you jumped at the chance to try the first wave of third-party iOS keyboards, you probably noticed that they're a little... rough around the edges. You may want to give at least one of them a second try, though. SwiftKey has just released the first update to its iOS input method, and it tackles some of the larger gripes that early adopters have noticed. The biggest deal is the improved load time, which should let you start typing faster; there are also fixes for some easy-to-reproduce crashes, like one that occurs when you backspace over emoji. Head over to the App Store if you're eager to iron out of some of SwiftKey's earliest wrinkles.
+
+

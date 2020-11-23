@@ -1,0 +1,14 @@
+
+Alex Lawn is in New York on a pitstop, arriving in from Sweden on his way to next week's Inside Bitcoin conference in Las Vegas. He hasn't slept much. The way he describes it, no one at KnCMiner does much sleeping these days, as the company races to become the driving force in the rapidly expanding world of Bitcoin mining. He elicits some stares as he hauls around a giant metal box full of computer components, an accessory that's no doubt been the source of some major headaches passing through customs on his world travels. Inside is Jupiter, which the company claims is capable of mining the currency 100-times faster than the competition. "Everything about our project is totally over-engineered," Lawn says with a smile. "Normally the post-fabrication refinement process is around 12 to 18 months, and we did it within 24 hours."
+
+
+It's precisely the company's drive to beat the competition to market that has lead to so many sleepless nights. He pulls out his iPhone and shows a video of CTO Marcus Erlandsson celebrating as KnC fires up the Jupiter for the first time, the result of millions of dollars of crowdfunded investment. "He literally hadn't slept in four months." The computer is a massive beast with four giant cooling fans designed to reduce the heat given off by the 28-nanometer chip-powered modular boards. The system is broken up into four modules, designed so you can continue the 24 / 7 mining process, should one fail.
+
+
+
+
+
+
+It is, as Alex puts it, a "race," after all. "Bitcoin mining is processing, verifying and securing the transactions that take place in the Bitcoin network," he explains. "The transactions that take place are bundled together and encrypted. The Bitcoin miners are in a race to verify that these transactions are taking place. Within the Bitcoin protocol, there is a reward of Bitcoins for doing this." That reward is currently around 25 Bitcoins, down from 50, a number that will drop even further as more Bitcoins are mined, which means, in the meantime, a continued push toward more powerful machines, like the forthcoming 20nm Neptune - and even less sleep for everyone involved.
+
+

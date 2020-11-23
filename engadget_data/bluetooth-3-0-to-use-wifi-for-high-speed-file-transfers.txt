@@ -1,0 +1,6 @@
+
+ 
+Sounds like the Bluetooth 3.0 announcement on April 21 is going to finally usher in the era of high-speed short-range data transfers -- as previously hinted, the new spec will actually negotiate a quick'n'dirty ad-hoc WiFi connection between devices if it needs to move bits in a hurry, and then turn off the spigot to save power when it's done. The idea is to leverage the speed of WiFi while keeping power usage low, and we'd say it's a pretty trick solution, since most Bluetooth-capable devices also have WiFi radios (cough, Storm). Since the ad-hoc WiFi connection is managed over Bluetooth, no actual wireless network is necessary, and the switch will appear seamless to the user -- except for the sudden increase in data transfer speeds. Yeah, it's definitely slick stuff -- we're looking forward to seeing the first devices in action next Tuesday.[Via MocoNews]
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+As expected, the official-looking Windows Phone 7 OS ROM leaked over the weekend is already yielding results. Pictured above is an image extracted from the "oemavatar.cab." Now that could be a generic Windows Phone 7 image or it could be the HTC Mondrian already seen referenced by the 100MB file. The kids at XDA-Developers have also pieced together specs from an ongoing analysis of the registry and RGU files. So far they've spotted references to a 4.3-inch WVGA (480x800) display from Optrex and a 1.3GHz QSD8650A/B Snapdragon from Qualcomm -- a chipset, you might recall, supporting multi-mode UMTS and CDMA 3G connectivity. It's also packing a digital compass but seems to lack a keyboard. Mind you, none of this is absolute but it's very very intriguing. 
+
+[Thanks, Andrew]
+      
+
+ 

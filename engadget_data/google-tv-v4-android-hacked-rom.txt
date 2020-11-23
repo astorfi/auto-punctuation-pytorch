@@ -1,0 +1,11 @@
+
+News that the Google TV platform will get an update to Android Jelly Bean came at the I/O event back in May, but there's been little in the way of information since then. GTV Hacker team member CJ Heres points out a zip file containing the open sourced code for LG's Google TV devices, and even has a hacked ROM up and running on a Sony box. The code was updated in the last week or so and uses Linux 3.4.5, which is the same version that Jelly Bean is based on. Separately, he's posted an image (above) of proper Android 4.x on a Sony NSZ-GS7 Google TV box, complete with the operating system's NDK support that enables high-performance apps so it can run XBMC (barely -- it crashes on any attempt to play video). The software is pulled from a Chinese Android device and as he mentioned to us, hopefully the coming update will make this type of hack entirely unnecessary.
+
+
+Google confirmed the platform will get Chromecast-style features and "bring the latest experience of Android and Chrome to devices," but we don't know if that's due in this update. Reports months ago indicated the Google TV brand will fade into Android as the two projects grow back together, and GigaOm points out that Sony's new BRAVIA Smart Stick doesn't use the title, while developers have moved away from it (even the I/O presentation rocked the title "Android: As seen on TV!"). Google TV or Android TV, we should hear more shortly -- in the meantime check out an I/O demo of LG's TV running Android 4.2.2 after the break.
+
+
+
+Google TV v4, soon! Source from LG: http://t.co/moRs4vOSFC Linux version 3.4.5 /home/work/inho.roh/gtv_platform/v4/ #GoogleTV
+- CJ Heres (@cj_000) October 8, 2013Android TV? We already did it. Pic of a hacked rom running on @Sony NSZGS7 #GoogleTV. 4.x, NDK, XBMC! #GTVHacker pic.twitter.com/TtGn8ovz6U
+- CJ Heres (@cj_000) October 11, 2013

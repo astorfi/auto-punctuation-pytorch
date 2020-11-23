@@ -1,0 +1,58 @@
+
+ 
+ NVIDIA's CES 2013 press conference is still ongoing, but the chipmaker is already unveiling something we've only seen teased before: the NVIDIA Grid, a card used for cloud computing across PCs, smart TVs, and smartphones. CEO and founder Jen-Hsun Huang detailed the new card on-stage, which you can see above in a rack of 20 grid servers. Huang says the rack pushes out roughly 240 NVIDIA GPUs worth of power, or about 200 teraflops -- equivalent to approximately 700 Xbox 360s. The Grid was given a tease earlier this year; the card will assist in pushing serious horsepower to the cloud, so that gaming over the air, across multiple devices becomes a less complicated reality.
+
+ During an on-stage demonstration, NVIDIA showed Frozenbyte's Trine running on various devices, all powered by the Grid system. Beyond just looking great, it carried over seamlessly between multiple devices. Huang also detailed NVIDIA's first partners for Grid: Agawi, Cloudunion, Cyber Cloud, G-cluster, Playcast, and Ubitus. Apparently biggies like OnLive and Gaikai are already all set? We'll be sure to get a closer look in the coming days as CES rages on.
+
+ Follow all the latest CES 2013 news at our event hub.
+
+
+  Show full PR text    Top International Cloud-Gaming Pioneers Standardize On NVIDIA GRID Platform  Sunday, January 6, 2013
+
+   CES -- Six leading international cloud-gaming companies plan to use the NVIDIA® GRID™ Cloud Gaming Platform to deliver gaming services to global broadband companies, NVIDIA announced today.  The NVIDIA GRID Platform enables the smooth, seamless interactive experience of a high-performance gaming PC anywhere, on any screen -- including smart TVs, PCs, tablets and smartphones.
+
+   NVIDIA GRID is a server designed to concurrently serve up to 36 times more HD-quality game streams than first-generation cloud-gaming systems, while reducing lag. It is fully integrated with a high density of NVIDIA® GPUs, specialized graphics-application streaming software and NVIDIA® VGX™ Hypervisor technology, which allows multiple users to share a GPU.
+
+   Initial partners on the NVIDIA GRID Platform include Agawi (United States); Cloud Union (China); Cyber Cloud Technologies (China); G-cluster Global (Japan); Playcast Media Systems (Israel); and Ubitus (Taiwan).
+
+   "By using the NVIDIA GRID Platform, our partners will allow gamers to play anywhere, anytime, without being tethered to a box," said Phil Eisler, general manager of cloud gaming at NVIDIA. "The world's most exciting games can now be played as easily as you can stream a movie, right onto your TV or mobile device. No more discs to shuffle or files to download and install. Just click and play."
+
+   Densest GPU Architecture, Broadest Compatibility, Best Interactivity  Consumers already enjoy the benefits of cloud computing to store email and photos and to stream music and movies. The NVIDIA GRID Platform builds on this capability by moving high-end gaming to the cloud, eliminating the need for consumers to manage game discs or fit game consoles next to flat-screen TVs.
+
+   The NVIDIA GRID Platform delivers three key attributes:
+
+   Densest GPU system architecture: NVIDIA GRID provides the highest number of concurrent, interactive data streams by using multi-GPU servers and sophisticated NVIDIA VGX GPU-sharing technology. Each server can deliver up to 36 game streams.
+
+   Broadest compatibility and scalability: NVIDIA GRID software and drivers enable interactive streaming of the widest range of games -- from casual games using low-graphics capabilities with a high density of streams, to high-performance titles requiring high-graphics capabilities.
+
+   Best interactivity: NVIDIA GRID delivers streamed content for seamless interaction without noticeable lag or latency. NVIDIA GRID technology reduces game server latency by up to 30 milliseconds compared to prior solutions, which effectively hides the network delivery time. Game play from an NVIDIA GRID server feels like that from a console next to a TV.
+
+   Partner Enthusiasm for NVIDIA GRID Platform  Six companies in the newly emerging cloud-gaming services arena are engaged in offering services based on the NVIDIA GRID Platform:
+
+   "Consumers love the convenience of any game anywhere instantly, and therefore cloud gaming is the natural evolution of the gaming experience. NVIDIA GRID is a fantastic tool that gives cloud service providers the improved density to make true-GPU clouds a reality and allows our operator, publisher and developer partners to reimagine the gaming experience using the Agawi CloudPlay platform."  -- Rajat Gupta, co-founder of Agawi, which provides B-B cloud-gaming solutions for tablets and TVs.
+
+   "In China we don't have game consoles. And therefore we see a large opportunity for cloud gaming in China. The NVIDIA GRID technology is the best that we have seen for delivering high densities of HD-quality game streams to subscribers."  -- Danny Deng, chief executive of Cloud Union, which provides cloud-gaming through China's Telecom/Unicom IPTV network.
+
+   "At Cyber Cloud, we focus on delivering cloud gaming services through existing set-top boxes using video-on-demand channels. With NVIDIA's GRID platform we can deliver large numbers of games-on-demand channels to China's digital TV subscribers."  -- Jian Han, general manager of Cyber Cloud, a subsidiary of Beijing Novel-Supertv Digital TV Technology Co. (NYSE: STV), which provides cloud gaming through digital cable TV and IPTV networks.
+
+   "As the pioneer in cloud gaming, G-cluster is always looking for ways to increase the performance of our service. G-cluster is working with NVIDIA to reduce the costs for our IPTV operators and improve the experience for our subscribers around the world."  -- Erik Piehl, president of G-cluster, which provides a white-label cloud-based gaming service through France's SFR and Orange.
+
+   "Cloud gaming is taking off. NVIDIA GRID technology, Smart Connected TVs and Playcast Media will serve as cloud gaming's catalyst, fueling its explosive growth in 2013."  -- Guy de Beer, chief executive of Playcast Media, which provides a cloud-gaming service to more than 1.2 million subscribers through France's Bouygues Telecom, Korea's CJ Hellovision and Portugal Telecom.
+
+   "Ubitus is pleased to partner with NVIDIA to bring the world's most scalable cloud gaming systems to market. Ubitus is the leader in providing cloud gaming over fixed and wireless 4G networks, empowering telecom/cable service providers, hardware OEMs and game developers to benefit from cloud gaming opportunities in a truly sustainable manner."  -- Wesley Kuo, CEO of Ubitus, which provides a cloud-based gaming service through Japan's NTT Docomo, Korea's LGU+ and USA's Verizon.
+
+   NVIDIA GRID Cloud Gaming Demonstrated Directly to LG Smart TV at CES  At next week's 2013 International CES event, NVIDIA will demonstrate the NVIDIA GRID Platform streaming games to an LG 55LA6900 Smart TV at 1080p resolution. Among the high-performance games that will be shown are "Assassin's Creed III" by Ubisoft.
+
+   "LG is very impressed by the capabilities of NVIDIA's GRID Platform to deliver high-quality game streams directly to LG Smart TVs without a game console," said Bae-Geun Kang, vice president, head of Software Development Group, TV Research Lab, LG. "The NVIDIA GRID Cloud Gaming experience on an LG 55LA6900 Smart TV is beautiful to watch, easy to use and fun to play. It is just like Netflix for games."
+
+   Dates for cloud gaming service coverage for LG Smart TVs are not available at this time.
+
+   More information is available on the NVIDIA GRID Cloud Gaming Platform website.
+
+   About NVIDIA  NVIDIA (NASDAQ: NVDA) awakened the world to computer graphics when it invented the GPU in 1999. Today, its processors power a broad range of products from smartphones to supercomputers. NVIDIA's mobile processors are used in cell phones, tablets and auto infotainment systems. PC gamers rely on GPUs to enjoy spectacularly immersive worlds. Professionals use them to create 3D graphics and visual effects in movies and to design everything from golf clubs to jumbo jets. And researchers utilize GPUs to advance the frontiers of science with high performance computing. The company has more than 5,000 patents issued, allowed or filed, including ones covering ideas essential to modern computing. For more information, see www.nvidia.com.
+
+   Certain statements in this press release including, but not limited to, statements as to: the availability, benefits and impact of the NVIDIA GRID Cloud Gaming Platform; and the effects of the company's patents on modern computing are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or SEC, including its Form 10-Q for the fiscal period ended October 28, 2012. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+   © 2013 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, NVIDIA GRID and NVIDIA VGX are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability and specifications are subject to change without notice.
+
+ 

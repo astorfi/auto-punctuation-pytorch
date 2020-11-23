@@ -1,0 +1,13 @@
+
+Behold, a ready-made answer for those who own a Linux-powered fruit machine but who are still looking for new ways to use it. It's a simple media center starter kit, fresh out and shipping today, which makes it easy to hook your Raspberry Pi up to an HDMI display and use it to play video or music from the internet or your home network through the wonders of XBMC. Known simply as "XBMC Solution," it consists of the Raspbmc software on a bootable SD card (this is an all-in-one install that combines XBMC with a lightweight Linux distro), a rechargeable RF controller with a small keyboard and touchpad to aid navigation (it's generic, unbranded, and even has a "Win" key, but it works fine), plus Ethernet and HDMI cables in case you don't have any going spare. Read on for more.
+
+
+
+
+The kit isn't wildly different from those you can pick up on eBay, or that could be gathered together more cheaply from constituent parts (Raspbmc being entirely free and open source), but it comes with Element14's promise that it'll work smoothly and it's designed to be up and running within minutes. That's something we can vouch for, at least -- once we'd allowed the application and OS to update themselves automatically over the web, it took just a few moments longer before we were playing FLAC music files off a USB stick, adding libraries from the network and checking on the weather. What's more, XBMC is a tinkerer's paradise in its own right, with plenty of add-ons to choose from, so the bundle's ease-of-use doesn't feel like it conflicts with Pi's underlying DIY philosophy. The kit will be available globally through Element 14, with a UK price of £45.99 -- and yes, that's a lot more than the little computer itself. Stay tuned for US pricing, and check out the gallery above to see exactly what'll come in the box.
+
+Update: Newark Element14 is selling the bundle for $78 in the US, but its site lists just a handful of units in stock right now.
+
+Update #2: We've just heard that the official US price is $49.99, so we're not sure what's up with the Newark listing. Here's another place to buy from in the States. 
+
+

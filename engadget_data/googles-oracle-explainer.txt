@@ -1,0 +1,47 @@
+
+Two of the world's most powerful companies are engaged in a legal battle that has its roots in the world's most popular mobile operating system: Android. Google is playing defendant, while Oracle is laying claim to a crucial set of code in the foundation of Android. Doesn't ring any bells? That's likely due to the fact that this dispute goes back four years. Just this week, Google filed a petition with the United States Supreme Court to decide once and for all which company is in the right.
+
+
+So, what are these two internet giants fighting about? The short answer is Java, which Oracle owns. The real answer, of course, is far more complex
+
+
+
+Oracle is a seriously big company. Google is similarly huge. They've both got tremendous cash reserves (tens of billions of dollars), enormous profits each year and -- most importantly -- the will to see this dispute through. That's evident from the past four years of shots from both sides.
+
+Here's a breakdown of the past four years, in short:
+
+ Oracle files suit with Google (August 2010) Google hires Java founder James Gosling (March 2011) Jury finds that Google didn't infringe patents, did infringe copyrights (May 2012) Judge William Alsup overturns copyright claim, says APIs aren't copyrightable (May 2012) Oracle appeals to US Court of Appeals for the Federal Circuit (October 2012) Which finds APIs copyrightable (May 2014) Google appeals to SCOTUS to hear the case (October 2014)That brings us to this week.
+
+WHAT IS IT?
+Okay, so we know that Oracle is suing Google, and we know that it has to do with Java and Android. The long and short is this: Making applications for Android and Java is very similar, and that similarity was on purpose. Google wanted it to be easy for developers who already used Java to make applications for Android. Google knew this, but didn't want to license Java -- owned by Oracle -- for its big mobile OS.
+
+Put more simply: Google didn't want to pay Oracle for software, so it made its own, similar version of that software. Where things get messy is whether Google's code, and the way that code is arranged, violates Oracle's copyright. Is the code even copyrightable?
+
+WHAT'S THE ARGUMENT?
+US District Court Judge William Alsup didn't think so when he mooted a jury ruling in May 2012. "To accept Oracle's claim would be to allow anyone to copyright one version of code to carry out a system of commands and thereby bar all others from writing their own different versions to carry out all or part of the same commands. No holding has ever endorsed such a sweeping proposition," he declared in a May 31st, 2012, ruling.
+
+Alsup actually learned how to code in Java for the trial -- there's an amazing back-and-forth transcript at Groklaw that illustrates how deep he got (search for "We heard the testimony of Mr. Bloch...").
+
+The United States Court of Appeals for the Federal Circuit later overturned Alsup's ruling, which resulted in Google appealing to the highest court in the US. "Because we conclude that the declaring code and the structure, sequence and organization of the API packages are entitled to copyright protection, we reverse the district court's copyrightability determination with instructions to reinstate the jury's infringement finding as to the 37 Java packages," Circuit Judges Kathleen O'Malley, S. Jay Plager and Richard Taranto wrote in May 2014.
+
+The important sticking point there is whether or not "the declaring code and the structure, sequence and organization of API packages" is entitled to copyright. Thus far, we've got two different courts with two differing opinions on the matter.
+
+WHAT DOES EACH SIDE HAVE TO LOSE?
+Each side has a lot to lose should their argument prove unsuccessful; it's not about money as much as it is about precedent. Should Oracle win, it's setting a much bigger precedent in the technology business: Certain types of code, and specifically API packages, may be copyrightable. If so, that could mean a lot more copyright infringement lawsuits.
+
+For Google, it could mean a big payout to Oracle. Not so much that Google would really feel it, but that's up in the air; Oracle originally demanded several billion, but that was significantly reduced over time. It was originally rumored that Oracle wanted royalties for every Android device out there, and that may still be the case. Time will tell.
+
+WHY SHOULD I CARE?
+Google's argument is essential to why this matters to you. In its Supreme Court filing, Google said, "Early computer companies could have blocked vast amounts of technological development by claiming 95-year copyright monopolies over the basic building blocks of computer design and programming." Because Google was built on computer technology fundamentals from decades earlier (before 1978), copyright extends for 95 years. Such copyright claims would've impeded the progress of modern computing technology -- that's Google's argument, anyway.
+
+Oracle's argument is such that functional code is on par with that of creative works. Oracle actually cites Harry Potter specifically. Here's Oracle's opening argument to the US Court of Appeals:
+
+"Ann Droid wants to publish a bestseller. So she sits down with an advance copy of Harry Potter and the Order of the Phoenix -- the fifth book -- and proceeds to transcribe. She verbatim copies all the chapter titles -- from Chapter 1 ("Dudley Demented") to Chapter 38 ("The Second War Begins"). She copies verbatim the topic sentences of each paragraph, starting from the first (highly descriptive) one and continuing, in order, to the last, simple one ("Harry nodded."). She then paraphrases the rest of each paragraph. She rushes the competing version to press before the original under the title: Ann Droid's Harry Potter 5.0. The knockoff flies off the shelves. J.K. Rowling sues for copyright infringement. Ann's defenses: "But I wrote most of the words from scratch. Besides, this was fair use, because I copied only the portions necessary to tap into the Harry Potter fan base." Obviously, the defenses would fail.Defendant Google Inc. has copied a blockbuster literary work just as surely, and as improperly, as Ann Droid -- and has offered the same defenses."
+
+WHAT'S NEXT?
+That is, unfortunately, anyone's guess. The US Supreme Court might take Google's case ("Google Inc. vs. Oracle America Inc., 14-410"), and it might not. We're not in the business of offering conjecture as to whether or not the Supreme Court accepts cases, but we sure are hoping it'll take this one. If for nothing else, to hear the assuredly hilarious back-and-forth oral arguments over specific programming functions. There's nothing quite like hearing Supreme Court justices grapple with technological jargon. It's a delight!
+
+WANT EVEN MORE?Here's hoping you do, because there's a tremendous amount of writing about Oracle v. Google out there. Even just on Engadget, check out this tag. Groklaw was a vital resource throughout the research of this piece, as was Villanova law professor Michael Risch's writing at the Madisonian. The San Francisco Chronicle also published an explainer back in 2012 that helps to further elucidate the code dispute at the heart of Oracle and Google's battle.
+
+[Image credits: CSA Images/Getty Images (boxing robots), KIVILCIM PINAR/Getty Images (generic Java code), Wikimedia Commons (Oracle headquarters), AFP/Getty Images (Harry Potter books), Getty Images/Flickr RF (Supreme Court of the United States)]
+

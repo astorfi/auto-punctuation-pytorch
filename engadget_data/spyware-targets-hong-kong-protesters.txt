@@ -1,0 +1,10 @@
+
+Hong Kong's pro-democracy protesters have more to worry about than they thought -- someone is gunning after their phones, too. Lacoon Mobile Security says it has detected new spyware, Xsser, that tries to trick WhatsApp users on Android and iOS by posing as a coordination tool for the Occupy Central movement. Anyone who falls for the ploy grants access to virtually all of their sensitive info, including contacts, call logs and instant messaging archives. The code is unusually sophisticated, to boot; it's a rare instance of a cross-platform mobile attack, and it updates itself over time.
+
+
+
+Just who's responsible (beyond a Chinese-speaking entity) isn't clear, since the culprits have gone out of their way to hide their tracks. Lacoon suspects that the Chinese government may have crafted Xsser to snoop on protesters, but there's also a chance that criminals are using the hostile code to look for accounts they can steal. The malware isn't likely to be all that effective no matter who's at fault, especially among cautious types who've already switched to secure messaging software. Still, it's not exactly comforting for activists who already have plenty of reasons to be suspicious.
+
+[Image credit: Chris McGrath/Getty Images]
+
+

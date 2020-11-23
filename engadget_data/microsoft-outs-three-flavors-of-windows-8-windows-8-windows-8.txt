@@ -1,0 +1,5 @@
+
+ 
+ We've known for what feels like ages that Windows 8 would come in at least two flavors: one supporting x86 devices and one for ARM machines. Now Microsoft's ready to put a naming scheme on its much-anticipated menu for the operating system. According to a post on the Windows blog, ARM devices will get Windows RT, while x86 / 64 devices will run Windows 8 and Windows 8 Pro (also for x86 devices) will offer the suit-and-tie set added features for "encryption, virtualization, PC management and domain connectivity." Windows Media Center will be packaged as an add-on for the folks who go Pro. For a full break down of what each version will hold hit the source link below and check out our hands-on impressions of the OS preview here.
+
+

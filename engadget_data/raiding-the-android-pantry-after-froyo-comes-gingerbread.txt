@@ -1,0 +1,6 @@
+
+ 
+Anyone who's been following Google's codename saga for Android builds is probably 15 pounds heavier just from hearing the names themselves -- Cupcake, Donut, Eclair, Froyo, you get the idea. Delectable dessert names aren't the only common theme here, though: they're going in alphabetical order, so we need a "G" sweet next. Well, Google's Brian Swetland -- who works on Android's Linux-based kernel in Mountain View -- has dropped that knowledge in passing while discussing kernel versions on LWN.net. Ready for this? "Gingerbread." Sounds good to us, but naturally, we're more concerned about what's in the build than what it's named, and we don't have those details yet other than Swetland's belief that they'll "likely be on [Linux kernel 2.6.].33 or .34" by the time it hits. Time to start thinking about the "H" treat -- any ideas?
+      
+
+ 

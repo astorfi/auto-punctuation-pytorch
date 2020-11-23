@@ -1,0 +1,11 @@
+
+ Trust us, this should ultimately make a lot of sense. As we already know, AMD recently set up the HSA Foundation to promote its vision for better parallel processing -- and especially GPU compute -- in mobiles and PCs. Its semi-rival ARM was one of the first big players to join up, and now Samsung has decided to hop onboard too. Why would it do that? For the simple reason that the Korean company still makes its own chips, based on ARM designs, and we've seen that GPU compute is going to be a big feature in its coming Exynos 5 processor with Mali T604 graphics.
+
+ Now, anything else at this point is pure speculation, since we only know about Samsung's HSA membership from the appearance of its logo on a relevant slide at AMD's keynote speech at IFA, and there's no official word on Samsung's intentions. At a bare minimum, the company could simply be firming up friendships and hedging its bets on the future of computing. We wouldn't be surprised, however, if Sammy is looking to work with ARM and AMD to implement further aspects of the HSA philosophy into even more advanced Exynos chips down the line -- chips that are able to use both GPU compute and smaller transistors to achieve leaps in performance while also gobbling fewer volts.
+
+
+
+
+ 
+
+ 

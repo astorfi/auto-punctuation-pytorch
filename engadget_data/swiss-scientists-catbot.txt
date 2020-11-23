@@ -1,0 +1,24 @@
+
+Someone call MIT's researchers and tell them their terrifying cheetah robot has a long-lost teensy sibling in Switzerland. Developed in the laboratories of the École Polytechnique Fédérale de Lausanne, the "cheetah-cub robot" is a four-legged metallic critter modeled after a house cat. The scientists focused on designing legs that can move like our feline friends', paying particular attention to their stability while moving on uneven surfaces. While it has a long way to go before it becomes a graceful daredevil, it's a fast little bugger that can run seven times its body length in one second. The researchers hope their creation gives rise to more robots for exploration and search-and-rescue missions in the future -- a far more noble goal than some cat-owners' dream to have their pets' pictures land on the front page of Reddit.
+
+
+
+Show full PR textLausanne, June 14, 2013.
+A robot that runs like a cat
+Thanks to its legs, whose design faithfully reproduces feline morphology, EPFL's four-legged "cheetah-cub robot" has the same advantages as its model: it is small, light and fast. Still in its experimental stage, the robot will serve as a platform for research in locomotion and biomechanics.
+
+Even though it doesn't have a head, you can still tell what kind of animal it is: the robot is definitely modeled upon a cat. Developed by EPFL's Biorobotics Laboratory (Biorob), the "cheetah-cub robot," a small-size quadruped prototype robot, is described in an article appearing today in the International Journal of Robotics Research. The purpose of the platform is to encourage research in biomechanics; its particularity is the design of its legs, which make it very fast and stable. Robots developed from this concept could eventually be used in search and rescue missions or for exploration.
+
+This robot is the fastest in its category, namely in normalized speed for small quadruped robots under 30Kg. During tests, it demonstrated its ability to run nearly seven times its body length in one second. Although not as agile as a real cat, it still has excellent auto-stabilization characteristics when running at full speed or over a course that included disturbances such as small steps. In addition, the robot is extremely light, compact, and robust and can be easily assembled from materials that are inexpensive and readily available.
+
+Faithful reproduction
+
+The machine's strengths all reside in the design of its legs. The researchers developed a new model with this robot, one that is based on the meticulous observation and faithful reproduction of the feline leg. The number of segments – three on each leg – and their proportions are the same as they are on a cat. Springs are used to reproduce tendons, and actuators – small motors that convert energy into movement – are used to replace the muscles.
+
+"This morphology gives the robot the mechanical properties from which cats benefit, that's to say a marked running ability and elasticity in the right spots, to ensure stability," explains Alexander Sprowitz, a Biorob scientist. "The robot is thus naturally more autonomous."
+
+Sized for a search
+
+According to Biorob director Auke Ijspeert, this invention is the logical follow-up of research the lab has done into locomotion that included a salamander robot and a lamprey robot. "It's still in the experimental stages, but the long-term goal of the cheetah-cub robot is to be able to develop fast, agile, ground-hugging machines for use in exploration, for example for search and rescue in natural disaster situations. Studying and using the principles of the animal kingdom to develop new solutions for use in robots is the essence of our research."
+
+

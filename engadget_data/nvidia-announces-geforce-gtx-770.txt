@@ -1,0 +1,24 @@
+
+It probably won't come as a huge surprise, given the GTX 780's appearance last week, but today's launch of the GTX 770 nevertheless brings us a very interesting product. The card is claimed to be about five percent faster than last year's much more expensive flagship, the GTX 680, thanks to faster memory (7Gb/s instead of 6Gb/s), a slightly higher base clock speed (1,046 vs. 1,006MHz) and an equivalent number of CUDA cores (1,536). Seeing as how the the GTX 680 still holds its own with current games, this performance parity strikes us as something of a deal -- assuming independent benchmarks back it up. We're awaiting a confirmed US price, but we'll eat our SATA cables if it's anything other than $399 for a 2GB model (the press release just says "under $400"). UK and European prices match those of the GTX 670 (£329 inc. VAT, 329 euros exc. VAT), and availability begins today. Check out NVIDIA's slide deck for more details, including power consumption and noise, SLI scaling (which looks healthy) and some in-house frame rate comparisons against other products.
+
+
+Update: $399 is confirmed. The cables are safe.
+
+
+
+
+Show full PR textNVIDIA Extends PC Gaming Leadership With New GeForce GTX 770 GPUWorld's First GPU to Offer Blazing Fast 7 Gbps MemorySANTA CLARA, Calif.-May 30, 2013-NVIDIA today launched the NVIDIA® GeForce® GTX™ 770 GPU, which offers an unprecedented level of PC gaming performance for only €329 ex VAT/£329 inc VAT.The newest addition to the award-winning NVIDIA Kepler™ architecture lineup of gaming GPUs for the high-end market, the GTX 770 joins the GTX TITAN and the GTX 780 in delivering superior gaming performance, advanced features, and silky smooth frame rates for unsurpassed high-definition PC gaming.
+
+"Only NVIDIA GPUs consistently provide gamers with the ability to achieve extremely fast frame rates at high-definition resolutions with all of the eye candy turned on," said Scott Herkelman, general manager of the GeForce GPU business at NVIDIA. "The GeForce GTX 770 represents a new threshold of performance and features for under $400 and our commitment to PC gaming is why GeForce GPUs continue to be the No. 1 choice of gamers worldwide."
+
+Designed for dispatching extremely fast frame rates to all of this year's hottest PC games, including Call of Duty: Ghosts, Watch Dogs and Battlefield 4, the GeForce GTX 770 boasts an incredibly powerful Kepler GPU with 1,536 cores and either 4GB or 2GB of high-speed 7 Gbps GDDR5-the world's fastest memory ever on a graphics card.
+
+To satisfy gamer demands for greater customization and overclocking options, the GeForce GTX 770 GPU includes NVIDIA GPU Boost™ 2.0 technology, which automatically increases the GPU's clock speeds for enhanced gaming performance, while adding temperature target and fan controls, as well as extra over-voltage headroom and optimizations for advanced water-cooling solutions.
+
+The GeForce GTX 770 GPU also supports NVIDIA's latest array of gaming technologies, including the PhysX physics engine®, NVIDIA TXAA™ anti-aliasing and GeForce® Experience™ software, which delivers the industry's best drivers for smooth gaming, advanced features like NVIDIA ShadowPlay™(1) and optimal playable settings with the convenience of single click operation to gamers everywhere. And for those gamers who demand the very best, NVIDIA SLI® technology – the industry's preeminent multi-GPU solution – scales to deliver even higher levels of performance, with new adaptive temperature controllers help delivering amazing performance that is nearly silent to the human ear.
+
+Availability and Pricing
+
+The NVIDIA GeForce GTX 770 GPU is available now from the world's leading add-in card suppliers, including ASUS, EVGA, Gainward, KFA2, Gigabyte, Inno3D, MSI, Palit, PNY, Point of View and Zotac. Partner participation will vary by region. Pricing is expected to start at €329 ex VAT/£329 inc VAT for the 2GB version.
+
+

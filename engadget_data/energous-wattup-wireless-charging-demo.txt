@@ -1,0 +1,24 @@
+
+
+Wireless charging hasn't really set the world on fire. Since the Palm Pre first introduced us to the idea at CES 2009, a few companies have added similar functionality to their phones and smartwatches. Power without wires is undoubtedly useful, but none of the solutions have ever set our devices free from a charging pad, which is tantamount to plugging them in, really. Energous is one of a handful of companies hoping to change that. It claims its technology can charge your phone and wearable from up to 15 feet away, no wires required.
+
+
+
+Energous' system is called WattUp, and it works using a mix of RF, Bluetooth and a lot of patent-pending technology. The transmitter is where most of the magic happens. It communicates with and locates compatible devices using low-energy Bluetooth. Once they've established contact with a device, they send out focused RF signals on the same bands as WiFi that are then absorbed and converted into DC power by a tiny chip embedded in the device. These transmitters can be built into household appliances, TVs, speakers and standalone "energy routers."
+
+This conversion, known as "rectification," is not a new idea, but Energous' application of it is. Its latest generation of chips are around 70 percent efficient -- a typical wireless charging mat clocks in at around 90 percent -- and can provide enough power to easily charge both a phone and wearable from a single bedside transmitter.
+
+
+To demo its tech, Energous has turned a casino suite into a faux home full of wireless power, which we dropped by to allow the company's founder Michael Leabman to put on a show for us. The routers are able to offer a closed network, letting you choose what devices are allowed power (ideal for public locations), or an open network, offering power to all. Regardless of network type, the router can prioritize devices low on battery, and automatically rejig the hierarchy as a desired charge level is achieved. Using an iPad to control the transmitters, Leabman powered various bulbs and smartphones with the tap of an on-screen button.
+
+The main benefit Energous touts is mobility, and true to his word, Leabman was able to move freely around the show home, with the software automatically choosing which transmitter was best-placed to pipe power to his smartphone. The handover was near-instantaneous, and very reminiscent of how a tablet or laptop can switch between WiFi transmitters on the fly. Because there aren't yet any devices that directly integrate the WattUp technology, the phones were receiving power through modified battery cases, and there was no wearable demo on offer. With the size of the chips, though, there's nothing stopping a Samsung or an Apple from adding the tech to its devices in the coming years.
+
+
+These are early days for Energous. It's made a lot of progress since its formation in 2012, shrinking its transmitters from the size of a coffee table to that of an oversized router. Instead of producing and managing routers, chips and software itself, it's looking to license it out to other companies to integrate into their devices. So far it's partnered with Foxconn (which makes more of the world's electronics than any other single company), South Korea's SK Telesys (part of that country's largest conglomerate after Samsung) and a handful of smaller companies, including Haier and the makers of the popular Hexbug miniature robot toys.
+
+Energous believes this licensing strategy will help it bring its technology to market as early as 2016. In around six months, it'll produce a reference design for both the transmitter and receiver that manufacturers can modify to fit their own needs. It does expect some second-tier manufacturers to use its references wholesale, but big players like Samsung, should they decide to go with WattUp, would be more likely to modify and integrate the tech into their own designs.
+
+Imagine toys that never run out of power, or wearables you never need take offThe company is making moves to attract partners, like joining the Power Matters Alliance as chair of its new "uncoupled power" working group, and adding respected engineer Martin Cooper -- aka the father of the cellphone -- to its board of advisors. Nonetheless, if, how and when WattUp will roll out is down to Energous' partners. The company will need a big-name manufacturer to sign up for the tech, and until that happens, it's unlikely to take off in a massive way. Should that happen, though, the potential is huge. Imagine toys that never run out of power; wearables you never need to take off; energy routers built into every home appliance or light fitting. The future for Energous could be bright, but it doesn't have to persuade you or I; it needs to persuade the companies that manufacture our devices.
+
+
+

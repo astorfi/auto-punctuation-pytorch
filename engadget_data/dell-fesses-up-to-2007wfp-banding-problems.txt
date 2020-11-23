@@ -1,0 +1,6 @@
+
+ 
+Here's one situation where we'd rather Apple would take a page out of Dell's book. After receiving reports of severe color banding issues on certain users' new 2007WFP LCD displays, Dell looked into the issue, found the problem to be pretty rare, and caused by the monitor's active color management chip which switches between desktop, multimedia and gaming modes. Turns out the reported banding is caused by the "desktop" mode, and Dell has now updated the firmware to disable this mode (alright, so maybe Apple shouldn't follow this plan 100 percent). Dell has provided contact information for help with the firmware fix, and will also straight up replace your 2007WFP if you'd like. The roughly one month response time from rumblings to solution could be improved, but it's good to see a company take at least some responsibility for its faulty products.[Via PC World]
+      
+
+ 

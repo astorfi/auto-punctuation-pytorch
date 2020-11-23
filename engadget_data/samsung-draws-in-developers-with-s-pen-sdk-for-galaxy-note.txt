@@ -1,0 +1,5 @@
+
+  Ever since the mighty Galaxy Note first popped up at IFA we've been curious about that S Pen and how it'll make its way into our real-life workflow. Samsung promised there'd be an SDK back at its October London launch and it's finally here, letting developers get busy adding some S Pen magic to their apps. Version 1.0 lets you add a basic canvas, a pop-up for pen settings (opacity, line color and so on) as well as erase and un/redo. Sure, ICS might natively support stylus input, but as Samsung is keen to point out -- with its capacitive tip and configurable button -- a simple stylus this is not. And remember: until the Note gets an ICS update, you'll be scribbling all over that snappy Gingerbread install anyway. Tap that source link if you want to get your hands on the goods, and let the tic-tac-toe commence.
+      
+
+ 

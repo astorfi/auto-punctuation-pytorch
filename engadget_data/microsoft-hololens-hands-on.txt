@@ -1,0 +1,62 @@
+
+Unlike virtual reality, it's much easier to describe what it's like using Microsoft's "mixed reality" holographic headset, HoloLens. Imagine you're wearing sunglasses with completely transparent lenses, and overlaid on the world in front of you is a rectangular box. That rectangular box is your window into Microsoft's "mixed" version of reality, meant to convey a mix of standard reality with augmented reality (overlaid images) and virtual reality (immersion).
+
+
+Does it work? Yes, it works. Is it any good? That's a much harder question to answer. In its current state, HoloLens is a series of demos with varying levels of polish, meant to demonstrate the possibility of the device. More clearly: In its current state, HoloLens is far from ready for public consumption. It's an impressive demo in need of long-term investment, which Microsoft says is happening. All that baggage aside, what's it like using HoloLens?
+
+
+
+I say this in the nicest way possible: Using Microsoft HoloLens kinda stinks. In its current form, it feels like someone is tightening your head into a vice. The model being shown today on Microsoft's Redmond, Washington, campus isn't what you saw onstage, but a development kit. It's rough.
+
+What you do in the headset is impressive. Repeatedly. Sharing a Skype call with another human being overlaid on the real world, and that person being able to literally draw and highlight pieces of my world, is incredibly impressive. Uncomfortable as it is in its current form, HoloLens delivers an experience full of potential.
+
+The demos begin by lowering a tethered, relatively small, rectangular computer over your head, which hangs around your neck by sling. Like what Flavor Flav would do with a computer. You can literally feel the heat coming off the computer's fans, which face upward. It feels like you're wearing a computer around your neck, because you are.
+
+After that, the headset was carefully handed to me so that I could guide it onto my head while the demonstrator placed it over my eyes. To be completely clear, the headset dev kit I tried literally had exposed circuit boards. You remember that Valve virtual reality kit from last January? The HoloLens dev kit looked kinda like that. The demonstrators were very careful to make sure I wasn't getting all grabby on the circuitry.
+
+This is a VR prototype headset from Valve
+Okay, that image isn't a perfect representation, but not far off. Rather, instead of completely blocking out your vision, the dev kit headset has two clear lenses. A range of cameras sits out front -- somewhere between four and six, though I couldn't be completely sure. I tried asking Microsoft about specifics for the headset, from demonstrators to engineers to designers to PR people -- no one at Microsoft is speaking about the specifics of HoloLens just yet. If it's not on this website, there's nothing else to know about HoloLens' hardware at the moment.
+
+All of that aside, let's talk about the four demos I tried in HoloLens, starting with Microsoft-owned Skype:
+
+SKYPE ON HOLOLENSYou're gonna read this a lot today if you're reading HoloLens pieces: My first experience with the headset was assembling a light switch over Skype. Yes, really. After getting on the headset, I had an array of Skype contacts on a grid in front of me. By looking at any of them and using "AirTap" -- Microsoft's standard input for HoloLens: hold up your hand in front of your eyes and tap with your pointer finger -- I could select any contact to call.
+
+The woman I called (another MS employee) guided me through a basic light switch installation over Skype. She saw what I saw and was able to highlight, or point, or diagram the specific steps I needed to take to continue installation. I could see her too, as a window in my rectangle of Skype space within HoloLens. I could pin that window to a specific space in reality, otherwise her rectangle would get dragged around wherever I looked. There was no way to resize the window that I saw, but there were a handful of other options for accessing various in-call options. The software is intentionally bare bones for the demo.
+
+Through voice and visual cues (that I quite literally saw appear in my vision), I was able to install the light switch. She could draw an arrow or, in one case, a full diagram of what I was doing; she quite literally drew a version of the light switch to indicate how I should hold it. It was a lot easier than someone trying to guide me solely by voice (over the phone) or even through screen sharing. It was like I was sharing my screen with her, but my "screen" was my actual vision. Pretty fresh!
+
+
+ONSIGHT ON HOLOLENSOnsight -- or as I'm calling it, "The Mars Demo" -- is the most demonstrative demo of enterprise applications with HoloLens. Wait stop; come back. I know that sounds incredibly boring. Just imagine you're an architect and, instead of showing your client the blueprints and a 3D mockup, you create a 3D model that you can literally walk around in. Duck down, and your view ducks with you. Turn your full body around, and you see the world behind you.
+
+Since HoloLens has spatial awareness and can make a map of the world around you, it's able to overlay that world with, say, the Martian landscape. Or maybe a pretty townhouse you're thinking about moving into? The former is the case with Onsight, which takes actual data from NASA's Curiosity rover and models it into a version of Mars you can quite literally walk around. It even incorporated pieces of the room into Mars. If nothing else, the Onsight demo is a great example of what virtual tourism could look like on HoloLens -- not anywhere near as immersive as virtual reality, but certainly impressive.
+
+HOLOBUILDER (MINECRAFT) ON HOLOLENSHilariously, Microsoft will only call Holobuilder "inspired" by Minecraft. Let's be clear: This is Minecraft, from the music to the art to the world properties. Well, okay, it's not anywhere near as deep as Minecraft, and it's not clear that Minecraft developer Mojang had anything to do with this (the demo man wouldn't say for sure, but he did heavily intimate). But it's Minecraft.
+
+That aside, this isn't the Minecraft you're used to. It's Minecraft in your living room, literally -- the world you build exists around you, pushed into the room you're in. I blew up a gaggle of creepers, which resulted in a hole being dug directly through a real bench in the demo room. I could then look through that hole, seeing the world below it. Similarly, I blew a hole in the wall of the room, which resulted in bats flying out and a whole other world beyond the physical realities of... reality.
+
+While the effects of interaction were impressive, the actual interaction was less so. Rather than picking up a sheep with my hand by literally just grabbing it with my actual hand, my only means of interaction were voice ("Pickaxe!" "Redstone torch!" et cetera) and the aforementioned "AirTap."
+
+Like everything else with HoloLens, Holobuilder is full of promise and rough around the edges.
+
+HOLOSTUDIO ON HOLOLENSInterested in 3D visual design, but not interested enough to learn 3D visual design software? HoloStudio occupies that bizarre space in between actual scholarship and casual dalliance (the same place that Microsoft games like Project Spark occupy). As demonstrated onstage when HoloLens was debuted, you can create 3D objects using HoloLens by choosing from a variety of Photoshop-esque functionality. It's by far the most fully featured software on HoloLens, and also the only one we weren't allowed to actually try.
+
+Beyond anything else, it seems a no-brainer that this wouldn't be used by the average person. It's neat! And I watched people create some adorable items, from a goofy cartoon truck to an astronaut koala.
+
+Again: impressive! Also, not an application that casual consumers would use.
+
+Resolution, tracking, and other loose ends (update)A lot of folks wrote in asking about various technical specifications of the headset. While there are no specifics to share, we've broken down what is out there in a piece.
+
+In practice, the resolution is sharp but the field of view is extremely limited. There's a rectangular area in the center of your vision that acts as your "window" into the reality HoloLens presents. It's this limitation that makes HoloLens not a VR headset, and also keeps it from being the Back to the Future 2 glasses we're all waiting for (I'm waiting for that, anyway). This limitation keeps you from using your full, enormous field of view as a human being, and from interacting with the entirety of reality around you. And isn't that the point of this thing?
+
+Tracking -- which is to say, "how the headset interprets where your head is in relation to the world around you" -- felt the most fully-baked of any of the headset's sensors. Though the prototype was a bit finicky to move very quickly in, I had no issue turning around quickly or kneeling, or any other movements I tried.
+
+For those asking about the "screen door effect" of various VR headsets, without a screen, I'm not sure that...could exist? The bigger issue for me was that the image was relatively transparent, which often made things look less than real.
+
+HOLOLENS, RIGHT NOW
+I've spent a lot of time in virtual reality headsets. I own both Oculus Rift dev kits. I've used the Avegant Glyph. I reviewed Gear VR. The concept of a headset altering reality isn't new to me. I say that with the intention of couching what will assuredly sound like disappointment: HoloLens is clearly very early, and kinda sucks right now. It's uncomfortable. It's cumbersome. It looks and feels like a piece of hardware that's far from final.
+
+Is it bad? No. Lord no. Stop it. It's very impressive, but it's a brand-new entry in a market that basically doesn't exist yet. Good on Microsoft for that! At the same time, man, Microsoft has a long way to go before this is something we want to use at home. When it's got Windows 10? And can be used untethered?
+
+When it's got that stuff, HoloLens could be something really special.
+
+

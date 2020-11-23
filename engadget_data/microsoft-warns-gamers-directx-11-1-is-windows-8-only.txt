@@ -1,0 +1,4 @@
+
+ We hope there weren't too many PC gamers clinging to Windows 7 for dear life, because Microsoft isn't about to rescue them with a near-term DirectX update. The company's Daniel Moth (and supporting documentation) states that DirectX 11.1 is exclusive "for all practical purposes" to Windows 8-based platforms, including Windows RT and Windows Server 2012 -- you can't leap forward in media support without a full-on OS switch. None of the changes are large enough to trigger any immediate envy outside of the occasional fan of 3D glasses, but they could pose problems for conservative gamers in the long run if games and other visually intensive titles start demanding 11.1 as a baseline. There's no known plans to port the code back or release a harmonizing version, either. We can at least take comfort in knowing that Windows 8 upgrades are cheap enough to be low-hanging fruit for all but the most Metrophobic.
+
+

@@ -1,0 +1,13 @@
+
+It shouldn't surprise you that Google's a big proponent of online security, and that's why it's rolling out support for a new way to prove you are you who are: a USB Security Key. Google's normal approach to two-step authorization involves getting a text on your phone to verify your identity, but that isn't always ideal. Maybe you suck at keeping your phone charged. Or maybe you're abroad (your author's had to deal with that particular headache a few times) and don't want to get slammed with roaming charges. Having a dedicated secure USB key around means you'll be able to log into Google's ecosystem without having to worry about phishing or having your phone handy.
+
+
+
+          
+ 
+ 
+ Alas, there are a few caveats: you have to be a Chrome user, for one. You can't turn any ol' thumb drive laying around into a security key, either - it's got to be one that supports the FIDO authentication standard. Still, there's some more icing on this cake: other sites and services can choose to use FIDO authentication too, and plenty of big name players like Microsoft, Alibaba and PayPal have already pledged their support. Thinking of taking the plunge? You can claim some compatible hardware for just under $20, so there's no excuse for not locking your digital world down.
+
+       
+
+ 

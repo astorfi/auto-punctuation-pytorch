@@ -1,0 +1,5 @@
+
+ AMD may be busy sorting out issues with its quad-core Phenoms and hard at work on "completely different" chip architectures, but that isn't stopping the company from aggressively updating its roadmap, announcing today plans for 6- and 12-core server-grade Opterons. Both the new 6-core chip, codenamed Sao Paulo, and the 12-core unit, codenamed Magny-Cours, are based on a brand-new platform called "Maranello," and slotting in to replace the planned 8-core Barcelona chip, which appears to have been canceled. According to AMD, 12-core chips are easier to manufacture, so it's going to skip over 8-core chips and go straight to the good stuff. That must be news to Intel, which is planning on shipping 8-core Nehalem chips later this year, and will probably then hold the coveted "number-of-cores" crown until AMD releases the 12-core chips in 2010. There's no word on whether any of these chips can make these processor roadmaps comprehensible or even chronological, but we can dream, can't we?[Via TG Daily]
+      
+
+ 

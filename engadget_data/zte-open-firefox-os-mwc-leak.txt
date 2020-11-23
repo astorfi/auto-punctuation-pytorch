@@ -1,0 +1,8 @@
+
+ Remember that ZTE teased the MWC debut of its upcoming Firefox OS phone? Well, according to this spec sheet spotted by a tipster at ZTE's MWC booth, said device will be appropriately named ZTE Open, and it'll come with a moderate set of components: a Cortex-A5-based Qualcomm MSM7225A (which is known to clock at either 600MHz or 800MHz), a 3.5-inch HVGA TFT display with capacitive touchscreen, 256MB DDR SDRAM, 512MB NAND storage and the usual set of radios like WiFi 802.11a/b/g/n, Bluetooth 2.1 (with EDR3), GPS and FM radio. Interestingly, there will be a 3.2-megapixel front-facing camera, but it appears that there'll be none on the back. The Open will be available in three SKUs with different UMTS bands: 850/1900, 850/2100 and 900/2100. As always, we'll be sharing the full announcement and hands-on once we see the phone at MWC, though we have a feeling that we've already played with it before.
+
+ Update: As some of you have pointed out, yes, the "FF" may actually mean "fixed focus" instead of "front-facing," and the former seems more likely.
+
+ [Thanks, anonymous]
+
+

@@ -1,0 +1,11 @@
+
+ 
+ Skype's got a new audio codec that it thinks you should be pumped about, and it's called "Opus." It's been kicked around at Skype since March 2009, though work didn't begin in earnest until June of the same year, and it was just certified by the IETF as a standard of online audio. Senior Skype architect Koen Vos lead a team of audio engineers to create the hybrid audio codec, combining Skype's own "SILK" codec with Xiph.Org's "CELT" codec, intending to create a low-bandwidth codec "designed for the internet." But what does that mean for us? It means "CD quality" audio (fullband stereo sound) over Skype, regardless of internet connection. And what about those pesky packet loss issues that cause Skype calls to often sound choppy? "It has multiple mechanics to deal with and recover from packet loss plaguing the network," promises audio/video product engineering director Karlheinz Wurm. So ... uh, less of a chance of sounding like an Autobot then? Great!
+
+ Wurm says the new codec "will make a quiet but crystal clear entry into the world" without naming exactly when. And yes, Opus is expected to become standard across all Skype platforms. What's that, you want to watch a 45 minute speech about Opus? We've got you covered, just below the break.
+
+
+
+
+ 
+ 

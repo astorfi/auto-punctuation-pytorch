@@ -1,0 +1,6 @@
+
+ 
+Get ready for hot, hot convergence kids 'cause the DisplayPort 1.1 specification was just approved. The new VESA-approved digital interface standard is meant to replace DVI and VGA ports while co-existing with HDMI for HDTV connectivity. As you can see in the picture above, it's about the size of a USB connector yet offers 2x the performance of DVI in a much smaller package. They also bake in a nasty dollop of HDCP 1.3 content protection to keep the Blu-ray and HD DVD kiddies happy. The wee size allows the interface to be included in smaller handheld electronics while enabling direct-drive LCD panels thereby eliminating the need for non-panel LVDS electronics in the monitor designs. Of course it also supports pass-through of DVI and HDMI signals via simple adapters similar to DVI-to-HDMI variety on the market today. So which of our esteemed manufactures will bite first? We're not sure, but VESA isn't shy about using Dell's high-end XPS systems in their marketing collateral. Of course, the question they don't answer is, why not just move everything to HDMI? For that, you just have to look at who backs royalty-free DisplayPort (the PC industry) and who backs HDMI (the consumer electronics industry). Yeah, we know.
+      
+
+ 

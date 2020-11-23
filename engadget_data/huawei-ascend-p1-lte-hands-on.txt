@@ -1,0 +1,16 @@
+
+ 
+ We've had the unexpected early opportunity to try what should be a production-grade Huawei Ascend P1 LTE -- early enough that the phone has yet to formally ship to its initial carrier. While we've seen hints of the 4G model towards the start of the year, what's landing in our hands is at least different than devices like the original Ascend P1, P1 S and P1 XL; months of extra engineering time, the LTE chipset and that bigger 2,000mAh battery have clearly had an effect. But by how much? Read on past the break for a quick tour of the refreshed design. 
+
+
+
+
+ In practice, the P1 LTE is a more rounded, comfortable smartphone than its peers, with a finely textured back and (on the black version we tried) just a slight hint of HTC One-like attention to detail through its red camera trim. The body is undoubtedly thicker than the iPhone 5 or other very recent 4G-toting smartphones, although we wouldn't call it portly; it's just thicker than we'd like given how little of a size penalty 4G carries these days. That does reflect the high-capacity removable battery we were missing before, though, and should satisfy data junkies who like to keep spare battery packs on hand. You'll still find the same 4.3-inch, qHD AMOLED screen, which unfortunately leads to visible pixels even as it still provides a reasonably bright display with good viewing angles.
+
+ Most of the spec sheet reads out like a photocopy of the P1. The LTE edition keeps its ordinary counterpart's 1.5GHz TI OMAP 4460 processor, 4GB of built-in storage (plus microSD), 8-megapixel rear camera and 1.3-megapixel front camera, all running on Android 4.0.4 with a variation of Huawei's very light custom skin. We did notice a few changes from the earlier formula in our tester. The navigation keys are noticeably closer to Google's official design in appearance and layout, with just the menu key as a giveaway that it's not completely stock. Huawei's new hardware runs about as quickly as the old, netting a reasonable 1,897ms in SunSpider web browser testing, and the unbranded, unlocked model we used had little in the way of bundled apps that weren't Google's own. That last point is likely to change if an American or Canadian carrier gets control.
+
+ As for the namesake LTE? We were testing what appears to be the North American model that we saw floating through the FCC just days ago, although we weren't in a position to get a proper test of the LTE, especially in an area where HSPA+ wasn't already perfectly stable. Yes, we understand the irony. Still, the data speed is arguably the most predictable element of the entire phone, and even the HSPA+ led to speedy browsing and social networking.
+
+ Our take so far is much like what we gave for the base Ascend P1. The LTE variant is a solid if unspectacular smartphone that will likely do best when it's priced like the entry-to-mid-level handset that it is, rather than trying to compete with the Galaxy S III and iPhone 5 flagships of the world. And we're fine with that if it holds up in real world use. Not every LTE device must be high end, and Huawei has struck a careful balance between our desires for a big, fast phone and the reality of our pocketbooks.
+
+

@@ -1,0 +1,9 @@
+
+       
+Intel's making a big TV push here at IDF, and a lot of it centers around the CE 3100 Media Processor, which combines an 800MHz Pentium M core with a proprietary video processing core all on one chip. That's about as much power as a 1.2GHz Atom, and it's enabled some pretty cool demos, like this box that's running a custom Flash Lite UI on top of Linux. The video silicon accelerates H.264 playback, so newer YouTube content looked fantastic -- some of the best big-screen YouTube we've ever seen actually. That's all the software was optimized for, however -- older content that required software decoding looked much worse, and playback wasn't stellar. That's down to optimization, though, and we're willing to forgive it, especially since the demo was put together in two weeks or so. Of course, the big question when you're looking at an IA core running Flash is whether or not this rig can do Hulu on a big screen, and the answer was cautious but optimistic: it's technically possible and even somewhat easy, but as usual it all comes down to Hulu allowing it. (What else did you expect?) Still, it's interesting to see a set-top box with some actual processing power, and Intel's got some more interesting demos for us coming up, including a three-tuner Tru2Way HTPC that can send video to a PS3. Video after the break!
+      
+
+ 
+
+
+ 

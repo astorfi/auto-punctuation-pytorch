@@ -1,0 +1,14 @@
+
+       With all of the groundbreaking aspects of virtual reality come a slew of new privacy concerns. Oculus, for example, says in its privacy policy it will track information about your location, physical movements, and how you're using the Oculus Rift headset. Most of that is pretty standard hat for any technology product today, though the notion of tracking your movements is something unique to VR. Still, it was only a matter of time until Senator Al Franken, a consumer advocate who has made a point of pushing back against invasive privacy policies like Uber's, weighed in.
+      
+
+ 
+In a letter addressed to Oculus CEO Brendan Iribe, Franken pushed for more information about how, exactly, Oculus is using all of the data it collects. "I believe Americans have a fundamental right to privacy," Franken wrote. "And that right includes an individual's access to information about what data are being collected about them, how the data are being treated, and with whom the data are being shared."
+
+We're awaiting comment from Oculus about all of this, but for now Franken's letter seems more about due diligence than stomping out any major privacy concerns. Ideally, it'll lead to the company offering a more detailed privacy policy, like what HTC has done for its Vive headset.
+
+As Ars Technica points out, Oculus isn't collecting much more than most technology companies, aside from the physical movements of the headset. That's the sort of data we'd probably want the company to have, as it'll help refine how its head tracking technology works. But it's also worth having Facebook and Oculus clarify what its headset is tracking when you're not wearing it (there's no off button, so it's always sitting in a semi-ready state).
+
+Perhaps Oculus might be able to add a "privacy mode" that keeps its app from recording what you're doing, but I can't imagine security advocates would put much faith in that. It might end up limiting the sort of data the Oculus Rift server app collects -- right now it's always on, even if you're not using the Rift. For now, data collection is just something you'll have to live with if you want to experience Oculus's spin on virtual reality.
+
+

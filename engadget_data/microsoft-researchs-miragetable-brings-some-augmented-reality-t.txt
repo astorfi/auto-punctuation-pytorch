@@ -1,0 +1,12 @@
+
+ 
+ We got a look at a holographic telepresence project from Microsoft Research earlier this week, but that's far from the only Kinect-enhanced rig it's working on these days. This setup dubbed a MirageTable was also shown off at the Computer-Human Interaction conference in Austin, Texas this week, offering a glimpse of one possible future where two people can interact with virtual objects on a table as if they were sitting across from each other (or simply do so on their own). To make that happen, the setup relies on a ceiling-mounted 3D projector to display the images on a curved surface, while a Kinect on each end of the connection both captures the person's image and tracks their gaze to ensure images are displayed with the proper perspective. You can check it out in action after the break, although some of the effect is lost without 3D glasses.
+
+
+
+
+
+
+ 
+
+ 

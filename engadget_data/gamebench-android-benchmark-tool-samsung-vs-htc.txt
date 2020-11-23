@@ -1,0 +1,23 @@
+
+Remember the allegation that Samsung cheats at benchmarks? Despite the manufacturer's semi-denials, there's growing evidence to suggest that not only Samsung, but also a number of other Android phone makers engage in some level of chicanery. Usually, it involves programming a device to temporarily ramp up its performance if it detects the launch of a benchmark test, regardless of the consequences for battery life or processor temperature. This results in a higher score on the artificial test, but one that is unrepresentative of what the device could actually achieve if it had to pace itself for a real-world task that lasted for a longer period of time -- such as a 20-minute bout of gaming.
+
+
+So far, so bad. However, a startup called GameBench reckons there's another way. Its founders, who previously worked at chip companies like ARM and MediaTek, claim to have developed an "uncheatable" performance test that can be used to corroborate (or refute) the scores from traditional benchmarking apps, and which can help to rank Android phones and devices according to their true gaming capabilities. Although GameBench's app is still in beta and likely won't be released until the first quarter of next year, it has already collected scores for two devices, the HTC One and the Samsung Galaxy S 4. Ironically, as you're about to see, Samsung may actually have less to fear from this cheat-free test than some of its rivals.
+
+
+
+
+Instead of throwing a synthetic, predictable and short-lived task at a phone, like certain other benchmarks do, GameBench's app runs in the background while a genuine game title is being played. It takes numerous measurements of the system, including the median frame rate and the rate of battery drain. If we look at these two measurements for the GS4 and HTC One, across four different games, it's clear the Samsung phone delivers much smoother gameplay, albeit at the expense of slightly higher battery drain. GameBench's developers point out that this is something you'd never have been able to tell from a popular Android benchmark like GFXBench, whose "T-Rex" test scores these phones as having totally identical graphical performance.
+
+
+
+GameBench uses an algorithm to weigh up all its different measurements from a sample of the most popular games in the Google Play Store, reducing all the data to a single, final score. This score rewards the Galaxy S 4 for getting closer to 30 frames per second in Real Racing 3, for example, but takes something away for the relatively fast battery drain during this game. Meanwhile, even though the HTC has much slower battery drain on Minion Rush, it won't get much of a reward because it was only able to run the game at 19fps -- a frame rate considered too janky to be much fun. When all this is added up, the Galaxy S 4 is left with a clear lead. And, again, that's surprising given GFXBench's equal scores, or what the hardware specs for these phones would have us believe -- after all, they both run off the same Snapdragon 600 processor.
+
+
+The upshot, according to this evidence, is that anybody who's looking to play graphically intensive games on their smartphone should avoid relying solely on one or two synthetic Android benchmarks -- just as PC gamers rely on multiple frame rate charts for real games when they're shopping for a new graphics card. And, if there's any cheating going on, then it's HTC -- not Samsung -- that stands out for snatching GFXBench scores that it doesn't rightly deserve.
+
+"GameBench's method of collecting data strikes us as more comprehensive than standard graphics benchmarks"
+
+At Engadget, we'd always look at a range of tests when reviewing a phone, rather than any single app, and indeed the benchmarks we used in our reviews of these two phones already put the GS4 well ahead of the One in terms of overall performance. Nevertheless, GameBench's method of collecting data strikes us more comprehensive than some standard benchmarks, and as something that could become an interesting resource for Android gamers, so we'll be looking to glean more results from it in the near future -- including how it compares major chipsets like the Snapdragon 600 and 800 and Samsung's Exynos Octa. Judging from some other stats we briefly glimpsed during a visit GameBench's HQ, we may well be in for a few more surprises.
+
+

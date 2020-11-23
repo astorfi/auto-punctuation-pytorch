@@ -1,0 +1,9 @@
+
+ 
+
+Several companies are hopping on the LTE bandwagon, but it's turning out to be more isolating an experience than we hoped. According to PCMag, a Verizon spokesperson confirmed that its fourth-generation broadband network won't be compatible with other carriers in the US. As it turns out, Big Red and AT&T each own a separate block of 700MHz spectrum with only a fraction of overlap, leaving little room for phones on both networks to mingle with one another. There's not much hope for roaming on MetroPCS or LightSquared, either, as their waves of LTE run at 1700MHz and 1500MHz, respectively. This smattering of frequencies means it'll be near impossible to get roam on other companies' 4G networks nationally. What's worse, the ITU has approved twelve bands for LTE use around the world, so don't count on a wide selection of global devices -- and you thought sorting through international 3G was bad, didn't you? We're still a long way from learning our LTE roaming fate, but it appears the largest carrier in the US won't make the journey any easier on us.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

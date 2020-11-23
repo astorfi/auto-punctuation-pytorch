@@ -1,0 +1,8 @@
+
+ 
+The long rumored Nuvifone jump to Android is here just as we get set to kick off Mobile World Congress next week. Garmin and ASUS claim that the A50 brings "more location technology than any other smartphone" with a plethora of location-aware apps making use of a highly sensitive (though unnamed) GPS receiver. Spec-wise, the A50 packs a 3.5-inch HVGA (that's 480x320 pixels, presumably) capacitive touchscreen with custom, finger-friendly UI, 4GB of internal storage with microSD expansion, and accelerometer for the usual portrait to landscape mode flip. The A50 uses satellite, network-based, and terrestrial sources to quickly zero in on your location and comes pre-loaded with Garmin turn-by-turn navigation, lane assist with junction view, and maps -- no need to download them over the network (and risk data dead spots), eh Google. In fact, it's ready for in-vehicle (ships with car mount and vehicle power cable) or pedestrian navigation out of the box. The A50 also brings on-device sync with Microsoft Exchange server and includes all the usual Google mobile services like search by voice, Maps with Street View, Gmail, YouTube, and Android Market. Rounding things out are a multitouch WebKit-based browser and 3 megapixel autofocus camera that automatically geo-tags your snaps. The A50 will launch in Europe in the first half of 2010 though pricing has not been announced. We're still digging for more specs but will definitely be back with a detailed hands-on from Barcelona next week.
+
+Update: We have an insider telling us that the device runs Android 1.6 (something we've seen before) and uses Qualcomm's gpsOne platform for SatNav. Makes sense, but we won't be able to confirm until we meet with Garmin-Asus next week at MWC.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Usually product teardowns are only interesting for the raw, visceral thrill of seeing chipsets and circuit boards splayed wide open, but iFixit's disassembly of the new iPod touch revealed something rather more interesting: a Broadcom BCM4325 Bluetooth 2.1+EDR chip. (That's the silver rectangle in the middle of the top circuit board there.) That's got a lot of people all atwitter, but there's an obvious explanation for it: Nike+, built into the new touch, is based on a proprietary low-power 2.4GHz communications protocol called ANT -- not quite the standard Bluetooth frequency, but awful close. Yep, sorry, it's for technojogging, not secret A2DP -- although we'd welcome actual Bluetooth support in the touch with open arms. Hit the read link for the complete breakdown.Update: Just to be totally accurate, the BCM4325 also does WiFi -- and Nike+iPod has been called a "proprietary 802.11 protocol" in the past, so it's even less likely that it's there for actual Bluetooth usage.
+      
+
+ 

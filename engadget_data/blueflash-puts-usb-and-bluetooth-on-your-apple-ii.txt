@@ -1,0 +1,6 @@
+
+ 
+Do you keep revving up your Apple II to check your email, update your contacts and sync your mobile phone only to discover that you can't get Bluetooth up and running because the computer is actually from 1978? Well don't worry, because thanks to a very clever man who goes by the name Vinchysky, you can now utilize the a custom-designed disk controller card to interface with all your Bluetooth (and USB) capable devices. The ingenious design takes advantage of the card by bussing data from the single USB port (with attached Bluetooth dongle) to a CF card wired to the controller, thereby allowing information to be swapped on the card and disk images to be executed wirelessly. The card will be available in the near future for $160, plus an additional $10 for the dongle. If you really want to get a scope of what went into this hack, direct your browser and be awed by the results of three years' hard work.[Via TUAW]
+      
+
+ 

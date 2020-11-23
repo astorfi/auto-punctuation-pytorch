@@ -1,0 +1,10 @@
+
+ 
+So we were pretty bummed in our early testing of Amazon's newly HD-enabled Video On Demand service to find that it only streamed stereo audio instead of full 5.1 surround, but it looks like that's actually device-dependent -- we just tried it out on our TiVo HD, and movies play back in Dolby Digital 5.1. Yeah, that's still no Dolby TrueHD or DTS-HD, but it's definitely a vast upgrade from the sad two channels we got off the Roku Video Player. So why the difference? The TiVo doesn't stream content like the Roku -- it actually downloads a video file and plays it locally from its hard drive. That means that in addition to surround audio, we also saw a pretty dramatic increase in picture quality over the Roku -- not exactly Blu-ray, but at least on par with the Apple TV, which also downloads content locally. Sure, downloading first means playback can be much slower to start, but we'll take the delay over a blocky image any day. Our only gripe is that the TiVo interface is far less attractive and workable than the Roku's -- although it has a search feature, everything seems a little clunky and thrown together, and the UI just feels plain slower. Overall, though, it's hard to see TiVo owners complaining about this upgrade -- check out a hands-on video after the break.
+
+
+
+
+
+
+ 

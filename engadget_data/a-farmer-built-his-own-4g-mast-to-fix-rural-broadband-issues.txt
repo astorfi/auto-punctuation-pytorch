@@ -1,0 +1,14 @@
+
+
+
+Living in rural England, Richard Guy was a man with a problem. Like many located in similar areas, his "broadband" internet connection was pretty narrow, with download speeds below 1Mbps. While some isolated communities are grouping together to build their own municipal networks, Guy had another solution: mobile data. He created his own 4G mast and wired it up with fiber optic cables, and now enjoys 45Mbps+ connection speeds. Guy, a farmer by trade, has since set up a business called Agri-Broadband to help other rural businesses get connected.
+
+
+
+The setup is simple: a mast is erected on a farmer's plot at the optimal point i.e. the place with the strongest signal, which in Guy's case was miles from his home. The mast contains a waterproofed battery, solar panels, a 4G receiver, and the necessary equipment to send signals along fiber. Agri-Broadband then digs a trench to the property, runs cabling inside, and covers it back up. At the computer side, a router converts the signal from the fiber into regular WiFi and LAN.
+
+The system should work well in the UK, where rural coverage is expansive and mobile data costs are low in comparison to other countries, but may not be viable elsewhere. Agri-Broadband will charge a one-off fee ranging between £1,000 and £2,000 ($1560 - $3120) for the setup, depending on how much trench-digging and fibre-laying is required.
+
+[Image credit: SWNS TV]
+
+

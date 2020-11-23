@@ -1,0 +1,16 @@
+
+After Netflix reached an agreement with Comcast for direct access to its network, several other ISPs lined up with their hands out, and now there's another deal with Verizon. First reported by analyst Walter Piecyk based on a meeting with Verizon's CEO Lowell C McAdam, Netflix's Joris Evers has confirmed the deal with a statement: "We have reached an interconnect arrangement with Verizon that we hope will improve performance for our joint customers over the coming months." There aren't many details to go on, but it appears to be another arrangement for paid peering between their networks, as McAdam told Piecyk the deal was "like Comcast's." Reed Hastings has argued that strong net neutrality would let it connect to ISPs for free, but so far the (already controversial) rules the FCC is proposing don't apply here.
+
+
+
+That deal with Comcast has lead to improved speeds and picture quality for Netflix subscribers on the ISP... and also to a war of words between the two companies over whether the arrangement is fair. Most recently, Comcast accused Netflix of actually being responsible for the slowdowns, while Netflix claimed it "purchased all available transit capacity into Comcast's networks from multiple transit providers" and still couldn't get enough, because the ISP dragged its feet on upgrades. Verizon reps also confirmed the deal but couldn't provide any details, so we may have to wait for Reed Hastings' next Facebook update to find out how (un)happy he is about it.
+
+Verizon CEO confirms they have signed direct connection deal with Netflix like Comcast's. $VZ
+- Walter Piecyk (@WaltBTIG) April 28, 2014Verizon confirms this; terms are confidential. MT @WaltBTIG: Verizon CEO confirms they have signed direct connection deal with Netflix.
+
+- Bob Varettoni (@bvar) April 28, 2014@WaltBTIG We have reached an interconnect arrangement with VZ that we hope will improve performance for customers over the coming months.
+
+- Joris Evers (@jorisevers) April 28, 2014
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

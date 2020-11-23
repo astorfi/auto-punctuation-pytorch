@@ -1,0 +1,6 @@
+
+ 
+So now that the nine-inch Eee is officially available with Windows XP pre-installed, people are wondering the obvious -- why XP and not Vista, since XP is being discontinued in June and Vista can kinda-sorta be made to run on an Eee? The answer, direct from Microsoft, is both obvious and a little surprising: Given the Eee's "other requirements," Asus and Microsoft "couldn't go the Vista route," presumably because the Eee doesn't really have the horsepower for it. Sure, but what caught our interest was that Microsoft is "in close discussions with Asus [regarding] how to take that forward... in regards to the Windows 7 Europe timeframe." Windows 7, you'll recall, has that lean new kernel, which would presumably make building a stripped-down version specifically for Eee-class machines easier -- but the last we heard, Windows 7 wasn't due until at least mid-2009 (and possibly not until 2011), so either Microsoft is planning to continue shipping XP after June or Windows 7 is coming much earlier than we thought. Our money is on XP continuing to soldier on, but here's hoping.[Thanks, Omar]
+      
+
+ 

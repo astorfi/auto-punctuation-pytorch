@@ -1,0 +1,12 @@
+
+ 
+Google's Android Market now has a web client. Finally! And guess what else, it's already live. Hit the source link below to get exploring. It's very simple, really, you can browse the entire Market catalog on your desktop or however else you're accessing the web, you can purchase anything that takes your fancy, and then -- via the magic of over-the-air transfers -- it downloads and installs onto your Android handset. A neat My Market Account section will let you nickname your registered devices to make them more recognizable as well.
+
+Google has also just announced that Android will soon support in-app purchases. Widespread developer interest has been cited as the major reason for doing it, so you've got those lovable coders to thank for the oncoming wave of micropayments you'll have to deal with in your Android apps. The in-app purchasing SDK is releasing to devs today and will be "live to users prior to the end of this quarter."
+
+Update: Invalid request. Yep, that's the message we keep getting when we try and download an app. Google promises that it should be working soon...
+
+Update 2: And now it appears to be working!
+      
+
+ 

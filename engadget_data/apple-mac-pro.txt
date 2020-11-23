@@ -1,0 +1,6 @@
+
+ 
+Well, Apple's transition to Intel is finally complete for consumers. After the PowerBook got transformed into the MacBook Pro, the iBook into the MacBook, and the iMac and Mac mini got Intel makeovers, it was time to attack the pro desktop segment, a place where only Intel's Core 2-based Xeon "Woodcrest" processors could manage. The Mac Pro, possibly Apple's worst kept secret in the last couple of years picks up where the Power Cheesegrater Power Mac G5 left off, with the same cheese grating action, but a whole lot more under the hood. Of course, headlining is the 64bit dual-core Xeon with 4MB shared L2 cache across the board, topping out at 3GHz. The performance per watt is supposedly 3x that of the G5, and Apple is stuffing a pair of the chips in each new Mac Pro. Thanks to the heat decrease, there's room for four internal HDDs, along with the dual disk drives that were rumored. The base configuration goes for $2500, and features dual dual-core 2.6GHz processors, 1GB of RAM, a 250GB HDD, NVIDIA's GeForce 7300GT with 256MB of RAM, and a 16x SuperDrive. If "barebones" isn't quite your style, Apple has a spankin' 4,976,640 configurations to choose from, ramping up to a ATi Radeon 1900 or Quadro FX 4500 GPU, 16GB of RAM and 2TB of disk space.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+Here's something you may not know -- OLPC's XO hand crank has never really worked to recharge the kiddie laptop. Why? Well, the previous versions were powered by x86 AMD and VIA processors that pulled too much power. However, things are different now with the XO 1.75 since OLPC has baked in Marvell's 1GHz Armada chip. As a result, the entire system now only pulls two watts of power, and thus the battery can be given some more juice with a few turns of that neon green crank. It's not meant to recharge the laptop completely -- actually, according to OLPC's CTO Edward McNierney, it would take about two hours of cranking to top off the system. Other than the fresh ARM CPU, the new model is identical to the previous versions -- it has an outdoor readable PixelQi display, Flash storage, a rubber keyboard, and runs Sugar OS. On a different note, OLPC is hard at work on the tablet version of the XO and, according to McNierney, the only hold up is finding a more durable, plastic display -- converting the current system into a tablet should be fairly easy since all the guts are in the display part already. The tablet is still on track for 2012, while the XO 1.75 should be with the hand-cranking children by the end of the summer. 
+
+
+
+

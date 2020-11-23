@@ -1,0 +1,11 @@
+
+Ever wonder if you'd object to currency, clothing, or even your body getting embedded with an RFID chip? The idea isn't that far-fetched, and it's just a matter of time before something you own is tagged. Joining a growing list of RFID-shielders, Vrije University's Andrew Tanenbaum, an anti-RFID advocate, is pressing forward with a team of researchers in Amsterdam to finalize a palm-sized device that would block incoming RFID searches and alert the user that they just about got violated. The RFID Guardian is powered by a 550MHz XScale processor (as found in many PDAs) with 64MB of RAM and runs on the eCos open source OS. The mechanics are pretty complex, but the short of it is the Guardian uses "standard authentication algorithms from cryptography" to recognize RFID readers and to accomplish its two primary objectives: tag spoofing and tag jamming, both of which prevent your RFID tagged object from being identified. The likelihood of mainstream adoption of the device is probably slim, but if your paranoia gets the best of you the RFID Guardian can keep the digital violators at bay. There's currently no estimated price as finalized specs have yet to be determined, but just to get a better idea of its design, peep a picture of the prototype after the break.
+
+
+[Via Personal Tech Pipeline]
+
+
+
+
+
+ 

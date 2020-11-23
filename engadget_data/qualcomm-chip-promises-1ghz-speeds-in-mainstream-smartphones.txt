@@ -1,0 +1,5 @@
+
+       Qualcomm's Snapdragon has brought about a new wave of possibilities for smartphones, but evidently those chips are just too exclusive to slip into so-called "mainstream smartphones." In order to remedy such a tragedy, the outfit has today introduced the MSM7x30 family of solutions, which uses an 800 MHz to 1GHz custom superscalar CPU based on the ARM v7 instruction set. The chips support 720p video encoding / decoding at 30fps, integrated 2D and 3D graphics (with support for OpenGL ES 2.0 and OpenVG 1.1), 5.1-channel surround sound, a 12 megapixel camera sensor and built-in GPS. In related news, the outfit also announced that it is sampling the industry's first chipsets for dual-carrier HSPA+ and multi-mode 3G / LTE, which ought to make those champing at the bit for a speedier WWAN highway exceedingly giddy. Hit the links below for all the technobabble.
+      
+
+ 

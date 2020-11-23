@@ -1,0 +1,12 @@
+
+ 
+
+Whether they run, jump or swim, there are plenty of robots around to be fearful of. None have quite exacerbated our arachnophobia as much as Robugtix's T8 octopod, however. The 3D-printed spiderbot not only looks the part, but employs 26 servo motors to drive its unnervingly life-like movement. Bigfoot's baked-in "Inverse Kinematics Engine" deals with all of the background computations, so you don't have to be a coding genius to work it. Instead, users send "short and simple commands" to the bot via wireless XBee or any other method you can hook up to its Rx / Tx pins. Expected to ship at the end of September, the T8 is available now for a special pre-order price of $1,350, and you can add $85 to that if you want one of Robugtix's analog-stick controllers for real-time direction. If that sounds a bit pricey, there's another option in the much cuter $250 iitsii hexapod, which is predicted to ship late August. Check out the shudder-inducing video of the T8 below, then follow it up with the iitsii demo to help you forget.
+
+
+ 
+
+
+
+
+ 

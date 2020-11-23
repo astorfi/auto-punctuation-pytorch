@@ -1,0 +1,9 @@
+
+       
+The thing about the future is this: we'll still have to do menial things like answer the door, or take out the trash, or get up off our couches to get our own brews after a long, hard day at the office... unless we're smart enough to invent robots to do such menial things, that is. Well, Willow Garage has spent some time building a "Beer Me" application for its PR2 robot which gets at least one of these tasks under its belt. They added a four-holed foam block placed behind the robot's navigation laser so that it can safely carry four bottles across the terrain, and equipped their refrigerator with a tilted "self-stocking" shelf. Check out its operation in the video below.
+      
+
+ 
+
+
+ 

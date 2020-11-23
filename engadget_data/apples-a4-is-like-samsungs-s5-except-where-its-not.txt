@@ -1,0 +1,6 @@
+
+ 
+Though the Apple iPad and the Samsung Wave most assuredly share the same brain, EE Times would like you to know there's more to a chip than its core -- analyzing Apple's system-on-a-chip designs in detail back to early iPhones, the publication noticed that Cupertino's silicon both has custom design quirks on top of ARM and shows heavy influence from Samsung as well. EE Times claims that while the A4 and Samsung S5PC110 are similar, there are certainly differences, enough to call the A4 a custom design. Essentially, Apple has a taken a one-size-fits-all product originally engineered to meet the needs of a broad range of OEMs and reduced its complexity, footprint, and cost to match Apple's particular goals. As far as whether PA Semi or Intrinsity had a hand in that design, the authors suggest only the latter seems very involved. What all this means for intellectual property questions is anyone's guess -- we'll let the lawyers fight that one out -- but when you encounter diehard fans that claim one's ripping off the other, at least now you'll be able to calmly explain the situation. Find the deep technical dive at our source link.
+      
+
+ 

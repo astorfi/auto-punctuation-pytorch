@@ -1,0 +1,8 @@
+
+ 
+We sort of knew this would happen as soon as we heard about that iPhone wallpaper hack in the Netherlands -- a hacker named ikex has created what's apparently the first iPhone worm, and it's currently infecting jailbroken iPhones across Australia. The "ikee" worm, as it's being called, takes advantage of the fact that jailbroken iPhones with SSH installed all have the same default root password of "alpine," and once in the system it changes your wallpaper to an image of Rick Astley and then tries to install itself on other jailbroken iPhones on the network. Sophos says it hasn't confirmed any infections outside of Oz, and to be clear, this worm can't get to stock iPhones or jailbreak owners who haven't installed SSH -- but if you're running a hacked phone we'd say you should change that root password just to be safe right away. Get to it, kids.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

@@ -1,0 +1,4 @@
+
+  
+We all know that you can't trick someone into falling in love with you (unless in you're in a movie with Kate Hudson -- in which case the results are sure to be hilarious), but it looks like the kids at NVIDIA are looking to do just that. It's been previously rumored that NVIDIA's been working on Atom support in its MCP79 chipset, and now the company's in Taiwan, trying to rally support for a crazy scheme whereby PC makers will demand that Intel begin selling them Atom CPUs without bundling in their own graphics chipsets. And if that weren't enough, the GPU maker releases their Ion platform today, designed to replace Intel's graphics chipset on Atom systems. There's no word on how Intel will react to these saucy moves, but we're guessing that at the very least the chipmaker is a little flattered.Read - Nvidia working with PC makers to force Intel to open the Atom platformRead - Nvidia Goes Netbooks: Releases Ion Graphics Platform for Intel Atom
+ 

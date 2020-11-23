@@ -1,0 +1,15 @@
+
+ 
+
+You know what's cool? Handing out 5,000 Android tablets to your most loyal developers at Google I/O. You know what's not cool? Handing out 5,000 Android tablets that can't have files loaded onto them. Believe or not, that's exactly what happened at this week's I/O conference, where hordes of developers were handed a Galaxy Tab 10.1 Limited Edition that cannot currently interface with OS X, and has a whale of a time doing so with Windows 7. During our initial preview of Music Beta, we noticed that our MacBook Pro (OS X 10.6) wouldn't actually recognize the tablet, even after installing Android File Transfer. Given that we didn't actually need that functionality for the purpose of said article, we threw it on the backburner.
+
+For those unaware, Android File Transfer is a small app that's required to transfer content between OS X and Android 3.0. Avid users of Froyo and Gingerbread may be appalled that any Honeycomb device they buy will require a piece of software to interface with it, but hey -- there it is. At any rate, it seems to us that the latest build of Android File Transfer doesn't include the device ID for Samsung's heretofore unreleased Tab 10.1; if you'll recall, the standard edition of this thing isn't slated to hit consumer hands until June 8th. Regardless of what tricks we tried (installing a Mac version of Kies Mini, for example), we couldn't get a single Apple in our stable to recognize the thing. In one instance, a Mac viewed the device as a "Samsung Modem" within the Networking pane -- that's as close as we could come to getting the two to mingle. AllThingsD's Ina Fried said her Tab 10.1 LE was merely recognized as a camera-like device within Aperture.
+
+Over on the Windows side, things are only marginally less awful. We've had a couple of Wintel boxes outright refuse to play nice with this "mysterious USB device," while others required multiple reboots and driver searchers to finally mount it as an external storage device -- and only with USB Debugging disabled. The upside is that those with patience (and a Windows 7 rig) can look forward to a single method of transfer, but it's certainly less than ideal.
+
+We're surmising that Google's cooking up a new version of Android File Transfer as we speak that'll take care of the compatibility issues, hopefully long before consumers start seeing these in early June. But for developers in the here and now? Stop wasting your afternoon trying to figure out why your Mac just won't cooperate, and give that Win7 system a little love.
+
+Update: After a bit of additional digging, we noticed that it's possible to access the Tab's file system from a Mac or Windows PC by using the Android SDK, putting the tablet in USB debugging mode, and running ddms. It's not the most convenient solution if you want to quickly and conveniently transfer some content to / from the device, but it should work until AFT sees an update. Alternatively, we're hearing that XNJB -- an older open source project originally built for Creative Nomads -- enables files to be transferred whenever it's in a good mood.
+      
+
+ 

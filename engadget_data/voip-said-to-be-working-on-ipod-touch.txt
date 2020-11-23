@@ -1,0 +1,5 @@
+
+ We've already seen a microphone rigged for use with the iPod touch, and it now looks like that hack could soon be about to get a whole lot more useful, as the iPod Touch Mods blog is reporting that an enterprising individual known only as "eok" has managed to get VoIP working on the device. According to the blog, eok used the SIP-based SvSIP application originally developed for the Nintendo DS as the basis for the hack, although there's unfortunately few other details at the moment, let alone the recompiled version of the app itself, or even a screenshot of it in action. Given the history of these things, however, we wouldn't expect it to take too long for those tidbits to trickle out, assuming the hack lives up to its promise, that is.[Thanks, RadicalxEdward]
+      
+
+ 

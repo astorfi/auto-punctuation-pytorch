@@ -1,0 +1,5 @@
+
+       The Nokia / Samsung / Toshiba / Sony / Silicon Image team hoping to bring a standard to the world of high definition outputs on mobiles just got a bit official-er, shifting from the old working group title to the newly formed MHL (Mobile High-Definition Link) Consortium. If you haven't been paying attention over the last couple of years (we understand, we've been caught up in the Twilight series too -- Bella's life is so complex) Silicon Image has been pushing a 5-pin alternative to pared down HDMI jacks that are capable of outputting 1080p to connected displays while also providing power to the mobile device over a single cable. A 1.0 draft of the spec is due in the first half of the year, but an early peek is available now for $100. Since we're not CE companies looking to implement the jack or build cables and docks we'll pass but you might be interested in perusing the FAQ on the site if you're still not sure why we need yet another type of connector to feed HD from our pocketable devices to the big screen.
+      
+
+ 

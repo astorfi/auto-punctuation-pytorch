@@ -1,0 +1,10 @@
+
+Epic Games can crow all it wants about how easy its next-gen development toolset is to use, but until we actually see results, those words are pretty hollow. That changes today with the release of Tappy Chicken, the first Unreal Engine 4 game released for Android, HTML5 browsers and iOS. Yeah, it's a far cry from the fiery demon we've come to associate with anything UE4-related (and it looks more than a little bit like another flying fowl), but the key here is that Epic says it's the work of exactly one person using a sort of simplified scripting system called Blueprints. What's more, the developer isn't even a coder -- he's an artist by the name of Shane Caudle. Caudle designed the game-play loop for the procedurally-generated game in an evening and spent around a week on the menus and squashing bugs. Epic says that it could even be ported to consoles pretty easily. The reason for the free game? To show how easy it is to mod and add-on with UE4 even by someone who doesn't know a lick of typical programming languages like C++. If you want to give it a go for yourself, all it takes to start is $19.
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+Just two weeks after the last revision went up, Apple's released iPhone OS 3.0 beta 4 to the developer community alongside an iTunes 8.2 pre-release. No word yet on what has / hasn't been updated, but we do know the new iTunes is required to activate beta 4. More information as we get it.
+
+[Thanks to everyone who sent this in!]
+
+Update: We've toyed with beta 4 for just a few quick moments now, and naturally, the first thing we had to check out was that previously-empty "Store" settings pane. It's now populated, and it's mega-boring; all it does is allow you to sign in and out of your iTunes account, and while signed in, there's an Account Info button that lets you get booted out to an unstyled web page where you can view and edit your credit card information and the like. On the iTunes 8.2 side of things, we noticed that we were explicitly warned that the app would verify that our phone was activated for use with the beta firmware -- we don't remember seeing that before -- and the Gracenote legal mumbo jumbo in the About window now specifically calls out both DVD and Blu-ray metadata, which we're taking as a promising sign of playback support in the not-too-distant future. Thanks, David!
+ 

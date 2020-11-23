@@ -1,0 +1,4 @@
+
+One of the Xbox launch's big reveals was that Microsoft added 300,000 servers to Xbox Live, and now GM Matt Booty has detailed to Ars Technica how that'll improve game play. He said the improved cloud architecture will speed up GPU- or CPU-heavy chores that aren't dependent on latency -- like lighting or cloth dynamics -- by pre-calculating them before applying them to a scene. To make that happen, the Xbox One server cloud will provide three virtual devices for "every Xbox one available in your living room." It'll be up to game developers to manage transitions between console-only and cloud assisted graphics, though, since the first few seconds of lighting in a new scene will need to be handled by the console before servers can take over. Of course, that means many titles may look better when you're online, but he added that you'll still be able to play if the internet is cut and "the game is going to have to intelligently handle that."
+
+

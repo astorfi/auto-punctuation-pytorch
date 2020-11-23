@@ -1,0 +1,6 @@
+
+ 
+It's no big secret that NVIDIA's potent Tegra chip will be powering Microsoft's forthcoming Zune HD, but up until now, the former company had been rather quiet about its involvement in the project. Just a few days after the OLED-equipped portable media player went up for pre-order around the web, NVIDIA has stepped in to affirm that its own Tegra processor will be "providing the multimedia muscle in Zune HD." We're told that no fewer than eight independent processors make up Tegra's collective whole, with each one engineered for a specific class of tasks; among them are an HD video processor, an audio processor, a graphics processor and two ARM cores. Each of the chips can work together or independently to minimize power consumption, and the built-in nPower technology is said to optimize system power use and enable extended HD video / MP3 playback time. Sounds good in print, but we've got just under a month to find out how it performs for real.
+      
+
+ 

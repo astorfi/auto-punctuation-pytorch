@@ -1,0 +1,9 @@
+
+ 
+"The iPad's IPS panel is pressure-sensitive, you say?" No, that's not quite right, but with some clever software and a special capacitive stylus, the folks at Ten One Design built a convincing proof of concept anyhow. While we're not quite sure how it works, the current theory states that the soft tip of the stylus expands like a brush when you press it down, generating a "larger press" that can be detected by the hooks in Ten One's code -- which they soon plan to share as a free software library (assuming Apple allows) with developers around the world. See it in action in a video after the break, and if you're feeling your inner Rorschach today, let us know what you see in the above drawing.
+      
+
+ 
+
+
+ 

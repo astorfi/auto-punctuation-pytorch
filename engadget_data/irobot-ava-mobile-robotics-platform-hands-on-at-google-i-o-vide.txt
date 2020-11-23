@@ -1,0 +1,11 @@
+
+ 
+
+If you're under the impression that robots were all over Google I/O this year, you'd be right -- after all, it's a only small leap from robot to Android. Yesterday we got some hands-on time with iRobot's Ava mobile robotics platform and came away rather entertained. Ava is an autonomous robot that's equipped with and array of sensors (two Kinect-like 2D / 3D cameras, a scanning laser, ultrasonic transducers, and contact bumpers), driven by omnidirectional wheels, and controlled by its own Intel Core-based computer. The base hosts batteries, motors, as well as electronics and supports a telescopic mast that carries a pod containing touch ribbons, speakers, and a microphone. On top of this pod you'll find a "head" that can tilt / pivot and basically acts as the dock for any Android tablet. Ava is able to navigate a mapped-out space on its own while avoiding obstacles and people along the way -- going as far as to "blush" via RGB LEDs in the base if it accidentally bumps into anything or anyone. This autonomous behavior allows the robot to be controlled by simply setting waypoints and letting the onboard computer do all the hard work of coordinating sensors and motors to get it there safely. Google and iRobot have worked together and created APIs that allow Android developers to write apps -- from telepresence to roaming testimonials -- that control Ava wirelessly from the docked tablet. Both partners are hoping this will spearhead the development of unique new projects which combine the power of robotics and Android devices. There's no word on pricing or availability at this point, which comes as no surprise given that these machines are still very much prototypes. We'll leave you to look at our gallery below and watch the robotic ballet in our hands-on video after the break.
+
+
+
+
+
+ 
+ 

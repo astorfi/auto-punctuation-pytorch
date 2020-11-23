@@ -1,0 +1,10 @@
+
+For some strange reason, Sina Weibo's always required folks to log in to view some of its posts, but now there's more incentive for those who've yet to open a Weibo account. Announced yesterday, the website claims to be the first Chinese social networking platform to connect with Facebook -- the irony being the latter is still blocked in China, plus Tencent's WeChat already beat Weibo on this one.
+
+
+Anyhow, both new and existing overseas users (including those from Taiwan and Hong Kong) can now register their Facebook accounts on Weibo, thus letting them post Weibo messages to the former simultaneously. Understandably, it doesn't work the other way round, but this should still somewhat help Weibo expand its user base of over 530 million.
+
+
+As you can see in the above screenshots, this author took the new feature for a test drive and could only forward text-only Weibo posts to Facebook. That said, Sina's press release states that through Facebook's Graph API, Weibo users will eventually be able to also share images, videos, TV shows, music and mobile location to Zuckerberg World. For now, this Facebook integration is only available on the web client, but the Android and iOS clients will soon receive it as well. We've reached out to Sina to see what's up with the Windows Phone version, so stay tuned.
+
+

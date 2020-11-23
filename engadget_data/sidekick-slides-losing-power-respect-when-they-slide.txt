@@ -1,0 +1,5 @@
+
+ We're no QA experts here, but if your product is called the "Slide," isn't the slide mechanism the one thing you'd test the dickens out of? Alas, folks are discovering that Motorola's Sidekick Slide for T-Mobile has shipped with a devil of a flaw: actuating the display's slide periodically causes the phone to spontaneously reboot or to simply turn off and stay off. We've tested the claim on our own Slide, and yeah, it happens. Granted, it only happened twice out of thirty or so slides of the screen, but by standards of modern electronics engineering, we're pretty sure that's two times too many. As Boy Genius Report points out, to make matters even worse the power cycle is a hard reset, meaning your data's kaput unless you're within range of a T-Mobile signal to download everything from Danger's servers again. An ever-so-slightly loose battery seems to be the culprit here, but seriously, Moto, how did this defect ever leave a factory floor en masse?
+      
+
+ 

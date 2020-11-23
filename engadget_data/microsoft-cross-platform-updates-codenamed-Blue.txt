@@ -1,0 +1,4 @@
+
+ Still settling into Windows 8? Well, it appears that Microsoft's preparing for a sea change, codenamed "Blue," that will alter how it approaches cross-platform updates. According to ZDNet's Mary Jo Foley, an inside source at Redmond has indicated the company's desire to house all Windows Phone, Windows Services, Windows 8 and Windows RT updates under the Blue umbrella, though that won't necessarily indicate simultaneous releases. Far from it, actually, as the current plan is simply to schedule these updates on a yearly basis. Foley also goes on to note that for Win8, MS could ditch RTM releases altogether, in favor of feeding updates direct to the Windows Store and mentions that Windows 9 is still on track. What's not yet known is precisely what features this Blue crush of updates will entail. We'll keep you updated should this rumor prove to hold its water.
+
+

@@ -1,0 +1,50 @@
+
+Application security for connected cars is far less mature than anyone should be comfortable with. This was clear at the RSA information security conference last week in San Francisco, where two presentations demonstrated different ways cars can be remotely controlled or even stolen by non-owners. All because the people designing connected car apps literally didn't think things through and consider the possibility of second owners -- or hackers.
+
+
+
+At the RSA security conference last week in San Francisco, IBM's X-Force Red leader Charles Henderson told a twisted tale of a car he couldn't get rid of. Despite the fact that he'd sold his old car and gotten a new one, his previous vehicle's controls were still accessible through the its shoddy app.
+
+Being a hacker, he was very careful when he traded his old car in at the dealership. He wanted to make sure none of his personal information went with it, so he performed factory resets on everything and de-authorized all the accounts connected to the car.
+
+He took great pains to make sure the car was transferred securely.
+
+When he got home with his new vehicle, he noticed the old one was still listed on his app. He waited for it to go away.
+
+He thought it would take a few days to clear out of the connected car system. Days turned into weeks, then months. After two years, he became a car-app hacker to figure out exactly what was going on. Shockingly, as noted in his RSA talk, "four years later, I still have control of the car." He added, "If I were a criminal, I could've stolen the car."
+
+As a professional bug hunter, Henderson couldn't resist looking under the app's hood. He quickly realized that everything about security in the world of connected cars revolves around the first owner. They literally haven't thought through what happens when someone sells it.
+
+Henderson tested four major auto manufacturers and found they all use apps that allow previous owners to access the cars from a mobile device. In his talk, he was careful not to tell us who his car's manufacturer is. And he discovered that only the manufacturer can remove users from its car.
+
+The new car owners remain unaware. "There's nothing on the dashboard that tells you 'the following people have access to the car.'"
+
+
+Worse, when he enlisted other IBM employees to look into the problem, Henderson said they found a total of four car manufacturers failing to properly control access to cars after resale.
+
+Meanwhile, the dealers came up with a Band-Aid fix. They tweaked the app to limit its ability to geolocate the car down to a kilometer. Which defeats much of the purpose of having geolocation, of course.
+
+Henderson noted that the app also relies on the user's phone to report location as a way to verify owner access. He probably didn't need to explain to the audience at RSA just how easy that is to fake. "My phone tells lies convincingly," he joked.
+
+It's as if the app makers didn't consider that a car might be resold and have a second owner. Which, of course, is nuts.
+
+The next day at RSA conference, researchers Mikhail Kuzin and Victor Chebyshev examined app security for the seven most popular car apps for Android. "Unfortunately," they said, "all of the apps turned out to be vulnerable to attacks in one way or another."
+
+They discovered that all of the apps have "unencrypted user credentials" as well as "little in the way of protection against reverse-engineering or the insertion of malware into apps." Many stored login, password and the car's VIN number in plaintext. In one instance, "the username and password that had been entered during registration were displayed on the screen immediately after a login attempt."
+
+Kuzin and Chebyshev detailed their findings in a post, explaining that the breadth of security failures in these apps "allows any interested individual to take the app, modify it at his own discretion, and begin distributing it among potential victims."
+
+Not everyone can do it, of course. First a user has to be tricked into downloading a modified version of the car's app, which is easy enough with a tainted SMS link or phishing email. Meaning, all someone has to do is infect your phone with malware. "Despite that," they wrote, "the attack is quite surreptitious in nature, so the user will not notice anything out of the ordinary until his car has been stolen."
+
+But what about actually starting the car, you ask? "The thing is, a key is needed for a car in order for it to start moving."
+
+The researchers explained that after getting in, "car thieves use a programming unit to write a new key into the car's on-board system. Now, let us recall that almost all of the described apps allow for the doors to be unlocked, that is, deactivation of the car's alarm system. Thus, an evildoer can covertly and quickly perform all of the actions in order to steal a car without breaking or drilling anything."
+
+Just as app designers failed to consider what happens when a car is sold, Kaspersky's researchers noted that "nobody imagined a situation where the phone of the owner is compromised."
+
+A few years ago we might've seen these kinds of security mistakes as a unavoidable part of an immature connected-car market. Now, in our world of daily hacks, breaches and slow-motion security nightmares, these flaws come off as churlish neglect.
+
+Apparently once our hard-earned cash is forked over and the car's off the lot it's good luck, pal.
+
+Image: djedzura via Getty Images (Disarmed)
+

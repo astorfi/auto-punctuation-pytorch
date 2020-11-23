@@ -1,0 +1,10 @@
+
+Pocket founder Nate Weiner introduced the next phase of the app formerly known as Read It Later at the company's first-ever press event this afternoon. Pocket 5.0 puts the focus squarely on the user experience with intuitive features that know what you save most and how you're consuming it. Among the new additions is Highlights, an automated service that collects and surfaces your saved content based on your interests, sites you visit most, authors you follow and tags you've created within the app. According to Weiner, Pocket created Highlights to address the fact that while most users have saved more than 100 items to the app, many of those items after the 30th entry tend to go unopened. Pocket now marks items in your list with color-coded badges based on impact (Best Of), popularity (Trending) and length (Long Reads and Short Reads).
+
+
+In addition to knowing what you're reading, Pocket 5.0 also knows what you're reading it on and adapts appropriately. On mobile, the new app automatically pulls up five "Mobile Highlights" to make content discovery quicker. To that same end, the company's streamlined the app's navigation with a swipe menu that allows users to search multiple categories, including Highlights, My List, Videos, Favorites, Archive, and items Shared to Me, for those articles suggested by your friends. The update is available today on iOS and Android on November 20th with the web refresh scheduled for sometime in December.
+
+
+Weiner also announced a new dev tool called Pocket Preferences. Preferences allows third-party apps to easily recommend content to users based on the items that they save to Pocket. That service is now available on Zite, but will roll out to other apps "soon."
+
+

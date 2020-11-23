@@ -1,0 +1,8 @@
+
+       
+At first glance, Bug Labs' latest creation actually seems like a bit of a downgrade from the version it replaces -- it loses the onboard LCD display and a handful of buttons, after all -- but we sat down with CEO Peter Semmelhack today on the hustling, bustling floor of MWC to get the straight dope on what makes the BUGbase 2.0 a superior product. First of all, you can't overlook the fact that they've moved to a Cortex A8-based OMAP3530, an appreciable boost from the ARM11 core it replaces, but it turns out there are a whole bunch of subtler changes too, like the inclusion of on-board audio out (pictured above toward the left of the base), HD video out capability through a module, and a second microSD slot. Why two, you ask? Isn't 32GB of external storage enough? Probably, but Semmelhack points out that the second slot (covered behind a flap) is dedicated to loading the operating system, making it a trivial task to quickly switch between kernels or get unbricked.
+
+Although the unit we saw today has functional guts, we're told that the casing is pre-production -- not to say that "production" BUGbases need to look amazing, anyway, considering that they're frequently used for prototyping themselves. Though Android's already been ported to the Bug platform, the company is really driving home the message in 2.0; when you think about it, this kind of makes any Android dev out there a de facto Bug dev, so that's a nice angle to play. Look for it to ship by "early Summer," so it's time to scoop up that first-gen unit now if you're jonesing for the integrated display.
+
+
+

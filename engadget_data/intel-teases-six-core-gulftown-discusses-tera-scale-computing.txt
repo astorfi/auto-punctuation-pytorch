@@ -1,0 +1,6 @@
+
+ 
+The 32nm dual-core Clarkdale processors that recently made their debut are about to pave the way for Intel's next performance crown chaser, the six-core Gulftown. You might've known that already, but Intel's decided to furnish us with the above slide detailing the particular differences between the two dies, with the most notable being the whopping 1.17 billion transistors that the new CPU will be composed of. The major attraction of Clarkdale chips lies in their power efficiency and competent integrated GPU, but the Gulftown focus will be firmly on the high end. Hence, there's no integrated graphics, but the built-in memory controller supports three channels of DDR3 RAM and even plays nice with lower-powered 1.35-volt sticks. There's also confirmation that the forthcoming hex-core chip will fit inside the familiar LGA-1366 socket, so if you bought a high end Core i7, worry not, you'll be able to replace your still blisteringly quick CPU with an even faster beast. Quad-core variants -- by virtue of disabling a pair of cores -- are on the cards as well, while Intel also took the opportunity to delve into questions of 1Tbps+ bandwidth interconnects and its 80-core processor project, but you'll have to hit up the links below to learn more about those.
+      
+
+ 

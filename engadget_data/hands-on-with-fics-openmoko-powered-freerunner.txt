@@ -1,0 +1,6 @@
+
+ 
+So this is a really early version of the FreeRunner, but mad love to FIC for bringing it out for us all to play with nonetheless. The first thing you'll notice is that it's still sporting its predecessor's "Neo1973" branding, an indiscretion we were promised would be put to bed prior to the scheduled spring launch to OpenMoko's developer community. Anyone used to toting a smartphone of average size could totally get used to carrying the FreeRunner around, which we think is probably key to the device's success outside the enthusiast community. The current build of the software, though, is another matter entirely -- it's in a pretty raw alpha state right now and hugh swaths of core functionality appear to be missing. Then again, they've got a few good weeks until spring, and even then the FreeRunner will find its way into hackers' hands before the masses; they've got some solid-feeling, solid-spec'd hardware here and we're still really hopeful that the final product is going to rock.
+
+
+

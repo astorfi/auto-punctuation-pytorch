@@ -1,0 +1,6 @@
+
+ 
+Up until now, if you wanted Mozilla's dearly anticipated mobile port, you had a couple options: you could buy a Nokia N800 / N810, or you could score a Touch Pro and deal with a build ominously described as pre-alpha. Now the software's finally matured enough to hit Alpha 1 status -- although the Touch Pro requirement's still in place, so you fake Touch Viva owners are sadly still have to hold off a while longer. The major release improves memory behavior, moves the UI to a CSS-based solution that'll make resolution independence easier, and -- here's the biggie -- adds support for add-ons, so it seems like it's a worthwhile download if you're doing even a modicum of browsing from your phone. Next up, Mozilla plans to tackle overall Fennec performance on the WinMo platform head-on; maybe they'd care to have a go at Firefox 3 while they're at it?
+      
+
+ 

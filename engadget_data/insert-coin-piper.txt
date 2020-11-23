@@ -1,0 +1,18 @@
+
+In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+Home automation and security cameras seldom combine elegantly, especially for apartment dwellers who can't rewire their living spaces. Blacksumac, however, believes it can seamlessly meld those technologies through its upcoming Piper hub. The device links both a fisheye camera and environmental sensors to a Z-Wave-based home automation system. Out of the box, it can watch for intruders, listen for (or produce) loud noises and monitor local conditions like temperature. Once Z-Wave peripherals are involved, you can program sophisticated triggers and responses: Piper can send a warning when a door opens, for example, or turn on air conditioning when it's hot. We've had a chance to see Piper in action, so read on for both our early impressions and details of what you'll get if you make a pledge. 
+
+
+
+
+
+The hardware itself is sleek, particularly for a crowdfunded project. It's roughly the size of a bookshelf speaker, and is stylish enough to look appropriate on a corner table or mounted on a wall. There's both a microphone and speaker inside, and it has a battery backup. Blacksumac tells us that Piper should last for hours of basic monitoring on battery alone, although a power cut likely means that you're also without internet access -- the gadget won't do much during a sustained blackout.
+
+You're really here for the software, though, and that's where Piper shines. The pre-release iOS app (there's also Android support) makes it easy to check the hub's status, control Z-Wave devices, view recent events and set up rules for when you're home or away. Alerts can reach individuals or whole groups, and you can speak directly to anyone near the system. PIper makes particularly good use of its camera's ultra-wide angle lens -- you can pinch to zoom into a distant scene, view a panorama or split the view into four controllable sections. The app will also let you control any lighting directly from the live video mode. While Piper isn't infinitely powerful (it won't control your home theater, after all), it stands out simply because it feels whole; there's no conspicuous split between the automation and security features.
+
+If you're intrigued, you can make a pledge of $189 in exchange for a North American WiFi version of Piper ($209 after the first 100 buyers). Paying $299 nets a bundle with two Z-Wave sensors, $500 provides a cellular beta test edition and $1,500 offers early access to the developer API. Should Blacksumac reach its $100,000 funding goal, it plans to deliver WiFi Pipers in November and cellular variants in April. Head to the source link to contribute, and check out a video demo of Piper below.
+
+Previous project update: SparqEE's CELLv1.0 has made good progress in just a few days, having reached over $18,800 in funding. However, the team still needs your help to make that $70,000 goal, so you'll want to invest now if you like SparqEE's approach to cellular Arduino shields.
+
+

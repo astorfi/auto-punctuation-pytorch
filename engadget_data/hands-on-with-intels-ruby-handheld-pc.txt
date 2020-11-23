@@ -1,0 +1,14 @@
+
+
+We kicked it at Intel's Destination Innovation event yesterday afternoon, and while most of what we saw there wasn't
+Engadget material — we couldn't care less about yet another way to sort through our digital photos — getting our hands
+on the Ruby, a concept design for a PDA-sized PC that can
+run Windows XP (or Vista…), made it all worth while. (The funny thing is that we didn't know this was an Intel
+prototype when we first stumbled upon the Ruby back in
+April.)
+
+
+
+ The one we played with was a little scuffed up (not by us, we swear), but James Song from Intel?s Systems TechnologyLab schooled us on some of the Ruby?s features, like 8 hours of battery life, built-in wireless, a QWERTY keyboard, alow-voltage Pentium processor, the ability to automatically change screen orientation when you rotate the device (notsure how well that?d work in practice, but it?s an interesting prospect), and an active digitizer display so you canrun Windows XP Tablet PC Edition on it (or whatever the Vista equivalent will be). They?re also thinking aboutdeveloping a stripped down Linux-based OS to run on Ruby, but it wasn?t clear how far along they might be onthat.   Anyway, you probably already have a firm sense of whether or not you?d ever want to get down with a device this size,but Song says that Intel (which obviously has no plans to build the device themselves) is already seeing interest inthe reference design from several manufacturers and that we should hopefully see the first devices based on the Rubyplatform in a couple of years or so.
+
+

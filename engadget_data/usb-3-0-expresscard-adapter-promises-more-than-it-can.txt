@@ -1,0 +1,8 @@
+
+ 
+Been fretting over the upcoming slew of USB 3.0 devices and your relatively new laptop's inability to exploit their full speed? Well this isn't going to help you much, but it's a great example of why you should shop with a careful eye and preferably from reputable stores. British e-tailer StarTech.com (no, we haven't heard of them before either) is now offering an ExpressCard-based USB 3.0 adapter for £39 (about $64), which seems a bargain considering the promised 5Gbps transfer speeds and general bragging rights associated with having SuperSpeed. But here's the rub: while USB 3.0 certainly supports such speeds, the ExpressCard 1.0 device in question doesn't. In fact, you'll be limited to a tenth half the speed the 3.0 controller onboard is capable of, leaving us to question what the exact point of this device really is. Any ideas?
+
+Update: We've double-checked the specs and this card can in fact give you 2.5Gbps throughput, which isn't quite so terrible, but still isn't the full USB 3.0 spec which is lauded on their sales page.
+      
+
+ 

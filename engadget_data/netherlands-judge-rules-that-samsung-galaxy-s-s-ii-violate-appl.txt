@@ -1,0 +1,21 @@
+
+
+
+A judge in The Hague just issued a ruling in Apple's patent infringement case against Samsung, prohibiting "the marketing of Samsung smartphones Galaxy S, S II and Ace for violation of Apple Inc. EP 2,059,868." In an official press release, the court explains that The Hague judge ruled to "ban trading of Samsung smartphones Galaxy S, S II and Ace," adding that Samsung also violated other did not violate Apple patents with its Galaxy Tab 10.1 and 10.1v. The judge determined that Samsung violated patent 2,059,868, which deals with "method of scrolling," but did not infringe 2,098,948 for "recording a flag in connection with multiple screen taps," or 1,964,022, which relates to dragging a slider to unlock the phone. We haven't been able to confirm, but from an online translation it appears that The ban will remain in effect through begin on October 13th. Hit up the source link for the full 65-page verdict (in Dutch).
+
+Update: A dutch IP attorney has pointed out that the judge has ruled patent 1,964,022 to be null and void, meaning Apple can no longer make claims in the Netherlands based on this patent. The judge also found that Samsung did not infringe on patent 2,098,948. The infringement of 2,059,868 does not affect the Galaxy Tab 10.1. (Correction: the main patent in question is 2,059,868 not 2,058,868.)
+
+Update 2: According to Tweakers.net, Samsung says that it will replace the software that infringes on Apple's patent (the Gallery application, specifically), which should allow it to continue to sell the phones. Notably, that Gallery application is the standard Android one used in Android 2.3, which also explains why the Galaxy Tab 10.1 is not affected by this ruling. Less clear is what the ruling means for other Android phones that use the same application.
+
+Update 3: Samsung Mobile's Kim Titus released the following statement:
+
+
+		Today's ruling is an affirmation that the GALAXY range of products is innovative and distinctive. With regard to the single infringement cited in the ruling, we will take all possible measures including legal action to ensure that there is no disruption in the availability of our GALAXY smartphones to Dutch consumers. This ruling is not expected to affect sales in other European markets. Samsung has a proud history of innovation in the mobile industry. We will continue our plans to introduce new products and technologies that meet and exceed consumer expectations. And we will defend our intellectual property rights through the ongoing legal proceedings around the world.
+
+
+
+
+
+
+[Thanks to everyone who sent this in]
+                 

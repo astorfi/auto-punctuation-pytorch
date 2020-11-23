@@ -1,0 +1,9 @@
+
+ 
+Been wondering about Nokia's strategy for conquering the rapidly expanding app space? Great! So were we, which is why we joined up with a recent dev event carried out by the Finnish company for an update on how and where things are going. It's a familiar narrative by this point: Qt is all set to become the way that Nokia-friendly apps are made -- whether it be for Symbian smartphones or MeeGo-powered mobile computers, coffee machines or infotainment consoles. Nokia did stress that its developer workflow has also been streamlined dramatically, and promised coders a better distilled experience that treats their time and money like the valuable commodities that they are. It's an encouragingly frank discussion of where things have gone wrong in the past and how Espoo intends to remedy them in the future, and we've got it all on video for you after the break -- no reading required!
+      
+
+ 
+
+Start - Streamlining the developer workflow.03:05 - Design center tools.04:16 - Devices and platforms, clarified.05:24 - Background on Qt.06.56 - Cross-platform development using Qt SDK.11:00 - Nokia Smart Installer and app distribution.12:35 - Qt QUICK (Qt User Interface Creation Kit).17:00 - Publishing to Ovi Store and app signing.
+ 

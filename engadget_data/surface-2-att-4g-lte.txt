@@ -1,0 +1,11 @@
+
+
+As hard as it is to believe, Microsoft has until now never put out a 3G/4G Surface tablet. But we knew one would come eventually: the company said it was working on an LTE-enabled Surface 2 and indeed, the thing recently surfaced (har) in FCC documents. Now it's finally here: Microsoft just announced that the LTE Surface 2 will go on sale tomorrow, and will be compatible on AT&T's 4G network here in the US. (Fun fact: its official name is literally "Surface 2 (AT&T 4G LTE)".) All told, it'll sell for $679 with 64GB of built-in storage. That's a $130 premium over the 64GB WiFi-only model which, if you're paying attention, is the same premium you'd pay for a cellular iPad over a WiFi one (it's worth noting, however, that the 4G Surface 2 is considerably less expensive).
+
+
+
+Happily, the Surface 2 comes free of any contractual agreements. The big catch, of course, is that you'll need an AT&T micro-SIM: the tablet supports LTE bands 4, 7 and 17, along with 3G UTMS (bands 1, 2 and 5) and regular old GSM (800/900/1800/1900MHz). In theory, that also means you should be able to get away with using a T-Mobile SIM, since T-Mobile also uses LTE 4 and 1900MHz 3G. T-Mo isn't officially supported, though, so don't expect anything in the way of possible bug fixes or performance enhancements. Either way, what's nice is that even with the LTE, the tablet promises the same battery life (up to 10 hours) and basically weighs the same as it did before.
+
+In any case, you can find the Surface 2 with LTE tomorrow at Microsoft Stores, MicrosoftStore.com and Best Buy (but not AT&T stores, oddly). Oh, and all those promotions Microsoft was offering back when the Surface 2 first launched? They still apply five months later on this LTE version. That means you can expect 200GB of free OneDrive storage for two years and a year of unlimited Skype WiFi calling and landline calls.
+
+

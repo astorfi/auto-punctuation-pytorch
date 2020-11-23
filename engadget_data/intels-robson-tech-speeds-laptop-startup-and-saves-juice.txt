@@ -1,0 +1,15 @@
+
+
+Intel is showing off some prototype Centrino systems that rock the instant startup due to integrated NAND flash
+memory chips. The cache technology, titled Robson, uses a high speed version of the
+flash memory that all the kids are
+putting in their digital cameras these days, so the tech is proven and the cost shouldn't be astronomical. Intel's
+system puts common files like system data and applications onto the flash memory, speeding up their access and reducing
+battery consumption. Nobody's signed on yet, Intel is just showing off the capability, but they say it's ready to be
+implemented so we're just waiting on some manufacturers to throw it into their systems. And the sooner the better;
+we've been waiting around for insta-boot for like 5 million billion years.
+
+
+
+
+ 

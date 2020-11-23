@@ -1,0 +1,29 @@
+
+Call of Duty continues to be a pretty big deal. Despite annualized releases and the occasional stinker (we're looking at you, Modern Warfare 3!), people still love to wage virtual war on Activision's battlefields. Hey, we hear this year's game is pretty good! And when you've got a new Xbox One or PlayStation 4 this holiday, there's a strong possibility you'll want to check out this year's entry, Call of Duty: Advanced Warfare -- statistically speaking, anyway. Should you be one of those folks: beware! Both Xbox One and PlayStation 4 versions of CoD are having issues. The kind of issues that make the game outright unplayable.
+
+
+Somewhere in Los Angeles, Kevin Spacey is shedding a single tear and he doesn't know why.
+
+
+
+
+So, what's going on with Call of Duty? It's down to platform. First up:
+
+PlayStation 4If you pre-loaded the game on PlayStation 4, Sony suggests deleting the file (nearly 40GBs) and pulling down the whole shebang once more. More specifically, it looks like Advanced Warfare issues on PS4 are strictly limited to folks who pre-loaded the game before launch (today). If you took advantage of said functionality, that may be why you're experiencing issues starting the game.
+
+Here's what Sony suggest you do, in full:
+
+ "Restore PS4 licences. [Settings] > [PSN] > [Restore License].If this doesn't solve the issue continue to [following steps]:
+
+ Go to Library, highlight Call of Duty: Advanced Warfare and press Options. Delete Game Content. While still in the Library highlight Call of Duty: AW and press X to re-download the content.Please ensure you download all available updates for Call of Duty: Advanced Warfare and your system is running the latest system software."
+
+Activision has yet to acknowledge the issues publicly, and we've not heard back from reps.
+
+Xbox One
+We've got firsthand experience with this one, and the issue is a little more prevalent than PlayStation's equivalent. If you buy Call of Duty: Advanced Warfare on disc, beware not to allow the game's update to download when you first insert the disc into your Xbox One. We said yes, and the game was unable to install from the disc. It ends up looping between "Installing" and "Queued," occasionally spinning up the disc, then quitting, then spinning again, then quitting again, ad infinitum. In the business, we call that "pretty whack." If you end up in this situation, we've got a tested solution -- and it works, at least on my Xbox One -- care of Crave Online:
+
+ Remove the Call of Duty: Advanced Warfare from the Xbox One disc tray. Navigate to My Games & Apps, then select the Call of Duty: Advanced Warfare and hit the Xbox One gamepad's Menu button. Select "Uninstall game" and hit A Re-insert your Call of Duty: Advanced Warfare game disc When asked whether you want to install the game's update, select "Update later" The game will install like normal! Hooray!Again, Activision has yet to acknowledge the issues publicly. We've asked. The company has forum threads set up to address issues with digital versions of the game, and an overall setup/installation page (which warns against playing the game before it completely installs, despite current-gen consoles allowing you to start before installation is finished). There's even a page dedicated to Xbox One installation issues, but nothing regarding the installing/queued loop that some folks are experiencing with disc versions of the game on Xbox One.
+
+We'll update this piece as we hear more, but for now: Beware!
+
+

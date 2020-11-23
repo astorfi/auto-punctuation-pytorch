@@ -1,0 +1,6 @@
+
+ 
+While OLPC's XO laptops are just now starting to roll off the assembly lines in Taiwan, everyone's chomping at the bit to get their hands on one. Until the lean green machines start turning up on eBay after reaching Libyan shores, however, curious folks (like us) will have to settle for running the XO in software emulation. OLPC News has just published instructions on how to install the emulator on a Windows PC or on Mac OS X (pictured), but to accomplish either, you'll need VMware. Bonus points if you manage to paint your laptop the same OLPC green as the XO for the full effect.[Via OLPC News]Read - OLPC XO emulation for WindowsRead - OLPC XO emulation for Mac OS X
+      
+
+ 

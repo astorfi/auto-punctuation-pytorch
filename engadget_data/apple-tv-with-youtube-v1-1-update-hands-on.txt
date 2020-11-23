@@ -1,0 +1,18 @@
+
+ 
+As we heard earlier this morning, the Apple TV v1.1 update with YouTube finally went out, so naturally we had to kick the tires. It works exactly as advertised (and shown by Jobs at D), but there are a few things we discovered.
+
+The update isn't available through iTunes, as you might expect -- it's either pushed out automatically directly to the ATV (it checks for updates weekly, and prompts if you want to install), or through manual update in the ATV's settings.
+The update process took about 9 minutes to download and install. Not nearly as bad as a TiVo update, but we still wish it would have been a bit faster.
+YouTube appears in the main dash, as expected. Users must log in with their YouTube account to rate videos, save to favorites, etc., but users who aren't logged in still get a video history.
+Using a keyboard on the Apple TV's USB port sure would be nice for logging in, searching videos, etc. -- we tried, it's still disabled.
+Video quality looks pretty decent, all things considered. YouTube regulars will be more than satiated.
+It was clear not everything has converted for Apple TV yet -- Engadget's smattering of YouTube videos were nowhere to be found. For shame!
+Unfortunately, you still can't fast forward further than the buffer has streamed, like you can with Google video.
+Apple also added an iTunes Store menu in the settings. Apple claims it's to set your country of origin so the top music previews aren't just assumed to be for US users.
+Other updates: parental controls setting for disabling YouTube, as well as slideshow option for screen saver.
+
+All in all we're pretty stoked. How much of a friggin pain is it to watch YouTube videos with your friends on your TV? (Don't act like you've never tried.) If you're an Apple TV owner you'll no doubt be using this more than you'd probably like to admit.
+
+
+

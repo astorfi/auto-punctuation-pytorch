@@ -1,0 +1,34 @@
+
+ 
+
+Update 16/3/17: Sky has begun rolling out an update to all Now TV boxes that disables developer mode and purges any sideloaded apps. 
+
+
+At just £10, Sky's Now TV box is pretty good value for money as is. The idea, of course, is that cash continues to flow in Sky's direction by means of the film, TV and sport subscription packages, but there's nothing to stop you from forking out the hardware fee and using it simply as a window to BBC iPlayer, 4OD and other free services. Understandably, the selection of channels is limited -- Sky would prefer you use the box for its paid content -- but with only a few minutes of tinkering, you can easily turn your Now TV into a robust network media player capable of pulling video and audio from your personal network and several internet sources. You see, Sky's hardware is basically a re-branded Roku LT player with a heavily curated app store, but as long as you have the correct file, you can push apps to a Now TV box that otherwise shouldn't be there. Being able to run software like Plex immediately makes the cheap set-top box an even more compelling proposition, and better yet, side-loading apps couldn't be much easier.
+
+
+ 
+
+Assuming you're all set up, logged in and faced with the Now TV channel screen, the first step is basically like entering a video game cheat code. With the remote, punch in:
+
+Home, Home, Home, Up, Up, Right, Left, Right, Left, Right
+You should be sent to a "Developer settings" page (shown below) with a prominent IP address centre stage, and the option to "Enable installer." Jot down the digits, follow the prompts to accept the T&Cs, and your Now TV box will reboot and look completely unchanged. (Note that our screenshot shows "Disable installer," as we'd already performed the step by this point.)
+
+
+Now, head to your PC, load up a browser window (we've heard Internet Explorer doesn't work, for some reason), and plug the Now TV box's IP into the address bar -- so, for us, it was http://192.168.1.65. This will take you to the rather bland "Development Application Installer" page. From there, you choose the app file (we'll come to those shortly), hit install, and within a few seconds it'll launch on the Now TV box and will be found in your channel list thereafter, just like any other app.
+
+
+Unfortunately, while the actual installation process is a cinch, finding app files isn't so easy. Sure, the Roku channel store is full of apps capable of running on Now TV boxes, but it's up to the developers to package up the app for side-loading, and you won't find the likes of Netflix and Amazon doing that. Furthermore, you likely won't care for most of the apps that do actually have neat .zip files for you to install, but that doesn't really matter. After all, you can only have one side-loaded channel running on your Now TV box at any one time, and you're going to want to fill that slot with a media manager like Plex.
+
+The latest build of Plex we could find for Now TV boxes can be downloaded here, but we'd sooner recommend RARflix, a modified Plex client with some UI tweaks, to serve as your front-end (you'll find that file here). Another polished option is MediaBrowser (.zip file here), which also streams content from your local network, but lacks some of Plex's bells and whistles.
+
+
+First and foremost, Plex is for pushing video, music and pictures from your computer and wider local network to your TV. You'll need to have Plex Media Server running on a machine at home to talk to the Plex app on your Now TV box, but it's no trouble to set up. From the web interface, you can tell it what folders to look for media in, all of which is then available to stream through the Plex app -- you can also agree to let it scrape your iTunes library if you've got a Mac. It'll associate movie posters, synopses and the like with your files, making for a pretty slick user experience on the TV. What's more, Plex has plug-ins (likes apps within the app) that allow you to stream from places like YouTube and Twitch. Admittedly their UIs are extremely basic, but they work well and video loads fast.
+
+
+Other cool features include the "Plex It!" bookmarklet for browsers, which can be used to add video from various sources and websites to a queue in the Plex web app. From there, you can fling them to the Now TV Plex app for big-screen viewing. For power users who want to add media sitting in cloud storage, free mobiles apps and other benefits, there's the paid Plex Pass subscription.
+
+Whether you choose Plex, MediaBrowser or any other manager you might find a .zip for on enthusiast forums, you're effectively turning that cheap Now TV box into a legit media centre and getting more out of it than Sky ever intended. Not bad for a tenner and 10 minutes of your time.
+
+
+ 

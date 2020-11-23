@@ -1,0 +1,11 @@
+
+ It's been a strong selling point from Google for security-minded users, and now Apple has finally come on board with a two-step verification process for Apple ID and iCloud users. Not surprisingly, the system works much the same as with Google and others: you first need to enable it on the Apple ID website, then you can use your mobile device to receive verification codes as needed (either via text message or the Find my iPhone app) to sign into various Apple services. You can also stash a recovery key away in the event you lose or are locked out of your phone.
+
+ In our testing, it appears that the functionality is slowly rolling out to US-based users, but in practice, the changes aren't actually sticking. We're hitting plenty of time-outs, and even after registering a device, we're noticing that the verifications aren't sticking within the Apple ID account. If you're running into issues, you may want to just wait as Apple irons out the kinks.
+
+
+
+
+ 
+
+ 

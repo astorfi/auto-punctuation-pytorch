@@ -1,0 +1,5 @@
+
+ 
+Yeah, I know you thought your Hello Kitty digicam was some hot stuff, but believe it or not the kids at Darpa have even got that one beat. Called ARGUS-IS (both named after the mythological eye guy and an acronym for Autonomous Real-time Ground Ubiquitous Surveillance - Imaging System) this guy straps a 1.8 gigapixel camera to the bottom of an A-160T Hummingbird robot helicopter. The device is able to hover at high altitude (over 15,000 feet) for up to 20 hours -- keeping tabs of an area of over a hundred square miles. The frame rate is 15 fps and the "ground sample distance" is 15 centimeters -- each pixel represents about six inches. The sheer amount of data taken in by a camera like this is too large to be completely relayed to the ground, but users are able to define upwards of sixty-five independent video windows within the image and zoom in or out. Additionally, windows can be set to automatically track items such as moving vehicles, individuals, the books you get out of the library, and the items you pick up at 7-11 after a night out with the gang.
+
+ 

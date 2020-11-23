@@ -1,0 +1,4 @@
+
+ 
+It's no secret that most of you aren't exactly pleased with Apple's decision to charge $20 to add in Mail, Maps, Stocks, Weather, and Notes to the iPod touch, but there's another segment of Apple users feeling burned by last week's announcements: Airport Extreme owners. Seems like Apple's only enabled network support for Time Machine when used with Time Capsule, not for USB disks connected to the Airport Extreme -- even though early Leopard promo materials promised such support. Of course, it's an easy hack to enable NAS support (although it's probably pretty risky), and who knows what'll happen when 10.5.2. is released, but for now, it certainly seems like Airport Extreme owners just got a raw deal.
+ 

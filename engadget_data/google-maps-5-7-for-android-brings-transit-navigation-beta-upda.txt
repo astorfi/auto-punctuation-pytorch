@@ -1,0 +1,14 @@
+
+ 
+
+Good news, jetsetters -- those of you relying on Google Maps Navigation will now find it even harder to wean yourself off of it. Not like we'd ever recommend that, though. The navigators in Mountain View have just updated Google Maps for Android to v5.7, and while it's just a point update in terms of numbers, there's a healthy chunk of new material here. For starters, there's the addition of added Transit Navigation (Beta), which brings GPS turn-by-turn (or in this case, stop-by-stop) navigation to public transit systems in 400+ cities worldwide. It'll tap into your GPS module to determine your current location, and then alert you when it's time to get off or make a transfer -- downright invaluable in a place where you don't speak the language. After starting your trip with Transit Navigation, you can switch to another app or holster your mobile altogether, as an alert will still pop up in the notification bar (as well as a vibration) when the next stop is coming up. Google doesn't say specifically, but it sure sounds as if it caches things before you head into the tunnel, nixing that whole "underground service" problem.
+
+Moving right along, users will also find improved directional services for driving / walking as well as a streamlined direction acquisition system within a Place page. There's also a couple of new improvements in search suggestions, with the addition of category icons and auto-insertion of places you got directions to into Places. Finally, the addition of the Photo viewer for Place pages should help you better visualize what you're about to walk (or drive, we guess) into. Head on down to the Market link below if you're down to try something fresh, but make sure you're rocking an Android 2.1+ device. Wouldn't want to crush your dreams, G1 owners.
+
+Update: Android Central spotted a huge, huge inclusion to this build: the ability to download maps for offline usage. Check out a video just after the break.
+      
+
+ 
+
+  
+ 

@@ -1,0 +1,14 @@
+
+
+
+Akamai announced on Tuesday that its Security Intelligence Response Team has discovered a massive Linux-based botnet that's reportedly capable of downing websites under a torrent of DDoS traffic exceeding 150 Gbps. The botnet spreads via a Trojan variant dubbed XOR DDoS. This malware infects Linux systems via embedded devices like network routers then brute forces SSH access. Once the malware has Secure Shell credentials, it secretly downloads and installs the necessary botnet software, then connects the newly-infected computer to the rest of the hive.
+
+
+
+Security researchers had been aware of XOR DDoS since last year but have just recently noticed the effects of the botnet itself. According to Akamai, the network strikes around 20 times a day, though 90 percent of its targets are various businesses in Asia -- typically gambling and educational sites. What's troubling isn't the scope of attacks but rather the size. This botnet is capable of driving anywhere from a couple Mbps to over 150 Gbps of traffic every minute at its targets. That upper figure is many times more than what even most multinational corporate networks can handle. It's the digital equivalent of hunting mosquitos with a hydrogen bomb.
+
+"A decade ago, Linux was seen as the more secure alternative to Windows environments, which suffered the lion's share of attacks at the time, and companies increasingly adopted Linux as part of their security-hardening efforts," Akamai told PC World. "As the number of Linux environments has grown, the potential opportunity and rewards for criminals has also grown." As such, anyone with a Linux rig is strongly advised to review their existing security implementations and harden them accordingly.
+
+[Image Credit: Anirban Basu / Alamy]
+
+

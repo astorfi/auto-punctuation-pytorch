@@ -1,0 +1,32 @@
+
+ 
+ European regulators have charged Microsoft for not giving Windows 7 users a choice of internet browsers when they install the OS. Although this is only an initial step towards a fine for the software maker, Microsoft agreed with the European Commission to offer browser choices to its Windows users over three years ago, avoiding a heavy antitrust penalty. Unfortunately, while Microsoft acknowledged the "technical error", this wasn't before the European Commission picked up the issue -- the EU's antitrust watchdog said in July that Microsoft had not complied with the order from February 2011. According to a Reuters report earlier this year, and echoed in the EU's statement below, the fine could amount to as much as 10 percent of the Redmond company's global turnover.
+
+ Update: Microsoft has issued a statement on the EU charge, received by The Verge.
+
+  "We take this matter very seriously and moved quickly to address this problem as soon as we became aware of it. Although this was the result of a technical error, we take responsibility for what happened, and we are strengthening our internal procedures to help ensure something like this cannot happen again. We sincerely apologize for this mistake and will continue to cooperate fully with the Commission."
+
+
+
+  Show full PR text   Antitrust: Commission sends Statement of Objections to Microsoft on non-compliance with browser choice commitments
+   The European Commission has informed Microsoft of its preliminary view that Microsoft has failed to comply with its commitments to offer users a choice screen enabling them to easily choose their preferred web browser. In 2009, the Commission had made these commitments legally binding on Microsoft (see IP/09/1941). The sending of a statement of objections does not prejudge the final outcome of the investigation.
+
+   In its statement of objections, the Commission takes the preliminary view that Microsoft has failed to roll out the browser choice screen with its Windows 7 Service Pack 1, which was released in February 2011. From February 2011 until July 2012, millions of Windows users in the EU may not have seen the choice screen. Microsoft has acknowledged that the choice screen was not displayed during that period.
+
+   In December 2009, the Commission had made legally binding on Microsoft commitments offered by the US software company to address competition concerns related to the tying of Microsoft's web browser, Internet Explorer, to its dominant client PC operating system Windows (see IP/09/1941, MEMO/09/558 and MEMO/09/559). Specifically, Microsoft committed to make available for five years (i.e. until 2014) in the European Economic Area a "choice screen" enabling users of Windows to choose in an informed and unbiased manner which web browser(s) they wanted to install in addition to, or instead of, Microsoft's web browser. The choice screen was provided as of March 2010 to European Windows users who have Internet Explorer set as their default web browser.
+
+   The Commission had opened proceedings to investigate the potential non-compliance with the browser choice commitments on 16 July 2012 (see IP/12/800).
+
+   Background on the commitments decision  In January 2009, the Commission sent Microsoft a Statement of Objections, outlining its preliminary view that the company abused its dominant position in the market for client PC operating systems through the tying of Internet Explorer to Windows (see MEMO/09/15). In order to address the Commission's concerns, Microsoft offered commitments, including the set-up of a "ballot screen" in the Windows PC operating system, from which consumers could easily choose their preferred internet browser (see MEMO/09/352). In October 2009, the Commission market tested an improved proposal from Microsoft (see MEMO/09/439).
+
+   In light of the reactions to the market test, the Commission concluded that the commitments would remedy its competition concerns and made the commitments legally binding on Microsoft in December 2009 (see IP/09/1941, MEMO/09/558 and MEMO/09/559), pursuant to Article 9 of the Antitrust Regulation No 1/2003.
+
+   More information about the browser choice commitment is available at: http://ec.europa.eu/competition/consumers/web_browsers_choice_en.html
+
+   Procedural background  A statement of objections is a formal step in Commission investigations. The Commission informs the parties concerned in writing of the objections raised against them and the parties can reply in writing and request an oral hearing to present comments.
+
+   The Commission takes a final decision only after the parties have exercised their rights of defence.
+
+   If a company has breached commitments made legally binding by way of an Article 9 decision, it may be fined up to 10% of its total annual turnover.
+
+ 

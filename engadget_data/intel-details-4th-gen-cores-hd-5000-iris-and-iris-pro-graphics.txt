@@ -1,0 +1,8 @@
+
+Many already believe that the real highlight of Intel's 4th-generation Core processor lineup would be a giant graphics update. Today, Intel is revealing that they're right -- and, importantly, that there's an equally large shift in naming strategy. Where 3rd-generation Core graphics were divided into two tiers, the new generation is focused on three, two of which are built for performance over efficiency. Ultrabooks with 15W U-series processors will use comparatively ordinary (if still faster) HD 5000 graphics. Thin-and-light laptops with 28W U-series chips get a new tier, Iris, that Intel claims is up to twice as fast in 3D as last year's HD Graphics. Power-hungry parts see even more of a boost: they can carry Iris Pro graphics with embedded DRAM, which should double the 3D speed on H-series mobile chips (47-55W of typical power) and triple it for the R-series (around 65-84W) on the desktop. We also know that M-series laptop and K-series desktop CPUs will have Iris Pro options.
+
+
+The feature set for the graphics trio is slightly more familiar to us, although there are a few tricks up Intel's sleeve. All three can draw DirectX 11.1 and OpenGL 4 visuals, as well as take on OpenCL 1.2 computing and faster media processing. We're almost more interested in the display modes, though. Along with receiving "enhanced" 4K output, the new Core graphics can handle a 3-screen collage mode -- we won't need dedicated video for a large, multi-monitor canvas. Sadly, Intel isn't providing more than incidental details about the processors themselves, although it has already teased that we'll get the full story around the Computex show in early June. 
+
+
+

@@ -1,0 +1,6 @@
+
+       
+We just grabbed a Sprint Overdrive 3G / 4G mobile hotspot and put it through some quick tests. If you're used a MiFi, you know the drill here -- you boot it up, it connects to either WiMAX or EVDO, and broadcasts a WiFi signal for up to five devices. Two things make it far more awesome than a MiFi, however: first, the LCD, which displays the numeric wireless password and data throughput; and second, the bandwidth, which peaked at around 4mbps down over WiMAX here in Vegas. (Uploads were slower at around .8mbps, though.) Yes, we're in love -- we've been testing Clear WiMAX here in Vegas and finding it pretty spotty, so the ability to seamlessly drop down to EVDO on the fly is much appreciated. We're going to throw the Overdrive right into the fire and use it as a part of our mobile CES workflow tomorrow, we'll let you know how it goes.
+
+
+

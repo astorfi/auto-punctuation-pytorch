@@ -1,0 +1,4 @@
+
+ Enyo originally came along from HP to help developers create resolution-independent webOS apps, but since version 2.0, it's become platform agnostic. While support for Windows 8 and WP8 through IE10 has been around for awhile, version 2.2 now brings packaged app creation for those OSes along with Blackberry 10 at the highest Tier 1 support level. The platform still requires native "container" software to package apps, with Enyo advising Visual Studio for Windows 8 and Cordova for WP8 and Blackberry 10. The company's swatted a few bugs and added contextual popups too, so if you're looking to get your JavaScript on, hit the source.
+
+

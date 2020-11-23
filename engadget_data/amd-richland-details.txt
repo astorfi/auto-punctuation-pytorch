@@ -1,0 +1,65 @@
+
+ Yearly product cycles? AMD doesn't need that long, thank you. It's planning to release a fresh batch of low-power APUs just 11 months after Trinity. Known as Richland, this generation won't be vastly different at the silicon level, as it's built on the same 32nm process as Trinity, has the same number of transistors and offers very similar compute performance in terms of raw GFLOPs. However, there are some noteworthy upgrades in attendance, including a move to Radeon HD 8000M graphic processors, which are claimed to deliver a 20-40 percent increase in "visual performance" in higher-end models, plus power-saving tweaks that should provide over an hour of additional battery life while watching 720p video -- perhaps even enough for two extra episodes of House of Cards. Some Windows 8 enhancements will also tag along for the ride, and these will promptly be revealed if you read on past the break.
+
+
+
+
+ 
+ Let's deal with Richland's hardware performance claims first, which are detailed in the slide deck above and include the obligatory "vs. Intel" comparisons that we've learned to treat with some caution. The top-end quad-core A10-5750M is claimed to beat a laptop Core i7 by over 50 percent in terms of 3DMark performance, and even a dual-core A6-5350M is said to have a 20 percent advantage. There's no sign of any all-round computing benchmarks, however, or even real-world gaming frame rate comparisons, so we'll wait to round up reviews of the new chips before making any judgement.
+
+ We will say this though: the prospect of AMD Dual Graphics is definitely attractive from a gamer's POV, with the APU's built-in Radeon HD GPU working hand-in-hand with an additional, discrete GPU to capitalize on the 8000M series' visual strength. The company has confirmed to us that Elite-branded Richland APUs will allow Dual Graphics with a wide range of latest-gen chips, from the 84xxM through to the 87xxM, so this sort of configuration should appear in a good few laptops from OEMs.
+
+ 
+ As for software enhancements within Windows 8, Richland includes face unlocking, off-screen gesture control (i.e., flapping your arms around to scroll) and AMD's own solution for WiFi-based screen mirroring to a DLNA-compatible display. As the video above shows, we had a quick play with a couple of these features back at MWC -- but they were demoed on a tricked-out Trinity laptop because Richland wasn't quite ready at the time. (You can also see more on the publicity video below.)
+
+ Not every software feature will come with every Richland chip. Face unlock will only work on the quad-core A10 and A8 variants, for example, while Screen Mirror will work all the way down to the A6. We're not exactly sure why such limitations exist, given that even a dual-core ARM-powered Galaxy Nexus can handle face unlocking without much a-do, but there we go.
+
+ In terms of the release schedule, here's where shortened product cycles can make things a little complicated: Richland should arrive in regular-shaped laptops (with TDPs between 20 and 35 watts) starting next month, while ultra-thin notebooks (17 watts or less) and desktop parts should get here by the Summer. By then, we'll be a lot closer to the launch of AMD's Kaveri APUs, which are to due to ship before the end of this year and should represent a more radical leap than Richland. And in the midst of all this, of course, we're also keeping a lookout for a fin in the water, aka Haswell.
+
+ 
+  Show full PR text   New AMD A-Series APU Offers Mobile PC Users Innovative Experiences, Elite  Graphics Performance and Longer Battery Life
+   ─ Notebooks with highest performance AMD A-Series APUs  expected on shelf this month ─
+
+   SUNNYVALE, Calif. - Mar. 12, 2013 - AMD (NYSE: AMD) today announced the first availability of the AMD Elite A-Series Accelerated Processing Units (APUs), codenamed
+
+   "Richland." The new AMD Elite A-Series APUs deliver innovative user experiences like facial log-in and gesture recognition, improved graphics1 and compute performance2 over the previous generation, and enhanced power management capabilities on a single chip.
+
+   "The high performance AMD A-Series APU continues to impress with its ability to deliver stunning graphics and immersive experiences with even more battery life. Our engineers have done a superb job of increasing processor performance while decreasing power consumption," said Bernd Lienhard, corporate vice president and general manager of AMD's Client Business Unit. "With the capabilities built into our 2013 AMD Elite A-Series APUs, including new software for gesture control, facial recognition, rich entertainment and more lifelike gaming, we are delivering an ever richer experience to end users and our customers."
+
+   With faster performance and improved power management in the same platform architecture as its predecessor, coupled with AMD Radeon™ HD 8000 Series graphics, the 2013 AMD Elite A-Series APUs build on the award-winning history of AMD's original APU line-up to help users get the most out of their notebooks, whether at work, at home or on-the-go.
+
+   Differentiated User Experiences
+
+   The new AMD Elite A-Series APUs leverage the power of the combined compute and graphics cores to accelerate a suite of available software experiences that can dramatically expand and enhance the user experience:
+
+   • AMD Face Login– Uses facial recognition technology and a webcam to allow for quick log-in to Windows and other browser-based websites that require a log-in, like social networking sites and email services;
+
+   • AMD Gesture Control – Tracks a user's hand gestures and converts them into commands for basic functions on media players, browsers, e-readers and other popular applications leveraging a webcam, advanced image processing and machine-vision algorithms;
+
+   • AMD Screen Mirror – Wirelessly shares content like photos, videos, HD media streams and webpages from a PC or tablet based on a 2013 AMD A-Series APU with any supported TV or display with a DLNA receiver, or with other PCs. Available only on select AMD-based devices;
+
+   • AMD Video Entertainment Features – Make your content look its very best: AMD Steady Video technology gives users push-button control over shaky home video and helps stabilize the images for better viewing; AMD Quick Stream technology enables smooth video streaming and a virtually interruption free streaming experience; and AMD Perfect Picture HD8, creates rich and lifelike color on video entertainment.
+
+   This optimized-for-AMD software will come pre-loaded on select AMD Elite A-Series APU-based notebooks later this year and will be downloadable from www.amd.com next month.
+
+   Next Level Performance
+
+   Through engineering optimizations on the previous generation of the AMD A-Series APU platform architecture (formerly codenamed "Trinity") and updated graphics, the 2013 AMD Elite A-Series APUs feature significant performance increases along with support for high-end technologies:
+
+   • Visual and compute performance increases over the previous generation of AMD A- Series APUs;
+
+   • AMD Start Now Technology9 for tablet-like responsiveness;
+
+   • Improved AMD Turbo CORE technology with higher boost frequencies than the previous generation, for more performance when you need it and energy conservation when you don't;
+
+   • Support for AMD Eyefinity technology10, AMD Radeon™ dual graphics11, and DirectX® 11.
+
+   Enhanced Power Management
+
+   AMD continues a power/performance leadership through the latest generation of power management technologies. These boosting and throttling technologies enable more intelligent, higher compute and graphics core performance to help enhance PC responsiveness and extend battery life. Building on the idea of AMD AllDay™ Power, the 2013 AMD Elite A-Series Platform enables up to 7.9 hours of web browsing, 5.7 hours of HD video playback and up to 10 hours of resting battery life on a 55 watt/hour battery.
+
+   Availability and Technical Details
+
+   Performance and traditional notebooks based on these 2013 AMD Elite A-Series APUs are shipping now with availability beginning this month in select regions. New, low-voltage and desktop variants of AMD Elite A-Series APUs are expected to be announced and available in the first half of 2013.
+
+ 

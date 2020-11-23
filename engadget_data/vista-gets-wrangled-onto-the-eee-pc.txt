@@ -1,0 +1,8 @@
+
+ 
+It already seems pretty clear that there are few OSes that won't at least be attempted to be installed on the Eee PC, and it now looks like you can chalk up another of the big ones in successful column, as one fearless user has managed to squish Vista onto the diminutive laptop. To accomplish that feat, Paul O'Brien used the vLite tool to cut out as much bloat as possible before putting the custom disk image onto a USB stick, after which he then installed the OS on the Eee PC and, perhaps most notably, moved the Side by Side (or SxS) directory onto an 8GB SD card, freeing up some much needed space on the laptop itself. If for some reason you want to try that yourself, you can find complete instructions by hitting up the read link below, or you can live vicariously through the video after the break.[Via Gadget Lab]
+
+ 
+
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Recently we were sent a PR email about an iPhone app called BdEmailer. No big deal, press releases about new iPhone applications show up in our box in large bundles every day -- but this one was different. According to the release, the program is the "the first wide email iPhone app that supports client SMTP." That means, in essence, that it duplicates an exact function of Apple's Mail application on the iPhone and touch. That's kind of a huge deal, because up until this point we've been led to believe that this duplication of functionality is one of the company's red flags when it comes to approval. Now mind you, we're not complaining. The idea of having more apps to choose from for doing things like sending email is a great idea, but Apple... what the hell is going on? You refused MailWrangler and Podcaster for similar reasons, yet BdEmailer passes through your review process, SMTP functionality intact? This means one of two things as far as we can tell -- either you've relaxed your policies on duplicate functionality, or you've gotten incredibly lazy when it comes to approving applications. We're inclined to believe it's the latter, as BdEmailer has a fair share of bugs that need working out, but really, people need some clarification here on what will and won't pass -- and moving the goalpost all the time isn't going to help.
+      
+
+ 

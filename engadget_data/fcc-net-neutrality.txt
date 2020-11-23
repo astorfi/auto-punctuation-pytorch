@@ -1,0 +1,24 @@
+
+Just as we expected, FCC chairman Tom Wheeler has come out in support of an open internet by invoking the agency's Title II authority, which will treat broadband internet the same as a public utility like telephone service. "Broadband network operators have an understandable motivation to manage their network to maximize their business interests," Wheeler wrote in an editorial on Wired. "But their actions may not always be optimal for network users." Specifically, Wheeler says the new rules will ban paid prioritization, which lets ISPs charge for faster access to its networks, as well as the slowdown of "lawful content and services." The open internet protections will also (finally!) apply to mobile broadband, which was left woefully untouched when the agency passed a limited net neutrality ruling back in 2010.
+
+
+
+Wheeler pointed out that the rise of the internet probably would have looked very different if the FCC didn't open up access to networking equipment in the '60s. He also related the tale of his own company, NABU, which provided high-speed cable internet during the '80s, but ultimately failed because it relied on getting access to networks from cable operators. Meanwhile AOL (which owns Engadget) managed to succeed because it was taking advantage of open phone networks -- despite being hundreds of times slower than NABU. "The phone network's openness did not happen by accident, but by FCC rule," he added.
+
+While Wheeler was previously relying on a portion of the Telecommunications Act of 1996 centering on "commercial reasonableness" to maintain an open internet, he ultimately changed his mind because he was worried that ruling would protect companies more than consumers. "My proposal assures the rights of internet users to go where they want, when they want, and the rights of innovators to introduce new products without asking anyone's permission," Wheeler wrote. "All of this can be accomplished while encouraging investment in broadband networks."
+
+The FCC's been facing plenty of pushback from cable providers and ISPs already, most of which are wary at the idea of additional regulatory scrutiny heaped upon them. Title II comes with plenty of stringent protocols, after all. Shortly after the announcement made its rounds, Information Technology and Innovation Foundation policy analyst Doug Brake said the following:
+
+Title II common carrier regulations represent a strong shift towards a European-style, precautionary regulation, over-regulating up-front without legitimate justification. This path will make it much harder to do pro-consumer network management, and is more likely to balkanize the Internet into distinct private networks and specialized services.
+
+Of course, the reaction from net neutrality advocates (like US Senator Al Franken) consider things from a different angle:
+
+This is a big victory. It's is a win for consumers, for small businesses trying to compete with the big guys, and for innovation," said Sen. Franken. "It's welcome news for all of us who have fought to keep the Internet free and open, and I'm so glad that the millions of Americans who spoke out in support of strong net neutrality rules have been heard.
+
+The whooshing sound of the echo chamber won't die down any time soon, but the Commission has been doing its best to keep internet providers from freaking out too much by assuring it'll take a "light touch" approach to how it applies those policies. It'll apply provisions of Title II that allow for enhanced consumer protections and tighter controls against "unjust practices" and "discrimination," for instance, while legally ignoring ones that make other Title II companies subject to "tariffs or other form of rate approval, unbundling, or other forms of utility regulation". That process is called forbearance, and applying it intelligently will make all the difference.
+
+The FCC's decision comes after President Obama called for the internet to be treated as a public utility back in November, a move that was swiftly criticized by ISPs (we wonder why). Last week, the agency also quadrupled the minimum speed for broadband to 25 Mbps (with upload speeds of 3 Mbps). These latest decisions by the FCC won't change the way your internet access works immediately, but it lays the groundwork for ISPs to provide faster service with fewer restrictions down the line.
+
+Chris Velazco contributed to this report.
+[Photo credit: Brendan Smialowski/AFP/Getty Images]
+

@@ -1,0 +1,5 @@
+
+ 
+ AMD's Radeon HD 7770 and 7870 reference cards already sport 1GHz clock speeds, but so far the high-end flagship 7970 has been stuck at 925MHz. That'd be no big deal, perhaps, were it not for rival NVIDIA's benchmark-stealing GeForce GTX 680, which autonomously adjusts its clock speed on the fly and easily hits 1.2GHz under the right conditions. But while NVIDIA has yet to roll out its full stack of 28nm cards, AMD is finding plenty of time to play catch-up. According to Australian site Atomic MPC, the company has revealed that the manufacturing process of its next-gen GPUs has improved to the point where the same average voltages can yield much higher clock speeds. Recent chips can reach 1.25GHz without struggling, which means a conservative "GHz Edition" of the 7970 can now safely be rolled out, of course with scope for much higher overclocking on third-party boards with more robust coolers. By the time the battle between Red and Green reaches full-swing, it might not be so easy to call a winner.
+
+

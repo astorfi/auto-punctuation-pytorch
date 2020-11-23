@@ -1,0 +1,6 @@
+
+We've heard quite a bit about iOS 7 today at WWDC -- in fact, the company made it clear there's still more to talk about. But despite having tons of new features to share, Apple set aside some time to walk through a new security utility, called Activation Lock. In essence, it is what it sounds like: if someone steals your phone and chooses to disable Find My iPhone, he won't be able to reactivate the phone. Same if they wipe the phone -- they'll be forced to sign in with your Apple ID and password, which they obviously wouldn't know. Barring extenuating circumstances (that "thief" happens to be a deranged ex-lover who knows your log-in credentials), the new feature should keep your data safe, if nothing else. But will it be a theft deterrent, as Apple hopes? That's a question we'll leave for another day. In the meantime, Activation Lock is available in beta today, and for iPhones, specifically. An iPad beta will follow in the coming weeks, with the final, public release set for this fall.
+
+
+Follow all of our WWDC 2013 coverage at our event hub.
+

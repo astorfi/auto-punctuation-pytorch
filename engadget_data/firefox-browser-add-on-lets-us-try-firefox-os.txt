@@ -1,0 +1,4 @@
+
+ We've had the chance to experiment with early versions of Firefox OS for awhile -- just not in Firefox the browser, where you'd nearly expect it to have shown first. At least one person appreciates that seemingly natural fit. A new Firefox OS simulator add-on, r2d2b2g, lets us try Mozilla's upcoming mobile platform from within the company's own browser for everything that doesn't depend on native hardware, including the browser and Firefox Marketplace. The goal is ostensibly to let developers test truly optimized web apps, although the simulator is also a good excuse for the curious to try Firefox OS without the hassle of a dedicated client or a real smartphone. If you can get by the early state of the simulator and the Xzibit jokes that come with putting Firefox on your Firefox, the extension is already providing a glimpse of a web-focused mobile future to Linux, Mac and Windows users at the source below.
+
+

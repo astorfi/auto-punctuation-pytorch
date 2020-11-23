@@ -1,0 +1,54 @@
+
+ 
+
+Your smartphone and / or tablet is just begging to get updated. From time to time, these mobile devices are blessed with maintenance refreshes, bug fixes, custom ROMs and anything in between, and so many of them are floating around that it's easy for a sizable chunk to get lost in the mix. To make sure they don't escape without notice, we've gathered every possible update, hack, and other miscellaneous tomfoolery from the last week and crammed them into one convenient roundup. If you find something available for your device, please give us a shout at tips at engadget dawt com and let us know. Enjoy!
+
+Official Android updates
+
+
+		The top story this week revolves around the HTC Thunderbolt's long-awaited Gingerbread OTA update. It was finally rolling out, which was exciting news for owners of the device -- until it had to be pulled because of some rather significant bugs. The largest of them all was that voicemail notifications no longer worked properly; video chatting through Google Talk was also slightly messed up as well. No word on when we can expect to see it come back with those bugs fixed. [Droid-Life]
+
+		Unfortunately, the Thunderbolt isn't the only phone falling victim to pulled revamps; the LG Optimus S on Sprint had its Gingerbread update kiboshed, though users have had two weeks to get it -- plenty of time for anyone to experience some of the bugs, which included the phone not charging, the SD card not being recognized when the phone's connected to the computer, no access to data services, and predictive text on the virtual keyboard stopped working. It's disappointing to see this happen so soon after the Kyocera Echo update went through a similar debacle. [SprintFeed]
+
+		LG Optimus 3D: V10K firmware update, enables phone to convert OpenGL-capable 2D games into stereoscopic 3D. Note: this still runs Android 2.2.2, so we're still waiting for Gingerbread. [AndroidCentral]
+
+		Motorola Xoom WiFi: Android 3.2.1 is beginning to roll out. [AndroidCentral]
+
+		Dell Streak 7: Honeycomb update rolling out now to unspecified regions [AndroidCentral]
+
+		Asus Eee Pad Transformer: Revamped to Android 3.2.1, adds other bug fixes [AndroidCommunity]
+
+		Casio G'Zone Commando: Gingerbread rolling out now [Droid-Life]
+
+		Motorola Droid 3: Minor maintenance refresh; enhances Google Talk with video chat support, several other fixes. [PhoneDog]
+
+		T-Mobile Samsung Nexus S: OTA install (with option to manually install) to Android 2.3.6; doesn't appear to break tethering. [AndroidCentral]
+
+Unofficial Android updates, custom ROMs and misc. hackery
+
+
+		The Android 2.3.5 ROM for the global Samsung Galaxy S II leaked early this week. [Pocketnow, SamFirmware]
+
+		You can now download the Android 2.3.4 SBF for the Motorola Droid X2, courtesy of XDA. [Droid-Life]
+
+		If you have a Sony Ericsson Xperia-branded device from 2010 or 2011, CyanogenMod7 support will most likely come included as part of an upcoming update. Ten Xperia devices will be added, though a timeframe for release wasn't announced. Check here to see if your device made the list. [XperiaBlog]
+
+Other platforms
+
+
+Check here to see if your phone is ready to receive Windows Phone Mango.
+
+		The ultra-rare AT&T HP Pre 3 just received an OTA update to 2.2.3.2207, right after a new webOS Doctor became available for the same refresh. [PreCentral]
+
+Refreshes we covered this week
+
+
+Windows Phone 7.5 Mango update now rolling out
+
+How to force Mango to your phone right away
+
+Samsung Taylor receiving Mango?
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

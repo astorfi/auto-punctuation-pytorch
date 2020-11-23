@@ -1,0 +1,6 @@
+
+   
+We saw this bugger in all its liquid-cooling glory the other day, which was impressive enough, but now NVIDIA has released the official specs for their upcoming 8800 GTX and GTS graphics cards, and we're pretty much in awe. Without further ado, the specs are as follows: the GTX measures "just under 11-inches" long, and sports a 575MHz "G80" processing core, 768MB of 900MHz GDDR3 memory, a 384-bit memory bus, for 86GB/s memory bandwidth, 128 unified shaders at 1350MHz and a 38.4 billion pixels per second theoretical fill rate. The GTS version features a "mere" 500MHz G80 core, 640MB of memory, 320-bit memory bus, for 64GB/s memory bandwidth, and 96 unified shaders, clocked at 1200MHz. The GTS edition also shaves that card length down to a more realistic 9-inches. Both cards are HDCP compliant and SLI capable, and they require 450 and 400 watt power supply units, respectively. The cards are also, of course, DirectX 10 compatible, so we should be seeing some performance gains beyond the mere horsepower gains -- which are immense in themselves. No word yet on price or exact availability, but we'd be clearing off a nice chunk of room on the credit cards for a Windows Vista Ultimate / NVIDIA 8800 combo purchase come this January, at least if you have any Windows gamer cred to maintain and/or procure.[Via AeroXperience]
+      
+
+ 

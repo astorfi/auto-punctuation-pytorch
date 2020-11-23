@@ -1,0 +1,4 @@
+
+Though Mozilla has long been a proponent of WebRTC for plugin-free video and voice chat, it hasn't been ready to enable the full protocol in Firefox as a matter of course. It's more confident as of this week: the newly available Firefox 22 beta turns on complete WebRTC use by default, allowing for both live web conversations and peer-to-peer file swaps. There's more to the release as well, depending on the platform. Windows users receive support for HiDPI displays, like that of the Kirabook; every desktop user also gets gaming-friendly OdinMonkey JavaScript tuning, a web notification API and a font inspector. Android users won't have WebRTC and other upgrades for now, but everyone can experiment with the latest Firefox beta at the source links.
+
+

@@ -1,0 +1,5 @@
+
+ They can't claim to be the first to rock HSUPA outright, but Belgian outfit Option appears to be the first to hit up the 3G+ tech via an honest-to-goodness data card. As a reminder, HSUPA is the de facto successor to HSDPA in the GSM family tree, leaving the plenty-fast HSDPA downlink speeds be to concentrate on boosting the uplink; it's capable of topping out at a whopping 5.7Mbps up, compared to HSDPA's measly 384kbps. Of course, those crazy upload times do us no good without somethin' we can plug into our lappies; that's where Option comes into the equation, demonstrating a prototype card using Qualcomm's MSM7200 chipset in a variety of real-life scenarios (including a car traveling at 50 km/h), managing a respectable 1.3Mbps up and 2.7Mbps down. Now that testing is in full swing, Option says we can expect commercial HSUPA products from their camp in the first half of 2007.
+      
+
+ 

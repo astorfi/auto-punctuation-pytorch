@@ -1,0 +1,27 @@
+
+Hello readers and welcome to another HOW-TO article. I originally was planning on doing the CVS Disposable Camcorder Hack, but it's only 90% done. To answer questions of can it be reused?: Yes, it can. But if you want to see it in action, I'll have it out and working at the first ever Hackaday meetup on Thursday. Come on out and see how it's done or if you can't make it, I'll have it up next Tuesday for you guys.
+
+
+But now we're talkin' audio. Sweet crisp sounding liquid music....coming from our iPods/DAPs of course. A lot of us are still probably using an old school tape deck and cassette adaptor to hook up our iPods to our car. However, with some modding, a few bucks, and a car of course, you can make a permanent auxilary jack for your car.
+
+
+
+ So how? Well, it�s easy enough. It just depends on your stereo situation.
+
+If you have an aftermarket head unit, it probably has a good chance of having auxilary input for your PS2, iPod, or whatever. If this is the case, read on:
+
+You�ll want to find a good spot on your dash near your stereo for the jack. Just pick up an RCA red and white audio to minijack (1/8� whatever you wanna call it). Then get a minijack extender so you now have a female minijack port to plug your iPod/Minidisc/Monkey into. Finally, get some kind of washer/bolt mechanism to lock the minijack into place. Superglue works if you�re dead broke too.
+
+ Using a dremel or similar cutting tool, drill out and sand out a nice little hole for your input jack. Once done, hook everything up to your car stereo and test it to make sure it works fine. You don�t want to have to keep going back in. Then, disconnect the red and white RCA ends from the head unit. Mount your minijack port properly and make sure it�s secure and that you like the way it looks. No turning back now! Finally, reconnect your RCA red and white cables to the head unit, hook everything back up, and you�re good to go. You can just run a basic minijack to minijack cable from the iPod into the Auxilary jack. It�s now clean, crisp, and you won�t have wires everywhere. You can even rig up a dock if you�re good with power and how it�s distributed, but thats for another rainy day.
+
+Now. If you don�t have a head unit with auxilary inputs. You have a few options still (though they�re a bit trickier):
+
+Option #1: Go out, buy a new head unit. $150 will do at Best Buy for a pretty good basic CD player w/ auxilary.
+
+Option #2: Go all out hardcore and follow this method. It�s a nice way of doing it but not all of us can solder and do the hard work.
+
+Option #3: If your car�s head unit has a seperate CD player like this guy�s Toyota Corolla, then you can basically workaround the CD player to allowed a different input. In this case, an iPod. Much easier than above but not as pretty in the end.
+
+Whichever choice you decide is yours. But by now, we should all start thinking about this considering how much we use our iPods and DAPs nowadays. Enjoy!
+
+

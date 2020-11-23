@@ -1,0 +1,22 @@
+
+
+Whenever discussing some new device that incorporates
+fingerprint scanning, we always make
+that stupid joke about how "now the crooks just need to cut off your finger to steal your ____." Well it turns out that
+criminals don't even need to go through the hassle of breaking out that hacksaw as long as they have some dental
+molding and Play-Doh handy. Associate Professor of Electrical and Computer Engineering Stephanie Schuckers and her team
+at Clarkson University found that most scanning systems can be fooled 90% of the time by taking a mold of the mark's
+finger, filling the mold with Play-Doh, and using the fake digit to gain access. Don't go running out to Toys 'R Us
+just yet, though, as the Clarkson team also designed an algorithm that detects the spread of perspiration from the
+pores out to the ridges of a live person's finger, and is only foiled by the Play-Doh method 10% of the time. Still,
+until this new tech becomes more widespread, along with iris scans, facial and voice recognition, and implanted RFID
+verification, we're gonna continue keeping our cash under the mattress that we fiercely guard as we telecommute from
+atop it.
+
+
+ [Via The Raw Feed]
+
+
+
+
+ 

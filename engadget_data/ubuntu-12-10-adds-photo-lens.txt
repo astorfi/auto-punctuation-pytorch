@@ -1,0 +1,5 @@
+
+ 
+ If Ubuntu is your OS of choice, you've already been enjoying so-called lenses to help you search through your music, videos, apps and documents. So why not a search filter for photos? Why not indeed, said the folks at Canonical. The dev team has just updated the operating system (version 12.10) with a Photo Lens that lets you search your pics by name, tag or EXIF data. What's more, in addition to searching photos stored locally, you can pull in pictures stored on sites like Facebook and Flickr, because who knows how many of your cameraphone photos bypassed your computer and went straight to the web?
+
+

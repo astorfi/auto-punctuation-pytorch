@@ -1,0 +1,9 @@
+
+ 
+As expected, Canada's D-Wave Systems has announced "the world's first commercially viable quantum computer," and they seem to be pretty stoked about it. The achievement is notable, since they've managed to build a whole 16 qubit computer that actually does some simple computations, even if it's far less powerful than even the most basic of home computers. Qubits are quantum bits that can be in an "on," "off" or "both" state due to fuzzy physics at the atomic level, and up until now the best anyone had done was get three qubits together for computing. This 16-bit version can solve Sudoku, create a complicated seating plan and search for molecular structures, but quantum computers will need to be in the range of thousands of qubits to be able to solve puzzles -- such as encryption -- that current computers cannot. D-Wave is planning to have a 1,000 qubit version ready by the end of next year, but scientists in the field are skeptical. The adiabatic method used by D-Wave, which cools electronic circuits into a superconducting state, with the resulting qubits being slowly varied in a magnetic field, might not be able to keep its speed when on that large of a scale. "It probably won't work but it's not quixotic," says Seth Lloyd of MIT. "If it works then they can solve really hard problems and they'll be very much in demand," he says. But it's a long shot: "It's certainly not the kind of company I'd invest my money in." To raise awareness, D-Wave will be opening the computer up to computational problems over the internet after the results of the project are peer-reviewed. More pics after the break.[Via Digg]
+      
+
+ 
+
+
+ 

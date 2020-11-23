@@ -1,0 +1,9 @@
+
+ 
+ On the list of nerd pastimes, miniaturization ranks pretty high. So, we're not exactly surprised to see a tiny N64 controller, but we're kind of amazed that this rather extreme hack managed to avoid detection since January. The itty bitty controller isn't a mod, but an original construction built around a PIC microcontroller. You might notice that the yellow C buttons are absent, instead Kirren (the creator) went with a tiny four way switch, which you'll see above the blue and green A and B buttons. The design skips the L key, but you'll find R and Z on the rear face. For a short clip of it in action head on after the break and, if you want to build one yourself, hit up the source.
+
+
+
+
+  
+ 

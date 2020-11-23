@@ -1,0 +1,12 @@
+
+       
+Microsoft is keen on unveiling the meat of its developer story around Windows Phone 7 Series at MIX10 in less than two weeks, but with GDC coming up next week, they're figuring that now is a good time to start dropping hints -- they'll want to be capturing the collective imagination of the gaming industry, after all, what with that Xbox Live integration they've got going on. To that end, Charlie Kindel of WinPho's developer experience team has outed a few key items at a reception in San Francisco this evening.
+
+The major points are that Silverlight, XNA, and .NET will figure prominently into the developer story -- not a surprise considering that Microsoft is heavily invested in both, gaming is central to the Windows Phone 7 Series story, XNA is a big deal on Zune HD already, and this all lines up with what we'd heard in the past. In fact, Kindel boldly proclaims that "If you are Silverlight or XNA developer today you're gonna be really happy." On the flipside, it's a bit ironic considering that Silverlight spends much of its existence going head-to-head with Flash, and all indications are that we won't see Flash support on 7 at initial availability (though it's sounding like a lock post-launch).
+
+One final note at today's event is that Microsoft has now officially confirmed for the first time that 7 represents a clean break from Windows Mobile as we know it today; existing apps won't be compatible. Though that's likely to be a pain for existing owners with specialized apps who are looking to stay in the Microsoft ecosystem, Windows Phone 7 Series itself is a very different beast than the operating system it replaces -- it feels different, seeks a different demographic, and symbolically represents a very important clean-slate departure for a company that had lost its way in the mobile space. The bright side for the 6.5 faithful, we suppose, is that Kindel closes by saying that they "will continue to work with our partners to deliver new devices based on Windows Mobile 6.5 and will support those products for many years to come" -- a message Microsoft has been echoing recently.
+
+We expect to hear much, much more on this at MIX -- and we might hear a few more tidbits at GDC as well -- but in the meantime, there's a developer Q&A going down on Twitter around 9:00PM ET (check the #wp7dev tag) where we could get some details. Stay tuned.
+      
+
+ 

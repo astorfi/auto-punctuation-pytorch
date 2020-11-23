@@ -1,0 +1,11 @@
+
+ 
+Remember when Oliver Kreylos impressed and shocked us by showing that a single Microsoft Kinect could create some remarkably stout 3D video? He's back at it again, this time blowing minds and demonstrating that two Kinects can be paired and their output meshed -- one basically filling in the gaps of the other. He found that the two do create some interference, the dotted IR pattern of one causing some holes and blotches in the other, but when the two are combined they basically help each other out and the results are quite impressive. As you can see in the video after the break, Oliver is able to rotate the camera perspective and basically film himself from a new camera angle that exists somewhere in between the position of the two Kinects, and do-so in real-time. Sure, the quality leaves a lot to be desired, but still. Wow.
+
+[Thanks, Mohammad]
+      
+
+ 
+
+
+ 

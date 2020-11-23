@@ -1,0 +1,7 @@
+
+ 
+ The warranty-voiders over at iFixit decided to spend their Friday evening tearing into a freshly delivered Nexus 4 and have given us a peek inside Google's smartphone darling. After removing a pair of screws and spending a few minutes prying off the rear cover, the teardown specialists found that the backplate's sparkling exterior isn't the only thing that makes it special. In addition to serving a cosmetic purpose, the hind side plate packs a handful of pressure contacts that power the handset's NFC antenna and connect its wireless charging induction coil. Extracting the battery required evicting additional screws and a fair amount of elbow grease to wrangle the 2100 mAh pack free from adhesive. As for the motherboard, its removal was a relatively easy process comprised of freeing it from a couple of connectors. The outfit's final verdict on the device's repairability isn't in just yet, but you can tap the source link below to gaze at the LG-made phone's innards.
+
+ Update: iFixit has given Mountain View's smartphone a 7 out of 10 score in terms of repairability. The three point mark-down stems from a tricky battery removal experience and the glass front, which is fused to the display and its frame. Also, despite the lack of LTE support, a close look at the motherboard reveals a Qualcomm WTR1605L seven-band 4G LTE chip.
+
+

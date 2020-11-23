@@ -1,0 +1,6 @@
+
+ 
+If you've recently plunked down $599-ish for a TomTom GO 910 portable GPS device, but decided to hop onto the interwebs real quick just before you plug that sucker in (yeah, we know, the odds are low), then it looks like it's your lucky day. Apparently the Netherlands-based TomTom just admitted to a UK security journalist that the TomTom GO 910s that were produced between September and November of 2006 have been shipping with a couple Trojans -- similar to Apple's little RavMonE.exe debacle last year. But not to worry: "The viruses that were detected present an extremely low risk to customers' computers," according to TomTom. Of course, relaying to the public such helpful information that TomTom was obviously aware of would be clearly out of the question, but it's nice to know that while manufacturing oversights caused a couple of Trojans to be introduced to unsuspecting PC users by spendy GPS hardware, they at least aren't the nasty kind. TomTom claims the problem has been corrected, and that "Appropriate actions have been taken to make sure this is prevented from happening again in the future." They also have some instructions at the read link for removing the viruses (win32.Perlovga.A Trojan and TR/Drop.Small.qp), which mostly amount to advising you to update your virus software.[Via Slashdot]
+      
+
+ 

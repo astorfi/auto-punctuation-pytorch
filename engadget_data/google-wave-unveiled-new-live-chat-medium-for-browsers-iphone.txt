@@ -1,0 +1,6 @@
+
+ 
+Google's big reveal at I/O? Meet Wave, the Next Big Thing from the Lars and Yen Rasmussen, makers of Google Maps. It's a very early build, meaning we won't see it anytime soon, but here's the gist: a "wave" is a chat session that enables you to send messages live, with each word being transmitted live -- no more "person X is typing" messages (don't worry, that can be deactivated momentarily / permanently with a "draft" button). You can also add others to the wave, drag and drop images for instant transfers, and share documents for on-the-fly edits (with all the participants working simultaneously, mind you), and get this... it does real time translation. So hot, and the crowd is in an uproar over this. The "waves" can be played back to see the conversation evolve / documents edited dynamically. We just got confirmation that it'll be coming to Android and iPhone, also, but they have yet to get the mobile platform to do the live updating. As they keep telling us, this HTML5-based platform is still in a very early stage, but all attendees will be getting an invite to a sandbox build later today. It's an open protocol, so expect other devs to add their own toys to the mix. Hit up the gallery for more pics.
+
+
+

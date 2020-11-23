@@ -1,0 +1,21 @@
+
+According to Bernhard Seefeld, product management director at Google Maps, "this is the most significant overhaul of Maps since it launched in 2005." We sat down with both Seefeld as well as Jonah Jones -- lead designer of Google Maps -- following a marathon keynote to kick off Google I/O. Their slice of the event centered around the desktop refresh of Google Maps, but there's actually a lot more to be excited about than what was announced today. Essentially, the preview that I/O attendees were granted access to is the first instance of Maps for desktop using vectors instead of tiles. In lay terms, that's a far sexier rendering engine, and users of the mobile Maps products will already be familiar with how it feels. Seefeld affirmed that the new desktop Maps is slightly quicker to load, but you'll want a WebGL-supporting browser to take advantage of the bells and whistles. (In our tests, the Maps experience was far superior in Chrome compared to Firefox.)
+
+
+We toyed around with the new layout for a bit, and overall, it looks and feels better. Refreshing, you could say. The search box is now entirely more useful, popping up intelligent cards beneath places you search for. You'll have glanceable access to operating hours, surrounding traffic and recommended places -- that's not new, it's just surfaced in a more sensible way now. There's also dedicated shortcuts to directions and starring. Visually, it looks a lot nicer, the zooms are a little cleaner, and the search box is a tad more useful. Street View is accessed via the search box now, and there's a toggle on the right side that overlays Google Earth data and (impressively) shows it from varying degrees of tilt. The magic really begins after you sign in with your Google account. If you've starred or rated a restaurant using Google Maps or Google+, for example, it'll automatically populate recommended eateries that your friends have rated highly. If, of course, your friends are using Google+. 
+
+
+
+
+The real rub here is that most of the new features in Maps rely on data fed in by Google+. It's actually a fairly depressing trend; Google's core services are becoming less and less spectacular for those who have no interest in joining yet another social network. We asked Seefeld and Jones if Google had plans to integrate recommendation data from Foursquare, Facebook or any other third-party service. "We aren't actively avoiding those," Seefeld said. The reality is that Google+ data was the most easily accessible as the new Maps were being built, so that's why the integration is so tight. Without saying as much, he gave the impression that future iterations will indeed inhale data from even more services -- including rivals -- to make the overall experience more useful.
+
+
+We also asked whether or not stars would ever become fileable. In other words, stars on Maps today are all the same. You can't file a certain segment of stars into a "North Carolina Museums" folder, or perhaps a "Moorea Vacation Spots" folder. There's no current way to assign stars to certain events or interests. According to Jones, that's something that could change in the future. That's actually one of the complaints that Google has been hearing for some time now from power users, and considering just how well labels work in Gmail, it's obvious that the company could cook up a similar filing system for Maps.
+
+
+Moreover, Seefeld confirmed that the Maps team is looking into more intelligent responses to inquiries. For instance, searching for "us national parks" in Google Maps leads to a bunch of useless results today. But in an ideal world, you'd see a zoomed-out view of the United States, with each National Park highlighted and clickable. While not in this iteration of Maps, it's something that's very clearly in the pipeline.
+
+
+In closing, both gentlemen assured me that the new edition of Maps would be coming to Google's respective mobile products in due time. It's using the desktop as a test bed for now, and once it's satisfied there, Android and iOS updates should follow in short order. For now, you can visit this link to request an invite for access to the Maps for desktop preview. Non-I/O attendees should see access granted in waves starting as early as tomorrow.
+
+

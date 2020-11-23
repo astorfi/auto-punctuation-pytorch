@@ -1,0 +1,5 @@
+
+ The insightful minds over at Cornell University's GPS Laboratory aren't messing around -- they only needed one week to hack the GIOVE-A (Galileo In-Orbit Validation Element-A, more commonly referred to as Galileo) and gain access to the European satellite system without those pesky PRN codes. If you're overwhelmed by acronyms, fear not, the jist is as follows: these guys at Cornell did the legwork in developing an algorithm to extract the pseudo random number codes that are used to give customers access to the Galileo GPS system, which unlike America's taxpayer-owned militarily-developed and free GPS setup, is funded by the European Union, European Space Agency, and private organizations (read: service comes at a cost). What those oh so hopeful profiteers obviously disregarded was the little known fact that, well, (right now) it's impossible to copyright physical data about the world, leaving them all but helpless here. So please, should you need access to another set of GPS sats, be our guest and snag all those previously unavailable and presumably costly PRN codes at your leisure.
+      
+
+ 

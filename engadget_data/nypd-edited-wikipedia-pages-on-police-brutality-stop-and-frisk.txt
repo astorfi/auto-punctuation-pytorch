@@ -1,0 +1,11 @@
+
+Apparently it's not just politicians that are concerned about their reputation on Wikipedia -- a report by Capital found evidence of the New York Police Department digging into the crowd-sourced encyclopedia. IP addresses registered to the NYPD have been linked to edits and/or requests to delete the Wikipedia pages for well-known police shooting cases like Amadou Diallo and Sean Bell. In the hours after a grand jury decided not to indict an officer for the death of Eric Garner, someone logged on via an NYPD IP address to make several changes to the corresponding article.
+
+
+
+
+But it's more than just hot-button incidents that were changed. A list of edits shows NYPD IPs significantly changed information related to its stop-and-frisk program, and the New York City Police Department entry. That includes a section on "scandals" that included a note mentioning that the NYPD had started editing the page in order to censor information. Besides requesting that the article on Sean Bell's shooting be removed because "no one except Al Sharpton cares anymore", edits on the network touched everything from Chumbawamba to Star Trek Generations.
+
+Going forward, activist and graphic designer John Emerson set up a Twitter bot @NYPDedits (using code released for such purposes after the Congress edits last year) to monitor future changes from known NYPD address ranges. As far as the NYPD itself, a spokesperson told Capital the matter is under "internal review." Wikipedia's rules discourage people from making edits on their own pages or for their own interest -- a rule clearly overstepped here -- but it remains to be seen if it will enact any type of ban on the NYPD's address range.
+
+

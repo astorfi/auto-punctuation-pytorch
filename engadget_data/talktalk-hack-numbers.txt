@@ -1,0 +1,14 @@
+
+
+
+Two weeks after TalkTalk confirmed a "significant and sustained cyberattack" on its website, the company has revealed exactly how much data was stolen. Hackers obtained personal details for 156,959 customers, including their names, email addresses and phone numbers. A week ago it placed the figure at "less than 1.2 million" -- and while that was technically accurate, today's update should feel like a radical downgrade. Of those affected customers, TalkTalk says 15,656 bank account numbers and sort codes were obtained in the attack. That's down from the "less than 21,000" it had stated previously.
+
+
+
+TalkTalk has also clarified that the 28,000 obscured credit and debit card numbers that were taken -- this figure hasn't budged from last week -- can't be used for financial transactions. In its previous update, the company broke out the number of stolen customer dates of birth too, but this information is noticeably absent in today's statement -- we suspect it's been bundled into the new 156,959 figure, which simply covers "personal details." TalkTalk is keen to emphasise that overall, only four percent of its customers have any "sensitive personal data" at risk.
+
+While the scale of the attack has turned out to be smaller than originally feared -- initially millions of customers were at risk -- it does raise questions about TalkTalk's security practices and those adopted by other British companies. After all, this is TalkTalk's third breach in the last year. The UK's Culture, Media and Sport Committee launched an inquiry earlier this week to delve into the TalkTalk hack and whether the defences set up by similar telecoms and internet service providers (ISPs) are strong enough. It expects to hear evidence later this month, and will publish its findings in a report next year.
+
+At the same time, police are still hunting the hackers. Four suspects have already been arrested: a 15-year-old boy from Northern Ireland, a 16-year-old boy from London, a 20-year-old man from Staffordshire and a 16 year-old boy from Norwich. All were cuffed on suspicion of Computer Misuse Act offences and later released on bail. Police haven't revealed their identities or drawn any connections between them -- the short timeframe for the arrests, however, means an organised hacker group was likely involved.
+
+

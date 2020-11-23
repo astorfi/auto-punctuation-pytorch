@@ -1,0 +1,11 @@
+
+ 
+ Another easter egg at Fujitsu's CEATEC booth was a system for transmitting coupons, URLs and other digital information from a TV screen to a user's smartphone. We'll back up a bit: the data ends up on-screen in the first place thanks to information embedded in light flashing at various levels of brightness (the frame rate is too quick to be detected by the human eye). Theoretically, when a viewer is watching a commercial, they'll see a prompt to hold up their phone's camera to the screen, and doing so will bring up a corresponding coupon or website on their handset -- it takes about two to three seconds here for the recognition. The embedded information covers the entire panel, so users don't need to point their device at a particular section of the screen.
+
+ In Fujitsu's demo, pointing a smartphone at the TV pulled up a website on the phone. It only took about a second for the URL to pop up on the device, and there was no noticeable flickering on the TV itself (essentially, the picture looks identical to what you'd see on a non-equipped model, since your eye won't notice the code appearing at such a high frequency). The company says this technology works at a distance of up to two or three meters. Head past the break to take a look at the prototype in action.
+
+
+
+
+  Zach Honig contributed to this report.
+

@@ -1,0 +1,5 @@
+
+ While it should hardly come as a surprise given the near constant stream of hacking fears we hear about these days, researchers are now warning about a possible vulnerability to an especially important bit of technology: medical devices that control the human heart. As The Wall Street Journal reports, the concerns are mostly centered around so-called "programmers," which are devices used to wirelessly communicate with the implanted defibrillator or pacemaker. Those devices are obviously only sold directly to physicians by a select group of companies but, as the researchers warn, it is at least conceivable that hackers could transmit the same radio signals using another device, allowing them to shut down the defibrillator or deliver a shock, or possibly even obtain a patient's medical information. The researchers are quick to point out, however, that this is "theoretical risk, not an actual risk," and they're not recommending that anyone consider deferring an implantation or removing a defibrillator. [Image courtesy of Medtronic]
+      
+
+ 

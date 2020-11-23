@@ -1,0 +1,6 @@
+
+ 
+We've seen some early USB 3.0 gear here and there, but it looks like the successor to everyone's favorite serial bus is off to a rocky start, with AMD and NVIDIA claiming that Intel is withholding crucial specifications necessary to develop an open host controller. Although Intel apparently already has working silicon, it's not willing to share -- so AMD and NVIDIA are working on a competing spec that will be introduced alongside Intel's. The first meeting of the alternate spec group is scheduled for next week, according to sources, but there could be problems with this diverging roadmap down the line: sources close to Intel say that the only reason the specs haven't been released is that they're not done, and that Intel doesn't want incompatible chipsets based on different versions of the spec out there. Sure, sure, but we're certain both sides are playing a little fast and loose with reality here -- good thing all these fools have until 2010 to get this sorted.[Via Everything USB]
+      
+
+ 

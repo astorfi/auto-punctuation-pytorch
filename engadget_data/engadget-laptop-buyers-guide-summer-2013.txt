@@ -1,0 +1,198 @@
+
+At last: the laptop buyer's guide we wanted to write three months ago. You see, when it came time to publish our spring edition, Intel was on the cusp of releasing its fourth-generation Core processors, which meant almost everything we were recommending was destined for a refresh. So we basically said, "Wait for Haswell," and called it a day. By now, though, most of said companies have upgraded their notebooks, if not released brand-new ones, so we can finally recommend stuff without any caveats about obsolescence.
+
+
+Of note: we've eliminated the "touch" and "non-touch" sections since most Windows notebooks (save for gaming machines) now come with touch, or at least offer it as an option. We've tried to make it obvious which of our picks have that feature and which ones don't. Oh, and if we've left something off the list, it might be because we don't yet have enough details about pricing or availability (the new Acer Aspire S3 comes to mind). Enjoy, and as always, if you have a favorite laptop yourself, feel free to tell us about it in the comments.
+
+
+
+ConvertiblesWhen Windows 8 first came out, PC makers were experimenting with all sorts of inventive designs in an effort to figure out what consumers actually wanted. In those early months, we saw laptops whose screens could rotate, pop out, detach and fold over. Others had a sliding design, and one even attempted two screens. The results were mixed -- so mixed, in fact, that our last two laptop buyer's guides have had just two recommendations in the convertible category. Now that these companies have had a chance to go back to the drawing board and start shipping some 2.0 products, we're starting to see more form factors we'd actually want to use. Ergo, we're expanding our list of picks to include... three models. That's progress, right?
+
+Lenovo IdeaPad Yoga 13
+The Yoga 13 was the first Windows 8 convertible to debut, and it remains one of the best, if a bit long in the tooth. Sure, it's imperfect (the battery life is low compared to some Ultrabooks), but it wins high marks for its lightweight build and comfortable typing experience. More than any of that, though, it's that shape-shifting form factor that makes it such a standout. Thanks to a sturdy hinge, you can fold the screen all the way back into tablet mode. If you like, you can also stop it partway so that the keyboard is flat against the table (Stand Mode) or so that the laptop is resting in Downward Dog position (Tent Mode). All that adds up to one versatile product with only a few compromises (think: the keys, which stay exposed in tablet mode). Our only caveat: we recommend waiting to see if this gets refreshed with Haswell (and we reckon it will). Do that and you'll be rewarded with slightly better performance. (We suspect our battery life complaints will be moot too.)
+
+The bottom line: A one-of-a-kind form factor and comfortable keyboard make this the most memorable Windows 8 convertible we've tested.
+
+Key specs: Up to a 2GHz dual-core Intel Core i7-3537U CPU, 4GB to 8GB of RAM, 128GB to 256GB of internal storage, Intel HD Graphics 4000, 13.3-inch (1,600 x 900) display.
+
+Price: $899 and up from Lenovo
+Dell XPS 12
+The Dell XPS 12 made our shortlist last time, so you can bet we have effusive things to say now that it's been upgraded with Haswell, NFC and a larger battery (50Wh, up from 47Wh). All told, between the beefier battery and new chipset, Dell is promising this thing will last 9.5 hours on a charge -- more than three hours longer than the OG model. Otherwise, it's the same machine it always was, with a 12.5-inch, 1080p screen that flips around in its hinge so that you can show off presentations and stuff to people sitting opposite you. It might not be quite as versatile as the Yoga, but we love it anyway for its solid build quality, attractive design and unusually cushy keyboard. After all, if you can't enjoy one of these convertibles in regular notebook mode, why even bother?
+
+The bottom line: Even if you rarely use it in tablet mode, the XPS 12 makes an excellent Ultrabook, especially now that Dell's refreshed it with Haswell and a bigger battery.
+
+Key specs: Up to a 1.8GHz dual-core Intel Core i7-4500U CPU, 4GB to 8GB of RAM, 128GB to 512GB of internal storage, Intel HD Graphics 4400, 12.5-inch (1,920 x 1,080) display.
+
+Price: $1,200 and up from Dell
+Sony VAIO Duo 13
+The last time we put together a laptop buyer's guide, the Sony VAIO Duo 11 didn't make the cut. In fact, no slider Ultrabooks did. The propped-up display eats up too much of the potential keyboard space, we said, leading to a compromised typing experience. The Duo 11, in particular, also suffered from short battery life and an ugly hinge design that left too many of the mechanical bits exposed. Fortunately, Sony went back to the drawing board and returned with a much-improved follow-up, the VAIO Duo 13. With its new "Surf Slider" hinge, the Duo is now much easier to open with one hand, and the back side has been cleaned up as well. Interestingly, though this steps up to a larger, 13.3-inch screen, the dimensions are about the same, and the weight is only slightly heavier. The secret? Thinner bezels to maximize screen real estate. But wait, we're not done yet: there's now a clip to hold the included pressure-sensitive pen. The keyboard, meanwhile, is more comfortable this time around, even if the touchpad is a bit cramped. And the battery life is much longer too, thanks to -- yep, you guessed it -- a spankin'-new Haswell processor.
+
+The bottom line: Sony got the slider design right on its second try, thanks to a completely revamped hinge, a more spacious keyboard and longer battery life.
+
+Key specs: Up to a 1.7GHz dual-core Intel Core i7-4650U CPU, 4GB to 8GB of RAM, 128GB to 512GB of internal storage, up to Intel HD Graphics 5000, 13.3-inch (1,920 x 1,080) display.
+
+Price: $1,400 and up from Sony
+High-end notebooksJust because every PC maker is experimenting with some strange, convertible form factor, doesn't mean regular, old notebooks are going the way of the dodo. In fact, most of the laptops we've seen this season are standard notebooks, many with touchscreens attached (at least in the case of Windows machines). In fact, with the exception of the Lenovo Yoga 13 and Dell XPS 12, all of the high-end systems on our list actually do hew to this design. Find our favorites below.
+
+Apple MacBook Air
+As many of you noticed, we cut the MacBook Air from our last laptop buyer's guide. That's not because we suddenly grew sour on its aluminum unibody chassis or its comfortable keyboard; it's just that we knew it was about to be refreshed, and we couldn't bear to send you home with a soon-to-be-obsolete system. Sure enough, Apple announced some new Airs, complete with Haswell processors and the promise of much longer battery life (up to nine hours on the 11-inch model, and up to 12 on the 13-inch version). Meanwhile, under the hood, Apple switched to faster PCIe SSDs, which yield much faster I/O speeds. On top of all that, Apple dropped the starting price of the 13-inch model by $100, making it that much easier for us to recommend.
+
+The bottom line: No, there's still no super-sharp Retina display, but the unbelievably long battery life more than makes up for it.
+
+Key specs: 11-inch model: up to a 1.7GHz dual-core Core i7 CPU, 4GB to 8GB of RAM, 128GB to 512GB of internal storage, Intel HD Graphics 5000, 11.6-inch (1,366 x 768) display; 13-inch model: up to a 1.7GHz dual-core Core i7 CPU, 4GB to 8GB of RAM, 128GB to 512GB of internal storage, Intel HD Graphics 5000, 13.3-inch (1,440 x 900) display.
+
+Price: $999 and up (11-inch) / $1,099 and up (13-inch) from Apple
+Acer Aspire S7-392
+If there's one theme coursing through this guide, it's that Intel's new Haswell processors promise to take laptops with poor battery life, and turn them into lean, mean, all-day machines. That couldn't be more true of the Acer Aspire S7, which first came out last year to mostly rave reviews. Well, raving about everything except the runtime, which topped out at around four hours. Recently, though, Acer refreshed its 13-inch flagship Ultrabook with Intel's fourth-generation processors, and is now promising up to seven hours of juice. Aside from that very important under-the-hood change, Acer didn't alter the design very much; the keyboard layout is similar, as is that white Gorilla Glass lid. Also, while the display option in the US is still a 1080p IPS panel, other markets, especially some European countries, will get the choice of a 2,560 x 1,440 screen. No fair, we say.
+
+The bottom line: The original Aspire S7 was nearly perfect, so if Acer's claims about seven-hour battery life are accurate, this refreshed model stands to be a hit.
+
+Key specs: Up to a 1.8GHz dual-core Core i7-4500U CPU, 8GB of RAM, 128GB to 256GB of internal storage, Intel HD Graphics 4400, 13.3-inch (1,920 x 1,080) display.
+
+Price: $1,400 from Acer
+
+Sony VAIO Pro 13
+Sony broke a lot of hearts when it discontinued its super-thin, super-light Z series. Fortunately for VAIO fans, though, the company recently came out with the Pro 13, a 2.34-pound, carbon fiber machine that's the spiritual successor to the ol' Z. Sony says it's the lightest touchscreen Ultrabook of this size, which sounds about right to us: this thing feels utterly insubstantial in the hand. In addition to that featherweight design, the Pro 13 offers PCIe SSDs, a 1080p display with wide viewing angles, a backlit keyboard and built-in NFC. Battery life is rated at seven hours (thanks, Haswell!), but you can double that with an external sheet battery (another nice carryover from Sony's older machines). Most importantly, though, Sony slashed the starting price of the 13 to $1,250, down from around two grand. There's also a less expensive 11-inch version, the Pro 11, but the keyboard is a tad cramped, and you won't get those fast PCIe SSDs (just regular solid-state drives).
+
+The bottom line: Sony's discontinued Z series laptop gets a new life with the Pro lineup, which offers great battery life, crisp displays and a much more reasonable starting price.
+
+Key specs: Up to a 1.8GHz dual-core Core i7-4500U CPU, 4GB to 8GB of RAM, 128GB to 512GB of internal storage, Intel HD Graphics 4400, 13.3-inch (1,920 x 1,080) display.
+
+Price: $1,250 and up from Sony
+Samsung ATIV Book 9 Plus
+Samsung went a long time without refreshing its Series 9 Ultrabook, save for adding a 1080p screen option earlier this year. Finally, though, the company announced a proper replacement, the ATIV Book 9 Plus, which goes on sale later this quarter (read: before September 1st). Though it's similar in design to the aluminum version that came out last year, this steps up to a much sharper screen -- a 13.3-inch, 3,200 x 1,800 panel with enough pixel density to surpass even the 13-inch Retina MacBook Pro. We also know it'll have Haswell processors, solid-state storage and a 12-hour battery, though unfortunately, Samsung hasn't revealed how much it'll cost here in the states. Given that the Series 9 was one of our favorite ultraportables last year, though, you just might want to wait for it.
+
+(Update: A few days after this guide was published, Samsung announced that the ATIV Book 9 Plus would cost $1,400 in the US, with pre-orders beginning August 18th. The company also issued a full list of specs, which you'll find summarized below.)
+
+The bottom line: One of our favorite Ultrabooks from 2012 gets refreshed with an eye-melting 3,200 x 1,800 display and a much more robust battery. What's not to like?
+
+Key specs: 1.6GHz dual-core Core i5-4200U CPU, 4GB of RAM, 128GB of internal storage, Intel HD Graphics 4400, 13.3-inch (3,200 x 1,800) display.
+
+Price: $1,400, pre-orders begin August 18th
+
+Mid-rangeASUS VivoBook V500CA-DB31T
+ASUS more or less started this trend of affordable, touchscreen laptops with its VivoBook line, and now it's back with some updated models. Though there are many options, each with a slightly different configuration, we'd steer you toward the V500CA series, in part because there aren't that many larger-screened ultraportables to choose from. You can get it for as little as $599 with an Ivy Bridge Core i3 processor, 500GB hard drive and 1,366 x 768 touchscreen. The best part? It weighs just 4.6 pounds -- not bad for a machine this size. There's also a $999 model with a Core i7-4500U (Haswell) processor, 1TB hard drive and a 2GB NVIDIA GeForce 740M GPU, but since the screen resolution there is still just 1,366 x 768, we say you're more likely to get your money's worth if you stick with a mid-tier configuration.
+
+The bottom line: If you can live with the fact that your next laptop won't technically count as an Ultrabook, the VivoBook offers many of the same attributes -- namely, a touchscreen and relatively thin and light design. 
+Key specs: 1.8GHz dual-core Intel Core i3-3217U CPU, 6GB of RAM, 500GB of internal storage, Intel HD 4000 graphics, 15.6-inch (1,366 x 768) display.
+
+Price: $599 on Amazon
+Sony VAIO Fit 15
+It's too soon to tell if Sony's figured out a way to sell lots of laptops, but it definitely came up with a surefire way to land multiple spots in our buyer's guide. The secret? Endow even your budget and mid-range laptops with top-notch specs. The $850 Fit 15 comes standard with a 1080p display, NFC, a backlit keyboard and an Exmor-R webcam that excels in low-light situations. With this generation, too, Sony's retooled the keyboard so that the buttons offer a little more travel than they used to. We're also fans of the metal design, which includes an extended lid that hides the hinge, as well as a hidden fan without any obvious vents. Our only complaints are that the battery life isn't great (that's Ivy Bridge for ya) and that it feels a little heavier than some other notebooks on the market. If you do indeed want something lighter, you can check out the $800 Fit 14, though the base model has a lower-res 1,600 x 900 screen.
+
+The bottom line: Sony gets it almost all right, with impressive specs, good performance and a comfy new keyboard.
+
+Key specs: Up to a 2GHz dual-core Intel Core i7-3537U CPU, 8GB to 12GB of RAM, up to a 1TB HDD with an 8GB SSD or a 512GB SSD, up to a 2GB NVIDIA GeForce 735M GPU, 15.6-inch (1,920 x 1,080) display.
+
+Price: $850 and up from Sony
+Toshiba Satellite P50
+As you might have gathered looking at this list, though Intel formally announced its Haswell processors back in June, some companies have been a little slow in getting their upgraded systems to market. In fact, some of the machines on this list still have Ivy Bridge. Not Toshiba's, though. The company recently unveiled a whole line of back-to-school systems, big and small. Of the bunch, the 15-inch P50 (that's P for "premium") hits the sweet spot for us, with a nice mix of higher-end design elements and robust performance. With this year's models, Toshiba's made the aluminum chassis up to 25 percent thinner. It's also added features like an optional touchscreen and an HDMI 1.4 port for 4K output (should you actually have some compatible content). Rounding out the list, Toshiba included Sleep and Charge / Sleep and Music ports as well as Harman Kardon speakers with DTS sound -- pretty much what we've already come to expect from Toshiba's high-end machines.
+
+The bottom line: Toshiba's P series is as feature-rich as ever, except now it's significantly thinner. 
+Key specs: Up to a 2.4GHz quad-core Intel Core i7-4700MQ CPU, 12GB of RAM, up to 1TB of internal storage, up to a 2GB NVIDIA GeForce GT 740M GPU, 15.6-inch (1,920 x 1,080) display.
+Price: $700 and up from Toshiba
+Acer M5-583P-6428
+OK, it's technically not the cheapest Haswell system Acer has to offer (that would be the $580 E1-572-6870), but it is the cheapest one that comes with both a fourth-generation Core processor and a touchscreen. Be warned that Acer had to cut corners in some areas to make that price point; the build quality is fairly mediocre, and you'll have to make do with a spinning hard drive. That said, we appreciated the narrow bezels on last year's M5, and we have a feeling the battery life will be more impressive this time around too.
+
+The bottom line: Acer's cheapest Haswell laptop with a touchscreen offers decent specs for the price.
+
+Key specs: 1.6GHz dual-core Core i5-4200U CPU, 8GB of RAM, 500GB of internal storage, Intel HD 4400 Graphics, 15.6-inch (1,366 x 768) display.
+
+Price: $700 from Best Buy
+Samsung ATIV Book 9 Lite
+Can't afford the ATIV Book 9 Plus with its 3,200 x 1,800 display (however much it ends up costing)? The ATIV Book 9 Lite seems like it'll make for a nice consolation prize. As the name suggests, its feature set doesn't match the flagship model -- it has a lower-res 1,366 x 768 screen and a glossy, less-fancy-feeling lid -- but you still get a pretty light notebook for the money. All told, the max weight is just 3.06 pounds, which isn't bad considering it has a touchscreen. In fact, this would probably have been called an Ultrabook were it not for the fact that it has an AMD chip inside instead of an Intel CPU. That chipset aside, you'll get many of the same niceties as you would on an Ultrabook: a 128GB SSD, that lightweight design and even the same look and feel as the higher-end Book 9 Plus (that glossy lid notwithstanding).
+
+The bottom line: A pared-down (but still gorgeous) version of Samsung's hotly anticipated ATIV Book 9 Plus. 
+Key specs: 1.4GHz quad-core AMD processor (unspecified), 4GB of RAM, 128GB of internal storage, integrated AMD Radeon HD 8250 graphics, 13.3-inch (1,366 x 768) display.
+
+Price: $830 from Samsung
+BudgetASUS VivoBook X202E-DH31T
+We can't promise this is a top performer -- in fact, with a Core i3 Ivy Bridge processor and spinning hard drive, it's almost certainly not -- but we don't know of another touchscreen laptop that costs so little. Scratch that -- our budget section has actually grown to include more touchscreen models -- but most don't have a processor this relatively powerful. In any case, so long as you can accept this isn't as fast as a $700 system, the X202E is probably your best bet if you want a cheap touchscreen Windows 8 laptop with enough oomph to be your main machine.
+
+The bottom line: Can you think of another touchscreen laptop with halfway decent specs that costs less than this? We certainly can't.
+
+Key specs: 1.8GHz dual-core Intel Core i3-3217U CPU, 4GB of RAM, 500GB of internal storage, Intel HD 4000 graphics, 11.6-inch (1,366 x 768) display. 
+Price: $465 from NewEgg
+HP Pavilion TouchSmart 11z
+Forget the fact that "netbooks," technically speaking, had Intel Atom processors inside. The 11-inch 11z uses either a dual-core AMD A4 or quad-core A6 chip, but it's still the spiritual successor to the netbook in many ways. Namely, it's the same size, and about the same price, at $400. Unlike the netbook you bought in 2008, though, it has a touchscreen and some decently sophisticated graphics (for a notebook this small and inexpensive, anyway). No, we wouldn't recommend it as your only laptop, but it could make a great travel companion for trips or just a cheap PC to give to kids.
+
+The bottom line: One of -- if not the -- cheapest touchscreen Windows 8 laptops you'll find.
+
+Key specs: Up to a 1.4GHz quad-core AMD A6-1450 APU, 4GB to 8GB of RAM, 320GB to 500GB of internal storage, up to AMD Radeon HD 8250 Graphics, 11.6-inch (1,366 x 768) display.
+
+Price: $400 from HP
+Samsung Chromebook (2012)
+It's taken a while, but we think we can finally start recommending Chromebooks to regular consumers. Not the Chromebook Pixel, necessarily -- that's not a practical purchase for anyone -- but the cruder, less expensive variety. Specifically, Samsung's $249 Chromebook, which got a significant price cut after Sammy moved from an Intel Celeron processor to a homegrown Exynos 5 Dual SoC, based on ARM's A15 chip. To be sure, you may suffer a slight performance hit as a result, but this new, lower-powered chip is still hearty enough to support everything Chromebooks were built for: namely email, web surfing, video streaming and some basic photo editing. Meanwhile, the comfortable keyboard and trackpad make it a pleasure to use -- something we can't even say about many more expensive laptops.
+
+The bottom line: With more bang for your buck than any other Chromebook, Samsung's offering is great if all you want is a cheap secondary laptop and would have spent all your time in the browser anyway.
+
+Key specs: 1.7GHz dual-core Samsung Exynos 5 Dual (5250), 2GB of RAM, 16GB of internal storage, integrated graphics, 11-inch (1,366 x 768) display.
+
+Price: $219 from Amazon
+Dell Inspiron 15R
+Dell's long had a stronghold in the cheap laptop market, and if you're just starting to look for a new notebook now, your timing couldn't be better: the company recently refreshed its mainstream Inspiron 15R with some Haswell processor options. The specs for the 15-inch version alone offer some nice variety (up to a Core i7 processor with 8GB of RAM and 1TB of storage), and we also dig the slimmed-down chassis, which takes design cues from Dell's higher-end systems. And if the screen size isn't quite right, there are also 14- and 17-inch versions for you to consider. As a heads-up, the 14- and 15-inch versions can be configured with touchscreens, but the 17-incher is non-touch-only. On the other hand, the 17-incher steps up to 1,600 x 900 resolution, whereas 1,366 x 768 is standard on the two smaller machines.
+
+The bottom line: If you're looking for an affordable mainstream laptop, you won't want to rule out Dell's recently revamped Inspiron R line with its wide offering of configurations and optional touchscreens.
+
+Key specs: Up to a 2GHz dual-core Intel Core i7-3537U CPU, 6GB to 8GB of RAM, up to 1TB of internal storage, Intel HD 4000 graphics, 15.6-inch (1,366 x 768) display, optional touchscreen.
+
+Price: $500 and up from Dell
+Performance powerhousesSometimes an Ultrabook just isn't good enough. Maybe you want discrete graphics for editing photos or chopping HD video. Maybe you're looking for a little more processing power, better speakers or -- gasp! -- an optical drive for burning the occasional Blu-ray. Whatever it is, we've got the selection narrowed down to five. (No promises on the BD-RW drive, though.)
+
+Apple MacBook Pro with Retina display
+We're not saying it's a practical choice, but that Retina display remains one of the most gorgeous laptop screens on the market right now. Though it's also available with a 13-inch (2,560 x 1,600) display, we prefer the 2,880 x 1,800 15-inch model, if only because of the configuration possibilities. Here, quad-core processors come standard, as does 256GB of storage. A higher-end model comes with a 512GB drive and you can even custom-order it with 768 gigs. The 15-inch model also has switchable graphics, with a 1GB NVIDIA GeForce GT 650M GPU on the discrete side. The 13-inch version is lovely too (and recently got a $200 price drop), but with dual-core processors, integrated Intel HD Graphics 4000 and storage options starting at 128GB to 256GB, it's sort of like an expensive Ultrabook, just heavier with a nicer display. Then again, as impressive as the 15-incher is, we still might not have sold you, given how pricey it is and all. If money actually is an object, you might be almost as happy with a regular (read: non-Retina) MacBook Pro. Those start at $1,199.
+
+The bottom line: It's the laptop we'd recommend to people who have all the money in the world (and who don't need a touchscreen or have already ruled out Windows machines). Just maybe wait for the inevitable Haswell refresh.
+
+Key specs: 13-inch: Up to a 3GHz dual-core Core i7 processor, 8GB of RAM, up to 768GB of internal storage, Intel HD Graphics 4000, 13.3-inch (2,560 x 1,600) display; 15-inch: Up to a 2.8GHz quad-core Core i7 CPU, 8GB to 16GB of RAM, up to 768GB of internal storage, Intel HD Graphics 4000 and NVIDIA GeForce GT 650M (1GB), 15.4-inch (2,880 x 1,800) display.
+
+Price: $1,499 (13-inch) / $2,199 (15-inch) from Apple
+Samsung ATIV Book 8
+If you recall, we were pretty sweet on last year's Series 7 Chronos lineup, so the new model looks quite tempting, to say the least. Available with a 15-inch display only in the US, it has a 1080p screen, along with 300-nit brightness. It's also been slimmed down considerably -- so much so that it no longer has an optical drive. On the inside, it packs AMD's new Radeon HD 8770M GPU and RAMaccelerator technology that claims to increase browsing and general application speeds by up to 150 percent. Lest you get too overwhelmed, there's only one configuration on sale in the US, and that includes a 2.4GHz Intel Core i7 3635QM CPU, 8GB of RAM, 1TB of storage, a backlit keyboard, JBL speakers and a battery capable of lasting 11 hours on a charge (supposedly, at least).
+
+The bottom line: One of the best performance laptops of 2012 gets made over with a slimmed-down design and top-notch AMD graphics.
+
+Key specs: 2.4GHz quad-core Intel Core i7-3635QM CPU, 8GB of RAM, 1TB of internal storage, 2GB AMD Radeon HD 8770M GPU, 15-inch (1,920 x 1,080) display
+
+Price: $1,270 from Samsung
+Lenovo IdeaPad Y510p
+When the IdeaPad Y510p came out, Lenovo was quick to clarify it's not a gaming laptop, per se. Instead, the company would rather you think of it as more of an all-around multimedia machine, the sort of thing you'd use to edit full HD video or batch-edit lots of photos. And while we would indeed recommend this to anyone planning on doing serious editing, we'd also suggest gamers take a look: the system comes standard with a 2GB NVIDIA GeForce GT750M GPU, and almost every configuration sold has a 1080p display to match. Even design-wise, it straddles the line: the red backlit keyboard suggests this is a gamer's machine, regardless of what Lenovo says, but thanks to an otherwise simple chassis, it's still restrained enough that you can use it in public.
+
+The bottom line: Powerful enough for a gamer, but discreet-looking enough for everybody else.
+
+Key specs: Up to a 2.4GHz quad-core Intel Core i7-4700MQ CPU, 8GB to 16GB of RAM, 1TB of internal storage with an optional 24GB SSD, up to a 2GB NVIDIA GeForce GT750M GPU with optional Ultrabay SLI graphics, 15.6-inch (1,366 x 786 or 1,920 x 1,080) display.
+
+Price: $1,099 and up from Lenovo
+Gaming systemsWe know what you're going to say, dear readers: gaming laptops are overpriced, and it's better to just build your own desktop anyway. We don't necessarily disagree. If, however, you don't mind paying a premium, they're a good way to enjoy still-playable frame rates, even while on the go.
+
+Razer Blade (2013)
+After wowing us with its 17-inch, absurdly thin Razer Blade laptop, Razer is back with a 14-inch model (yep, also called the Razer Blade). Like its big brother (now called the Razer Blade Pro), it costs a pretty penny, with a starting price of $1,800. As before, then, you're not getting the best bang for your buck, but if you insist on a lightweight form factor and strong performance and can only really compromise on price, this could be the thing for you. What's interesting is that Razer got rid of its Switchblade UI -- that secondary LCD that doubled as a touchpad -- a move that allowed the company to achieve the smaller, thinner laptop we have here. All told, rock-solid build quality, fast performance and surprisingly long battery life make it a good pick for on-the-go gamers, but for the money, we wish it had a higher-res screen. 
+The bottom line: Razer expanded its gaming lineup to include a smaller, 14-inch model. It's as thin and powerful as you'd expect, but it's about as expensive too.
+
+Key specs: 2.2GHz quad-core Intel Core i7-4702HQ CPU, 8GB of RAM, 128GB to 512GB of internal storage, Intel HD Graphics 4600 / 2GB NVIDIA GeForce GTX 765M GPU, 14-inch (1,600 x 900) display.
+
+Price: $1,800 and up from Razer
+Alienware 17
+The last time we published a laptop buyer's guide we actually felt compelled to issue a disclaimer explaining why none of Dell's Alienware laptops had made the cut. The reason: we knew the company's gaming notebooks were due for a refresh, and decided to just have you guys wait instead of buying a model on the verge of obsolescence. And we were right: Dell unveiled an entirely redesigned line back in June, with screen sizes ranging from 14 to 18 inches. For the purposes of this guide, we're focusing on the in-between-sized one, the Alienware 17, but really, we'd recommend any of them, with the caveat that the specs (especially screen quality) improve as you go up in size. Whichever you choose, Dell has retired the old plastic chassis and switched to a metal one, replete with a magnesium lid and aluminum body. These new systems also have even more customizable LED lights than before: not only are there multiple keyboard zones, but the touchpad also fully lights up, and you can change the color of that glowing alien head on the lid. Rounding out the design changes, Dell gave the keyboard more depth, moved the vents to the back edge where they're not in the way and introduced Klipsch speakers across the board.
+
+The bottom line: The biggest name in gaming laptops just came out with a line of brand-new models. If you trust the Alienware brand, this couldn't be a better time to take a look.
+
+Key specs: Up to a 3GHz quad-core Intel Core i7-4930MX CPU, 8GB to 32GB of RAM, up to 1.5TB of internal storage, up to a 4GB NVIDIA GeForce GTX 780M GPU, 17.3-inch (1,600 x 900 or 1,920 x 1,080) display.
+
+Price: $1,499 and up from Dell
+MSI GT70
+The 17-inch MSI GT70 excels where you'd expect it to (graphics performance), and also in some areas you wouldn't -- namely, battery life. Even with last year's chips, it lasts nearly three hours on a charge, but with Intel's new Haswell chips, you can expect runtime in the four-and-a-half-hour range. Performance aside, it also has an exceptional keyboard: sturdy, tactile and loaded up with customizable backlights. The one thing you should keep in mind is that the benefit of having a 1,920 x 1,080 display is mitigated somewhat by the fact that the viewing angles are so narrow. Oh, and if you want something smaller, MSI is now selling the 14-inch GE40; it's reasonably priced, at $1,300, but it's not as configurable as, say, the Alienware 14.
+
+The bottom line: Strong performance, a great keyboard and long battery life (for a gaming machine, anyway) make this worth a look.
+
+Key specs: 2.4GHz quad-core Intel Core i7-4700MQ CPU, 8GB to 32GB of RAM, up to 1TB of internal storage or up to three 128GB SSDs, up to a 4GB NVIDIA GeForce GTX 780M GPU, 17.3-inch (1,920 x 1,080) display.
+Price: $1,500 and up from MSI
+ASUS G750
+If you're looking for a Haswell-powered gaming notebook, we'd advise you not to count out ASUS and its Republic of Gamers line. Its refreshed 17-inch G750 laptop, available in two configurations, packs the same 2.4GHz quad-core processor you'll find on competing models, like the MSI GT70 detailed above. For the money, though, it starts with more RAM, and it has a lovely design defined by brushed-metal surfaces. Additionally, ASUS has added an amplifier inside the headphone socket, so you should expect better in-game audio with this generation.
+
+The bottom line: ASUS' 17-inch gaming machine is back with a new processor, fresh graphics and improved audio quality -- something the notebook wasn't known for in previous generations.
+
+Key specs: 2.4GHz quad-core Intel Core i7-4700HQ CPU, 12GB to 24GB of RAM, up to 1TB of internal storage with an optional 256GB SSD, up to a 4GB NVIDIA GTX 780M GPU, 17.3-inch (1,920 x 1,080) display.
+
+Price: $1,370 and up from Amazon
+

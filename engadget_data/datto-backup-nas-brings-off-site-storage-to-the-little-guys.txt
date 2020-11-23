@@ -1,0 +1,6 @@
+
+ 
+Though it's not the first box we've seen built to take your local backups elsewhere, the Datto Backup NAS drive could certainly fill a gaping security hole at many small / medium-sized businesses that are currently operating without any kind of off-site storage. Said devices come in 100GB and 500GB versions, play nice with Windows, Mac or Linux setups and pipe your data to secure external servers (using AES+ SSL key-based encryption, too) in order to keep the process load off of your machine(s). Granted, the annual service fee is $99 for 100GB and $249 for 500GB (monthly plans available), but that does include free support, 24 / 7 backup monitoring and the promise of bringing you back up to speed in under 24 hours should disaster strike. Both drives are available now for $399 and $599, respectively. [Warning: PDF read link]
+      
+
+ 

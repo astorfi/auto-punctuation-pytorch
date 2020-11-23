@@ -1,0 +1,79 @@
+
+ 
+Apple may have sold a million
+videos, but if you're running Windows Media Center Edition you're sitting on a gold mine of free content. The good
+news for MCE users? It's ridiculously simple to move your content onto a video-capable iPod.
+
+
+Videora iPod Converter is my current
+tool of choice for massaging video into an iPod-friendly format. Like many conversion applications you'll encounter,
+free or otherwise, Videora simplifies the process by providing a front-end for the command line
+ffmpeg. Videora iPod Converter and her older brother
+PSP Video 9 are good choices because they've canned common settings, offer
+batch conversions, and cost exactly zero dollars.
+
+
+ 
+1. Launch Videora iPod Converter
+
+ 2. Setup Videora iPod Converter The first time you launch Videora iPod Converter, you?ll want to verify your conversion settings and modify thelocation where it will drop you output files.
+
+   Click Setup
+
+   Click Settings tab
+
+   Verify One-Click Profile is MPEG-4/320x240/768kbp Stereo/128kbps
+
+   Click Browse button to the right of Output Videos to:
+   Choose a more convenient folder, such as My Documents\My Videos, and click OK
+
+   
+ 3. Convert Video
+
+   Click Convert
+
+   Click One-Click Transcode
+
+   Browse to your Recorded TV folder and double-click the show you want to prepare
+
+   
+ 4. Load iTunes and Sync
+
+   Launch iTunes
+
+   Click File > Add File to Library
+
+   Browse to and double-click your show
+
+   Click Videos to see that your show has arrived
+
+   Sync and go!
+
+   
+  The video-capable iPod supports MPEG-4 video resolution up to 480x480 though the screen is limitedto displaying 320x240. As you poke around Videora iPod Converter you?ll notice a variety of encoding options, but giventhe iPod?s capabilities and drive space the default settings are sufficient. What you will want to explore inVideora iPod Converter is the ability to queue multiple show for conversion. For example instead of buying those fiveepisodes of Lost, repeat step 3c. using your freely recorded copies until all episodes appear in the Transcoding Queue.When you get back from dinner, season 2 of Lost will be ready for syncing.
+
+ Before the QuickTime Pro comments roll in, let me state Apple?s QTP ($30) does include an optionfor creating iPod compliant files but it does not natively support MPEG-2 derivatives such as DVR-MS files. They?repeddling a MPEG-2 add-on ($20) though it does not support all MPEGstreams ? purchase and use at your own risk.
+
+ 
+ Addendum:
+
+ While Videora works great for many source file formats, it seems ffmpeg is unable to properlycapture the audio track from DVR-MS content. Meaning, we?ll need an additional software tool to perform the transcodingor to provide an intermediary conversion prior to running shows through Videora. Using another application may makepreparation more costly and less efficient; however you?ll have the additional functionality of editing out commercialsand stringing shows together if you so choose. ArcSoft Showbiz DVD and Nero are examples are more full featured videoediting and conversion software tools that can handle DVR-MS files. In fact, both Nero Recode and NeroVision Expresstranscode directly into MPEG-4 files. Though these are commercial apps, they?re often bundled with CD/DVD drives andcomputers.
+
+ The directions for file conversion via NeroVision Express are as follows:
+
+   Launch NeroVision Express
+
+   Click Make a Movie
+
+   Click the magnifying glass icon, then click Browse and Add to Project
+
+   (if you choose, edit out commercials and/or add additional episodes here)
+   Click Export button
+
+   Choose Export Template Nero Digital, Profile Memory Stick Video (PSP compatible), LC AAC CBR ? 64 kbit/s
+
+   Click the ellipse button to specify output file name and location
+
+   Click Export button
+
+   

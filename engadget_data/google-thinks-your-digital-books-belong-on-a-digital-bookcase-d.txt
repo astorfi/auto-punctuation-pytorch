@@ -1,0 +1,10 @@
+
+ 
+
+How to best view the Google Books collections? Why, a digital bookcase, of course. But this isn't just any bookcase, it's a giant spinning 3D helix of a bookcase, collecting more than 10,000 titles in 28 subjects. Users can navigate the WebGL Bookcase by spinning it around or swiping it up and down. Sure, it's not the quickest way to locate a title amongst tens of thousands of books, but perhaps it'll offer up some small consolation for those who miss browsing real-life bookstores. You can check out the experiment in the source link below -- be forewarned, however, that it's a bit of a resource hog.
+      
+
+ 
+
+ 
+ 

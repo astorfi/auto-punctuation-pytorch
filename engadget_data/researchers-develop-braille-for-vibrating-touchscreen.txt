@@ -1,0 +1,5 @@
+
+  digg_url = 'https://www.engadget.com/2009/03/31/researchers-develop-braille-for-vibrating-touchscreen/';
+In braille, a character is made up of six dots laid out on a two by three matrix -- not something that can really be conveyed using capacitive touchscreen technology. Working with a Nokia 770 Internet Tablet, researchers in Finland have developed a method for piezoelectric touchscreen devices that uses a single pulse of intense vibration to convey a raised dot, and a longer vibration made up of several weaker pulses to represent a missing dot -- spelling out letters that can be easily read by touch. It took a while for volunteers to get used to this method, but once they had they were able to read a character in as little as 1.25 seconds. Now that they have letters down, the team is moving on to words and sentences -- with an eye towards developing text-to-braille software sometime in the future.
+
+ 

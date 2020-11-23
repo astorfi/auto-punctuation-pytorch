@@ -1,0 +1,48 @@
+
+
+The VLC media player is an amazing piece of software. In its most basic
+form it is a lightweight media player that can play almost any audio or video format you throw at it. VLC is also
+multiplatform in the most extreme sense of the word; it can run on Windows, OSX, Linux and PocketPC / WinCE handhelds
+along with other systems. VLC works great as a streaming server and video transcoder too.
+
+
+We used VLC to move Tivo recordings to an iPod before,
+but today we are going to show you how to stream any type of media file from your computer to another device on your
+network. We will also demonstrate how to remotely control VLC using any web browser. Using these techniques you could
+stream video from your office computer to a laptop plugged into the living room TV and control the playlist with your
+PDA.
+
+
+
+The first thing you need to do is grab a copy of VLC media player foryour platform. We are going to be streaming from a Windows machine to a Linux machine, but the interface is almostidentical no matter what you are using.
+
+ Once you install VLC and start the program you will be greeted by this lightweightfrontend.
+
+ 
+ Click ?File > Open File?? to bring up the ?Open?? dialog box.
+
+ 
+ Click on the ?Browse? button to bring up a standard Windows file selection box. Select thefile you want to play. Then click ?Open?. We?ve selected multiple files so VLC will build a playlist.
+
+ 
+ Your selection should appear in the text box next to the ?Browse?? button. Click thecheckbox for ?Stream Output? and then click the button ?Settings.?
+
+ 
+ Check the box next to ?Play Locally? under ?Output Methods.? When streaming to anothersystem you don?t have to play the file on the server, but we will use this option to visually confirm that our video isplaying properly before trying to access the stream from another computer.  Check the box marked ?UDP? and type in the IP address of the computer you want to stream the file to. Then click ?OK?.The file is ready to play so click ?OK? in the ?Open?? dialog box too.
+
+ 
+ The video or audio file should begin playing on the computer. The last thing to do beforeswitching to your second computer is to turn on VLC?s web interface by clicking ?Settings > Add Interface > WebInterface?.
+
+ 
+ Open VLC on your second machine. We are using a Linux machine.
+
+ 
+ Click on ?File > Open Network Stream?. UDP is already selected so you just need toclick the ?OK? button and VLC will start playing your stream.
+
+ 
+ Now that the stream is successfully playing on your computer you can open up a web browser to control VLC remotely.Type ?http://<IP_of_your_server>:8080/? into the address bar. The web browser will present you with all of thecontrols you need to manage playlists and playback remotely.
+
+ 
+ Now that you?ve got full access to your 10GB of Teenage Mutant Ninja Turtles from any device in any location there?sonly one question left to answer: Where does all the dirt displaced by theTechnodrome go?
+
+

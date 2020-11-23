@@ -1,0 +1,17 @@
+
+While Vic Gundotra wasn't willing to talk Glass in our run-in here at Google I/O, a few others were. In speaking with folks from Google, we learned a few new details about the project, while confirming some whispers that we'd heard floated in the past. Here's a quick rundown:
+
+
+
+Engineers are currently 'experimenting' with connectivity options. Existing prototypes -- including those worn in the skydiving stunt this morning -- do not have any sort of built-in WWAN connectivity.
+While it's possible that a 3G / 4G module could end up in production devices, the general idea is that latching onto nearby WiFi hotspots or relying on a wireless tether with your smartphone will be the primary way that Glass gets its data to the web.
+Controlling Glass will eventually rely on a mixture of inputs: it'll recognize voice commands, while also taking cues from the right sidebar. There's a touch-sensitive pad on there that'll understand gestures.
+It's entirely probable that Glass will also be able to be controlled via one's smartphone, but physical inputs will be the preferred ones.
+Glass has an accelerometer and a gyroscope, enabling wearers to tell Glass what to do by nodding, shaking one's head, etc. (For what it's worth, we've seen similar demoed by NTT DoCoMo.)
+The internal battery sits just behind the ear on the right side; the capacity and longevity weren't confirmed, though.
+Glass will be able to record locally, but the idea is to have 'most everything' streamed live to the web; it's the "live, right now!" nature of Glass that Google intends to push as one of its differentiating factors.
+In an area where wireless data isn't available (like a remote National Park or a hospital room that forbids phone usage), storing video locally would be possible for uploading later.
+
+We also confirmed that the team is playing around with various colors, with orange, white, black and blue editions being sported here at I/O. Whether or not all of those hues make it to market remains to be seen, of course, but we're adequately jazzed about the possibilities.
+
+

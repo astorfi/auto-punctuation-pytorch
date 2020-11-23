@@ -1,0 +1,11 @@
+
+
+Russian security firm Kaspersky Lab has looked deeper into the malware that attacked its network and found that it used a digital certificate stolen from Foxconn. That's the same Taiwanese company frequently associated with big names in electronics, since its factories manufacture everything from iPhones and iPads to PS4s and Xbox Ones. The malware, known as Duqu 2.0 due to its shared programming with an older spyware called Duqu, also infected the networks of hotels where the UN Security Council held meetings about Iran's nuclear development. Duqu 1.0 and its predecessor, the Stuxnet worm, also redirected traffic through digital certificates stolen from Taiwanese companies, presumably to make it appear like the attacks came from China.
+
+
+
+Stuxnet is widely believed to be a joint project between the US and Israel. It infiltrated Iran's Natanz nuclear facility in the mid-2000's by first infecting the systems of five of its key suppliers. According to Wired, though, a lot of researchers believe that Israel's the sole country behind both Duqu 1.0 and 2.0. As for why the hackers needed a digital certificate, Wired says it's to disguise a malicious driver, so they can install it on Kaspersky's server. See, Duqu 2.0 itself disappears every time a computer shuts down -- a driver can reinstall it when the system restarts. They also used the driver to funnel data as they stole it, making the malware harder to detect.
+
+Kaspersky's Global Research and Analysis Team director Costin Raiu believes the attackers used a Foxconn certificate, which is apparently extremely rare, to ensure success. However, its rarity gave it away: its presence in the security firm's network set off alarm bells when one of the engineers discovered the breach. He specifically investigated suspicious digital certificates, knowing that Stuxnet and Duqu 1.0 used them in the past.
+
+

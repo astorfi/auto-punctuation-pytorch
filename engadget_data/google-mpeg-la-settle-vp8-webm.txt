@@ -1,0 +1,14 @@
+
+ The longstanding disagreement between Google and MPEG LA is finally over, as the two parties have reached a licensing agreement for several patents covering video compression. As a quick refresher, MPEG LA owns the technology behind h.264, the current king of video codecs. Meanwhile, Google's own VP8 video codec is a part of its WebM standard, but MPEG LA cried foul, claiming that Google's technology was infringing. Apparently, the companies found common ground, and with the settlement in place, WebM is free from patent encumbrances and video producers can do what they do without fear of legal retribution. 
+
+
+
+  Show full PR text    Google and MPEG LA Announce Agreement Covering VP8 Video Format
+
+   DENVER--(BUSINESS WIRE)--Google Inc. and MPEG LA, LLC announced today that they have entered into agreements granting Google a license to techniques that may be essential to VP8 and earlier-generation VPx video compression technologies under patents owned by 11 patent holders. The agreements also grant Google the right to sublicense those techniques to any user of VP8, whether the VP8 implementation is by Google or another entity. It further provides for sublicensing those VP8 techniques in one next-generation VPx video codec. As a result of the agreements, MPEG LA will discontinue its effort to form a VP8 patent pool.
+
+   "This is a significant milestone in Google's efforts to establish VP8 as a widely-deployed web video format," said Allen Lo, Google's deputy general counsel for patents. "We appreciate MPEG LA's cooperation in making this happen."
+
+   "We are pleased for the opportunity to facilitate agreements with Google to make VP8 widely available to users," said MPEG LA President and CEO Larry Horn.
+
+ 

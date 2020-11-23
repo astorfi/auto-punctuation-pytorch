@@ -1,0 +1,3 @@
+
+ Google's flagship Chromebook might be a solid piece of hardware, but its prohibitive $1,299-1,449 sticker price left us aching for the ability to dual-boot a more robust operating system. Lucky for us that Google's Benson Leung has a knack for Linux -- he's already patching the Linux kernel to support Pixel's hardware. Just hours after the notebook's reveal, Leung updated the Linux kernel mailing list with patches supporting the Pixel's touchpad, touchscreen and ambient light sensor. A small step, to be sure, but one that could eventually help the community build a Linux distro that can make the most out of Google's premium hardware.
+

@@ -1,0 +1,33 @@
+
+During the closing session here at D10 in California, Google's on Senior Vice President of Chrome & Apps Sundar Pichai was joined by Susan Wojcicki (SVP of Advertising at Google) at Walt Mossberg. Sundar was able to drive the majority of the conversation in the realm of Chrome and Chrome OS, and quite a few interesting nuggets were dropped. For one, he made an offhand comment that "offline Google Drive [is] coming in five weeks," a clue that it'll be revealed and launched in full at Google I/O next month.
+
+
+On the topic of Chrome's browser market share, he reckoned that around a third of the world's desktop browser use is now done on Chrome, noting that percentages are far, far higher in the consumer realm as compared to enterprise, where lots of companies mandate that employees still use Internet Explorer at work. Oh, and Sundar also stated that it's "not lost on [Google] that it can use advertising to provide better value propositions [for Chromebooks] as well. In other words, Google's at least evaluating an ad-supported Chromebook. Looking for more? A fair amount of the back-and-forth is transcribed after the break.
+
+
+
+Walt asked Sundar: "Let's talk about Chrome OS and Chrome browser -- talk about the recent metric that it has overtaken IE in browser share."
+
+Sundar's reply? "Look, it's a pretty reasonable representation of the trends we've seen. Chrome grew roughly 300 percent last year -- we have hundreds of millions of active users. We have many ways of looking at it. You can argue about the data, but in general I think we have gained substantial mindshare since we've launched the product. I think it's fair to say that we are number one or number two in all countries in the world. It's fair to say that roughly a third of people are using Chrome; I think it's much more than a third in the consumer space. Most users in enterprise use IE because it takes a long time for that space to upgrade."
+
+When asking about a "platform disparity," "We're definitely more popular on Windows, but it's because that's where we launched. There are places where our share is over 50 percent today. I think the speed of Chrome is much more notable when you have a slow connection."
+
+
+Walt then asked why Android and Chrome OS exist, with Sundar replying:
+
+"Android is extremely successful, we couldn't be more proud of it. We have exciting steps ahead with tablets, too. There are many instances where people spend all of their time in the browser. The notion that, for the first time, your experience is in the cloud. You still run on a local device -- CPU, SSD, etc. -- but the notion that your computer is actually in the cloud enables zero administration. From a web console, you can deploy and manage apps -- there's no installing software, etc.I think what is important between Android and Chrome OS -- with users, it makes sense. Look at Apple, there's MacBooks and iPhone, they use different operating systems. Convergence will happen, sure. But look at Gmail -- you go from a Chromebook to Android, and it just works."
+
+Walt then questioned him on why Chrome OS hasn't "taken off," with Sundar saying the following: "It takes time. With Android, we had a very long incubation period. Last year, our goal with Chrome OS was to just put it out -- we haven't marketed it and we aren't in physical retail. Our newest system is much, much faster."
+
+From there, Walt pivoted the conversation to Google's latest Chromebooks / Chromebox. "Now, Chrome OS looks a little more like Windows or OS X -- you have windowing, a taskbar, a dock..."
+
+Sundar stated: "It's a natural evolution. Users like the familiarity. Sometimes wanting to be full-screen; if you're watching YouTube or Netflix, you want to be immersed. It's important to remember that we release a new version every six weeks; contrast that with Windows! Google Drive offline is coming five weeks from today.
+
+
+During the Q&A session, ABC News' Joanna Stern questioned the (relatively high) price points of Chromebooks today, to which Sundar followed with:
+
+"I think it's a good question. Just like with Android, we're in early stages of enabling an ecosystem. This year, we're working very closely with Intel, and there are many OEMs working with Chromebooks. You'll start seeing Chromebooks spanning many price points. There are a variety of user scenarios; we picked the middle point to start at. It's not lost on us that we can use advertising to provide better value propositions as well."
+
+An ad-supported Chromebook that takes a lesson from Amazon? Sure, we'll take a peek at that.
+
+

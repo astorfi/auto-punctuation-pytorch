@@ -1,0 +1,6 @@
+
+
+Flexible circuit pioneer John Rogers and his team are at it again. This time he's developing a wearable, ultra-thin circuit that attaches to your skin just like a temporary tattoo. The Epidermal Electronic System (EES) consists of circuits which could contain electrodes capable of measuring brain, heart and muscle activity in the same way an EEG does now, transmitting this data wirelessly to your doctor. Because it's flexible and bonds to the skin, it can be worn for extended periods, unlike traditional diagnostic pads used in hospitals today. In the lab, the devices were solar-powered with embedded photovoltaic cells -- heavier duty circuits would require inductive charging to be practical.
+Rogers' team also looked into the tech acting as a game controller (they wired it up to someone's throat and played Sokoban with voice commands, still managing to yield a 90 percent accuracy rate), but it's some way off from replacing your SIXAXIS. One of the problems encountered concerned RF communication -- perhaps they should get on the horn to their friends in Oregon and build those fashionable diagnostic pants we're eagerly waiting for.
+
+

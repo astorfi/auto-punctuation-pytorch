@@ -1,0 +1,54 @@
+
+
+
+Who decides your rights to privacy and freedom of speech on the internet? Earlier this month, a landmark ruling by Europe's biggest court left Google trying to find an answer to that unanswerable question.
+
+
+The case, which centers on the so-called "right to be forgotten," allows European users to actively ask providers to remove personal information that's become "outdated" or "irrelevant." Even if Google (or other search engines) has indexed it in a fair and legal way, it's obligated to comply with the ruling. It's opened a debate over whether a company known for its complex search algorithms should be given the duty of making judgement calls over what should and should not remain online for the world to see. Google co-founder Sergey Brin wishes he could "just forget the ruling," but unfortunately for him, Google, and you, the issue is real. And it's going to impact the way we search the web forever.
+
+
+
+WHAT IS IT?
+It began in 2010 with a Spanish lawyer named Mario Costeja González. González complained to the Spanish Data Protection Agency that Google had indexed pages in a Spanish newspaper which announced an auction notice had been placed on his home in 1998. He wanted both Google and the newspaper to remove the offending pages, or at least conceal the damaging information they contained. The pages ranked highly against searches on his name, which he argued infringed on his right to privacy.
+
+As those events happened over a decade ago, he contended that they were no longer relevant to his current situation. Google's response was to staunchly oppose Costeja, resist pressure from Spain's privacy regulator, and ignore rulings by its national high court. Google said such actions amounted to censorship. The Spanish newspaper, however, escaped further action because it was protected under its press rights. Google's refusal to comply saw the case referred to the European Court of Justice for a tougher examination.
+
+On May 13th, the Court of Justice arrived at a decision. Unexpectedly, it decided that Costeja's right to be forgotten outweighed the importance Google places on linking to publicly available information. Deeming the search giant a "data controller," the court told Google it needs to provide users with an option to erase search results that are "inadequate, irrelevant...or excessive," but also "outdated."
+
+HOW DOES IT WORK?Right now, that's anyone's guess. Google said shortly after the judgement was passed that it needed to "analyze the implications of that decision," because, like us, it's likely confused by what it actually needs to do. With such broad terms -- "excessive" or even "outdated" -- developing a structured ruleset here for what will and won't be taken down is going to be extremely tough.
+
+
+In the weeks following the ruling, Google has been inundated with thousands of takedown requests. Among those thousands are, naturally, some dubious requests. One such request was from a doctor seeking to remove negative reviews of his work; another from a politician seeking re-election who wants to cover up his past; and another from a convicted criminal aiming to wipe his past sins.
+
+For its part, Google must respond to each request. The company's Search team, which normally focuses on making the service artificially intelligent, is being forced to take a more human approach. They've been given the task of deciding whether requests from the doctor, the politician, the criminal -- and everyone else -- have merit. As it stands, Google has nothing but impossibly vague "inadequate," "irrelevant," "excessive," and "outdated" definitions to guide it. Also bear in mind that the information will still exist on the websites that published the original information, Google just won't be able to deliver matches to some queries that you enter. That's to say: the information isn't being erased from the web, just made less easily searchable.
+
+Germany, keen advocate of privacy and a challenger of Facebook, is currently mulling over whether to set up arbitration courts to help decide what information people can force Google to remove from its listings. Whether it agrees with the decision or not, it believes Google's algorithms shouldn't have the final say.
+
+Why should I care?
+In the past, if you wanted to access published information, you'd head to a library of office of public record and access their archives. The internet makes it much easier to find, categorize and index. Late last week, Google made its first move to comply with the European court, adding a "right to be forgotten" form for Europeans to begin submitting removal claims. Submissions require the standard logistical stuff like names and email addresses, and a photo ID (like a passport or driving license). Beyond that, things get personal: an explanation on how each linked page is related to you, and why the search result is "irrelevant, outdated, or otherwise inappropriate."
+
+Whichever way Google decides to play things, European lawmakers can't expect non-EU countries to adopt the same approach. Google's already confirmed that links will be removed only for search results presented in the EU, meaning even the most non-savvy of surfers will be able to surface uncensored results by using a non-EU version of a search engine in an EU country. There's also the possibility that some companies will create new search engines that exist simply to surface information that others have done their best to cover up.
+
+WHAT'S THE ARGUMENT?While the Court of Justice's ruling is legally binding and cannot be revoked, there's still plenty to sort out. The Article 29 Data Protection Working Party, a group of representatives from the data protection authority in each EU member state, meets in the coming weeks to discuss how the ruling will be enforced. It's important for the Article 29 group to agree on a common way to handle the requests, because they're the ones likely to be asked to deal with any complaints if Google (or any other search provider) doesn't do what is asked of it. While Google's launched its online tool, it hasn't said what will happen to those listings when they are de-indexed.
+
+
+Censoring results isn't new to Google. It already complied with requests to remove torrent listings for pirated media. Instead of removing all traces of a copyright-infringing result, it keeps a level of transparency by displaying a notice where that result would have been, highlighting that the company has complied with the law. You could say that the little notice shows it's not particularly happy to have had its hand forced. Google may choose to do the same for 'forgotten' requests, letting you know if a person has asked for you not to see information related to them.
+
+"It will be used by other governments that aren't as forward and progressive as Europe to do bad things."
+
+- Larry Page
+
+Because it was the company at the center of the investigation, Google will forge a path that its rivals will almost certainly follow. It's working with Article 29 to agree on best practices, meaning you'll likely see the same processes put in place on Bing, Yahoo and other search engines. To best decide the route to take, Google has set up its own advisory committee, including a UN expert on freedom of speech, a philosopher at the Oxford Internet Institute, a law expert from the University of Leuven, an academic who used to work for Spain's Data Protection Agency (the irony!) and Jimmy Wales, co-founder of Wikipedia. Google Executive Chairman Eric Schmidt and the company's top legal advisor, David Drummond, co-chair the committee.
+
+Opinion remains divided over how the "right to be forgotten" will affect free speech. Google profits from collecting and selling data related to its users, so opponents say it can afford to cede some control back to the people by letting them decide what data can be seen.
+
+There's also been some very vocal opposition to the ruling. Some suggest that Google's filtering of search results affects freedom of communication and a person's right to educate themselves about other people. As the internet evolves, laws have (slowly) adapted to protect the rights of web users, whether content is posted to Facebook, Twitter or on a personal blog. The "right to be forgotten" ruling sidesteps existing legal processes and makes Google responsible for the content that appears in its results, expanding its role from an aggregator to an editor.
+
+In some ways the ruling puts more power in the hands of Google and European legal institutions: the power to administer censorship. In other ways, it empowers the people who want to be forgotten. But the web works on a flow of information, and when the balance is tipped in either direction, it's the mainstream users in the middle who are most likely to lose out.
+
+WANT TO KNOW MORE?
+If you'd like to know more about the EU case, you can read the full ruling here. Perhaps you'd like to dig into how this decision impacts your digital rights? The Wall Street Journal has a great article that does just that. The Guardian also has a very detailed Q&A piece that delves deep into the how the EU arrived at its decision and what it means for you.
+
+[Image credit: AP Photo/Yves Logghe, European Parliament/Flickr]
+
+

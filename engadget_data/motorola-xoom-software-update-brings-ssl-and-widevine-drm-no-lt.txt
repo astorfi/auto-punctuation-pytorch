@@ -1,0 +1,12 @@
+
+ 
+Seems like Verizon, Motorola and Google are on a bit of a security bent -- the latest update for the Motorola Xoom lets you take a far more leisurely tour of the internet's walled gardens. There's a WPA-PSK security fix to allow choice users into your mobile hotspot, SSL for secure web browsing, Google's Widevine DRM for viewing locked online video content and HDCP for piping it to your TV. Of course, there's no mention of the Xoom feature we're truly waiting for, but we'll happily take our Bluetooth mouse support and POP3 email in the meanwhile. Droid-Life reports that this HMJ07B update will start hitting Xooms later today, but Verizon's still got a month to make good on those LTE promises. 
+
+Update: We're not quite sure what happened, but Droid-Life discovered that Verizon's update-detailing PDF has been pulled, so it's probably better to not expect an OTA upgrade later this afternoon.
+
+[Thanks, K]
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

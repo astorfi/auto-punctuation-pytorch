@@ -1,0 +1,20 @@
+
+ 
+Still wondering how the first live broadcasts for the new 3DTVs will work? Comcast Fellow Mark Francisco has been working on bringing 3D home for several years now, and was able to clear up some of the questions that you've been asking about what takes place before home viewers slip on those "beautifully styled" glasses for the first time. Whether you'd want to, can afford to with the first generation of compatible HDTVs, or why it's expanding the use of that silly Xfinity name weren't among them, so for that you're on your own.
+
+What format/compression will Comcast use on its Masters broadcast and going forward?
+
+Just like DirecTV, Comcast is planning on a side-by-side 1080i (not sure what that is? Check out our breakdown of the different ways to send 3D) MPEG-2 transmission. Mark confirmed what we'd heard previously in our discussion with Bob Wilson from Motorola, on the backend, very little needed changing or updating to enable this transmission, which will take up a 6MHz channel, other than their frame multiplexers. There will also be an h.264 stream and VC-1 (for the Masters.com feed) and for broadcast within hospitality tents at Augusta National.
+
+Will I need a new cable box or have to get a firmware update of some kind to watch 3D?
+
+All of Comcast's HD set-top boxes connected through HDMI are already capable of handling the signal, so don't expect a firmware upgrade (unless you're waiting for remote DVR features, of course) between then and now, although future upgrades will include 3D menus and guide information, which are currently still 2D.
+      
+
+ 
+
+Will I be able to see the broadcast if I don't live in a Comcast area / don't want Comcast?If you don't have Comcast, it will be licensing the feed to other cable companies, and Light Reading reports Time Warner, Cox and Bright House have already signed up, but it looks like satellite and IPTV providers could be getting the freeze out for now. The stream on Masters.com will be available to anyone with a 3D setup on their PC. As far as whether or not the channel will be coming to your local lineup, space for the channel has already been reserved in all of Comcast's markets, so all that remains is for the switch to be flipped and all should have access - one note, if your new setup isn't due to arrive until after the Masters, you can still record it to DVR and play it fine later.What will the experience be like?Augusta National is working with ESPN and Sony, who is also sponsoring the broadcast, to produce the dedicated 3D feed from about 10 cameras on the course. Benefiting from considerable testing over the years, viewers should see what he called a "comfortable 3D" effect, calibrated to enhance the impression of depth and ability to see the course from the player's perspective down those long fairways, without the pop-up book look some of us have come to associate with 3DTV. It appears Cablevision will take a similar tack with its initial hockey broadcast, locating the cameras lower and closer to the ice.Have any questions we we couldn't think of? Let us know in the comments and we'll see what we can find out for you.
+
+       
+
+ 

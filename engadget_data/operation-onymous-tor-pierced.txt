@@ -1,0 +1,10 @@
+
+Yesterday's takeover of Silk Road 2.0 was just the tip of the iceberg apparently, as the FBI and European law enforcement organizations have announced a "global action" against similar darknet marketplaces. "Operation Onymous" resulted in 17 arrests total, the removal of 410 hidden services that allegedly offered illegal drugs and weapons for sale, as well as the seizure of more than $1 million Bitcoins in, $250,000 in cash and drugs. Troels Oerting of the European Cybercrime Center told Wired that his staff hadn't had time to assemble a full list of takedowns, but it includes Cloud 9, Hydra, Pandora, Cannabis Road and more. The Telegraph reports six Britons accused of helping run Silk Road 2.0 are among those arrested, while the BBC has word of two arrested in Ireland. Like both iterations of Silk Road, the sites were using Tor to anonymize access, but were still exposed. Details of how the service was pierced have not been revealed (we have an idea), but The Wall Street Journal quotes Eurojust spokesman Ulf Bergstrom saying "You're not anonymous anymore when you're using Tor."
+
+
+
+A Reddit thread charting the darknet takedowns also points out how the FBI was able to identify Blake Benthall, the alleged operator of SR 2.0. According to the complaint (PDF) they located and imaged the server that hosted the site, and while that occurred a support request came in asking the hosts not to reboot the machine. Then the FBI obtained logs from Gmail that tied it to Benthall's IP addresses, as well as a network at a hotel where he was staying. Until the takedown , running the enterprise had its benefits, allowing Benthall to cash out about $273,626 in Bitcoins, and make a down payment on a Tesla Model S.
+
+So what's next? This round of arrests focused on those running the marketplaces, occurring in Bulgaria, the Czech Republic, Finland, France, Germany, Hungary, Ireland, Latvia, Lithuania, Luxembourg, the Netherlands, Romania, Spain, Sweden, Switzerland, the United Kingdom and the USA. According to Oerting, the next step is to go after others, including those who purchased illegal goods from the marketplaces.
+
+

@@ -1,0 +1,8 @@
+
+ 
+One of the most surprising things about the launch of an ultra-portable laptop dubbed "Air" by Apple wasn't its thinness but the lack of an embedded WWAN radio. No more, at least if you're not intimidated by smoldering solder and warranty violations. Jordan Bunnell has posted a step-by-step of his success at integrating a Verizon USB727 Aircard into the MacBook Air chassis thanks to the MBA's previously unused USB controllers discovered on the system board. While the EVDO signal (and speed) has appreciably degraded from its externally attached origins, Jordan is still pulling 1,400 to 1,700kbps downloads and 380kbps uploads -- something which might be improved with antenna tweaks. Regardless, those speeds are significantly faster than the 0kbps stock MBA owners experience.[Thanks, Tom]
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

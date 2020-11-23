@@ -1,0 +1,5 @@
+
+ How easy is it to digitally clone an electronic passport? Very. Using an RFID reader purchased on eBay, white-hat hackers from DN-Systems consulting recently demonstrated to the BBC how they can download British e-passport data to their computer and then write it to a new, blank RFID chip to create a perfect digital clone. Sure, the hack requires access to the software used by border police, but apparently, this is already out in the wilds. Astounding, huh? Yeah, but it's not new. This is the same hack we've seen repeatedly demonstrated in Germany, the US, The Netherlands, Ireland, etc. What's notable here is the lack of incredulity imparted by the spokesman for the UK Home Office who said, "It is hard to see why anyone would want to access the information on the chip." Identify theft, maybe? True, British e-passports unlike those issued by other countries, do not (currently) store fingerprint scans in the chip and the encryption is just one aspect of the passport's overall security. However, with these mechanisms also circumvented, shouldn't our government officials be just a tad concerned?
+      
+
+ 

@@ -1,0 +1,22 @@
+
+
+
+Yandex, Russia's largest search provider, has filed a complaint against Google for what it believes are anti-competitive practices. The complaint specifically relates Google's bundling of its search engine and apps into Android, which is, by far, the most popular mobile OS in Russia. According to Yandex, Google is actively preventing local smartphone vendors from pre-loading competing services onto devices running Android. It claims the belief that Android is an open platform is merely an illusion, as, in order to put the Google Play store on their devices, manufacturers are required to install the entire suite of Google services and set Google as the default search engine.
+
+
+
+The full complaint will not be published by Yandex due to the rules surrounding submissions, but Yandex provided us with a detailed breakdown of its position. Here are the three key excerpts:
+
+"Google is the owner of Android, the dominant global mobile operating system. Many believe that Android is an open platform. In reality, manufacturers of Android-powered devices are locked into the proprietary Google Play application store and closed APIs. In order to install Google Play on their devices, device manufacturers are required to preinstall the entire suite of Google GMS services, and set Google as the default search."
+
+"This issue has long been on the agenda outside of Russia; recently we have felt the problem in Russia as well. In 2014, three smartphone vendors - Prestigio, Fly and Explay – who have been our long-term partners, have notified us that they are no longer able to pre-install Yandex services on their Android devices. Chances are high that Google will continue this practice. It is not only Yandex or other large developers, whose services compete [with] Google's, that are under threat, but also the device manufacturers. But ultimately, it is the end-users who suffer because of inferior services."
+
+"We believe that user-centric services, such as search, maps, email, etc., should be unbundled from the Android OS. It is essential to return to a level playing field where competition is over quality of products and services rather than bundling and pre-installation."
+
+On the face of it the complaints seem valid, but Google has a pretty effective defence against the arguments. Yandex seems to want an Android with the Google Play store, but without Google's other services. Yes, it's true the Google Play store is tied into a larger suite of services, but the company maintains the Android Open Source Project (AOSP) as an entirely Google-free version of Android. Google can easily argue there's nothing stopping manufacturers from selling devices running AOSP and pre-installing a third-party app store, like, say, Yandex.Store.
+
+Yandex could counter this argument by saying that the Play store is a necessity to consumers, but it would have to prove that its own store isn't an effective replacement, which isn't great business. The reality of the situation is that Yandex offers the same services as Google, but seemingly can't persuade local companies to choose them over Google's. That's not really Google's problem, though. And while Microsoft was burned by similar European antitrust investigations, it's unlikely that would've happened if it offered a free version of Windows that featured no Microsoft apps or services, which is essentially what Google does with AOSP.
+
+Whatever comes of Yandex's attempts to spark an antitrust investigation in Russia, it's unlikely to be the end of the story. Google is coming under increasing scrutiny, especially in Europe, where a fresh antitrust probe into its Android tie-ins seems likely. Google has been under investigation for years in Europe regarding its approach to desktop search -- something that Yandex's CEO has publicly backed. The European Commission also recently voted to push forward with legislation that could see Google (and other search providers) forced to unbundle its search engine from its other services. Although the Commission's investigations have been accused (by President Obama, no less) of being commercially driven in support of local companies, a great deal of pressure has come from US-based companies like Microsoft, Oracle and Expedia who, under the guise of the FairSearch coalition, have been lobbying against Google to protect their own interests.
+
+

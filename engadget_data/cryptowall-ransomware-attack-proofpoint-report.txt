@@ -1,0 +1,10 @@
+
+A widespread attack has exposed millions to malware that holds files to ransom. The campaign, which was first detected a month ago, placed fake adverts on websites such as Yahoo, AOL and The Atlantic that installed so-called "ransomware" onto a victim's computer. The attackers stole assets from the likes of Case Logic, Bing and Fancy in order to make the malicious ads appear real, but once a computer becomes infected, things get very bad, very fast, for victims.
+
+
+
+The ransomware -- named CryptoWall 2.0 -- uses Adobe Flash to exploit browser vulnerabilities, installing itself on the affected computer. It then sets about encrypting files on the users' hard drive, refusing access to said files until the victim pays for a decryption key. The fee, said to be equivalent to $500, is requested in Bitcoin, and security firm Proofpoint, which first noticed the attack, estimates that the attackers' are currently raking in $25,000 from victims. As Bitcoin wallets are public, Proofpoint is able to analyze the incoming payments to each of the attackers' accounts. One of the Bitcoin wallets was in use for just 5 days and managed to pull in the equivalent of $9,350.
+
+This latest breach highlights the dangers of malware online. Earlier this year a similar attack targeted Synology storage servers, ransoming mostly small business data for around $350. How do you stay safe? There's no way to ensure a computer is 100 percent secure, but keeping all your software up-to-date with the latest security patches is a good start. Most modern browsers can also be setup to only open plugins such as Flash when content is clicked on, which would eliminate the risk of being infected by this particular attack.
+
+

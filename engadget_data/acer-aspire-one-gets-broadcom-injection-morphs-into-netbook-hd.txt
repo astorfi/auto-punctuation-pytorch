@@ -1,0 +1,9 @@
+
+ 
+Playing video on most netbooks is risky business; any file with a moderately high resolution and/or bitrate quickly devolves into a 1fps headache. The solution, as HP has already figured out, is a mini PCI-e Broadcom HD video accelerator, exactly what the folks at Terracode managed to wedge into an Acer Aspire One. That enabled the system to handle 1080p content without a hitch -- through an external monitor, of course, since watching 1920 x 1080 content on a 1024 x 600 screen is like making a VHS copy of the Watchmen Director's Cut Blu-ray. And, since the tiny portable didn't have enough storage for more than a few minutes worth of content at such a mighty resolution, a 64GB Kingston ssdNow V was added too. The result? See for yourself in the before and after videos that are just a short click away. Spoiler alert: no more slideshow puppy dogs.[Via SlashGear]
+      
+
+ 
+
+
+ 

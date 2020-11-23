@@ -1,0 +1,18 @@
+
+ It's not too often that a mobile hotspot graces our home page, but this one is worth a mention. Novatel Wireless is launching the Liberate, a MiFi with a built-in touchscreen, on AT&T in the coming months, and we had the opportunity to play with the new device at MobileCon 2012. The hotspot, also known as the MiFi 5792, sports a 2.8-inch touchscreen display with a resolution of 400 x 240 pixels, LTE, a microSD slot, DLNA streaming capabilities and a 2,900mAh battery that promises 11 hours of life between charges.
+
+ While it seems pretty fancy for a MiFi, the touchscreen may be appealing to some. The hotspot runs on a proprietary build of Linux and offers a wide variety of options to choose from: connection details, data usage, a list of connected devices, settings, file sharing, media streaming, WiFi protected setup, messages, GPS and so on. Many of the activities (checking your use, which devices are connected and other settings) previously relegated to a proprietary URL can now be easily viewed directly on your MiFi without any hassle. Don't expect the quick and buttery-smooth response of a modern smartphone here, but since this is Novatel's inaugural attempt at a touchscreen device -- in addition to the fact that the display is of secondary importance on a MiFi -- we're willing to cut the company some slack. It handles the limited needs of most hotspot consumers without much concern.
+
+
+
+
+
+ As expected, the Liberate can receive text messages, but here's the kicker: the screen doesn't allow the use of a keyboard, which means you won't be able to send any from your device. This is one instance that has us scratching our heads; if you're going to offer a touchscreen, we think it would be much more useful to take it the extra step and offer two-way communication.
+
+ The Liberate also has the ability to act as a DLNA server, which on the surface seems like an unnecessary inclusion for a simply mobile hotspot -- and with the exception of a very small number of users, you'd be correct. Essentially, it allows you take any movie or music files that are currently on your microSD card and, after logging onto a specific AT&T site, wirelessly stream those files to DLNA-capable devices like phones, tablets, TVs and DLNA-equipped speakers. The demo we saw showed reasonable performance here, but we still have a difficult time finding a usage scenario that involves us using this particular feature (especially when it's ever-present in a wide variety of phones and tablets now).
+
+ How about the most important part of the MiFi, the hotspot itself? Fortunately, it works quite well. Up to ten devices can connect at one time (six were connected during our demo) and we were consistently pulling down LTE speeds above 20Mbps down and 7Mbps up. The best score we saw at the time was 28 down / 16 up in an area with a nearly full signal. As a potential downside, though, you aren't given the option to connect to AT&T WiFi hotspots.
+
+ Overall, the Liberate appears to do quite well at what it's supposed to do. The touchscreen adds a few nice features and makes the hotspot easier to use, but we hope that this additional functionality doesn't drive the price of the MiFi to ridiculously absurd levels. We also didn't get any additional confirmation on availability, so we're still left waiting for a mysterious date sometime in the coming months.
+
+

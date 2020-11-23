@@ -1,0 +1,6 @@
+
+ 
+The idea of waiting around for hours for your EV to recharge is soon to become a thing of the past -- or rather it already is in Japan, where the CHAdeMO-style chargers are enabling cars like the Nissan Leaf to get to 80 percent battery capacity in just 30 minutes. Now they're properly starting their US invasion. The first assault came in Portland a few months back, with 310 more stations lining up for deployment in Arizona, California, Texas, Tennessee, Oregon, and elsewhere in Washington according to Yomiuri. The move will cost about $230 million total, though there's no word on whether they'll be publically available like the one in Portland is. CHAdeMO, which is a play on the Japanese "O cha demo ikaga desuka" ("let's have tea while charging"), works by handling the AC to DC conversion externally and providing power at up to 500VDC and 125 Amps, much higher than on-board AC/DC converters can handle. This drives down recharging time massively -- even if you don't like tea.
+      
+
+ 

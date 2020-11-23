@@ -1,0 +1,6 @@
+
+ 
+The reign of Core Duo has dominated 2006, but now is the time for a line of desktop processors to take the stand for justice. Or something like that. Announced in June, Intel's Core 2 Duo is officially "out" today -- though you can't buy 'em just yet -- and bit-tech.net has given the Conroe and Allendale lines (4MB vs. 2MB L2 cache) an incredibly thorough rundown. We're not total chip nuts, so some of the architecture notes went a bit over our heads, but it's clear that the Intel's Core architecture has the makings of a champ. While sharing a misleadingly similar name, Intel's Core Duo mobile line isn't actually built on Intel's "Core" chip design, notably lacking 64 bit compatibility. However, the breakthroughs made in the "Yonah" Core Duo chips really shine through in the Core Duo 2, and the chip thoroughly trounced AMD's offerings in bit-tech.net's benchmark tests. Of course, at $999 in the high end (the 2.93GHz Core 2 Extreme X6800), and with AMD timing price cuts for Intel's July 24th release party, you might not be quite getting the performance-per-dollar for your desktop that the Athlon has been boasting of lately. Luckily, even faster chips are on the way, and AMD and Intel are charging into a price war that should give us some of the best valued chips we've seen in a while.
+      
+
+ 

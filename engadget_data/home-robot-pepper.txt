@@ -1,0 +1,37 @@
+
+
+
+The path to mainstream home robots is strewn with the battery-drained corpses of AIBO and lesser-known, Dalek-esque robots like Wakamaru. But now Japan's SoftBank, flush from the purchase of Sprint, has introduced its robot game changer, teaming up with Aldebaran Robotics (the team behind NAO) to make sure it gets it right. This is Pepper-kun. He's adorable... and a bit of a ditz. Is it finally time, like it was for the home PC, for the home robot revolution? 
+
+
+
+Those eyes
+Pepper's giant eyes are designed to look at you wherever you are -- like the Mona Lisa. Creepy side-glances abound, but I was surprised at how comfortable I soon became when interacting with the 3-foot, 11-inch robot. The diminutive size and big eyes project that kawaii ("cute") aura that Japan loves. There's some manga-inspired design here, and it goes against the efforts to design more human-looking robots, which then inevitably tumble into the uncanny valley: Is it human? Is it a machine? It's like how parts of Blade Runner and Hiroshi Ishiguro's Geminoids might weird you out. SoftBank CEO Masayoshi Son talked about how he was inspired by Astro Boy, an Osamu Tezuka creation from over 50 years ago.
+
+Fortunately, SoftBank's Pepper sidesteps that weirdness: It's designed to be inoffensive and lovable. Inside those black holes are an infrared sensor and a detector: This measures 3D depth. On the top of the head, there are four mics for directional sensitivity and a pair of speakers distributed between the ears. Confusingly, in the mouth, there's one of two high-definition cameras; the other resides between the eyes. There are touch sensors in the head and hands, as well as three bump sensors in the base. (I'll get to those; I'm working my way down.) This particular Pepper is the model that'll be working part-time in SoftBank's phone stores, although I'm told the hardware will be nearly identical to the ones the carrier will offer for sale early next year.
+
+That voice
+Pepper speaks in childlike Japanese. The software behind it can speak and detect French, English and Spanish, but again, this is the robot that'll be working phone stores in Japan, where there's not a huge need for foreign-language skills at the moment. Pepper's "personality" features a love of cheesy jokes, but you'd probably have to appreciate that Japanese humor to get most of it. Still, it's a nice touch.
+
+Pepper's "personality" features a love of cheesy jokes, but you'd probably have to appreciate that Japanese humor to get most of it. Still, it's a nice touch.
+
+SoftBank's spokesman tells me there's a difference to the behavior between the shop-centric model (Pepper starts a lot of conversations and wants to play a lot of games), and the eventual home robot. The latter will base a lot of its interactions on established information and on face detection -- it'll know who it's talking to. Less small talk and gags and more "Don't forget your umbrella," "Are you feeling okay?"-type interactions. SoftBank is reiterating Pepper's ability to read into what you're saying emotionally, from a light-and-friendly "No," to an aggressive one. The meaning is different, and Aldebaran Robotics' boss told our Japanese colleagues that it can typically tell the difference if you say, "Yes," but your heart (and probably your face and intonation) says, "No."
+
+Pepper, though, asks if he can join your family, asks what kind of person you are. It's friendly small talk, but it's also tinged with a hint of impatience. If he can't understand your roughly pronounced Japanese (sorry), he'll move on to a new question, or ignore you outright. But I don't feel all that offended; I feel like Pepper's still learning -- he's still a kid and I humor him. Maybe it's the way he talks, or the fact that he's a couple of feet shorter than me, but I forgive him for it, and that might be how it worms its way into Japanese homes.
+
+The hands
+They aren't going to pick up anything anytime soon. As you might have seen in the intro video, the hands, nay arms, are surprisingly fluid and Pepper's numerous poses are quite natural. There's a degree of give to the hands' movement too: They've been designed to be soft and pliable, because kids. Children can get excitable and they run around a lot. So to avoid poked eyes and subsequent tears, the fingers are bendable, while joints are surrounded by flexible rubber so that they don't pinch if a hand gets trapped in there. The whole body is a combination of gentle curves and SoftBank colors (white and light gray -- it's all very interior design-friendly).
+
+There are touch sensors on the arms, as well as the head. But during our first meeting, it was the head patting that got Pepper's attention most. I'd love for Pepper to have the ability to hold our keys or umbrella while we prepare to go out, for example. I want my robot butler.
+
+The leg(s)
+It's not a bipedal robot. ASIMO is safe for now. It's something Son mentioned at Pepper's debut, but it is a fact that wheel-based robots are far more energy efficient. SoftBank pegs the battery life of its newest sales assistant at around 12 hours. A combination of three specially designed wheels allow it to rotate on the spot, reverse and generally navigate its environment. To help, there are three bumper sensors and a trio of paired laser sensors augmented with sonar. This doesn't just avoid collisions, but also ensures that it can maintain a degree of distance -- you can keep your personal space. And if bipedal is your dream robot form, Aldebaran Robotics does have one in development.
+
+The point?
+What do you expect Pepper to do? That's the next challenge for SoftBank. It doesn't offer much in the way of manual labor or cleaning, but it definitely, unwaveringly, offers a glimpse into the sociable future of robots. Imagine Siri's savvy with Pepper's expressiveness and, er, Boston Dynamics' maneuverability -- that's probably the future.
+
+Imagine Siri's savvy with Pepper's expressiveness and, er, Boston Dynamics' maneuverability.
+
+But will it be a commercial success? By installing these robots in its stores (four at the moment, but rolling out further later this month), it could become a familiar sight in Japan -- and that's what Pepper will need if SoftBank's expecting normal people to stump up its 198,000 yen asking price. SoftBank's CEO Son said, "It's the first step," and the core part to this is its affordability. It may not be cheap in the world of phones and tablets, but nor is it out of this world (or your wallet). For a humanoid robot that wants to talk, $1,900 is a bargain.
+
+

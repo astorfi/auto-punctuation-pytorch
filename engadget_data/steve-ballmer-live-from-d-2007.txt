@@ -1,0 +1,137 @@
+
+
+Steve "Developers!" Ballmer is set to take the stage this morning at D, but since we don't know exactly what time that's going to happen you all are gonna have to hang tight until he does. We expect he'll be discussing last night's Surface announcement, but we'll see what else he's got planned for us. Stick close!
+
+
+UPDATE: D has posted video highlights of Ballmer's chat, our original liveblog after the jump. 
+
+
+8:38AM PST: It's on! Follow the rest of the question and answer session between Walt Mossberg (bold) and Ballmer after the break...
+
+
+How are ya? 
+Great.
+Thanks for coming. 
+Pleasure.
+I thought I might start off by asking... let's talk about the scale of Microsoft. If you go back 15 years ago I seem to recall you had 15k employees. How many do you have today?
+78,000. 
+
+So tech companies are flat and nimble with ideas bubbling up from the bottom -- how do you compete?
+Two things we have to do: number one, foster all kinds of innovation. Bottom-up. Think weeks, literally anyone in the company can throw out an idea, that's a phenomenal thing. Things from the top-down. We started a process to lay out a long term vision, here are some trends in tech we think are important, we can provide alignment without the central planning.
+
+Isn't bottom-up way harder with you're 78,000 people?
+We're actually a lot more nimble today than we were when we were 30. Small does not imply agile. The people we had weren't as good, they weren't pushing as hard. If you look at some of the things we've put in the market recently... those are the things we've done from the bottom-up. Silverlight... a lot of stuff comes bottom up. Direction... north star, let's go. That's top down.
+
+Let's talk about Vista, it took 5 years to come out. The hardware guys and software guys weren't ready, that's caused pain points... youv'e been quoted as saying you won't take 5 years between operating systems.
+We have to learn from our mistakes. We've got the will, the determination, we tried to do too much incubation... we had exponential increases in complexity of the product. We have a lot of innovation coming in Windows.
+
+
+Are you thinking about a schedule of what? Two and a half years? Less of an overhaul?
+By putting Windows and Live together we've given ourselves the ability to have rhythms. Live will have a rhythm, the OS will have a longer rhythm. Supporting the many-core architectures, we'll have a variety of speeds releasing key technologies to the Windows technology.
+
+So you have this thing called Windows Live -- it's a bunch of web products and services. It seems to be a marketing rebranding and some new products... here at D you showed Virtual Earth. Is there really a relationship besides the name?
+A lot of the core services in this day and age with an OS we think of as Live, this will iterate and update frequently... we think of this as a service connection. There's always a chicken and egg. Is it better to state the direction first?
+
+Do you run into a dilemma with Windows Live services -- Silverlight... one of the points you mentioned, the second thing you mentioned was that it runs on Mac, runs on Linux. But if you're gonna do web-based it can't only work on Windows..
+Some things should only work on Windows, some things work cross-playform... we're gonna do different things in Windows than you can do in Linux and on the Mac. We need to be able to support both models of development.
+
+
+So the biz model that got MS where it is is pure software, someone else makes the hardware... you seem to be branching out into different business models, advertising... the Apple type business model where you make the hardware, the software, the PC client, web services -- Zune, Xbox... something has changed. Talk to me about that.
+It's part of a progression, for a long time we didn't think we could sell anything for more than $100. People kept saying "don't do enterprise software!" For years we were told we weren't ready for the enterprise... but it worked out and we have a substantial business. But we're staking out new businesses. It's key to our long term growth and vibrance. There are exciting new technologies we want to bring to market that don't follow the desktop software business model. We want to build these two muscles. That is critical to our success. That's one of the most unique things about MS -- multiple muscles that let us bring these exciting technologies to market.
+
+You have to do that though -- Google on advertising, Sony and Apple on the electronics. But this is not what 5-10 years ago people thought MS would be doing. But if we're not willing to grow new business muscle -- not just technology muscle... it's a software and service business, and how much hardware we offer is variable.
+
+But the point is hardware is part of that equation. For us its new skill, new muscle.
+
+You do have the monopoly on BROWN electronics.
+It's the color all dirt-bike riders want!
+
+Why don't we take a look at the product you brought here this morning? It's MS built hardware and software and web services, so it's all three legs.
+Pete Thompson from Microsoft takes the stage to show off Surface.
+
+Thompson: This is D... not Demo. Here's the difference, you have to PAY to show your products at Demo (oooooooohs! from the audience)
+
+Showing off Surface. Showing direct interaction and multi-touch.
+I thought there was ANOTHER company that invented that? I was kidding, but Apple has shown this kind of stuff in the iPhone. HP has shown this kind of tech... does someone own the patents on this stuff? Everyone's doing this...
+We feel really good about our IP position. But multitouch in general has been in academia for decades, as a concept it's been around for a very long time. What's unique what we're doing is adding into the user experience.
+
+
+Just placed a camera on the surface, photo pulled down wirelessly instantly. That was pretty impressive! Showing scratch and win application for Harrah's, exploring Harrah's casino properties. The 30-inch formfactor was what tested best, but there aren't any constraints to the scale of the Surface display size. Showing the T-Mobile demo. "We want to improve the cellphone buying experience."
+You mean make it NOT TERRIBLE? 
+Laughter, applause. The T-Mobile demo is really great. Very nice to watch cellphone plans dragged onto a real phone and watch a customer's invoice created.
+Is there a concern that it doesn't have staying power? That it's not just a novelty?
+It's a Vista PC, so it's multifunctional... flexible for partners.
+
+Showing a video puzzle. That is nuts. Clear tiles each playing its own video clip, rotating and movable. Wow, no issues during that demo!
+So why are you building this product? Why wouldn't you just build the software and have Dell or someone build the thing?
+There are a lot of unknowns in the business model... new tech, hardware, no knowing how much profit... not an attractive proposition for partners. But taking that kind of risk/return was very interesting for us. We're open and flexible.
+
+Let's talk about Google and let's talk about you spending $6bn on an advertising company. Why do you keep losing share in search to them? This has been a high priority...
+Well, we had to launch our search product... the market leader has momentum, just being in the market with our own offering isn't enough to make a dramatic shift. But we're well down the learning curve, the relevance of our searches are going up. ... Search is one of the stagnant areas. We're in the game, but we've got a lot of work to do. 
+
+But you launched two years ago, but continue to lose share.
+I would have hoped to be a little higher today, but it doesn't diminish our determination to invest, succeed, find the right path forward.
+
+Talk about the advertising piece -- you're now an ad company with the acquisition. Why are you in that biz?
+A few things to think about. Media advertising and entertainment will be most transformed by the internet. All media will be delivered via IP -- big growth opportunity. Increasingly software experiences will be advertising-funded. The killer app of the advertising business today is search. We need to be in the app layer in search and portal. We need to reach out to publishers. We need to drive an ecosystem on the application side and on the platform side.
+
+You're allowed to say Google
+I can't! I can't! It's THE MARKET LEADER.
+
+There's Google, Yahoo... there's you.
+It's interesting to rank search share, but it's also interesting to rank advertising share. We sell $2bn advertising share, not inconsequential. We're the #3 player in the marketplace today... working hard with COMMITMENT AND ENTHUSIASM. [Why is Ballmer talking like a pirate??]
+And some money.
+It's important that there be good competition on the app/platform level...
+
+Give me one example of how you'll innnovate on the advertising side.
+All of us understand over time there will be a system that sits between people who have audience and people who want to do commerce. That system will give you a listing, a picture or display ad, a video ad, it will have a lot of intelligence about buyers and users, and make those up in interesting ways. The ways it makes those up -- subject of course to privacy oversight -- will be intelligent.
+
+User interface and search is stagnant... although Ask is doing interesting things. But I don't think YOU have shaken that up either. There was a lot of talk, but I haven't seen it...
+Expect that you'll see a lot of innovation from us in the UI. The average search query is 2.2 words... longer search yields worse results... some of these things will come quickly, some will take time.
+
+When are we going to see...?
+There are things we have to do to catch up, to get ahead, we're going to keep working at it, and as we have interesting stuff we'll make it available.
+
+Let's talk about the other area... let's talk about the iPod Apple juggernaut. You have the Zune, Apple sells 20 million in a good quarter. Is this another case of determination?
+We don't drop things. You can look, there's a short list of things we've started that we haven't continued. We're very committed to Zune. Do we get into market last year with a product that's good but that's not revolutionary? We'll have a lineup this Christmas that we think is more exciting... really understanding what it takes to do hardware and software. We're selling tens of millions of phones running Windows Mobile...
+
+So years ago when I asked are you gonna make a music player? You said no... but are you going to make a cellphone?
+No! No, I know I said the same thing about making a music player. We would love to have high share of phones, that's our long term goal. As phones get smarter that sit in every phone... but will they come from us or someone else? Most of the players have exited, and increasing standardization around WinMo and Symbian. So even if Apple and RIM want to do their own software, they'll have nice small positions. We'll have a larger piece with hardware partners like HTC, LG, companies that can innovate rapidly.
+
+So the phone part of Samsung shouldn't listen to the music player part of Samsung?
+Samsung is different... they run independent hardware businesses very well.
+
+Thank you!
+Thank you.
+
+Q&A, Rahul Sood from Voodoo is up: I'm confused with all these versions of Vista, and I'm an enthusiast. How do we make this so its easy to understand?
+It was not without a lot of feedback that we came to the point that we did. We don't have 20 SKUs in the lineup, but we have more than we've ever had, five products. Will that serve our customers and us well? The jury's still out. We sold 40 million copies... most of the people that arrive at that point do because they want to provide their customers choice.
+
+Your general point?
+Sure. We ought to strive to make things simple. When we don't our customers let it be known...
+
+Question about the free-market model in Microsoft's internal economy.
+Innovation comes from all sides within... take the future of computing, many-core. We have to be intentional about that across the org. It won't spring up from 3-person teams. Unless we're embracing multiple views of innovation we don't have any ability to grow and succeed. Something should come from small groups, but we're all happy Boeing doesn't design next-gen planes with three guys in three months. 
+
+Within 5 years all media will be delivered via IP... where does P2P fit in?
+It will surprise people how quickly that does happen, and P2P will be an important part of infrastructure. There will be parts where it will be used, but people will also want to pay for higher reliability...
+
+Question from Esther Dyson: How much R&D is done outside the US?
+We do about 10% outside the US in China, India, Denmark, Israel, the UK... we're expanding via acquisition and typical expansion. We have to grow outside the US for one reason -- talent supply. We need to tap into that talent pool.
+
+... and what about building stuff tailored to other markets?
+We're building stuff at the bottom of the pyramid, we're doing things to make WinMo phones quasi-PCs in China...
+
+For years the dev tools group was part of platforms, now it's part of the biz group. Does that signify a change in strategy?
+No, we have no strategy change. We were trying to do some load balancing with executives, nothing else. In fact, more and more of what we're doing from a tools perspective really broadens us out beyond business customers.
+
+In terms of increasing the emphasis on safe computing, what do you see in terms of making computing more accessible and available?
+Our view of the world is a lot of smart devices... people want to throw the switch, everything's at the center, then everything's at the node. People want the best of both worlds... the world will be more balanced in the model of computation than ever before.
+
+Most innovation is coming around areas of entertainment and leisure, but you're one of the businesses that can tackle greater issues... like medical records, we don't own our medical records. It seems like there are areas companies like MS can genuinely impact lives in a real way.
+If you ask, what's the fastest growing industrial sector, it's health. If you ask what's the least automated sector, it's health... thinking about that, talking about that we've hired the guy who ran drugstore.com... we've acquired Azitsi (SP?) it's almost like a business intelligence system. We bought MedStory which has additions to search for health-related issues... we've got guys incubating managing your own personal health record. It's an area we have enthusiasm about, and talked a lot about. Doesn't seem to be one that's popped up a lot in the broader discourse though.
+
+Thank you Steve.
+Thanks everybody!
+
+

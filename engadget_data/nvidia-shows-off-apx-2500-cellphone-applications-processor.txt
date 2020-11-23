@@ -1,0 +1,9 @@
+
+ 
+It's been a long while since we've seen anything from NVIDIA on the cellphone front, but the company has changed that in a fairly big way today, with it showing off its first major cellphone applications processor: the APX 2500. As CNET points out, that chip is largely the result of NVIDIA's acquisition of PortalPlayer back in 2006, and represents the company's first attempt at building a true computing processor for cellphones. From the looks of it, they sure look to have gotten off to a decent start, with the chip itself (based on an ARM11 core) able to run at speeds up to 750MHz, and encode and decode 720p high-definition video, opening up the possibility of some pretty capable cellphone / video camera hybrids. Of course, this being NVIDIA, they also squeezed in some of their GeForce graphics technology designed especially for low-power devices, which they say is to allow for 3D interfaces, but we're sure could also be put to some other uses as well. No exact details as to when and where we can expect to chip just yet, but it'll apparently start to make its way into phones sometime next year, with Windows Mobile in particular able to exploit the technology in the chip -- no surprise there, given Microsoft's hand in the chip's development. Follow the break for a shot of NVIDIA's totally trippy demonstration interface that's in use on the APX2500's reference platform.
+      
+
+ 
+
+
+ 

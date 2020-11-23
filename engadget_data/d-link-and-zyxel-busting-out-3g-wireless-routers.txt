@@ -1,0 +1,6 @@
+
+ 
+The days of 3G connection-sharing WiFi routers being a novel idea are long past, but that doesn't mean players like D-Link (pictured) and ZyXEL don't have anything to offer with these new routers of theirs. Of course, they both have the basics down: PCMCIA slots for those 3G connections (D-Link is shipping EV-DO and UMTS/HSDPA versions, while ZyXEL just does the UMTS/HSDPA thing) and a/b/g WiFi, but D-Link also lets you plug your USB-enabled phone into the router for an extra connection option, while ZyXEL mixes in some enterprise-friendly VPN certification -- both routers include their own firewalls. Unfortunately, the wired connections on the routers top out at 10/100, and the lack of 802.11n means you won't be doing much hefty peer-to-peer file sharing, but there at least shouldn't be any bottlenecks in the way of that 3G data. ZyXEL's ZyWALL-2WG will be out in Q1 2007 for an unnamed price, while D-Link's DIR-450 (EV-DO) is available now for $300, with the DIR-451 (HSDPA) to follow later in this quarter.Read - D-LinkRead - ZyXEL
+      
+
+ 

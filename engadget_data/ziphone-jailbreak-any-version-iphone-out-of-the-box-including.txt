@@ -1,0 +1,6 @@
+
+  
+We're not yet entirely sure how it works, but iPhone hacker Zibri's just released a new app he's calling ZiPhone, which claims to jailbreak any version iPhone -- including new 1.1.3 phones right out of the box -- without messy downgrades and baseband changes. We haven't tested it ourselves, but prepare for the onslaught of downloaders to take it offline in five... four... three...[Thanks, Tyler and Eugene]Update (2/13): Looks like v2 is out, and it's capable of downgrading the bootloader from 4.6 to 3.9. Thanks, Yuri.
+      
+
+ 

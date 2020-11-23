@@ -1,0 +1,4 @@
+
+ If Samsung likes an open playing field, it'll not be best pleased by this latest announcement from Japanese chip maker Renesas. Uncannily named the "APE6", it directly copies the same big.LITTLE design of ARM cores found in Sammy's Exynos Octa. The are four Cortex-A15s paired with the same number of Cortex-A7s, allowing a phone or tablet to switch between the two quad-core configurations depending on its workload. Interestingly, whereas the Exynos Octa's GPU has been rumored to contain a last-gen PowerVR Series5 GPU similar to that found in the iPad and PS Vita, the APE6 will come with a more future proof Series6 "Rogue" design. We've already spent some time with this GPU and it'll be a good day when we can finally try it out in a finished device and stack it up against a rival bearing Samsung internals.
+
+

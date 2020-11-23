@@ -1,0 +1,9 @@
+
+ 
+ We're here on the floor at the Samsung Galaxy S III launch and we've just managed to get some alone time with the unit to get some benchmarks. Now, let's stress that the handset is a pre-production model, so we can't take these as gospel truth, but it's a good indication of how powerful that Quad-Core Exynos really is. The only thing that isn't working is SunSpider, since our results just didn't tally with the other tests available, so hopefully it's just a quirk. Head on past the break for a dose of nitty and a sprinkling of gritty.
+
+
+
+
+         Samsung Galaxy S III    HTC One X (AT&T)    HTC One X (global)    HTC One S (global)  Samsung Galaxy Note (global)      Quadrant (v2)    5,189    5183    4,906    5,053    3,854      Linpack single-thread (MFLOPS)    51.337    103.77    48.54    103.88    64.3      Linpack multi-thread (MFLOPS)    101.606    214.53    150.54    222.22    95.66      NenaMark2 (fps)    58.8    58.7    47.6    61.0    32.8      NenaMark1 (fps)    59.8    58.6    59.5    60.8    56.6      Vellamo    2094    2350    1,617    2,452    901      SunSpider 9.1 (ms, lower numbers are better)      1709    1,772.5    1,742.5    2,902   
+ 

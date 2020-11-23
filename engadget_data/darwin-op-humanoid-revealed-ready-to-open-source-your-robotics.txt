@@ -1,0 +1,6 @@
+
+ 
+The next version of the RoboCup-famous DARwIn bot is about ready to give the Nao a run for its money. The new DARwIn-OP from Robotis and Virginia Tech's RoMeLa (led by Dr. Dennis Hong, who joined us on the Engadget Show earlier this year) is just about to land, and the first pictures of the finished thing have started to circulate. While the bot is designed to perform, with sensors and servos suitable for higher-end robotics, the main thrust of the design is the open source and modular nature of the hardware and software. The bot can be purchased as a product from Robotis, but the CAD files are publicly available, and its plastic parts can be fabricated by the end user to save money (you do have a 3D printer, right?). Rumor has it the robot will retail for around $8,000, around half the cost of its closed source Nao competition. The full unveil of the robot is due at the IEEE-RAS International Conference on Humanoid Robots a couple weeks from now.
+      
+
+ 

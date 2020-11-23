@@ -1,0 +1,18 @@
+
+
+They won't say who it was, but Microsoft's Engineering Entertainment Center has something on their weblog about how
+an unnamed airline contacted them about building WiFi networks inside planes so that passengers could stream video on
+demand to their laptops or handhelds. They actually got a prototype system working over 802.11a (which has more
+bandwidth than 802.11b and is usually a little less crowded than 802.11g). Not sure when or if this'll ever become a
+reality, but regardless of whether they choose to connect that in-flight wireless network to the wider Internet or not
+(obviously you know what we'd prefer), something like this actually makes sense for older planes that don't have video
+screens at every seat. Put a media server with a few hundred GB of storage on it and you could point passengers to a
+web browser where they could pick from hundreds of different movies and TV shows.
+
+
+ [Via CNET]
+
+
+
+
+ 

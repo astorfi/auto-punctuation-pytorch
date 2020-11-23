@@ -1,0 +1,6 @@
+
+ 
+Looks like Palm's webOS Reset Doctor, intended for resetting Pre smartphones with a mangled system, has been outed to the public at large along with a very special bonus for hackers and other programming enthusiasts: a complete 195MB root image of webOS itself. Code-inclined individuals on the PreCentral forums have already cracked open the ROM and are getting an unfettered glimpse at the Palm's new platform, which for the layman means it should open the doors for some crazy Pre hacking and possibly hint, by way of unfinished / unused code, of what's to come for the platform -- and if we're really lucky, maybe someone will be able to look at this and move us one step closer to an unlocked Pre that could jump onto Verizon's network. Amusingly, you also get to see all the comments left by the devs in the code, guaranteeing a few good chuckles from others who can relate. Intrepid computer science-ers can hit up the read link to find the appropriate .jar file or just follow along with all the fun in the forum discussion.
+      
+
+ 

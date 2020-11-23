@@ -1,0 +1,24 @@
+
+ 
+One of the more more interesting, albeit minor, announcements at Macworld was Remote Disc, Apple's method to undermine the need to bundle an optical drive with the Air. To our chagrin, Apple also undermined the ability to do much fun or useful with the disc sharing system. Here's what you need to know about Remote Disc, top to bottom:
+
+The Remote Disc installer is 42.3MB for Mac, and claims to take almost 86MB of space. (Apple let us know it shouldn't take anywhere near that, and the installer app overestimated the space required.) Also, expect a restart of the host Mac. (Windows, ironically, does not require a restart to begin sharing media.)
+Although you can disable the "ask before allowing others to use my drive" sharing option, if you have not done so users will be prompted to ask permission to use the drive at each connection. (Also, there's no client whitelist or anything like that, it's all or none for asking permission.) If you've already asked permission on that drive and disc and stop using it, you have to ask permission again the next time (unless the host turns off the whole permission asking thing).
+Every time you ask permission as a Remote Disc client, the host gets a popup asking if it's cool to share your drive. You can, of course, accept or decline (but the only way to stop getting prompts is to turn off disc sharing).
+Ejecting the disc on the client side does not eject it on the host side.
+Ejecting it on the host side, however, gives a host-side prompt about the disc being in use. You can override and eject, however.
+To reinstall or boot from CD using Remote Disc, the host must use the installed Remote Install Mac OS X application. It's a fairly simple process, but sharing an install CD over a wireless network is asking for trouble. It took an absurd amount of time (nearly 10 minutes) to boot over 802.11g. You need bandwidth, so be sure to get on 802.11n or, preferably, wired (with the dongle).
+To remote boot from a shared CD, hold the option key while starting up. You'll be presented with a BIOS-level WiFi / network selection that looks surprisingly unpolished for Apple (but works with WPA and advanced WiFi crypto all the same)
+
+Bummer for media:
+
+You can browse the file contents of DVD discs, but you cannot actually play that media back over the network. Apple let us know that this only applies to commercial DVD media, and you should be able to play back home-burned iDVD movies via Remote Disc.
+You can't rip DVDs over the network using a tool like Handbrake.
+You can't browse a music CD or listen to tracks. Don't even think about burning a disc remotely.
+Remote Disc appears only to be able to share CD / DVD drives and CD / DVD discs, not high capacity / HD optical drives.
+We tested sharing a regular DVD over an HD DVD drive, no luck. Data CDs on DVD drives worked fine though.
+
+We've heard of some client firewalls harshing on Remote Disc, but we didn't see any issues when testing. Despite its shortcomings, it did work exactly as advertised, and with zero fuss. We miss anything?
+
+
+

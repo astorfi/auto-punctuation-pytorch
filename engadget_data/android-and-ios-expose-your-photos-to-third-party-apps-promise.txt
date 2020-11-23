@@ -1,0 +1,5 @@
+
+  2012 is still young, yet it's already shaping up to be a bad year for privacy and security on the mobile front. Apple found itself embroiled in a bit of a brouhaha over the iPhone address book and an app called Path. And, of course, Google was put under the microscope when mobile Safari was found to have a security flaw that its mobile ads were exploiting. Then, earlier this week, it was discovered that granting iOS apps access to your location could also expose your photos. Now it's been discovered that Android also exposes your images, though, it's doing so without asking for any permissions at all. While Apple was masking photo access with other permissions, Google is simply leaving your pics vulnerable as a part of a design quirk that came from the OS's reliance on microSD cards. Both companies have acknowledged the flaws and have said they're currently working on fixes. We're just hoping things start to quiet down soon, though -- our mobile operating systems are running out of personal data to expose. Check out the source links for more details.
+      
+
+ 

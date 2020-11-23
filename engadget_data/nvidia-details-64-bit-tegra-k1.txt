@@ -1,0 +1,14 @@
+
+
+NVIDIA set out to claim the Android performance crown when it unveiled its 64-bit Tegra K1 processor at the start of the year, and it's now ready to explain why it expects to come out on top. The chip's two Project Denver cores will have an edge partly because they'll optimize code on the fly -- they'll break down big instructions into tiny, super-efficient functions that can be recycled as often as necessary. The company expects roughly twice the speed it would get from ordinary code, making the 64-bit K1 faster than you'd expect just by looking at the hardware. It should tout "significantly higher" performance than current four- and eight-core mobile CPUs, and run as well as some PC processors; be prepared for more Tegra-powered laptops and high-end tablets.
+
+
+
+          
+ 
+ 
+ NVIDIA is still shy about when the new part will show up in gadgets you can buy, but it's insisting that the K1 will be the first 64-bit ARM chip to run Android. The first shipping Denver-based mobile devices should arrive later in the year, and NVIDIA is unsurprisingly working with the Android L release to unlock the new Tegra's full potential. Whether or not the firm can back up its boasting isn't certain, though. Qualcomm also expects its 64-bit Snapdragon 410 and 610 to show up in late 2014 -- even if NVIDIA beats Qualcomm to store shelves, it may only have weeks to brag before it faces some competition.
+
+       
+
+ 

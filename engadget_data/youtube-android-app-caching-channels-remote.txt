@@ -1,0 +1,7 @@
+
+ 
+ As Google I/O 2012 rolls along, the YouTube team is updating its Android app to v4.0 with a load of new features, but you'll need Android 4.0+ to take advantage of them (at least for now, see below). Available in 47 countries, the new app brings a brand new UI with support for channels that reflects the redesign rolled out on the website last year (not the circle-centric look that it is testing with a select few), and it can precache videos from your favorite channels for viewing later. All you have to do is select "preload" in the setting menu and it will pull down videos from your subscriptions and Watch Later queue when plugged in and on WiFi. To actually view them later you will still need to be online, but they'll load instantly from the device's storage instead of streaming.
+
+ Another new feature is integrated remote functionality to control playback on connected TVs and other devices. This apparently extends to more than just Google TV, as we're told to "expect more updates later" on how this feature will become broadly available. If you're not rocking the latest Android software don't freak out yet, as the team indicates these features will come to more devices later. Developers should be excited too as there's a slew of new YouTube APIs available, hit the source links below to check them out or download the app yourself.
+
+

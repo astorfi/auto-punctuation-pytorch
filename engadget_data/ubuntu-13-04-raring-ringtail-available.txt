@@ -1,0 +1,21 @@
+
+ From an end user's perspective, it's always nice to see developers take a step back and focus on streamlining their code, rather than simply piling on new features. Apple used the strategy to great success with Snow Leopard, and now Canonical is set to follow suit with Raring Ringtail, also known as Ubuntu 13.04. The latest version of the popular Linux distro is set for general availability tomorrow, which follows a beta release and a controversial amount of secrecy. Raring Ringtail is characterized as "the fastest and most visually polished Ubuntu experience to date," with a particular emphasis on a smaller memory footprint and greater responsiveness. Much of the streamlining effort was in preparation for Ubuntu's future life in mobile, and to coincide with that effort, developers will find a preview SDK for app development and the ability to test apps within the MIR display server. The release is now a mere hours away, and yes, it'll be a good day.
+
+ [Image credit: WebUpd8]
+
+ Update: Aaaaaand, it's live!
+
+
+
+  Show full PR text   Ubuntu 13.04 brings dramatic graphical performance enhancements
+   London, 25th April, 2013: Today's release of Ubuntu 13.04 on the desktop brings a host of performance and quality improvements making it the fastest and most visually polished Ubuntu experience to date.
+
+   Performance on lightweight systems was a core focus for this cycle, as a prelude to Ubuntu's release on a range of mobile form factors. As a result 13.04 delivers significantly faster response times in casual use, and a reduced memory footprint that benefits all users.
+
+   This release also illustrates Ubuntu's ongoing commitment to quality and dependability. "Our kaizen approach to development as well as community engagement result in a high quality alternative for people worldwide," commented Jane Silber, CEO at Canonical. "This release, our 17th on a regular cadence, meets the needs of enterprises, organisations, governments and communities looking for a secure and intuitive computing experience."
+
+   Canonical's next generation display server, MIR is available as an option for developer testing and contribution. MIR will enable the seamless convergence of Ubuntu across phone, tablet and PCs in the next set of releases. Having just one codebase for all devices simplifies the lives of both developers and end-users, and makes possible a new generation of devices that combine the portability of the mobile phone with the productivity of a laptop.
+
+   Ubuntu 13.04 includes the Developer Preview SDK for developers to build native applications for Ubuntu devices. Using this SDK, developers can make a single application for all Ubuntu form factors and publish it in the Ubuntu Software Centre with a single upload. Developers have already started to create applications for Ubuntu across different devices.
+
+ 

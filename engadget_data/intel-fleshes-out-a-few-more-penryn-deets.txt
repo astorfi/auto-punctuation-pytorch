@@ -1,0 +1,5 @@
+
+ Just to keep us all guessing, Intel has announced that it will be "launching" 45nm chips across all of its main processor categories in Q1 2008. This would seem to run counter to prior roadmap plans that call for Penryn to start shipping near the end of 2007, but apparently those plans are still on, Intel just won't be busting out the ticker-tape until 2008. Alongside this confusion, Intel has also fleshed out info 'bout its first two Penryn-based products, the quad-core Yorkfield and dual-core Wolfdale desktop processors. Wolfdale packs a 1333MHz front-side bus, with up to 6MB L2 cache, while Yorkfield is essentially a pair of Wolfdales glued together, though the front-side bus is reduced to 1066MHz. The chips also mark the return of Hyper-Threading of some sort, but according to Intel: "The official company policy is that our engineers have left the door open for Hyper-Threading, but we cannot confirm or deny any future plans for the technology," so it sounds like we won't know exactly what Intel is planning to do with that dubious technology it killed off when building its Core and Core 2 products until we get a bit closer to launch time.
+      
+
+ 

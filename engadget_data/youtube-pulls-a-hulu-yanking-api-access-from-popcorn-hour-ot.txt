@@ -1,0 +1,16 @@
+
+ 
+Hope you weren't enjoying watching YouTube on the television screen via Popcorn Hour and other set-top boxes, as they have been given notice by the newly 1080p and network TV-friendly website that they are no longer welcome to access its content. The new Hulu-ish Terms of Service (section II, item 10) restricts API clients from the ability to "use the YouTube API in connection with any API Client created for use on television set top boxes, television game consoles, or video screens packaged and marketed as television sets;" according to Popcorn Hour COO Alex Limberis this applies to all with the exception of "a few strategic partner's Google has singled out" -- PlayStation 3, Wii, TiVo, Panasonic, Samsung and other licensed hardware is safe. 
+
+Update: After speaking with Alex we've got a better view of the situation -- as is clear from the TOS, manufacturers streaming directly via the API as Popcorn Hour did are no longer welcome without cutting a seven figure check to license access. Google did offer to allow continued access via its YouTube XL interface, but for devices like theirs not built around Flash, that possible solution proved to be technologically unfeasible. Obviously these changes apply to all, but as of yet we're not aware of anyone other than Popcorn Hour that has been contacted directly about it.
+
+Update v2: After the break is Google's response, stating Popcorn Hour and the like have been in violation of the above TOS for over a year, from its perspective, this is a simple matter of defending its rights from "video scraping technology." As we mentioned above that means most are in no danger of losing access, but fans of these media streamers will have to live without it, until either YouTube can control the experience or the manufacturer pays up.
+      
+
+ 
+
+Google's statement:Since July of 2008, YouTube's Terms of Service has restricted implementations for televisions based on our APIs. YouTube has been in active discussions with various developers on how best to implement YouTube on set top boxes and TVs. There are several companies, however, that have deployed solutions, like video scraping technology, to circumvent the rules and violate YouTube's Terms of Service. Companies that have negotiated agreements to use our APIs, like TiVo, Sony, Panasonic and PS3 are not impacted.
+
+       
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Roadrunner? Pfff, your chart-topping 1.105 petaflops are laughable. IBM just announced its 20-freaking-petaflop Sequoia supercomputer due for delivery by 2012. While supercomputer speeds have steadily increased year-over-year, a near 20x jump in calculations per second since the last world ranking is unheard of, even if the system has yet to come on-line. Slated to spend its life simulating nuclear explosions, Sequoia will use 45-nm (PowerPC, presumably) processors with 16 cores per chip for as many as 4,096 processors per rack. That's a total of 1.6 million cores assisted by 1.6 petabytes of memory. Perhaps all this processing power might help IBM understand the futility of its Lotus Notes strategy.
+      
+
+ 

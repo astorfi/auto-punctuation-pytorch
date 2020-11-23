@@ -1,0 +1,6 @@
+
+ 
+We oftentimes hear raw numbers of apps bandied about in mobile OS comparisons, but we rarely get any idea of just how many developers are behind the scenes working for each platform. This is the void of knowledge filled by AppStore HQ today, who have gone to their dev directory -- claimed to be a complete listing of all 55,000+ coders whose work is currently available for consumption in the Apple App Store or Android Market -- and stacked them into neat piles of Apple, Google and Gapple programmers. It's immediately apparent that single-platform development is the norm (with Apple holding the predictable edge), but AppStore HQ also provides a list of some of the most well known (and well funded) apps doing the cross-platform dance, and suggests that a movement is afoot toward making software available for both sets of users. Then again, the BNET article below points out the difficulties faced by smaller outfits, who might struggle to find the resources required to port their content over and maintain the skills required to be multi-platform, resulting in them sticking to one environment, irrespective of what allures others might throw their way. Give them both a read, we say.
+      
+
+ 

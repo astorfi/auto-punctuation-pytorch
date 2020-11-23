@@ -1,0 +1,5 @@
+
+ We're sure that a time will come when we're slightly less amazed by Kinect hacks but, right now, we're still just seeing one more impressive than the last -- and we're certainly OK with that. This latest comes to us from a group of students at the University of Washington, who had the bright idea to pair Microsoft's device with some of the robotic surgery projects currently being developed by the university's BioRobotics Lab. That combo isn't quite the sentient, Kinect-enhanced robo-surgeon you may have feared, though. The students are actually using Kinect to provide force-feedback to the actual, human surgeons controlling the robotic equipment -- something that would have been a $50,000 proposition without Kinect. As you might expect, however, the Kinect-based system isn't quite ready to be used for actual surgery as it is -- while it gets the job done as a proof of concept, the students note that the sensors will need to be scaled down, and the resolution improved in order to be deemed suitable for surgical use.
+      
+
+ 

@@ -1,0 +1,23 @@
+
+Every time I use virtual reality headsets, I find new limitations. Now that I'm finally "inside" a virtual world, I want to explore. I want to touch things and feel them respond. I want to speak and have my voice heard inside the virtual world. I want to see my hands represented virtually, and I want to be able to use them as I do in real life. I very much doubt I'm alone in this -- the latest Oculus Rift dev kit has a dedicated USB port on top of the headset explicitly for peripherals that intend to solve these issues. I spent an hour last week with one such device: the Nimble Sense camera from Nimble VR.
+
+
+
+
+
+The Nimble Sense camera is a skeletal-tracking camera/laser combination based on PMD Technologies' chip -- it picks up and tracks human skeletal movement, as well as creating a point cloud of the world around you. It's not quite pass through vision (seeing "through" the VR headset into reality), but it enables a blurry version of your own body and the world around you. Enough so that you could, say, drink from a cup.
+
+
+You know Microsoft's Kinect? It's kind of like Kinect, except much smaller. The device attaches directly to the top of the latest Oculus Rift dev kit (DK2) via a 3D-printed mount. It points down at an angle, intentionally aimed at your hands while you look straight ahead.
+
+I was shown several demos and able to try out several myself. In one, three enemies approach and I'm able to raise my hand to aim; when I open my hand, lightning fires out. It's crude, but the tech demo shows how games are able to use Nimble Sense's data to bring my arms into the game without perceptible lag. In another, Nimble VR co-founder Robert Wang picks up individual dice cubes on a table. He spins them around before placing each in a cup, then picks up the cup and spills them back onto a table in front of him.
+
+This of course begets a new issue: feedback. If you pick up virtual dice with your virtual hand, you don't feel the dice. Your brain approximates that action using spatial perception, but you're still broken from any intended immersion in the process. Wang and his team aren't against some form of glove that would approximate feedback, but he (rightly) points out that a glove is yet another peripheral to put on. As if putting on a virtual reality headset wasn't enough?
+
+If you think this sounds like Leap Motion, that's because it's very similar to Leap Motion. Nimble actually created a video explicitly showing the difference, right here:
+
+
+Convinced? Don't get too excited just yet -- Nimble VR's Sense camera is still a prototype, and the only way to reserve one is chipping in $99 on Kickstarter. The group's already surpassed their goal, so you don't have to worry about whether the crowdfunding round will succeed, and Nimble VR has seed funding to (hopefully) ensure the product arrives as promised in June 2015.
+
+Edgar Alvarez contributed to this report.
+

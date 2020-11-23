@@ -1,0 +1,12 @@
+
+ 
+It appears that the exploding IBM ThinkPad that we spotted last week at LAX may not have been a fluke after all. Telsa Gwynne, wife of famed Linux kernel programmer Alan Cox, describes on her website how her husband's ThinkPad battery suddenly exploded last night (see the photo on the next page), after which "a couple of fires started where the (presumably) boiling battery landed," with one of the fragments taking out a nearby LCD monitor. Alan sustained a few minor burns, but other than the laptop itself there were no serious injuries, thankfully. Telsa does note, however, that the battery was third-party and was bought on eBay, so it may not be an authentic IBM pack at all. Still, somebody needs to get to the bottom of this, like, now -- after the Apple, Dell, Panasonic, and Toshiba recalls, the public demands and deserves complete and rapid disclosure.Update: We traded emails with Alan Cox and have posted some of our questions and answers with him on the next page.
+      
+
+ 
+
+Q&A with Alan Cox: Were you in front of the laptop at the time? Where were you burned?Thankfully I was about three to four feet to the left of it. Got some minor burns on one hand and down the other arm. Nothing serious enough to need the paramedic to do anything. Also a bit short of hair on one side of that arm now.You said that the battery exploded shooting fragments everywhere -- how far did they go?They took out an LCD display four feet away and hit the wall about the same distance. The LCD was about level with the laptop so it would have gone further. The fragments were hot enough they started small fires and melted the carpet. Also btw - note the way the batteries exploded - forward and slightly downward. Not a nice thought if you had one on your lap at the time.
+
+       
+
+ 

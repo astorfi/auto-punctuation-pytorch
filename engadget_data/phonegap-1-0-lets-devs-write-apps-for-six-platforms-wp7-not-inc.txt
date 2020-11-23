@@ -1,0 +1,12 @@
+
+ 
+
+Until now, mobile app developers have followed a pretty predictable MO: develop for iOS first, Android second, and everyone else after that. Since last year, many of you code monkeys out there have been tapping into Nitobi's PhoneGap, a project that makes it easier to churn out apps for almost every OS, all at once. It's been picking up steam, with about 40,000 downloads per month, 600,000 in total, and a steady stream of donations. That all culminated this weekend with the release of PhoneGap 1.0, which lets devs use HTML, CSS, and JavaScript to write and deploy apps for iOS, Android, BlackBerry, webOS, Bada, and Symbian. That's a long list indeed, but we see one glaring omission: Windows Phone 7. Hit the source link to download it for free and check out the promo video below for an oh-so quick overview.
+
+Update: Oops! Looks like WP7 is included! Our apologies, and feel free to celebrate accordingly.
+      
+
+ 
+
+ 
+ 

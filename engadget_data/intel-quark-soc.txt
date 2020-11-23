@@ -1,0 +1,6 @@
+
+The hits keep coming from IDF. After showing off svelte new 14nm silicon built for laptops, CEO Brian Krzanich announced a brand new SoC series named Quark. It's the smallest SoC the company has ever built, with processor cores one-fifth the size of Atom's, and is built upon an open architecture meant so spur its use. Early on in his keynote, Krzanich said that Intel plans to "lead in every segment of computing," and Quark is positioned to put Intel in wearables -- and, in fact, he even showed off a prototype smartwatch platform Intel constructed to help drive wearable development. And, Intel President Renee James pointed out that Quark's designed for use in integrated systems, so we'll be seeing Quark in healthcare and municipal use cases, too. Unfortunately, no details about the new SoC's capabilities or specs are yet available, but we can give you some shots of Intel's wearable wristband prototype in our gallery below.
+
+
+
+

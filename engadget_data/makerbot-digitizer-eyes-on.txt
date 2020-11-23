@@ -1,0 +1,28 @@
+
+
+
+This ain't the same Digitizer we saw back at South by Southwest. The prototype that was unveiled in Austin back in March looked an awful lot like those early generation MakerBot printers, borrowing heavily from the plywood aesthetic that seemed to imply that its creators had built the thing with their own hands. The version the company showed off at SXSW was in keeping with the company's mission statement of building things themselves, featuring a laser-cut wood frame and 3D printed parts. But the Brooklyn company's come a long way since those simpler RepRap days, growing into the leading light in the world of consumer-facing 3D printers.
+
+
+The Replicator 2 really drove the point home with a solidly constructed black frame that eschewed its predecessors' wood finish, and the Digitizer can easily be viewed as part of a matching set. "The MakerBot Digitizer started because I really wanted a 3D scanner to go with our 3D printer," said CEO Bre Pettis at today's event at the company's office in Brooklyn, "and they were all too expensive." The 3D scanner joins the Replicator, MakerWare and the online community Thingiverse as the major missing piece of the MakerBot ecosystem puzzle, an attempt to create the most user-friendly 3D-printing ecosystem available. Now you can download, create and scan your way into the 3D-printing world, from the comfort of your own (admittedly sizable) desktop.
+
+
+
+
+
+
+Slick though it might be, the Digitizer is a strange-looking beast, with a large platform that juts out in front of an overhanging bar. The majority of the device is monopolized by a spinning bed that's eight inches in diameter and will look familiar to anyone who's ever laid eyes on a turntable. At the tip of the platform, large white letters remind you that it's a MakerBot Digitizer that you dropped $1,400 on. On the back of the device, you'll find ports for power and USB (to connect it to your PC) and a power button. The arm on top of the device houses lasers on either side and a larger camera module in the center, positioned just below a big, red MakerBot "M."
+
+
+When it's in action, one of the lasers is visible on the object you're currently scanning (most likely a gnome, if you happen to be a MakerBot employee); it's a thin red line that runs right down the object's center. As ever, you're not gonna want to look directly at the lasers' origin, if you're a fan of working retinas. As the lasers shoot, the platform spins extremely slowly (turning the object about 800 times to complete the circle) and fairly audibly (roughly the same level of the company's 3D printers), while the camera module picks up their location on the product you're spinning. It turns in one direction with one laser, and then turns the other way to fill in the gaps. The process of scanning takes less than 12 minutes, followed by a reconstruction of the digital object as an STL process.
+
+
+According to Pettis, "today was absolutely the earliest day we could get [the press] in to see the final software." And really, that's the piece we've been missing all along. We've seen early prototypes, and we've received rough pricing and a ship date, but we haven't really seen how we'll ultimately be interacting with the product. And while $1,400 will still be prohibitively expensive for most casual users, a scanner certainly lowers the barrier of entry for complex CAD software programs. But the simplicity of the software is really the make-or-break factor for an object like this.
+
+
+"The software is really where the magic happens," says Pettis. "This is really going to be one of the things that sets us apart." Fire it up, and you'll see a red image -- that's what the camera's picking up. From there, the software will give you one of three shades to best match the color and shape of the object. As it scans, you'll see the progress on a mesh layout of the spinning platform, showing you just how much of the project has been scanned. In the left-hand corner is a progress bar, showing you how much time you've got left. At the bottom is a big, red "Cancel" button, in case things should go horribly wrong. Once scanned, you've got options to export it to MakerWare or upload it to the Thingiverse community. You can also share your object through the usual social networking suspects.
+
+
+The Digitizer's an extremely promising step toward a truly viable commercial 3D scanner, and it goes far toward bolstering the MakerBot ecosystem. At $1,400, however, it, like the Replicator is still a ways from mainstream adoption.
+
+

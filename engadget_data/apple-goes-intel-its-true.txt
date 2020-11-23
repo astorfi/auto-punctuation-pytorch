@@ -1,0 +1,16 @@
+
+
+Steve's just finished up delivering his keynote, but it looks like all those years PC nerds spent debating Apple
+fanboys about x86 vs. PowerPC performance weren't exactly for nought—at today's Apple WWDC in SF, Jobs declared the
+PowerPC has been "living a secret double life." We know it's more than just getting 15 "integer perf units" per watt to
+Intel's 70—like, say, having consistant troubles getting to that magical 3.0GHz marker, or those pesky heat issues.
+Steve's solution? Go Intel. And just as everyone had been expecting, a secret Intel build of OS X had been kept in
+house for the past half decade, just waiting for a reason to be loosed upon the world. They expect the full transition
+to Intel-based machines to be complete by 2007, as
+speculated, but we're still in the dark about how Mac is going to make OS X beige-box PC-proof—or if they even
+are.
+
+
+
+
+ 

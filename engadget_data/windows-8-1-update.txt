@@ -1,0 +1,30 @@
+
+
+The whole point of Windows 8 was to make Microsoft's aging OS easier to use on touchscreen devices. Mission accomplished, we'd say (more or less). But now the folks in Redmond have a new challenge afoot: Make Windows 8 equally easy to use on tablets and traditional PCs. The company's already made some progress -- last year's Windows 8.1 update was all about keyboard shortcuts, better multitasking and the return of the Start button (sort of). Now, with its latest update, Microsoft is going after mouse-and-keyboard users. In particular, you can pin Windows Store apps to the desktop Taskbar, and close out of a Metro app by pressing an "X" in the upper-right corner. Heck, you can even shut down without having to open the Charms Bar. Shocking, we know.
+
+
+It's all very exciting, and indeed, you can see for yourselves soon enough; the update will arrive as a Windows Update download on April 8th, which means most folks will simply install it automatically. In the meantime, we've got a full primer after the break, along with a healthy dose of screenshots (we know you love your screenshots). 
+
+
+
+
+Desktop
+Since this update is aimed mostly at keyboard-and-mouse users, let's start where those folks are likely to spend a lot of their time: the desktop. For starters, depending on what kind of machine you have, the PC manufacturer might program it to boot into the desktop by default. Of course, that was already an option in Windows 8.1; the difference is that if you buy, say, a mouse-and-keyboard machine, like a clamshell laptop, the OEM can make that the default so that you never even have to bother with the settings. And yes, if you'd rather go straight into the modern Start Screen, you can do that too by unchecking a box in Taskbar settings.
+
+Speaking of the Taskbar, the rumors were true: You can now pin Windows Store apps to the bottom of the screen, along with traditional legacy programs. In particular, the Windows Store shortcut will come pinned by default on every Windows machine, though you can, of course, remove it if you're so inclined. As for everything else, you'll have to pin those programs manually. In fact, the default setting is not to show Windows Store apps on the Taskbar at all, which means another visit to the Taskbar settings is in order.
+
+Start Screen and Windows Store apps
+It's not just Windows Store apps making a cameo on the desktop -- the Start Screen has meanwhile gotten more mouse-friendly. Most exciting of all, perhaps, are those new power and search buttons you can see in the upper-right corner. That's right, you no longer have to expose the Charms Bar to power down or restart your machine (search is a bit different, because all you ever had to do to bring up search results was start typing). What's interesting is that if you're using a touch-first device like a tablet, the power button won't be there; just the search icon. The reason: Users are apparently used to shutting down their mobile devices by holding down a physical power button, but with laptops they still expect a soft key. We won't argue with that.
+
+But wait, here comes another revelation: right-clicking. Now, if you right-click on something like a Live Tile, you'll see a pop-up menu right there, where your cursor is. That way, you don't have to bring your mouse to the bottom of the screen, where the menu options would normally show up. Forgive us if we sound sarcastic here -- we really don't mean to -- but there just isn't much to say about this. It's a welcome change, but also something that probably should have been part of Windows to begin with. Additionally -- and this feels like a small change -- anytime you install a new app you'll see an arrow at the bottom of the Start Screen with a message that says something like, "12 new apps installed." See? Fairly minor change. But it makes sense.
+
+Meanwhile, inside the Windows Store apps themselves, navigation will feel a little more similar to using Windows on the desktop. In particular, if you hover at the top of the screen, you'll bring up the Title Bar, showing the name of the app, with an options menu on the left, and an "X" on the right to close out. And when you're inside an app, you can also bring up the Taskbar on the bottom of the screen. Again, the desktop making a cameo where you previously wouldn't have expected it.
+
+Throughout, too, Microsoft has fine-tuned Windows so that all of the existing mouse gestures are more precise. For instance, in earlier builds of Win 8, it was perhaps too easy to move your cursor into the upper-left corner and accidentally pull up a list of open apps (remember that the back button in IE is located in the same corner, which makes it a tough spot to avoid). Now, following this latest update, mousework in Windows feels more... controlled. So, if you want to see that list of open apps, you can still poke around in the upper-left corner, but you'll really have to push your mouse in there; you're less likely to pull up the list by mistake. Ditto for bringing up the Charms Bar on the right, or menu settings on the bottom of the screen; they're the same gestures, just with a little less sensitivity.
+
+Performance enhancements
+In addition to all the fun stuff (read: features we can capture in screenshots), Microsoft also made a bunch of under-the-hood tweaks that should improve performance, regardless of what kind of device you're using. First off, Microsoft will be shipping its operating system to manufacturers as a compressed image, so that it takes up less space than it would have otherwise.
+
+Additionally, the so-called Process Lifetime Manager in Windows more aggressively suspends apps to reclaim memory. The keyword there, of course, is "suspend," as opposed to "terminate," which means although the OS should now be more memory-efficient, apps should still open quickly the next time you use them. Think of it as a deeper sleep state for apps, similar to what laptop makers have already achieved for Ultrabooks. Finally, Microsoft improved compatibility with IE, a tweak that should be especially good news for enterprise folks using Internet Explorer on Windows 7.
+
+

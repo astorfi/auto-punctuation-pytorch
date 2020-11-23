@@ -1,0 +1,12 @@
+
+When Google's Chromecast streaming device launched, the company mentioned it would stream stream music from Pandora eventually and now that day has arrived. At least on Android, a new version 5 of the app is available in the Play Store that's flashing a UI ready for tablets, plus that familiar broadcast icon. Not everyone that has downloaded the app has been able to use the feature yet and it's not mentioned in a blog announce post or the changelog, but we got it streaming after using our Chromecast app to remotely force a reboot on the dongle. Everything worked smoothly for us, and the new tablet-optimized UI looks good on the Nexus 7 (2013). We're sure Google has some surprises on the way soon, and hopefully it's not done expanding the features (and availability) of this popular $35 accessory.
+
+
+Update: A Google+ post by the Chrome team reveals Chromecast streaming works from iPhones as well, with iPad support promised "soon."
+
+
+
+
+
+
+ 

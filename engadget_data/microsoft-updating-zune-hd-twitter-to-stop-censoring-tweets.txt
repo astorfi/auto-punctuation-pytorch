@@ -1,0 +1,11 @@
+
+       
+Microsoft definitely copped some of Apple's lame App Store antics with its tweet-censoring Zune HD Twitter app, so now it's time for the infuriatingly vague PR-speak backtracking -- Redmond just pinged us to say it's "identified the issue" with the Twitter app and that a naughty words-enabling update is coming "as soon as possible." That's a pretty lame response, considering the "issue" is that the app is coded to actively censor tweets -- not exactly an "oops" moment, you know? 
+
+Here's the entire statement:
+
+The recently released Twitter for Zune HD application has been abbreviating some explicit words in tweets when viewed on the device; however these explicit words do appear in their full text on the Twitter site or on any other Twitter client. We have identified the issue and are taking steps to update the application as soon as possible to ensure Twitter for Zune HD users are able to view tweets in their original state.
+ Flack silliness aside, it's still the right step -- let's hope this update addresses the performance issues we noticed as well.
+      
+
+ 

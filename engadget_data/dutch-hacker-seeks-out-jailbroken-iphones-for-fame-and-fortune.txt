@@ -1,0 +1,6 @@
+
+ 
+Jailbreaking an iPhone certainly brings many benefits, but it's also fraught with some peril, as amply demonstrated by a Dutch hacker who decided to go snooping around for vulnerable jailbroken iPhones in the Netherlands. While he apparently didn't actually swipe personal information or cause any damage, he was able to find some jailbroken iPhones with SSH running, which allowed him to display a message saying "Your iPhone's been hacked because it's really insecure! Please visit doiop.com/iHacked and secure your iPhone right now!" A noble gesture of a white hat hacker? Not exactly, 'cause that site demands €5 for the "fix" to let folks go back to using their phone securely -- or it did until the hacker apparently had a change of heart and posted the instructions for free, along with an apology for his misguided moneymaking scheme.
+      
+
+ 

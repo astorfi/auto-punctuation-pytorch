@@ -1,0 +1,9 @@
+
+ 
+After yesterday's announcement, we've all wanted a first-hand look at OnLive's gaming performance. Can Steve Perlman, the creator of QuickTime and WebTV, really "change the landscape of the Games industry" using OnLive's new interactive video compression algorithm? Latency through the algorithm is just 1-ms instead of the 0.5- to 0.75-second lag inherent in conventional compression algorithms used in corporate video conferencing solutions, for example. While OnLive's backend servers do the heavy crunching, pretty much any PC or Mac has the power to decompress the video at what's perceived to be real-time. As Steve puts it, "video is trivial for us now." The demo starts at about 10 minutes into the video and looks damn impressive running on a Dell Studio 15 (16 minutes in) -- yes, it runs Crysis. Controlled yes, but very, very promising. See for yourself in the video after the break.P.S. Don't forget to sign up for the Beta starting this summer.Update: During the Q&A, the very real concern of network latency was raised (35:20 into the video). Perlman said that OnLive will work with a data center that is about 1,000 miles away from DSL or cable connections (probably 1,500 miles away with fiber). OnLive data centers already exist on the left and right coasts in the US with a 3rd coming on-line in the mid-west. When streamed to gamers in Australia "just for fun," OnLive found that "you can kind of play the game, but you see the lag."
+      
+
+ 
+
+
+ 

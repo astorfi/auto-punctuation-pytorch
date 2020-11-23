@@ -1,0 +1,50 @@
+
+
+ So on Monday over at Hack A Day we posted a link to an iPod hack over at iPodHacks that let you extract all of the fonts and graphics from the player's firmware. Since then, a new application came out, and we wrote up how to change all the graphics on your iPod.   Before we get started, here's a video (QuickTime) of our first hacked firmware to give you an idea of what we changed.   In this How-To we're going to show you how to change the "Do not Disconnect" circle/slash icon that endlessly and annoyingly flashes all the time on our desk. We replaced ours with the Engadget logo, the Sony CEO, and Hello Kitty but any graphic will do. You can also change battery icons, power status, boot up logos and fonts, or so it seems. We sprinted to write this up, so we might update it as we try some new things. Now on with the How-To!
+
+
+
+ For this hack you'll need an iPod, obviously. We're using the iPod photo, but it should work with most iPods, so farwe've seen one person also hack an iPod mini and a 3g iPod.
+
+ Next you'll need a Windows PC with Apple's iPod software installed.  You can get that from here.  Download and install the Apple software, this software contains the firmware we're going to add our own graphics to.Warning: When you do this, you will be restoring your iPod and will loose all data, etc...Also, this most certainly voidsyour warranty, so if something happens, you're screwed. But hey, you'll have your own branded iPod, that's hot and wellworth it, right?  Next up, download "iPod Wizard" fromhere.  We're not sure if Apple is going to freak out about this, it's just like changing icons in Mac OS X, so it shouldn'tbe a problem.  Unzip the file, and start iPodWizard.
+
+ 
+  Click Open Updater and choose the Apple Update Application you downloaded, it should be in Program files >iPod.
+
+ 
+  Once open, choose the firmware for you iPod, we hacked the iPod photo first, so it's the IDR_FIRMWARE 5.4.0, wedidn't try all the others out yet, but we're guessing folks will post which one is for which iPod as they start to hackaway at it. The color one was easy, once you select the firmware you can click the arrows to see the icons, in ourcase, they were color.
+
+ 
+  Find the image you wish to replace, we wanted to replace the circle / slash icon. Once you find it, click SaveBitmap and save the file to your system.  From there use any bitmap editor to edit the image, we used PaintShop Pro and pasted the Engadget logo over the iconthen saved it. Click Load Bitmap and load in the image you just created.
+
+ 
+  Click Write, this will edit the firmware on your PC and then prepare it to restore to the iPod. Once that iscomplete, open up Apple's iPod update.
+
+ 
+  Make sure your iPod is plugged in, and iPod updater will look for what firmware you can restore to, for us, it foundthe iPod photo and we had the option to restore, which will then add the new firmware with our custom image.
+
+ 
+  Click restore, and in about 5 minutes you'll have the new image you made, keep in mind this kills all your data, soback up before you do this. Here's ours...
+
+ 
+ 
+  The other one is Hello Kitty, since we know it's just a matter of time until someone starts selling a Hello Kittybranded iPod.
+
+ 
+ Here's Sony's CEO holding the Network Walkman upside down. We like this image to remind us that even if you're Sonyand invented the WalkMan, someone like Apple can come along andbeat you hard.
+ An image proclaiming that our iPod does not have any RIAA music or content!
+
+  
+ And, of course, Mickey Mouse.
+
+  
+ We also made one for our pal Leander from Cult of Mac. We think thisis a great way to protect your iPod if someone steals it, too. Add your picture, name and phone number, it won't stopthe thief, but it's still a good measure.
+
+ 
+ On a side note, Apple and every other music player maker should make this part of the software that comes with theirdevice, we all change the icons, desktops, and everything else on our computers, so it makes sense to be able to brandour music players any way we want.  Here are some of the other graphics that you can likely change, lots of cool stuff for sure. Please post up links toyour images in the comments, if someone does something really wacky, we might give out a prize or something.
+
+ 
+ For more information on all this, and some troubleshooting, post up in our comments or over on where it all gotstarted and where folks are still trying lots of things, oniPodHacks.  iPod Wizard, whoever you are, nicely done!
+
+  Phillip Torrone can be reached via http://www.flashenabled.com 
+

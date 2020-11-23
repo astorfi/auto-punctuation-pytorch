@@ -1,0 +1,5 @@
+
+ 
+ Sometimes, those Modern Warfare sessions really take their toll. Now, there is a way to measure the emotional rollercoaster you're subjecting yourself to when you login for those regular gaming stints. Dale Lane decided to hook up the webcam above his main TV to grab a shot of his face every 15 seconds. This then wings its way to the Face.com API, which calculates all sorts of information about the image and sends it back to Dale, who uses a Python script to cook it into these graphs. This one measures his early evening session playing Blur on Xbox Live. Yeah, red means angry.
+
+

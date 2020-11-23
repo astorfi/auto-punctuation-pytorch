@@ -1,0 +1,10 @@
+
+ 
+
+It's like Christmas in July Arduino fans. The Italian open-source hardware platform just scored a number of new add-ons and a pair of fresh iterations that are sure to keep you tinkering and hacking for some time. First up is the Arduino Ethernet -- which, as you may have guessed -- sports an onboard Ethernet jack. You'll probably want to pick up a USB Serial Adapter to program the ATmega328 chip but, once you've loaded your code, it can be hooked up to the web without the need for a Ethernet shield -- and an optional PoE (Power over Ethernet) module means you'll only need one cable for all you net-connected projects. The DIY scene's favorite microcontroller was also blessed with the new Arduino ADK board, a take on Google's accessory development platform. And, if you're not sure where to get started, you can pick up an entire kit for €249 (about $352) that includes not only the ADK board, but a huge pile of sensors and components, and the Mega Sensor Shield to arrange them on. The ADK alone will run you €59 ($83), while the Arduino Ethernet costs €39.90 ($56) with an additional €14.90 ($21) for the PoE module. Can you say a synonym for awesome?
+      
+
+ 
+
+  
+ 

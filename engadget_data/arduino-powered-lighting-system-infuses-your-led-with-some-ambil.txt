@@ -1,0 +1,15 @@
+
+ 
+
+
+	Why spend your hard-earned money on one of Philips' Ambilight displays when you can just make your own, using some Arduino-based wizardry and a little bit of elbow grease? Fortunately, Minty Boost creator ladyada is here to help. All you'll need is a strand of digital RGB LED pixels, a five-volt DC power supply (along with a female power adapter), any USB-equipped Arduino micro-controller and, of course, the appropriate Processing programming environment. You can find the full how-to at the source link below, but the results are pretty impressive -- a capture-based sketch system that's compatible with just about any media player. See it for yourself in the video after the break.
+
+	[Thanks, Phil]
+
+
+
+
+ 
+
+  
+ 

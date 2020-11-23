@@ -1,0 +1,5 @@
+
+ 
+ Vizio's Co-Star Google TV hub has been public knowledge for more than half of 2012, but it might as well have been a black box as far as its internals were concerned. It's mostly been a mystery beyond the acknowledgment of a Marvell ARM chip inside. The teardown gurus at iFixit certainly weren't content to let that riddle go unanswered. Their exploration of the box shows that Vizio is very much clinging to the initial Marvell vision of using a dual-core, 1.2GHz Armada 1500 to handle 1080p video at that $100 price -- albeit with just 4GB of flash to store everything the Android OS demands. What may interest hobbyists is simply the accessibility of the set-top box: just about every board and component comes out easily, which could lead to some cheaper DIY surgery. The full parts list is waiting at the source if knowing how your Google TV box operates is as important as catching up on Netflix.
+
+

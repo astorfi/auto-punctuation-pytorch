@@ -1,0 +1,15 @@
+
+The graph above comes courtesy of Tom's Hardware and, whichever way you look it, it suggests NVIDIA is onto a good thing. The company's recently announced Tegra K1 processor combines a handful of ARM Cortex-A15 CPUs with a GPU based on the same successful Kepler graphics architecture found in desktops and laptops. The result seems to be a minimum 25 percent lead over the current generation of flagship chips, including Qualcomm's Snapdragon 800 and Apple's 64-bit A7, as measured with 3DMark -- although this may not be an especially fair comparison since we don't know the precise wattage of the Thinkvision's processor (if it's more than a few watts, it shouldn't really be compared to the chip in a smartphone).
+
+
+You'll find a roughly similar pattern in other tests over at the source link, but before you disappear into a new tab here's a couple more disclaimers: Firstly, these scores are based on a Lenovo Thinkvision 28 Android all-in-one (with a lovely 4K panel), which Tom's Hardware was led to believe (but not officially told) contains a K1. Secondly, assuming this is a K1, it's definitely not the 64-bit version; it's not running at NVIDIA's claimed max clock speed of 2.3GHz, and it's almost certainly not using market-ready drivers -- all of which suggests that 2014's crop of Tegra K1-powered tablets could be even more powerful than what we're seeing right now.
+
+
+Update: More benchmark scores are spilling out. They still only relate to graphics, and they rely on a pre-release version of GFXBench, but these numbers would suggest that a Tegra K1 reference tablet can match or even beat the 3D performance of an Intel Haswell laptop with integrated graphics, despite the latter presumably burning many more watts.
+
+
+
+
+
+
+ 

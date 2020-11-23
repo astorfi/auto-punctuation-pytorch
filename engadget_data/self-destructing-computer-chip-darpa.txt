@@ -1,0 +1,11 @@
+
+You probably wouldn't bat an eyelash if you see a self-destructing computer chip in a Mission Impossible movie, but what if one actually exists in real life? Xerox PARC engineers have developed a chip that can explode into teensy little pieces as part of DARPA's Vanishing Programmable Resources project. To make that possible, they used Gorilla Glass instead of plastic and metal. Yes, it's the same tough glass used on many available smartphones, but the engineers told IDG News Service's Martyn Williams that they "ion-exchange temper[ed] it to build in stress." A piece of glass that's heavily stressed will easily shatter and disintegrate when triggered. 
+
+
+
+The team demonstrated the technology at DARPA's "Wait, What?" event, where they used a laser to trigger the self-destruction process. As you can see in the video below, the chip didn't only blow up, the shards continued to crumble into even smaller pieces. Someday, this chip could be used to keep, say, encryption keys needed to access sensitive data. The self-destruction process can also be triggered not just by a laser, but also via radio signals or a physical switch. 
+
+
+[Image credit: screenshot from IDG video]
+
+

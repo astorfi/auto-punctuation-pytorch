@@ -1,0 +1,17 @@
+
+Here we go again. Sony may have thrown a bone to angry consumers
+by opening up its DRM rootkit to virus-protection
+vendors, but that hasn't stopped at least some customers (or their lawyers) from deciding that Sony has infringed their
+rights. So, the only surprising thing about the fact that Sony is being sued over the DRM is the locale of the lawsuit:
+it's not in the litigation-happy US, but in Italy, which is typically known for more, shall we say, direct, ways of
+dealing with problems (OK, that's two national stereotypes in one sentence, for those of you keeping score at home).
+The lawsuit, from ALCEI (Italy's EFF), charges that Sony's DRM amounts to a virus, which is installed in a way that's
+"surreptitious way and not transparent." The irony, of course, is that the DRM has
+been in place for months, but the rootkit issue only came
+to light recently, thanks to Mark Russinovich, a systems expert with a flawless understanding of Windows' internal
+workings and questionable musical tastes.
+
+
+
+
+ 

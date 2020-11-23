@@ -1,0 +1,6 @@
+
+ 
+Earlier this week there was something of a brouhaha when some iPhone 3.0 users started receiving random instant messages seemingly intended for other folks. Push notifications were one of the big additions in this release and so naturally a lot of people claimed the feature was broken. They were partially right, but wrong in blaming Apple, as it was they who had themselves broken it. The iPhone generates unique public/private keys upon activation that identify handsets to secure those pushed IMs, and it should come as no surprise that unlocking tools use duplicated keys to facilitate illicit use. You know what happens when you share dirty keys, right? With single identifiers registered to multiple phones instant messages are getting zinged all over the place rather than to their intended destination, a feature we're guessing spammers will start exploiting in three... two...
+      
+
+ 

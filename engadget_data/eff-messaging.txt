@@ -1,0 +1,11 @@
+
+
+Like it or not, your messages -- those funny, tragic, productive, intensely personal missives you fire off without a second thought -- aren't nearly as safe as we all thought. That's why the Electronic Frontier Foundation decided to do a bit of digging into how secure all those messaging apps we use actually are, and it threw its results into this handsome little scorecard. Unsurprisingly, few entrants (like the security-minded calling and texting apps from outfits like Whisper Systems and Silent Circle) scored full marks on the EFF's rubric. What's even less of a surprise is how many well-known services - services we probably all use everyday - don't fare particularly well by the EFF's standards.
+
+
+
+Messaging mainstays like AIM, BlackBerry Messenger, Viber and the once-buzzy trash-talking app Secret brought up the rear with a single point because all they do is encrypt messages as they move from device to service (though the metadata associated with those messages might not be scrambled). Facebook Chat, Whatsapp, Snapchat and Google Hangouts encrypt missives in transit too, but they only gain one additional point because the companies involved audit their code. Comparatively speaking, Apple's doing pretty well, since the content of your iMessages are shielded from eyes in Cupertino, and because attackers can't piece together extended conversations from multiples ones you've already deleted.
+
+And what about the losers? As it turns out, only two apps tested manage to fail on every front. The first is MXIT, a smaller South African social service with just a touch under 5 million users. And the other? QQ, the world's second most widely used social message service, with close to 900 million people pinging each other monthly. 
+
+

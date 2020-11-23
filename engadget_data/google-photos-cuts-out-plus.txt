@@ -1,0 +1,23 @@
+
+
+
+The most striking part of the just released (on the web, iOS and Android) Google Photos is how familiar it feels if you've already been using Photos in Google+, or before that, Picasa. The biggest change I noticed early on is that by separating Photos from its attempt to launch yet another social network, Google is starting focus on stuff that both benefits its users, and that it does well: cloud storage and using information to narrow down searches. Now, it's a perfect fit for how most people use cameras everyday, from the ones in their phones to point-and-shoots (but maybe not your DSLR). With unlimited storage and machine learning that can link photos by the people in them or where they were taken it's ready to make sense of your massive image library.
+
+
+
+The tagline is "organized by what matters" and it refers to Photos ability to pull together geotagging information (if available) or just look at your pictures and figure out where they were taken by the landmarks in them. Most importantly, this information is private -- Photos is a private library where you can curate and edit your pictures, and then share as needed. That said, it is creepily good at identifying people (you can turn that off in the settings), even if it doesn't know who they really are. With my photos, it tracked pictures of my nieces as they grew over several years and still identified them accurately. According to the FAQ, it uses "face models" to group similar photos together. Its ability to ID objects wasn't quite as good -- apparently many of my shoes register as cars or buildings, but it was mostly on point.
+
+
+One element I liked was its ability to create a sharable link to a picture, which you can then go back and kill later without deleting the photo, or just track which links have been created. Of course, it's also ready to share pictures directly to services like Twitter and Facebook (or Google+) without a problem. A Google Now-like "Assistant" feature tips you off when the app is ready to build out a new collection or collage, and even has the familiar cards setup.
+
+Many of the features that were introduced on Google+ are here too, like Auto Awesome that quickly tweaks images to look their best and highlight faces, create animations from a series of successive shots or automatically create Stories from a place or event. By pulling these features out of Google+, it makes them more logical to use even if the friends you'll be sharing them to are on a different service. The usual light photo editing tools are also included, like cropping or adjusting levels.
+
+
+Upon loading the new Photos app, users have an option to stick with using their Google Drive storage, or moving over to the new service and its promise of unlimited backups. By choosing the bottomless option, you'll be limited to pictures at a maximum size of 16MP, and videos at 1080p, but that should be fine for most. It also implements some compression on your stored pictures, and while I didn't notice any differences, it's worth considering for those more serious about their pictures. If you want full-res backups that stay as RAW or TIFF files, you can use the Google Drive options for more space, like a 1TB service that costs $10 per month. On the other hand, if you're just running out of space on your phone, the app can identify which photos you have backed up to the cloud and offer to delete them locally.
+
+
+This is hardly the only way to back up your pictures. Apple has its revamped iCloud Photos setup for iOS and Mac, and Flickr recently added machine recognition to its unlimited storage picture service. Others like VSCO Cam are also options for photo editing and organizing. From what I've seen so far, Google has a better mix of tools that's easy to use even for people who are casual about their pictures and works cross platform -- I tried the app on an iPad and it was almost identical to the version on my Android phone. That's not much help if your platform of choice is something else like Windows Phone, but hopefully Google fixes that -- this gets better if it's available in more places.
+
+Bradley Horowitz, Google's VP of Streams, Photos and Sharing says the point is to make its abilities so transparent they sink into the background, and on that front it has succeeded. The new Google Photos isn't just easy to use, it's unobtrusive and most importantly private by default. In our (overly) public, complicated and multifaceted digital lives, that's refreshing.
+
+

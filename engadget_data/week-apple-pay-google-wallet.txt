@@ -1,0 +1,62 @@
+
+ 
+
+On Monday last week, Apple finally launched Apple Pay, the company's mobile-payment system that only works with the iPhone 6, 6 Plus and the latest iPads. (Though you can't use iPads for in-store payments.) Even though mobile payments have been around for several years now, Apple Pay is seen by many as a key step toward making paying-by-phone more mainstream due to all the increased attention. Seeing that I have an iPhone 6, I decided to use Apple Pay every day this past week to pay for everything from my groceries to a hot dog at AT&T Park during the World Series. Just to see how they would compare, I also tried using Google Wallet installed on a Samsung Galaxy S5 and a regular ol' credit card in the same locations.
+
+
+The verdict? Well, the future of mobile payments is looking brighter than ever, but that doesn't mean I'm getting rid of my wallet. Let me tell you why.
+
+
+ 
+
+Both Apple Pay and Google Wallet are very similar in a lot of ways. For starters, they both work in any store that accepts mobile payments. Apple made a big deal about partnering with certain stores like Whole Foods and McDonald's when it launched Apple Pay, but in reality any location that has an NFC-enabled point-of-sale system will work with Apple Pay. Google Wallet, of course, has worked with such systems for a little over three years.
+
+Yet, Google Wallet doesn't seem to have caught on, most likely due to slow carrier adoption (many of them preferred to push Isis/Softcard, their own mobile wallet solution, instead) and the fact that many phones require that you download the Wallet app. Apple Pay, on the other hand, works with Passbook, an app that's preinstalled with every new iPhone. Google also recently mandated that only Android phones running 4.4 KitKat or higher can take advantage of Wallet's tap-and-pay functionality, which leaves certain phones out in the cold. Still, the same goes for Apple Pay -- older phones are not supported due to their lack of NFC. Wallet is definitely compatible with a lot more devices.
+
+
+The process of adding a debit or credit card is very similar for both. On the iPhone, simply launch Passbook and you'll see an option to add a debit or credit card. For Wallet, you'll need to get the app first if you haven't already, and then follow the instructions to add a card once you have it. You can either enter in your card's information manually or use your phone's camera to automatically capture your card's number and expiration date. You'll still need to key in your name, address and CVV number, but otherwise it's all pretty easy. If you added multiple cards, you'll need to select one as a default for tap-to-pay, but you can always change to a different card at the point of purchase.
+
+Here, however, is where the first stumbling blocks for Apple Pay show up: It only works with certain cards from certain banks. First, it'll need to be a Visa, MasterCard or American Express (sorry, Discover Card users) and it'll need to be a card from a participating bank. Launch partners include Bank of America, Capital One, Chase, Citi and Wells Fargo.
+
+And even if your card is from that bank, it's not a guarantee that it's compatible with Apple Pay. Corporate cards, for example, are still a no-go, and a few co-branded cards like Amazon's Chase Visa won't work (Update: Though it didn't at launch, Amazon's Chase card now works with Apple Pay). Google Wallet, however, works with all debit and credit cards. I only managed to add two of my cards to Apple Pay -- a debit card from a local credit union isn't supported -- while Google Wallet accepted all of them.
+
+You can use both Apple Pay and Google Wallet with online purchases and through different shopping apps, but the key for me was to see if I could use it in the real world. So I tried both systems out at different Whole Foods and Walgreens locations here in San Francisco multiple times throughout the week. For Apple Pay, I simply tapped the iPhone on the reader, placed my thumb on the Touch ID sensor, and voila, I was done. There was no need for me to unlock the phone prior to payment.
+
+
+Google Wallet, on the other hand, requires that you unlock the wallet with a PIN before you can have access to it. That sounds like a pain, but it doesn't have to be. You can select the PIN timeout for 15 minutes, a day or never. So, theoretically, you could just leave your Wallet unlocked all the time, which admittedly compromises its security. Even if you decide to lock it up, entering a PIN really isn't all that difficult. For me, I decided to simply leave the Wallet unlocked.
+
+When I tapped my Galaxy S5 onto a payment terminal, it beeped to let me know it was working -- I didn't have to unlock the phone for this to occur. The terminal then showed a prompt asking me to either enter in a PIN (if I was using a debit card) or simply press the Enter key for credit. After I pressed Enter, it took a second or two for the transaction to go through, and then I was done. Payments made with Wallet definitely require a bit more attention and processing time than Apple Pay, but it honestly wasn't significant enough to matter to me, at least most of the time (we'll get to an issue I encountered with Wallet later on).
+
+I also went to try out Apple Pay at AT&T Park during the World Series. Major League Baseball worked with Apple and MasterCard to trick out both AT&T Park (home to the San Francisco Giants) and Kauffman Stadium (home to the Kansas City Royals) with NFC-enabled terminals mere weeks before the start of the Fall Classic -- AT&T Park was equipped with 114 terminals, while Kauffman Stadium has 226.
+
+
+The league did this not only to introduce the nascent mobile payment system, but also to show off the tech so that other baseball parks would be open to installing it during the offseason and beyond. Adam Ritter, senior vice president of wireless for MLB Advanced Media, says that it eventually wants you to be able to use Apple Pay to pay for everything from food and merchandise to tickets via Apple Pay and the At the Ballpark app.
+
+As I looked for a stand where I could buy some food, it was immediately apparent that not all vendors were equipped with NFC-enabled terminals. MLB tells us that it's still up to the individual vendor or business to agree to it and that they could still adopt them in the future, but that didn't quite help me last Friday, as I had to go from vendor to vendor to find one with Apple Pay. Once I did, I ordered a $6.75 Polish dog (ouch), and the payment went through as seamlessly as it did with all the other Apple Pay transactions I made before.
+
+An hour later, I returned to the same vendor and tried to pay for an order of nachos with Google Wallet -- after all, MasterCard has said that the terminals should work with most NFC-based payment systems -- but it failed. After the phone beeped, I got an error message that suggested I check with the cashier. The cashier was a little befuddled, so I ended up fishing out my credit card to pay for it instead. Both Google and MasterCard tell me this should've theoretically worked, so my guess is that it was probably a glitch. Still, as far as the ballpark experience goes, Apple Pay (and normal credit cards) won out, at least for this one instance.
+
+
+Which brings me to my primary sticking point with the mobile-payments concept as it stands today -- it's still only available in a few places. Over 220,000 locations in the US reportedly accept mobile payments, which sounds pretty impressive, but that's still only around 2.4 percent of retailers in the US.
+
+Of course, this will probably change eventually. Since MasterCard and Visa are requiring a transition to EMV credit cards by October 2015, many shops will have to upgrade their systems to support so-called chip and pin technology (which already exists in much of the world), and will likely throw in NFC support as well. But for now, don't expect to pay for stuff at your local mom-and-pop store with your phone. Shopping at just Whole Foods and Walgreens was fine, but not being able to buy a burrito from the Mission (a San Francisco neighborhood famous for their taquerias)? That's just criminal.
+
+Additionally, for the majority of people, the extra step of taking a card out from a wallet isn't seen as terribly tedious. At a number of retailers like Bloomingdale's and Macy's, even if you pay with Apple Pay or Google Wallet, you still need to sign for your purchase if it's over a certain amount (usually $25). Plus, I still need my wallet to carry my driver's license and there are still instances when only cash will do.
+
+And it seems that NFC isn't even the only way to pay with your phone. CVS and Rite Aid made headlines last week when they disabled NFC on their terminals to push their own in-house payment technology, called CurrentC. A method devised by the Merchant Customer Exchange, of which CVS, Rite Aid and Walmart are a part, CurrentC uses a rather convoluted QR-code scanning system to authenticate purchases.
+
+
+This supposedly allows retailers to curb the transaction fees typically incurred by credit card companies (Of note, both Apple Pay and Google Wallet get some sort of fee per transaction; Wallet charges the merchants the regular credit card processing fee while Apple Pay charges the issuing bank). The barrier to entry to CurrentC appears to be much higher than either Apple Pay or Google Wallet, so I doubt it'll survive in the long run. But add that to the occasional machine glitch and you can see why most people will still want to clutch on to their wallets.
+
+Still, despite my reservations about mobile payments, I deeply want it to succeed. Using my phone as a way to pay for things was just so freeing. I usually have my phone in my hand anyway, often to fill time while waiting in line in exactly the places where I would use it to pay for something. Having to take out a card from my wallet isn't that much of a hassle, but once I got a taste of paying for stuff with my phone, I couldn't get enough.
+
+Also, mobile payments are arguably a lot more secure. Your actual credit card number is never handed over to merchants. Apple Pay uses a Secure Element chip that encrypts user data and assigns a unique device number to each phone, while Google Wallet transactions are made with a virtual prepaid MasterCard that's different each time. Mobile payments could therefore be the answer to the ever-present threat of data breaches and identity theft.
+
+But until we can get it accepted at every merchant and figure out a way we can use the phone to securely carry our ID as well, it simply isn't going to replace your wallet.
+
+Yet.
+
+[Image credit: Philip Palermo, Getty Images, Getty Images for Mastercard, Bloomberg via Getty Images]
+
+Are you using Apple Pay or Google Wallet yet? 
+ 

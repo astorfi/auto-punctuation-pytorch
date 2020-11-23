@@ -1,0 +1,11 @@
+
+If sharing really is caring, then the NSA must care a lot. That's the thrust of a new report from The Intercept that pulled back the curtain on a search system called ICREACH -- launched in 2007, the system allows members of more 20 different US agencies to quickly sift through the communications metadata of both foreigners and citizens on US soil. And the reason for all this? Well, the stated goal was to allow members of these government agencies to identify persons of interest and help agents monitor the activities of "intelligence targets" at home and abroad. Putting aside its ability to crawl through some 850 billion metadata records (and growing), one of ICREACH's greatest assets might be its straightforward interface. It's referred to in internal documentation as being "Google-like" and allows researchers to dig into metadata records by punching in simple "selectors" like email addresses and phone numbers. 
+
+
+
+This isn't the first time the name ICREACH has been made public knowledge (barring all the Google search results for job openings for people fluent in intelligence tools like it). Glenn Greenwald's book No Place To Hide included a slide among its myriad documents that highlighted the some of the metadata types that were accessible through ICREACH: 
+
+
+According to The Intercept's Ryan Gallagher, it's that bit about foreigners that affords ICREACH much of its immunity from congressional oversight. The system was designed to cull information primarily from foreign communications networks (which is kosher thanks to President Reagan's Executive Order 12333), though The Intercept asserts that the system also contains "millions of records on American citizens who have not been accused of any wrongdoing." The metadata itself -- the sender and recipient of a call or message, identifying information about the device used, etc. -- might not seem terribly troubling, but in aggregate it could provide a fairly comprehensive picture of what a given person was doing when, and where. All told, it's a scarily powerful bit of tech at the disposal of multiple agencies, and since much of the information released was based on documents that are years old, it's not clear how ICREACH's, well, reach has shifted or expanded since.
+
+

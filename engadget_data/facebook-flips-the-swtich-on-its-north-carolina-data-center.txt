@@ -1,0 +1,10 @@
+
+ 
+ Since breaking ground in Western North Carolina some 16 months ago, Facebook has been running at full speed to get its newest data center online. This week, Zuckerberg & Co. flipped the switch. The new facility, located in Forest City, touts the "first major deployment" of the outfit's Open Compute Project web servers and will be the first "live test" of the OPC's outdoor air-cooling design. It tends to get pretty warm around those parts and humidity levels are a bit outside of ideal data center conditions. The Carolina facility will mirror the projected power utilization effectiveness (PUE) of FB's Oregon data center at just a smidge above 1 – somewhere between 1.06 and 1.08 to be exact. In other words, this means the ratio of power used by the structure and the actual power sent to the hardware is almost perfect with minimal energy loss. No matter, it'll still be using plenty of power. A second identical building is slated to open on the site later this year, but for now, hit the source link for a bit more info on the initial launch.
+
+
+
+
+ 
+
+ 

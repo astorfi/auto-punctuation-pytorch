@@ -1,0 +1,18 @@
+
+Some lovely gents at the Pittsburgh Supercomputing Center seem to
+think rendering super-high quality 3D images in HDTV is not only possible, but rather simple and cheap (if you think
+$12,000 is cheap) with off the shelf components. Their system (called PSC-SAS) is partly based on the traditional
+anaglyph technique (you know, like the red and blue crossover imagery from old monster flicks);
+two visual channels are processed, each by their own PC, and then sent to their own HDTV projectors. The images are
+overlaid upon each other, each with polarized light reflecting in 90° in opposite directions. By the time it passes
+through your glasses (yes, you still have to wear glasses), the 3D image is clear, precise, and pure (and most notably,
+headache-free). It'll be a bit before you'll be able to convert your home theater from stodgy old 2D to super
+futuristic 3D—they're still trying to find someone to license the whole thing from them.
+
+
+ [Via Technology Trends]
+
+
+
+
+ 

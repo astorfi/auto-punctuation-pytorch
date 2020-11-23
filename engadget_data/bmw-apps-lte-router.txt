@@ -1,0 +1,18 @@
+
+ At this year's New York International Auto Show BMW is expanding its portfolio of connected apps -- by four. The company announced iOS integration for Audible, Glympse, Rhapsody and TuneIn Radio and we couldn't help but swing by to check them all out. This integration (which also will work on Connected Minis) entails an update to those existing iOS apps. In other words, you won't need a dedicated BMW app nor second versions of these individual apps. You can use the ones you already know and love.
+
+ Join us below for a little more information on how that works, and a look at the company's in-car LTE router that's also on display.
+
+
+
+
+ Like previous connected apps, these four all work when connected via USB to the car itself. We demoed them all on an iPhone 5 using a USB to Lightning cable plugged in below the armrest, providing data to the car and power to the phone. As soon as the apps detect the connection to the car the screen is disabled, ensuring that this one vector for distracted driving is eliminated. The key features of app functionality are replicated through the car's iDrive controls. The interface is simple but still very functional for the most part.
+
+ 
+ You can, for example, still mark songs or artists as favorites in Rhapsody or skip back 30 seconds in Audible. TuneIn now will suggest related stations and Glympse, a location sharing app, will automatically pull your destination from the car's GPS. Overall the data that powers the apps is still pulled down by the phone, so watch those data caps, but without a doubt this is a far safer way of using apps than actually picking up your phone. Still, we were disappointed that there's no way to change from one app to the next via the in-car interface. For that you still have to reach for the phone. We're also disappointed there's no information on versions for any other mobile operating system.
+
+ 
+ BMW was also unveiling something rather more strange: a portable LTE router. It slots in where the smartphone connectivity kit rests inside the armrest and, when a suitable LTE SIM is inserted (this prototype model was rocking Verizon) will utilize the car's antenna to get you great signal. That connectivity then shows up to anyone in the car (or nearby) as a WiFi hotspot that can be configured with whatever settings you like. Interestingly, BMW put a small battery in there so that you can pop the contraption out for use while out and about. That might be good for some roadside picnic action, but with only 30 minutes of charge and a brick-like form factor it's pretty clear that Novatel Wireless has nothing to worry about here.
+
+
+

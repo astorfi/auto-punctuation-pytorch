@@ -1,0 +1,6 @@
+
+ 
+GPS on the moon may seem a bit far-fetched... that is, until you remember the US military's plans to launch a WiFi router into space. The same Ohio State University researcher who developed software for the Mars rovers Spirit and Opportunity is now developing a GPS-like system that would enable astronauts to navigate terrain as if they were simply routing themselves through a plot of land on Earth. Because of the moon's location (we're simplifying things here), Ron Li is having to create a similar system (read: not bona fide GPS) that relies on "signals from a set of sensors including lunar beacons, stereo cameras, and orbital imaging devices" in order to provide navigational output. Everyone involved is hoping to have it operational by 2020 (the next planned trip to the moon), but the team will be stuck testing in the Mojave Desert. Bummer.[Via Physorg]
+      
+
+ 

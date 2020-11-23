@@ -1,0 +1,6 @@
+
+ Subtlety can't always avert controversy. That leaked build of Windows Blue is a case in point: it suggests a relatively incremental update to Windows 8, yet some of its revelations are already causing quite a stir. Neowin now reports that Internet Explorer 11, as contained within the leaked build, identifies itself to host websites as "Mozilla... like Gecko." Confusing, right? Perhaps, but it's not really as underhand as it sounds, as you can see from the full line of code in the picture above.
+
+ The program still identifies itself (in brackets) as IE 11, but it forgoes Microsoft's older identifier ("MSIE") and simply describes itself as being a browser that renders HTML in a similar way to Firefox's Gecko layout engine. Neowin speculates that the reason for this could be to start afresh: by confusing host websites with a new identifier, IE 11 might avoid having legacy CSS code thrown at it, dating back to the bad old days when web designers had to give Internet Explorer special treatment. It's also been suggested that this could cause problems for business apps that genuinely rely on legacy CSS code -- although it's worth remembering that we're not looking at a final release here, and none of us (ahem) are even meant to be using it.
+
+

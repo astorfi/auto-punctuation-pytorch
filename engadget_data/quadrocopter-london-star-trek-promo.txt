@@ -1,0 +1,39 @@
+
+ Before quadrocopters become Skynet's roaming recon fleet, they'll begrudgingly entertain us, and in a recent promotional enterprise, a swarm braved the London "spring" to remind us of the imminent launch of Star Trek: Into Darkness. Over the weekend, drone masters Ars Electronica Futurelab sent a party of 30 LED-tagged AscTec Hummingbirds halfway to Hoth, and used the relative darkness of Earth Hour to set an approximately 300-foot high Star Trek logo twinkling over Tower Bridge. A video of the event can be found below, complete with epic music and movie cut-scenes sure to send even the most Vulcan of trekkers to sickbay with hysteria. If anyone behind the promotion is reading -- please, whatever you do, just don't give them phasers.
+
+
+
+ 
+  Show full PR text   30 QUADCOPTERS FLEW FOR PARAMOUNT'S "STAR TREK – INTO DARKNESS"
+  Ars Electronica Futurelab and Ascending Technologies staged a spectacular show in London: 30 Quadcopters Flew for Paramount's "Star Trek – Into Darkness"
+   (Linz/London, March 24, 2013) Following its world premiere at the Linz Klangwolke in September 2012, the Ars Electronica Futurelab's computer-controlled swarm of four-rotor mini-whirlybirds-so-called quadcopters-took to the air again on Saturday, March 23, 2013 in a role and setting no less spectacular than the exciting technology itself: as high-tech heralds of Paramount's "Star Trek – Into Darkness" that's opening in movie theaters on May 9th. A squadron of 30 LED-studded AscTec Hummingbird quadcopters hovered above Potters Fields Park near London's Tower Bridge and, in conjunction with Earth Hour, formed a three-dimensional Star Trek logo in the night sky. "This production was a really big challenge, but that's exactly what made it so fascinating," was the enthusiastic response of Ars Electronica Futurelab Director Horst Hörtner. "And this assignment from Paramount Pictures also attests to the worldwide sensation we've created since our debut show last autumn at the Klangwolke." Daniel Gurdan, CEO and Director of Development at quadcopter manufacturer Ascending Technologies, was also personally involved in producing this extravaganza. "The first time the Futurelab approached us, I thought to myself: 'These guys are totally nuts.' But it quickly turned out that they knew exactly what they were after. Now, not even a year later, this show in London impressively demonstrates what we've achieved in the meantime!"
+
+  Ars Electronica Futurelab and Ascending Technologies Are World Record Holders
+   Since September 1, 2012, the Ars Electronica Futurelab, a Linz media art laboratory, and Munich quadcopter manufacturer Ascending Technologies have jointly held a world record as the first to orchestrate a completely automatic flight by a swarm consisting of 50 quadcopters. And they set that record outdoors, where heavy radio & WLAN traffic, gusty winds, humidity and a few drops of rain confronted both hardware and software with enormous challenges.
+
+  Joint Research Project
+   The Futurelab developed software with which the flight behavior of a quadcopter formation can be very flexibly controlled, and that simultaneously makes allowance for GPS measurement errors with respect to the position of individual units. For the choreography of the swarm, the Linz crew created a 3D Studio Max grid in which any given number of points can be defined just like in a three-dimensional animated film. The computations that result are then communicated to the flight control software that pilots the swarm's aerial maneuvers.
+
+   Ascending Technologies concentrates on the hardware end. Their 100-gram, LED-studded AscTec Hummingbird quadcopter is the ideal device for this assignment. Small, responsive, robust and equipped with specially developed GPS modules, it can be steered with utmost precision. In order to allow for simultaneous control of multiple quadcopters that's as reliable as the units themselves, Ascending Technologies completely reconfigured the communication both among the quadcopters as well as with the ground control station. In order to effectuate the requisite reaction speed on the part of the quadcopters without excessive latency time delay, all communication among the swarm and ground control proceeds via a 2.4 GHz transmission channel set up especially for this purpose. Ascending Technologies' development division succeeded in optimizing the flight behavior of the individual quadcopters with respect to maneuverability, precision and reliability to a very high degree-the absolute prerequisite for orchestrating complicated flight patterns in formation. This successful collaboration by the Ars Electronica Futurelab and Ascending Technologies has brought out a complete system that makes it possible to implement totally innovative visualizations even at locations like Central London where it's essential to comply with very stringent safety & security provisions.
+
+  STAR TREK INTO DARKNESS PARAMOUNT PICTURES CELEBRATE WWF's EARTH HOUR
+   LONDON, Saturday 23rd March - As the UK prepares to go 'into darkness' for WWF's Earth Hour, Paramount Pictures is pleased to announce its support with a special 'Star Trek' themed light display which will dim as Earth Hour approaches.
+
+   This amazing light show by Paramount, in conjunction with Ars Electonica Futurelab & Ascending Technologies, will see quadrocopters fly into the night sky, forming the Star Trek federation logo beside Tower Bridge on a scale never seen before. In keeping with Earth Hour's initiative, the quadrocopters will utilize batteries that were charged in Austria using green energy from the Austrian renewable energy grid specifically for this event.
+
+   The event will coincide with WWF's Earth Hour at 8:30 pm. Along with key landmarks such as Big Ben, the Houses of Parliament, and The London Eye going dark, the quadrocopters will turn off their glow in support of Earth Hour.
+
+   To signal the end of Earth Hour at 9:30 pm the quadrocopters will reform the Star Trek logo above London's skyline.
+
+   The logo formation will hover about 36m (118ft) above the ground at the lowest point and the highest point (the tip of the logo) will be at approximately 130m (426ft) above ground. The total height of the logo will be approximately 94meters (308ft).
+   The light show can be captured from the main location at Old Billingsgate Walk, giving a view of Tower Bridge and City Hall. Other vantage points for the public are the Tower of London and on location at Potters Field Park, Tooley Street, Southwark, London SE1 2AA.
+
+   John Fletcher, Director of Marketing for Paramount Pictures UK said "We are very pleased to go 'into darkness' with the rest of the world in support of Earth Hour. It seems fitting to be associated with such a global cause."
+
+   Kellie Rollings from WWF said "WWF is delighted that Paramount is supporting this year's Earth Hour event. Millions of people around the world take part in Earth Hour year on year and we're always looking for innovative ways to get our message out there. It's fantastic that Paramount has chosen to mark the hour by dimming their lights at this unusual light display."
+
+   "STAR TREK INTO DARKNESS" is written by Roberto Orci & Alex Kurtzman & Damon Lindelof and directed by J.J. Abrams. Abrams is producing with Bryan Burk through Bad Robot Productions, along with Lindelof, Kurtzman and Orci. Jeffrey Chernov and Skydance Productions' David Ellison, Dana Goldberg and Paul Schwake are the executive producers.
+
+   "STAR TREK INTO DARKNESS" opens in cinemas across the UK & Ireland on Thursday 9th May.
+
+ 

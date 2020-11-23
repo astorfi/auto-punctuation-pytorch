@@ -1,0 +1,7 @@
+
+ 
+
+The demo of the 22nm Haswell running on a tiny solar cell at IDF was impressive, but it didn't really give us any idea what shipping products might look like. Well, a few slides popped up over at Chiphell that give us a few more details about how the tock, to Ivy Bridge's tick, is shaping up. For one, were looking at three new on-die GPUs, dubbed GT1, GT2 and GT3 -- the latter of which may be a higher performance part than we're used to seeing out of Intel. We also know that Haswell will have three variants: desktop, laptop (both of which are two-chip solutions with a separate controller hub) and ultrabook, which packs both the CPU and the controller in a single package. If you're in the mood to dig a little deeper hit up the source links.
+      
+
+ 

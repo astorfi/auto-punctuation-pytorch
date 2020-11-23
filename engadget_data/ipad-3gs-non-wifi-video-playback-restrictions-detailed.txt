@@ -1,0 +1,9 @@
+
+ 
+We could hear the echoing howls of discontent over the weekend as thousands finally received their very own iPad 3G and learned they couldn't watch Dancing With the Stars whilst on the go. Now we have the details on why, exactly, and the repercussions. As it turns out, it's simply a carry-over of an iPhone OS HTTP Live Streaming rule that states quite clearly:
+
+You must include a low quality stream of no more than 64 Kbps for your app to resort to when network conditions demand it, along with the higher quality streams you want to deliver to your customers when the network can support it.
+It seems the ABC Player devs chose to skip that option, so when you lose WiFi you also lose Tom Bergeron's charm and wit. Other apps, like Netflix and YouTube, do provide a lower bitrate fallback, but that of course results in nasty compression artifacts when on the go. In other words: there's a very good chance that 3G streaming will come in a future ABC Player release, but when it does it ain't gonna be pretty.
+      
+
+ 

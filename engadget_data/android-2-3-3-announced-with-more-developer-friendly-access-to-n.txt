@@ -1,0 +1,5 @@
+
+ The Android versions keep on rolling today with the introduction of a new build in the 2.3 Gingerbread line -- 2.3.3 this time -- that improves developer access to the platforms newfound NFC capabilities as first seen on the Nexus S. What's new, exactly? Well, there's a new NFC read / write API that Google alleges will let you access pretty much any NFC tag on the market today, better control over what happens when a tag comes within range of the device, and "limited support" for peer-to-peer NFC communication -- something Stanford cobbled together for the Nexus S not long ago. The new build is available now to developers using the Android SDK; no devices have received an update yet, but we'd imagine the Nexus S is queued up to get it before too long.
+      
+
+ 

@@ -1,0 +1,15 @@
+
+
+
+
+	Google I/O is still ongoing and at the session for teaching developers how to build Android apps for Google TV the team has just shown off a quick peek of the new Honeycomb-based UI that will be released later this year. Shown above you can quickly compare it to the original UI to see how different, and hopefully improved it is. The new icon layout should make getting back to live TV a simpler process, while there's also that large space above for widgets and support for notifications. Developers will be able to run their ADBs on devices later this summer, but prior to that it will have a "Fishtank" program for some devs to take home their internal test units to run apps on now -- no hardware modification necessary.
+
+	The team also just announced that the source code to the existing Google TV remote app for Android is being open sourced, so anyone who thinks they can do better (it wouldn't be difficult) can have a crack at building their own. Also available is code for the Anymote Protocol it runs on so developers can make tablet or phone apps that integrate with and control the Google TV -- both are linked below. Other features mentioned included support for 3D, and game controllers using Android 3.1's expanded USB compatibility. There were no product announcements before the session ended, and no word on the rumored and expected ARM base for new products, but the project manager confirmed new product announcements "later this year." Google TV will need new product announcements if it's going to receive a boost over other smart TV technology, but the potential of the market and availability of open source code is still providing a tantalizing vision of the promise it's failed to capitalize on so far.
+
+Update: The entire presentation is now available on YouTube, check it out after the break as well as an earlier Bootcamp presentation on the same subject.
+
+
+
+
+ 
+ 

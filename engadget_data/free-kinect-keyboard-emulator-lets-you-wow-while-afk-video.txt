@@ -1,0 +1,11 @@
+
+ 
+World of Warcraft is a lot of things to a lot of people, a whole lot of people, but it's never been much of an immersive gameplay experience -- casting Plague Strike doesn't seem all that unholy when it's triggered by frantically tapping a key on a keyboard. Moving an arm would be at least a bit more involving, and with the Flexible Action and Articulated Toolkit, or FAAST, from the USC Institute for Creative Technologies, that's just what you can do. It's basically a software layer over your Kinect, built over OpenNI, that recognizes a skeleton and enables about 20 different motions to be mapped to key presses. This means you can lean forward to walk, raise your right arm to perform an action, and then sit down to take a breather after all that exertion. It's currently versioned .03, so don't expect miracles, but it is available for free at the other end of the source link. It's also demonstrated below, but don't tarry too long: guild meeting starts in five.
+
+[Thanks, Tommy]
+      
+
+ 
+
+
+ 

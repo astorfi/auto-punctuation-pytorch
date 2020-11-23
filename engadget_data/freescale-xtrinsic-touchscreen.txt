@@ -1,0 +1,24 @@
+
+ 
+ Freescale is announcing a new industrial touch sensing technology that'll even sense your swipes and prods through a film of water. Xtrinsic 3.0 is designed to be used in industrial, medical and in-car systems, with pre-built user interfaces ready to be added to any device its jammed inside. In addition to being able to work through water, it can withstand noise, detect electrical interference and reduce false touches. It's being demonstrated at the company's technology forum in India from today, presumably ready to be licensed by passing equipment manufacturers in short order.
+
+
+
+  Show full PR text   Freescale expands Xtrinsic touch-sensing software portfolio for next-generation human-machine interfaces
+   Capacitive touch-sensing software 3.0 provides feature-rich updates and robust microcontroller functionality without incremental cost
+
+  BENGALURU, India (Freescale Technology Forum) – Aug. 24, 2012 – Freescale Semiconductor (NYSE: FSL) is extending its Xtrinsic touch-sensing software (TSS) portfolio with a robust, flexible solution that provides added microcontroller (MCU) functionality without increasing system cost. New features include water tolerance, noise detection* and a touch-detection algorithm for reduced false touches under electrical noise.
+
+   TSS 3.0 is the latest addition to Freescale's growing portfolio of touch-sensing software for button replacement in industrial, medical, consumer and auto infotainment applications. Building on the successful TSS library, it offers a comprehensive solution with complementary licensed software and cost-effective development tools. Simplified user interfaces mean customers are able to develop an application within minutes using a broad range of tools and demonstration software, with minimal cost and effort.
+
+   "The latest release of our touch-sensing software comes with feature-rich updates that provide robust functionality for more of Freescale's microcontrollers," said Geoff Lees, vice president and general manager of Freescale's Industrial & Multi-Market MCU business. "Cost-effective integration allows customers to use TSS 3.0 to transform their designs with next-generation human-machine interfaces, without increasing system cost."
+
+   Reliable touch detection provides extremely high sensitivity with very low capacitance measurement resolution, offering a highly accurate and robust solution. With TSS 3.0, the user can define the sensitivity level, or auto-sensitivity calibration (ASC) will do it based on noise level analysis. TSS 3.0 is immune to droplets of water and able to distinguish touch on the electrodes even when the electrodes are covered with a water film.
+
+   In addition, TSS 3.0 works with Freescale's touch-sensing input (TSI) module, which is embedded into several hardware platforms, to provide better touch detection. The library provides commonly used touch-sensing decoding structures, such as keypad, rotary and slider, to allow upgrades from mechanical to touch-activated interfaces.
+
+   Since introducing the first version of Xtrinsic touch-sensing software in 2009,  Freescale continues to build its TSS portfolio, which now supports hundreds of Freescale MCUs including TSI-enabled HCS08 devices, ColdFire+ MCUs and Kinetis MCU families built on the ARM® CortexTM-M4 processor.
+
+   Xtrinsic touch-sensing software transforms any standard MCU into a touch sensor with the ability to manage multiple configurations of touch pads, sliders, rotary positions and mechanical keys, all while maintaining standard MCU functionality. Touch sensing helps increase product lifetimes by eliminating mechanical wear and tear associated with buttons and switches, while minimizing system cost by saving an extra IC in the design.
+
+ 

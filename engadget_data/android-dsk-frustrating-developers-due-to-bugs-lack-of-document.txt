@@ -1,0 +1,5 @@
+
+ A month after Google launched the Android SDK, it looks like unresolved bugs, poor documentation, and the lack of a public issue-tracking system are causing some developers to say that the platform "isn't ready for prime time." The lack of solid documentation and unorganized feedback mechanism aside, however, Ars Technica's Ryan Paul took the SDK for a spin and found that it has a lot of potential, saying "Despite some of the bugs and limitations in the API, it is definitely a viable and effective platform for application development," but that "it doesn't make it easy to create applications that have a really polished look and feel." Given how much bake time Android had before the announcement, it's a little strange that Google let it out the door without at least proper documentation, but there's still plenty of time -- we're not going to see any Android devices for another year, after all.
+      
+
+ 

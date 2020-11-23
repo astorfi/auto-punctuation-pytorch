@@ -1,0 +1,6 @@
+
+ 
+Looks like all that GSM code-cracking is progressing faster than we thought. Soon after the discovery of the 64-bit A5/1 GSM encryption flaw last month, the geniuses at Israel's Weizmann Institute of Science went ahead and cracked the KASUMI system -- a 128-bit A5/3 algorithm implemented across 3G networks -- in less than two hours. If you must know, the method applied is dubbed 'related-key sandwich attack' where multiple values of known differentials are processed through the first seven rounds of KASUMI, then using resulting quartets that are identified sharing key differences, subkey materials can be obtained in round eight to build up the 128-bit key. Sure, it's hardly snooping-on-the-go at this speed, but worryingly this was only an 'unoptimized implementation... on a single PC.' At the same time, the paper condemns the presumably red-faced GSM Association for moving from MISTY -- a more computationally-expensive but much stronger predecessor algorithm -- to KASUMI. Guess we'll just have to stick with Skype.
+      
+
+ 

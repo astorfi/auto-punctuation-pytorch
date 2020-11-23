@@ -1,0 +1,6 @@
+
+ It's far from the first time that computer users have been warned to disable Java, but this latest security issue has risen to some high levels at a particularly rapid pace. After first being reported by security researchers on Thursday, the United States Computer Emergency Readiness Team (or US-CERT, a part of the Homeland Security department) stepped in with a warning of its own on Friday, which bluntly suggested that all computer users should disable Java in their web browsers (for its part, Oracle says that a fix is coming "shortly"). The flaw itself is a vulnerability in the Java Security Manager, which an attacker could exploit to run code on a user's computer.
+
+ Not content to wait for a fix, some companies have already taken steps to block possible exploits. That includes Apple, which has added recent versions of Java to its blacklist covering all OS X users, and Mozilla, which has enabled its "Click To Play" functionality in Firefox for all recent versions of Java across all platforms (it was previously only enabled by default for older versions of Java). Apple's move follows an earlier decision to remove the Java plug-in from browsers in OS X 10.7 and up last fall. You can find the full alert issued by US-CERT and additional details on the vulnerability at the links below.
+
+

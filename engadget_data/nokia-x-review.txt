@@ -1,0 +1,31 @@
+
+For a company now under Microsoft's rule, Nokia has serious grit. The phone maker announced an Android phone called the X just two months before completing its merger with Microsoft. Even more intriguing is the fact that this is no run-of-the-mill Android device: The X comes with a Windows Phone-like launcher, offers Microsoft services and will be sold for around $120 in developing markets. While it may not be a powerful smartphone, it has many unique qualities that help it stand out from the low-end crowd. What's it like, and should Microsoft invest in its success?
+
+
+
+
+HardwareThe X doesn't stray from Nokia's signature design language. In fact, if I were to briefly see it in the wild (not knowing what it was), I'd easily confuse it for an Asha 500-series device. Just like the Ashas, the X has square corners, straight edges, a large bezel and a removable plastic back cover with a matte finish, although it lacks the transparent casing of the Ashas. My review unit is a white, dual-SIM Nokia X, but it also comes in black, blue, yellow, red and green.
+
+Everything about the X looks and feels simple. A volume rocker and power button grace the right side, while a micro-USB port and 3.5mm headphone jack are located on the bottom and top, respectively. Keeping with Nokia's usual style, the left edge remains devoid of any buttons. And just like the Asha 503, the front of the X features only a capacitive back button and earpiece. It lacks a front-facing camera, and when you flip the phone over, you'll notice a rear 3.2-megapixel camera with no LED flash.
+
+Fortunately, I had no problem holding the 4-inch, 10.4mm-thick device, although these days, such a handset is considered quite small. If you're coming from an Asha or older 3.5-inch iPhone, you'll likely appreciate the size of the device; just to put things in perspective, it's 5mm wider and 1mm thicker than the iPhone 4s. Nokia will come out with a 5-inch version of the device known as the XL in the near future, so hang tight for a little longer if you'd rather go with something bigger.
+
+
+Because it's an inexpensive handset (it starts at $123 USD), the X was never intended to be a lavish device. It exists primarily to bring a modern smartphone OS to developing markets at a lower cost, so the specs are about as minimal as you can get these days. It comes with a low-power processor, WVGA display, limited internal storage (1.2GB user-accessible), small battery and so on. In other words, it's ideal as someone's first smartphone.
+
+The X uses a 4-inch IPS LCD panel with WVGA (800 x 480) resolution. At a pixel density of 233 pixels per inch, the display is reasonable compared to other Android phones sold at around the same price. As expected from this kind of screen, the viewing angles are decent and whites are bright, but unfortunately, colors are unsaturated and there's a lot of light unnecessarily bleeding out from the sides of the display. Those rough patches aside, the screen is actually pretty good for such an inexpensive device.
+
+For connectivity, the X is a basic, entry-level 3G device suited for developing markets, though it sports a limited number of frequencies. It comes with quad-band GSM/EDGE and dual-band (900/2100) HSPA, which maxes out at 7.2 Mbps down and 5.76 Mbps up. You'll also get WiFi 802.11b/g/n, Bluetooth 3.0 and GPS.
+
+Software
+The one area of the X that should appeal to both power users and first-time smartphone buyers alike is the firmware. In short, it's unlike anything anyone has ever seen. Since the X is positioned between Nokia's Lumia series and the Asha lineup, it's not surprising that it uses a proprietary interface that takes elements from both devices, even though it technically runs on Android AOSP (version 4.1.2, to be exact). This means you can still use most apps, widgets and launchers supported on the platform, but just like on many Chinese devices running Android, you won't have access to Google Play Services like Gmail, Contacts, Calendar and so on.
+
+Nokia's Android launcher
+The default launcher on the X is tile-based, much like Windows Phone. The tiles can even be resized -- two different options are available -- and you can change the color of each one to fit your own way of organizing the phone. There's enough space for three small tiles, or one large and one small tile, if you prefer. However, this system differs from Windows Phone in that Live Tiles aren't supported, so most tiles don't change at all when you make them larger (only specific ones, such as the gallery, add more functionality to the tile when enlarged).
+
+You won't have access to a standard Android app tray, but you can create folders if you like to download a bunch of apps. This action is done by long-pressing any tile, which also allows you to move apps around and add widgets at your leisure.
+
+There are plenty of other gestures that you'll need to learn as well. Tugging down on the launcher brings up a search bar (think Spotlight for iOS 7). Swiping down from the top opens up a type of quick-settings menu, which shows toggle switches for connectivity and music, as well as a list of devices or networks you're connected to. There's also a shortcut to your settings. Swiping up from the bottom reveals a menu that corresponds with whatever app you're using.
+
+
+

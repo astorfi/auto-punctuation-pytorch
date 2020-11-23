@@ -1,0 +1,9 @@
+
+ 
+ Google's mysterious, if not ominous Nexus Q has already been hacked to launch apps of varied origins, but there's one particular app that stands above all: Pong. Or, Brick Defender -- you know, what's a generic title amongst friends? BrickSimple managed to hack the Q for Pong playback, using the spinning top (read: volume wheel) to move the lower bar in the game. We'll let you get right to the action; the video's embedded after the break, and the code snippet necessary to duplicate it is there in the source below.
+
+
+
+
+ 
+ 

@@ -1,0 +1,17 @@
+
+
+
+We've seen a lot of hacks for Google Maps
+since Google released the Gmaps API last month. And we've seen a few for the
+Nintendo DS as well. Now, Alexei Karpenko,
+who developed the PassMe serial interface for the DS, has brought the two together with a hack that he says enables
+Google-mapped GPS on the DS. According to Karpenko, a small script lets the DS download specified maps via its internal
+WiFi card. Data is stored on a CF card crammed into a GBA Movie Player unit. GPS is provided via a PassMe-connected
+Lassen iQ GPS module from Trimble, and voila — GPS-enabled Google Maps on the DS. Clearly, this isn't
+something a casual gamer is going to hook up in an idle moment. But it strikes us as a nice — and maybe even useful —
+combo of hack-friendly software and hardware.
+
+
+
+
+ 

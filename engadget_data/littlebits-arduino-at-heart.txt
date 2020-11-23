@@ -1,0 +1,13 @@
+
+
+Getting your feet wet with programmable hardware can be tricky; even if you're comfortable with coding, you may not want to break out the soldering iron just to build a usable device. LittleBits is aware of just how intimidating these make-it-yourself gadgets can be, so it has just launched its first software-programmable module, the Arduino at Heart. As the name implies, it's an Arduino core (the same as the Leonardo) designed to fit into LittleBits' simple, building block approach to circuit boards. If you want to attach a light, motor or sensor to the Arduino board, you just snap it on -- you can spend more of your time coding rather than dealing with wiring and other hardware hassles. 
+
+
+
+
+
+The programmable part gives you much more control over LittleBits' existing modules, such as the oscillators in the Synth Kit. People have been asking for this flexibility since the "beginning of the company," product head Paul Rothman tells us. However, it also opens the door to interaction with your computer. Since the Arduino module has USB support built-in, you can create Etch-A-Sketches, Pong games and other programs that have LittleBits and your PC working in harmony. Rothman adds that many existing Arduino projects should work with only a few slight tweaks to pin assignments.
+
+The code-friendly kit is available online today, and you should also find it at the Maker Faire in San Mateo on May 17th and 18th. You can buy the Arduino module by itself for $36, although beginners may be best off with the $89 Starter Bundle; the pack includes both the programmable core as well as eight additional parts you may want early on, such as controllers and a battery. It may still be a while before you're cooking up completely new ways to use LittleBits' gear, but you won't need electrical engineering skills just to reach that point.
+
+

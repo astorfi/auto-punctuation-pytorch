@@ -1,0 +1,10 @@
+
+ 
+ AMD's advantage these days most often rests in datacenters that thrive on the chip designer's love of many-core processors, so it was almost surprising that the company brought its Piledriver architecture to the mainstream before turning to the server room. It's closing that gap now that the Opteron 6300 is here. The sequel to the 6200 fits into the same sockets and consumes the same energy as its ancestor, but speeds ahead through Piledriver's newer layout and instructions -- if you believe AMD, as much as 24 percent faster in one performance test, 40 percent in performance per watt and (naturally) a better deal for the money than Intel's Xeon. Whether that's true or just marketing bluster, there's a wide spread of chips that range from a quad-core, 3.5GHz example to a 16-core, 2.8GHz beast for massively parallel tasks. Cray, Dell, HP and others plan to boost their servers before long, although the surest proof of the 6300's success from our perspective may be that everything in the backroom runs just as smoothly as it did yesterday.
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+It only been a short little while since Gutsy Gibbon (otherwise known as Ubuntu 7.10) made its way into hearts and hard drives around the world, but the folks at the Ubuntu Dev Summit are already dropping details on the next release, charmingly dubbed "Hardy Heron." According to Ars Technica, the overarching focus with Heron will be on robustness, as it's apparently intended to be supported for a full three years. Among the more specific changes you can expect to see is an improved Compiz window manager, which was pegged as one area needing a boost in usability, along with updated PolicyKit and Tracker tools. Not surprisingly, Heron is also apparently "likely to see a complete visual refresh," including a whole new icon theme that'll use more SVG (Scalable Vector Graphics) and bring things more in line with the Tango icons used by GNOME. Of course, all that is still quite a ways off, so if you haven't yet gone Ubuntu, there's no reason not to give the Gibbon a shot.[Via Slashdot]
+
+ 

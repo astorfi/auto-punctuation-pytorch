@@ -1,0 +1,6 @@
+
+ 
+Even amidst all their fighting, it appears Apple and Adobe can manage to lay down arms and work together every once in a while: Apple just enabled low-level access to NVIDIA GeForce 9400M, 320M and GT 330M H.264 GPU hardware in Mac OS X 10.6.3, and Adobe's followed up six days later with a new preview version of Flash Player code-named "Gala" that takes advantage of it. That's good news for anyone who's ever heard their fans spin up while watching a YouTube video on a Mac (so, everyone) but we doubt it means there's any détente on larger issues between these two coming -- Apple remains committed to HTML5, while Adobe's pulled all investment from iPhone-related Flash development, and the company's relationship with Google seems to be heating up. We'll take what we can get, we suppose -- we'll hit you with some benchmarks just as soon as we get things installed.
+      
+
+ 

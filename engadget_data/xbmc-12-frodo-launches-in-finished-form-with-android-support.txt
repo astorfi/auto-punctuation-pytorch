@@ -1,0 +1,4 @@
+
+ XBMC 12 Frodo has spent enough time in beta that you'd think it was walking to Mordor. Whatever prompted the long trek, it's at last over: the finished version of XBMC 12 is hitting the servers. As promised, the completed edition significantly expands the media center app's universe to include initial support for Android and Raspberry Pi, as well as live TV and DVR functionality. Sticklers for quality may like the upgrade as well, as there's new support for Dolby TrueHD and DTS HD Master Audio processing on top of 10-bit H.264 video decoding. There's considerably more on tap with the completed Frodo build than what we can list here, so hit the download link if you want to see what two months of testing delivers.
+
+

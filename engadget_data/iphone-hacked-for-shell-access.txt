@@ -1,0 +1,6 @@
+
+ 
+Well, that didn't take long -- the hacker crew of IRC channel #iPhone has managed to enable shell access to the iPhone just a week after its release. There's not a lot to the hack -- the iPhone's 30-pin dock connector features the same pinouts as the iPod, so creating a serial connection simply involved connecting up a resistor, ground, and RS-232 level converter and running a few commands from iphoneinterface. The resulting shell is pretty basic, but features a TFTP client -- meaning that we should see a flood of attempts to open the iPhone up in the coming weeks (as if we wouldn't anyway).Read - hackint0sh announcementRead - iPhone shell command list
+      
+
+ 

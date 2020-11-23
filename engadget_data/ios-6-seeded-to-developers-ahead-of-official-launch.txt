@@ -1,0 +1,6 @@
+
+ Developers, start your engines: the GM (Golden Master) seed of iOS 6 is now available and ready for download on Apple's Developer page. Essentially, the GM seed is the final version of the OS sent out to developers -- as an opportunity to fully test their apps -- before the rest of the general public, which will take place on September 19th. The Xcode 4.5 GM seed is now available as well. Head to the link below, log into your developer account, and venture over to the iOS Dev Center to find the download links.
+
+ Update: it looks like it's fully working now. Hop to it!
+
+

@@ -1,0 +1,20 @@
+
+
+If you think about it, a computer only needs to measure the change of state to, well, compute — be it ones and zeros
+or the state of subatomic particles. That's why there is such interest in the development of the mythical quantum
+computer (think supercomputer in a teaspoon). For the most part,
+efforts in quantum computer development have focused on a
+property called entanglement. But Vancouver startup D-Wave is focusing on quantum tunneling instead and hope to exploit
+this to develop a quantum computer within three-years (with a prototype by close of 2006). At the heart of their "less
+than fully functional" quantum computer is an analogue chip which must be cooled with liquid helium to -269 °C — just 4
+°C shy of absolute zero folks! However, these purpose-built semiconductors rely on existing fabrication techniques and
+do not need the gee-whiz guts (delicate lasers, vacuum pumps) required by other quantum computers. While cryptographers
+will have to wait for their dream machine, intractable problems such as the infamous traveling-salesman (optimal route
+among cities) and optimization of financial portfolios and traditional computer chip layouts could be quickly sorted.
+Don't bother raiding the kid's college fund yet 'cause D-Wave expects to sell computational services not quantum
+hardware.
+
+
+
+
+ 

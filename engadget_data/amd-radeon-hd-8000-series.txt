@@ -1,0 +1,32 @@
+
+ Most of the secrets surrounding AMD's latest series of mobile graphics chips have been known for a while now, but that didn't stop the company from making everything official today. Intended for traditional laptops and ultrathins alike, the Radeon HD 8000M series supports DirectX 11.1 and stands as the first of the company's mobile GPUs to incorporate the AMD Graphics Core Next architecture. The lineup consists of the Radeon HD 8800M, HD 8700M, HD 8600M and HD 8500M. The chip manufacturer announced that the Radeon HD 8000M series has already been incorporated into products from ASUS and Samsung -- no surprises here -- and also let it be known that we can expect similar offerings from Dell, Lenovo and other OEMs in short order.
+
+ Rounding out the GPU announcements from AMD, the company also took the opportunity to crow that its Radeon HD 8000 series for desktops is now en route to OEM partners. What's more, we can expect desktop rigs with this technology to begin arriving on store shelves later this month. If you're thirsty for more information, feel free to soak up the PR after the break.
+
+ Follow all the latest CES 2013 news at our event hub.
+
+
+  Show full PR text   AMD Delivers Enhanced Gaming and Improved Application Performance with Latest Mobile and Desktop Graphics Technology
+   AMD Radeon HD 8000M Mobile and HD 8000 Desktop Graphics for OEMs Deliver Award-winning GCN Architecture, Full DirectX 11.1 Support and Exceptional Performance-per-watt
+
+   LAS VEGAS, NV - 2013 International Consumer Electronics Show -1/7/2013  AMD (NYSE: AMD) today launched the AMD Radeon™ HD 8000M Series of mobile graphics processing units (GPUs) set to deliver discrete graphics performance to a variety of notebook designs, including the incredibly portable ultrathin form factor. The AMD Radeon HD 8000M Series are the first notebook GPUs to be offered with the award-winning AMD Graphics Core Next (GCN) Architecture, which delivers exceptional compute power and performance while stretching battery life through AMD Enduro™ Technology. Designs are currently shipping with ASUS and Samsung, with Lenovo and additional OEMs shipping soon.
+
+   Additionally, AMD announced the availability of AMD Radeon™ HD 8000 Series desktop graphics, available only through OEMs. The AMD Radeon HD 8000 Series features revolutionary GCN Architecture with support for DirectX® 11.1 for optimal acceleration of Windows® 8 platforms, AMD App Acceleration to enhance GPU performance, and features intelligent power management technology such as AMD PowerTune with boost. Both announcements represent a commitment from AMD to provide the ideal graphics solution for everyday notebook and desktop users, whether they're gaming, streaming online HD videos, creating presentations or editing photos or videos.
+
+   "Today's simultaneous launches of our AMD Radeon HD 8000M Series for mobile and the AMD Radeon HD 8000 Series for desktop graphics symbolize a major milestone for AMD – we are now bringing the capabilities of our GCN Architecture, and full DirectX 11.1 support to a much broader market," said Matt Skynner, corporate vice president and general manager, AMD Graphics. "More than ever, AMD is ensuring users are fully covered when it comes to graphics power. The AMD Radeon 8000M Series for mobile and the AMD Radeon HD 8000 Series for desktop deliver outstanding compute power to drive productivity and multimedia applications, help improve video and image quality from web browsing to gaming, and provide outstanding battery life through it all."
+
+   The AMD Radeon HD 8800M, HD 8700M, HD 8600M and HD 8500M GPUs are graphics powerhouses, ideal for users who are seeking to upgrade their existing notebook and want a superior, industry-leading graphics experience. Whether on-the-go, at work or at home, the AMD Radeon HD 8000M Series meets the everyday demands of any user. The AMD Radeon HD 8000M Series features AMD Enduro Technology, a cutting-edge power-saving solution that scales GPU usage and power based on graphics demand. Users will experience a redesigned user interface with full user profile control that intelligently detects the power source and GPU, allowing applications to scale seamlessly. Additionally, the new user interface has default settings ideal for a majority of users, with expert mode control options for enthusiasts and power users.
+
+   Features of the AMD Radeon HD 8000M Series of GPUs:
+
+   Engineered for Performance: AMD App Acceleration drives GPU-accelerated features in Windows 8 improving graphics performance and application speed, while advanced GPU compute capabilities enable users to run multiple applications smoothly, enjoy beautifully rich and clear video playback, and revel in lightning-fast game play.
+
+   Stable, Reliable, Feature Rich: The AMD Catalyst™ Technology is designed to allow users to control every aspect of their GPU and ensure hardware stability, as well as enabling them to unlock new features and improvements with each driver release.  Immersive 3D Visuals: AMD HD3D Technology enables 3D display capabilities for many PC applications allowing users to view, create, share and download in full stereoscopic 3D.
+
+   At CES, AMD is showcasing notebooks from ASUS, Dell, Lenovo and Samsung featuring AMD Radeon HD 8000M Series graphics. For more information on these latest systems visit www.amd.com/HD8000M.
+
+   AMD Radeon HD 8000 Series Graphics for OEM Desktop PCs
+
+   The AMD Radeon HD 8000 Series desktop graphics cards are designed to make everyday computing entertaining and productive. Driven by GCN Architecture, AMD Radeon HD 8000 Series graphics come fully equipped with AMD App Acceleration to provide a rich Windows 8 experience and enhanced performance when using everyday applications like web browsers and productivity suites4. Users will experience superior visuals and outstanding performance with support for DirectX 11.1 as well as PCI Express 3.01. The AMD Radeon HD 8000 Series graphics cards also utilize AMD ZeroCore Power technology which improves power savings when computers enter an idle state. Select AMD Radeon HD 8000 Series graphics will be available in desktop systems from major OEMs, starting late January 2013.
+
+ 

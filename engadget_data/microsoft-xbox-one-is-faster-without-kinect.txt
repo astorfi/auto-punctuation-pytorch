@@ -1,0 +1,8 @@
+
+Prepare to be confused: Despite everything we've heard about the Xbox One's Kinect sensor containing its own onboard processor, so that it doesn't weigh down the main console with voice- and image-recognition tasks, it's clear that the add-on does add to the burden. Microsoft has confirmed to Eurogamer that after this month's update (timed ahead of the new Kinect-less Xbox One), developers can access "up to 10 percent additional GPU performance," simply by virtue of system resources that no longer have to be reserved for the motion-sensing peripheral's features. In a tweet, new Xbox boss Phil Spencer said there is "More performance, new tools and flexibility to make games better." Does this mean that owners of the original Xbox One can get less screen-tearing or higher resolution in Titanfall simply by unplugging Kinect? No, but a new SDK enables a boost for game developers who are happy to sacrifice access to the "natural interface" in favor of better performance. In any case, Microsoft's initial justification for regarding Kinect as an "essential and integrated" part of Xbox One is starting to wear pretty thin.
+
+
+
+June #XboxOne software dev kit gives devs access to more GPU bandwidth. More performance, new tools and flexibility to make games better
+
+- Phil Spencer (@XboxP3) June 4, 2014

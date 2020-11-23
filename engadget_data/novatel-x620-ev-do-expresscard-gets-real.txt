@@ -1,0 +1,5 @@
+
+ If you've got a snazzynew laptop that includes an ExpressCard slot but no legacyPCMCIA slots, you've probably been suffering a little for your commitment to the cutting edge: there are still far morecards available that meet the old standard than the new one, especially for things like wireless communication (which,let's face it, is the main reason to still have one of these slots, unless you use it to stash extra cash).Fortunately, that shortage is rapidly being remedied, and Gearlog managed to score a hot little number: a prototype ofNovatel's X620 EV-DOExpressCard. The card, for use with Verizon's EV-DO network, should work with any Windows laptop -- and to proveit, Gearlog hooked one up to a MacBookPro running Boot Camp. Novatel expects Apple to ship Mac drivers soon as well, soif you've picked up a MacBook Pro and want a native way to cruise on down the highway, you shouldn't have to wait allthat long.
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

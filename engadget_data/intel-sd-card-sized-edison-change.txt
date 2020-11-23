@@ -1,0 +1,4 @@
+
+Back at CES, Intel made a big deal of the fact that it could squeeze a Linux-based PC with Bluetooth and WiFi into the size and shape of an SD card. However, with just a few months to go before the launch of these miniscule Edison development boards, it looks like the chip-maker has changed tack. Instead of being based on the Quark SoC, which was specifically designed for wearables and the Internet of Things, the first Edison products will actually rely on a more traditional Atom chip -- in other words, the same sort used in many current Windows tablets and hybrids. An Edison PC based on Atom should deliver more grunt and connectivity options compared to Quark, and for less money, but it'd be too chubby to ever get accidentally jammed in an SD slot. That's why Intel has been forced to admit that, while it continues to work on Quark, the Edison devices coming this summer will be "slightly larger" than was first claimed.
+
+

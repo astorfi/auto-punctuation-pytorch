@@ -1,0 +1,4 @@
+
+ The shock! The horror! The genuine nightmare of losing two more valuable character spaces per tweet! Such a scenario is indeed going to play out, as Twitter has just announced a subtle change in its t.co wrapper that'll go into play this coming February. The firm will be extending the maximum length of t.co wrapped links from 20 to 22 characters for non-https URLs, and 21 to 23 characters for https URLs. It's announcing the change now in order to give developers time to tweak their apps to handle things with poise, though it's not going so far as to clarify why the change is being made. Enjoy those shortened links while you can -- that whole "140 characters" thing will soon be gaining yet another asterisk.
+
+

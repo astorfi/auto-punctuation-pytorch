@@ -1,0 +1,14 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+
+We're more than a little enamored with Arduino and its DIY microcontroller ilk. But we'll admit, there are a few limitations that the compulsive prototyper might find bothersome. Chief amongst them is the lack of modularity, Now, sure, you can easily add all sorts of sensors, ports and radios to your Uno (or Duemilanove if you're old school) but that generally requires piling shield, upon shield, upon shield, until you've got a stack of boards three-feet high. And, if you want to use an ARM chip instead of an AVR for a project? Well that's a whole other set of boards. Kevin Greene has decided to address these perceived "weaknesses" with BoardX -- a modular, open-source prototyping platform.
+      
+
+ 
+
+  The heart of the product is the BoardX Motherboard, essentially a blank slate with a mini solderless breadboard and a host of ports for plugging in add-ons. Those add-ons connect with standard header pins and can take the form of anything from a processor to sensor arrays. Only a few of these modular components have been designed so far: the AVR-X (an Arduino-compatible microcontroller), FRAM-X (512 byte chunks of stackable Ferroelectric RAM) and ADC-X (an 8-channel analog to digital converter). An ARM add-on is in development but, since the entire project is open source, anyone with the appropriate skill level is free to take a stab at creating their own add-ons. If you want to chip in towards the $20,000 goal it'll take at least $92 to get you a BoardX and AVR-X, but Greene will take donations as low as $1 (you'll just have to accept his unpublicized gratitude as your reward). $135 will get you the board and all the add-ons, while $500 will score you all the parts a month early plus a few extras and your name listed on the BoardX site.  Previous project update: Ray, the rather inventive and versatile solar charger is getting close to hitting its goal of 2,000 presale commitments. As of this writing its resting at 1,576.
+
+       
+
+ 

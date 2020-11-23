@@ -1,0 +1,20 @@
+
+ 
+Google's plan to open-source the VP8 video codec it acquired when it purchased a company called On2 hasn't exactly been a secret, and the company's finally made it official today as part of a new format called WebM. The WebM container is based on Matroska, with VP8 video and Ogg Vorbis audio streams packed inside -- Google says the format is efficient enough to support playback on lower-power devices like netbooks, tablets, and handhelds, while the encoding profiles are simple enough to limit complexity when you're trying to create WebM files. WebM is open-sourced and licensed royalty-free under a BSD-style license, so all those H.264 patent licensing concerns shouldn't be an issue -- and as you'd expect, Mozilla is supporting WebM right off the bat, with support in Firefox nightly builds as of today. Chromium nightlies will also support WebM as of today, with Chrome early access builds getting support on May 24 -- and Opera is listed as "coming soon."
+
+Google's also going to be supporting the format as an option for YouTube playback, so that should drive adoption in a big way -- if you're running these latest Firefox or Chromium nightlies you can actually try it out now. The big question, of course, is whether Apple and Microsoft will roll WebM support into Safari and IE and onto their mobile platforms. We'll see -- Google definitely has the ability to push a format into the mainstream.
+
+Update: Industry support announced at I/O -- including Adobe, who'll be rolling VP8 support into Flash Player. Take note of the hardware partners, though: AMD, ARM, Broadcom, Freescale, NVIDIA, Qualcomm, and TI, among others. Missing in action? Intel.
+
+Update 2: The always-reliable Mary Jo Foley at ZDNet says she's heard Microsoft will be supporting WebM in IE9. That's a big deal if it's true, but we'll have to wait for confirmation -- IE9 isn't due out for a year, so a lot can change in the meantime. Fingers crossed.
+
+Update 3: Microsoft's made an official statement on its blog -- while the company is "all in" with HTML5, IE9 will only come with H.264 installed be default due to technical and IP concerns. HTML5 / VP8 playback will be supported, but users will have to download and install the codec separately, which doesn't bode well for widespread adoption. Here's the money quote:
+
+In its HTML5 support, IE9 will support playback of H.264 video as well as VP8 video when the user has installed a VP8 codec on Windows.
+ [Thanks, Sean]
+      
+
+ 
+
+Hardware: AMD ARM Broadcom Digital Rapids Freescale Imagination Logitech Marvel MIPS NVIDIA Qualcomm Texas Instruments Veri Silicon ViewCast
+ 

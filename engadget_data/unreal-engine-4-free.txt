@@ -1,0 +1,17 @@
+
+Created in Unreal Engine 4
+
+Game development is expensive. It's not a question of the tools costing too much; game engines like Unity and GameMaker Studio offer free versions, and paid versions aren't far out of reach. That's a recent development, though. When the last generation of game consoles (Xbox 360, PlayStation 3, Nintendo Wii) ruled the roost, the Unreal Engine was both ubiquitous and costly. Its latest iteration, Unreal Engine 4, is widely used, but has taken a sideline to free offerings from the likes of Unity. The engine's maker, Epic Games, isn't sitting idly by and letting the competition take over, though: as of this morning, Unreal Engine 4 is free for all to use.
+
+
+
+So what does that mean? It means anyone that wants it has full access to the entirety of Unreal Engine 4's tools. You could create your very own game, or maybe an architecture project, or maybe...well, we don't really know. It's kinda up to you. If you're looking to make money on said project, you're free to -- Epic asks for a revenue share "after the first $3,000 per product, per quarter."
+
+That revenue share comes to five percent of gross revenue -- a dramatic departure from the subscription model Epic announced last year at the Game Developers Conference. But is it enough to compete with Unity?
+
+
+Developers Engadget spoke with expressed skepticism with the company's business model, saying their development engine choice is a measure of its ability and the developer's past experience more than the price argument. In so many words: it's not about being free, but about being an effective tool.
+
+More than price, devs we spoke with expressed concern about having to re-configure how they work based around a different engine from what they've been using (primarily Unity). So, is it worth re-writing tools and creating new workflows to use Unreal Engine 4? That's a question you'll have to answer yourself. But hey, at least it's free!
+
+

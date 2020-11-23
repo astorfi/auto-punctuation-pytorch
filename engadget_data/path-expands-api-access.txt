@@ -1,0 +1,4 @@
+
+Path has previously limited its third-party app integration to the Nike+ platform, but the company just opened its doors a little wider. App developers can now ask for permission to use Path's sharing API, which they'll get if Path sees such apps as a logical fit. To get the ball rolling, the social network has already granted access to 13 partners that include WordPress, Strava Cycling and a bevy of smaller image services. Only some of these developers can send app content to Path as of this writing, but the rest should support the API in the weeks ahead.
+
+

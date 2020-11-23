@@ -1,0 +1,5 @@
+
+ StyleTap's Palm OS emulator for Windows Mobile has been kicking around in beta and preview versions for well over a year now, but the Toronto-based company has finally put all the pieces together and given its eponomously-titled software the big 1.0 release. From the looks of it, the emulator's come a long way since its earliest incarnations, now able to run apps written for any version of Palm OS -- including the ARM-based version -- as well as making use of your device's WiFi, Bluetooth, IR, and USB connections. It's also not a Boot Camp situation where you'll be switching back and forth between operating systems, with Palm OS apps instead simply showing up as native Windows Mobile applications on your device. If you're skeptical, you can grab a 14-day trial version from StyleTap's site before forking over the fifty bucks for the complete package. Not ones to rest on their laurels, StyleTap says this edition is only the first in a family of products, with versions for Symbian and Windows Mobile for Smartphones coming next.[Via Reg Hardware]
+      
+
+ 

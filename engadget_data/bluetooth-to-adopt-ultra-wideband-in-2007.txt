@@ -1,0 +1,20 @@
+
+
+Way back in May we heard the first rumblings of discussions between the
+Bluetooth SIG and Ultra Wideband proprietors about
+merging the two standards — well, looks like Bluetooth's pulling the trigger on it, and will be updating their product
+roadmap to reflect the pairing (pun oh so intended), so that by Q3 2007 Bluetooth should have prototype UWB compatible
+BT cores a-cookin'. But there are still kinks to be worked out, namely that the two
+Ultra Wideband heavy hitters — the WiMedia
+Alliance and UWB Forum — have yet to come together and proceed with a single UWB standard, making the whole thing
+increasingly sticky for a third party like the Bluetooth SIG to step in and try to adopt the technology. Still, we can
+totally understand that another couple hundred megabits per second on top of Bluetooth 2.0's 2.1mbps must have been
+mighty tantalizing, kinks and all.
+
+
+ [Via TUBW]
+
+
+
+
+ 

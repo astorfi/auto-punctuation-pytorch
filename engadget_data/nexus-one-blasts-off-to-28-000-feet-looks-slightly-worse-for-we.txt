@@ -1,0 +1,13 @@
+
+ 
+Your average satellite these days is roughly on par in terms of size with your average living room, give or take, and so naturally the cost of lofting one into orbit is, if you'll pardon the phrase, sky high. Despite that, many offer less processing power a mobile processor like Snapdragon. The obvious solution? Chuck a smartphone into orbit and revel in the savings. That's the idea behind the PhoneSat, helped along by the Mavericks Civilian Space Foundation, which strapped a Nexus One into a rocket with 1,000lbs of thrust and threw it up to 28,000 feet to see how it copes with the immense stress of riding into space. Of course, 28,000 feet isn't quite space (NASA would have run out of astronaut badges long ago), but the G-forces and temperature cycles felt during this short trip are comparable to a one-way voyage to orbit. The first such launch didn't go so well, with the rocket suffering a ballistic return -- coming in like a projectile without a 'chute. The shattered remains of that are shown above. But, the second flight was rather more successful, and the video results can be seen below -- captured by the phone itself.
+
+Update: Matt Reyes, one of the folks behind the launch, wrote in to let us know of another article here on the project, including more details on the history of the team and the various hardware beyond the N1 payload. Matt, along with project members Chris Boshuizen and Will Marshall, are NASA engineers, helped by Ryan Hickman at Google, which probably helps to explain how they were able to get from the photo above to the successful launch below in just one iteration.
+
+[Photo credit: Steve Jurvetson]
+      
+
+ 
+
+
+ 

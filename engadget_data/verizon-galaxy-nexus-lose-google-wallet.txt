@@ -1,0 +1,8 @@
+
+ Verizon has never totally been on the Google Wallet bandwagon. First, Big Red refused to support the mobile payment system, citing its dependance upon proprietary hardware. Months later, some folks managed to gain access through the Play Store, but it looks like that the VZW GNex is, once again, Wallet-free. Word on the web has it that those Nexus owners are now, upon opening the app, greeted by a message saying that their version of Google Wallet is no longer supported, and that they need to update the app. Problem is, the Play Store is telling folks that their devices are no longer supported. We've confirmed the issue ourselves, but we don't know if this a temporary problem, or if it's a permanent move. We've reached out to both Google and Verizon for comment, and we'll let you know as soon as we hear back.  [Thanks, Tim]
+
+ Update: Verizon responded to our requests, but declined to add any new comment on the matter. Instead, VZW reiterated its previous statement that "Verizon doesn't block applications. Google Wallet is different from other widely-available m-commerce services. Google Wallet does not simply access the operating system and basic hardware of our phones like thousands of other applications. Instead, in order to work as architected by Google, Google Wallet needs to be integrated into a new, secure and proprietary hardware element in our phones." 
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,42 @@
+
+It was only about four months ago when CSL, Telstra's part-owned operator behind Hong Kong's one2Free and 1010 networks, showed off its 150Mbps LTE Cat 4 upgrade; but why stop there? Today, the same company gave us a glimpse of its upcoming 300Mbps LTE Advanced service, which is enabled by aggregating its 20MHz carriers at both its 1,800MHz and 2,600MHz LTE bands.
+
+
+"The announcements in Korea and the announcements in Australia around LTE Advanced... the theoretical speed that they're delivering is 150Mbps. What we're talking about today is LTE-A300," said Phil Mottram, CEO of CSL. "It's definitely a first for Hong Kong, and it's potentially a world-first in terms of being able to deliver these theoretical, maximum download speeds at 300Mbps." 
+
+
+
+
+
+
+Since no current devices are equipped with LTE Cat 6 radio, CSL and ZTE used a comically large device emulator -- with four thick antennas for LTE Cat 6's MIMO 2x2 implementation, as pictured below -- to perform the speedy demo at a small cell site. Indeed, we witnessed a local download speed reaching just below 300Mbps, while a more realistic FTP download worked out to be about 172Mbps fast, which is still above CSL's current maximum speed. We didn't get to see an upload speed demo, but according to CSL's presentation, it's capped at a comparatively tame 50Mbps.
+
+For those interested, the reason why LTE Cat 5 (which can also do 300Mbps download) is skipped by CSL plus many other companies is because it uses MIMO 4x4, which makes stuffing all these antennas on mobile devices extremely difficult.
+
+Alas, CSL won't be offering its 300Mbps service until early 2014, and even then, the operator will only have compatible USB dongles and modems to begin with. CTO Christian Daigneault said one of the main reasons is that he's waiting for better battery and power management technologies, as CSL's 20+20 carrier aggregation requires more power. In comparison, Korea's current 10+10 implementation (but is still LTE Advanced) is less demanding. Another challenge is that the vendors still need to make their LTE Cat 6 chipsets smaller, but with CSL expecting to stock compatible smartphones by mid-2014, work should be well under way. As for participating device vendors, the exec namechecked the usual suspects like Samsung, ZTE and Huawei, but more will come along eventually.
+
+
+Looking ahead, Daigneault believes 4K will become mainstream for smartphones within one or two years, and that data usage in Hong Kong will increase three-fold by 2015. No wonder he's in such a hurry.
+
+Show full PR text1O1O and one2free set to deploy LTE Advanced at 300 Mbps in Hong Kong
+Superior network bandwidth ensures optimal performance
+
+Hong Kong, 10 September 2013 – 1O1O and one2free, the first in Hong Kong to provide dual band 4G LTE# mobile broadband in 2010, are now set to also deploy LTE Advanced 300 (LTE-A300). In the first demonstration of this technology in Hong Kong today, 1O1O and one2free showcased the fastest mobile speeds in Hong Kong with theoretical peak download speeds of up to 300 Mbps^.
+
+1O1O and one2free aggregated its existing licensed 20 MHz LTE carrier at 2600 MHz with another licensed 20 MHz LTE carrier at 1800 MHz, to achieve a maximum theoretical speed of 300 Mbps. 1O1O and one2free are the only operators in Hong Kong today with sufficient FD-LTE spectrum* to achieve these optimal speeds with LTE-A300.
+
+LTE-A300 represents a major milestone in the evolution of LTE and is a crucial solution for addressing the anticipated vast increase in mobile data usage. Today no operator in the world has launched LTE Advanced with 300 Mbps capability and 1O1O and one2free intends to be amongst the first to lead the industry space once again for the benefit of its customers.
+
+Phil Mottram, Chief Executive Officer of CSL Limited, parent company of 1O1O and one2free noted, "We have invested huge amounts in ensuring that we are leading the way to greater speeds and stability for our customers by building out the network capacity and leading-edge 4G LTE capabilities. We are creating a future ready network for Hong Kong, a network that will support the growing data needs of business and consumers in this highly mobile city".
+
+Christian Daigneault, Chief Technology Officer of CSL Limited, says: "This demonstration is an important milestone since it signals the early stage of rollout of LTE-A300 in our network. The new technology will be extensively tested in our labs over the coming months to be later deployed on the commercial network once ready. It is expected that new devices supporting LTE-A300 will be available later in 2014, and our network will be mature at that time".
+
+1O1O and one2free have a history of industry firsts in the 4G LTE space in Hong Kong including network deployment as early as 2010, first LTE roaming in 2011 and lately the launch of CAT 4 capability with the theoretical speeds of up to 150 Mbps^ to further drive efficiency and speed on the network. The advantage held in network spectrum across crucial bandwidths for 4G LTE further increases the advantage in allowing the networks to deliver the performance, speed and stability necessary for the highly mobile city of Hong Kong.
+
+* FD-LTE refers to Frequency Division LTE as defined by 3GPP Release 8 and is commonly used in Hong Kong. The other type of LTE is TD-LTE which refers to Time Division LTE. 4G FD-LTE spectrum means the spectrum at 1800 MHz and 2600 MHz which can support FD-LTE.
+
+^ 300Mbps and 150Mbps are theoretical limits that can be achieved in optimum conditions as conducted in a controlled test environment. Actual speeds experienced will be considerably lower due to a variety of factors that affects performance including the number of users, server loading, internet conditions, server speeds, network conditions, coverage, locations, the computer and device used, hardware, software, usage levels and other factors.
+
+# LTE is a trademark of ETSI.
+
+

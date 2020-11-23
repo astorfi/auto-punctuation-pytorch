@@ -1,0 +1,18 @@
+
+ 
+
+It's hard not to love Barnes & Noble's Nook Color, especially if you're amongst those who'd rather look at text on a quality backlit screen than an e-paper display. Not only did we enjoy the e-book reader when we first reviewed it, but it keeps getting better thanks to updates to its hidden Android core plus the recent addition of its own app store complete with Pandora and Angry Birds. And while there's also a decent bundled web browser and music player, it's not the software that we like the most -- it's the hardware, and particularly the value proposition.
+
+See, $250 ($200 on sale) buys you a gorgeous 7-inch 1024x600 pixel capacitive IPS panel with excellent contrast and viewing angles, an 800MHz TI OMAP 3621 CPU, a PowerVR SGX 530 GPU, 512MB RAM, WiFi b/g/n, Bluetooth, 8GB of built-in storage, an accelerometer, and a microSD card slot -- all wrapped in an attractive 12mm thin package. Sure, there's no 3G radio, no camera, no microphone, no ambient light sensor, and no haptic feedback, but despite its lower-end specs, the Nook Color just begs to be turned into a full blown Android tablet.
+
+And that's just what we did, by installing CyanogenMod 7 on Barnes & Noble's color reader, complete with Android 2.3.3 (Gingerbread) and the full suite of Google apps. Take a look at our screenshots gallery below and hit the break for our hands-on video and impressions.
+
+
+
+
+
+ We'll let the video above speak for itself, but the takeaway here it that CyanogenMod 7 on the Nook Color is surprisingly fast and pleasantly functional. Everything works pretty much as expected with remarkably little (if any) lag. Surfing the Web is snappy for an 800 MHz tablet and includes Flash support -- the CPU even handles 720p video decoding without drama. For an extra dose of irony, we installed the Kindle and Nook apps. Both work, but there are some bugs, and the latter won't support some of the interactive content that's normally readable on the Nook Color, like The Elephant's Child. Regardless, we'd have no qualms lending the hacked tablet to non tech-savvy friends.The steps required to install CyanogenMod 7 on the Nook Color are reasonably simple and are outlined in the source links below -- just follow the instructions in the YouTube videos (there's one for PC users and one for Mac users). Happy modding!
+
+       
+
+ 

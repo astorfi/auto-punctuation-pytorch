@@ -1,0 +1,28 @@
+
+Last week, Imagination Technologies gave us a glimpse of its next-gen PowerVR Series6 mobile GPU and its prowess with OpenGL ES 3.0. That demo didn't showcase Series6's full potential, as the company could only let us see a test chip on an FPGA board that could deliver only 1 GB/s of bandwidth -- one tenth of the GPUs performance capability. Now that Imagination Technologies' first Series6 partner, LG, has given the go ahead, the time has come to see what Series6 can really do on an optimized board destined for an HDTV.
+
+
+In addition to the Series6, the company also demoed an older Series5XT GPU that's been upgraded with some recently released API extensions. Those APIs are meant to breathe new life into Imagination Technologies' older GPUs and give them some of the rendering features found in the Series6. Interest piqued? You can see the GPUs do their thing in our demo video after the break.
+
+
+Update: Imagination Technologies' blog has identified LG's SoC as the H13.
+
+
+
+
+Show full PR textImagination pushes the boundary for existing PowerVR Series5XT (SGX) GPUs with new extended API features
+International CES 2013, Las Vegas, USA: Imagination Technologies, a leading multimedia technologies company, announces a set of advanced API extensions for its existing PowerVR Series5XT (SGX) GPUs, giving application processors using the technology, and mobile and embedded devices based on them, access to some of the features that would otherwise be only available on future APIs on next generation GPUs.
+
+Because of the advanced architecture of PowerVR Series5XT, Imagination is in a rare position, amongst today's mobile GPU providers, of being able to offer today some of the new and advanced features expected from future GPUs on Imagination's current Series5XT GPU technology, through API extensions without any hardware changes or additional cost.
+
+Specifically OEMs, semiconductor partners and developers using PowerVR Series5XT powered platforms that have these optional OpenGL ES 2.0 extensions enabled, can have access to some of the key features of next generation APIs, such as OpenGL ES 3.0, on today's technology.
+
+The new extensions can enhance the delivered capabilities of today's technology and application processors based on that technology and enable developers to create apps that can access some of the features of OpenGL ES 3.0, taking them into the next level of possibilities in visual effects or efficiency. These features can also enhance the performance and power efficiency of today's mobile devices by enabling movement of more workload from the CPU to the GPU.
+
+The API extensions provide features such as: multiple render targets; occlusion queries; seamless cube maps; sampler access from vertex shaders; floating point textures; GLSL full-precision floating point; R and RG textures; min/max blends; and multisample render buffers.
+
+Says Tony King-Smith, VP marketing, Imagination: "Looking at the combination of PowerVR Series5XT's advanced architecture, feedback from our extensive ecosystem of partners and developers, and emergence of new APIs, we realised now was the time to release the full potential of today's hardware with these extensions to PowerVR Series5XT. They are both a valuable differentiator for our semiconductor licensees and OEM partners and also a viable stepping stone for developers to next generation GPU technology. Each PowerVR generation is designed to be capable of a lot more than the baseline of any given generation of mainstream API. By providing such a rich set of extensions to the baseline OpenGL ES 2.0 API, PowerVR is enabling developers to create applications with compelling differences today, while being fully prepared for tomorrow."
+
+The new extensions are being delivered to all PowerVR Series5XT licensees as part of the standard PowerVR graphics DDK (device driver development kit).
+
+

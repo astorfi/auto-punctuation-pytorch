@@ -1,0 +1,7 @@
+
+When Microsoft took Outlook.com public, it also took on the rather daunting task of moving 300 million-plus Hotmail accounts over to the more modern infrastructure without drawing our wrath. However you feel about the new interface, that transition is at last complete: Outlook.com is now the sole front end for the over 400 million people who use Microsoft's free email services. Both Hotmail.com addresses and Hotmail Plus accounts will keep working despite the switch, the company says.
+
+
+To mark the occasion, Microsoft is launching two significant upgrades. It's adding tighter SkyDrive integration that lets users attach files directly from their SkyDrive accounts, including optimized photo attachments. Those who rely on email aliases will also like that Microsoft has finally let us choose an SMTP server to send messages from non-Outlook addresses without revealing the true source -- we won't have to put up with "on behalf of" tags any longer. Both features are rolling out today.
+
+

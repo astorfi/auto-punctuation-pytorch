@@ -1,0 +1,8 @@
+
+ There's no shortage of single sign-on solutions out there. But whereas Facebook, Twitter and Google all have a heavy focus on social (obviously), PayPal's take on the field is built around commerce and privacy. Rather than requiring you to set up an account with every site you shop at, entering the same personal information over and over, the stalwart online payment firm wants you to use your PayPal identity across multiple merchants. It uses the same standard protocols (such as OAuth) as its social SSO relatives, but instead of posting meals or books to your feed it sends payment information to shops through a secure channel. When you feel like snagging yourself a pair of fly kicks, all you'd need to do is enter your username and password, or phone number and PIN. All other data, such as shipping and billing address and payment information, would then be passed on by PayPal automatically -- leaving you with nothing to do but admire what a beautiful pair of sneakers your precious Mr. Cuddlesworth makes. For more, check out the quick demo video after the break.
+
+
+
+
+ 
+ 

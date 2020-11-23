@@ -1,0 +1,6 @@
+
+ 
+It won't exactly provide an Ion-level boost in performance, but it looks like the GMABooster app that's been floating around for a little while does indeed deliver on its promise of providing a small helping hand to the stock Intel GMA 950 graphics found in the majority of netbooks out there. More specifically, the application boosts the clock speed from the standard 133MHz or 166MHz to a full 400MHz, or the same as the non-low voltage chipset found on standard laptops. According to the folks at UMPC Portal, that translates to about a 20% gain in Crystal Mark benchmarks, although you can also unsurprisingly expect to take a slight hit in battery performance as a result. Better still, the app is even available for OS X and in addition to Windows and Linux, so folks that have already been busy tweaking their netbooks in other areas aren't out of luck.[Via TweakTown]
+      
+
+ 

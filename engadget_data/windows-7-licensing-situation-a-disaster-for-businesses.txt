@@ -1,0 +1,5 @@
+
+ Doom and gloom warnings about a new Microsoft operating system from some corners sure aren't anything new, but it looks like a particular licensing issue with Windows 7 could well cause some serious headaches for businesses transitioning from Windows XP. As InfoWorld reports, as things stand now, businesses that buy PCs before April 23, 2010 with Windows 7 preinstalled will have the option to downgrade them to Windows XP, which will let them upgrade to Windows 7 whenever they're finally ready to make the transition. Businesses that buy Windows 7-loaded PCs on or after April 23rd, however, will only have the option to downgrade to Windows Vista which, as Gartner analyst Michael Silver notes, is obviously of little help to XP-based organizations. Of course, Windows 7 does have its much talked about XP Mode, but Silver says that won't help many businesses since their IT departments would still be faced with the added workload resulting from managing a whole new OS. There are, however, a few workarounds, like Microsoft's Software Assurance Program, but those all involve an added cost, added work, or both.
+      
+
+ 

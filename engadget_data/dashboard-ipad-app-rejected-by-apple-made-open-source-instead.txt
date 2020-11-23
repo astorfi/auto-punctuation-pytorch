@@ -1,0 +1,7 @@
+
+ 
+So you spend hours and hours toiling away on an app that adds some much-needed Dashboard-like functionality to the iPad (sort of, more on that later) only to have it rejected by Apple -- what do you do? If you're Hongrich, developer of the slightly problematically-named "Dashboard" app, you make it open source. Of course, you'll have to be a developer yourself to actually try out the app, and it's not exactly the full-fledged Dashboard that many have been hoping for, but rather a standalone app that simply lets you run and arrange widgets however you like. Still, it's definitely a start. Head on past the break for a demo video, and hit up the source link to download it yourself.
+ 
+
+
+ 

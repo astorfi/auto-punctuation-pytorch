@@ -1,0 +1,13 @@
+
+  
+
+Hey, remember how Microsoft released a very limited version of the Windows Phone 7 binaries for developers, and then it took about 34 seconds for someone to unlock them to open up all their hidden goodness? Well, MS has just the delivered an updated set of tools for developers to help them get a little closer to making millions on the Marketplace, and yet again it took no time at all for that release to be unlocked This time there are a few new goodies to take a look at and if you'd like to take a peek, and learn how to try them out for yourself, click on through.
+      
+
+ 
+
+The biggest new addition this time is the phone interface, which delivers a visually simple but comprehensive and intuitive way to make a call. From here you can cruise through your contacts or punch up a number directly, and once a call is in progress you can then continue on to work in other apps, with the call status displayed in the top status bar. It's easy to set up three-way calling, send audio to Bluetooth or the speakerphone, and even to throw your conversation counterpart on hold. Sadly, there doesn't seem to be any catchy hold music, but that could change before release.Beyond that there have been some improvements in transitions. In general things look a bit cleaner and as they should, as we're getting ever closer to the release sometime before the end of the year. The video above shows off that new calling app, plus we take a look at the camera and PowerPoint apps that we skipped last time. Of course, just like before you can take this for a spin yourself if you like. The instructions we posted previously still apply here, so make sure you read that first, but the files you'll need have changed somewhat.For this release you'll need the Windows Phone Developer Tools CTP Refresh installer from  developer.windowsphone.com, and if you have some earlier dev tools installed be prepared for a lengthy (and largely manual) series of uninstalls. The next thing you'll need is the unlocked .bin file, which is available at the xda-developers forum link below. From there it's just a simple process of making a few shortcuts and a few clicks. Again, it's all detailed here, so make with the download and then get with the clicking and have a look for yourself at the future!
+
+       
+
+ 

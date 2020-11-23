@@ -1,0 +1,5 @@
+
+ Even as RFID tech grows more and more ubiquitous, fears about its safety and security haven't dwindled -- which is why we're just disappointed, not surprised, to learn that over 1 billion RFID cards based on the Mifare Classic RFID chip are now at risk. Two different teams of security researchers managed to crack the encryption on the cards, which form the basis of a national payment system in the Netherlands and are used widely in other applications around the world. With the encryption broken, hackers can now make perfect clones of the cards, spoiling all that radio-frequency fun. There's no word on how easy that actually is yet, however -- one of the two hacks will be demonstrated later this week, and the other is being kept secret -- but still, it might be time to go back to cash and bump-proof locks, eh?
+      
+
+ 

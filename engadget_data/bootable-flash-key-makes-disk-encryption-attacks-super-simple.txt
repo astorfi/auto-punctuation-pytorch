@@ -1,0 +1,6 @@
+
+ 
+Ruh roh, Shaggy -- you remember that disk encryption attack that involved cooling off your target's RAM and yanking it to get a bitdump before the contents faded? Well, it looks like things just got a lot simpler for would-be attackers -- check out this USB flash key designed by security researcher Robert Wesley McGrew, which can boot your machine and dump the RAM to itself without altering its contents. That means you no longer need to actually pull the DIMMs or carry around an air duster; all an attacker needs is enough time to reboot your machine and copy the contents of your RAM. Of course, that takes time -- McGrew says things are running quite slowly right now, but he suspects his test machine is dropping down to USB 1.0 speeds. That's still not too reassuring -- looks like we'll be spending even more time with our machines from now on.[Via Hack a Day]
+      
+
+ 

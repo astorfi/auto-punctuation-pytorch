@@ -1,0 +1,10 @@
+
+ 
+Can't say we're surprised to hear that Apple rejected Greg Hughes' Wi-Fi Sync app. You know, the app that allows you to wirelessly sync your iPhone / iPod touch with iTunes without having to USB tether to your computer. Messing with Apple's synchronization technology is a pretty big no-no as demonstrated by Palm's webOS bluff. Here's the rejection as explained by Greg from an unnamed Apple rep over the phone: 
+"While he agreed that the app doesn't technically break the rules, he said that it does encroach upon the boundaries of what they can and cannot allow on their store. He also cited security concerns."
+ So while you won't find it in Apple's App Store, it's available now on Cydia for a cool $9.99. You have jailbroken your device haven't you? Don't make us get all MuscleNerd up in here.
+
+Update: An Apple spokeswoman contacted us to clarify that the rejection was the result of security issues and "technical issues including reading and writing outside of the app's container." So there.
+      
+
+ 

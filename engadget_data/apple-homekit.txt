@@ -1,0 +1,8 @@
+
+We heard it was coming, and here it is: Apple's smart home platform. Taking the stage in sunny San Francisco, Apple's Craig Federighi announced HomeKit: Cupertino's solution for the connected home. Don't expect to pick up a unified automation system at your local Apple Store, though -- the firm's foray into the field is a communication standard, not a product. Federighi describes HomeKit as a "common network protocol with secure networking to ensure only your iPhone can open your garage door or unlock your door."
+
+
+
+The wireless protocol is designed to securely pair individual or group devices with your mobile device -- and it works with Siri, too. "You could say things like 'get ready for bed,'" Federighi explains, and HomeKit will automatically dim your lights, lock your doors and lower the thermostat. Apple says it's working with "leaders" in home automation to make HomeKit a secure and robust wireless protocol. Hopefully, we'll hear more about the platform soon.
+
+

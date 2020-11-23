@@ -1,0 +1,5 @@
+
+       That iPhone firmware leaked this week? Well, as found on the iPhone Dev Wiki it's been cracked open, its files laid bare, and deep within the system one can find four very special, very telling files:Default_CARRIER_ATT.pngDefault_CARRIER_CINGULAR.pngDefault_CARRIER_TMOBILE.pngDefault_CARRIER_VODAFONE.pngWe know AT&T / Cingular have a 5-year exclusivity agreement on the iPhone in the US, but if this doesn't make clear Apple's plans to launch on Vodafone (presumably for UK and much of Europe) and T-Mobile (presumably for Germany) we don't know what does.P.S. -Sorry, those iPhone images are encoded all funny (something about flipped R and B pixels?), we couldn't get 'em working. Anyone with some hacking skills want to make 'em readable for us?P.P.S. -Apple can stop calling the iPhone's browser "Safari" now, we know they differentiated by calling it MobileSafari.app in the iPhone (and it's only 640KB, oddly).[Via Hackintosh]
+      
+
+ 

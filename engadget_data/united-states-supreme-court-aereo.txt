@@ -1,0 +1,39 @@
+
+In a precedent-setting decision, the United States Supreme Court ruled today that Aereo is in violation of US copyright law. The decision states that Aereo's use of tiny antennas hooked up to cloud DVR technology violates the right of companies producing broadcast content. Specifically, the decision says that Aereo's business violates the 1976 Copyright Act; the act states that individuals or businesses are violating copyright if:
+
+
+
+1: perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
+2: to transmit or otherwise communicate a performance or display of the work ... to the public by means of any device or process, whether the members of the public are capable of receiving the performance or display receive it in the same place or in separate places at the same time or at different times
+
+
+
+In the case of Aereo, the Supreme Court says the company's service is tantamount to "a performance or display of the work."
+
+
+Update (6/28): As of 11:30AM ET today, Aereo has "paused" its service, and is refunding subscribers for their last paid month.
+
+
+
+The decision is backed up by the Supreme Court's history with cable companies. In 1976, the Copyright Act deemed the rebroadcast of airwave-based television via cable a performance. As a result, cable companies had to pay broadcast networks for access to content. Today's ruling states that Aereo is essentially in the same boat as cable TV companies. "Aereo's activities are substantially similar to those of the [cable television] companies that Congress amended the Act to reach," Associate Justice Stephen Breyer writes.
+
+Aereo's argument was that, since it only rebroadcasts shows that its users choose and save on customer-assigned DVR machines, its users were retransmitting/performing. More simply: each Aereo subscriber is assigned an individual DVR machine and antenna. Since each user must choose what they watch (unlike cable, which is a feed of every channel all the time), Aereo argued that it's not a rebroadcaster, but its users are (which is legal). Instead, Aereo thinks of itself as a hardware provider. That hardware (DVR machines and antennas) provide a service. Associate Justice Breyer disagrees: "We conclude that Aereo is not just an equipment supplier and that Aereo 'perform[s].'"
+
+The nine Supreme Court justices were split six to three, with justices Breyer, Roberts, Kennedy, Ginsburg, Sotomayor and Kagan in favor, while justices Thomas, Alito and Scalia were against. Justice Scalia wrote the dissenting opinion of the court.
+
+Update: Cablevision, a Northeast US cable company, offered the following statement on today's ruling:
+
+"We are gratified that the Court's decision adopted a sensible middle ground, holding that unlicensed retransmission services like Aereo violate the copyright law, while protecting consumer-friendly, cloud-based technologies, such as RS-DVR. The real winner today is the consumer who will continue to benefit from future innovation."
+
+Cablevision was in a particularly awkward situation with regards to the case, as it previously battled similar copyright law to keep selling its cloud DVR technology. As the statement above notes, Cablevision is particularly pleased with today's ruling because it both pushes against Aereo's business model (which competes with cable TV) and provides space for services like cloud DVR to exist.
+
+Update 2: The National Association of Broadcasters (NAB), which serves as the mouthpiece for the broadcast companies which sued Aereo, issued a statement regarding today's ruling as well:
+
+"NAB is pleased the Supreme Court has upheld the concept of copyright protection that is enshrined in the Constitution by standing with free and local television. Aereo characterized our lawsuit as an attack on innovation; that claim is demonstrably false. Broadcasters embrace innovation every day, as evidenced by our leadership in HDTV, social media, mobile apps, user-generated content, along with network TV backed ventures like Hulu.Television broadcasters will always welcome partnerships with companies who respect copyright law. Today's decision sends an unmistakable message that businesses built on the theft of copyrighted material will not be tolerated."
+
+Update 3: Aereo itself has finally issued a statement. It's a long one, but here it is in full:
+
+"Today's decision by the United States Supreme Court is a massive setback for the American consumer. We've said all along that we worked diligently to create a technology that complies with the law, but today's decision clearly states that how the technology works does not matter. This sends a chilling message to the technology industry. It is troubling that the Court states in its decision that, 'to the extent commercial actors or other interested entities may be concerned with the relationship between the development and use of such technologies and the Copyright Act, they are of course free to seek action from Congress.' (Majority, page 17) That begs the question: Are we moving towards a permission-based system for technology innovation?"Consumer access to free-to-air broadcast television is an essential part of our country's fabric. Using an antenna to access free-to-air broadcast television is still meaningful for more than 60 million Americans across the United States. And when new technology enables consumers to use a smarter, easier to use antenna, consumers and the marketplace win. Free-to-air broadcast television should not be available only to those who can afford to pay for the cable or satellite bundle."Justice Scalia's dissent gets its right. He calls out the majority's opinion as 'built on the shakiest of foundations.' (Dissent, page 7) Justice Scalia goes on to say that 'The Court vows that its ruling will not affect cloud-storage providers and cable television systems, seeante, at 16-17, but it cannot deliver on that promise given the imprecision of its results-driven rule.' (Dissent, page 11)"We are disappointed in the outcome, but our work is not done. We will continue to fight for our consumers and fight to create innovative technologies that have a meaningful and positive impact on our world."
+
+Supreme Court rules against Aereo. Thoughts? 
+

@@ -1,0 +1,12 @@
+
+One of the more popular cyberattack peddlers just came crashing down. Israeli law enforcement has arrested Yarden Bidani and Itay Huri as part of an FBI investigation into their alleged control of vDOS, one of the most popular paid attack platforms. According to information unearthed by security guru Brian Krebs from a third-party hack targeting vDOS, the two teens raked in at least $618,000 launching "a majority" of the distributed denial of service campaigns you've seen in recent years. The platform itself is also offline, although that's due to one of vDOS' victims (BackConnect Security) using a bogus internet address claim to stem the flood of traffic hitting its servers.
+
+
+
+Bidani and Huri weren't exactly careful about covering their tracks, Krebs says. The pair hosted vDOS on a server connected to Huri, and its email and SMS notifications pointed to the two. They even wrote a technical paper on DDoS attacks, while Bidani's old Facebook page references the AppleJ4ck pseudonym he used to conduct vDOS business. And if that weren't enough, vDOS refused to target any Israeli site since it was the owner's "home country."
+
+Both suspects are out on bail, although they won't have much freedom. Officials have placed them under house arrest for 10 days, confiscated their passports and barred them from using any telecom devices for 30 days. It's unclear if they face extradition to the US.
+
+The bust isn't going to stop paid denial of service attacks. As Bidani and Huri demonstrated, it doesn't take much more than a botnet and some basic business savvy to get started. However, it may put a temporary dent in the volume of those attacks -- and it'll certainly spook vDOS competitors who've been careless about hiding their activities.
+
+

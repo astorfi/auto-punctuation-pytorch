@@ -1,0 +1,19 @@
+
+After existing Open Internet, or net neutrality, regulations were struck down in court earlier this year, it appears the FCC is ready to come back with new ones. Re/code reports Chairman Tom Wheeler confirmed they will be on the table at an agency meeting May 15th. While that report indicates the rules will be the same, but justified under a different part of the law, the Wall Street Journal's sources say that new rules will be proposed tomorrow, with at least one notable change. According to the rumor, the new net neutrality rules will still bar ISPs from blocking certain sources over the last mile, but will allow them to sell special access to others. It sounds like the type of "managed connection" that Comcast, for example, is using to distribute video on-demand to its Xbox 360 app.
+
+
+Update: The FCC has issued a statement, calling reports that it will gut the Open Internet rule "flat out wrong" and saying there is no turnaround in policy, and behavior that harms consumers or competition will not be permitted. A report in the Associated Press mentions that deals between ISPs and service providers were possible under the old rules but frowned upon, but the new rules will establish actual standards for them, added so it can survive a court challenge in the future. We'll find out exactly what there is tomorrow when the draft is posted, but before that consumer advocacy groups like Public Knowledge and Free Press are already speaking out on the matter.
+
+
+
+This would still leave network peering agreements like the one reached by Netflix and Comcast unaffected, but it appears ISPs could charge services for access to a clear pipeline to customer's homes. The proposed rules would leave such changes up to the FCC to determine if they were "commercially reasonable" for all sides on a case-by-case basis. Reed Hastings called out Comcast's plans two years ago, if this proposal ends up on the table we wouldn't be surprised to see a Facebook note from him again.
+
+The report goes on to state that the rules will allow "some forms of discrimination" which combined with the special access is enough to anger any supporter of fully open net neutrality. It also won't reclassify internet access as a public utility, which would probably mean tighter regulation. One upside of the new rules could be greater disclosure requirements for broadband providers for details about speed and congestion over their last mile, although as FiOS subscribers watching Netflix buffer can attest -- that doesn't tell the whole story.
+
+FCC:
+There are reports that the FCC is gutting the Open Internet rule. They are flat out wrong. Tomorrow we will circulate to the Commission a new Open Internet proposal that will restore the concepts of net neutrality consistent with the court's ruling in January. There is no 'turnaround in policy.' The same rules will apply to all Internet content. As with the original Open Internet rules, and consistent with the court's decision, behavior that harms consumers or competition will not be permitted.
+
+"There are reports that the FCC is gutting the Open Internet rule. They are flat out wrong." Statement from FCC. pic.twitter.com/C7o8IuV9W7
+- Farhad Manjoo (@fmanjoo) April 24, 2014[Image credit: Associated Press]
+
+

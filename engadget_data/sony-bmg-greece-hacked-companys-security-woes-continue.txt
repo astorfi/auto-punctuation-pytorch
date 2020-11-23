@@ -1,0 +1,7 @@
+
+ 
+
+It's the security nightmare that just won't end, and right now there's got to be plenty of Sony executives beginning to wish someone would pinch them already. After taking quite a PR and financial beating over the PSN breach, now the Greek site of Sony BMG has been hacked and the account info of thousands of users has been posted online. According to the Sophos blog Naked Security, the attack does not appear to have been particularly sophisticated and was carried out using an automated SQL injection tool that demands more patience than skill. While the data dump reveals the usernames, real names, and email addresses of registered SonyMusic.gr customers, other fields (including passwords and telephone numbers) are either empty or contain fake data -- suggesting the hack was not entirely successful. Here's hoping Sony takes this as an opportunity to seriously baton down those security hatches.
+      
+
+ 

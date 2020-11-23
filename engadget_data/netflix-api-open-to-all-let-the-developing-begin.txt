@@ -1,0 +1,6 @@
+
+ 
+Good news, developers of the world -- the Netflix API will be open to all starting tomorrow. As of October 1st, absolutely anyone can self-signup by visiting the read link, and while details are a tad sketchy at the moment, it sounds like this could hold some serious promise. The API itself allows access to data for 100,000 movie and TV episode titles, is completely free and (most importantly) allows commercial use. In other words, it's kosher if a bright developer out there somewhere feels like "creating an iPhone app to sell for $0.99 (Netflix's words, not ours)." On the technical side, the API includes a REST API, Javascript API and ATOM feeds, and it also uses OAuth standard security "to allow the subscriber to control which applications can access the service on his or her behalf." It's time to get creative, folks.
+      
+
+ 

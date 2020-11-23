@@ -1,0 +1,6 @@
+
+ 
+Ah, the joy of getting something for nothing -- that's what this time of year is all about, right? The techPowerUp! guys seem to think so, and they've got the perfect gift for all you thrifty PC gaming enthusiasts: a BIOS flash for the Radeon HD 6950 that unlocks the full potential of its hardware (in other words, it turns it into an HD 6970). We already knew the two retail SKUs were built on the same Cayman core, but this hack confirms that all the 6950's performance handicaps have been enacted in software rather than hardware, leaving you all to flip a switch, click a few confirmatory dialogs, and get your game on. You should be aware that the retail 6970 card uses an 8-pin and a 6-pin connector for its auxiliary power whereas the 6950 only has a pair of 6-pin intakes, which might cause trouble under extreme loads, and there's also the fact that you'll most likely be hacking your warranty away together with your GPU's limitations. But hey, you can't make eggnog without cracking a few eggs.
+      
+
+ 

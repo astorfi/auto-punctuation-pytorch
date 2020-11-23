@@ -1,0 +1,24 @@
+
+
+The biggest news to come out of Google's developer-focused I/O conference isn't Android TV or even the several new Android Wear smartwatches; it's that Android is about to become much more than a mobile operating system. It's about to consume your life.
+
+
+With the introduction of the Android L platform (as the next version of that operating system's tentatively being called), Google wants to be a part of everything you do -- with technology, at least. Whether it's swiping through Google Now on your smartphone, dismissing notifications on your smartwatch, using voice search to find a movie on Android TV or searching for a cafe on your in-car display, Android will follow you everywhere. And while features like universal sync across devices and voice commands will likely make your life easier, Google's getting something pretty significant in return: access to nonstop streams of your personal data and search history. In short, it's pretty clear that the "L" stands for "Life."
+
+
+ 
+
+Android L is a functional overhaul of Google's ecosystem disguised as an aesthetic face-lift.Android L, which will soon make its way into developers' hands, is a functional overhaul of Google's ecosystem disguised as an aesthetic face-lift. The new OS gets a makeover courtesy of Material Design; a new look that incorporates floating elements and transition animations for a more engaging experience across Android, Chrome OS and the web. Along with that glossy new façade, though, comes the true innovation at the core of Android L's master plan: features that unite your life across your phone, smartwatch, desktop and more. Here's a taste of how L will streamline things: Android notifications, such as calls and text messages or even low-battery alerts, will show up on your Chromebook when your smartphone is nearby. (Incidentally, Apple announced similar functionality for OS X Yosemite at WWDC earlier this month.)
+
+
+Sundar Pichai shares Google's vision for taking Android L beyond mobile.Early on during the Google I/O keynote, SVP Sundar Pichai laid out what's essentially the company's new mission statement: "We worked together -- Android, Chrome and across all of Google -- to craft one consistent vision for mobile, desktop and beyond." So instead of getting windows into Google's world via Android on your smartphone and services such as Google Docs, everything will fall under the omnipresent umbrella of L. Your search history and contextual info from Google Now will follow you virtually everywhere -- even to the living room and your car if Google has its way -- and truthfully the unified system offers plenty of perks. Beyond syncing settings and notifications, you'll even be able to unlock your phone just by wearing your Android Wear watch -- no PIN or lock screen pattern required.
+
+The convenience factor here is nice, but it's also just plain neat to see Google-powered devices acknowledging each other in new, interesting ways. A few years down the line, this feature could evolve into unlocking your front door with Android@Home, or even auto-resuming a playlist from your smartphone in your Android-ready car.
+
+It's a case of digital convenience intentionally breeding laziness.If you're already using Google services, Android L's deeper cross-device ties likely won't scare you away. After all, the company already knows quite a bit about anyone with a Google account and search history. But even if we're okay with this omnipresence in our personal lives, Google's step into the enterprise space blurs the lines uncomfortably. Baked into Android L is Android for Work, a BlackBerry Balance-style technology that keeps your work and personal accounts separate and secure on the same device. Google really doesn't want you using a separate, non-Android phone for work, and by protecting sensitive enterprise data, it hopes to keep you from leaving its search-lined world.
+
+
+A slide from the I/O conference highlighting Google's Android everywhere philosophy.Android L's clearly a bid to make Google into a way of life, but we shouldn't be too surprised by that. This is Google operating as usual; this is a search company making a very public play for our data, albeit under the guise of efficiency for the end user. Effectively, it's a case of digital convenience intentionally breeding laziness. And, really, when the walls between mobile, desktop and wearable no longer exist -- when it's one uninterrupted Google ecosystem, who would ever want to leave?
+
+
+ 

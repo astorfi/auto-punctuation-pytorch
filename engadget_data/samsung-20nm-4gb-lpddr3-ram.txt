@@ -1,0 +1,23 @@
+
+What is it that you want to know about the RAM in your mobile device? Usually, how much of it there is, and if you're a little more demanding of your hardware, maybe what type it is, too. Well, folk in the latter category might be interested to know that Samsung has started production of 20nm 4Gb LPDDR3 mobile DRAM. As is the nature of smaller, more efficient components, the new chips promise to be faster (2,133 Mbps per pin, over LPDDR2's 800 Mbps), and -- so claims Samsung -- a 20 percent drop in power consumption. With just four of these new chips, OEMs can have a 2GB offering that's still just a slick 0.8mm in height.
+
+
+
+Show full PR textSamsung Now Producing Four Gigabit LPDDR3 Mobile DRAM, Using 20nm-class* Process Technology
+SEOUL, South Korea--(BUSINESS WIRE)--Samsung Electronics Co., Ltd., the world leader in advanced memory technology, today announced the industry's first production of ultra-high-speed four gigabit (Gb) low power double data rate 3 (LPDDR3) mobile DRAM, which is being produced at a 20 nanometer (nm) class* process node.
+
+"Our 20nm-class four gigabit mobile DRAM provides another example of our ability to deliver well-differentiated, high-performance, high-density memory to customers in a timely manner."The new 4Gb LPDDR3 mobile DRAM enables performance levels comparable to the standard DRAM utilized in personal computers, making it an attractive solution for demanding multimedia-intensive features on next-generation mobile devices such as high-performance smartphones and tablets.
+
+"By providing the most efficient next-generation mobile memory with a very large data capacity, we are now enabling OEMs to introduce even more innovative designs in the marketplace," said Young-Hyun Jun, executive vice president, memory sales & marketing, Samsung Electronics. "Our 20nm-class four gigabit mobile DRAM provides another example of our ability to deliver well-differentiated, high-performance, high-density memory to customers in a timely manner."
+
+The 4Gb LPDDR3 can transmit data at up to 2,133 megabits per second (Mbps) per pin, which is more than double the performance of the preceding memory standard mobile DRAM (LPDDR2) with a data transmission speed of 800Mbps. This makes it possible to transmit three full HD videos, collectively 17 Gigabytes (GBs) in length, in one second over the new Samsung chip embedded in a mobile device.
+
+Samsung's 20nm-class LPDDR3 mobile DRAM enables seamless display of full HD video on smartphones with five inch-or-larger screens. In comparison to a 30nm-class LPDDR3 DRAM, the new device generates more than a 30 percent improvement in performance and 20 percent savings in power consumption.
+
+While mobile gadgets continue to scale down in height, battery packs have been increasing in size. By adopting Samsung's 4Gb LPDDR3 mobile DRAM, OEMs can have a 2GB package that includes four of Samsung's new chips in a single package that meets the memory package height of 0.8 millimeters (mm).
+
+Representing a major growth factor in the DRAM market, Samsung plans to increase production of its advanced 20nm-class mobile DRAM later this year, solidifying its competitiveness as a memory industry leader.
+
+According to market research firm, Gartner, the DRAM market is forecast to grow by 13 percent year-over-year to reach $29.6 billion (US) in 2013, with mobile DRAM to exceed $10 billion in sales, for 35 percent of the total DRAM market.
+
+

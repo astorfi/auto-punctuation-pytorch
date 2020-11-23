@@ -1,0 +1,41 @@
+
+Amazon, having extended far beyond the realm of book selling into the world of tablets and online marketplaces, is reaching ever further in its latest effort: "Login and Pay with Amazon." The new service does exactly what it sounds like, allowing online businesses to implement a login/pay system using existing Amazon accounts.
+
+
+For Amazon, that means a (unknown) cut in the sales margin by acting as middleman. For businesses, it means an easy implementation of a widely used system (a "set of widgets and APIs" are all that's needed to get the pay service running on your site). And for customers -- all 215 million active Amazon account holders -- it means their Amazon login will now work across the web (where implemented, that is). Interested parties can head right here to get started, and readers looking for the dirt straight from Amazon can head below the official PR.
+
+
+
+Show full PR textAmazon Launches 'Login and Pay with Amazon' for a Seamless Buying ExperienceCompanies can Enable Amazon Customers to Simply Login and Pay Using their Amazon Credentials
+
+Login and Pay with Amazon Gives Companies the Ability to Make Amazon Customers Their Customers
+
+SEATTLE--(BUSINESS WIRE)--Oct. 8, 2013-- (NASDAQ: AMZN) -- Today, Amazon released a new service that streamlines how customers transact with online merchants. Login and Pay with Amazon allows participating companies to empower customers to go from browsing to buying in just a few clicks using their Amazon account information.
+
+"Amazon has more than 215 million active customer accounts," said Tom Taylor, Vice President, Amazon Payments. "Login and Pay with Amazon enables companies to make millions of our customers their customers by inviting online shoppers with Amazon credentials to access their account information safely and securely with a single login."
+
+Companies encourage their customers to create an online account in order to offer a personalized buying experience. Buyers want the advantage of creating an account to save purchase preferences when shopping online1, but the majority are bothered by the hassle of registering on a website2. Increasingly, they choose to shop on sites that offer frictionless online payment options to take advantage of stored information3. That is why Amazon is introducing a solution where buyers can both login and pay on any participating site using their Amazon credentials. This allows online merchants to create long-term relationships with more customers. Login and Pay with Amazon helps replace guest checkouts with recognized customers, leading to improved services which could include: managing and tracking orders, purchase history detail, special discounts, instant access to shipping addresses and payment methods.
+
+"So far, the consumer adoption rates that we've been seeing with Amazon Payments have exceeded our expectations and we're excited to see the results once we start offering our customers the bundled solution of Login and Pay with Amazon towards the end of this year," said Ash ElDifrawi, Gogo's chief commercial officer. "We know that Amazon buyers are highly satisfied with their payment experience on Amazon. We also know through our research that Gogo users want alternative methods of payment. By offering Amazon Payments, we are providing Amazon customers an easy way to pay for Internet access on Gogo."
+
+Login and Pay with Amazon works seamlessly on tablet, mobile, and desktop devices. Online merchants get simple, low pricing for payment services and fraud protection from Amazon at no extra fee. Amazon does not share the customers' credit card information, and purchases are covered by Amazon's A-to-z Guarantee, offering buyers the transaction protection they receive when purchasing products on Amazon.com.
+
+Developers can implement Login and Pay with Amazon with existing websites using a set of widgets and APIs to embed on the site and integrate with back-end systems. Login and Pay with Amazon uses the OAuth 2.0 protocol, which has been broadly adopted for user-authorized exchanges across sites. To learn more, go to payments.amazon.com or watch a short video here.
+
+About Amazon.com
+
+Amazon.com, Inc. (NASDAQ: AMZN), a Fortune 500 company based in Seattle, opened on the World Wide Web in July 1995 and today offers Earth's Biggest Selection. Amazon.com, Inc. seeks to be Earth's most customer-centric company, where customers can find and discover anything they might want to buy online, and endeavors to offer its customers the lowest possible prices. Amazon.com and other sellers offer millions of unique new, refurbished and used items in categories such as Books; Movies, Music & Games; Digital Downloads; Electronics & Computers; Home & Garden; Toys, Kids & Baby; Grocery; Apparel, Shoes & Jewelry; Health & Beauty; Sports & Outdoors; and Tools, Auto & Industrial. Amazon Web Services provides Amazon's developer customers with access to in-the-cloud infrastructure services based on Amazon's own back-end technology platform, which developers can use to enable virtually any type of business. Kindle Paperwhite is the world's best-selling and most advanced e-reader. It features new display technology with higher contrast, the next generation built-in light, a faster processor, the latest touch technology, and exclusive new features designed from the ground up for readers. Kindle, the lightest and smallest Kindle, features improved fonts and faster page turns. The new Kindle Fire HDX features a stunning exclusive 7" or 8.9" HDX display, a quad-core 2.2 GHz processor, 2x more memory, and 11 hours of battery life, as well as exclusive new features of Fire OS 3.0 including X-Ray for Music, Second Screen, Prime Instant Video downloads, and the revolutionary new Mayday button. The all-new Kindle Fire HD includes an HD display, high-performance processor and dual speakers at a breakthrough price.
+
+Amazon and its affiliates operate websites, including www.amazon.com, www.amazon.co.uk, www.amazon.de, www.amazon.co.jp, www.amazon.fr, www.amazon.ca, www.amazon.cn, www.amazon.it, www.amazon.es, www.amazon.com.br, www.amazon.in, and www.amazon.com.mx. As used herein, "Amazon.com," "we," "our" and similar terms include Amazon.com, Inc., and its subsidiaries, unless the context indicates otherwise.
+
+Forward-Looking Statements
+
+This announcement contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Actual results may differ significantly from management's expectations. These forward-looking statements involve risks and uncertainties that include, among others, risks related to competition, management of growth, new products, services and technologies, potential fluctuations in operating results, international expansion, outcomes of legal proceedings and claims, fulfillment and data center optimization, seasonality, commercial agreements, acquisitions and strategic transactions, foreign exchange rates, system interruption, inventory, government regulation and taxation, payments and fraud. More information about factors that potentially could affect Amazon.com's financial results is included in Amazon.com's filings with the Securities and Exchange Commission, including its most recent Annual Report on Form 10-K and subsequent filings.
+
+1 50 percent of buyers consider it important to 'create an account' to save purchase preferences when shopping online. Source: Comscore 2013
+
+2 Eight-six percent of consumers are bothered by registering at a website. Source: Blue Research 2013
+
+3 Source: Javelin Strategy & Research, 5th Annual Online Retail Payments Forecast 2012-2017
+
+

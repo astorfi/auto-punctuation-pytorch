@@ -1,0 +1,5 @@
+
+ 
+We're expecting a ton of new laptops to support hybrid graphics thanks to chipsets like NVIDIA's soon-to-be-ubiquitous GeForce 9400M, but Microsoft isn't as enamored with hybrid graphics as most everyone else seems to be -- it says it won't be natively supporting them in Windows 7. In a just-released document titled Guidelines for Graphics in Windows 7, the company discourages manufacturers from shipping systems with hybrid graphics like ATI's CrossFire and NVIDIA's Hybrid SLI, claiming they're "unstable and provide a poor user experience." Oh, snap. One less reason to install Windows 7 on your MacBook Pro, eh wot?
+
+ 

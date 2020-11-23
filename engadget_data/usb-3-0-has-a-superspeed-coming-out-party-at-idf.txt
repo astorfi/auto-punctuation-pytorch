@@ -1,0 +1,10 @@
+
+ 
+The world better be ready for SuperSpeed USB 3.0, cause it's coming, baby -- and by the looks of things at IDF, it's coming soon. Intel's "USB Community" pavilion is filled with SuperSpeed tech from a variety of companies, and while some of the demos are happening on crazy Frankenstein rigs, there's a bunch of stuff here that's basically ready to ship, including controller chips from NEC and Fujitsu, which are the heart of the whole shebang. Of course, while lightning-fast SSD transfers are nice, the showiest product on the floor is Point Grey's prototype HD camera here, which streams uncompressed 1080p video over USB 3.0 -- it's not a final product, but it's apparently quite close. Yes, we know the gallery below is basically cable porn, but here are the facts: USB 3.0 is 10x faster than 2.0 while using less power, and it's entirely backwards-compatible, since the five 3.0 pins in the connector have been cleverly engineered to sit above the four legacy 2.0 pins. If that doesn't get you dreaming of hard drives for the holidays, well, we don't know what will. Video after the break!
+
+
+
+
+
+ 
+ 

@@ -1,0 +1,73 @@
+
+Jon Shiring, Respawn engineer
+
+
+
+When in the development cycle did the relationship between Microsoft and Respawn form?
+
+Early on, we were trying to figure out what game we were trying to make. We had a good relationship with people at Microsoft from working on Call of Duty, so we got in touch with them. I was pushing really hard on dedicated servers for all platforms. I talked to Microsoft about that, and I talked to Sony as well. Microsoft got really interested in that idea, and that was pretty early on. I'd say I started to nudge them in late 2010. It was really 2011 when we were coming at Microsoft like, "What can you do? We can't afford this, but we want to have dedicated servers for everything because we're trying to do new and interesting things."
+
+
+Did you get the feeling that this was something it already had in mind?
+
+The feeling I got from it is that we kind of brought it up and they came back with an idea of how to do it because they weren't originally planning to do it. At the time, I think they were looking for interesting things to do for the Xbox One; they were trying to get a bearing on what would be a new, interesting way for Live to go. We hit them at the right time.
+
+
+How intrinsic is Azure to Titanfall?
+
+Having these servers with a significant amount of CPU power and bandwidth available is absolutely essential to our game: Having these machines that are regional and servers that have good ping -- that's huge. That completely changes the way we make games. Really, the biggest thing with that is that it has uncapped our designers and let them do things that were previously impossible to do. That far back, we were letting the designers run and just do whatever was cool and it was really, really key to making Titanfall what it is right now.
+
+
+What will a player notice that's different between Titanfall and another game that's using dedicated servers?
+
+There are other games like Battlefield that have dedicated servers, but they haven't gone in the same direction that we have with them, though. We have all of this AI and things flying around in the world; that has obviously let us build a different game than we would have if we'd have gone in with the constraints of it having to be player-hosted. All of these things that make it a much more lively world are actually the really big win.
+
+
+With all the platforms that are using Azure (PC, Xbox 360 Xbox One), was cross-platform play ever considered?
+
+Not really. Mostly, the reason for that is with the 360 version -- we're not developing it. My expectation (and this is an engineering answer) is that we're going to be patching all of these but we're not going to be the ones doing the patching on 360. We could get ourselves into a very bad spot where if we patched all the servers, the 360 people couldn't play for a while until Bluepoint (the studio behind the Xbox 360 version) applies the patch and gets it through cert. Just on a purely practical level with three different methods of getting a patch out there, it's not going to work.
+
+
+Just on a purely practical level with three different methods of getting a patch out there, it's [cross-platform play] not going to work.
+Then there [are] a lot of other problems you get, like if you were playing against a PC guy and you were looking at his player info. He's not on Xbox; I can't bring up the Origin info for him; you can't add him as a friend and send an invite to him. It's not one huge technical thing stopping us; it's a lot of little ones.
+
+
+What does the connection flowchart look like from a user's network access point to the servers? With Azure coming in, it seems like a chance for more ping or latency. 
+
+In a traditional player-hosted game, you're still connecting to the player acting as a host, but you have to punch through all these networks to get there. I'm kind of getting into the gears here, but what I've found is that a lot of the latency in consumer broadband is at the edges: Getting to another user is a lot slower than getting to a hub and back again.
+
+
+Since we're talking to these servers in big regional data centers, the latency is a lot lower than what you would get if [the connection] was exactly the same, except it was a consumer on the other end of that pipe. We have somewhere around a 19ms to 20ms ping to this data center and it's up in San Francisco [from LA]. We're talking barely more than one rendering frame to get a message to the server and back again, which is outstanding. It has a lot of wins.
+
+
+Longterm, what kind of benefits do you think consumers will reap with the groundwork that Respawn has laid?
+
+Back when we started talking to Microsoft about it, everyone thought it was kind of crazy and a lot of publishers were terrified of even doing it. I've heard that since our beta, they've been pounding down the doors at Microsoft because they're realizing that it really is a real thing right now. We can scale high, and, if you do it right, the experience can be awesome. Working with Microsoft is great, but we're kind of taking a bullet with doing the pain of proving that it'll scale up, and finding bugs that every system has at launch.
+
+
+After Titanfall comes out, we're just going to have a lot more confidence that the early system-type problems are solved. From then on, it's probably a simpler solution than building something yourself. My expectation is that within a few years, this will be the new normal. Not necessarily Azure specifically, but a centralization of the hosting so it'll be big systems that are being used rather than all of these homegrown things that people have done in the past.
+
+
+At the Xbox One's reveal, Microsoft said the new Xbox Live has 300,000 dedicated servers, how many does Respawn have access to?
+
+We're trying to figure out how many people will be playing and trying to make sure the servers will be there for that. One of the really nice things about it is that isn't my problem, right? We just say [to Microsoft] here are our estimates, aim for more than that, plan for problems and make sure there are more than enough servers available.
+
+
+To go back to your development experience, how has Respawn's approach to multiplayer changed since Call of Duty?
+
+We're still client/server, but we re-approached every problem and solved it in a new way. Some of the high-level stuff matches up, like the client/server and the service that connects the clients, but everything else is very different from a network architecture standpoint. I've been making multiplayer games (Call of Duty 2, Call of Duty 4, Modern Warfare 2) for a long time. A lot of it is just people here and even people at EA having faith in us that we know what we're doing. That has led us to things that were new, different and crazy.
+
+
+What's the contingency plan in case the servers start melting?
+
+This is one of the things we made ourselves deal with during the beta. The way it ends up working is that peak time in Europe is going to be much ahead of the US. We moved some Europeans over to East Coast US data centers, which is not ideal, but it at least let them play. We don't look forward to doing that at all, but if we have a bunch of people sitting unable to play the game, then we're going to make sure that the experience is good enough -- maybe not ideal -- to get them playing.
+
+
+We do have capacity at these other data centers that are a little bit farther away. If we have a situation like that, that's going to be my fault. If we fill up every data center out there, then we'll be there at Microsoft -- they'll know the whole time that they need to bring more servers online.
+
+
+When Forza Motorsport 5 launched, it used Azure for the Drivatar system. By all accounts it shouldn't have worked: It was a brand-new feature running on new software using then-unproven Azure tech. If Titanfall launches successfully too, it could galvanize Azure's reputation.
+
+What I actually think will happen, is if we come out and it works great and people play the game and see that it's a really good experience, [developers] will have a lot of serious discussions about "my publisher has their own system for hosting, but I don't know if it will work. We have a lot of confidence in Azure because Titanfall did." Suddenly, the publisher solution becomes more risky than the cloud solution.
+
+

@@ -1,0 +1,6 @@
+
+ 
+The biggest challenge content providers face today is bandwidth. Their customers are demanding more HD, but their network is tapped out. There's no silver bullet, but there are multiple small solutions that all add up. SDV or Switched Digital Video, is one of those and promises to free up to 50% of the utilized bandwidth by only sending the channels that're being watched rather than all the channels, all the time. Unfortunately there's a catch, not only is SDV currently incompatible with 3rd party CableCARD hosts, but to really see the benefits, cable has to reduce the number of subscribers per node. Current service groups are around 1000, but to really take advantage of SDV, the ratio between channels and subscribers needs to be closer to 1:1; so they'd have to deploy four times as many nodes to get there. Currently providers are just doing trials with SDV, but we can expect to see it widespread in 2008. Lets just hope they get that Tuning Resolver thingy ready by then.
+      
+
+ 

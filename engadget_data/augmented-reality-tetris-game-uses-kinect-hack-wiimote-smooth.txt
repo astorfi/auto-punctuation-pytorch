@@ -1,0 +1,10 @@
+
+ 
+
+What does it take for a gaming classic to survive in a world ruled by titles like Portal 2 and Homefront? A Kinect hack, a Wiimote, and some electronic elbow grease, apparently. Trinity College student Keysosaurus -- as he's know to his YouTube pals -- has used a bit of C#, XNA, and OpenNI coding to play 3D augmented reality Tetris using Kinect body controls and a Wiimote. The Kinect gestures do most of the work, rotating the board, zooming the camera in and out, and moving the pieces into place, while the Nintendo controller is used to rotate. Video's after the break, but beware, the familiar strains of "Korobeiniki" have been replaced by smooth guitar jazz, so turn the volume up at your own risk.
+      
+
+ 
+
+ 
+ 

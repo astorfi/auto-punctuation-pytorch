@@ -1,0 +1,6 @@
+
+ 
+So, AppleInsider has some new info on Apple's successor to the A4, which we were talking up last week, and our sources say it's spot on. Specifically, AI claims that Apple is moving to dual-core SGX543 graphics, up from the A4's single SGX535 GPU (also known as the PowerVR 535). What's particularly great about this move is that the graphical power improvement is rated at around 4X the current generation -- which makes a true 4X resolution iPad "Retina Display" upgrade seem much more of a possibility. We're also starting to see 1080p HDMI video output as a "default" spec in this year's generation of devices, so there's no reason Apple will want to be left out -- particularly in the Apple TV -- and these dual graphics cores could handle that easily. The same cast of A4 characters are to credit for this new A5 generation, including the Apple-owned Intrinsity and PA Semi, while Samsung will again do the production duties. But details aside, we're just excited to play around with all this new horsepower when it hits -- apparently the PSP 2 is rumored to use the same graphics architecture with even more cores. Isn't Moore's law a grand thing?
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Even if you don't have a favored fighter in the browser wars, you have to admit Microsoft's Internet Explorer has been looking mighty unfit over the last few years. Younger and fitter contenders like Mozilla's Firefox and Google's Chrome have arguably overtaken the old stalwart, and now Microsoft is making some much-needed noise about fighting back. The software giant has been giving developers and curious journalists a very early peek into its IE 9 progress at PDC, with its stated ambitions including faster Javascript (see table above), HTML5 support, and hardware acceleration for web content. By harnessing DirectX and your graphics processor, the new browser will offer improvements in text readability and video performance, as well as taking some of the load off the CPU. Development has only just got under way, mind you, so there's still plenty of time to screw it all up. Or make it awesome.
+      
+
+ 

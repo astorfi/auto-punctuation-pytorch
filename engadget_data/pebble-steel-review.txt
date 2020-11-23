@@ -1,0 +1,32 @@
+
+Smartwatches are supposed to be pieces of jewelry that are just as personal as the smartphones they're attached to, yet rarely are they thought of as  fashionable. We've seen a handful (or is it wristful?) that are hip, ornate and sporty, but we've also admittedly endured plenty of ugly options as well. Sadly, none have successfully matched the opulence brands like Seiko, Rolex, Citizen and Victorinox are known for on the analog side. Granted, not many companies are in a position to even try this. Without a strong developer platform and guaranteed return on investment, few (if any) smart watchmakers want to take the risk.
+
+
+It makes a lot of sense, then, that a company like Pebble is taking advantage of what appears to be a completely untouched segment of the smartwatch market. In just a short year, the nascent watchmaker quickly gained the experience, resources, platform and developer support required to even try tackling such a project. The result is the $249 Pebble Steel. It's designed to be a more elegant version of the original Pebble, with few changes to overall functionality. So, have we finally found a smartwatch that you can feel comfortable showing off to your business partners on the golf course?
+
+
+
+
+
+HardwareIf you're holding out for a new Pebble with a nifty touchscreen, color display, always-listening mode or voice activation, keep waiting. The Steel isn't supposed to be a next-gen device -- it's designed to be a more expensive version of the original Pebble that appeals to consumers with more... discerning tastes. The Steel, which comes clad in CNC-machined stainless steel (type 316, if you must know), is stately, refined and classy. That's in stark contrast to the original, which we'd describe as "colorful." Sporty. Fun. Its build materials and industrial design are better than any other smartwatch we've seen, and Gorilla Glass 2 helps make the watch feel durable. The catch: The watch's dashing good looks come at a $100 premium over the original.
+
+Before we continue, we want to clarify that the Steel isn't meant to replace the year-old Pebble. It's designed to be a premium option targeted at those who'd otherwise prefer to adorn their wrists with more expensive timepieces. Together, the two watches share the same innards: They use a 1.26-inch e-paper display (with a resolution of 168 x 144), ARM Cortex-M3 CPU, 130mAh battery and waterproof design (it can withstand up to five atmospheres, or 50 meters). There are a few differences, though: The Steel adds an RGB notification light, oleophobic anti-fingerprint coating and a new charger. There's also a clever black band that wraps around the perimeter of the device and acts as an external Bluetooth 4.0 LE antenna, similar to the way Apple integrated antennas into the frame of the iPhone to improve signal attenuation.
+
+
+The original Pebble gets its sporty look from a long, curved face and recessed sides, whereas the Steel goes with a flat, squarish face and straight sides. The 39 x 36.8 x 10.25mm Steel is shorter, slightly wider and thinner than the 52 x 36 x 11.5mm Pebble, but it's also much heavier (it's 16g heavier with the leather band attached, 59g if you use the metal band). The buttons on the Steel use the same layout as its predecessor, are just a tad smaller, stick out farther from the watch and they're actually easier to press.
+
+The Steel comes in your choice of black or brushed stainless (silver), with leather and metal wristbands included in the box. The black model comes coated with a Physical Vapor Deposition (PVD) finish, which provides impact strength and resistance to abrasion; the stainless one, meanwhile, only uses PVD on the bezel. As for the straps, the black leather band is adjustable, while the stainless steel option -- my personal favorite -- has a foldable clasp and links that can easily be added or removed using a tiny screwdriver and pliers. (Each box has extra links and a small screwdriver thrown in, just in case you prefer the DIY route.) Unlike the original Pebble, you won't be able to swap out the Steel wristbands with any standard 22mm strap. You shouldn't have to wait too long for more choices, though, since Pebble's published a 3D model of the watch to make it painless for a manufacturer to produce accessories.
+
+
+The notification light is nestled in the lower-left corner of the Steel, and is currently only used for one purpose: to indicate that the device is charging. This is a useful new feature, since we always have to double-check the original Pebble to make sure the weak magnets on the charger are actually doing their job. We'd love to see this opened up to developers down the road, though.
+
+Primarily due to the new design, Pebble chose to fit the Steel with a different magnetic charger. The magnet pads are a little bigger than the ones on the original watch, which helps them stick to the device much better. On the first Pebble, we're constantly worried about the charger falling off anytime the watch vibrates from a new notification, and it often takes a few attempts to even fit it properly.
+
+Software
+Come for the fancy new hardware, stay for the fancy new software. On the surface, the Pebble's interface is the same one we've grown accustomed to over the past year, with one key difference: You can now find and download a plethora of watchfaces, games, productivity tools and other apps through a centralized app store. This is a significant improvement over the old method, which required Pebble users to endure eternal scavenger hunts through third-party websites and smartphone app stores (iOS' and Android's, to be specific) to get the best apps for their watch. The new store will be available on both Pebbles (existing Pebble owners should see a firmware update in the coming days), but this was the very first time we've had the opportunity to try it out.
+
+The setup process is simple. Before you begin, you'll need to pair the Steel with your phone using Bluetooth and then create a Pebble account (this will require entering an email address and choosing a password). The store uses this to remember your downloads and purchases, so if you have to switch devices or factory-reset your watch, you won't have to gather your apps again -- just enter your Pebble creds and all of your apps magically reappear.
+
+
+
+

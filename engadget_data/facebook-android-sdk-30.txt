@@ -1,0 +1,4 @@
+
+ Android developers seeking to piggyback on Facebook's social network hooks should find that job easier now that its SDK 3.0 is out of beta. Facebook announced that the beta was downloaded over 80,000 times already in six weeks, and brings a slew of new features to the platform, just as it launches an improved version of its official app. Just like its counterpart on iOS, 3.0 lets users easily log into and authorize ties with their Facebook account without leaving the app they're in, select and find friends who are also using said app, and select profile pics from their albums. Another feature that will be key for its relationships with developers is the ability to measure clicks and installs for mobile app install ads. If you've deactivated your account and / or are wary of the network's growing influence across different outlets they may seem like more reasons to stay away, but interested developers have about a billion reasons to give it a shot.
+
+

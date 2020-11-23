@@ -1,0 +1,8 @@
+
+ While rumors swirl of an impending Penryn delay, DigiTimes is reporting on a spate of new 45-nm Penryn processors set to launch in May. The new procs support Intel's 5th generation Centrino platform with optional WiMAX integration dubbed Montevina. Right, the 40% smaller successor to Santa Rosa. That lines up with earlier rumors mumbled back in August. Of the 15 new processors, 7 CPUs are destined for laptops while 8 of the procs feature a smaller 22-mm package size for subnotebooks and ultra-portables. Sorry, not MIDs, those are waiting for Intel's Menlow-platform based on the 45-nm Silverthorne CPU. Got it? Good. Now feel free to click-through for all the rumored techno-gore you can stomach this early in the morning.
+      
+
+ 
+
+35-mm package size with 1,066MHz FSB: Core 2 Extreme QX9300 with 12MB L2 cache and TDP of 45W (unknown clock) Core 2 Extreme X9100 (3.06GHz, 6MB L2 cache and TDP of 44W) Core 2 Duo T9600 (2.8GHz, 6MB and 35W) T9400 (2.53GHz, 6MB and 35W) P9500 (2.53GHz, 6MB and 25W) P8600 (2.4GHz, 3MB and 25W) P8400 (2.26GHz, 3MB and 25W)22-mm package size: SP9400 (2.4GHz, 6MB, 25W, 1,066MHz FSB) SP9300 (2.26GHz, 6MB, 25W, 1,066MHz FSB) SL9400 (1.86GHz, 6MB, 17W, 1,066MHz FSB) SL9300 (1.6GHz, 6MB, 17W, 1,066MHz FSB) SU9400 (1.4GHz, 3MB, 10W, 800MHz FSB) SU9300 (1.2GHz, 3MB, 10W, 800MHz FSB) U3300 (1.2GHz, 3MB, 5.5W, 800MHz FSB) Celeron 723 (1.2GHz, 1MB, 10W, 800MHz FSB)
+ 

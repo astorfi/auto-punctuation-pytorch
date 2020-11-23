@@ -1,0 +1,30 @@
+
+As the first Firefox OS smartphone, the ZTE Open is an ambassador for its platform: it's built to prove that web apps can do the hard work of their native equivalents. It's also geared toward first-time smartphone owners with its simple interface and an $80 unlocked price. This combination of open, standards-based software and affordable hardware sounds like a dream for both developers and newcomers alike. But is that how it works in practice? Read our review and you'll find out. 
+
+
+
+
+
+Hardware
+The design of the Open is an exercise in minimalism. A close cousin of the Android-based Kis III, it feels like a large, smooth pebble -- albeit one covered in soft-touch plastic. It's very comfortable to hold as a result, although the thin back cover and smudge-prone 3.5-inch screen will remind you that you're using a low-end handset. ZTE does deserve some kudos for embracing Firefox's native colors -- whether you buy an Open in blue or orange, your phone is destined to stand out.
+
+The back-to-basics philosophy extends to the controls and ports. Aside from the screen, the only features on the front are an LED (for charging only) and a capacitive home button. There's no front-facing camera, unfortunately. On the left is a volume rocker that's easy to use by feel alone; the top holds both a power button and a headphone jack, while the micro-USB port and microphone sit at the bottom. You'll find only a 2-megapixel camera and speaker on the back, although it's easy to pop off the rear cover and get access to both the 1,200mAh battery as well as the SIM and microSDHC card slots. That accessibility is essential, too, as the built-in 512MB of storage isn't enough to hold a media collection. The eBay version (available in the US and UK) doesn't officially ship with any microSD expansion, although carriers like Movistar Spain include a 4GB card in the box; we've also heard of eBay customers receiving 4GB cards.
+
+As you've likely gathered, the Open will disappoint if you're looking for clever hardware tricks. There are no shortcut keys, notification lights or water resistance. About all you'll get for luxury is an FM radio. However, there's a refreshing simplicity to the design. It's tailor-made for newcomers to the smartphone world who don't need (or don't care for) any frills. While we wish that the components inside were more powerful, the form factor is at least appealing.
+
+    ZTE Open     Dimensions 114 x 62 x 12.5 mm (4.5 x 2.4 x 0.5 inches)   Weight 120g (4.2 oz)   Screen size 3.5 inches   Screen resolution 480 x 320   Screen type TFT LCD   Battery 1,200mAh lithium-ion (removable)   Internal storage 512MB   External storage MicroSDHC, up to 32GB   Rear camera 2MP (fixed-focus)   Front-facing cam None   Video capture 352 x 288   NFC No   Radios  GSM GPRS / EDGE (850 / 900 / 1800 / 1900); HSDPA (850 / 1900)
+
+    Bluetooth v2.1   SoC Qualcomm Snapdragon MSM7225A   CPU 1GHz single-core ARM Cortex-A5   GPU Adreno 200   RAM 256MB   Entertainment None (USB mass storage for transfers)   WiFi Dual-band, 802.11a/b/g/n   Wireless Charging No   Operating system Firefox OS 1.1 (1.0.1 on current units)  Display
+Many smartphones under $100 have very basic displays, and that's exactly what you'll get with the Open. At 3.5 inches, the LCD is a bit too small for fast typing with Mozilla's on-screen keyboard. The 480 x 320 resolution is usable, but not exactly sharp. Colors are adequate (if flat) head-on, but they wash out when you view the phone from a sharp angle. The screen is at least readable in sunlight, though.
+
+To us, responsiveness is the display's main flaw. Despite using capacitive input, the Open's touchscreen just isn't very sensitive or accurate. It was too easy for us to miss a photo opportunity because our shutter press didn't register, or to launch an app when we meant to scroll. Even swiping down the notification bar requires a bit more effort than we're used to. The unresponsiveness is occasionally frustrating, and we'd expect better even at this modest price point.
+
+It wouldn't take much to get a significantly improved display, either. Contrast the Open with a more expensive (if still frugal) phone like the LG Optimus L3 II: LG may have shed some screen resolution, but its display is both more responsive and produces richer colors. While ZTE doesn't have to compete in the Optimus L3 II's price bracket, it should have spent more on the screen.
+
+Camera
+We'll be blunt: the Open's 2-megapixel rear camera is terrible, even by the standards of entry-level phone photography. Virtually every photo is full of blocky compression artifacts, noise and color inaccuracies. Well-lit photos in any environment are defined by purple fringing effects and blown-out highlights, while low-light images lose most of the visible detail. There's no flash to fill in that detail, and the fixed focus rules out any macro shots. We'd still take the Open's camera over none at all, but that's not exactly a compliment. 
+
+
+
+
+

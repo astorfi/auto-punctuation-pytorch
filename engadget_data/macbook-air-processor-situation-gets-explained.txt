@@ -1,0 +1,5 @@
+
+ 
+We already knew the basic details about the processor at the heart of Apple's MacBook Air, but those itching to know exactly how Apple and Intel managed to cram everything into that oh so small package may want to head over to AnandTech, which has pieced together a fairly thorough report on the matter. As the site reports, the processor is based on Intel's 65nm Merom architecture and packs an 800MHz bus, yet it uses the significantly smaller chip package that Intel had originally only planned to debut with the launch of its Montevina laptop platform later this year. That combination, along with the Intel 965GMS chipset with integrated graphics, allowed for a 60% reduction in total footprint size, and a TDP rating of just 20W, as opposed to 35W from the regular Core 2 Duo processor. If that's still not enough MacBook Air minutia you, you can hit up the link below for the full rundown.[Via AppleInsider] 
+
+ 

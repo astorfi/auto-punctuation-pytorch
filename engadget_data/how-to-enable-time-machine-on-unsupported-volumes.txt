@@ -1,0 +1,8 @@
+
+ 
+Although we've been mostly happy with Leopard, one of the features we were most looking forward to was the ability to set Time Machine to use a NAS volume like Airport Disk, thus making laptop backups wireless and sexy (well, sort of sexy) instead of wired and cumbersome. Sadly, Apple cut the feature at the last minute, but as with all things OS X, nirvana is usually just a defaults write command away, and Volker Weber has got it sorted for us. Just pop open a terminal window and enter:
+defaults write com.apple.systempreferences TMShowUnsupportedNetworkVolumes 1
+and you should be able to select NAS volumes in the Time Machine prefs. Of course, you should only re-enable this for giggles -- we don't know why Apple turned it off to begin with, and it could very well be full of bugs and hose your data. Considering some of the other glitches that have cropped up in Time Machine, we'd actually recommend staying well away from this one, but if you're desperate, by all means -- go for it and let us know how it works in comments!
+      
+
+ 

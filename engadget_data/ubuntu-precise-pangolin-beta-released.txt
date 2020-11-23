@@ -1,0 +1,8 @@
+
+  So, it looks like Precise Pangolin has just crawled out of its Alpha hiding hole, and into the open plains of Beta testing. The Beta 1 version of Ubuntu 12.04 is available to download today, and Beta 2 is already in the crosshairs, one month from now. Being an LTS (Long Term Support) release, we knew changes weren't going to be drastic, but there are some noteworthy ones. We heard RhythmBox would be back as the default media player, and it is, and it looks like Ubuntu One synching also showed up as expected. Under the hood, the kernel goes from 3.2.0-12.21 to 3.2.0-17.27 and RC6 for Sandy Bridge systems has been enabled. The final freeze is only eight weeks away, so if you want to steer the Pangolin in the right direction, curl up on that source link for the goods.[Thanks, Robert]
+      
+
+ 
+
+  
+ 

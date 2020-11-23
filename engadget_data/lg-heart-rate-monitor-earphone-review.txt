@@ -1,0 +1,30 @@
+
+ 
+
+Heart rate monitors are no longer the exclusive domain of fitness gadgets. The last 12 months have seen sensors make their way into smartphones and wearables, replacing for many of us the need for a standalone pulse monitor. The problem is a lot of these options have been unable to deliver accurate heart rate mesurements, partly because those sensors have to maintain contact with your skin; if they slip, then the readout skips. Maybe LG has the answer, then: Put heart rate monitoring technology into a pair of Bluetooth headphones. If you're like me and are constantly wired for sound during workouts, what could possibly be better?
+
+
+LG's Heart Rate Monitor earphones link to an iOS/Android app, with absolutely nothing burdening your wrists. LG's fitness app can even add your exercise sessions to a step counter, so long as you buy LG's optional Lifeband Touch fitness band. What's more, the app also integrates with other fitness apps like RunKeeper. It all sounds great on paper, but there's a problem: the headphones don't actually sound good. Let me explain. 
+
+
+
+
+Hardware
+LG's new headphones look like run-of-the-mill sports headphones, but at $180, they're pricier. They're in-ear buds supported by rubberized tubing around the wire, which help keep them inside your ears. There's even an extra flexible wing to support the fit, ensuring they stay snug during your morning run or squat superset -- that's important here because the heart rate sensor needs to be against your skin to measure blood flow and give that all-important readout.
+
+The headphone wires draw together at a lanyard clip which also houses play, pause and volume controls. The clip is sturdy, and it's at the perfect point to tether to your t-shirt, making the wires less likely to get in the way -- at least while you're wearing it. The earphones then plug into a Bluetooth module which provides the power and has its own clip; this one's waist-level. The module is small and light, with a backlit power switch that offers up a color-coded guide to your heart rate at a button press. (There's also audio guidance for battery levels and your activity, but I'll come back to that.) Despite their Bluetooth connectivity, that means there's just as much cabling as other wired earbuds. It would have been better if all the hardware was housed inside the headphones.
+
+Because the earphones connect through micro-USB to the Bluetooth module, it means you won't be able to use these with a typical headphone socket, which also means having to keep the set well charged. I found they lasted roughly four hours -- about four gym sessions of constantly monitoring my pulse. But you can expect them to last much longer if you're just listening to music.
+
+In useThe heart rate module itself is lodged inside the right earbud, and there's a subtle design difference between the two buds, suggesting that the sensor points to your outer lobe rather than shining (infrared shines, right?) into your earhole. The results are accurate, especially compared to the erratic results we've seen from other heart rate sensors. During training sessions -- it only measures your pulse when you start a session from the app -- I also strapped myself into a blood pressure monitor at my local gym to get a second reading. Measurements from both were within one or two beats per minute of each other. What's nice, too, is that the earphones' heart rate reading doesn't fluctuate as much as wrist-worn monitors I've tried, probably because these stay more firmly in place. If you're curious about such things, you can view your readout in the app anytime.
+
+Alas, while the headphones make a pretty excellent heart rate monitor, the sound quality is distinctly trebly. Maybe my tastes tend toward Beats-style bass sound profiles, but compared to other in-ear buds, wired or wireless, these don't pack the same audio punch. My guess is something had to be sacrificed to make space for the heart rate sensors. Worse, at substantial volume there's a moderate degree of noise leakage. Gyms and outdoor running can often require the top volume, but move into a quieter area with other people and they'll soon twig to your shameless workout soundtrack -- the one you wouldn't ever make public. It's a shame, but sound quality appears to be a secondary concern here.
+
+Software
+To use the headphones you'll need LG's Fitness app, which does a lot of things right. There are both Android and iOS versions, meaning you can use it with nearly every modern smartphone capable of connecting to Bluetooth Smart. That might not seem like a big deal, but remember Nike's FuelBand was iOS-exclusive until very recently, and Samsung's Gear Fit will only work with Samsung phones.
+
+Four tabs guide you through a summary page for the day, week and month; an activity tab for calorie-based scrutiny; as well as a heart rate tab, workout tab and the (practically hidden) "more" tab, where you'll find most of the settings. This final tab is where you connect with third-party apps and compatible hardware. Cleverly, LG has offered cross-compatibility with MyFitnessPal, RunKeeper and MapMyFitness, apps that you might actually use. LG also supports a few third-party heart rate monitors, including devices from Polar and Zephyr.
+
+
+
+

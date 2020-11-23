@@ -1,0 +1,37 @@
+
+Sure, 3D printers that can spit out chocolates, create shoes, handcraft cars and help astronauts sound fun and magical, but a lot of scientists are working to make models that aren't just fun. They're developing 3D printers that can also save and change lives by printing out functional human organs. Think about it: If we can make organs on demand, patients don't have to wait as long for transplanted organs. In the United States alone, 78,837 patients are waiting for organ donations (at the time of publication), but only 3,407 donations have been made since January 2014. Machines capable of creating functional human parts could significantly shorten -- or nullify -- that line. Sadly, we're still at the early stages of the technology. As it turns out, printing working human organs is a lot more complex than printing out plastic toys.
+
+
+
+WHAT IS IT?
+Researchers have been looking into growing organs in labs for a long time, but it wasn't until the late 1990s that bio-printing was thrust into the limelight. It was all thanks to the scientists at the Wake Forest Institute for Regenerative Medicine, who 3D-printed the synthetic building blocks they needed to grow human bladders. They didn't print the actual bladders; it was only in the early 2000s that Clemson University bioengineer Thomas Boland started modifying ink-jet printers to dispense biological ink and make 3D objects.
+
+In 2007, one of the first bio-printing companies was founded: Organovo. At the moment, Organovo's printing out liver tissue samples used for drug testing and research. The company's hoping to develop a functional liver in the near future. We're getting close, but we're not quite there yet.
+
+HOW DOES IT WORK?Let's get this straight: While there's a huge gap in complexity between printing an organ and printing a typical plastic figurine, the processes are quite similar. The machines used for both have cartridges and nozzles that squirt out ink (biological ink, in this instance), layer by layer on a platform. But, they do have a few key differences:
+
+ We know what most organs look like, but to be able to create them for individuals, scientists need to perform CT scans or MRIs on the patient. Then, they need to run the results through computer software to create a blueprint that'll serve as their guide on how cells are positioned in each layer. Instead of PVC plastics or metals, bio-printers use human cells of whatever organ they're making, along with binding agents to keep everything together. Aside from the actual organ's cells, printers could also use stem cells, bioengineered materials (like a polymer called alginate that was previously used to make aortic valve tissue) and other substitutes the human body won't reject. For instance, in 2012, a 3D-printed titanium jaw was implanted into an 83-year-old woman, while a man in the US has been walking around with a 3D-printed plastic skull since 2013. Once a specimen is printed, it needs to go into the incubator so the cells can fuse and start working together like a real organ.That last part is where the real issue lies, and is mostly the reason why we don't have organ-creation machines in hospitals worldwide yet.
+
+
+WHAT'S THE HOLD UP?According to Anthony Atala (who led the Wake Forest team that created those famous lab-grown bladders), it's a combination of several issues. Prime among those issues is finding materials that can be used to create body parts, and then getting them to grow adequately outside the body. Most of all, though, you can't just stick an organ fresh from a 3D printer inside a patient. As we've mentioned, real organs are complex, and just because the printed cells fused together doesn't mean they'll work as intended. In the words of Cornell engineer Hod Lipson:
+
+"You can put the cells of a heart tissue in the right place together, but where's the start button? The magic happens after printing has taken place."
+
+Lipson also notes that there's still no software powerful enough to make very detailed organ models that researchers can consult before printing.
+
+Aside from difficulties making a 3D-printed organ's cells behave like the real thing, scientists also find it hard to create blood vessels. Organs need arteries, veins and capillaries to pump blood through them and deliver the nutrients they need to stay alive, but these are long, thin, tubular and... hard to print.
+
+Still, it's not like nobody's trying: Just this May, a team from Brigham and Women's Hospital used the sugar-based molecule agarose as blood vessel templates. Fraunhofer researchers have also been developing their own technique since 2011, and Harvard scientist Jennifer Lewis is looking into printing organs that already come with tiny spaces from the get-go for blood and nutrient flow.
+
+THE FUTURE OF 3D-PRINTED ORGANSThus far, there have been quite a number of semi-successful attempts at printing organs. We say semi-successful because most of them aren't functional, or they survive just a few days. Organovo, for instance, created a mini human liver that actually works -- except it lasts only 40 days. A team from the University of Louisville, on the other hand, successfully printed heart valves and small veins in April, with hopes of making a functional heart using a patient's cells in the future. Let's not forget those Cornell bioengineers who crafted that faux ear (which works just fine, by the way) out of living cells and injectable gels.
+
+
+According to Atala, though, roughly 90 percent of the patients in the organ waiting list are looking for kidneys. Maybe that kind of demand is what fueled a group of Chinese scientists to develop small, working printed kidneys, which unfortunately only stay alive for four months. Atala himself is looking for ways to make a kidney via 3D printing; he even showed off a non-working model on stage during his TED talk (seen below).
+
+During that same presentation, the surgeon shared how the technology could mature. He spoke of a future where flatbed scanners could look at and assess a patient's wounds and then go back up to print directly on the patient's body. Before we get there, bio-printed tissues and organs are headed to labs and med schools, followed by perfect specimens that can be transplanted into the bodies of waiting patients soon after.
+
+WANT TO KNOW MORE?Watch this excellent TED talk from Atala, for starters:
+
+The American Society of Mechanical Engineers' Mark Crawford wrote a piece about creating valve tissue with 3D printing that informed this piece, as Atala's study (which is published here) did. And finally, CNN's got a relatively up-to-date piece right here.
+
+

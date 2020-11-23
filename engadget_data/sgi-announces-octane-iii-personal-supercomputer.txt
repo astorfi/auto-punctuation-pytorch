@@ -1,0 +1,43 @@
+
+ 
+ 
+We've seen companies throw in with personal supercomputing platforms in the past, but if anybody makes a splash with the things we hope it's SGI. The new SGI -- that is, the mash-up of the old SGI and Rackable -- has just announced the Octane III, an office-friendly (one-by-two-foot) tower that can sit under a (fairly large) desk while permitting up to 80 high-performance cores with its nearly 1TB of memory. Options include Intel Xeon 5500 series, Dual-core Atom, or Xeon 3400 processors, and an NVIDIA GP-GPU card. If you're a system administrator with money to throw around and a burning desire to add a machine running Microsoft HPC Server 2008, SUSE Linux Enterprise Server, or Red Hat Enterprise Linux to your network (and who isn't, really?) hit up the read link to talk to a sales rep. Prices start at $7995.
+
+
+Show full PR text
+SGI Unveils Octane™ III Personal Supercomputer
+
+Octane III Delivers Unparalleled Performance, Energy Efficiency and Ease of Use to HPC Users in Office Environments
+
+Intel Developer Forum 2009, San Francisco
+
+FREMONT, Calif.--(BUSINESS WIRE)--SGI® (NASDAQ: SGI) today announced the immediate availability of Octane™ III, the company's first personal supercomputer. This new product takes high-performance computing to a new level by combining the immense power and performance capabilities of a high-performance deskside cluster with the portability and usability of a workstation. The Octane III is uniquely suited for workplace environments and supports a vast range of distributed technical computing applications.
+
+Octane III is office-ready with a pedestal, one-by-two-foot form factor, whisper-quiet operations, easy-to-use features, low maintenance requirements and support for standard office power outlets. While a typical workstation has only eight cores and moderate memory capacity, the superior design of the Octane III permits up to 80 high-performance cores and nearly 1TB of memory for unparalleled performance.
+
+"Octane III makes supercomputing personal again," said Mark J. Barrenechea, president and CEO of SGI. "Our customers have been asking for office environment products with large core counts that are easy to use and whisper-quiet. Octane III brings all of this to the HPC professional, and enables a new era of personal innovation in strategic science, research, development and visualization."
+
+Octane III is easily configurable with single- and dual-socket node choices, and offers a wide selection of performance, storage, graphics, GP-GPU and integrated networking options. Yielding the same leading power efficiencies inherent in all SGI Eco-Logical™ compute designs, Octane III supports the latest Intel® processors to capitalize on greater levels of performance, flexibility and scalability.
+
+"IDC research has shown a growing demand for high-performance deskside supercomputers, and the new Octane III personal supercomputer is designed to directly address the requirements of both the entry level HPC technical server market and the desktop workstation market with a high-performance cluster designed to help close the gap between the desktop and the data center," said Earl Joseph, HPC Program Vice President at IDC. "SGI workstations and servers have been highly regarded by HPC scientists, engineers and analysts, and the new system with up to 80 high-performance cores and 1TB of memory is certain to capture the attention of many HPC computing professionals."
+
+Octane III is available in a variety of configurations:
+
+* Ten dual-socket, Quad-Core Intel® Xeon® processor 5500 series-based nodes
+* One dual-socket, Quad-Core Intel® Xeon® processor 5500 series-based workstation with advanced NVIDIA graphics and/or GP-GPU card support
+* Nineteen single-socket, Quad-Core Intel® Xeon® processor 3400 series-based nodes
+* Nineteen single-socket, Dual-Core Intel® Atom™ processor-based nodes
+
+"SGI's Octane III offers a solution for workstation users wanting to reach dramatically higher levels of performance with minimal investment. With the support of up to 19 Intel® Xeon® processors, HPC users looking to enhance their workgroup productivity outside the data center can also utilize the benefits of the Octane III for faster discovery and quicker simulations," said Richard Dracott, General Manager of High Performance Computing at Intel. "With certification from the Intel® Cluster Ready program, Octane III will provide a powerful, easy-to-deploy personal supercomputer."
+
+For a simple, out-of-the-box experience, Octane III ships as a factory-tested, pre-integrated platform with broad HPC application support – powerful enough for the most complex applications in the world. These include fluid dynamics, quantum mechanics, molecular dynamics, seismic processing, data analytics, rendering, visualization and computer-aided design, among many other HPC applications.
+
+Octane III supports Microsoft HPC Server 2008, SUSE® Linux® Enterprise Server and Red Hat® Enterprise Linux operating systems. Linux configurations include SGI ProPack™ and ISLE™ cluster management software.
+
+Octane III will be on display at the Intel Developer Forum (IDF) at Moscone Center, San Francisco, Calif., on September 22-24, 2009, in Booth # 718 at the Technology Showcase in the HyperScale Community.
+
+Availability and Pricing:
+
+Octane III is immediately available with Intel® Xeon® processor 5500 series or Intel® Atom™ configurations. The base configuration price starts at $7,995. For more information about Octane III, please visit http://www.sgi.com/OctaneIII.
+
+ 

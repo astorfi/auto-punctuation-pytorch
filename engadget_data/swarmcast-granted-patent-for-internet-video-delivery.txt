@@ -1,0 +1,5 @@
+
+ Swarmcast has been granted a patent entitled "Packet transfer mechanism over a peer to peer network," which the company's marketing and PR has mercifully cast as the "File Swarming Patent." The patent protects Swarmcast's techniques for multi-source streaming of HD video over the internet. Patents being what they are, it's not entirely clear how Swarmcast's claims differ from other peer-to-peer approaches to efficiently getting lots of bits to end users, but we do know we'd like to see internet distribution of HD content grow. The development of infrastructure and protocols to get this done suggests some big players have interest in this as well. Yes, it is just a step towards our real bandwidth desires, but at least it's a step in the right direction.
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ No one would characterize existing factory robots as especially warm and fuzzy: they're usually disembodied limbs that are more likely to cut you than hug you. Rethink Robotics wants to put a friendly face on those machines, both figuratively and literally. Its about-to-ship Baxter worker robot carries a touchscreen face that's as much about communicating its intent as giving humans something more relatable. Likewise, it's designed to be easily programmed by its organic coworkers and react appropriately -- you guide Baxter by one of its two arms to tell it what to do, and its combination of cameras and a quad-core processor let it adapt to real-world imperfections. Even the series elastic actuators in its arms give it a softer, subtler movement that's less likely to damage products or people. While Baxter isn't as ruthlessly quick as most of its peers, the relatively low $22,000 price and promise of an SDK for its Linux brain in 2013 should make it easier to accept than the six-digit costs and closed platforms of alternatives. We just hope we're not being lulled into a false sense of security as lovable robots invade our manufacturing base ahead of the inevitable Robopocalypse.  [Thanks to everyone who sent this in]
+
+
+
+
+ 
+ 

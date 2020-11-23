@@ -1,0 +1,6 @@
+
+ 
+Qt forms the backbone of Nokia's multi-platform strategy, linking Symbian and MeeGo under a common framework that it hopes will prevent the developer community from fragmenting and allow MeeGo to freeload a bit off Symbian's massive popularity in the global market. To that end, the latest release -- 4.7 -- is a pretty big deal, both in terms of new functionality and timing since MeeGo and Symbian^3 devices are both just around the corner. The biggest change is the addition of a new UI definition framework, Qt Quick, that includes both a new script-based language for describing user interfaces and a drag-and-drop environment for whipping them up. All told, the system should make it easier for devs to quickly throw together a good-looking interface that works across both MeeGo and Symbian -- and considering that apps can (and usually do) make or break a platform, we'd say that's a good thing.
+      
+
+ 

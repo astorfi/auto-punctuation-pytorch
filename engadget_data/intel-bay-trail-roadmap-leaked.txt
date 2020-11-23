@@ -1,0 +1,7 @@
+
+ 
+ We saw a leaked hint of what was coming for Intel's Valleyview system-on-a-chip (SoC), but now the full plan appears to have been outed by Chinese blog Expreview. The lineup will feature four models of the 22nm chips, with the D- and M-series looking to replace the Cedar Trail 32nm SoC chips used in current netbook and low-end desktop devices. The I-series is for embedded and industrial use, while the T-series would appear in tablets and other small form-factor devices, according to the leaked slides. That model would supersede the Clover Trail SoCs, which are only just arriving themselves in upcoming Windows 8 slates like the Acer W510 or Asus Tablet 810.
+
+ The chips should offer a burly horsepower bump over their predecessors, with up to four cores and clock speeds topping out at 2.4Ghz. The icing on the cake will be the integrated Gen 7 graphics engines of Ivy Bridge fame, featuring the same HD 4000 and HD 2500 GPU's as the grownup chips, but with only four "execution units" instead of the 16 you'd find there. That would offload functions like video decoding and 3D rendering from the CPU and allow simultaneous display to a TV or monitor. Bay Trail would also support 8GB of DDR3 RAM, double that of the "last" gen, as well as USB 3.0, SATA 2.0 and a host of other connection options. If the leak is accurate, the processors would arrive sometime next year, we'll just have to wait and see if that's soon enough for Intel to take a run at its formidable competition.
+
+

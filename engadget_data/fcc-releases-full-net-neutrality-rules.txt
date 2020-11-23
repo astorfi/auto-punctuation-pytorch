@@ -1,0 +1,8 @@
+
+ 
+Here's a fine Christmas Eve present from Uncle Sam: the FCC has just released the full text of the net neutrality rules it passed earlier this week by a hotly-debated 3-2 vote. The rules are basically what we expected: the three basic rules require ISPs to be transparent about their network management practices, and further forbid them from blocking any lawful application or service or discriminating against different types of traffic. The biggest tweak comes in the language around paid prioritization, which would let some companies pay for selectively faster access to an ISP's customers -- the FCC is pretty clear that such arrangements will be heavily scrutinized and probably won't pass muster. And then, of course, there's wireless, which is subject only to the transparency and no-blocking rules; the FCC decided to take "measured steps" with mobile because it believes that is still too new and fluid. We'll have a full breakdown later today, but hit the source and check out the full rules yourself -- you're going to be hearing a lot about them over the next few weeks.
+
+[Thanks, Phil]
+      
+
+ 

@@ -1,0 +1,34 @@
+
+...
+
+
+
+More Info
+
+HTC One X review
+HTC One X exclusive to AT&T in the US, brings LTE, Beats, ICS and Sense 4 to Ma Bell
+AT&T HTC One X hands-on
+
+
+
+After last year's scattered lineup of products, HTC's been going through a bit of a renaissance lately thanks to the One X, One S and One V -- a beautifully focused trio of phones that run the company's new, lightweight Sense 4 skin on top of Ice Cream Sandwich. Hot on the heels of T-Mobile's One S comes AT&T's One X, which is launching May 6 for $199 on contract. The reworked device gains LTE and drops NVIDIA's quad-core Tegra 3 chip for a dual-core Snapdragon S4. So, does this brain transplant make it a better or worse proposition than the global One X? Hit the break to find out.
+
+
+
+
+Hardware
+It takes more than a casual glance to tell AT&T's One X apart from its matte white foreign twin.It takes more than a casual glance to tell AT&T's One X apart from its matte white foreign twin. The only telltale sign is HTC's logo giving way to the carrier's brand on the glass between the earpiece and the display. While both are striking handsets carefully crafted from the same thin (8.9mm), machined polycarbonate unibody, AT&T's version is perhaps a smidgen taller and heavier despite the official numbers (134.36mm and 130g). There are other subtle changes: the camera pod contains a slightly larger plastic (not aluminum) piece, and the five contacts on the back don't line up, leading us to believe these devices use incompatible docks.
+
+
+The phone retains the same gorgeous 4.7-inch HD (1280 x 720) Super LCD 2 (non-PenTile) screen protected by Gorilla glass, but the innards have changed significantly. NVIDIA's quad-core 1.5GHz Tegra 3 chip's been replaced with Qualcomm's dual-core 1.5GHz MSM8960 Snapdragon S4 processor, which is similar to the MSM8260A found in the One S but adds that important dual-band (1700 / 700MHz) LTE radio. While the 1GB of RAM carries over, built-in storage is down to 16GB from 32GB (with 12GB available to the user). This is particularly vexing since there's no microSD card slot on the One X.
+
+Performance and battery lifeComparing a carrier-sanctioned device to its SIM-free counterpart often results in disappointment. Processor swaps and operator-imposed software tweaks don't usually mix well when it comes to performance (AT&T's Galaxy Note comes to mind). Well, you can rest easy: AT&T's One X bucks this trend and feels just as blazingly fast as the global model, if not brisker. In our benchmarks it beat the Tegra 3 variant in almost every test, with scores matching the Snapdragon S4-equipped One S in each category. All told, it's quite possibly the speediest handset we've ever played with.
+
+    HTC One X (AT&T) HTC One X (global) HTC One S (global) Samsung Galaxy Note (global)   Quadrant (v2) 5183 4,906 5,053 3,854   Linpack single-thread (MFLOPS) 103.77 48.54 103.88 64.3   Linpack multi-thread (MFLOPS) 214.53 150.54 222.22 95.66   NenaMark2 (fps) 58.7 47.6 61.0 32.8   NenaMark1 (fps) 58.6 59.5 60.8 56.6   Vellamo 2350 1,617 2,452 901   SunSpider 0.9.1 (ms, lower numbers are better) 1709 1,772.5 1,742.5 2,902  
+Even with LTE enabled, battery life is noticeably better on AT&T's One X than on the foreign version. This was a sticking point in our original review, so we're extremely pleased with the improvement. We recorded eight hours and 55 minutes in our video loop rundown test with the screen set to 50 percent brightness -- most folks will have little trouble getting a full day's use from the 1,800mAh cell. Call quality was decent, but LTE performance exceeded our expectations with peak speeds of 35.7Mbps down and 23.5Mbps up (!) -- the fastest results we've ever recorded on an LTE device.
+
+Camera
+On the camera front, AT&T's One X follows in the footsteps of its global stablemate (and the One S) with the same impressive 8-megapixel shooter. The wide aperture f/2.0 autofocus lens, high-quality BSI sensor and super-fast processing combined with features like HDR, panorama and real-time filters provide an unrivaled imaging experience -- it even captures photos and 1080p / 30fps video simultaneously (with full AF and stereo audio). The lack of a proper dual-detent shutter button is the only blatant omission. Since there's no difference in picture quality, we've re-posted our existing samples.
+
+
+

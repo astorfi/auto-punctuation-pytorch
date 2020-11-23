@@ -1,0 +1,5 @@
+
+ 
+Well, it looks like Intel's $700 million problem with its Series 6 Cougar Point chipsets is now one step closer to a resolution -- the company has just announced that the fully remedied B3 revision of the chipset will start shipping out on February 14th. That will bring with it an updated BIOS, full pin compatibility with the previous B2 chipset and, most importantly, a "minor metal layer change" that promises to improve "lifetime wear out with no changes to functionality or design specifications" -- in other words, a fix for that rogue transistor affecting SATA ports. Hit up the source link below for Intel's official notice (in PDF form).
+ 
+ 

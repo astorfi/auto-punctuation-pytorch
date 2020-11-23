@@ -1,0 +1,13 @@
+
+ We have seen this questions a few times in the comments and it's time we addressed it. What is the difference between a computer monitor and an HDTV? While it is true that the line between the two is narrowing there is a difference.
+      
+
+ 
+          
+ 
+ 
+ There are two main differences, a tuner and the resolutions. (some may say 3 if you include the connections) In order to be considered a HDTV or a TV for that matter the display must include a tuner, traditionally this meant a NTSC tuner, but today ATSC tuners are also required on most TVs and soon all TVs will require a ATSC tuner to get the name TV. Tuners aside there is still a distinct difference, between a computer display and a HDTV. When the PC just got started (or an Apple) you could use a TV as a monitor, but they quickly learned that interlaced tubes are terrible for reading text, so progressive scan displays became the norm, so along came VGA which has the same resolution as an SDTV; 640x480, but progressive. This obviously wasn't enough and NEC released the first multiscan display that supported multiple resolutions. (I am drastically simplifying this time line) Next came flat panel displays that were fixed pixels so they used scallers to emulate the multiscan functionality (this is why LCD monitors almost never look great unless they are set to their native resolution). Early CRT based HDTVs were also multiscan; supporting 480i, 480p and 1080i (yes all natively). Before the days of widescreen, both TVs and computer monitors had a 4:3 aspect ratio, but what many don't realize is that HDTV and widescreen computer monitors are not both 16:9, while HDTVs are 16:9 most widescreen computer monitors are 16:10 and HDTVs are usually either 1280x720 or 1920x1080 -- widescreen computer monitors are usually 1440x990 or 1680x1050, but of course there are many more 16:10 resolutions supported and some aren't really 16:10 because the pixels are not always square. If you made it this far you're doing pretty good, because now is when things get interesting. Almost all fixed pixel HDTVs have scallers in them, which allows them to support multiple input resolutions so in addition to the normal HDTV or native resolutions they also support many computer resolutions, but unlike computer monitors they are 16:9 and as mentioned earlier they include a tuner. What is also becoming more common is for computer monitors to include component inputs (normally only on HDTVs) and support standard HDTV input resolutions, like the new Dell widescreen displays. Lucky for most you don't have to understand this to enjoy the latest displays, but If all you really wanted to know is how to connect your computer to your HDTV check out our how to.
+
+       
+
+ 

@@ -1,0 +1,17 @@
+
+ 
+
+
+Not long ago Xiaomi, a Beijing-based company with around 250 staff, shocked the industry with the announcement of its conveniently named Xiaomi Phone. We're looking at a well-built device packing a 1.5GHz dual-core SoC, 1GB RAM and 4GB ROM, 4-inch LCD, GPS plus GLONASS, and a generous 1,900mAh battery. Set at an extremely competitive price point of around $310 for October, this has no doubt made other local manufacturers -- Meizu in particular -- think twice about their current strategy.
+
+But let's ignore the competitors for now and focus on Xiaomi. Many Android enthusiasts might already recognize this small startup as the star behind the popular MIUI, an Android ROM that offers a vast range of user customization along with the promise of great performance. Alas, we only had a glimpse of this at the Xiaomi Phone launch. Worse yet, it turned out that due to some miscommunication, the prototype unit we handled with actually had a very old firmware, which didn't do justice for the developers. Luckily, we were offered a second chance to take a closer look at a much more up-to-date device. Read on to see what we discovered.
+
+
+
+
+
+We'll save you the details for the video above, but it's worth pointing out that the MIUI build for the Xiaomi Phone has a rather unique feature that no other phone currently support: a dual partition system. What this means is that you can have two MIUI builds simultaneously installed on the phone (and strictly MIUI only; also, major OS jumps like from 2.x to 3.x are not supported), while the two also share the same database for apps, contacts, calendar, etc. For instance, you can keep a stable firmware on one side while dipping your toes into a beta build on the other; and if something goes wrong, you can simply go back to the stable build. Also, you can still use the phone as usual while it performs an upgrade in the background -- the new build is installed onto the other partition, and then the phone reboots from there without having to enter recovery mode.We asked a Xiaomi engineer whether this dual partition feature can be implemented on other MIUI-compatible devices, but the answer was this is up to the manufacturer, as Xiaomi itself isn't capable of tampering with such a low level structure. Perhaps someone from xda-developers can give this a go?Our very own Xiaomi Phone should be arriving this week, so be sure to keep an eye out for our review soon. For now, enjoy our photo tour of Xiaomi's Beijing headquarters.
+
+       
+
+ 

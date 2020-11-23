@@ -1,0 +1,12 @@
+
+
+
+
+
+BeagleBoard has kept our collective news-tails wagging with plenty of (often disparate) DIY hardware projects. Now, the BeagleBone ($89) has arrived, with Linux Angstrom preinstalled, and power provided through a USB port. Giving the hardware more of a chew reveals Open GL ES 2.0, a microSD connector and two 46-pin female expansion headers for easy augmentation. There's also a 100Mbit Gigabit Ethernet connection on this new development platform, which promises to play nice with older BeagleBoard, er, boards. Serial (port) DIYers can check out a full run-down video after the break.
+
+
+
+
+ 
+ 

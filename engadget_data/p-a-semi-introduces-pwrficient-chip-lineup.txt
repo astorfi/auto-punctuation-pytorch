@@ -1,0 +1,22 @@
+
+
+You know how we love a gadget underdog story, so without reminding us too much of
+Transmeta, we're already a little in love with
+P.A. Semi, the "new" processor company that bided their time for two years before announcing their first product this
+week, the PWRficient multi-core 64-bit microprocessor. Their first PWRficient chips will supposedly run at 2GHz, but
+use only between five to 13 watts of juice (to, say, the 20-25 estimated watts of a 2GHz Pentium M) and apparently make
+use of the IBM Power instruction set (i.e. will be theoretically compatible with PowerPC chips). We know they've got to
+be a bit bummed that they just lost a huge potential deal with Apple since they're
+switching to Intel (it's not far fetched to
+postulate that the PWRficient might well have been the chip that succeeded the G5 in PowerBooks with Power), but the
+company's headed up by Dan Dobberpuhl, the same man who helmed DEC's Alpha CPU dev team and SiByte, so we assume dude's
+got some serious business up his sleeves and didn't come this far to worry too much about where Apple plans on taking
+the Power architecture.
+
+
+ [Via Forbes]
+
+
+
+
+ 

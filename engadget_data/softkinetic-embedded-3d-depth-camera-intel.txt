@@ -1,0 +1,18 @@
+
+At Intel's Computex keynote earlier today, the chip maker teased that it expects embedded 3D depth cameras to arrive on devices in the second half of 2014. Luckily, we got an exclusive early taste of the technology shortly after the event, courtesy of SoftKinetic. This Belgian company not only licenses its close-range gesture tracking middleware to Intel, but it also manufactures time-of-flight 3D depth cameras -- including Creative's upcoming Senz3D -- in partnership with South Korea-based Namuga. Read on to see how we coped with this futuristic piece of kit, plus we have a video ready for your amusement. 
+
+
+
+
+
+What we were shown at SoftKinetic's private show room was its tiny DS530 short-range depth module, which measures just 7cm by 1.2cm -- small enough to fit into the screen bezel of a laptop. Like its larger siblings, this kit uses eye-safe diffused laser illumination to detect object depth, albeit over a shorter range as it's designed for tablets and laptops. The usual RGB image sensor is missing here, but the circuit board does come with an expansion port for manufacturers to plug in a webcam module.
+
+
+During our brief hands-on time, we got to try a DS530 that was already embedded into a laptop. While the company reps repeatedly stressed that the product was still in its early days, we didn't have too much trouble with its static gesture recognition -- it could identify up to two hands individually plus their fingertips, though it did stop working when we crossed our hands over.
+
+Another demo we came across was a 3D spaceship flight simulator, which changes the perspective and size of the spaceship according to our head's position. This is akin to using a parallax 3D display, but without having to find the viewing sweet spot or sacrifice display quality. Again, since this was a prototype, there were times when the 3D spaceship got stuck momentarily, but this should be fixed well before us mere mortals get hold of the sensor.
+
+Overall, we were left rather impressed with where SoftKinetic's upcoming module is at today, so we look forward to take another pulse check at some point next year (maybe at CES?). Until then, hopefully we'll see even more developers jump on board Intel's perceptual computing bandwagon.
+
+Mat Smith contributed to this report.
+

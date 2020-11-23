@@ -1,0 +1,4 @@
+
+
+It's been almost three years since Cisco and the DoD announced the IRIS project. Short for Internet Routing in Space, the idea is to route IP traffic between satellites instead of bouncing it on and off ground stations. The whole thing has moved forward steadily since we first caught wind of it, culminating with the launch of the first Cisco Space Router aboard an Atlas V rocket last November. According to The Register, the company has just finished its first in-orbit test of the thing, and -- lo' and behold -- it's a success! After some more testing by the DoD (which will go down between now and April), Cisco plans on running yet more trials. And after that? With any luck, IRIS will extend "constant and pervasive" Internet access to areas not served by traditional ground or 3G networks. And never again will a single person have to live their life without having seen the Bill O'Reilly "F**k It, We'll Do It Live!" rant.
+ 

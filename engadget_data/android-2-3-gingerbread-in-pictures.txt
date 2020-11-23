@@ -1,0 +1,16 @@
+
+ 
+You may not be able to get Android 2.3 loaded in any official capacity on your Nexus One yet -- or any other phone, for that matter -- but Google's 2.3 SDK is now available, which means there's an emulator attached, too. As with most development emulators, this one's a stripped-down subset of the apps and settings you'd see on an actual retail device; basically, all that's left is the bare minimum Google figures its developers are going to need to code apps. Be that as it may, we noticed a few things that stuck out:
+
+
+Overall, the UI changes are extremely subtle, and generally for the better. We prefer the new looks for the status bar, keyboard, and menus over their Froyo equivalents.
+We couldn't get a sense of the performance improvements -- the emulator is slow as molasses for us and really has zero bearing on how it'll perform on devices.
+When you reach the end of a scrolled list, the side of the list that has reached the end glows orange briefly, presumably to make it even more obvious that you're at the end. Even the browser does this -- it's an interesting effect that we kind of liked.
+The miserable default camera UI is exactly the same. Expect manufacturers to continue to replace this with wild abandon.
+The Gmail app isn't included in the emulator, so fear not when you're looking at the screen shot of the unthreaded messages -- that's the "standard" email app.
+The fingertip-sized markers for highlighting text work quite well, including in the browser. They seem to consistently disappear after a few seconds and automatically highlight and / or copy the text in between the markers; we're not sold on whether we like that behavior.
+
+Clearly, the jury's out until we've got a Nexus S firmly planted in our hands -- but in the meanwhile, check out a bunch of shots of Gingerbread doing its thing in the gallery below.
+
+
+

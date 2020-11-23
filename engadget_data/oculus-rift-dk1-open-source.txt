@@ -1,0 +1,5 @@
+
+
+If you've ever wanted to modify a virtual reality headset (or even create one from scratch), Oculus VR just gave you a big head start on your project. The Facebook-owned firm has opened up the code, mechanical elements and design for its first VR wearable, the Oculus Rift DK1. Provided you have the know-how and tools, you can now build upon everything Oculus learned in its early days about screens, head tracking and ergonomics. The source material won't help you recreate the more advanced technology of newer Rift kits or the Gear VR, but it should be worth a look if you're curious about the inner workings of immersive displays.
+
+

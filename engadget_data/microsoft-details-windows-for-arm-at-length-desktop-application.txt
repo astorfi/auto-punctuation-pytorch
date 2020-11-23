@@ -1,0 +1,8 @@
+
+  We've been getting some mixed signals about Windows 8 for ARM-based devices as of late, but Microsoft's Steven Sinofsky has now returned with another of his exhaustive Building Windows 8 blog posts and cleared up some of the confusion. The short of it is that Windows for ARM promises to offer the same out of the box experience as the x86 edition of Windows 8. That includes the full Windows desktop (complete with File Explorer and the like), and the same desktop Office applications including Word, Excel and PowerPoint (but only Office applications, it seems). So-called Metro-style apps from the Windows Store will also be able to support both Windows on ARM and Windows for x86/64, and you can expected hardware-accelerated HTML5 support with Internet Explorer 10.What's more, Sinofsky also notes that PC manufacturers are now working on devices designed specifically for WOA (or Windows on ARM), and that their "collective goal" is for them to ship at the same time as PCs designed for the x86 edition of Windows 8. While details on those devices remain light, Sinofksy did offer a new peek at one of the devices Microsoft used during the initial development of Windows for ARM when ARM-based tablets were hard to come by: an early Windows Phone. You can see it running the full desktop environment after the break (along with a video overview of WOA itself), but Sinofsky emphasizes that it is "not a product plan or even a hint at a product." Plenty more details can also be found at the source link below, though you may want to prepare a cup of coffee before diving in.
+      
+
+ 
+
+    
+ 

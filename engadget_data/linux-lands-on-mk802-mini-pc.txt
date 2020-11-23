@@ -1,0 +1,9 @@
+
+ 
+ If the MK802 piqued your interest but has you pining for Ubuntu, Linux Questions forum user michaelfisk has a solution. The secret sauce is a pre-baked image of Ubuntu 10.04 modified for a different device using the same 1.5 GHz Allwinner processor. Simply slide a microSD card prepped with a bootable image of the distro into the mini PC and you're set. Though Lucid Lynx can be coaxed to run on the $74 mini PC without considerable hassle, performance isn't exactly top notch -- unseemly load times and a few kinks are reportedly throughout the experience. Eager to load up your Cotton Candy competitor with Linux? Hop past the break to see Liliputing give it a test drive or hit the links below for walkthroughs and the appropriate download.
+
+
+
+
+ 
+ 

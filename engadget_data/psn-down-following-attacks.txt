@@ -1,0 +1,17 @@
+
+
+Sony may be experiencing a few unpleasant flashbacks this weekend. Both the PlayStation Network and Sony Online Entertainment (SOE) are slowly recovering from a denial of service attack that flooded their server connections, kicking many gamers offline. The group claiming responsibility, Lizard Squad, reportedly started out bombarding servers run by Blizzard (World of Warcraft), Grinding Gear Games (Path of Exile) and Riot Games (League of Legends) before swinging its attention Sony's way.
+
+
+
+The motivations are fuzzy at this point -- the attackers don't take themselves too seriously -- but you likely won't have to worry about your account being compromised like you did back in 2011. As SOE's John Smedley explains, the culprits are simply trying to overwhelm Sony rather than break in. That won't be much comfort if you wanted to squeeze in a few rounds of Killzone before the weekend was over, but it hopefully means that you can get back to playing without worrying that your data is vulnerable. In at least SOE's case, some services are already back up and running -- give it a try and let others know how it's going in the comments.
+
+Update: Sony has officially confirmed Smedley's statement that there was a denial of service attack against PSN and SOE (as well as the broader Sony Entertainment Network). It also reiterates that "no personal information has been accessed."
+
+Update 2: This may be a larger incident than it seemed to be at first glance. Lizard Squad now hints that it's targeting Xbox Live's login servers; sure enough, Microsoft is reporting "limited" sign-in functionality on the Xbox status page. We've reached out to verify whether or not Microsoft is a victim. To top it all off, Gameinformer has confirmed that the FBI is investigating the attackers' apparently successful attempt to divert Smedley's flight with a fake bomb threat.
+
+Network update: our engineers are aware of the issues and are working to resolve them. We'll keep you posted - sorry for the inconvenience
+
+- PlayStation (@PlayStation) August 24, 2014Services will be gradually restored. For some it's up now. For others the route they take may be flooded so they can't log in yet.
+
+- John Smedley (@j_smedley) August 24, 2014

@@ -1,0 +1,6 @@
+
+ 
+ Things have gotten interesting in the world of CS updates. Recently, Computerworld reported that Adobe had informed folks using an older version of its famed Creative Suite -- CS5 and CS5.5, to be exact -- they'd have to shell out the CS6 upgrade fee in order to get a fix for some recently discovered bugs. Apparently, Adobe took notice to its customers' dissatisfaction and updated its initial blog post with a changed tune, stating, "We are in the process of resolving these vulnerabilities in Adobe Photoshop CS5.x, and will update this Security Bulletin once the patch is available." The same is true for both Illustrator and Flash. This kerfuffle started after Adobe handed out warnings for eight "critical" vulnerabilities found in certain versions of the three applications -- some of which are said to be exploitable and could potentially be used to "take control of the affected system." We'll see how it all plays out over the upcoming days, but in the meantime hit the links below to see if you need to take any action.
+
+ James Trew and Joe Pollicino contributed to this post.
+

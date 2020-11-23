@@ -1,0 +1,15 @@
+
+
+
+Redditor OomaThurman recently detailed a hidden "very high" video quality setting tucked within the Xbox One's streaming app. Thurman writes, "Simply edit the userconsoledata in the xbox app folder and change IsInternalPreview to true," though there are actually a couple of additional steps needed to do that.
+
+
+
+
+The process is pretty straightforward:
+
+ First, past the string "%localappdata%\Packages\" into Explorer on your PC. Find the "Microsoft.XboxApp." folder and navigate to "Local State" within it. Next, find and open the "userconsoledata" file in a text editor, then search for the 'IsInternalPreview' variable. Set that variable to "true" then save and close out the file.That's all there is to it. The difference is certainly noticeable, as you can see between the Very High setting in the image at the top of the post versus the High setting in the image immediately above.
+
+[Image Credit: Chickern/Reddit]
+
+

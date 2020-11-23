@@ -1,0 +1,15 @@
+
+
+At Intel's keynote presentation here at Computex, President Renee James is set to show off Intel's mobile future: a 2-in-1 reference PC powered by the company's new 14nm Intel Core M processor. (Note: it's actually a fifth-generation Core processor, even though the slide shown below says "fourth.") Intel's 14nm processors mean less energy use and, when the buck stops, longer battery life -- something we can never get enough of. We're still waiting to see what that design will look like exactly, but we do know it'll be a hybrid tablet-laptop, measuring in at 7.2mm thick (keyboard detached), while a companion media dock will apparently offer extra cooling (and a performance burst).
+
+
+Update: As teased, in the flesh it's a very thin tablet, with no fans to see. Intel's president also teased the companion docks, although we only saw a glance of the keyboard add-on. Thankfully, it looked at least thick enough to handle a bit of typing. 
+
+
+
+
+
+
+It's not the first appearance of Intel's new Broadwell chips: Intel boss Brian Krzanich showed off a more vanilla laptop running on the chips late last year. Regardless, Intel says the series is set to be its most energy-efficient Core processor yet, and that the majority of the hardware running on the chip will be fanless, as well as packing hybrid functionality -- which explains why the reference design took the shape it did. As you can see above, Intel's Core M family will offer around a 20 to 40 percent performance improvement. SOC power could be up to 45 percent less, while producing 60 percent less heat -- thus the fanless design. The new processor will also take up around 50 percent less space inside devices, whether that's a tablet, a laptop or both.
+
+

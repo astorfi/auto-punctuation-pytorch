@@ -1,0 +1,9 @@
+
+If you've been eager to send cloud or locally-stored media to your TV, another option could be on the way. Currently in beta, AllCast is an Android app that streams content from places like Google Drive, Dropbox or your mobile device's storage to an Apple TV, Roku, Xbox console, Samsung Smart TV and other DLNA-compatible hardware. ClockworkMod dev Koushik Dutta is behind the wheel here, however there's currently no support for Chromecast -- something we hope he'll be allowed to restore once the device's Cast SDK is released. In order to test drive this latest version of the software, you'll need to join the ClockworkMod beta testers group before nabbing the download from the Play Store (no rooting required). Need further convincing before opting in? Head down past the break for a video demo.
+
+
+
+
+
+
+ 

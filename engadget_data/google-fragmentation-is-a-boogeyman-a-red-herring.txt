@@ -1,0 +1,14 @@
+
+ 
+Google's Dan Morrill, open source and compatibility program manager in the Android team, just penned a lengthy diatribe against the very concept of fragmentation on the official Android Developers Blog, basically saying it doesn't exist. Actually, the language is a little more colorful:
+"Because it means everything, it actually means nothing, so the term is useless. Stories on 'fragmentation' are dramatic and they drive traffic to pundits' blogs, but they have little to do with reality. 'Fragmentation' is a bogeyman, a red herring, a story you tell to frighten junior developers. Yawn."
+Sure, as Android goes, the term "fragmentation" has meant moderately different things in different contexts over the past couple years -- fair enough. But the fact remains that releasing six major revisions of any platform within the span of 19 months (four of which are in heavy user circulation) is unprecedented and potentially unsettling to manufacturers and consumers alike. Your average Joe isn't going to understand why, for example, his HTC Hero that he bought a few months back can't use the Buzz widget or some of the cooler features in Google Maps, and Google hasn't done a very good job of explaining or justifying it, other than by blocking incompatible apps and updates from being visible in the Market.
+      
+
+ 
+
+Morrill's point is that "fragmentation" -- however you define it -- isn't to be feared. He writes that developers control their own destiny thanks to a combination of tools that allow apps to be targeted to specific Android versions, tight restrictions by Google over use of the "Android" name only on hardware that meets stringent spec requirements (which manufacturers are "motivated" to adhere to), and an assurance that every app is forward compatible with future builds.Ultimately, we'd argue that Morrill is simply changing the subject here, but we think the conversation will become moot over time anyway. Speaking with the San Jose Mercury News, Android chief Andy Rubin talks about slowing things down -- something we'd said would happen not long ago:"Our product cycle is now, basically twice a year, and it will probably end up being once a year when things start settling down, because a platform that's moving -- it's hard for developers to keep up."Rubin goes on to say what we've all been seeing from the outside: Android is maturing from a very feature-incomplete platform into a fully-featured one, and as such, Google will start to have the luxury of taking on a less maniacal release schedule. It's not often we're against fast, frequent product releases -- but we think we could all use a little breather from AOAD (Android Obsolescence Anxiety Disorder) right now.
+
+       
+
+ 

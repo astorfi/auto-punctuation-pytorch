@@ -1,0 +1,6 @@
+
+ As Google continues to work on improving Chrome for Android, today's update for the company's beta build of its browser appears to be a step in the right direction. Aside from the usual stability improvements and bug fixes, version 26.0.1410.26 adds two major additions. Lurking within this new software update is a data compression feature powered by Chrome for Android's recently uncovered SPDY-powered proxy boost. When enabled, this feature optimizes HTTP traffic over an SSL connection and transcodes images to Google's homegrown WebP format to reduce file sizes. In addition to turning your browser into a speed demon, this optional setting also uses Safe Browsing, which checks the sites you're visiting against a list of potential threats for malware and phishing.
+
+ Further focusing on efficiency, this new update adds the ability to sync autofill and saved passwords across mobile devices. Google says it will deploy this new feature "in the coming days" and notes that you'll also need the latest version of Chrome's desktop beta in order to successfully sync your account. So, with that said, we suggest you wait at least a day or two before using your smartphone to go on a shopping spree, because those online checkout forms can be downright tortuous.
+
+

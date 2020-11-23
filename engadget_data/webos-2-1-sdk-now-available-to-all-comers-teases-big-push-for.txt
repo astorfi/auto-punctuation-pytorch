@@ -1,0 +1,6 @@
+
+ 
+Though webOS 2.1 has already gone out to Pre 2s (and a handful of Pre Pluses) around the globe, developers not included in HP's NDA-protected Early Access Program have been shut out of the latest version of the SDK -- until now. That's right: any old riffraff coming in off the street now have access to the webOS 2.1 SDK download, featuring Exhibition enhancements, "hybrid" app support for packages that span HTML, JavaScript, and C / C++, and JavaScript-based webOS service development capability. In its blog post announcing the move, HP makes specific mention of the Pixi, saying that those apps will "just work" on the Veer -- in other words, if you'd been avoiding developing for the smaller screen resolution before, you've got newfound impetus to start now since the company is planning a "big push" around the Veer's release that's "coming just around the corner." Of course, it's the TouchPad that's got everyone really fired up in Palm land right now... but you've got to start somewhere.
+      
+
+ 

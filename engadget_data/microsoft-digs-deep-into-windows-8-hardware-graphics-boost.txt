@@ -1,0 +1,5 @@
+
+ 
+ While Microsoft has been exploring the sensory experiences that will go into Windows 8, like sight and touch, there's only one thing that many enthusiasts care about: speed. To their delight, Redmond has just devoted one of its pre-release blog posts to showing just how much faster its hardware graphics acceleration will be in a Metro-focused universe. The goal is a hiccup-free 60Hz frame rate, and virtually everything in Windows 8 centers on that ambition. Baked-in transition effects, optimized geometry and even improved font rendering give modern computers a huge jump in performance versus Windows 7. Microsoft is just as keen to expose that power, as well: Direct3D 11.1 is now the root of all video acceleration in the pipeline, making it both easier and faster to mix 2D and 3D. All told, Windows 8 promises to get responsiveness freaks and benchmark lovers all hot and bothered. If either label describes you, the source link might satiate your lust until October 26th.
+
+

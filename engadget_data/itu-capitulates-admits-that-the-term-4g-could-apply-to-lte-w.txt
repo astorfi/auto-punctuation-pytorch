@@ -1,0 +1,7 @@
+
+ Though it's standing firm on the definition of its original 4G specification -- IMT-Advanced -- which only WiMAX 2 and LTE-Advanced are currently capable of meeting, the ITU is easing off its earlier rhetoric, admitting that the term "4G" realistically could apply "to the forerunners of these technologies, LTE and WiMAX, and to other evolved 3G technologies providing a substantial level of improvement in performance and capabilities with respect to the initial third generation systems now deployed." The whole dust-up started when carriers around the world deploying LTE and WiMAX networks (ahem, Sprint and Verizon) were throwing the "4G" term around very, very loosely -- and to their credit, the networks are indisputably a generation beyond CDMA2000 and UMTS / HSPA, so if anything, we'd fault the ITU for leaving today's modern networks without a generation to call their own. The "evolved 3G technologies" verbiage in the ITU's statement would seemingly even leave room for T-Mobile USA's claim that its 21Mbps HSPA+ network constitutes 4G... so yeah, score one for marketing campaigns. Of course, none of these carriers had ever planned to bow to the ITU's recommendations anyway, so the ruling has little practical relevance -- just know that the true 4G speeds are still a few years off.
+
+[Thanks, Nate]
+      
+
+ 

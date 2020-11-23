@@ -1,0 +1,6 @@
+
+  
+As if the world of high-performance gaming graphics wasn't already out of control, NVIDIA is rumored to be working a their next-gen "G80" GeForce 8800 card, which will be liquid cooled, and purportedly chows down on 300 watts of electricity to push its pixels. The news comes our way via [H]ard|OCP, which has spy pics of the monstrosity, and DigiTimes, which pulls on their usually cadre of shady insider sources for dirt on a mid-November launch. The card is designed for DirectX 10, allowing for beefier graphics and the offloading of some CPU duties, but DigiTimes is hearing word that DirectX 10 won't be ready in time for Vista's launch (it'll instead be available for download from Windows Update at a later date), and since the new graphics API won't be available at all for previous versions of Windows, a November launch seems a pretty risky move for the GPU builder -- though we're sure the DirectX 9.0 speed gains won't be non-existant. And of course there's always the pure, unadulterated geek cred of having a liquid-cooled supercomputer dominating that PCI-E x16 slot of yours -- not even Vista can take all the fun out of that.[Via I4U]Read - NVIDIA launching GeForce 8800 mid-NovemberRead - G80 spy pics
+      
+
+ 

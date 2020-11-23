@@ -1,0 +1,18 @@
+
+The newest version of the Oculus Rift headset is another major step toward the retail version promised for some point in 2014. It takes the existing HD headset we saw at E3 2013 and swaps an LED screen for OLED. It adds an external camera, and positional markers on the headset, to track your position depth-wise. Perhaps most importantly, it kills motion blur -- one of the biggest issues with previous versions of Oculus VR's incredible Rift headset.
+
+The latest prototype, dubbed "Crystal Cove," is here at CES 2014, and we've just gotten out of an EVE Valkyrie cockpit to tell you all about how much of an improvement this new guy is over the previous model.
+
+
+
+
+
+Leaning forward in the cockpit of an EVE Valkyrie dogfighter, there's readable text on a smattering of control panels. The forward thrusters, it turns out, are about to be engaged, hurtling us into space amongst a volley of other spaceships out for blood. Oculus VR Director of Dev Relations Aaron Davies has us pause so that he can toggle one of Crystal Cove's newest features: "low persistence." We turn from left to right, unable to read the blurred text in front of us. He flips a switch, and voila: no motion blur. Well, very little. It's a far cry from the first Kickstarter dev kit we used many moons ago and, despite the importance of positional tracking, makes a tremendous impact on the usability of the Rift.
+
+
+In the same breath, let's not discount how amazing it is to move our head forward and have that action replicated one-to-one in-game. This means that the gauges in our cockpit are more than just window dressing: that's the HUD. Another demo, specially made for Crystal Cove by Epic Games, had us sitting in the Unreal Engine 4 demo with the... er... magma lord (?) that previously terrified us at E3. Looking down between where he's seated and our own position, a little world of creatures in a castle is available for torture should we push the face buttons. Push A and fire rains down and decimates the little guys. It's a bit like The Seventh Seal, but less existential. Thus far, position tracking is handled by adding a camera to the equation, which tracks a handful of sensors on the front of the Rift. CEO Brendan Iribe made sure to note that the camera is not final and may never ship with the final product. It's just the easiest solution for now. See those little white dots all over the headset? Those are the sensors.
+
+
+And all of this looked far, far crisper than previous units -- that's due to the new OLED screen inside and a 30 millisecond lag time (down by half from the previous dev kit). As far as when all these new bells and whistles will arrive in developer hands is another question altogether -- we're told by Oculus that the Crystal Cove prototype is just that: a prototype. With around 46,000 dev kits out in the wild already, it's probably unfair to ask all those folks to re-buy kits. That said, we expect it won't be long before new dev kits are available, and not long after that for the world of VR to expand dramatically. If 2013 was the year of proof-of-concept for Oculus Rift and modern virtual reality, 2014 seems poised to be the year when it comes into its own. With Crystal Cove, that possibility is greater than ever.
+
+

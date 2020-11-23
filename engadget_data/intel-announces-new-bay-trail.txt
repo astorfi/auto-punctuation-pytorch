@@ -1,0 +1,48 @@
+
+Intel barely existed on the mobile scene two years ago, and yet the company's Clover Trail chips for low-power tablets and hybrids have already had a huge impact on the Windows PC market -- not least by rendering Windows for ARM (aka Windows RT) largely redundant. But Clover Trail's performance in devices like the Acer Iconia W3 or Lenovo IdeaTab Lynx is far from perfect, especially with Windows 8 desktop applications and anything that involves 3D graphics, and that's why we're more than ready for its successor: Bay Trail, which is based on the next-generation 22nm Silvermont architecture. Intel has today detailed three families of Bay Trail chips, the most interesting of which is undoubtedly the Z3000-series for tablet form factors, and you can catch up on these new SoCs right after the break.
+
+
+
+The Z3000 processors will, as expected, be marketed to the public under Intel's Atom brand and they'll go head-to-head with ARM in the mobile-class (e.g. sub-3W) category. They'll come in dual- or quad-core varieties and are claimed to deliver up to 2x CPU and up to 3x GPU performance. The most powerful SoC, the quad-core Z3770, will deliver clock speeds up to 2.4GHz and support screen resolutions up to 2,560 x 1,600. What's more, all this extra horsepower is said to come without any negative impact on battery life, which remains at around 10 hours of "active use". Z3000 chips will appear in 7- to 11-inch devices that run Windows 8.1 or Android and that will cost as little as $199.
+
+We're just not sure exactly when these products will arrive: despite promising availability in time for the holidays, Intel now merely says that it will start "offering" its silicon to manufacturers like Dell, Lenovo and Asus in the final quarter of this year. Curiously, Intel is promising 64-bit support for suitable versions of the Z3000 SoC in early 2014, although this will primarily be intended for enterprise purposes.
+
+Lastly, there are also Bay Trail-M and Bay Trail-D processors on the near horizon, which are extensions of Intel's Pentium and Celeron brands for low-cost notebooks and desktops (including fanless systems). If you're interested, you'll find more details on these higher-wattage variants in the press release below.
+
+Show full PR textIntel Launches New Multicore, Low-Power SoCs for Tablets, 2 in 1s and Other Computing Devices
+Scalable 22nm Silvermont Microarchitecture Delivers Flexibility for a Range of Designs, Price Points
+NEWS HIGHLIGHTS
+
+· Built on its leading 22nm tri-gate technology and the new "Silvermont" microarchitecture, Intel launched three new multicore SoCs, formerly codenamed "Bay Trail," for tablets, 2 in 1 devices, all-in-ones, laptops and desktops.
+
+· The multi-core Intel® Atom™ Z3000 Series, Intel's most powerful SoC for tablets to-date, delivers an ideal balance of performance, battery life, graphics and features for consumers and businesses, on both Android* and full Windows 8* operating systems.
+
+· Leading OEMs will offer a wide range of Bay Trail-powered devices at a variety of prices starting in the fourth quarter of 2013.
+
+INTEL DEVELOPER FORUM, San Francisco, Sept. 11, 2013 –Intel Corporation today launched its latest family of low-power systems-on-a-chip (SoC), codenamed "Bay Trail," that will fuel a wave of highly powerful and energy efficient tablets, 2 in 1s and other mobile devices to market for consumers and business users in the fourth quarter of this year from leading OEMs including AAVA*, Acer*, ASUS*, Dell*, Lenovo* and Toshiba*.
+
+The "Bay Trail" family of processors is based on Intel's low-power, high-performance microarchitecture "Silvermont," announced in May 2013. The Intel Atom Z3000 Processor Series ("Bay Trail-T") is the company's first mobile multi-core SoC and its most powerful offering1 to date for tablets and other sleek mobile designs. It delivers a fast and fluid experience and a powerful balance of performance, battery life, graphics and rich features.
+
+The flexibility of the new microarchitecture allows for variants of the SoC to serve multiple market segments, including new Intel® Pentium® and Celeron® processors ("Bay Trail"-M and -D) for entry 2 in 1s, laptops, desktops and all-in-one systems.
+
+The family of "Bay Trail" SoCs provides a wide range of options for Intel's customers by enabling one hardware configuration that supports both Windows 8* and Android*, ultimately offering people broader choice of form factors at a range of price points that meet the varied needs of consumers and business users.
+
+"What we have delivered with our Bay Trail platform is an incredibly powerful SoC that delivers outstanding performance, long battery life, and a great experience for the way people use these devices today. It's an incredible leap forward," said Hermann Eul, corporate vice president and general manager of Intel's Mobile and Communications Group. "With Bay Trail as the foundation, our OEM partners are bringing a wide variety of designs at a range of prices to delight consumers, business users and IT managers."
+
+To bring this level of performance to a processor aimed at mobile devices, Intel developed a new platform that solves the contemporary technology challenges people have today, including the ability to multitask, the need for prolonged battery life and enhanced graphics, and the ability to have a more productive, enjoyable mobile experience. Video content and B-roll featuring Intel executives and developers on the making of Bay Trail and supporting images are available at intel.synapticdigital.com.More Powerful Tablets, 2 in 1s with Intel Atom Z3000 Processor Series
+
+The Intel Atom Z3000 Processor series delivers leading performance with all-day battery life. It is Intel's most capable, best-performing platform to-date for tablets and other sleek mobile devices. It offers a smaller footprint and lower power usage while also enabling double the compute performance and triple the graphics performance compared to the previous-generation Intel Atom processor. The low-power SoC platform enables over 10 hours of active battery life and three weeks of standby with an always-connected mobile experience.
+
+The Intel Atom Z3000 Processor series also includes Intel® Burst Technology 2.0 with four cores, four threads and 2MB L2 cache. This performance allows users to multi-task, consume and create content, and enjoy a rich experience across either Android or Windows 8. People will also have a choice of form factors between tablets and 2 in 1s, with thin-and-light devices ranging from 8mm to 1 pound, and screen sizes ranging from 7-11.6 inches.* Tablets based on this latest Intel Atom SoC will be available at prices starting as low as $199.
+
+The Intel Atom Z3000 series also enables business-ready tablets that deliver the experiences and designs people want with the protection for the enterprise that IT requires. With robust security features, including McAfee® DeepSAFE* Technology, AES hardware full disk encryption, Intel® Platform Trust Technology, Intel® Identity Protection Technology and Intel Data Protection Technology, the platform offers a more secure computing environment. It also supports Microsoft Windows 8 Pro Domain Join and Group Policy, and delivers full application and peripheral compatibility.
+
+Intel has been working with top application developers to ensure the best experience is available for Intel® architecture platforms on both Windows and Android. Work with Cyberlink, Skype-HD and Netflix-HD, PhiSix, Arcsoft, Tieto, Gameloft, and many line of business apps are a few examples where Intel has focused on optimizing imaging, graphics, and overall performance that will ultimately improve the experience for consumers. Intel has a long history of optimizations for Windows and Andorid operating systems.
+
+Intel will introduce 64-bit support for tablets in early 2014, delivering even greater value to IT managers. Devices built on this version of the SoC will offer enterprise-class applications and security, and with Intel® Identity Protection Technology (IPT) with PKI, will not require a VPN password when used with systems optimized for IPT and PKI.Bay Trail Processors to Power Entry 2 in 1s, Notebooks, Desktops and All-in-OnesThe "Bay Trail M" line will be available in four SKUs: Intel Pentium N3510 and Intel Celeron N2910, N2810 and N2805 processors. This series will power a number of innovative 2 in 1 devices in addition to notebooks enabled with touch capabilities, bringing them to new audiences at lower price points.
+
+With the microarchitecture flexibility and graphics improvements across all of the "Bay Trail" SKUs, the Pentium N3000 Processor and Celeron N2000 Processor series also boast three times faster performance in productivity applications and up to three times improvement in graphics compared to 3-year-old Intel-based value notebooks3. Designs powered by these processors can be fanless, can measure less than 11 mm thick and weigh just 2.2 lbs. Intel expects the systems to start at $199 for a clamshell device, $250 for a notebook with touch and $349 for a 2 in 1 device.
+
+The "Bay Trail D" line will be available in three SKUs: Intel Pentium J2850, Intel Celeron J1850 and Intel Celeron J1750. These offerings are Intel's smallest-ever packages for desktop processors, making them ideal for fanless and smaller form factor systems for entry level desktop computing. The processors are also ideal for vertical uses, including intelligent digital displays, with the power savings and up to three times faster performance and up to 10 times better graphics than similar products from Intel just three years ago3. Full systems based on these SKUs are expected to start at $199.
+
+

@@ -1,0 +1,27 @@
+
+In much the same way that smartphones are trending towards larger screens, it appears that manufacturers like Samsung are experimenting with the same concept in the tablet realm. The company has just introduced its latest (and largest) Android-running Galaxy Note device called the Note Pro 12.2. Announced alongside the Tab Pro 12.2 at CES, the Note Pro offers the same S Pen functionality we've enjoyed on previous devices like the Note 3 and Note 10.1 2014 edition, and as usual, you're going to see some refinements in Samsung's firmware and user experience as well. The device will be available in LTE, 3G and WiFi flavors and is expected to launch sometime this quarter in various parts of the world.
+
+
+As soon as we tried out the new Note Pro, we immediately noticed the size and weight difference compared to Samsung's 10.1-inch offerings. Regardless of how much you trim its bezel, a 12.2-inch tablet simply isn't designed for optimal portability, which means we're more likely to use it as a coffee table device, special projects or conferences in the office. It's just a little too awkward to hold for long periods of time. Aside from that and a glaring weight difference -- 753g (1.66 lbs) on the 12.2, versus 547g (1.21 lbs) on the 10.1 -- we were hard-pressed to find any variation between the 12.2-incher and the Note 10.1 2014 edition; it features the same design, button layout, "leather-like" back and display resolution (2560x1600, for a pixel density of 247 ppi). Other than that, what stands out on the 12.2, which runs Android 4.4 KitKat, is a few key new firmware features like Remote PC and Magazine UX. Continue reading below the gallery and our hands-on video to get more of our impressions.
+
+
+
+
+
+
+First, let's discuss the key specs. With a larger Note comes an even larger 9,500mAh battery, an 8MP rear camera paired with a 2MP front camera, "super clear" WQXGA LCD panel, IR support, dual-band WiFi 802.11 a/b/g/n/ac MIMO, USB 3.0 and Bluetooth 4.0. The LTE model promises support for 800/900/1800/2100/2600+850, while you'll get quad-band HSPA+ (with a max of 21Mbps).
+
+The Note Pro 12.2 runs Android 4.4 KitKat, but the user experience is drastically different than any Note we've played with before. Instead of being graced with a standard Android/TouchWiz home screen panel when pressing the home hardware button, you get whisked away to a new interface lovingly called Magazine UX. This experience consists of three separate customizeable screen panels: one for your office/workspace, another for personal use and a last one that handles your social networks and media. It's much like My Magazine on the Note 10.1 2014 edition, but Samsung has streamlined the number of screens and assigned one of them as the default screen that pops up when you press the home button. So far, we haven't found a way to opt out of that default, and Samsung confirmed to us that it is, in fact, stuck. You can still access the notification menu and status bar on the top, as well as the app tray in the lower right corner, but if you want the standard home screen, you'll need to swipe to the right to bring it up.
+
+
+The Multi-Window feature is also here, and Samsung is making good use of the extra screen space. Instead of two windows to manage simultaneous tasks, you can have up to four -- and that's not counting the ability to add pop-up windows on top of that. There are now two ways to access the menu, too: there's the standard method of long-pressing the back button, but you can also swipe in from the right bezel to pull up the list of compatible apps. Tapping on those apps will make them float above the screen as a pop-up window, and minimalizing each one turns them into small circular icons a la Facebook's Chat Heads. If you want the four-screen setup, you'll need to drag-and-drop the app into its rightful place.
+
+The last major firmware enhancement Samsung boasts is its Remote PC setup. We weren't able to demo these features in our hands-on, but they certainly sound promising enough. Granted, the idea of accessing your PC or Mac remotely isn't anything new by a long shot, but we can't complain about having the feature baked into the device without needing third-party assistance. In fact, Samsung has built in a UI that allows you to drag and drop files between your PC and Note Pro, which would be a huge asset to our productivity when we're away from our computer. The ability to edit and save files is also included, as well as support for Cisco WebEx Meetings.
+
+
+In terms of performance, we didn't see much of a difference between this and the Note 10.1 2014, which is likely because Samsung opted to use the same silicon inside: the LTE version of the Note Pro comes with a 2.3GHz quad-core Snapdragon 800, while the 3G and WiFi-only options are fitted with the same Exynos octa-core processor as the Note 10.1 unit we reviewed a few months ago; each version comes with 3GB RAM. As luck would have it, the models on-hand were Exynos-powered, and unfortunately we saw all-too-familiar signs of stutter and lag in even the most basic of tasks. Since we didn't get a chance to see final production firmware or hardware (although we suspect it's pretty close to final at this point), we don't want to come to final conclusions on the tablet's performance until we get a chance to put it through the paces in our full review when it officially launches.
+
+And for those of you wondering: no, we didn't try to put it up to our ears like a phone.
+
+Ben Harrison and Mat Smith contributed to this behemoth post.
+

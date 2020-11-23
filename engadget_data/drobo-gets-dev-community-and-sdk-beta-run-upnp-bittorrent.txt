@@ -1,0 +1,6 @@
+
+ 
+Looks like Data Robotics just started up their Drobo Developer Community (DDC) and SDK program, kicking off on their eventual goal to let users develop their own apps and servers for their Drobo storage device. For the first "DroboApp" and proof-of-concept, they've already whipped up a working UPnP / DLNA server for streaming audio and video content directly from the Drobo to compliant devices (like the Xbox 360 and PS3, for example), and they hope the early beta offering will spur the community into developing drop-in servers for things like iTunes music and AFP, Rsync, FTP, web, BitTorrent, and anything else you can think up. (One Linux developer has already ported the Drobo Dashboard app to Linux using the SDK).The DroboApps themselves are compiled for Linux, stored on the Drobo, added via drag and drop into a simple directory on the file system, and run on the Linux-based DroboShare hardware (meaning you won't be able to take advantage of DroboApps with a bare Drobo). Exciting stuff for the storage geeks in the house, especially those looking for some of the extensibility of Microsoft's Windows Home Server platform
+      
+
+ 

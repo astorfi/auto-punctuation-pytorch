@@ -1,0 +1,15 @@
+
+
+One of the most identifying characteristics of Windows Phone is Cortana, Microsoft's version of a virtual assistant that's reminiscent of Apple's Siri and Google Now. Now, however, the software giant is bringing that friendly Halo-inspired voice to the desktop as well, further unifying the experience between all of Microsoft's products. Just as early versions of Windows 10 showed, you can use Cortana on the desktop to do all kinds of things from making calls on Skype to adding appointments to the calendar.
+
+
+
+In a demo of an early build of Windows 10 onstage, Joe Belfiore, corporate VP of the Operating Systems Group at Microsoft, demonstrated that Cortana could tell him the weather, predict the Super Bowl (with a nod to the local Seahawks team, of course), set a reminder and dictate a message. You can do all of this while in other applications, which Belfiore says should make for easier multitasking. The speech recognition even interprets "hashtag" as the "#" symbol and Cortana has also learned some languages, plus the ability to speak in, uh, Yoda's voice.
+
+As before, Cortana's database is based on a Bing-powered knowledge base in addition to learning from your behavior and previous searches. The center of the Cortana experience is housed in the "Notebook," which should be familiar to those on Windows Phone. Opening this Notebook will show you just what she knows about you. Search results will appear in the lower-left corner of the desktop. Aside from just using your voice, you can also, of course, simply type your queries into the search field.
+
+And it's not just the desktop either; Cortana will come in handy in Microsoft's new Project Spartan browser as well. She'll let you know the weather if you're typing in a related query in the browser and she'll automatically let you know of flight status if you have a flight scheduled and are looking to track it. Another example is if you're looking at a restaurant website, Cortana will offer info like directions, photos of the food and links to Yelp reviews. It's certainly a lot more integrated and involved than Siri or even Google Now. Microsoft wasn't kidding when it said it was seriously investing in Cortana and making it your personal digital assistant.
+
+As for when you'll see Cortana on the desktop? Belfiore says the rollout will be gradual over the coming months, and it'll roll out to several countries during that time as well. You can check out our Windows 10 event liveblog for more details on Cortana and other features of Windows 10.
+
+

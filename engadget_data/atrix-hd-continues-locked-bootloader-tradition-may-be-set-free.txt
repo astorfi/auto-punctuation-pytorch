@@ -1,0 +1,5 @@
+
+
+ Motorola's record on the whole smartphone bootloader thing is a tad spotty. The world has been promised unlocked bootloaders and, sometimes, the manufacturer has delivered. After the phones have already been on the market for some time, of course. Continuing that trend, will be the recently revealed Atrix HD. The 4.5-inch AT&T-bound phone will follow in the footsteps of its predecessors, the Atrix 4G and Atrix 2, by shipping without the ability to touch the kernel. Of course, that means that not only are custom kernels out the window, but so are custom ROMs as a whole. There is some good news, however. Moto indicated via its Twitter account that an unlock tool would be coming, saying "our goal is still to provide a way to unlock the bootloaders on our devices to those who wish to do so, more details to come." So, that's gotta be worth something.
+
+

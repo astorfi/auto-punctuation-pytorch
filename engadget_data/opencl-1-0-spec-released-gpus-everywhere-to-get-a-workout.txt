@@ -1,0 +1,6 @@
+
+ 
+How time flies -- it was just a few weeks ago that the OpenCL spec was finalized and sent out for final legal review, and now it's here and ready to go. Over 20 partner companies (including AMD, NVIDIA, and, somewhat surprisingly, Intel) have signed on to the parallel programming standard originally proposed by Apple as part of Snow Leopard, and the final spec should allow apps to tap into multi-core CPUs, GPUs, DSPs and even variants of the Cell chip for everything from raw number crunching to interfacing with OpenGL. Sounds hot -- now we'll just have to see how Microsoft counters with the GPU acceleration expected to be built into Windows 7.
+      
+
+ 

@@ -1,0 +1,13 @@
+
+ 
+
+Amazon Cloud Player has been laying low following its scuffle with Sony Music, but that hasn't kept the company's developers from rolling a crucial new feature out -- support for Apple's iOS devices, which it didn't have on day one. Despite running in the Safari browser window, we've confirmed that songs will indeed play. If you've got a device handy, give it a try yourself; otherwise, we'll update with impressions a little later this evening.
+
+Update: Great news -- we ran the Cloud Player on an original iPad and iPhone 3GS without a hitch. In fact, there was very little (if any) lag or time delay when buffering a new song, and were able to refresh playlists and other information quickly. The interface of the Cloud Player is almost the same as -- if not identical to -- the page that loads up on your computer browser.
+
+Even better, the Cloud Player works flawlessly with the multitasking controls in iOS; the usual forward/pause/volume options are all usable as you play Angry Birds. Sadly, there is just one bump in the road that keeps the process from being perfectly smooth: mobile Safari prohibits you from doing drag-and-drops, which adds a couple extra steps to the process of adding songs to your playlists. Take a look below for some screenshots of the Cloud Player in action.
+
+Sean Hollister contributed to this post.
+
+
+

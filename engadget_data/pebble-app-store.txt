@@ -1,0 +1,12 @@
+
+There's no shortage of apps and watchfaces specially made for the Pebble smartwatch, but the experience of finding your favorites can be a rather frustrating (and confusing) one. Current users have to hunt through a litany of apps and third-party websites like mypebblefaces.com to customize (or download) the perfect watchface -- and perhaps a game or two -- and once you've unlocked that achievement, it's on to the official Pebble app to get it installed. The watch needs a centralized App Store to restore peace and order to such chaos, and Pebble's officially announced that such a service is in the works and should be available to consumers in early 2014.
+
+
+The new App Store will be included as part of the official Pebble App and will come with seven categories: Remotes, Games, Notifications, Tools & Utilities, Watchfaces, Sports & Fitness and Daily. Of course, none of that matters if they're all empty, so to ensure that the nascent Store has a solid number of options when it launches, Pebble is now inviting developers to submit their apps as of this morning. Since the App Store won't support older apps, devs will need to make sure their apps run on version 2.0 of Pebble's SDK, which launched a couple months ago. And if you're particularly endeared to a certain third-party site or service that isn't available in said App Store, you're still covered -- Pebble will continue to allow you to install apps the traditional way.
+
+
+
+
+
+
+ 

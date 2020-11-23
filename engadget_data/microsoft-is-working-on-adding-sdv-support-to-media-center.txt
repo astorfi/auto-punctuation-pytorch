@@ -1,0 +1,6 @@
+
+ 
+Some things take way longer than they should, and Microsoft making an announcement about its intent to add support for the tuning adapter, for all those SDV hating Windows Media Center Digital Cable Tuner users, is most definitely in that category. While we've been following this switched digital video problem for over a year now, most of the solutions we've seen have been aimed at TiVo owners, meanwhile Microsoft has been quiet. A few months ago we contacted CableLabs and AMD and while we received some promising responses, it's still just all talk. Some in the Media Center community -- yeah that's right, I'm talking about you Chris -- think the specs would have to be changed to even make it possible, but we don't see why it would be any more complicated than using the PC as a bridge with a little UPNP magic mixed it to bring it all together. Regardless of how it will work though, while we're glad MS said something, but the mystical response posted at The Green Button didn't give us much confidence that the solution is right around the corner.[Via Chris Lanier's Blog]
+      
+
+ 

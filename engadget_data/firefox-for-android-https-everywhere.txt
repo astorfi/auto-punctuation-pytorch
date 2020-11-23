@@ -1,0 +1,13 @@
+
+In the wake of Edward Snowden's NSA revelations, finding ways to browse the internet more securely has become of paramount importance. In its mission to help netizens feel that little bit safer, the Electronic Frontier Foundation (EFF) has long offered its HTTPS Everywhere add-on for desktop browsers, and it's now looking to do the same on mobile. As of yesterday, you can install the HTTPS Everywhere on Firefox for Android, which automatically seeks out HTTPS connections on supported websites. Webpages will be loaded over an encrypted connection, letting you to check your email, shop online and browse the web without fear of a third-party, or surveillance agency like the NSA or GCHQ, intercepting your traffic. To install the add-on, make sure you have the latest version of Firefox for Android on your phone, then install the plugin via the EFF website. Once loaded, the app will display an icon in the address bar, ensuring your browser won't suffer the same fate as Angry Birds and other mobile apps.
+
+
+
+          
+ 
+ 
+ [Image credit: grace_kat, Flickr]
+
+       
+
+ 

@@ -1,0 +1,5 @@
+
+ Good news homebrewsters, the Homebrew Channel has been updated and is now compatible with Nintendo's Homebrew killing (for new installs) October 23rd update. While the previous exploit was closed by Nintendo, Beta 9 of the HBC exploits a different flaw and works just fine with the latest system software. They've even tossed in SDHC support to make the brick risking maneuver a bit more enticing. [Via HackMii, thanks Glen G.]
+      
+
+ 

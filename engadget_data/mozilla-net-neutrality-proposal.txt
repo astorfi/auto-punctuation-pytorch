@@ -1,0 +1,11 @@
+
+
+Like some, Mozilla is concerned that the FCC's second take on net neutrality won't be enough to guarantee that internet service providers (ISPs) treat all content fairly. To that end, the Firefox developer has just given the FCC a solution of its own: regulate the relationship between ISPs and "remote delivery services" like Dropbox and Netflix. If these content hosts were subject to the same common carrier rules as phone lines, Mozilla argues, ISPs wouldn't be allowed to discriminate against incoming services by blocking them or slowing them down.
+
+
+
+Mozilla contends that its approach has a better chance of surviving the kinds of court challenges that defeated the FCC's previous net neutrality rules, which allegedly went too far by demanding no-blocking rules for the ISPs themselves. The policy might also help companies like Netflix argue against connection peering deals, where ISPs charge content providers to guarantee the quality of service that users expect.
+
+There's no certainty that the FCC will bite, though. This is just a proposal, and the agency isn't under an obligation to seriously consider it. Historically, ISPs have also fought bitterly against any common carrier regulation -- the Commission had worded its earlier rules in hopes of avoiding that battle, to no avail. ISPs wouldn't necessarily get to repeat their earlier appeals court strategy, but we'd expect them to find some way to challenge Mozilla's suggested measures.
+
+

@@ -1,0 +1,14 @@
+
+ 
+There's been a lot of chatter going around the interwebs in the past 24 hours about the Droid X's exceptionally well-locked bootloader -- a situation that is going to make running custom ROMs considerably more difficult (bordering on impossible) compared to your average HTC. Specifically, the culprit is said to be a technology known as eFuse -- developed by IBM several years ago -- which allows circuits to be physically altered at the silicon level on demand. Thing is, the term "eFuse" has taken on an unrelated meaning this week, with My Droid World claiming that some chip inside the Droid X is commanded to "blow the fuse" if it's unable to verify the stock bootloader, which permanently bricks the phone. It amounts to a really, really hard slap on the wrist for anyone trying to hack, say, Sense or stock Froyo onto it.
+
+Considering IBM's historically non-nefarious usage of the term "eFuse," we suspected something was amiss here, so we reached out to Motorola for an explanation. Read on to see what we got back.
+      
+
+ 
+
+"Motorola's primary focus is the security of our end users and protection of their data, while also meeting carrier, partner and legal requirements. The Droid X and a majority of Android consumer devices on the market today have a secured bootloader. In reference specifically to eFuse, the technology is not loaded with the purpose of preventing a consumer device from functioning, but rather ensuring for the user that the device only runs on updated and tested versions of software. If a device attempts to boot with unapproved software, it will go into recovery mode, and can re-boot once approved software is re-installed. Checking for a valid software configuration is a common practice within the industry to protect the user against potential malicious software threats. Motorola has been a long time advocate of open platforms and provides a number of resources to developers to foster the ecosystem including tools and access to devices via MOTODEV at http://developer.motorola.com."So in other words, yes, eFuse will shut down a phone with an unapproved bootloader -- but it won't brick the phone, it just needs "approved software" to be dropped back on there. Knowing the wealth of talent in the Android development community, we're still really hopeful this nonsense is going to get circumvented either way, but at least we can breathe a little easier knowing that Moto isn't out to destroy your multi-hundred-dollar investment.
+
+       
+
+ 

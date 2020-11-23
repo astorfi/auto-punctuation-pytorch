@@ -1,0 +1,6 @@
+
+ 
+Sure, turning your OS X or Linux-based machine into a FON Spot is snazzy in and of itself, but what about that dusty grey printer that stays shoved beside your desk? In an admittedly impressive feat of determination, a certain modder took a screwdriver, cutting utensil, and a few dollars worth of FON routers to the inside of a printer's case, and the result is a lesson in utility to say the least. By shoving one of those inexpensive FON routers inside the case, and relying on DD-WRT to open up the appropriate channels, he was able to convert a HP LaserJet 5 into a wireless printer and WiFi hotspot, all without making a scene. Still, the idea of turning your tethered printer into one that accepts incoming jobs wirelessly is no easy task, and judging by the laundry list of duties required to pull this all together, we wouldn't recommend giving this a go without hordes of spare time on your hands. That being said, those still interested should be delighted that a step-by-step guide (with pictures, no less) has been made available for the brave and talented, so be sure to hit the read link and start digesting.
+      
+
+ 

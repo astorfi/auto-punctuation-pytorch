@@ -1,0 +1,5 @@
+
+ 
+ Still wishing for some more functionality on Sony's touch-friendly watch? Well there's good news if you're into slider puzzles and music playing apps, as both of these have arrived open source in the SmartWatch's latest SDK. The music extension will allow devs to start work on their own music player, already including support for Android's generic music player. The 8 Game extension doesn't elaborate on what you'll be able to extend from the original image shifting puzzler, but we'll leave that up to developers' imaginations. You can get the full rub and all downloads at the source, just dial down that enthusiasm a little -- the wait for a few more features continues.
+
+

@@ -1,0 +1,4 @@
+
+Current VR just can't match our natural experiences -- real life doesn't have much lag, for example. However, Oculus has just published a pair of research posts showing the ways that it's closing the gap between simulation and reality. Steve LaValle, Oculus' Principal Scientist, explains how prediction minimizes the latency inherent to head tracking; coder Tom Forsyth, meanwhile, has advice on what developers can do to reduce motion sickness. Both studies dive deep, and may not be for the faint-hearted. If you're willing to follow Oculus down the rabbit hole, however, you may learn a thing or two about VR's future.
+
+

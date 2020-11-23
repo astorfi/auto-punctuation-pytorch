@@ -1,0 +1,9 @@
+
+ 
+Itching for some Chrome OS? Well, we all are, but you might be a bit disappointed at the fact that while Google has open-sourced its progress on the OS so far, the version that is currently available for download seems eons behind what Google showed off at its event yesterday. Still, if you just have to see it for yourself, the good news is that it's a total breeze to get a virtual machine running. We used a VMWare image that was packaged up by the kind folks at gdgt, and set it up with VMWare Fusion running on a recent model MacBook Pro. Your mileage may vary depending on your particular setup (there's also an image available for the free, cross-platform VirtualBox software), but the principles should remain the same. Check it out on video after the break.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,19 @@
+
+The oft-rumored Nexus 5 is turning into quite a riddle. If you've been following the saga, there has been no shortage of drama in recent memory. Most recently we saw a Google employee snapping pictures with an unknown LG-branded Nexus at HQ in Mountain View -- in an official video, no less, which was almost immediately taken down -- and now a smartphone dubbed the D820 has been approved by the FCC. Certainly, we don't want to just assume that every LG phone getting Federal approval for the foreseeable future is an N5, but there are a few clues in the paperwork that give us plenty of reason to nail this down as the primary suspect: first, the image above, taken from a section detailing the device's Qi wireless charging capabilities, shows the inside of the back cover. When comparing it to the phone revealed at the HQ slip-up, the two pictures line up incredibly well.
+
+
+The D820 also features 7-band LTE, some of which are compatible with AT&T, T-Mobile and Sprint (bands 2/4/5/17/25/26/41), CDMA / EVDO rev A, pentaband DC-HSPA+ and quadband GSM / EDGE, Bluetooth 4.0, NFC and dual-band 802.11 b/g/n/ac. That's an amazingly healthy list of specs for your usual FCC submission, and the list of LTE bands is quite stunning as well. If it's not the Nexus 5, it's certainly going to be one heckuva flagship. Question is, how much doubt do you have? As usual, we leave you with the docs for you in case you have a burning desire to do some digging yourself.
+
+
+Update: Our commenters have noticed some more nuggets in one of the docs: an admission that the phone is running firmware M8974A, and the software version listed is "aosp_hammerhead-userdebugKyeLimePieFACTORYeng.sangjoon84.lee.20130618.015154." The firmware seems to indicate a Snapdragon 800 SoC, which wouldn't surprise us in the least, and the software appears to suggest that it's running KitKat (Key Lime Pie), weird typo aside.
+
+
+Update 2: In a good catch by Brian Klug from Anandtech, the docs also clearly indicate that this device will have a 5-inch display (4.96-inch, to be exact), and measure 131.9mm tall and 68.2mm wide. Check out the screenshot here.
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,7 @@
+
+ Cupertino says it is has suspended push email via iCloud or MobileMe for users in Germany, due to "recent patent litigation by Motorola Mobility." Numerous disputes currently rage between the two companies, but this issue likely relates to a recent injunction Motorola won against iCloud. Push still works for Contacts and Calendars, but there's a page up on Apple's German support site (see the source link) telling people to use the Fetch settings on their iOS device to collect emails. There's a similar page on Apple's US site giving the same instructions to users who are travelling to Germany. Meanwhile, push email for OS X and via other service providers such as Microsoft Exchange Active Sync, is unaffected.Update: We've heard back from Apple and for its part, it is treating this as no big deal, focusing on the fact that it only applies to push email specifically and customers can still receive their emails other ways as mentioned above. As it is, it says this will affect only a "limited number of customers." Check after the break for the company's statement.
+      
+
+ 
+  This ruling only impacts customers in Germany who use a Push setting to get their MobileMe and iCloud email. These customers will still receive email to their devices. Apple believes this patent is invalid and is appealing the decision.
+

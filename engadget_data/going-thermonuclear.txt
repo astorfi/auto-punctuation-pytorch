@@ -1,0 +1,21 @@
+
+ Each week Ross Rubin contributes Switched On, a column about consumer technology.
+ 
+  More Info   PSA: Which iOS 6 features can my device run?  WWDC 2012  Apple vs. Google gets personal: 'Steve Jobs simply hates Eric Schmidt' (video)  At the debut of the T-Mobile G1, Switched On identified the central conflict that would quickly tear apart the goodwill between Apple and Google. In fact, in Steve Jobs' authorized biography, Walter Isaacson quotes the late Apple CEO on Android, noting that the he was prepared to "go thermonuclear war" on the iOS competitor. Indeed, the first WWDC since Jobs' death was filled with enough anti-Google swipes to smudge every iPhone screen in Moscone West. But the verbal lashings were nothing compared to the beating back that Google and Android took in relation to iOS 6 feature announcements.
+
+
+
+ Siri Expansion Apple could have significantly increased its content and service partnerships or opened a Siri API to developers. It did neither, but opted instead to extend its domain expertise, showing off sports, movies and restaurant reservations. In tackling sports and location, Apple moves further into leveraging Siri as a search end-run and moves toward integrating search and transactions (see: Passbook). The company has also started an ambitious program of integrating a Siri button into car steering wheels and announced nine auto-making partners including Audi, Mercedes, GM, Toyota and Honda. This is clearly intended to take the iPod dock integration with which Apple was so successful to the next level and poses a challenge to the Sync system Ford has developed with Microsoft.
+
+ Facebook Integration Seeking to make the iPhone the best Facebook experience on a smartphone, Apple has apparently been able to get back to the negotiating table with Facebook and integrated the social network in its mobile and desktop operating systems. In fact, Facebook has been embedded more deeply than Twitter, although this is in part due to Facebook simply being a richer service.
+
+ Maps Overhaul Apple has finally rolled out the long-rumored replacement for the Maps application and integrated free turn-by-turn directions. Nice touches include Siri integration, on-the-fly local resources and rerouting. Navigating with 3D building visualizations, sometimes a tricky endeavor, seemed to work well.
+
+ Passbook E-wallet Foray Continuing the transaction trend driven with Siri, Apple has moved tentatively into the e-wallet space with Passbook, which aggregates loyalty cards and tickets. Most of the activity seemed to focus on QR codes but Apple may be setting the stage for an NFC-equipped iPhone.
+
+ WWDC sure looked a bit like the Android armageddon. Apple is circumventing search with Siri, taking on Google Maps, beginning to move against Google Wallet (tentatively, for now) and cozying up with Google rival Facebook. Even integrating Apple ID with phone numbers may cause challenges for Google Voice users.
+
+ But also in these instances, and in many cases beyond these features, there's a strong customer-focused argument for why Apple chose implementation. Only a foolhardy company would let revenge be the driving force behind product development. On the other hand, one can see how Apple might want to take control of navigation on iOS and avoid having Google know what's needed to integrate maps with Siri for competitive reasons. After all, an ice cream sandwich is not the only dish best served cold.
+
+ Ross Rubin (@rossrubin) is executive director and principal analyst of the NPD Connected Intelligence service at The NPD Group. Views expressed in Switched On are his own.
+

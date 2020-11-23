@@ -1,0 +1,49 @@
+
+ 
+
+
+
+ 
+Gala1
+Flash 101
+
+
+
+
+
+
+
+2.40GHz Core i5, NVIDIA GeForce GT 330M 256MB2
+
+
+Safari 4.0.5
+95.4 - 152.8
+74.2 - 123.5
+
+
+Firefox 3.6.4
+83.5 - 148.4
+89.4 - 130.5
+
+
+2.66GHz Core i7, NVIDIA GeForce GT 330M 512MB2
+
+
+Safari 4.0.5
+59 - 64
+96 - 132
+
+
+Firefox 3.6.4
+69 - 79
+111 - 140
+
+
+
+
+So we just put a few minutes aside to put Adobe's new "Gala" build of Flash 10.1 through its paces on our latest-generation Core i5 and i7 15-inch MacBook Pros here, and the results are a little confusing to say the least. On our i7 equipped with the high-res display and 512MB GeForce GT 330M, processor utilization playing a 1080p sample video on YouTube dropped by a third to a half on average -- not bad -- with Safari 4.0.5 besting Firefox 3.6.4 by a smidge. Our i5 saw strangely different numbers, though, with Gala actually increasing the load on the CPU by as much as about 20 percent. Adobe is quick to note that this is nothing more than a rough preview release; Apple just unlocked access to the necessary hardware a few days ago, after all, and we're sure the company still has plenty of optimization to do. Ultimately, if our i7 figures are realistic, it should make high-def Hulu a decidedly less drama-packed experience down the road.
+
+Notes:
+1 Performance measured by processor utilization (note that numbers greater than 100 are possible on multi-core machines).
+2 15.4-inch high resolution display, 256GB SSD, 4GB RAM
+ 

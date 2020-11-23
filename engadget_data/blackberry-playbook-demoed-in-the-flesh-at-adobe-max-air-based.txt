@@ -1,0 +1,11 @@
+
+ 
+RIM's PlayBook just got real -- quite literally -- at Adobe's MAX conference today. Granted, out-of-the-box Flash and Air support are being billed as a big deal for the PlayBook, but it still seems a little strange that the company showed non-functional dummies running video loops encased in Plexiglas at its developer conference just a few weeks back, only to let Adobe show the good stuff at its own event here. There is some logic behind it, for what it's worth: Adobe and RIM have announced availability today of an Air SDK targeting the PlayBook's QNX-based platform with deep hardware integration, giving devs plenty of ramp-up time considering that the tablet won't be available until early next year. Kobo was among the companies on-hand to talk about the sheer awesomeness of the dev environment, and the general attitude toward the PlayBook's ease of development seems to be a positive one; we all know how important third-party apps are to a mobile platform's success at this point, of course, so we'll need a few thousand more Kobos on board to leave these guys with a happy ending. Check the full demo from the MAX keynote stage after the break.
+
+Update: RIM co-CEO Mike Lazaridis -- who was up on stage with Adobe's Kevin Lynch for the demo -- announced that devs who get PlayBook apps approved into App World will get a free PlayBook. Not a bad incentivizer, if we do say so ourselves.
+      
+
+ 
+
+
+ 

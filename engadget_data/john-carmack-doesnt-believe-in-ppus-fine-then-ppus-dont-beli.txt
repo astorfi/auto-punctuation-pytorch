@@ -1,0 +1,6 @@
+
+ 
+We wouldn't go so as far to say that developers in the dedicated PPU world are "firing back" over John Carmack's statement last week that he is "not a believer in dedicated PPUs," but we would at least say that they're offering alternative opinions. In a recent Bit-tech article, Ageia's Dan Forster tackles concerns over the need for PPUs, and (in)directly addresses Carmack's statement that "multiple CPU cores will be much more useful in general," by suggesting that no matter how many cores are involved, there are timing issues between them when being distributed to separate tasks. Forster claims "At the moment, there's not a single game that supports multi-threading even at a basic level..." Leaving some of us to wonder just what Carmack is on about -- but do you really want to question the man who created Doom? Didn't think so.
+      
+
+ 

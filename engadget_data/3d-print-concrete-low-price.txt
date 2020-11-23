@@ -1,0 +1,9 @@
+
+
+It's the dream of many to build their own home, but financial, temporal and technical limitations mean that few of us ever do. At least, that's the situation right now. An inventor from Minnesota is currently trying to build an enormous 3D printer that'd do for housebuilding what the technology has already done for small colored plastic widgets. Andrey Rudenko is currently working on hardware that'll help him build his next home, but that could also be sold to contractors for "the cost of a car." Admittedly, we don't know what sort of whip is in Rudenko's driveway, but presumably that's a small price to pay for the control on offer.
+
+
+
+Despite the fact that the hardware is so much larger than desktop 3D printers, it uses the same Arduino Mega 2560 hardware that you'll find in other homemade projects. In order to make it affordable to more than just a select few, the creator is using a cheap cement-and-sand mix, which is layered out 20mm at a time, holding its shape long enough for an operator to add-in some steel reinforcement before it hardens. Rudeno is planning to make a splash with the tech later in the summer, as he's working on building both a small playhouse to test out the concept, before finding a plot of land upon which we can cook up a full two-story house.
+
+

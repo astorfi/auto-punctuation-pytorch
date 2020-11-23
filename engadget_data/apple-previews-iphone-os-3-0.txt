@@ -1,0 +1,40 @@
+
+ 
+As promised, Apple just debuted its upcoming iPhone OS 3.0. Much of the news seemed developer-centric, but there are certainly plenty of consumer implications down the road, along with long-awaited functions like copy and paste, A2DP, MMS and universal Spotlight search. Improvements include:App and developer functionality (more here)
+
+Peer-to-peer connectivity over Bluetooth for gaming and other info-swapping.
+Paid apps will have the potential to be subscription fee-based, and can include optional paid content that can be bought from right inside the app.
+Developers can now build apps that call out to Google Maps, and can also finally bring Apple-blessed turn-by-turn to the phone.
+Devs can also connect with hardware accessories over in their apps now, such as a blood pressure monitor -- or perhaps a keyboard? Connectivity works through the dock connector or over Bluetooth.
+Long-promised push functionality will at last be included, but apps won't run in the background.
+Developers can add streaming video and audio to their apps, along with in-game voice use.
+
+General functionality
+
+Cut, copy and paste. At last! You can shake the phone to undo and redo the action, and it works with both text and photos, allowing Mail to send multiple photos at a time. (more here)
+MMS, along with forward and delete for multiple messages. (more here)
+A2DP stereo Bluetooth.
+Unlocked Bluetooth functionality on 2G iPod touch. (more here)
+Spotlight has been added to a new home screen page to the left of existing pages, allowing for universal search on the phone. (more here)
+Tethering is built into 3.0, and Apple will work with carriers on that -- who will have the last say on its implementation, most likely.
+App Store will be available in 77 countries.
+Parental controls for TV shows, movies and App Store apps.
+Auto-login for WiFi hotspots.
+
+Apple apps
+
+A new app called Voice Memos which lets you record notes and reminders.
+A revised Stocks app, with news stories and a landscape view.
+Landscape view available for Mail, Text and Notes.
+CalDAV support has been added to Calendar, along with subscriptions support in the .ics format.
+Apple's major apps have all been expanded with search functionality.
+Note syncing to Mac and PC.
+YouTube account support.
+Form auto-fill.
+Phishing protection.
+Shake the shuffle iPod playback.
+
+A developer beta of OS 3.0 is available today, and the 3.0 update will be coming to consumers this summer as a free update to all iPhone 3G customers. It'll also work for 1st gen iPhone owners, though they won't receive A2DP or MMS due to hardware limitations. iPod touch owners will be able to update for $9.95, just like last time.
+
+
+

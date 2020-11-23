@@ -1,0 +1,40 @@
+
+ 
+ NVIDIA's Kepler-powered Quadro K5000 GPU will be making its way to Apple's Mac Pro systems, the company announced today at IBC. The professional graphics card made its debut earlier this summer and is slated to ship beginning in October for $2,249. Timing for the Quadro K5000 for Mac isn't quite so firm, with NVIDIA simply stating that it'll ship "later this year," though pricing is expected to be in line with the previously announced flavor. The next-gen GPU is said to offer up to 2x faster performance over the Quadro 4000, while also delivering 4K display support, quad display capability through two DVI-DL and two DisplayPort 1.2 connectors, and 4 gigs of graphics memory. Furthermore, each Mac Pro will be able to support up to two separate cards, should you need the extra power. You'll find full details in the press release after the break.
+
+
+
+  Show full PR text   Mac Pro Users Gain Unprecedented Performance with NVIDIA Quadro K5000
+   Most Powerful Professional GPU Ever for the Mac Dramatically Accelerates Design and Content Creation Workflows
+
+   AMSTERDAM-IBC 2012-Sept. 7, 2012-Mac professionals will benefit from dramatically improved graphics performance and productivity with today's announcement of the NVIDIA® Quadro® K5000 for Mac Pro systems.
+
+   Based on NVIDIA KeplerTM architecture – the world's fastest, most efficient GPU design – the Quadro K5000 for Mac is the most powerful professional-class GPU ever for the Macintosh, delivering unprecedented visualization and computation capabilities for designers and digital content creators.
+
+   Key features of the NVIDIA Quadro K5000 GPU for Mac include:
+
+   Cinema 4K display support (4096x2160 resolution),(1) which enables content creators to process and view high resolution cinema content
+
+   A new display engine that can drive up to four displays simultaneously(2)
+
+   4 GB graphics memory that provides faster interactivity when using design and content creation applications
+
+   Based on NVIDIA Kepler architecture, which enables the Quadro K5000 GPU for Mac to run key content creation applications up to 2x faster at lower power than the Fermi-based Quadro 4000 for Mac(3)
+
+   Support for up to two Quadro K5000 GPUs for Mac in a single Mac Pro
+
+   Support for OpenGL, OpenCL and NVIDIA CUDATM
+
+   "The NVIDIA Quadro K5000 has great OpenGL and CUDA performance, so it's ideal to use as a shared GUI and image processing GPU in DaVinci Resolve 9," said Grant Petty, chief executive officer, Blackmagic Design. "Like many artists who use DaVinci Resolve, colorists seek the highest performance possible from their systems, and with just one of the new Kepler GPUs our users will be able to work with 4K imagery on their Mac Pros in real time."
+
+   NVIDIA Quadro K5000 for Mac is ideal for professional applications such as video editing, color correction, compositing, design visualization and GPU-accelerated ray-traced 3D rendering. In addition, the Quadro K5000 for Mac retains its full performance and features when using Apple Boot Camp and running Microsoft Windows-based professional PC applications.
+
+   "Quadro K5000 for Mac will have a transformational impact on the digital content creation workflow," said Greg Estes, media & entertainment industry executive at NVIDIA. "We're giving Mac Pro users the most powerful professional GPU ever for the Mac, with features and performance that will make a substantial difference in their workflows and allow them to create digital content at speeds never before possible."
+
+   NVIDIA Quadro GPUs are designed, built and tested by NVIDIA to provide the superb reliability, compatibility and dependability that professionals require, and Quadro GPUs are certified and recommended by leading software application providers worldwide.
+
+   Availability and Pricing
+
+   The NVIDIA Quadro K5000 for Mac is planned to be available later this year from select Apple resellers and system integrators, and from authorized distribution partners, including PNY Technologies in the Americas and Europe, ELSA in Japan and Leadtek in Asia Pacific. Estimated pricing starts at $2,249.
+
+ 

@@ -1,0 +1,30 @@
+
+Samsung's Knox security solution has tended to mostly garner headlines when the company's phones get approval from the likes of the US Defense Department, but it's now set to broaden its user base considerably. In addition to announcing that it's bolstering the offering with some help from Lookout, Samsung has also confirmed today that its opening the platform up to all consumers. That will give security-minded users an added layer of protection, with Knox letting you store personal data and run a set of pre-screened apps in a so-called container -- other apps can still be run outside the container, but with only limited access to your personal information. Naturally, you'll need a Samsung device to take advantage of it. The company says all of its upcoming devices will offer support for the service, and it's promising to provide details on commercial availability for the Galaxy S III, Galaxy S4, and Galaxy Note II "shortly."
+
+
+Follow all of our IFA 2013 coverage by heading to our event hub!
+
+Show full PR textSamsung KNOX Available for Use by Consumers
+Samsung Electronics announced the commercial availability of Samsung KNOX for use by consumers.
+
+Samsung KNOX is an end-to-end solution that provides security hardening from the hardware through the application layer. Samsung KNOX implements a concept called "container" that is a separate secure execution environment for a set of pre-screened applications to run and store data.
+
+Applications running outside the container have only limited access to the data stored inside the container where security is enforced by system-level protection of Samsung KNOX. User data stored in the container is protected from malware and phishing attacks as well as hacking attempts on physical devices when devices are stolen or lost.
+
+Samsung originally announced earlier this year the availability of Samsung KNOX for use by enterprise by giving IT departments the comprehensive control they need, without infringing on employees' privacy and keeping them satisfied with the consistent user experience of their personal device.Samsung, since then, has extended its security features to enable consumers to activate the container without involving the IT department and store important personal data inside the container. For example, important personal pictures or video can be stored in the container with no worries for data leakage due to hacking.
+
+In addition, users may choose to store enterprise applications and data such as corporate email, contacts and calendar allowing the IT department to manage the container through EAS (Exchange ActiveSync Server). These features make Samsung KNOX an ideal platform for BYOD (Bring-Your-Own-Device to work).
+
+"Samsung KNOX represents Samsung's strong commitment towards making its devices BYOD-ready with the necessary security and feature enhancements,"
+
+- Dr. Injong Rhee, Senior Vice President of KNOX Business Group, Samsung Electronics.
+
+"We are delighted to see Samsung KNOX provide advanced data and privacy protection for both enterprises and consumers. The availability of Samsung KNOX to consumers will accelerate the adoption of Samsung devices for BYOD as prosumers can now readily experience Samsung KNOX with ease at no cost." said Dr. Injong Rhee, Senior Vice President of KNOX Business Group, Samsung Electronics.
+
+Samsung KNOX-enabled devices are approved by the U.S. Department of Defense (DoD) for use in DoD networks. Samsung KNOX will be commercially available across the globe on all Samsung's upcoming high-end smartphones and tablets including GALAXY Note 3 and GALAXY Note 10.1 (2014 Edition). Schedules for its availability to other market-deployed devices such as GALAXY S Ⅲ, GALAXY S4 and GALAXY Note Ⅱ will be shortly announced.
+
+For more information about Samsung KNOX, please visit http://www.samsungknox.com.
+
+- See more at: http://global.samsungtomorrow.com/?p=27415#sthash.KcBzPnFH.dpuf
+
+

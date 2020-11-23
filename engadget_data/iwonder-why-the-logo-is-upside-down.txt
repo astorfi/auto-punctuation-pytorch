@@ -1,0 +1,10 @@
+
+       
+Among Marvell's many demos at MWC this year was a curious white tablet out of well-traveled ODM Foxconn -- the so-called iWonder -- that will see duty in China later this year. It's got a pretty awful 10.1-inch display (resistive with nary a trace of meaningful brightness or contrast), but when you consider that they're targeting an exceptionally thrifty price point in the low $100s, it's actually a pretty reasonable package. It's got Android 1.6, WiFi with a dedicated hardware on-off switch, an accelerometer (though it was totally flaky on the version we used), and a handful of touch-sensitive buttons around the bezel, including last- and next-page buttons for using the iWonder as an e-reader. Marvell touts that the tablet is using its reference design as a starting point -- now the next trick is helping Foxconn find a decent LCD supplier. Follow the break for some video of the iWonder showing off its Donut prowess -- if you can avoid the distraction of the curiously inverted logo, that is.
+
+
+
+
+
+
+ 

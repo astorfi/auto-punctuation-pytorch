@@ -1,0 +1,19 @@
+
+ 
+ Samsung isn't content to leave fast NAND flash memory to traditional solid-state drives. Its Pro Class 1500 promises a big jolt to the performance of frequently pokey smartphone and tablet storage. By how much? That name is a clue -- it reaches 1,500 IOPS (inputs/outputs per second) when writing data, which along with 3,500 IOPS data reads is about four times faster than any previous embedded flash chip Samsung has tested. In the real world, that leads to as much as 140MB/s when reading data and 50MB/s for writes. The speed comes after Samsung has thrown virtually every trick in the book at its new chips, including a dense 20-nanometer manufacturing process, quick toggle DDR 2.0 memory with its own controller and a new JEDEC memory standard with 200MB/s of bandwidth to spare. Samsung hasn't named customers for the 16GB, 32GB and 64GB parts that are rolling out of the factories, although we'd do well to remember that a flourishing phone business doesn't guarantee that the only major customer is Samsung itself: even in the face of legal challenges, Samsung still has at least one noteworthy client that tends to snap up much of its flash supply.
+
+
+
+  Show full PR text   Samsung begins producing fastest embedded NAND Storage
+  Samsung Electronics announced that it has now begun volume production of an ultra-fast embedded memory for smartphones, tablets and other mobile devices in 16-, 32- and 64-gigabyte (GB) densities.
+  The new Samsung eMMC (embedded multimedia card) Pro Class 1500 delivers the industry's fastest speeds for an embedded memory device, reading data sequentially at up to 140 megabytes per second (MB/s) and writing it at up to 50 MB/s. For random reading and writing, it can process up to 3500/1500 IOPS (inputs and outputs per second)*, four times the speed of previous eMMC solutions.
+  "With the production of 64GB Samsung eMMC Pro Class 1500, we are delighted to provide the highest performing mobile storage solutions available that support the latest eMMC standard, for worldwide mobile device makers," said JaeHyeong Lee, vice president, Memory Product Planning & Application Engineering, Samsung Electronics. "We will confidently strengthen our research and development efforts to continually bring to market the most advanced mobile storage devices based on next-generation standards."
+  The Samsung eMMC Pro Class 1500 is designed for next generation premium mobile products. It will improve system performance and the user experience for a wide variety of applications including web browsing, 3D and HD video capture and playback, multi-tasking activities, augmented reality and the use of social networking sites and interactive graphics-rich gaming.
+  The ultra high-speed storage device uses Samsung's 64-gigabit (Gb) NAND with a toggle DDR 2.0 interface based on the company's latest 20 nanometer class** process technology. The new eMMC's fully managed NAND memory comes with its own high performance controller and intelligent flash management firmware.
+  To meet the market need for thinner designs for high-end mobile devices, Samsung offers the new eMMCs in two, four- and eight-die stacks with the largest capacity of 64GB's being only 1.2 millimeters thick.
+  Samsung eMMC Pro Class 1500 is the first to support the latest JEDEC e-MMC v4.5 specification that standardizes more features to improve performance, efficiency, security, and reliability such as: a SDR-200 Interface (200MHz, 200MB/s Max Bandwidth), cache handling, dynamic handling, file sanitizing and power-off notification.
+  Featuring highly reliable boot code and application storage, Samsung's 64GB eMMC can store 16,000 MP3 files in a single package that weighs only 0.6 grams.
+  Samsung provided the first 64GB eMMC in January of 2010 using 30nm-class** 32Gb NAND flash components.
+  For more information about Samsung memory, visit
+  www.samsungsemi.com or www.samsung.com/memory
+ 

@@ -1,0 +1,6 @@
+
+ Thanks to a partnership with AMD and Microsoft, Aviary's Photo Editor SDK will be available to Windows 8 developers starting today. While in the long run this could mean Windows 8 will gain more photo-centric apps, this new SDK will bring the the photo service to apps running on Windows 8 notebooks and tablets immediately, and those devices running AMD processors should benefit from "higher, optimized performance," according to the company.
+
+ The Aviary app has been available on iOS and Android since last summer, though its customizable SDK is also used by services such as Flickr and Twitter, which integrate the photo-editing features into their respective apps. To kick off its launch on Microsoft's most current OS, Aviary announced partnerships with Rowi, Memorylage and several other apps available for download in the Windows Store.
+
+

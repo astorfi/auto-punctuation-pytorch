@@ -1,0 +1,52 @@
+
+Twitch was an accident. The live video-streaming service, which boasts over 55 million unique users each month, began life in 2007 as "Justin.tv": an all-hours video livestream of co-founder Justin Kan's life. That wasn't the whole point of the service, of course; later that year, Justin.tv opened up to the public, who could then "livestream" to various "channels." At its inception, Justin.tv was a form of internet television, offering live broadcasts across a variety of topics. One such topic -- gaming -- took a particularly large portion of Justin.tv's audience. So much so that, in 2011, the company spun out gaming into its own website: Twitch.tv. Three years later and Justin.tv is dead, the company is now known as "Twitch Interactive" and Amazon just bought it for $970 million. Not too shabby for an "accident."
+
+
+
+WHAT IS TWITCH?Like Justin.tv, Twitch.tv is a live video-broadcasting service. Unlike Justin.tv, Twitch focuses solely on gaming. More specifically, Twitch focuses primarily on e-sports: the burgeoning world of competitive games played professionally for money.
+
+
+For example: Twitch hosts a non-stop livestream of "The International," an annual game tournament. At The International, teams compete in a Valve game named DOTA 2. Twitch broadcasts those games in real time. This year, over 20 million people tuned in. Over 2 million people tuned in simultaneously at one point. Oh, and the winning team took home just over $5 million.
+
+So, what are those 20 million people watching? They are literally watching live video of a video game being played by other human beings. The live video often has commentary (sometimes by the players themselves, other times by different folks), and frequently has a picture-in-picture view of the player's face. That description can be applied to much of the content on Twitch, albeit with varying levels of production. The International (seen below) is a massive event, so its stream has very high production values.
+
+
+In short, Twitch is mainly a venue for e-sports fans to watch live e-sports. But there's another side to Twitch: participation. Within each Twitch user's channel is an embedded chat widget, enabling the person (or people) broadcasting live video to interact directly with viewers. Interactivity expands the use of Twitch beyond simply watching e-sports being played live.
+
+For example: Game-development studio Vlambeer uses its Twitch channel to broadcast a weekly stream of game development. Since its game is already available to purchase, fans can offer feedback directly on what they've played, see what's currently in development and even influence the final product. It's a direct pipeline from development team to player.
+
+
+But these two examples are exceptions to the rule. They represent the "premium" end of Twitch's content -- the "whales" (the ones with especially high viewer numbers). Anyone can broadcast games on Twitch -- even Engadget! -- and, beyond using the web interface on a computer, it's built into both the Xbox One and PlayStation 4. There's even a new Android tablet with Twitch broadcasting capability built in. That accessibility means that the vast majority of video content broadcast on Twitch is, well, "just some person playing a game." Some channels attract millions of viewers. Some attract single digits.
+
+WHO'S USING TWITCH? AND WHY?Twitch's full user base is enormous: over 55 million "unique viewers" use Twitch annually, and over 1 million people use Twitch to broadcast each month.
+
+Not these guys
+The heavy hitters -- that is, the channels with the most views -- tend to be "partners." Twitch describes its "partner" program as such: "an exclusive group of the world's most popular video game broadcasters, personalities, leagues, teams and tournaments." That includes everything from The International to live broadcasts of press conferences; at this year's big gaming trade show, E3, Twitch carried live broadcasts of every console maker's press conference.
+
+That said, the people broadcasting on Twitch vary dramatically. Though e-sports dominates the most-viewed list, Twitch is home to some incredible -- and incredibly bizarre -- user-generated content. Take, for instance, "Twitch Plays Pokémon." Using Twitch, a programmer in Australia created an interactive game for Twitch viewers. He combined an emulation of Game Boy classic Pokémon Red with a bot that took text from chat. If a viewer entered "up" in chat, the character in Pokémon Red would move up. Simple enough! It becomes far less simple when hundreds of thousands of people are entering commands all at once. The result is what you see below.
+
+Madness
+Unbelievably, the game was eventually completed solely based on community commands. The system actually defeated a whole mess of Pokémon games. And now, fish are getting in on the action. Really!
+
+Yet another use of Twitch: the phenomenon known as "speedrunning." The term literally means to complete a game as quickly as possible. Sound lame? Watch this incredible video of Nintendo classic Super Mario 64 being defeated in under 10 minutes.
+
+One particularly interesting subcommunity is helmed by the group "Games Done Quick" (GDQ). Each year, the group holds two marathons of non-stop live speedruns in an effort to raise money for charity (this summer's event already happened, and it raised over $700,000 for Doctors Without Borders). In total, the group's raised just shy of $3 million for charity by playing games as fast as humanly possible while live broadcasting the whole thing.
+
+As for the general public, live broadcasting became far more mainstream when it entered the living room. With Xbox One and PlayStation 4, living rooms were suddenly thrust online in full view of the world. In the case of PlayStation 4 tech showcase The Playroom, Twitch was forced to outright ban the game; it enabled users to directly broadcast a full-screen video feed of their living rooms. As you can imagine, that led to some occasionally lurid content.
+
+
+Of course, that's also the exception -- many are simply using Twitch, and game broadcasting in general, as a social platform. Their friends are online, and they can participate remotely in each other's games, follow the same people and broadcast or watch together. It fosters community, and it's instantly relatable to a generation that's grown up with fast internet and computer ubiquity. As Ben Davis wrote in a recent New York Magazine piece, "So much of social life has migrated online already; why wouldn't it be the entertainment that was live and social and digital that feels most vital?"
+
+WHY SHOULD I CARE?Perhaps you like money? With Twitch's huge user base, there's plenty of opportunity to jump in and get broadcasting. Between running ads on your content through Twitch's partner program and charging a subscription price to your channel (which gives viewers an ad-free experience), you could make it a full-time gig. Of course, you're one of millions. But that never stopped anyone before, right?
+
+Okay, okay -- let's appeal to your more reasonable senses. This whole e-sports and live broadcasting thing is quickly becoming a pretty big deal. Maybe you dig traditional sports? E-sports might be your thing. The same rivalries transpire, and it's full of the same human emotion. All the words they're saying might sound like jargon at first, but that disappears after a few intense matches pique your interest.
+
+
+Though e-sports gained prominence with the mass popularity of competitive first-person shooter games like Call of Duty and Halo, the games dominating Twitch's charts now are of the "MOBA" genre (multiplayer online battle arena). Of this genre, millions are playing League of Legends and DOTA 2. Though from different developers and made independently of each other, both games are nigh identical in the way they play. Like sports, there is only one "arena" where players compete. Teams battle for control of the other's side, carefully organizing tactics and strategies to win. In so many words, it's a hell of a lot like traditional sports.
+
+Loaded as the term "e-sports" may sound, Twitch offers a great (and free) opportunity to give them a shot. At the very least, the fantasy sports players among you will feel right at home.
+
+WANT EVEN MORE?Despite Twitch's relative newness as a company and service, there's been quite a bit of words spilled in that time. From New York Magazine's excellent recent breakdown of the company's purchase by Amazon, to our sister site Joystiq's coverage of Twitch Plays Pokémon, to The Next Web's interview with Twitch when the company spun out its video game arm, there's quite a bit of material out there. Oh, and there's the BBC's recent take on defining the service's importance to the uninitiated (seen above) and this recent piece from the New York Times which digs in on e-sports.
+
+[Image credits: Twitch (ESL TV); BBC Newsnight ("What is Twitch?"); Suzi Pratt/FilmMagic (The International DOTA 2 Championships, 2014); Vlambeer (Nuclear Throne devstream); Shutterstock ("Gamers"); Twitch Plays Pokémon (via Joystiq); Twitch (Fish Plays Pokémon); Sony Computer Entertainment/Reddit (The Playroom); YouTube]
+

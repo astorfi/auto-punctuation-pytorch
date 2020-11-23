@@ -1,0 +1,6 @@
+
+ 
+Just as we lay to rest the ghost of a phantom Tegra 2 chip inside the LG Revolution, here comes the specter of another unconfirmed appearance for NVIDIA's dual-core application processor, this time inside Samsung's Galaxy S II. If you'll recall, we were initially informed by Samsung's PR crew that their new Android flagship would run on NVIDIA's hardware, however a subsequent correction informed us that the processor inside would in fact be Samsung's own Exynos. Now, it turns out, both might be true. AnandTech have come across some benchmark results showing a GT-i9103 with Tegra 2 listed as its grunt provider, while Pocket-lint and others have noted that Samsung's own spec sheet for the Galaxy S II states that the dual-core Exynos "may not be applicable in some regions." The likeliest scenario here is that Samsung hasn't yet reached sufficient volumes with its own processor production and will rely on NVIDIA's Tegra 2 for handsets outside its critical markets -- much in the same vein as it replaced Super AMOLED with Super Clear LCD screens in Russia and some other territories. Don't fret too much, though, performance disparities between the two aren't likely to be overly significant.
+      
+
+ 

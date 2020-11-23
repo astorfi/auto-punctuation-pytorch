@@ -1,0 +1,4 @@
+
+ Any smartphone owner who's ever watched a streaming HD video buffer... and buffer... and buffer on even LTE connections will appreciate the ITU's speediness today. Just months after MPEG proposed the extra-miserly H.265 video codec, the ITU has approved it as an official standard. As it's greenlit so far, the format (also known as High Efficiency Video Coding) includes 8-bit, 10-bit and photo-oriented profiles that should cover most 2D capture and playback. Pros are promised 12-bit and chroma profiles in the future, while there's work on 3D for all of us. We'll have to wait for both software support and hardware acceleration to reap the rewards, but there should be many: the halved bandwidth requirements have obvious benefits for cellular devices as well as 4K media delivery for that rash of giant TVs about to hit the market. Let's hope that camera and mobile device makers are just as impatient as we are.
+
+

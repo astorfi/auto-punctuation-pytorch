@@ -1,0 +1,10 @@
+
+The takeaway at today's Intel press event? All signs point to the RealSense product line -- a number of hardware and software products that "make interaction with technology simple, more natural and immersive," according to Intel's own words. The first product bearing the compound name is the RealSense 3D camera. Intel describes the product as "the world's first integrated 3D depth and 2D camera module that helps devices 'see' depth much like the human eye," suggesting that this isn't just a substitute for Leap Motion or Kinect.
+
+
+The camera does full-color 1080p and has an on-board sensor for gesture and face detection. The latter of which apparently helps it "understand emotions." It also recognizes foregrounds and backgrounds, so you can replace that messy room and make it appear as if you're Skypeing from the Moon. But, if you're looking for something more practical, you can also use it to scan objects in 3D using 3D System's Sense software. The RealSense 3D camera is set to be integrated into a number of diverse devices come the second half of this year, including tablets, Ultrabooks, laptops and all-in-ones, from top companies like Acer, ASUS, Dell, Fujitsu, HP, Lenovo and NEC. Seven such devices are being demonstrated today, and Intel itself has a demo unit.
+
+
+If you'd rather talk to your computer than wave at it, there's also a next-generation version of Dragon Assistant from Nuance that will be part of Intel's RealSense push. Of, course, while all this sounds good on paper, it remains to be seen how much people will actually want to wink, point or shout at their laptop to get it to open Netflix or point Chrome towards Engadget.
+
+

@@ -1,0 +1,13 @@
+
+
+
+"If you're in this room, you're the best of the best," Chris Anderson addressed the audience with his customary flair for the dramatic. Complimentary, sure, but not without merit -- the former Wired editor-in-chief was speaking to a classroom full of UAV (unmanned aerial vehicle) developers, a number of whom had been flown out on his company's dime to take part in DroneCon, the kickoff event for the SparkFun Autonomous Vehicle Competition held in Boulder, Colo. Anderson's 3D Robotics organized a packed schedule of talks on the subject of UAVs, commencing with his own opening address. He closed his remarks by introducing the concept of the Dronecode Consortium, an attempt to create a governing body of sorts to help create standards for the platforms on which these commercial and hobbyist vehicles run.
+
+
+Still in its early stages (with only his own company on board, really), Anderson was purposely vague about the not-for-profit pursuit, though the initial stated goal is the creation of a support structure for developers and the "creation of a sustained operating system" and a "framework for deciding which hardware to support." When we spoke to him after the speech, however, he admitted that "operating system" might ultimately be a little less accurate than "platform" and "ecosystem." That said, Android is certainly a fair analogy in some respects, given the sort of oversight roles commercial organizations play in both open software scenarios. And with the standard, comes the potential for both commercial and personal projects to build atop it.
+
+
+
+It's an interesting proposition, certainly, particularly in these relatively early days of the technology. There's no doubt the space will only continue to grow in the years to come, and there's certainly something to be said for the role of a steering committee. In the meantime, however, SparkFun's Autonomous Vehicle Competition is just getting started. Stay tuned for more coverage of the event.
+
+

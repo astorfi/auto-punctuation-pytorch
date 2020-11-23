@@ -1,0 +1,36 @@
+
+Last week we told you about Samsung's unannounced virtual reality headset: a peripheral that enables VR interaction for flagship phones from the world's largest phone manufacturer. This week we've got far more details. First things first, Samsung's headset is the fruit of a collaboration with Oculus VR, the Facebook-owned virtual reality startup that both literally and figuratively kickstarted the current wave of VR products.
+
+
+Oculus is handling the software side of the product, while Samsung handles the hardware. The deal is a swap: Oculus gives Samsung early access to its mobile software development kit and helps develop user interface software, while Samsung gives Oculus early access to its next-gen OLED screens. And yes, Oculus is still making its own, gaming-focused, PC-based virtual reality headset; that's why it needs next-gen, high-pixel-density OLED screens from Samsung. Join us below for new details about the device itself, as well as more on the unlikely partnership between two tech giants.
+
+
+
+THE PARTNERSHIP
+Samsung wants to be first to market with a virtual reality headset, but it doesn't want to invest the time and money that Oculus and Sony are. Oculus VR wants to create a high-quality virtual reality headset specifically for gaming, and it doesn't want to rush one out. And thus, a convenient partnership is born between the two companies: Samsung makes the OLED screens that Oculus needs for its final product; Oculus makes the software that Samsung needs for its upcoming headset.
+
+The partnership comes with both risks and rewards. On one hand, Samsung is a consumer electronics giant, and a company of that size investing in marketing and producing its own VR headset massively grows the medium. On the other hand, if it's a bad product, it has the potential to poison the well -- that is, it could be another Virtual Boy, thus making consumers even more apprehensive about VR as a medium.
+
+We're told by sources close to both companies that Samsung's using an early form of Oculus' mobile SDK -- an exclusive use as part of the deal -- developed in part by John Carmack. We were also told that the OLED screens that Oculus is getting as part of the deal are of higher resolution than 1080p, and that the screens will also be used in at least some of Samsung's next flagship phones. And this is where things get weird.
+
+HARDWARE DIFFERENCES
+Rather than having its own screen, Samsung's VR headset uses your phone directly. It plugs in using an existing port on your phone (think: micro-USB) and becomes the screen. The headset itself has built-in sensors -- an accelerometer at the very least -- so any motion-tracking functionality is offloaded from your phone's processor.
+
+The folks we spoke with who have dev kits are still running the headset on Galaxy S4 phones, and we're told it's a shockingly good experience. That said, the consumer device will run either a new version of the GS5 or potentially its successor -- either way, it'll be tweaked for optimal VR performance. The headset can be used with a paired game controller or as a standalone media device, navigated solely through motion and voice (we'll discuss that more below).
+
+Wait! Before you write it off forever as "one of those headsets that straps your phone to your face," we're told there are some pretty great benefits to using a mobile device. For one, the rear-facing camera allows for video passthrough. That's to say, "You can see through the phone using the rear camera, which shows a video feed of the outside world to your eyes." Pretty intense sounding, but a smart addition for making long-term use more realistic. While the latency is too great to make augmented reality applications possible, it's a convenient way to pause whatever you're doing and, say, have a sip of a tasty beverage.
+
+There are also buttons on the unit itself. There are standard Android buttons -- Home, Back, Recent Apps -- as well as some extra stuff. It's not clear what the other buttons are, but we're told that none of them are used for interactivity. That could, of course, change by the final unit; all of this could, potentially, but this is the current state.
+
+SOFTWARE
+Pictured: Oculus Rift's original dev kit with a Leap Motion attachedThe dev kit runs a basic UI. You're in an empty virtual 3D space, and you interact with various demos (floating objects) by nodding at them. Nod to select, basically. Don't expect that form of interactivity to make it into the final product, though. We're told that nodding isn't a strong contender for the final software; voice, touch (tapping on the headset spikes the accelerometer, which can be used as a "click") and just outright using a gamepad are all on the table.
+
+At this stage, the UI/OS is still very early. Heck, Oculus' mobile SDK is still very early, so the software it's able to build isn't close to a finished product. We were told about two different demos, neither of which involved interactivity. In one, you're at the beach with jamming hippies. In another, you dive from a plane (which is said to be, "pretty fucking nerve-wracking"). In both instances, our sources say they were impressed with the device.
+
+IT'S ALSO A MEDIA DEVICEFinally, expect Samsung to tout this device as a media player as well. "But Ben," you say, "There are very few media experiences for virtual reality headsets." That's a fact! Samsung's apparently looking at its VR device as a head-mounted display as well (like Sony's HMZ line). Gaming experiences are said to be pared down, and there's no guarantee it'll ship with a gamepad. This means that, while it's a gaming device, and there are VR games in the works right now for Samsung's headset, it's intended for a much larger market than just the early adopters who'll take a chance on VR. Both Samsung and Oculus are taking an interesting risk in partnering on this headset, and we're looking forward to hearing more. Perhaps you've got one and want to tell us all about it? Please feel free to get in touch.
+
+Oculus VR and Samsung declined to comment for this story.
+
+Mockup artist: Daniel Cooper
+
+

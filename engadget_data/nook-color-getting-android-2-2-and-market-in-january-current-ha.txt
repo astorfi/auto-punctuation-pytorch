@@ -1,0 +1,14 @@
+
+ 
+You had to know the hacking community was going to have a field day with the Nook Color -- a $249 Android Tablet hiding behind with a thin e-reader coating. Indeed it didn't take long to get rooted nor for Android 2.2 to get installed on there, but that particular hack comes with an interesting potential side-effect: small-scale thermonuclear explosions. Enabling FroYo requires disabling the device's battery monitoring process, the very one that would be responsible for shutting down the device before the cells start overheating and, ultimately, going critical. Yeah it's unlikely, but it could happen. Meanwhile, another hack has enabled the Android Market, but those instructions begin with a very daunting warning: "Very smart people have failed at this. If the following instructions confuse you, you might want to wait until an easier method has been developed."
+
+And, thankfully, there might be a much easier way coming, with Barnes & Noble reportedly telling Smartphone Mag that Android 2.2 will be officially coming to the Nook Color in January. Yes, Android 2.3 is what's happening, but this is still an exciting upgrade as it will finally also allow access to a traditional Android home screen and even enable the Android Market. 
+
+Update: Okay, cancel that order for an asbestos carrying case. One of the developers of the Nook Color root wrote in to let us know that there is a secondary temperature monitor which should keep things below the ignition point. Hack away -- or just wait a month.
+
+Update 2: Barnes & Noble PR just got back to us to reiterate that Nook Color's own shop will begin adding apps in early 2011 and that there are currently no plans to enable Android Market. Move along, nothing to see here, folks.
+
+[Thanks, Ryan]
+      
+
+ 

@@ -1,0 +1,21 @@
+
+ Thanks to Twitter's API changes that cut off the number of users for third party efforts, official app support has become more important and now there's one built for Windows 8. Available in the Windows Store now in 22 languages, it brings the Home / Connect / Discover / Me tabs found in other official apps, plus support for Windows new UI features like snap view, the search charm and Live Tiles. Support for the share charm means you can tweet from any Windows 8 app by swiping from the right edge, which also provides access to search. Windows Phone 8 users should recognize much of the design from the recently updated mobile app, especially in the minimized snap view. 
+ Despite the inclusion of social networking feeds in the People Hub, a dedicated app should make accessing the service much easier, although Twitter's design has left quite a bit of blank space to work with. Hit the Windows Store link below to load it up on your x86 or ARM Windows-powered device and let us know how it's working for you, or check out the video demo embedded after the break.
+
+
+  
+    Show full PR text    With Twitter, you can watch the world unfold like never before.
+
+   ** Get real-time stories, pictures, videos, conversations, ideas, and inspiration all in your timeline.  ** Follow people and your interests to get unfiltered access and unique behind-the-scenes perspectives.  ** Express yourself with photos, videos and comments.
+
+   Twitter for Windows 8 brings you all the design, features and functionality of Twitter combined with the fast and fluid technology of Windows 8:
+
+   - The Discover (#) icon shows you new topics from people in your network and other information like Trends and Who to Follow suggestions. But nowhere else can you scroll through Discover stories horizontally. Smoothly move through a collage of Tweets, pictures, links and article previews that make the most of your device.
+
+   - The Share charm makes it easier to tweet links, pictures and opinions to your followers from anywhere in Windows 8. Reading an article in Internet Explorer about Hawaii? Swipe in from the right edge of the device, tap the Share charm, add your comments in the Tweet and hit send.
+
+   - Create the ultimate screen with Snap view on Windows 8. Drag Twitter into the narrow side of the screen and slide in another favorite app. You can stream a live video while you watch the conversation about it unfold on Twitter. Then use the Share charm to join the discussion.
+
+   With many thanks to our over 200 million users!
+
+  

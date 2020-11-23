@@ -1,0 +1,6 @@
+
+ 
+NVIDIA may be kicking all kinds of tail on the mobile front with its ubiquitous Tegra 2 chipset, but back on its home turf of laptop and desktop graphics, things aren't looking so hot. The latest figures from Jon Peddie Research show that the GPU giant has lost 2.5 percentage points of its market share and now accounts for exactly a fifth of graphics chips sold on x86 devices. That's a hefty drop from last year's 28.4 percent slice, and looks to have been driven primarily by sales of cheaper integrated GPUs, such as those found inside Intel's Clarkdale, Arrandale, and most recently, Sandy Bridge processors. AMD's introduction of Fusion APUs that combine general and graphics processing into one has also boosted its fortunes, resulting in 13.3 percent growth in sales relative to the previous quarter and a 15.4 percent increase year-on-year. Of course, the real profits are to be made in the discrete graphics card market, where NVIDIA remains highly competitive, but looking at figures like these shows quite clearly why NVIDIA is working on an ARM CPU for the desktop -- its long-term survival depends on it.
+      
+
+ 

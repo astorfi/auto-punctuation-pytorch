@@ -1,0 +1,7 @@
+
+ 
+
+If online video streams and locally stored media aren't providing enough functionality for your Boxee Box, now you can watch regular TV on it too. The Digital Lifestyle mentions DVBLogic has released a new version of its DVBLink client for the device that lets you browse the program guide and watch live TV, provided you also have a home server set up with its software and a tuner. If you're not familiar with the software, it lets you turn most any UPnP-compatible device into an extender capable of caching live streams, with clients available for iPad / iPhone already, plus Android and WP7 on the way. You'll need the latest release candidate version of DVBLink Connect! server software to make it all go, then point your Boxee Box browser to the company's repository to download the client software and let us know how it all works out.
+      
+
+ 

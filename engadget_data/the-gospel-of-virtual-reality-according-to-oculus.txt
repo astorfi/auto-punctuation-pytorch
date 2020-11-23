@@ -1,0 +1,29 @@
+
+This past Saturday, I found myself in the front row of what felt like an old-time revival, only instead of religious zealots, I was surrounded by roughly 800 disciples of virtual reality. Onstage at the inaugural Oculus Connect VR developer conference, the high priests of the medium, Palmer Luckey, Brendan Iribe, Michael Abrash and John Carmack preached the gospel of presence -- the Holy Grail of virtual reality. Presence is a simple concept to grok once you've experienced it, though describing the feeling can be difficult. Essentially, presence is shorthand for what results when you fool the human brain into perceiving a virtual world as it does the real one.
+
+
+
+Oculus is closer than ever to delivering that experience with its latest prototype headset, code-named Crescent Bay, but a consumer version is still a ways off. According to Oculus founder Luckey, "All the tech needed to build the headset we want exists, but not all of it is in such a form that you can buy it in mass quantities." So, while the world waits for manufacturing to enable a final consumer product, Connect attendees got a taste of what that commercially viable headset will deliver -- thanks to handcrafted prototypes built with rare engineering-sample components.
+
+And what an experience it is. Crescent Bay is the best VR headset I've worn, full stop. You can read all about it here, but regardless of its current, fixable flaws, the demo with that prototype has me believing in the power of presence. And I suppose that's at least part of the reason why Oculus waited to hold its initial developer conference until now. VR's time draws near.
+
+"Imagine you had a pair of magical goggles that would take you anywhere, instantly."
+
+"We might as well be brains in glass jars with wires coming out of them." I'm back in the front row at Connect, listening to Abrash, Oculus' chief scientist, talk about direct brain stimulation and explain how humans perceive reality. He's been thinking about creating virtual worlds since the early '90s, and is a VR evangelist of the highest order. I mean that as a compliment. Abrash, while clearly awed and inspired by the technology's potential, possesses a pragmatic attitude about the current challenges facing both Oculus and VR in general. His day job is running Oculus' R&D operation, learning to understand human cognition and solving the most difficult problems facing VR. But what a salesman. He closes with: "Imagine you had a pair of magical goggles that would take you anywhere, instantly. Where would you go? ... What would you do? ... That's a powerful thought, and that's what VR can do."
+
+I'm sold and, at this point, I haven't even strapped on that Crescent Bay headset yet. "This is what it looks like when opportunity knocks," Abrash says. Everyone in the audience is ready to answer.
+
+
+Oculus has long vowed not to release a consumer headset until that hardware is comfortable, affordable and can deliver on the promise of presence. Luckey wants as many people as possible to reap the benefits of VR, and for that to happen it's got to be a pleasant, desirable experience. Hardware's only half the solution, however, and that's where the developers come in. And by developers, Oculus means anyone making VR content. By and large, that's game devs, but there are cinematographers and other film industry converts in the audience. It makes sense that Connect is taking place in Hollywood.
+
+Now I'm listening to Carmack, Oculus CTO, explain how he built his working relationship with Samsung and the myriad technical challenges he grappled with when building Gear VR. I wonder how many other non-technical attendees there are, and if they're having better luck keeping up with what he's saying. Carmack, I imagine, is as persuasive and pragmatic as Abrash, were I able to fully comprehend his words. He's speaking the language of coders and engineers at a pace that's difficult for me to parse. He talks for over an hour and a half without pause. I am humbled by his intellect. He opens with: "I don't actually have a presentation, but I can stand up here and talk about interesting things until they run me off the stage." So it goes... I think?
+
+Oculus wants as many people as possible to reap the benefits of VR, and for that to happen it's got to be a pleasant, desirable experience.
+
+The fact is, virtual reality is interesting, and has been for a long time. It's been a part of the cultural zeitgeist since The Lawnmower Man introduced VR to millions of moviegoers in 1992. Many have tried, and failed, to take the technology mainstream. We've been here before, over 20 years ago. Seemingly on the cusp of revolution, many heralded the dawn of the VR age. It was a false prophecy, doomed to remain unfulfilled thanks to hardware that couldn't deliver a truly immersive VR experience.
+
+Abrash, Carmack and Luckey all believe that the work they're doing is hugely important and will change the world. It remains to be seen if VR will do so, but if it does, you can bet that Oculus will play a big part in the transformation.
+
+On my flight home, it feels like Connect is the catalyst to make it happen.
+
+

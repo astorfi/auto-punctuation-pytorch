@@ -1,0 +1,13 @@
+
+The chip-obsessed gadget archaeologists at iFixit already have an Xbox One, and they're already ripping it apart. Those monsters! While they're not done dissecting and analyzing every single piece just yet, they've already found some interesting tidbits: for one, the Xbox One's 500GB HDD is a standard SATA II 2.5-in. (of the Samsung Spinpoint variety, with an 8MB cache). Sure, you'll have to pry open the system and carefully remove the Wifi and system speaker assembly to swap it out the HDD for a larger size, but if you're willing to void the warranty and get up in there, serious storage is at your fingertips.
+
+
+While you're inside the Xbox One, you may also notice the amount of easy to replace, standard hardware. It's true: 64 mm Torx screws hold the Xbox One's internals together and a SATA data connector pairs the Blu-ray/DVD drive to the motherboard. As iFixit's teardown is still in action, they've yet to determined its repairability. And should they find out any dark secrets about the console in the process, we'll keep you updated.
+
+
+Update: iFixit awarded the Xbox One an 8 out of 10 repairability rating, placing it in the same easily repairable world as the PlayStation 4. 
+
+
+[Image credit: iFixit]
+
+

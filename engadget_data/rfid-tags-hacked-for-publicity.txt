@@ -1,0 +1,19 @@
+
+
+Forbes reports on a German security consultant who's worked out how to hack the RFID tags on products using a PDA
+with a tag reader and change the price information that'll be read at the cash register. This sounds like another
+example of publicity-seeking under the guise of pointing out a legitimate security issue; as is pointed out later in
+the article, the only encryption available for RFID so far is 8-bit, which is precisely why it's not being used to tag
+products in shops at the moment (that, and the fact that the cost per tag is still too high). Another flaw in the hack
+is that the approach involves replacing the information in one product tag with the data from a cheaper one, so unless
+the checkout's automated someone is going to notice when that whole fillet of beef tries to claim that it's a carton of
+milk.
+
+
+ [Via the ITU Strategy and Policy Unit
+Newslog]
+
+
+
+
+ 

@@ -1,0 +1,44 @@
+
+ 
+ "We're missing a nut," says a bemused Matt Hershenson, former Danger founder and now Google's director of hardware for Android, pointing at a vacant spot on an exploded photo of the Nexus Q. Its parts are strewn out across a white background, perfectly arranged in a linear pattern that starkly contrasts with the spherical nature of the thing. "Wow, you're right," agrees Joe Britt, engineering director at Google and another former Danger founder. "It's like the illuminators, you know, the monks who used to draw up the codexes." Hershenson picks up the reference without missing a beat: "Everybody needs to make at least one mistake. Nothing can be perfect."
+
+ That goes against everything else we've been learning from the pair, who spend 45 minutes walking us through every detail of what went into the development of the new Nexus Q. They worked hand-in-hand with engineers and designers and materials experts, ensuring everything from the bearings to the LEDs were, well, perfect. But there is one thing, something larger, that many have said is a crucial flaw in this illuminated device: pricing. Will people pay $299 for a high-concept, low-functionality social media streamer? Join us after the break for how the Q came to be, and why Britt and Hershenson think it will be a success.
+
+
+
+
+  This is a purely streaming device, connecting over Ethernet or WiFi to pull media only from the cloud -- and, even more restrictively, only from Google Play. Inside that spherical exterior is a decidedly more square dual-core TI OMAP 4460 processor CPU paired with 1GB of RAM, the same basic power behind the Galaxy Nexus. That's matched with 16GB of flash storage, but that storage is (at least out of the box) inaccessible. This is a purely streaming device, connecting over 10/100 Ethernet or dual-band 802.11a/b/g/n WiFi to pull media only from the cloud -- and, even more restrictively, only from Google Play.
+
+ Even though you start playback from your phone or tablet, the data must always go directly through the Q, and it's always pulled from Google's servers. Even the concept of "pinning" something for offline playback later is absent here. "Fundamentally, this is the way content is changing," says Hershenson. "There are a lot of people consuming data this way. YouTube is coming from the cloud in the first place. we're not doing something out of convention with regards to the information being in the cloud, and the use cases it enables is just awesome. The social aspect... those kinds of things are really exploiting the fact that it's in the cloud."
+
+  Joe Britt is proud to point out the Arduino bootloader that's lurking within. But, Britt is quick to point out that "this is just the initial feature set." As we've already seen, the Q is eminently hackable, a point that its two proud parents return to frequently. That "initial feature set" is admittedly limited, but Britt hopes the "collective imagination of the community" will continue to do amazing things to expand the functionality of the device. He is, after all, an evangelist for the Accessory Development Kit and the kind of person who has all sorts of naughty ideas for what could be done with the ADK demo hardware given out at I/O this year. He's also proud to point out the Arduino bootloader that's lurking within.
+
+ 
+ What that community won't be able to do, at least not easily, is expand the hardware, which is perhaps partly why the two obsessed over the Q's design. The alloy base, for example, is intentionally heavy, both acting as a heat sink for that OMAP chip and also preventing the Q from rolling off the back of your entertainment center when you plug in high-gauge, low-impedance speaker wire.
+
+ The top half, which can be spun about to quickly adjust volume and is ringed by 32 RGB LEDs (plus a 33rd on top), was originally going to be made of stainless steel but, due largely to cost concerns, is instead made of plastic. But, a weighted metal ring is inset within and the whole assembly rides on stainless steel bearings, conspiring to give it a higher-spec feel than its polymer composition would otherwise impart.
+
+ It's a custom class-D amplifier in there, nestled dangerously close to an integrated switching power supply, a recipe for noise if not handled properly. "We didn't want a wall wart," says Britt, but we shouldn't worry about interference. "The same guy who designed the amp designed the power supply." That amp is one of the more curious, and honestly controversial aspects of the device, but it was a fundamental part of its design, says Hershenson. "The sound this is capable of delivering is best realized on bookshelf speakers. A lot of powered speakers are fine, but the typical sound source is a PC, right? It's not quite as high-fidelity in the first place."
+
+  We couldn't help but question the merit of having such a high-fidelity audio source that can exclusively play compressed audio streamed from the internet. That amp, and all the engineering required to make this thing sound genuinely good, surely has a lot to do with why the Nexus Q costs as much as it does. We have to imagine the majority of Q users will skip the amp and rely on the TOSLINK or HDMI outputs for digital audio, thus bypassing all that attention to detail altogether. Plus, we couldn't help but question the merit of having such a high-fidelity audio source that can exclusively play compressed audio streamed from the internet.
+
+ Is lossless playback coming? "That would be a good idea," says Britt, saying it not in an "I hadn't thought of that" kind of way but with more in a "Wait and see" sort of intonation. "The hardware's totally capable."
+
+ 
+ Another thing driving up that cost is the geographic heritage of the device itself: designed and produced right here in the great US of A. This is an aspect that Google barely mentioned during its keynote unveiling, but is an important point at a time when so many are criticizing Apple for the handling of its partnership with Foxconn and thinking a lot more closely about where our gadgets are made. However, we're asked to not read too much into any implications here.
+
+ "I don't think that we're philosophically set," says Hershenson, when asked about the reasoning behind the domestic nature of the Q. Instead, it seems to have been more a question of optimizing the design and engineering process, which took a little over a year. Having partners locally meant they could get hardware revisions to evaluate the very next day, not next week. It seems to have worked well here, but again it sadly isn't something we can necessarily expect to see in whatever comes next. "We have to look at what's appropriate for each product," says Britt.
+
+ 
+ And presumably what comes next depends a lot on the success of the Q -- not the success of the engineering, of which we have little doubt, but rather the success of the marketing and consumer perception. As of now, the biggest question asked about the thing, even by ourselves, is why folks would pay $300 for a device that is less functional than a $100 Apple TV. Far more beautiful and with much higher quality analog output, sure, but that's largely meaningless for anyone who sticks an HDMI cable in the back.
+
+  It's the social aspect, the ability for anyone* to interact with the device and add their own music to a playlist, that Google is making the most fuss about here. It's the social aspect, the ability for anyone to interact with the device and add their own music to a playlist, that Google is making the most fuss about here. Of course, that "anyone" should come with a very large asterisk, pointing to a disclaimer stating: "Anyone with an Android-powered device and their own collection of music on Google Play." Even should you have an appropriate number of anyones among your gaggle of friends, there's still another question. How often will you legitimately get enough of those anyones together to really make use of everything this has to offer?
+
+ Google does every Friday, having something of a social mixer with multiple Q devices, each hooked to analog speakers, scattered about for all of their anyones to interact with. That sounds like the perfect storm for a Nexus Q -- a situation that typical users will have the opportunity to experience far less frequently.
+
+ 
+ So, then, is this a niche or halo device, expected to be fondly remembered but not frequently purchased? Definitely not -- Britt and Hershenson are both adamant that there's enough general appeal for this thing to be a mass-market success. "This is a device that sets a precedent," says Britt, "but it isn't like a concept car. We built it to sell it... This is the first of many."
+
+ We have to imagine that exactly how many is at least partially related to how well this thing sells. And that, of course, is largely up to you.
+
+

@@ -1,0 +1,6 @@
+
+ 
+The mystery deepens. Despite protestations on Apple'spart that the company's new Intel-based iMac and MacBookProwouldn't be able to boot Windows XP, reports are starting to trickle in that the Extensible Firmware Interface (EFI)boot manager can launch XP after all. No less an authority on EFI than Intel has commented (through its Australianoffice) that motherboards using the Intel 945 chipset (which is assumed -- though not confirmed -- to be the set usedin the new Macs) support EFI and can boot XP. Intel's EFI documentation also says that a "Compatibility SupportModule" will allow EFI to boot OSes that aren't directly supported by the boot manager. Given that Apple has saidit won't directly stop Windows from running on Intel Macs, it seems at least feasible that a Compatibility SupportModule is available. Of course, all this rampant speculation can be solved pretty quickly soon enough once the IntelMacs start shipping and users simply stick their XP install discs into the CD slot. That's when the real fun begins.
+      
+
+ 

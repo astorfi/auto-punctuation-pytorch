@@ -1,0 +1,25 @@
+
+The man who co-created Doom, who co-founded id Software, and who later left id Software for Oculus VR, is being accused by his former employer of taking intellectual property with him to Oculus VR. Lawyers for id Software's parent company, Zenimax Media, sent claims to Oculus VR stating, "It was only through the concerted efforts of Mr. Carmack, using technology developed over many years at, and owned by, ZeniMax, that [Oculus founder] Mr. Luckey was able to transform his garage-based pipe dream into a working reality." The Wall Street Journal obtained copies of the correspondence.
+
+
+Oculus denies Zenimax's claim. The company provided the following statement:
+
+
+
+"It's unfortunate, but when there's this type of transaction, people come out of the woodwork with ridiculous and absurd claims. We intend to vigorously defend Oculus and its investors to the fullest extent."
+
+
+
+Update: John Carmack took to Twitter to respond, where he said, "No work I have ever done has been patented. Zenimax owns the code that I wrote, but they don't own VR."
+                 
+Zenimax confirmed to Engadget that it sent claims to Oculus' legal folks and offered us this (lengthy) statement:
+
+"ZeniMax confirms it recently sent formal notice of its legal rights to Oculus concerning its ownership of key technology used by Oculus to develop and market the Oculus Rift. ZeniMax's technology may not be licensed, transferred or sold without ZeniMax Media's approval. ZeniMax's intellectual property rights arise by reason of extensive VR research and development works done over a number of years by John Carmack while a ZeniMax employee, and others. ZeniMax provided necessary VR technology and other valuable assistance to Palmer Luckey and other Oculus employees in 2012 and 2013 to make the Oculus Rift a viable VR product, superior to other VR market offerings.The proprietary technology and know-how Mr. Carmack developed when he was a ZeniMax employee, and used by Oculus, are owned by ZeniMax. Well before the Facebook transaction was announced, Mr. Luckey acknowledged in writing ZeniMax's legal ownership of this intellectual property. It was further agreed that Mr. Luckey would not disclose this technology to third persons without approval. Oculus has used and exploited ZeniMax's technology and intellectual property without authorization, compensation or credit to ZeniMax. ZeniMax and Oculus previously attempted to reach an agreement whereby ZeniMax would be compensated for its intellectual property through equity ownership in Oculus but were unable to reach a satisfactory resolution. ZeniMax believes it is necessary to address these matters now and will take the necessary action to protect its interests."
+
+To be completely clear, Zenimax is claiming that John Carmack took software with him to Oculus VR that he developed while still an employee at id Software (owned by Zenimax). As such, Zenimax's laywers are telling Oculus' lawyers to either work out a licensing deal or prepare for a legal battle.
+
+Further, Zenimax claims that Oculus VR founder Palmer Luckey "acknowledged in writing" that certain, unspecified property belonged to Zenimax. The quote also says that Zenimax attempted to work out compensation with Oculus and "was unable to reach a satisfactory conclusion."
+
+It's unclear if the case will proceed to a formal legal process, but neither side sounds very friendly at the moment.
+
+

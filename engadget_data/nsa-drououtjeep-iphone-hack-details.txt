@@ -1,0 +1,10 @@
+
+Part of security expert Jacob Appelbaum's Chaos Communications Congress presentation exposed NSA methods to hack systems via WiFi from long range, but we'll also point out another segment focusing on the Apple iPhone (embedded after the break, beginning at 44:30). Along with German news mag Der Spiegel, he mentioned a program called DROPOUTJEEP which developed malware to install on iPhones that can remotely access files on the devices including email, voicemails and SMS, or perform geolocation, hot mic, camera capture and more.
+
+
+While the documents dated to 2008, around the introduction of the iPhone, Appelbaum quoted the NSA QUANTUMTHEORY "toolbox" which claimed a 100 percent success rate at implanting this spyware. At the time, loading the tool required physical access to a phone but the team was already working on something it could load remotely. Details on more recently developed attacks don't seem to be part of the package, but another Der Spiegel report back in September mentioned an example of a target captured on camera via his iPhone as in 2012. Does this news have you looking for a way around prying eyes? Good luck, since other revelations have shown programs targeting Android devices as well as Blackberry's email servers and phones.
+
+
+
+ Here is a link to a video of my #NSA and #GCHQ focused #ccc #30c3 talk: To Protect And Infect, Part 2: https://t.co/ox5Ht3LwTP
+- Jacob Appelbaum (@ioerror) December 30, 2013

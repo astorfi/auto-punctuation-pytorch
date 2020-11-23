@@ -1,0 +1,19 @@
+
+ 
+Okay, so we're reading this puff piece in the Miami New Times about would-be Mac cloner Psystar, and while we're somewhat willing to dismiss author Tim Elfrink's various mischaracterizations of the law and what Psystar is actually doing as just laziness and / or ignorance, there's a quote here from Psystar founder Rudy Pedraza that simply leaps off the page:
+
+Rudy scoffs at the idea he borrowed from the Hackintosh scene. "The first thing you have to do is unlearn everything you've read online about how to make this work," Rudy says, "because it's all wrong."
+ Really? Because we think there's a very large, very active hacking community out there that would disagree with you, Rudy.
+
+P.S.- A full list of every other mistake in this piece after the break.
+
+[Thanks, Chris]
+      
+
+ 
+
+ "Robert cracked the code behind Apple Computer's elegant operating system, OS X." Yeah. "Psystar legally buys the software..." That's not in question, really. The issue is what happens after Psystar buys OS X, when it modifies and redistributes it. You know, the specific thing Apple's suing about. "[Apple] filed a 35-page lawsuit in California claiming Psystar was selling "unauthorized" versions of OS X." Why is unauthorized in quotes? That's exactly what Apple claims. "As with Microsoft, which lost a multimillion-dollar antitrust decision in Europe in 2004, Apple is protecting an illegal monopoly, Psystar claims." Psystar has already lost this part of its case in California, and in the new Florida case Psystar only claims Apple has a monopoly on "premium personal computers," which pretty much invalidates the pricing argument and has driven the company to sell more expensive machines. "Robert says he found his own way around Apple's built-in security devices. The breakthrough meant that, among other things, the cheap machines were virtually immune to viruses and hackers." This is simply not true. OS X is vulnerable to hackers in its shipping form, and hacking EFI doesn't change that. "Psystar pays full price - $29 - for each copy of OS that it installs on its computers." $29 is the Snow Leopard upgrade price. The full price is $169 with iLife and iWork. "What's more, Apple holds that consumers who purchase an operating system don't actually own the software...It's a dubious-sounding arrangement that courts, at least so far, have upheld." It's not dubious to the courts, who've been upholding EULAs for over a decade across the country. (And striking some down, to be fair.) "Pretty much anyone with basic computer knowledge can make a cloned Mac for just the cost of a full tank of gas in an SUV." Actually, anyone can do this for free, without having to pay Psystar.Now, don't get us wrong -- the personal story of Robert and Rudy Pedraza laid out in the article is moving stuff, but when the chips are down, we're picking the hacker and enthusiast community over a couple guys trying to make a buck selling unlicensed software, and that Hackintosh quote struck us as impossibly arrogant and extremely foolish. The OSx86 community is already wary of Psystar, and we're guessing no one's going to rush forward the next time these jokers need some help.
+
+       
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Try as manufacturers might, attempts at autostereoscopic (glasses-free) TV have been subpar; existing tech typically makes for messy images due to ghosting, only provides a 3D effect if you're standing in one of a very few predetermined spots (usually 8-10 viewing angles, though we've heard of 64), and reduces display resolution -- all because only some pixels can be seen from each spot. With the occasional exception, it's not terribly impressive. Scientists at the National Chiao Tung University in Taiwan are looking to change that. Rather than block light with a parallax barrier, their screen uses a matrix of specially cut prisms to reflect it, reducing ghosting to nil and maintaining display resolution by sending the same image to each viewer. Though there are still a fixed number of viewing zones, the prisms are so tiny that manufacturers can simply add more prisms to each pixel to increase that number -- with 11 prisms per pixel, researchers say such a system could support 100 simultaneous 3D moviegoers. We've no word on whether the tech is affordable or when we'll see it, but we expect it to handily beat cyborg eyeballs to market.
+      
+
+ 

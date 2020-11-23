@@ -1,0 +1,5 @@
+
+ It's quite possible that you're at least somewhat familiar with Skyhook's ability to use WiFi in order to track down various objects, and while you've likely become desensitized to SiRF after seeing it in just about every GPS / NAV device ever produced, the two are teaming up to deliver a GPS / WiFi hybrid module for wireless carriers. Skyhook's WiFi Positioning System (WPS) will be getting a boost after inking a deal to get inside SiRF's Multimode Location Platform, which "promises to boost the availability and adoption of location-based services." The new duo will join ACCESS (among the throngs of others) at 3GSM next week in order to showcase the new technology, which is slated to provide a new level of accuracy by giving handsets the ability to find your way with two tracking protocols. Additionally, the inclusion of WiFi is said to help lock onto an initial signal much quicker than a typical standalone GPS receiver can, and if all goes as planned, we could see the hybrid technology alive and well in SiRF's Star III series of chipsets "later this year."[Via GigaOM]
+      
+
+ 

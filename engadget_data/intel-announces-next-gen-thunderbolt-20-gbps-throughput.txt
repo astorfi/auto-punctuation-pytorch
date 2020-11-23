@@ -1,0 +1,13 @@
+
+ Here at NAB, Intel just introduced the next generation of its Thunderbolt interface, which promises a data rate of 20 Gbps in both directions (on each of the two channels) as opposed to 10 Gbps for the previous version. Of course, the company stepped back for a moment first, boasting that Thunderbolt currently has about 200 licensees, and more compatible devices -- along with new, thinner cables -- should be coming out in the following months. Building up to the big reveal, Intel also shared some info about its new Thunderbolt host controller, (code-named Redwood Ridge), which will be built into some of Intel's upcoming fourth-gen Core processors.
+
+ But let's talk about the real news: the next-gen Thunderbolt tech (code-named Falcon Ridge) enables 4K video file transfer and display simultaneously in addition to running at 20 Gbps. It will be backward-compatible with previous-gen Thunderbolt cables and connectors, and production is set to ramp up in 2014. An on-stage demo with fresh-off-the-press silicon showed the new Thunderbolt running 1,200 MBps, which is certainly a step up from what's currently on the market.
+
+ Update: We've added a video of the Thunderbolt demo from Intel's stage. Hop on past the break to check it out.
+
+
+
+
+ 
+
+ 

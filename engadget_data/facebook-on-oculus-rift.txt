@@ -1,0 +1,9 @@
+
+This week, much of the world met Oculus Rift for the very first time. And now that millions of consumers are at least somewhat familiar with the VR gadget, it's not unreasonable to assume the device will eventually become mainstream, serving to create a much more immersive internet experience. That's at least one theory, demonstrated today by Chaotic Moon, the Austin-based firm behind the stun copter and SharkPunch. That latter concept employs the same gear Chaotic's using for today's demo: the Oculus Rift Dev Kit 1, with Leap Motion mounted front and center.
+
+
+
+With this particular third-party concept, users browse an e-tailer using the Rift. After a few moments of browsing Facebook on an iMac, an individual clicks over to a product advertised in the sidebar. He's prompted to put on Oculus, at which point he's able to explore a virtual Facebook marketplace, where he picks a designer bag off the shelf and turns it about as if he's actually holding it, with Leap Motion recognizing hand movements and the software responding accordingly. It's of course just one company's early vision -- it's possible that Facebook hasn't even seen this mock-up, let alone provided any input to the developers. Still, it's a slick implementation after just a couple days' work. Check it out in the video below.
+
+
+

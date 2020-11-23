@@ -1,0 +1,10 @@
+
+ 
+
+Well this is interesting: a webOS dev spotted a pair unnamed devices in his log files -- one sporting a 1024 x 768 screen and a non-sliding keyboard, and the other a smartphone with no physical QWERTY input. Don't look so surprised: it was all but confirmed by leaked training materials that webOS was coming to netbooks and HP has already announced its intention to bring desktops and laptops into the fold. Of course, this could also just be a TouchPad connected to a certain special keyboard. All we know is something bigger than a phone with physical keys is out there running an unannounced version of the OS dubbed Nova Dartfish. The second mysterious "device" showing up in the logs may be that keyboard-less handset that posed for Mr. Blurrycam back in April. Whatever it is, it's running webOS 3.0 and has a measly 480 x 320 screen like the Pre 2 -- so it's certainly not a high-end smartphone. The logs also reveal that neither is packing a removeable battery, which is sure to disappoint some of you. If you prefer your rumors delivered with lots of quotation marks and colons the full log reports are after the break.
+      
+
+ 
+
+    
+ 

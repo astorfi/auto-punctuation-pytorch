@@ -1,0 +1,7 @@
+
+
+ 
+Well, we've known for a while that Google was throwing considerable weight behind HTML 5, and that one of the purposes of the markup language is to do away with plug-ins for Internet apps, so it makes sense that eventually Gears would go the way of the Dodo. But so soon? Linus Upson, the man in charge of both the Chrome browser and Chrome OS engineering teams, has announced that the company is done developing the software. "We are not driving forward in any meaningful way [on Gears]," the man said in an interview with PC Magazine. "We are continuing to maintain it, so that applications will continue to work; we don't want to break anything out there." If you listen to this guy, it sounds like this was the plan, all along: "When we started the Gears project, three years ago... we did it because we couldn't get the browser vendors interested in building offline applications." He then details the mind trick: Google ships Gears, and suddenly browser vendors are "very interested in adding capabilities to build offline applications," paving the way for the capabilities in the next version of HTML. Clever, Google. In the same interview, Upson stated the company's plans to move all its apps to standards-based HTML 5 APIs. Now that it's convinced the world that it wants -- nay, needs -- rich Internet applications, we hope that the company will promise to use its powers of persuasion for good, and not for evil.
+      
+
+ 

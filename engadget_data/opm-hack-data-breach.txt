@@ -1,0 +1,11 @@
+
+
+A group of hackers has attacked the Office of Personnel Management (OPM), stealing sensitive data on 4 million current and former American federal employees. Law enforcement sources tell Reuters that the government believes the perpetrators are from China and have penetrated not just OPM's IT systems, but also the records it stores at the Department of the Interior's data center. According to the New York Times, security researchers believe it's the same crew that attacked insurance companies Anthem and Primera. As you might know, OPM is in possession of a huge number of personnel info since it's in charge of conducting background checks on potential federal employees. It probably looks like a goldmine for data thieves and was even targeted last year (nothing was stolen at that time, though) by a group, which the government suspects is also based in China.
+
+
+
+Rep. Adam Schiff called this cyberattack "among the most shocking because Americans may expect that federal computer networks are maintained with state of the art defenses." OPM's computers are protected by the Department of Homeland Security's intrusion detection system called EINSTEIN, just like every other federal agency's. In fact, EINSTEIN -- which monitors all federal internet traffic to identify unauthorized access -- was the one that detected malicious activities in OPM's system back in April. Unfortunately, it wasn't that effective in this situation: the DHS concluded in early May that the agency's data was already compromised by the time the breach was discovered. It's still unclear why EINSTEIN failed to identity the cyberattack much earlier.
+
+Homeland Security is now working with OPM to determine how the attack was carried out, putting the FBI in charge of the investigation. "DHS is continuing to monitor federal networks for any suspicious activity and is working aggressively with the affected agencies to conduct investigative analysis to assess the extent of this alleged intrusion," the agency said in a statement. OPM itself will be busy sending notices to the 4 million people affected from June 8th to June 19th, offering them credit monitoring and identity theft protection services. It has also published detailed instructions on how the victims can protect themselves from identity theft.
+
+

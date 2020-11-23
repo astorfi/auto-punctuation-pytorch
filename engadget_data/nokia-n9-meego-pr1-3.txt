@@ -1,0 +1,12 @@
+
+ 
+ MeeGo isn't quite dead, and Nokia N9 users are getting another update pushed to their phone to prove it. PR1.3, a firmware refresh that's been in the works at least since 1.2 was released a few months ago, has finally been made official. But this is no simple bug fix -- the latest version of MeeGo offers an impressive 1,000 "quality improvements, including mail, Facebook and Twitter." According to Nokia's official support page, the update will also provide several network and connectivity enhancements. The 203MB OTA download is now beginning to roll out, starting with unbranded devices and branching out from there. Continue past the break for the full statement from Nokia.
+
+ Update: We'll give a hat tip out to our commenters, who clued us in on a forum thread that discusses many of these "quality improvements." It appears that a large number of them are indeed bug fixes. Some of the actual boosts involve camera feature enhancements, higher volume, NFC fixes, better video decoding and more precise copy and paste [thanks BertrandsBox!] We also initially experienced sluggish behavior on the new update, but a factory reset seemed to resolve the concern.  [Thanks to everyone who sent this in]
+
+
+
+  As you might have noted already, we have now started rolling out a new update for N9 to 40.2012.21-3. This software release brings you over 1000 quality improvements, including Mail, Facebook, and Twitter, as well as several small network and connectivity improvements. For more information on the update, you can check out http://swipe.nokia.com/.
+
+ The update will be released in waves during the next few weeks, firstly to non-branded variants and later on for other variants as well. When an update is available a notification with the icon is shown in the Events view. Select the notification to view and install the update. Enjoy! 
+

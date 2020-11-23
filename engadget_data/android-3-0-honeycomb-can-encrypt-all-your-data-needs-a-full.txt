@@ -1,0 +1,11 @@
+
+ 
+Diving through the Motorola Xoom's sweet, sweet blend of Android 3.0, we found an interesting perk -- there's an "Encrypt Tablet" option buried in the settings page, intended to secure all your personal data with a password or PIN. While a handy Google rep couldn't tell us which cryptographic standards the OS uses, he did tell us the feature is part of Honeycomb as a whole, not a Motorola exclusive, so we're sure to see the option in other business-minded Android slates to come. Oh, and Google asks that all you sysadmins stay tuned, as the company's whipped up an API that lets you enforce policy restrictions upon your peons as far as encryption is concerned. Just make sure they remember to keep the tablet charged. See a close-up after the break.
+
+Update: Google pinged us to clarify that the device policy manager API was actually introduced in 2.2. What's new here is that the API can now support enforcement of encrypted storage in 3.0 (as well as password strength).
+      
+
+ 
+
+
+ 

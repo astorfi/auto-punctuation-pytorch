@@ -1,0 +1,11 @@
+
+When Google launched the Chromebook Pixel, we weren't really sure what to make of the premium device's touchscreen. Sure, finger-friendly displays were trendy, but Chrome OS just wasn't asking for the technologies: it didn't feature many touch apps, the laptop didn't launch with a gesture update and user's couldn't even pinch-zoom web pages. Now, that's changing -- to go along with more touch-enabled Chromebooks now on sale, the latest update to Chrome OS' stable channel adds a touch-enabled window manager and pinch/zoom webpage scaling.
+
+
+[Image credit: François Beaufort]
+
+
+
+The updated touch features have been around for a while, but Chrome OS users had to be on the "Canary" release channel to play around with the system's unfinished features until recently. Google's also been experimenting with a on-screen keyboard for some time. Put together, these features could make Chrome OS a viable options for tablets (and in the near future, convertibles like Lenovo's Yoga), though Google hasn't announced anything of that nature. Check out the company's official update notes at the source link below.
+
+

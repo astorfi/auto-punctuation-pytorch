@@ -1,0 +1,4 @@
+
+ 
+Android 2.2 and Flash 10.1. A perfect combination for combination for a little Hulu on the go, right? Not quite, as Hulu has decided to block videos (for legal reasons) when it detects a mobile device, but it turns out there is a surprisingly simple workaround. As Absolutely Android explains, all you have to do is make Hulu think you're using a desktop browser, which can be done simply by entering "about:debug" in the address bar and switching the UAString setting from Android to desktop. The only downside to the trick is that you'll now also get the full desktop version of the Hulu site (and any other site, until you switch it back), and there's a better than decent chance that Hulu will close this loophole before you can finish your first episode of Kojak.
+ 

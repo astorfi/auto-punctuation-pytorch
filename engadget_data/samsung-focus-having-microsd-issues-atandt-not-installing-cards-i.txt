@@ -1,0 +1,15 @@
+
+       
+The Samsung Focus's microSD slot has always been an odd little blip on the spec sheet, since it's only kinda-sorta supported by Windows Phone 7, and now it looks like it's causing more trouble than it's worth: Paul Thurrott says AT&T's telling employees not to install anything in the slot because of reliability issues, and that Microsoft is working on the problem. Now, we've had mixed experiences using the microSD slot ourselves, and we've been told by numerous sources that AT&T and Samsung added the feature without too much encouragement from Microsoft, which told us at MIX that expansion wouldn't be supported by WP7 at all. We've also been told by reliable sources that the problem is primarily to do with microSD speed and reliability -- apparently only the fastest cards will work well, and current microSD class ratings aren't accurate or meaningful enough to be useful. We'd bet Microsoft and Samsung get together and put out a line of Focus-specific cards before this is all over -- but wouldn't it have been easier to just build in 32GB of storage from the start?
+
+Update: Tipster Jon points out that Microsoft's own WP7 support docs specifically call out SD class ratings as not being accurate determinants of whether or not a card will work -- and further say that only OEMs or carriers should swap out cards. Here are the relevant passages:
+
+The SD card slot in your phone is intended to be used only by the Original Equipment Manufacturer (OEM) that built your phone and your Mobile Operator (MO). These partners can add an SD card to this slot to expand the amount of storage on your phone.
+
+[...]
+
+Determining whether an SD card is Windows Phone 7 compliant is not a simple matter of judging its speed class. Several other factors, such as the number of random read/write operations per second, play a role in determining how well an SD card performs with Windows Phone 7 devices.
+Sounds complicated -- and it also sounds like Microsoft needs to call Samsung or SanDisk and kick out a line of WP7-certified cards, like, now.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Well, here's a nice start to what Jeff Bezos was saying about giving the Kindle reader team some competition: Amazon just released source code for all its Kindle devices. It's fairly basic Linux underneath (kernel 2.6.22 on the latest 2.1 software), but obviously includes E Ink drivers and other relevant hardware support. What's unclear without compiling one of these and booting it up (to our untrained eyes, anyway) is whether Amazon stripped out its various DRM and licensed codec support -- MP3 and Audible seem very likely candidates for explosion, even if turns out Amazon did leave in its own Kindle Book DRM. We're also lacking an actual specific license for the code, though the folder we unpacked the OS to is called "gplrelease," so hopefully we're looking at the GNU General Public License -- which would mean manufacturers can take and repurpose this code to build their own Kindle clone / destroyer / gentle homage.
+      
+
+ 

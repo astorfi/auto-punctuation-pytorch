@@ -1,0 +1,6 @@
+
+ 
+When not flying the Hackintosh banner, filing lawsuits, or generally positioning themselves as the gadfly on the ass of Apple, the kids at Psystar have been hard at work developing the software meant to free us all from the iron grip of Cupertino-approved hardware. And now, a mere two weeks since the company announced that it will be licensing its Darwin Universal Boot Loader to third parties, we submit for your approval a little something called Rebel EFI. Available to you -- the consumer -- right this very moment, the app will function as a universal installer for any modern OS -- provided your machine sports an Intel Core 2 Duo, Core 2 Quad, i7 or Xeon Nehalem processor. And of course, "any modern OS" includes Snow Leopard. What are you waiting for? Download the trial version for free (limited functionality, runtime of two hours) or download the full deal for the introductory price of $50 (full retail is $90).
+
+[Via iHackintosh]
+ 

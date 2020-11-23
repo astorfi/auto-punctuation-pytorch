@@ -1,0 +1,5 @@
+
+ As stoked as we are about getting SideShow for our laptops -- evendespite the fact that it'll add a little extra girth to our lappies' bodies -- when we found out from CE Pro that atthe Media Center Boot Camp at EHX this week, Microsoft showed off a SideShow dev kit for Media Center remotes (and anyother small device you might want to have a screen), well, that about did us in. Microsoft expects SideShow-enabledMedia Center remotes, which have user-installable "gadgets" (small XML-driven widgets for differentpurposes), should be available for about $150-$200. That ain't too bad, but unfortunately they're not bundlingtouchscreen support, so you're gonna have to find another smart remote solution if that's what you're looking for inyour next media controller.
+      
+
+ 

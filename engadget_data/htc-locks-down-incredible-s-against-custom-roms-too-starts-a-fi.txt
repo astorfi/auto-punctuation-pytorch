@@ -1,0 +1,6 @@
+
+ 
+The Thunderbolt, you might have noticed, marked an unpleasant change for HTC by making it a tiny bit difficult to replace the company's own Android software with your favored community-sourced alternative. Well, turns out it's not alone and could in fact be just be the tip of an unhappy iceberg heading our way. The AndIRC guys responsible for cracking it open have also noted with some distress that the Incredible S -- likely to become the Droid Incredible 2 in the States -- features a similar signature check when flashing recovery images. In short, that means any ROMs that don't know HTC's "open sesame" password, won't be allowed to ride on your device. Bogus? Totally, dude.
+      
+
+ 

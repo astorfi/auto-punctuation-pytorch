@@ -1,0 +1,57 @@
+
+When we speak of smartwatches, what do you think of first? If you're the nostalgic type, your mind might drift back to Dick Tracy, or to those times when Michael Knight yelled at KITT to help get him out of impossibly tight spots (which, let's face it, was nearly every single episode). But those types of products, once associated with sci-fi movies and TV shows, are now a dime a dozen -- they're so numerous in 2013, in fact, that an entire industry has been built around them, and big-name companies like Google and Apple are starting to show an intense interest in them.
+
+
+It was only a matter of time (har) before a large manufacturer like Samsung tossed its hat into the wearables arena. Its first attempt, known as the Galaxy Gear, was announced alongside the Galaxy Note 3 and the new Note 10.1 about a month ago. With a 1.6-inch AMOLED screen, upcoming third-party support and even a camera, this promises to be unlike any smartwatch we've played with before. Still, the suggested MSRP of $300 is a pretty high price to pay for the convenience of looking at texts on your wrist, and you may not even see Warren Beatty rocking the thing on the red carpet. But is this first-generation Samsung device executed well enough that you might consider purchasing it along with your new Galaxy Note 3? Let's see.
+
+
+
+
+
+CompatibilityIf you purchase a Galaxy Gear and don't have a compatible device, congratulations -- you just bought yourself a brick. It's not going to do a single bit of good for you until you find a friend who happens to use a Note 3, and even then, it would only work as an actual watch with very limited capabilities (which we suppose is better than nothing, but we doubt you'll want to fork out $300 for it). One of the Gear's most frustrating and limiting traits is that it supports only two devices at launch: the Note 3 and the new Note 10.1 (i.e., the so-called 2014 edition). More TouchWiz phones, such as the Galaxy S III, GS4 and Note 2, will get updated with compatibility in the near future. Still, Samsung hasn't confirmed a date, so until that happens, the Gear will be aimed at a painfully limited demographic; the company's betting big that a significant number of Note 3 buyers will also spring for the accompanying watch.
+
+HardwareIn terms of design strategy, Samsung was stuck in a challenging position here. The Gear is not going to be confused for a fashion accessory, nor can we see it catching on with millionaires (not unless they're huge geeks, anyway). At the same time, the watch has to be comfortable, bring a touch of class and be attractive enough for someone to wear while maintaining a modicum of self-respect -- a tall order when you also have to throw in a camera, speakers and a 1.63-inch touchscreen.
+
+Samsung did a decent job of meeting these criteria, with one glaring exception: the camera. Instead of being placed within the watch itself, the camera is positioned facing forward on the rubberized wristband, creating an unsightly wart on one of the most visible parts of the watch. Such placement interrupts the design flow and keeps the device from looking as sleek as it could have.
+
+The rest of the device feels classy enough, though admittedly this may depend on which color you choose, as there are several hues available. The watch face is constructed with stainless steel, whose contoured shape helps it wrap around the wrist. The AMOLED touchscreen, meanwhile, is covered in Gorilla Glass. Unfortunately, there are four screws occupying the corners; this, too, feels like an interruption to what's otherwise a fairly elegant design.
+
+
+Along the sides of the 36.8 x 56.6 x 11.1mm watch, you'll find the only physical button (the home key), with one mic on each side. Underneath, you'll see the charging connectors, a Samsung logo and the obligatory identifying information, but none of these things are actually visible when you're wearing the Gear. Continuing down the ridged wristband, you'll see the frame and metal clasp, the latter of which contains a tiny speaker.
+
+How comfortable the 2.6-ounce (73.8g) watch is will depend largely on your preferences (and how your wrist is shaped), so I can only speak to my own experience wearing the device for a few days. I went through a brief adjustment period over the first day or two, but afterward, I barely noticed that it was on my wrist. The one problem I ran into was the angle of the watch's face; the only way my unit could rest comfortably was if I tilted it away slightly from my direct field of view, so I often found myself having to tilt my wrist toward me to get a proper look. In this case, it typically worked out better for me to sit the watch on the bottom of my wrist, rather than the top. Again, it all comes down to personal preference.
+
+
+The Gear also comes with a micro-USB cord and a special charging cradle, which is the only way to power up your device. The top cover is secured by a latch, so just open it up, rest the watch inside and reattach the cover to start charging it up. Spec-wise, the Gear features an 800MHz processor with 512MB of RAM, a 315mAh battery, 4GB of internal storage, Bluetooth 4.0 + LE and an accelerometer and gyroscope.
+
+As for the display, we're not going to spend much time on the resolution -- it's a 1.63-inch panel with 320 x 320 resolution, so don't expect HD quality here. Of course, it's a first-generation smartwatch, and screens crammed full of pixels just aren't a necessity on this type of product (not yet, at least). That said, you're technically looking at a 277-ppi display, so it's actually better than what we would have expected. What matters most, however, is how well you can see it in the sunlight, and fortunately the screen excels here: the Gear has an "outdoor" brightness mode just for this purpose. Indeed, we could easily seen the screen regardless of where we were or how bright it was outside.
+
+Gear Manager
+After you power up the Gear for the first time, you'll be prompted to take advantage of the watch's built-in NFC tag and tap it to your Note 3. Once the two devices recognize each other, the phone gets to work downloading the Gear Manager, activating Bluetooth and pairing itself to your phone -- just follow the prompts on the watch and you'll be set within a couple minutes, at most.
+
+Once everything is paired, the Gear Manager will become your new best friend for the immediate future. It acts as the primary interface for your watch and allows you to tweak settings, adjust the order of apps and even download third-party apps that have been specially made for the smaller screen.
+
+The Gear Manager can be a little confusing at first. If you want to tweak settings, there are two different places to do so: there's the general settings menu, which manages all of the high-level options, but if you want to change settings for individual apps, you'll need to find them in the My Apps section (although some apps don't even let you change settings). There's also a separate section for disconnecting and resetting the Gear if you need it. Additionally, an App Store for Gear-specific titles is found in the main menu, but My Apps also has a tab that offers suggested apps for you to download.
+
+
+The confusion subsides after you poke around a bit, so let's go over what else you can do with your new bestie. With the Gear Manager, you can use My Apps to change how the apps are ordered and decide which ones show up in your main menu. In the settings, there's a way to enable push notifications on a wide variety of apps. You'll also be able to change the clock that shows up on your home panel; there are plenty of analog and digital versions, some of which offer app shortcuts, calendar events or the current weather. We're hoping this will be expanded in the future, since we'd like to see more notification options on the home screen. Finally, there's a Find my Gear feature, which -- surprise -- tells your lost Gear to shout out so you can hunt it down. (Conversely, the Gear has a Find my Phone feature, which we're guessing will get used more often than vice versa.)
+
+Those high-level settings we mentioned earlier? Auto lock is one of them. As soon as you start walking away from your phone, the screen automatically locks with a PIN or pattern (or other security method of your choosing) until you and the Gear come back within range. There's also smart relay, which lets you look at notifications on the Gear and push that content back over to your phone. This particular feature has its pros and cons, which we'll cover shortly.
+
+Apps
+For the moment, the number of apps for the Gear is extremely limited; Samsung told us that roughly 70 would be available upon launch, but as of this writing, we found around 45 (the store features 57, but a dozen or so are duplicates). An SDK is on its way, but company reps weren't able to give us a timeframe. Since only select partners currently have access to the Gear Store, we expect minimal growth until Samsung's ready to open up the ecosystem to more developers.
+
+Gear apps actually use separate APKs, so developers can't simply tweak a few lines of code to ensure compatibility. We're told that they're essentially just modified or simplified versions of smartphone apps. This makes sense, given the limited storage space on the Gear, but it still means that third parties will have to go through the effort of building something new if they want to take advantage of the opportunity -- once the opportunity is availed to them, of course. As an aside, many of the apps already in the store, such as Path and Twitter Quickview, cannot be installed on the watch until a companion app gets installed on your phone first.
+
+
+The Gear puts an especially big focus on fitness apps. A pedometer is included as one of the native apps (we've walked a super-healthy 105 steps today, in case you're curious), which tracks not only the total number of steps you've walked today, but also calculates your total mileage and kcal burned. You can sync this info with the S Health app on your phone at regular intervals. There are also some third-party apps centered on fitness, including MyFitnessPal and Runtastic.
+
+Social media apps do exist for the Gear already: there are basic Twitter and Facebook Quickview apps, but they're limited to read-only and don't allow you to create status updates. (It would need to use S Voice for this, since there's no way to add text input, so we're not entirely sure third parties can even enable this ability yet.) You can also control your phone's media player through a specific app on the Gear; just make sure you don't try using S Voice in the middle of a song, as the music will abruptly pause on the phone so the mic doesn't pick it up.
+
+User experience
+Setup and technical stuff aside, what's it like actually using the Gear? It's certainly a different experience from what you normally get on an Android smartphone or tablet, that's for sure; there are a few gestures you'll need to know, but these can be mastered quickly. To start, you can either lift your arm up or push the home button to activate the screen (the former option can be disabled, if you raise your arms up for reasons other than using the watch and are worried about battery life).
+
+
+
+
+

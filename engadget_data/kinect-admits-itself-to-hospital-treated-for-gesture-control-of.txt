@@ -1,0 +1,9 @@
+
+ 
+At this point, we all have a serious question to ask: is there anything the Kinect can't do? While Microsoft has managed to move quite a few of the camera-laden tubes, a good amount of 'em have been put to use in applications not named gaming. Take the Virtopsy Project, for instance. This particular setup uses the Kinect camera bar to control a PACS system (OsiriX, in this case), and it relies on software based on "ofxKinect, libfreenect and open frameworks." That's a lot of technobabble for sure, but as they say, the proof is in the YouTube video. Ever dreamed of swirling medical images around with hand gestures? Head on down and mash play -- fantasyland awaits.
+      
+
+ 
+
+See more video at our hub!
+ 

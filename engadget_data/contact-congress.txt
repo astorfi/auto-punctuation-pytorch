@@ -1,0 +1,12 @@
+
+If you've never contacted your congress person then you might not realize how difficult our politicians have made it to get a hold of them. There are 535 members of the House and Senate all whom have some arcane contact form on their websites that obscure their direct email address. It's inconvenient for a single person to write a letter to all their elected representatives. But for organizations looking drive letter writing campaigns it's a nightmare. Individuals won't want to visit three separate sites as part of a push to pass or block a piece of legislation. And while there are services out there that can automate part of the work by routing messages to the right email addresses, they charge thousands of dollars a year for access to their tools and databases.
+
+
+
+The Electronic Frontier Foundation and The Sunlight Foundation saw the need for a better solution and asked the open source community for help. After just a couple of days of marathon coding, the advocacy groups had their answer: Contact-Congress. The idea is to allow easy mass messaging of members of congress through a simple form. The core of the system is a database of email addresses and contact forms that have been hacked together from the various sites for elected officials. And that database is open to be used in other ways, beyond simply sending out form letters from an angry electorate.
+
+But, Contact-Congress isn't really the end game. In fact, it's not even the final product -- it's merely the open-source backbone of what will eventually be numerous projects. The Sunlight Foundation will be folding parts of this new project into OpenCongress, it's public website loaded with information about members of the House and Senate. Voters will be able to visit the site, see their congressman's voting record and from the same page send them an email telling them why they think it was the wrong decision.
+
+The EFF will offer two tools: Action Center, their own messaging service that will be built around its pet projects, and Congress-Forms, a sort of middleman for those that want access to the Contact-Congress database without having to do too much tinkering in the source code. There may even be an API in the near future that developers could easily tap into from their existing apps. Though, if you really do want to poke around at its insides, you can download the open source software from Github right now.
+
+

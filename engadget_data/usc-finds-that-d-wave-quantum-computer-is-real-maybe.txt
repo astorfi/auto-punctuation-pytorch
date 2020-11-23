@@ -1,0 +1,4 @@
+
+D-Wave has had little trouble lining up customers for its quantum computer, but questions have persisted as to whether or not the machine is performing quantum math in the first place. University of Southern California researchers have tested Lockheed Martin's unit to help settle that debate, and they believe that D-Wave's computer could be the real deal -- or rather, that it isn't obviously cheating. They've shown that the system isn't based on simulated annealing, which relies on traditional physics for number crunching. The device is at least "consistent" with true quantum annealing, although there's no proof that this is what's going on; it may be using other shortcuts. Whether or not D-Wave built a full-fledged quantum computer, the resulting output is credible enough that customers won't feel much in the way of buyer's remorse.
+
+

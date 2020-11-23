@@ -1,0 +1,8 @@
+
+ 
+
+
+	HTC's flipped the switch on its development website, which was designed to be a "one-stop shop" for a wide variety of SDKs and other resources for developers. As promised, the manufacturer's OpenSense SDK -- which includes a S3D SDK for HTC's 3D stereoscopic interface and pen SDK for its Scribe feature -- is now available for download; there's also plenty of kernel source codes to peruse and access. Finally, the Bootloader Unlock web tool, one of the most highly anticipated pieces of software that the company's promised to unleash, only shows as "coming soon" on the site. There hasn't been any official word on when it'll go live, but we're expecting it to happen later this month as the EVO 3D and the Sensation both get adorned with their unlocks. It's great to see the company follow through completely on one of its promises, eh?
+
+	[Thanks to everyone who sent this in]
+ 

@@ -1,0 +1,13 @@
+
+ 
+Remember at Google I/O this year when Google showed off "something beyond Froyo" in the music realm? The demo included an all-new music player (boy, wouldn't that be nice!), along with magical features that let you push web-purchased songs to your device, and allowed you to browse your PC's music library from your phone as if it was on the device itself. Well, none of that showed up in Gingerbread, unfortunately, but the new music player itself has just leaked out. It's super buggy, and of course doesn't have any of those fancy wireless features we're waiting on, but it could offer a bit of a glimpse into 3.0, at least as far as UI tweaks go.
+
+The differences seem minimal but aesthetically pleasing, with blurred background images behind frosted glass widgets as far as the eye can see. One important thing to note is that there is a menu button on the top right, at least in some views, and we went back and watched Andy Rubin's tablet time at D: there's clearly the same menu button on each app. [Suspenseful strings begin to play]. It seems Google might be getting rid of its hardware buttons entirely, or at least making menu functionality a more obvious part of its relevant applications, instead of the "surprise!" button it currently represents. There are also points in the video where tapping the application's icon in the top left takes you to the "home" of the app, and we also found similar icons on the top left of each application Andy demoed at D -- and we're guessing they have the same functionality. Check out a video after the break, or hit up the source link to grab the APK... if you dare.
+
+[Thanks, Andre]
+      
+
+ 
+
+
+ 

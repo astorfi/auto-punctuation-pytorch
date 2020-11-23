@@ -1,0 +1,6 @@
+
+ 
+Apple might have bumped the 13-inch unibody MacBook to Pro status at WWDC last week, but it looks like all the shuffling around to reduce costs has had an unfortunate side effect: new MacBook Pros that ship with HDDs only have a 1.5GBps SATA enabled, while SSD configs are apparently getting the full 3.0GBps SATA II experience that used to be standard. For most people this won't make too much difference since traditional hard drives can't move data that fast, but it's something to keep in mind if you're hoping to buy an HDD unit and swap in a speedier SSD, since your max performance will be bottlenecked. We've verified that our review units with HDDs all have the slower settings, but we've put in a call to Apple to get some more answers on this -- stay tuned.[Thanks to everyone who sent this in]
+      
+
+ 

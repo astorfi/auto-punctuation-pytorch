@@ -1,0 +1,9 @@
+
+ 
+Here's your classic case of "just because you can, doesn't mean you should." Microsoft's Innovation Labs have just demonstrated a OneVision Video Recognizer algorithm that's powerful enough to perform face detection duties on a running video feed. It can recognize and track humanoid visages even while they're moving, accept tags that allow auto-identification of people as they enter the frame, and can ultimately lead to some highly sophisticated video editing and indexing via its automated information gathering. Of course, it's that very ease with which it can keep a watchful eye on everyone that has us feeling uneasy right now, but what are you gonna do? Watch the video after the break, that's what.
+      
+
+ 
+
+document.write("<script type='text/javascript' src='" + (window.location.protocol) + "//c.microsoft.com/ms.js'" +"'><\/script>");
+ 

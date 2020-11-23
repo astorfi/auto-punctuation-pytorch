@@ -1,0 +1,11 @@
+
+ If you've been needing a little inspiration for your next TI LaunchPad project, look no further than the company itself. Texas Instruments set up shop in the maker tent across from the Austin Convention Center this week, showing off creations built atop its line of microcontrollers. The rep we spoke with was particularly excited about this mouse hack that the company put together in a few hours, while getting ready for SXSW. The creation utilizes the Stellaris board's accelerometers to control the cursor of a Windows machine on X, Y and Z axes, via USB.
+
+ The project is more than just a hack, according to the company -- it's actually a prototype of something it's set to unveil later this year. No specifics on that front, but TI promised a "big surprise." In the meantime, you can check out video of the project after the break.
+
+
+
+
+ 
+ Zach Honig contributed to this report.
+

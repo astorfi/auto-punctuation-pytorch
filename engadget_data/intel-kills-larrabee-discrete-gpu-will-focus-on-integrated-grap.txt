@@ -1,0 +1,7 @@
+
+ Intel's been promising to blow up the graphics market with its Larrabee GPU for over three years now with virtually nothing to show for it, and it looks like the company has finally decided to can the entire project after downsizing it to a "software platform" last year. A new Intel blog post on the matter says the company won't bring a discrete graphics chip to market, and will instead focus on integrated graphics for everyday computing and highly-parallel multicore processors for high-performance computing. Now, Intel's obviously still in the graphics game, and it's already made a strong move towards integrated graphics by building GPUs right into the Atom N470 and much of the Core 2010 line, but on a much broader level the decision to drop Larrabee means that Intel is now essentially pursuing the same strategies as its competitors: AMD is famously behind schedule with its Fusion project but plans to ship ATI-powered hybrid CPU / GPUs next year, and NVIDIA has been pushing its multicore GPU-based Tesla high-performance computing platform for a while now. 
+
+We're also curious about how Intel intends to address the gaming market in the future -- its own integrated graphics obviously aren't up to the task, and it's still fighting with NVIDIA over a Core 2010 chipset license, so that's a big question mark going forward as more and more focus is placed on low-power and integrated solutions. We'll see what happens -- it's not too often the death of a vaporware product has the potential to shake up the entire industry.
+      
+
+ 

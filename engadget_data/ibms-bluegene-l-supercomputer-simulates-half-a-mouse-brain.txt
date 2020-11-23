@@ -1,0 +1,5 @@
+
+ Efforts to model the human brain (on IBM's Blue Gene, ironically) haven't reached the point of finality just yet, but it looks like the supercomputer has already tackled a smaller, albeit similar task at the University of Nevada. The research team, which collaborated with gurus from the IBM Almaden Research Lab, have ran a "cortical simulator that was as big and as complex as half of a mouse's brain on the BlueGene L," and considering that it took about 8,000 neurons and 6,3000 synapses into consideration without totally crashing, it remains a fairly impressive achievement. Notably, the process was so intensive that it was only ran for ten seconds at a speed "ten times slower than real-time," and while the team is already looking forward to speeding things up and taking the whole mind into account, it was noted that the simulation (expectedly) "lacked some structures seen in an actual brain." Now, if only these guys could figure out how to mimic the brain and offer up external storage to aid our failing memories.[Thanks, Richard L.]
+      
+
+ 

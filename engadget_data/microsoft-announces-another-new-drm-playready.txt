@@ -1,0 +1,5 @@
+
+ Amidst the aggressive and pugnacious consumer discussions over DRM, today Microsoft introduced yet another: PlayReady. Aimed at the mobile space, PlayReady DRM takes their "open" (i.e. platform) DRM strategy to the next level, by providing subscription, rental, pay-per-view, preview and "super-distribution" (huh? maybe they mean authorized redistribution) digital rights management to not only their own media formats -- as has been done exclusively in the past -- but to other codec standards, too, including AAC, and H.264. PlayReady will be backwards compatible with WM DRM 10, so your Vongo movies or Napster tracks, for example, should still authorize and play back. But now a new crop of carriers, including AT&T, Verizon Wireless, Telefónica, O2, and Bouygues, are signed up with considerations for things that might be done with the DRM; of course, none of those other standards matter much if Microsoft isn't going to license PlayReady to the other vendors and software platforms that use formats like H.264 (and not WMA / WMV), but no announcements were made regarding non-carrier licensees, or whether PlayReady would make its way to the desktop, too.
+      
+
+ 

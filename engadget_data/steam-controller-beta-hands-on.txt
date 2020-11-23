@@ -1,0 +1,34 @@
+
+I flick up on the right-side touchpad of the Steam Controller, and Civilization V's cursor floats along with it as though I performed the same action on a trackball or touchscreen. As advertised, subtle audible ticks from the touchpad tell me just how hard I've swiped. A quick thumb tap stops the cursor dead in its tracks, approximating the physical stop to a swirling trackball. There's a momentum to the flick demonstrated in-game, and controlling the on-screen cursor feels natural immediately. The touchpad, however, feels anything but natural.
+
+
+The Steam Controller -- Valve's first consumer hardware, planned for release in 2014 -- feels both alien and right at home, all at once.
+
+
+
+
+
+Valve's Steam Controller, first introduced in late September, isn't intended to replace the traditional gamepad: It's meant to replace the keyboard and mouse. Games like Portal 2 already work well on an Xbox 360 gamepad (standard issue for PC gaming in the living room). The real issue is making the other 90 percent of Steam games play comfortably in an environment that doesn't support their standard input method of the keyboard and mouse.
+
+"Up until now, it was only about 10 to 12 percent of games in the Steam catalog that were 'controller-enabled,'" Valve designer Greg Coomer told us in a recent visit to Valve's Bellevue, Wash., headquarters, referencing games that run in Steam's Big Picture Mode. "If only those games were the ones playable in the living room, we would've felt like we weren't actually serving our customers very well."
+
+
+Coomer and other Valve staffers took to the design process with two major goals in mind: Increase the number of places where Steam games are played and incorporate the entire Steam library in the process. The first goal is part of Valve's larger, current initiative of bringing Steam to the living room. The second goal also ties into that initiative, but takes it a step further in attempting to solve the input issue of playing games which require, "104 keys on a Windows keyboard and a super-high-resolution 2D pointing device." The solution to those goals, Coomer and co. believe, is swapping tactile buttons for dual touchpads and a clickable touchscreen on a standard-sized gamepad.
+
+With these goals in mind, the dual touchpads function brilliantly. Tactile feedback from the linear resonant actuators below each pad contextually provides friction, or approximates momentum, or divides the pad into distinct areas acting as buttons. Operating the controller like a laptop's touchpad for simple cursor movement is intuitive, and games that function as such (like Civ V) work well. Trine 2 requires basic drawing with a cursor coupled with 2D platforming, and using the Steam Controller worked near-flawlessly. Better still, operating the touchpad as a mouse for fine movement within the OS worked great. Perfect for dispelling the occasional dialog box.
+
+But there's no getting past it: Using a gamepad with two clickable touchpads feels weird as a stand-in for a traditional gamepad. And it takes some serious adjustment. It requires a lighter touch, for one, as the Steam Controller's dual pads are plenty sensitive. I unintentionally clicked the pad in Portal 2 when I meant to direct my character forward (resulting in an accidental jump, occasionally to my death); though touch sensitivity is adjustable per game, click sensitivity is not. Combining actions proved more challenging, such as attempting to pick up an object, move with said object and jump. This set of actions on a traditional gamepad would rarely take more than one attempt, but it took several agonizing attempts on the Steam Controller. As my frustration mounted, actions became blunter and faults compounded -- mastering the Steam Controller may require a cooler approach than mine.
+
+
+A calm demeanor and a more deliberate attempt to wield the controller proved far more fruitful, and I quickly took to the more nuanced control method. Despite how much the Steam Controller feels like a traditional gamepad, I spent much of my time with it fighting natural instincts to jam the thumbsticks or mash face buttons. Even holding the handles requires a finer touch as paddle buttons are nestled where your fingertips grip the controller.
+
+None of the games available employed the beta controller's four large plastic buttons that sit in for the clickable, capacitive touchscreen that will launch on the final retail model. All the rear buttons -- triggers, shoulder buttons and paddles -- operated as expected. The controller's entire rear felt flimsy, but that's because it's a rough prototype. It felt like more of a proof of concept for the touchpads than anything else, and in that department it delivers.
+
+Without ample practice using Valve's controller, games that require quick reaction times and snap decisions are simply more difficult than when using a standard gamepad. In Metro: Last Light, for instance, Valve's own designers were impressed when I survived the first encounter with enemies. We acknowledged the goofy cliché that PR reps stroke demoers' egos with such false claims as, "You were the first person to beat that today!" Then they confirmed that to be the actual truth (full disclosure: I'm not very good at video games, so this was no credit to my skill).
+
+
+In so many words, games that don't require quick reaction times, but do require a mouse and keyboard to play are ideal for the Steam Controller. Civilization V serves as the prime candidate for the device, and it stood out among the handful of games made available. Starcraft II, while reliant on a mouse and keyboard, likely wouldn't play very well with the Steam Controller (though the controller will work outside Steam, as PCs pick it up as a... keyboard and mouse). SimCity, however, would probably be great (especially on slower speeds).
+
+There's a fine line between functional and non-functional when it comes to using the Steam Controller in place of a mouse and keyboard, and the line will only become clearer after the controller leaves beta and enters the hands of the general public. Valve's first hardware isn't perfect, but it's a major first step toward solving the long-running issue of using PCs in the living room.
+
+

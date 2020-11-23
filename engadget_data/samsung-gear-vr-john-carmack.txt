@@ -1,0 +1,30 @@
+
+John Carmack's name isn't synonymous with virtual reality just yet. He's still "the guy who led programming on Doom and Wolfenstein" to most folks; the co-founder of acclaimed development studio id Software. And that's exactly why it was such a big deal when he suddenly left id Software last year to join Oculus VR as chief technical officer. Though Palmer Luckey and co. helped sway him with their own Rift headset, Carmack was eventually sold on the gig by Samsung's mobile VR concept: Gear VR. "That was really the prime thing that motivated me to decide: No, I'm gonna devote 100 percent of my attention and focus to Oculus," he told Engadget in an interview this week.
+
+
+
+
+As has been the case throughout his career, Carmack took the project on by himself at first, working in isolation for six months before other staffers were hired and Facebook's resources got involved. Early on, he said, the prototype software "was awful" and working with Samsung required a lot of back-and-forth: a wall he only broke through after demonstrating benefits with "obscene" programming workarounds. Yes, that's right, Samsung initially didn't trust Carmack's suggestions. That didn't last long.
+
+When Carmack got on stage during Samsung's press briefing yesterday, he spoke to the low-level access Samsung allowed with the Note 4. That access was only given to Carmack after several months of ice breaking with Samsung. Carmack explained:
+
+"At the start, the first couple months were so frustrating. When I'm talking about how we need front buffer access. We need the ability to draw directly to the screen without this triple buffering. And the way the logjam got resolved was I figured out a way to incorrectly hack the first phone to give me what I wanted through this really obscene programming thing. And I showed it to some driver people later and they were like, 'Oh god, John. That's awful!' But it worked well enough to show that, okay, front buffer rendering -- this works. It cuts out two frames of latency. It's important.And I had argued for it a long time. I wrote so many of these multi-page emails about how important it was. But once we had it so people could see and see that it really does work, then Samsung went and wrote a proper interface for it. They gave me a good extension that gets me access without the grotesque things I was doing. And really that was -- once the ice was broken, they knew that these are good suggestions; these suggestions lead to real improvements. Then they started giving me things I didn't think I'd be able to get."
+
+
+After he was given access, the hardware quickly became a moving target. As Carmack said, with Samsung, "technology ticks twice a year" -- once with the Galaxy S phone line and once again with the Galaxy Note line. That doesn't mean we'll see new versions of Gear VR every year, but that Oculus plans to "continue innovating at that pace."
+
+Gear VR's been in development for around 1.5 years now; it started with the Galaxy S4 and evolved through several model iterations before ending up on the Note 4. Carmack walked us through the entire product history, from first, 3D-printed prototype to the nearly ready current model.
+
+"I started off on a Galaxy S4 with an Imagination Technologies graphics chipset in it. Then we got Galaxy S4s with Qualcomm Adreno sets in it. Then we got Note 3 with the Qualcomm. And then Note 3 with the Mali. And the Galaxy S5 -- the initial one. Then we got the S5 with the (2,560 x 1,440) display. And now we have the Note 4, so two different graphics chipsets. That's a huge number of things that we had to go through. And each one had its own little quirks and kinks, all leading up to the product that we're actually releasing now."
+
+MOBILE VR AND THE FUTURE OF OCULUS/SAMSUNG WORKING TOGETHER
+Carmack's always been bullish on mobile VR. When we spoke with him last year (seen above), he said that the future of virtual reality is mobile; he made it clear at the time that the Oculus mobile SDK (software development kit) was at the top of his priority list. He's repeatedly stressed that, at some point down the line, Oculus VR's Rift headset will act as both a standalone, Android-powered headset and a tethered, PC-based device. He echoed that sentiment in our interview: "Oculus version three or five or whatever it ends up being is something that can be used unplugged -- we'd have our own Android stuff and all that -- but you could plug it into the PC and use that."
+
+Of course, we're not quite there yet. There are still huge issues to overcome with Gear VR as is: no depth-tracking, no multi-user support, etc. Carmack said those issues are being tackled "in the coming year," and he promised to "continue to update the software with each new release of a device" (read: each new phone that works with Gear VR).
+
+
+For now, Carmack and his team at Oculus -- as well as the folks at Samsung heading up the project -- are excited for what can be done with Gear VR: what they call a more "casual" VR experience. Oculus CEO Brendan Iribe told us, "On the mobile side, where you have limitations around the GPU/CPU, or you have limitations around [the fact that] it's a drop-in phone, it's a little less about 'presence' and a little more about delivering a mobile VR experience -- which is a casual experience."
+
+Gear VR arrives late this October at or near the launch of Samsung's Note 4; it'll be primarily available via Samsung's online store, though select carriers (in the US first) will sell it at retail for an unknown price. We'll have more from our interview with Samsung and Oculus execs as IFA 2014 rages on.
+
+

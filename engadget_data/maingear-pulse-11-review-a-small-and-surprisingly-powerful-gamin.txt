@@ -1,0 +1,72 @@
+
+
+
+
+
+
+More Info
+
+Alienware's M11x is no more, bigger is apparently better
+Maingear's Pulse 11-inch gaming laptop has designs on M11x mourners
+Origin PC joins the 11-inch, rebadged gaming laptop party, outs the EON 11-S
+
+
+Gaming laptops are strange beasts. While they may have been lugged all the way to the LAN party, they aren't too much fun to use on a plane. That was, until the advent of Alienware's 11-inch M11x, which kept the fast internals at the expense of weight and battery life. When it was unceremoniously yanked by parent company Dell, it left a gap in the market for people who really did need a gaming laptop on the go.
+
+
+Fortunately, Clevo stepped in with its W110ER, an 11-inch laptop that companies like Maingear and others have tweaked to sell as their own. Packing an Ivy Bridge CPU, NVIDIA's Kepler-based GeForce GT 650M and the same 1366 x 768 display as the M11x, it's obviously trying to step into Alienware's shoes. So, is this the new standard-bearer for small-yet-powerful gaming laptops? Does it really blow us away with its power? Will you want to part with a minimum of $999 to get hold of one? Read on to find out. 
+
+
+
+
+Look and feelThe first thing you'll notice when you open the box is Maingear's attention to its customers. Gaming machines comprise something of a niche category, but that hasn't stopped the company from adding a few extra touches to ensure its customers feel valued. You're greeted with a solid plastic box that holds your documents, a branded mousepad, toolkit, T-Shirt and a hand-written quality-assurance sign-off sheet from the person who tested and set up your gear. By the time you've waded through all of the accoutrement, the laptop itself almost feels like a pleasant extra.
+
+Pull it out of its protective sleeve and you'll instantly worry that someone's made a mistake and sent you a netbook in place of the monster you were expecting. At first blush, it's shockingly small: 11.2 inches wide, 8.3 inches deep and 1.46 inches at its widest point. While it's thick, it's hardly unwieldy, nor is it weighty -- it adds just 3.77 pounds (1.71kg) to your carrying load. You'll also notice that absent from the unit is an optical drive -- not surprising, given the size.
+
+
+The plastic upper shell has been textured, making it look a little heftier and sturdier than comparable units. It's a smart use of materials to make the body seem a little more expensive and tactile given that it's just black plastic. It won't win any awards from design aesthetes either: function was prioritized over form with its retro stylings -- but the real achievement here has been to cram that much power into this tiny box.
+
+
+Down the left-hand side, we've got Ethernet, VGA, HDMI 1.4a ports, 3.5mm headphone and microphone jacks and a pair of USB 3.0 slots as well as a 2.8-inch vent where all the heat that it generated is pumped out. Beneath the keyboard up front is the SD/MMC/MS slot and down the right is a powered USB 2.0 socket, the power port and a Kensington lock slot. Build quality is excellent throughout and makes you feel confident about chucking this about without worrying. Raking your fingernails down the shell does more damage to your digits than the device itself, and no amount of bending or twisting will cause it to yield. Paired with the functional design, it's oddly reminiscent of a tank -- stocky, functional and hard as nails, with plenty of power hidden beneath the hood.
+
+Keyboard and trackpad
+The most important component of any laptop is its inputs. The biggest issue here is that the island-style keyboard isn't full-size, a necessary yet unwelcome compromise given the compact nature of the device. The keys are tremendously shallow and resistive, meaning that you have to hammer them down with plenty of force in order to make sure your typing registers. Packing in the keys means shaving millimeters off the footprint and space in between, which is a nightmare for chubby-fingered typists. In fact, a certain reviewer typed the early parts of this review hunt-and-peck fashion until his fingers had acclimatized. If you were looking for another stick to beat this keyboard with, then the lack of back lighting grates. Compared to the M11x, which looked like the Disco where Tron hung out on weekends, we were hoping for at least a simple white light to help our typing in the dark.
+
+Meanwhile, the dinky 3.2 x 1.6-inch Synaptics trackpad is textured in the same way as the lid, which adds unwanted friction to your mousing around. During a week of constant use, we had to grab a USB mouse just to get our day's work done. Gamers who left their external rodent at home aren't going to find any solace here -- in fact we'd have preferred a pad with a built-in button just to gain a few more square centimeters of real estate for our fingers. In fact, just take it as read that you'll always need to bring your peripherals along with you, even for casual surfing or typing.
+
+Display and sound
+If there's one annoyance with the otherwise fine 1,366 x 768 panel (aside from glossiness, but we've tread that ground before) it's the relatively weak 200-nit backlight. Comparable 11-inch laptops with similarly sharp displays can nearly double that. Trying to work in direct sunlight is made tremendously difficult as a result, not to mention the nightmare we had trying to photograph the thing. Perhaps Maingear (or more appropriately, Clevo) felt that its primary consumer base wouldn't be spending too much time offing the Zerg in strong light, but we'd have appreciated it.
+
+A pair of asymmetrical speakers built into the base supply the sound for the laptop, which can only be charitably described as weak. There's very little bass and as such, the sound is muted, coarse and a little tinny. The addition of THX Tru Studio Pro smoothes off many of those rough edges, at the sacrifice of some of its loudness. Certainly you won't be using this as a media-watching machine without some external speakers as the laptop on its own won't comfortably fill a room, but for quiet time with the device, it's perfectly serviceable.
+
+Performance    PC Mark Vantage 3D Mark06     Maingear Pulse 11 (2.1GHz Core i7-3612QM, GeForce GT 650M) 17,126 13,316   MSI GT70 (2.23GHz Core i7-3610QM, GeForce GTX 670M) 14,073 18,995   Lenovo Thinkpad X230 (2.6GHz Core i5-3320M, Intel HD Graphics) 8,234 4,891   Alienware M11x (1.3GHz Core 2 Duo, GT 355m) 3,141 5,593   ASUS Zenbook Prime UX21A (Core i7, Intel HD Graphics 4000) 10,333 4,550   Apple Macbook Air (2012) (1.8Ghz Core i5, Intel HD Graphics 4000) 13,469 5,827   The higher the score, the better.  Remember when we used the phrase "small but powerful?" If anything, that's an understatement. The model we received had a boot up time of 24.7 seconds and ratcheted a PC Mark Vantage score of 17,126. That's a number strong enough to send plenty of other laptops off for a cry in the corner, and it comfortably outperformed the 17-inch monster that is the MSI GT70.
+
+When gaming, that performance becomes even more apparent. We tested Crysis (you just have to test Crysis. It's tradition, or an old charter, or something) at the panel's native 1,366 x 768 resolution -- and the machine kept the action going at 42 fps with only a stutter during scene transitions. At the same resolution, we got 32 fps while navigating the frozen lands of Tamriel in Skyrim and old favorite Mafia II chugged along at a staggering 60 fps.
+
+Battery life   Laptop  Battery Life      Maingear Pulse 11 3:21   MSI GT70 2:49   Lenovo Thinkpad X230 6:15   Alienware M11x 4:30   ASUS Zenbook UX21A 4:19   Apple Macbook Air (2012) 6:34  At the risk of grading this thing on a curve, it's obvious that this machine isn't going to eke much out of that six-cell 61.16Wh battery, which Clevo promises offers up to almost seven hours of battery life. To complain about that fact would be like whining about the gas mileage on a Bugatti Veyron -- it's clearly never going to outlast even the most pedestrian of laptops. In our standard test, with WiFi on, brightness fixed at 65 percent and a movie looping continuously from the hard drive, it lasted three hours and 21 minutes, less than half the runtime originally promised.
+
+More anecdotally, we found that while we couldn't fault its gaming performance, we'd be lucky to eke out even an hour of battery life playing with the settings turned up to full. We unplugged it at 100 percent and played 15 minutes of Arkham City, followed by 10 minutes of Gratuitous Tank Battles and noticed the battery was down to 51 percent. Once recharged, we switched to Skyrim and just getting past the dragon and out of the keep (barely the first level) caused the unit to fall to 41 percent. If you're going to be using this for its intended purpose, then you'll need to keep it surgically attached to its power cord wherever you go.
+
+
+Of course, given that it's squeezing both Ivy Bridge and Kepler into such a small space, we were a little concerned about the heat it's capable of generating. It was with a small measure of trepidation that we balanced this on our lap for a couple of hours of work. It kicks out enormous temperature, but while that left-sided vent is directed high enough that it won't scorch your legs, if you've got any plans to have children, we'd suggest keeping it on the table.
+
+Software
+The machine comes with Windows 7 Home Premium 64-bit lovingly pre-installed as well as a disc of device drivers and utilities. Perhaps it's worth mentioning that you'll need an external drive to access them, since the Pulse 11 doesn't come with one.
+
+On its website, Maingear includes a logo that reads "Zero Bloat Ware" across a stop sign, saying that because it isn't in the thrall of a third-party software provider, its units are delightfully free of unwanted crap. This is essentially true -- THX TruStudio Pro does appear on the machine, but given that it's a necessary component to improve the device's speakers, we can't really fault Maingear here. The company also also rather thoughtfully included zipped files with Microsoft Security Essentials and OpenOffice. Because neither were installed, the choice was left entirely in our hands.
+
+Configuration optionsThe stock unit begins at a highly reasonable $999. For that amount of cash, you'll get a 2.6GHz Ivy Bridge Core i5, 4GB of DDR3 RAM, 256GB HDD and the six-cell battery. Every unit comes with Intel's HD 4000 Graphics and NVIDIA's Kepler-based GeForce GT650M, paired with 2GB of video memory. Bundled into that price is a one-year hardware warranty and a lifetime "angelic service," offering free phone support for the lifetime of the system.
+
+
+You can choose between two further CPUs, a 2.8GHz Core i5 or a 2.1GHz Core i7, add up to 16GB of RAM and select from a choice of 21 other hard-drive units, topping out at a whopping 600GB Intel 210 Series SSD that costs $1,225 on its own. The version that we're testing would set you back $1,679, and packs the Core i7, 8GB of RAM, a 240GB Intel 520 SSD and a beefier Centrino Wireless-N adapter. If you've got money to burn, you can trick out the unit baller-style, with the price costing over $2,600 -- with the only real limit on your hardware being the contents of your wallet.
+
+The competitionSince the chassis of the unit was forged in Clevo's laptop foundry, it's important to know that plenty of other manufacturers have put their own spin on this 11-inch gaming laptop. Origin's EON 11-S, for example, starts at the same $999 price and offers a wider range of colors, but its packing a dual-core Intel Pentium B960 instead of a Core i5 -- which costs an additional $137. That's not mentioning the Eurocom Monster 1.0, Sager NP6110 or Mythlogic's Chaos 1212, which all share the same DNA. To help you navigate so much choice, we've added a table with the core features of each base system -- from there it's just a matter of customization.
+
+    CPU RAM Graphics HDD Price     Maingear Pulse 2.6GHz Core i5 4GB DDR-3 2GB GT 650M 250GB $999   Origin EON 11-S 2.2GHz Pentium B960 4GB DDR-3 2GB GT 650M 320GB $999   Eurocom Monster 1.0 2.3GHz Core i5 4GB DDR-3 2GB GT 650M 500GB $825   Sager NP 6110 2.5GHz Core i5 8GB DDR-3 2GB GT 650M 500GB $899   Mythlogic Chaos 1212 2.5GHz Core i5 4GB DDR-3 2GB GT 650M 250GB $1,016   Base model only, prices subject to change     Wrap-up
+Partway through the week we spent with this laptop, we started to think about Arcade Fire's My Body is a Cage. It took us a while to understand why that was, but it seemed like a rather apt description of this device as a whole. At its core, this frankly bonkers gaming laptop has an unreasonable amount of power compressed and compacted into a shell the size of a netbook. Take it to your local LAN party and heads are gonna turn as you invite feelings of inadequacy from those around you. The $1,679 version that we tested will keep it well beyond the reach of many, but if you're looking for a dedicated games machine that you can take with you, it's quite simply staggering.
+
+Of course surrounding that beating heart is the compromised outer shell which stops us from waxing too lyrically. Sacrifices have had to be made in order to make this piece of hardware work and if you don't have the thick end of two large ones to blow, then you'd be right to have pause and ask if it's worth it. The keyboard and trackpad take a lot of getting used to (we couldn't get comfortable no matter what we tried), while the display and speakers were simply lackluster -- fundamental components you'd expect them to get right on a device of this cost.
+
+But here's the thing. Most of you will prefer to tote around a mechanical keyboard and balanced gaming mouse even when you're just doing some work. You'll probably be using it in decently lit rooms and you'll always have access to a power supply. In those conditions, you're entitled to disregard our concerns entirely, because the one thing that's undeniable is that this machine is tremendous fun. When we finished playing with all of these games (and then turning in 2,500 words on the subject), we just wanted to sit down and play them all over again. In fact, we'd go so far to say that this machine is addictive, because going back to console gaming afterward felt like a massive step down.
+
+

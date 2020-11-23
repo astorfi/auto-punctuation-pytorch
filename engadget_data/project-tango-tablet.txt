@@ -1,0 +1,39 @@
+
+Comprehending the world around us is something we humans take for granted, but it's not so easy for our technology. Sure, autonomous robots and military-grade research labs have hardware that can approximate the same visual acuity of human eyes, but Google's Advanced Technologies and Projects (ATAP) division started Project Tango to bring that sort of tech to the masses. Its mission is to make mobile devices capable of using depth sensors and high-spec cameras to craft three-dimensional maps more cheaply and easily than other current efforts. ATAP announced its first piece of hardware in February, a prototype smartphone equipped with Kinect-like 3D sensors and other components, but the team is now expanding the project to a new form factor: a seven-inch tablet that's packed with a lot more power.
+
+
+
+
+
+The prototype tablet has a 1080p display and runs a stock version of Android 4.4 KitKat, but what's most important is the oomph under the hood: NVIDIA's quad-core Tegra K1 chip alongside 4GB of RAM and 128GB internal storage (microSD cards are not supported). That's in addition to USB 3.0, micro-HDMI, Bluetooth LE and LTE (availability will depend on carrier, but Google isn't announcing which frequencies are supported just yet) -- and if that all sounds like overkill for a tablet, it's because the team wanted to make it extremely difficult to hit a ceiling in terms of computing power.
+
+
+The Tango tablet sees the world through the two cameras and a depth sensor on the back. One camera has a 4MP sensor and comes with (relatively) huge two-micron pixels that offer high light sensitivity and faster speeds than most standard options (similar to the UltraPixel sensor in HTC's One), while the other camera tracks motion more broadly with a 170-degree wide-angle fisheye lens.
+
+If that all sounds like overkill for a tablet, it's because the team wanted to make it extremely difficult to hit a ceiling in terms of computing power.
+
+The smartphone is a bit chunky and unsightly, from an industrial design standpoint, but the tablet actually looks like it could pass as a consumer device. It's neither as thick as I expected, nor does it appear hastily put together. Even though device aesthetics don't really matter in a tablet aimed squarely at developers, the ATAP team has put a lot of effort into the design to ensure its slate is best equipped to do its job. For example, the cameras are mounted at a 13-degree angle to give them the view needed to gather accurate data, while allowing any meatbag holding it to do so in a natural way -- instead of awkwardly holding the tablet directly in front of their faces when mapping a room.
+
+
+Through Tango, the ATAP team wants to give mobile devices a sense of human scale and an understanding of space and motion -- it wants your phone or tablet to mimic the way we see the world. Should Tango succeed, the phone in your pocket will be able to map out a three-dimensional mockup of your office building or home, as well as measure the distance between objects within them (walls, counters, couches and so on).
+
+The NVIDIA chip inside uses desktop GPU architecture, making it easier for companies to port over complex programs that they've already spent years developing on PCs.
+
+The benefits of these spatial talents are broader than you'd think. If you're wandering aimlessly through a Home Depot to find a small trinket, you could install an app that guides you through the store, like an indoor version of in-car GPS. Or, instead of imagining how that Swedish sofa would look in your living room, another app might deftly show you if the furniture will fit where you want it to go, no tape measures or imagination required. Virtual real estate tours could become much more realistic for buyers, while three-dimensional maps would be especially handy for visually impaired users. "If you walk around the office building, [a device with Tango tech] could read the names of each conference room out loud as you pass them," says Johnny Lee, Tango's technical program lead.
+
+The project's already getting plenty of support from the graphics community, with renowned game engine builders Unity and Epic among the many companies working with Tango; even Autodesk (the makers of AutoCAD) has several projects in the works. That corporate support, which began with Qualcomm's Adreno GPU inside the Tango smartphone, should continue to grow stronger on the tablet because of the K1 chip involved. The NVIDIA chip uses desktop GPU architecture, making it easier for companies to port over complex programs that they've already spent years developing on PCs.
+
+"If the device can understand your environment, you could turn your living room into a dungeon."
+
+Then there are games: Lee showed us an impressive game demo that let us explore a fantasy world by walking around in real space, making the tablet a virtual window into a completely different place or time. "If the device can understand your environment," said Lee, "you could turn your living room into a dungeon." This type of environment also seems ripe for a good game of virtual hide-and-seek, with characters hiding behind real objects in your house.
+
+
+This 3D-mapping technology is still considered bleeding-edge, but Lee envisions a day in which the enhanced sensing capabilities are expected in a device, much like Bluetooth is a fundamental feature in phones today. To get Project Tango where it is today, ATAP collaborated with a number of manufacturers and component suppliers to produce the necessary hardware, while universities and research labs contributed much of the software. Work in the 3D-mapping space has been ongoing for the last 20 years, but the challenge Tango tackles is condensing all that technology into a small enough device that consumers will want to carry around.
+
+We've outlined a few examples of what Tango could bring to the table, but none of it would be possible without the creative input of developers. Back in March, the team distributed 200 phones to third-party devs, but in the next six months, Lee plans to ship out these high-powered tablets on a far wider scale; beginning today, developers can sign up to get notified when they're available. The tablet's expected to go on pre-order later this month, but Google is hesitant to lock down a specific date for release. Whenever it shows up, however, it'll cost $1,024 to get your hands on one -- if you get whitelisted for an invite. (Like Google Glass before it, there are criteria one must meet to be deemed worthy.) Regardless, the team hopes to showcase the device at I/O if it's ready.
+
+Like Google's continued experiment in wearable computing, this isn't a consumer product yet. The tablet's loaded with top-of-the-line components throughout to give devs what they need, while retaining a realistic price tag. For their money, developers won't be getting capabilities different from the phone released in February, but the larger form factor does provide an upgrade in ergonomics. According to Lee, when holding the slate, you're less likely to block the cameras with your fingers. Plus, a bigger device can house a much larger battery (ATAP isn't giving an official size yet, but it's likely quite generous, if the phone was any indication). More space between the cameras and sensors also allows for more accurate 3D measurements, and there's more room for heat to dissipate, which means these bigger devices can handle more computing power.
+
+Eighteen months into the 24-month project, Lee and his team see a bright future, but Tango's ambitions don't stop with phones and tablets; the program lead believes that Tango could eventually extend to wearables as well. "[Tango] is a camera-based system ... and in a wearable we can explore [always-on] cameras that constantly track positions everywhere."
+
+

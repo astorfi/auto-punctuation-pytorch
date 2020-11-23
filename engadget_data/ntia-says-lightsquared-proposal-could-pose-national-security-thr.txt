@@ -1,0 +1,6 @@
+
+ 
+Last summer it looked like Philip Falcone's LightSquared was on the path to a democratic LTE solution: a coast-to-coast network, incorporating satellite connectivity to cover the entire country. It's an ambitious goal to be sure -- perhaps too ambitious. In a letter to the FCC, the National Telecommunications and Information Administration (NTIA) warned that the wholesaler's wireless network, which would operate on the MSS spectrum, could interfere with systems like Department of Defense communications. Here's the snag: last year the FCC approved the company's initial proposal to create a network that would incorporate both terrestrial and satellite services. Now LightSquared wants to offer the option of terrestrial-only phones to their clients. According to the NTIA, such a system would require far more land-based stations, causing potential MSS overcrowding and increasing the risk of interference with everything from aeronautical emergency communications to Federal agency systems. The FCC has yet to make a decision on the revised proposal, and LightSquared hasn't made a peep, leaving us to wonder whether it was all too good to be true.
+      
+
+ 

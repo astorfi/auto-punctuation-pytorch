@@ -1,0 +1,4 @@
+
+Despite its "Defend Your Net" campaign last year, Google was unable to fully put the brakes on changes to German copyright law that may mean it has to pay up for news excerpts it indexes. As a result, the company announced that unlike the other 60 countries where Google News operates by relying on sources to opt out of inclusion by request, robots.txt file or meta tags, it's requiring German publishers to opt-in. According to Google, it's pushing six billion visits per month to publishers worldwide as a free service, not something it should have to pay for. As TechCrunch points out, the issue comes as a result of the new German law that allows search engines to continue to publish snippets of news without paying, but isn't clear about just how much information that can include.
+
+

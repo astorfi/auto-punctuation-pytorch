@@ -1,0 +1,6 @@
+
+ 
+We've seriously no idea why Apple didn't just ship all of the June 2009 MacBook Pro units with the SATA 3Gbps specification enabled, but at least it caved to the chorus of complaints and enabled it today via a firmware update. MacBook Pro EFI Firmware Update 1.7, as it's called in Software Update, weighs in at just 3.35MB and requires OS X 10.5.7 to be installed. According to Apple, the update "addresses an issue reported by a small number of customers using drives based on the SATA 3Gbps specification with the June 2009 MacBook Pro." Of course, it goes on to say that it still doesn't support the use of drives that can take advantage of such speeds, but at least you have the option now of taking matters into your own hands and upgrading to a non-hamstrung SSD should you choose.[Via MacRumors]
+      
+
+ 

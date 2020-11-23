@@ -1,0 +1,4 @@
+
+ Apple made much ado of the Lightning connector it launched side-by-side with the iPhone 5, but what we've known about it has been limited outside of the presence of an authentication chip. Double Helix Cables' Peter Bradstock has delved deeper and tells AppleInsider that there's some clever wiring that clinches the reversible design. While Lightning's power supply is truly symmetrical among the contact pins, the data isn't -- which suggests a chip inside is redirecting data to keep the plug working as intended. The technique helps explain why Apple would need any elaborate circuitry in the first place. No matter the wizardry inside, Bradstock doesn't see any cut-rate Lightning alternatives being useful in the near future: as it's unlikely that anyone outside of Cupertino knows how the authentication works at this stage, clone cables may amount to little more than heaps of metal and plastic.
+
+

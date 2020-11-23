@@ -1,0 +1,10 @@
+
+ 
+One of the discussions that arise anytime we bring up a new graphics card from ATI or NVIDIA is about which company has the better drivers. Well, this should help sway the argument a little bit. It would seem StarCraft II Beta players were among the first to notice low frame rates while using the latest drivers from NVIDIA, and further digging has uncovered that the automated fan-controlling part of said firmware was failing to act as intended. The result? Overheated chips, diminished performance, and in some extreme cases, death (of the GPU, we think the users will be okay). The totality of it is that you should avoid the 196.75 iteration like the plague, and NVIDIA has temporarily yanked the update while investigating the reported issues. Shame that the company hasn't got any warnings up on its site to tell those who've installed the update but haven't yet nuked their graphics card to roll back their drivers, but that's what you've got us for, right?
+
+[Thanks, Shockie]
+
+Update: Credit where it's due -- NVIDIA has dutifully put up an alert on its site advising users to roll back to the 196.21 driver while it investigates the root cause of the reported fan problems.
+      
+
+ 

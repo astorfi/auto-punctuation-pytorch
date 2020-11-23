@@ -1,0 +1,42 @@
+
+ 
+ It's pretty obvious from Razer CEO Min-Liang Tan's one-man presentation at Gamescom that he's buzzing about his new gaming keyboard. Ready to accompany the accessory maker's Ouroboros gaming mouse (hands-on impressions coming very soon), the Deathstalker will arrive in Ultimate and Standard versions. They both plump for chiclet-style keys and the pricier (and larger) Ultimate felt both light and slim. The standard issue packs three backlit color options, while the bigger board adds in Razer's light-up Switchblade UI, seen on its first gaming laptop. The first part of this is ten LCD keys that can be customized to gaming buttons or more typical PC use. They're still contextual, meaning if you launch the calculator from one of the keys, they will then transform into more appropriate calculator functions. Beneath that, a touchpanel LCD can act as a trackpad and accepts several gesture motions. It can also display your Twitter feed, game information and plenty more. The keyboard will also feature Synapse 2, Razer's new cloud-based settings service. The CEO explained that a player's custom layout and profile for the 'board could be stored online and then accessed from any computer it's plugged into, ready for your next (online) fight. Get our first impressions after our gallery and the break. 
+
+
+
+ 
+ We're liking these style lines, and it all follows the same design lines and sentiment of the Razer Blade. While the chiclets may not be to everyone's tastes, --Razer already has their own range of mechanical keyboards -- the keys on the ultimate version felt responsive enough during our brief play, and they still have the same optical effect found on the blade, meaning the image seems to float atop those LCD keys. We still need more PC titles to offer up their own customizations, but users will soon be able to take matters into their own hands, as Razer has launched the SDK for its Switchblade UI alongside this new keyboard. Both the standard and ultimate iterations are set for a global launch next month, priced at $80 and $250, respectively.
+
+  Show full PR text   Razer announces the DeathStalker Ultimate featuring the all-new Switchblade User Interface with dynamic adaptive tactile keys
+   Razer, the world leader in high-performance gaming hardware, set a technological benchmark today with the release of its new Razer DeathStalker Ultimate gaming keyboard, featuring Razer's award-winning Switchblade User Interface (UI).
+
+   The Switchblade UI on the Razer DeathStalker Ultimate is the same acclaimed, customizable LCD trackpad and LED keypad combo introduced on the Razer Switchblade concept, which can currently be found in production on the Razer Blade gaming laptop and the Star Wars™: The Old Republic™ gaming keyboard. This unique interface transforms gaming keyboard functionality into a customizable control panel with 10 dynamic, adaptive tactile keys that can be used to bind commands, macros, skills and spells for an unparalleled in-game competitive advantage. Each key can display any image by using Razer's Synapse 2.0 software, offering gamers the smartest keyboard on the market.
+
+   The LCD panel below the keys is capable of two modes. The first setting displays critical in-game information, such as damage dealt and heals-per-second on the new Star Wars™: The Old Republic™ Battle Logger application, or countdown timers that keep track of in-game events with the Razer Gamer Timer application. This display also allows for intuitive multitasking, running external applications like YouTube and most social media platforms, which allows gamers to stay connected to the world by instantly updating their status for friends and followers to see, all on the LCD panel.
+
+   The second mode of the panel functions as a highly sensitive, multi-touch trackpad with intuitive gestures built-in, offering an alternative method of navigating games or PC desktops.
+
+   List of Razer Apps
+
+    Trackpad   Numpad   Macro Recorder   Gaming Mode   Browser   YouTube   Facebook   Twitter   Gmail   Clock   Screenshot   Game Timer
+
+   Game Specific Apps
+
+    Star Wars™: The Old Republic™ Combat Logger     Battlefield 3
+    The Razer DeathStalker Ultimate features an anti-ghosting infrastructure of up to 10 keys in game mode. Users may actuate as many keys as they have fingers, and have them all register accurately and swiftly in-game.
+
+   Powered by Razer Synapse 2.0, the world's first cloud-based storage software, the Razer DeathStalker Ultimate automatically saves all of a user's custom settings and profiles for the gaming keyboard on a cloud server. These settings can then be accessed from any computer, with any Razer DeathStalker Ultimate, to ensure the keyboard is instantly ready for use.
+
+   "With the Switchblade UI on the Razer DeathStalker Ultimate, we wanted to offer gamers an enriching and intuitive gaming experience built for total game control," said Robert "RazerGuy" Krakoff, president of Razer USA. "We continue to work closely with independent software vendors to integrate the API of their games on the Switchblade UI, so that you can see more of the game as you play. I'm excited that we are making such cutting-edge technology available to gamers everywhere, and look forward to bringing more game-specific apps."
+
+   In addition to the revolutionary Razer DeathStalker Ultimate, Razer also introduced the Razer Deathstalker gaming keyboard. The Razer DeathStalker maintains a standard keyboard layout, replacing the Switchblade UI with a numpad instead. The Razer DeathStalker features the same unique design and features of the Razer DeathStalker Ultimate – a 10-key anti-ghosting infrastructure, chiclet-style keycaps, and Synapse 2.0 support.
+
+   __________________________
+
+  RAZER SOFTWARE DEVELOPMENT KIT FOR SWITCHBLADE UI NOW AVAILABLE
+  Third-Party Software Development Kit is ready for developers to build applications on Razer's Revolutionary Switchblade User Interface
+  COLOGNE (GamesCom 2012) – Razer™, the world leader in high-performance gaming hardware, announced the development of a Software Development Kit (SDK) for the award-winning Switchblade User Interface (UI). Game developers and users of the Razer Blade, Star Wars™: The Old Republic™ gaming keyboard, and the newly launched Razer DeathStalker Ultimate will now be able to develop applications with the new Software Development kit.
+  The Switchblade UI's 10 dynamic adaptive tactile keys and LCD panel allow for two modes that offer a full, vibrant display and a trackpad. Users will be able to utilize the award-winning features of the SwitchBlade UI in creating applications of the developer's choosing. 
+  With the newly developed SDK, developers can freely create new applications for the Switchblade UI with possibilities ranging from informative guides, mini-maps, inventory slots, and other elevating features, all based in a free and open development model. Interested applicants may submit their inquiries to (SBUI_support@razerzone.com) or visit http://www.razerzone.com/switchblade-ui/sdk for a chance to craft out the apps of their choosing. Developers are required to have knowledge of C++ and C Sharp programming. 
+  "With the development of the SDK for the Switchblade UI, we are pleased to offer every game developer the ability to create applications that will enhance their immersive experience for their favorite games," said Robert "RazerGuy" Krakoff, president of Razer USA. "I am eager to see the types of applications that can be made by our passionate and creative fans inside the development community."
+ 

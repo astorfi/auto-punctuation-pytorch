@@ -1,0 +1,5 @@
+
+
+Not to be left behind by Apple, Google could soon launch its own health-tracking platform for mobile devices. Forbes reports that the search giant is working on a new service, tentatively called Google Fit, which will pull in data from third-party fitness wearables and health apps and combine them into one central app. It's not known if Fit will be delivered as a standalone app or come embedded inside future versions of Android, but it would likely operate as Google-made version of Apple's HealthKit, a service that lets companies like Nike feed in fitness data, and Samsung's own fitness framework, SAMI. An open platform would also lend itself to running on top of Google's upcoming Android Wear platform, allowing smartwatches and fitness bands to feed data into Fit's open APIs. Mirroring Apple, Google is set to unveil its new health-centric service at its own developer conference, Google I/O, which kicks off on June 25th. It has a lot of wearable talks planned for the event, so we won't have long to wait to learn more about what Google has planned.
+
+

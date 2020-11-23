@@ -1,0 +1,6 @@
+
+ 
+So you've seen how Apple intends to handle printing on its web-centric mobile device, now how about Google? The Mountain View crew has decided to solve one of Chrome OS' significant shortcomings -- namely the lack of a printer stack or drivers -- by interposing itself between apps and the printing hardware. Essentially, when you want to print you'll be sending your request over to a Googlestation up in the clouds, which in turn will translate those instructions and forward them along to the nearest paper tarnisher. We say nearest, presuming that's what you'd want, but the big deal here is that you'll be able to use any device to print on any printer anywhere in the (internet-connected) world. It's quite the brute force approach, but at least it assures you that whether you're using a mobile, desktop or web app, you'll be able to print without fear of compatibility issues. This project is still at a very early stage, but code and dev documentation are available now. Hit the source link to learn more.
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ Novatel's announced that their EV-DO-rocking Merlin XV620 Wireless ExpressCard has gotten approved by the PCMCIA trade association, making it the first EV-DO ExpressCard on the market -- albeit a bit later than the rumored May launch. Still, the news should please users with a laptop that has an ExpressCard/34 slot but no built-in 3G support, who can now take advantage of the speedy, although somewhat pricey EV-DO network, getting data speeds up to 2.4 Mbps. Now, one of the biggest markets for the card would seem to be MacBook Pro users, but according to Novatel's website the XV620 only supports Windows XP and 2000. Which means Mac users will either have to forego their precious OS for the unfamiliar waters of Windows via Boot Camp or wait who knows how long for Novatel to release some native Mac drivers.
+      
+
+ 

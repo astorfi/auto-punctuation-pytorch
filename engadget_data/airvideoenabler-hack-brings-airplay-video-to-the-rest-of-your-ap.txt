@@ -1,0 +1,6 @@
+
+ 
+Apple's new AirPlay video streaming functionality is great... unless you want to use it in a non-Apple app. For whatever reason, Apple is restricting AirPlay video to just its first party apps right now, and not even all of those (Safari is left out, for instance). Interestingly, Apple actually built the functionality in, it's just not enabled. Thanks to some "spelunking" work by TUAW's Erica Sadun, it was discovered that a single line of code is all that's necessary to spread the feature to any app that relies on Apple's MediaPlayer framework, including VLC, AirVideo, and even Safari. Now Zone-MR has built a hack called AirVideoEnabler and put it on Cydia, allowing you to bring this functionality to your own jailbroken iPad. For the hack-averse, let's hope Apple catches up in functionality soon. Check out a video of AirVideoEnabler and Erica's original hack in action after the break.
+      
+
+ 

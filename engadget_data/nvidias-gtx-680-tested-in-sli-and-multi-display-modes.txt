@@ -1,0 +1,5 @@
+
+  Just hours after our review round-up of the new GeForce GTX 680 graphics card yesterday, a Dutch site has managed to test multiple cards in different (but invariably exorbitant) SLI modes. One of the strange things we learned during our hands-on was that SLI is complicated by NVIDIA's GPU Boost technology, which causes individual cards in the same chassis to run at different clock speeds depending on their load and temperature. Fortunately, Hardware.info reports no problems with SLI whatsoever, but it also concludes that the GTX 680 doesn't scale quite as well as AMD's Radeon HD 7970 in this type of niche setup. That changes if you throw down even more money on a 5760 x 1080 triple-display rig, in which case NVIDIA takes the lead in some games, but loses in others -- leaving the two rivals closer than the single-card reviews we looked at yesterday. If horizon-filling gameplay is your thing, don't give anyone thousands of dollars until you've checked out the source link.[Thanks, Koen]
+      
+
+ 

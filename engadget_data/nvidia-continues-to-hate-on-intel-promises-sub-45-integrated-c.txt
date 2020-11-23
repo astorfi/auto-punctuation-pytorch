@@ -1,0 +1,6 @@
+
+ 
+Following up yesterday's trash talk with a little action, NVIDIA has disclosed plans to create a sub-$45 processing platform which the GPU-maker is calling, "The World's Most Affordable Vista Premium PC." The architecture will combine VIA's Isaiah processor with an integrated NVIDIA graphics chipset, which the company claims outperforms Intel's Celeron-based, 945 IGP/ICH4 setup handily. Apparently, the combo is capable of 36 GFLOPS versus Intel's 6.4GFLOPS -- which we shouldn't have to tell you is a ton of GFLOPS. We're excited about the prospect of better performance in an integrated chipset (we've all suffered at the hands of the GMA950), but we don't want to see this end in a back-alley knife fight. Keep your cool, guys.
+      
+
+ 

@@ -1,0 +1,4 @@
+
+ No, it's not the world's most conspicuous surveillance van -- it's one of the first steps toward 5G data. NTT DoCoMo has just confirmed that the gear-laden vehicle above successfully conducted a 10Gbps wireless test in Ishigaki this December with the help of the Tokyo Institute of Technology. The dry run relied on frequencies and bandwidth well outside of usual cellular service, in the 11GHz band with 400MHz of spectrum, but proved that it was possible to blow past the speeds of LTE and LTE-Advanced while moving outdoors; the test used 24 antennas to maintain the link. DoCoMo ultimately hopes for similar speed in frequencies over 5GHz, and it's not shy about hoping the technology will define mobile communication as it improves. Although we're not expecting this kind of breakneck performance in a phone for years, it's good to know that 4G isn't necessarily the end of the line.
+
+

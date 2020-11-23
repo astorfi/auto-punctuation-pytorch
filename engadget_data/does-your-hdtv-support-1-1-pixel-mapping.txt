@@ -1,0 +1,6 @@
+
+ 
+Even if you don't know what 1:1 pixel mapping is, you probably think your TV supports it. If your TV does support this viewing mode, odds are it isn't on by default. 1:1 pixel mapping means your TV is capable of displaying the image sent to it pixel for pixel, without scaling or processing the video in any way. In other words, if your TV is fed 1920x1080p, then it displays 1920x1080p. Believe it or not usually your digital LCD, DLP or even Plasma takes the 1920x1080 image, shaves off a few lines and displays it. The reason isn't a good one, but it's 'cause TVs have had overscan so long that when digital TVs came along they actually engineered overscan into the set. This is not the case at all on computer monitors, where even one missing line is noticed. So if you want to see if your TV is capable of showing you the whole picture, look it up in your manual for a "pc mode" or even "dot by dot", or just head over to the AVSForum for a comprehensive list of HDTVs that support this elusive feature.
+      
+
+ 

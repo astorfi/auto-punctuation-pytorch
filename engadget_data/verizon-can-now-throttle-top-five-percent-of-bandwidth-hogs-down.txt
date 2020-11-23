@@ -1,0 +1,19 @@
+
+ 
+Nice timing, Verizon. Just as thousands -- possibly zillions -- of smartphone users are pondering the switch to Big Red for Apple's iPhone 4, the carrier has slipped in two critical policy changes that are apparently effective immediately. Tucked within loads of fine print in a new PDF that surfaced on the company's site, there's this: 
+
+"Verizon Wireless strives to provide customers the best experience when using our network, a shared resource among tens of millions of customers. To help achieve this, if you use an extraordinary amount of data and fall within the top 5 percent of Verizon Wireless data users we may reduce your data throughput speeds periodically for the remainder of your then current and immediately following billing cycle to ensure high quality network performance for other users at locations and times of peak demand. Our proactive management of the Verizon Wireless network is designed to ensure that the remaining 95 percent of data customers aren't negatively affected by the inordinate data consumption of just a few users." 
+ To our knowledge, this is the first time that VZW has taken a notable position on throttling, and the link to its stance on net neutrality (as it applies to wireless, anyway) is fairly obvious. What's most interesting to us is the five percent of data users figure; the top one or two percent isn't a huge amount, and there's a good chance that bandwidth abusers are up in that echelon. But we're guessing that quite a few business travelers will fall within this particular range, and given that VZW now holds the right to throttle data for your existing billing cycle and the next one... well, good luck gritting your teeth and lasting through that two-year contract. 
+
+In related news, the company is also implementing optimization and transcoding technologies in its network, which is a politically correct way of explaining that it can downres any multimedia you try to send through Verizon's pipes. Head on past the break for the full quote.
+      
+
+ 
+
+"We are implementing optimization and transcoding technologies in our network to transmit data files in a more efficient manner to allow available network capacity to benefit the greatest number of users. These techniques include caching less data, using less capacity, and sizing the video more appropriately for the device. The optimization process is agnostic to the content itself and to the website that provides it. While we invest much effort to avoid changing text, image, and video files in the compression process and while any change to the file is likely to be indiscernible, the optimization process may minimally impact the appearance of the file as displayed on your device."  In other words, those JPEGs you're uploading for a client may end up looking like rubbish on their end, and by no fault of your own. And that Netflix stream you're trying to watch on the road? Hopefully you enjoy massively pixelated VGA clips. Of course, this is no guarantee that Verizon will immediately start hampering the enjoyment of its mobile broadband users, but if this kind of activity doesn't frighten you, what will? The world's becoming more and more dependent on mobile data networks, and the carriers seem to be moving backwards. Rather than embracing the change, they're all making it harder and harder for consumers to actually rely on them to get work done. Thanks for thinking of us, Verizon.
+
+       
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

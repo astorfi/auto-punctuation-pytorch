@@ -1,0 +1,9 @@
+
+ 
+
+Ever plopped your cellular down next to your laptop? According Georgia Tech researchers, that common scenario could let hackers record almost every sentence you type, all thanks to your smartphone's accelerometer. They've achieved the feat with an impressive 80 percent accuracy using an iPhone 4, and are dubbing the program they've developed, spiPhone. (Although the group initially had fledgling trials with an iPhone 3GS, they discovered the 4's gyroscope aided in data reading.) If the software gets installed onto a mobile device it can use the accelerometer to sense vibrations within three-inches, in degrees of "near or far and left or right," allowing it to statistically guess the words being written -- so long as they have three or more letters. It does this by recording pairs of keystrokes, putting them against dictionaries with nearly 58,000 words to come up with the most likely results.
+
+The group has also done the same with the phone's mics (which they say samples data at a whopping 44,000 times per second vs. the accelerometer's 100), but note that it's a less likely option given the usual need for some form of user permission. Furthermore, they explained that the accelerometer data rate is already mighty slow, and if phone makers reduced it a bit more, spiPhone would have a hard time doin' its thing. The good news? Considering the strict circumstances needed, these researchers think there's a slim chance that this kind of malware could go into action easily. Looks like our iPhone and MacBook can still be close friends... For now. You'll find more details at the links below.
+      
+
+ 

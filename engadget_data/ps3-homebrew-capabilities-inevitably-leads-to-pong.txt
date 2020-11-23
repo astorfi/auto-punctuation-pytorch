@@ -1,0 +1,6 @@
+
+ 
+If you'll recall, the evolution of homebrew on the Wii started out quite similar to this. First comes the Hello World proof of concept, then comes Pong. It would just be wrong to unfold otherwise, right? Dragula96, the same guru who whipped up the original homebrew hack, has now introduced 2 Player Pong 1.0 -- the first notable game to take advantage of the Java devkit (at least, that's how it looks from here). Currently, the collisions are "very basic" and further tweaks are necessary before it's perfect, but it should be stable enough to take you to some sort of blissful state for now.
+      
+
+ 

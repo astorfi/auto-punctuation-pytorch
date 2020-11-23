@@ -1,0 +1,6 @@
+
+ 
+Bluetooth low energy and its predecessors (think Wibree) have been in the pipe for ages now, but we might actually see this tech take off en masse for the first time now that the Bluetooth SIG has officially added it into a release: 4.0. While Bluetooth 3.0 was all about high energy with the introduction of WiFi transfer, 4.0 takes things down a notch by certifying single-mode low energy devices in addition to dual-mode devices that incorporate both the low energy side of the spec plus either 2.1+EDR or 3.0. In a nutshell, the technology should bring a number of new categories and form factors of wireless devices into the fold since 1Mbps Bluetooth low energy can operate on coin cells -- the kinds you find in wristwatches, calculators, and remote controls -- and the SIG's pulling no punches by saying that "with today's announcement the race is on for product designers to be the first to market." Nokia pioneered Wibree, so you can bet they'll be among the frontrunners -- bring it, guys.
+      
+
+ 

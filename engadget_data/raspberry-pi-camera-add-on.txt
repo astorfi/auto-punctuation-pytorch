@@ -1,0 +1,10 @@
+
+ 
+ While the main thing that would make Raspberry Pi's diminutive $25 / $35 Linux setups better would be if we could get our hands on them faster, the team behind it is already working on improvements like this prototype camera seen above. The add-on is slated to ship later this year and plugs into the CSI pins left exposed right in the middle of each unit. According to the accompanying blog post, the specs may be downgraded from the prototype's 14MP sensor to keep things affordable, although there's no word on an exact price yet. Possible applications include robotics and home automation, but until the hackers get their hands on them you'll have to settle for one pic from the Pi's POV after the break and a few more at the source linked below.
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,12 @@
+
+We like virtual reality headsets, but we also refuse to accept any such headsets with displays below 7-inches in size. Thankfully, the Oculus Rift VR headset met those exact specifications in its latest prototype update, going from a 5.6-inch LCD to a 7-inch 1280 x 800 display. Sadly, while we got to get a much closer look at the updated development prototype, we didn't get to actually use it -- Oculus reps told us that, while the hardware's working, it's not quite ready for press primetime just yet. But that doesn't mean Oculus had nothing to show -- not only have a variety of hardware tweaks been made (a new, custom sensor, for instance), but the software's been optimized. Oh, and there were some new demos to show off, albeit on an aging prototype model.
+
+Epic Games' original Epic Citadel demo of Unreal Engine 3 on iOS, for example. The Oculus folks -- no longer a single man, but now a company of around 20 employees -- worked with Epic Games on getting the source code up and running for the hardware prototype, though it's unclear if it'll ever actually be released to developers or the general public. Regardless, like so many software demos running on the Oculus hardware, it was unnervingly effective. There's an inescapable urge to look everywhere but straight ahead while in Epic's Citadel world, even if the wood grain textures on the buildings were a bit more muddy than we'd like. What matters is that the hardware works, and it works to an incredible degree -- the feeling of Epic Citadel's world simply serves to assist in selling the device. The team at Oculus isn't done optimizing yet, though, and promises that slight issues with motion blur (among other minor snags) will be ironed out ahead of launch. Frankly, we had few complaints.
+
+
+
+
+
+We also got to move around a custom demo created by the Oculus folks -- a room built in C++ meant to demonstrate the basic functions of the Rift. While a bit more barebones than Epic's world, it served to demonstrate a sincere sense of vertigo. Pointing the Rift skyward and pushing forward on an attached Xbox 360 gamepad meant we flew toward the ceiling ... only realizing moments later that looking down -- sans body -- is a bit of a terrifying feeling. Regardless, we came away from the latest hands-on with Oculus Rift feeling just as positive as we did last time, if not even more so.
+
+

@@ -1,0 +1,5 @@
+
+ 
+It looks like Samsung's not the only one trying to build a better NAND flash chip, with Toshiba now joining the fray today with news that it's made some advancements of its own. Much like Samsung, Toshiba's apparently managed to cram more storage into roughly the same size chips by changing the way the various elements are stacked, in this case busting things out into three dimensions. According to Toshiba, the so-called "pillars" of stacked memory elements can be squeezed into a tighter space thanks in part to some shared peripheral circuits, although that apparently comes at the expense of a longer and more complex manufacturing process. What's not clear, however, is exactly how big an increase that'll translate to in terms of bits and bytes, nor is there any indication as to when we might actually see some NAND units based on the technology.[Via TG Daily]
+
+ 

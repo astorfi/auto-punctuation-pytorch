@@ -1,0 +1,4 @@
+
+BitTorrent Sync Alpha isn't ready to equal rivals like Dropbox or Google Drive without a mobile component. It's a good thing that BitTorrent just launched Sync Beta, then -- the more polished release includes an Android app that syncs with computers and shares files with fellow Android users. The update also brings versioning through SyncArchive, which stores previous file iterations in a folder. Sync Beta is available on both Android and the desktop today, and BitTorrent promises that an iOS equivalent is coming in the near future.
+
+

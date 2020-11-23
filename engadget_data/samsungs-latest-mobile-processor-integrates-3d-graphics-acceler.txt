@@ -1,0 +1,5 @@
+
+ Hardware video acceleration is a sore subject for quite a few cellphone fans these days, but it looks like Samsung's next generation of mobile processor will speed up graphics directly by integrating a hardware video accelerator. The 65nm S3C6410 processor is based on a 667MHz ARM core but adds in 3D graphics acceleration and hardware support for H.264 and MPEG4, as well as other codecs. The chip is powerful enough to record and play VGA-res video at the same time, which Samsung says will enable higher-quality video conferencing while saving battery life -- that's what we like to hear. There's no word on when or where we might see this bad boy pop up, but with support for Linux, WinMo, and Symbian, as well as architecture support for various types of DRAM and flash memory, we'd guess there might be a few interested suitors.
+      
+
+ 

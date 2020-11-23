@@ -1,0 +1,20 @@
+
+It's true: Xbox One is getting its long overdue gameplay broadcasting functionality on March 11th, just in time for the launch of Xbox/PC-exclusive multiplayer blockbuster Titanfall. Some folks will get a chance to try out that functionality early through the beta program, but no one outside of Microsoft and Twitch have ready access to the service just yet. That's not stopping Microsoft from touting the service as, "the first truly next-gen Twitch experience, one that can't be matched by any other console." So, uh, what does that mean?
+
+It boils down to two main aspects of Twitch on Xbox One that aren't available on PlayStation 4: archiving live feeds and the ability to view all of Twitch (read: any game on any game console). The latter ability already exists on your Xbox One; load up the Twitch app and watch any broadcast you want. When the app gets updated on March 11th (yes, there will be one application -- Twitch -- that handles broadcasting), it gets the ability to broadcast games out as well. Initial setup requires two basic audio/visual choices: if you're using video, where do you want the picture-in-picture of your face to show up in the feed? if you're using audio, there are some "basic levels" to work out. Looking to replicate the ease of use of PlayStation 4's Share button ability? Say, "Xbox, Broadcast!" and you're there. If you don't have/don't want to use a Kinect? That's less simple.
+
+
+
+
+
+Xbox Live program manager Chad Gibson tells Engadget it's a matter of completing the following steps (from in-game): pushing the Home button, opening Snap, choosing Twitch and jumping back into the game. Not aggressively complicated, but certainly not as simple as the voice command option (or a Share button, for that matter).
+
+Like Twitch on PS4, you can turn off video/audio capture as you wish and toggle comments. Also like the competition, streaming controls can be left or removed as "snapped" along the right rail -- should you choose to unsnap it, a "bug" will let you know that recording's on. And no, despite the HDMI-in ability (not to mention the myriad other media playing options) on Xbox One, you won't be able to stream anything other than games to Twitch. All our dreams of a CNN-based Mystery Science Theater 3000 knockoff, dashed in one instant!
+
+It's not clear if Xbox One's broadcasting has a similarly adorable standby screen to PS4 if you dump to the Dashboard during a broadcast*, but it will outright cut off (read: end, non-restartable) if you attempt to load media in place of a game. The broadcast can be restarted, of course, but anyone watching must rejoin and, well, it sounds like kind of a hassle.
+
+Twitch, like the Xbox One's other software, will evolve as time goes on. We expect to see far more customization abilities in the future, as neither console is coming anywhere close to the level of support offer on PC. For now, though, we're glad to see competition between Microsoft and Sony driving innovation in console-based broadcasting.
+
+Update: *Microsoft tells us that, if you hit the Home button to go to the Dashboard while broadcasting gameplay, "the stream gets paused and you see a pause animation on the Twitch viewing side." 
+
+

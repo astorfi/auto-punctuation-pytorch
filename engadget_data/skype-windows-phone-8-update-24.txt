@@ -1,0 +1,12 @@
+
+ Avid Skype video users on Windows Phone 8, now is the time to get your hair did -- HD video is now possible employing "higher-end" WP8 devices, such as the Lumia 920, HTC 8X, and Samsung Ativ S. "Lower end handsets" will have to settle for VGA video, though Microsoft says call quality across the board was improved in update 2.4. All WP8 handsets will enjoy People Hub integration, meaning you can jump right into Skype calls from your contacts list, rather than having to independently open the app. And should a friend need to use your phone to Skype a buddy in Belgrade, account switching is now integrated into the main menu. The update is of course free, and available right now in the Windows Phone store. Head past the break for the full list of updates.
+
+
+
+ New and changed features:
+
+  Higher quality video calling, and up to 720P on supported devices and depending on network conditions  Video calling in landscape mode  Camera switching  Enabled People Hub integration  Switch accounts Fixed issues:
+
+     Category   Description     Notifications   Incoming IM and call notifications, and staying Available, were not reliable when the app was closed     People Hub integration   Skype contacts not listed in the People Hub     Notifications from Messenger contacts   Incoming IM notifications were not shown if message was sent from a Messenger contact sign into Skype for Windows 8     Availability   Some Messenger contacts were not showing online   Known issues:
+
+     Category   Description   Workaround     Picture in picture may not display during all video calls   For some video calls you may not see your own preview   Go back to the Skype home screen, and then return to the video call – your preview should display     Notifications for messages from Messenger contacts   Notifications for messages from Messenger contacts are off by default to avoid you getting two notifications if you're also logged into Message Hub   In the app tap your profile picture, go to notifications in the menu and turn on Messenger notifications  

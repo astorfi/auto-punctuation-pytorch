@@ -1,0 +1,6 @@
+
+ 
+There's some buzz going around right now about a "Zune phone" filed with the FCC -- we did a little extra digging, and we're not really convinced that's what's at hand. We know a Zune phone is in the works, that much is abundantly clear, but what passed through the FCC was a pre-approval application document that ran down a list of questions the FCC had for a CE "coalition" consisting of Microsoft, Dell, Google, HP, Intel, Philips, who are apparently in on some device together. (Strike one. You really think Microsoft's gonna collaborate on the Zune phone? And with that many non-cellphone carrier companies?) From what we can tell, it'll be wireless (duh) with DTV signal detection and transmission (i.e. cognitive radio), and BPSK, WPSK (and likely QAM) modulation and OFDM. Doesn't mean a lot to most people, we know, but the FCC plainly asked the consortium to describe the product's purpose; the answer was "To provide consumer broadband access and networking." (Strike two.) And then there's the above diagram which shows a computer connected via Ethernet to a radio hub system with 802.11g and outbound "wideband" uplink. Did we mention the words "Zune" or "phone" appeared precisely no times in the document? (Strike three.) A Zune phone? We think not -- yet -- but we'll know better when the filing actually hits the FCC in the near future.
+      
+
+ 

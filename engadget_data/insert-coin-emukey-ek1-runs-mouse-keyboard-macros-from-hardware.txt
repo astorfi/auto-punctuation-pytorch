@@ -1,0 +1,11 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+ Software testers don't have it easy these days. While it's been possible for ages to record keyboard and mouse commands as macros, quality assurance teams sometimes can't have any tracking software running -- a real pain when trying to recreate a bug in an online RPG or other input-heavy apps. Emukey's proposed EK1 box could save testers from manual troubleshooting by running those macros from hardware. By taking scripts pushed out from a host Windows PC, the EK1 can run pre-recorded keyboard and mouse instructions on a slave PC without any software interference. The script-based approach makes it easy to reproduce a glitch on other machines by sharing files, and the use of PS/2 peripherals (with USB adapters if needed) prevents lag from skewing the results.
+
+
+
+ Emukey is far along in the development process and needs just $42,000 to start the manufacturing run. If you're pitching in with the expectation of getting an EK1 in return, you'll need to donate at least $89; everything else after that includes either additional EK1 devices or extras, including the promise of in-person help (minus travel costs) at the $3,000 tier. There's even a quick turnaround if the project meets its goal. Production in US factories should help the macro device reach backers as soon as February, including international customers willing to spend an extra $24 (for Canada and Mexico) or $39 (elsewhere) in shipping. As such, anyone who's had to burn the midnight oil verifying a flaw has that much more reason to contribute at the source link.
+
+  Previous project update: The MeterPlug has come quite a long way in less than two weeks of funding. As of this writing, it's at $42,888 of its $70,000 target. The surge puts MeterPlug's objective well within reach when there's more than a month to go, but don't get complacent if you're at all interested -- many crowdfunded projects face a lull in donations after their starting phase, which could leave them hanging without sustained interest. Energy misers who want to track their home's power consumption would still do well to pledge money sooner rather than later.
+
+

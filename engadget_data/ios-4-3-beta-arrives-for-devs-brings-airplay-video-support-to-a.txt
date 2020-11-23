@@ -1,0 +1,15 @@
+
+ 
+We'd been disappointed to find that iOS 4.2 only brought AirPlay video support to built-in Apple apps on the iPhone and iPad, but it looks like that's changing soon -- Apple just posted up the first iOS 4.3 beta, which allows devs to send video from apps or websites to an Apple TV. There's also a new beta of the Apple TV software for testing it out -- it doesn't have any version notes, so we don't know if it offers any additional features as well. 
+
+There are quite a few new features included in 4.3: personal hotspot is indeed included on the iPhone, although it needs to be enabled on the carrier side to work, and the iPad's side switch can now be set back to being an orientation lock, which should make a lot of people very happy. The iPad also gains some multitouch multitasking gestures, which are pretty interesting, actually: you can use four or five fingers to pinch to the home screen, swipe up to reveal the multitasking bar, and swipe left or right between apps. We're also seeing a new FaceTime icon on the iPod touch, which is nice, and 9to5 Mac noticed that the iPad now supports fullscreen iAd banners, which is less nice. Check after the break for a quick video of the iPad gestures.
+
+Update: The Photos app has also gained new AirPlay functionality for photos and videos, and there's a slightly tweaked camera shutter sound, as well as bigger app icons in the App Store's Update menu.
+
+[Thanks, Matt and Brian]
+      
+
+ 
+
+
+ 

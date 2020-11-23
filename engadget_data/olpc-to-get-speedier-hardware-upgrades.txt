@@ -1,0 +1,6 @@
+
+ 
+While OLPC test machines are circulating around, and orders are reportedly adding up in vast quantities, it looks like the green machine could be receiving a few hardware upgrades. According to Vulnerable Minds, the One Laptop Per Child panel at Shmooncon announced that the machine would now sport a 433MHz AMD Geode LS-500 processor (up from 366MHz), 256MB of system RAM (up from 128MB), and a 1GB NAND drive (up from 512MB). The CPU is of the .13-micron variety and only draws 0.08-watts, and it'll also sport the obligatory 7.5-inch sunlight capable display, 1,200 x 900 monochrome / 692 x 520 color resolutions, 802.11b/g, and interestingly, the draft version of "802.11s ESS mesh networking" will also be supported. The trio of USB ports, stereo speakers, VGA webcam, SD card slot, and microphone all remained unchanged, but if you (or your respective government) have any outstanding orders, we sure hope you're lobbying for the newly upgraded machines.
+      
+
+ 

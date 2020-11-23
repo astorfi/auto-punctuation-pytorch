@@ -1,0 +1,4 @@
+
+ARM's long been the dominant form of silicon in mobile devices, but Intel aims to change that with its next-generation Atom chip design codenamed Silvermont. According to Intel, the new architecture will enable CPUs that operate at up to three times the speed of existing models, while (in some cases) also offering chips that sip just one-fifth the amount of electricity to get computational jobs done. The keys to those improvements are Intel's 22nm process and Tri-Gate transistors tuned for SoCs. While Silvermont was designed with mobile in mind, the architecture supports up to eight cores and will find its way into data centers and Ultrabooks in addition to phones and tablets. When? Intel's not telling yet, but rest assured when Silvermont shows up in an actual product, we'll be there to put it through its paces.
+
+

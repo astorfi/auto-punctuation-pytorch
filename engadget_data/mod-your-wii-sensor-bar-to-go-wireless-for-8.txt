@@ -1,0 +1,11 @@
+
+ For those Wii owners with abnormally large living rooms, projector TV setups, or a particular penchant for tricking out their console just 'cause, take heed. Without the need for candles, IR hacks, PCBs, soldering, or even (visibly) voiding your warranty, you to can hack that Wii sensor bar to make it wireless for $8 (or less). Simply head to Radio Shack and snag:
+
+Five-pack of 9V battery snap connectors (~$2, part #270-325)
+Twenty four-pack (single pack) of 22-26 gauge wire butt connectors (part #64-3073)
+9V battery
+
+Now just strip your 9V battery connector wires, crimp those to the power pins of your Sensor bar with the butt connectors (battery red to Wii red, battery black to Wii orange). We have no idea how long it'll last -- nor do we make guarantees that it'll work or won't fry your bar -- but peep AVS for some more details on this and other Wii hacks.
+      
+
+ 

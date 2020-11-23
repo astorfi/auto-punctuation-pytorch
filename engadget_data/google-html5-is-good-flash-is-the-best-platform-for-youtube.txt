@@ -1,0 +1,6 @@
+
+ 
+We can't say there's a ton of surprises here, but, if you're curious to know exactly where Google stands on the whole HTML5 / Flash debate, the company has now laid out its position in a post on its official YouTube API Blog. The short of it is that while Google says it has been "excited" about HTML5 for some time now and that the <video> tag is a "big step forward for open standards," it says that Flash will continue to play a "critical role in video distribution," and that it remains the "best platform" for YouTube's requirements today. Of course, Google also didn't let slip the opportunity to once again talk up the recently-announced WebM video standard, which it says is the open video format the web has been waiting for. It isn't saying, however, that it will replace Flash for video, and notes that Adobe itself has committed to supporting VP8, the video codec for WebM. Hit up the link below to read the company's complete argument for yourself.
+      
+
+ 

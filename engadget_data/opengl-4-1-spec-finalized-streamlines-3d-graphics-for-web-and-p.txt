@@ -1,0 +1,6 @@
+
+ 
+Only four months after OpenGL 4.0 hit the scene, the next revision of the cross-platform graphics API is here, bearing gifts of fancier math and more cribbed DirectX 11 features. Unless you're a graphics guru, though, we doubt you'll be that interested in "64-bit floating-point component vertex shader inputs," so let's get to the meat of what you're after: impressive 3D gaming. OpenGL 4.1 promises to help deliver that to cellphones easier than ever before, by making OpenGL ES (used in iOS and Android, depending on your hardware) completely compatible with the desktop graphics version, and promises "features to improve robustness" in WebGL 3D browser acceleration as well. There's also support for stencil values in fragment shaders, but we digress -- if you understood what we just said, hit up the source and more coverage links for the rest.
+      
+
+ 

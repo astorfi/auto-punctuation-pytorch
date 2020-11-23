@@ -1,0 +1,77 @@
+
+
+
+Never did we think we'd need to do a How-To on something which should be part of the basic functionality of a portable music player, but once you put your tunes on an iPod unfortunately it's a one-way sync unless you know the tricks for getting them off. There are already a lot of different ways to copy music off of an iPod, Apple is just choosing to spend a lot of time and resources to make it hard to do. In this How-To we show you several different ways of getting the music off of your iPod and onto both Macs and PCs, all with free tools.
+
+Update: Since this version is rather behind the times, we've got a brand new, totally up-to-date guide for getting stuff off your iPod and iPhone!
+
+
+
+Why do we need to get our files off our iPod?It would be a wonderful thing to know we'll never have a hard drive failure, a system crash with data loss or our computer stolen, but that's not reality. In our world, those things happen and once you've spent the time, money and effort to put music on your iPod, there isn't any reason it should be locked away. We've needed to do a fresh install of the operating system for every computer we have ever owned (yes, including Macs), and sooner or later plenty of users will need to do the same, either because of a physical defect which requires new hardware, or to eliminate any of the spyware, viruses, and other exploits which are part of the computing experience these days. Back-ups are great, but we can't always back-up our entire library of music. And besides, why should we, it's our music on our iPod?Last week we posted our observation that the new new version of iTunes 4.7 disabled a popular and useful utility called "iPod Download" which lets you drag and drop files from the iPod to anywhere you choose. Apple added some blocking code to stop the plug-in from working, and later in this How-To we'll show you how to enable "iPod Download" with a HexEditor in the Mac section.All that said, Cory Doctorow from BoingBoing made a couple posts about the current vibe he's getting from Apple, and we echo the same thoughts (check out his thoughts here and here). Cory also suggested a tool for Macs to get files off, we'll have that in the Mac section of this How-To as well.We wanted to explain all of this, since we received more than than a few emails and a lot of instant messages from people discovering they couldn't just get their stuff off their iPod.We're also hopeful Apple might consider not spending engineering time and lawyer fees on chasing after applications and developers who just want to give folks an obvious feature that's being left out only to appease the RIAA. At the end of the day, Apple needs to know that we're their customers, too.On with the How-To. We picked a couple of free tools that help you get your music off your iPod, there might be better ones that we missed, so feel free to post them up in the comments.Get the tunes off with a PCOn the PC side we picked like the full-featured (and free) ephPod. ephPod can download news, get Outlook contacts, edit your calendar, add songs and few dozen other useful things-but for us, the best feature is a simple file export to get your songs off your iPod. The PC does not need to be the authorized machine for your iPod.Download and install ephPod.
+
+Open the application, Start > Programs > ephPod.
+
+
+Make sure your iPod is plugged in and select the drive in the pull down list that your iPod appears as.
+
+
+Once the application has seen your iPod, double click "songs"-this will bring up a list of all the songs on your iPod.
+
+
+When you see the song(s) you wish to copy off your iPod, select and "right click" and choose "Copy Songs to Directory" on the song or press Ctril+Alt+C. For our example we're taking our Engadget Podcast off of our iPod and putting it on another computer.
+
+
+ephPod will ask where to save the file, we choose our desktop.
+
+
+ephPod will then create a new folder along with the file you selected.
+
+
+Click OK and that's it!Get the tunes off with a MacOur favorite was to get our files off our iPod on our Mac "was" iPod Download, but since iTunes 4.7 came out, Apple disabled it (we'll show you how to fix that at the end of the How-To). iPod Download was also pulled after Apple's legal team went after the site hosting the application, so here's another application that does the same thing and is free. The Mac does not need to be the authorized machine for your iPod.We like iLinkPod, simple quick and released under the terms of the GNU General Public License. After installing, iLinkPod checks your iPod, displays the results and when complete, a new folder with pop up and you can then see all the hidden goodness, which is your stuff. From there you can drag-and-drop the files off your iPod to your Mac.
+
+
+Download and install iLinkPod.After installing double click the application.
+
+
+Click "Choose" to select your iPod.
+
+
+Choose the volume or iPod name. Click "Choose".
+
+
+iLinkPod will detect if you selected your iPod, then click "Link!".
+
+
+iLinkPod will now scan your iPod and you'll see a new finder window with folders called f00, f01, f02, etc..You'll also have a folder called "iLinkPodFolder" on your desktop.
+
+
+From here you can download all your songs or just browse through the folders to find the songs you want to copy to your Mac. In our example again we move the Engadget Podcast over to our other Mac. If you just select the song, you can also play the song directly off the iPod.
+
+
+That's it! You songs are now back where you want them!
+
+
+"iPod Download" fixOnce we realized that Apple killed our favorite app iPod Download, we started to poke around with a HexEdit tool to see what they changed. HexEdit can be downloaded here for free at SourceForge.Now HexEditing a file can really mess things up, so only do this if you're comfortable with these types of tools.As we were looking through the latest iTunes, the French site HardMac uncovered exactly what we were looking for. It's simple, Apple looks for the name "iPod Download" all you need to do is change it to something with the same number of characters.So here's how:The following assumes you had "iPod Download" already installed and then iTunes killed it.Download and install HexEdit from SourceForge.It might be a good idea to make a copy of iTunes and putting in another folder, just in case (File > Duplicate).
+
+
+Run HexEdit and browse to iTunes (File > Open).
+
+
+Keep browsing to Contents > MacOS > iTunes. Which is an Executable. Click Open.
+
+
+Once open, you'll see a ton of numbers and random characters. Choose Find > Find and Replace. Type iPod Download. Click Find Next.
+
+
+Here's what it will find.Now, change the name from iPod Download to something else, just make sure to keep the same number of characters. For example, we typed in "iown thisipod" without the quotes. bite mesteveb also works.
+
+
+Exit the application, HexEdit > Quit HexEdit, you'll then be prompted to save, click Save.
+
+
+Now Open up iTunes and iPod download is back!
+
+
+From here, we're back to where we were and will enjoy getting our files off our iPod, until the next Apple update or cease and desist letter comes your way.Your turnThere are lots of way to liberate your files from your iPod, we just picked a couple free and simple tools. Please feel free to post up your favorites in the comments.Lastly, if you're still thirsty for more iPod hacking, check out our new iPod Hacks section over on Hack a Day!
+Phillip Torrone can be reached via his personal website http://www.flashenabled.com
+

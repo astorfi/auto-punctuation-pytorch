@@ -1,0 +1,10 @@
+
+ 
+ Fresh from receiving technology prize plaudits, Linux creator Torvalds is still telling it how it is. In a recent Q&A session at Aalto University in Finland, he said that NVIDIA was "single worst company we've ever dealt with," responding to an audience member's question on her Optimus-powered laptop and its lack of Linux support. While she was finally able to get it working on her machine through some GitHub help, Torvalds was unequivocal about his thoughts on NVIDIA. Throwing in a middle-finger gesture to the camera, he was particularly irritated with the fact that the chipmaker's own Tegra range were faring so well on the wave of Android devices currently hitting stores, as Google's mobile OS itself came from a strong Linux background. Aside from hardware manufacturer gripes, Torvalds goes on to discuss his work with open source development in greater detail -- the full talk is right after the break. You can jump through to the 49th minute mark to hear the Linux founder's complaints, but be warned, family readership -- he drops the f-bomb.
+
+
+
+
+ 
+
+ 

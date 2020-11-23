@@ -1,0 +1,6 @@
+
+ 
+As the media streaming game heats up, quite a bit of focus is being placed on the software side. Take Boxee, for example -- this open-source application is designed to enable users to "control their media from a PC-connected TV," but in due time, it hopes to spread the program to set-top-boxes, cable company-issued HD DVRs, etc. Operating in quite the inverse manner, the system is slated to hit alpha next Monday, but it will only support Mac and Linux operating systems. Of course, a Windows-friendly version is due out soon, and given that it is based on XBMC, we have all ideas that it will be at least decently useful. As it stands, Boxee can support 1080p content, but DRM-laced material is still a no-go. The startup is hoping to round up a few alpha testers to get things moving in the right direction, and if you think you're the perfect candidate, tap the read link and get involved.
+      
+
+ 

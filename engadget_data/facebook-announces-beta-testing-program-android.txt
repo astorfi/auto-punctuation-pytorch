@@ -1,0 +1,7 @@
+
+Facebook's always working on improving its mobile apps, and doing so for Android has proven to be a unique challenge. To aid in Android development, Facebook's starting up a new beta testing program for the main FB app to help identify bugs and get user feedback before each monthly release. You see, Facebook has found that the huge diversity of hardware and OS software in the Android ecosystem makes it difficult to find every bug and issue with new releases when using only internal folks (and their limited number and kinds of devices) as testers. Thankfully, at I/O this year, Google announced a new framework that allows app builders to create a Google Group for beta testers and allow those testers to download beta versions of apps from the Play Store.
+
+
+Facebook has created just such a group and wants Android users the world over to sign up as beta testers. To get in on the dogfooding action, folks simply need to sign up for the Google group, then opt-in to become a beta tester and head over to Google Play to download the app. Additionally, Facebook has created its own FB group to facilitate discussion between testers and devs, and while it wants folks to join, it's not a requirement. Once you're on the app's beta version, you need only use the app as you normally would. Reporting bugs is easy: just tap the new "Report Bug" icon in the settings menu, and the necessary information will get sent to Zuckerberg's crew. The best news? The program starts today at noon, and you'll be able to download the newest Facebook app beta directly.
+
+

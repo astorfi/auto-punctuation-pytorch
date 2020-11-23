@@ -1,0 +1,15 @@
+
+ 
+Thought Honeycomb was just for tablets? Well, it's not! Sure, tablets might be Google's main thrust with the release, but we've been able to dig up enough evidence in the preview SDK's emulator released yesterday to suggest that these guys are still keeping their eyes on the smartphone prize.
+
+Here's how it works: the emulator can be set to load at an arbitrary screen resolution. By default, that's WXGA, 1280 x 768 -- perfect for tablets, but obviously a wee bit large for even the biggest smartphones. Well, it turns out that setting the emulator to WVGA (like you might find on a modern mid- to high-end smartphone) triggers a moderately different shell UI that lacks most of the whiz-bang home screen stuff Google's shown on the Honeycomb tablets. In fact, the default launcher crashes out entirely, which means you need to install a replacement (Launcher Pro works nicely) just to play around.
+
+Once you get in, it's pretty raw, but you immediately notice that the emulator's got some traces of smartphone support. Notably, the status bar reverts to a more smartphone-friendly form, albeit one with pre-Gingerbread background coloration and incorrectly-inverted font colors. The lock screen (pictured above) is back to its old form, not the webOS-esque circular lock in the Honeycomb tablet UI. The browser -- which has been completely revamped in Honeycomb -- works, though without visible tabs; Google might be thinking that they'd take up too much real estate on a screen this small.
+
+Again, you can't glean much here, but it's interesting primarily because the emulator knows to revert to a smartphone UI layout at the lower resolution -- a possible sign that Honeycomb will be a true dual-mode, dual-purpose platform from day one. And even if it isn't, it looks like they're setting themselves up for a two-UI strategy down the road.
+
+
+
+
+[Thanks, Andrew]
+      

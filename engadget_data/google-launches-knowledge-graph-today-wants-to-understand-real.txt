@@ -1,0 +1,13 @@
+
+
+ Americans and Brits might chuckle at their respective understandings of words like chips, pants and biscuits -- a search engine, however, can't be quite so discerning. As it turns out, Google actually thinks it can, and has been working on its Knowledge Graph project to prove it. Beginning today, English searches from Google.com might start seeing a new box appearing alongside (unless you happened to see it via the live-trial). If there is more than one potential meaning to your search term, Google will ask you to specify (trousers, not underwear, for example). Likewise, when it's more confident it knows what you mean, you'll get a summary box instead. (A celebrities place of birth, favorite cheese etc..)
+
+ Google's Shashidhar Thakur, tech lead for search, told us "We think of this as our pragmatic approach to semantic search." And by pragmatic, he means that for the last two years, Google has been working to map the "Universe of things," not just webpages. Over 500 million things, in fact, creating a total of 3.5 billion attributes and connections so far. The hope is, that as this technology evolves, you'll be able to ask more complex questions, like "Which US airports have a Cinnabon stall." Or, you know, other such deep and meaningful queries. If you see some info, and happen to know better, there's a feedback system, so you can let Google know, hopefully making Knowledge Graph continually evolve in accuracy. While it's only rolling out for English searches, it's not just desktop, with mobile and tablet search getting the goods too. There are plans to spread this out to other languages, but no specific dates for this just now.
+
+
+
+
+
+ 
+
+ 

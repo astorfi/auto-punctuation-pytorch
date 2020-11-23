@@ -1,0 +1,13 @@
+
+ 
+Now that ZeeVee's back in business with its much improved Zinc broadband video portal, boxee actually has some serious competition to keep an eye on. That said, the company is hosting a meetup in NYC tonight in order to launch a new "bleeding edge" alpha that will integrate Pandora radio / RadioTime and showcase a more robust API. Furthermore, you'll find a fresh XUL-based framework for the boxee browser to enable the app to more easily interact with any web-based video, and as if that wasn't enough, there will also be a PBS application baked in. We have to say, we're pretty impressed with the regularity of updates coming to boxee -- now, if only those big networks would allow hit shows to be broadcast online live alongside their TV airings, we'd be in television heaven. The full announcement is after the break.
+
+
+
+
+
+rocking with Pandora via boxee's new API at Webster Hall we are launching a new "bleeding edge" alpha version of boxee during today's boxee NYC meetup. you can watch it live and join the chat on the Mogulus boxee meetup channel page. i still remember the first time i used Pandora. it was love at first sound.now it will be available on boxee! you can listen to your quickmix, your favorite stations as well as create new stations. music in the living room has never been better.the Pandora app was built using a new boxee API, [warning: geek speak follows]allowing developers to build apps using XML pages and Python scripts. developers can now do pretty much whatever they want UI-wise and control the data and metadata around the media. RadioTime is another great example of what's possible using this new API. also in this version is an enhanced version of the boxee browser. it is based on the XUL framework, which means the boxee browser shares the same core architecture as any Mozilla browser (e.g Firefox). [/warning: end of geek speak] this version's boxee browser will display any full HTML page, and will try to play video on the page. for example, if you go to a Hulu RSS feed and click on an episode you will see the Hulu page for a few seconds and then the video will start playing in fullscreen. the guys over at boxeehq are also releasing their PBS app today. if you want to install it on boxee go to App Box on the main menu, select Repositories and add dir.boxeehq.com. you will see all the boxeehq apps on the New Applications screen.so for those of you at the meetup - thanks for coming! for everyone else, download the latest version of boxee to take advantage of all the new content and features.
+
+       
+
+ 

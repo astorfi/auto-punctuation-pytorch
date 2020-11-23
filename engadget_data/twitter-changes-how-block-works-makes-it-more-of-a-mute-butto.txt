@@ -1,0 +1,19 @@
+
+From your garden variety troll to far worse kinds of harassment, we've all run into people on the internet that we'd rather not deal with. On Twitter, choosing to block someone used to mean they couldn't see your feed while they were logged in. Now, a support page explains that it just means you won't see their tweets or interactions with you, unless you go to their page or they come up in a search. The only way block actually blocks someone, and forces them to unfollow your account, is if your tweets are set to private.
+
+
+Many users are voicing disagreement with the change, citing the fact that harassers can easily monitor their target's accounts, or RT their tweets and encourage others to join in. As it stands, the harassed now have to choose between participating in public conversations or controlling who can follow and retweet them (temporarily switching to private and blocking someone can be used to cause a force-unfollow in a pinch).
+
+
+Update: Twitter has announced it's reverting the changes to its blocking policy. In a blog post, the company states that any blocks users had will remain in effect. However, people will still be able to see that they've been blocked -- a situation the company describes as "not ideal." Twitter claims "we never want to introduce features at the cost of users feeling less safe." So maybe next time it'll consult users before changing how its security and privacy settings work.
+
+
+
+@MatthewKnell now when you block a user, they cannot tell that you've blocked them. It was a longstanding request from users of block...
+
+- dick costolo (@dickc) December 12, 2013We're reverting the changes to block functionality. https://t.co/H3W3V27rKN
+- Twitter (@twitter) December 13, 2013There are several different interests at play here, and Twitter's ability to both let its users participate in a public forum and maintain their privacy against harassers puts it in a difficult position -- not to mention try to generate profits as a publicly traded company. Those critical of the change have already claimed the change exists to stop users from blocking advertisers, but Twitter reps tell TechCrunch the change occurred to prevent retaliation scenarios. The way the feature works now, the person who has been blocked no longer sees any message or notification.
+
+Another issue results from the way certain public safety organizations like police departments use Twitter, and that if they block someone for trolling, that individual could miss important information. That exact situation recently popped up for the Albuquerque police department's feed, and the new policy would fix that. One alternative suggested is that Twitter should offer separate mute and force unfollow options -- let us know in the comments if you can think of a better solution.
+
+

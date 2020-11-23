@@ -1,0 +1,5 @@
+
+ 
+ It doesn't yet include the opt-in system for plug-ins that Mozilla is working on, but Firefox users can now download an update that adds a few other new features and new tools for developers. If you've lost track, that means were now at version 12.0, and the biggest addition this time around is reserved for Windows users -- they'll now get silent updates that bypass the User Account Control prompt. Apart from that, you'll now get line numbers when you view a page's source code, along with a number of other more minor fixes and performance improvements. You can find the full release notes at the source link below.
+
+

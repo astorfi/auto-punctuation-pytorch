@@ -1,0 +1,5 @@
+
+ If you're the type to watch the late stock tickers, you might have noticed that NVIDIA's stock just took a pretty big hit, down 24 percent to $13.56 -- that's because the company just informed investors that "significant quantities" of previous-generation graphics chips have been failing at "higher than normal rates," and that it's lowering its Q2 estimates due to pricing pressure. NVIDIA will be taking a $150M to $250M charge against earnings next quarter to cover the cost of repairing and replacing the affected chips, but didn't specifically announce what products were defective, just that they include GPUs and "media and communications processors." Laptop makers have apparently already been given an updated GPU driver which kicks in fans sooner to reduce "thermal stress" on the GPU, and NVIDIA says it's talking to its suppliers about being reimbursed for the faulty parts. That's great and all, but we'd really rather know which chips specifically are failing -- if you're serious about playing in the big leagues, you better come clean, guys.
+      
+
+ 

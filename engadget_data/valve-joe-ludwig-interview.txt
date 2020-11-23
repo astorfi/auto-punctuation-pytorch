@@ -1,0 +1,45 @@
+
+It's a beautiful late winter day in Bellevue, Wash. Instead of enjoying the outdoors, I'm sitting in a rectangular white room with three programmers, surrounded by three walls covered in augmented reality markers. Not that I'm complaining: Valve Software's Joe Ludwig, the programmer in the room who most resembles a member of Anthrax, is walking me through his company's latest work in the world of virtual reality. It's the first anyone outside of Valve will see of the company's VR efforts thus far.
+
+
+As it turns out, the software company is working with Oculus VR to port the tremendously popular free-to-play first-person shooter, Team Fortress 2, to the upcoming Rift development kit. The free update, dubbed "VR Mode," is the latest benchmark in Valve's ongoing hardware initiative. "We think that both augmented and virtual reality are going to be a huge deal over the next several years," Ludwig tells us.
+
+
+
+
+Resultantly, Valve's jumping in head first as evidenced by its partnership with Oculus VR -- perhaps the most interesting of Oculus' collaborations. The nascent VR company is working with Hawken developer Adhesive Games, as well as Doom studio id Software, neither of which has the capital nor the manpower of Valve. More importantly, Valve has a team dedicated to working on just VR -- a level of investment in VR tech that is unmatched outside of Oculus itself. The partnership thus far is fairly cursory.
+
+"We're friends. They help us out with hardware and we help them out with software," Ludwig says.
+
+No money changed hands; Oculus provided development kits, and Valve's providing Team Fortress 2's VR Mode. The casual nature of that relationship is reflected in Valve's attitude about releasing the new mode -- Team Fortress 2's VR-enabling update in the coming weeks is essentially a giant beta test in which Valve will measure and analyze the way TF2 players interact with virtual reality hardware.
+
+"Team Fortress was sort of the obvious choice for this," Ludwig tells us. "The Team Fortress community is large and healthy. There are millions of people playing TF every week, but they're also used to us shipping a lot of updates."
+
+Indeed, updates for TF2 ship nearly weekly, if not multiple times per week. Beyond that, though, the community is used to being a test bed for Valve's projects; TF2 was where Valve first introduced free-to-play, as well as microtransactions with its hat system (among many other initiatives).
+
+
+"The real reason for [choosing] TF is the community around TF, and the way that we use it as a place where we run experiments," Ludwig confirms.
+
+Like most Valve games, TF2 is played from the first-person perspective, which made it a better fit than, say, the isometric view of DOTA 2. To reiterate, most Valve games are first-person perspective games, from Half-Life to Portal, which made us wonder why none of those games are getting the port treatment.
+
+"There's certainly interest internally in moving other Valve titles. We don't know yet what the community thinks of all this," Ludwig says. "We've played a bit in Left 4 Dead; we've played a bit in Half-Life 2. We haven't taken any of those other games to the point where they're anywhere close to being ready to be shipped; we've just sort of experimented with head tracking a little bit."
+
+We've done a bunch of experiments with various bits of hardware, but we don't have a display that we can ship.
+
+The same goes for internal hardware. There is internal interest in creating hardware, but there's little to say beyond that.
+
+"We've run a ton of different experiments; we've looked at lots of different things. And we don't know what we would ship in this space, and until we do, there's nothing to say there basically," Ludwig says.
+
+
+Though Valve's hired a team just for hardware purposes (20 to 30 people, including new hires and Valve vets, comprise said team), the company doesn't have anything to show for its efforts just yet (at least on the VR front).
+
+"We don't have any hardware," Ludwig says when asked about working with Oculus and why Valve didn't create its own VR headset. "We've done a bunch of experiments with various bits of hardware, but we don't have a display that we can ship. Oculus is actually out there doing this, and so we're partnering with them because they have the hardware and we have the software and we can help each other out. And we can both learn a lot in the process."
+
+
+On the whole, VR remains "a big question mark" for Valve. Thus far, only a handful of folks internal to Valve have gone hands-on with TF2's VR Mode, and it's clear the hardware team is eager to get more feedback. Ludwig prodded me with questions following my hands-on, clearly hungry for outside feedback -- he wanted to know if I felt sick or disoriented, and my general impressions.
+
+"We don't know how strongly people will react to VR," Ludwig says. "We don't know how popular it will be, what people wanna see. It might be that we need to learn a lot more from TF before we move on to other titles. We just don't know what's gonna happen."
+
+[Image credit: Michael Clinard]
+
+

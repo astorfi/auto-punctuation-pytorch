@@ -1,0 +1,34 @@
+
+Take a good hard look at Valve's Steam Machine, because it's the last time you'll see it. Er, something like that. Only 300 of the metal beast above will ship to beta testers, and then Valve says it's cutting off its own supply of Steam Machines. "We're really building this as a test platform, and there are many machines that are gonna be made by third-parties. They're the ones that will be available commercially in 2014," Valve designer Greg Coomer told Engadget.
+
+
+Those machines will be revealed at next January's CES, as well as partners and more information (fingers crossed for pricing!). Coomer expects a "good array of options, optimized for different features" in the Steam Machines lineup -- everything from a low-end, inexpensive streaming box to an Intel i7/GeForce Titan GPU-powered supercomputer. The machine above was somewhere in between, with an Intel i7 CPU and a GTX 780 GPU housed in its snug chassis. All the parts in the prototype were swappable, and the only standard it's missing internally is an optical drive (presumably unnecessary if you're running SteamOS and downloading all your games digitally, right?).
+
+
+Valve's Steam Machine prototype is a reference design, essentially. "We think it's the right test platform for us," Coomer said. Of course, putting all that work into a reference design and not creating the box seems mighty wasteful.
+
+
+
+
+
+We couldn't help but push Coomer one more time on availability of the box outside of beta:
+
+"Really we just wanna have confidence that all the customers on Steam are having enough options, and that the price/performance spectrum is as fleshed out as Steam customers want it to be. And right now, the indications that we have from the lineup that we're gonna be talking about at CES, is that they are gonna have enough choice. So we're gonna continue to treat this as a test platform and see how that goes."
+
+As far as speed and usability goes, the Valve Steam Machine prototype we tried is literally a gaming PC with an Intel i7 and a high-end NVIDIA GPU. Though we aren't clear on the RAM, it's safe to say that the prototype we used operated without a hitch (at least while navigating the SteamOS and playing World of Goo). And let's be honest, the performance of a high-end PC isn't what matters here -- what matters is how game console-like it is. And that usability is all a measure of the software running on it, which was actually Valve's new, free system: SteamOS.
+
+
+Anyone who uses Steam's Big Picture Mode is already intimately acquainted with SteamOS, as they're very similar. SteamOS looks and acts like Big Picture Mode, except it's the basis for the entire hardware system. It's controller-friendly and easy to navigate. The same Steam splash page washes across the screen when it launches, and the same tile-based layout of games and the Steam store are visible at launch. As promised, the OS is built on Linux (not based on Ubuntu, we're told, but entirely custom), though you'd never know it as the only interactive layer is all Steam.
+
+That means it also has the limitations of Steam: SteamOS is not the replacement for Windows 8 you've been waiting for. Beyond basics like browsing the web, there's little in the way of standard OS functions. While Valve reps showed off slides of the box's vanity shots using a Windows PC, I asked how I'd view such shots from within SteamOS -- the answer is that there's no real way to do so, as there's no file browsing system or image viewing application. While these limitations may not affect the vast majority of Steam Machine buyers (who are essentially buying a game console), it certainly impacts folks who are looking at Steam Machines as a replacement for their standard PC. Make no mistake: Steam Machines are PCs posing as game consoles, which comes with both positives and negatives.
+
+For one, every Steam Machine sold next year will ship with a Steam Controller as a standard. That's a positive! Not only is the Steam Controller an intensely interesting device (and Valve's first piece of hardware), it's a great mouse and keyboard replacement for using any PC in the living room. Secondly, every Steam Machine comes with SteamOS -- this enables Valve to say that every Steam Machine is capable of playing the entire Steam library (whether it's handled natively on the box you're buying or via streaming from another computer in your home). Sadly, streaming wasn't available to try when we visited Valve, but it should be available on Steam pretty soon for everyone to try out themselves.
+
+
+As far as passing judgment on the Steam Machine prototype that Valve built, that seems both needless (considering you can't buy it) and pointless (only 300 of you are getting them, and this one isn't representative of the entire batch). Needless to say, you could build a pretty powerful PC using the internals Valve was running on the box we used.
+
+The operating system, however, is another story entirely. Without even base level support for media playback, streaming options (Netflix, Hulu, etc.), and a relatively limited list of games supported natively, it's very clearly early days for SteamOS (Valve says it's in active talks with streaming companies, and working with a variety of developers to develop their games for SteamOS). At this point, though, it's hard to consider music/TV/movies one of the "pillars" of Valve's operating system, and we haven't seen game streaming in action.
+
+Both the PlayStation 4 and Xbox One, however, feature rich, custom-built OSes, and both have long lists of games in development. Which is to say nothing of both Sony and Microsoft having proven track records in the living room. In the near future, Valve's Steam Machines and SteamOS aren't taking down the living room's traditional trio of console makers, but Valve's always played the long game (remember Steam at launch? woof!), and that approach has consistently succeeded for Valve. Just like the two new consoles from Microsoft and Sony, what's interesting isn't how things play out this holiday, but next holiday. We'll revisit Steam Machines and SteamOS at CES 2014, and have more on Valve's push into the living room as the year continues.
+
+

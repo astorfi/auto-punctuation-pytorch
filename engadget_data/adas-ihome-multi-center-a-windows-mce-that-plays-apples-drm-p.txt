@@ -1,0 +1,7 @@
+
+ 
+
+The iHome Multi-Center on display at CEDIA has been around for awhile but somehow managed to slip below our radar. Still, when a Windows Media Center Edition device touts the ability to playback Apple's DRM-protected AAC files, well, it makes sense to double-back and take notice. The device is said to exploit iTunes and the Quicktime APIs to create a two-zone (analog and digital audio) music server in addition to its MCE capabilities. The magic created by using Quicktime as the output driver makes the iHome the only server product we know of that will playback your FairPlay tracks purchased off the iTunes store. The slab even busts-out an IP control server which generates both full-sized and mini flash-based HTML pages for two-way control over the system from any networked device sportin' a web browser with Flash support. Sweet. The iHome MCE features a couple of 400GB disks (750GB disks coming early next year) and an HDTV video card for a luxurious, $8,000 addition to your home audio rack. You do have one don't you?[Via TalkAbout:CEDIA]
+      
+
+ 

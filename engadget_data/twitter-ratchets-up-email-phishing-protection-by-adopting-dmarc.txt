@@ -1,0 +1,5 @@
+
+ 
+ Phishing emails often pose as being sent by major league sites rather than princes from far-flung countries, but Twitter's implemented a new measure to stamp out phonies that borrow its name. Costolo and Co. announced that, earlier this month, they began leveraging a tech called DMARC that establishes a way for email providers to authenticate senders and reject messages penned by impostors. While the DMARC specification does need support from e-mail services, outfits including AOL (which happens to be our parent company), Gmail, Hotmail / Outlook and Yahoo already make use of it. According to Twitter, it's now "extremely unlikely" that the majority of their users will receive emails masquerading as being sent from a Twitter.com address. We're sorry to disappoint, but it looks like you'll have to get your fix of foreign lottery notices from somewhere else.
+
+

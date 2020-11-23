@@ -1,0 +1,4 @@
+
+ It's fair to say that some bugs take awhile to fix, and a public schedule isn't always an option; HTC knows this well. Still, Google may be pushing the limits with the solution for a longstanding Android bug that prevents resolving hostnames on some WiFi networks without using the full domain. The company has officially committed to providing a patch -- 2 years, 6 months and 23 days after the bug was first reported on April 29th, 2010. Google explains that the "next major release" after Android 4.2 should hold the remedy, and claims that a mix of "prioritization and resources" prevented the team from sorting things out between Android 2.1 and now. We'll take Google's word for it, although the vow won't be much comfort for anyone who's still holding on to that original HTC Desire and can't upgrade. At least the Mountain View team won't have to deal with any 17-year-old security flaws.
+
+

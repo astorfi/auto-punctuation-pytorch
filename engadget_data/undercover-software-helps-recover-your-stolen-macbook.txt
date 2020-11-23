@@ -1,0 +1,5 @@
+
+ So you coughed up some dough for that iAlertU program to protect your MacBook, but wouldn't you know it, your laptop got jacked anyway by a clever thief who simply removed the battery before taking off. Luckily for you, all is not lost, at least not if you'd installed another program called Undercover on your machine, which not only sends out an IP-address-containing SOS if it's reported stolen, but actually uses your machine's built-in iSight to snap a photo of the perp before simulating a screen failure that makes the Mac unusable. Every six minutes, Undercover pings a database maintained by developer Orbicule to check if the machine it's installed on has been stolen; a positive reply from the server initiates a sequence of events that hopefully ends with law enforcement officials breaking down the door of the nefarious Macjacker's pad and recovering your beloved notebook. In case the crook was smart enough to never reconnect to the Internet after the heist, however, you'll still need to file an insurance claim and head down to the old Apple store -- looks like they still haven't found a software solution that beats the trusty Kensington Lock.
+      
+
+ 

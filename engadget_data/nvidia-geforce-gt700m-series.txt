@@ -1,0 +1,22 @@
+
+ In NVIDIA's ongoing efforts to monopolize the technical-sounding graphics card market, the California-based components manufacturer today announced a fresh mobile line of GPUs aimed at notebook computing. That's five new GPUs in total, with the GeForce GT 720M and 735M making up the "mainstream" segment, while the GT 740M, 745M, and 750M make up the "performance" portion of the lineup. All five cards include NVIDIA's "GPU Boost 2.0" tech, which allows the GPU to alter its clock speed on-the-fly for the sake of efficiency -- although this is mainly a software-level upgrade over the first iteration of Boost, and it's still the same familiar Kepler architecture under the hood. It won't be too long before we start seeing the newest NVIDIA mobile GPUs in notebooks at retail, as the PR says they'll be in notebooks from "every leading manufacturer" in the coming months.
+
+
+
+  Show full PR text   New NVIDIA GeForce 700M GPUs Squeeze Every Drop Of Performance Out Of Notebooks, Automatically
+  Monday, April 1, 2013
+   NVIDIA today announced five new notebook GPUs which deliver a trifecta of technologies that seamlessly and automatically maximize a consumer's notebook performance and experience.
+
+  With no effort or input from the notebook user, the technologies work in the background to save battery life, enhance performance and enrich the visual experience -- providing the best notebook experience the GPU can deliver. They include:
+   New NVIDIA GPU Boost™ 2.0 technology, which intelligently adjusts GPU clock speed to maximize graphics performance.
+
+  NVIDIA® Optimus™ technology, which enables extra-long battery life by switching the GPU on and off so it runs only when needed.
+  GeForce® Experience™ software, which adjusts in-game settings for the best performance and visual quality specific to a user's notebook and keeps GeForce drivers up to date.
+  "There is an elegant simplicity to NVIDIA's GeForce 700M notebook technologies," said Rene Haas, vice president and general manager of the notebook business unit at NVIDIA. "You use your notebook how you want, and GeForce makes your experience awesome."
+   Incorporating all three of these technologies, the new lineup of NVIDIA GeForce 700M GPUs includes GeForce GT 750M, GeForce GT 745M, and GeForce GT 740M GPUs for the performance segment, as a well as GeForce GT 735M and GeForce GT 720M GPUs for the mainstream segment.
+
+   NVIDIA GeForce 700M GPUs are available today. Every leading notebook manufacturer will be introducing notebooks with GPU Boost 2.0 technology, including Acer, Asus, Dell, HP, Lenovo, MSI, Samsung, Sony and Toshiba.
+
+   More information about the GeForce 700M family of notebook GPUs is available at www.GeForce.com.
+
+ 

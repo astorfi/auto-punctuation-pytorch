@@ -1,0 +1,13 @@
+
+That your government will spy on you should, sadly (by now) come as no surprise. But, some of the ways they go about it still trigger disbelief. The Intercept claims to have received documents outlining methods the CIA has considered to access data on Apple products. The usual talk of decrypting and vulnerabilities is present, but there's one technique in particular that seems especially nefarious. Reportedly, the CIA went as far as creating a modified version of Xcode (an Apple tool that developers use to make apps). The hijacked Xcode would unwittingly include code in the final app without the developer knowing. The Intercept's sources also claim OS X's updater (that automatically installs the latest version of OS X) was targeted with a modification that would install a keylogger onto your Mac. Fun.
+
+
+
+          
+ 
+ 
+ There's no word about exactly how the CIA expected to get its modified Xcode onto the machines of real world app developers, or if that was ever a reality it was truly considering. The revelations all originate from a "secret" annual conference held by the agency called the Trusted Computing Base Jamboree. The event is reportedly sponsored by the CIA's Information Operations Center, and has been taking part since around 2006 (before the first iPhone ever came to market). These ideas could have been developed as proof of concepts, or part of standard procedure to explore what's possible. Likewise, this wouldn't have been the first time apps were used as tools for spying. If nothing else, it's testament to the creativity agencies will employ just to get your data.
+
+       
+
+ 

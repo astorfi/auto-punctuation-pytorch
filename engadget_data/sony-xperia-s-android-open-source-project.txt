@@ -1,0 +1,8 @@
+
+ 
+ After just under three months of development, Google's wrapped up its experimental work on bringing the Sony Xperia S into the Android Open Source Project fold. According to Sony, AOSP Technical Lead Jean-Baptiste Quéru considers the effort a success, but the device is being taken off the project's roadmap so Mountain View can focus on its own hardware. Currently, an AOSP build boots on the Xperia S hardware with support for SD-Cards, Wi-Fi and its built-in sensors. Audio and the phone's modem are also operational, but they require proprietary binaries Hirai and Co. can't publish just yet. Work on polishing the handset's vanilla Android experience isn't over, however. Sony has moved the code to its GitHub account and is welcoming developers to pitch in and help with the open source effort. For more details and to see what code has already been laid down, tap the second source link or check out the video of the smartphone in action below.
+
+
+
+ 
+

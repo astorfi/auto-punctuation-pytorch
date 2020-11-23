@@ -1,0 +1,5 @@
+
+ We're sure that more than a few of our readers are keen on robots and interested in the latest developments in robotics, but how many of you would volunteer to be the guinea pig for the world's first unassisted heart surgery? Even though there were about a million doctors on hand to monitor Dr. Carlo Pappone's robosurgeon doing its detailed work on a 34-year-old Italian patient suffering from atrial fibrillation (heart flutters), we can't help but wonder if a juxtaposed "0" and "1" in the bot's code is all it would take to drive a scalpel somewhere that it isn't supposed to go. Luckily for the pioneering patient, the 50-minute surgery went off without a hitch, most likely due to the fact that the prototype bot has software containing data about some 10,000 real-world operations, and has already performed assisted procedures on at least 40 people. Pappone, who initiated and monitored the latest surgery from a computer in Boston while it was occurring in Milan, plans to release a commercial version of the unnamed robosurgeon later this month.[Via PhysOrg]
+      
+
+ 

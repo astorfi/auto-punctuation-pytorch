@@ -1,0 +1,6 @@
+
+ 
+Media Center fans woke up to a rude awakening late last week when they realized that many of their OTA HD channels were missing guide data. After a number of reports at The Green Button -- where Microsoft is usually very receptive to programming data problems -- it become apparent that almost all the channels missing data were the very same ones where the broadcasters stayed on schedule and shut off their analog transmitters in February. We dropped a quick note to Microsoft to see what the deal is, but while we wait for a response we theorized that this might have something to do with the way OTA HD used to work in Windows Media Center Edition. Back in those days you had to have an analog tuner in order to add an HD tuner, so it makes some sense that the two were linked together, at least at some point. Further lending to this theory is the fact that those running the infamous TV Pack aren't affected and nor are those running a Windows 7 Beta -- MS completely rewrote how the tuners work in the newer releases. Now if you'll please excuse us while we go manually schedule all of our recordings, you know, like on an old VCR.
+      
+
+ 

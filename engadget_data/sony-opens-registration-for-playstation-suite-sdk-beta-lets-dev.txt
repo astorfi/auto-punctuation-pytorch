@@ -1,0 +1,7 @@
+
+ 
+
+We first got wind of Sony's PlayStation Suite SDK back at the Tokyo Game Show in September, but the company just opened up the application process for a closed beta test, letting Windows XP and Windows 7 users in the US, UK and Japan submit their credentials for early access. Those getting the nod from Sony will be able to develops apps for use on the PS Vita, which is set to hit in February, along with the PS Suite -- that "hardware-neutral" framework that'll allow access from non-PlayStation branded products, including the Xperia Play, Tablet S and Tablet P, with the potential for third-party devices to come as well. The SDK uses the C# programming language, and doesn't require devs to have access to actual Sony hardware -- so don't expect a Vita to show up at your door anytime this year. Think you have what it takes to be a Sony dev? Hit up the source link to send 'em the word.
+      
+
+ 

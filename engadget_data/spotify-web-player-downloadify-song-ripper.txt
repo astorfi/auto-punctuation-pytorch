@@ -1,0 +1,4 @@
+
+This is why we can't have nice things. Spotify's web player has been rolling out to more users since its closed beta launch late last year, but today an extension popped up in the Google Chrome store (it's already been pulled) allowing users to download songs as MP3 files. According to the notes left by its author, the company wasn't using any encryption on its HTML5 player, making it a pretty simple project to put together. We're waiting to hear back from Spotify about the breach, and while Google appears to have been quick on the ball to remove the extension -- in a similar manner to how it's treated YouTube download tools in the Chrome Web Store -- hopefully this won't give others pause on distributing premium content using HTML5.
+
+

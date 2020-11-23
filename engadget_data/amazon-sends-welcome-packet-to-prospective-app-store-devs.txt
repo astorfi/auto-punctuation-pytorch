@@ -1,0 +1,17 @@
+
+ 
+There's now little doubt that Amazon -- for reasons that may or may not be borne of sound mind -- is hard at work setting up its own app store ecosystem for Android devices. We've got a tiny bit more evidence of that today in the form of the complete welcome kit being sent out to prospective developers; there's not anything too mind-boggling in here, but let's break down some of the key points:
+
+From the wording, there's no question that the system is exclusive to Android -- at least initially.
+Amazon is already accepting submissions, but only of promotional materials and other non-app assets; presumably, they're trying to make sure they've got critical mass before deploying.
+Oh, and here's another reason they're only taking non-app assets right now: the "App Packaging Tool" that binaries will need to be run through prior to submission isn't yet ready. The nuts and bolts of the tool aren't yet clear, but Amazon says that it will "ensure that the apps will install properly on customers' devices and... enable the digital rights management (DRM) policies outlined in the developer agreement."
+Speaking of DRM, turns out it's not required. It's up to the developer whether to enable it.
+Developer-submitted videos will be supported in the app product pages, which is kind of nice -- neither the Android Market nor the iOS App Store support that.
+Naturally, it's at Amazon's sole discretion what will be allowed and disallowed in the store; "offensive content" won't be permitted, and the company says that "what [it deems] offensive is probably about what you would expect." Neither pornography nor "hard-core material" are cool.
+
+So there you have it -- Amazon is expecting to ingest actual app binaries "in a few weeks," so it looks like this will be ready in time for the holidays. App store fragmentation seems like the last thing any mobile platform needs right now, but we're sure that these guys -- with the huge opportunity for showcasing apps on a site network that gets tens of millions of views per day -- would just love a slice of that multi-billion dollar pie. 
+
+[Thanks, anonymous tipster]
+
+
+

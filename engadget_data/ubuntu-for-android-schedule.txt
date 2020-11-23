@@ -1,0 +1,7 @@
+
+ It's beautiful. It even works. But if there's a downside to the notion of an Android phone that runs full-blown desktop Ubuntu when docked to a big screen and keyboard, it's the need for patience. Nearly a year after the first announcement, we've had an update from one of the key project leads, Richard Collins, to the effect that work on a converged Ubuntu for Android device is running on schedule, but won't culminate in an actual product until shortly after the launch of the first Ubuntu-only smartphone:
+
+  "We are planning to very quickly follow our initial launch [of an Ubuntu-only handset] with the converged device which will have high-performing system components that will allow Ubuntu to run as a desktop OS when docked." 
+ Considering that the first Ubuntu smartphone isn't expected until early 2014, pending agreements with manufacturer and carrier partners, we could be looking at another 12-month wait. Still, the company probably wouldn't flesh out its roadmap like this unless things were going well behind the scenes. It's also possible that Canonical will release early builds of the dual OS for us to try -- just like it's going to cater for experimental GNex owners next month. In fact, Collins told us that we "might not have much longer to wait" before we see something new on Ubuntu for Android, even if it isn't a finished product. Read our full interview with him right here.
+
+

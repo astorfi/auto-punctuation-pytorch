@@ -1,0 +1,5 @@
+
+ 
+We've seen surprisingly few Kindle 2 hacks 'round these parts, and therefore few apps that run on the beloved e-reader itself. One notable exception is Savory, which monitors the device's Documents directory for files sporting either the .epub or .pdf extensions -- when one of these guys rears its ugly head, it's converted to a Kindle filetype. The only hitch is that the program (as currently available) chokes on image-based PDFs -- according to the author, images in PDFs are fine, as long as there is some text to extract. Sure, the software doesn't do anything that Amazon doesn't already do for free -- but it does make the conversion quick and painless. Ready to give it a go? Hit the read link for the files, and you'll be mere moments away from all those terrific Left Behind books someone scanned and posted on The Pirate Bay. You're welcome.
+
+ 

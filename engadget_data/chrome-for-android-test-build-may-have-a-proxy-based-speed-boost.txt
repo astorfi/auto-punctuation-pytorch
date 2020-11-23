@@ -1,0 +1,4 @@
+
+ A fast smartphone will only go so far toward improving browser load times if the connection isn't there to back it up. If a discovery within a recent build of Chrome for Android is any hint, Google may have its own solution to that bottleneck. New code flags reference Google-run proxy servers that would squeeze pages using SPDY, improving performance at least slightly for the bandwidth-deprived. While there's not much more to go on, the finding is enough to suggest that roughly equivalent boosters like Amazon Silk and Opera Turbo could have a real fight on their hands. We'd advise caution when the flags are only accessible by running an ADB command -- they're clearly not ready for prime time. Should Google flick the switch on compression for Chrome's main release track, though, Android users may not need a third-party browser to sip the web through a thin straw.
+
+

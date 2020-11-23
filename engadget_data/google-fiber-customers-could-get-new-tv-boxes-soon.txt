@@ -1,0 +1,13 @@
+
+Even as Google is planning to bring its Fiber internet and TV service to more areas, it's working on making it better. Dave Zatz points out an FCC listing for what looks like a second generation version of the Fiber TV set-top box. We're still not sure what exactly is inside but the listing mentions 802.11 ac/n WiFi, 10/100 Ethernet, MoCA, Bluetooth and HDMI 1.4 connections. He also links to source code revealing a new Bluetooth LE-connected remote, the GFRM200. Google Fiber TV has added many new features and even a few services since it launched, and it will be interesting to see what else the Sage TV team can bring to the product this time around. Brent Evans of Geektonic mentions a recent update that added channel filtering to the guide, and HDMI-CEC control from the mobile apps popped up back in May.
+
+
+[Image credit: Julie Denesha/Bloomberg via Getty Images]
+
+
+
+
+
+
+
+ 

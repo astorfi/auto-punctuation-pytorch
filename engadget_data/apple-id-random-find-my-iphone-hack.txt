@@ -1,0 +1,10 @@
+
+Some Australian Apple device owners today woke up not to the sound of their alarm, but the jingle of a "ransom" notification instead. The Sydney Morning Herald reports that a hacker (or a group of hackers) going by the name "Oleg Pliss" systematically froze iPhone, iPad and Mac users out of their own devices, holding them hostage until payments of between $50 and $100 were received. Threads on Apple's official support forums detail how the attacker (or attackers) used Apple's own Find My iPhone feature to remotely lock devices and send messages requiring payment via PayPal. Fortunately, those who had set passcodes were able to regain access, because you can't add or change a lock on a device that already has one in place, but those without the security measure weren't so lucky.
+
+
+
+Overcoming a lock once it is in place isn't an easy process, meaning Apple has had to work directly with those affected to fix the issue. While the attack has been limited to Australia for the most part, Apple device owners in New Zealand and the UK have also reported similar issues. It's believed that the device locks could be down to users recycling the same passwords captured in other internet breaches, although the real cause is not yet known. If you're worried you could be affected, it's considered good security practice to use a unique password, enable two-factor authentication and set passcodes on all of your devices.
+
+Update: Apple has told several sites including The Reg that there has been no security breach on its iCloud servers or anywhere else. That confirms the notion that hackers likely gained access through recycled passwords that were discovered via breaches on other sites. If proven true, that confirms the axiom: if you're hacked on one account, you need to change all your passwords.
+
+

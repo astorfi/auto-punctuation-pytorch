@@ -1,0 +1,5 @@
+
+  We've seen it, touched it and we fully expect it'll be turning heads in Barcelona next week, but until now Qualcomm's Krait chip has largely escaped the rigors of independent benchmarking. Fortunately, AnandTech has to come to our rescue once again with a characteristically thorough analysis at the source link. Those blue and green charts can speak for themselves, but if you're in a rush then here's the rub of it: the Krait truly is a next-gen SoC, with the dual-core 1.5GHz MSM8960-powered reference handset delivering an "insane performance advantage" of between 20 percent and 240 percent on CPU benchmarks. As we glimpsed recently, graphics performance is somewhat less ground-breaking but still very healthy, with the 28nm process allowing the Adreno 225 GPU to run at up to 400MHz, versus 266MHz on its Adreno 220 predecessor. Oh yes, this is going to be one mother of an MWC.
+      
+
+ 

@@ -1,0 +1,4 @@
+
+Got a Nexus phone but can't wait for the over-the-air update process to deliver the latest and greatest operating system to your handset? Simple, clear the service framework data and commence mashing the update key. Not so fast, hotshot, says Google's Dan Morrill, who has taken to Reddit to advise users against the approach. On the thread, the engineer has said that wiping the data will invalidate your push notifications in a variety of minor, yet annoying ways. While this process won't brick your smartphone, Morrill advises that if you want to save yourself some annoyance, you use adb sideload to avoid the messiness altogether.
+
+

@@ -1,0 +1,9 @@
+
+ 
+
+Did you want in on iOS 5's hidden panorama feature, but weren't down with the whole jailbreak shindig? You're in luck, because RedmondPie found a roundabout solution. All interested parties need is an iTunes backup, a little elbow grease and a program called iBackupBot. That last item will allow you to bust open your device backup, where you'll find a preference file that needs an "EnableFirebreak" value changed from "false" to "true." Once that's done, a quick restore is all that stands between you and some epic panoramic vistas, bro. A full step-by-step guide awaits you at the source, just triple check that backup's recent before you obliterate and restore, okay?
+
+[Thanks, Brian]
+      
+
+ 

@@ -1,0 +1,10 @@
+
+
+The FBI isn't happy with recent decisions by Apple and Google to secure communications by default, saying it could lead to "a very dark place." That was the gist of a recent talk by director James Comey, who expressed frustration at the inability of law enforcement to keep up with technology. Both tech giants recently said they'd encrypt devices by default, meaning even the companies themselves can't access photos, emails or other data on your device -- let alone law enforcement. Comey also complained that there are now too many message and calling tools for the FBI to keep up with, and many companies are unable or unwilling to give backdoor access. He cited several cases in which phone data helped law enforcement crack cases, but during a Q&A, couldn't cite a single example of how encrypted data hindered it.
+
+
+
+As such, Comey called on Congress to update the 20-year-old Communications Assistance for Law Enforcement Act (CALEA) to reflect modern times. So far, the White House has declined recent requests to revise CALEA, and many privacy advocates have called the FBI's latest plea disingenuous. The American Civil Liberties Union (ACLU) said "federal law explicitly protects the rights of companies to add encryption with no backdoors," adding that such access makes devices more vulnerable to hackers. It gave kudos to Apple and Google for their latest encryption initiatives, saying "others in the tech industry (should) follow their lead." For a deeper dive, check out a video of the talk below.
+
+
+

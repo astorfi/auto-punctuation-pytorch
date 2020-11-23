@@ -1,0 +1,7 @@
+
+Couldn't make it out to Valve's Steam Dev Days to hear Palmer Luckey gab about how to build a good virtual reality experience? No worries - Oculus' new VR Best Practices guide will fill you in on the details. The 39-page document is designed to help combat simulator sickness, which can leave users of a poorly optimized virtual reality experience feeling nauseous, disoriented and uncomfortable. Inside it has guidelines for minimum framerates, graphics aliasing and response times, but most of it focuses on creating an experience that feels natural to the user. 
+Seemingly simple things, like a player's walking speed or limitations in camera control, can have a major impact on how uncomfortable a player can feel in a virtual space. The user's awareness of their own presence in VR is also pretty important. "Looking down and having no body is disconcerting," the document reads. "A full character avatar can do a lot to ground the user in the virtual environment." The guide has health warnings too, suggesting that users take 10 to 15 minute breaks for every hour spent in the Oculus Rift and declaring its 3D technology potentially unsafe for children. Gee, that sounds familiar. 
+
+
+Today, we're excited to share our VR Best Practices with all of you: https://t.co/GY6FNDvOyx
+- Oculus VR (@oculus) January 16, 2014

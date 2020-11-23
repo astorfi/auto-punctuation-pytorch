@@ -1,0 +1,7 @@
+
+ 
+
+Until recently, AMD has kept pretty mum on its tablet plans, with it only officially entering the fray last month. It's clear that the first batch of Z-Series chips, codenamed Desna, are are not terribly different from the rest Fusion line but, according to a leaked roadmap, that will all change with its successor -- Hondo. Supposedly the next gen of tablet APUs will ditch a number of features that aren't essential to its burgeoning form factor, including VGA output, PCIe support, and couple of USB pathways. It will also add an "active standby" mode for maintaining connectivity while reducing power draw and cut TDP by about a third. Hondo is expect to enter production in Q2 of next year, and be succeeded by Samara which will feature a new graphics core. Check out the source link for a few more slides.
+      
+
+ 

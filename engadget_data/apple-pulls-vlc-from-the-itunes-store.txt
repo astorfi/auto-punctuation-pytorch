@@ -1,0 +1,6 @@
+
+ 
+Looks like VLC's role as champion of open-source legal rights is no more -- rather than lawyer up, Apple's taken the easy way out, and simply removed the VLC media player from the App Store. Rémi Denis-Courmont -- the VideoLAN developer who originally sued to have it removed -- reports that an Apple attorney informed him that the company had complied with his takedown request, and pulled the app accordingly, which likely puts the kibosh on other potential VLC ports as well. If you think about it, the open-source community may have just planted the first brick in a walled garden of its own.
+      
+
+ 

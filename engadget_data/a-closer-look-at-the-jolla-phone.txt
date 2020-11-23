@@ -1,0 +1,24 @@
+
+ 
+
+Jolla's self-titled and first smartphone launched in partnership with Finnish carrier DNA this week, with a few hundred handsets finding their way to early pre-orderers. Today, a couple of familiar faces from the company stopped off in London to let us play with the final hardware and get to grips with Jolla's Sailfish OS, which is based somewhat on Nokia's old MeeGo platform. If you caught our tour of the Jolla prototype earlier this year then you've got a good idea of what the handset looks like. In fact, the only differences we can see aesthetically are slightly smaller bezels above and below the screen, and that the rear camera has moved from right flank to center stage. Internally, the core specs are: A 1.4GHz dual-core Snapdragon 400 (MSM8930), 1GB of RAM, 16GB of storage space (expandable), a 4.5-inch, 960x540 (qHD) IPS LCD display, an 8-megapixel rear camera and 2-megapixel shooter on the front. We only had a few hours to probe Jolla's first device, but head past the break for our initial impressions.
+
+
+
+
+
+
+
+As we've said, the handset's design hasn't changed much since the prototype stage. Jolla's phone is angular, solidly built and at 141g (nearly 5 ounces), has an industrial quality to it. While its appearance may be preferable to curves for some, the lack of rounded edges doesn't make for the most comfortable hold. The sharp edges tend to dig in to your hand; the bottom corners especially. We're also not sure we like the seam that separates the main chassis from its "other half," which in our case was a white, plastic shell. Currently, there are various colors of shells, each with an NFC chip on the inside edge. Switching covers will automatically change the "ambience" -- Sailfish's color themes that pervade the UI -- and Jolla imagines third-parties creating their own shells and accompanying ambiences.
+
+
+What's more intriguing is under the shell. There's a removable 2100mAh battery, micro-SIM and microSD slots, but it's the bare connectors we're more interested in. One's for power, which we assume will allow for extended-battery cases, and the other is for general hardware interface. To explain how this could be used, Jolla's Marc Dillon gave the example of a shell with an integrated keyboard. The company wouldn't confirm what other half peripherals it's working on exactly, but intends third-parties to get creative, too, when the necessary developer tools are released in the near future.
+
+It's a dull day in London, so we were unable to fully assess sunlight readability, but the 4.5-inch LCD display (protected by a sheet of Gorilla Glass 2) is bright and colors look pretty good. The 245 ppi served up by the screen's 960x540 resolution is adequate, but nothing special. Pixelation is sometimes an issue, which isn't helped by the skinny font Jolla's chosen for the UI.
+
+
+As for the camera, again, it's a bit of a mixed bag. As you can see from the sample image above, with a decent amount of light, color representation is good. Step out somewhere less well lit, however, and things do start to deteriorate. We took an assortment of snaps indoors and out, and as you'll see, the results are inconsistent. Low light causes the sensor to struggle, and the flash doesn't do much to improve the situation. That said, the images actually appear to look worse in the gallery/on the phone's display than they actually do once you get them off the handset and onto your PC. A task that actually caused us quite a few problems, with USB, Bluetooth, email and attempts to share via the memory card all tripping us up (eventually, sending via email suddenly kicked into life). We'd love to spend more time with the camera to give it a fairer crack of the whip, but our first impressions weren't entirely positive.
+
+
+
+

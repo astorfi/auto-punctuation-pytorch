@@ -1,0 +1,8 @@
+
+ 
+Simmer down, we don't have official pics yet (just the supposed leaks) but we do have the first official mention of what looks to be Nokia's first Symbian^3 handset. The culprit is the "NN8-00r100-3G" XML file sitting pretty on nokia.com right now. The first notables are a "N8-00" model and the "Symbian/3" string listed in the agent header that seemingly confirm that the N8-00 will run Symbian^3. Next is a "360 x 640 pixel" screen size. Note that the N8-00 display is rumored to be 3.5-inches making this a very similar nHD display to the one found on Nokia's current N-series flagship: the N97. The difference this time is that we're expecting Nokia's newest flagship to opt for a capacitive touchscreen display to match Symbian^3's more finger friendly UI. Unfortunately, we're not seeing any mention of the rumored 12 megapixel camera and the only keyboard mentioned is a "PhoneKeyPad" -- in other words, no QWERTY not that we were expecting one. We do see Bluetooth 2.0 and radios for WiFi and GPRS/EGPRS/EDGE/WCDMA/HSDPA among the other details. Feel free to sleuth the file for yourselves in the source link below while we wait for the mid-April announcement.
+
+[Thanks, Glenn]
+      
+
+ 

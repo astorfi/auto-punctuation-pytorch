@@ -1,0 +1,16 @@
+
+ 
+We saw it this weekend for a fleeting moment, but thankfully one handy reader sent us copies of the product page for HP's Photosmart eStation C510, which we can now confirm is the Zeus / Zeen printer and detachable tablet combination we caught wind of back in early August -- and we've got some more details. Bad news first: as of a month ago, the Gmail app was missing and there was no support for Android Market, meaning the Zeen might not be an official "with Google" Android tablet like the Samsung Galaxy Tab. (The product page conspicuously lacks any mention of the OS, so we're thinking Android might simply be the hidden-away base layer for the TouchSmart UI, making this thing super boring.) It does have the default Android browser and at least some custom apps for printing pictures from Facebook, Yahoo, and Snapfish preloaded, but we don't know about anything else. Major bummer, but we're told it shouldn't be too hard for the community at large to root the sucker. Beta testing begins this month, so that all might change before the projected September 20th release. Here's what else we know so far:
+
+The Zeen is a capacitive tablet running HP's TouchSmart skin on top of Android 2.1 -- it won't get shifted to webOS, and it's not clear if it'll get upped to Froyo before launch given the development time required. It has capacitive touch buttons, an SD card slot, video support, and at least some prototypes have cameras with a special webcam app installed.
+We're told TouchSmart will be locked in, but we don't know how deep that'll go -- right now the standard Android homescreen is still accessible. That's supposedly going away, so don't get your hopes up for any native Gmail / Angry Birds use.
+E-reading is a major focus, and the Zeen has "significant" integration with the Barnes & Noble Nook bookstore and ecosystem. Makes sense, as the Nook itself is based on Android, and being able to print e-books from the Zeen would be a huge differentiator -- and a great way for HP to sell more ink.
+The touchscreen is apparently not very accurate at all, and we're told the overall experience is far less satisfying than a competent Android phone. Don't expect this to replace your Droid Incredible for all at-home use.
+The Zeen will come in two configurations: a $399 bundle with a new printer called Zeus and as a standalone unit for an unknown price. The Zeus has its own "basic" control setup, but when the Zeen is docked it provides a rich interface to the printing functions -- presumably a web-connected interface like the one HP's been moving towards with other printers. (Note: the product page listed $399.99 but provided no indication what price the Zeen might go for solo.)
+Ship date is an estimated September 20th but due to some testing issues this may be pushed back.
+
+Until HP comes clean and inks out the details for all the world to see, check out the product page in pictorial format below. 
+
+
+
+

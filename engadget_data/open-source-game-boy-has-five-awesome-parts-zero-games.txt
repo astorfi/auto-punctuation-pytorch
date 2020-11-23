@@ -1,0 +1,9 @@
+
+ 
+The Arduino-based, DIY GamePack is sort of like the Mignon Game Kit we saw in 2005, but it definitely looks much, much radder. For a mere $249.93, all the necessary parts -- CPU, "Inputshield" customizable, vibrating controller / button component (say, for right or left-handed configurations), "TouchShield Stealth" OLED display unit, and "MeCap" lithium battery pack -- can be yours. Once you've cobbled it together, of course, the real fun begins -- it's pretty much a blank slate with little more than code for a color-changing dot to start with, so if you want to play any "games" on that new "Game Boy" of yours, you're going to have to write them yourself. See a video of the device in action after the break.[Via technabob]
+      
+
+ 
+
+
+ 

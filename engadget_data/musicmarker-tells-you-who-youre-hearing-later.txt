@@ -1,0 +1,5 @@
+
+ MusicMarker aren't providing the first ever solutionfor identifying your digital music without metadata (we've been using MusicBrainz for years, but the solutions areendless), but what they intend to provide is a solution with a button on your portable. Devices outfitted with mics(say, like a cellphone or audio player) and MusicMarker will capture ten seconds of audio, and then upon sync to yourPC upload the sample to MusicMarker's server for analysis and output of artist / title / track info. Oh, sure, it kindof kills the immediacy of wanting to know who's that damned song by, I'm hearing it everywhere, but you cantry for yourself in the Venzero ONE (a portable media device that was supposed to be launched late last year), which islined up to have MusicMarker's first service integration.[Via GeekZone, thanks Markus]
+      
+
+ 

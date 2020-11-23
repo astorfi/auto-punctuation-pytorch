@@ -1,0 +1,8 @@
+
+
+
+
+You may have heard of the PowerVR SGX543MP -- you know, the GPU behind Sony's NGP and possibly on its way to the iPad 2 and iPhone 5 -- but chances are, you've yet to see it working up close. Well, feast your graphics-hungry eyes on this: that's Rightware's Tai Chi benchmark running on a tellingly sheathed device at GDC 2011, working the MP2 (dual-core) iteration of the processor, and that fine smartphone to its right is the Nexus S, sporting the PowerVR SGX540 you've come to know and love. As you can tell, Imagination Technologies' promises of 4X the performance aren't just baseless boasts -- the lady on the left moves with grace and fluidity, while her counterpart on the right is all sorts of herky-jerky. Think that's fast? Check out what the GPU can do with two more cores.
+
+Sean Hollister contributed to this report.
+ 

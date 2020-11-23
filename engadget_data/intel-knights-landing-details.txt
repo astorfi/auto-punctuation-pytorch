@@ -1,0 +1,4 @@
+
+Intel's current Xeon Phi doesn't really fulfill the promise of many-core computing -- it's a co-processor that needs a 'real' CPU to function. That will change when the next-generation Knights Landing model arrives, Intel revealed at the Supercomputing Conference this week. The 14-nanometer chip will be available as a stand-alone model that can run all software, like a traditional processor; since it won't have to shuttle data between two components, it should be faster, easier to program and cheaper, too. There will also be high-speed memory built into the chip, as well as a number of (unspecified) architectural tweaks. Knights Landing isn't likely to ship until late 2014 or 2015, but it could be worth the wait for researchers, server operators and anyone else who wants massively parallel computing power.
+
+

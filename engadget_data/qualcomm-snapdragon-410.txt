@@ -1,0 +1,10 @@
+
+We knew it was only a matter of time before Qualcomm came out with its own chipset capable of supporting 64-bit, but we figured it'd be in something a little more... high-end. The Snapdragon 410, however, is a 28nm SoC that seems to be focused more on lower-end devices and emerging markets instead. Announced by the company today, the new Snapdragon is expected to sample to manufacturers in the first half of 2014, with it reaching consumer devices during the second half.
+
+
+The chip also comes packed with plenty of extra feature support. First on the list is LTE, which Qualcomm says is a feature it wants to bring to all product tiers. In particular, this next-gen connectivity comes with multimode and multiband support, ensuring that many devices carrying the chip will work on LTE networks around the globe (a feature we assume will be up to the OEM to enable). In addition, the Snapdragon 410 will feature an Adreno 306 GPU and offer support for dual- and triple-SIM devices, with 1080p video playback, up to a 13MP camera, GPS/GLONASS, WiFI, NFC and Bluetooth. It'll also be compatible with Android, Windows Phone and Firefox OS, and is geared toward "high-volume" devices in emerging markets which sell for under $150.
+
+
+Of course, even though a lower-tier Snapdragon is the first Qualcomm chipset with 64-bit support, we strongly suspect that it won't be too long before the company comes out with new higher-end SoCs that offer the same capability. After all, CES and MWC are not too far away.
+
+

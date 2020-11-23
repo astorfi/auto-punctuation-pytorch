@@ -1,0 +1,5 @@
+
+ And you thought a dual-core 1.2GHz chip was quick. If all goes to plan (that's a big "if," by the way), Qualcomm will one-up its Computex standout before the end of this year, with vice president of product management Mark Frankel affirming that his company is on track to ship a 1.5GHz dual-core QSD8672 chip prior to the dawn of 2011. He's quoted as saying that the blazing new Snapdragon could find a home in smartphones, low-cost laptops and tablet PCs, and while we're led to believe that the vast majority of said products won't actually greet consumers until early next year, a few aggressive partners may get wares out "by Christmas." For those unfamiliar, the fancy new 8672 is based on an ARM design and will be crafted using a 45nm process technology, and the individual voltage scaling will enable each core to be clocked independently of the other in order to maximize battery life and performance. Naturally, 1080p video playback will be supported, as will DDR2, DDR3 and HDMI interfaces. Oh, and don't sweat it -- you've still got plenty of time to get on Santa's 'good' list.
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+It's not exactly news that the Department of Defense is looking at ways to make hacking a more practical weapon, but it looks to really be stepping up its game with its latest project, which promises to make complicated attacks as simple as a few button presses. That would apparently be possible thanks to a slightly mysterious device that'd be small enough to carry around in a backpack, but powerful enough to do everything from breaking into a wireless network to hacking into SCADA (or Supervisory Control and Data Acquisition) systems (used at power plants, nuclear facilities, and the like). While complete details are obviously a bit light, the system would apparently be able to, for instance, map out the nodes in a wireless network, cause them to disconnect, and watch them come back online to identify weak spots. It would then present the "hacker" with various attack attributes that could simply be adjusted using sliders on a touchscreen. No word if the soldiers will also be rewarded with Achievements.[Via Softpedia]
+
+ 

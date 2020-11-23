@@ -1,0 +1,12 @@
+
+Apple has just laid claim to a world first: 64-bit processing inside a real, ready-for-sale smartphone. The new A7 processor will power the iPhone 5s with a "desktop-class architecture" consisting of over 1 billion transistors. That's twice as many transistors as were squeezed into the A6 and, for the sake of context, it's not a million miles away from the 1.4 billion transistors found in a current Intel Ivy Bridge desktop-class PC chip. In other words, while ARM's own 64-bit mobile chip design, the Cortex-A57, is still being developed by chip- and phone-makers, Apple's in-house team has pipped them all to the post.
+
+
+Largely as a result of the extra transistors and 64-bit architecture, the A7 is claimed to be twice as fast as its predecessor, both in terms of CPU and graphics performance. Speaking of graphics, Apple also promises that its newly added support for the OpenGL ES 3.0 standard will enable "breakthroughs in performance" for visually intensive games such as Infinity Blade III. And it won't just be games that benefit -- iOS 7 will be 64-bit too, naturally, and Apple's own built-in apps will be "re-engineered" to exploit this next-gen processing capability. (The A7 and iPhone 5s will also be backwards compatible with existing 32-bit apps.)
+
+
+Finally, it's interesting note that the iPhone 5s has a secondary processor, the Apple M7, which is tailored for processing motion and other sensory inputs and is presumably designed for unburdening the main chip and allowing the iPhone 5s to work as a fitness tracker and accomplish other sensory-based tasks without excessive battery drain.
+
+
+Check out all the coverage at our iPhone 'Special Event' 2013 event hub!
+

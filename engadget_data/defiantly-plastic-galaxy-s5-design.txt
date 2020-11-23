@@ -1,0 +1,55 @@
+
+ 
+"Our major aims were usability, friendliness and a more humanistic design. We wanted something with a pleasing feel ... and better grip. If we used metal, [we felt] the designs felt heavy and cold," explains Senior Product Designer Dong Hun Kim, pointing to why Samsung still plays in polycarbonate. "But with plastic, the texture is warmer. We believe users will find [the device] both warmer and friendlier. This material was also the best at visually expressing volume, better at symbolizing our design concepts." 
+
+The design concept for Samsung's Galaxy S5? Modern and flash -- and boy, that blue GS5 is certainly flashy. In the middle of a design library deep inside Samsung's "Digital City" in Suwon, Jeeyeun Wang, Samsung's principal user experience designer continues, putting it to me this way: the smartphone is no longer a cold slab of technology; "it's a fashion product now." 
+
+ 
+"We'd prefer to focus on the software improvements."
+"This interview is more about the new camera interface."
+We expected the designers (or the corporate comms team flanking me) to interrupt with something like the above when I asked why they persist with plastic, but they didn't. In fact, the designers barely missed a beat. Perhaps they've been itching to answer this for a while. I'd certainly been waiting to ask them. "With the GS5, we looked into all kinds of designs and materials. We were open to all options," adds Kim.
+
+To date, the Galaxy S4 has unit sales in the millions. So did the Galaxy Note series, and well, the rest of the top-drawer Galaxy S series hasn't done badly either. The phones (and tablets) have become an ensemble, a symbol of Samsung's domination of Android. To a certain section of the public, smartphones are either iPhones or "a Galaxy" -- no doubt to Google's chagrin. Despite all that success, when it came to the Galaxy S5, we were promised something we hadn't seen in the last three iterations: a return to the basics. But what, exactly, would that mean in design terms?
+
+
+"It's not as if one specific feature screams 'back to basics.' It's the entire experience -- you just feel it throughout," says Wang. "In the past, we've tended to put a lot of emphasis on fancy, showy features ... things that you might only use once or twice a year, but here (in the GS5), there's a new focus on core features [like the camera, the internet browser, sharing]. We made sure these worked better, worked well. That's the spirit of going back to basics."
+
+"Can I tell you an episode?" Wang asked me. Yes! Please. Tell me all the episodes was my eager response. "During the GS5 development, I was responsible for the software design -- how it looked. For that to work, we also needed to see the mood, the language of the hardware," Wang said. But security at Samsung, being Samsung, meant that seeing the final model was something offered only to a few designers. "At the start, we were like spies." Desperate for a peek at more finalized hardware, when the designer finally got to see the hardware, the first impression was "fun" -- but she was far more enthusiastic than it sounds when I write 'fun'.
+
+Then, when it came to the Galaxy S5, we were promised something we hadn't seen in the last three iterations: a return to the basics.
+
+"On previous devices, the discussion was always around one color or another, but with the S5 ... my eyes lit up -- you could feel three to five different textures and finishes," Wang added "[Within the UX] I focused on that sense of fun. It's no longer just a hard, smart machine."
+
+
+Hyejin Bang -- colors material and finish (CMF) senior designer -- agrees: "The smartphone is something we're going to use every day." While the CMF team wanted to give the phone a metallic luster, they also wanted to temper it so that it appeared friendlier, softer. She refers to the final, tactile finish as lambskin, made to "give off a variety of finishes" in light. But will these explanations satisfy those of us looking for a Galaxy smartphone made of something other than polycarbonate? Probably not.
+
+I was also surprised the team didn't make a reference to the hardiness of plastic as a material. I told one Engadget editor, for me, a scratched metal phone is a ruined metal phone. Even if (barring Nokia's efforts) I'm still not sold on the plastic stylings of the Galaxy S series, I have to admit that, from a stack of personal anecdotal evidence, it can take more of a beating.
+
+
+Min Cho's job -- as director of product marketing -- involves synthesizing what consumers say about, and how they use, his company's smartphones. The questions are pretty specific: Why did you buy a Galaxy S4? What do you use most? As the UX designers noted earlier, those are the very features that S5 development has homed in on: camera, internet, messaging. "Oh, and calling," adds Cho. Everyone in the room laughs, but yeah, voice calls.
+
+That's not enough though, the Samsung exec wants to know more than that. As he puts it, he wants to be able to tell what they want next. "We want to know what drives them. What are their desires?" 
+
+"The top purchase driver for people that bought Galaxy S4 was the viewing experience ... the screen."
+
+"The top purchase driver for people that bought Galaxy S4 was the viewing experience ... the screen," Cho said. It's not a huge surprise: It's one of the (literally) big reasons many smartphone users have hopped from iOS to Android, but it's interesting to hear that Samsung's research comes to a similar conclusion, and certainly explains the trend in ever-larger displays. This is work Cho's team takes seriously. In the run-up to the Galaxy S5 reveal, Samsung's user research encompassed 3,000 Galaxy S4 users globally. "With some participants, we followed them, 24 hours a day, for several days." Wait... "With their agreement," he quickly adds. "Actually, they wanted to participate. A lot of people want to help to create new experiences -- for themselves."
+
+A lot of the conversations I have with Samsung's designers and engineers touch again on this idea of increasing the degree of personalization. Even if that starts with more color options, or exchangeable bands, it explains what's happened inside the heart of the GS5's software, too.
+
+"Prior to the GS5, our camera app used to have over 15 modes. Back then, we wanted to brag about it."
+
+There's been almost uniform praise for Samsung's efforts to roll back the swell of software fluff seen in the GS3 and GS4. It sounds like the design team got the feedback. "Prior to the GS5, our camera app used to have over 15 modes. Back then, we wanted to brag about it, but now we've identified what the majority of Galaxy phone users want," says Wang. But what about, well, people like me, who (try to) use those slightly ungainly modes like Surround Shot? "High-level users will still be able to adjust the settings plenty, while we've now added the option to download further modes in the future."
+
+That's probably one of the things Samsung has to balance. Streamline everything too much, and you're likely to lose something. Who exactly is the Galaxy S series for these days? "Up until the launch of the Galaxy S2, we used to focus on technical users, but after that, our audience became much broader." And with a wider range of customers, according to Wang, the team felt increasingly responsible to this (likely less vocal) segment.
+
+
+"Even if we hide complicated functions, our hardcore users will find them." However, for older users, smartphone beginners or anyone with disabilities, it's understandably a completely different experience. That's where a lot of the software design and UX work has gone into, adding a new "easy mode" that scatters the screen with giant contact tiles, and a camera app that shows you how an HDR photo will look before you even take it. Even the heart rate monitor is arguably more skewed toward the layperson than the tech fan. For those fans, you'd think (and I'd be with you) that after all that research and consideration, it's odd to arrive at a phone that still riffs so closely to the phone that appeared a year before -- especially considering the lack of a differently made (material-wise) Galaxy phone for those that want one (and some people really want one).
+
+S Health seemed like the software equivalent of the S Band, forever lost in the mists of corporate development and press release bluster.
+
+Cho says that a lot of people use the company's S Health app/platform, although Samsung wasn't willing to divulge numbers. If it's true, it's a surprise to me -- the feature, first announced alongside the Galaxy S3, seemed like the software equivalent of the S Band/S Circle, forever lost in the mists of corporate development and press release bluster. "No, really. With older users, they're looking to stay simply healthy, while with 20- to 30-year-olds we've surveyed -- well, they just want to look better." There's certainly a chunk of people that are interested in checking their heart rate, but aren't rushing to buy a fitness monitor -- and there's the appeal.
+
+
+"The way we see it, this is only the beginning." Strange as that may sound, he's probably right. Samsung currently makes hardware for Android, Windows Phone, Windows 8, Tizen -- not to mention the unfortunately hobbled Galaxy Gear, and yet another new smartwatch, powered again by Android and promised for later this year. Cho finishes by adding that Samsung's continuing to work toward "meaningful innovation," and as the long list of product variations will attest, it's not for lack of trying.
+
+

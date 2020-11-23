@@ -1,0 +1,7 @@
+
+ Intel's 34nm X25-M G2 drives might not've had the most peaceful of existences so far, but you can't fault the company's efforts to fix whatever maladies have popped up. The latest firmware update from Santa Clara brings back the lauded Trim support, but this time leaves the drive-killing antics behind. User experiences so far have been positive, though unsurprisingly a couple of people have questioned whether Trim is in fact enabled on their drives -- clearly, the difference between fast and really, really fast is not as distinguishable as we like to think. The source link will provide you with the latest firmware update tool and the precious new code -- if you dare risk it.
+
+[Thanks, Alex]
+      
+
+ 

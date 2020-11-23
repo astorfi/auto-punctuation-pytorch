@@ -1,0 +1,20 @@
+
+ Indoor navigation isn't a new concept, but it often requires wireless signals or custom infrastructure, neither of which are entirely reliable. Cambridge Consultants has come up with an as-yet-unnamed technology that purports to solve the issue by utilizing low-power sensors along with a custom formula that don't require an existing framework. According to the Cambridge, UK-based company, all you need are its special Bayesian algorithm and run-of-the-mill smartphone components like accelerometers, gyroscopes and magnetometers to do the job. It has already built a concept chipset (seen above) that could be embedded in existing devices -- you can either map your location directly on it or send that info off to a remote system. The firm says the technology will be useful for firefighters and hospital workers, though we wouldn't complain if it's implemented in trade shows either. For more information on the tech, check the press release after the break.
+
+
+
+  Show full PR text   The inside track to safety  Cambridge Consultants unveils cost-effective and accurate indoor locator system
+
+   New technology from innovative product development firm Cambridge Consultants can accurately detect someone's location indoors when GPS drops out. A number of sensors and a custom algorithm determine the location, with an accuracy of within approximately 1% of the distance travelled. Yet the technology uses low-power, low-cost sensors and the device concept is small enough to clip on a belt. It also doesn't need any existing internal infrastructure.
+
+   "We are excited about the many possibilities this cutting-edge technology opens up and the impact it can have in many different situations," said Geoff Smithson, technology director, sensing systems, at Cambridge Consultants. "It could be used to help locate firefighters in smoke-filled buildings, for example, or to pinpoint the closest doctor in a hospital during an emergency – or to track offenders during home curfews. We are just starting to see the potential of this approach and the diverse demand for this type of low-energy, highly accurate system."
+
+   Indoor tracking systems which process data from one or more sources of location information to estimate where a person or object is located are not new. But they often rely on RF signals from wi-fi access points or custom infrastructure, poor-quality GPS signals or expensive, high-quality sensors. The availability of low-cost smartphone components – including accelerometers, gyroscopes, magnetometers and pressure sensors – has enabled a new generation of location devices and applications, when combined with a tailored Bayesian algorithm to fuse the information.
+
+   The new technology platform can be embedded in an existing design or operate as a stand-alone unit, with options to compute the location locally or transmit the information to a remote system which can process the data before visualising it on a smartphone app.
+
+   "Our biggest challenges were developing an algorithm which optimally combines the data from GPS and the other sensors, and overcoming the issues of using such low-cost sensors in a system without any absolute location reference," said Smithson.
+
+   Cambridge Consultants specialises in developing low-cost, low-power connected devices for clients – with a team of experts with sensing, wireless and software engineering expertise. The latest technology builds on the company's tracking and location systems experience in a variety of market sectors ranging from defence and security to consumer, industrial, and oil and gas.
+
+ 

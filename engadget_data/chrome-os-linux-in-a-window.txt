@@ -1,0 +1,8 @@
+
+
+You can already run a conventional operating system like Linux on your Chromebook if you're the determined sort, but it's not really convenient... not unless you like hopping between virtual terminals, anyway. However, there's now a relatively simple way to juggle between Chrome OS and Linux. If you grab a tweaked version of David Schneider's Crouton extension and type in a terminal command, you can now run a version of Linux (so far, Debian and Ubuntu) in a window. You won't have to drop that Hangouts chat just to finish some work in OpenOffice, in other words. While you'll still have to be comfortable with installing Linux in the first place, this could easily turn your cheap web surfing machine into more of a power user's tool.
+
+
+[Image credit: François Beaufort, Google+]
+
+

@@ -1,0 +1,7 @@
+
+ 
+
+Could this turn out to be a wireless case of the tortoise and the hare? According to Ralph de la Vega, that answer is a resounding yes. In his keynote address at CTIA, the AT&T Mobility CEO announced plans to bring a line of thinner, less power-intensive smartphones to its recently launched, true 4G network. How's that possible? Utilizing a technology described as "circuit switch fallback," phones running on the operator's network will make use of a single radio to ride along the LTE waves, and default to a "circuit switch-based 3G" signal when out of range. If these claims pan out, it'd give the slow-to-market, second place operator a leg up on industry rivals Verizon and Sprint, which incorporate separately powered 3G / 4G radios in their next-gen handsets. We'll know whether or not to call de la Vega's bluff later this year when the first batch of LTE phones are destined for consumer release. Until then, it's just executive grandstanding at its best. Handsets or it didn't happen, Ralph.
+      
+
+ 

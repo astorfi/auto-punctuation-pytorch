@@ -1,0 +1,9 @@
+
+ 
+
+Advanced Micro Devices is probably feeling a bit silly right about now. To show off how powerful the Bulldozer chip really is, it drafted in the world's most elite overclockers, set them up in a room with whatever was required (including a vat of liquid helium) and broke the chip-speed world record. With a verified speed of 8.429GHz, the company collected its Guinness world record and sat back, thinking that no one could ever best it. Less than two months later and Andre Yang (who we can assume does not have his own military complex to run his experiments in) managed to get his Bulldozer running at 8.46GHz, 30MHz faster than the chip's own parent could manage. We wouldn't dare suggest that anyone stand outside AMD's Sunnyvale HQ whilst playing the sad trombone -- but if anyone deserves that chance, it'd certainly be Mr. Yang.
+
+Update: AMD got in touch to say that it's expecting others to beat the record and is excited to see how many records the chips are gonna set. So what are you waiting for?
+      
+
+ 

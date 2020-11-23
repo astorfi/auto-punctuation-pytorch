@@ -1,0 +1,5 @@
+
+ 
+ Yes, Windows Phone 8 is coming later this year, and it introduces some important changes to the user interface. The most noticeable is probably the new Start screen, which offers more customization and makes more efficient use of its real estate. As a user, you'll be able to choose any tile and tweak its appearance to suit your sensibilities. Sizing can be configured with a resize arrow while in customization mode and offers the option of small, medium or double-wide tiles that span the entire width of the display. All current applications will be automatically designed for small and medium versions by default and devs will be able to dive in to add support for the larger options should they feel the need to do so -- something that until today was reserved for Microsoft and its partners / carriers. What's that? You want more colors? Yeah, you'll get those too.
+
+

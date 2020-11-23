@@ -1,0 +1,13 @@
+
+ 
+If you didn't already think your smartphone knows too much about you, here's a handy reminder. A duo of UK researchers have uncovered a potentially worrying (and oddly enough, undocumented) feature in iOS 4: it asks your iPhone to record your location constantly, then timestamps that data and records it for posterity. The trouble with this unsolicited location tracking is that the hidden file that holds the data -- consolidated.db -- is relatively easy to uncover and read, making any desktops you've backed your phone up to and the phone itself even bigger privacy dangers than they would usually be. Some extra digging revealed this behavior has been known about for a good while (see Courbis and Alex Levinson links below), though mostly by people involved in computer forensics. Additionally, restoring a backup or migrating to a new device keeps the data logging going, which the researchers point to as evidence that what's happening isn't accidental. See a couple of visualizations of the extracted results on video after the break.
+
+[Thanks, Tom]
+
+Update: The original text of this article was updated to reflect that this was already a known issue, albeit in limited circles. The ability to easily visualize the data is new.
+      
+
+ 
+
+
+ 

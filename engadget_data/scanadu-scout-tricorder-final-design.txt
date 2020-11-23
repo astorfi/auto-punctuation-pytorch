@@ -1,0 +1,39 @@
+
+We first saw a prototype of Scout, the tricorder and companion app built by Scanadu for the Tricorder X-prize competition late last year. Today, the company is unveiling Scout's final version and launching an Indiegogo campaign to let folks order Scout and sign up to participate in a usability study -- which will provide Scanadu the user feedback needed to help its tricorder get certified by the FDA. In the six months since Scout was first revealed, the design has changed somewhat, and we checked in with company CEO Walter De Brouwer to get the lowdown on the new version.
+
+
+Like the prototype, the new model tracks your temperature, respiratory rate, systolic blood pressure and stress level. Scout now pulls your vitals in ten seconds using just optical sensors, which enables it to read the vital signs of others -- as opposed to the prototype which utilized an EEG sensor and could only record the info of the person holding it. Plus, thanks to some newly developed algorithms, it can now take both systolic and diastolic blood pressure readings with 95 percent accuracy. Running the algorithms to translate the optical sensor info takes a good bit of computing power, however. So, Scout got upgraded from an 8-bit processor to a 32-bit unit based on Micrium, the operation system being used by NASA's Curiosity Rover for sample analysis on Mars. If you're into supporting real world space technology being used to make science fiction a reality, the crowdfunding project of your dreams has arrived.
+
+
+
+
+Show full PR textScanadu Packs More Features Into Scanadu Scout(TM); Unveils Design For ScanaFlo(TM)
+Company Launches Indiegogo Campaign to Begin Building the Future Global Body of Health Data
+MOUNTAIN VIEW, Calif., May 22, 2013 (BUSINESS WIRE) -- NASA Ames Research Park, Moffett Field -- Scanadu, a personalized health electronics company participating in the Qualcomm Tricorder X PRIZE, today announced it is one step closer to bringing the first medical tricorder(TM) to life. In addition to unveiling updates and refinements to Scanadu Scout(TM) and ScanaFlo(TM), the company has also launched an Indiegogo campaign, inviting supporters to reserve a first-edition Scanadu Scout(TM) and contribute to building the future global body of health data.
+
+"We are in awe at the enthusiasm the community has shown for the Scanadu Scout since the prototype was first revealed six months ago. We get calls and emails everyday from parents, researchers, students and body hackers anxious to be part of the first generation of consumers to truly understand their own health," said Scanadu Founder and CEO Walter de Brouwer. "We've pushed the envelope, had some key breakthroughs, and are ready to share this next iteration of the product with consumers."
+
+Scanadu Scout is a vital sign monitor that analyzes, tracks, and trends your vitals - temperature, respiratory rate, oximetry, ECG, systolic blood pressure, diastolic blood pressure, and stress - in 10 seconds. With encouraging feedback from the community, partners, and regulators, and a strong push from Scanadu's engineers and researchers, the company has made three key breakthroughs:
+
+-- Multi-person scouting: Just like Spock, you can now scout someone else - an ailing parent or sick child. With this breakthrough, Scanadu made some key changes to the design. It is now circular in shape, with the sensors built into the front of the device.
+
+-- One-stop-shop healthfeed: You'll be able to collect readings from Scanadu's suite of products - including ScanaFlo - through a single integrated app. Seeing your comprehensive healthfeed allows for data fusion, and the potential to read more vitals such as cuffless, non-invasive blood pressure.
+
+-- Increased computational power: Scanadu has added more horsepower to the device, taking it from 8-bit (the power of an Apple II) to 32-bit (the power of a smartphone). The new device is built on Micrium, NASA's real-time operation system for SAM (Sample Analysis at Mars) on the Rover Curiosity.
+
+The company also announced updates today to ScanaFlo, a low-cost tool that uses the smartphone as a urine analysis reader, and unveiled the first design of the product. The small white, disposable paddle with multi-colored test strips and a QR code built into the device tests for levels of glucose, protein, leukocytes, nitrates, blood, bilirubin, urobilinogen, specific gravity, and pH in urine. It will also test for pregnancy.
+
+Scanadu has received its first batch of 6,000 paddles and is ready to begin clinical trials. The company anticipates submitting a 510(k) application to FDA in the beginning of July 2013.
+
+"Today's urine tests are really hard to use and the results are not easy to interpret," said Aaron Rowe, research director at Scanadu. "ScanaFlo will make it simple for pregnant women to monitor themselves for complications between appointments with their doctor."
+
+Lastly, starting today, supporters can reserve a first-edition Scanadu Scout on Indiegogo and be part of the exploratory community bringing to life the vision of making this the last generation to know so little about our health. As a participant in the Indiegogo campaign, supporters will be able to take part in a usability study and provide feedback on feasibility, usability, and consumer friendliness that will be a valuable part of Scanadu's road to FDA.
+
+The 30-day campaign will offer a variety of perks including regular updates from Scanadu, a limited edition Scanadu Scout, visits to NASA to spend the day as a citizen astronaut for a space medicine workshop, and a tour of NASA Ames Research Park. Scanadu will offer an early bird special of $149 for the device to the first 1,000 participants. Additional units will be made available at the anticipated retail price of $199. Additionally, two ScanaFlo paddles be included with each Scanadu Scout, which is expected to ship in Q1 2014. The devices on Indiegogo are not FDA approved.
+
+STAR TREK, TRICORDER and related marks and logos are trademarks of CBS Studios Inc. used under license by the X PRIZE Foundation. Scanadu is a participant in the Qualcomm Tricorder X PRIZE competition.
+
+About Scanadu
+
+Based at NASA-Ames Research Park, Scanadu is using mobile, sensor and social technology to ensure this is the last generation to know so little about our health. In November 2012, the company unveiled its product family consisting of the Scanadu Scout(TM) vital sign monitor, ScanaFlo(TM) urine analysis test and ScanaFlu saliva test. The first products look to disrupt home medicine and will be in market early 2014. Scanadu was founded by Walter de Brouwer in 2010 and is competing in the Qualcomm Tricorder X Prize. For more information visit www.Scanadu.com
+

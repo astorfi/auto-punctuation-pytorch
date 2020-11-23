@@ -1,0 +1,11 @@
+
+ 
+It sure didn't take long for the dev community to hack into Apple TV's iOS build. One of the first payouts is a port of Apple TV's "lowtide" 10-foot user interface to an iPod touch as briefly demonstrated in the first video after the break. While not very useful on such a small display, that could change when ported to the iPad's bigger 10-inch display. In fact, that might be Apple's plan according to our friend Erica Sadun who's been busily spelunking the Apple TV's disk image. She posits that the iPad could launch the lowtide UI when responding to AirPlay requests in a future iOS build. 
+
+Another minor victory was achieved by TUAW reader Arix who spliced the Apple TV's AirPlay daemon onto a jailbroken iPhone 3GS thus allowing it to receive AirPlay streams (second video). But the best news of all, perhaps, is the ability to restore the Apple TV in iTunes by connecting its micro-USB port to your computer. That means that existing PC- and Mac-based jailbreak tools can be updated to work over the connection. In fact, TinyUmbrella has already been updated to backup the Apple TV's SHSH blobs in order to preserve your ability to downgrade in the future. With 8GB of storage and 256MB of RAM to play with, we suspect this little media puck will become quite the developer playground, with or without Apple's consent.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,4 @@
+
+ Google's had one foot in the web privacy door for a while, offering Chrome users the Keep My Opt-Outs extension in its browser's Web Store since 2011. Still, Firefox, Internet Explorer and Safari already offer a Do Not Track option directly in their browser settings. Mountain View is now working to close that gap by bringing that same privacy configuration to Chrome. Do Not Track will let users opt out of tracking cookies and targeted advertising (from ad networks that comply with the standard, that is), and is currently live on Chrome's developer channel. The option will reportedly be baked into the stable version of the browser by the end of the year.
+
+

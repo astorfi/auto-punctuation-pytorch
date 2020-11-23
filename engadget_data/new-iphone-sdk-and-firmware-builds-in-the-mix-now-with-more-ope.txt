@@ -1,0 +1,6 @@
+
+ 
+Once again, the time has come for a fresh beta build of the official iPhone SDK -- and if you're lucky enough to be involved in the firmware seeding program, a fresh build of the 2.0 firmware, too. The big change this time around appears to be support for OpenGL ES in the SDK's emulator, enabling easy, breezy access to 3D acceleration for testing all those spellbinding games we plan on playing the heck out of in a couple months. So yeah, shouldn't you get cracking on that? Seriously.
+      
+
+ 

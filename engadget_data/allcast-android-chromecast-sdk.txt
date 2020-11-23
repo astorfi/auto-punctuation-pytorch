@@ -1,0 +1,14 @@
+
+Google's Chromecast has teased seemingly limitless potential since its release last year, but until the Cast SDK came out yesterday most developers couldn't take advantage of it. That includes Koushik Dutta, creator of the AllCast app that we've already seen featuring screen mirroring or streaming music, video and pictures from Android devices to the dongle, but that's all changed. He reports that adding Chromecast support to his existing app (previously limited to streaming with Apple TV, Roku, Xbox, Playstation and other DLNA/AirPlay ready devices) took about 20 minutes in a "trivial" procedure requiring almost no extra code. A video demo of the feature is embedded after the break, and while it loads a little slower than other devices, pushing media from phone to TV is now just a button press away.
+
+
+That bodes well for other apps we'd like to see supporting Chromecast, and hopefully means that tiny button will pop up everywhere soon. As for AllCast, an update with Chromecast support is coming "soon," interested users can grab a free version that works for one minute to try it out, or upgrade to the unlimited premium edition for $4.99.
+
+
+Update: A new version of AllCast, complete with Chromecast support, is now available to download on Google Play.
+
+
+
+
+ 
+ 

@@ -1,0 +1,5 @@
+
+ 
+ The Android Open Source Project has typically (and understandably) been a very Nexus-focused affair -- until now that is. Technical Lead for the AOSP, Jean-Baptiste Queru, announced this week that for a "new challenge" he'd like to target new hardware -- and Sony's Xperia S is the lucky benefactor. The choice of hardware is said to be due to it being a powerful, current device with an unlockable bootloader, with Queru noting that Sony has always been kind to the project. There's not a lot in the git project right now, but Queru appears keen to rally support from developers to get the ball rolling. Wondering how this might differ from CyanogenMod's device targets? Where CM might have a focus on stability, Queru believes that AOSP will head in a more experimental "bleeding edge" direction. Sound like something you can get behind? Head on over to the source for more info.
+
+

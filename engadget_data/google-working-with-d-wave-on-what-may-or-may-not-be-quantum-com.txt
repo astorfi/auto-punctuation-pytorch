@@ -1,0 +1,6 @@
+
+ 
+When we first mentioned D-Wave way back in early 2007 we immediately compared it to Steorn -- less than optimal beginnings. The company was promising quantum computing for the masses and, while it did demonstrate a machine that exhibited qubit-like behavior, the company never really silenced critics who believed the underpinnings of the machine were rather more binary in nature. Those disbelievers are surely shutting up now, with word hitting the street that Google has signed on, building new image search algorithms that run on D-Wave's C4 Chimera chip. The first task was to learn to spot automobiles in pictures, something that the quantum machine apparently learned to do simply by looking at other pictures of cars. It all sounds rather neural-networkish to us, but don't let our fuzzy logic cloud your excitement over the prospect of honest to gosh commercial quantum computing.
+      
+
+ 

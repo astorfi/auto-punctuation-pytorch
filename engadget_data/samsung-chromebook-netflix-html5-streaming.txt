@@ -1,0 +1,4 @@
+
+ Samsung's Exynos-powered Chromebook released last fall may get the job done for those who rely mostly on websites and web apps, but there have still been some gaps in the web-based services it supports -- like Netflix. That's changed today, though, with Google announcing that it has collaborated with Netflix and Microsoft to enable HTML5 video streaming on the ARM-based Chromebook (Google had previously said Netflix support was coming, but provided few specifics). That notably also makes it the first instance of Netflix using HTML5 for streaming instead of Silverlight, although there's no indication of it spreading to other devices just yet. As far as Chromebook users are concerned, all you have to do is go to the Netflix website and log in to get started.
+
+

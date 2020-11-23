@@ -1,0 +1,4 @@
+
+ 
+As you may recall from a few days ago, Google offered some of the clearest evidence of Chrome OS hardware from major manufacturers yet by letting some build configurations for Acer, Dell, and HP slip out into its public code repository. Now, that wasn't too surprising considering that each of the companies have already made their Chrome OS intentions pretty clear, but Google seems to have done a bit of backtracking nonetheless. It's replaced the files with what you see above (the files, not the Caruso), which now suggest that Chrome OS hardware is coming from the likes of Amiga, Commodore and Atari. Way to raise expectations, Google.
+ 

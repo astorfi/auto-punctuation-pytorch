@@ -1,0 +1,10 @@
+
+ As we'd figured out last night, Symbian's big reveal for today was the completion of its move to a fully open, royalty-free platform -- meaning you no longer need to be a paid-in-full member of the Foundation to see all the code -- and they're ready to talk about it and spread the word far and wide. Though Symbian's certainly not getting as much share of the mobile discussion these days as some of its smaller competitors, it's certainly important to keep in mind that these guys have software deployed on literally hundreds of millions of devices, making this perhaps the largest-scale conversion of a closed operating system to open source in history. Because the code has been licensed under the Eclipse public license rather than the harder-core GPL, device manufacturers will be able to continue to tack on custom features and hardware support without open-sourcing it, which should make them less gun-shy about throwing weight behind the platform -- and considering how badly these guys need to get back into the spotlight, that's a good thing. Follow the break for the Foundation's intro video to the wide, wide world of open source and Symbian^3, the first version to be fully spread out for everyone to see.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

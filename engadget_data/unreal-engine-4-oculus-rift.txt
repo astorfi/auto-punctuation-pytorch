@@ -1,0 +1,50 @@
+
+Unreal Engine 4 now supports the Oculus Rift VR headset, Epic Games announced this morning. The move comes as part of an "Integrated Partners Program," which also adds support from a variety of other middleware companies (Autodesk, IDV, and NVIDIA to name just a few). Licensees have access to the entire list of middleware software, and can implement functionality in their UE4-powered projects starting today. Epic Games VP Mark Rein told us at GDC 2013 that Unreal Engine 4 support for Oculus Rift was in the works, but we didn't think it'd arrive this soon!
+
+
+
+Show full PR textEpic Games Launches Unreal Engine 4 Integrated Partners ProgramMore than a dozen technologies team up with the latest Unreal Engine technology to help shape the future of gamesCARY, N.C. (June 6, 2013) – Epic Games, Inc. announces the Unreal Engine 4 Integrated Partners Program (IPP), which brings together leading middleware technologies and software that are integrated with Epic's Unreal Engine 4 game engine.Unreal Engine 4 is a revolutionary toolset that is designed for efficient workflow and is built to scale from high-end PC and console to mobile and the Web. Each Unreal Engine 4 IPP member brings significant value to the program by providing tools and features that are trusted for high-quality game development.
+
+The inaugural Unreal Engine 4 IPP members and their integrated products are as follows:
+
+Audiokinetic – Wwise
+
+Autodesk – Autodesk Gameware
+
+Donya Labs – Simplygon
+
+Geomerics– Enlighten
+
+IDV – SpeedTree for Games
+
+Intel – Intel Threading Building Blocks (TBB)
+
+NaturalMotion – morpheme and euphoria
+
+NVIDIA – PhysX and APEX
+
+Oculus VR – Oculus Rift
+
+RAD Game Tools – Bink Video and Telemetry Performance Visualizer
+
+RealD – RealD Developer Kit (RDK)
+
+Umbra Software – Umbra 3
+
+Xoreax – IncrediBuild-XGE
+
+"The new Integrated Partners Program helps Unreal Engine 4 developers maximize their time with the most advanced toolset we've ever developed," said Tim Sweeney, founder and technical director of Epic Games. "We have taken the time to integrate UE4 with the best middleware technologies so our licensees can stay focused on making great games."
+
+In addition, Epic maintains the Unreal Engine 3 Integrated Partners Program, which includes more than 20 leading technology providers. For more information, please visit www.unrealengine.com/partners.
+
+About Unreal Engine
+
+Developed by Epic Games, the award-winning Unreal Engine is known for its cutting-edge graphics technology, world-class toolset and scalability across PC, console and mobile platforms. Unreal Engine tools are used to accelerate the creation of high-quality games, applications, training simulations, visualizations, digital films and animated entertainment. Powering hundreds of games and integrated with two dozen leading middleware technologies, Unreal Engine 3 (UE3) holds more than 20 technology awards, including eight Game Developer Front Line Awards and five Develop Industry Excellence Awards. The Unreal Engine also owns a seat in the Front Line Awards Hall of Fame. Unreal Engine 4 (UE4), winner of multiple Best of E3 2012 awards, offers unprecedented graphical capabilities and workflow improvements that provide unparalleled accessibility for developers building the next generation of games and applications. For more information, visit www.unrealengine.com and follow @UnrealEngine.
+
+About Epic Games
+
+Established in 1991, Epic Games, Inc. develops cutting-edge games and cross-platform game engine technology. The company is responsible for the bestselling "Unreal" series of games, the blockbuster "Gears of War" franchise and the groundbreaking "Infinity Blade" line of mobile games. Epic's award-winning Unreal Engine technology has won dozens of awards and is available for licensing. Epic is continually recruiting top talent for its studios located in North Carolina, Washington, Utah, Poland, Korea and Japan. For more information, visit www.epicgames.com and follow @EpicGames.
+
+Epic, Epic Games, Gears of War, Infinity Blade, Unreal, Unreal Engine, UE3 and UE4 and are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. Autodesk and Scaleform are registered trademarks or trademarks of Autodesk, Inc., and/or its subsidiaries and/or affiliates in the USA and/or other countries. All other trademarks or registered trademarks are the property of their respective owners. All rights reserved.
+
+

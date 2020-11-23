@@ -1,0 +1,6 @@
+
+ 
+Are we gazing onto the cusp of a new horizon, one where our Xbox 360 storage needs aren't shackled to overpriced proprietary hard drives? Probably not quite. Our best friends at Joystiq have managed to obtain documents (corroborated with multiple sources) showing that the folks in Redmond are mulling over an option to enable USB mass storage support for its game machine. To elaborate, that means downloaded Xbox Live and Arcade games, DLC, other associated game files, and even installed disc-based games can be saved to an external HDD of your choosing. The documents further elaborate that the storage device itself must be 1GB or more; a system partition of 512MB is required, and by default beyond that the consumer partition (i.e. your games and the like) will occupy the remainder of the drive or 16GB, whichever is smaller -- and unfortunately, that's as much as you're gonna get. This could be another way for Microsoft to, alongside the rumored Valhalla motherboard, trim some fat for a slimmer future... but given the size constraints, we're guessing it's more likely to be a more spacious alternative to Memory Units than the main HDD itself. Word has it the feature will be rolled out in a Spring 2010 firmware update -- that is, if Microsoft keeps to its paperwork here. Excited? We are. Read the full documentation over at Joystiq.
+      
+
+ 

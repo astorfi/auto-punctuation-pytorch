@@ -1,0 +1,7 @@
+
+ 
+
+BlackBerry 7 OS is coming soon but, to take advantage of all those fancy features like NFC and the digital compass (ok, some of them aren't that fancy), devs are going to need some new APIs -- enter the BlackBerry 7 Java SDK. Creators of BlackBerry apps can go download the beta of the new software development kit at the source link and start whipping up augmented reality browsers and 3D games, thanks to support for OpenGL ES 2.0. There's nothing mind-blowing about RIM's latest update, but we're glad to see the corporate stalwart start to catch up to other smartphone OSes, and it's only a matter of time before Layar and Quake hit the BlackBerry Bold 9900.
+      
+
+ 

@@ -1,0 +1,18 @@
+
+
+
+Concussions have always been a concern for those who play contact sports. However, there's been a renewed focus in recent years by the sports community -- the NFL in particular -- to learn more about concussions in the interests of promoting player safety. Pro leagues aren't the only folks tackling the problem, though. Verizon, Intel and Ridell are all building systems to help identify concussed players. Reebok and mc10 have collaborated to create CheckLight, a head impact indicator meant to make it easy to see when an athlete has taken a dangerous blow to the head. The CheckLight is composed of two parts: a sensor device built by mc10 and skull-cap made by Reebok.
+
+
+The sensor itself is a strip of plastic filled with flexible sensors connected to a small microcontroller module with three indicator LEDs and a micro-USB port. One LED serves as a battery level indicator, one flashes yellow after moderate impacts and a third flashes red for severe blows. mc10 wasn't willing to share the exact hardware inside, but we know that it's got a rechargeable battery and has rotational acceleration, multi-directional acceleration, impact location and impact duration sensors. Data from those sensors is then run through the company's proprietary algorithm to determine when to fire the LEDs. We got to chat with Isaiah Kacyvenski -- mc10's Director of Licensing and Business development and ex-NFL player -- about the CheckLight and the role it has to play in keeping athletes safe, so join us after the break for more.
+
+
+
+
+There are two key features that separate CheckLight apart from previous athletic impact sensors. First, its flexible design measures the impact on a wearer's head, as opposed to the impact on a helmet, which -- according to Kacyvenski -- means that the data it provides is more relevant and accurate than competing systems. And, it means that the CheckLight can be used with multiple helmets.
+
+CheckLight's second value proposition lies is its ability to provide simple, actionable information to both athletes and medical personnel. The simplicity of its yellow light/red light warning cues makes it easy to understand by the players themselves which removes the pride and shame factor that prevents many players from reporting concussion symptoms. That may be where the real genius of the CheckLight lies -- by giving players a means to easily see when a teammate may have a concussion, they police each other. This addresses the biggest difficulty in diagnosing concussions: the failure to report symptoms. CheckLight does the reporting for you, thereby removing the human element from the equation.
+
+It's important to note that CheckLight isn't just for pro and college athletes, either. In fact, Reebok and mc10 want the device to become de rigueur in youth athletics as well. When asked if CheckLight will be priced low enough to make it affordable for Pop Warner parents, Kacyvenski would only say that it'll be affordable and comparable to the cost of other sporting equipment. Unfortunately, we'll have to wait until CheckLight goes on sale, sometime in the first half of this year, to know what constitutes affordable. In the meantime, feel free to gaze at our gallery and head on over to mc10's website for more.
+
+

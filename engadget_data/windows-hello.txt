@@ -1,0 +1,13 @@
+
+
+Microsoft thinks it's high time you ditch your passwords. The company, which is readying Windows 10 for release later this year, just announced that its next-gen OS will include built-in support for several alternative log-in options, including fingerprint, facial and iris recognition. That means so long as a Win 10 machine has at least one of the necessary sensors -- a fingerprint reader, eye scanner or illuminated IR sensor for facial recognition -- there will be a built-in framework called "Hello" that helps users enroll their fingerprints, or face, or what have you. In other words, then, regardless of who made your machine (Acer, HP, et cetera), you'll get a consistent user experience for setting up a biometric log-in.
+
+
+
+
+In addition, Microsoft has another feature (codenamed "Passport") that allows you to enter a password and then re-authenticate by typing in a PIN that's encrypted on the device itself. (For the record, all that biometric data -- your fingerprints, eye scans and facial images -- are stored locally too, and not on Microsoft's servers.) Once you've entered the password, you can also log into websites that use the password-less FIDO security standard, of which Microsoft has been a big supporter. Aside from access to websites, "Passport" will also come in handy for people with lower-end systems that don't have the requisite sensors for a biometric log-in.
+
+There's no word on when beta testers using the Windows 10 Technical Preview will get to try this out, but Scott Evans, Microsoft's director of engineering for personal computing, says he's "sure" early users will eventually get the chance. In the meantime, Microsoft is already working with both device manufacturers, as well as companies that makes the sensors themselves. And that includes some big names, like Intel (which, by the way, also wants people to stop using passwords). In particular, existing devices using Intel's RealSense 3D camera setup will meet the requirements for Windows Hello. Not that there are that many RealSense devices on the market just yet, but it's nice to know that someone won't necessarily need to buy new hardware to get the full experience.
+
+#fivemin-widget-blogsmith-image-225864{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-225864, #postcontentcontainer #fivemin-widget-blogsmith-image-225864{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-225864").style.display="none";}catch(e){}
+

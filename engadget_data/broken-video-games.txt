@@ -1,0 +1,61 @@
+
+Allow me to begin with my very best Andy Rooney impersonation: When I was growing up, there was no such thing as a "day one patch." I went to Video Station on Saturday with my parents -- if I was lucky -- and came home with a single rented game for the weekend. James Pond or Bubsy the Bobcat or Blast Corps or whatever. Maybe I'd have to blow out the cart, or erase the last renter's save file before playing whatever game I rented.
+
+
+Let's imagine a similar scenario today: You go to a Redbox kiosk or GameFly mails you a disc for your Modern GameBox™. Upon inserting said disc, your GameBox turns on and begins installing the game. The wait begins. It's now several percentage points in and ready to start running. You hit the button. "An update is required to play this game." This is when you take a moment to swear under your breath. This is "the future"?
+
+
+Now imagine your next step is finding out that multiplayer is broken, or that the game won't load, or that it barely runs. You've got our current situation.
+
+
+
+Clearly some of that anecdote is me looking back with rose-tinted glasses. When games were broken in previous generations, they didn't get fixed. Castlevania 2: Simon's Quest never got patched to fix its poor localization or the illogical gameplay issues that resulted. Atari's infamously bad E.T. game wasn't updated to fix, well, everything. There's a clear positive to the concept of updating games over internet-connected game platforms. I grok that benefit.
+
+Games you can't update
+On the flipside, an increasing number of games are being launched before they're ready. This was already a problem on the last generation of consoles, where the concept of "day one patches" was introduced to console gamers: a required update (via the internet) that launches alongside the game itself. Internet's out? Your game might not work. Underdone games are proving to be an even bigger problem in this generation. The three biggest franchises launching this holiday all have problems, ranging from problematic (frame rate drops, glitches) to rendering games outright unplayable (broken online multiplayer). Even if you've been watching the game industry closely, it was surprising to see Assassin's Creed Unity, Call of Duty: Advanced Warfare and Halo: The Master Chief Collection all launch with major issues. That is not a normal occurrence.
+
+These are multimillion dollar, worldwide franchises. Call of Duty: Advanced Warfare publisher Activision recently bragged that its new game is, "the biggest entertainment launch of the year, besting not only all other video games, but also the biggest movies, music and books launched in 2014." There is merchandising (clothing, plushies, toys, etc.). There are "transmedia" properties (books, movies, etc.). These are the heavy hitters of the game industry in terms of mainstream, crossover success -- the games you see advertised on the side of buses, played in frat houses and referenced in prime time television shows. In so many words: These are the games that aren't allowed to launch broken.
+
+Yet, somehow, they are.
+
+Exhibit A -- Halo: The Master Chief Collection
+Earlier this month, Microsoft released Halo: The Master Chief Collection. We first told you about Halo's latest adventure back in May -- "a Master Chief-focused HD remaster" of Halo 1, 2, 3 and 4, all for Xbox One. Microsoft further enticed fans with details at E3 2014: you would not only get all four games, with Halo 2 receiving a major overhaul, but also an all-encompassing online multiplayer mode. For the first time, several generations of Halo multiplayer would be collected in one place. Better yet, the Halo franchise has a track record of stable online games at launch. Even after Halo changed hands from Bungie Studios (its creator) to 343 Industries (its new overlord) in Halo 4, the work was up to fan standards and launched without any major hitches.
+
+That's what made it such a shocking surprise when Halo: The Master Chief Collection launched on November 11th with nearly unplayable online multiplayer. The game's online component remains broken nearly two weeks later, and that's after scaling back the online options and issuing several patches. This is the closest to a direct apology that the developer and publisher have offered thus far: "We apologize that you're experiencing the current Matchmaking issues, and assure you that we're working around the clock to deliver fixes as soon as possible."
+
+#fivemin-widget-blogsmith-image-966057{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-966057, #postcontentcontainer #fivemin-widget-blogsmith-image-966057{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-966057").style.display="none";}catch(e){}
+Halo: The Master Chief Collection should be a strong argument for buying an Xbox One this holiday. Instead, it's another very public misstep tied to Microsoft's Xbox division.
+
+Exhibit B -- Assassin's Creed UnityIt wasn't always this way, but we are now living in a world where a new Assassin's Creed game launches every year. Last year, the critically acclaimed commercial blockbuster Assassin's Creed 4: Black Flag arrived on, like, a thousand different platforms (Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Wii U and PC). It was a remarkable triumph after the previous year's misstep in Assassin's Creed 3 -- a commercial success despite waning critical reception for the series. It was fun, introduced new systems and looked great on brand-new game consoles. Most importantly, it ran: Even with a new sailing mechanic driving the game, Assassin's Creed 4 only had the occasional, often comical, glitch.
+
+
+Assassin's Creed Unity is another situation altogether. The faceless nightmare you see above is one of many glitches found in Unity. Amazingly, it's one of the least worrisome issues with the game. Even after installing Ubisoft's "day one" patch, we encountered extreme drops in frame rate -- read: low teens -- and main story missions with broken objectives (forcing a manual reset). The game's developer/publisher went as far as to create a live update website to keep owners updated on Unity's ongoing patch work. Some folks are experiencing outright game crashes, and Ubisoft has a totally insane fix that involves deleting your list of in-game contacts. To illustrate how insane this is, allow me to point out that this year's Assassin's Creed is being sold on the hook of online, multiplayer co-op play.
+
+Exhibit C -- Call of Duty: Advanced Warfare
+For a game that consistently launches at extremely high volume every year, 2014's Call of Duty had a shockingly rough first few days. On both Xbox One and PlayStation 4 -- its marquee platforms -- Call of Duty: Advanced Warfare had nonsense workaround solutions implemented for just getting the game going. When you get it running, Call of Duty: Advanced Warfare is one of the best CoD games in years. It's thankfully humming along now after several updates.
+
+Exhibit D -- Driveclub & Battlefield 4Both Driveclub and Battlefield 4 stand out as stark examples of the absolute worst-case scenario: You buy or rent a game, and a major component or the whole game outright doesn't function. In each case here, consumers purchased products that were broken in at least one major way.
+
+
+It was months before Battlefield 4 was back in action: The game's multiplayer was broken from launch until over half a year later. The game's publisher, Electronic Arts, pushed back the next edition in the franchise, Battlefield Hardline, which was scheduled to launch this holiday. Battlefield franchise studio lead Karl Magnus Troedsson spoke with us earlier this year at the game industry's annual trade show, E3. At the time (June 2014), he defended his studio's troubles and the decision to release another game in the Battlefield series just a few months after the last game was working as promised at launch.
+
+"There is a commitment here from us that we're gonna keep taking care of the products much more in a parallel way. People shouldn't think of this as a serial exercise of dropping games; as soon as one is dropped, the other one dies," Troedsson told us. His stance on Hardline changed by July.
+
+"We decided that the right thing to do was to take more time to ensure Hardline is the best, most innovative Battlefield experience we can give to you, our fans," he wrote on July 22nd, 2014. Among the reasons listed for the game's delay into 2015? Stability.
+
+"This has been a focus for our team since day one and we're going to be using the extra time to continue to optimize the game for a stable launch. We have learned a lot from Battlefield 4, are continuing to learn from our Community Test Environment and will learn more from another Hardline beta. More time allows us to surface issues that the team can attempt to fix prior to launch."
+
+
+Driveclub is still having issues over one month after launch -- so much so that its developer, Evolution Studios, is giving away content it had planned to sell. A planned free version of the game has been scrapped. By the time that it works as advertised -- Driveclub has a major social component that relies on the game's online features functioning properly -- the game will have dropped in price at many retailers, adding further insult to injury to anyone who picked up the game anywhere near its October 7th launch date.
+
+The 'Minimum Viable Product'I'd love to pin this trend on something as mundane as a general rush to market; the holiday sales window is small and blockbuster games make a bulk of their sales in the first few weeks at retail. It'd be so predictable and comforting!
+
+
+Sadly, it seems more insidious than the numbers game all businesses play: There's a creeping acceptance of producing broken products. The trend takes a page from the minimum viable product school of sales, which suggests releasing a product as soon as possible with features stripped to the core functionality. And in the case of games, "core" functionality means what? Turning on?
+
+The prevailing logic seems to be that games don't need to function perfectly out of the box anymore -- there's a "day one" patch to fix glitches, or add multiplayer, or whatever else the game's developer and publisher deems "shippable." An extension, perhaps, of the software-development concept "known shippable," which literally means, "We are aware of this bug/issue, and have decided it's okay to ship the software with that bug/issue based on a variety of metrics (rarity, doesn't affect the experience, etc.)." It's not, by nature, a nefarious act, but it can be -- should the people making the call make the wrong call.
+
+Holiday 2014 may mark a turning point for the unfortunate trend of publishers and developers releasing broken games. Instead of picking up the latest Halo or Assassin's Creed, the mainstream crowd that makes big games into blockbusters may instead choose to pick up a sweater for Aunt Linda. Sweaters don't need updates, and they always work at launch. Here's hoping they -- you -- do, because there's no way to push back on crap like this without using your dollars. Oh, and the pile of great, functional games that also came out recently offers a fantastic alternative.
+
+[Image credit: YouTube/Billy Guinigundo (Halo); Microsoft Studios (Halo); Ubisoft (Assassin's Creed); Activision (Call of Duty); EA DICE (Battlefield); Sony Computer Entertainment (Driveclub); Shutterstock (Businessman)]
+

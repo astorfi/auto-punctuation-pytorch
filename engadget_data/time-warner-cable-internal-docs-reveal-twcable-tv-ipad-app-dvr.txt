@@ -1,0 +1,13 @@
+
+ 
+
+Internal documents we've received show Time Warner Cable is planning a major update for both its live TV streaming TWCable TV iPad app and many of its set-top boxes. TWCable TV 2.0 is scheduled to arrive on June 28th with new features including a seven day program guide, and the ability to use it as a remote control or to schedule the DVR remotely. Around that same time, its cable headends around the country will deliver the "Florence" update that brings its OpenCable Digital Navigator software to version 4.5 on certain Cisco, Motorola and Samsung set-top boxes. That should bring them up to speed with other platforms it uses, adding the ability to delete recordings in a multiroom setup, a transparent GUI, enhanced Start Over and Look Back features, settings to control aspect ratio, output resolution, pictures size and more. This may yet be the year we get to ditch the cable box, but while we still live with them you can see the full list of upgrades and which boxes will get them in the gallery and after the break.
+
+
+
+
+Features: 		• Multi-Room enhancement 		• Ability to delete from client 		• MDN parity 		• DVR compensation 		• Configurable via MSO setting and/or ODN settings menu 		• UMP versioning 		• Move to a more flexible STB registration model 		• Bookmarking 		• Start over and lookback offers a resume option from last position if user tunes away and back 		• DVR FF/RW x4 		• Graphics transparency 		• Customer has the option to make overlay graphics transparent. Amount of transparency is determined via MSO setting 		• Addressability 		• EBIF application to provide zip code summarization data for the Canoe commitments 		• ADSG support – Allows applicable STB's to run in DOCSIS mode in readiness for future applications 		• CDL 2.0 support 		• Data Collection: Last 10 DVR shows watched (only) 		• VAF 2.0: Provides the ability to target ODN based on STB parameters 		• Pre-Requisites 		• MAS 5.2.8 (with latest patches) 		• PMG 1.5.6 		• Upgrade path is from either Faro SP1.2 or Faro SP2
+
+ADSG Capable Set-top Box Support 		This release supports the ADSG rollout, on the following set-top box types:		Samsung SMT 3090		Samsung SMT 3270		Samsung SMT 3260		Samsung SMT 3272 - MoCA		Samsung SMT 3262 - MoCA		Cisco 8640		Cisco 4640		Cisco 8642 - MoCA		Cisco 4642 - MoCA		Motorola DCX 3200 - MoCA		Motorola DCX 3400 - MoCA
+
+

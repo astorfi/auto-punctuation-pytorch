@@ -1,0 +1,5 @@
+
+ If we sounded a little skeptical about CinemaNow's DRM-free DVD burning plans, there's good reason. One one side you have the content industry, which absolutely abhors the idea of allowing download-to-burn movies; on the other side, you've got CinemaNow trying to broker a deal to appease consumers without getting themselves sued, tarred, feathered, and caned. That deal they reached was to use fluxDVD's technology to take care of the magical DRM-less DRM that would allow customers to take their secure CinemaNow content and move it to a DVD which would play back in any old device Unfortunately, that vision may have been a little sanguine, since the reality is apparently turning out to be an "irresponsibly defective" solution, according to the report of an anonymous engineer. Apparently the burning technology deliberately introduces disc checksum errors when writing the disc, thus making the DVD both very difficult to copy, as well as making it nigh unplayable in most consumer DVD devices. And why are we not surprised this kind of solution is the compromise, hm?[Via Ars Technica]
+      
+
+ 

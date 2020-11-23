@@ -1,0 +1,6 @@
+
+ 
+Remember where you were when you heard about Steorn? Us neither. (Yet.) Kind of the same with D-Wave, which, as you may recall, claims to be the first and only "commercial" quantum computing venture; despite a low hanging cloud of skeptical academics, D-Wave is claiming next Tuesday it'll finally debut the first quantum computer: a 16 qubit processor capable of 64,000 simultaneous calculations in quantum space(s). What's a qubit? Why, it's the quantum computer measurement equivalent of a conventional computer's bit (i.e. more (qu)bits = more data and processes), but we're not even going to insult your intelligence by pretending to understand how a many-hundreds qubit quantum computer could supposedly solve more operations than the universe has atoms. We just know that a quantum computer has yet to be built, has the potential to revolutionize the way we understand and use computation -- and with any luck D-Wave's supposed machine will be promptly put to work analyzing weather patterns so we'll know the exact climate this time next year and not buy the wrong things when this year's fall lines come out. That is, if it doesn't open up a black hole, or something.[Via Slashdot]
+      
+
+ 

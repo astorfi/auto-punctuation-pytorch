@@ -1,0 +1,7 @@
+
+
+If you've been aching to try a different operating system on your Chromebook without running it in a window or otherwise jumping through hoops, you're going to get some relief very shortly. Google's Chrome OS team is adding support for an easy debugging switch that lets you tinker with the system files, such as by installing new drive images. If you want, you'll have the freedom to boot up from a USB drive and load a new OS, such as Linux. This still won't be a solution for the faint-hearted (you're likely on your own if something goes wrong), but it'll simplify things if you're bored with Google's web-centric software.
+
+
+Photo by Will Lipman.
+

@@ -1,0 +1,24 @@
+
+
+
+"It's getting ridiculous."
+
+
+Epic Games Chief Technology Officer Kim Libreri is tired of chairs -- and rocks, and grass, and trees -- in the games created in Unreal Engine 4, Epic's game development platform. It's not that he doesn't like everyday objects, he simply sees them as a collective issue to fix: They're standard, repeatable items that developers don't need to spend time making, since they already exist in a ton of other games. To that end, Epic is releasing on its UE4 Marketplace a set of detailed, photo-real assets and a system that places these items intelligently throughout game worlds, available for studios of all sizes.
+
+
+"Once a chair's been made, there's no reason to make a custom version of that chair," Libreri says. "You might as well share it with the community.... It's mind-boggling when you think about how many games have made the equivalent of the Aeron chair."
+
+
+
+Using these high-quality 3D assets and a new system that allows developers to dictate how objects are procedurally generated in an area, Epic was able to populate 100 square miles of nature environment in nine weeks. Developers jokingly dubbed this world "New Scotland," since half of the assets were sourced in the UK and half in New Zealand.
+
+"Obviously you can't populate 100 square miles by hand," Libreri says, and Unreal Engine 4 General Manager Ray Davis cuts in.
+
+"Well, you can," he jokes.
+
+"We could," Libreri says. "We could be really stupid and spend lots and lots of money and time to do that. So, we came up with a procedural system that allows the content generators – our artists – and now our customers as well, to be able to specify rules of placement of vegetation and rocks and trees, and it's got some smarts. You can basically tell it, 'Don't plant a bush under a tree because it's not going to get enough light. It's not going to grow.' Or, 'This is rock, you won't be able to have this kind of thing growing out of a rock, but you can have grass in the little crevices,' and so on and so forth."
+
+The goal is to make these assets and systems available to teams of all sizes and skill levels, Davis adds: "The cool thing is, once you've got that chair digitized, you just drag and drop, and you can use it. You don't have to know anything more than that. We're really interested to make it so whether you're a team of one or a team of 100 or 1,000, god forbid, you're still able to create these high-quality experiences."
+
+

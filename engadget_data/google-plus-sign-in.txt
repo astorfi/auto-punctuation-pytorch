@@ -1,0 +1,4 @@
+
+ These days it seems like every app wants your Facebook or Twitter info -- it figures that Google wants a piece of that action, too. Today the software giant announced Google+ Sign-in, a new feature that makes it possible to log into non-Google apps using your credentials for its myriad services (your Gmails, your YouTubes, et al). Google promises that Sign-in, which will be available for Android, iOS and web apps alike, will deliver the "protections and safeguards you've come to expect," plus some tweaks for the Google Maps Android API. The feature also makes it possible to decide what information you're sharing, so you don't spam the rest of us with your fitness goals (have we mentioned how fit you're looking these days?). You can also manage all of the apps you're using with Sign-In through Google+. More information for developers and users alike can be found in the source link below.
+
+

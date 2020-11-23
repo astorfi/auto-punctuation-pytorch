@@ -1,0 +1,5 @@
+
+ In case DRM hasn't caused you -- the honest consumer -- enough pain already. Check it, you've got some required software updating to do now that Corel has introduced a patch to their cracked InterVideo WinDVD software. Best do it pronto too. According to Corel, "failure to apply the update will result in AACS-protected HD DVD and BD playback being disabled." That means no more hi-def movies for you, Mr. assumed criminal. Thing is, this is no ordinary patch since WinDVD exposed the hardware specific device key to video pirates. So not only are you required to update their janky WinDVD software, you also have to track down and install the paticular AACS patch for the HD DVD or BD player you own. Of course this only patches one flaw in the massively compromised DRM boondoggle. And just think, you can repeat the whole process again after hackers circumvent this latest attempt at "content protection." Isn't DRM nice?[Via Impress]
+      
+
+ 

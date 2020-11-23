@@ -1,0 +1,21 @@
+
+
+
+
+
+
+Whoa Nelly! IBM's Blue Gene/L has again crushed its own supercomputer record now pumping out an amazing 280.6
+teraflops (trillions of calculations per second). That's more than double the 136.9 teraflops they were flaunting back
+in June or the, um, pathetic 70.7 teraflops they were pushing just 12 months ago. That's a four-fold increase in
+processing power in just 12 months! While it appears IBM stands in staunch defiance of Moore's Law, keep in mind that
+Blue Gene/L actually uses a collection of five separate networks to connect 65,536 specialized IBM processors. In fact,
+the machine was only half-built when they hit the 136.9 mark back in June. Also, the Top500 Supercomputer list (being
+announced 15Nov) measures response to the Linpack mathematical test which Blue Gene/L runs on every processor
+whereas other applications (like nuclear weapons simulations maybe?) result in half the system's processors being tied
+up in networking tasks. Oh, ok, well we're still waiting for that
+computer in a teaspoon anyway.
+
+
+
+
+ 

@@ -1,0 +1,5 @@
+
+       Looks like CES 2007 is the place to be for wireless HDMI, as now we've seen offerings from AMIMON, Philips, and Tzero showcasing the ability to stream beautiful 1080p HD sans wires, and now Asus is joining the fold. Apparently basing its self-branded product line on technologies from Tzero and Analog Devices, the admittedly vague press release simply informs us that the company will be fighting tooth and nail in the wireless HDMI over UWB arena, and notes that we'll be seeing "accessory devices and embedded designs that dramatically simplify connections between home audio and video electronic components." Per usual, Asus' box will accept component, composite, S-Video, and HDMI (HDCP-compliant) signals, and the video is then compressed using Analog Devices' ADV202 JPEG2000 video codec, where it's then combined with audio, packetized and encrypted, and transmitted via the Tzero MAC and PHY chip. So until we can mosey on over to see some of this stuff in action, we'll just have to take Asus' word for it, as the company withheld information regarding model numbers, prices, and release dates for the time being.
+      
+
+ 

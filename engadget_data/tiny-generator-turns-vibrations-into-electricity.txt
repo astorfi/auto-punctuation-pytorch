@@ -1,0 +1,6 @@
+
+ 
+We've seen a couple interesting attempts to convert vibrations and sound into electricity, but the latest design from a team at the University of Southampton is the first we've come across that's designed to be attached to bridges, large buildings, and other structures. The sugar cube-sized generator, a smaller version of a design already commercially available, uses cantilever-mounted magnets to induce a current in a copper coil -- a use of magnets to generate electricity that doesn't violate any laws of thermodynamics, which is always appreciated. The team has successfully used the generator to power an accelerometer (pictured), and tests indicate that the unit can put out up to 46 microwatts of power -- enough to run a pacemaker off the vibrations of the heart itself. No word on commercial availability, but the team seems like they're ready to get shaking fairly soon.
+      
+
+ 

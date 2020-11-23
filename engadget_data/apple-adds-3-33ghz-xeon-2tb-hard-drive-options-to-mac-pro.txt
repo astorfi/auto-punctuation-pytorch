@@ -1,0 +1,4 @@
+
+ We know it can be tough scraping by with a measly 2.93GHz Xeon processor and 1TB hard drives in your Mac Pro, so you'll no doubt be pleased to know that Apple has finally seen fit to add a bit of extra horsepower to its humble little desktop. That includes a new option for a speedy 3.33GHz Xeon processor, which will add a hefty $1,200 to the base price, and a new a 2TB SATA 3Gb/s 7,200rpm hard drive option (also now available on Apple's Xserve server), which is a comparative bargain at just $350 -- though you can, of course, add four of them. Unfortunately, anyone that's thinking about doubling up on those 3.33GHz Xeon processors is still out of luck, as the 8-core rigs still top out at just 2.93Ghz. 
+
+ 

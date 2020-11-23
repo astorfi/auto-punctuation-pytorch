@@ -1,0 +1,6 @@
+
+ 
+Microsoft tickled our meta-OS fancies last week by talking up the virtualized version of Windows XP included with Windows 7 Professional and Ultimate Edition. However, the company has now revealed that ponying up for one of the top tiers of the OS will not be the only requirement. 2GB of RAM will be needed, which isn't such a big deal, but more troubling is the requirement of a CPU that sports chip-level virtualization support. Both AMD and Intel have been quick to add features to support enterprises turning to virtualized hosting environments, but rather annoyingly neither of those companies make it particularly easy to tell which of their chips provide such support. On the AMD side it looks like the tech was introduced with the Athlon 64 and has continued in most newer chips, while Intel's waters are a little muddier, with all Core i7 processors being suitably endowed, but only some of its Pentium, Core 2, and Atom chips made the grade. How to know if you're included? We'd expect an upgrade advisor from Microsoft to hit the internets any time now.Update: Christopher commented to let us know of a little app that'll tell you right now whether you're in our out of the faux-OS party. That's great, because we hate hasty last-minute upgrades.
+      
+
+ 

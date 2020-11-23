@@ -1,0 +1,13 @@
+
+ Despite its crucial role in the Android ecosystem, ASUS hasn't taken the plunge on Google TV so far. An FCC approval for a new adapter, the Qube, suggests that reticence is coming to a quick halt -- and in an uncommon way. Rather than build a full media hub, ASUS appears to be crafting a possibly Roku-like dongle that would graft Google TV on to a host device through USB. The Qube's components aren't outlined in earnest, but it would pair up with an RF-based keyboard and touchpad for its main input.
+
+ Some details may have been given away through Google Play listings for O!Mobile Control Center and Remote apps linked to the Qube -- they hint that ASUS could use the same Marvell Armada processors that power modern Google TV boxes, as well as extend smartphone control beyond what Google's official remote app can offer (we tried it with an existing Google TV unit and it wouldn't connect.) At this moment, we're less curious about when and where the Qube releases than how it will sell; its dependence could see it destined for an equipment bundle instead of sitting on shelves by its lonesome. We're asking around for possible details and will let you know if we hear more.
+
+ Update: As we learned alongside the FCC's revelation of the Netgear NeoTV Prime, what we're seeing here may just be a peripheral dongle for a separate Qube box, according to GTV Hacker -- although there's not yet any visual evidence of the set-top in question.
+
+
+
+
+ 
+
+ 

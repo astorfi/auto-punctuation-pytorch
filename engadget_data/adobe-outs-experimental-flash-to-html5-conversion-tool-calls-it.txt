@@ -1,0 +1,9 @@
+
+ 
+Ah, if only we could flip a big happy switch and convert all the web's Flash content into (functional) HTML5 code. It's a dream shared by many and, funnily enough, the company pushing to make it a reality is none other than Adobe itself, the owner and proprietor of Flash. Its Labs research team has just released an experimental new dev tool, dubbed Wallaby, that's targeted at taking Flash-encoded artwork and animations and turning them into a more compatible mix of HTML, CSS and JavaScript. Of course, the intent here is not some magnanimous move to free us from the shackles of Flash -- Adobe openly admits that the initial goal for the new tool will be to help convert animated banner ads so that they work on the iOS platform -- but hey, even bad tools can be used for good sometimes, right?
+      
+
+ 
+
+
+ 

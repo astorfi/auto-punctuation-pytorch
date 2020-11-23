@@ -1,0 +1,6 @@
+
+ 
+
+
+AMD's Bulldozer silicon is enormously powerful, but most software isn't configured to schedule threads for the faux-16 core design. Windows can only see the chip as a quad-core CPU and will randomly assign threads, which ruins the point of Bulldozer's "Turbo Core" design. Microsoft inadvertently revealed it had teamed up with the chipmaker to fix the problem when it prematurely released a hotfix for Windows 7 and Windows Server 2008 R2. Initial tests showed that it could improve performance by up to seven percent, before it was pulled -- Microsoft conceding that it wasn't quite ready for prime-time.
+ 

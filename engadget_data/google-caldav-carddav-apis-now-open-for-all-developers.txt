@@ -1,0 +1,4 @@
+
+Though Google chucked open API access to CalDAV back in March, it appears the company's had a change of heart. Up until today, only a select few whitelisted developers could make use of Google's calendar open standard; a decision it made based on actual usage data. But given the amount of feedback it's received from blocked devs in the time since, Google's decided to re-instate access to CalDAV APIs, in addition to those for CardDAV -- a first -- its open standard for contacts. The news won't make much difference for Windows Phone 8 users (CalDAV and CardDAV support was already promised), but at least your third-party apps can now continue to play nice with your social calendar.
+
+

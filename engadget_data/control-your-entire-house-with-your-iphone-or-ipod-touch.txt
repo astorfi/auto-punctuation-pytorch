@@ -1,0 +1,9 @@
+
+ 
+The dream of an automated house has never been more achievable, and thanks to DIY software like Cinemar's Mainlobby, just about anyone can roll their own at a reasonable price. Of course, the more you can control with your home automation system the better. Now, in addition to being able to control lighting, security, home theater gear, thermostats, whole house audio and manage all your movies from a wall mounted touch screen, Mainlobby owners will soon be able to use their iPod Touch or iPhone as a remote. The key to making this work is Mainlobby's built in web server and Safari's extensive AJAX support -- sorry Windows Mobile fans. Unfortunately, this is only a first look, but these examples will be included in future versions of MLServer. And considering the lead developer on the project plans to use it as his "primary handheld controller," it should mean lots of future development. More pictures after the jump.
+      
+
+ 
+
+Just create a Bookmark that points to your MLServer web server.Browse your movie collectionAll the details of the movies at your finger tips, just hit play to have DVDLobby control your 400 disc DVD changer or play a movie from your hard drive.Check the weather, data is pulled live from Weather.com
+ 

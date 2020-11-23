@@ -1,0 +1,12 @@
+
+Secretly sifting through your text messages isn't just for overprotective parents and paranoid lovers anymore. Now the NSA's prying eyes have shifted from your call logs and location data to your texts in a not-so-secret initiative called Dishfire. The Guardian reported that the NSA collected some 200 million text messages per day globally, extracting location data, contact information and credit card numbers. This revelation, unsurprisingly, sprung from documents leaked by Edward Snowden. According to the paper, the British intelligence agency known as the Government Communications Headquarters (GCHQ) also used the NSA's database to cull information about "untargeted and unwarranted" communications by UK citizens, noting that the program collects "pretty much everything it can."
+
+
+In addition to collecting and storing data from texts, a 2011 NSA presentation titled "SMS Text Messages: A Goldmine to Exploit," revealed a second program, referred to as "Prefer." Under Prefer, the agency used information pulled from automated text messages, missed call and network roaming alerts and electronic business cards to collect information pertaining to users' travel habits and social connections. While the documents, complete with smiley face Venn diagrams and gemstone metaphors, stated that US phone numbers were either removed or minimized. The same cannot be said for numbers from the UK and elsewhere.
+
+
+In a response to the report, an NSA spokesperson told The Guardian that the information would only be used against "valid foreign intelligence targets." Meanwhile the GCHQ claims it used the Dishfire data to develop new targets. According to a representative from the UK carrier Vodafone, the findings came as a shock and the program sounded like it circumvented UK privacy and security standards.
+
+
+Joseph Volpe contributed to this report
+

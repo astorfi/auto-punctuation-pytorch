@@ -1,0 +1,10 @@
+
+Firefox OS is still very young and about to endure something of a growth spurt. In the coming months Mozilla's fledgling mobile platform will see a pretty dramatic reinvention of its UI. A core piece of that reinvention is EverythingMe, a contextual search interface that delivers results from the phone and the web simultaneously. Pulling down slightly from the title/address bar will open the search dialog that doubles as an application launcher. That new launcher will provide an entirely new way to interact with the phone, while bringing a welcome level of polish and modernity to the OS. The company also aims to banish the app store model and the ubiquitous install button. Instead searching for an app will offer you a direct link to launch it (which is made possible by Firefox OS' heavy reliance on the web).
+
+
+Additionally, a number of UI elements will be shifted around. Now, instead of opening the notification drawer, pulling down all the way from the top of the screen will initiate a task switcher. For quick and fluid app switching, simply swiping left or right from the edge of the screen will toggle between open applications, just as it does on Windows 8. The notification drawer will find a new home at the bottom of the interface, and opens with an upward swipe.
+
+
+Subtler changes are also being made under the hood that will make Firefox OS faster and more responsive. Especially when scrolling and panning. The on-screen keyboard will also use predictive algorithms to guess what letter a user will enter next and will invisibly enlarge the touch target. There wont actually be any visible cues for the person typing, but it should lead to less mashing of backspace.
+
+

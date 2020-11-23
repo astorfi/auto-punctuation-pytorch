@@ -1,0 +1,9 @@
+
+
+
+Whoever said that there's no such thing as bad press should talk to the NIST -- it says that "recent news reports about classified documents" are hurting its standing in the cryptographic community. The organization is specifically concerned about how these reports have "questioned the integrity of the NIST standards development process" and how this could impact the NIST's ability to develop new algorithms. In a bid to win back the community's trust, the outfit is kicking off a formal review of its development standards, and plans to let the public vet the results.
+
+
+"We also will bring in an independent organization to conduct a formal review of our standards development approach and to suggest improvements," reads an official statement on the action. "Based on the public comments and independent review, we will update our process as necessary to make sure it meets our goals for openness and transparency, and leads to the most secure, trustworthy guidance practicable." The NIST also pledges to comb through its existing cryptographic achievements to ensure its current processes is up to snuff. It may sound like a big song and dance for some obscure development standards, but the firm says it's essential to maintaining the United States IT infrastructure. "Trust is crucial to the adoption of strong cryptographic algorithms," it says "We're committed to continually earning that trust."
+
+

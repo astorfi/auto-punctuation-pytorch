@@ -1,0 +1,41 @@
+
+It's been nearly three years since I reviewed the Xperia Neo, manufactured by what was then Sony Ericsson. The Neo represented just the second generation of Xperia phones running on Android, from a period when Sony was finding its feet in the world of mobile and still chucking out plenty of duds (I'm looking at you, Tablet P). Fast-forward to today and things have changed dramatically under Kaz Hirai's stewardship. I'll tell you this right now: The Z2 is an easy phone to recommend, at least for those living in countries where it'll definitely be available (a list that includes the UK and Canada, but not yet the US). The only real caveat is the handset's huge, monolithic construction (a far cry from puny, 126-gram Neo). As you'll see, if you can get past its size, the Z2 addresses some of the most serious gripes we had with its predecessors, the Xperia Z and Z1, particularly with respect to its LCD display. In fact, in some respects, it's far ahead of any other Android phone currently on the market.
+
+
+
+
+
+
+Let's deal with the size thing right away. It's not merely a question of weight, because the Z2 is only 18 grams heavier than the Galaxy S5, which is about as light as phones in this category come nowadays. Sony has actually done an excellent job of keeping the Z2's weight down: Somehow, magically, it's a few grams lighter than the Z1, yet it packs a larger display and a waterproof/dustproof casing, with tough, heavy flaps around the slots and micro-USB port.
+
+No, the problem here is with the weight distribution. The Z2 feels wider and taller than it needs to be, and its center of gravity just doesn't feel very... centered. By contrast, the similarly heavy HTC One (M8) feels like its density is gathered around the spine of the device, so that it rests solidly in the hand. None of these handsets are especially conducive to one-handed use, but the Xperia Z2 is the worst of the bunch in this respect; I dropped it four times in the space of a week, which is a record even for me, and I found it unwieldy for reading in bed, too.
+
+
+The other issue with the Z2's design is its blockiness. Visually, I find this attractive -- it's part of Sony's metal-and-glass design statement, which is further aided by the thinness (just 8.2mm, or one-third of an inch). In daily use, however, the absence of curvature and shaved-off corners can be annoying -- even for someone who's used to carrying something enormous like the Galaxy Note 3. Check out the video above and you'll see a shot of our own Jamie Rigg putting the phone into his pocket. The ridges of all four corners of the phone are actually visible through the denim of his jeans. (Seriously, watch the video. I had to go through the awkwardness of filming a colleague's crotch just to make it for you.)
+
+Having said this, it's worth remembering just how much technology is packed into the Z2: a 5.2-inch display, a big camera module, the extra ruggedness I've already mentioned, a microSD slot, a widely compatible LTE modem and all the other gubbins listed in the table below.
+
+    Sony Xperia Z2     Dimensions 146.8 x 73.3 x 8.2mm    Weight 163g   Screen size 5.2 inches   Screen resolution 1,920 x 1,080   Screen type Triluminos LCD with 16.7 million colors   Battery 3,200mAh Li-ion (non-removable)   Ruggedness IP55 and IP58 waterproof and dustproof   Internal storage 16GB (12GB free)   External storage MicroSDXC   Rear camera 20.7MP (1/2.3-inch sensor, f/2.0 lens with 27mm equiv. focal length)   Front-facing cam 2MP stills, 1080p video   Video capture 1080p, 4K   NFC Yes   Radios  HSPA+ (850/900/1700/1900/2100); GSM GPRS/EDGE (850/900/1800/1900); LTE (Bands 1, 2, 3, 4, 5, 7, 8, 13, 17, 20)
+
+    Bluetooth v4.0, aptX, A2DP   SoC Qualcomm Snapdragon 801 (MSM8974AB)   CPU 2.3GHz quad-core Krait 400   GPU Adreno 330   RAM 3GB   Entertainment MHL, USB OTG, WiFi Direct, DLNA, Miracast, FM radio   WiFi Dual-band, 802.11a/ac/b/g/n   Wireless Charging No   Operating system Android 4.4.2 (Sony-specific UI)  Something not mentioned in the table: The Z2 apparently has active noise-canceling, to reduce background hubbub when you're talking to someone through a headset. This only works with specific Sony headsets, and our review sample didn't come with one, so I didn't test the feature. Nevertheless, you may see some retailers bundling a pair of compatible earphones (the MDR-NC31EM). And they're worth a look, too, if only because they're worth £30 ($50) as a standalone purchase.
+
+More usefully, Sony has also made room for stereo speakers. These are still a bit tinny compared to HTC's BoomSound, but they're infinitely better than the single speaker on the Z1. The old model's speaker was easily blocked by the palm of your hand when the device was held in landscape mode, but now, the speakers are forward-facing and very hard to block -- a big tick for Sony.
+
+Display
+If any of the above paragraphs left you glum, it's OK -- things mostly get more positive from here on out, and this section is perhaps the most glowing of the lot. The dodgy display that prevented me from wholeheartedly recommending the Z1 has been replaced by something infinitely better: an entirely new, enlarged 1080p panel that has much better brightness, contrast and viewing angles. The difference is obvious and totally welcome, but as a result the Z2's "Triluminos" display is also a bit less Sony-ish.
+
+This is a manufacturer that has historically trodden its own path with respect to displays, to the point where Sony TVs and, to some extent, Sony phones, have forsaken deep black levels and vivid colors preferred by the likes of Samsung in favor of more detail and more natural color reproduction. With the Z2, however, it looks like Sony has seen a commercial need to deliver something more akin to its rivals and more familiar to potential buyers. I know a couple of people (just one, actually) who really liked the Z1's display and who might be annoyed by this change of heart, but to my eyes it's all good. We're now looking at a display that is at least on a par with other top-end LCD panels.
+
+A couple of notes about setting up the display: Colors tend to be a bit warm, but you can adjust white balance and add a touch of blue in the settings -- a tweak that I tried and then decided to keep. I also permanently disabled Sony's "X-Reality for mobile" engine, because this post-processing effect has gone too far: It makes things look unnaturally saturated, and it also makes 1080p movies look pixelated due to over-zealous edge sharpening.
+
+Software
+When you first boot up the phone, you'll be confronted by Sony's typical array of media and social feed widgets, which I reckon many users will remove as they begin to personalize the device. By the time you're done tailoring (perhaps by switching out the stock keyboard for something better, and losing the swirly PlayStation-style animated wallpaper), Sony's skin and various additions shouldn't get in your way.
+
+Nevertheless, the manufacturer does leave some residue on your Android experience, and it has to be said that this lingering aesthetic feels dated. Whereas HTC and even Samsung have recently tarted up their skins, and Apple has made the stark shift to iOS 7, Sony's icons, fonts and layouts feel like they're stuck in 2012.
+
+Accessing settings is also a bit old-fashioned: You have to open the notifications pulldown, select "quick settings" and then make do with basic toggles, which means most settings (like brightness or selecting a WiFi network) then take a couple more taps before you actually make the desired change. Stock Android, HTC Sense and TouchWiz all handle these mundane things with fewer presses.
+
+
+
+
+

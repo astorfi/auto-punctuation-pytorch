@@ -1,0 +1,15 @@
+
+It apparently wasn't big enough to garner a mention earlier today, but Google has now followed up its slew of I/O keynote announcements with the news that it's moving Google TV to the latest versions of Android (that'd be 4.2.2) and Chrome. What's more, it also says that it's "refactored" Google TV so that its OEMs can update their devices to future versions of Android faster than they're currently able to -- in a "matter of weeks rather than months," according to Google. Likewise, Chrome for Google TV will now be on the same six week upgrade cycle as its desktop counterpart going forward, and it'll also now come with support for hardware-based content protection.
+
+
+As for those with existing Google TV devices, though, the company's only saying that they can expect to see updates in the "coming months." We've yet to hear from most Google TV manufacturers themselves yet, but LG has chimed in to say that it will be updating its devices to Jelly Bean sometime in the third quarter of this year. You can get a look at what the update will bring in the video after the break showing off high performance apps enabled by NDK support, and an LG remote control app that has two-handed control for games and updates reflecting the action on-screen.
+
+
+Update: Some have asked what this means for the future of Flash on Google TV. We've confirmed with Google that this does mean the end of Flash on Google TV since it's no longer supported on the newer versions of Android, and the build that was in Google TV was already out of date. The update will bring more enhancements to HTML5 streaming and interactive content -- hopefully the sites some users frequent will expand their technology platforms just as quickly.
+
+
+
+
+
+
+ 

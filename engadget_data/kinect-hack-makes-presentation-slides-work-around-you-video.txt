@@ -1,0 +1,9 @@
+
+ 
+
+
+	What's the scariest thing about presentations? Getting the perfect angle. You know, the point on stage where you can wave at your slides without blocking the projector bulb or your audience's view. Thankfully, Haruki Maeda from Meiji University is gonna show your text and graphics who's the boss. He's knocked up presentation software that can sense where you stand and orders the text into the visible space around you. Transitions are handled with gestures and you can even pinch-to-zoom live on stage. If you'd guessed there was some Kinect magic at the heart of it, well, thanks for reading the title. The modest Mr. Maeda says all it took was some C#, the Kinect SDK and an Excel spreadsheet to get this beauty working. You don't even need to do that if you're curious yourself -- just go and watch the video we've got after the break.
+ 
+
+  
+ 

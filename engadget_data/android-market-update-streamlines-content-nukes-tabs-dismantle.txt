@@ -1,0 +1,12 @@
+
+ 
+Updates have been coming fast and furious to Google's Android Market for a couple weeks now, but this is the biggest shift yet -- that rusty tab-based interface is out, replaced with a rotating carousel of downloadable content, and a single scrolling pane of info for each and every app. What's more, it seems that Mountain View has heard the cries of game companies in particular, as it's got a couple of very special changes largely targeted at them -- the size cap on individual apps has been upped to 50MB, and Android Market's famous 24-hour return policy is no more. You'll still have 15 minutes to decide whether you want a piece of software or prefer a refund, perhaps long enough to give it a basic test, but there's no longer enough time to finish a game in one sitting before slyly giving it a pass. There's also a number of behind-the-scenes changes that should help make sure you only see apps your device can actually run, based on screen size, pixel density and OpenGL support. Google's pushing the update to every Android 1.6-and-above device over the next couple of weeks, so you can expect your app purchasing world to turn upside-down in time for Christmas cheer.
+
+Update: There are also two new categories being added: widgets and live wallpapers.
+
+Update 2: Of course, no self-respecting hacker waits for an OTA to get what they can sideload right now, and so XDA-developers is now distributing the new Android Market APK -- we'd suggest you give it a try too, but we're hearing that some folks are having difficulty downloading apps at all after the update. Still, the folks at Android Police seem to have it working, and have taken a host of screenshots of the interface. Go give them a peek at our more coverage link.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+We love the smell of silicon in the morning -- especially when it emanates from one of Intel's legendary leaked roadmaps. Today, we've stumbled across one with specs for Chipzilla's entire fall collection of mobile chips, and a couple new details about that desiccated overpass the execs keep talking about. First up, it appears sources were spot-on about the Core i7s and Core i5s we heard about last week, but the 2.66GHz / 3.33 GHz Core i5-580M won't be the only dual-core CPU to look for in Q4; it will be sandwiched between the 2.8GHz Core i7-640M (which turbos to 3.46GHz) and the 2.66GHz / 3.2GHz Core i5-560M -- all of which peak at a conservative 35 watts.
+
+True juice sippers will want a 15W CULV, however, and it seems more of those exist than Intel initially let on; Q4 will see a high-end Core i7-680UM that starts at 1.46GHz and turbos up to 2.53GHz and a 1.33GHz / 2.13GHz Core i5-560UM, plus a 25W 2.26GHz Core i7-660LM low-voltage chip will also join the fray. All these new dual-cores will have on-die Intel HD Graphics in one form or another, but all are also stopgaps until Intel's 32nm "Huron River" platform debuts in the first quarter of 2011. Then, we'll get WiMAX, WiDi and Intel Bluetooth alongside an intriguing new concept dubbed Zero Power ODD, which promises a power-saving sleep mode for our noisy optical disc drives (see more coverage link) and the promise of enough battery life to play two full Blu-rays on a single charge. Don't believe us? See the slides below for more. 
+
+
+
+

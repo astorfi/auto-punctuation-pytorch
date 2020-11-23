@@ -1,0 +1,6 @@
+
+ 
+Here's a little something OCZ Technology cooked up just for CeBIT: a PCIe enclosure that'll contain 1TB worth of SSD storage with maximum read rates of up to 600MB/sec and maximum write speeds of up to 500MB/sec. Oh, and the sustained write speeds are right around 400MB/sec. Essentially, this device will contain four 256GB MLC-based OCZ SSDs along with 256MB of ECC DDR2 RAM; when slapped in one's desktop, they can choose to set it up as the boot disk or a slave. OCZ is also hoping to offer a 4TB edition by the end of the year, which is totally plausible given that 1TB SSDs are already a reality. The on-hand demo was just a mockup shell, but the finalized version shouldn't look much different than what's pictured in the gallery below. As for pricing and availability? It should hit the US of A in around six weeks for somewhere between $1,500 and $2,000. It's high-end, y'all.
+
+
+

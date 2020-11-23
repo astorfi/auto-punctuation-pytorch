@@ -1,0 +1,6 @@
+
+ 
+Look out, Intel -- the whole world's gunning for you, with both VIA (possibly, anyway) and now Freescale looking to snag a sliver of the netbook CPU pie. Reportedly, the latter company will be debuting a netbook-centric chip at CES this week from its i.MX line. More specifically, the i.MX515 -- which is based on the Cortex-A8 core from ARM -- will aim for miniature laptops that sit at or below the almost mythical $199 price point. It's being reported that Freescale will showcase a Pegatron (ASUS spinoff) built netbook in Vegas, though it's not clear just yet if similar models will actually be available for purchase in the near future. The real kicker, however, is the potential battery life of machines with this here chip installed -- we're talking up to eight hours, though there's no indication of what size battery pack would be required to reach that goal. It should be noted that the low-power CPUs won't support Windows at all, so you'll only see 'em within machines with Linux-based operating systems. [Via PC World]
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ So... that happened. Google Wave might be considered a success, if you value the insights gleaned from developing the platform, knowledge that will inform the company's many other products and services for some time to come. Then again, if your measure of success is a product that lasts for longer than fifteen months (more or less) before flatlining, Wave is probably a bit of a disappointment. And if you had invested some of your company's time or effort into the platform? Well, there is good news for you: Apache is hard at work on something called Wave in a Box, a server for hosting and federating waves -- either new waves or those exported from Google's service. The project is still in its early stages, but there is more than enough for the sysadmin who's crazy about online collaboration. Hit the source link to get started.
+      
+
+ 

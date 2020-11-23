@@ -1,0 +1,6 @@
+
+
+ Sure, Nike+ will track your gait and help you tell your friends just how that couch-to-2K training is working for ya, but wouldn't it be nice if it your shoes were smarter? That's partly what Murata is enabling with its Walking Measurement System, on display at CEATEC 2012. It's a piezoelectric sensor that sits in the sole of your shoe and detects pressure at different points. The readings from this sensor, transmitted over low-power Bluetooth 4.0, could enable a number of applications including precise shoe fitting for runners, posture detection for dancers and even golf swing analysis for duffers. Murata had this built into a lovely pink Asics sneaker that was a bit too small for us to try on, but we did try squeezing another sensor that fed its data in real-time to an app running on iPhone. Cool concept? For sure, but for now it's just that and nothing more.
+
+
+

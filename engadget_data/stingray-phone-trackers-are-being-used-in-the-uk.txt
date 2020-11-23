@@ -1,0 +1,11 @@
+
+
+Sky News has found evidence that StingRays -- those fake cell towers American cops are so fond of -- are in active use in the UK. The news organization ran software made by a German security company to scour for StingRays currently being used London and found 20 instances within just three weeks. Eric King of Privacy International told Sky News that this is the first time "it's been shown that they're being deployed in the UK," though the watchdog organization already knew that authorities have been relying on them for years. In fact, The Guardian reported back in 2011 that the London Metropolitan Police purchased "information and communications hardware" for surveillance as far back as 2008 and 2009. The Times confirmed their existence within the country, as well, just last year.
+
+
+
+StingRays are small boxy devices that can mimic the signals sent out by cell towers. Since phones are designed to automatically connect to the nearest and/or strongest tower, mobile devices tend to link to StingRays in places where they've been deployed. Once connected, the surveillance box can collect various data, such devices' identifying information, subscriber names, phone numbers, call times and duration, among other things. Yes, it connects to almost every phone in an area where it's stationed and collects data from all of them. More advanced StingRays can even listen in on conversations or see text messages.
+
+According to Privacy International, the devices are deployed in the UK under Police Act 1997 Part III, which regulates the installation of bugs in a target's home. That particular police act has nothing to do with mobile phone interference, which means it's impossible to tell how many times law enforcement approved StingRay use in the country. The London police also refuses to directly admit that it's been using StingRays for years. When asked about it, Met commissioner Bernard Hogan-Howe told the Sky News: "We're not going to talk about it, because the only people who benefit are the other side, and I see no reason in giving away that sort of thing."
+
+

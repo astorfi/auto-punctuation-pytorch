@@ -1,0 +1,8 @@
+
+ 
+If you thought the lack of root on the Atrix 4G was going to save you a couple hundred bucks next week... well, we hate to break the bad news, but you're going to need to find another excuse not to buy it (more on that in a second). Long story short, the phone's already been rooted by a gentleman over on the ever-resourceful xda-developers forums, which means you can do all the normal things that require root access like enabling the standard Froyo mobile hotspot feature, using root apps like Titanium Backup (pictured above), and generally looking 1337 compared to your friends locked up in their walled gardens. Now, the bad news: the bootloader remains firmly locked and presumably encrypted given Moto's track record, so custom kernels are still just a dream -- but hey, where there's a will, there's a way. Keep the faith!
+
+[Thanks to everyone who sent this in]
+      
+
+ 

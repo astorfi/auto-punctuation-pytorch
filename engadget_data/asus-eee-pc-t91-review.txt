@@ -1,0 +1,34 @@
+
+
+ We've had our eye on ASUS' first full touchscreen tablet netbook, the Eee PC T91, since way back in January, when the hardware was on display while the software had yet to appear. Since then, we've seen quite a lot of the T91, and now it's finally making its way onto the US retail market. We've spent the last few days giving it the once over, to see how this netbook -- which is a true departure for ASUS -- stacks up. Touchscreen tablets have been, in many ways, an oft-repeated mix of excitement and disappointment -- great ideas coupled with mediocre hardware, or nice-looking hardware coupled with bad implementation of the touchscreen. Has ASUS managed to sidestep these issues with its own tablet PC? Read on for our impressions.
+
+
+
+
+
+ 
+ Hardware and specifications Physically, the T91 is a pretty attractive, compact little machine. It weighs in at two pounds with its lithium polymer battery, and, at just an inch thick -- is very, very slim. The LCD, which swivels to the left, moves quite smoothly, and feels very sturdy in the hand. The act of swiveling the screen into tablet formation is smooth and without any feeling of instability.
+
+ The Eee PC T91 is an 8.9-incher, which means you'll have a small keyboard even by many netbook standards. That said, it is surprisingly easy to type on this one. It's got a nice clickiness, and while it is certainly compact, it does not feel cramped, and we really didn't experience more mis-typing than average -- which was, to be honest, a pleasant surprise. The trackpad is responsive and on par with other netbook pads, though we found it somewhat less to our liking than that of the Eee PC Seashell line's dimpled ones. The backlit LED resistive touch panel is quite bright and nice looking -- though it's also very glossy and fingerprint-prone. The netbook boasts a VGA, two USB, and two audio ports, and it's got a power button right on the left bottom edge of the screen. Directly to the right of the power button is another button on the bezel, which is one of the ways to activate the touch interface. The T91 also has an expandable stylus housed under the right bottom side of the chasis.
+
+ Spec-wise, the Eee PC T91 has a 1.33GHz Intel Atom Z520 CPU, and if you're accustomed to a more standard netbook configuration with an N270 or N280, you'll definitely feel the difference. It also has 1GB of RAM, Intel GMA500 graphics, a 16GB SSD and a lithium polymer battery rated for about 5 hours of juice. In practice, we got nearly four hours of use. Other than that, it's also got 802.11 B/G/N Wi-Fi, 10/100Mbps Ethernet, and Bluetooth 2.1+EDR.
+
+ 
+ Software and performance The T91 has an easy, 9-point calibration process to get the touchscreen properly responsive. ASUS has also loaded the T91 with some custom-built software -- namely the Touch Gate interface. From the regular XP desktop, you can activate the touchscreen interface three ways -- via the icon on the desktop, the slider icon at the top of the desktop, or that physical button to the right of the power toggle we mentioned earlier.
+
+ 
+ Hitting any of those brings up the Touch Gate main interface -- which is essentially a very simple row of icons that can be rearranged in any order -- with up to five icons in the mail row, and others behind it. For now, there is a limited amount of icons on the list -- preferences, and four custom-built apps -- Fotofun, Memos, Notepad, and Internet Explorer with Touch Capability. We should say that we find the interface to be really clean and pleasing to look at, and the applications are pretty elegantly designed.
+
+ 
+ Notepad and Memos are pretty self explanatory, and also exceedingly simple. There aren't a lot of bells and whistles -- but the apps work, and we actually found the experience of using the stylus to write a Memo for our desktop to be a natural one -- and one that we could really see being useful to a child or young person. The touchscreen is pretty responsive and calibrated to both stylus and fingertip, so we found most of our simple notes to rather reflect our actual handwriting... though it did take a little getting used to. We found that we were most comfortable using it as it's intended -- on our lap or tabletop -- swiveled into a tablet, creating a much more natural and comfy environment for "writing," though you can't allow your palm to rest on or swipe the tablet -- it will register that. This happened to us a few times, and it can be annoying.
+
+ 
+ Notepad is an only slightly more complex version of Memos, allowing for more detailed notes -- and the use of the virtual keyboard ASUS has on offer. We found the virtual keyboard to be slightly frustrating -- though it's well-designed, the individual "keys" are a bit small, and we mis-typed a lot. We didn't spend hours working at our virtual typing skills, so it's very possible (and probably likely) that we'd improve over time. The keyboard (which is a necessity in Internet Explorer) is good enough for short text entries, but longer ones can be annoying. Still, though you probably wouldn't be spending a lot of time typing in a tablet situation, we did find that the kinks in a resistive touchscreen / virtual keyboard situation have not been fully ironed out in the T91. Finally, Fotofun is a very simple tool for making and viewing photo albums.
+
+ 
+ If you flick your finger to the left in the Touch Gate interface, you'll pull up a new screen -- the Widget screen -- which does exactly what you'd think it does. The T91 comes with several pre-installed Yahoo! Widgets (and can be customized) -- and you can flick your fingers across the screen to return to the Touch interface or Windows XP. When using the T91, we did find that occasionally flipping between the Widget screen and XP would result in a mess of non-functioning widgets on the XP desktop for a few moments before they disappeared. In fact, there seems to be some slight bugs in the switching of these applications in general -- though we never experienced a crash -- several times the T91 lagged a bit in switching between screens, as if it was confused where to go next -- which seemed to us not so much a processor issue as a software one.
+
+ 
+ Wrap up Overall, the software included with the T91 is really nicely designed, and operates pretty much as advertised. There are limitations to the CPU and the resistive touchscreen -- we had to move a bit slower than we liked or our touches didn't always get recognized -- but the touch interface also functions better than we expected. Overall, the Eee PC T91 is a product we'd have a hard time justifying the purchase of -- because the custom apps aren't that useful, but they are kind of fun, and we hope future iterations will improve upon the things we really like about it. At $499, the T91 isn't super cheap, either, but if you really want a tablet, it's worth checking out -- especially if, like us, you also feel the need for a keyboard.
+
+

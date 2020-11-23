@@ -1,0 +1,9 @@
+
+Oh, Android 4.3, why must you tease us so? The new version of Jelly Bean's been making cameos all over the place for a couple months now, so it was only a matter of time until we'd see a build available for download. A working TWRP backup of Android 4.3 just popped up on XDA Developers thanks to Google+ user Jeff Williams, who recently purchased a Nexus 4 running the new version of Jelly Bean. Some industrious folks were then able to extract a system dump from Jeff's phone (minus radio and bootloader, according to Android Police) and confirm that the build (JWR66N) is legitimate. Our friend Paul O'Brien over at MoDaCo is currently testing the TWRP backup. We'll keep you updated as we find out more, but one thing's abundantly clear: it won't be long before Android 4.3 becomes official.
+
+
+
+
+
+
+ 

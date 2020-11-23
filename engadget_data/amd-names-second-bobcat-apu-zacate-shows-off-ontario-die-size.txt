@@ -1,0 +1,9 @@
+
+ 
+AMD might still have no actual Fusion product to sell us, but it's added a fresh new codename to the stable of future CPU/GPU hybrids. The Zacate Accelerated Processing Unit is a Bobcat derivative, much like the Ontario, but it operates at a higher TDP of 18W and is intended for ultrathin and mainstream laptops along with power-sipping desktops and all-in-ones. Both it and the Ontario APU will offer two Bobcat cores allied to Radeon graphics capable of performing DirectX 11 instructions, though the Ontario dips all the way down to 9W with the stated aim of punching up netbook and small form factor pc performance. Just for reference, that'll have to compete against Intel's own dual-core solution, the 1.5GHz Atom N550, which scrapes by on just an 8.5W TDP... though, of course, it doesn't integrate the same graphics processing prowess that Ontario promises. The two chips, Ontario and Zacate, will ride AMD's Brazos platform when they finally debut early next year. Until then, enjoy the technicolor die shot after the break.
+      
+
+ 
+
+
+ 

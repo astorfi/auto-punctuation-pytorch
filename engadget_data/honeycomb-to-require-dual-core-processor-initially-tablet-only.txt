@@ -1,0 +1,10 @@
+
+ 
+Often when you hear minimum spec doom and gloom, it proves to be wildly inaccurate, or only part of the picture. This time, however, it's worth a closer look. PC Magazine's Sascha Segan is confidently citing the director of Enspert, a Korean consumer electronics company (which recently announced its own Android tablet), who claims that Honeycomb will require a dual-core ARM Cortex-A9 processor. He's also confident that Motorola's tablet will be the first device to market with the new version of Android, and his other minimum specs line up with the idea of Honeycomb being initially a tablet-only release. Apparently 1280 x 720 is going to be the minimum resolution, with screen sizes "as small as" 7-inches, though it sounds like 10-inches could be the default. These specs seem to clearly leave out Galaxy Tab, along with anything else on the market or soon to arrive that doesn't have a Tegra 2 chip. It also makes sense that the Galaxy Tab 2 is going to be using Tegra 2 -- Samsung clearly won't be deterred.
+
+And how about phones for Honeycomb? The picture is decidedly murkier, other than the fact that we could see a temporary splintering of the platform while tablets show off their new Honeycomb digs, with enough battery to back up that dual-core proc. Of course, dual-core handsets are right around the corner, so we doubt handsets will be without Honeycomb for long -- Google should know which side its bread is buttered on. There's also the possibility that this Enspert source is only talking tablets, and phones (which are required to push way fewer pixels, and have much stricter battery requirements) will get a pass on the dual-core requirement altogether. No matter what, you should settle in for a year of entertainment as Google continues to iterate its wildly successful operating system, and manufacturers strain to keep up.
+
+[Thanks, Jason]
+      
+
+ 

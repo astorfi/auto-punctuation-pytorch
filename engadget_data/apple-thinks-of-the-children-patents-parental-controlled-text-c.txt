@@ -1,0 +1,6 @@
+
+ 
+US patent 7814163 has been granted to Apple under the title "Text-based communication control for personal communication device." It describes the ability to control content sent and received from an "administered device" as defined by a parental control application. If objectionable content is detected based on a table of words stored locally on the device, the content can either be removed or the message blocked entirely. It can also enforce a designated language for children who, for example, are required to practice a foreign language. Note that the controlled content is limited to text, so it won't stop naughty Kin owners from foolish behavior, like, well, buying a Kin.
+      
+
+ 

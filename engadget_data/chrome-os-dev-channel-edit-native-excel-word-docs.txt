@@ -1,0 +1,7 @@
+
+Chrome OS hardware continues to proliferate, and on the software front, Google continues to add features to the platform in the hopes of persuading more folks to exit the traditional PC paradigm. Today marks a significant step in achieving that latter goal, as the dev channel of Chrome OS has received the ability to edit Excel and Word files thanks to Quickoffice integration. While it's not ready for public consumption just yet, it shows that Google's getting close to fulfilling its promise to deliver native doc editing to the Pixel and other Chromebooks.
+
+
+Should you be among those on the dev channel of Chrome OS, you can enable the functionality now by going to chrome://flags, enabling document editing and restarting your machine. According to developer François Beaufort -- the man who discovered the functionality -- editing's still a glitchy process, but the more folks that use the feature now, the faster the problems can be found and fixed. The power of productivity is in your hands, people, so get cracking squashing those bugs!
+
+

@@ -1,0 +1,6 @@
+
+ 
+
+
+	Now that they've finished building a robot capable of making cakes, MIT's researchers can get on with the serious business of improving our wireless security. In a new study it reveals a technique dubbed tamper-evident pairing that stops so-called man-in-the-middle attacks. Put simply, a hacker intercepts your wireless communications, reads it and passes it onto the recipient, pretending to be you. Because the hacker controls the flow of information between the two parties, it's difficult to detect. MIT's process randomizes and encrypts the data with silence patterns and strings of additional information, which a hacker won't be able to replicate. The best part is that the added security measures only add 23 milliseconds of time onto each transmission. As fixing our wireless security problems is now out the door, the team are probably off to solve some more giant Rubik's cubes.
+ 

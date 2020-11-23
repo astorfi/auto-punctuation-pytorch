@@ -1,0 +1,4 @@
+
+Google's latest update to Play Services should keep its mobile OS developers busy for a bit, particularly if they're making games. Android's SDK now has asynchronous multiplayer baked in, the kind of turn-based system that makes playing Words With Friends with distant pals possible. The update also features a developer preview of the new Google Drive API, better auto-complete options when sharing to Google+, and fixes the battery-draining bug that affected some Android 4.4 KitKat devices. Thrilling updates? Not quite, but it's good to see Google investing in its budding games services.
+
+

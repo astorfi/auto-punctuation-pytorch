@@ -1,0 +1,12 @@
+
+
+
+The retail version of the Oculus Rift finally has a confirmed release window of early 2016, meaning virtual reality fans have just less than a year to create their ideal gaming environments. A crucial part of any VR setup is the rig powering the headset, and Oculus today released its recommended, minimum PC specs, including an NVIDIA GTX 970 or AMD 290 video card, an Intel i5-4590 processor, 8GB RAM and Windows 7. Check out the full PC recommendations below. Meanwhile, Oculus has "paused" development for OS X and Linux systems "in order to focus on delivering a high-quality consumer-level VR experience at launch across hardware, software and content on Windows," Chief Architect Atman Binstock writes. Oculus doesn't have a timeline for jumping back into Mac and Linux development.
+
+
+
+Regarding the PC specs, Binstock offers the following context: "Given the challenges around VR graphics performance, the Rift will have a recommended specification to ensure that developers can optimize for a known hardware configuration, which ensures a better player experience of comfortable sustained presence. ... This configuration will be held for the lifetime of the Rift and should drop in price over time."
+
+Here is Oculus' full PC recommendation:
+
+ NVIDIA GTX 970 / AMD 290 equivalent or greater Intel i5-4590 equivalent or greater 8GB+ RAM Windows 7 SP1 or newer 2x USB 3.0 ports HDMI 1.3 video output supporting a 297MHz clock via a direct output architecture

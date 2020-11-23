@@ -1,0 +1,5 @@
+
+       Here we are almost two years with Blu-ray and we still don't have the perfect player. Sure, the PS3 is going to finally get DTS-HD support, but it still can't bitstream the latest codecs and it still need a gizmo to use with an universal remote. There are some nicely equipped stand-alone players, but none that support BD Live yet. This only leaves HTPC software, which with the most recent updates supports BD Live and the next-gen codecs, or do they? As always, the devil is in the details and in the case of trying to enjoy TrueHD or DTS-HD on a PC, it's a pretty big devil. You see while the latest versions support both next-gen codecs, because of the lack of a protected audio path in Windows, the audio gets down sampled. As you might expect this still ends up sounding better than we're used to, but it's by no means lossless. Like just about all the limitations of Blu-ray, it's a temporary problem -- in fact the required hardware is expected in the second quarter of '08. The cool part is that you'll have the option to either decode in the PC or in your AV/R. The bad part is that you'll have to upgrade your sound card and playback software.
+      
+
+ 

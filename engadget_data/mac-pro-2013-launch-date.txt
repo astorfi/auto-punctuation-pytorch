@@ -1,0 +1,52 @@
+
+Apple's latest Mac Pro rolls off United States assembly lines and into consumers hands in December for $3,000. The base model features a 3.7GHz quad-core Xeon CPU ("with Turbo Boost speeds up to 3.9 GHz"), 12GB DRAM, two AMD FirePro D300 GPUs, and a 256GB SSD. Apple senior VP of worldwide marketing Phil Schiller announced as much during an event this morning on the company's Cupertino, CA. campus, where he went into some finer details about the upcoming cylindrical computer.
+
+
+For one, the machine starts at the above configuration, but expands to 64GB DRAM and 1TB flash storage. Should you prefer the whole cloth route, there's a $4,000 option with a 3.5 GHz 6-core Intel Xeon E5 processor ("with Turbo Boost speeds up to 3.9 GHz"), dual AMD FirePro D500 GPUs with 3GB of VRAM each, 16GB of memory, and 256GB of PCIe-based flash storage. Considering Apple's touting this as the computer you'll have for "the next 10 years," perhaps some expansion beyond the base model is worth a thought. The machine is apparently as quiet as a Mac Mini -- perhaps owing to its single fan design -- and leaves a light carbon footprint as well (it uses 70 percent less energy than the previous generation Mac Pro, Schiller said).
+
+
+As promised, the new Mac Pro is being assembled and designed in the United States. Schiller ended today's Mac Pro section of the talk with a video showing the new machine in production in American factories. We've got our own video for you just beyond the break going eyes-on with the new Mac Pro back at WWDC 2013 if you'd like to join us!
+
+
+
+
+
+Show full PR textSAN FRANCISCO--(BUSINESS WIRE)--Apple® today redefined pro computing with the launch of the all-new Mac Pro®. Designed around an innovative unified thermal core, the Mac Pro features the latest Intel Xeon processors with up to 12 cores, dual workstation-class GPUs, six Thunderbolt 2 ports, PCIe-based flash storage and ultra-fast ECC memory. Packing amazing performance in a stunning new design, the all-new Mac Pro starts at $2,999 (US) and will be available in December.
+
+"The new Mac Pro is our vision for the future of the pro desktop, everything about it has been reimagined and there has never been anything like it"
+
+"The new Mac Pro is our vision for the future of the pro desktop, everything about it has been reimagined and there has never been anything like it," said Philip Schiller, Apple's senior vice president of Worldwide Marketing. "The new Mac Pro packs up to 12-core Xeon CPUs, dual FirePro GPUs, ultra-fast ECC memory, new PCIe flash storage, Thunderbolt 2 expandability and more into a radical new design that is one-eighth the size of the previous generation Mac Pro."
+
+"From the blazing fast performance of DaVinci Resolve to real-time video capture with UltraStudio 4K, Mac Pro is a revolution in pro desktop design and performance," said Grant Petty, CEO of Blackmagic Design.
+
+"With the Mac Pro's dual workstation-class GPUs, we've seen MARI run five times faster, creating a fluid painting experience that's unlike anything we've seen. This kind of performance is a digital artist's dream," said Bill Collis, CEO of The Foundry.
+
+"At 20Gbps, Mac Pro's Thunderbolt 2 blows away anything on the market and completely changes the external storage landscape," said James Lee, CEO of PROMISE Technology.
+
+The all-new Mac Pro is architected around a unified thermal core that allows the system to efficiently share thermal capacity across all the processors. An innovative fan draws in air incredibly efficiently and makes the new Mac Pro as quiet as a Mac® mini. The result is a pro desktop with unprecedented performance packed into a design that is just 9.9-inches tall and one-eighth the volume of the previous Mac Pro.
+
+Reinvented from the inside out, Mac Pro is designed to tackle even the most demanding workflows. The new Mac Pro features 4-core, 6-core, 8-core or 12-core Intel Xeon processors running at Turbo Boost speeds up to 3.9 GHz that deliver double the floating point performance of the previous generation Mac Pro. Two workstation-class AMD FirePro GPUs with up to 12GB of video memory provide up to seven teraflops of compute power and up to eight times the graphics performance of the previous generation Mac Pro.* OpenGL and OpenCL are optimized in OS X® Mavericks to leverage the full computing power of the Mac Pro CPU and dual GPUs.
+
+The new Mac Pro features PCIe-based flash storage that delivers sequential read speeds up to 1.2GBps and is up to 10 times faster than conventional desktop hard drives. ECC DDR3 running at 1866 MHz, with a four-channel memory controller, gives the new Mac Pro up to 60GBps of memory bandwidth, twice that of the previous generation Mac Pro.* The spectacular power and bandwidth of Mac Pro means you can seamlessly edit full-resolution 4K video streams and play them in real time.
+
+Featuring an incredible six Thunderbolt 2 ports, each with up to 20Gbps of bandwidth per device, the all-new Mac Pro completely redefines desktop expandability. Thunderbolt 2 ports support up to six daisy-chained devices each, giving pros the ability to connect up to 36 high-performance peripherals-from external storage devices, to multiple PCI expansion chassis, to audio and video breakout boxes. Thunderbolt 2 uses existing copper or optical Thunderbolt cables and is completely backward compatible with existing Thunderbolt peripherals and cables, and also supports the latest 4K displays. A new self-configuring IP over Thunderbolt software feature in OS X Mavericks provides a fast link between Thunderbolt-enabled Macs.
+
+The new Mac Pro provides unparalleled power for Apple's professional apps, including Final Cut Pro® X, Logic® Pro X and Aperture®. Final Cut Pro X has been optimized to support dual GPUs for improved real-time playback performance, faster rendering, quicker export, and 4K video monitoring through Thunderbolt 2 and HDMI. Flash storage makes importing and exporting thousands of high-resolution images faster with Aperture. Logic Pro X takes advantage of flash storage for incredibly fast project load times and Thunderbolt 2 for a high number of channels of ultra-low latency audio I/O without the need for add-on PCI cards.
+
+The new Mac Pro ships with OS X Mavericks. Mavericks is the 10th major release of the world's most advanced operating system and is available for free from the Mac App Store℠. In addition to more than 200 new features, Mavericks introduces features for power users including Finder® Tabs, Tags and enhanced multi-display support, as well as new core technologies for breakthrough performance such as Compressed Memory to keep your Mac fast and responsive. Mavericks also delivers significant performance enhancements for systems with dual GPUs through optimized OpenGL and OpenCL. For more information or to download Mavericks visit www.apple.com/osx/.
+
+Mac Pro meets stringent Energy Star 6.0 requirements and achieves an EPEAT Gold rating.** Mac Pro uses up to 70 percent less energy than the previous generation, is constructed with 79 percent less aluminum and uses 80 percent less packaging material than the current Mac Pro. Mac Pro contains no brominated flame retardants, is PVC-free and uses highly recyclable materials and features material-efficient system and packaging designs.
+
+Pricing & Availability
+
+The all-new Mac Pro will be available in December through the Apple Online Store (www.apple.com), Apple's retail stores and select Apple Authorized Resellers. The Mac Pro is available with a 3.7 GHz quad-core Intel Xeon E5 processor with Turbo Boost speeds up to 3.9 GHz, dual AMD FirePro D300 GPUs with 2GB of VRAM each, 12GB of memory, and 256GB of PCIe-based flash storage starting at $2,999 (US); and with a 3.5 GHz 6-core Intel Xeon E5 processor with Turbo Boost speeds up to 3.9 GHz, dual AMD FirePro D500 GPUs with 3GB of VRAM each, 16GB of memory, and 256GB of PCIe-based flash storage starting at $3,999 (US).
+
+Configure-to-order options include faster 8-core or 12-core Intel Xeon E5 processors, AMD FirePro D700 GPUs with 6GB of VRAM, up to 64GB of memory, and up to 1TB of PCIe-based flash storage. Additional technical specifications, configure-to-order options and accessories are available online at www.apple.com/mac-pro.
+
+*Performance claims are based on technical specifications of preproduction Mac Pro hardware as of October 2013.
+
+**Claim based on energy efficiency categories and products listed within the EPA Energy Star 6.0 energy database as of October 2013. EPEAT is an independent organization that helps customers compare the environmental performance of notebooks and desktops. Products meeting all of the required criteria and at least 75 percent of the optional criteria are recognized as EPEAT Gold products. The EPEAT program was conceived by the US EPA and is based on IEEE 1680 standard for Environmental Assessment of Personal Computer Products. For more information visit www.epeat.net.
+
+Apple designs Macs, the best personal computers in the world, along with OS X, iLife, iWork and professional software. Apple leads the digital music revolution with its iPods and iTunes online store. Apple has reinvented the mobile phone with its revolutionary iPhone and App Store, and is defining the future of mobile media and computing devices with iPad.
+
+

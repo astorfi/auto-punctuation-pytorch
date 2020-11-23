@@ -1,0 +1,5 @@
+
+ It seems that folks hoping for the Apple's Camera Connection Kit to solve all their USB-related iPad problems just can't catch a break. First the kit was nearly impossible to find, and now we're seeing a slew of user reports saying that iOS 4.2 has made the USB portion of the camera kit nearly useless for many USB devices that were previously supported. As 9 to 5 Mac reports, the problem seems to boil down to the amount of power that can be emitted from the iPad's 30-pin connector -- it used to be 100mA, but iOS 4.2 appears to have cut that down to just 20mA, presumably in an attempt to conserve battery life. The big issue there, of course, is that everything from USB keyboards to microphones and even some cameras no longer work, and there isn't much for users left to do other than to hope that Apple brings back support in a future update. Feel free to share your own tales of woe in comments, or let us know if you're having problems with the iPad camera kit.
+      
+
+ 

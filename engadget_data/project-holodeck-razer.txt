@@ -1,0 +1,11 @@
+
+The group of folks bent on crafting a real-life version of Star Trek's "Holodeck" -- a virtual playground, essentially -- are getting official support from gaming hardware company Razer. That support means not only access to Razer's hardware but also the company's staff of trained professionals. The Project Holodeck team have already implemented Razer's "Hydra" -- a PC-based motion controller that originally shipped with Portal 2 -- into their work on Holodeck showcase game, "Wild Skies."
+
+
+But that's not the only big news for Project Holodeck, as the team recently swapped Microsoft's Kinect motion tech for Sony's PlayStation Move motion tech. Project lead James Iliff told RoadtoVR.com, "The Kinect hardware is extremely lacking in fidelity. Every point the Kinect tracks is filled with unmanageable jitter, rendering the data useless for anything other than the most simple of interactions. We tried very hard to get around this with several software algorithms we wrote, to get multiple Kinects to communicate with each other, however this did not really make anything more accurate unfortunately." In place of Kinect, the team strapped a PlayStation Move setup to a Pro-Tec skateboard helmet, and combined that tracking with the Hydra's motion control and Oculus Rift's head-mounted display. The result is ... well, it's a person standing in a room with a whole bunch of electronics attached to their person. But also, it allows players to interact in a 3D environment -- from perception to engagement. The team's still got plenty of work ahead of them, as evidenced by their latest video (below), but it sounds like things are coming together more cohesively than before.
+
+
+
+
+
+ 

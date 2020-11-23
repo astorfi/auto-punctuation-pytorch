@@ -1,0 +1,11 @@
+
+ 
+ Eagle-eyed readers might remember that Flipboard's long-awaited port to Android started with a fair amount of confusion; it showed up (seemingly at random) on Samsung's Galaxy S III, but soon after, we learned that it would only be available for that very phone over on the Android side of things. Recently, we uncovered the story of why, and what the company's planning for the future. Put simply, that "device diversity" that keeps developers on their toes is at the forefront of the issue here. For those unaware, Flipboard is quite the polished app over on iOS, and the outfit didn't want its product to offer a subpar experience on competing platforms. In order to gain a better grip on the app's appearance in the land of mobile desserts, it teamed up with Samsung to focus on a single screen, and a single screen resolution. Naturally, it's expecting a huge amount of GSIII shipments, so that's certainly not a bad device to start on. But in the effort of understanding Flipboard's future on Android, it's important to note that whole "start" phrase.
+
+ Turns out, the company's eerily close to having a build ready for the rest of the Android smartphone universe. But, smartly, it's planning to release it to a small subset of users with a clear 'beta' label. The idea here is to offer it up to savvy Android users who understand the art of sideloading an APK, giving them the tools to submit bug reports and help polish up Flipboard on the many, many variations of devices out there. Truth be told, we wish more app makers would give this approach a try. Tossing that 'beta' label on there keeps expectations in check, and allowing early adopters to chime in with bugs enables the final product to be that much more stable across a wide gamut of screen resolutions. We weren't able to nail down a specific launch date, but Android aficionados hoping to get a few flips in shouldn't have to wait too many more months before that beta offering is made public. In the meanwhile, there's always the renegade method -- but of course, we'd caution that you proceed at your own risk.
+
+ Update: It's here! Tips are pouring in from folks that have received an email from the Flipboard team with a direct link to the APK. If you haven't gotten the message yet, no worries, you can download it and sideload it yourself here.
+
+ [Thanks to everyone who sent this in]
+
+

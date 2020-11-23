@@ -1,0 +1,21 @@
+
+Haswell is hardly a secret at this point: there's been a steady drip-drip of demos and technical leaks since as far back as 2011, and just a month ago we brought you the low-down on its integrated graphics. But today, finally, we have official pricing for a number of variants, a concrete date for availability (this coming Tuesday, June 4th) and, perhaps most importantly, some detailed benchmark claims about what Haswell is capable of -- particularly in its mobile form.
+
+
+Sure, Intel already dominates in MacBooks, Ultrabooks (by definition) and in hybrids like Surface Pro, but the chip maker readily admits that the processors in those portable PCs were just cut-down desktop chips. Haswell is different, having been built from the ground up with Intel's North Cape prototype and other mobile form factors in mind. As a loose-lipped executive recently let slip, we can look forward to a 50 percent increase in battery life in the coming wave of devices, with no loss of performance. Read on and we'll discover how this is possible and what it could mean for the dream of all-day mobile computing.
+
+
+
+
+Mobile Haswell
+Although Intel has previously claimed a 10 hour battery life for North Cape, that figure isn't actually promoted in today's slide deck. Instead, we're told Haswell will provide up to 9.1 hours of HD video playback on an Ultrabook-class Core i7. Video playback isn't particularly processor intensive, but nonetheless this benchmark bodes well compared to what an Ivy Bridge machine can manage, and indeed it's said to be the "biggest battery life increase in Intel history."
+
+The above slide also hints at how this sort of gain is achieved: largely through a drop in power from 20W in Ivy Bridge (17W for the processor plus 3W for the chipset) down to 15W in Haswell (which now incorporates both components). Of course, these wattages are just upper limits, and the chip has plenty of scope to scale down further during easier tasks. A Haswell-based Ultrabook actually draws less than 6W during video playback, or two thirds that of an Ivy Bridge system. It also supports an ultra low-power standby state that can hold fresh data for up to 13 days, which is three times as long as Ivy Bridge, and it can wake from sleep mode in three seconds instead of seven.
+
+All of this should come alongside a 40 percent increase in graphics performance in Ultrabook-class machines with HD 5000 GPUs, which ought to make Tomb Raider playable at 1,366 x 768 and medium settings, and BioShock Infinite almost playable with a frame rate of 27fps. On the other hand, fatter Haswell laptops with higher wattages (above 28W) and Iris-branded GPUs should see more of an improvement over the last generation, of up to 2x.
+
+Desktop Haswell
+You can blame us for neglecting the desktop components up until now, but hey -- Intel started it. You have to scroll some way through the presentation before you get to concrete desktop info, so we've split off those slides into the gallery below.
+
+
+

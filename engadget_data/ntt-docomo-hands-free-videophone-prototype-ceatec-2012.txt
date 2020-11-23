@@ -1,0 +1,12 @@
+
+ In a sort of reverse-Project Glass, one of DoCoMo's latest prototypes flips its cameras back at the wearer. This hands-free videophone headset ties together seven separate cameras, each recording 720p video from wide-angle lenses. Aside from the single camera pointing behind the user (and beaming the background image), the rest of them point at the users' face, recording different quadrants. These are then composited together, creating a three-dimensional avatar of the user that's then broadcasted to the other caller. The model then nods, blinks, and moves -- all based on the camera footage -- all in real-time.
+
+ In its current guise, the bottom half of the face is still composed from high resolution stills captured beforehand, but the program is able to animate the mouth based on the words and tones that the built-in mic picks up. NTT DoCoMo had some lighter, slight less clunky, future prototypes on show, and suggested that the headset could have medical applications, embedding further sensors that could gauge blood pressure, pulse and temperature and possibly broadcast this data during a call to your future physician. Work is currently underway to utilize smaller, higher quality sensors. We take a closer look at CEATEC after the break. 
+
+
+
+
+
+ 
+
+ 

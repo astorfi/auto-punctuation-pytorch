@@ -1,0 +1,18 @@
+
+ 
+ When Tyler DeAngelo asked if we'd be interested in checking out his new project, we jumped at the opportunity. After all, we were pretty blown away with Fifth Avenue Frogger, his hacked arcade cabinet that incorporated real-time webcam footage of a busy Manhattan street into gameplay. His latest project, Check 'N Chew certainly has more apparent commercial applications, offering up a form of immediate gratification for social media users. The concept is fairly simple: check into Foursquare, get a gumball.
+
+ DeAngelo (with help from fellow modders Matt Richardson and Ben Light) has hacked an off-the-shelf gumball machine with a stepper motor, Arduino and an XBee radio. There's also a port on the rear of the machine that plugs into a wall to power it all. The Check 'N Chew communicates wirelessly with an ethernet-to-wireless gateway device. When someone checks into an authorized location, information is sent from DeAngelo's server to the gateway, and a gumball is dispensed. The whole process is quite speedy, only taking a couple of seconds from Foursquare check-in to gumball dispensing.
+
+
+
+
+ 
+ The actual dispensing was a little uneven -- sometimes no gumballs were dispensed and sometimes two came out. It was a sort of sugary game of Russian roulette, though we suspect that had more to do with the quality of the gumball machine than the tech setup -- without fail, the mechanism clicked every time we checked in. Then there's the fact that Foursquare has instituted a waiting period for check-ins, so you'll have to wait a few hours for your next fix -- a bummer given the fact that these particular gumballs tended to lose flavor after about few chews, though probably a better solution for vendors not looking to drop a fortune on gumballs.
+
+ The Check 'N Chew was built to be a promotional gimmick for retail locations. As DeAngelo told us, "I created the gumball machine as way to explore the tangible value of a check-in. The gumball machine represents a value exchange between a customer and retailer where the retailer receives an advertising impression for each check-in and in return the customer gets a gumball. This exchange creates an actual ROI for the impressions created by checking in against the price of a gumball."
+
+ And really, who doesn't want to be elected Mayor Gumball?
+
+ Edgar Alvarez contributed to this report. 
+

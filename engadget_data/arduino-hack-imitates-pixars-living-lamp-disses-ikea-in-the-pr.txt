@@ -1,0 +1,12 @@
+
+ 
+
+Oh, look -- it's Pixar's iconic lamp brought to real-world Frankenlife. Okay, not really, but the automated, voice-enabled mod is as close to the movie studio's icon as a hacking kit and five euros in a Swedish furniture store can get you. The prototype, lovingly named "The annoying IKEA lamp" or SM-1, is ArduinoArts' finalist entry for SeeedStudio's Grove Toy Kit contest. Headed by industrial engineer Javier Lander, the project weds two servos (one in the base and one in the lamp), sensors for motion and sound, a three axis accelerometer, LED light and audio board to an Arduino shield, springing the modjob to programmed states of alarm and irritation. We commend Javier for eschewing the cutesy road well-traveled, and giving the mundane desktop light a grumpy, old man makeover. Click on past the break to see this curmudgeonly home office accessory in action.
+
+[Thanks, Javier]
+      
+
+ 
+
+ 
+ 

@@ -1,0 +1,7 @@
+
+ 
+
+China has already, however briefly, sat atop the Top500 list of supercomputers, but that was using silicon designed by American companies like Intel and NVIDIA. The country's latest contestant though, is sure to be a much bigger point of national pride. The Sunway BlueLight MPP, which was installed at the National Supercomputer Center in Jinan this September, is powered by 8,700 ShenWei SW1600 CPUs -- the homegrown chips that come out of Shanghai. The Sunway's one petaflop performance isn't enough to make it the new king of the hill, but it should get it into the top 20. More impressively, the machine only consumes about one megawatt of electricity -- roughly a quarter of the 2.5 petaflop Tianhe-1A. Now it's up to researchers to crank these ShenWei cores up to a 11 and make a run at that 50 petaflop Cray.
+      
+
+ 

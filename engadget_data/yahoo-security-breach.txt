@@ -1,0 +1,14 @@
+
+ 
+ Online account security breaches are seemingly commonplace these days -- just ask LinkedIn or Sony -- and now we can add Yahoo's name to the list of hacking victims. The company's confirmed that it had the usernames and passwords of over 400,000 accounts stolen from its servers earlier this week and the data was briefly posted online. The credentials have since been pulled from the web, but it turns out they weren't just for Yahoo accounts, as Gmail, AOL, Hotmail, Comcast, MSN, SBC Global, Verizon, BellSouth and Live.com login info was also pilfered and placed on display. The good news? Those responsible for the breach said that the deed was done to simply show Yahoo the weaknesses in its software security. To wit:
+
+  We hope that the parties responsible for managing the security of this subdomain will take this as a wake-up call, and not as a threat. There have been many security holes exploited in Web servers belonging to Yahoo Inc. that have caused far greater damage than our disclosure. Please do not take them lightly. The subdomain and vulnerable parameters have not been posted to avoid further damage.
+
+ In response, Yahoo's saying that a fix for the vulnerability is in the works, but the investigation is ongoing and its system has yet to be fully secured. In the meantime, the company apologized for the breach and is advising users to change their passwords accordingly. You can read the official party line below.
+
+  At Yahoo! we take security very seriously and invest heavily in protective measures to ensure the security of our users and their data across all our products. We confirm that an older file from Yahoo! Contributor Network (previously Associated Content) containing approximately 400,000 Yahoo! and other company users names and passwords was stolen yesterday, July 11. Of these, less than 5% of the Yahoo! accounts had valid passwords. We are fixing the vulnerability that led to the disclosure of this data, changing the passwords of the affected Yahoo! users and notifying the companies whose users accounts may have been compromised. We apologize to affected users. We encourage users to change their passwords on a regular basis and also familiarize themselves with our online safety tips at security.yahoo.com.
+
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

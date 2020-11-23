@@ -1,0 +1,28 @@
+
+
+
+The public perception of the black-hat hacker is of a lone person sitting in a dark room creating malware and unleashing it on the world and reaping the profits of their exploit. The reality is a bit more complicated and far more financially lucrative. Nothing shines a light on this more than the Zerodium publicity stunt of offering $1 million for iOS 9 zero-day exploits. Founder Chaouki Bekrar has a history of selling exploits to the highest bidder instead of disclosing the issue to the maker of the compromised product. It flies in the face of responsible disclosure of exploits by security researchers and means that anyone with enough cash will have the ammunition to ruin the digital life of anyone with an iPhone.
+
+
+
+Unlike corporate bug-bounty programs that pay researchers to share exploits found in products so that a company can squash those problems, Zerodium doesn't want these exploits closed. At least not until it can resell the exploit for a profit. Lance Cottrell, chief scientist of security firm Ntrepid told Engadget that these exploits are "almost certainly going to be used against people's best interests."
+
+That's if the bounty is ever collected. This seems more like good PR than an actual call to arms. On the black market certain zero-days can fetch up to six figures. Throwing down a million dollars certainly caught the attention of a lot hackers and media. Adding Apple just makes it all the more enticing. "Any story that can use Apple's brand can attract more attention," said Cottrell.
+
+Bekrar seems sure that the bounty will be paid. In fact, his company is offering to pay for up to three exploits. He told Engadget, "there are many experienced researchers working on iOS exploits or stockpiling iOS zero-days for various reasons, and we believe that many of these talents will be attracted by the bounty and will definitely succeed."
+
+Scum. RT @Zerodium: Breaking News: We offer one million US dollars ($1,000,000) for iOS9 exploits/jailbreak: https://t.co/Th5XxNbJjB
+— comex (@comex) September 21, 2015Collected or not, in the security researcher world, this type of bounty is frowned upon. "It does not promote the general security of internet or the population. It does a lot of harm," according to Cottrell. Most researchers will notify a company and work with them or at least give them time to patch the issue before going public with their findings. Even when a vulnerability is disclosed before talking to the company, at least its out in the public. The parties involved and the public have a chance to see what's happening and fix the situation or at least call for action.
+
+Bekrar doesn't see any issues with how his company deals with exploits, "if morality is giving to a multi-billion dollar company such as Apple or Google advanced security research for free or for a ridiculous bug bounty, many researchers do not agree to follow such a morality."
+
+Zerodium instead shares the exploits it purchases with its client base. While it won't share that list or how much it charges for its wares, there's a good possibility that some of the company's inventory will end up in the hands of a government entity like the United States.
+
+Andrew Crocker, EFF staff attorney told Engadget that the exploit will presumably be snatched up by a government to be used as an offensive tool. The US routinely buys and collects these vulnerabilities and deploys or discloses them as they see fit. Crocker has been working for more government transparency on how that system works. He recently acquired the United States' VEP (Vulnerabilities Equities Process) policy via a FOIA request. The heavily redacted document at high level describes how the government handles vulnerabilities including those purchased from private companies.
+
+Meanwhile companies like Zerodium will buy and sell exploits that can be potentially used against us. Well not all of us. When you spend over a million dollars for a backdoor into a system you're going to be stingy with it. A wide-scale attack will make bring a lot of attention to the vulnerability and which would alert the vendor to fix the problem. Instead, the customer (whether corporate or government) will target certain individuals: criminals, heads of state, dissidents, business rivals. It'll get the information it needs without raising too many alarms.
+
+Like the process of finding zero-days, the way they will be used will be methodical and highly targeted. If everything goes as planned they won't find out. No one will find out. It'll be research conducted in a secrecy for profit that benefits only a few entities and leaves the rest of us vulnerable.
+
+Apple did not reply to Engadget's queries concerning this article. We will update the article when it does. 
+

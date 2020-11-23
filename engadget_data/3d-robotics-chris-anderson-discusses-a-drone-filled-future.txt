@@ -1,0 +1,17 @@
+
+ You'll likely miss 3D Robotics on first pass. The company's San Diego R&D facility is headquartered in an unassuming building amongst similarly nondescript offices in a maze of a business park. Enter through the back and you'll find yourself in the middle of a small manufacturing assembly, where industrial Pick and Place machines buzz loudly and a handful of women are QAing finished product. Until earlier this month, the site was mostly off the radar, save for a devoted group of online enthusiasts. Then, Wired editor-in-chief Chris Anderson announced he was leaving the magazine in order to head up the company.
+
+ Anderson's off grabbing lunch as we arrive -- like us, just off a flight from the East Coast for a brief visit before jumping on yet another plane. He's in transition at the moment, as the head of both Wired and 3D Robotics, trying out his keycard for the first time as we set up our film equipment to interview the newly minted executive for an upcoming Engadget Show segment. Anderson's ties to the company go back to its inception, however, co-founding 3D Robotics with Jordi Muñoz, a 19-year-old living in Tijuana when the two first met through Anderson's DIY Drones online community.
+
+
+
+ 
+ Anderson's fascinations with the world of consumer unmanned aerial vehicles began to manifest itself when the editor started building Lego aircraft with his children, soon growing into a sort of obsession that gave rise to DIY Drones well after his kids lost interest in the matter. Muñoz ultimately turned to the site as he struggled to improve upon a cheap Chinese RC plane, hacking his way to a better product and posting his efforts online, including a video featuring a Wiimote-controlled vehicle that ultimately grabbed Anderson's attention.
+
+ 
+ Five years or so after the founding of the company, 3D Robotics operates out of San Diego and just over the border in Tijuana, where the majority of the company's manufacturing occurs, successful enough to lead Anderson to jump ship from his longtime gig into the nascent world of consumer drones. The company sells full vehicles through the DIY Drone storefront -- you can pick up a quadcopter for around $450 -- but the company's real bread and butter are autopilot modules like the Arduino-based ArduPilot, that can turn RC vehicles into drones. Toward the end of our visit, as we wind down a demo flight, a FedEx truck arrives carrying hundreds of enclosures for the company's flagship product. It's a small but monumental step in 3D Robotic's push toward a more mainstream audience.
+
+ 
+ Anderson foresees a future in which sports teams use autonomous vehicles to shoot matches and farmers employ them to monitor crops. There's still a long way to go, however. At the moment, there's still a decidedly hobbyist feel around these parts. Their dream of skies filled with camera-toting drones still seems a ways off, requiring, for one, more consumer-friendly prices. If the gadget-loving masses do ultimately come around to such autonomous vehicles, however, 3D Robotics will be in a prime spot to deliver.
+
+

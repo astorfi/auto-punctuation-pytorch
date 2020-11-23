@@ -1,0 +1,25 @@
+
+It's been a long time coming, and now the Android-powered, Kickstarter-funded OUYA video game console is finally heading to backers. Sure, the final retail units for non-backers won't be available until June, but around 50,000 lucky folks who pledged over $99 to OUYA's massively successful campaign will be receiving their units in the coming days. We've already heard what developers have to say about it, but this week we got our first hands-on with the miniature, Tegra 3-powered game console we've been hearing so much about since last summer.
+
+
+Is it the "best Tegra 3 device on the market," as OUYA's claimed? Let's find out!
+
+
+
+
+Hardware
+Our first-blush impressions of the gamepad, unpaired from the console, are mostly positive. The controller has a good heft to it, doesn't feel cheap and the buttons / analog sticks are appropriately clicky and maneuverable. The only real issues are the shoulder buttons and triggers, which both look and feel cheap -- the triggers were actually a sticking point for OUYA with the development kit that launched last December, and it seems the company's still got some kinks to iron out there.
+
+The faceplate on each side of the controller's face detaches, which is where you replace the two AA batteries that power it. OUYA also says it'll offer customizable faceplates, but, well, we're just not that excited by the prospect. Additionally, since it's simply a Bluetooth controller, the OUYA gamepad can be used on any Bluetooth-compatible device; to that same end, any Bluetooth-enabled controller works wirelessly with OUYA (so, Sony's DualShock 3, for instance, but not Microsoft's Xbox 360 gamepad -- you'd have to plug in a wired 360 gamepad via USB).
+
+
+The console itself is incredibly small. It's less than half the size of the gamepad, actually. What it lacks in size, however, it makes up for in density. The OUYA is a heavy little box, intentionally weighted to support the various cables you'll plug into its rear to hook it up to your television. It's also incredibly quiet -- with no discs to spin and a fan that rarely kicks up dust, the OUYA runs whisper-quiet. Beyond just quiet and heavy, though, the OUYA is a pretty little thing. The brushed aluminum on its four sides looks sharp, and the tinted, glossy plastic up top gives the console a quality look. Hiding the fan on the bottom is another nice touch -- Jawbone Jambox designer Yves Béhar sculpted a final product that both stands out and subtly fits into existing media centers.
+
+SoftwareOUYA's software UI is, to put it lightly, very sparse. Just four submenus branch from the main dashboard: Play, Discover, Make and Manage. The Manage menu is little more than a way to directly access the hidden Android settings -- it brings up a standard Android settings menu, which we're told will be swapped for a custom screen in the future -- so let's put that aside for now. Play acts as your content manager, where both games and applications that you've downloaded reside. It's essentially a file dump, organized into visual tiles -- not thrilling, but certainly serviceable for current purposes. Discover is perhaps the most interesting of the areas -- it's a stand-in for "place where you purchase content" -- and it's a curated store helmed by recent hire Kellee Santiago. Not only does it allow for various categorical organization and featured games, but it also enables popular games to bubble up naturally via thumbs-up icons that users can employ for each game. Make is another unique twist, offering a section for devs to upload builds of their games for all to play; call it a glorified beta section, but its promise is what excites us most. Not only can devs upload and crowdtest their games, but players can test out their own builds on the fly through sideloading.
+
+
+Troubling, however, is the noticeable lag between the game controller and the OUYA. From games to UI, the lag was a noticeable issue -- other journalists we spoke with encountered the same issue. It's not something that's impossible to fix, of course. Even Nintendo's speeding up its Wii U software issues in an upcoming patch, so it wouldn't be a huge surprise to see OUYA correcting the lag issue before June's retail launch.
+
+It's also hard to fault what is -- for now -- a niggling issue with a $100 game console that went from Kickstarter to available in around 10 months. The promise of the console is far more appealing, and the time we've spent with the OUYA has us even more excited for its unknown future.
+
+

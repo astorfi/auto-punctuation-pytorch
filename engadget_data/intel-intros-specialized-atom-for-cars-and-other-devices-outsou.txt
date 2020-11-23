@@ -1,0 +1,5 @@
+
+ 
+We've already seen the Atom used in a few somewhat surprising places, but Intel now looks to really be making an earnest push to expand its base, with it introducing four new specialized Atom processors (and two new system controllers to go along with 'em) that it hopes will find their way into in-car devices, internet phones, and a whole host of industrial-strength applications. Relying on the same 45nm manufacturing process, the new Atom Z5xx series processors expectedly aren't too radically different from the average Atom, with them clocking in between 1.1GHz and 1.6GHz, and boasting a TDP rating of 2.0 or 2.2 watts, although they do have some "embedded lifecycle support" thrown in for good measure. In related news, Intel has also announced that it'll be outsourcing "some" Atom manufacturing to Taiwan Semiconductor Manufacturing Co. (or TSMC), which apparently marks the first time that Intel has licensed its CPU core to a foundry.Read - Press Release, "New Specialized Intel Atom Processor Targets Cars, Internet Phones"Read - Physorg / AP, "Intel outsourcing some Atom manufacturing to TSMC"
+
+ 

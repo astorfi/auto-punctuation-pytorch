@@ -1,0 +1,9 @@
+
+So, not every indie developer abandoned Oculus VR after the Facebook take-over. 3D video expert Oliver Kreylos is one of those who stuck around, and we're mighty glad he did. Check out his three-way-Kinect-plus-Rift setup in the video below and you'll be glad too -- even if the second video, showing the wearer's POV (and intended solely for other Rift owners) makes you retch a couple of times. Video feeds from the three Kinects are merged to create a relatively solid 3D rendition of Kreylos as he moves about inside a VR environment. The merged feed is then sent to the Oculus so that he can look around at everything inside that environment, including his own body. Kreylos says that even though his limbs were a bit fuzzy during the experiment, due to the relatively low resolution of the cameras, the system's low latency allowed his brain to believe that the body parts really belonged to him, to the point where it felt natural to try to reach out and touch non-existent objects. And bear in mind: All of this was achieved using first-gen Kinects, rather than the much more powerful version that is (usually) supplied with the Xbox One, so there's already plenty of scope for improvement.
+
+
+
+
+
+
+ 

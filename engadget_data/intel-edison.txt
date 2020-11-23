@@ -1,0 +1,8 @@
+
+Four months ago, Intel unveiled its Quark SoC at IDF. Today at CES 2014, company CEO Brian Krzanich wants to introduce you to Edison, a miniature computer based on the same technology condensed into the form factor of an SD card. The tiny computer is built on the company's 22nm transistor technology, runs Linux and has built-in WiFi and Bluetooth modules. What's more, the tiny machine can connect to its own app store. Naturally, the device is aimed at developers, Krzanich says, who he hopes will use it to build the next generation of wearable and connected devices. Even so, Intel is leading by example, and showed a small collection of "Nursery 2.0" products using embedded Edison chips: a toy frog that reports an infant's vitals to a parent via an LED coffee cup, for example, and a milk warmer that starts heating when another connected item (the frog, again) hears the baby cry.
+
+
+Still, even Intel knows that developers need more than a good example to motivate them, and nothing gets the creative juices flowing quite like the promise of an award. To that end, the company has announced the "Make it Wearable" competition, and says it will be offering up to $1.3 million in prizes for developers churning out wearable tech. The full details of the contest weren't revealed at the show, but Krzanich did say that first prize would walk away with a cool $500,000. Oh, and if you're eyeballing Edison for your award-winning idea? It'll be available sometime in mid-2014.
+
+
+

@@ -1,0 +1,6 @@
+
+ Digital Camera 101: As manufacturers continue pushing the Megapixel Myth by stuffing more and more pixels onto rapidly shrinking sensors, the outcome is poor performance on top of poorly lit images of increasingly low quality. Now OmniVision, the largest CMOS image sensor manufacturer today, says they've solved the pixel size problem though backside illumination (BSI) technology. In essence, BSI helps maximize photon collection by circumventing obstructive metal and dielectric layers on the top-side of the sensor die. The result is improved light absorption, thinner overall camera modules, and increased sensitivity and F stops with reduced crosstalk. However, as EETimes' crack staff of Electrical Engineering super-nerds point out, BSI is not a new technology. In fact, several manufacturers lay claim to BSI patents. However, OmniVision seems to be the first to take the tech to mass production for consumers. To prove it, they'll release an 8 megapixel OmniBSI CameraChip sensor brimming with the new tech for sample in June. Couple it with a decent cameraphone lens and image processing circuitry and we might be in for a treat.
+[Via EETimes]
+      
+
+ 

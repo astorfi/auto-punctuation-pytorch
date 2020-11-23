@@ -1,0 +1,8 @@
+
+Just in case you thought incorporation would slow things down among the folks behind CyanogenMod, dev and VP of Engineering Koushik Dutta just posted this video showing off AirPlay Mirroring from an Android phone. He's been working on Android streaming support to various protocols / devices for the "AllCast" media streaming app since Google's changes cut it off from the Chromecast (for now at least), and Apple's screen sharing feature is the latest target. There are other apps in the Play Store that connect Android devices over AirPlay, but mirroring support integrated into the OS feels fresh. AllCast support is already in place for pushing media to Roku and DLNA-compatible hardware, and he says this mirroring feature is "coming soon to a CyanogenMod near you."
+
+
+
+
+ 
+ 

@@ -1,0 +1,6 @@
+
+ 
+Dying to know what that tiny VGA video sensor in the new iPod nano looks like? As usual, the folks at iFixit have it covered -- hit the read link to follow along with all the gory action as it proceeds. (Seriously, they're posting the teardown pictures live as they do it.)Update: It's all over, and the findings are interesting, if not too shocking: the 8GB of flash is from Toshiba, the processor is an Apple-branded ARM unit manufactured by Samsung, and the camera's VGA resolution is probably explained by its 3mm thickness -- the iPhone 3G's camera is 6mm, and the nano is only 6.2mm thick at its fattest.
+      
+
+ 

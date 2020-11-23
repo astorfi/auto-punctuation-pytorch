@@ -1,0 +1,6 @@
+
+ 
+While we've no idea how much the Mars Global Surveyor actually cost to construct, launch, and manage whilst hovering around in space, it's entirely likely that a single human error wiped out even more than was initially lost by the Alaska Department of Revenue earlier this year. Sad to say, galaxy geeks everywhere now have a scapegoat to direct their wrath at, as a review board of the mishap found that "a single command (root@mars-surveyor: rm -rf /) that oriented the spacecraft's main communications antenna was sent to the wrong address," subsequently leading to a cataclysmic series of events that finally dismantled its communication system. Interestingly, the command caused the befuddled craft to think that one of its solar panels was "stuck," which eventually led to an autonomous decision to enter "safe mode," followed by a complete shutdown of the unit's onboard batteries. Intelligently, the LA Times report neglected to mention any specific culprit, and hey, living with the guilt of destroying the machine that showed us so much of the Red Planet is probably punishment enough.[Via Slashdot]
+      
+
+ 

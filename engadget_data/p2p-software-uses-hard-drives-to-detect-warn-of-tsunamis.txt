@@ -1,0 +1,6 @@
+
+ 
+News outlets and weather stations alike have been searching for more responsive (and foretelling) methods to detect massive storms before they make landfall, and it seems a simple hard drive or two could help out substantially. While certain folks have tried to get fancy and implement mobile warnings to alert citizens of incoming tsunamis, Michael Stadler has devised a P2P software solution that uses plain 'ole hard drive vibration detectors to not only keep the read / write heads aligned, but to feed analytic software those same quaking measurements. By having numerous supernodes compare vibration levels, the software can reject false alarms and substantiate actual threats based on the uniformity of the data -- if an actual tsunami looks to be rushing inward, all connected clients could be immediately informed to brace for impact. While Stadler's software is still in an "experimental stage," it recently caused quite a stir at the Ars Electronica exhibition, and could probably entice a few proactive governments to fund future development.  [Via Slashdot]
+      
+
+ 

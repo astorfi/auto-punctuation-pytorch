@@ -1,0 +1,6 @@
+
+
+Aviary has certainly been busy over the past couple of months, having recently overhauled its photo-editing app for Android, as well as launching on Windows Phone 8. Fortunately, the industrious company has also found time to work on its iOS app, which has just been updated to allow picture sharing via Instagram and good old-fashioned email. The sharing menu now features two new buttons that'll push the selected image into Instagram's own app, or launch Mail and add it to the body of an email. According to the update changelog, the new version also has "a bonus extra dose of magic added." We asked the folks at Aviary exactly how they implemented this exciting feature, but frustratingly, they wouldn't tell us.
+
+
+ 

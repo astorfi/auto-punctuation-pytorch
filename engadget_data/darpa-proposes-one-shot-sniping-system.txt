@@ -1,0 +1,7 @@
+
+ DARPA, which you may know from the Urban Challenge, has thrown its research proposing muscle behind a program with the "aim" of making sniper's jobs easier. Ya see, one of the problems with flinging a hunk of lead over a mile into the distance is that external influences (like cross-winds) mean that a shot aimed and fired directly at a target will most likely go astray. Snipers are trained to compensate for these external influences by using math to calculate the perfect angle required to hit their target, be it a snipe bird, or an annoying robot. DARPA's aim with the new RFP is to solve this problem by creating a system that finds the "perfect angle" by digitally measuring all the required atmospheric information: an aimbot for real life, if you will. DARPA outlines the two existing solutions to the problem -- Laser Doppler Velocimeters and Coherent Doppler Lidar -- and instantly writes them off as inadequate  "for this application", so if you're thinking of taking DARPA up on this challenge you should probably look into alternate sensor technologies. As the proposal is simply a suggestion that someone else should sort out the problem, there's no specific time frame as to when we could be seeing a sniper scope that tells snipers where to aim. Fortunately, someone's already created a computer system that tells soldiers what to aim at.
+
+[Via Gizmag]
+      
+
+ 

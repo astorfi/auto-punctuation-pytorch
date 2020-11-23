@@ -1,0 +1,9 @@
+
+ 
+ There's nothing pretty about a cyber attack taking over an organization -- or, there wasn't, until NICT crafted this thing. Daedalus, christened as a "cyber attack alert system," is a 3D visualization system that currently monitors some 190,000 IP addresses across Japan. Rather than forcing a human to comb through a punishing amount of data, the visualizer turns into an organized stream of lines that can be viewed and zoomed in on from any angle. You can see networks and subnets, as well as patches of used and unused IP addresses; taking it a step further, the system lights up when an attack is sensed (for example, an IP pinging an unused IP as a virus spreads with reckless abandon). DigInfo reports that the system could find a home in educational and enterprise applications, but there's no word on how much it'll cost to deploy en masse. Per usual, the video demonstration awaits you after the break.
+
+
+
+
+ 
+ 

@@ -1,0 +1,10 @@
+
+ 
+We were really impressed with Texas Instruments' OMAP 3-based mobile development platform when we saw it running Android earlier today, and the hardware seems to hold up well to all sorts of video-accelerated magic for a multitude of Linux-based interfaces. Not so much with Windows Mobile 6.5. Granted, this is a very early build of the OS according to Microsoft, and is lacking all sorts optimization mojo that will go into the final product due end-of-year-ish, but at the same time this is basically an interface skin to Windows Mobile 6 that Microsoft has had nearly a year to work on since 6.1, and it's not exaggerating to say that performance is a complete joke at the moment. TI's OMAP 3 was clearly struggling to handle basic scrolling of the home screen and app menu, though "smoothness" was slightly improved in scrolling through a gallery of photos. TI has been working with 6.5 for "a few months," and claims to have added optimizations to interface performance -- and interestingly is running this on a capacitive touchscreen device, something that isn't officially supported as far as we're aware. They're also saying that they plan on achieving full smoothness by the time this launches, but there's really a long way to go, and it's difficult to understand why this seems to be a last priority for Microsoft at the moment. On the other hand, TI is doing great things with its own 3D-accelerated interface, something which Windows Mobile 6.5 brings support for, so perhaps these will all one day (soon) meet in the middle and give us the sort of interface smoothness and usability we'd expect on a phone built a decade into this century. Check out the painful videos after the break.
+
+
+
+
+
+
+ 

@@ -1,0 +1,13 @@
+
+ Each week Tom Whitwell of Music Thing highlights the best of the newmusic gear that's coming out, as well as noteworthy vintage equipment:
+
+"Thewonderful thing about this device is that is doesn't do anything really," say the developers of the Monome, a minimalist-but-clever button-covered box. "It wasn't intended for anyspecific application. We'll make several applications, and others will make more. We hope to share as many of these aspossible. Drum machines, loopers, 1-bit video transformers, physics models, virtual sliders, math games,etc." Like all the best new interfaces, it’s pretty much impossible to describe, butonce you watch the demo video,it seems to be surprisingly flexible and fast to use. I can’t help thinking that something this (or the similar,but different, Tenori On boxdeveloped for Yamaha) has hugecommercial potential as a cheap and funky sound toy. At the moment, though, it’s a tool for high-end supergeeks,like the wonderful Jazz Mutant Lemur(which is now in production and sells for $2,495).
+      
+
+ 
+
+A year ago, the Monome was the Bitbox, a crude wooden boxcovered in illuminated momentary push-button switches. It had some early software developed in MAX/MSP which triggereda different sample on each row. Now, there are a range of interesting applications using OSC and MIDI, and the box isgoing into small-time production.  In February, the Philly-based development team bought 13,000 diodes fromDigikey, and they’re currently building the first batch of 200 units, 8 x 8 grids which will sell for $500 with aUSB interface and a bundle of open-source software.
+
+       
+
+ 

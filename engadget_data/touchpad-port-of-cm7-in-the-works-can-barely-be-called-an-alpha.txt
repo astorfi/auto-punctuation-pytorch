@@ -1,0 +1,10 @@
+
+ 
+
+Supposedly there are some magical TouchPads out there with Android pre-installed on them, but that won't help you load it up your new collectors item. Thankfully the Cyanogen Mod team is hard at work on a port of Google's mobile OS for your HP slate and aiming to claim the bounty on its head. It's still in the extremely early stages. At the moment it does little more than boot up and unlock with the aid of ADB -- even the touchscreen isn't working just yet -- but it shouldn't be too long before you can swap out webOS with CM7. Check out the brief demo video below.
+      
+
+ 
+
+  
+ 

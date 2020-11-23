@@ -1,0 +1,6 @@
+
+ 
+Intel wants people to develop apps for the x86 instruction set. Think about that a little, let it sink in. Now that you're appropriately unimpressed, let's discuss this new developer kit that's just been brought out. Designed to assist coders in that overwhelmingly challenging and new environment known as Atom-powered netbooks, the SDK has now hit Beta and is being distributed to developers of apps for Windows and Moblin. Yes Moblin, the light and snappy Linux flavor intended to spur on the sinking ship known as the MID category, still hasn't been abandoned by Intel, even if its original goal now seems out of reach. Intriguingly, apps approved by Intel will "sell at stores opening next year," which perhaps hints at grander plans than the mere optimization of software to undernourished hardware.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+ 
+We've already seen Willow Garage's PR2 robot learn to roam offices in search of a power outlet, and it looks like some researchers at UC Berkeley have now helped it pull off its most impressive feat yet: folding towels. That may not sound like too hard a task, but it's actually proven to be quite a conundrum for robotic laundry researchers, since robots need to first pick up a towel from a pile and then somehow determine that this previously unseen shape is, in fact, a towel that can be folded. While it's still a long way from being the Roomba of laundry, the JR2 bot is now able to fold at the blistering speed of 25 minutes per towel, and the researchers are hopeful that the same computer vision-based approach can also be applied to a range of other tasks that have previously stumped robots. Head on past the break for the video -- don't worry, it's sped up.
+ 
+
+
+ 

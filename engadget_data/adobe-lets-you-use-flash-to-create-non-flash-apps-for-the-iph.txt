@@ -1,0 +1,6 @@
+
+ 
+Notably (or not so notably) absent from this week's mobile announcements out of Adobe's Flash camp is the iPhone, a platform that many want to see pick up official Flash support for a number of totally valid reasons -- but realistically, the gap between Adobe's stance and Apple's stance on the subject seems no closer than it did in 2007. The solution? Let developers make Flash apps for the iPhone and convert 'em over to native code prior to submission to the App Store. Of course, this effectively means that there's nothing "Flash app" about these Flash apps, but if nothing else, it lets devs apply their existing knowledge and code libraries in a way that'll make Apple happy and get real, native apps out to users without the muss and fuss of a manual port. The apps look pretty cheesy compared to most purpose-suited iPhone apps, but skeptics should note that there are already 8 apps live in the App Store that were compiled this way -- Adobe boasts that it's a 100 percent acceptance rate so far -- and the Flash CS5 dev environment required to make it happen should be available as a public beta "later this year." Pretty cool, but no, seriously... how about real Flash, Apple?
+      
+
+ 

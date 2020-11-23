@@ -1,0 +1,11 @@
+
+Delivery drones are great at exactly one job right now: generating buzz. However, NASA has told the New York Times that actual widget-shipping drones from Amazon or Google are still far in the future. And the space agency should know: it has taken on the task of developing an "air traffic control" (ATC) system for drones flying below 400 feet. Such a system would be run by computers without human aid, and take into account weather, air traffic, geographic obstacles and other factors. The space agency is quite familiar with existing air traffic issues, as it has been advising the FAA on the NextGen system for "real" planes. Armed with that know-how, it sees a number of problems for UAV couriers.
+
+
+
+
+For one, a decent gust could easily push a drone into a building and crash it, so tracking weather would be a must, adding a layer of complexity. Maintaining separation between low-flying drones and obstacles and manned air traffic would also be tricky, especially in urban areas. Though Google and other companies have proposed obstacle avoidance systems for drones, we haven't seen any plans to tie it into the ATC system. And drones would have to fly within the existing system in order to avoid no-fly zones, airports and other classified airspace. Finally, there's the acceptance issue. As one researcher put it, they'll need to operate in the "presence of a grandma doing landscaping and kids playing soccer" -- meaning noise and safety will be strong factors. The FAA will also have to be sure they can't be commandeered by "rogue elements" for illicit or dangerous purposes.
+
+On the other hand, NASA is optimistic about commercial drones in lightly populated areas. It sees drones doing crop or pipeline inspections, two jobs that have already been partially authorized by the FAA. However, NASA thinks it'll take at least five years before remote deliveries over sparsely populated areas happen. And deliveries to densely populated areas -- necessary to make such services economically viable -- are much farther in the future. So enjoy the drone-and-pony shows for now, but don't count on getting a Blu-ray disk dropped on your doorstep in the near future.
+
+

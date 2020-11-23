@@ -1,0 +1,14 @@
+
+ Google's drawn the ire of the Federal Trade Commission for myriad reasons over the past year, and so the FTC began a formal investigation into those transgressions. Today, Chairman Jon Leibowitz announced that the investigation has concluded with a settlement after the FTC found several issues with the way Big G does business. Head on past the break for a full rundown of the FTC's findings.
+
+
+
+ For its part, Google has promised to change its practices in several key areas. First, in response to allegations that it has abused standards essential patents, Google has agreed that it won't seek an injunction -- in federal court or the ITC -- against a willing licensee of patents that Google committed to license on FRAND terms. That means that if Google (or Motorola) files a lawsuit against a company building products using a Google-owned patent that's a part of a standard, Big G can't use the threat of an injunction to leverage a higher licensing fee from that company.
+
+ Next, Google agreed to fix problems with its AdWords platform's compatibility with competing ad platforms. You see, the FTC has concerns that Google's current restrictions on its AdWords APIs make it difficult for advertisers to manage campaigns on both AdWords and its competitors. In a post on its official blog, Google stated that it has agreed to remove those restrictions and allow advertisers to "mix and copy ad campaign data within third-party services that use the AdWords API."
+
+ Lastly, the FTC announced that it evaluated Google's alleged search bias to promote its own services over competitors', particularly through its Universal Search function. The FTC did find that Google modified its search algorithms and those changes may have harmed some of Google's competitors. However, it let Mountain View off the hook in holding that those changes "could be be plausibly justified as innovations that improved Google's product and the experience of its users."
+
+ If you're interested in reading the full settlement agreement, it'll be published in the Federal Register soon, but for now you can read the FTC's and Google's statements on the matter at the source links below.
+
+

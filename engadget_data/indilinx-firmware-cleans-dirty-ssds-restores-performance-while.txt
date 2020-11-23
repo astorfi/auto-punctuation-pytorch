@@ -1,0 +1,6 @@
+
+ 
+You know those quirky, not-at-all convenient issues that can cause certain solid state drives to lag with extensive use? Yeah -- not cool. Thankfully, the engineers at OCZ Technology and Indilinx are fed up, and rather than sitting around doing nothing, they've both collaborated on a breakthrough firmware that can actually clean and restore one's "dirtied" SSD while the drive sits idle. In short, the firmware instructs the SSD to perform a "garbage collection" process in order to mitigate the unwanted block re-writing quandary, where the drive actively seeks and removes garbage that hinders read / write performance when handling small chunks of data. The crew over at HotHardware managed to run a few speed tests with said firmware firmly implemented, and the results are downright shocking: after just five minutes of idle time, the SSD was restored to near new, with an hour of downtime being enough to "totally restore" performance. Don't believe us? Give that read link a tap, bub.
+      
+
+ 

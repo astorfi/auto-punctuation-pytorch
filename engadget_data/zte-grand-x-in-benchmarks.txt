@@ -1,0 +1,12 @@
+
+ 
+ It's a shame when phones feel outdated even as they hit the market, but that's sadly what happened with the original Grand X. However, as you may have heard a few hours ago, the handset's just had a healthy revamp. The spec-bumped version is called the Grand X IN -- it's due out next month and we've just had a chance to run some early benchmarks to test the performance of its vanilla Android 4 OS and new Intel engine. Among a range of improvements, including an 8-megapixel camera with burst mode (instead of the Grand X's dowdy five with no burst) and 1GB of RAM (instead of 512MB), the biggest change is that processor: out goes the old NVIDIA Tegra 2 and in comes a Medfield Z2460. Yep, that's the exact same chip we've seen put to good effect in the Orange San Diego, but how does it fare in this device? Click past the break for a head-to-head comparison with the San Diego, which is cheaper but slightly less well-built (and still running Gingerbread), and the Galaxy Nexus, which costs more but comes with a far better display.
+
+
+
+       ZTE Grand X IN
+    Orange San Diego
+    Galaxy Nexus
+       Quadrant    2,710    3,648    1,993      Vellamo    1,550    1,285    1,159      SunSpider 0.9.1 (ms, lower is better)    1,355    1,620    1,985      CF-Bench    873    2,447    6,189   So what do we see here? Some good, some bad, and some numbers that are plain confusing. The CF-Bench score in particular looks scarily low, to the point where we'd treat it with caution until we can figure out why -- after all, this is a pre-release device. The Quadrant score is also inexplicably lower than the San Diego, but still well ahead of the Galaxy Nexus. On the flip-side, the Vellamo and SunSpider scores are both extremely healthy, and if we work on the philosophy that good benchmarks are rarely flukes then these scores bode well. Coupled with the extra RAM and superior camera module, they hint that the Grand X IN could be a serious contender if ZTE can stop the price creeping above that of the original £190 ($299 off-contract) Grand X. No doubt this is a device we'll be looking to review as soon as it's ready for sale.
+
+

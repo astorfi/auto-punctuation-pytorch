@@ -1,0 +1,31 @@
+
+If you're an IT professional, gadget blogger or token geek in your circle of friends, chances are, you've been hounded relentlessly over the past couple of days about "this Heartbleed thing."
+
+
+"Do I need to update my antivirus?"
+
+
+"Can I login to my bank account now?"
+
+
+"Google already fixed it, right?"
+
+
+We've heard them all, but the answers aren't all that clear or simple. In an attempt to take the pressure off -- it is the weekend after all -- we've put together a primer that should answer all of those questions and a few more. Next time someone asks you about that "Heartbleed thing," just shoot them in our direction.
+
+
+
+How it worksThe problem affects a piece of software called OpenSSL, used for security on popular web servers. With OpenSSL, websites can provide encrypted information to visitors, so the data transferred (including usernames, passwords and cookies) cannot be seen by others while it goes from your computer to the website.
+
+OpenSSL is an open-source project, meaning it was developed by really talented volunteers, free of charge, to help the internet community. It happens that version 1.0.1 of OpenSSL, released on April 19th, 2012, has a little bug (a mistake introduced by a programmer) that allows for a person (including a malicious hacker) to retrieve information on the memory of the web server without leaving a trace. This honest mistake was introduced with a new feature implemented by Dr. Robin Seggelmann, a German programmer who often contributes security code.
+
+Heartbleed exploits a built-in feature of OpenSSL called heartbeat.Heartbleed exploits a built-in feature of OpenSSL called heartbeat. When your computer accesses a website, the website will respond back to let your computer know that it is active and listening for your requests: This is the heartbeat. This call and response is done by exchanging data. Normally when your computer makes a request, the heartbeat will only send back the amount of data your computer sent. However, this is not the case for servers currently affected by the bug. The hacker is able to make a request to the server and request data from the server's memory beyond the total data of the initial request, up to 65,536 bytes.
+
+The data that lives beyond this request "may contain data left behind from other parts of OpenSSL," according to CloudFlare. What's stored in that extra memory space is completely dependent on the platform. As more computers access the server, the memory at the top is recycled. This means that previous requests may still reside in the memory block the hacker requests back from the server. Just what might be in those bits of data? Login credentials, cookies and other data that may be exploitable by hackers.
+
+What should I do?Because this feature is so specific, the number of servers actually affected is significantly fewer than many thought originally. In fact, while some estimates mentioned that 60 percent of all internet servers had the Heartbleed bug, Netcraft says the number should be much lower, and under 17.5 percent. (Well, that's still a lot of servers, but still less than 60.)After the discovery of the bug, the OpenSSL software was rapidly patched, and as of version 1.0.1.g, the problem no longer exists. Even before that, if the OpenSSL software was installed without the heartbeat extension, the server never would have been vulnerable.If you need the TL;DR, here it is: do not panic.Now, the important question is: Should you worry about this problem? The short answer is: "Yes, but don't panic". You should definitely change your passwords at least for the services confirmed as vulnerable and have now been fixed, such as Google and Yahoo. But you should be changing your passwords regularly no matter what. If you have trouble remembering your passwords, you can always use a password manager such as LastPass or 1Password (remember: Don't ever write down your passwords on a Sticky note next to your monitor, a notepad or a document inside the computer).This password-changing recommendation is nothing but a precaution, because even if hackers knew about the problem (something that hasn't been confirmed -- aside from by our friends at the NSA, apparently), the chances of them getting your password, and being able to match up that data to your username are pretty slim. Some people claim that the encryption certificates for servers (a technology that allows us to confirm that a website is, in fact, what it says it is) could have been stolen, but the company CloudFlare has said it's very difficult to do. It published a challenge to whoever could steal this key, and it appears that someone did, during a server reboot. Regardless of the probability, companies are changing encryption keys so new data is not vulnerable if somebody was able to obtain the old keys.
+
+TL;DRIf you need the TL;DR, here it is: Do not panic. Simply change the passwords of the services you consider more important (email, banking, shopping) and continue with your life. While doing so, follow good security practices: Don't use the same password across services, select passwords with 10 or more characters and use at least upper and lower case letters, in addition to numbers.The internet sure is fun!
+
+Frank Spinillo and Ben Gilbert contributed to this article.
+

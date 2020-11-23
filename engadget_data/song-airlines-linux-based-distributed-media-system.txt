@@ -1,0 +1,56 @@
+
+
+We recently took a trip on Song Airlines, who last year made some waves when they fitted their planes with a
+Linux-based distributed in-flight multimedia system. It's kind of nice to know that such a trimmed-down airline spared
+no expense on a system that, judging by its use, was obviously top-grade. And what a fine thing it is to have when you
+don't have a laptop or book with you. Man, even if you do have a laptop or book, it's a pretty enticing
+distraction.
+
+
+ We dug up some information on the system for you, and we were even lucky enough to grab some shots of the system while
+the flight attendant staff were looking the other direction. But since we weren't about to get tackled like terrorists
+to get 'em, forgive us if they're not the best quality.
+
+
+
+More about the system
+
+ Song Airlines outfitted their fleet of 36 Boeing 757 jets with Matsushita Avionics Systems (MAS) Corp.?s eFXsystems, a pretty advanced all-digital networked mulitmedia/data distribution system. It apparently has a whole host offeatures, though some of which were not yet available on the flight we took. Those features included:
+
+   iXplor, enhanced GPS tracking with display accuracy of one square meter, moving map program with zoom  capabilities and point of interest information
+
+   Network features, such as in-seat Internet connectivity, SMS/email messaging, in-flight shopping and purchase  capabilities
+
+   Streamed MP3 audio via passenger-created playlists from in-flight library
+
+   Connecting gate information displayed directly (and presumably contextually) on the in-seat video monitors.
+
+   But it did have some good stuff:
+
+   24 channels of live, all-digital, DISH Network TV for free
+
+   Locally broadcast/streamed MP3 audio programming
+
+   Interactive networked trivia game
+
+   Ready for the shots?   We got a few of these shots, but this one came out the best. On the panel are the following unlabeled connections: twoUSB ports, contrast up/down buttons, and what appeared to be two 1/8th-inch stereo headphone jacks. Here?s whateverything actually says:   On screenTopSong Main Menu [unreadable]  Center (content area) Two yes/no buttons ?System ready for your selection?  Right panel Maint Back Help Seat Reset [very tempting!] Audio
+
+ Ethernet port Gigabit ethernet port Maint only J9577
+
+ Red switch on the right IFE master power on/off S9501 [IFE stands for in-flight entertainment]
+
+  Those of you who use Linux may recognize that pointer.
+
+  Listing of channels.
+
+  Shot of the music trivia game intro screen; sorry no in-game shots, was too busy aquiring the 3rd highest score of alltime! Boo-ya! Seat 5A foreva!
+
+  Not the best in-flight GPS system (Virgin Atlantic?s is pretty hype) but pretty decent; can?t wait to see iXplor.
+
+  In case you wanted to know what happens when DISH goes out in the middle of the night due to weather conditions.
+
+  Unfortunately the streaming MP3 radio didn?t display song information, but we?re hoping they?ll hook that up soonerthan later.
+
+ Safe travels!
+
+

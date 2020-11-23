@@ -1,0 +1,7 @@
+
+ 
+
+Lets get this out of the way up front -- this is not a confirmation that Apple is planning to put a quad-core A6 chip inside its next iPad or iPhone. What it does indicate is that Apple may be testing iOS support for quad-core CPUs. 9to5Mac has dug up images from the latest beta of iOS 5.1 that detail the supported number of cores. In this hidden panel, single-core A4s are referred to as "/cores/core.0" while dual-core A5s are "/cores/core.1." Now a new listing, "/cores/core.3," is popping up which, if you start counting with zero, indicates a CPU packing four cores. This doesn't mean that Apple even has this up and running on test hardware yet, though, merely that software support for quad-core chips is in the works. But, that should be enough to really kick the rumor mill into overdrive.
+      
+
+ 

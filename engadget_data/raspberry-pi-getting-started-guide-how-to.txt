@@ -1,0 +1,198 @@
+
+When the Raspberry Pi was released earlier this year, the credit-card-sized Linux machine became an instant hit. The night it became available to order, both Premier Farnell/element14 and RS Components, the official distributors of the Pi project, exhibited the signs of a late '90s Slashdot effect: you could barely even get the two sites to load. Fast forward to today, and you can finally get your hands on one within three weeks. The Raspberry Pi is truly the Linux device of the year, if not the past decade. Follow past the break and we'll show you how to set yours up now that you've actually succeeded in snagging one.
+
+
+
+What is the Raspberry Pi?Initially, the Raspberry Pi was seeded out as an early developer release, with hopes of gaining early support from the development community. However, on the night of release, all distributor sites where slammed with a glut of requests. If you were lucky enough to nab one of the first units, odds are you were either amazed or utterly disappointed by what arrived in the mail.
+
+If you were underwhelmed by the Pi, it might be that you got it for the wrong reasons. Let's be honest: the Pi is really an educational device, meant for hobbyists and aspiring youths out there to learn about programming. It's not meant to replace that powerhouse Linux desktop you built last summer with your savings.
+
+Sporting a meager 256MB of RAM and a 700MHz ARM-11 processor, the Pi is a modest piece of kit. Keep in mind this chip's main purpose is to power a cheap computer with a basic level of functionality, mainly geared towards education. The Model B also sports two USB ports, HDMI out and a 10/100 Ethernet port. For your audio needs, you've got a 3.5mm audio jack and that HDMI output, which also supports audio transmission. The Raspberry Pi's GPU boasts 1 Gpixel/s, 1.5 Gtexel/s or 24 GFLOPs of general purpose compute power and is OpenGL 2.0 Compliant. In other words, it's got the graphics power of the original Xbox.
+
+In this article we're going to take you through the setup steps to get your Raspberry Pi Model B up and running with Raspbian, the Debian-based Linux distro used here.
+
+Getting your hands on one
+To support the wonderful cause of the Raspberry Pi Foundation, we encourage you to grab yourself a $35 Model B Raspberry Pi from one of the distributors: Premier Farnell / element14 or RS Components.
+
+You'll also need the following:▪ One SD card▪ An SD card reader so you can write the OS image to your SD card▪ A means of supplying power to the unit (we use an old Android phone charger). At the very least, you'll need a 5v micro-USB adapter.▪ An HDMI cable and HDMI-to-DVI converter if you're using a monitor instead of a high-definition television. If you're just using a TV or a monitor that supports HDMI, you won't need an adapter.▪ A USB mouse and keyboard▪ An Ethernet cable
+
+Optional items:• A case to hold your Raspberry Pi• A USB Hub if you plan on using the USB ports for more than just a mouse and keyboard
+
+What we're using, in case you're wondering:▪ A Model B Raspberry Pi▪ A 16GB Class 10 SanDisk Ultra SDHC card (rated at 300 MB/s)▪ An old HTC Inspire power charger▪ A wireless Logitech K260 keyboard and mouse combo. (It only uses one of the two available USB ports.)▪ An RJ-45 cable
+
+SetupOnce this awesome little device arrives at your door and you've gathered all the necessary gear it's time to get this Pi baked. Let's get started.
+
+Installing the Raspbian image to an SD Card
+Now that the Raspberry Pi has been out a while, there are quite a few methods for writing the Raspbian image to your SD card, regardless of whether you're using Windows, Mac OS X or Linux. For the purposes of this article, however, we'll stick to the more generic methods. Specifically, we'll be using the dd tool on OS X and Linux, and Win32DiskImager on Windows.
+
+If you're using a Mac:
+For simplicity's sake, we recommend you clear your Downloads folder before beginning. Then, grab the Raspbian .zip file from here. You want the latest direct download of Raspbian. You can also choose to obtain the .zip via torrent -- remember to be a good web citizen and seed for a while.
+Once you've unzipped the folder containing the software image, you'll need the Terminal app. Assuming you're using OS X 10.7 or later, you can launch it from Applications, and then either click Utilities (in 10.7) or Other (in 10.8). Once the Terminal App is up and running, navigate over to your Downloads folder via the command "cd ~/Downloads":
+
+You should now have at least two items in your Downloads folder. Verify that there's an ".img" file as well as a ".zip" file by typing "ls".
+
+
+Now let's focus on getting that extracted image file onto the SD card and no, you can't just drag and drop it onto the drive. First, we need your device layout before we insert the card. So if you jumped the gun and put your card in your Mac, take a moment to remove it safely.
+
+In the Terminal App, type: "df -h". You should see some output like this:
+
+
+Now insert your SD card and run the above command again, and note the new "/dev/disk1s1" line. Keep this handy -- you'll need to convert this to a raw disk name.
+
+
+Next we need to unmount that volume so the "dd" tool will be able to write the image to the SD card. Do this via the command "sudo diskutil unmount /dev/disk1s1". You'll get prompted for your system password, so enter that when asked.
+
+
+You should now see the last line "Volume XXX  unmounted" with "XXX" being the name of your card. Now, without further ado, we can finally write the Raspbian .img file to the SD.
+
+Remember that part where we told you to keep the disk name of your card handy? Now's the time for the conversion. Whatever your disk was named (e.g., /dev/disk1s1), remove the "s1" and add "r" in front of "disk" so that "/dev/disk1s1" becomes "/dev/rdisk1".
+
+So, for instance, "/dev/disk1s1" = "/dev/rdisk1". Make sense?
+
+Then type the following: "sudo dd bs=1m if=2012-06-15-wheezy-raspbian.img of=/dev/YOURDISKNAME". Replace  with your actual raw disk name -- more than likely this will be /dev/rdisk1.
+ 
+This will take a moment to complete. Once the "dd" command is done, safely unmount your SD card by dragging the disk image now showing on your desktop to the Trash bin.Our prep work is finished! Skip ahead to "Booting your Pi for the first time."
+
+If you're using Linux
+Whichever Linux distribution you're using, ensure you have the "dd" tool which you should have installed by default, regardless of the distro.
+
+Some assumptions we're making here:
+
+1) You have sudo configured and are familiar with it.2) You have fdisk installed (installed by default on most Linux distros).
+
+We tested this on Ubuntu since it's such a popular distro, and both of these are indeed present by default.
+
+Start out by downloading the Raspbian .zip to your home directory from this location. Again, you want the latest direct download of Raspbian. Here, too, consider seeding the torrent for karma's sake. Once you've downloaded the .zip file containing the Raspbian image, you'll naturally want to unzip it.
+
+Fire up a terminal on your Linux box and cd to your home directory via the "cd ~" command. Type "unzip imagename.zip", replacing "imagename" with the actual image you just downloaded (obviously).
+
+
+Next we need to determine the device name your SD card currently is using. Insert your SD Card and type "sudo fdisk -l".
+
+Notice the devices listed; more than likely you'll see something like this.
+Our device is "sdb," the one with 15.9GB of space. (Obviously, it's not our main 250GB hard drive.) Make note of the devices listed under "/dev/sdb", as you'll want to unmount them prior to writing the image for safety. In our case we see "/dev/sdb1" and "/dev/sdb2", so we'll run:
+
+sudo umount /dev/sdb1sudo umount /dev/sdb2
+
+
+Now let's write our image with "dd". Type "sudo dd bs=1M if=2012-08-16-wheezy-raspbian.img of=/dev/sdb". As we warned in the Mac how-to above, this will take a few minutes to complete.
+
+
+If you see a successful write as illustrated above, move on to "Booting your Pi for the first time."
+
+If you're using Windows
+If you've got a Windows system there's a nice little application called Win32DiskImager, which you can download here or here. Once you've done that, grab the Raspbian image from here. Choose the latest direct download of Raspbian.
+
+Once you've downloaded both Win32DiskImager and the Raspbian image, we'll need to unzip them. To keep things simple, extract everything to the desktop, or a folder located there, in easy reach. Unzip both win32diskimager-binary.zip and 2012-08-16-wheezy-raspbian.zip.
+
+Then insert your SD card into your reader. Make note of the drive letter. After unzipping those files and connecting your card, double-click the Win32DiskImager binary to load the program.
+
+
+As soon as Win32DiskImager loads, you'll see an error (in Windows 7, anyway).
+
+
+We found this safe to ignore. Click OK and the Application will load.
+
+
+Click the blue folder icon in Win32 Disk Imager and select your Raspbian image file, and ensure the Device listed is the same drive letter as your SD Card.
+
+Once you open your image, click "Write", click "Yes" to confirm the write and go grab a cup of coffee.
+
+
+When the writing has completed, you'll get this message, at which point it's safe to eject your SD card.
+
+
+If you happen to get stuck writing the image to your card, we recommend you head to the excellent beginners wiki found here.
+
+Booting your Pi for the first timeThe first time you boot the Raspberry Pi you'll see a configuration tool called "raspi-config." (If you ever need to revisit this configuration screen again, you can always call the "raspi-config" command from the terminal of your Pi.) While you're there, you'll need to change a few options.
+
+ 
+First off, we need to select "expand_rootfs". What this does is expand the installed image to use the maximum available size of your SD card. If you are using a larger card (16GB, say), you'll definitely want to make sure you can use the full capacity, since the install image is only about 2GB.
+
+Highlight that "expand_rootfs" option and press Enter. You'll then see the confirmation below, at which point pressing Enter will take you back to the main raspi-config screen.
+
+
+Next up is the overscan option. If you notice, the screen is not taking up the entire real estate afforded by your monitor; it's best to disable overscan so that you can utilize your monitor or television to its entirety. If your screen looks fine, though, you can skip this step. In any case, assuming you do go through with this step, select "overscan" and press Enter.
+
+Here you get the option to disable or enable. If you ever upgrade to a new monitor or television you may need to re-enable overscan at a later point.
+
+
+After that quick step, now we want to verify our keyboard settings. If you are in America you want to change this; if you're in Great Britain these are safe to leave at the standard config.
+
+Select "configure_keyboard" and press Enter. Then you'll be presented with a very long list of keyboard options. If you know your keyboard setup, select it in the list, otherwise you'll be fine with the default 105-key option.
+
+
+After selecting your keyboard type, you'll need to specify the layout. There's a good chance you want a different layout than English (UK), so choose "Other" and select the most appropriate option.
+
+
+
+You'll then be asked about modifier keys -- just choose the default here, as well as "No compose key" on the next screen. If later you find you need a compose key to create alternative characters, you can return to this configuration screen by running "raspi-config".
+
+The last option you'll need to set in the Keyboard configuration is the ALT / CTRL / BACKSPACE feature to kill X11. We recommend you enable this, so that in case your GUI ever crashes you can safely kill it without rebooting.
+
+Back at the main menu, the next step is to set a user password.
+
+
+Select "change_pass" and press Enter. After a confirmation screen, you'll be prompted to choose a new UNIX user password.
+
+
+Almost done now. Let's set your "locale," which is the general character set used by your native language. Again, if you don't live in Great Britain, you'll want to change this to your local character set. If you're in the good ol' US of A, you want en_US.UTF-8. Scroll down to your locale of choice, and de-select the en_GB option on your way. In our case, we'll be enabling en_US.UTF-8
+
+
+The next dialogue window will ask you to choose a default locale, select the locale you just chose on the previous screen and press Enter.
+
+Back on raspi-config's main menu, set the appropriate timezone by selecting -- you guessed it -- the "change_timezone" option. You'll be presented with a list of regions first.
+
+
+The next dialogue will show you a list of zones within that region. We think you know what to do here.
+
+
+Back at the main setup, you can safely ignore the remaining options for now and select "Finish." You'll be prompted to reboot to make changes; do so. Once your system is back online, you'll get a login prompt like so:
+
+ 
+Your login is "pi" and the password will be what you set it to earlier.
+
+Using your Raspberry PiNow that you've logged in to your freshly baked Raspberry Pi, the first thing you want to do is type "startx" to get your GUI environment loaded, which from here on out we'll refer to as your Window Manager.
+
+
+After a quick screen flicker you should end up with this (minus the terminal window):
+
+
+Welcome to the LXDE Window Manager. LXDE is a very lightweight, full-featured UI that runs pretty well on the Raspberry Pi. If you've never used LXDE before, it drives very similar to Windows. If you click the lower left icon, you'll see an application list. It works exactly how you'd expect it to.
+
+Now what?After you've got your Pi powered and the LXDE WM up and running, you essentially have a full-fledged Linux box running Debian. At this point you can browse the web with Midori, setup a webserver, or do general computing tasks.
+
+But first, let's talk about some utilities that are focused around what the Raspberry Pi is all about: education. Specifically, software development education.
+
+Writing your first program on the Raspberry Pi
+Raspbian comes preloaded with Python, the official programming language of the Raspberry Pi and IDLE 3, a Python Integrated Development Environment. We're going to show you now how to get started with IDLE and write your very first, albeit simple, Python program.
+
+When learning a new language, it's very common to create the classic "Hello World!" program, which is what we're going to show you how to do, but with a small twist. This Python program will ask for your name and introduce itself to you.
+
+First, load up IDLE 3 by double-clicking the icon on your LXDE desktop.
+
+
+Click File > New Window, which will then bring up a new blank window which you can type in.
+
+Then, type the following in your new window:
+
+#my first Python programusername = input("Hello, I'm Raspberry Pi! What is your name? ")print ('Nice to meet you, ' + username + ' have a nice day!')
+
+
+Now click File > Save As and in the new dialogue window that pops up, call your file "hello" and click "Save".
+
+Let's run that program you just wrote!
+
+Click Run > Run Module or simply press F5.
+
+When you get prompted "Hello, I'm Raspberry Pi! What is your name?" in the IDLE 3 window, type your name and press Enter. You'll see the Raspberry Pi responds. Et voila! Not much else to it.
+
+
+Wrap-up
+Your first Raspberry Pi program is, quite frankly, a very trivial start. Many more powerful applications can be written using the Python programming language. From here we recommend you take the Python tutorial over on the official Python site. If a seven-year-old can write a game on the Pi, surely you can.
+
+When you get tired of learning Python, you may want to relax and kick back with some retro gaming. You can configure your Pi to act as a MAME Arcade Emulator and connect it to your television, as shown here. Then, once your thumbs get sore, why not head over here and install XBMC? Since the Pi is capable of playing full 1080p video, it can act as a fairly decent media center once connected to an HD television.
+
+Of course, if you just want a cheap $35 Linux machine, the Raspberry Pi works great for that too. You'll find it's truly a joy to use -- a hacker's dream device with enormous possibilities. We expect to see a lot more applications for the Pi in the coming months, especially now that the Gertboard has been announced. Hopefully this article will inspire you to pick up one up and give it a try.
+
+!function(){for(var a="//link.monetizer101.com",b=[{lib:"widget/custom-2.0.3/js/load.min.js",method:function(){return MONETIZER101.init(a)}},{lib:"widget/search-2.0.3/js/load.min.js",method:function(){return MONETIZER101SEARCH.init(a)}}],c=b.length;c--;){var d=b[c],e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src=a+"/"+d.lib,e.onload=d.method;var f=document.getElementsByTagName("script")[0];f.parentNode.insertBefore(e,f)}}();

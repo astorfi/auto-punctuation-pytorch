@@ -1,0 +1,9 @@
+
+Internet Explorer has already been available on Windows 7 as an optional Release Preview, but now it's making its way to the aging OS in a more complete form. Starting today, you can download the final build, which for all intents and purposes is identical to the version that recently shipped on Windows 8.1. In fact, Rob Mauceri, Group Program Manager for Internet Explorer, tells us the company "began with a plan to align releases," and that the Windows 7 and 8.1 versions were developed at the same time. (That also explains why Win 7 users have lately been getting these updates soon after the Windows 8 crowd.)
+
+
+In case you need a recap, Internet Explorer brings some security and performance improvements, along with features like Pre-fetch and Pre-render for faster load times. Also, Microsoft improved on the "Flip Ahead" feature introduced in IE10 so that now, when you move forward to the next page in a story, IE will keep the previous page around in case you want to click back to it. If you like, you can download Internet Explorer 11 now, or if you're the estimated 90 percent of users who allow Windows to install updates without asking, then you don't need to do a thing.
+
+
+
+

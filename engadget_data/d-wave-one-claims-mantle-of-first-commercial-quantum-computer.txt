@@ -1,0 +1,9 @@
+
+ 
+
+Whether or not D-Wave has actually built a quantum computer is still a matter of debate (though, a study authored by the company and published in Nature claims to prove its success) but, whatever it is these crafty Canadians have created, you can order one now and start crunching qubits with abandon. The D-Wave One is the first commercially available quantum computer and, while its 128-qubit processor can only handle very specific tasks and is easily outperformed by traditional CPUs, it could represent a revolution in the field of supercomputing. As D-Wave scales up to thousands or tens-of-thousands of qubits, complex number theory problems and advanced cryptographic systems could crumble before the mighty power of quantum annealing... or at least give us faster Google searches. Just out of curiosity, we contacted D-Wave to see how much we'd have to cough up for a quantum desktop of our own, but we've yet to hear back.
+
+Update: Joseph passed along an e-mail from the company with a little more information, including a price: $10,000,000. Yep, ten large, and we're not sure that includes the liquid helium required to keep it cooled.
+      
+
+ 

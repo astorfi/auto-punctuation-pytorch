@@ -1,0 +1,5 @@
+
+ It's roamed relatively unscathed for a few months now, but it appears that BackupHDDVD -- the app that helps bypass the AACS copy protection on HD DVDs -- has been hit with its first major setback, drawing a DMCA takedown notice and vanishing from its perch at SourceForge as a result. Speaking to Wired blog 27B Stroke 6, SourceForge parent company VA Software's General Counsel Jay Seirmarco revealed that the AACS's complaint centered on copyrighted cryptographic keys allegedly contained within BackupHDDVD, which he says was verified to be true, giving SourceForge reason to remove the software. He added, however, that SourceForge would be willing to host a version of BackupHDDVD that did not contain the keys in question. This course of events will no doubt be familiar to anyone's who's followed the FairUse4WM saga, in which Microsoft issued a similar notice demanding that the software be taken down from its host site. Of course, BackupHDDVD isn't the only bit of software that messes with the copy protection on HD DVDs, although, as of yet, it's main rival AnyDVD HD remains untouched and readily available, albeit for a price.[Via Slashdot]
+      
+
+ 

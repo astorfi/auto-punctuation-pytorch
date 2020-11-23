@@ -1,0 +1,11 @@
+
+
+Here's the thing about Assassins Creed: Pirates (you know, aside from the obvious swashbuckling theme): It was made specifically for phones and tablets. In fact, Ubisoft warned from the get-go that we probably wouldn't see a PC or console version. Starting today, though, you can play it on your computer after all -- well, sort of. Ubisoft just released a free browser-based version allowing you to play in the browser, using either touch input or a mouse and keyboard. What's nice, too, is that although Ubisoft developed the web game with Microsoft, it actually works with every major browser -- Chrome, Firefox, Opera, Safari and, of course, IE. As a bonus, it runs full-screen, something most web-based titles can't do.
+
+
+
+There are a couple catches, though, starting with the very nature of the game. Though Assassins Creed: Pirates is indeed a shoot-em-up title in its original form, the web version is a simple racing game (not that there's anything wrong with that), where you challenge your friends to see who can steer the ship the fastest. From the settings menu, always a click away in the upper-left corner, you can change the weather conditions on the fly in case you get bored with racing in calm waters. Speaking of, this might be a good time to underline another Microsoft connection: the game makes use of Babylon.JS, an open-source 3D engine based on WebGL, JavaScript and TypeScript that was developed by four developer evangelists at the company.
+
+The second catch: the game only works on desktop browsers, which means unless you're using a Windows tablet with IE installed, you're out of luck; it won't work on the mobile version of Safari, for instance. (Moral of the story: get a Surface.) Assuming you've got a Windows tablet or a computer of any sort, the game is live now, with support for five languages and three difficulty levels. Check it out!
+
+

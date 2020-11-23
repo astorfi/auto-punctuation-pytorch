@@ -1,0 +1,22 @@
+
+ 
+iPhone / iPod touch updates
+
+The iPhone 1000 SMS limit is now lifted! Huzzah!
+You can now "pre-type" with two thumbs on v1.1.3 now (i.e. type, type, lift thumb, lift thumb -- instead of the usual type, lift, type lift, which is a big slow-down). Thanks Dan L.
+Gmail IMAP is now officially supported! Thanks, Niall.
+iPod touch can still geolocate, but using Skyhook only (since, naturally, it doesn't have cell tower access like the iPhone + Google).
+
+Apple TV updates
+
+The update adds AirTunes support for the Apple TV for streaming directly to the device.
+ Your average HD movie download for the ATV is going to be about 4GB -- but if you've got a reasonably fast connection it should start streaming and playing within a minute.
+ Standard SD movies should be a bout 1.2GB.
+ Just to be clear about how rentals work, they can't move OUT of the Apple TV if acquired ON the ATV. If you need to finish your movie on the go but bought from ATV, you have to rent it again on iTunes with your computer.
+ You've also now got "favorites," which act as pseudo-subscriptions. These aren't synced or the same as the subs in iTunes.
+ Front Row is NOT undergoing any UI changes (at this time). Don't expect it to look the same as the new Apple TV.
+ Search isn't alphabetical, it's predictive and recommendation based. So if you're looking up a letter, the results will seem out of order, but will actually be calculated to be the most likely hit based on popularity.
+There's Dolby Digital 5.1, as we saw, but otherwise there are no codec changes in the ATV.
+
+Head this way for even more on the new Apple TV and iPhone / iPod touch v1.1.3 updates:Apple TV Take 2 hands-onMore details on Apple's iTunes movie / HD rentalsVideo: iPhone firmware 1.1.3 doing its thingThe skinny on iPhone and iPod touch firmware 1.1.3iPhone firmware 1.1.3 update announced: it's just like we heard
+ 

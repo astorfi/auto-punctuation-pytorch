@@ -1,0 +1,9 @@
+
+ 
+
+A very strange thing popped up on mobile graphic benchmarking site NenaMark the other day -- an entry for the Droid Bionic. Now, it would be very easy to fake this test, and you'd be right to be skeptical given the incomplete score and the fact that it's reporting PowerVR's SGX 540 GPU, instead of the Tegra 2 we saw at CES. But, let's not be too hasty -- we heard back in April that NVIDIA's mobile chip wasn't playing nice with Verizon's LTE. Perhaps when Motorola said it was delaying the Bionic to incorporate "several enhancements" it really meant "rebuilding the phone with a more LTE friendly CPU." Both Samsung and Texas Instruments use the SGX 540, and Moto has previously turned to TI's OMAP for the Droid, Droid 2, and Droid X. Then again, a single, suspiciously low benchmark score isn't the most convincing basis for a rumor.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

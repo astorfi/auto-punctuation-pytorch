@@ -1,0 +1,9 @@
+
+ We're sure that the debate of a carefully controlled and curated environment like Apple's App Store versus a free-for-all like the Android Market will rage on for years to come, but here's something to chew on: Google just removed some 21 apps from the Market in the last day from a publisher going by Myournet for doing all sorts of naughty things to your device. Offenses include attempting to root your phone, uploading phone information (including IMEI) to who-knows-where, and -- most egregiously -- adding a backdoor that allows additional code to be pulled down and executed.
+
+At least some of the apps are pirated versions of existing apps that have been re-uploaded at zero cost to the user, which makes them appealing... and the trick apparently works quite well, because the 21 managed to clock over 50,000 downloads before getting taken down. This isn't the first time malicious apps have shown up on smartphones -- far from it -- but it's probably the highest-profile case of a first-party app store being infiltrated by really bad stuff. If there's a silver lining, it's that Google was extraordinarily quick to respond once Android Police reported the situation -- the site says it took less than five minutes from the time they reached out to the time the apps actually went offline. Still, that's little consolation if you've already installed your "free" copy of Super History Eraser. Hit the source links for the full list of pulled apps.
+
+Update: Android Central points out that the type of root exploit used in these apps was patched in Android 2.2.2 and up, so Nexus One and Nexus S owners should be fine; everyone else is left out in the cold, though, thanks to the vexing third-party update lag. Thanks, Z!
+      
+
+ 

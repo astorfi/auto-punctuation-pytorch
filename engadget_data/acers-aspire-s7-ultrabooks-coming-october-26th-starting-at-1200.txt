@@ -1,0 +1,14 @@
+
+ Back at Computex, Acer announced the Aspire S7 series -- the company's third line of Ultrabooks, and the first of the bunch to sport touchscreens. At the time, we were told they'd go on sale once Windows 8 started shipping and sure enough, Acer just sent out a press release confirming they'll be available October 26th, the day Win 8 officially launches. Prices will start at $1,200 for the 11-inch model (the S7-191), but you'll pay either $1,400 or $1,650 for the 13-inch version (S7-391), depending on which configuration you choose.
+
+ For those who missed the initial June reveal, the laptops all have 1080p IPS screens and backlit keyboards. The 13-inch model in particular has a display that can lie completely flat. Another key difference: the 11-inch version has an aluminum lid, while the 13-incher's is fashioned out of Gorilla Glass. Whichever you choose, the S7 comes with a USB to Ethernet adapter, a micro-HDMI to VGA dongle and a carrying case -- a first for Acer. They also make use of Acer's TwinAir cooling technology and are set up to work with AcerCloud, the company's free online storage service, which you can use with mobile apps on iOS and Android.
+
+ Inside, the SSDs are all arranged in RAID 0 configuration, which means you can expect the kind of absurdly fast I/O speeds we recorded on the Aspire S5. (The lack of redundancy in that RAID 0 setup also means you might want to be extra vigilant about backing up your stuff.) The battery life is rated for six hours on both models, but the 13-inch version will be available with an external cell that can supposedly double the runtime. Meanwhile. RAM is fixed at 4GB, and integrated Intel HD 4000 graphics are the standard. All told, just the kind of specs you'd expect on a high-end Ultrabook.
+
+ Again, these will ship on October 26th, starting at $1,200 for the smaller 11-inch model. In the meantime, we've got a few additional specs after the break, and you can always revisit our hands-on from Computex if you want to re-live the magic of a crowded press conference.
+
+
+
+
+
+

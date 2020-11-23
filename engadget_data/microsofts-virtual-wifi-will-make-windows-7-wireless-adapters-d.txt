@@ -1,0 +1,6 @@
+
+ 
+It's been a long, long time since Microsoft Research first released its findings on Virtual WiFi, or VWiFi, technology that would allow a single wireless network adapter to act like two, two, two NICs in one. Now that innovation is finally ready for the big show: inclusion in Windows 7 -- or at least some flavors of it. The tech lets one piece of WiFi hardware be represented in Windows as two separate adapters, meaning you can connect to two hotspots simultaneously if you like, or turn your virtual device into an access point that others can connect to. Apparently this functionality is indeed included in the latest release candidate, but as there are no drivers currently supporting this feature it's not enabled. Expect the driver situation to change very soon, and expect hotel fee-based wireless internet access companies to start crying foul not long after.
+      
+
+ 

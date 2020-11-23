@@ -1,0 +1,16 @@
+
+ 
+If you're scoring at home, NVIDIA currently holds the lead in single-GPU graphics cards with its GeForce GTX 580, but ATI's dual-chip Radeon HD 5970 has been holding down the absolute speed crown for a good long while. Now, bearing the name of AMD Radeon HD 6990, its successor sidles up to the throne and demands attention as the fastest single expansion board you can plug into your shiny new motherboard. The 6990 boasts a massive 4GB of GDDR5, 3,072 Stream Processors, 64 ROPs, and an 830MHz core clock speed. A dual-BIOS switch will let you crank that clock up to 880MHz with a corresponding increase in voltage, but don't expect to see much overclocking headroom above that. 
+
+Reviewers note, alongside their fawning assessment of the world's best performance, that the HD 6990 is a massively power-hungry card (375W TDP) and one that makes quite a bit of noise while going through its herculean tasks. That's in spite of a new vapor chamber cooling system that allegedly supports up to 450W of thermal output. If all this strikes you as a somewhat flawed execution, maybe you'll join us in hoping NVIDIA's imminently upcoming response, dubbed the GTX 590, will be able to offer a neater, more efficient assault on the extreme peaks of graphical performance.
+
+Read - HardOCP
+Read - AnandTech
+Read - Tech Report
+Read - PC Perspective
+Read - techPowerUp!
+Read - Hot Hardware
+Read - Hexus
+      
+
+ 

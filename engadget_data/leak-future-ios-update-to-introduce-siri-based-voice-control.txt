@@ -1,0 +1,7 @@
+
+ 
+
+When Apple snatched up Siri back in April, we had to wonder exactly what Cupertino was planning for the voice controlled virtual assistant. The answer, according to a new leak, is unsurprisingly obvious: iOS integration. A screenshot leaked to 9to5Mac flaunts an "Assistant" feature presumably built into a firmware update. To back up the screenshot, the aforesaid site dove into the iOS SDK and uncovered code describing Siri-like use of the iPhone's location, contact list, and song metadata. The code also outlined a "speaker" feature, opening a door for further Nuance integration in Apple products. Sound awesome? Sure it does, but keep it salty: 9to5's source says the assistant feature only just went into testing, and may not be ready in time for Apple's next big handset upgrade. Hit the source link to see the code and conjecture for yourself.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+
+
+When Google released a new version of Google Maps for Android yesterday, it was quickly discovered that offline mapping support had been removed. You could kind of turn it back on by typing "OK Maps" into the app's search field, but the lack of a dedicated button had users up in arms. Today, Google is announcing that it's adding a "Make this map area available offline" button and that it's rolling out globally later today. There's also a new clickable item in the sidebar called "Where's Latitude?" that'll remind you the service is shutting down on August 9th. Despite these changes, we still can't help but compare the app to Nokia's Here Maps for Windows Phone, which puts particular focus on offline navigation.
+
+
+Update: According to Android Police, a new button isn't the only new thing in Google Maps. Navigation support has been added to an additional 19 countries, including Taiwan and Thailand.
+
+

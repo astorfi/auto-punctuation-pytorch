@@ -1,0 +1,16 @@
+
+There's a new kid on the Arduino block, and it's called the Arduino Robot. Launched yesterday at Maker Faire Bay Area, it's the company's first product that extends beyond single microcontroller boards. The Roomba-like design, which we first saw in November 2011, is the result of a collaboration with Complubot. It consists of two circular boards, each equipped with Atmel's ubiquitous ATmega32u4 and connected via ribbon cable.
+
+
+The bottom board is home to four AA batteries (NiMH), a pair of motors and wheels, a power connector and switch plus some infrared sensors. By default it's programmed to drive the motors and manage power. The top board features a color LCD, a microSD card slot, an EEPROM, a speaker, a compass, a knob plus some buttons and LEDs. It's programmed to control the display and handle I/O. Everything fits inside a space that's about 10cm high and 19cm in diameter.
+
+
+Pre-soldered connectors and prototyping areas on each board make it easier to customize the robot platform with additional sensors and electronics. It even comes with eleven step-by-step projects and a helpful GUI right out of the box. The Arduino Robot is now on sale at the Maker Faire for $275 and will be available online in July. Take a look at our gallery below and watch our video interview with Arduino founder Massimo Banzi after the break. 
+
+
+
+
+
+
+
+ 

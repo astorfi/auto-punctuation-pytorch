@@ -1,0 +1,13 @@
+
+Last week security researchers published a way to skim Snapchat's full database, and it appears someone did it before the vulnerability -- which, according to those researchers had been known for months -- was addressed. A website called SnapchatDB! has appeared posting SQL/CSV files that it claims contain the username and associated phone number for a "vast majority" of the service's users, with the last two digits of the numbers obscured. Snapchat eventually admitted that such a hack was theoretically possible, but said additional countermeasures and safeguards it's implemented would make that harder to do. That amounts to 4.6 million pairs, although actually downloading the files to actually use them or verify the claim seems impossible, presumably due to an overload of traffic.
+
+
+We don't know who is behind the website (its WHOIS record is hidden by WHOISGuard), but the homepage claims this release is happening to "raise awareness" of the fact that companies should be more careful with the private information of their users. As the site mentions, even the info included could be enough to figure out someone's phone number from their username (if it's also used publicly on Twitter, for example), especially problematic for those with unlisted numbers. They also have not ruled out releasing the uncensored database "under certain circumstances," so if you've ever used the service this may be something to keep an eye out for.
+
+
+Update: Developers Robbie Trencheny and Will Smeindlein have worked up a searchable database to see if your info is among those captured. It's accessible here, and searches by username, apparently based on the SQL file uploaded. Our friends at TechCrunch apparently found at least one writer's info in the database, although a Reddit user who grabbed the file suggests only certain area codes are affected.
+
+
+
+ @rjcc Hi, @ws and I made this quick tool to check if your Snapchat username was in the DB leak: http://t.co/xmETsCN5ft
+- Robbie Trencheny (@Robbie) January 1, 2014

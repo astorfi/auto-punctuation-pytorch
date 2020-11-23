@@ -1,0 +1,12 @@
+
+
+If you haven't heard yet, Cupertino just launched a digital wallet called Apple Pay that randomizes your credit cards' numbers. The one responsible for generating those fake numbers for Visa cards in particular, is Visa itself, through its new Token service, which the world's largest credit and debit card company has announced right after Apple's big reveal. These "tokens" are random numbers not associated with your name or real card numbers. You can use them to purchase anything online or by using mobile to pay via contactless payment systems in brick-and-mortar stores. Visa's system can even generate different tokens for each merchant, device or type of purchase, if you want to be even more secure.
+
+
+
+                 
+ 
+ 
+ The great thing about using tokens is that you won't have to scramble to cancel and replace your card with a new one in case a retailer or a website suffers a security breach, because they never had your real CC details in the first place. As you've probably guessed, Apple Pay users will get the first crack at using Visa's Token Service, starting in October for folks in the US and in 2015 for the rest of the world. The technology was designed to work with all major platforms, though, so it'll eventually be available to its other customers (read: those using other devices through other digital wallets) in the future.[Image credit: Alamy]
+
+

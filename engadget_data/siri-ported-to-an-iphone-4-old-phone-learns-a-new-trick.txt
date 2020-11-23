@@ -1,0 +1,12 @@
+
+ 
+
+Apple's iPhone 4 may not have the fancy dual core CPU of its successor, but thanks to the efforts of developer Steven Troughton-Smith and the folks at 9to5 Mac, it may soon have Siri. The port of the sultry voice assistant was accomplished by using the 4S Siri and Springboard files, and some serious elbow grease, no doubt. As you can see in the video below, it's far from perfect, but it can recognize spoken commands without issue. Currently, the hack is missing an iPhone 4 GPU driver that keeps things running buttery smooth on the elder phone, and Cupertino won't authenticate Siri's commands coming from it either. So, it isn't quite ready for primetime, but it should only be a matter of time before all you iPhone 4 owners can tell Siri what to do, too.
+
+Update: And in the space of just a few hours, Mr. Troughton-Smith has already managed to improve performance of the app on the iPhone 4 significantly, although Apple's servers are still unreachable. Check out a newer YouTube video showing off some seriously smooth scrolling action after the break. [Thanks, Ramzi]
+      
+
+ 
+
+  
+ 

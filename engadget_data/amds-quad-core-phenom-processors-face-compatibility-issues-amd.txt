@@ -1,0 +1,5 @@
+
+ There's all the makings of a class-A debacle over at AMD headquarters, as it turns out that the chip maker's quad-core Phenom processors are incompatible with some popular motherboard chipsets. Due to a thermal frequency mismatch, the 125-watt 9750 and 9850 CPUs don't play well with 780G-based mobos -- which are designed for AMD's less power-hungry 9600 and 9550 processors. Instead, AMD warns that its quad-core processors should be paired with the company's 790 chipset. Spokesman Jake Whitman blamed PC makers, stating that, "They've taken an enthusiast-class quad-core part and paired it with a mainstream motherboard." Confused yet? Exactly.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+
+Somewhere deep within the bowels of iOS 5 lurks a panoramic camera function, and hacker Conrad Kramer has unlocked it. The trick, according to Kramer (AKA Conradev), is to set the "EnableFirebreak" key to "Yes" within an iOS preference file. Alternatively, you could just grab fellow hacker Grant Paul's Firebreak tweak, which just hit the Cydia storefront this morning. Once installed on your jailbroken phone, Firebreak will allow you to take full panoramic shots directly from the iOS interface, as pictured above in Paul's screenshot. No word yet on if or when Apple plans on flipping this function live, but in the meantime, you can check out the links below for more details.
+
+[Thanks, Charlie]
+      
+
+ 

@@ -1,0 +1,21 @@
+
+
+A few years ago, the FTC decided not to pursue an antitrust lawsuit against Google despite finding that its search algorithm really was biased. Now, we finally know the details of that lengthy investigation, thanks to a report written by FTC staffers that recently surfaced due to an open-records request. According to the 160-page report, the employees found evidence that Mountain View was demoting its competitors and placing its own services on top of search results lists, even if they weren't as helpful. Google Flights, for instance, would rank highly during the staff's test searches, even though it didn't offer as many options as other flight aggregators and travel websites like TravelAdvisor.
+
+
+
+Former Googler and now Yahoo CEO Marissa Mayer once said that the company didn't rank its own websites based on clickthrough rates like it did others. If Google did that, then its services would have been buried underneath piles of other more relevant results. The investigators' report corroborate that statement: they discovered that the company used a special algorithm to boost its products' placement on the results page. That algorithm determined which Google product to promote based on what's relevant to the query. For example, if you were looking for restaurant reviews that would inevitably bring up Yelp results, the algorithm would automatically place Google Local higher up on the list.
+
+That's not all, though: the team also determined that Google scraped or copied competing websites' content. Yelp publicly accused the company of copying its reviews in the past, and the report says Mountain View also copied Amazon product rankings.
+
+These new details have prompted Google General Counsel Kent Walker to issue a statement defending the company:
+
+After an exhaustive 19-month review, covering nine million pages of documents and many hours of testimony, the FTC staff and all five FTC Commissioners agreed that there was no need to take action on how we rank and display search results.
+
+We regularly change our search algorithms and make over 500 changes a year to help our users get the information they want. We created search for users, not websites-and that focus has driven our improvements over the last decade.
+
+While the FTC didn't sue Mountain View for its anti-competitive practices, it got Google to promise to change its ways. The staff mentioned in the document that the company tweaked its algorithm, but it had to do so four times before testers gave it a "slightly positive" feedback. These changes were implemented way after Google got what it wanted, though: that old special algorithm already increased traffic to its services.
+
+Update: We added more information about Google's alleged scraping habits.
+
+

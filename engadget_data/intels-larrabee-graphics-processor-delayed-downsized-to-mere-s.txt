@@ -1,0 +1,6 @@
+
+ 
+Well. NVIDIA has to be loving this. Intel has announced today that not only is its Larrabee graphics chip delayed, that chip which promised to usher in a new era of post-GPU computing, but that it's been downgraded to a "software development platform." Intel isn't even saying what that "software development" will be aimed at, though we have to assume it would be some future version of the hybrid GPU / CPU chip. As to when the kit itself might arrive is anybody's guess, Intel is merely saying "next year." Meanwhile we can look forward to Intel's first example of a GPU / CPU hybrid in the upcoming Pineview Atom processor, which kicks those lackluster integrated graphics to the curb and moves everything onto the CPU. Who knows if that will be enough to quell the NVIDIA's quiet takeover of the higher-end netbook space with its ION graphics, but with Intel's current track record in the graphics space, we doubt it.
+      
+
+ 

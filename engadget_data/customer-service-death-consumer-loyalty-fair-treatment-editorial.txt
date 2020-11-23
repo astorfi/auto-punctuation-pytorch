@@ -1,0 +1,65 @@
+
+ Allow me to explain how two discussions started off in very similar ways, and ended... shall we say, differently. This is me, attempting to muster any sort of pleasantness in my voice at some ungodly hour of the morning on a Google Voice connection from Dubai back to the US:
+
+ "Hey! I'm having to cut a trip short due to an emergency back home. I actually purchased a trip protection plan when I checked out online -- would it be possible to provide a refund for this flight now that I need to cancel it?"
+ From here, I was told that this was too vague. That I would need medical proof of an injury or illness, and that if it were a pre-existing condition -- something like reoccurring cancer -- that simply wouldn't do. Oh, and if it's a home emergency, you'll need proof from your home insurance company that your abode is "uninhabitable."
+
+ "So... I'm basically hosed here? This trip protection plan doesn't really protect very much, does it?"
+ "... Do you want to file the claim?"
+ "No. That's okay. Thanks for your time."
+ It doesn't have to be this way.
+
+
+  Something tells me the definition of "help" isn't exactly set in stone. The company I was referring to is Allianz Global Assistance. It's the outfit that Orbitz partners with to provide a sham known as "Trip Protection." The person on the other end of the line recited the absurd list of acceptable excuses without missing a beat, with nary a hint of empathy or any sign that they were - in fact - not a robot. Admittedly, the CSR was in a bad spot. Their job is essentially to answer pleas all day with "No." I wonder how often they're actually able to help someone. Judging by these numbers, not often - Allianz's quarterly operating was 2.4 billion euros in Q2 2012. Think about that. This company raked in 2.4 billion euros. In three months. One has to wonder how much smaller that number would be if it spent more time saying "yes" to those who come calling in their time of need.
+
+ Allianz's homepage on the web looks a lot like most other insurance websites, and it doesn't take much scanning to find this: "We're here to help. In fact we've been helping people for nearly 60 years." Something tells me the definition of "help" isn't exactly set in stone.
+
+ 
+ You may wonder what this has to do with consumer technology, and moreover, you're probably wondering why a dead horse is being beaten. After all, hasn't insurance always been in the business of figuring out ways to sidestep their promises? Allow my second conversation to explain.
+
+ "Hey! I'm having to cut a trip short due to an emergency back home. I know I paid for 32 days of service up front, but is there any way you could deactivate the service 10 days early and provide a refund for the prorated amount?"
+ This time, it was via email - on a Saturday. Within two hours, I was staring at the following email reply:
+
+ "Thank you for contacting iPhoneTrip's Customer Care Center.
+ Please be informed that your SIM card will be deactivated on (redacted). Your invoice was recalculated and your credit card was refunded for the (prorated amount).
+ If you have any questions, please feel free to ask us."
+ I was shocked. I literally sat and stared at my Gmail inbox and attempted to wrap my brain around the incredulously different handlings of two very similar situations. I, of course, wrote back and thanked the company for its graciousness and assured the support team that I'd be using them for all future travel overseas.
+
+  The status quo doesn't have to be the way it is. The real kicker is this: iPhoneTrip had no idea that I had purchased this SIM through the same channel as everyone else. This wasn't an arranged "media review unit." There was no special treatment, assumed or otherwise. This is simply how iPhoneTrip's support team is taught to react to unfortunate requests such as mine. To reframe this, I effectively emailed this company and asked them for money back - money that I didn't deserve, and money that it had every right to keep. But it chose to react with a level of mercy, dignity and courteousness that has become increasingly hard to find in companies of all stripes. And yes, even technology companies.
+
+ 
+ The status quo doesn't have to be the way it is. The art of customer service is dying such a spectacular death that it takes only a slight bit of rule bending to lock a customer in for life. The point came up once more in a wide-ranging interview I had with Ahmad Zahran, the founder of Infinitec. During the talk, I asked him what his forthcoming $99 Pocket TV offered over $55 alternatives that are widely available in Shenzhen, China (and by extension, the world). He made a point to emphasize the importance of customer service that you don't get when you just buy a slab of components from a cardboard box.
+
+ "Email us and see how quickly we respond," he said.
+
+ Continuing, in no uncertain terms: "Right now, it's incredibly frustrating that we've hit this unexplained wall with PayPal and we're unable to accept new pre-orders through it. The fact that this is causing a customer service issue on our end is a huge deal for us. But the difference is that PayPal could not care less about servicing us. We care about servicing our customers who are attempting to purchase through PayPal."
+
+  The art of customer service is dying such a spectacular death that it takes only a slight bit of rule bending to lock a customer in for life. In fact, my recent experiences with customer service in the technology realm have reaffirmed one thing in particular: PayPal is perhaps the model for disservice in the space that I cover. I can only hope that those reading these words never have any run-ins with PayPal - even if you know you're right, and you've got the documentation to prove it, chances are you'll lose. It's a troubling, troubling thing. It extends beyond the realm of usability and consumer technology, hammering away at the fabric of humanity that is so often thrown aside when service issues arise.
+
+ For those unaware, Infinitec - a Dubai-based technology startup that recently raised half a million dollars on Kickstarter to fund its Pocket TV - was accepting pre-orders through PayPal. As $30,000 or so poured in, there was no sign of trouble anywhere. PayPal was more than happy to have the funds flowing in, enabling it to earn interest on every last penny as they sat idle in the account. Then, after a request for a partial withdrawal, the account flipped into a "limited" access mode; shortly thereafter, it was frozen entirely. No payments were being allowed in or out, and somehow - astonishingly - PayPal has the authority to do this.
+
+ 
+ It's not only sickening; it should concern you greatly. PayPal, for all intents and purposes, has an internet-wide monopoly on digital fund exchanging. There really aren't any globally accepted alternatives at the moment. And in March of 2012, according to CNET, the Federal Deposit Insurance Corporation said "it does not consider the company to be a bank or savings association because it does not accept deposits as defined by federal law, which requires institutions to have a banking charter."
+
+  PayPal, the world's largest online bank, is allowed to parade around on its own terms, making up its own rules and freezing accounts for reasons it doesn't have to disclose to anyone. In other words, the world's largest online bank is allowed to parade around on its own terms, making up its own rules and freezing accounts for reasons it doesn't have to disclose to anyone. Infinitec is still waiting for answers on why it cannot accept or remove funds, and has even gone so far as to inform PayPal that it would happily allow it to hold funds until it's able to ship the Pocket TV - after all, one would think that this gesture would eliminate the assumed risk that PayPal is guarding itself against.
+
+ Infinitec isn't alone. I myself am still owed $1,500 from PayPal due to an eBay auction that went tragically wrong a few years back. A bidder paid via PayPal using fictitious digits, and rather than PayPal actually noticing, it happily added the funds to my account and assured me that I was cleared to ship the product. Upon trying to withdraw the funds, my account was frozen until PayPal could deduct the amount paid. I was left up a highly populated, oftentimes stank, creek sans a paddle, and judging by the myriad forums and websites littered across the web, folks like myself and Infinitec are swimming in the same muck.
+
+ 
+ But it's not just atrociously obvious customer service failures that are killing spirits in the technology world -- it's the pervasiveness of nonchalance.
+
+ On May 18th, my wife applied to become a member of Nikon Professional Services. It's something of an underground organization crafted by Nikon, enabling those who shoot for a living to be in elite company when needing rushed repairs and loaner items. It's a brilliant thing, really. Best of all, it's totally free to join - provided you own the necessary amount of kit, are a full-time photographer, and you know an existing NPS member that can vouch for you.
+
+  It's not just atrociously obvious customer service failures that are killing spirits in the technology world -- it's the pervasiveness of nonchalance. It is currently September of 2012, and she's still not a member of NPS. In what can only be described as one of the world's easiest processes to complete, Nikon has somehow bungled this to the point of hilarity. Four months later, and this company cannot adequately serve its most loyal customers. I've heard a smattering of excuses -- mostly ones surrounding promises that it has sent an application to a sponsor that he has yet to receive. But at what point do the excuses become more than excuses? At what point is it just obvious that a company couldn't care less about its customers? Or, perhaps, that it simply has not devoted the resources to establishing a service department to accomplish some of its most important goals.
+
+ I've lost all faith in Nikon as a service-oriented company. The only reason I can muster for continuing to stick with it is that my existing investments in equipment are too deep to abandon. Perhaps my story is an isolated one, but it's one too many. What good is a gadget without support? What good is technology without people to back it?
+
+ 
+ My advice to both startups and monoliths alike is simple: never lose focus on service in the race to win hearts and minds with raw horsepower. Don't brush empathy aside for the sake of crafting a superior user interface. Don't breed a culture of indifference -- one that throws out "no" more frequently than "yes," simply because it's expensive and mentally taxing to truly solve the problems of those who pay for your wares. PayPal is living proof that no amount of bad publicity from years of customer service atrocities can put a strong monopoly out of business, but companies like iPhoneTrip and Zappos -- an online shoe company that offers gratis returns both ways, exceedingly friendly CSRs and routine shipping upgrades -- are proof that service can encourage loyalty, too.
+
+  My advice to both startups and monoliths alike is simple: never lose focus on service in the race to win hearts and minds with raw horsepower. It's also important to note that I'm not writing this after just a rough 2012. I've been making a point to perceive customer service interactions for years, and it's finally to the point where I simply cannot stand around and write nothing. The way I see it, customer service is falling by the wayside. You can look at research surveys all you want, but largely, they're impossible to trust. Who says they're surveying 1,000 people who've been wronged? Do people really tell the truth when asked to say something negative about someone?
+
+ The answer can't always be "yes." And I'm not arguing that fine print isn't technically the final word. But hawking technology to the masses with a frail support system is a highly toxic thing, and in a world where far too many curveballs are thrown, we should at least expect our consumer-focused companies to care about us beyond the initial purchase.
+
+ This article originally appeared in Distro Issue #58.
+

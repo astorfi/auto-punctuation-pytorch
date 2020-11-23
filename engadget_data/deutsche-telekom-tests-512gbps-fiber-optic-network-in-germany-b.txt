@@ -1,0 +1,5 @@
+
+ If you thought Google's Kansan stab at blistering gigabit speeds was lust-worthy, then this latest fiber feat out of Germany should have you flooding the room with drool. Part of Deutsche Telekom's OSIRIS (Optically Supported UP Router Interfaces) project, the telco's T-Labs team managed to successfully transfer data "over a single optical fiber wavelength channel" from Berlin to Hanover and back at speeds of up to 512Gbps -- that's over half a terabit. It's hard to imagine just what exactly you'd be able to do with all that bandwidth (upload your entire music and video library, perhaps?), but this real-world experiment should go a long way towards helping operators shore up increasing network demands, going so far as doubling their backhaul capacity. As for any actual implementation of the next-gen tech, well, the good news is that a costly and lengthy cable deployment won't be necessary; all that's required to get these state-of-the-art dumb pipes up and running is some newfangled terminal equipment. Don't hold your breath, though, as with all things bleeding edge, this tech is still light years away from your mitts.
+      
+
+ 

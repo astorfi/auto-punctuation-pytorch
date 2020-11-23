@@ -1,0 +1,8 @@
+
+       
+Twitter's abuzz with angry Comcast customers tonight, as internet service is down in Boston and parts of the eastern United States, a situation the company's since confirmed at its official Twitter account. Comcast's calling it an unexpected outage and says that "engineers are finalizing the correction" as we speak, though it's admittedly been a couple of hours since that tweet. Meanwhile, Twitter at large seems to have figured out it's a Comcast DNS issue, and have had some luck switching to alternate servers like Google's at 8.8.4.4. and 8.8.8.8. Let us know if those work in comments after the break... assuming you manage to find this post in the first place given the present state of your connection.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

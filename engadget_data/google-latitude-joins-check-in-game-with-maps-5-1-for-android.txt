@@ -1,0 +1,8 @@
+
+ 
+We're honestly surprised it took this long, but Google is finally employing a social hook that so many of its peers (Foursquare, Facebook, Yelp, and so on) have long embraced: the location-based check-in. Coming to Google Latitude with today's Maps 5.1 for Android, the company hopes to set itself apart from the competition with features like check-in notifications (disabled by default), automatic check-ins for your most frequent establishments (case-by-case activation), and "check out" that detects when you leave a location. 
+
+So what's the incentive to use the service? Not much at this point -- no badges, no sharing through third-party services like Twitter (Latitude-only at the moment), no support for simultaneous check-in with other services, no special vendor discounts (Google told us there's nothing to announce yet), and no ability to create a venue like your apartment (Places only). What it does right is a tiered system of special statuses based on check-in frequency -- you can become a regular, VIP, or Guru (Google says it's not definite yet on how many check-ins each status bump will require). iOS Latitude users will be able to see where their Android friends check in, but at this point the option to pimp your specific location is for Google's platform only. If you're a fan of Latitude already, this is probably a no-brainer, but for everyone else, don't expect mayoral coffee discounts just yet.
+
+
+

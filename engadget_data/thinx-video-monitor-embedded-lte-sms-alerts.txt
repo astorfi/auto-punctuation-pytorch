@@ -1,0 +1,15 @@
+
+ As part of our tour through Verizon's Waltham, Mass.-based Innovation Center this week, we were able to see a brief demo of the Thinx 4G LTE video monitor -- a product that was briefly teased at CES, but we've heard precious little about since. Essentially, this is a rather sophisticated 1080p video monitor, designed for small businesses that would prefer that their monitors do more than just capture reels of archived footage. Thinx's solution throws in an admin panel and a smartphone app; users can install the camera and then define hot zones for the sensor to keep tabs on. If and when a specific event occurs (e.g. 50 individuals cross a virtual line), owners can be alerted via SMS -- and, of course, they can then view only the footage pertaining to said event with merely a click.
+
+ Those apps (available for iOS and Android) will allow owners to look in live at any time, with recorded video automatically stored on the included 4GB SD card, a personal NAS or a cloud storage facility like Dropbox. Better still, the control panel supports multiple cameras for those trying to cast eyes over an entire office complex, and there's room for a 12V battery that'll keep it humming along "for a few hours" should the power cut out. Tom Thomasson, vice president of marketing at Thinx, told us that the product is slated to go on sale in the US during the third quarter of this year, and it's one of "over 30" new products that Verizon will help launch during the 2013 / 2014 time frame.
+
+
+
+ 
+ Speaking of which, it's worth mentioning the (optional) embedded LTE module; while a great many monitors include WiFi support, tossing LTE into the mix adds a new level of redundancy. If the power gets cut, the internal battery (along with a live LTE connection) can keep the visuals going. It also makes the device far more portable given that the connection goes wherever the hardware does. Thomasson confessed that a final MSRP was still being nailed down, but he suggested that we'd probably see it land for "around $500." Steep, sure, but it ships with a pretty powerful management client that business users will likely find worthwhile. Have a look at the overview vid below.
+
+  
+ 
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

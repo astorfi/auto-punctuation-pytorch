@@ -1,0 +1,7 @@
+
+ 
+
+With Vista's consumer launch right around the corner, it's little wonder we're seeing ReadyBoost branded devices starting to pop. Thing is, Vista's ReadyBoost cache technology works with many, inexpensive flash-based devices (SD cards, USB 2.0 thumb drives, etc) sporting between 256MB and 4GB of storage, and capable of a modest 2.5MB/sec throughput for 4K random reads and 1.75MB/sec throughput for 512K random writes. So of course, Hagiwara Sys-Com's "ReadyBoost certified" 8GB ExpressCard/34 supports Vista's new smart caching technology with a smokin' 32MB/sec read and 22MB/sec write. Thing is, if you're buying the card for ReadyBoost gains, then 4 of that 8GB is "wasted" since the FAT32 filesystem limits the ReadyBoost.sfcache file to a 4GB max. However, if you're on the hunt for fast, flash storage, then maybe 8GB for ¥52,800 (about $451) on down to 1GB for ¥7,980 (about $68) sounds killer to you -- or not with 8GB USB 2.0 drives now hitting for about $150 online. Regardless, dropping that fat wad on additional RAM and not "ReadyBoost certified" products will probably give you more bang for the buck.[Via Impress]
+      
+
+ 

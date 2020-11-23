@@ -1,0 +1,13 @@
+
+
+ digg_url ='http://digg.com/software/Official_First_Chrome_OS_screenshots_revealed';  Google had a low-key event today to preview Chrome OS, its new operating system based on Linux and the Chrome browser. Things are still pretty early -- it's not even in beta yet, let alone on shipping products -- but that's the first official screen shot right there, and the big features are all roughed out. The entire system is web-based and runs in the Chrome browser -- right down to USB drive contents, which show up in a browser tab, and the notepad, which actually creates a Google Docs document. Web apps are launched from a persistent apps panel, which includes Gmail, Facebook, Twitter, and Hulu, among others, and background apps like Google Talk can be minimized to "panels" that dock to the bottom of the screen. Local storage is just used to speed up the system -- everything actually lives in the cloud, so all it takes to swap or borrow machines is a login, and you're good to go. Google also said it's "very committed" to Flash, and that it's looking to hardware accelerate whatever code it can -- although Google didn't have a solid answer to give when asked about Silverlight. Overall, Google was upfront in saying that Chrome OS is focused on very clear use cases for people who primarily use the web, and that it's not trying to do everything: "If you're a lawyer, editing contracts back and forth, this will not be the right machine for you."
+
+As far as going to market, Google's not talking details until the targeted launch at the end of next year, but Chrome OS won't run on just anything -- there'll be specific reference hardware. For example, Chrome OS won't work with standard hard drives, just SSDs, but Google is supporting both x86 and ARM CPUs. That also means you won't be able to just download Chrome OS and go, you'll have to buy a Chrome OS device approved by Google. Interesting move, for sure -- but since the entire OS is totally open-source as of today, we're sure it'll be hacked onto all kinds of hardware soon enough. (And for the record, the demo was run on an off-the-shelf Eee PC.) Check Google's intro videos after the break!
+
+
+
+
+
+
+
+ 

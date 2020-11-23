@@ -1,0 +1,4 @@
+
+While DAB radio is common in the UK, its broadcasting equipment is usually too expensive for community broadcasters. However, Ofcom's Rashid Mustapha has shown that the technology is now within reach of amateurs. Taking advantage of DAB's newly patent-free status, Mustapha tested a low-power digital transmitter based on an open source software radio and a Linux PC; he only had to stream that radio to an aerial through long-range WiFi. His solution would cost just £1,400 ($2,153) per year to run, letting many community radio operators make the leap to digital. The study doesn't represent an automatic green light for low-power DAB -- more work is needed, Mustapha says -- but it's clear that small-scale stations won't be stuck in the analog world forever.
+
+

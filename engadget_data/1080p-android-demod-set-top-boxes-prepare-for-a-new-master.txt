@@ -1,0 +1,6 @@
+
+ 
+It is done. MIPS Technologies has demonstrated its enhanced implementation of Android running in 1080p via extended libraries to support hardware graphics acceleration and decoding on Sigma Designs hardware, a portent of set-top boxes yet to come. Of course, without any video or pictures or video of the blessed event (ISB Corp's previous OMAP based effort is pictured above) it's hard to tell why Android coming to TV is such a great idea, if its cousin widgets are any indication, there's a chance of being high on pre-release hype but low on desirability once it reaches the market. Still, the Open Embedded Software Foundation pledges to continue on shoehorning Android into devices beyond the mobile handset, but if it's shut down by a band of torch wielding villagers demanding the monster be put down, don't say we didn't warn you.[Via SlashGear & LinuxforDevices]
+      
+
+ 

@@ -1,0 +1,14 @@
+
+
+So we snagged our lucky selves a Belkin Cable-Free USB Hub, one of the first ever wireless USB devices, as well as one of the first consumer Ultrawideband products. Luckily for us there wasn't a lot to test, but we can tell you this: the hub is small, the dongle is massive, and the speed and range aren't quite what they're cracked up to be. Click on for the usual unboxing, a load of high res product shots, shots and details on setup and performance.
+
+Hands-on with Belkin's Cable-Free USB Hub
+
+
+
+
+So, setup was relatively easy. Pop in the CD, run the install. Plugging in the dongle proved to be a small pain, being that it's wide and fat enough that it forced us to unplug our USB keyboard, which was plugged in adjacent. If you're using a laptop, it might look something like your machine grew a short, stubby arm. Maybe you're into that though. Anyhow, unfortunately the hub and dongle's drivers didn't autodetect, meaning we had to install each of the four detected devices manually by pointing them to the driver directories. Not a huge annoyance, but still a little irksome. After that it was pretty painless.From there we tested distances from dongle to hub. The first was a room and a half away, one mostly hollow wall -- less than 30 feet. Zero signal. The second was a room away, still that same wall away, estimated 15 feet. Zero signal. It wasn't until we placed the hub within line of sight about 6 feet away that we got a signal and could register the hub and dongle. Once we got the parts running, we were off to the races. USB interaction was basically seamless from how you'd normally plug / unplug devices in Windows. Our flash drive showed up immediately.So we decided to throw a 400MB movie on our flash drive to test the speed. At first we kind of thought we maybe had it all plugged in via a USB 1.1 header or something, but that wasn't the case. Everything was USB 2.0 and gravy -- it's just really slow wireless. 480Mbps be damned, even just a few feet away with line of sight it took about 8.5 minutes to transfer 400MB -- that's about 0.8MBps, or 6.35Mbps. (For reference, when we tested this "wired," we were able to transfer 400MB in just under 40 seconds, or about 10MBps / 80Mbps, probably still only limited by the speed of our laptop drive's read speed.) In other words, you might use this for your printer and small doc sharing, but you definitely won't want to attach your Zune / iPod / Sansa to this thing. Still, is wireless USB and the ability to be the first kid on your street with an Ultrawideband something worth $200 to you? If so, we might remind you that the holidays are upon us.
+
+       
+
+ 

@@ -1,0 +1,11 @@
+
+ 
+Mind you, it's just a preview release, but Chris Smoak's Smokescreen does exactly what it promises: enable Flash content to play on Apple's iPod touch, iPhone, and iPad. Kind of. Here's how Smokescreen gets around using a Flash plugin as described by Simon Willison:
+"It runs entirely in the browser, reads in SWF binaries, unzips them (in native JS), extracts images and embedded audio and turns them in to base64 encoded data:uris, then stitches the vector graphics back together as animated SVG."
+While it works fine with simple animated banner ads (uh, huzzah!?), we found that Smokescreened Flash content like video and games was impossibly slow when tested on our iPhone 3G. Still, it's a start for this soon to be open sourced Flash player written in JavaScript. Check the video after the break for a demonstration or give it a go for yourselves by browsing over to the appropriate source link below.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,9 @@
+
+TV manufacturers have labeled every one of this generation's internet-connected TV platforms "smart", but they don't always live up to the name. One reason is that the internet features can't interact with what you're watching, and are just simple add-ons. Cognitive Networks thinks it can fix that with tech that sees what you're watching, and pulls up related "interactive overlays" that fit. We've seen similar approaches before from companies like Yahoo, but while older tech did its snooping via closed captions, this one works by video fingerprinting the broadcast and identifying what's playing. 
+
+
+
+
+Founder and CTO Zeev Neumeier says this approach makes it much more accurate, and able to work without requiring much horsepower or bandwidth. It's already in LG's recent TVs, partnering with the likes of Showtime, Hearst and Thuuz. One demo we saw showed simple pop-up (oops, interactive overlay) quizzes synced to a Syfy broadcast, but a better potential tie-in is evidenced by a local news demo. At any point, the viewer could pull up info on the broadcast or go in depth with a particular segment, or just keep watching as normal. We did ask about potential privacy concerns, but Neumeier told us LG's recent woes were unrelated to ACR software, and that the feature is both opt-in and can be disabled at any time. 
+
+

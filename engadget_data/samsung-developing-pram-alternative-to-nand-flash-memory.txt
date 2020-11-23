@@ -1,0 +1,6 @@
+
+   
+Classic Mac users might be familiar with the phrase: "did you zap the PRAM?" The commonly used fix-all seemed to smooth over a wide variety of troubles, but Samsung's new Phase-Change Random Access Memory has nothing to do with the Parameter RAM of yore. Instead, the new type of memory breathes fresh life into the world of non-volatile storage, with 30x the speed and 10x the lifetime of conventional NAND or NOR flash chips. Samsung just unveiled their first 512MB PRAM prototype PRAM chip, and plan to begin selling the memory in 2008. The chips cite spiffy tech specs like "vertical diodes" and "three-dimensional transistor structure" to keep size down, and the memory doesn't require old data to be erased before being written over. Supposedly the tech should be cheaper and smaller than NAND in the long-run -- which is considerable given the fact that Samsung also introduced a 32GB NAND chip today made with a 40nm process.[Via textually.org]
+      
+
+ 

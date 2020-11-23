@@ -1,0 +1,5 @@
+
+  Facebook wasn't kidding when it said it wanted to build better backends for the digital world -- after sharing the plans for its customized data center, it's looking to do the same with storage hardware. "We're taking the same approach we took with servers," Frank Frankovsky, Facebook's director of Hardware Design, told Wired. "Eliminate anything that's not directly adding value." Frankovsky says they are working on a completely tool-less design, eliminating the need for mounting screws and plastic handles on hot-plug driver carriers. The goal is to get the outfit's new storage digs to run as efficiently as its previous efforts, streamlining hardware to be more serviceable, cost less and use less energy. The new storage designs are set to debut at the Open Compute Summit in early May, and hopes that sharing the designs will help redefine how storage hardware is made. Check out the source link below for Wired's in-depth look at the project.[Photo credit: Jon Snyder/Wired.com]
+      
+
+ 

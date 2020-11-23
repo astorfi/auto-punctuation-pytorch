@@ -1,0 +1,7 @@
+
+ 
+
+Look, codenames are all fine and dandy, but we want the meat -- we want to know exactly what Precise Pangolin has in store. Specifics are still a little hard to come by, but there were some tidbits out of the Ubuntu Developer Summit. For one, Canonical has decided to bump the size of the ISO from 700MB to 750MB. That might not seem like a huge deal, but it means CDs are out and thumb drives or DVDs are in for installs. The company is also considering using Ubuntu One accounts for logging into the desktop, allowing you to quickly sync your settings and files on any Ubuntu machine -- not unlike Google's Chrome OS. Lastly there are a few software changes coming. The Software Center will be getting some serious optimization for quicker launches and better performance, while Rhythmbox will be returning to the fold after being banished for Banshee in 11.04. You'll find a few more details about Ubuntu 12.04 at the source link.
+      
+
+ 

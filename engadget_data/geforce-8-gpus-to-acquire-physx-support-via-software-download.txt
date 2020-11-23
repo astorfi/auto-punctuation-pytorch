@@ -1,0 +1,6 @@
+
+ 
+Good news for folks with a GeForce 8 GPU and lots of questions about how the recent Ageia acquisition would affect them: your current card will be receiving PhysX support. When NVIDIA CEO Jen-Hsun Huang was questioned in a recent conference call, he noted that the firm was currently "working towards the physics-engine-to-CUDA port," and it could be delivered as "a software update" to every card that's CUDA-enabled (read: all of the GeForce 8 GPUs). Sadly, the bigwig still wouldn't say when to expect the release of the first PhysX port, but we really can't imagine it taking too awfully long now.
+      
+
+ 

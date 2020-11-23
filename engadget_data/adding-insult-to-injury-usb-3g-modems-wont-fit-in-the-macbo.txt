@@ -1,0 +1,6 @@
+
+ 
+Ouch, we just tested and confirmed that one of the smallest (and thus likeliest to fit) USB EV-DO modems around, the Sprint / Novatel U727, won't even come close to fitting in the cramped, foldaway USB port on the MacBook Air. Most flash drives will probably be okay, but it looks like 3G users might need powered USB hubs or a USB extension cable to get online where WiFi isn't available (read: most places). Of course, your mileage may vary -- we recommend testing your modem of choice on a live machine in an Apple store before dropping any coin.
+
+
+

@@ -1,0 +1,12 @@
+
+Today Oculus announced that its SDK for the Rift supports Asynchronous Timewarp (ATW). While that sounds like something that keeps the TARDIS from smashing into a star, it's actually going to make virtual reality seem so much smoother.
+
+
+
+ATW not only renders a scene before it hits your eyes, but it also takes into account head movement and shifts that image before you see it. The result is lower latency, smoother movements and improved efficiency.
+
+Oculus says it also reduces judder (shaking and vibration) that's produced when a frame is displayed out of sync because the hardware was unable to render a frame quick enough. The company worked with Microsoft, NVIDIA and AMD to maximize GPU preemption (rendering a scene before it's needed) for its updated SDK.
+
+The best part for users and developers is that they won't have to do anything to support ATW. But Oculus still recommends companies continue to target 90 frames-per-sec with their games. ATW will makes things smoother, but game makers still need to step up. 
+
+

@@ -1,0 +1,7 @@
+
+This particular rumor has been swirling for a while already, but Reuters says its own sources are now backing it up: Samsung will switch from an ARM-based design and use Intel as the supplier of the processor inside at least one version of its next 10-inch slate, the Galaxy Tab 3 10.1. Word is that Samsung will run Android off Intel's latest x86 Atom architecture, Clover Trail+, which we've so far seen in just a handful of Android smartphones including the Lenovo K900 and ZTE Geek.
+
+
+By way of corroboration, Korea Times is reporting the exact same Galaxy Tab 3 rumor and has also quoted an anonymous Intel employee who claimed that the number of Atom engineers based in Korea has ballooned from six last year to as many as 50 personnel today. They're said to be working on "Samsung-related projects with a mission to customize circuits for adaptation in Samsung products" -- which certainly doesn't sound like typical Intel behavior. Korea Times specifically says that Samsung is looking to reduce its reliance on the tricky supply of its own ARM-based Exynos processors, while Intel is offering the Korean giant good prices and cooperation in order to build its mobile market share. This all tallies with the idea of Atom coming to some high volume Android products -- and it's very possible that we'll see proof of that at Computex next week.
+
+

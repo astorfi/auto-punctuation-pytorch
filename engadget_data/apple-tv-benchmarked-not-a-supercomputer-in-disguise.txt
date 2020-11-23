@@ -1,0 +1,5 @@
+
+ So it's true after all, Apple has no magical wand for squeezing unrealistic performance out of off-the-shelf components, but they have managed to put together a halfway decent "Mac" for the price. Tipster Matt wiped his Apple TV's drive and ran a clean install of 10.4.9, just to throw it to the Xbench dogs. It came out surprisingly well, with a 55.75 score, about half that of a medium-range Intel Mac mini. In most operations it actually managed to score fairly close to its taller cousin, just falling behind significantly in certain operations, specifically 3D graphics. Of course, Xbench scores are user submitted and not all that scientific, but it should at least give you a general idea of how this $299 Mac in disguise stacks up.[Thanks, Matt]
+      
+
+ 

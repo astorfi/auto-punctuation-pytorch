@@ -1,0 +1,5 @@
+
+The Arduino Robot wasn't the only interesting product the Italian company launched at Maker Faire this past weekend. Arduino Yún combines a Leonardo board (featuring Atmel's ATmega32u4) with a MIPS-based WiFi SoC (Atheros AR9331) running Limino (an OpenWRT / Linux derivative). It includes everything you'd expect from a Leonardo board plus WiFi, wired Ethernet, a USB host port and a microSD card slot. The Arduino side can be programmed wirelessly and communicates with the WiFi SoC via SPI and UART interfaces using the new Bridge Library, which delegates networking to the Linux side. Out of the box, the board behaves just like any standard WiFi access point with a full web interface -- it even allows SSH access. Arduino Yún is the first of a family of WiFI-enabled products and will be available late June for $69. Check out the gallery below for some closeup shots, and follow the source for more details. 
+
+
+

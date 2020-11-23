@@ -1,0 +1,16 @@
+
+It's been a busy week for AMD news, what with the launch of the Kaveri APU and then our first real evidence of how the new Mantle drivers can impact on PC gaming. But now's the time to kick back and check out some full reviews of Kaveri over at the specialist sites. We've rounded up some of the best articles after the break, and if you're looking for brutally short executive summaries, we've got some of those for you too.
+
+
+
+
+AnandTech -- Based on a suite of traditional, real-world application benchmarks such as WinRAR, Kaveri usually struggled to match a Core i3 -- except in those few applications that made good use of GPU compute via OpenCL. With games, on the other hand, Kaveri was usually better than a Core i7 in the more challenging scenarios, and you really should check out the site's full frame-rate charts. The A10-7850K is actually able to play F1 2013 at max detail and 1080p resolution with a frame rate of 31 fps, for example, versus 14 fps from a much more expensive Core i7-4770K. Overall, Anandtech concluded that Kaveri could be an "ideal fit" for many people who aren't power users, but who like to indulge in a bit of gaming, but its reviewers also highlighted the fact that AMD has been tepid about supporting dual graphics for those who want to pair Kaveri with a Radeon R7-series graphics card (Kaveri also uses R7 graphics, so theoretically it should be possible to add the two GPUs together).
+
+
+HotHardware -- This site focused on the A8-7600, which can be customized to burn at 45W or 65W and is therefore aimed at small form factors (like HTPCs and Steambox-like gaming builds). In a number of synthetic graphics-focused benchmarks, such as 3DMark, this scaled-down processor was actually very close to (and sometimes better than) AMD's flagship 95W from the previous generation (Richland), and also often better than any full-powered Haswell chip. Overall, despite it lagging behind Intel in single-threaded tests, HotHardware gave the A8-7600 its "Approved" badge.
+
+
+ExtremeTech -- This site spent a bit more time taking account of AMD's new HSA technology. In its most practical sense, HSA is a fresh approach to GPU compute, but there is no mainstream software that makes use of it just yet. Instead, ExtremeTech ran a few niche HSA-enabled benchmarks to explore HSA's potential, and they were pleasantly surprised: A JPEG-decoding test showed that the A10-7850K was almost twice as fast as a Core i5-4670S, and even the A8-7600 was quicker than any Intel chips. A second test based on number-crunching within LibreOffice's Calc spreadsheet application showed that the A10-7850K was about five times faster than the Core i5. Overall, this review concluded that, aside from its obvious gaming prowess, "Kaveri will only be competitive if developers implement the necessary optimizations for HSA," and that pretty accurately sums up where AMD's newest APU stands right now.
+
+
+

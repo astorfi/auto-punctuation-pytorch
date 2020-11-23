@@ -1,0 +1,5 @@
+
+  Foursquare's been quite the active startup lately, adding NFC support for Android 4.0 and releasing its app for the PlayStation Vita. The company isn't quite done being the mayor of Busyville, though, announcing a switch from Google Maps API to OpenStreetMap data-based MapBox Streets for Foursquare.com. Foursquare cited greater flexibility and support for other startups as reasons for the switch, although it also admits that Google's decision to start charging for its Maps API spurred the search for an alternative. Meanwhile, a quick check of the Foursquare app still yielded Google Maps results, so it appears the change is limited to the web site for now. Also, no word on whether Foursquare's awarding MapBox Streets a BFF badge.
+      
+
+ 

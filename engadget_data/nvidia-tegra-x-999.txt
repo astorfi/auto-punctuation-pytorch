@@ -1,0 +1,5 @@
+
+
+While NVIDIA unveiled its latest powerhouse GPU last week, it revealed more information about the brand new Titan X at its own developer's conference earlier today. For those who squirm at tech speak, look away now, because we're going to indulge in quite a bit of it: The Titan X comes with 8 billion transistors, 3,072 CUDA cores, 7 teraflops of single-precision performance plus 0.2 teraflops of double-precision workloads. It also has 12GB of VRAM, which NVIDIA says is twice the amount of previous graphics cards. What does this mean for you? Well, NVIDIA is promising better gaming performance of course, but Jen-Hsun Huang, NVIDIA's CEO, says that the Titan X also has great potential in scientific applications. A 16-core Intel Xeon would normally take 43 days to process data for a deep neural net analysis, but the Titan X can do it in just 1.5 days, he says. Suffice to say, the Titan X is a monster of a GPU, which might explain its hefty price tag: $999. That's about the same cost as its predecessor, the Titan Black, so we're betting that the cost of the older card will likely drop some time soon.
+
+

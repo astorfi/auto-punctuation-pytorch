@@ -1,0 +1,7 @@
+
+ 
+ On top of bringing Android flavors to devices that would otherwise never get them, CyanogenMod has added SMS options to its latest CM10 Jelly Bean ROM -- features the stock version lacks. First, the team introduced QuickMessage, which displays a pop-up when you get an IM, allowing you to view or reply to it on the spot. Then, after hearing feedback from users, a "quick reply" option was appended as well, letting you disable the pop-up and reply from the notification bar instead. We took a quick whirl with the latest nightly and saw that it works as advertised, giving you the speedy options while appearing as a regular setting in the stock messaging app. So, if you're like most of us and drop everything when you get a text, check the source links for more details.
+
+ [Image credit: CyanogenMod]
+
+

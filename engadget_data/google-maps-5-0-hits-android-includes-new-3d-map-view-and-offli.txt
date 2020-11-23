@@ -1,0 +1,9 @@
+
+ 
+Google's never been afraid to "blow it out" with Google Maps, most famously with its inclusion of Navigation, which knocked the legs out from under a lot of the GPS device and navigation app market. Google Maps 5.0 for Android might seem similarly earth shattering, but it marks a significant change to the basic technology of Google Maps. Most importantly, Google is now using vector graphics for its maps, which are scalable and much lighter weight than the traditional stitched together images used in most Google Maps incarnations. The vectors also enable something else a whole lot sexier: a two finger swipe can "tilt" the map and now you've got a 3D view of the landscape. It's not quite as flashy as Google Earth, but it looks a whole lot more useful. The other thing these low-bandwidth vector maps enables is offline caching of maps, specifically your most frequently visited locations, and entire trips that have been routed in Navigation, including potential reroutes. Anybody with an Android 1.6 or higher device can download 5.0 right now for free, but the 3D and offline features are 2.0+ only.
+      
+
+ 
+
+
+ 

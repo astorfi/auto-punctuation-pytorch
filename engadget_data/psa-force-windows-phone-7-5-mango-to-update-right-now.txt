@@ -1,0 +1,9 @@
+
+ 
+
+Windows Phone 7.5 has officially landed, but unless you're among a fortunate few, Redmond's tropical getaway might seem like only a twinkle on the horizon. In a wild turn of events, we've now stumbled across (and confirmed) a method that promises instant Mango gratification, and if you're so inclined, we hope you'll find similar luck. Here's the gist: something very special happens when you run the update and then promptly disable your internet connection -- about one second seems to do the trick. We first checked for Mango and kept WiFi enabled; the Zune software dutifully reported that our phone was up-to-date. Then, we executed the process and disconnected the internet... and wouldn't you know it, the update presented itself. Now, we're happily frolicking through Microsoft's latest delights on our Focus. If you're willing to try your luck, you'll find a full list of instructions in the source. Here's one final tip: once it's reported that an update is available, be sure to restore that internet connection.
+
+[Thanks, Rohit]
+      
+
+ 

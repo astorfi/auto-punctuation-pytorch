@@ -1,0 +1,14 @@
+
+
+When Microsoft announced earlier today that universal Windows apps could run on the Xbox One, it seemed pretty...self-explanatory. A developer could easily port any Windows or Windows Phone app over to the Xbox for you to use on your TV. Right? Not exactly. Here at Build, we had the chance to sit down with Steven Guggenheimer, corporate vice president in the Developer Platform and Evangelism group, who gave us a little more insight into how this universal app thing is going to work on Xbox.
+
+
+
+          
+ 
+ 
+ Basically, the Xbox will still very much be a curated platform (more so than Windows or Windows Phone), with the Xbox team deciding if something even makes it onto the console. What's more, Microsoft still gets the last word on whether an app will be locked behind an Xbox Live Gold subscription. All told, then, it's not like we're suddenly going to see a glut of Windows apps repackaged for Xbox. To quote Guggenheimer: "Terry Myerson [EVP of Operating Systems] showed Xbox because technically you can do it." Indeed, Myerson's presentation today was mainly about developing apps for PCs, tablets and phones. So it's there where you should expect to see that universal app selection.
+
+       
+
+ 

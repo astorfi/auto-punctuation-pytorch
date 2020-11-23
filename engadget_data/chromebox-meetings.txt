@@ -1,0 +1,17 @@
+
+
+
+Been trying to figure out just what you'd do with a Chromebox? Google has an idea: build a new video conferencing system. At least that's what Google VP of Product Management Caesar Sengupta announced in Mountain View this morning. It's called Chromebox for meetings and, well, it's a Chromebox bundle designed to outfit meeting rooms with a robust, easy-to-use meeting solution powered by the Google Cloud. On the surface, the $999 bundle doesn't seem that different from the devices ASUS has already announced -- it includes a Core i7 box, an HD camera, a microphone/conference speaker and a keyboard-equipped remote. Plug the setup into your existing conference room monitors, log into the Google management platform and you're ready to go. How about in use? Well, that looks like a mash-up between Google Hangouts and Chromecast.
+
+
+
+
+
+Gesturing to a screen behind him, Sengupta showed us a screen that looked suspiciously like Chromecast does on our home TV set. Gorgeous splash photography with a few small blurbs of useful information -- but rather than merely displaying the time and connected network, Chromebox for meetings shows the schedule for its assigned meeting room. Sengupta explained that the data is pulled directly from Google Calendar, and should make it easy for employees to look at a room, glance at the screen and instantly know if it's available for use. Click into a meeting, on the other hand, and another familiar interface pops up: Google Hangout's existing video interface.
+
+Like the meeting solution's standby mode, these meetings borrow heavily from the existing product it's modeled after. Users speaking are automatically focused on, for instance, and meetings can be attended from Chromebox-equipped conference rooms, laptops, tablets and even mobile phones. There are some new tricks, however -- years of interrupting latecomers have prompted Google to automatically mute attendees as soon as they join a session. Each meeting can sustain up to 15 connections too, broadcast from any combination of devices. Although businesses will need to outfit all of their conference rooms with Google's kit to get the ideal experience, a tool from Vidyo will allow Chromebox for meetings to connect to traditional conference systems, and an Uberconference connection will allow participants to dial in from regular phones.
+
+
+Although regular, old Chromeboxes won't be available until March, US customers can order the box today, with an international availability (to Australia, Canada, Japan, New Zealand and the UK) rolling out over the next few months. Businesses who contact their Google rep should be able to pick up an ASUS model for $999 starting today; HP and Dell Chromebox packages are coming too, though their pricing hasn't been finalized quite yet. In addition to the microphone, camera and remote accessories, each box comes with 24/7 customer support, including a (required) maintenance fee of $250 a year per device. Still, if you're itching to get a Chromebox right away, they are available.
+
+

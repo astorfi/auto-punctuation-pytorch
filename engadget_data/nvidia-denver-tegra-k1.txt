@@ -1,0 +1,9 @@
+
+Ever since the introduction of Apple's A7 chipset on the iPhone 5s, 64-bit has become somewhat of a buzzword for manufacturers like Qualcomm, NVIDIA, Samsung and MediaTek. The former has already followed in Apple's footsteps with 64-bit support on the Snapdragon 410, an SoC destined for budget devices and emerging markets, but we were anxiously awaiting word on NVIDIA's next-gen aspirations at tonight's press conference. And now we have it -- the company just announced a second version of the Tegra K1 introduced earlier, this time with a dual-core 2.5GHz Denver CPU (yes, that Project Denver) and 64-bit support. We're still waiting to hear specific availability, but NVIDIA tells us to expect more details in the coming months, so the extra boost in performance will require a bit of patience.
+
+
+Update: We received a little extra clarification from NVIDIA reps, who have told us that the K1 has already been certified by AT&T and Vodafone (among other carriers), and we should expect to see devices with the new chipset near the end of the first half of 2014. We also learned that although LTE support doesn't come natively on the chipset, it'll still be available thanks to an external chip that will be part of the K1 setup. It's hard to say whether or not this will help NVIDIA gain some lost ground on Qualcomm, but only time will tell.
+
+
+Ben Gilbert contributed to this post. 
+

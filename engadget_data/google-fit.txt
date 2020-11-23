@@ -1,0 +1,13 @@
+
+Google Fit is Google's new health initiative. It's a service that'll track all your health metrics -- sleep, steps, etc. -- and it's built into the next version of Android. But what does that mean? Well, it means that Google's Android platform is getting the same kind of life-metric tracking that Apple's iOS users are getting in iOS 8 with HealthKit. More importantly, it means that the health devices you're already using will play nice with the myriad Android devices out there. It also means that all your health data ends up in one place, in one app, rather than spread across a variety of software applications. Which app you use, however, is up to you.
+
+
+
+
+
+
+Adidas, Nike, Withings, Intel, RunKeeper and a variety of other fitness companies are involved with Android Fit. Nike's FuelBand wearables were specifically given a shoutout onstage at Google's I/O event this afternoon, where the initiative was announced.
+
+What we didn't see from Google today is a dedicated app that collects all your data, like Apple's Health app. Rather, the Fit initiative is a platform for health device manufacturers trying to make their devices interface with Android. Google product manager Ellie Powers described it as using a single set of APIs for all health products, meaning all devices could technically work with all health/fitness software. While it isn't the whole-cloth approach that Apple's taking in creating its own app, it's the kind of open-source approach that we expect from Google.
+
+

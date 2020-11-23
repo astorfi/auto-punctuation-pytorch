@@ -1,0 +1,25 @@
+
+
+
+As a recent South Park episode suggests, Parrot and DJI are the two most recognizable names in the consumer drone market right now, but they are about to face a new contender. Merely three months ago, we met Ehang who showed off its heavy-duty hexacopter at TechCrunch Beijing; and now, the Chinese company is also pushing its more affordable Ghost quadcopter onto Indiegogo. While said drone has been seeded to select e-tailers since April, Ehang co-founder Derrick Xiong said the latest offering is no longer a "beta version," but rather a retail-ready package aimed at the Western market. Most interestingly, the starting price is now just $375 -- a steal when compared to the $679 DJI Phantom 2 with similar specs.
+
+
+
+
+The Ghost isn't just about pricing. First and foremost, this machine claims to be "the world's easiest drone to fly" on its website, and this is done so by replacing the traditional remote controller with a seemingly -- and perhaps overly -- straightforward smartphone interface (Android first; iOS compatibility due in March): There are buttons for taking off, landing, returning and hovering; you can tap on the map to guide the drone; there are sliding bars for adjusting the drone's orientation and altitude plus the optional camera's tilt and orientation. Thankfully, the app has a micro control pad -- surrounded by a handy compass -- to manually move the drone in its horizontal plane.
+
+The link between the smartphone and the drone is handled by the bundled "G-Box" transmitter, which gives a 0.6-mile or 966-meter radius range. To satisfy the more capable drone users, Ehang is already developing a proprietary 8-channel remote controller for the Ghost. Yes, "proprietary" in the sense that the drone won't work with existing controllers, in order "to enhance steering safety and smooth manual control."
+
+
+In addition to the above, Xiong highlighted two "breakthrough" features on the Ghost: smartphone-tilt control and an auto-follow mode that's starting to become the norm. The former is very much what it says on the tin: Once the Ghost is in the air, you can rotate and tilt your phone as if you're doing the same to the drone.
+
+As for the auto-follow mode, don't expect the drone to follow you while you're climbing up a cliff; it can only travel horizontally so use with caution. That said, Xiong hasn't ruled out the possibility of adding auto-altitude control as more phones come with a built-in barometer. Unlike the Plexidrone due in April, the Ghost doesn't do obstacle avoidance which is no surprise given its price point, but as you can see in the above video, there's work being done on a LIDAR module that may one day allow this drone to detect its surroundings. Until then, the auto-follow feature is best used in a clear area.
+
+Now that we've gotten the features out of the way, we can take a closer look at the drone itself. The Ghost can travel at up to 21.9 m/s, though it's capped at 4.47 m/s by default for safety reasons (for the record, the DJI Phantom 2 does 15 m/s max). Ehang claims that its machine can even fly in winds at up to 21 knots (about 11 m/s) without losing too much video quality, and it can also resist light rain. The interchangeable 5,400 mAh battery can last up to 20 minutes with the optional 2-D gimbal plus a GoPro camera installed, or up to 30 minutes without them (the Phantom 2 does 25 minutes).
+
+
+As we mentioned earlier, the basic pre-assembled Ghost is up for grabs for a mere $375, and you also get four propeller guards in the box. If you want it with a 2-D gimbal to go with your own GoPro Hero3 or Hero4 camera, it'll cost you $599; or pay an extra $380 ($100 off for early birds) to have a Hero4 Silver (normally $400) bundled with the package, making it a total of $979. These will all be shipped in as early as mid-December and no later than end of January -- unless you opt for a color other than black or white, should the Indiegogo campaign reach its $150,000 stretch goal.
+
+For the last option, there's actually no harm in considering the Phantom 2 Vision which is now only $799 (or $899 with an extra battery) and also has a two-axis camera, a traditional controller plus video stream capability to your smartphone. On the other hand, if you want to go beyond 1080p video capture while also having the option to reuse the Hero4 Silver on your next drone, then the Ghost would be a safer bet.
+
+

@@ -1,0 +1,26 @@
+
+ The pathway to innovation is paved with failed attempts to produce wireless charging solutions that a) actually work and b) people genuinely want to use, but we've got yet another upstart here at Mobile World Congress willing to give it a go. PowerbyProxi's solution looks pretty similar to renditions we've seen from Fulton Innovation, but it's quick to point out the differences. The loosely-coupled method uses a bantam receiver that's "efficient enough to be integrated into the processor board of a smartphone without causing over-heating."
+
+ While previous industry designs have resulted in longer charging times than if the device were plugged into a wall socket, PowerbyProxi's solution reportedly "provides charging at the same speed as wired charging." In fact, it claims to offer the only system that can rejuvenate up to three devices at the same time at full power. If you're wondering what working group these guys are going to side with, that much is still up in the air -- it's remaining "agnostic towards the selection of an ultimate standard" for now.
+
+ We spoke with the company here at Mobile World Congress, and it confirmed to us that it's working with the top five major battery manufacturers, and we should see wireless AA and AAA cells "within 12 months." It wouldn't confirm how soon we'd see it in phones, tablets or laptops (yeah, it'll work in all of 'em), but it's clearly working with some of the top OEMs and hoping for the best. In the demo we witnessed, specially equipped Galaxy S III handsets charged alongside one another, even when barely clinging to the charging pad. Despite a bunch of metallic objects being heaped on the pad, it was intelligent enough to only send power to the phones, keeping gum boxes and coins cool, calm and collected. Head on past the break for quick video tour as well as a press release.
+
+ Dana Murph contributed to this report. 
+
+
+
+   Show full PR text    PowerbyProxi Announces Availability of Evaluation Kits for Integrated Wireless Charging Smartphone Solution   Will demo advanced wireless power solution for smartphones at Mobile World Congress 2013 in Barcelona
+
+   PLEASANTON, Calif., Feb. 22, 2013 /PRNewswire/ -- PowerbyProxi, (www.powerbyproxi.com.) developer of the world's most advanced and safest wireless power solutions, today announced availability of evaluation kits for its new integrated wireless charging smartphone solution. PowerbyProxi is the first company in the industry to offer prospective customers an opportunity to evaluate demonstration units. PowerbyProxi will also be participating in Pepcom's MobileFocus Global event, Sunday, February 24th at 7pm in the Palau de Congressos de Catalynya in Barcelona.
+
+   PowerbyProxi's loosely-coupled wireless charging solution offers a number of key benefits over other approaches. It has designed a miniature receiver, efficient enough to be integrated into the processor board of a smartphone without causing over-heating, which works with a transmitter to provide complete spatial freedom of positioning on a sleek charging pad. While previous industry designs have resulted in longer charging times than if the device were plugged into a wall socket, PowerbyProxi's solution provides charging at the same speed as wired charging. A demonstration can be viewed here: http://youtu.be/NuLuAVJXJfc. "We are confident that we have produced the most advanced wireless charging system available for smartphones," said Greg Cross , chairman, PowerbyProxi. "We believe that the key benefits of our approach, including spatial freedom and thermal management, are pre-requisites to the future development and wider adoption of wireless power for consumer electronics applications."
+
+   In summary, PowerbyProxi's solution comprises:
+
+   The first system capable of being fully integrated into a smartphone: the receiver circuit and coil can fit inside a smartphone alongside other components with no modification to the device itself. No covers, sleeves or additional add-ons  The only system available that can charge up to three devices simultaneously at full power  The only wireless charging system that can charge devices at full wired speed offering a charge time equivalent to wired chargers  Advanced thermal management during charging. PowerbyProxi's system ensures that the main components of the device - the battery, back cover and LCD screen - do not overheat or damage the device when streaming video/music during charging  The system has built-in foreign object detection so coins, keys, silverware, and other metal objects, do not overheat. Remains at room temperature while on the pad and while other devices are charging  PowerbyProxi meets all safety (RF exposure) requirements for safe operation of the device
+
+   PowerbyProxi is a member of the CEA working group for wireless power standards although the company remains agnostic towards the selection of an ultimate standard and will continue to design and build the most advanced wireless charging solution regardless of which standard is selected.
+
+   To inquire about receiving a PowerbyProxi evaluation kit please visit www.powerbyproxi.com to fill out our contact form at the bottom of the page.
+
+ 

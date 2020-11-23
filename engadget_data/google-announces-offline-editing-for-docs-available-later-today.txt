@@ -1,0 +1,28 @@
+
+ 
+ We're live at day two of I/O and the theme of this keynote is all about "Going Google." With this focus on Mountain View's various cloud-based apps, Clay Bavar, Director of Product Management for Google Apps, announced that Docs will now work offline for editing. In the onstage demo, Bavar was able to log into several devices, including a Nexus phone and tablet, to interact and collaborate in real-time on a document. Thanks to the smooth syncing at work, edits made from each device showed up as they were being entered, keystroke-by-keystroke. Now, those edits can also be created without a working internet connection and synced up later. You won't have to wait long, either, to take this offline mode for a test spin, as the feature will be enabled later in the day, with that functionality "coming soon" for presentations and spreadsheets. Check out the official PR after the break.
+
+ Check out our full coverage of Google I/O 2012's developer conference at our event hub!
+
+
+
+  Show full PR text    Announcing your two most requested features: offline document editing and Drive for iOS
+    In April, we introduced Google Drive, a place where you can create, share, and keep all your stuff. Today at the Google I/O conference we announced two new ways to get things done in the cloud: offline editing for Google documents and a Drive app for iPhone, iPad, and iPod touch.
+
+   Offline document editing
+
+   No internet connection? No big deal. With offline editing, you can create and edit Google documents and leave comments. Any changes you make will be automatically synced when you get back online.
+
+   You can enable offline editing from the gear icon in Google Drive and find more detailed instructions for getting set up in the Help Center. Note that you'll need the latest versions of Chrome or ChromeOS to edit offline. We're also working hard to make offline editing for spreadsheets and presentations available in the future.
+
+   Google Drive for iOS
+
+   We launched the Drive app for Android phones and tablets a few weeks ago, and starting today, Google Drive is available for your iPhone, iPad and iPod touch.
+
+   With the Drive app, you can open PDFs, photos, videos, documents and anything else stored in your Drive while you're on the go. You can also search all your files, add collaborators to documents, and make files available offline to view them even without an internet connection. For blind and low-vision users, the app also works great in VoiceOver mode. Learn more about what you can do with the app in our Help Center.
+
+   Get Drive in the App Store for your iPhone, iPad or iPod touch running iOS 5.0+ and visit the Play Store to get the latest on your Android phone or tablet.
+
+   To learn more about Google Drive, visit drive.google.com/start.
+
+ 

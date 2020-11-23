@@ -1,0 +1,14 @@
+
+ Want LTE on your new Nexus 4? Well, you might have to move to another country. Unless it's some elaborate post-Thanksgiving hoax from our Canadian neighbors, several Telus customers have demonstrated that the LTE chip hiding inside the Nexus 4 does work, and have connected to some data speeds resembling a 4G connection. This was enabled through the test menu, accessed by dialing *#*# 4636 *#*#.
+
+ Tapping on the preferred network type option, you can select either LTE on its own, or a mix of LTE, GSM and CDMA. According to the videos, the Google phone then taps into your carrier's LTE network if Band 4 is available, and you're good to go. We've so far been unable to replicate it in the UK, which doesn't use the same LTE Band 4 (AWS 2100 / 1700MHz) of Canadian carriers Bell, Rogers and Telus. We have also tested this with AT&T's LTE, but had no luck there either -- we tried it in a Band 17 area, not a Band 4 area (which is less common). This is, however, great news for T-Mobile customers as this is precisely the type of LTE they'll be getting very soon. But for now, there's two working videos already doing the rounds from Canada and we've included them both below.
+
+ [Thanks Kaung]
+
+Update: There was a typo in the code required to activate the test menu. We've updated with the correct key combination.
+                 
+
+ 
+ 
+
+ 

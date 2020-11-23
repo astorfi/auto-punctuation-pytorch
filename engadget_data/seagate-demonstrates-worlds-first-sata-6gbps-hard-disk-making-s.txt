@@ -1,0 +1,6 @@
+
+ 
+You read that right, 6Gbps. Seagate and AMD will be showing-off a prototype Barracuda hard disk drive with AMD prototype 6Gbps SATA chipset for the first time this week at the Everything Channel Xchange Conference in New Orleans. Yup, a world's first. Fortunately, the third generation SATA interface remains backward compatible with your old SATA 3Gbps and SATA 1.5Gbps disks and devices -- cables and connectors too. SATA revision 3.0 also brings enhanced power efficiency with improved Native Command Queuing for applications with heavy transactional workloads. No update to the official launch timeline was made so we'll assume that the first half of 2009 for retail devices is still in the bag. Hey, you weren't planning to purchase a new laptop or desktop before then anyway were you. Were you?[Via CNET]Read -- SATA 6Gbps demonstrationRead -- First half of 2009 launch
+      
+
+ 

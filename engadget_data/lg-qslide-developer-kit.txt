@@ -1,0 +1,4 @@
+
+LG's QSlide mini-apps are handy for quickly checking your calendar or playing a video, but they've been limited to just a handful of first-party offerings so far. You may get a healthier selection of bite-sized software in the near future, though, as LG has just published a QSlide developer kit. The framework lets third-party Android apps pull off the same QSlide tricks as official programs, including floating windows and transparency. While it will take some time before any of these augmented apps reach a device near you, coders who want to try the SDK can get started at the source link.
+
+

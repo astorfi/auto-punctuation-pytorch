@@ -1,0 +1,5 @@
+
+  Media Center fans with ATI digital cable tuners that use CableCARDs have felt pretty left out recently as all the TiVo owners have been getting their hands on Tuning Adapters, and thus access to all the SDV delivered HD channels they pay for. Well it appears there may be some good news on the horizon. We were listening to one of our favorite podcasts -- no not that one, or that one or even our own -- by Derek Flickinger who is a foremost expert on everything Media Center, and at about exactly the 40:00 mark he let a little bit of inside information slip that we've been waiting for. According to DrFlick, the next version of the ATI Digital Cable Tuner's firmware-- the same one that is supposed to reduce the DRM -- will enable support for the Tuning Adapter (all though he actually called them by their old name, "Tuning Resolver") in Windows 7 Media Center. Once upon a time there was a little debate as to whether these devices would even work with OCURs, but now it seems that it just a matter of time.
+      
+
+ 

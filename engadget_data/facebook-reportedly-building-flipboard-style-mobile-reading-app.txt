@@ -1,0 +1,4 @@
+
+There have been murmurs of Facebook building a mobile reading app; tonight, that talk is getting a little louder. The Wall Street Journal claims that the social network has spent the past year working on a dedicated story browser, codenamed Reader, that would curate articles in a Flipboard-like interface. While most other details of the rumored project aren't available, it's reportedly important enough that Mark Zuckerberg is closely involved. The company isn't commenting on its plans, but there's reason to believe that Reader is more than just idle speculation: Facebook recently added hashtag support as a "first step" toward helping users track topics. Accordingly, the company's Graph API includes some unused RSS code that could prove relevant for browsing story feeds. There's no guarantee that we'll see the app soon, if at all. When mobile is becoming the cornerstone of Facebook's business, however, we wouldn't completely rule out Reader's existence.
+
+

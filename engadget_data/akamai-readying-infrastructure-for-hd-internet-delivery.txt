@@ -1,0 +1,5 @@
+
+ Akamai is making some changes to its content distribution network (CDN) which are meant to facilitate the distribution of long-form HD content over the internet. It's more than just a simple bump up in Akamai's already huge capacity, and has enhancements designed around delivery of "bandwidth-intensive" content. Design criteria include support for files larger than 2 GB, VC-1 and MPEG-4 codecs, and 720i/1080i/1080p resolutions, which are some pretty lofty and HD-worthy specs. The goal is to provide 100-Tb/s bandwidth (that's Terabit!) using an edge-network architecture, which will hopefully keep end users happy with fast downloads and and local broadband providers happy with less traffic going through their own gateways. Sadly, no specific rollout dates are given.
+      
+
+ 

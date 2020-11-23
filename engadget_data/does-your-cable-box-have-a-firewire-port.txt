@@ -1,0 +1,8 @@
+
+       There is currently an FCC mandate in effect that requiresall Cable companies to provide their customers a STB with a functional 1394 (FireWire) port on request. This mandatewas agreed to by the Cable companies (yes they all signed it) and went into effect on April 1st, 2004. Backthen I tried to get one and let me tell you, it wasn't easy. Shortly after another Tampa resident called the CEO ofAdvance/Newhouse Communications, (the parent company of Bright House Networks) the boxes became available.
+      
+
+ 
+
+This box lead me to write the article "how to record via 1394 using Windows XP".Not too long after that I bought an HD TiVo and gave my SA3250HD with functional 1394 port back. Recently I discoveredit was possible to use a 1394 equipped STB to record with Windows Media Center. I decided to give it a try so I couldstream cablechannels to my Xbox360. Before you ask, 5C ruined my plans.I headed down to the Bright House Networksoffice to get a STB. I was disappointed by how difficult it was to get a STB with a functional 1394 port, even thoughit's been almost two years since the mandate went into effect. Am I theonly one or do all the cable companies make it this difficult?
+ 

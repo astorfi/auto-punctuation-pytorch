@@ -1,0 +1,5 @@
+
+ The absence of built-in power in eSATA devices has left many scratching their heads in frustration -- not to mention the zanily designed devices that have been created to cope -- but it seems someone up there feels our pain. And by "up there," we mean the SATA-IO, which has finally sparked up a Power Over eSATA initiative in order to "provide power to eSATA devices without the need for a separate power connection." Put simply, the group is hoping to design a specification where power can be passed directly through a Power Over eSATA cable, and yes, they are aiming to "maintain compatibility with the existing eSATA connector form factor." Looking for a date of completion to circle? Try "the second half of 2008" -- and that's just for finalizing the paperwork.[Image courtesy of ExtremeTech][Via Tom's Hardware, thanks Stephen]
+      
+
+ 

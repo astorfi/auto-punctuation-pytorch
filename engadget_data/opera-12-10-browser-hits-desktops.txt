@@ -1,0 +1,4 @@
+
+ Opera has just released version 12.10 of its browser for Windows, Linux and Mac with some significant touch-ups, considering it's a point release. Building on the recent 12.0 launch, the desktop browser now has OS X notifications, Retina support, pinch zoom and inertia scrolling for touch-friendly Windows 8, better color rendering, SPDY support for faster page loading and built-in page sharing to Twitter or Facebook. Along with a bump in speed, some of those new treats might tempt desktop users to make a switch, though it's got an uphill climb. You can grab it at the source.
+
+

@@ -1,0 +1,16 @@
+
+       
+Intel has just concluded its first CES press event of 2010, dedicated to "announcing" the already well known Arrandale and Clarkdale CPUs. They will be part of Intel's planned 27 total SKUs coming in 2010, including four varieties of Core i3, eight Core i5s, and five Core i7 models. We were treated to a demo showing off a Core i5 laptop CPU running a 1080p video with another video stream overlaid on top of it with a measly 10% CPU usage. Dragon Age: Origins was also used to demonstrate the graphics capabilities of the GPU (integrated into the CPU packaging with these new procs), though the jittery frame rate suggested that sticking to Bejewelled might be a better idea without discrete graphics. Mia Hamm was brought out to do a bit of exercising and to provide us with an analogy for Intel's built-in Turbo Boost tech, which is said to work as naturally and as smoothly as the human heart rate increasing when necessary.
+
+Scanning the sheet of new mobile CPUs (available after the break), we notice that the presently popular Core i5-520M ($225 when bought in bulk) and Core i3-330M (unlisted) appear to be the most affordable on deck, with the more powerful Core i7-620M (up to 3.33GHz with Turbo Boost) and ULV Core i7-640UM (up to 2.26GHz) likely to attract the most attention from those who don't like compromise. The i7-640UM fits within an 18W maximum TDP, while the majority of the line will be at 35W, with 25W low-voltage options available too. Intel was keen to remind us this includes the 10W "extra" juice consumed by the chipset and graphics which are obviated by the new integrated design.
+
+Paul Otellini has managed to keep some announcements out of Shaun Maloney's hands, we were told, which means this afternoon's keynote (7.30PM EST) from the CEO may have some stuff we've not yet seen. Not entirely likely, but we can always hope. At least now that this is over, we can start prowling the Las Vegas Convention Center and delivering you hands-on impressions of all the new gear coming out with the new 32nm CPUs.
+
+Update: we've added a video of the Core i5 vs Core 2 Duo after the break.
+
+
+
+
+
+
+ 

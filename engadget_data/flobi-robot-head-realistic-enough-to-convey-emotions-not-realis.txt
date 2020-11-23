@@ -1,0 +1,10 @@
+
+ 
+
+We've seen our fair share of robots meant to convey emotions, and they somehow never fail to creep us out on some level. At least Flobi, the handiwork of engineers at Bielefeld University in Germany, eschews "realism" for cartoon cuteness. But don't let it fool you, this is a complicated device: about the size of a human head, it features a number of actuators, microscopes, gyroscopes, and cameras, and has the ability to exhibit a wide range of facial expressions by moving its eyes, eyebrows and mouth. The thing can even blush via its cheek-mounted LEDs, and it can either take on the appearance of a male or female with swappable hair and facial features. And the cartoonish quality of the visage is deliberate. According to a paper submitted by the group to the ICRA 2010 conference, the head is "far enough from realistic not to trigger unwanted reactions, but close enough that we can take advantage of familiarity with human faces." Works for us! Video after the break.
+
+[Thanks, Simon]
+ 
+
+ 
+ 

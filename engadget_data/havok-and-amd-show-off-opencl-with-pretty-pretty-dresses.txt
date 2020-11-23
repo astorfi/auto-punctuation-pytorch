@@ -1,0 +1,9 @@
+
+ 
+With all the talk about OpenCL and Snow Leopard together and how the spec will allow Apple's upcoming hotness to exploit graphics accelerators, it's easy to lose track of the place where the standard could make its biggest impact: gaming. Yes, OpenGL may have lost favor in that realm in recent years, but OpenCL looks to captivate the hearts and GPUs of gamers everywhere by applying some much-needed standardization to the physics acceleration realm, first shown in public at GDC running on some AMD hardware. Havok is demonstrating its Havok Cloth and Havoc Destruction engines, the former of which is embedded below, and we think you'll agree it's quite impressive. OpenCL allows such acceleration to switch between the GPU and CPU seamlessly and as needed depending on which is more available, hopefully opening the door to physics acceleration that actually affects gameplay and doesn't just exist to make you say, "Whoa."
+      
+
+ 
+
+
+ 

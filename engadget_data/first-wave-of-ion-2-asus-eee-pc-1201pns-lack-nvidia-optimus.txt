@@ -1,0 +1,8 @@
+
+ 
+Well, this is sad. While we told you earlier this week that the Ion 2-powered ASUS Eee PC 1201PN wouldn't be arriving until late May, a number of European sites have gotten early review samples of the 12-inch "netbook" -- if you choose to call it that -- and have discovered that it doesn't use NVIDIA's Optimus automatic graphics switching technology. That's right, instead we're told by NVIDIA that the discrete GeForce 201M GPU runs continuously and Intel's integrated chip is never used -- a configuration which sounds like it'll absolutely kill the battery life on this machine. According to Hardware Zone, ASUS made this choice aiming to be the first to market with the next generation of Ion, but an Optimus version of the ASUS Eee PC 1201PN will be ready later this quarter. It also appears that an Eee PC 1215N with both Ion 2 and Optimus is floating around, but we haven't confirmed what's going on with that. We're sorry if we confused you even more, but we'll be keeping our eyes out for the early reviews of the 1201PN to see if our predicted two hours of battery life is on the mark.
+
+Update: The 1201PN cannot be updated with firmware to enable Optimus -- the hardware isn't there for the automatic switching. 
+      
+
+ 

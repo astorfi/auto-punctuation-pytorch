@@ -1,0 +1,9 @@
+
+ 
+The intersection of video games and real life is a fantastic place to play, as evidenced by Roombas, Halo and the occasional six-string guitar, but all you really need to blur reality is a webcam, an R/C car and a studio filled with cardboard. That's what Malte Jehmlich and company used to create this rendition of Wipeout, which moves practically as fast as the PlayStation original due to the blinding scale speed of its 1/28 model cars. It's all controlled by an arcade racing cabinet complete with steering wheel and on-screen display wirelessly connected to an Arduino board. Originally a two-month hobby project, the designers are presently working towards an advanced version with force feedback and powerups (including boost!) using sensors built right into the track -- and hopefully a forklift to lug all that corrugated wood pulp around. See it in action after the break.
+      
+
+ 
+
+
+ 

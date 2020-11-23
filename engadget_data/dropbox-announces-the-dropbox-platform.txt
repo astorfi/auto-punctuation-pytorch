@@ -1,0 +1,20 @@
+
+
+
+At Dropbox's first DBX developer conference in San Francisco, CEO Drew Houston announced the Dropbox Platform, a suite of developer tools that makes it easier for apps to sync data -- not just files and folders -- across devices and operating systems. Built on top of the Sync API, Houston said the new Dropbox Platform is designed to "replace the hard drive" and that "sync is the new save." A key component of this is the Datastore API, which lets you sync data like contacts, to-do items and game state -- so you can save your Angry Birds progress across your different gadgets for example.
+
+
+Another tool is known as a "Drop-in," which consists of a few lines of code that developers could use for cross-platform compatibility. Two such drop-ins are the "Chooser," which gives apps instant access to files in Dropbox, and the "Saver," which provides one-click saving to the cloud. These have been around already for the web, but are just now available for native iOS and Android apps. Some of the third-party companies that have already signed onto the new Dropbox Platform include Shutterstock, PicMonkey, Asana, Yahoo Mail, Animoto, 1Password, CloudOn, FedEx and Fargo.
+
+
+As part of the announcement, Dropbox also touted a new feature for Mailbox -- that much-hyped email app that Dropbox bought in March. It'll finally be able to send attachments directly from within the app, which is something that even the default iOS client can't do. All you'll have to do is tap the paper clip icon to open a list of Dropbox files, select your item and away you go. However, we've not yet heard just when this app update will roll out -- we've included a screenshot of the Mailbox interface after the break to sate your curiosity for now. As for the developers amongst you, feel free to head to the source to get more details on how to get your app to play nice with the new goodies from Dropbox.
+
+
+Update: Looks like the Mailbox app has been updated with Dropbox integration. We've included a link to the app in the App Store link below. 
+
+
+
+
+
+
+ 

@@ -1,0 +1,41 @@
+
+
+
+Look at the address bar in your browser. See those letters at the front, "HTTP"? That stands for Hypertext Transfer Protocol, the mechanism a browser uses to request information from a server and display webpages on your screen. A new version of the reliable and ubiquitous HTTP protocol was recently published as a draft by the organization in charge of creating standards for the internet, the Internet Engineering Task Force (IETF). This means that the old version, HTTP/1.1, in use since 1999, will eventually be replaced by a new one, dubbed HTTP/2. This update improves the way browsers and servers communicate, allowing for faster transfer of information while reducing the amount of raw horsepower needed.
+
+
+
+Why is this important?HTTP/1.1 has been in use since 1999, and while it's performed admirably over the years, it's starting to show its age. Websites nowadays include many different components besides your standard HTML, like design elements (CSS), client-side scripting (JavaScript), images, video and Flash animations. To transfer that information, the browser has to create several connections, and each one has details about the source, destination and contents of the communication package or protocol. That puts a huge load on both the server delivering the content and your browser.
+
+
+All those connections and the processing power they require can lead to slowdowns as more and more elements are added to a site. And if we know nothing else, it's that people can be quite impatient. We've come to expect blazing-fast internet and even the slightest of delays can lead to hair pulling and mumbled swears. For companies, a slow website can translate directly into lost money, especially for online services where long load times mean a bad user experience.
+
+People have been searching for ways to speed up the internet since the days when dial-up and AIM were ubiquitous. One of the more common techniques is caching, where certain information is stored locally as opposed to transferring everything anew each time it's requested. But others have resorted to tricks like lowering the resolution of images and videos; still others have spent countless hours tweaking and optimizing code to cut just milliseconds from their load times. These options are useful, but are really just Band-Aids. So Google decided to dramatically overhaul HTTP/1.1 and create SPDY; the results have been impressive. In general, communication between a server and a browser using SPDY is much faster, even when encryption is applied. At a minimum, the transfer speed with SPDY can improve by about 10 percent and, in some cases, can reach numbers closer to 40 percent. Such has been the success of SPDY that in 2012 the group of Google engineers behind the project decided to create a new protocol based on the technology, and that started the story that leads us to the current HTTP/2 draft.
+
+What is a protocol?You can think of a protocol as a collection of rules that govern how information is transferred from one computer to another. Each protocol is a little different, but usually they include a header, payload and footer. The header contains the source and destination addresses and some information about the payload (type of data, size of data, etc.). The payload contains the actual information, and the footer holds some form of error detection. Some protocols also support a feature called "encapsulation," which lets them include other protocols inside of their payload section.
+
+
+You can think of it like sending a letter using snail mail. Our protocol in this case would be defined by the USPS. The letter would require a destination address in a specific format, a return address and postage. The "payload" would be the letter itself and the error detection is the seal on the envelope. If it arrives ripped and without a letter, you'd know there was a problem.
+
+
+Why is HTTP/2 better?In a few words: HTTP/2 loads webpages much faster, saving everyone time that otherwise would go to waste. It's as simple as that.
+
+The example below, published by the folks over at HttpWatch, shows transfer speeds increasing more than 20 percent, and this is just one test with web servers not yet fully optimized (the technology will need some time to mature for that). In fact, improvements of around 30 percent seem to be common.
+
+
+Example of HTTP page load speed (above) against HTTP/2 (below)
+
+
+HTTP/2 improves speed mainly by creating one constant connection between the browser and the server, as opposed to a connection every time a piece of information is needed. This significantly reduces the amount of data being transferred. Plus, it transfers data in binary, a computer's native language, rather than in text. This means your computer doesn't have to waste time translating information into a format it understands. Other features of HTTP/2 include "multiplexing" (sending and receiving multiple messages at the same time), the use of prioritization (more important data is transferred first), compression (squeezing information into smaller chunks) and "server push," where a server makes an educated guess about what your next request will be and sends that data ahead of time.
+
+So when will we get to enjoy the benefits of HTTP/2?There's no real start date for the use of HTTP/2, and many people may already be using it unknowingly. The draft submitted on February 11th will expire in six months (August 15th, to be precise). Before expiring, it has to be confirmed and become a finished document, called an "RFC," or a new draft with changes has to be published.
+
+As a side note, we should mention that the term "RFC" comes from "Request For Comments," but it's really a name for a finalized document used by the IETF. Also, an RFC is not a requirement, but more of a suggestion of how things should be designed. (Confusing right?) However, for a protocol to work properly, everyone has to follow the same rules.
+
+
+The HTTP/2 technology is already baked into many web servers and browsers, even if it's still just a draft. For example, Microsoft supports HTTP/2 on Internet Explorer under the Windows 10 Technical Preview; Chrome also supports it (while it's disabled by default, you can easily enable it); and Mozilla has had it available since Firefox Beta 36.
+
+If we talk about web servers, you should know that IIS (the Windows web server) already supports HTTP/2 under Windows 10 and it's expected that Apache and Nginx will offer support very soon (SPDY is already supported through extensions). This means that sooner, rather than later, we will all be using HTTP/2. And chances are you won't even realize it when the switch is made unless you're in the habit of timing load times for your favorite sites. Plus, you'll still just see "http" or "https" in the address bar, so, life will continue as usual, but a bit faster.
+
+[Image credits: Shutterstock (Server rack); HttpWatch (Benchmark charts)]
+

@@ -1,0 +1,9 @@
+
+ 
+
+Is it us, or is the dream of a full Windows experience on low-power ARM tablets getting steadily eroded? We've long known that these slates would sacrifice backwards compatibility with legacy software, but now it seems the familiar desktop mode could be getting the chop too. Paul Thurrott from SuperSite for Windows says he has good insider information that this mode will be limited to x86 devices, which would rule out using the traditional keyboard-and-mouse UI on an ARM tablet and force users to stick with the Metro UI at all times. By the sound of it, though, the matter is still being argued over within Microsoft and it's unclear whether the decision will apply to ARM-based notebooks too. All Thurrott could be sure of is that "the people who don't want there to be a desktop mode [in ARM tablets] have apparently won the day." Man, and just when we thought everyone was starting to get along so nicely.
+
+Update: Paul Thurrott has just provided a bit of an update that he heard from a different source that, yes indeed, Windows 8 will include a desktop mode, even when running on ARM. Paul indicates he trusts these two sources equally, leaving us somewhat stuck in the middle.
+      
+
+ 

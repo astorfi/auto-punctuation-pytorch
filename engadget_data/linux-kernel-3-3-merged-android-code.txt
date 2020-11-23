@@ -1,0 +1,5 @@
+
+  The latest refresh of the Linux kernel, 3.3, is now available, and the second release of 2012 brings with it the long-awaited merging of code from Google's little side project. While that is particularly interesting to developers looking to boot Android or run apps on the stock Linux kernel (FYI: optimized power management and other infrastructure that didn't make it this time will arrive in the next release, 3.4) and represents a resolution to the issues that kept the two apart for so long it's not the only new feature included. There are improvements to file systems like Btrfs, memory management, networking, security and much, much more. Hit the source link below for the full changelog or grab the code and from the usual locations and get your compile on directly.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+       
+Palm just showed us the Unreal Engine 3 running on webOS, which apparently took a couple weeks to port over to the platform using that fancy new PDK. It runs at a pretty smooth clip, with just a tiny bit of artifacting in our enemy's death animation. As an added bit of wow factor, Palm has it currently setup to demonstrate the game at 1 fps when in card view. Like most touchscreen shooters, this doesn't really solve the problem of simulating dual analog sticks, but it's still a fun and good looking engine for a mobile device. We're still unaware of any games that have been built for the mobile engine, which has now been shown for iPhone, Tegra 2, and will be headed to the iPad as well, but we have to assume we'll be seeing some before too long. Check out the webOS video after the break.
+      
+
+ 
+
+Quick note: There were 15 seconds of painful loading, after which the app crashed, and then it loaded again for another 15 seconds, and we cut all that out. It's a blank black screen, you aren't missing much.
+ 

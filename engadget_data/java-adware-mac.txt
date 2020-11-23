@@ -1,0 +1,8 @@
+
+Since megayachts aren't going to buy themselves, Larry Ellison's Oracle has been picking up extra cash for years by slipping adware to Windows users via its ubiquitous Java software. If you felt smug because you were on a Mac, guess what! Installing Java on your OSX-equipped MacBook could now lead to an unexpected encounter with the dreaded "Ask.com" toolbar, too. Though not as dangerous as SuperFish, the program will hijack your browser's search functions and delivery iffy, ad-laden results while being tricky for neophytes to remove. If you don't pay attention during installation, you can easily end up with it, as you need to purposefully opt out to avoid it.
+
+
+
+For Java 8 Update 40 on Mac, the update instructions now confirm that "Oracle has partnered with companies that offer various products," including Ask.com (McAfee products have also been bundled on the PC). As ZDnet pointed out, the parent company of Ask.com -- which also owns Tinder, OKCupid, the Daily Beast and others -- paid out $883 million to partners like Oracle to distribute its toolbar and other wares. The software is hated enough that it spawned a Change.org petition that has so far garnered 20,000 or so signatures. Oracle's introduction of the adware "bundle" to the Mac seems particularly bad timing considering how fresh the Lenovo adware installation fiasco is in everybody's minds.
+
+

@@ -1,0 +1,14 @@
+
+Two weeks ago, security researcher Brian Krebs' site KrebsOnSecurity got knocked offline by one of the biggest DDOS attacks ever recorded, which peaked at 620 Gbps. What happened? Akamai, which had been protecting the site for free but ultimately had to unload it as the sustained traffic would have cost them millions of dollars, released a postmortem today. In it, they confirm that the attacker mainly used the Mirai malware to ovewhelm Krebs' site, though there may have been another botnet involved. But the most crucial distinction from a normal DDOS strike: These bots were mostly IoT devices.
+
+
+
+The majority of the estimated 145,000 devices were security cameras and DVRs used in home or office settings. Many of these were using either default passwords or easily-guessed ones ("1234," "password," "admin"). Around half of the traffic came from the Europe, Middle East and Africa (EMEA) region, indicating where the compromised devices were located. The volume of traffic was uniquely large, nearly double what Akamai had previously seen in a 363 Gbps attack back in June.
+
+Finally, a large portion of the traffic connected directly from the botnet to the target, rather than reflect or amplify traffic as is typical for DDoS strikes. As Softpedia notes, researchers thought this direct flood to be hardly possible as it would require the attacker to directly control a large volume of bots.
+
+Krebs' site was likely targeted after he'd busted a two-person DDOS-for-hire outfit in early September that had been responsible for a "majority" of the denial-of-service cyberattacks in recent years. Days after Akamai reluctantly stopped protecting the site, he finally got KrebsOnSecurity back online after getting help from Alphabet's Project Shield, a free service that protects journalists from denial-of-service assaults.
+
+A DDoS expert noted that an Akamai-level defense would cost Krebs $150,000 annually, far beyond the budgets of most independent writers and newsrooms. While this report confirms much of what was already suspected, it also cements how easily a voice can be silenced, especially since the Mirai malware's author open-sourced its code for anyone to use.
+
+

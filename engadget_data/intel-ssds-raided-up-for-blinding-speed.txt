@@ -1,0 +1,6 @@
+
+ 
+Intel's hot X25-M SSD is one of the faster drives out there, and while it's not surprising that a RAID 0 array of two of the $600 units is quick, it turns out it's actually one of the fastest RAID 0 arrays ever. At least that's the word from the crew at HotHardware, who say that two X25-Ms kicked out the fastest IOMeter numbers they've ever seen, and produced 396MB/s reads and 130MB/s writes. Yeah, damn. Anyone going to take the $1200 trip to Speedville?
+      
+
+ 

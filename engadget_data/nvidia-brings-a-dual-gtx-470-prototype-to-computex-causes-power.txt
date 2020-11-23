@@ -1,0 +1,6 @@
+
+ 
+We'll hit the pause button on all the power-sipping tablet talk for a moment to show you NVIDIA's maddest and baddest beast yet. This is a dual GeForce GTX 470 card, meaning that two Fermi dies reside on the same board, along with the necessary circuitry and an apparently beefed up apportionment of GDDR5 RAM as well. Measuring in at 12 inches long, this prototype is being shown off at Computex by add-in board partner Galaxy -- probably just to prove that the mammoth undertaking is even possible. You'll be forgiven for mistaking it for one of 3dfx's final ill-fated productions, and with a requirement for two 8-pin power connectors and a doubling of the standard 470's 215W TDP, this dualie card sure looks set for a similar future of pretty pictures and no retail viability. All the same, if you happen to have a nuclear reactor and a wind farm in your backyard, this could be just the GPU for you.
+      
+
+ 

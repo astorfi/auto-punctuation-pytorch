@@ -1,0 +1,15 @@
+
+
+
+So you jailbroke your new Apple TV, only to realize that there's not all that much to do at the top of Everest except rest and enjoy your accomplishment, eh? No need to trek back down the hill -- there are a great many minds at work to leverage your new-found power into something truly useful. Like what, you say? Take a gander above. An second-generation Apple TV appeared at our doorstep this weekend with XBMC on board -- decoding our 1080p HD content, complete with hardware acceleration, on Apple's ARM silicon, and with only occasional choppiness.
+
+If your sense of self-entitlement is wondering what took so long, don't. We're told that this isn't a simple port, as the new Apple TV doesn't share much with its older brother, and is an entirely different animal to develop for. The bulk of the work has been done, though, and as you can see in the video above, once you launch XBMC from the new Apple TV it is the same great experience you've come to love. The difference is, this time, the hardware you're running it on costs just $99. This tiny box is finally beginning to feel magical... now, we're just waiting on a simple installer so we can load it up ourselves. 
+
+Update: And just like that, the wait is over. If your jailbroken second-gen Apple TV is ready and you have the foggiest idea what "apt-get" does, you can install XBMC right now. Find instructions at our more coverage link below. 
+
+
+
+
+
+Sean Hollister contributed to this report.
+ 

@@ -1,0 +1,10 @@
+
+
+HTC hinted that it would get back into tablets this year, and there have been  detailed rumors covering the effort. However, tangible evidence of that hardware has been hard to come by -- until now, that is. The Wi-Fi Alliance has certified the "Flounder," a tablet that would run Google's upcoming Android L. While the listing doesn't say much by itself, the model numbers match those in an @upleaks post mentioning that there would be a WiFi-only model as well as LTE variants for both the world at large and American CDMA carriers (think Sprint or Verizon). These tidbits don't confirm many of the other rumored aspects of the slate, such as the 8.9-inch display, Tegra K1 processor or Nexus badging. However, they at least suggest that HTC is close to releasing its first tablet since 2011's Flyer and Jetstream -- if you've spent years hoping for a follow-up device, you may well get your wish.
+
+
+
+
+flounder(T1#F, WiFi-only); 0P82100 flounder_lte_us(T1#WL, CDMA2000/LTE); 0P82200 flounder_lte_world(T1#UL, WCDMA/LTE); 0P82300
+
+- @upleaks (@upleaks) August 23, 2014

@@ -1,0 +1,21 @@
+
+We've already seen a couple of new desktop GTX cards from NVIDIA this month, and if the mysterious spec sheet for MSI's GT70 Dragon Edition 2 laptop wasn't enough of a hint, the company's got some notebook variants to let loose, too. The GeForce GTX 700M series, officially announced today, is a quartet of chips built on the Kepler architecture. At the top of the stack is the GTX 780M, which NVIDIA claims is the "world's fastest notebook GPU," taking the title from AMD's Radeon HD 8970M. For fans of the hard numbers, the 780M has 1,536 CUDA cores, an 823MHz base clock speed and memory configs of up to 4GB of 256-bit GDDR5 -- in other words, not a world apart from a desktop card. Whereas the 780M's clear focus is performance, trade-offs for portability and affordability are made as you go down through the 770M, 765M and 760M. Nevertheless, the 760M is said to be 30 percent faster than its predecessor, and the 770M 55 percent faster.
+
+
+All of the chips feature NVIDIA's GPU Boost 2.0 and Optimus technologies, and work with the GeForce Experience game auto-settings utility. The 700M series should start showing up in a host of laptops soon, and a bunch of OEMs have already pledged their allegiance. Check out a video with NVIDIA's Mark Avermann after the break, where he shows off a range of laptops packing 700M GPUs, and helps us answer the most important question of all: can it run Crysis? (Or, in this case, Crysis 3.) 
+
+
+
+
+
+Show full PR textNVIDIA GeForce GTX 700M-Powered Notebooks Shatter Records for World's Fastest and Thinnest Gaming NotebooksNext-generation Notebooks 40% Thinner and 40% Lighter with More Power Efficient GPUsSANTA CLARA, Calif. - May 30, 2013-NVIDIA today introduced the NVIDIA® GeForce® GTX™ 700M series of notebook GPUs, which enable gaming notebook PC designs that are smaller and more powerful than ever before.
+
+The GeForce GTX 700M series GPUs bring blistering performance, advanced gaming technology and true portability to the next generation of gaming notebooks.
+
+"Virtually all of the new gaming notebooks are built around GeForce GTX 700M GPUs," said Rene Haas, vice president and general manager of computing products at NVIDIA. "The GPU is the heart of any gaming PC, and all the top gaming OEMs unanimously chose the GeForce GTX 700M series this refresh cycle. GeForce GTX means gaming, more now than ever before."
+
+The new GeForce GTX 700M GPU lineup includes:
+
+· GeForce GTX 780M – The world's fastest notebook GPU(1)· GeForce GTX 770M – up to 55 percent faster(2) than the product it replaces· GeForce GTX 765M – Selected by Razer for the world's thinnest PC gaming laptop, 40 percent thinner and lighter than the current record holder(3)· GeForce GTX 760M –up to 30 percent(4) faster than the product it replacesBased on the NVIDIA Kepler™ architecture, 700M series GPUs feature technologies that automatically maximize notebook performance and the gaming experience. With no effort or input from the user, the technologies work in the background to save battery life, enhance performance and enrich visual details - providing the best notebook experience the GPU can deliver. They include:· NVIDIA® Optimus™ technology, which enables extra-long battery life by switching the GPU on and off so it runs only when needed.· NVIDIA GeForce® Experience™ software, which adjusts in-game settings for the best performance and visual quality specific to a user's notebook and automatically keeps GeForce drivers up to date.· NVIDIA GPU Boost™ 2.0 technology, which intelligently adjusts GPU clock speed to maximize graphics performance.Notebook manufacturers that have committed to using GeForce GTX 700M GPUs in their designs include Acer, Asus, Clevo, Gigabyte, MSI, Razer and Toshiba. Others will be announced soon. More information about the GeForce 700M family of notebook GPUs is available at www.GeForce.com.
+
+

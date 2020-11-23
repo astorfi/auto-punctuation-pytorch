@@ -1,0 +1,22 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+ Parent with a smartphone? If your kids are old enough to fiddle with a touchscreen, you've probably had your handset nicked. It can be a problem -- you need that phone, for calls, emails and Engadget, but your little scamp just can't get enough of Angry Birds. What do you do? Trust, says PlayMG, but verify. The old phrase ties closely to the core philosophy of the MG -- a device the firm is developing specifically for kids who want to play Android games, but are too young for a smartphone. We met with the company's Taylor Cavanah to get a first hand look at the device and its parental control system.
+
+
+
+
+
+ The MG itself is a fairly simple device -- an oval-shaped 4-inch handheld packing a 1GHz Cortex A5 processor, 1GB DDR3 RAM, 4GB of internal storage (expandable to 32GB via MicroSD), a WiFi radio and a slew of standard sensors: a gyroscope, compass, accelerometer and so on. Just enough hardware for casual gaming – and casual is the angle. "We talked to a lot of kids whose parents only have feature phones." Cavanah told us, "They might have a 3DS or something like that, but they don't have any access to something like this unless they're hanging out at their friend's house." The device is very targeted and simple – no cellular wizardry, no physical buttons beyond power and volume control – it doesn't even feature a rear facing camera.
+
+ 
+ Devices will come preloaded with a suite of games like Need for Speed Hot Pursuit and NBA Jam, PlayMG told us, allowing kids to dive in as soon as they open the box – if they want a wider selection of titles, they'll have to connect to the Google Play store and spend some of their parent's cash. This is where the MG's exclusive apps come in. PlayMG has created a family collaboration app that ties in closely with a service called BillMyParents, which provides families with a refillable debit allowance system for kids. The service itself isn't exclusive to MG, but the in-app management system is. A widget on the device's home screen keeps kids updated on how much cash they have available, and an automated notification system keeps parents looped in on how their offspring is spending. If Timmy buys something inappropriate, his account can be locked down instantly via text message. The collaboration app also updates parents on how often the device is being used, what games are being played and more. The idea, Cavanah told us, was to trust, but verify that your child is making good decisions.
+
+ 
+ Sound complicated? It is, a little. The family collaboration app doesn't actually interface with Google Play in any way – technically, it's just helps manage a refillable debit card. The money tied to the account can be spent on anything. Parents (or tech savvy kids) will need to associate the device with a Google account and register the debit card in the normal way. Once all the pieces fit together, the MG creates the illusion of a unified system – we spent some time with a fully configured device, and found it exceedingly easy to pull up account balance information or recent usage. PlayMG also includes a metagame called MG Origins, which presents kids with a robot avatar and a series of story missions that teaches them how to use the device and the Google Play store. Later on, Cavanah told us, the company hopes to introduce exclusive games that utilize the avatar.
+
+ 
+ Kids looking for an Android experience without a phone bill have no shortage of options, but the MG is a bit different. By teaming up with BillMyParents, it lends kids a sense of financial freedom in their interactions with the Play Store, and a host of unique and exclusive apps streamline the experience. The price of entry isn't astronomical either -- it'll be $170 when it launches this holiday season, and early bird supporters can snag one for a paltry $99 on Kickstarter. That's not bad, for what amounts to a darn decent media player running ICS. Check it out for yourself at the source link below.
+
+ Previous project update: The Public Lab DIY Spectrometer blew past its $10,000 goal on its second day out the door, and is now offering two new rewards -- a bundled fold-up and desktop kit, and bundled "classroom packs" of six desktop kits for educators.
+
+

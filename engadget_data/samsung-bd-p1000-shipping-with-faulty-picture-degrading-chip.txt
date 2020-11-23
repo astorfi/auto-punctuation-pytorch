@@ -1,0 +1,6 @@
+
+ 
+If you shelled out over $1,000 for Samsung's BD-P1000 Blu-ray player only to discover that the picture quality wasn't as impressive as you'd expected, fear not: it looks like a faulty-but-fixable chip may be responsible for the sub-par video. After noticing a "softness" in each of the titles he viewed with the P1000 -- especially compared to the performance of Toshiba's HD-A1 HD DVD player -- Perfect Vision editor Scott Wilkinson initiated a chain of events that has culminated with Samsung VP Jim Sanduski confirming that there is indeed a hardware problem with the initial rollout. Apparently, the machines have been leaving the factory with the Genesis scaler chip's noise-reduction circuit enabled, and after comparing a repaired unit to one out of the box, Wilkinson agrees that the fix does indeed result in a sharper picture. Future P1000's will be shipping with noise-reduction disabled, and luckily for current owners, Samsung will be releasing a firmware update that you can download, burn to disc, and pop into your player. So the lesson we've learned here is: early-adopters beware, because even though this problem has a relatively easy solution, next time you may not be so lucky.[Via HDBeat]
+      
+
+ 

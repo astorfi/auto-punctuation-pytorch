@@ -1,0 +1,10 @@
+
+ 
+The HSUPA-enabling update? No, not yet. The voice call quality fix? In the pipeline. The mission-critical Bluetooth multimedia experience improvements? Oh yes, we've got those right here! Motorola is preparing to deliver an imminent OTA update to its Atrix 4G super phone, which will fix up battery performance, overall software stability, and car dock, headphone jack, and fingerprint reader performance, but will regrettably leave the two major drawbacks to the AT&T-riding phone untouched. Alas, if you've rooted your Atrix, you'll have to pay a dear price to benefit from these upgrades as users over at xda-developers, who've obtained the pre-release build, report the new 4.1.57 update disables their previous superuser privileges. C'est la vie.
+
+Update: Word is this update will be released to the general public tomorrow. Sit tight.
+
+[Thanks, Daniel]
+      
+
+ 

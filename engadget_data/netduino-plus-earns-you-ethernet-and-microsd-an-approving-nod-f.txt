@@ -1,0 +1,7 @@
+
+ 
+The two new Arduinos should spell good things for the Arduino heads out there, but meanwhile, on the other side of the tracks... Secret Labs is launching its .NET-friendly Netduino Plus, which adds Ethernet and microSD to a regular Netduino board (which in itself is a sort of high powered, Visual Studio-compatible Arduino, with a 32-bit 48MHz ARM7 processor, instead of Arduino's 8-bit number, but pin compatible with Arduino "shields"). Unfortunately, the networking code eats of a good majority of the board's already meager code storage and RAM, but you can always flash the original Netduino's firmware on here if you'd like. Right now the board is in a "public beta" while the firmware gets some extra tweaks, but you should be able to drop $60 on the final model by the holidays. 
+
+
+
+

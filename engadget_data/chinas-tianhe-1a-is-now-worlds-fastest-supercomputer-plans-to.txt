@@ -1,0 +1,6 @@
+
+ 
+It happened. China just passed the US and the world with the reveal of the world's fastest supercomputer. The fully operational Tianhe-1A, located at the National Supercomputer Center in Tianjin, scored 2.507 petaflops as measured by the LINPACK benchmark. That moves it past Cray's 2.3 petaflops Jaguar located at Oak Ridge National Lab in Tennessee. Tianhe-1A achieved the record using 7,168 NVIDIA Tesla M2050 GPUs and 14,336 Intel Xeon CPUs consuming 4.04 megawatts. Knowing that 10 petaflops is within reach by 2012, we'll see if Tianhe-1A can maintain its title when the new Top500 supercomputers list is released next week.
+      
+
+ 

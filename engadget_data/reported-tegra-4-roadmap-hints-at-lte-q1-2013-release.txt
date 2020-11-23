@@ -1,0 +1,5 @@
+
+  Time to put on our "skepticles" as we pore over some reportedly leaked Tegra 4 details. NVIDIA CEO Jen-Hsun Huang went on record saying that we could expect a new Tegra "every single year", so if anything, the fourth iteration of the series is slightly overdue. Chinese site VR-Zone, however, thinks it's got the inside skinny on how the next deployment might look. If its alleged roadmap leaks are to be believed, there will be four variants, three with a quad-core ARM Cortex A15 configuration, with clock speeds from 1.2 to 2.0GHz. What caught our eye a little more, though, was the "SP3X" flavor. Not because it favors the A9, but because it appears to bring LTE to the table right off the bat. That said, given that it's not that long since NVIDIA announced the same for Tegra 3, we can't help but wonder if something just got lost in translation.[Thanks Rizwan]
+      
+
+ 

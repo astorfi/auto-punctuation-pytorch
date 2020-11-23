@@ -1,0 +1,13 @@
+
+ 
+ Proper home automation systems can cost upwards of $10,000, and while budget alternatives can't touch the level of integration you'll enjoy with a behemoth rig, all but the most sophisticated of homeowners can squeak by with a simple timer setup -- or the modern equivalent. Belkin's WeMo duo utilizes two types of plug-in modules paired with an iOS 5+ app, which you'll use to set macros, control lights and schedule on/off times. A Switch module can turn on and off a lamp, fan, coffee maker, television or heating appliance from a connected iPhone, iPad or iPod touch. You can also set a seemingly unlimited number of detailed schedules for each device, all from the comfort of your WiFi-equipped touchscreen handheld. You can integrate the optional Motion device with a set of macros as well, configuring your lights to turn on once you step through the foyer, or your coffee maker to launch a brew as you walk through your bedroom door.
+
+ We wired up a lamp in a New York City apartment to give WeMo a go, and things generally worked as advertised. Setup is fairly straightforward -- simply plug in a module, select its corresponding SSID broadcast from iOS then launch the free app to force the device onto your home WiFi network. You'll need to repeat the process to add each gadget or sensor, but once you do, you'll be able to config and control any connected gadget from anywhere on the network, or beyond. The system theoretically supports remote access without any additional setup (modules are registered to the app) but we weren't able to power up the lamp while on 3G during multiple attempts. That detail aside, we'd be happy to welcome WeMo into our home, though the absent Android app throws in a speed bump for sure. You have two options for adding WeMo -- there's a Switch + Motion kit available for $100, which includes a power control and motion sensor, or you can opt for the Switch solo for $50. Then, simply add as many outlet controllers as you wish, at 50 bucks a pop. You can see that first combo in action in our hands-on video after the break.
+
+
+
+
+
+  
+
+ 

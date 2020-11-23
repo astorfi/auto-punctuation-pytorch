@@ -1,0 +1,13 @@
+
+ 
+Time to update your Pre, Palm's just released webOS 1.1.0. Quite a bit of changes here, but most importantly, the patch notes say that it "resolves an issue preventing media sync from working with latest version of iTunes (8.2.1)" -- that issue, of course, being a blockade put in place by Apple just one week ago. Oh yeah, it's on. In addition, we've got emoticons and Exchange support now, and its 31st app, NFL Mobile Live for watching games and audio from the device. There's also talk of a new gesture, swiping left to right to move forward through web pages, but really it's no different that scrolling the browser up in landscape mode. Everything else is pretty boring by comparison -- looks like that leaked update list was dead on. So when should we expect to see iTunes 8.2.2, eh Apple?Here are a few things we've noticed after playing with the update for a little bit:
+
+Scrolling through long lists (like contacts) seems improved. We're seeing a lot less loading, and only the occasional hiccup.
+Push email now seems to actively delete (and represent the count properly) in the background.
+Folder orders for IMAP Gmail accounts are now correct. Previous versions of the software had them totally out of whack.
+The email alert sound is different -- softer.
+App load times seem a bit snappier. In fact, the whole device feels a little snappier.
+Maybe we're crazy, but there seems to be a new animation for the drop-down menus.
+
+Anything else you guys are seeing? Tell us in comments! Also, PreCentral has an extensive list of undocumented features.
+ 

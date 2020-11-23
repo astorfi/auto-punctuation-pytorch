@@ -1,0 +1,7 @@
+
+ ARM's doing some chest thumping today by revealing a 2GHz clock speed on its dual-core Cortex-A9 processor. The move is meant to remind manufacturers that ARM can scale beyond its traditional smartphone strong-hold and into netbook territories currently dominated by Intel. ARM's even handing out benchmarks showing the Cortex A9 out performing Intel's single-core 1.6GHz Atom N270 -- a processor launched back in 2008. Of course, Intel already ships a dual-core Atom 330 processor with its low-power Pineview processor set to launch on the near-horizon. It's also worth remembering that Windows 7 won't run on ARM so future Cortex A9 smartbooks will have to settle for Windows CE, Android, or perhaps, Google's Chrome OS if you ask politely. ARM is licensing its Cortex A9 speed- and power-optimized technology today with delivery in the fourth quarter of 2009.
+
+[Via PC World, thanks Ian]
+      
+
+ 

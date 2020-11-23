@@ -1,0 +1,6 @@
+
+ 
+With SSD prices still well above the point of affordability, we're thrilled to see more entrants joining the burgeoning market. Big players like Western Digital and Corsair are being greeted by small timers such as PhotoFast, Fusion-io and SandForce, the latter of which has just escaped "stealth mode" in order to launch its first solid state drive processor family. The chips utilize DuraClass technology and promise to address "key NAND flash issues allowing MLC flash technologies to be reliably used in broad based, mission critical storage environments." More germane to our discussion is the nice boost in transfer rates and lower cost of production; we're told that the SF-1000 crew sports a standard 3 gigabit-per-second SATA host interface connecting up to 512 gigabytes of commodity NAND flash memory, and that it delivers 30,000 IOPS and 250MB/s performance (sequential 128KB read or write transfers) with 100 micro-second latency. If all goes well, select OEMs will be launching SSDs based on this processor later this year, so we'll definitely be keeping our eyes peeled.[Via GadgetMix, thanks Kamal]
+      
+
+ 

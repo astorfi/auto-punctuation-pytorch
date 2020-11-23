@@ -1,0 +1,6 @@
+
+ 
+Intel's announced this week its latest batch of Nehalem-based Xeon processors, the single-socket 3500 and dual-socket 5500 series for servers and workstations. Both models boast speeds up to 3.2 GHz and feature Intel's turbo boost, hyper-threading, and virtualization technologies, as well as integrated power gates. If you've got the newest Mac Pro, however, then you're already using the new quad-core CPUs,, but for everyone else, they're now being sold en masse to manufacturers at a price ranging from $188 to $1,600 for the Xeon 5500 and $284 to $999 for the 3500. We've already heard about 5500 / 3500-equipped Lenovo and Dell workstations, but if that doesn't suit you, Intel promises over 230 systems are in the pipeline from companies such as Cisco, Fujitsu, HP, IBM, among others.
+
+
+

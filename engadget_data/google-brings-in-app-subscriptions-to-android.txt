@@ -1,0 +1,5 @@
+
+ 
+ Developers can never have too many options when it comes to ways to take your money. Google has opened the doors to In-app purchases, carrier billing and now, in-app subscriptions. Perhaps it wasn't enough that game creators be able to lure you in with perks and content you could purchase for a one-time fee, now devs can choose to hit you with a monthly charge for the privilege of using their wares. Of course, it's not all that bad. Subscription-based games aren't the only potential uses here. Customers can now buy monthly or annual subscriptions to services or publications as well. There's even a publisher API for extending the subscription beyond the walls of Google Play and your Android device. Glu Mobile will be first out the gate, turning on subscriptions in properties like Frontline Commando, but we're sure plenty of others will follow. Soon enough you might be able to get your New York Times subscription or Spotify Premium account without ever leaving the comfort of the Android app. Any handset with Google Play 3.5 or higher installed should have access to subscriptions starting today.
+
+

@@ -1,0 +1,9 @@
+
+ 
+You've seen so many Kinect hacks by now that you probably think you know them all -- but wait, have you seen one that makes you look like Predator when he's busy predatorizing the populace? Or one that lets you reenact your favorite Metal Gear Solid scenes with Snake's camo turned on? Yup, a Japanese coder by the name of Takayuki Fukatsu has exploited the versatile openFrameworks to give Kinect a mode where it tracks your movement and position, but turns the dull details of your visage into an almost perfectly transparent outline. Of course, you're not actually transparent, it looks to be just the system skinning an image of the background onto the contours of your body in real time, but man, it sure is cool to look at. You can do so for yourself with the video after the break.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+ Mozilla is busy sprucing up and unifying Firefox, and an oven-fresh test build will see how users feel about ditching square tabs. The new curved element will be part of a future multi-platform version codenamed Australis, and Mozilla threw the build up on the designer's blog, asking downloaders to comment on the new look. Active tabs will get the rounded corners, and those not in use will have no background, appearing as just text against the titlebar. If you've been eyeing Chrome's sleek chamfers enviously and want to scope the Fox's new curves, check the source for the link.
+
+

@@ -1,0 +1,9 @@
+
+ 
+Given all the Cortex A8 processor clock tweaking going on we admit to being just a little surprised to be reading the first overclocking reports on the eminently hackable N900 only now. Nevertheless, owners are seeing significant speed improvements after updating their stock 600MHz QWERTY sliders with recompiled kernels (no CPU voltage hacks required). Although speeds in excess of 1GHz have been tested (1,050MHz still boots), it looks like 900MHz is the maximum stable clock speed you can expect before the doors rattle off -- but that's only after a weekend of testing. If things continue to go well then you'll see tweaked kernels of various clock speeds released for download soon enough -- something that should keep the device humming right through the commercial launch of MeeGo whether Nokia likes it or not. Check the video after the break and then follow the latest developments in the maemo.org forums by hitting up the source link below.
+      
+
+ 
+
+
+ 

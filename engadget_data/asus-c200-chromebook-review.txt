@@ -1,0 +1,65 @@
+
+Sorry, naysayers: You're going to see a fair number of Chromebook reviews from us over the next few months. That's mostly because sales of these inexpensive laptops have shot up -- which means everyone and their mother is now making one, even companies that had previously shied away. The latest brand to join the fray is ASUS, which already has loads of experience building small, cheap notebooks. Indeed, ASUS' 11-inch C200 Chromebook ($250) looks like a 2009-era EeePC brought back to life: The spacious keyboard feels eerily familiar, as does the long, 11-hour battery life. Even so, it's not a perfect machine by any means -- in fact, it has a pretty serious flaw -- but if you're in the market for a Chromebook, it couldn't hurt to consider a company that seems to know what it's doing.
+
+
+
+
+
+Hardware
+I know you're tired of hearing Chromebooks compared to netbooks and, look, so am I. But hear me out: The reason some of you have even heard of ASUS in the first place is because it pioneered the mini-PC fad. By now, it probably knows a thing or two about making super-small, super-low-priced machines, right? Right. Mostly. The C200 is made of plastic, as you'd expect on a sub-$300 system, and indeed, it's pretty unremarkable-looking. But, to ASUS' credit, the build generally feels more solid than, say, Acer's C720, which flexed when you grabbed it by the palm rest. There's less bend here, though the screen wobbles when you set the laptop down on a table. It's also fairly compact: At 0.8 inch thick, it has similar dimensions as the Acer C720, except it weighs just 2.5 pounds, versus 2.76 for the C720. Although both are perfectly easy to tote around, the C200 is noticeably lighter.
+
+It's on the keyboard that ASUS' netbook expertise really shines through. The buttons here manage to be cushier than on most other Chromebooks, though the Dell Chromebook 11 and Toshiba Chromebook both rank pretty highly in that regard. Not only that, but also the keys are well-spaced, and none of the major buttons (Enter, Shift, etc.) have been shrunken down to fit the 12-inch-wide frame. The trackpad, meanwhile, is spacious compared to the one on the Acer C720, and does a precise job with single-finger tracking. No complaints there.
+
+
+I wish I could say such nice things about the display, but this is one of the main areas where Chromebook makers cut corners. As on rival systems, the C200 rocks an 11.6-inch, 1,366 x 768 panel (non-touch), and as usual, the viewing angles are awful. Dip the lid forward even slightly and the screen washes out to the point of being unreadable. Unfortunately, even if you were to invest in a more expensive machine, the display quality would still be fairly crappy. Take the Samsung Chromebook 2, for instance: Even with a sharper, full HD screen, it still suffers from narrow viewing angles.
+
+The C200 also offers the same exact port selection as other Chromebooks. This includes two USB connections (one of them 3.0), a full-sized HDMI socket, an SD card reader, a headphone jack and a lock slot.
+
+Performance and battery life    SunSpider v1.0.2 Google Octane Mozilla Kraken     ASUS C200 (Celeron N2830, 2GB RAM) 482.8ms  7,197.7
+
+   4,291.4ms
+
+    Acer C720 (Core i3-4005U, 4GB RAM) 289.4ms  14,530.3
+
+   2,112.5ms
+
+    Acer C720 (Celeron 2955U, 2GB RAM) 342.2ms  11,502.0
+
+   2,614.3ms
+
+      Dell Chromebook 11 (Celeron 2955U, 4GB RAM) 339.8ms  11,533.3
+
+   2,621.9ms
+
+    Toshiba Chromebook (Celeron 2955U, 2GB RAM) 323.6ms  11,306.7
+
+   2,626.3ms
+
+     *SunSpider and Kraken: Lower scores are better.
+ **We regrettably didn't run enough of these tests on the Samsung Chromebook 2 when we had a unit in our possession; otherwise, we would have included it in this table.
+   What a difference a processor makes. The C200 is one of the few Chromebooks that doesn't use a dual-core Haswell chip, the Intel Celeron 2955U. Instead, it packs the dual-core Celeron N2830, part of Intel's Bay Trail family. Given the common "Celeron" brand and the fact that the C200 is in the same price range as its competitors, you might assume the performance would be similar. In fact, though, the C200 is quite a bit slower than other models I've tested. The machine takes 12 seconds to cold-boot, for instance, compared with six or seven seconds for every other Celeron-based machine. And whereas most Chromebooks sign out in four seconds (this is a necessary step for switching to Guest Mode), the C200 takes six. That sluggishness is borne out in the benchmarks as well, with the C200 coming in dead last in every test, sometimes by a wide margin.
+
+In everyday use, too, the C200 feels a bit poky, though that didn't stop me from using it as my main machine, juggling email, HipChat, Facebook, Twitter and various blogs that I read. In the end, there wasn't one big issue dragging down the performance -- I never saw websites or games slow to a crawl, and I thankfully never suffered an outright crash. No, it was the little things. Deleting emails in Gmail sometimes took longer than it should have. Ditto for loading webpages, or comments at the bottom of news articles. I even noticed a slight delay whenever I hit the "View new Tweets" button on Twitter's website. Sometimes, I would click a link to open something in a new tab, and then when I moved over to that tab, the machine would pause briefly. Most telling of all, I didn't have any of these issues when I switched to a more powerful laptop connected to the same WiFi network.
+
+     Battery life
+
+      ASUS C200 11:19   Dell Chromebook 11 8:37   Samsung Chromebook 2 (13-inch) 8:22   Toshiba Chromebook 8:15   Acer C720 Chromebook (Intel Core i3) 7:53   Acer C720 Chromebook (Intel Celeron) 7:49   Samsung Chromebook (2012) 6:33   HP Chromebook 11 5:08   Chromebook Pixel 4:08 (WiFi)/3:34 (LTE)   HP Pavilion 14 Chromebook 3:35   Samsung Chromebook Series 5 550 3:23   Acer C7 Chromebook 3:16    Don't worry, though, ASUS redeems itself somewhat with amazing battery life. In a field where almost every Celeron-powered Chromebook gets the same runtime (around eight hours), the C200 is a stand-out. All told, our review unit lasted through 11 hours and 19 minutes of continuous video playback, making it the longest-lasting Chrome OS machine we've seen yet. Now, does the best-in-class battery life make up for the worst-in-class performance? Not quite, if you ask me, but hey, it's your shopping decision to make, not mine.
+
+Software
+Obviously, you'll get the same Chrome OS experience regardless of which model you get, so that shouldn't factor into your decision about whether to buy one Chromebook over another. But if you're unsure if Chrome OS is a good idea in the first place, you might be wondering how much you can do with such a machine, and whether it'll be enough to replace a "real" OS. As ever, it depends on what you need out of your computer. Since the first Chromebooks came out three years ago, Gmail and Google Drive are both usable offline, without an internet connection. The same is true of many third-party apps offered in the Chrome Web Store. Recently, too, Google started allowing folks to watch Google Play movies and TV shows offline, so you definitely don't need an internet connection quite as desperately as you did when Chromebooks first came on the scene.
+
+Like every other Chromebook, the C200 comes with 100GB of Google Drive space, free for two years, which should partially take the sting out of having just 16GB of built-in local storage. As for navigating the OS itself, having a desktop and windows you can close and resize continues to make Chrome OS feel like a more traditional operating system. The OS has also benefitted recently from other features that might seem like no-brainers -- things like pinch-to-zoom, a more sophisticated file-management system and the ability to upload Google+ photos in the background.
+
+Configuration options and the competition
+What you see is what you get: The C200 goes for $250 (often less) and comes with the same specs as the unit I tested here, including a dual-core Intel Celeron N2830 processor, 2GB of RAM, a 1,366 x 768 display and 16GB of built-in storage. There's also a 13-inch version, the C300, which features the same price and carries the same specs, with the exception of screen size and battery life (runtime is rated at up to 11 hours on the C200, and up to 10 hours on the C300).
+
+As for competition, the C200 has plenty. If I had published this review last week, I would have compared this mainly to other Celeron-based models, like the Dell Chromebook 11, Acer C720 Chromebook and Toshiba Chromebook. There's also the 11-inch Samsung Chromebook 2, which falls into the same category, but happens to run a Samsung-made mobile chip. In any case, had I published this review last week, I would have reminded you that the performance here is just about the worst in its class, though the battery life is the best. The keyboard is nice, and the display, while poor, is at least on par with the competition. In other words, I would've told you it's worth a look, though it's hardly a slam dunk.
+
+The problem is, even as I sat down to write this review, Acer announced the Chromebook 13, the first Chrome OS device to make use of NVIDIA's Tegra K1 chip. I haven't tested it yet, so I can't vouch for the performance or say how it compares to the C200. If nothing else, though, the Chromebook 13 should excel at graphics-intensive tasks -- things like browser gaming, movie streaming and interactive web apps. Meanwhile, the battery life is said to be as good as, if not better than, the C200: 13 hours if you get it with the 1,366 x 768 resolution screen, and 11 if you go with the full HD model. That's another thing: The regular ol' HD version starts at $279, just 30 bucks more than the C200, while the 1080p edition is priced at $299. If the Acer Chromebook 13 really performs as promised, with long battery life and impressive graphics muscle, then it's priced uncomfortably close to the C200.
+
+Unless you're hankering for an 11-inch machine (or can't spare the extra $30), the Chromebook 13 is shaping up to be a smarter buy. Even then, the Acer C720 can be had for a lower price (around $199) and the performance is guaranteed to be better. And besides, NVIDIA has made it clear there are other Tegra K1 Chromebooks in the works. Surely, an 11-inch one is on the way, right?
+
+Wrap-up
+The C200 has a few important things going for it: Its battery life is easily best in class, and the spacious, cushy keyboard makes it one of the better Chromebooks for typing. Still, its performance is actually worst in class, which is saying a lot considering its rivals aren't exactly powerhouses themselves. Even today, there are Chromebooks on the market offering smoother performance for a similar price, while Acer's forthcoming Chromebook 13 promises improved graphics muscle and equally long battery life for only $30 more. ASUS would do well to upgrade the C200's processor, and maybe drop the price to better compete against other brands. Until that happens, this is a fine option, but not the best.
+
+

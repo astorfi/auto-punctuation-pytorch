@@ -1,0 +1,8 @@
+
+ 
+Twitter had committed to rolling its own client for Android not long ago -- and like clockwork, here it is. Looks like the OS integration goes pretty deep, too, with support for Éclair's Quick Contact bar and tweeting straight from the Gallery app; you've also got a timeline widget for your home screen, and you can even see your friends' latest tweets from your contact list and the Google Talk app. It sounds like Twitter worked pretty closely with Google to make this happen, contributing the code to Android's trunk for open sourcing in the near future -- and developers will even have access to a set of standard Twitter APIs for their own applications. The only downside appears to be that you need Android 2.1 to use it, but that's just an excuse to run out and upgrade to a sweet new phone, right?
+
+[Thanks to everyone who sent this in]
+      
+
+ 

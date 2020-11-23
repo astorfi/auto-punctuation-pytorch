@@ -1,0 +1,5 @@
+
+ Considering just how well the first round of RFID ePassports withstood subversion attempts from hackers, we're amazed that anything needs to be tweaked at all. Sarcasm aside, NXP is all set to make Germany the first country on the planet to utilize second-generation ePassports, as the EU-set deadline to migrate doesn't pass until June of 2009. The new passports will include a SmartMX chip that allows biometric data to be "securely stored on the passport," and the 80kb of onboard storage also holds the individual's photo, name, and date / country of birth. Of note, NXP even goes so far as to gloat about the chip's ability to "guard against attack scenarios," but we'll be interested to see how long it takes the oh-so-motivated hacking community to find a backdoor when these launch later this month.[Via TheRegister]
+      
+
+ 

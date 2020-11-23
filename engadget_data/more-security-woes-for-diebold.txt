@@ -1,0 +1,6 @@
+
+ 
+It's no secret that Diebold's electronic voting gear is, um, a little lax in the security department, and now a non-profit group known as the Open Voting Foundation has found "what may be the worst security flaw we have [ever] seen in touch screen voting machines" in the company's older TS model. Apparently these devices -- which produce no paper record of voters' choices -- contain a switch on the internal motherboard (pictured above, with handy onboard instructions) that would allow nefarious hackers to toggle between the two pre-installed boot profiles and "change literally everything regarding how the machine works and counts votes." Even worse, the board also sports a slot for external flash memory from which a third profile could be "field-added in minutes," allowing unsavory characters to overwrite certified files with their own data before switching the machine back to its unaltered state -- with no one the wiser. It looks like Diebold has two options for addressing this nagging problem: either they can open up their machines and source code to a thorough external audit and adopt the resulting suggestions (unlikely), or they can take the simpler route and just get their friends in Washington make it illegal for rabble-rousers like the Open Voting Foundation to play with their toys.[Via The Register]
+      
+
+ 

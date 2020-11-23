@@ -1,0 +1,10 @@
+
+ 
+ The debate can now be laid to rest: devices currently running on Windows Phone 7.5 will not be on the receiving end of the long-awaited Apollo update (aka Windows Phone 8). But that doesn't mean those smartphones are at the end of the line. It's long been speculated that the reason Microsoft would want to restrict WP8 to new phones is primarily due to improvements in hardware support and the change in platform architecture, and this conjecture appears to be right on the money. After all, how can single-core devices with WVGA screens take advantage of multi-core and additional resolution support? That part makes sense, but that leaves the software side.
+
+ So here's the plan to ensure current Windows Phone users stay happy: a few software benefits will be included in WP8, and a hearty helping of these killer features (such as the new Start screen) will be available to legacy devices in the form of Windows Phone 7.8. There'll be support for three tile sizes, with the smallest being fingertip size (a quarter of the standard square). The update will be delivered directly to users, sidestepping carriers, and can be done over WiFi.
+
+ Update: While Microsoft was keen to announce that 7.x apps will run on Windows Phone 8, ZDNet has just confirmed, via a statement from Redmond, that apps built for the new platform won't be backwards compatible:
+
+ "New applications compiled specifically for Windows Phone 8 will not be made available for Windows Phone 7.x devices." To check out the latest updates from Microsoft's Windows Phone event, visit our liveblog!
+

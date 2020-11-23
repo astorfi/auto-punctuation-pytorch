@@ -1,0 +1,4 @@
+
+The CyanogenMod team made switching from your phone's original Android setup to its own flavor of the OS much easier with paired mobile and desktop installer apps, but now there's one extra step. In a blog post, CyanogenMod states the Google Play Support team contacted it and claims the installer app is in violation of their TOS. This, despite CyanogenMod's insistence that the app's only purpose is to enable ADB on the device, then guide users through connecting it to the desktop app. Despite "hundreds of thousands" of installs for its alternative Android experience, the mobile app is still usable via sideloading, and its installation guide walks users through the necessary steps. Going forward, the CyanogenMod team is submitting its app to Samsung and Amazon's alternative app stores, but interested Android users can download it right now.
+
+

@@ -1,0 +1,33 @@
+
+ 
+ It's been two weeks since Microsoft signed off on Windows 8, and shipped the final code to manufacturers prepping shiny new computers. Today, another round of folks are getting their hands on the code: devs, and IT pros with subscriptions to Microsoft's TechNet program. Of course, you might not be a developer or IT whiz and, if we're being honest, neither are we! Happily for us, though, Microsoft gave us an early peek at the RTM build -- the same software that will ship to consumers October 26th. Granted, Microsoft says it will continue tweaking the built-in apps, with updates coming through the Windows Store. Barring these minor changes, though, what you see here is what you'll get ten weeks from now. Meet us after the break for a summary of what's new.
+
+
+
+
+ More customization options for the Start Screen 
+ The last time we took a look at Windows 8, Microsoft had added more color themes for the Start Screen. Now, though, you can add one of 14 "personalization tattoos," patterned backgrounds and borders that line the Start Screen.
+
+ 
+ As you can see, some options are more subtle than others. (Ed. note: those multicolored birds and dangling flowers are just for show. Okay, guys?)
+
+ 
+ No more Aero 
+ No surprise here: Microsoft announced all the way back in May that the desktop would no longer have the Aero it's been rocking since Vista. And indeed, the desktop here in RTM has a more flattened look (see the open window in that screenshot up there for an example of what we're talking about). If you're curious about the rationale behind that shift (and have a few minutes for a long read) hit up the more coverage link at the bottom of this post for Steven Sinofsky's detailed explanation.
+
+ Bing app 
+ By now, we've seen most of the apps that will come baked into Windows 8, but there is one late-comer: Bing. When you first launch the application, you'll see a mostly blank screen, with just a search bar and an ever-changing background photo. As you type results, Bing will offer suggestions and if we do say so, the auto-completion feels pretty quick. From there, results will be displayed not in a linear order, but as tiles you can swipe through, from side to side. Incidentally, this is one of the rare instances in Windows 8 when you can scroll almost infinitely through live tiles; you can keep going as long as there are more results to peruse.
+
+ 
+ Keep in mind that as with many Metro (excuse us -- Windows 8) apps, the level of functionality isn't quite as deep as what you'd get on the desktop. Whereas Bing is normally adept at travel- and flight-related queries, you can only use the built-in Bing app for simple keyword and image searches; you'll need to go to the Travel app instead for things like airfare searches.
+
+ People app 
+ Though the People app isn't new, per se, it got a facelift before Microsoft signed off on Windows 8. In addition to scrolling through names in alphabetical order, you can link your Facebook, Twitter and LinkedIn accounts and view your notifications all on one page. You can also check out a "What's New?" page to see what your friends are posting. As ever, linking our various accounts was a painless process that took about a minute, all told. For more screens, be sure to check out the gallery further up the page.
+
+ Windows Store 
+ Since we last checked in, Microsoft updated its Windows Store so that you can search for things the same way you would on the Start Screen. Which is to say, you can just open the store and start typing -- a pane will immediately pop up on the right side of the screen, where you can see the list of results stat to shrink as you continue typing. It would seem, though, that you can only do this on the Windows Store's main page; if you go into the games section and start typing "Mine" for Minesweeper, you won't see that list of results.
+
+ By the by, this is as good a time as any to clarify that Minesweeper is new with RTM, as are Solitaire, Mahjong and Xbox SmartGlass. There are some new third-party apps too, but the ones we just mentioned are the only new ones created by Microsoft. If you're curious, we've screenshots below -- those should tell you all you need to know about how the games are laid out.
+
+
+

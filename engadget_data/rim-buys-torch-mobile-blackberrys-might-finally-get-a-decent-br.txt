@@ -1,0 +1,6 @@
+
+ 
+The default BlackBerry browser has long been laughably sad, but it looks like things are about to get better: RIM's just acquired Torch Mobile, the developers behind the Iris mobile browser. If you'll recall, Iris is a well-received WebKit-based browser for Windows Mobile that offers tabbed browsing, touch, and a skinnable UI -- and we hear it does a pretty good job rendering pages as well. Of course, since it's Windows Mobile-only at the moment it'll be a while before BlackBerry fans actually see any results from this acquisition, but it's nice to see RIM taking some big steps to address what's become a major shortfall with the platform -- and hey, maybe that extra time is what it'll take to add the promised full Flash and Silverlight support to the system. Yep, lots of solid potential here -- now if only RIM would build in proper IMAP support, we'd be all set.
+
+[Via MobileTechWorld, thanks Ike]
+ 

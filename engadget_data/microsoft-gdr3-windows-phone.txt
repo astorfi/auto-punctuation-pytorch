@@ -1,0 +1,61 @@
+
+It's autumn, which means it's time for Microsoft to come out with its latest and greatest update for Windows Phone. This year, however, the company isn't pushing anything as drastic or significant as WP8, and it even shows in the name of the refresh itself: GDR3. (GDR stands for General Distribution Release.) The update, which will begin rolling out in the coming weeks and "will continue over several months," doesn't feature any improvements to the notification experience, but it delivers on a few important enhancements that are sorely needed -- especially when it comes to hardware support.
+
+
+First, GDR3 will now offer Start screen support for screens between 5 and 7 inches, with resolution support now set at a maximum of 1080p (both of which lend credence to the leaks we've seen of the Lumia 1520, Nokia's upcoming 6-inch device). As an aside, we've confirmed with a Microsoft rep that this update won't be adding support for full-on tablets, though we can't rule out that possibility in a future refresh. Future Windows Phones can become much more powerful as well, now that the update adds support for Qualcomm's Snapdragon 800 quad-core SoC.
+
+
+On the software side, Microsoft is throwing in Driving Mode, which limits notifications on the lock screen and can be set to trigger whenever you connect a Bluetooth device. You can also close individual apps in the multitasking menu, lock your screen orientation and assign custom ringtones for text messages. Also, remember that annoyingly vague "other" category in the storage settings? GDR3 now breaks it down into more specific categories and lets you manage each one (excepting the system storage). Aside from these enhancements, Microsoft claims "hundreds" of other tweaks and fixes, many of which are under the hood. For a few more details, head below the break to look at the official blog post in its entirety.
+
+
+
+Show full PR textAnnouncing our third Windows Phone 8 update-plus a new developer preview program
+Darren Laybourn, corporate vice president, Windows Phone
+
+A bigger Start screen for more Live Tiles. A new, customizable Driving Mode. Better accessibility options.
+
+These are just some of the new features and innovations that we're getting ready to deliver to you in Windows Phone 8 Update 3, which will roll out to existing phones over the next several months. As manager of the engineering team responsible for delivering updates to your Windows Phone, today I wanted to tell you a bit more about what's included in our third official update of the year-plus describe a new preview program we're launching to help developers keep their apps running smoothly on our latest software.
+
+It's been a busy but exciting year for my team-and Windows Phone overall. If you follow the news, you might have seen that our market share in Europe has grown to nearly 10 percent. We're seeing things really start to accelerate. We believe this is because we continue to advance the platform at a rapid pace. Our hardware partners, meanwhile, have been taking advantage of this innovation and releasing amazing new Windows Phone devices throughout the year.
+
+The story behind No. 3
+
+When we sat down to plan our latest official update to Windows Phone 8, we had three main engineering goals in mind:
+
+Enable incredible new Windows Phone devices.Enhance the platform with new capabilities for current users and partners.Improve overall quality.Support for bigger, higher-resolution screens
+
+So the new update paves the way for future Windows Phone devices with 5- and 6-inch touch screens. The larger, 1080p HD displays on these devices will make Windows Phone even more personal-for example by sporting jumbo-sized Start screens with room for six Live Tiles across instead of four.
+
+A bigger Start screen means the ability to pin even more of the people, info and apps that matter to you. Built-in apps and Hubs like email, Photos, People, and Music and Videos will also be carefully scaled to take full advantage of the additional real estate on 6-inch screens.
+
+More powerful hardware
+
+In addition to larger screens, Update 3 will also bring support for Qualcomm's 8974 quad-core processor. The added horsepower that this chip delivers should make our already-fluid operating system perform even better.
+
+Driving Mode
+
+A new feature called Driving Mode helps you get from point A to point B with fewer distractions. Working with a connected Bluetooth device, Driving Mode is designed to limit notifications on the lock screen-including texts, calls, and quick status alerts-until you're safely parked.
+
+You can even configure Driving Mode to send automatic replies to people who call or text when you're behind the wheel, to let them know you'll get back to them.
+
+New accessibility features
+
+Another highlight of the new update is Mobile Accessibility for Windows Phone 8, which isn't a single feature but a suite of apps designed to make Windows Phone easier to see, hear, and use. The apps, which include a screen reader, make it easier for blind and visually impaired users to manage calls and contacts, send texts and emails, browse the web, make Skype and Lync calls, and hear notifications like alarms, calendar events, and low-battery warnings.
+
+Improved Internet Sharing
+
+Many of you are familiar with the Internet Sharing feature, which turns Windows Phone 8 into a mobile hotspot by sharing your cellular data connection over Wi-Fi.
+
+In Update 3, we've made it easier to use your phone as a data-savvy hotspot for Windows 8.1 devices. Just pair your phone and Windows 8.1 PC or tablet over Bluetooth, tap your network name, and you'll be connected and ready to go. No need to enter a password or dig out your phone and turn on Internet Sharing-it's done for you.
+
+But, wait, there's more
+
+That's not all we've packed into Windows Phone 8 Update 3. Besides hundreds of under-the-hood performance tweaks and enhancements, we've also added a bunch of small but handy new features, including several that you've been asking for. They include:
+
+More useful ringtones: With Update 3, you can use custom ringtones for more things-including instant messages, emails, voicemails, and reminders. You can also assign custom ringtones to contacts for text messages, so you'll know who's texting you without even looking.No more twist and shout: Does your screen keep spinning when you're trying to read emails in bed? Use the new rotation lock option to keep it fixed in place.Better storage management: New storage settings make it easier to free up space on your phone and manage temporary files. A new category view shows what's taking up space at a glance.Easily close apps: Now you can use the App switcher to quickly close apps when you're finished with them.Wi-Fi access out of the box: You can now connect to Wi-Fi during phone set up, so you can start conserving cellular data right out of the box.Better Bluetooth: The team made a bunch of improvements to improve connection quality for Bluetooth accessories.
+
+As you can see, there's some fun and handy stuff in Windows Phone 8 Update 3. If you have suggestions for future updates, submit them to our Windows Phone Suggestion Box site. We always appreciate the feedback and take it into account as we prioritize new work.
+
+So when will all this be coming to your phone? As I mentioned earlier, the rollout initially kicks off in the coming weeks and will continue over several months. Specific timing depends on a number of factors including your carrier and phone model.
+
+

@@ -1,0 +1,12 @@
+
+  
+Monster Cable, the company best known for its, um, cabling, has announced more information about its network media and home automation devices recently displayed at CEDIA. Everything in the Monster Einstein system is controlled by the Nucleus head-end, which runs the home automation and control elements, using Z-Wave and Bluetooth to control sensors and devices throughout the home, as well as interfacing with the media devices on the network. It has gigabit Ethernet and 802.11n network capabilities as well as a VOIP interface, and should retail for around $4000. The $2500 Electron components are the client end points and connect to the televisions and receivers on the network. You'll want at least one Photon 200-disc DVD changer in the system, because even though they're $2400 they have dual transports, meaning two different discs can be played simultaneously over the network. Also plan on attaching one or more of the $4900 Neutron RAID5-capable storage boxes -- each comes with 960 gigs of storage standard but can scale up to 7.2 terabytes. Other devices in the chain include the $1500 Astro Sirius satellite radio tuner with three zones, and the $1300 Tron seven-inch touch panel. Keep reading for more specifics, as well as another shot of the "monster" Photon changer...
+      
+
+ 
+
+Because the system is based on a variant of Linux, extensibility and openness should be better than the other closed-box systems from manufacturers like Crestron or AMX, and should cost less overall. The system is also designed to have a "follow me" mode for remote controls, where the preferences and user interface follow the device being used from room to room throughout the home. The Bluetooth capability means that cell phones, notebooks, and VOIP devices should be able to replicate many of the control functions without requiring a dedicated panel, although that option is still available. As with other home automation and media networks, this system is designed for resale through integrators. Expect more complete details on the connections for the end points and other technical information at CES 2007 when the system will be soft-launched, and look for it to be available from select retailers and custom installers at the end of next March.
+
+       
+
+ 

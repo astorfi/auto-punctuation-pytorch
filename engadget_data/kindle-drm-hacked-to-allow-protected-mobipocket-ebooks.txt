@@ -1,0 +1,5 @@
+
+ We knew the Kindle's DRM would be cracked the minute we heard about it, and it looks like the first chink in the armor is here courtesy of Igor Skochinsky: he's discovered the algorithm the Kindle uses to turn regular Mobipocket books into Amazon's proprietary .azw format. The hack involves replacing a Mobipocket file's PID with one generated from your Kindle's serial number, and then setting a Kindle-specific flag that allows it to be opened. Igor's posted a couple little Python scripts to handle both of these tasks for you, and it looks like sites like Fictionwise already support the hack. That's all well and good, but we're still waiting patiently for the day when we can tether to that free EV-DO.
+      
+
+ 

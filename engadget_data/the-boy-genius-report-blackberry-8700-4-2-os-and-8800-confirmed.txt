@@ -1,0 +1,16 @@
+
+Once again by way of the Boy Genius, we managed to get a first look at the 4.2 OS for the BlackBerry 8700 which now adds voice notes, Push-To-Talk, file explorer, .wav attachments, mp3 player, bluetooth file transfer, GPS support, among other very cool things.
+
+
+As you can clearly see, Boy Genius was dead on: the model number you ask? 8800. QWERTY keyboard lover? You're so in luck. The codename on this model? Gamma Ray. Camera? Business users rejoice, none so far.In a recent ALX file from RIM, it has the following entry:"<os radio="GPRS" series="8800" Colour="True" Theme="Normal" JVMLevel="1.0" VoiceNotes="True" pttApp="True" Memory="Large" KeyboardType="Qwerty" Sound="Tunes8700g" SystemSize="normal" Bluetooth="True" MMS="True" ThemeSupport="Enhanced">GPRS/rimGammaRay.sfi</os>"
+
+
+As a comparison, here is the entry for the 8100 (aka Pearl aka Stealth):"<os radio="GPRS" series="8100" Colour="True" Theme="Normal" JVMLevel="1.0" Camera="True" VoiceNotes="True" pttApp="True" KeyboardType="Reduced" MMS="True" Bluetooth="True" Sound="Tunes8700g" SystemSize="normal" Backdrop="68M_240x260" ThemeSupport="Enhanced" VAD="True">GPRS/rim8100g.sfi</os>"
+
+
+You will notice that the Gamma Ray does not have entries for Voice Activated Dialing (VAD) nor a Camera. This is preliminary, at best, and obviously subject to change; but it's also the first official mentioning of the upcoming BlackBerry 8800 from RIM (albeit, by accident). Click on for more shots than you can shake a WinMo phone at.
+
+
+
+There is also a nice little bug in this version, setting a male picture as the Caller ID picture for a contact will turn to a woman when the call is connected.    
+ 

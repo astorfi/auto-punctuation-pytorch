@@ -1,0 +1,50 @@
+
+We'll skip the long contextual intro about how high-powered Tegra 3 tablets are becoming a dime a dozen and get straight to the meat: the new Acer Iconia Tab A700 is an NVIDIA-powered slate with a super-charged screen. Yes, this device is all about the display, and we're talking 1,920 x 1,200 pixels on a 10.1-inch panel. And until ASUS' Transformer Pad Infinity goes on sale next month, this is the only Android tab with that resolution you can get your hands on.
+
+
+
+More Info
+
+Acer unveils $450 Iconia Tab A700: 1,920 x 1,200 display and Tegra 3 under the hood
+Acer Iconia Tab A700 hands-on
+PSA: Acer Iconia Tab A700 shipping now
+
+
+At the risk of spoiling our whole review, bright colors and a high resolution make navigating Acer's branded build of Ice Cream Sandwich a treat, and its quad-core Tegra 3 insides make the tablet more than just a pretty face. But the WiFi-only Tab A700, retailing for $450, is not the only good ICS option around -- and it's not the most budget-friendly, either. Let's take a closer look to see if its considerable advantages make it worth swiping that plastic.
+
+
+
+
+Hardware
+Acer isn't throwing any design curveballs here: the A700 looks very similar to the Iconia Tab A510, with sharp corners and a smooth, textured back. Our review unit was silver, though the tablet is also available in black. At 1.47 pounds and 0.43 inches thick, it's not the lightest or thinnest option around, though Acer isn't exactly known for churning out ultra-slim tablets (the 0.43-inch-thick A510 and the 0.49-inch A200 stand as evidence). Still, the A700 feels great in our hands, and that extra bit of thickness lends the device a solid, reassuring grip. Given its girth, though, we would have expected to see a stronger showing of ports on board. While there is a micro-HDMI connector, for example, there's only a microSD card slot to augment the 32GB of internal storage. We guess we've been spoiled by devices like the Toshiba Excite 10, which measures 0.35 inches thick and still packs a full-size SD card reader.
+
+At 1.47 pounds and 0.43 inches thick, it's not the lightest or thinnest option around, though Acer isn't exactly known for churning out ultra-slim tablets.
+
+Let's take a trip around the tablet now, shall we? Starting on the top edge, there's a volume rocker along with the screen lock. The right side hosts a micro-HDMI port and that microSD reader. On the bottom you'll find two stereo speakers along with the microUSB port / power connector. Finally, the left side hosts the power button and a 3.5mm headphone jack.
+
+Display and soundThe main attraction, of course, is the 1,920 x 1,200, LED-backlit display with a pixel density of 224 ppi, which puts most other Android tablets to shame. With the default background showing trees and grass in a rich shade of green, the A700's level of detail is outstanding. We'll steer clear of naming that other tablet with a 2,048 x 1,536 screen, but that and ASUS' Transformer Pad Infinity TF700 are about the only competitors we can think of when it comes to the Iconia Tab A700's stunning visuals. Speaking of which, we have to temper our praise for the A700's display by noting that the similarly priced ($499) Infinity TF700 has an IPS panel, whereas the A700 has a standard LCD. And, unlike Acer's tablet, the TF700 is viewable in direct sunlight, thanks to a staggering brightness rating of 600 nits.
+
+Along with that high-res screen, Acer includes Dolby Mobile 3 and 5.1-channel surround sound to enhance the entertainment experience. Audio, be it dialogue in shows streamed from Netflix or instrumentals in songs, is clear and undistorted. At max volume, the A700's sound is loud enough to fill a small room. Without headphones, you'll detect a bit of tinniness, but with headphones, sound is crisp and rich.
+
+Software
+We've rehashed Ice Cream Sandwich so many times that it feels downright superfluous to spend more than a few sentences outlining this tablet's Android 4.0.3 software. Still, with Google I/O around the corner, the prospect of Jelly Bean looms, and it's worth mentioning that newer devices such as the A700 will probably get an update at some point.
+
+As with other Acer tablets, the ring launcher sits on the system bar, providing shortcuts to apps such as the camera and browser. We especially like that the screenshot function can be set as a shortcut: it's much more efficient than holding down the volume rocker and power button. Acer's ring aside, this is very much an ICS tablet, and you won't feel too distant from the original build when flicking through menus or pressing the recent apps icon.
+
+Navigating the Android 4.0 interface is generally fluid and easy, though we encountered some glitches with the tablet's responsiveness. On several occasions, we had to tap an app two or three times before the A700 would launch it. When we scrolled through photo-heavy sites, the A700 stuttered for a few seconds before scaling the complete page, displaying gray squares for an instant before the images loaded.
+
+Acer didn't exercise more restraint than usual with the software pre-load on this tablet. Booting the tablet up for the first time, you'll be greeted with Amazon MP3, Evernote, Netflix, YouTube and Zinio -- not to mention the full Google suite of apps and a bundle of productivity programs including Acer Print and Polaris Office -- in the app menu. Never fear, though: you can cut down on the bloat by disabling what you don't need under Settings.
+
+Performance and battery lifeWe're getting quite used to seeing Tegra 3 tablets that serve up Ice Cream Sandwich with smooth, fast performance, and the A700 belongs to this breed, thanks to that NVIDIA CPU clocked at 1.3GHz and 1GB of RAM. That's not to say it's at the top of it's class: next to other quad-core Tegra 3 tablets such as the Iconia Tab A510 and ASUS' TF700, this slate seems a bit humble, but its scores at least dwarf those of dual-core slates like the Samsung Galaxy Tab 2 10.1.
+
+    Acer Iconia Tab A700 ASUS Transformer Pad Infinity TF700 ASUS Transformer Pad TF300 Samsung Galaxy Tab 2 10.1 Toshiba Excite 10     Quadrant 3,311 4,685 3,695 2,602 4,016   Linpack singled-thread 43.3 N/A 41.7 35.6 45.8   Linpack multi-thread 94 N/A 89.83 61.3 121.9   NenaMark 1 (fps) 60.8 N/A 60.3 29.5 85.4   NenaMark 2 (fps) 37.9 N/A 46.9 19.0 47.8   Vellamo 1,283 1,475 1,320 Would not run 1,471   AnTuTu 10,499 12,027 N/A N/A N/A   SunSpider 0.9.1 (ms) 1,970 2,012 2,120 2,222 N/A   GLBenchmark Egypt Offscreen (fps) 59 75 N/A N/A N/A   CF-Bench 11,567 7,874 N/A N/A N/A   SunSpider: lower scores are better  We already mentioned how the A700 often required us to repeat taps before successfully launching apps, and we found the performance to be choppy in other ways, too. Apps like Skype crashed randomly on occasion, and every time we fired up Real Racing 2 the screen froze for at least five seconds before letting us start gaming. Still, many of tablets we've tested recently have been plagued by a little bugginess, and Acer's new slate isn't any worse in this regard.
+
+    Battery Life     Acer Iconia Tab A700  8:22   Samsung Galaxy Tab 7.7 12:01   Apple iPad 2 10:26   Acer Iconia Tab A510 10:23   ASUS Eee Pad Transformer Prime 10:17 / 16:34 (keyboard dock)   Samsung Galaxy Tab 10.1 9:55   Apple iPad (2012) 9:52 (HSPA) / 9:37 (LTE)   Apple iPad 9:33   ASUS Transformer Pad Infinity TF700 9:25   Motorola Xoom 2 8:57   HP TouchPad 8:33   ASUS Transformer Pad TF300 8:29 / 12:04 (keyboard dock)   Acer Iconia Tab A200 8:16   Samsung Galaxy Tab 7.0 Plus 8:09   Amazon Kindle Fire 7:42   Galaxy Tab 2 7.0 7:38   Acer Iconia Tab A500 6:55  The Iconia Tab A700's 36.25Wh battery lasted eight hours and 22 minutes on our battery rundown test, which involves running a standard-definition video on loop with the screen brightness at 50 percent and WiFi on. That falls significantly short of Acer's claim of 11 hours for video playback via WiFi (it also rates the A700 for 13 hours of video playback sans WiFi). It also falls about an hour short of the Infinity TF700 and the iPad 2012, two of the A700's closest competitors when it comes to display quality. In short, though you won't be reaching for a charger come midday, that runtime is frankly pretty uninspiring.
+
+Camera
+After testing a spate of sub-par tablet cameras, how refreshing it was for this reviewer to give the A700's 5-megapixel rear-facing shooter a try. No washed-out colors here, and the autofocus does a good job of rendering crisp and clear images (that's a good thing, because autofocus and infinity focus are the only options --Infinity Mode was less effective). The bright, accurate tones looked lovely when we flipped through our images on the full HD display. We know, we know: you probably won't be doing much photography with this device, but it's nice that this standard feature is high-quality on Acer's tablet. When we did a test video call on Skype, the 2-megapixel front camera delivered very clear images, both for us and our friend on the other end.
+
+The 5-megapixel camera is capable of shooting video in 1080p, and our sample footage was as crisp and clean as the photos. Panning around to follow moving traffic didn't disrupt the clarity, and we didn't notice any jerkiness or ghosting.
+
+
+

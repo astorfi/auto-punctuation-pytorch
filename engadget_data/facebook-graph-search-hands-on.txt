@@ -1,0 +1,15 @@
+
+ We just had a quick hands-on of Facebook's new "Graph Search" at one of the demo stations here at Facebook's press event. Unfortunately we weren't whitelisted at the time so we couldn't use any of our own data (update: we did a bit later -- see below) but we now have a decent idea of how it all works. Using the four "pillars" of Graph Search -- people, photos, places and interests -- we looked up terms like "My friends who like Star Wars and Star Trek," "Restaurants in San Francisco that my friends like," "Photos of hiking in national parks" and managed to get results every time. There's a side bar of drop-downs to refine the search further -- you can narrow the results by gender, categories, interests, etc. Overall the UI is clean and intuitive; those who are already familiar with Facebook should find no problem navigating the interface. The results are listed vertically in a pretty straightforward manner, as seen in the photo above.
+
+ In addition to playing with the Facebook's newest function, we briefly spoke with Tom Stocky, former Googler and director of product, about the challenges of creating Graph Search. He told us that two of the biggest hurdles faced by his team were dealing with the massive amount of data and incorporating natural language search. To solve the second problem, the company brought in computational linguists to work with Facebooks's engineers, and for the most part, it seems Facebook succeeded in its natural language efforts. 
+
+
+
+ 
+ Update: We've just been given the green light from Facebook and have now had some time to put the new search through its paces on our own social network -- it's a visually rich beast. If you've seen Instagram's own web pages, the graphical layout will feel familiar, with images neatly arranged in different oblongs while you'll still be able to click in to "Like" and comment on image results. But before you get there, you'll note a new search box that pervades all your Facebook pages once you gain access to the beta.
+
+ 
+ Along the top, a Facebook home button now sits beside an empty box for your search request, while friend requests, notifications and message shortcuts are now pushed along to the right edge. The Graph Search isn't a web search engine (Mark Zuckerberg said this himself), but you will be able to explore through all your connected friends, their hobbies and photos. Facebook reckons it's tapping into a trillion connections, but we found the simple phrases and colloquial search terms made it very easy to navigate precisely where we wanted to go. For people search, you'll find specific friends will get additional data added (location, college) as they appear in suggested search terms, meaning you can ensure you're searching for the right person. Bing Search from with Facebook gives pretty similar results to the original, although this time they're wrapped up in that familiar blueish social network style. 
+
+
+

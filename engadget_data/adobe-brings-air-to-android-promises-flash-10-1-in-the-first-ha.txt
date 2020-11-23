@@ -1,0 +1,8 @@
+
+ Convergence has always been a big theme in tech, and its focus at MWC this year seems to have landed firmly on procuring an application platform that is OS-agnostic. Earlier today, we heard of the big carrier cabal intent on slaying the beast that is multi-platform development through cooperation, but if you ask Adobe the answer is much simpler: just slap AIR on your phone. The company's grand vision of the future sees AIR as the facilitator of a "feature-rich environment for delivering rich applications outside the mobile browser and across multiple operating systems." If that sounds like your cup of tea, it's now available on Android and there are a number of cool demo videos at the DevNet link below. As to Flash Player 10.1, that's also heading to Android, to be completed within the first half of this year, while also including support for WebOS, Symbian, Windows Mobile and BlackBerry devices. We all know who's missing from that party, but Reuters reports Adobe has expressed confidence that Apple will "eventually bow to market pressure" and join in on the fun as well. We shall see. Video of AIR apps running on the Droid awaits after the break.
+      
+
+ 
+
+
+ 

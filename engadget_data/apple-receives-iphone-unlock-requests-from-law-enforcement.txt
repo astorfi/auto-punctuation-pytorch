@@ -1,0 +1,19 @@
+
+The encryption on your iPhone is apparently secure enough that law enforcement agencies are waiting in line to have Apple "crack" the lock and provide data to be used as evidence.
+
+
+According to a report by CNET, Apple has the ability to decrypt seized iPhones and has created a waiting list to handle requests. At one point last summer, the wait was over seven weeks long and one ATF agent reported that it took his request at least four months to be processed. The ATF had tried to decrypt the iPhone 4S of a Kentucky man accused of distributing crack cocaine and became so frustrated that it contacted Apple for assistance. That's where the wait started...
+
+
+For those who are concerned about how secure their personal information is on an iOS device, the fact that the devices can't be cracked by federal agents is good news. No one is sure exactly how Apple can decrypt the information for police, whether there's a backdoor that only Apple knows about, has custom hardware for decryption or just has better-trained cryptologists.
+
+
+The CNET article notes that Elcomsoft sells an iOS Forensic Toolkit, which claims to crack a four-digit iOS 4 or iOS 5 passcode in less than 40 minutes. It's when someone uses a PIN or password with more characters that the decryption time takes a much longer time. The post cites Simson Garfinkel from the US Naval Postgraduate School, who estimates that cracking a 10-digit PIN could take as long as 25 years using common brute-force methods.
+
+
+The bottom line? For normal law-abiding citizens, a longer passphrase or PIN can keep your iOS data protected. For criminals, however, Apple knows how to free your data for law enforcement and will do so.
+
+
+[via TechCrunch]
+
+

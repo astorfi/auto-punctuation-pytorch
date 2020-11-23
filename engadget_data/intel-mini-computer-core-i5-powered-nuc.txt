@@ -1,0 +1,5 @@
+
+ 
+ The mini-computer game has so far been dominated by upstarts such as FXI and Raspberry Pi, but a big name is getting ready to join the party, too. Intel first demoed its NUC (Next Unit of Computing) at PAX East in April, but details are just hitting the web now. One standout spec is the NUC's 10 x 10-cm (4 x 4-in) form factor, which places it between the Raspberry Pi and Mini-ITX boards in terms of size. Moreover, the NUC packs a Core i3 / Core i5 Sandy Bridge chip with last-gen Intel HD 3000 graphics, and sports Thunderbolt, HDMI and USB 3.0 sockets on the back. There's a heatsink and fan assembly on board, too, and the mini PCIe connectors leave the door open for added functionality. Because it runs an Intel Core i5 CPU instead of the ARM processors found in options such as the Cotton Candy and Raspberry Pi, the NUC promises to be a more powerful mini-desktop. But don't get too excited: Intel envisions it as a component in digital signage instead. Look for Intel's mini-PC at a kiosk near you in the second half of 2012, when it's expected to drop.
+
+

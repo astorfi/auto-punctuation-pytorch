@@ -1,0 +1,96 @@
+
+ 
+ Maybe you heard, but Microsoft launched a new email service today. No, not Hotmail -- a completely new, built-from-scratch service. This is Outlook.com, and for the time being, at least, it will exist separately from Hotmail. So why didn't Redmond just give Hotmail a drastic overhaul? Well, friends, there are two explanations. First, the polite one: for technical reasons, the engineers found it easier to build a new service from scratch rather than retrofit the old one. The frank answer: Microsoft is keenly aware Hotmail has a bad rap, thanks to those banners and flashy video ads. In fact, the company has been very candid that it wants not just to compete with Gmail, but siphon away some of its growing user base. As such, Outlook offers a fresh, minimal interface -- far cleaner than Hotmail ever looked. What's more, the ads are more pared-down here: no video adverts, and no targeted ads on messages between people (newsletters are still fair game).
+
+ The service is open to the public as of today and you get virtually unlimited storage, along with 7GB of SkyDrive space if you create a new Microsoft account. (Microsoft uses the word "virtually" to hedge itself against spammers who might otherwise use limitless storage to game the system.) And you should take our word when we say it's worth giving the service a shot: we've been testing it for almost two weeks. Go get yourself situated and then meet us after the break for details, impressions and lots more screenshots.
+
+ Note: many of our screenshots say "NewMail" instead of "Outlook.com" in the upper left corner. NewMail is a codename Microsoft used before announcing the service to the public.
+
+
+
+
+ A clean design 
+ It takes a special kind of nerd, perhaps, to get giddy over a new email service. Throughout testing, I pulled various coworkers aside, asking them to stop what they were doing and see how much cleaner this new service looked compared to Hotmail. "It's pretty," they said. "Also, it looks like Gmail."
+
+ And in a way, that's the point. In conversations with company reps ahead of the launch, it was obvious that Microsoft is not just aiming to distance itself from Hotmail's bad rap, but to take a bite out of Gmail's growing user base. The company is quick to point out, for instance, that the header contains 60 percent fewer pixels, making room for 50 percent more emails on a page. Another stat the company shared with us early testers: in a survey of current Gmail users, 80 percent said they would consider switching. Tellingly, Microsoft did not include Yahoo Mail users in its focus group.
+
+ In any case, whatever the inspiration behind Outlook.com's minimalist look, it's utterly pleasing to look at. Gone are the display banners and flashy ads with embedded videos. In its place, a home screen with most of the space given over to the emails themselves. As in Outlook 2013, which also just launched in preview, many key buttons like delete, flag and "mark as read" don't show up unless you hover over an email with your mouse. Again, "clean" is the word here.
+
+ 
+ To the left there's a narrow pane, where you'll see your various folders stacked on top of one another. We particularly dig "Quick views," which filter down your inbox to specific (and highly customizable) categories, like emails with photo attachments. (You can always collapse these menu trees if you want even less clutter.) There's also a search field over there, in case you want to find a long-lost email. On the right side of the screen, there's another narrow pane, this one filled with discrete advertisements (more on that later). Up top, there's a high-level menu, and Microsoft wasn't kidding when it said that area had been pared-down. From there, you access things like your calendar, SkyDrive or People hub, but that's all hidden behind a neat arrow sign. That's a stark contrast from Gmail, which lists its other offerings prominently at the top of the page.
+
+ The nice thing about that high-level menu is that the options change depending on what you're doing. So, if you're looking at deleted items, you'll see a prompt to empty the folder in one fell swoop. If you've opened a message, the options expand to include reply, delete, "Move to," etc. Wherever you are, there will always be a shortcut for starting a new email. (Bonus: it has a large, finger-friendly icon next to it, making the site slightly easier to use on phones and tablets.) That's ultimately a more efficient approach than Google is taking with Gmail, where the email options, search field and top-level tabs (Documents, YouTube, etc.) each have their own row. In Gmail, then, the list of messages starts further down on the screen, and you ultimately don't see as many on a page.
+
+ Limited ads As Microsoft seems to have discovered, you can't pull off clean web design without seriously rethinking the way you present ads. For starters, you won't find any distracting video advertisements on Outlook.com. In fact, all ads must adhere to a template, which will give them a uniform look, regardless of whether they're shilling Thai food or yoga pants. (Yes, kind of like what Apple's doing with its iAd platform.)
+
+ And, in a pointed departure from Gmail, you won't find any targeted ads in emails between people (newsletters and the like are still fair game). How does Microsoft know you're a human? Partnerships. Several of them. The company has been working closely with Facebook, Twitter and LinkedIn, making good use of their massive user databases. Chances are, if someone sends you an email, one of those three sites will recognize that address and be able to confirm there's a real person sending that message. We'll admit, we're a little skeptical that using Twitter will help, just because the site is already overrun with spammers, but this otherwise seems like a smart approach.
+
+ Indeed, we didn't notice any ads on emails to friends and coworkers, and the ads we did see were discreet and fairly generic (think: cafes and tanning salons). If you bother to click, you might find that some of them aren't even relevant; in one instance alone, we saw ads for three restaurants in Virginia, four states over.
+
+ Built-in social networking 
+ So you won't see any ads alongside your emails to your buddies. But that blank space to the right of your message has to be used for something, right? (Just say, "right.") Instead of ads, you'll find Facebook and Twitter baked right into the UI, allowing you to peek at recent status updates from whomever you're messaging with. (Don't worry, it's okay if your Twitter and Facebook accounts aren't tied to your Hotmail, Outlook.com or Live.com address.) In the case of Twitter, you can actually retweet someone right from Outlook.com without having to go to Twitter's site or open TweetDeck. From Facebook, you can like or comment on someone's post. All told, this feels very similar to Outlook 2013, which just launched in preview earlier this month -- that, too, has Facebook and LinkedIn built in so that you can glance at what your contacts are up to.
+
+ Personalization options Want a ninja theme for your inbox? Stick with Gmail. Though you can personalize the site, you won't find any loud background patterns here; just 12 solid colors, available from the small settings icon in the control bar at the top of the screen. Though it's a small detail, we particularly love that as soon as you click the settings button, you'll see a small pop-up with the various color choices, among other options. Hover over any color to preview how it looks. All in all, it's much easier than with Gmail, where you have to drill into the settings menu, away from your inbox, and can't preview any changes.
+
+ If you like, you can also add a reading pane on the bottom or right part of the screen to make Outlook.com look more like Outlook, the desktop app. You can also change the language by digging into "More mail settings" (there are 106 to choose from at the moment).
+
+ Overall performance and spam control 
+ In general, this early build of Outlook.com feels fast and stable. We do have one quibble unrelated to stability, though, and that's that when you respond to an email, your response shows up as an unread email. We offered this as feedback to Microsoft as well, though no word on whether the engineering team will heed our suggestion.
+
+ Knock on wood, we haven't been seeing any spam turn up in our inbox. Take note, though, that in the beginning, at least, you'll be asked occasionally to stop what you're doing and prove to Microsoft that you yourself are not a spammer. You'll know this is happening to you when you hit send and are prompted to complete a CAPTCHA test to verify that you're a real person. According to a Microsoft rep, this reputation-building phase will eventually peter out, and you can build credibility faster by verifying your cell phone number, something spammers don't usually do. Still, it's unclear how long you might have to put up with these periodic interruptions, and Microsoft also isn't saying whether certain behavior (e.g., sending too many emails in a short period of time) will make it more likely that you'll get stopped and frisked by the spam police.
+
+ Oh, and in case you're wondering, SSL is turned on by default here. That's true in Gmail, too, but unfortunately, the same cannot be said of Hotmail.
+
+ What you get In Outlook.com, the storage is "virtually" unlimited, to use Microsoft's words. (The company won't fully promise unlimited storage, since it needs a way to hedge against spammers.) That compares with 10GB of free storage on Gmail. Not bad, eh? Also, as you might know, every Microsoft account comes with 7GB of SkyDrive storage, so that's what you'll get if you're new to the company fold. Also, anyone can sign up; you don't need an invitation, and there's no limit to the number of people allowed to test the service in its preview stage.
+
+ Getting started Creating an account
+ If you already have a Hotmail account, you can upgrade by clicking Options in the upper-right corner and selecting "Upgrade to Outlook.com." Once you make the jump, you can always revert back to the old service if you feel more comfortable there. For now, the two services will exist separately, and according to Microsoft, that will be the case for the foreseeable future. Interestingly, the company isn't promising that it won't ever force you into an Outlook.com upgrade, but it would seem, at least, that this isn't the plan for the near term.
+
+ Coming over from another email service
+ If you're transferring over from Gmail (and Microsoft sure hopes you are), you can skip straight to Outlook.com and create an account. You'll also need to go into Gmail settings and set up forwarding. (By default, Gmail keeps a copy of your incoming messages. It's your call if you want Google to mark them as read, archive them or just leave them sitting there, unopened.)
+
+ Once we did that, we had no problem importing our contacts list, which we'll discuss in more detail down in the "Email features section." If you want, you can use POP to import all your old email. You can also program Gmail keyboard shortcuts if you go into the full settings menu. (Alternatively, if you want to educate yourself on Hotmail / Outlook.com shortcuts, this would be a good place to start.)
+
+ Still, our experience transitioning from Gmail to Outlook.com wasn't completely smooth: our labels didn't come with us, and whenever we responded to a message from Gmail, our response didn't sync with Outlook.com.
+
+ Email features If you're wondering why we're only now starting to talk about email features, it's because they're not very different from what you'll get in Hotmail. Since the real story is the fresh UI and the new approach to ads, we decided to get the look and feel bit out of the way first. That said, if Microsoft succeeds in luring away some of Google's users, it's worth recapping what features Hotmail and Outlook.com have to offer.
+
+ Handling junk mail, newsletters and urgent items
+ 
+ As in Hotmail you can use the Sweep feature to automatically delete, file or forward certain kinds of messages as they arrive. This comes in particularly handy with things like daily deals and newsletters, which can easily clog up your inbox if you're not careful to read them right away. For instance, then, you can tell Outlook to delete Groupon emails that are more than four days old, or to archive that monthly newsletter with 30-minute recipes (hey, you might try them out eventually). Other kinds of rules: emails from your baseball coach go to a "Baseball folder," while Facebook notifications get sent to the trash. As for high-priority items, you can keep them fixed at the top of your inbox (you can do something similar in Gmail as well).
+
+ When it comes to unwanted mail, you can select "Unsubscribe" from a drop-down menu and you'll never see emails from that company again, even if you somehow end up back on the mailing list again. Naturally, you can mark things as junk, but you can also select an option that says "Phishing scam" or "My friend's been hacked!" -- both of which you can do in Hotmail as well.
+
+ Attachments
+ 
+ It would be incorrect to say there's no file attachment size limit in Outlook.com, but the max size is certainly higher than Gmail's: 300MB versus 25MB. But, that number assumes you're uploading attachments from SkyDrive; if you're uploading from anywhere else, the file limit drops to 100MB. By default, Outlook.com will check for missing attachments when you're sending a message, though you can turn this feature off if you're so inclined.
+
+ Like Hotmail, Outlook.com has so-called Active View, which lets you open slideshows, YouTube clips and other attached media files from within the inbox. Open a batch of photos for instance, and they'll appear as a big overlay on your screen, allowing you to click through pictures instead of making you open them in a new tab or download them. Additionally, you can open Office files (Word, PowerPoint and Excel) in the browser, even if you don't have Office installed locally.
+
+ Create aliases
+ 
+ One neat thing you can do in Outlook.com as well as the older Hotmail service is create an alias -- a separate email address that's tied to the same parent account. When you set up a new alias under either the Hotmail.com or Live.com domain, that email will live in its own folder within your main inbox, so you don't need to sign out and log in again. That's a handy thing if you use a secondary email address for newsletters or online shopping, but still want to peek in at your mail from time to time.
+
+ Universal address book
+ 
+ Like any mobile OS worth its salt, Outlook.com is smart about pulling in information about your contacts from various sources. From the People hub, accessible from the top left corner of the main screen, you can link your Google, Facebook, Twitter, LinkedIn and Sina accounts. Once you've entered the requisite log-in information, your contacts will quickly populate. If you know someone through multiple networks, you won't see duplicate entries; just a single card with all of that person's info in one place.
+
+ Conversation view
+ It was a pretty big deal when Microsoft added a Gmail-like conversation view to Hotmail, so it's not surprising to see that feature has carried over to this more modern email service. Though conversation view is enabled by default, you can also switch to a more traditional view where each message appears separately in your inbox. (You can do this in Hotmail, too, of course. This layout is just prettier.)
+
+ Search in email
+ The built-in search bar on the left side of the screen responds quickly, narrowing down results as you type more letters. If you click in the field, you'll also see an option for advanced search, which lets you filter by sender, recipient, subject, folder, date range, keywords and whether or not the message has an attachment.
+
+ Skype integration 
+ To all of you who have been wondering just what Microsoft was going to do with Skype, here's your answer: Outlook.com will have Skype built in, not unlike the way Gmail has Google Talk integrated. (That would explain those job postings for Skype in the cloud, huh?) Unfortunately, the service isn't ready just yet, but Microsoft says it will be rolling out soon, so stay tuned.
+
+ In the meantime, you can use Facebook Chat to talk to people, with the option of saving conversations in your inbox. We have to say, though, we did miss Google Talk after we made the switch: Facebook isn't as widely used a chat client, and Microsoft also doesn't have an IM client quite that ubiquitous (no, not even Live Messenger). Still, Skype will naturally come in handy for video chatting, though.
+
+ Mobile access At the moment, there aren't any standalone mobile applications, so if you want to access Outlook.com on the go you'll need to use either a browser or any app that already supports Exchange ActiveSync. In fact, if you open the Hotmail.com app and log in using your Outlook.com credentials, you'll be able to use the app (minus, of course, the UI you'll get on Outlook's full site). For now, Microsoft won't say which mobile platforms it's considering, or when the first apps might arrive.
+
+ SkyDrive and Calendar: no changes (yet) Not news, but worth mentioning: within the past few months, SkyDrive has been revamped with a more Metro-inspired user interface. Microsoft plans to announce more changes in the coming months, according to a company rep. It's worth reiterating, too, that the attachment size limit jumps to 300MB when you use SkyDrive. You also get 7GB of complimentary SkyDrive storage when you sign up for a new Microsoft account. As for the calendar, it's the same ol' Hotmail app -- nothing new to report here. We're told Microsoft is considering making changes to the calendar in a future release.
+
+ Wrap-up 
+ We have to hand it to Microsoft: Outlook.com is gorgeous, intuitive, feature-rich and manages to feel even more calming than Gmail, which is no small feat, given how Google has taken pains in recent months to pare down the UI. We highly suggest giving it a try, even if you think Gmail is the greatest thing since sliced bread -- yours truly, for one, might just convert full-time. Our only hope, though, is that Microsoft will make it even easier for those coveted Gmail users to make the switch; it's great that we can easily import our inbox, contacts and keyboard shortcuts, but it would be even better if our labels could come with us, and if mail sent from Gmail also synced with Outlook. Barring that detail, we've sincerely enjoyed our time testing Outlook, and something tells us we'll be poking around for some time yet.
+
+

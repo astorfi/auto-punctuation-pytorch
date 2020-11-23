@@ -1,0 +1,44 @@
+
+ AMD's press event here in Vegas just wrapped up, and if there's a single acronym to describe everything that we witnessed, it's this: APU. The two highlights were codenamed Temash and Kabini, two products that the company is touting as its first true system-on-chip APUs. In fact, each of 'em will launch as the "industry's first quad-core x86 SoCs" in the first half of 2013. It also took the wraps off of Richland, an APU that's presently shipping to OEMs and promises to deliver "more than 20 percent to up to 40 percent over the previous generation of AMD A-Series APUs."
+
+ The outfit will be bundling Richland will new software for consumers such as eyeSight-enabled gesture and facial-recognition, while the follow-on will be the 28nm APU codenamed "Kaveri" -- a device that should ship to customers during the second half of 2013. We're also told that AMD's newest silicon will be used in various HP Sleekbooks and Vizio's 11.6-inch APU-powered tablet, two Vizio ultrathin laptops, and a 24-inch AIO desktop. Hungry for more? The full release is after the break.
+
+
+
+   Show full PR text    AMD Unveils Innovative New APUs and SoCs That Give Consumers a More Exciting and Immersive Experience
+
+   AMD Enters 2013 With Its Strongest Consumer Line-up of APUs; Announces New Relationship With VIZIO
+
+   LAS VEGAS, NV--(Marketwire - Jan 7, 2013) - International Consumer Electronics Show -- AMD (NYSE: AMD), a leading provider of technology that enables visually-rich experiences for today's consumers, provided an early look at its new 2013 accelerated processing units (APUs) and announced a new OEM relationship with VIZIO. At an International Consumer Electronics Show (CES) event, AMD demonstrated working silicon of its first true system on chip (SoC) APUs, codenamed "Temash" and "Kabini," which will be the industry's first quad-core x86 SoCs. Both APUs are scheduled to ship in the first half of 2013. Demonstrations included a range of leading-edge applications and games on a "Kabini"-based ultrathin notebook and a "Temash"-based performance tablet and hybrid notebook.
+
+   AMD also introduced the new APU codenamed "Richland" which is currently shipping to OEMs and delivers visual performance increases ranging from more than 20 percent to up to 40 percent over the previous generation of AMD A-Series APUs1. "Richland" is expected to come bundled with new software for consumers such as gesture- and facial-recognition to dramatically expand and enhance consumers' user experiences. The follow-on to "Richland" will be the 28nm APU codenamed "Kaveri" with revolutionary heterogeneous system architecture (HSA) features which is expected to begin shipping to customers in the second half of 2013.
+
+   Additionally, AMD announced a new series of discrete graphics processors for performance gaming that are already shipping to OEMs, AMD Radeon™ HD 8000M Series graphics. These latest products are reflective of the company's strategy to focus on creating differentiated IP leadership through low-power technologies that target the high-growth client markets such as ultrathin, convertible and tablet.
+
+   "With a groundbreaking new APU line-up in 2013, AMD is poised to win in high-growth consumer segments," said Lisa Su, senior vice president and general manager, AMD Global Business Units. "We are developing technologies with end users in mind -- to bring true surround computing and immersive experiences to our everyday lives. It is exciting to bring our industry-leading APU technologies to market, including the industry's first x86 quad-core SoC, while building on our leadership in graphics and gaming."
+
+   2013 APU Line-up Delivers a Huge Leap Forward in Performance-per-watt and Elite Software Experiences
+
+   "Temash" is AMD's elite low-power mobility processor for Windows 8 tablets and hybrids. AMD expects "Temash" to be the highest-performance SoC for tablets in the market, with 100 percent more graphics processing performance2 than its predecessor (codenamed "Hondo.")  "Kabini" targets ultrathin notebooks with exceptional battery life and offers impressive levels of performance in both dual- and quad-core options. "Kabini" is expected to deliver an increase of more than 50 percent in performance3 over the previous generation of AMD essential computing APUs (codenamed "Brazos 2.0.")  "Richland" brings increases in both CPU4 and graphics along with improvements in battery life5. "Richland" APUs are expected to come bundled with a wealth of elite software experiences which include gesture- and facial-recognition, wireless connectivity directly to TVs and monitors, and prioritization of system resources when streaming video.
+
+   AMD Forges NewTechnology Partnerships with Popular Consumer Brands
+
+   During an unveiling at today's press event, VIZIO was on hand to showcase a powerful new relationship and portfolio of AMD-based platforms. VIZIO's new AMD portfolio includes an 11.6" APU-powered tablet PC, two high-performance ultrathin notebooks in both 14" and 15.6," and an impressive 24" All-in-One (AiO) system.
+
+   "VIZIO is entering the consumer PC market in an even bigger way in 2013 and we are thrilled to include AMD in our line-up for the premium visual and gaming performance we believe their processors deliver," said Lily Knowles, vice president of Product Marketing, VIZIO. "AMD provides the VIZIO tablet, notebooks and All-in-One with the best graphics and visual experience for our customers."
+
+   In addition to VIZIO, AMD will support a wide variety of systems from several OEMs with premium features and stunning designs in 2013.
+
+   "The ASUS U38 delivers a premium feature set to consumers and was co-engineered in close partnership with AMD and Microsoft, and designed for Windows 8," said S.Y. Hsu, corporate vice president, ASUS. "With an HD touch display and solid-state drive for faster start-up times, the ASUS U38 brings the AMD A-Series APU to an entirely new tier of premium design."
+
+   "The HP Pavilion TouchSmart Sleekbook is HP's most affordable touch-enabled system, perfect for Windows 8 users and with the performance of the AMD A-Series APU supporting an excellent overall experience," said Kevin Frost, vice president and general manager, Consumer PCs, Printing and Personal Systems, HP. "The quality graphics, high-performance game play and immersive audio/video offered on the AMD-based HP TouchSmart Sleekbook will make it a hit with consumers of any age."
+
+   Bringing Surround Computing to Life at CES  These new products further AMD's vision for the next era of Surround Computing -- the convergence of computing ecosystems that result in immersive experiences across a wealth of form factors with new consumer-driven natural interfaces. To build on this concept, AMD in concert with VIZIO unveiled the industry's first AMD SurRoundhouse which gives visitors to the AMD Experience Zone at CES a first glimpse into the art of the possible for Surround Computing. The AMD SurRoundhouse delivers a next-generation home theater demonstration on AMD technology that delivers panoramic HD content perfectly paired with spatial audio to immerse participants in a true 360° sensory experience.
+
+   Supporting Resources
+
+   2013 Software Experiences video  2013 Software Experiences blog  Read our CES blog on how AMD is bringing virtual worlds to life  AMD on Twitter at @AMD_Unprocessed  Follow #AMDsurround  Follow AMD on Facebook
+
+   About AMD  AMD (NYSE: AMD) is a semiconductor design innovator leading the next era of vivid digital experiences with its groundbreaking AMD Accelerated Processing Units (APUs) that power a wide range of computing devices. AMD's server computing products are focused on driving industry-leading cloud computing and virtualization environments. AMD's superior graphics technologies are found in a variety of solutions ranging from game consoles, PCs to supercomputers. For more information, visit www.amd.com.
+
+ 

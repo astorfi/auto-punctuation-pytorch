@@ -1,0 +1,15 @@
+
+
+Brought to you by the mechanical engineers at Virginia Polytechnic Institute and State University, those same
+roboteers that brought us the IMPASS "wheg" bot last
+week, we have the amoeba bot that roughly models its form of movement after that of everyone's favorite single cell
+organism. The robot is covered in a flexible skin, shaped like a hollow sausage, and crawls along by progressively
+turning itself inside out, either through contracting and expanding the skin, or through the movement of internal
+ring-shaped devices. The upshot of all this is that the amoeba bot can fit through an opening half of its diameter,
+perfect for the navigating the rubble of the ubiquitous rescue mission. The question we're asking is, what on earth is
+this thing going to do once it arrives on the scene?
+
+
+
+
+ 

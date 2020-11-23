@@ -1,0 +1,13 @@
+
+Google brought virtual reality to the masses cheaply with Cardboard, a DIY headset announced at last year's I/O conference. Now, the search giant's building upon its 1 million VR viewers with an improved Cardboard headset that fits smartphone screens up to 6 inches. It also incorporates a new top-mounted button that replaces the finicky magnetic ring so that Cardboard works with any phone. And, in what's probably the most consumer-friendly move Google's made with the new and improved Cardboard, it takes just three steps to assemble. Clay Bavor, VP of Product, told I/O attendees that they'd be receiving these new DIY VR kits immediately after the keynote. And for interested VR developers, it's important to note the Cardboard SDK now works with iOS in addition to Android.
+
+
+
+
+
+Google also announced Jump, its new VR platform for creating and sharing content due out sometime this summer for "select creators." It's the company's way of giving professional-grade VR content-creation tools to the masses so that anyone can capture and share 3D video. To do this, Google's partnered with GoPro to build Jump's first 3D camera rig. As Bavor explained onstage, the software works by seamlessly stitching video frames together for a border-free, depth-corrected immersive VR experience that can be easily uploaded and viewed on YouTube.
+
+Jump also happens to be the perfect software companion for Expeditions, Google's just-announced initiative to bring these VR experiences to educators so that "teachers [can] take their classes on field trips to anywhere." Google didn't reveal much about how Expeditions will work or how it'll roll out to schools, but it's clear from today's announcement that Google's taking VR very seriously.
+
+Don't miss out on all the latest news and updates from Google I/O 2015. Follow along at our events page.
+

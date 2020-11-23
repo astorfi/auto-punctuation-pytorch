@@ -1,0 +1,32 @@
+
+ The battle between Thunderbolt and USB 3.0 has only recently begun in earnest, what with mobo's finally emerging to give non-Mac computers access to the 10Gbps interface. While USB 3.0 can't match Thunderbolt in terms of data throughput, it now has the upper hand in power capabilities, as last week the 100W Power Delivery spec was approved for both USB 2.0 and 3.0. That's ten times what Thunderbolt can do, and it means that you can charge up your laptop or power most any peripheral via Universal Serial Bus. Naturally, the new specification relies on beefier cables to deliver maximum juice, but we won't have to go replacing all our old wires -- it includes a means to check attached cables and devices and set the voltage and amperage accordingly. Perfect, that means we won't have to carry around bundle of proprietary power cords when we travel, and we get peace of mind that charging via USB won't have any, ahem, unpleasant side effects.
+
+
+
+  Show full PR text   USB 3.0 Promoter Group Announces Availability of USB Power Delivery Specification
+  USB Power Delivery extends popular USB battery charging to support higher  power devices
+   HILLSBORO, Ore. – July 18, 2012 – The USB 3.0 Promoter Group, in conjunction with  the USB 2.0 Promoter Group, today announced the completion of the USB Power  Delivery specification, which enables increased power delivery through USB cables and  connectors. The specification expands cable bus power capabilities in USB applications,  supplying higher voltage and current to deliver power up to 100 watts over USB Power  Delivery certified cables. It is capable of delivering higher power to charge notebook PCs  and power external hard-disk drives, devices which previously did not receive adequate  power from traditional 5V bus power.
+
+   The USB Power Delivery specification enables a switchable source of power without  changing cable direction. Existing USB cables and connectors are also compatible with  this specification and will coexist with the USB Battery Charging 1.2 specification as well  as existing USB-bus powered applications.
+
+   "USB Power Delivery enables a path to greatly reduce electronic waste by eliminating  proprietary, platform-specific chargers," said Brad Saunders, USB 3.0 Promoter Group  Chairman. "We envision a significant move toward universal charging based on this  specification, most notably for charging notebook PCs using standardized USB power  bricks or when connected to USB hubs and desktop displays that integrate USB Power  Delivery capabilities."
+
+   "The publication of the USB Power Delivery specification is an important step in enabling  a flexible, standardized power management ecosystem," said Peter Harrison, Director,  Standards Collaboration, Nokia.
+
+   "We believe USB Power Delivery is the next big step in the USB evolution to provide  high bandwidth data and intelligent power over a simple, single, ubiquitous cable,"  said Robert Hollingsworth, Senior Vice President and General Manager of the USB  Products Group at SMSC. "USB has always combined data and power over a single  cable, and this is widely believed to be a major contributor to the present ubiquity of  USB. USB Power Delivery builds on that success and adds full bi-directional power that  can be renegotiated as system power needs change with the end-user."
+
+   The USB 2.0 and 3.0 Promoter Groups developed the USB Power Delivery specification  and have transitioned the specification's management to the USB-IF. The USB Promoter  Groups are now accepting adopters of the USB Power Delivery specification. To  download both the USB Power Delivery specification and adopter agreements, visit  http://www.usb.org/developers/docs/.
+
+   USB Power Delivery Developers Day
+
+   USB-IF members who are interested in learning more about the USB Power Delivery  specification are invited to attend USB Power Delivery Developers Day, being held  August 2, 2012 in Washington D.C. The event will provide attendees the opportunity to  gain product planning and design insights beyond just reading the new specification. The  event will include prototype solution demonstrations and interactive Q&A opportunities.  Registration for this event is US$175. To register, complete this form and return it by  email to admin@usb.org or fax to +1-503-644-6708. The registration deadline is 5 p.m.  Pacific Time on Wednesday, July 25 and the event is only open to USB-IF members.
+
+   About the USB 3.0 Promoter Group
+
+   The USB 3.0 Promoter Group, comprised of Hewlett-Packard Company, Intel  Corporation, Microsoft Corporation, Renesas Electronics, ST-Ericsson and Texas  Instruments, developed the USB 3.0 specification that was released in November 2008.  In addition to maintaining and enhancing this specification, the USB 3.0 Promoter Group  develops specification addendums to extend or adapt its specifications to support more  platform types or use cases where adopting USB 3.0 technology will be beneficial in  delivering a more ubiquitous, richer user experience.
+
+   About the USB-IF
+
+   The non-profit USB Implementers Forum, Inc. was formed to provide a support  organization and forum for the advancement and adoption of USB technology. USB-IF  facilitates the development of high-quality, compatible USB devices through its logo and  compliance program recognized around the globe and promotes the benefits of USB and  the quality of products that have passed compliance testing. Further information,  including postings of the most recent product and technology announcements, is  available by visiting the USB-IF website at www.usb.org
+
+ 

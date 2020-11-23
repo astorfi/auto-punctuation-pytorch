@@ -1,0 +1,9 @@
+
+ 
+Well, well, look at what we've got here. It's the promised OnLive MicroConsole TV adapter courtesy of the FCC. The MicroConsole itself, isn't a surprise -- the little box that replaces the PC or Mac and brings the streaming game service to the living room TV courtesy of an HDMI-out jack was first announced back in March with plans for a late 2010 retail delivery. What is a surprise is the discovery of an FCC test report for ZigBee 802.15.4 in addition to Bluetooth. The ZigBee mesh networking standard is most often targeted at RF applications requiring a low data rate like lighting, sensor, and power socket control nodes in home automation networks. So why the hell would OnLive be dabbling in ZigBee? OnLive's site says that the MicroConsole uses Bluetooth to connect multiple wireless headsets. So maybe ZigBee is for the four wireless controllers (something we've seen before) the MicroConsole supports. We can't say for sure, but a quick search of ZigBee's product certification database turns up an ETRI VoZ (Voice over ZigBee) prototype capable of facilitating a ZigBee headset, microphone, and speaker. Perhaps OnLive is just doing some future proofing here or maybe they've got plans for some ZigBee enhanced gameplay. Unfortunately, the FCC test unit is listed as a pre-production "Pre-DV Sample" meaning it could still be awhile before the MicroConsole launches. FCC wireframe and label pictured after the break.
+      
+
+ 
+
+
+ 

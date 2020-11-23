@@ -1,0 +1,13 @@
+
+ 
+Fully-functional Xooms with complete (or seemingly complete) builds of Honeycomb are out in force here at Google's event in Mountain View today, and a bunch of partners are hanging out to demonstrate the tablet apps they've been working on. We checked out both Monster Madness -- a game that's been on Xbox 360 and PS3 for some time -- and Grocery IQ, both of which obviously bring very different experiences to the table (unless you consider grocery shopping "a game," which some of us admittedly do).
+
+Though we thought we detected some stuttering and lag from Monster Madness when it was demoed on stage, the experience up close and in person was much smoother -- definitely 100 percent playable. We double-checked and confirmed that the tablet game is a 100 percent content port from the console games, you're not missing anything here. It features three control modes that let you toggle between two on-screen analog sticks, one stick, and a fully accelerometer-based mode that most users probably won't consider practical because you've got to tilt the screen too much. Interestingly, the developer noted that there's a low-res mode that he actually toggled in an area of the game with a lot of water because it tends to slow down, despite the fact that it's running on Unreal Engine and is fully optimized for multiple cores. Could it be that game studios are already pushing the limits of this hardware from day one?
+
+Moving onto Grocery IQ, it's basically a fancy shopping list with coupons -- it's already on both iOS and Android phones, and odds are good you already know what it is. What was really interesting, though, was that we got a full demo of "application fragment" layout switching between landscape and portrait views (the app has a two-pane view for tablets) and the process of adding and removing widgets. As with some of the first-party widgets we've seen, Grocery IQ seems to have done a good job making its widgets visually rich and engaging -- particularly the coupon browser, which appears as a stack of rotating coupons with color graphics. See videos of both products after the break!
+      
+
+ 
+
+
+ 

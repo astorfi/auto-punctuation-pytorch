@@ -1,0 +1,103 @@
+
+"My name is Edward Thorp."
+
+"My name is Edward Thorp."
+
+"My name is Edward Thorp."
+
+
+It's 1964 and Edward Thorp is on the television game show To Tell The Truth, sitting alongside two other well-dressed men also claiming to be Edward Thorp, a man so adept at card counting that he'd been barred from Las Vegas casinos. Thorp, the quiet man on the right, every bit the mathematics professor with black-rimmed glasses and close-cropped hair, is the real deal.
+
+
+Two years earlier, Thorp's book, Beat the Dealer, was published, explaining the system for winning at blackjack he developed based on the mathematical theory of probability. The system worked so well that Las Vegas casinos actually changed the rules of blackjack to give the dealer an added advantage. Those changes would prove to be short-lived, but Thorp's book would go on to become a massive bestseller, and remains a key guide to the game of blackjack to this day.
+
+
+That all this happened as the computer age was flourishing in the 1960s isn't coincidental. While working to beat the house, Thorp was also working at one of the hotbeds of that revolution: the Massachusetts Institute of Technology. There, he had access to two things that would prove invaluable to his research. One was the room-filling IBM 704 computer, without which, he writes in Beat the Dealer, "the analysis on which this book is based would have been impossible."
+
+
+
+The other was MIT professor Claude Shannon, who worked on cryptography and code-breaking during World War II, and would go on to become known as the father of information theory -- and, indeed, the information age. It's with Shannon that Thorp would revisit a question he had considered years earlier: whether he could apply mathematics to beat the game of roulette as he had done with blackjack. Thorp and Shannon would develop a friendship and, in the process of answering that question, build what is widely regarded to be the first wearable computer.
+
+A proto-Google Glass it was not, in either form or function, but it would be some time before we'd see anything else resembling a wearable computer.
+
+It's a device that's decidedly simple by today's definition of a computer; one designed for a single task -- beating roulette -- as opposed to a more general-purpose machine. It was also a homebrew project in the truest sense, looking like not much more than a small box stuffed with wires and electronics. Input and output were handled with the tap of a shoe and an audible tone in an earpiece, with the computer itself simply strapped around the waist. Then again, when you're trying to sneak a computer into a Vegas casino, one of your primary concerns is not being seen.
+
+A proto-Google Glass it was not, in either form or function, but it would be some time before we'd see anything else resembling a wearable computer. It nonetheless offered an early hint at the more complex wearable devices that would follow decades later -- from the pioneering work of Steve Mann and others in the 1980s and '90s, to today's smartwatches and activity trackers. And it's due in part to those devices that Thorp's wearable computer is remembered more now than ever before.
+
+Thorp first revealed the computer and his ability to successfully predict roulette with it in the second edition of Beat the Dealer, published in 1966, although he only described it in broad terms. In it, Thorp wrote that he "played roulette on a regulation wheel in the basement lab of a world-famous scientist," and that "in an hour's run, betting no more than $25 per number, we won a fictional $8,000!" Thorp also noted that "there are certain electronic problems which have so far kept the method from being used on a large scale in the casinos."
+
+Thorp would later explain the system in detail in a paper titled "The Invention of the First Wearable Computer," published in 1998. Like Beat the Dealer, it isn't quite the dry document you might expect, interspersing personal anecdotes with technical details. That "world-famous scientist" was, of course, Shannon, who Thorp first visited in November of 1960 to see about getting his blackjack paper published. After a short meeting, Shannon agreed to help Thorp with his paper, and asked him if he was working on anything else in the gambling area. Thorp wrote that he "decided to spill my other big secret," and the two then spent "several exciting hours" talking about his plan to beat roulette. The germ of the idea for a wearable computer was planted in Thorp long before he walked into Shannon's office, however.
+
+Early Experiments
+This main unit would be worn with one wire running into the shoe to track timing of the roulette wheel, while another would run up to an earpiece for receiving the audio-based results (Courtesy of Edward Thorp).
+Speaking on the phone from his office in Newport Beach, Calif., Thorp, now 81, recalls an ingenious scheme for a wearable computer of sorts that he dreamed up at the age of 13 -- when, incidentally, he was already a licensed ham radio operator. After realizing the scalp could conduct electricity, his plan was to shave his head, put electrodes on it and rig a door with a motor and receiver so he could open and close it just by thinking. He says he had lots of other projects going on, though, "as ever," and never got around to carrying through on the plan.
+
+Two years after that initial idea, the topic of roulette came up when a favorite high school teacher of his was talking about a recent trip to Vegas. The teacher was telling Thorp that you couldn't beat the casinos, and Thorp recalls telling him that he thought he could, and that he would try it. "I was extremely interested in all things scientific," Thorp says, "and I was a builder of devices and gadgets." The notion the young Thorp had was that the orbiting ball of a roulette wheel reminded him of a planetary system, or of a pendulum that's gradually dissipating energy. Thorp says that idea "sort of lodged in my head," and it would resurface while he was at UCLA getting his master's in physics in 1955.
+
+While talking with fellow students that year, Thorp recalls the topic of beating the casinos came up again, and he laid out his plan for a computer that could be used to win at roulette. The other students remained skeptical, but Thorp decided then to work on it. He began some tests, and eventually made his way to experiments using a half-size roulette wheel before taking a trip to study full-size casino wheels in action.
+
+By then, Thorp was also well-acquainted with computers. "I sort of got into them early," he says. One of his jobs as a physics graduate student at UCLA was working on the computer they had at the Institute for Numerical Analysis, and he had also worked on a room-filling differential analyzer, an analog computer with gears and shafts originated by Vannevar Bush, on which he would literally crank in data.
+
+When he got to MIT, he would also have access to the IBM 704, which was on the leading edge at the time, but it was still a somewhat slow process. "I would type stuff on punch cards and wrap it up in a rubber band and turn it in," he recalls, "and then a couple of days later I'd get a piece of paper back, and my punch cards, and it'd tell me what happened. And I would move on to the next phase of the calculation."
+
+As he made his way from UCLA to MIT, however, Thorp's interest shifted from roulette to blackjack, and he set the wearable computer project aside until his meeting with Shannon.
+
+The Plan Comes TogetherAfter their initial meeting, Thorp says, "we got right to it," and he spent about half his time for the next eight months working away with Shannon in that basement lab in his house, on one of Massachusetts' Mystic Lakes. In his paper, Thorp described the lab as a "gadgeteer's paradise," with what he estimated to be about a hundred thousand dollars' worth of electronic, electrical and mechanical items. The regulation roulette wheel, ordered from Reno for $1,500, was set up on an old slate billiard table.
+
+Thorp describes Shannon as the "ultimate gadgeteer," and recalled in his paper that the man he met in that office was a "thinnish alert man of middle height and build, somewhat sharp-featured," and that "his eyes had a genial crinkle and the brows suggested puckish incisive humor." That humor would become evident as the two worked together at the house on the lake. Thorp wrote that Shannon taught him to juggle three balls, and that he rode a unicycle on a steel cable strung between two tree stumps. "He later reached his goal," he wrote, "which was to juggle the balls while riding the unicycle on the tightrope."
+
+Thorp also recalled a contraption of Shannon's that would have no doubt thrilled his 13-year-old self. "As a joke," he wrote, "he built a mechanical finger in the kitchen, which was connected to the basement lab. A pull on the cable curled the finger in a summons."
+
+During their tests, Thorp and Shannon found that the computer gave the wearer a 44 percent edge in roulette - more than enough to make it worth their while.
+
+After months of experiments, the two settled on a computer they thought would work. Roughly the size of a pack of cigarettes, the computer itself had 12 transistors that allowed its wearer to time the revolutions of the ball on a roulette wheel and determine where it would end up. Wires led down from the computer to switches in the toes of each shoe, which let the wearer covertly start timing the ball as it passed a reference mark. Another set of wires led up to an earpiece that provided audible output in the form of musical cues -- eight different tones represented octants on the roulette wheel. When everything was in sync, the last tone heard indicated where the person at the table should place their bet. Some of the parts, Thorp says, were cobbled together from the types of transmitters and receivers used for model airplanes.
+
+During their tests, Thorp and Shannon found that the computer gave the wearer a 44 percent edge in roulette -- more than enough to make it worth their while. By then, it was the summer of 1961, and the two decided it was time to test the computer in a casino. In August, they went to Vegas for a week -- Shannon's wife, Betty, and Thorp's wife, Vivian, joined them.
+
+While only one person wore the computer, the operation in the casino was a two-man job. The person wearing the computer would stand by the roulette wheel and time -- also writing down the numbers on a pad to appear like a system player, what Thorp describes as a "decoy mode," since "whoever was doing that was considered harmless because fools do that all the time to no avail."
+
+
+After years of using his skills to "Beat the Dealer," Thorp moved on to bigger fish: Wall Street (Sam Comen).
+The other person, usually Thorp, would sit at the betting table with the earpiece and a receiver, hearing the same cues that the person wearing the computer heard. "When the computer was operating without any trouble," Thorp says, "it worked really well." Indeed, it worked just as well as it did in the lab. "We'd start out with dime chips," he says, "and single dimes would turn into piles of dimes, quite often causing a fair amount of excitement, but nobody caught on to what was going on."
+
+"Our problem was output."
+
+Wearing a computer in 1961 wasn't easy. While the small computer worn around the waist was inconspicuous enough, the earpieces proved more difficult. For those, Thorp and Shannon used thin stainless steel wires that were soldered onto the speaker and painted a flesh color. The wires ran down the neck and through the wearer's clothing to the receiver. They proved to be discreet, but the wires were delicate and tended to break, which Thorp says "was the Achilles' heel of the system."
+
+"Once a lady next to me looked over in horror. I left the table quickly and discovered the speaker peering from my ear canal like an alien insect."
+
+"So," he says, "we'd bet for a while and then a wire would break, and we had to go back to the room and take the person who was doing the betting, namely me, apart and solder things together and hook me back up." In his paper, he recounted one incident in particular: "Once a lady next to me looked over in horror. I left the table quickly and discovered the speaker peering from my ear canal like an alien insect."
+
+While those problems prevented them from any "serious betting," they deemed the computer a success. It now resides at the MIT Museum in Cambridge, Mass.
+
+Although most would consider Thorp and Shannon's invention to technically be the first wearable computer, it's not quite a wearable computer as we know them today. For the origins of more general-purpose wearables, we need to look a few decades later to the work of Mann, who also, as it happens, found his way to MIT. He'd be joined there by Thad Starner and others, with their pioneering efforts in the 1990s laying much of the groundwork for Google Glass and today's other wearable devices.
+
+That's not to say Thorp and Shannon's work didn't inform those later devices in some respects, though. In an article published in IEEE Micro in 2001, Starner cited Thorp's computer as an example of a device where "unobtrusiveness and privacy were primary concerns," explaining that "not only was it necessary to keep private the information generated by the wearable," but also that "Thorpe and Shannon needed to hide the computer's existence from onlookers." Those concerns brought with them the type of trade-offs that continue to be an issue today -- in this case, an awkward interface and other physical limitations in the pursuit of portability and discretion.
+
+In a broader sense, the computer was also an "augmentation" of sorts, giving its wearer the ability to keep track of more information than they would be able to otherwise -- something that's now becoming more prevalent than ever thanks to the likes of wrist-worn activity trackers -- and access to information that others don't have.
+
+While Thorp wouldn't go on to develop the sort of general-purpose wearable computers that Mann and Starner eventually would, he did build a second wearable device soon after the roulette computer. Described as a "knock-off," it was designed to beat the money wheel, or wheel of fortune. It had just a single transistor and could be operated by one person on their own, but Thorp says that the wheel itself didn't get much action and that anyone winning a lot of money would attract a lot of attention. "So it was something that would work in principle," he says, "but you couldn't actually make any money at it."
+
+"The descendants of the first wearable computer were formidable enough to be outlawed," Thorp wrote.
+
+Thorp and Shannon also considered building a computer for blackjack, but Thorp says he could already count so well that it didn't seem worth the effort. He also speculated about a different type of system in Beat the Dealer, suggesting that it would be "technically feasible to link a casino blackjack player by radio to a remotely located giant machine, which does the actual playing."
+
+Another well-known blackjack player, Keith Taft, would actually go into the business of building and marketing blackjack computers much later. In the late 1970s, a group of students at the University of California, Santa Cruz, who called themselves "The Eudaemons," also built a computer to win at roulette, this time with the computer itself contained in a shoe. By 1985, though, Nevada would ban the use of devices designed to aid in card counting or predicting the outcome of other games. "The descendants of the first wearable computer were formidable enough to be outlawed," Thorp wrote.
+
+By then, however, Thorp had already moved on to a much bigger arena: Wall Street. He was one of the original "quants," applying mathematics and computers to the stock market, and making a fortune at it. His book on the subject, Beat the Market, has become a guide for countless investors as Beat the Dealer has been for blackjack players. That also explains his diminished interest in gambling over the years. "When you're betting millions," he says, "betting hundreds of thousands doesn't seem meaningful."
+
+A Restless Retirement
+Thorp's hugely successful book that, according to To Tell The Truth, was once the most requested book at the Las Vegas library (Donald Melanson).
+At 81, Thorp is still looking for new projects to take on. One of his current interests is biotech, and new research in low-temperature medicine that promises to let corneas be vitrified and stored for long periods of time ahead of a transplant, instead of being discarded after a few days. Another development he has his eye on could allow for brains to be cooled much more rapidly for surgical purposes. As with the rest of our conversation, it's a topic he discusses in exacting detail.
+
+It comes as no surprise, then, to hear that he's not the retiring type. "There's so many interesting things all the time," he says. "That's the problem.
+
+"I think of the classical retirement as kind of crazy, where you're 65, you throw a switch, and stop doing anything," Thorp says. "To me, retirement is a transition from whatever you were doing to whatever you want to do, at whatever rate you want to make the transition."
+
+As with gambling, computers have also been far from Thorp's main focus in more recent years. He never really considered a career in the field, he says, since for him "they were more tools than things unto themselves." And, while he's remained interested in computers, he hasn't followed the evolution of wearable computing particularly closely.
+
+He is somewhat familiar with Google Glass, however, and he does see his invention as a precursor of sorts to it and other wearable computers. "It's sort of an interesting contrast," he says, "when you think back to this little box ... and then you jump 50-plus years ahead and now you have Google Glass, with all its manifold capabilities. It's startling to see how much has happened in a little over 50 years."
+
+As for his place in that evolution, while he by no means needed another legacy, Thorp is now often called the "father of wearable computing." That's hardly a title he set out to claim, though. "I didn't realize at the time that that was going to happen," he says, "I was just interested in solving a problem and seeing if I could do it. The fact that it was a wearable computer was just part of solving the problem."
+
+Photos of Thorp by Sam Comen.

@@ -1,0 +1,10 @@
+
+       
+In a Samsung-esque introduction, Samsung has unveiled a crazy stack of tech for mobile devices, most of it aimed at improving performance in high-end devices while reducing power consumption -- an initiative we can always get behind. Among the introductions are a pair of 1GHz ARM CORTEX A8 processors, one for phones and one for larger mobile devices, the former of which can be paired with Samsung's new 1Gb OneDRAM solution, and both of which can churn through 3D graphics while keeping power usage to a minimum. Other highlights include a 5 megapixel CMOS system on a chip camera, which can process 1080p at 30 fps, a 512Mb PRAM chip newly in production, and a mobile display driver with integrated capacitive touchscreen support. With samples of the processors out in December, and the camera trickling into the market Q1 of next year, we probably have a ways to wait for devices based on all this tech -- but boy are we prepped for it.
+
+Read - 1GHz low power application processors
+Read - 5 megapixel camera
+Read - PRAM starts production
+Read - Ramped up OneDRAM production
+Read - Display driver IC with embedded capacitive control
+ 

@@ -1,0 +1,5 @@
+
+ It's all about how you hold it, apparently. Intel's Labs have churned out a proposal for a new user-identifying system to be embedded into remote controls. Given a bit of time to familiarize itself with particular users, this new motion sensor-equipped channel switcher is capable of correctly recognizing its holder just by the way he operates it. Taking accelerometer readings every 100 nanoseconds, the researchers were able to build a data set of idiosyncrasies about each person, which would then be applied the next time he picked up the remote. Alas, accuracy rates are still well short of 100 percent, but there's always hope for improving things and for now it's being suggested that the system could be employed to help with targeted advertising -- which is annoying anyway, whoever it may think you are.
+      
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+ Researchers at USC's Viterbi School of Engineering have developed a robot capable of identifying materials, thanks to a tactile sensor. The so-called BioTac sensor mimics the human finger, with flexible robot skin layered over a liquid filling -- and the skin even has fingerprints to increase the robot's sensitivity to vibration. Researchers trained the robot to recognize 117 common materials, and by making "exploratory movements" to feel out textures it was able to correctly identify materials 95 percent of the time -- a higher accuracy rate than humans achieve. Still, though the robot is an ace at understanding textures, it doesn't possess the ability to decide which materials are preferable to humans. For this reason, the USC team says it will focus more on applications such as human prostheses and consumer product testing. Relax: your fingers are still worth something -- for now.
+
+

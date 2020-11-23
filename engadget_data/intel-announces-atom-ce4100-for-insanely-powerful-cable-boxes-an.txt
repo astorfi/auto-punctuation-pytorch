@@ -1,0 +1,9 @@
+
+ 
+Intel's CE3100 media chip has been behind some of the cooler demos they've done here at IDF, and it's just gotten a big brother, the Atom CE4100. As you'd expect, the big change is the replacement of the CE3100's Pentium M core with an Atom core, but this thing is actually kind of a monster -- it can decode two 1080p video streams with various high-end audio codecs, it adds MPEG-4 support and 3D graphics capability, and it can even capture uncompressed 1080p video. Of course, it's up to manufacturers and cable companies to actually put all this power to use, but Intel's promised us some hardware demos from partners -- stay tuned.
+      
+
+ 
+
+
+ 

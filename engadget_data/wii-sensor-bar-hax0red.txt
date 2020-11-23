@@ -1,0 +1,8 @@
+
+ We're sure most of you Wii users are too busy Googling Zelda walkthroughs or chucking your Wiimote at the TV right now to give this hack much notice, but if you're the type that just has to know how something works and then destroy it utterly (you know who you are), then you might want to have a looksee at this one. Apparently some enterprising hax0rs tore apart their Wii sensor bar, only to find a couple of standard IR emitters. It turns out the "sensor" bar doesn't actually sense at all, it just sends out a pair of IR beams which can then be triangulated by the Wiimote. This of course opens up the possibility of DIY sensor bars and other related (performance enhancing?) hacks, but it still won't do much to help you through that extended "intro" phase in Twilight Princess, so sorry. Click on to view the vid of a custom-rigged sensor bar in action.[Via Joystiq]
+      
+
+ 
+
+
+ 

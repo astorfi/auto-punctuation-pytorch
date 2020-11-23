@@ -1,0 +1,11 @@
+
+ 
+So far, AMD's new Fusion chips have been all about the low-end, whether you're talking in terms of price, performance or power consumption, but the company has a vision for its future that has these new Accelerated Processing Units dominating every segment of the market. In order to do that, AMD will need to overcome Intel's latest generation of mainstream processors, the Core 2011 family we're more familiar with under the Sandy Bridge codename. Before you rush past the break and watch AMD's own comparison between said Intel hardware and the forthcoming quad-core Llano APU, be aware that processor performance can rarely be generalized from a single test alone and the one we're witnessing is specifically geared to highlight the Fusion chip's strengths. All that said, the workload demonstrated by AMD -- a 3D game, HD video playback (plus post-processing on the Llano rig), Excel calculations, and some 3D modeling, all running simultaneously -- is handled most impressively by the A8-3510MX APU, which even manages to use less power than Intel's 2GHz Core i7-2630QM. See the video after the break.
+
+[Thanks, Vygantas]
+      
+
+ 
+
+
+ 

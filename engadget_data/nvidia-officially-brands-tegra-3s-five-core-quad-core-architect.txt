@@ -1,0 +1,5 @@
+
+  NVIDIA's cooked up a few ways to describe the Tegra 3's quad-core-with-a-spare architecture, usually by giving the extra Cortex A9 a cute nickname like "ninja," or "companion." Until now, the proper description was "Variable Symmetrical Multiprocessing," or, vSMP for short. Despite how much fun (and technically accurate) some of these descriptions may have been, however, they just aren't marketable. "Our customers wanted a name for it that's unique and descriptive," writes mobile business unit general manager Michael Rayfield, "A name they could put on a box or a store sign that immediately represents its value." That official name is the 4-PLUS-1 quad-core architecture, he says, and you'll probably see it pop up a few times in Barcelona next week if LG's latest offering is any indication. It lacks something in pizzaz, to be sure, but we'll admit that it is at least descriptive of the Tegra 3's technical chops. In related news, NVIDIA promises the Tegra will be less fickle about its new moniker than the symbol formerly known as the artist formerly known as Prince.
+      
+
+ 

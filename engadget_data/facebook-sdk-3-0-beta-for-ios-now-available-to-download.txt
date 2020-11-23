@@ -1,0 +1,4 @@
+
+ Slide over, Twitter -- after this fall, you won't be the only social network in town with OS-level integration on the iPod touch, iPad and iPhone. As announced back at WWDC in June, Facebook will be on a level playing field with the launch of iOS 6, and the outfit's new SDK 3.0 Beta is exactly what developers need to get there. Among other things, the new code promises superior user session management, ready-to-use native UI views, bolstered Facebook API support and an iOS Developer Center to get folks grounded on "key concepts." After iOS 6 launches en masse, this SDK will "automatically use the native Facebook Login in iOS 6 when available," providing a similar experience to Twitter in terms of seamless logins. Ready to get cranking? Get your download on in the source link below.
+
+

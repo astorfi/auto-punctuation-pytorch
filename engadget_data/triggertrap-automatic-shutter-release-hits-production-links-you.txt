@@ -1,0 +1,11 @@
+
+ 
+
+
+Want your camera to take a shot whenever the phone rings or someone loads your blog page? Triggertrap can arrange that for you. This Arduino-powered box has managed to cross the funding finish-line and will be bringing its multi-source automatic release to camera creatives early next year. The former Insert Coin project can communicate with cameras through either a wired connection or its own IR transmitter. It can initiate shutter release from a multitude of sensors, with the built-in light, laser and sound sensors backed up by an auxiliary port, meaning it can be hooked up to anything capable of generating an electronic signal. With prototype testing complete, the Triggertrap looks set to ship in early February next year, with a special build-your-own version appearing soon after that. The ready-made options will set you back $125, while the customizable 'shield' version is pegged at $75. Interested? Well, hold on after the break for a full video tour of the cherry red hardware.
+      
+
+ 
+
+ 
+ 

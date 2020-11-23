@@ -1,0 +1,5 @@
+
+ Last year's PWN 2 OWN contest at the CanSecWest security conference went over way better than expected (read: exploits were glorified), so this year, organizers have spiced things up by letting hackers have their way with three separate machines. The Linux, OS X and Vista-based rigs were all setup as similarly as possible in order to "make sure the attack surface was the same on all of them." For attendees in Vancouver, there sits a $20,000 top prize -- which dwindles with each passing day as restrictions on attacks ease up -- but it can only be acquired if an all new zero-day cyber roundhouse kick is used. Anyone here going to give it a go? You get to keep the freshly victimized laptop too, you know.
+      
+
+ 

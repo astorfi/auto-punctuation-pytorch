@@ -1,0 +1,9 @@
+
+ 
+
+Since the death of Gears we've been, rather impatiently, awaiting the return of offline access to our Google apps. Well that day has finally come -- provided you're a Chrome fan. The fine folks in Mountain View just unveiled a new app for their browser (which means it also works on Chome OS) called Offline Google Mail that will keep you connected to your all-important messages even when you can't get a connection. You'll notice the app looks a heck of a lot like the web app for tablets, and that's because that's basically what it is. There are some differences -- keyboard shortcuts work -- but at it's heart it's the same HTML5 browser app mobile users have been enjoying for some time. To install the offline version you'll have to uninstall the standard Gmail Chrome app, which is a little odd, but there's nothing stopping you from typing Gmail.com in the address bar. Docs and Calendar are also going offline. Starting today the feature will be rolled out to users over the next week. To activate it just look under settings for an offline tick box. At the moment Docs is view only when disconnected, but Google promises offline editing is coming soon. Hit up the more coverage link to install Offline Gmail now.
+
+Update: Google reached out to us and it turns out both can run side by side just fine. We were experiencing a bug that shouldn't effect most users since we hadn't let the Gmail app update recently.
+      
+
+ 

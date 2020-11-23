@@ -1,0 +1,6 @@
+
+ 
+If myHPmini forum member runawayprisoner is to be believed (and why not?), rather than featuring some sort of dumbed-down hardware, the sole difference between the NVIDIA ION and the XP-friendly ION LE is that the latter has DirectX 10 support disabled in the device drivers. Indeed, when the full-blown ION drivers are hacked to recognize the ION LE device ID, not only do you get to run DX10, but performance increases markedly as well. Of course, DX10 is Windows 7 only, but you should conceivably be able to take your ION LE machine, install Windows 7 and the driver hack, and get on with your life (and save a few bucks in the process). Why bother with the charade, you ask? Theories abound, but we think it's a pretty good guess that NVIDIA is merely adhering to Microsoft licensing requirements here, and that in the long run crippling an existing chipset is cheaper than developing an entirely new one for an OS that's likely to be phased out sooner than later.
+
+[Via SlashGear]
+ 

@@ -1,0 +1,6 @@
+
+ 
+NVIDIA's PureVideo H.264 hardware acceleration was officially announcedtoday and there was much rejoicing. Why bog down your CPU with mundane video decoding tasks when your GPU can do it foryou, right? PureVideo hardware decoding supports all of the standardMPEG-4 flavors such as H.264, VC-1, WMV and also supports the "soon-to-be-legacy"  MPEG-2 compression aswell.  NVIDIA's PureVideo technology will show up in both desktop and notebook products: the GeForce 6- and7-series will sport the new technology, as well as the nForce 6150 series of GPUs. Note that this should cover you in aPC solution for either Blu-Ray or HD-DVD since all of the usual suspects codecs are supported.
+      
+
+ 

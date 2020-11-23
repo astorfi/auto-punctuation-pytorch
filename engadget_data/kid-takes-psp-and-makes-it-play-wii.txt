@@ -1,0 +1,8 @@
+
+ No, as much as we'd like to see it happen, this isn't some kind of monster emulation effort. Instead, an intrepid young -- and we mean young: his YouTube display name is "obiwan222222" -- PSP Fanboy has managed to get his PlayStation Portable to act as a screen for his Wii using Sony's LocationFree Player solution for the PSP. By patching through the PSP to LocationFree and by sticking what looks like a custom made Wii sensor above the console, the PSP can display the Wii's output using its WiFi to connect to the internet video stream, and a spare Wiimote to control the cursor. Unfortunately, this solution is far from practical, as there's an built-in lag of around 6 seconds: not something you want when playing twitch games. Besides the actual concept, the best part about the walkthrough video (which is after the break), is Obiwan22's narration. One typical quote for you: "I am not some kind of genius. I just want to make a statement [to show] what you can do with your LocationFree Player!" Aww, bless.[VIa PSP Fanboy]
+      
+
+ 
+
+
+ 

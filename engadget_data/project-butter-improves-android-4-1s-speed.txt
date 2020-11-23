@@ -1,0 +1,7 @@
+
+ 
+ As part of its unveiling of Android 4.1 Jelly Bean, Google has unveiled Project Butter, a major effort to squash Android's frequent problems with device lag, as well as Systrace to help diagnose performance. Project Butter lets the CPU and graphics run in parallel, rather than crash into each other, and has a big impact on both real and perceived speed: the entire interface runs at 60 frames per second on sufficiently fast hardware. Graphics are now triple-buffered to keep scrolling and transitions humming along, and the processor will swing into full gear the moment you touch the screen to keep input lag to a minimum. Systrace, in the meantime, will help developers stamp out what performance hiccups remain. The tracing tool will be a part of the Jelly Bean SDK, so every coder can get an app running in tip-top shape.
+
+ Check out our full coverage of Google I/O 2012's opening keynote at our event hub!
+
+

@@ -1,0 +1,10 @@
+
+  Texas Instruments is helping to lead the way when it comes to mobile computing -- when we want an early look at what's to come months and even years down the road, TI is always one of our first stops. At this year's Mobile World Congress, the semiconductor leader wasn't shy about showing off its latest innovations, including those from its manufacturing and design partners. Today's demo focused on wireless video streaming -- a concept that engineers are approaching from every imaginable angle, and that is bound to make its way to consumers in a very big way within the next few years. TI's flavor is based on WiFi, and offers a dual-connection solution, letting you pair a tablet with a TV using peer-to-peer while also creating a second link between the tablet and a wireless router for Internet.We took the tech for a spin using one of TI's development platform tablets and an external WiFi dongle (shipping versions will be integrated), and everything worked as described, though the video stream was noticeably choppy and compressed. TI reps explained that they dialed down the bitrate in order to maintain a connection at the MWC expo hall, which, as you might imagine, probably had a wireless signal density greater than any other room in the world. The tablet we saw was running a very slick context-aware UI that displays one of three home screens based on your current location -- there's one for work (that displays your calendar), one for home (media and home automation controls) and another for travel (restaurant reviews and weather). Pushing content from the tablet to the TV seemed to be seamless, and while both the UI and wireless functionality may appear to be ready to make their way into your home, TI isn't making any announcements about availability. There's no need to wait for a teaser, however, which you'll find just past the break.
+
+
+
+
+
+
+  
+ 

@@ -1,0 +1,8 @@
+
+ You might remember that way back in September Makerbot took the wraps off its next generation of Replicators. Sadly, when the company invited us out for a sneak peak, the cutting edge Replicator 2X was no where to be seen. Thankfully Bre Pettis decided to swing through CES with the dual-extruding, ABS optimized version of its 3D printer in tow. Aesthetically there's not much different about the 2X -- it's the same black body and a Stepstrudder that form the heart of the device. Though, there's quite a number of tweaks to the basic feature set here. For one, instead of PLA (the corn-based plastic manufactured by MakerBot), the 2X goes for the ABS plastic favored by most other additive manufacturing devices. Since it has a tendency to crack and warp when exposed to extreme temperature fluctuations, the Brooklyn startup has brought back the heated build platform. The gaps in the frame have also been filled with clear plastic, and a pair of coverings have been added to the top and front to help keep the temperature inside stable.
+
+ MakerBot also announced an update to its MakerWare package that enables dual-color printing and the addition of an API to its Thingiverse. The new developer tools will allow customers to tweak and produce completely unique products on their desktop. The Replicator 2X should, hopefully, be available soon for $2,799. For more check out the gallery below.
+
+
+
+

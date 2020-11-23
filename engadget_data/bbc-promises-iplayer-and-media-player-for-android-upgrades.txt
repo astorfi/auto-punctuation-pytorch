@@ -1,0 +1,6 @@
+
+ The BBC's Android efforts have, for several reasons, trailed its iOS offerings. Most notably iPlayer and Media Player have been stuck with low-quality, non-adaptive streams and a stripped down feature set. The national broadcaster is promising to fix that in the near future, however. The changes wont be happening all at once, but iPlayer head David Price promises that big improvements are coming to its Android offerings. One major upgrade will be to the playback experience by offering not just higher-resolution streams, but various levels of video clarity based on device capabilities, screen size and data speeds.
+
+ The new video backend should be launching before Christmas, while an update launched today that adds support for Jelly Bean 4.2, provides a UI facelift improves video over WiFi and brings BBC Alba. The more ambitious goal of reaching feature parity with iOS will have to wait till some time next year. Price says he has beefed up his staff to make offline playback a reality on Android devices as soon as possible, but no timeline is being given. Lastly, the apps will finally be getting properly tweaked tablet versions -- hopefully sooner rather than later. For more check out the source link.
+
+

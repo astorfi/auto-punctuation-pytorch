@@ -1,0 +1,6 @@
+
+ 
+Intel's had its new processor plans slipped out to the public thanks to Sun, according to DailyTech. Details on the 6-core (!) Xeon Dunnington, as well as the kinda-sorta hush-hush Nehalem were apparently leaked out onto Sun's public web server over the weekend, including plans for the new Xeons to overtake the company's Tigerton CPU line. The Dunnington processors will have a 16MB L3 cache shared by all six cores, and will be pin-compatible with the Tigertons, thus making integration with your Clarksboro chipset slightly less painful... by being possible. The Nehalem also got the spy treatment, with news that it will not only replace the Penryn line in Q4 '08, but will also be the first time in 18 years that Intel includes on-die memory controllers. If this sort of thing is important to you (and we think it may be) hit the read link and get all the juicy details.
+      
+
+ 

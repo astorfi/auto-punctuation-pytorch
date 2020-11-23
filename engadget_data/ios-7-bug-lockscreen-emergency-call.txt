@@ -1,0 +1,11 @@
+
+You can expect three things every time a new iOS version comes along: fresh aesthetics, features and, by the looks of it, ways to bypass a locked screen. In iOS 7's case, this is the second security flaw unearthed since it's launched: An iPhone user named Karam Daoud recently discovered that you can dial any number on the Emergency call page from a locked homescreen. If you press the green phone button repeatedly after keying in a number, the screen turns black with an Apple logo, and the call goes through. We've tested it out on different devices, and while it doesn't work all the time, the point is that it sometimes does. There's no apparent way to disable Emergency calls, but Apple reportedly told Daoud it'll issue a patch later. We've reached out to Cupertino for a statement, and we'll inform you once we hear back.
+
+
+Meanwhile, if you've been hearing about another supposed iOS 7 exploit that allows Siri to make calls, send text messages and post to social networks from a locked screen, don't worry too much. It's not actually a bug -- just go to Settings > General > Passcode Lock > Allow access when locked, then switch Siri off. After you do that, no mischievous sibling should be able to post embarrassing status updates on your Facebook account. That is, unless you do it yourself after a night of drunken revelry.
+
+
+
+
+
+ 

@@ -1,0 +1,4 @@
+
+After releasing its $995 Pocket Cinema Camera last summer with ProRes422 support only as it warned, Blackmagic Design has finally unleashed RAW CinemaDNG video recording with a firmware update. The format losslessly compresses each frame like a .zip file to capture 1080p video from the Super 16mm sensor -- unlike ProRes422, which is a reasonably high quality but more compressed format. That'll preserve the full fidelity of the video stream, letting cinematographers save files with more dynamic range for increased flexibility during color correction. That's not to say that ProRes422 is shabby, as we saw from earlier footage -- but shooters who want RAW in a small form factor now have a way without hacking (and possibly bricking) a Canon DSLR.
+
+

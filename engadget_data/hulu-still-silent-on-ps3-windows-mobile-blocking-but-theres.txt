@@ -1,0 +1,6 @@
+
+ 
+A few days after blocking PlayStation 3 users, Hulu has yet to respond to questions concerning the change which has only helped to fuel rumors it is related to the Microsoft ad campaign currently featured on the site, but that seems less likely now that we've confirmed it also began blocking the Flash-enabled Skyfire browser on Windows Mobile devices at the same time. Whatever the cause is, if you prefer a homegrown hack over something like PlayOn or TVersity, Eric over at ypass.net has put together a simple enough walkthrough for creating an "unblockable" workaround by setting up a locally connected PC running Linux or Windows with the freely available Squid proxy server software that will make your PS3 look like appear as a PC running a Firefox (or whatever you prefer) browser to any website that asks. Of course, just like the other solutions your computer will need to stay running to keep you connected, but we figure it's a small price to pay for enjoying relatively low res Flash video running on an HDTV.Read - Got a PS3? Want Hulu Back? Easy enough...Read - Squid-setup for Windows NT /2k /X
+      
+
+ 

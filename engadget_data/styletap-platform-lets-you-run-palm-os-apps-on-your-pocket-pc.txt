@@ -1,0 +1,13 @@
+
+
+Haven't had a chance to fire up one of our old iPAQs and test this out first-hand, but a company called StyleTap has
+announced a new emulator called StyleTap Platform that'll let you run Palm OS apps on your Pocket PC. They claim that
+the software is compatible with thousand of different applications written for Palm OS 5.2 and earlier, and that you
+don't have to run programs in a separate emulation window—supposedly they'll show up as native programs on your Pocket
+PC and you can use them just like you use Windows Mobile apps (that includes being able to cut and paste text back and
+forth, too). No support for Bluetooth, at least not yet.
+
+
+
+
+ 

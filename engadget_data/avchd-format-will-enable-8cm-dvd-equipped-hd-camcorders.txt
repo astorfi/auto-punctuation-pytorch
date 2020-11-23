@@ -1,0 +1,5 @@
+
+ Sony and Panasonic-parent Matsushita have teamed up to develop an encoding format based on MPEG-4 AVC/H.264 that will enable future camcorders to capture HD footage directly to standard 8-centimeter DVDs. Called "AVCHD," the new format is able to handle numerous resolution/frame-rate combinations, including 480i at 60fps, 720p at 24, 50, or 60fps, and 1080p at 24fps (or 1080i for 50fps and 60fps configurations), and can encode audio in either 5.1 channel AC-3 or up to 7.1 channel Linear PCM. The advantages of this format over the current HDV scheme used with MiniDV cassettes aren't exactly clear -- although you are getting random scene access thanks to the nature of optical discs, recording time is cut down from around an hour with MiniDV to only 20 minutes at the AVCHD "average setting." Even worse, DVD players will require special software in order to read discs containing content encoded in the new format, and even then, they will obviously only play back at a maximum resolution of 480p.[Via PCWorld]
+      
+
+ 

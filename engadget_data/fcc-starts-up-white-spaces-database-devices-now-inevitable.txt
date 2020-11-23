@@ -1,0 +1,5 @@
+
+ White space devices seem likely to play a major part in the FCC's solution to the wireless spectrum crisis. Operating in the buffers between frequencies used by television broadcasts, these devices will be able to exploit TV's airspace without interfering with the incumbent users' traffic. The unlicensed utilization of white spaces has been approved going on for a year now, but really important government stuff has gotten in the way of making that vote a reality. It was only recently that Claudville, Virginia got the very first such network, and initial results show that it hasn't disrupted any of the fine, fine programming percolating the local airwaves. The only issue we see is that your WSD will need to be capable of both identifying its own position by GPS and hooking up to the database to find out what bands it may use, but then it's not like anyone sells smartphones without these capabilities nowadays, is it?
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+What do you get when you cross a music-mixing Microsoft Surface with a sleep-deprived Al Roker? Answer: Pure comedy gold. Video after the break, skip to the 48-second mark to hear DJ A.R. do his thang. Bonus: check out the last 10 seconds to hear him compare a drunken Ann Coulter to Popeye's Olive Oyl.
+
+ 
+
+  <!-- function reSize() { 	try{	 	var oBody	=	ifrm.document.body; 	var oFrame	=	document.all("ifrm"); 		 	oFrame.style.height = oBody.scrollHeight + (oBody.offsetHeight - oBody.clientHeight); 	oFrame.style.width = oBody.scrollWidth + (oBody.offsetWidth - oBody.clientWidth); 	} 	//An error is raised if the IFrame domain != its container's domain 	catch(e) 	{ 	window.status =	'Error: ' + e.number + '; ' + e.description; 	} } //--> 
+ 

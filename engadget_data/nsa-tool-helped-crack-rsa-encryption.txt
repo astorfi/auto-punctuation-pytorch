@@ -1,0 +1,8 @@
+
+
+Internet security was turned on its ear in December when leaks revealed that the NSA had inserted a back door into a common encryption method from the RSA, a big security provider for remote work access and other major parts of the corporate web. However, it turns out that the vulnerability was worse than some thought. University researchers have shown evidence to Reuters that a second NSA-supplied tool, which sold as part of a security kit, let the intelligence agency crack the RSA's already susceptible encryption "tens of thousands of times faster" than usual. In other words, it was sometimes trivially easy for the NSA to compromise sites. It's not clear how much damage this tool did, though. The software was strictly optional, and not many people used it -- the RSA says it pulled the tool within the past six months, so it won't be a major concern in the future. Even so, the discovery suggests that the NSA effectively had free rein when snooping around some places online.
+
+
+[Image credit: Sam Dal Monte, Flickr]
+
+

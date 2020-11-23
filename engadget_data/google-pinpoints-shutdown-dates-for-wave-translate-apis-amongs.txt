@@ -1,0 +1,7 @@
+
+ 
+
+'Tis a sad day in the world of Google... at least for developers who use any of a handful of ill-fated APIs. As the search giant's API list has grown in recent months, it's making the decision to cull a few in the effort of "spring cleaning." In fact, a grand total of seven new APIs were launched during Google I/O alone, but it looks as if the end is nigh for the Blog Search API, Books Data API, Image Search API, News Search API, Patent Search API, Safe Browsing API (v1 only), Translate API, Transliterate API, Video Search API and Virtual Keyboard API. Of those, Wave is most unsurprising, but Translate likely hurts the most -- particularly for jetsetters who relied on those baked-in services to wrap their heads around various tongues. According to Goog, the Translate API has been officially deprecated "due to the substantial economic burden caused by extensive abuse." A pretty ominous phrase, to be sure, and further proof that a few rotten apples can ruin things for the whole of us. Hit the links below to get a glimpse of the full damage -- we're warning you, it ain't pretty.
+      
+
+ 

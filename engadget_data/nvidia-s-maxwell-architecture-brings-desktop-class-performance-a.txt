@@ -1,0 +1,13 @@
+
+Read through NVIDIA's Maxwell desktop GPU announcement, and you might think you were looking at a feature set designed for laptops: lower power consumption, new anti-aliasing technology and a downsampling feature that can force any monitor to display 4K content. It sounds almost like a dream feature set for a portable gaming machine and, well NVIDIA agrees -- today it's officially launching the GeForce GTX 980M and 970M GPUs.
+
+
+
+If you didn't read up on the company's flagship GPU announcement, let us break it down for you: NVIDIA's Maxwell GPUs are all about power efficiency with a hint of overkill graphics performance on the side. This is a combination of lower performance per watt, and implementing new technologies like Multi-Frame Sample Anti-Aliasing, the aforementioned technology that promises to boost performance by as much as 30-percent with no visual concessions. NVIDIA says it's also made significant gains with its BatteryBoost feature, which limits in-game framerates and balances system performance to boost on-battery play time by 20 to 30-percent.
+
+As for that side of performance, well, not only do the new GPUs promise to perform better without being plugged into a wall outlet, but Maxwell's new Dynamic Super Resolution (NVIDIA's branded and optimized downsampling solution) is designed to put 4K-quality content on lower resolution screens. It's kind of like lying to your computer's monitor: the game is rendering itself at a 4K resolution and is filtered down to your laptop's native 1080p display.
+
+
+NVIDIA's new chips (and new GPU features) will be available in NVIDIA GeForce GTX 980M and 970M-equipped laptops, starting today. Machines rocking the new hardware can be had from all the usual suspects: MSI's GT72 and GS60 will have it, for instance, as well as the ASUS G751, Gigabyte Aorus X7 and the Clevo P150 (which will likely be rebranded under Origin PC or Maingear flags). How do these machines perform in practice? We'll let you know as soon as one crosses our review desk.
+
+

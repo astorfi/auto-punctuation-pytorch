@@ -1,0 +1,8 @@
+
+ 
+The World Wide Web Consortium -- you know, the team responsible for certifying and standardizing HTML5 -- has put together its first table of official conformance test results, giving us an idea of how well prepared each of the most popular browsers is for the oncoming web standards revolution. The data show Internet Explorer 9 as the most adroit performer (again), though Chrome, Firefox, Opera, and Safari don't seem to be too far behind in their HTML5 compliance, either. Of course, these checks don't cover the entire spec, which in itself isn't even finalized yet, but they provide us with a glimpse into a brave new world where Microsoft actually cares about coders keen on maximizing interoperability by adhering to web-wide standards. Good stuff. Check out the full results at the source link below.
+
+[Thanks, Mehran]
+      
+
+ 

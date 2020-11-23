@@ -1,0 +1,5 @@
+
+ 
+Clarion's ClarionMiND MID / PND has been a long time coming but, with the first few non-3G-equipped units now out there in the wild, we're finally starting to get some reviews of the device, one of which comes from the folks at Mobile Tech Review. As you might expect, there's quite a bit of compromises to be found both as an MID and a GPS device, although it does seem to be considerably more well-suited to the latter task than the former. The biggest drawback on that front, it seems, is a weak built-in speaker that may not be powerful enough to overcome road noise. Things seem to be decidedly more lackluster when used as an MID, however, a situation that isn't helped by its underpowered 800MHz Z500 processor, its 850mAh battery, or its custom Linux distribution, which handles the basic internet-browsing tasks just fine but makes it difficult to install any third party apps. Hit up the link below for the complete rundown.
+
+ 

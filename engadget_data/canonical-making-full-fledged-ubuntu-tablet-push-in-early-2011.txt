@@ -1,0 +1,6 @@
+
+ 
+Were Ubuntu Linux ported to any device you could name, it wouldn't be much of a surprise, but developer Canonical intends to release a tablet-specific branch of the OS this time. Like previous efforts on netbook and MID, you can expect the new version to be something of an Ubuntu Light, but with new multitouch gestures and an on-screen keyboard lovingly baked in. Based on Ubuntu 10.10 "Maverick Meerkat," the tablet version will actually be rolled into Ubuntu Light later on, but right now the company's busy romancing hardware providers -- Freescale, Marvell, and Texas Instruments have all signed deals, and both Intel and Pixel Qi will reportedly bring power-saving tech to the table. Time will tell if that means a Armada 618 or OMAP 4 powering the display of our dreams, or yet another ARM-based craptablet with a resistive screen.
+      
+
+ 

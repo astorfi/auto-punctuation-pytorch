@@ -1,0 +1,24 @@
+
+If you're already bored by the annual speed upgrades we're seeing in mobile chips (can you really feel the difference between a Galaxy S4 and S5?), Qualcomm's giving you a few more reasons to consider upgrading. Its octa-core Snapdragon 810 chip, which will likely end up in many of next year's top phones and tablets, sports a few new features that go far beyond the megahertz rat race. And it might just be the first step toward your tablet replacing your laptop -- which makes sense now that Qualcomm has its eyes set beyond mobile.
+
+
+
+
+
+Let's start with 4K video -- which, to my surprise, might actually be useful with the Snapdragon 810 rather than overhyped fluff. Qualcomm's supported 4K video recording since the Snapdragon 800's release in 2013, but there really wasn't much you could do with that content. Its new chip will actually support 4K-resolution displays, so you'll get to see your ultra HD videos in their full glory. You'll also be able to wirelessly stream the video by connecting a small dongle to a TV set (which almost makes up for the dearth of true 4K content). In a demo yesterday, I didn't notice any stuttering or fuzziness when a Qualcomm rep wirelessly shot some 4K video from a phone to a television. There's certainly no rush to replace your current HDTV yet, but the support for high-res movies will come in handy as 4K sets drop further in price.
+
+Qualcomm is also pushing 4K-resolution tablets as something that could lead to a major upgrade in typography, but I was less convinced with that argument. The company showed off a website sporting a huge image and some tiny text as something that could only be viewed with a high-res tablet. But it really just looked like a terribly designed site.
+
+
+The same high-speed wireless technology Qualcomm is using for streaming 4K video in the Snapdragon 810 will also power a major upgrade for Miracast, its AirPlay-like solution for sharing your screen with other displays. You can plug in a keyboard and additional storage when you dock your tablet and Miracast it to a larger monitor (as pictured above). It allows for an almost desktop-like experience when combined with the technology's existing screen mirroring and mouse support. I was able to detect some slowdown when a Qualcomm rep showed off the new Miracast features, but it looked usable for basic document editing.
+
+On the camera side, the Snapdragon 810 offers a respite from the horrors of digital zoom by supporting Corephotonics' dual-lens camera, which brings optical zooming to mobile devices. The company uses computational photography to combine the results from two lenses to achieve a 3x zoom in photos. Qualcomm has been talking up the technology since Mobile World Congress last January, but next year we may actually see phones taking advantage of it. HTC's One M8 (which isn't using Corephotonics' technology) gave us a glimpse at what's possible when two lenses work together, but there's clearly room for improvement.
+
+
+You can get a sense of how the dual-lens technology works in the comparison above, which shows an image using traditional digital zoom on a small subject about six feet away. The digitally zoomed image on the left is practically useless, while the image zoomed with Corephotonics' lenses is decent. We've already seen Nokia try to tackle the photo zooming dilemma in phones with its PureView cameras, which let you crop into high-resolution photos without sacrificing much quality. But Windows Phone's many issues as a platform have held back PureView's potential.
+
+Among other useful features, the Snapdragon 810 adds a hardware kill switch that will prevent hackers from flashing your device (which could let them bypass typical software kill switches). The chip also supports Dolby's new mobile Atmos sound technology, which does a surprisingly great job of simulating surround sound on headphones. And of course, the 810 offers some huge gaming improvements with its faster GPU. The game Godfire, for example, looked almost console-like when demoed on one of Qualcomm's reference tablets.
+
+We've seen Qualcomm push plenty of fanciful features over the year, but this time around they actually look pretty useful. That's a clear sign of how far mobile chips have come. It's already hard for us to notice the expected speed upgrades, so the only choice now is to focus on other useful upgrades. And as the industry matures, so will the way we use our phones and tablets.
+
+

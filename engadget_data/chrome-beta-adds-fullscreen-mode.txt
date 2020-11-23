@@ -1,0 +1,4 @@
+
+ Chrome Beta for Android just hit version 27 today, delivering with it a few nice enhancements to what is already arguably the best mobile browser on the market. The two biggest tweaks are the ability to view your tab history on the tablet version by holding down the browser back button and the addition of a fullscreen mode on the phone. Scrolling down to make the address bar disappear on a handset is an extremely welcome change. A lack of fullscreen browsing was one of the few quirks of Chrome that occasionally had us contemplating a return to the stock Android browser. There are a couple of other, less notable, tweaks such as support for client side certificates. The Omnibar will also now continue to display any search terms you enter, instead of the URL for the results. You can see the full change log at the source and download Chrome Beta for Android at the more coverage link.
+
+

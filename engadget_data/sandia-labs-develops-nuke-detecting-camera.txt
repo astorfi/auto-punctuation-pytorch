@@ -1,0 +1,6 @@
+
+ 
+Aiming to plug the huge security hole that is our domestic port system, researchers at Sandia National Laboratories have developed a so-called "neutron-scatter" camera that is able to detect almost any radioactive material in its field of view -- even if it's hidden behind layers of shielding, such as in a cargo container. While traditional gamma ray-based handheld detectors are hobbled by relatively stringent proximity requirements, the Sandia cam uses an array of orthogonal sensors to pinpoint neutrons in 3D space at a "classified" distance, although its bulk and laggy result times mean that both types of devices should be used together for maximum efficiency. Currently the prototype neutron-scatter cameras are being deployed to several field locations for calibration, where their detectors will be trained to better compensate for background radiation and reduce incidences of false alarms.[Photo courtesy of Sandia National Labs]
+      
+
+ 

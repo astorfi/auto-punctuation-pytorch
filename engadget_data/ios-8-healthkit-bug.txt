@@ -1,0 +1,5 @@
+
+
+iOS 8 may be trickling down into people's devices, but those long-promised health and fitness features won't be along for the ride. Apple has discovered a critical flaw in HealthKit that's so big, it's prompted the company to pull any app that connected to the service from the App Store. According to The Next Web, apps like MyFitnessPal are now racing to prepare a HealthKit-free version of its latest update which added miCoach support. In a statement, Apple says that it's "working quickly" to fix the issue, and that HealthKit apps like CARROT Fit, which is currently unavailable, will return to the store by the end of the month.
+
+

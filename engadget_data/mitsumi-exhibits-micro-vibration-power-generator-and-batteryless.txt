@@ -1,0 +1,13 @@
+
+ This picture from Mitsumi's CEATEC booth may not seem to say much, but it's certainly showing the future. The silver cylinder at the top is actually a small power generating device that converts micro-vibrations into usable energy, so stick one of these on, say, a ventilation duct and you should just about get enough juice to power a calculator or even an LED. In fact, Mitsumi says these can be integrated into the RF sensor network of large air conditioning facilities, as an RF transmitter can run on very little power these days -- even less than a calculator. Alas, a company rep said this product won't be available until 2014.
+
+ Speaking of RF, Mitsumi does have something even more awesome that will be launched sooner. You see that black stick on the left? Embedded inside it is a batteryless RF switch, and the way it works is that upon the release of the spring mechanism inside, a tiny bit of power is generated for the 2.4GHz RF transmission (ZigBee compatible), and whatever device is connected to the RF control outlet on the other end will receive the on or off signal. So yes, you basically get a switch that requires no wiring nor power (except for the receiving end)! Expect this to hit the shelves in March 2013. For now, we have a hands-on video after the break.
+
+
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+
+  To all T-Mobile users that've privately longed to wield the Galaxy Note, yet've remained deterred by its nasty EDGE speed limitation, we've just one thing to say: welcome to flavor country. A new workaround designed specifically for AT&T's LTE variant of the monolithic smartphone (and ostensibly, Canadian versions, but not the international model), has successfully enabled HSPA+ support for AWS networks. Just like the Galaxy S II Skyrocket hack, the process is fairly straightforward; users must simply enter a SIM unlock code and then flash one of three radio files to the handset -- feel free to experiment and pick the most reliable of the bunch. While all functions are said to work properly, your phone's battery life may take a hit, as reports indicate that signal strength isn't quite up to par. For those wanting to proceed, just be sure to obtain a stock copy of your phone's radio file before diving in -- otherwise, once the new baseband's in place, you'll be unable to access Ma Bell's LTE network. Isn't compromise the greatest?
+      
+
+ 

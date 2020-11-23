@@ -1,0 +1,15 @@
+
+ 
+The number one complaint about the Drobo is pretty obvious: getting the damn thing on your network without using a host computer. Well, consider that complaint sorted. Today Data Robotics is releasing a NAS upgrade for Drobo called the DroboShare, which will support:
+
+Gigabit Ethernet (yes!), static or dynamic IPs
+Auto-mounting SMB shares via Drobo Dashboard (supports SMB authentication)
+Dual USB 2.0 ports for two Drobos per DroboShare
+EXT3 file system support (officially!)
+Capacities up to 16TB per Drobo (provided you feed it 4TB drives that won't be out until, say, 2010)
+And possibly our favorite: email alerts, should a drive happen to crash, for example
+
+It's also worth noting that Drobo is still capable of switching between NAS and direct-attached modes if you decide you want to take your Drobo OFF the network (but why would you do a thing like that?). The biggest problem with this add-on? It's $200, which brings the total cost of a DroboShare NAS rig to $700 -- without drives. Still, we have a feeling for many a Drobo user -- ourselves included -- the value of the functionality will far outweigh the borderline unreasonable price tag.
+
+
+

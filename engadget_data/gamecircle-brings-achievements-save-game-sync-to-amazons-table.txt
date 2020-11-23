@@ -1,0 +1,34 @@
+
+ 
+ Get ready Kindle Fire fans, Amazon is throwing down the gaming gauntlet and taking on all comers. The content giant just announced GameCircle, a new tool available to developers publishing games on its customized Android platform. It allows the easy integration of an achievement system and leader boards that don't pull a user out of a game. Instead a simple pop up launches when you've been awarded a new trophy and closing it out lets you go right back to where you were (presumably cutting ropes, flinging birds or shooting zombies). Perhaps most exciting though, is the ability to sync progress between devices. Wherever you leave off, your data is sent to Amazon's magical cloud and pulled back down in the event that you sign on to a new device or accidentally delete your game. Of course, we're not too sure how much time you spend switching between Kindle Fires... unless....
+
+
+
+   Show full PR text   Amazon Introduces GameCircle for Kindle Fire and Opens Up APIs for Game Developers
+    GameCircle helps game developers grow their business by enabling them to easily integrate new features including achievements, leaderboards and sync, leading to a more engaging gaming experience for millions of Kindle Fire owners
+
+   SEATTLE--(BUSINESS WIRE)--Jul. 11, 2012-- (NASDAQ:AMZN) – Millions of people are already enjoying a vast selection of games on Kindle Fire's vibrant color 7" touchscreen with extra-wide viewing angle. Today, Amazon.com, Inc. introduced "GameCircle," an all-new gaming experience for Kindle Fire, and released a series of APIs for developers to add this new experience to their games. GameCircle offers gaming customers a series of features such as achievements, leaderboards, and sync that make gaming even more fun, convenient and social on Kindle Fire. The newly-released GameCircle APIs will help game developers quickly and easily integrate their games with GameCircle, allowing them to grow their business by reaching new customers and keeping them engaged. Starting today, developers can access the GameCircle APIs and find more information by visiting http://amazon.com/gamecircle.
+
+   Achievements
+
+   Achievements allow players to track all earned trophies, treasures, badges, awards and more while they're playing games on their Kindle Fire. Players won't have to leave a game to receive messages, get updates or track accolades. They can also pause a game, view an achievements summary, determine what badges are still needed or desired, and then return to gameplay.
+
+   Leaderboards
+
+   Leaderboards provide an in-game view of score comparison information and percentile ranking, allowing players to quickly and easily check standings against other players without ever leaving the game.
+
+   Sync
+
+   Sync automatically saves players' in-game progress to the cloud and allows them to pick up exactly where they left off when restoring a deleted game or switching between their devices. Players will no longer have to worry about losing game progress, scores or achievements between Kindle Fire devices, as all data is securely stored for free in the cloud.
+
+   "We have received extremely positive feedback from developers on our recently launched In-App Purchasing API with its easy 1-Click purchasing, and now we're excited to add yet another reason to be a game developer for Kindle Fire," said Paul Ryder, Vice President of Apps and Games at Amazon. "The new GameCircle APIs mean that developers don't have to worry about building leaderboards, achievements or sync in their games – they can focus on the elements of their games that are truly unique while building an immersive, more entertaining experience on Kindle Fire. This will quickly help developers grow their business by reaching more customers and keeping them engaged."
+
+   "We are thrilled to be part of Amazon's GameCircle with Temple Run," said Keith Shepherd, Co-founder of Imangi Studios. "The new service is a great way to keep our fans engaged by offering them more opportunities to play the game, and an intuitive platform to connect with new players."
+
+   "We're excited about Amazon's GameCircle because it brings a new level of engagement for our most popular Android titles such as Doodle Jump and Collapse!," said Ken Murphy, VP of GameHouse Studios. "The ability to compete for high scores and achievements through the Amazon network means even more fun for GameHouse players."
+
+   "GameCircle is a wonderful addition to Triple Town," said David J. Edery, CEO of Spry Fox. "It guarantees that Kindle Fire users will not lose their active game or their hard-earned coins if they replace their Kindle Fire, or if they must uninstall and reinstall Triple Town for whatever reason. It also enables multiple-device owners to transfer their game from one Kindle Fire device to another-something we think gamers will love."
+
+   For more information on GameCircle and for access to the achievements, leaderboard and sync APIs, visit http://amazon.com/gamecircle.
+
+ 

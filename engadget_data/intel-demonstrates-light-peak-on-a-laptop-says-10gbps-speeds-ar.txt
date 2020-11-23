@@ -1,0 +1,4 @@
+
+ 
+Folks in Brussels for Intel's European research showcase got to get their hands on the company's Light Peak this week, with the first demonstration of the optical cable technology running on a laptop. Outfitted with a 12mm square chip that converts the optical signal into data the machine can read, two separate HD video streams were piped to a nearby TV, which displayed them with the help of a converter box -- a necessary evil until the Light Peak chips are developed for the display side of things. According to Justin Rattner, Intel's CTO, the current 10Gb / second speeds are just the beginning. "We expect to increase that speed dramatically. You'll see multiple displays being served by a single Light Peak connection. There's almost no limit to the bandwidth -- fibers can carry trillions of bits per second."
+ 

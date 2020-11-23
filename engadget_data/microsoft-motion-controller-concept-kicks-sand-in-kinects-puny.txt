@@ -1,0 +1,7 @@
+
+ 
+
+Think your body's a temple? Turns out it's actually just the antenna the temple's staff uses to watch football when they're done praying. A group of engineers from Microsoft Research showcased a technology at Vancouver's Conference on Human Factors in Computing that offers gesture-based control on a scale that could make the company's Kinect controller downright laughable. The team demonstrated how it could harness the human body's reception of electromagnetic noise to create gesture-based computer interaction that does away with the need for a camera -- though a receiver is worn on the body (the neck, in this case). The system uses the unique signals given off in different parts of the home to help measure the interaction, effectively turning one's walls into giant control pads, which can regulate things like lighting and the thermostat. Hopefully games, too, because we can't wait to play Pac-Man with our bedrooms.
+      
+
+ 

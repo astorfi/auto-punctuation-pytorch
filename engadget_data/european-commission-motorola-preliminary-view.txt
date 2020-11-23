@@ -1,0 +1,36 @@
+
+ 
+
+It was almost a year ago to the day that the European Commission began investigating Motorola over reported abuse of its standard-essential patents (SEPs), and now the regulators have a little more to say on the matter. The Commission has issued Motorola Mobility a Statement of Objections, which doesn't mean any judgment has been reached, but lets the company know its preliminary view, and it ain't good news. According to these initial findings, Motorola wanting an injunction against Apple in Germany based on some of its GPRS-related SEPs -- the particular legal encounter that was the catalyst for a complaint by Cupertino and ultimately, the EC's investigation -- "amounts to an abuse of a dominant position prohibited by EU antitrust rules." Motorola originally said it would license these patents under FRAND terms when they became standard-essential, which Apple was happy to pay for. However, the company pursued an injunction nonetheless. 
+
+The Commission's statement goes on to say that while injunctions can be necessary in certain disputes, where there is potential for an agreement under FRAND terms, companies with bulging SEP portfolios should not be allowed to request injunctions "in order to distort licensing negotiations and impose unjustified licensing terms on patent licensees." Joaquín Almunia, the Commission Vice President who's responsible for competition policy, echoed what we've heard from other important folks entrenched in the never-ending patent battlefield (such as Judge Koh), saying: "I think that companies should spend their time innovating and competing on the merits of the products they offer -- not misusing their intellectual property rights to hold up competitors to the detriment of innovation and consumer choice." So, what happens next? Motorola will first have its right to address the statement before the EC makes a final decision, but it's looking like a fine is headed the company's way. Hopefully, the outcome will also have a wider impact on patent cases of the future, so companies will spend more time making shiny things for us, and less on courtroom squabbles.
+
+
+ 
+Show full PR textAntitrust: Commission sends Statement of Objections to Motorola Mobility on potential misuse of mobile phone standard-essential patents
+The European Commission has informed Motorola Mobility of its preliminary view that the company's seeking and enforcing of an injunction against Apple in Germany on the basis of its mobile phone standard-essential patents ("SEPs") amounts to an abuse of a dominant position prohibited by EU antitrust rules. While recourse to injunctions is a possible remedy for patent infringements, such conduct may be abusive where SEPs are concerned and the potential licensee is willing to enter into a licence on Fair, Reasonable and Non-Discriminatory (so-called "FRAND") terms. In such a situation, the Commission considers at this stage that dominant SEP holders should not have recourse to injunctions, which generally involve a prohibition to sell the product infringing the patent, in order to distort licensing negotiations and impose unjustified licensing terms on patent licensees. Such misuse of SEPs could ultimately harm consumers. The sending of a Statement of Objections does not prejudge the final outcome of the investigation.
+
+Commission Vice President in charge of competition policy Joaquín Almunia said: "The protection of intellectual property is a cornerstone of innovation and growth. But so is competition. I think that companies should spend their time innovating and competing on the merits of the products they offer – not misusing their intellectual property rights to hold up competitors to the detriment of innovation and consumer choice."
+
+Standards bodies generally require members to commit to license on FRAND terms the patents that they have declared essential for a standard. This commitment is designed to ensure effective access to a standard for all market players and to prevent "hold-up" by a single SEP holder. Indeed, access to those patents which are standard-essential is a precondition for any company to sell interoperable products in the market. Such access allows consumers to have a wider choice of interoperable products while ensuring that SEP holders are adequately remunerated for their intellectual property.
+
+The Motorola Mobility SEPs in question relate to the European Telecommunications Standardisation Institute's (ETSI) GPRS standard, part of the GSM standard, which is a key industry standard for mobile and wireless communications. When this standard was adopted in Europe, Motorola Mobility gave a commitment that it would license the patents which it had declared essential to the standard on FRAND terms. Nevertheless, Motorola Mobility sought an injunction against Apple in Germany on the basis of a GPRS SEP and, after the injunction was granted, went on to enforce it, even when Apple had declared that it would be willing to be bound by a determination of the FRAND royalties by the German court.
+
+Today's Statement of Objections sets out the Commission's preliminary view that under the specific circumstances of this case - a previous commitment to license SEPs on FRAND terms and the agreement of Apple to accept a binding determination of the terms of a FRAND licence for SEPs by a third party - recourse to injunctions harms competition. The Commission is concerned that the threat of injunctions can distort licensing negotiations and lead to licensing terms that the licensee of the SEP would not have accepted absent this threat. This would lead to less consumer choice.
+
+The preliminary view expressed in today's Statement of Objections does not question the availability of injunctive relief for SEP holders outside the specific circumstances present in this case, for example in the case of unwilling licensees.
+
+Background
+The Commission opened the investigation in April 2012.
+
+Article 102 TFEU prohibits the abuse of a dominant position which may affect trade and prevent or restrict competition. The implementation of this provision is defined in the Antitrust Regulation (Council Regulation No 1/2003) which can be applied by the Commission and by the national competition authorities of EU Member States.
+
+A Statement of Objections is a formal step in Commission investigations. The Commission informs the parties concerned in writing of the objections raised against them and the parties can reply in writing and request an oral hearing to present comments.
+
+The Commission takes a final decision only after the parties have exercised their rights of defence.
+
+If, after the parties have exercised their right of defence, the Commission concludes that there is sufficient evidence of an infringement, it can issue a decision prohibiting the conduct and impose a fine of up to 10 % of a company's annual worldwide turnover.
+
+For more information, you may consult MEMO/13/403.
+
+

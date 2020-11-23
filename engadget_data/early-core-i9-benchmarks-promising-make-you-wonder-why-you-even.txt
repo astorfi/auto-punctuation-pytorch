@@ -1,0 +1,6 @@
+
+ 
+Immediate obsolescence is an age old problem in the computer industry, but it doesn't look like the upcoming Core i9 "Gulftown" processor is going to do anything to solve it. Word is from early benchmarks of the upcoming Intel processor is that it bests the current Core i7 at the top of the heap with speed gains as large as 50% -- directly in line with its addition of two cores on top of the Core i7's existing four. Of course, six 2.8GHz cores aren't quite as exponentially helpful when applied to non-optimized tasks, but with most major modern software development aimed at better utilizing multiple cores, the core overkill of Core i9 will likely prove increasingly useful over time. At the start, however, Core i9's improvements will come at a premium: 130W power consumption instead of 95W in Core i7, and of course a high-end only price tag to match. Word is we'll be seeing these chips hit the market in early 2010, possibly as soon as January.
+      
+
+ 

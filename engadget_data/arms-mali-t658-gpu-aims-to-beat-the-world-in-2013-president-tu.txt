@@ -1,0 +1,9 @@
+
+ 
+
+Here's an ARM duo to digest this fine morning -- ARM's president (and co-founder) Tudor Brown has announced that he'll be retiring in May after serving a bit over a score with the company. His final day will be May 3rd of next year, with Chairman Doug Dunn confessing that Brown had played "an important role in the creation and successful development of ARM over the past 21 years and has made an immense contribution in a wide range of positions." Oddly enough, a company spokesperson has stated that ARM has "no plans at this stage to replace Mr. Brown," though we suspect that could change as the date draws closer.
+
+In more product-related news, the company's forthcoming (and by "forthcoming," we mean "perhaps by the end of 2013") Mali-T658 GPU should provide a 10x improvement in performance over the existing Mali-400. According to a slide hosted up over at AnandTech, it'll offer double the shader cores per GPU, twice the arithmetic pipes per shader core and "extensive" API support. For those unaware, the Mali-400 MP4 is a real barnburner for the Android platform, and given that the T658 can scale to eight cores, we're guessing you may have just made your mind up about timing on your next smartphone purchase. Hit the links below to dig in deeper, but remember -- 2013 is about an eternity from now. Depressing, we know.
+      
+
+ 

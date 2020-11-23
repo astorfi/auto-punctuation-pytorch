@@ -1,0 +1,4 @@
+
+ While BitTorrent threw its hat into the cloud storage ring this January with an early version of its Sync app, it was hard to be truly excited when only a small circle could use it. The company isn't waiting for a completely polished version to renew our interest, however -- it's making BitTorrent Sync Alpha available to the general public, starting today. The newly accessible build brings the same unlimited Linux, Mac and Windows file syncing as before, although it adds a handful of tools to limit just who can see what. Those worried about security can now sync read-only files or offer one-time Secrets (file sharing keys) to friends that expire after a day if they're unused; it's also possible to exclude specific files or folders in larger transfers. Sync remains in a rough state, as the Alpha badge suggests, but those willing to live with the quirks no longer have to wait on the sidelines or consider alternatives.
+
+

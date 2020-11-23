@@ -1,0 +1,8 @@
+
+ 
+NVIDIA and Intel haven't been shy about their differing respective visions of the future of computing in the past year or so, but it looks like Team GPU just upped the rhetoric a little -- a Forbes column by NVIDIA VP Bill Dally argues that "Moore's law is dead." Given that Moore's law is arguably the foundation of Intel's entire business, such a statement is a huge shot across the bow; though other companies like AMD are guided by the doctrine, Intel's relentless pursuit of Gordon Moore's vision has become a focal point and rallying cry for the world's largest chipmaker. 
+
+So what's Dally's solution to the death of Moore's law? For everyone to buy into parallel computing, where -- surprise, surprise -- NVIDIA's GPUs thrive. Dally says that dual, quad- and hex-core solutions are inefficient -- he likens multi-core chips to "trying to build an airplane by putting wings on a train," and says that only ground-up parallel solutions designed for energy efficiency will bring back the golden age of doubling performance every two years. That sounds fantastic, but as far as power consumption is concerned, well, perhaps NVIDIA had best lead by example.
+      
+
+ 

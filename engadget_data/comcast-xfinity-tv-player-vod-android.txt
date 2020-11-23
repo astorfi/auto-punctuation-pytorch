@@ -1,0 +1,5 @@
+
+ 
+ After introducing video on-demand streaming for mobile devices on the iPad early last year and iPhone last May, Comcast has finally extended the courtesy to Android users as well. Unlike its iOS counterpart however, on Android there's a separate Xfinity TV Player (simply labeled "Player" in the launcher) app from the Xfinity TV remote control app. It's a free download from Google Play for devices running Android 2.3 or higher and when we checked it out just now it was smooth but plain looking, although it a native tablet interface at launch is a nice touch. Beyond the usual VOD selections (including HBO Go and more) there's also support for Comcast's Streampix subscription service within the app as it promised back in February. One odd quirk noted by Android Police is that on rooted devices the app apparently requests root permissions, but still works if they are denied (could be worse). There aren't many other details available yet, if you want to try it out grab your Comcast account info and hit the source link to give it a shot.
+
+

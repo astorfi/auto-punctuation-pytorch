@@ -1,0 +1,14 @@
+
+ 
+Whether it be case materials and design, native iPhone app development, or video support on the iPod, Apple's not a company to apologize for drastically (and suddenly) changing course. Strategically that's to the company's benefit, since it keeps the competition guessing; for consumers, though, it's a nightmare trying to figure out whether the device you buy today will be dismissed as passé in a heavily-liveblogged Jobs or Schiller press conference the next week. iPhone OS versions 2.0 and 3.0 have gone a long way toward addressing some of the iPhone's well-publicized shortcomings -- clipboard support, MMS, better orientation change support, notifications, the list goes on -- but one biggie that Apple has so far refused to take out of the penalty box is background app support.
+
+A number of sources this week are reporting that Apple is now investigating ways to make background processes work, though it's apparently early in development and the company is still investigating options; one would be to limit background apps to a total of two, another would require that background-capable apps meet certain criteria (presumably to limit processor utilization) before getting App Store approval. The company has invested a lot of time -- way too much time, actually -- crafting its push notification infrastructure designed specifically to get around the need for background processes in many common cases, which makes it seem terribly unlikely that they'd reverse so quickly. While it's true that every other modern smartphone platform supports them, Apple has all but perfected the art and science of ignoring its competitors' game plans.
+
+Any way you slice it, it's a near certainty that the next-gen iPhone will bump processor and memory specs, which makes background processing a more palatable concept -- thing is, battery technology has barely evolved in over a decade, and that's ultimately the roadblock to letting an iPhone (or any other cordless device) run wild. What's more, requiring the user to choose their own two background apps seems totally counter to the "it just works" mantra that rules the iPhone's dumbed-down interface.
+
+Hell has a tendency to freeze over in Cupertino, though, so we can't rule it out.
+
+[Via Daring Fireball]
+      
+
+ 

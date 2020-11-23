@@ -1,0 +1,83 @@
+
+
+More Info
+
+Hands-on with NVIDIA Shield
+NVIDIA Shield now $300
+NVIDIA Shield ships July 31st
+
+
+NVIDIA Shield is a truly strange device. It combines an eight-button console-size gamepad with dual analog sticks, and a 5-inch "multi-touch, retinal" screen. It runs stock Android 4.2.1. It touts wireless PC game streaming as its main selling point. It plays Android games, it plays PC games, it does the Twitter and the Gmail, et cetera. With Shield, NVIDIA is aiming to be the Swiss Army Knife of handheld game consoles. It slices! It dices! ShamWOW!
+
+
+It also costs $300, weighs nearly 1.5 pounds and takes up quite a bit of bag space. Its main selling point -- PC game streaming -- is dependent on the user already owning a PC with a relatively fancy ($140) NVIDIA GeForce GTX 650 GPU or better. Let's be honest, though: you already know this stuff, right? If you're reading this review, you either already own all the necessary gear and wanna know if this is a worthwhile peripheral for your PC, or you're morbidly curious about NVIDIA's (admittedly bizarre) console experiment. Let's all head below and try to find satisfaction.
+
+Update: We've added our full review video below -- please excuse the lateness! We ran into some technical glitches on our end, but we seem to have conquered them. Enjoy!
+
+
+
+HardwareBuild quality
+Not since the days of Atari's Lynx and Sega's Game Gear has it taken so much strength to play a handheld gaming system. At just over 1.25 pounds, the Shield is double the weight of its closest competitor, Sony's PlayStation Vita. For the past few weeks, it's been the second-heaviest thing in my reporting bag, which includes a Sony NEX-C3 and a MacBook Air (the heaviest item). The Shield isn't so heavy that I experienced fatigue while playing, but it's much more suited to couch use than subway use. Like the Wii U gamepad, the Shield is far more comfy as a lap-based device than one held in the air. Simply put, it's too bulky for mobile use.
+
+In fact, the Shield is about as bulky as handheld gaming consoles of yore. Its rubberized outside -- while appreciated during long gaming sessions -- doesn't make it any easier to conveniently slip into a bag while on the go. Should you choose to purchase a carrying case for your Shield, it'll only make the handheld more cumbersome.
+
+The device's size is the first of several major barriers that get in the way of it being a truly "mobile" console. Thankfully, what NVIDIA Shield lacks in portability, it makes up for in utility. The Shield's weight and bulk are a tremendous boon when using it for media viewing. The solid hinge between the HD screen and gamepad below enables a variety of viewing angles for lazily watching old episodes of the West Wing, and the rubberized bottom keeps it from rattling when Jed Bartlet starts yelling (the two speakers in the gamepad are mighty loud -- more on that in a minute). That same benefit applies when you use this thing as an Android device: the sturdy, heavy gamepad acts as a foundation for the top display, so that it doesn't move around when you're sticking your hands all over the touch screen.
+
+In short: yes, the Shield is big. And yes, it's bulky. And no, it's not really a portable device. And that's all totally okay.
+
+Display
+Crisp, large, bright and easy to use -- there's not much else to say about the Shield's "retinal" 5-inch (1280 x 720) IPS screen. PC games look great on it, as do high-def video and Android games. Even Tommy Vercetti's polygonal mug looks great on it. Better yet, the IPS screen looks great from various angles, and stands up to the sun's radioactive rays with aplomb. More importantly, as we said, it's affixed to a strong plastic shell with a massive hinge. As a result, the screen can be bent to any degree you fancy and remains in position.
+
+This seemed a minor consideration at first, but has implications for both media viewing and using Shield as a music player. As a media-viewing device, it's a delight to have access to a wide range of viewing angles, and the screen is sharp enough that it's easily watched from several feet away. As a music player, sharply angling the screen offers amplification to the Shield's already loud stereo speakers. How loud are those speakers, by the way? They're delightfully loud, to the point that sound will shake the entire device during particularly raucous moments. Used with Spotify or other music solutions, Shield makes for a mean little portable music box.
+
+Gamepad
+Just below those speakers is the rectangular gamepad: the star of the Shield show. It's...acceptable. For our money, the Xbox 360 wired gamepad is the go-to option for PC gaming. Shield offers an adequate facsimile -- button placement is near identical, the only exception being parallel concave thumbsticks (like Sony's DualShock) -- but nothing beats the real thing. The four A / B / X / Y face buttons exist on a flat plane, while the 360's are on a slightly curved plane; the Shield's parallel thumbsticks are deeply recessed due to the attached screen -- a dramatic difference; the shoulder buttons aren't clicky on the Shield, and its triggers have extremely strong resistance.
+
+None of which is to say the Shield is poor as a gamepad; it's just not as solid as the consumer standard for PC gamepads.
+
+There are other issues with control, specifically regarding the thumbsticks. Due to their depth, aiming and controlling the camera in first-person shooters sometimes feels loose. Since thumbsticks are normally above where thumbs rest on a controller, resistance is provided between stick and thumb. When reaching into the Shield to push the thumbsticks, resistance is hard to come by. I also have little baby thumbs, so your experience will vary in this respect. As for the D-pad, it's the closest Shield gets to replicating the 360 gamepad. In fact, Shield's is clickier, quicker and more comfortable than its terrible inspiration.
+
+Performance and battery life
+True to NVIDIA's claims, our Shield review unit's 28.8Wh battery lasted through about 10 hours of near-constant use -- from streaming video and games to media played directly from the device, all while connected to WiFi and regularly checking our (very important) Twitter account. The Shield's battery lasts far longer when we stick with PC / media streaming and don't crank the screen's brightness up all the way, though never beyond a day and a half. Charging's handled through the micro-USB around back. Going back up to a full charge from a sub-10 percent battery rating takes three to five hours, which we're calling too long.
+
+Unsurprisingly, the number one battery drain (by a longshot) is the massive screen. Tegra 4-enhanced games can also be taxing on the system's battery life, but we can't see ourselves playing any of the games available for longer than a few hours (more on that in the software section).
+
+The Shield looks like a game controller with a 5-inch screen attached (and it is that, of course), but it's actually a great alternative to tablets too. As a media device, it's top-notch. The delight and convenience of adjustable, locked viewing angles for the screen cannot be oversold; gone are the days of desperately trying to balance your tablet while laying about.
+
+It's also a damn fast Android device. Apps and games load as quickly or better than flagship smartphones and tablets, and, as we said, Shield has zero issues with multitasking. Used in tandem with those loud stereo speakers, we found ourselves comfortably employing the Shield like a portable DVD player from the early oughts, streaming The Daily Show via Hulu+ instead of watching old Friends DVDs.
+
+In many cases, the Shield allows for gamepad input in place of touch. And with something like Hulu or Netflix, gamepad control makes some sense, allowing control without blocking what you're watching. When it comes to text entry, however, that's a whole other story. We used the gamepad for text entry almost never, instead opting for the infinitely faster touch nav. Jumping between the two input methods becomes second nature, especially given how much faster functions like text entry are with the touchscreen. It's pretty cumbersome to hold the Shield's screen with two paws and enter text, but it's better than the gamepad alternative.
+
+Gaming experience
+Shield walks a particularly dangerous line, trying to appeal to both PC gaming enthusiasts and technophiles, two groups known for particularly discerning standards. But despite its Swiss Army Knife-esque capabilities, the Shield doesn't try to be all things to all people. The stock Android Jelly Bean OS doesn't force any gimmick software, and setting up PC streaming -- the marquee software functionality on Shield -- is as simple as clicking an "Accept" prompt on your PC a single time. (Note: You'll need the requisite GeForce GTX 650 GPU or higher, the latest Shield firmware update and the latest version of GeForce Experience running on your PC. The Shield and the PC must be on the same network for streaming to work.)
+
+Switching from app to Android game to PC streaming to email happens impressively quickly, with more time allotted for network connection issues than processing. The Tegra 4 SoC laughs at multitasking; we only heard the internal fans kick in once during several weeks of use.
+
+The dedicated TegraZone button in the middle of the gamepad works great alongside the TegraZone custom app NVIDIA loads on Shield. A tap from anywhere and you're able to quickly access all your Android games, various PC games and Steam's Big Picture mode. If it's held down, a menu offers a handful of system options which includes shutting off the Shield. The hardware / software tie-in for easy game access and shut down options makes the Shield feel like a little game console, and the game streaming solidifies that emotion.
+
+PC titles
+Game streaming is not perfect on the Shield. It's not as good as the Wii U's gamepad, and it's not as good as playing games directly on a PC. It occasionally hitches, or encounters "network interference," or crashes. (It is in beta, after all.) And there's some lag. Like the gamepad itself, Shield's PC game streaming functionality is acceptable. Unlike the gamepad, though, Shield's PC game streaming feels kind of magical.
+
+BioShock Infinite played on a 5-inch handheld screen is, if nothing else, very impressive. Combat is slow enough that any input lag issues are relatively nonexistent, and the lush artistry of Columbia's floating world is all the more vibrant when shrunken down. Similarly, Need for Speed: Most Wanted runs beautifully. Think of it this way: any game that doesn't require twitch reactions works well on Shield. Our attempts at Call of Duty: Black Ops 2 were fruitless. Team Fortress 2, however, was perfectly fine. And to Shield's credit, that connection holds strong further than Nintendo's Wii U gamepad. That distance comes with a heavy helping of artifacting and the occasional loss of sound, but it remains playable.
+
+Shield likely won't replace your PC gaming setup of choice, but it is a great addition. The controller isn't as good as other options, and the lag is a dealbreaker for many folks, but the experience of comfortably playing high-end PC games on a handheld is truly special.
+
+Android games
+Ahead of this review, NVIDIA sent over a list of games that are either "Tegra enhanced" and / or that have "controller support and play well" on Shield. Of the lengthy list of games, we tried approximately two dozen titles, including heavy-hitters like Grand Theft Auto: Vice City and (dare we make the pun?) Real Boxing. Whether or not those games were any good is a question for another review -- the issue we saw repeatedly with Android gaming on the Shield is inconsistency.
+
+Despite being both a "Tegra-enhanced" game and promoted in the official Shield-branded store, ARMA Tactics can't handle all the button inputs being thrust at it. In its current state, it's completely unplayable on Shield using gamepad input. Beach Buggy Blitz, however, works without a hitch. The pause button pauses the game and the command prompts on-screen during the tutorial actually correspond with buttons that exist on the gamepad (unlike Grand Theft Auto, which can be a maddening guessing metagame). That last statement sounds weird, we know, but it's representative of the state of Android games played with the Shield's gamepad (or any Android gamepad, really).
+
+From game to game, it's a question of figuring out which previously virtual buttons correspond to which part of the physical gamepad; none of these games are built with controller support in mind, and its addition feels shoehorned in nearly every instance. Even mobile versions of previously console-exclusive games (GTA, Max Payne) don't work as they should, having been ported from consoles, to mobile, and then to mobile with console controls.
+
+There's been a lot of dust kicked up over Android gaming in the last year, between the OUYA, Shield, GameStick and what have you. Unfortunately, it's just that: a cloud of dust. Android gaming is making its first baby steps toward validity, but it's still got a long way to go. In the meantime, the PlayStation Vita and Nintendo 3DS' game libraries trounce the inconsistent, often poor quality titles found in the Play Store.
+
+The competition
+Let's not kid ourselves: there's one major competitor against the Shield. It's $50 less, similarly powerful and has a much, much better selection of mobile games. Sony's PlayStation Vita isn't a great multimedia device, but it is a very good gaming device. If you're stacking up the Shield against the Vita in the "portable gaming" category, it's a no-brainer win for the Vita, a handheld that weighs half the Shield, has a larger, prettier screen and is far more "mobile." The Vita can be easily slipped in a bag. The Shield cannot.
+
+If you're stacking up the Shield against the Vita as a game console, however, the Shield makes a much stronger argument. Not only does it stream your PC games (at least the controller-based ones), but it's a comfortable way to stream movies in bed. It's a great portable music box. It's perfect for looking at a recipe while cooking. The Shield is an excellent tablet replacement, essentially, while the Vita is a great gaming device and little else.
+
+Wrap-up
+At $300, NVIDIA Shield is a hard sell as a portable game console, but an easy sell in place of a similarly priced tablet. Sure, it doesn't have a camera, but it does offer extremely impressive PC streaming, along with wide viewing angles. The Shield remains a "truly strange device," but it's one that we feel comfortable recommending to hardcore PC gamers and Netflix junkies alike.
+
+Benjamin Harrison and Edgar Alvarez contributed to this review.
+

@@ -1,0 +1,6 @@
+
+ We've been seeing a mysterious Android 4.1.2 update mentioned in conjunction with a few unreleased devices in the past few hours, so it's only fitting that we're seeing the official release today. Google's Android Open Source Project lead Jean-Baptiste Queru has posted word that the 4.1.2 release should be available on Tuesday for at least those relying on pure AOSP builds of the mobile OS. While we haven't seen the update reach our own devices yet, some Nexus 7 owners already report getting 4.1.2 on their tablets with a pleasant surprise in store: in addition to the expected bug fixes and performance boosts, the software lets the home screen rotate to landscape mode on the smaller Jelly Bean slate. We're keeping an eye out for when other hardware gets the patch, although it's expected that the Galaxy Nexus, Nexus S and Xoom will follow quickly enough.
+
+ [Image credit: EETimes]
+
+

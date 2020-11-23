@@ -1,0 +1,6 @@
+
+ 
+8GB of flash storage is currently the best you can hope for in a standard (though imported) Eee PC. However, if you're industrious and determined enough, you can marry your 4GB Eee with a $150 (or so) 16GB Corsair Flash Voyager drive for a full 20GB of storage. That's exactly what Johnx did over at eeeuser.com. He even integrated Bluetooth like we've seen before. Best of all though, the new NAND and Bluetooth radio are not soldered to the system. Rather, they are fitted to a pair of newly installed, internal USB ports slung off the miniPCIe connector. Thus, the system can be upgraded at any time. All hail Johnx... king of the Eees! [Thanks, chainofcommand02]
+      
+
+ 

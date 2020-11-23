@@ -1,0 +1,6 @@
+
+ 
+There's a lot we already know about Logitech's Revue with Google TV, and after our walkthrough on Saturday's Engadget Show, we also know just how NSFW the search results can be. All jesting aside, we did notice some amount of stuttering during our testing, and now we know why: for all intents and purposes, it's a netbook. The knife wielding gurus over at iFixit tore into the Revue in order to see what kind of internals were powering it, and sure enough, a 1.2GHz Atom CPU was at the core. That's marginally faster than the 1GHz A4 housed in the newest Apple TV, but there's a lot more to process here than on Cupertino's darling. There's also 1GB of DDR3 memory as well as a grand total of 5GB NAND Flash (split between a Samsung and Hynix chip). Essentially, the hardware here is on par with netbooks from fall 2008 (the Dell Mini 9 is accurately mentioned), with "tons of open space" allowing the box to stay cool under pressure. So, you down with paying $300 for hardware you could've scored two years ago, or are you just now realizing that a basic HTPC isn't that hard to setup.
+      
+
+ 

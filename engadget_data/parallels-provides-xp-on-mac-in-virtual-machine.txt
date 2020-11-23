@@ -1,0 +1,6 @@
+
+ 
+While itprobably won't get nearly as much hype as Apple's Boot Camp, the newbeta of Parallels Workstation could actually prove to be more useful for Mac owners than the Apple boot manager.Parallels Workstation 2.1 Beta for Mac OS X creates a virtual machine on an Intel-based Mac, allowing the owner toinstall any guest OS compiled for X86, including Windows XP, Linux or MS-DOS (hey, why not?). This could allow Macusers who need to run an occasional Windows app to do so without having to reboot first -- though they'll need enoughRAM and processing power to run both OS X and the virtual machine simultaneously. While other apps, includingMicrosoft's Virtual PC, have offered similar functionality for Power PC Macs, they required processor emulation,seriously undermining performance. By contrast, Parallels Workstation (available as a free beta) is said to provide"near native" performance, which might be enough for users who need to run Visio, Project,  or one ofthe many other Windows-only productivity apps -- though gamers will probably still want to use Boot Camp and keep justone OS running at a time.[Thanks to everyone who sent this in]
+      
+
+ 

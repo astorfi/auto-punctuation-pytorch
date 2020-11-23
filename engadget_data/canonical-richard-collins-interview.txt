@@ -1,0 +1,66 @@
+
+ Don't ask, don't get. That's why we rang up Canonical and requested an early build of Ubuntu for the Galaxy Nexus. (Politely declined.) Next, we asked if maybe the company could speed up development of its dual OS solution for Android, since we're really looking forward to it. (Funny looks.) Finally, we wondered if there was any possibility of dropping by the London HQ and interviewing someone in charge. ("Come on over!") We promptly found ourselves sitting across a desk from Richard Collins, who left the Symbian Foundation 18 months ago to work at Canonical, and who has a very firm grasp of how Ubuntu is going to be hauled into the mobile era. He explains everything after the break, so if you have a big OS-shaped gap in your belly, or if you're just intrigued to hear the proposition of a new player, read on.
+
+
+
+ Ubuntu for Smartphones 
+ How is Ubuntu on a smartphone really the same Ubuntu we know from desktop PCs? 
+ It's the same code base, with our Unity UI, adapted to provide a very particular experience according to the device it's running on. That makes it straightforward for developers to say, "here's an Ubuntu application that I know works brilliantly on the desktop, I only have to adapt it using the tools that Ubuntu provides in order to make it work on a smartphone."
+
+ But legacy desktop apps will still have to be ported?
+ Legacy apps will have to be adapted. They'll need to compile on ARM processors, but that's not a significant amount of work. When we start launching products, we'll include an SDK which will allow developers to build apps which work on both the smartphone and the desktop interface.
+
+  More Info   Hands-on with Ubuntu for smartphones  Canonical's Mark Shuttleworth at CES 2013  Ubuntu core apps project launched  Since Android is also Linux-based, is there any plan for Ubuntu to run Android apps? 
+ Many Android developers already use Ubuntu as their desktop OS and we have a very close affinity with them. We intend to encourage them to make their Android applications run on Ubuntu, but we won't engineer any middleware for running Android apps. Developers are intelligent and capable enough to make their apps run on our devices. We have an active initiative right now to directly help them achieve this. [See More Coverage below.]
+
+ Will you have a full app store ready for the launch of your smartphone? 
+ In terms of our first go-to-market product strategy, the intention is not to have an application store full of ready-made applications that are there to download. We have a very definite approach in terms of addressing an important part of the market where users are primarily interested in being able to use a core set of applications.
+  "The intention is not to have an application store [at launch]"
+
+ You're saying people interested in low-cost phones don't need lots of apps? 
+ At launch, we'll have the capability for a mobile app store, but at this stage we don't believe it is essential for the entry-level smartphone market we're targeting. However, we won't just be saying "there's your basic applications, that's all you're going to need." Our strategy includes giving carriers and manufacturers ways of delivering services in conjunction with us -- we plan to give them more influence.
+
+ Do you want people buying your entry-level phone, in China for example, to know the Ubuntu brand?
+ Yes, of course. I want them to associate Ubuntu with a very interesting, relevant and enjoyable experience. The challenge for us is to take the success we have with developers, with enterprises, and take that into the consumer market.
+
+ Budget rivals 
+ Are you going after the same market as Mozilla's Firefox OS?
+ [Mozilla] has a very particular type of technology. We believe that a rich user experience requires a native capability -- it can't be entirely addressed by a phone that only runs web applications. Web apps sit on servers in different parts of the internet, so it's hard for them to interact and share information.
+
+ You're also going up against Nokia's Asha series running on S40...
+ Nokia's S40 is only defined as being a low-end smartphone platform. Ubuntu is engineered to run across different devices, and it's engineered to scale up to higher-end devices.
+
+ High-end rivals  What advantages do you have over Android as a smartphone OS?
+ With Android, it's implicit that if you want to run Google services then there's a levy associated with that. Our model is entirely different. We're working with industry partners who want to have more influence over the way services are provided to end users. We won't try to lock people into licensing our services.
+
+ Windows already straddles the divide between x86 and ARM. Has Microsoft stolen a march on you?
+  "Microsoft generates uncertainty and conflict..."
+
+ We compete with them, in that sense. There are ways in which Windows is a very costly OS to build hardware on. We have an alternative approach that is more software-based, more collaborative, more open, and offers more promise for developers who want their apps to run on desktops, phones, TVs and so on.
+
+ Microsoft generates uncertainty and conflict in the way it's trying to gain market share. They're in conflict with their own hardware partners. There's a very different stance in the way we propose to work with people.
+
+ Ubuntu for Android 
+ Many people are waiting on mobile Ubuntu because they want to see boundaries pushed and the market disrupted. Won't your first phone jar with those types of users?
+ Not if we're clear about where we want to take Ubuntu. We're planning to very quickly follow our initial launch with a high-end converged device, which will have high-performing system components that will allow Ubuntu to run as a desktop OS when docked. It'll also have full access to the Ubuntu Software Center. So we need to be clear about our roadmap -- we don't have tunnel vision around low-end products.
+
+ Speaking of which, are you okay with how long it's taking Ubuntu for Android to come to market?
+ It takes a long time to release a software-based product and turn it into a hardware-based product. But I can tell you that you might not have much longer to wait before you see something on that side.
+
+ Makin' money 
+ You're not going to be like Microsoft or Google, but how will you make money?
+ The simplest model would be per-unit licensing. Then there's also the fact that hardware manufacturers and carriers don't want to focus on software. They want people like us to manage that on their behalf and it might be possible to commercialize that.
+
+ So you'd directly look after the software -- including updates, for example?
+ Yes, absolutely. There's no fragmentation in terms of the way we will progress our OS. Each update will come on a six-monthly basis and manufacturers will be able to rely on that. They'll be able to deliver their services without worrying about OS versions.
+
+  More Info   Ubuntu for Android -- prototype hands-on  Ubuntu lands on Nexus 7 slates  Kite tablet flies Android 4.0 and Ubuntu 12.04  How would those services run regardless of OS version?
+ Because often those types of services will be web-based. With Ubuntu, web applications can feel more like part of the main operating system. We can make them feel very native.
+
+ Will you try to advertize on mobile Ubuntu?
+ That has to be done in conjunction with carriers and manufacturers. But part of what we're doing with the OS is providing direct access to services that the user has subscribed to, and putting them in the main UI -- like with Amazon.
+
+ The Future Where do you want to be in two years' time? 
+ I want to be shipping in mass volume, in the millions of units, and for Ubuntu to be recognized globally as one of the major platforms. Our analysis says there's the opportunity to gain a 7-8 percent market share by 2016. There's a window of opportunity for a new player to capture that kind of share.
+
+

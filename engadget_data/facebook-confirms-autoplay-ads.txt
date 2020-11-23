@@ -1,0 +1,8 @@
+
+They've been a long time coming, but Facebook's new video ads are finally here. Confirming an earlier report from the Wall Street Journal that said they'd launch this week, the company said it will test promoted videos on a limited number of users' News Feeds, kicking off with mini trailers for the new film Divergent. Leaning on a model utilized by Instagram, Facebook's video ads will automatically play when they appear onscreen -- although sound will be muted on both the desktop and mobile, unless you deliberately click on the video. Facebook has also worked around the question of load times and mobile data caps, choosing to cache the videos on your device ahead of time while you're connected via WiFi, even if they don't play until later. While you won't be able prevent the new ad units from popping up, they can be avoided with some quick scrolling, just like you did with Facebook's other sponsored content.
+
+
+
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+ 

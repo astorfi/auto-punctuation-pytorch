@@ -1,0 +1,5 @@
+
+ 
+ATI just announced its latest greatest polygon cruncher on the planet: the previously leaked Radeon HD 5970. The new card card is also one of the first to support Microsoft DirectX 11 and Eyefinity multi-display (driving up to three displays at once for a 7680x1600 maximum resolution) with ripe potential for overclocking thanks to the card's Overdrive technology. Instead of relying upon a single GPU like the already scorching Radeon HD 5870, the 5970 brings a pair of Cypress GPUs linked on a single board by a PCI Express bridge for nearly 5 TeraFLOPS of computer power, or a mind boggling 10 TeraFLOPS when setup in CrossFireX. Naturally, the card's already been put to the test by all the usual benchmarking nerds who praise the card as the undisputed performance leader regardless of game or application. It even manages to keep power consumption in check until you start rolling on the voltage to ramp those clock speeds. As you'd expect then, ATI isn't going to offer any breaks on pricing so you can expect to pay the full $599 suggested retail price when these cards hit shelves today for retail or as part of your new gaming rig bundle. 
+
+ 

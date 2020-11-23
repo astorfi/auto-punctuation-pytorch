@@ -1,0 +1,26 @@
+
+
+As you probably know, Huawei is one of the many Asian mobile companies that are obsessed with phablets due to local demand. As such, it's no surprise that there's a follow-up model to the 6.1-inch Ascend Mate 2. Announced at IFA just now is the slightly smaller 6-inch Ascend Mate 7 (yes, somehow it skipped four model numbers), which, as you've probably already seen in the leaks, features a fingerprint reader on the back. As it turns out, unlike the traditional swipe-style scanner on, say, the similar-looking HTC One Max, the Mate 7 uses a more convenient one-touch sensor similar to that of the iPhone 5s. 
+
+
+
+
+
+The dual-SIM Mate 7 comes in at 157 mm tall, 81 mm wide, 7.9 mm thick and 185g (0.41 pound) heavy, all of which beat their counterparts on the predecessor. The solid body mainly consists of matte aluminum alloy, and its design could come across as a sibling device of the 7-inch MediaPad X1. That does mean this phablet also has a bulky look, but the diamond-cut edges on the back do provide some ergonomic comfort. What's obviously different this time is that the 6-inch display packs a much sharper 1080p resolution (368 ppi) -- as opposed to just 720p on the previous two Mate models -- underneath the slab of Gorilla Glass 3. It's got great viewing angles and vibrancy.
+
+
+The fingerprint reader on the back can be used to unlock the phone (even when on standby) plus access locked files and apps, but unlike the HTC One Max, you can't assign fingers for toggling actions or apps. Regardless, for me, the sensor is placed on the sweet spot and has rarely failed to identify my index fingers (you can enroll up to five fingers). Huawei even claims that it can read sweaty fingers, but they obviously can't be too wet.
+
+As one of the few mobile phone makers who has the capability to develop its own chipset, Huawei's thrown in its very own Kirin 925 SoC for its Mate 7. This piece of silicon consists of an octa-core (quad-core 1.8GHz A15 and quad-core 1.3GHz A7) processor, 2GB or 3GB of RAM, Mali T628 GPU, i3 low-power sensor hub, integrated LTE Cat 6 modem (downlink up to 300 Mbps) and a security engine trust zone that stores the encrypted fingerprint data. Huawei claims that this trust zone can't be accessed by third-party software, plus the data is protected by the system signature, meaning it can't be forged or modified by malicious apps. This sounds a bit like how Apple's A7 chip deals with the fingerprint data on the iPhone 5s.
+
+
+Given the Mate 7's large body, Huawei's able to stuff a generous 4,100mAh battery inside it, which is plenty especially when used in conjunction with the low-power Cortex-A7 processor cores. At least that's the case when the chipset is able to properly toggle between the different power modes; though we'd be more interested in finding out how efficient the integrated LTE modem is. Alas, for some reason, Huawei hasn't included quick-charge technology here, so the depleted battery would take 3.5 hours to be fully charged.
+
+The Mate 7 packs a 13-megapixel camera with Sony's fourth-generation BSI sensor and f/2.0 aperture lens, along with a 5-megapixel front-facing camera. Both offer live beautification mode as well as a range of filters to play with, and you can even long-press the fingerprint reader to take photos, which is convenient for selfie addicts. The main camera -- which is also where the NFC point is located -- also offers an all-focus mode that takes several consecutive shots with different focal points, and afterwards you can tap on different areas to refocus the image, but we wish the switch between the focal points could be more seamless. Another interesting camera feature is the "Online Translation" tool that lets you capture a block of text, and then see a translation displayed on top, but so far we're seeing mostly garbled text so it certainly needs fixing.
+
+
+Despite the aforementioned bugs, Huawei's Android 4.4-based EMUI 3.0 is a nice improvement from the previous version, as it features more minimalistic interfaces and prettier icons here and there (you can download and change themes as well). You also get some handy features like the built-in pedometer, motion control (flip to mute, reduce ringtone volume when picking up the phone and answer or make calls when you raise the phone to your ear), navigation bar customization and "One-hand UI" mode that pushes the dialpad, keyboard and navigation bar to one side of the phone for single-hand usage.
+
+The Mate 7 is due to arrive in Europe (UK, Germany, Italy, France and Spain), Hong Kong and China sometime this quarter with black, silver and gold color options. There will be two versions and neither will be affordable: There's the €499 (about $660) version with 2GB RAM and 16GB storage, and the premium €599 (about $790) version with 3GB RAM and 32GB storage (both support microSD expansion using the nano-SIM tray). Well, all we can say is good luck with selling those, Huawei!
+
+

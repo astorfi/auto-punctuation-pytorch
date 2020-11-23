@@ -1,0 +1,9 @@
+
+       Wake the kids, phone the neighbors, the graphical new version of the iPhone unlocking software is now out, official, automatic (or as much as it can be) and free. Developed by the iPhoneDev team, the new software makes opening up your iPhone to any GSM carrier simple as pie. According to the Dev Team, "This new version needs only be copied over to the phone and executed, it's full automatic. No more needs for fls or extract bin files out of the nordump. It should also cut the time down to max. 3-5 minutes." We'll bring you more just as soon as we get hands-on with the new wares (eh hem, all our iPhones seem to be unlocked at the moment) and as long as Apple doesn't drop the hammer with a new iPhone firmware release. We know it's coming, and chances are it will wreak havoc with the unlock.DownloadEU mirrorUS mirrorUpdate: Not so dummy-proof Instructions and more after the break.Update 2: GUI version is now out.
+ 
+
+Here's the latest from the iPhoneDev team:"It works like this:  upload all 3 files to your phone in some location you prefer  ssh in  run iUnlock_Reloaded (./iUnlock_reloaded)  be happy if its doneThe push the button iCandy gui version is not yet released [because] of troubles [with] the new toolchain. Will be out in a few once toolchain is fixed up."
+
+       
+
+ 

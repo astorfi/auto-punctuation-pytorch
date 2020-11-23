@@ -1,0 +1,8 @@
+
+  Sure, you can run Linux on robots and on desktops and, apparently, on small cats, and we've also seen it on plenty of tablets before, but this one is a little different. Max Lee over at Galaxy Tab Hacks created the video below to demonstrate a Samsung Galaxy Tab 10.1 running Ubuntu, but doing it on top of Android such that the tablet's native OS is running Linux in the background and then using a VM client to launch the UI. In other words: it's running both operating systems at once, and despite that we think the results are quite usable, even loading up this very website with aplomb. It's demonstrated after the break and if after watching you just gotta get a piece of that the full instructions are on the other end of the source link below.
+
+
+
+
+ 
+ 

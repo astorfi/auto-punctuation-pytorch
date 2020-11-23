@@ -1,0 +1,28 @@
+
+
+
+Ever read your car's instruction manual? We didn't think so, and apparently, neither did the folks at Audi. Not too long ago, the firm introduced a unique twist on vehicle documentation, offering A1 owners an augmented reality app that could tell them about the car's basic functions at a glance. The eKurzinfo app's initial release only recognized 65 elements of the vehicle -- but has since been improved and is now available for the A3 sedan. Say you notice the car's new-fangled temperature gauge, but don't quite understand how it works. Point your phone at the instrument cluster, load up the app and it will explain that when the LEDs reach the top part of the display, the engine temperature is too high. Simple. The app will even show you where to find the coolant refill tank under the hood.
+
+
+The app's developer, Metaio, says the upgraded eKurzinfo can recognize over 300 individual aspects of Audi's A3 -- from the smallest details like insignias on the car's windshield wipers to individual engine components. This should be more than enough data for drivers who are opposed to the traditional approach of RTFM (reading the freaking manual).
+
+
+
+
+
+
+
+
+Show full PR textMetaio & Audi AG Release Interactive Augmented Reality Manual
+Munich & San Francisco, 12 August 2013: Metaio, world leader in augmentedreality (AR) software and solutions and AUDI AG - global leader in luxury vehicles, today announced the release of the Audi A3 eKurzinfo augmented reality mobile application, available for free download on iOS devices in the App Store. 
+After the success of the Audi eKurzinfo app for the Audi A1, which was nominated for the 2013 GSMA Global Mobile Awards for Best Mobile Solution for the Automotive Industry, Audi AG has extended the availability to the new Audi A3.
+
+The new app can recognize over 300 individual elements of the Audi A3 – from the insignia on the windshield wipers and entertainment system to actual engine components under the hood – in order to return relevant how-to information or even virtual overlays of maintenance instructions animated in real-time 3-D. Metaio's cloud-based architecture pushes digital information directly to the device, meaning the user will never have to update the app.
+
+The new design of the Audi A3 eKurzinfo app brings the most intuitive user experience with it: using Metaio's latest 2-D and 3-D augmented reality tracking technology, the user positions the camera of the mobile device directly over individual vehicle elements, instantly detecting and returning information on the desired subject. For example, after scanning the engine compartment, the app would return information with an animated overlay showing how to locate the engine coolant and refill it to the appropriate level.
+
+The Audi eKurzinfo app is available in English, German and Japanese.In the future, Metaio sees visualization technology decreasing the need for lengthy, costly and complex user manuals. Car owners should be able to access information instantly and directly from the car itself.
+
+"After the remarkable success of the first version of the eKurzinfo application, we are delighted to continue our partnership with the Audi AG. We see enormous potential in the field of interactive service applications. In the future it will be possible to automatically retrieve the specific information relevant in a certain situation", Dr. Thomas Alt, CEO of Metaio.
+
+

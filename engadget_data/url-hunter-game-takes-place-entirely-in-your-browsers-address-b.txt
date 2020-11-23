@@ -1,0 +1,4 @@
+
+ 
+That's right, kids: the tyranny of the browser window is over! Thanks to Corey from ProbablyInteractive (as well as clever use of HTML5 and the Canvas tag), we now have URL Hunter. Using the left and right arrows keys, the player controls an ASCII "O" that has nothing better to do all day but kill the letter "a." When you find yourself on top of the "a" key, hit the space bar to earn a point. Simple? In theory, yes. But trust us -- It's harder than it sounds! Hit the source link to try for yourself.
+ 

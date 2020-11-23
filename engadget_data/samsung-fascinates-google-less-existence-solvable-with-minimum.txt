@@ -1,0 +1,8 @@
+
+ 
+We'd previously heard from Verizon that you'd be able to install Google search functionality once Android 2.2 gets rolled out (in other words, they wouldn't actively block the app that's supposed to be available on any device running Froyo), but if you can't stand Bing, it turns out that you can fast-track the process in the current 2.1 firmware with very little effort. Basically, you download Google's enhanced search APK -- which is blocked from the Market in 2.1, so you need to download it and install it outside the Market proper -- then use a third-party launcher like LauncherPro to add the widget and reassign the search button. Voice search still requires root to get working properly, but it is possible, so yeah -- user community, one; Verizon-Bing search deal, zero.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

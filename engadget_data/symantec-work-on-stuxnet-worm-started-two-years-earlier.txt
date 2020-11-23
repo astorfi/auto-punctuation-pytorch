@@ -1,0 +1,7 @@
+
+ 
+ Most of us think we know the tale of Stuxnet: it's a possibly government-sponsored worm that played havoc with Iranian centrifuges in 2009, setting back the country's uranium enrichment program without involving any traditional weapons. Researchers at Symantec, however, now claim there's an untold narrative. They've discovered a Stuxnet 0.5 version that may have been in development or active as soon as November 2005, two years before the commonly accepted timeline. It first surfaced on trackers in November 2007, and would have created wider-ranging chaos at Iran's Natanz nuclear facility by closing vital pressure valves instead of using the subtler centrifuge technique.
+
+ Symantec also noticed that this pre-1.0 malware shares traits with the Flamer code base, putting it in the context of an even larger effort than seen so far. Moreover, it would have required extensive knowledge of the Natanz infrastructure -- this was no casual attack, according to the researchers. While we may never know exactly what prompted the revamp, IAEA evidence suggests that Stuxnet wasn't truly effective until the better-known version came into play. We mostly know that modern cyberwarfare had its fair share of growing pains -- and that it's not as fresh-faced as we assumed.
+
+

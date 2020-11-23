@@ -1,0 +1,10 @@
+
+ 
+If you've ever wondered whether two-factor authentication systems actually boost security, things that spit out pseudorandom numbers you have to enter in addition to a password, the answer is yes, yes they do. But, their effectiveness is of course dependent on the security of the systems that actually generate those funny numbers, and as of this morning those are looking a little less reliable. RSA, the security division of EMC and producer of the SecurID systems used by countless corporations (and the Department of Defense), has been hacked. Yesterday it sent out messages to its clients and posted an open letter stating that it's been the victim of an "advanced" attack that "resulted in certain information being extracted from RSA's systems" -- information "specifically related to RSA's SecurID two-factor authentication products." 
+
+Yeah, yikes. The company assures that the system hasn't been totally compromised, but the information retrieved "could potentially be used to reduce the effectiveness of a current two-factor authentication implementation as part of a broader attack." RSA is recommending its customers beef up security in other ways, including a suggestion that RSA's customers "enforce strong password and pin policies." Of course, if security admins wanted to rely on those they wouldn't have made everyone carry around SecurID tokens in the first place.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

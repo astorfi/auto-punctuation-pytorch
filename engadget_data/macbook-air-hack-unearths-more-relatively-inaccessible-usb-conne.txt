@@ -1,0 +1,6 @@
+
+ 
+Unfortunately, Apple's MacBook Air still only arrives with a lone USB port. Save for using a dongle / hub, there's really been no other way to connect a bevy of USB peripherals to the lappie -- until now. Thanks to a curious hacker with a thing for perusing microchip documentation, he discovered that the internal ICH-8 southbridge chip actually has five low-speed and two high-speed USB controllers. After rolling up his sleeves and finding the correct pins, he was actually able to make the partially exposed MBA recognize and talk nice to a USB flash drive. We know, you USB-lovin' Air owners are already dreaming up ways to add new ports to your slim slab of aluminum, so head on down to the read link if you're ready to work (hard).[Via TUAW]
+      
+
+ 

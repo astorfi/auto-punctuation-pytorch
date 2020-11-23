@@ -1,0 +1,14 @@
+
+ The job of kicking off this year's South By Southwest Interactive conference fell firmly in the hands of none other than MakerBot CEO Bre Pettis -- and really a show like this couldn't ask for a better, more enthusiastic evangelist for emerging technologies. And certainly the fact that Pettis' company has firm ties to the event doesn't hurt matters either. Pettis spent much of his talk espousing the "next industrial revolution," a phenomenon in which he sees desktop 3D printing playing a pivotal role -- MakerBot's 3D printing specifically, if he has his way.
+
+ The company took a big step in that direction with the announcement of the Digitizer Desktop 3D Scanner. Still in its early prototype stages, the device is an attempt to do for 3D scanning what the Replicator and its ilk have done for printing -- i.e. democratize the process in such a way that makes it affordable and user-friendly enough to make it an appealing prospect for hobbyists and, later, consumers. It's hard to say just how realistic that dream is at this point, of course -- the device is set to go up for order in the fall, and Pettis is the first to admit that the company still has a long way to go before the Digitizer is consumer-ready. But if anyone's going to convince us that such a dream is close to coming true, it's the MakerBot co-founder. Click through after the break to hear him discuss the device.
+
+
+
+ 
+ As with the Replicator, the technology driving the Digitizer has been around for some time, and while there's a bit of a land rush to be the first to bring it to market, MakerBot's success has put it in a good position to be, if not the first, then certainly the most prominent example of its consumer-facing side. Broken down to its bare bones, the scanner works by spinning an object and shooting two lasers at it. The webcam mounted on the device picks up the location of the points on the device and digitizes them. Those points are converted into a 3D model on the attached computer. After that, it's simply a process of getting that file to the printer (via USB, SD card or wahtever), which converts them into a 3D plastic object by extruding hot plastic onto a moving platform.
+
+ Game changer? Perhaps. This could certainly go a ways toward democratizing the creation of 3D models -- though CAD knowledge and an artistic streak are still keys if you want to make something out of thin air. Also, as mentioned above, there's still a ways to go on this, and while the company has had some success in testing, there are still some hiccups. But the MakerBot was apparently too excited to hold off on announcing the thing (and we're sure the timing of SXSW helped in the decision). Still, it's hard not to get excited about the direction such a device signals both in the development of an ecosystem for the company and for the future of home 3D printing in general.
+
+ Zach Honig contributed to this report.
+

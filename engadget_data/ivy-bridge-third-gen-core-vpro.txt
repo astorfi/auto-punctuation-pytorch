@@ -1,0 +1,46 @@
+
+ Now that Ivy Bridge has established its presence in notebooks from Acer to Samsung, Intel is unveiling the third generation of its Core vPro processor platform. In its announcement today, the chip maker said this technology will be available on Ultrabooks, laptops, desktops, workstation and all-in-ones. Though the Intel Core vPro platform will work across many PC categories, it clearly has a business bent, with features such as the company's branded Identity Protection Technology for adding a second layer of user authentication and Active Management Technology for remotely managing PC activities and fixing glitches. Along with adding extra protection, the third-gen vPros offer support for up to three external displays and enable HD video conferencing. Skip past the break for even more corporate jargon in the press release.
+
+
+
+  Show full PR text   Intel Strengthens Security, Boosts Performance for Business
+   with 3rd Generation Intel® Core™ vPro™ Platforms
+
+  NEWS HIGHLIGHTS
+   The 3rd generation Intel® Core™ vPro™ processor platform provides businesses and intelligent system designs the security, performance and form factor improvements needed to compute with confidence.
+
+   Embedded security features help businesses protect themselves in four ways: threat management, identity and access, data protection, and monitoring and remediation.
+
+   Future Ultrabook™ devices built with the 3rd Generation Intel Core vPro processor platform are designed to bridge the gap between IT and business end users.
+
+   Enhanced designs help accelerate the move from fixed function and disconnected systems to intelligent systems in retail, industrial and healthcare industries.
+
+ 
+  SANTA CLARA, Calif., May 15, 2012 – Today's IT managers face a range of challenges from complex business processes to sophisticated security threats. Additionally, a number of industries such as retail, healthcare and industrial are turning to technology to develop innovative solutions to solve the unique challenges facing them in an increasingly connected world. To address these challenges, Intel Corporation has announced the availability of its 3rd Generation Intel® Core™ vPro™ processor-based platforms for business and intelligent systems.
+
+   The enhancements to the Intel Core vPro processor platform provide a more secure platform for business computing and drive the next wave of innovation in intelligent systems. The Intel Core vPro processor-based platforms address the realities of today's business climate, where data integrity and organizational efficiency create a competitive advantage. New capabilities embed security at every layer, including the silicon, without compromising performance. Software innovation allows IT managers to set up and configure systems within minutes to quickly implement compelling solutions. Additionally, the enhanced graphics and secure manageability help accelerate the transition and growth in intelligent systems for the retail, industrial, and healthcare industries.
+
+   "With the 3rd generation Intel Core vPro processor platform, Intel is leading the way into a new era, delivering the comprehensive and manageable computing solutions to business that enable them to deal with security threats, while providing the flexibility and form factors users demand," said Rick Echevarria, vice president, Intel Architecture Group and general manager, Business Client Platform Division.
+
+   Businesses can take advantage of the latest Intel Core vPro processor platform through a multitude of devices including Ultrabook™ devices, laptops, desktops, workstations and all-in-one PCs.
+
+  Embedded Security
+   To defend against identity theft, Intel introduced Intel® Identity Protection Technology with public key infrastructure (Intel® IPT with PKI) into Intel Core vPro processors. The technology provides a new second layer of authentication embedded into the PC that allows websites and business networks to validate that a legitimate user is logging in from a trusted PC by using a private key stored in a PC's firmware. Intel has been working with solution providers and online Web properties such as Feitian, InfoSERVER, Symantec and VASCO to take advantage of Intel IPT technology to ultimately safeguard users' identity.
+
+   The latest version of the Intel Core vPro Processor platform also features Intel® OS Guard and Intel® Secure Key. Intel Secure Key, with Intel® AES New Instructions, protects media, data and assets from loss, while Intel OS Guard detects and prevents malware.
+
+   Strengthened security from the Intel Core vPro processor platform and McAfee* includes tools such as ePO Deep Command and allow for secure data exchange across increasingly connected ecosystems such as healthcare where doctor's offices share sensitive information with labs and hospitals.
+
+  Remote Management and Automation
+   The Intel Core vPro Processor family includes Intel® Active Management Technology (Intel® AMT) to remotely manage computing issues. Businesses in a range of industries can use Intel AMT to achieve power savings, remote management and inventory control. For example, retailers with point-of-sale machines, digital signs or other intelligent devices can remotely diagnose and quickly fix problems over their network so customer transactions are not interrupted and sales are not lost. With a typical IT service call averaging $200 in a retail environment, large-scale retailers can save millions of dollars in service calls with the ability to remotely manage thousands of systems using Intel AMT.
+
+   Industrial computing systems can also use 3rd generation Intel Core processors to consolidate multiple automation functions onto one platform so factories can achieve greater efficiencies in managing all devices and systems. Once all devices and systems are connected, factory managers can collect real-time data for decision making, diagnosis and predictive maintenance.
+
+  Intelligent Performance
+   The 3rd generation Intel Core vPro processors continue to enhance the computing experience in all areas, including the use of business intelligence and big data. The 3rd generation Intel Core vPro processors put greater performance in the hands of more information workers, giving them the ability to access and glean insights from all the information accumulating in their data banks, right on their PC. With the power to handle and manipulate this information faster, familiar PC tools such as Excel are evolving to support this process of creating, collaborating and sharing big data insights.
+
+   Additionally, the 3rd generation Intel Core vPro processor family drives significant improvements in compute performance as well as media and graphics capabilities for intelligent systems to meet the needs of compute-intensive applications in retail, industrial and healthcare industries. For example, the support for up to three independent displays makes it possible for a digital sign to drive more displays out of one system versus the previous-generation Intel Core processors. With Intel® Quick Sync Video and Intel® Clear Video HD Technology, medical diagnostic equipment can convert and process digital images and video streams faster, enabling delivery of smoother visuals for healthcare professionals to make timely and accurate diagnoses. The technology also enables end-to-end high definition video conferencing for business users.
+
+   The performance improvements also provide the processing power needed to run real-time analytics applications such as Intel® Audience Impression Metrics Suite (Intel® AIM Suite). Intel AIM Suite is an audience detection technology designed for digital signs and retail solutions that need instant metrics gathering to offer more targeted advertising and advanced measurement.
+
+ 

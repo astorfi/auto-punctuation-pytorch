@@ -1,0 +1,65 @@
+
+
+More Info
+
+Sonos Playbar: a home theater soundbar that wirelessly streams music for $699, we go hands- (and ears) on
+Sonos Playbar appears at the FCC
+Sonos for iOS adds direct device streaming, takes PCs out of the equation (hands-on)
+
+
+Sonos has found a sweet spot in the audio world. Its wireless technology and ability to stream music from almost any source -- be it from the cloud or local storage -- have given it considerable geek cred, yet its simple setup still offers mass appeal. Of course, none of that would matter if its systems didn't sound good, but fortunately, Sonos' Play:3, Play:5 and its Sub have all impressed with the quality of audio they produce. The $699 Playbar is the newest member of the family, and with this product, Sonos is setting its sights squarely on the home theater market. Is it fit for your living room? Read on to find out.
+
+
+
+
+Hardware and setup 
+The Playbar is a handsome, if understated piece of equipment. At 3.35 x 35.43 x 5.51 inches (85 x 900 x 140mm) in size, you'll have no problem fitting it beneath your flat-screen. Indeed, we used it with both a 42- and 47-inch TV, and found the dimensions appropriate in either case. Its exterior is sheathed in black speaker cloth, and has a pewter-colored insert comprising a lengthwise edge on either side of the bar. A pair of matching inset bands rings the mesh grilles on each end -- an echo of the design language of the Sub -- with the Sonos-standard volume toggle, mute button and an LED power light on the right side. The long metal edges are made of extruded aluminum, and the wider of the two makes room for both an inlaid IR receiver and IR repeater strip, along with a notch cut out on the underside for the power, two Ethernet jacks and Toslink port. Build quality is excellent -- the openings are pretty uniform and we couldn't find any visual blemishes on our review unit either.
+
+Aside from providing a nice bit of visual contrast and a place for some minimal Sonos branding, the larger aluminum edge serves as a heat sink for the nine drivers that pump out sound. There are six 8-centimeter (3.15-inch) aluminum cone mids powered by neodymium magnets, and three 2.5-centimeter (1-inch) titanium dome tweeters, and each speaker has its own digital amp. The speakers are mounted in a super rigid, sealed plastic enclosure at a 45-degree angle, and it's that angular sweet spot that's key to providing good acoustic imaging whether the Playbar is mounted on the wall or lying flat on a TV cabinet. Of course, the accelerometer and 800Mhz PowerPC CPU inside also work in tandem to determine the Playbar's orientation and tweak the EQ accordingly to ensure that imaging is perfect.
+
+
+It's not exactly groundbreaking industrial design, but it does have a bit more panache than your average soundbar. Put it this way: it'll fit in with just about any décor, but it's distinctive enough that astute visitors will likely notice and ask about it -- or at least that was our experience while testing it out.
+
+Such simplicity of operation is often difficult to execute, but the boffins at Sonos have made pairing an IR remote about as easy as it can be.
+
+Sonos prides itself on the fact that its systems are simple to install, and the Playbar is no exception. To test that ease of installation, I asked my not-so-tech-savvy girlfriend to hook up the Playbar and a Sonos Bridge, and she had it wired up in less than five minutes. Just plug in the power cord and the Toslink cable to the Playbar, then connect the other end of the optical cable to your TV or other audio source and you're good to go.
+
+Update: You no longer need a Bridge to hook your Sonos speaker (or speakers) to your home network, though having a Bridge gives you a more robust connection. 
+After that, the Playbar prompts you to hit the volume-up button on your TV remote, which allows it to find the proper IR code. From then on, your remote should be able to control the volume on the Playbar. Also, in the event the Playbar doesn't recognize your remote straight away, the Sonos software will walk you through hitting the volume toggle and the mute buttons so that it can learn the correct code and add it to the list on Sonos' servers. That way, future customers won't have to go through those additional steps. That's just one other bit of engineering genius from the Sonos folks. Such simplicity of operation is often difficult to execute, but the boffins at Sonos have made pairing an IR remote about as easy as it can be.
+
+We did hit a slight snag in trying to pair the Playbar and Bridge, despite the Sonos Controller software's clear and easy-to-follow instructions. However, moving the Bridge a bit farther from our router and a quick reset of said router remedied the issue. Then it was simply a matter of hitting the join button on the Bridge and the mute and volume up button on the Playbar, and we were up and running in short order. Once connected, it took about 10 minutes to index the 40GB of music we had on our external hard drive connected via USB, during which time we entered the login info for our streaming services. All told, we went from unboxing to blasting Blind Melon in less than half an hour.
+
+A quick note about our setup. We were forced to connect the Playbar directly to a set-top box because our particular flat-screen's optical-out doesn't switch on when set to an HDMI input. Without the ability to pull audio from whatever was playing on our TV, we had to swap connections between our PS3 and our satellite TV box if we wanted the Sonos' simulated surround sound on either. An inconvenience, to be sure, and something that runs counter to Sonos' simplicity of use ethos. Of course, this shouldn't pose a problem for users who own TV sets without such a limitation, but it's certainly something to consider before spending $700 on a Playbar.
+
+Software 
+We've covered both the Sonos desktop and mobile Controller apps in our previous Sonos reviews, and the user experience remains unchanged since their overhaul a year ago. There are three panes of controls for bigger screens: the leftmost shows all your connected Sonos speakers, the middle displays a queue of tracks and what's currently playing on a selected speaker and the right window displays your available audio sources. At the top are the volume, EQ, play / pause and track controls, and a universal search-as-you-type field. There are also buttons for clearing your current queue or saving it as a playlist, plus sleep timer and alarm settings at the bottom.
+
+All of these features are available on the mobile apps, but are situated within menus, as opposed to being readily available. For example, if you want to tweak the bass and treble settings from the "now playing" screen on the mobile app, you have to tap through no less than five menus to get to the necessary controls. That's hardly an ideal UI; in fact, it quickly became a source of irritation for us. Every. Single. Time.
+
+Despite the somewhat arcane nature of the Controller app, most folks won't have trouble getting comfy with it in a day or two.
+
+Suffice to say that the multi-pane interface of the desktop and tablet Controller apps is a better UI than the mobile version, as it makes more controls readily available and you can easily drag and drop songs into your queue. And, diving through the hierarchy of menus to get at all your sound sources feels more tolerable when you can do so while still being able to control your queue and what's playing. Despite the somewhat arcane nature of the Controller app, most folks won't have trouble getting comfy with it in a day or two.
+
+It feels like Sonos already supports every music service under the sun, but new streaming platforms seem to emerge on a weekly basis these days. That's why Sonos has its Sonos Labs feature, which allows you to test out new services as they become available. It's a little-talked-about feature that Sonos provides, and while there isn't always something new to try out, it is always a pleasant surprise to find a new music provider to explore.
+
+Sound 
+We've said it before, but it bears repeating: the Playbar sounds good when compared to its soundbar competition, particularly when playing music. It's a versatile speaker that coped well with any genre we threw at it, whether it was bass-heavy tracks from Jay Z's The Black Album, ripping guitar solos from Phish: A Live One or vocal anthems from Fun.'s Some Nights. Bass is tight, and vocals are delivered with clarity. Similarly, the Playbar shines during TV and movie audio playback, providing good simulated surround. All in all, it's a considerable improvement over any TV speakers we've ever heard.
+
+Is it a replacement for your home stereo? No. Casual listeners will find no fault with the Playbar's sonic output, but if you're thinking this new Sonos can provide the depth of sound and stereo separation provided by a quality set of desktop speakers or a full component stereo, you'll be disappointed. The Playbar excels as a soundbar, providing a considerable upgrade over your TV's speakers and serving as a capable stereo substitute that provides a convenient way to listen to all of your music.
+
+The Playbar's home theater performance is bolstered by a pair of unique features: Night Sound and Speech Enhancement. Night Sound is aimed at those who prefer late-night TV viewing, but don't want to wake the neighbors. Switch it on, and the dynamic range of the audio coming through the speakers is reduced as the volume is lowered. Soft sounds, like dialogue, become louder, while the louder sounds, like explosions, are softened. It works fine for movie watching, but we found the feature made talk shows sound a bit tinny. All told, we preferred the audio with Night Sound turned off.
+
+Speech Enhancement, on the other hand, was a welcome addition to our TV watching. It works through a combination of lowering bass, adding gain to the center channel while lowering the gains of competing channels and boosting or reducing certain frequency ranges. In practice, the feature is brilliant, as it makes voices sound richer and clearer, particularly when watching the talking heads on the news or ESPN. It's not something you notice until it's switched off, when you realize that onscreen voices suddenly seem muted and muddy in comparison.
+
+Overall, the array of nine drivers inside delivered a well-rounded, room-filling sonic experience.
+
+Overall, the array of nine drivers filled the room with sound, and despite Sonos' reluctance to talk about its products' wattages, the Playbar can really crank up the volume. We're talking wake-the-neighbors loud, and should you be so inclined, we detected no distortion during our (brief) time spent listening at max output. Needless to say, if you're looking for the Playbar to serve as the centerpiece for your next party you won't be disappointed.
+
+Despite the Playbar's well-rounded abilities, we'd be remiss not to mention just how much better the listening experience is when it's paired with a Sonos Sub. For all the Playbar does well, it lacks the low-end punch of a subwoofer, and we sometimes missed that capability, particularly when watching movies. Those six 8-centimeter drivers simply cannot deliver the low, rumbling bass that is integral to a truly great theatrical experience. That's not to say the Playbar doesn't deliver good home theater audio on its own; it's just that having heard the soundbar in concert with the Sub, without one, it's a noticeably diminished experience. Naturally, home theater sound can be improved further by deploying a couple of Play:3s as satellite speakers to create a true 5.1 surround system, but adding the Sub is what really fills in the Playbar's sonic gaps.
+
+Wrap-up 
+Sonos' Playbar is an expertly constructed, excellent-sounding soundbar, but at $700 it poses a significant challenge; it's hardly an impulse buy. Pair it with a Sub for a truly great home theater audio experience, and that tally rises to $1,300 or $1,400 (not counting another $50 for a Sonos Bridge). An extravagant sum when compared to, say, Vizio's forthcoming highly regarded soundbar and wireless sub system.
+
+Vizio's offering will stream music via Bluetooth, comes with a pair of satellite speakers and delivers near-Sonos quality sound for a mere $329. However, you don't get the all-in-one music streaming solution of the Sonos Controller, the Playbar's robust and well-engineered hardware, nor the elegant simplicity of setup that only Sonos provides. So, while the Playbar may not necessarily represent the best bang for your buck when it comes to home theater systems, it does offer a superior user experience -- and if you have the financial means, you won't be disappointed by its performance. Put it this way: this is one review unit we wish we didn't have to send back.
+
+

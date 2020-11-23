@@ -1,0 +1,6 @@
+
+ 
+Finally, your mind-exploding, breakdown-inducing struggle to keep your houseplants watered regularly is getting a little help. A group called Botanicalls has come up with a method to monitor your plants remotely, then be Twittered when they need some water. Taking a slightly different direction than the ThirstyLight, the system is based around the popular (and versatile) Arduino board, which is combined with a DIY moisture sensor, and a small piece of code that will alert you when your greenery is starting to need a drink. Look, we'll be honest with you: it's a pretty complicated process to go through just to figure out when your plants need water, but if you're as serious about flora as we think you are, this will be a dream come true.[Via Make]
+      
+
+ 

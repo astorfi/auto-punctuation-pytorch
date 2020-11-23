@@ -1,0 +1,28 @@
+
+ SimCity is in shambles. Not the virtual cities built within its digital confines, mind you, but the game itself. The reboot of EA Maxis' classic SimCity this week has been a roller coaster of emotions, with positive reviews and fanfare pushing hype levels past 11... all of which fell apart just after midnight on Tuesday morning when the game launched to a crushing response from fans. Unlike many games, including previous SimCity entries, the new SimCity requires a constant connection to EA's servers. It requires a connection regardless of whether or not you choose to play with others, even -- a bold move, and one that was met with much wariness among gamers when announced last year.
+
+ Given the mass popularity of the SimCity series and the glowing praise the game received ahead of release from press, it was no surprise that the sheer number of customers trying to snag the game -- and subsequently, play it -- overwhelmed EA's servers. The result? Days of choppy play, or, more often, an inability to access the game at all. Worse yet, EA's started shutting off parts of the game in hopes of lowering server loads across the board, which (understandably) angered many players. So, how did we get here?
+
+
+
+ 
+ First, we need to acknowledge that we've been here before -- with EA, even. The publisher has a history of rocky online game openings, from its Battlefield series to the launch of Star Wars: The Old Republic last year. The company even goes out of its way to test server load issues ahead of time in beta, though it seemingly never amounts to smooth operations from the start. But perhaps we're getting ahead of ourselves; the reason these games have such tremendous issues at launch is fairly simple, though there isn't a simple solution. We asked Joystiq's EIC, Ludwig Kietzmann, to break it down:
+
+  This will always happen, because it isn't feasible to truly test the real world's influence on the game once it launches. Betas and projections can shape expectations, but you don't really know all of the complexities that emerge from hundreds of thousands (or millions) of remote connections until they hit you.
+
+  The circumstances at launch are especially severe and unique to a small part of the game's lifespan, which is probably a difficult point of consideration for the people that pay for the game's servers and operational costs. How much is the business willing to spend on flattening that first bump, without being too pessimistic? And, on the designer's level, is it too optimistic to build a game with an online-only impetus?
+
+ Game launches are peak usage times; the number of folks playing SimCity this week is likely far higher, concurrently, than it will ever be in the future. That said, even if demand does increase down the road, the folks at EA will have time to scale up accordingly. And thus, you get games with required internet connections running into the same problems over and over again at launch. Worse, there doesn't seem to be a way to fix that (other than cutting out the internet requirement in offline games, of course).
+
+ 
+ So, how do we get past this issue of broken online games and upset gamers? It's not clear that we'll be able to anytime soon. It makes little sense for publishers to invest heavily in servers ahead of a major online game's launch when it's possible that those servers will be quickly abandoned by players (see: EA's The Secret World, Age of Conan and Star Wars MMOs for recent examples of just that). At the same time, no developer wants their game to run poorly (or not run at all) at launch, especially because too many people are interested in playing said game.
+
+ Of course, EA's promising more servers and smoother operation in the coming days. EA Maxis Senior VP and General Manager Lucy Bradshaw told us via email:
+
+  Our priority now is to quickly and dramatically increase the number and stability of our servers and, with that, the number of players who can simultaneously access the game. We added servers today, and there will be several more added over the weekend. We're working as hard as possible to make sure everyone gets to experience the amazing game we built in SimCity.
+
+ That said, with the weekend coming (and with it, a renewed flood of traffic), it doesn't look like SimCity's many mayors worldwide will be able to get to building just yet. And sadly, we'll assuredly face this same scenario again, and likely this year, albeit with another game that requires the internet and holds cache with gamers -- The Elder Scrolls Online, anyone?
+
+ 
+ SimCity, sadly, is in shambles, and will remain so until EA sorts its server issues. All we can do is hope that's sooner than later -- the latest update from the SimCity Twitter account, however, isn't very encouraging. In the meantime, we suggest SimCity 2000 -- which is free of server issues, and full of delight -- for both Mac and PC right here, for just $5.99.
+

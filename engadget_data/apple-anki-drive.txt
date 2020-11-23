@@ -1,0 +1,37 @@
+
+Apple is just starting its WWDC keynote this morning, but it's already announcing something quite interesting: a new company called Anki and its inaugural iOS app called Anki Drive, which centers around artificial intelligence and robotics. The name, which is Japanese for "memorize," features smart cars that are capable of driving themselves (although you can certainly take over at any time) and communicate with your iPhone using Bluetooth LE. These intelligent vehicles, when placed upon a printed race track, can sense the track up to 500 times a second. The iOS-exclusive game is available as a beta in the App Store today, which you'll need to sign up for -- the full release won't be coming until this fall -- and it's billed as a "video game in the real world." According to the developers, "the real fun is when you take control of these cars yourselves," which we can definitely attest to -- the WWDC demo cars had weapons, after all.
+
+
+
+
+Show full PR textWelcome to Anki
+
+www.anki.com/blog
+
+By Boris Sofman – Co-founder & CEO
+
+Welcome to Anki. We're thrilled you're here.
+
+At Anki, our aim is to bring artificial intelligence (AI) into people's everyday lives.
+
+We're passionate about AI and robotics, and we know these advanced technologies are more than just science fiction. We want to harness them, to interact with them, to be entertained by them, and use them to do things that have simply never been done before. We believe the time is right to bring AI out of robotics labs and research institutions and into life.
+
+Five years ago, my co-founders and I sat around a kitchen table and dreamed up the idea of the Anki platform. Countless algorithms (admittedly, many failed attempts), late nights, napkin sketches, and prototypes later, we realized that we just might be onto something.
+
+The first manifestation of that "something" is Anki Drive. We gave our very first sneak peek of Anki Drive today at WWDC. At first glance, it's a racing game that pits real cars against players and each other – but after playing for a few minutes, you'll see what makes Anki Drive special: We are making the first video games in the real world, and our team has worked tirelessly on the robotics and AI challenges that this presents. Each car is equipped with sensors and intelligent software to make thousands of decisions every second. We use mobile devices not as remote controls, but as drivers for an immersive real-world experience. And we took great care to make sure that despite everything under the hood, the final experience is intuitive and entertaining.
+
+When we look at Anki Drive, we see the first steps of the future of robotics and artificial intelligence being realized. We see an entertainment experience transformed today, and we see countless possibilities in the future.
+
+Anki Drive will be available this Fall exclusively on iOS. Until then, we hope you'll download our app here from the App Store to learn more about the technology that makes Anki Drive possible and sign up for a coveted spot in our beta program to get a hands-on look.
+
+Thank you for joining us for the beginnings of Anki. We're excited to share our story with you and hope you'll come back to hear more about what we're up to.
+
+About Anki
+
+· About Us: www.anki.com/about-us
+
+· Video, "From the Founders of Anki": http://youtu.be/GnI5hL6ii7g
+
+· Video, "Anki Drive First Look": http://youtu.be/KY34boeZzbo
+
+

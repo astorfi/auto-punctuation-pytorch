@@ -1,0 +1,10 @@
+
+ 
+
+Ever since we first saw it at CTIA, T-Mobile's been advertising its lovely G2x superphone as a quadband HSPA+ capable device. Based on the published specs in press releases and even on T-Mobile's own website, there wasn't any reason to believe that the G2x wasn't compatible with AT&T's 1900 / 850MHz 3G bands, in addition to supporting T-Mobile's 1700MHz "4G" (AWS) flavor and Europe / Asia's 2100MHz standard. This made perfect sense -- especially in light of AT&T's plans to acquire T-Mobile -- until people started purchasing and unlocking the handset. Reports quickly came trickling in that the G2x was unable to connect to AT&T's 3G network, something we verified after unlocking our review unit. That's when we decided that perhaps this was a restriction in the baseband software rather than a hardware limitation, so we reached out to T-Mobile for comment, and received the following statement:
+
+The T-Mobile G2x fact sheet, attached [PDF link], contains accurate information. The T-Mobile website is incorrect and we're working to correct it. The G2x supports 850/900/1800/1900 MHz for 2G/GPRS only, and supports 3G/4G UMTS/HSPA+ bands I and IV. The G2x does not support AT&T's 3G bands. This banding is hardware based.
+This is obviously unfortunate news, and is clearly a major faux pas on behalf of T-Mobile. It's particularly disturbing since we were so certain of the G2x's quadband 3G support when we discussed it in our last mobile podcast. Oh well, you live and learn, eh?
+      
+
+ 

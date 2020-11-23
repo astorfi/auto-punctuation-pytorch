@@ -1,0 +1,11 @@
+
+ 
+
+It's a well-known fact that China's Great Firewall isn't particularly friendly with certain foreign online services, and sadly, it appears that we may now have a new victim joining the likes of Facebook, Twitter and, sometimes, Android Market. According to Windows Phone Sauce blogger Kane Gao, many Windows Phone 7 users in China have had limited access to the Marketplace over the last few days -- they can't download any app, but they can still browse content and receive update notifications.
+
+While Microsoft's service has yet to go live in China, Chinese users could still purchase apps by changing all of their profile location settings to the US. Alas, this trick is of no use now, though it's unlikely that Microsoft's the culprit here -- it wouldn't make sense to block genuine US users who are visiting China. Fortunately, Kane had no problem getting to the Marketplace via a US VPN, which is a big tell-tale sign showing that the Great Firewall has decided to barricade WP7's very own app market. The reason? We'll never know, and there's no telling on whether this is a permanent ban, either. Nokia, being a big player in the country, sure hopes not.
+
+[Thanks, JagsLive and Rahul]
+      
+
+ 

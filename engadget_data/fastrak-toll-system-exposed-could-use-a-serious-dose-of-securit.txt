@@ -1,0 +1,5 @@
+
+ Ah, Black Hat. How we adore you. Each year there's always one speaker who shows up and completely undermines something that most people assume is rock solid. This year, our pals at Hack-A-Day were in attendance to hear Nate Lawson expose California's FasTrak toll system for the security hole that it is. Essentially, toll transponders that are purchased and slapped onto vehicles offer up exactly no authentication, meaning that anyone with an ill will and an RFID reader could wander through a parking lot and lift all sorts of useful information. Think it can't get worse? The transponders reportedly support "unauthenticated over the air upgrading," which means that each tag could be forced to take on a new ID if the right equipment was present. We don't have to spell out "potential disaster" for you, now do we?[Image courtesy of Mindfully]
+      
+
+ 

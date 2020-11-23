@@ -1,0 +1,7 @@
+
+After a quiet couple of days, the Snapchat team has acknowledged a leak in which information for 4.6 million of its users hit the internet. SnapchatDB! posted partially-obscured phone numbers and usernames for many members on New Year's Eve, data it obtained through a security hole the photo sharing service was notified about months ago, but had apparently been slow to fix. In its response, Snapchat says it's pushing an updated version of its app soon that will let users opt-out of the "Find Friends" feature (after verifying the phone number) that required their stored numbers so others could easily... find them. Other changes it says it's made include the rate limiting suggested by security researchers last week and other unspecified restrictions. There's very little there about the users and nothing for those who saw their information leaked; if you use Snapchat, you can find out whether your name is on the list by clicking here.
+
+
+
+ Find Friends Abuse http://t.co/doV5xkwW1Z
+- Snapchat (@Snapchat) January 2, 2014

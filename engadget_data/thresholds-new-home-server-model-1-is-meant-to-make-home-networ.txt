@@ -1,0 +1,6 @@
+
+   
+We didn't really know thathome networking needed fixing, with all the easy to set up devices like plug-n-play security cameras and media extenders thatare popping up lately, but Threshold's new Home Server hopes to bring even greater ease to your home network. Thedevice, in its Model 1 iteration, has an Ethernet hub, USB 2.0, and 802.11b/g connections. The box also contains a webserver, email server, WINS server, and NAS server to keep everything humming on the computer end. To add a device toyour network like a video camera, you scan it across the magnetic "Blue Spot" on the top of the Home Server,which then does all the configuration needed to let you manage the device. The Home Server will go for $300 and shouldbe available in October along with proprietary modules like a motion detector, door/window sensor, and light/appliancecontrol.[Thanks, Brian]
+      
+
+ 

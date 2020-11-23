@@ -1,0 +1,4 @@
+
+If you're jealous of Gmail's newfound talent of opening links directly in Chrome on iOS, Google's released some code that'll help you bake that functionality into your own apps for Apple's mobile OS. By implementing the new OpenInChromeController class with x-callback, devs can have in-app links open in Chrome and let users return to their application with a back button. Developers can even choose if the link opens a new tab in Mountain View's browser. Of course, the feature will only work if Chrome happens to be installed on the iDevice in question. To grab the code and read up on the documentation, click the second source link below.
+
+

@@ -1,0 +1,5 @@
+
+ 
+ You're probably saying to yourself, "didn't Skype just get a Windows 8-friendly refresh?" Why yes, yes it did. But Skype 6.0 here isn't limited to Windows RT slates, instead it's designed for more traditional Windows systems and even has a similarly numbered OS X counter part. There's a number of notable changes here, including the ability to sign in directly with your Facebook or Microsoft account. (If you've got a Live Messenger, Hotmail or Outlook.com account, then you've got a Microsoft account.) The most visible changes, however, will be the "flattened" Don't-call-it-Metro-friendly UI on Windows and the addition of Retina display support on OS X. There's a few other minor changes, including some additional localizations, which you can read about at the source. And heck, since you're already there, might as well download Skype too.
+
+

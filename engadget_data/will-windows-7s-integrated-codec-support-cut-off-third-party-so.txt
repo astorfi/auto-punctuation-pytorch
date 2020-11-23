@@ -1,0 +1,6 @@
+
+ 
+Whoa, we may need to slow down on the celebration over out of the box h.264 codec support in Windows 7, with reports from developers indicating the beta OS blocks the usage of third party decoders under Windows Media Player and Media Center. Of course, the included codec support would obviate third party installs for many users anyway, and until we get an official release candidate we can't be sure how things will stack up in the retail experience. Digitalwerks has run down the sources, noting that third party solutions like VLC and Media Player Classic could still serve as workarounds, but Media Center Extender heads will want to keep a close eye on things going forward.
+      
+
+ 

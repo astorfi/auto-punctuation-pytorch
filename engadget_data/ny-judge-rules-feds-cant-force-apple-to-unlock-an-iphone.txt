@@ -1,0 +1,23 @@
+
+       A US magistrate judge in New York has ruled that the government can't force Apple to help law enforcement unlock an iPhone using the All Writs Act. This case in question is about drug trafficking and is not related to the San Bernardino shooter case.
+      
+
+ 
+While the cases are different, it's a win for Apple in its battle with the FBI and Department of Justice. An Apple senior executive told Engadget that while it's a important precedent, it's not a binding precedent that magistrate Judge Pym in the San Bernardino case is legally bound to follow.
+
+In his order magistrate Judge James Orenstein states: "More specifically, the established rules for interpreting a statute's text constrain me to reject the government's interpretation that the AWA empowers a court to grant any relief not outright prohibited by law."
+
+
+Apple has earlier prodded Judge Orenstein to rule on the feds wanting Apple to help it unlock the phone of Jun Feng who was suspected of conspiracy to traffic methamphetamine. During a search, DEA agents seized an iPhone 5s belonging to Feng.
+
+The government then initiated the execution of a search warrant for the contents of the phone which has a passcode. Apple then submitted an opposition to the order and after additional filings and oral arguments, we're here. Another case with a locked iPhone that the government want's Apple to help unlock and the company rejecting that order. Only in this case, a judge has already ruled and its in Apple's favor.
+
+In the brief, the judge concluded that this is an issue that should be handled by congress. If the government wants to use All Writs or CALEA to force companies to circumvent encryption, there needs to a clear law granting it that power.
+
+One interesting bit of information to come out of today's news is that during a conference call with reporters, an Apple senior executive insisted that Apple has never created or signed any piece of software to decrypt a phone.
+
+The company has handed iCloud backups over to law enforcement when order by the courts. This is in line with the company's remarks that if it has the data, it will comply with lawful orders.
+
+Apple and Department of Justice will argue their cases in front of Judge Pym on March 22.
+
+

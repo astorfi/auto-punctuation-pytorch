@@ -1,0 +1,8 @@
+
+ 
+RIM's been hyping AIR apps and web apps for the PlayBook for a while now, but there's a chance much bigger things are in the works: BGR says the company wants to add in Java compatibility for legacy BlackBerry apps, and that among other options it's considering using the Dalvik virtual machine found in Android to get there. That makes a lot of sense -- Dalvik is one of the most advanced Java(ish) virtual machines out there, and it's open-source, so RIM could conceivably take it and tweak it to work with existing BlackBerry apps, which are built in Java. Clever, clever.
+
+But that's not all: BGR goes on to speculate that using Dalvik will also allow the PlayBook and future QNX devices to straight-up run regular Android apps, which is obviously a much bigger deal than simply using the same virtual machine. Exactly how or why BGR's making that leap is unclear, since running Android apps on the PlayBook would require porting much more than just Dalvik, but it's out there. In fact, it's been out there since December 7, when Fortune picked up a note from Gleacher & Company analyst Mark McKechnie suggesting that RIM was planning to offer Android compatibility, so we're curious if this rumor's just taking another trip through the internet meat grinder. Honestly, our bet is that RIM is far too proud to offer Android compatibility and that it's just investigating Dalvik as a Java environment, but we'd love to be proven wrong -- we'll see what happens.
+      
+
+ 

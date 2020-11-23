@@ -1,0 +1,16 @@
+
+After a couple shot 14 people in San Bernardino, CA before being killed themselves on December 2nd, the authorities recovered a locked iPhone. Since then, the FBI has complained it is unable to break the device's encryption, in a case that it has implied supports its desire for tech companies to make sure it can always have a way in. Today the Associated Press reports that a US magistrate judge has directed Apple to help the FBI find a way in. According to NBC News, the model in question is an iPhone 5c, but Apple has said that at least as of iOS 8 it does not have a way to bypass the passcode on a locked phone.
+
+
+
+In a separate case in New York, Apple is already awaiting a ruling about unlocking an iPhone for the police, as authorities continue to insist encryption is standing in their way. On the other side of the argument, tech companies, privacy advocates and regular end users are arguing that any kind of intentional backdoor access is too big of a risk. Back in 2013, reports said Apple could, and did, unlock iPhones upon law enforcement's request, and it remains to be seen if they can or will return to that state. Apple has five days to respond to the request, we have contacted the company and will update this post if we receive a response.
+
+Update: Apple has responded, with a lengthy letter on its website both insisting on the need for encryption to keep is customers' data safe, and saying that it will not help the FBI by creating a version of iOS with a weakness or backdoor. The company plans to oppose the judge's order and the FBI's demands "with the deepest respect for American democracy and a love of our country." When it does so, it will also have the support of the EFF, which has signaled its intent to file an amicus brief in support of Apple.
+
+What these stories show is that Apple's encryption protections mostly work, and that the DoJ is willing to push as hard as it can.
+
+— Matthew Green (@matthew_d_green) February 17, 2016Stuff like the ten-attempt limit and throttling delays are probably all enforced by software and Apple can almost certainly turn them off.
+
+— Matthew Green (@matthew_d_green) February 17, 2016BREAKING: US magistrate judge in California directs Apple to help FBI break into cell phone of San Bernardino gunman.
+
+— The Associated Press (@AP) February 17, 2016

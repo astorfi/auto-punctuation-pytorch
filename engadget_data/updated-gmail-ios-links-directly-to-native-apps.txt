@@ -1,0 +1,4 @@
+
+The official Gmail app for iOS has been available since 2011, but up until now, links to Maps and other Google utilities have directed users to the browser rather than to the respective programs. A just-released update to Gmail for iOS lets you jump into Chrome, Google Maps, YouTube and other native programs directly from links in your inbox. Those who prefer to keep things browser-based, however, can turn off this new functionality via the app's setting menu. Version 2.2.7182 (granular, much?) also lets you sign out of a single Gmail account rather than having to sign out of them all -- a boon to those of us juggling work and personal identities. Hit up the source link to download the update.
+
+

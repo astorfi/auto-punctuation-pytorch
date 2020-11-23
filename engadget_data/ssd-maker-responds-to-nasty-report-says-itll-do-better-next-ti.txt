@@ -1,0 +1,12 @@
+
+ 
+If you were shaken to your very core at the recent report that SSDs may not be as power-friendly as you'd been led to believe, drive-maker STEC wants to talk you down from the ledge. According to the company's Patrick Wilkison, the Tom's Hardware article which benchmarked (and gave failing grades) to power-consumption of the non-mechanical drives was flawed because, "They are using legacy drives, none of which will be used by any major PC OEM." According to Patrick (whose job, you might note, is to sell SSDs), new versions of the drives will / do have intelligent power management which circumvents the issues that report shed light on. Wilkison goes on to say that, "Drives will need to have very intelligent power management systems. Some of these SSDs will have them, and those (that) do not have such power intelligence will not be used (by PC makers)." So it's sort of like saying a car you buy in the future will get better gas mileage than the one you own now, provided the automaker cares about fuel efficiency. Small solace, we'd say.Update: We've gotten a statement from Micron concerning the report -- you can check it out after the break.
+      
+
+ 
+
+From Dean Klein, vice president of memory system development for Micron:"The controllers analyzed in the Tom's Hardware review are early-generation, multi-chip and in some cases even use FPGA's, which can be quite power hungry. As with many other first and second generation drives, these drives are not delivering on the full potential of the NAND and are not delivering properly on the performance promise. There is another factor to be aware of. If the CPU spends 25 million clock cycles waiting for random HDD data, but only part of that waiting for SSD data, the actual increase in notebook power consumption may be in the CPU. A useful metric is how much processing gets done per watt. If you are willing to scale back performance to that of an HDD-based system, an SSD-based system should deliver significantly longer battery life. Finally, consider that many of today's applications and operating systems are not optimized for SSDs, but for rotating media. As an example, Vista has a background defrag utility that is not needed, and in fact is not desired for SSDs."
+
+       
+
+ 

@@ -1,0 +1,17 @@
+
+ 
+In case you missed it, Watson won again tonight. He even got the Final Jeopardy question correct this time, a multi-layered reference to Bram Stroker that he bet $10k on. His final score over the two rounds ended up at $77,147 (Watson has this thing for betting strange amounts that usually end in a 7), while Ken Jennings got $24,000 and Brad Rutter did $21,600 -- both humans saving a bit of face after last round's stunning defeat. Watson will be giving his $1,000,000 winnings to charity.
+
+So, a few things:
+
+We're totally surprised, in a larger theoretical sense, that a computer could win at Jeopardy.
+We're totally not surprised that Watson, the system built by IBM over the past few years at the expense of millions of dollars, actually succeeded at winning at Jeopardy.
+Computers have better reflexes than humans, as it turns out.
+Deal with it.
+
+If you can't tell, we're having a little trouble processing all the emotions brought on by a Jeopardy win from IBM's Watson supercomputer. It's obvious that IBM's DeepQA research program has developed some of the most sophisticated natural language AI known to man. At the same time, Jeopardy questions aren't really that hard. As evidenced by watching these Watson-dominated matches, all three contestants knew the answer most of the time, but Watson was just quicker on the draw. Of course, it's no surprise that computers have quicker reflexes (even with the "handicap" of having to mechanically press the same style of clicker as Meatbag 001 and Meatbag 002), so why shouldn't Watson get to use his inbuilt advantage to the utmost? It seems like a fair fight to us.
+
+The question of "who is better at Jeopardy" aside (trust us, it's Watson), the larger implications for the human race and our computer sidekicks are still unclear. Watson can currently answer simple trivia questions, sometimes couched in puns or minor riddles, with a decent level of accuracy. The answers themselves are no more than a high school student with Wikipedia access could pull off, and Watson has no way of knowing for sure when he's right. He lacks a solid, computer-readable database of "facts" like a Wolfram Alpha, or the incredible reasoning abilities of a human, instead relying on statistical analysis of vast amounts of text. When it comes to Jeopardy, it turns out to be Good Enough, which is actually a pretty incredible achievement in the world of AI, and we're sure we'll be finding out soon what other applications IBM thinks Watson is Good Enough at -- they're thinking everything from healthcare to the financial industry. Still, we're sure some of us clicker-speed-nit-pickers will remain unimpressed. Make sure to check out the Engadget Show tomorrow, where we'll be chatting up the creators of Watson about all this, but for now... 01000011 01101111 01101110 01100111 01110010 01100001 01110100 01110011 00100001
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+Although we were a little more focused on Windows Phone 7 Series when we went to MIX 10, Microsoft's other big announcement at the conference was Internet Explorer 9, which offers HTML5 support and support for GPU acceleration throughout the browsing experience. We saw a few demos of the system in action at MIX, but this video from NVIDIA does a little better job showing how helpful that extra GPU boost can be -- IE9 running on the Ion 2-based Eee PC 1201PN smokes a regular Atom-based netbook across a suite of tests. What that's going to mean for battery life is up in the air, especially since the GPU on an Optimus system like the 1201PN kicks in automatically, but it's pretty cool to see a netbook browsing the web at almost desktop-like speeds. Check the video after the break.
+      
+
+ 
+
+
+ 

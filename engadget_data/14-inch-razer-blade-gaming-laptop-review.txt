@@ -1,0 +1,85 @@
+
+
+More Info
+
+Razer Blade review (late 2012)
+
+
+Razer reveals the Blade Pro and 14-inch Blade gaming laptops
+
+
+Razer Blade Pro and 14-inch models hands-on
+
+
+Most companies refresh their products on an annual basis, carefully timing development and release schedules to match consumer demand, product obsolescence and component upgrades. It's the norm, an expected pattern that most PC, smartphone and tablet manufacturers follow. Razer, however, completely ignores this cycle, as exemplified by its Blade line of gaming laptops -- already on its third generation in less than two years. This would be less impressive if the firm wasn't a relative newcomer to the game; before it announced the Blade, Razer was known primarily for creating keyboards, gaming mice and console controllers. A fully fledged gaming PC was a jarring departure for the humble peripheral maker.
+
+
+Even so, here we are: reviewing the third-generation Razer Blade gaming laptop. This, too, is a departure from what we've grown to expect from the company -- a smaller, thinner device bereft of the previous model's signature Switchblade interface. For some PC manufacturers, a 14-inch machine might be just another SKU in the catalog. But for Razer, it's almost a mark of progress: not only is the Blade popular enough to necessitate successive generations, but also multiple form factors. It's also the company's lowest-priced laptop yet, not to mention its first to include Intel's new fourth-generation CPU -- but at $1,800 for the base model, it still isn't cheap. Read on to see if the new Blade has enough charm to be worth its lofty price tag.
+
+
+
+
+Look and feel
+It seems strange to applaud the absence of a feature, yet it's the loss of Razer's Switchblade interface that makes the 14-inch Blade an enticing choice. Yes, the configurable, display-laden touchpad is a unique and charming feature, but cutting it allowed Razer to build the smaller, less complex laptop we have here -- and there's grace in that simplicity. Without the flashy interface, the machine instantly becomes more accessible than its predecessors, offering the familiar trappings of mobile computing without the burden of mastering a new input device. Although it's true that the machine loses some charm by abandoning the technology that inspired Razer to build hardware in the first place, the 14-inch model is ultimately stronger without it, retaining all of the gorgeous design aesthetics of its oversized siblings without the extra bulk.
+
+It seems strange to applaud the absence of a feature, yet it's the loss of Razer's Switchblade interface that makes the 14-inch Blade an enticing choice.
+
+Speaking of the Blade's classy exterior, not much has changed here -- the 14-inch version features the same anodized-aluminum hull as previous models, albeit in a smaller, slightly tweaked shape. The changes are fairly minor: the machine's speakers have been relocated to the keyboard's sides, for instance, and the power button is slightly smaller than on previous models. For better or worse, these tweaks increase the machine's uncanny (and unabashed) resemblance to the MacBook Pro. This could be a turnoff for stodgy, old PC gamers who are still invested in ancient Mac vs. PC squabbles, but we find the design refreshing -- the Razer Blade is one of the few gaming powerhouses that won't draw unwanted attention in public.
+
+
+Of course, this subtle design comes at a price: connectivity. Peering along the Blade's slim 0.66-inch edges, you'll find just three USB 3.0 ports (two on the left, one on the right), a headphone jack, an AC plug and a solitary HDMI port. That's it. No optical drive, no multi-card reader and no Ethernet. Notable exceptions, but we can't say we're surprised -- the Blade is actually thinner than the apex of a MacBook Air, and weighs just over four pounds. These are understandable casualties, considering the fact that Razer designed the 14-inch Blade twice to ensure it could call it the "world's thinnest gaming laptop." Still, gamers hoping to bring the Blade to their local LAN party will want to carry the appropriate dongles and accessories.
+
+Keyboard and trackpad
+We've made a lot of fuss over mousing surfaces in the past, harshly judging many Windows machines for having unresponsive trackpads with poor gesture recognition. Thankfully, this trend of subpar touchpads seems to be dying off, and the Blade is the latest (and possibly greatest) example of a PC mouse doing it right. This smooth, low-friction surface is easily one of the most responsive and tactilely satisfying trackpads we've seen on a Windows device. It's roomy, too: a large, matte black sensor provides ample room for multi-touch Windows 8 gestures, most of which it recognizes instantly and without error.
+
+We did hit a few minor hiccups, however -- if our digits wavered too much during two-finger scrolling, the pad would mistake the flinch for zoom pinch, distorting our view. It was also quick to take notice of low-hanging thumbs, unexpectedly moving the cursor while we typed (more on that in a moment). We're hesitant to restate similarities between the Blade and the MacBook Pro, but the machine's blatant homage to Apple left our sense memory wanting for Cupertino's clickable mousepad -- the Blade's underlying physical buttons just didn't feel right by comparison. That said, the left and right clickers are tolerable, but not quite as satisfying as the mouser's ultra-sensitive touch surface. We'll admit they grew on us over time, but they initially felt slightly mushy.
+
+
+The keyboard, however, feels just right. With the exception of retooling a few key sizes and tweaking the lettering a tad, Razer didn't make any significant changes to the third-generation Blade's sea of alphabet islands -- this is the same chiclet keyboard we saw twice last year. Unsurprisingly, the keyboard is still incredibly solid, offering a firm and tactile response, low-resistance key depressions and as many as 14 simultaneous presses (for the gamer concerned about anti-ghosting). Our only complaint stems not from the keyboard itself, but from the trackpad: the aforementioned touch surface is so sensitive, we occasionally triggered it by accident while typing. It would have been nice to see a touchpad-lock Fn key added to the keyboard's bag of tricks.
+
+Display and sound
+Razer's made a habit of pairing its hardware with middling, but not-quite-terrible displays -- an unfortunate pattern. Mirroring its predecessors, the new Blade offers a screen that's just okay, suffering no major ailments of banding, low contrast or particularly bad color reproduction, but still failing to dazzle. Looking at the 1,600 x 900 panel straight on provides a clear enough picture, but even slight adjustments to the viewing angle can cause washed-out images or significant darkening. Colors can appear off when viewed from sharper horizontal angles as well. Admittedly, most Razer customers will be using the screen from its optimal viewing angle and won't experience any nagging issues, but its matte finish begs for a panel that can take advantage of wider viewing angles, and that's just not what we're getting here.
+
+
+Flanking the keyboard, the Blade's speakers offer a clear distinction between left and right audio channels. This is probably the only thing that truly sets them apart from the previous generation's audio offering, which piped average (if a bit muted) audio through a speaker configuration providing little in terms of stereo separation. As far as we can tell, the smaller Blade doesn't sound too different -- audio is clear and undistorted, but it lacks a richness and warmth, falling flat on busy tracks with deep bass or complex harmonies. On the plus side, the speakers do seem to be a bit louder than Razer's last-gen laptop, and they don't distort at higher volumes either.
+
+Performance and battery life    PCMark7 PCMark Vantage 3DMark06 3DMark11 ATTO (top disk speeds) Battery life     Razer Blade 14-inch (2.2GHz Core i7-4702HQ, GeForce GTX 765M) 5,837 19,505 19,815  E6,364 / P4,161
+
+  546 MB/s (reads); 253 MB/s (writes) 6:24   MSI GT70 Dragon Edition (2013) (2.4GHz Core i7-4700MQ, GeForce GTX 780M) 6,111 20,250 N/A  E10,519 / P7,416
+
+  1.19 GB/s (reads); 806 MB/s (writes) 4:34   Razer Blade 2.0 (2.20GHz Core i7-3632QM, GeForce GTX 660M) N/A 17,120 15,876  N/A
+
+  N/A 3:29   Razer Edge Pro (1.9GHz Core i7-3517U, NVIDIA GT640M LE 2GB) 4,949 13,536 10,260  E2,507 / P1,576
+
+  409 MB/s (reads); 496 MB/s (writes) 3:40   Samsung Series 7 Gamer (2.30GHz Core i7-3610QM, GeForce GTX 675M) N/A 11,515 21,131  N/A
+
+  N/A 2:11  Look at the Razer Blade's specification history, and you'll notice a steady trend: each successive iteration has had Intel's latest chipset at its core. The 14-inch Razer Blade is no exception, sporting a 2.2GHz (3.2GHz with Turbo Boost) Intel Core i7-4702HQ Haswell processor, the company's fourth-generation Core CPU. It's not just the latest and greatest silicon available; it's also the processor Razer's been waiting for -- with a modest reputation for increasing laptop longevity, Haswell is the gaming notebook's best chance at finally achieving a workable runtime. After seeing what the chipset did for MSI's gargantuan GT70 Dragon Edition (spoilers: it doubled its battery life versus the Ivy Bridge configuration), we couldn't wait to see what it could do for a more modest machine. We weren't disappointed.
+
+
+Razer's 14-inch Blade survived Engadget's standard battery test for almost six and a half hours -- not a huge stretch of productivity for an Ultrabook, but an unprecedented runtime for a high-end gaming laptop. Razer's machine now lasts as long as a 2012 13-inch MacBook Air, and outlasts Apple's existing 13-inch Retina MacBook Pro. We took the machine through a few less-controlled scenarios and easily made it through several four-hour-plus stints of active work (involving several web browsers, word processors, chat clients and constantly updating Google documents) without a hitch. It's almost a shock -- thanks to Haswell, gaming machines are now getting respectable battery life for normal computing tasks.
+
+It's certainly a boon to know that the Blade has the longevity to moonlight as a workhorse, but let's be honest: we're really here to see how it plays games. We ran the rig through our standard gamut of PC games, and found a capable machine that might be straddling the line between high fidelity and high frame rates. Take BioShock Infinite, for instance: tuned to ultra-high quality, the Blade has no issue clocking a steady 35 frames per second in the flying city of Columbia, but this frame rate rides only just above the 30 fps minimum most PC gamers demand. More demanding titles, like FarCry 3 and Crysis 3 struggled to average a solid 30 fps on ultra quality -- demanding visual concessions to score more consistent frame rates. We dialed both games down to medium and scored 60 and 44 fps, respectively.
+
+
+On the other hand, The Elder Scrolls V: Skyrim bounced between 45 and 100 fps averages (outdoors and in dungeons, respectively) at ultra-high quality, and a maxed-out Battlefield 3 held a steady 39 fps. Even The Witcher 2, a game known to be somewhat punishing, ran at a respectable 44 fps on High (with Ubersampling disabled). Make no mistake, the Blade is a fast and powerful machine, but it's already struggling to maintain maximum fidelity on some of today's most demanding titles. That's not a bad thing, but it's worth bearing in mind for gamers who insist on dialing their games up to 11. As for the rest of us? We were hard-pressed to find a game that couldn't find a happy high / middle ground at the Blade's native 1,600 x 900 resolution.
+
+The above games took a much heavier toll on the Blade than our day-to-day work cycle. Running BioShock Infinite on ultra quality killed the laptop's battery in a little more than an hour; Haswell's power management is good, but it isn't that good. It's just as well, gameplay tends to make the laptop a little too warm to hold comfortably on one's lap -- the Blade's slim profile simply doesn't disperse GPU heat efficiently.
+
+Software
+There's nothing worse than booting up a brand-new computer only to find it riddled with intrusive and unnecessary bloatware -- thankfully, you won't find any on the 14-inch Razer Blade. It's one of our favorite things about Razer hardware. No trials, no unwanted software bundles and no garbage: just a clean, lightweight Windows 8 installation. Razer did install some of its own software of course, including its standard Synapse device-management package and a beta version of Razer Comms, an instant-messaging client. We could hardly ask for anything less.
+
+Configuration options and the competition
+Folks looking at Razer's 14-inch Blade will find its configuration options fairly limited: each of its three variants share the same core specs: a 2.2GHz Intel Core i7-4702HQ CPU, 8GB of RAM and NVIDIA's GTX 765M GPU -- the only difference between SKUs is storage space. Our $2,000 review unit came equipped with a 256GB solid-state drive, which can be downgraded to 128GB for a $200 savings or upgraded to 512GB for $300. Although it's not technically the same machine, Razer also offers the Blade Pro, a 17-inch version featuring the Switchblade interface and a slightly faster 2.4GHz Intel Core i7-4700HQ processor -- that starts at $2,200 with similar price adjustments for SSD upgrades. Slim, yet expensive pickings.
+
+Think of it as the Chromebook Pixel of PC gaming.
+
+Fortunately, there are a few alternatives available for Haswell-hungry gamers. Dell's Alienware 14, for instance, can be kitted out with a Core i7-4700MQ CPU, 8GB of RAM, an NVIDIA GTX 765M GPU and a much larger 750GB HDD for $1,350. If that doesn't fit the bill, Dell offers half a dozen different configurations for the 14 that can undercut and outperform Razer's kit. It isn't the only 14-inch alternative available either: MSI's own $1,300 machine, the GE40, offers a 2.9GHz Core i7-4702MQ CPU, 8GB of RAM, a NVIDIA GeForce GTX 760M GPU and a 750GB HDD. If you're simply after raw power, however, consider the MSI GT70 Dragon Edition 2 -- it has enough oomph to run circles around the competition, but it isn't cheap: this $2,800 model is the only configuration available.
+
+There is one more comparison we'd like to bring up, but take it with a pinch of salt: Apple's MacBook Pro. Please, hold your fire; we aren't suggesting that the MacBook Pro is a reasonable alternative to Razer's premium gaming laptop -- we're suggesting that Apple users might want to take a look at the Blade. For roughly the same price as a current MacBook Pro, the Blade offers the latest silicon, a better GPU and a familiar unibody design. Tit for tat, the Blade only loses on two fronts: it has significantly less storage space and its trackpad isn't quite as good as Apple's clickable mouser. If you simply can't wait for Apple's own Haswell refresh, the Blade is the next best thing.
+
+Wrap-up
+Razer's 14-inch Blade is almost everything we wanted out of the company's first gaming laptop: a smaller, less-expensive machine with longer battery life, more power and a shockingly attractive chassis. These elements lift the machine's stature, defining it not only as a solid gaming machine, but also as a great Windows laptop in general. It's an enthusiast laptop, yes, but one we'd feel comfortable recommending to non-gamers, too.
+
+That said, the Blade is still a tough sell for gamers on a budget. Think of it as the Chromebook Pixel of PC gaming -- it represents an ideal machine, but as a luxury item it's not a reasonable choice for the average consumer. This issue is compounded further by the fact that its internals ride the edge of modern gaming's maximum visual requirements, making it not only more expensive than its direct competition, but less future-proof, too. Even so, the Razer's 14-inch Blade is its best gaming laptop yet, and if you can stomach the above caveats, it's a completely worthwhile machine.
+
+

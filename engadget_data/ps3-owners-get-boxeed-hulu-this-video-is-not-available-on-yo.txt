@@ -1,0 +1,6 @@
+
+ 
+ digg_url = 'http://digg.com/playstation/Hulu_tells_PS3_This_video_is_not_available_on_your_platform'; The PlayStation 3 has kept access to Hulu even without PlayOn or other workaround while others were blocked -- with the exception of its own remote friendly desktop software -- thanks to its browser's Flash support, but this morning multiple users have reported the above message indicating "Unfortunately, this video is not available on your platform. We apologize for any inconvenience." Some odd glitch related to the recent 2.80 firmware update or other temporary problem, or is this the latest platform to get the Boxee treatment when trying to bring streaming video to TV screens? We've reached out to Hulu for an explanation but so far, haven't heard a response. Interestingly, the Hulu TOS was just updated as of June 26, and although we haven't found any PS3-specific passages, changing a browser's user-string to match the console reveals it is definitely being specifically blocked.[Thanks Sev, and to Tyler from FormatWarCentral.com for the picture]
+      
+
+ 

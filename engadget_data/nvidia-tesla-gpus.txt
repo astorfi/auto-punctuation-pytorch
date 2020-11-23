@@ -1,0 +1,32 @@
+
+ 
+ NVIDIA's announced a pair of Tesla GPUs that'll give some extra pep to your supercomputing tasks. The K10 and K20 units harness the power of Kepler to add more muscle to the company's scientific and technical computing arm that supplies gear to the Barcelona Supercomputing Center and Tokyo's Tsubame 2.0. Internal tests reveal that the hardware is around three times faster than the company's Fermi GPUs -- with the latter card expected to arrive at the end of the year. The company didn't announce pricing, since its aiming them squarely at the big academic institutions, defense contractors and oil explorers -- but if your surname is Buffet or Abramovitch, then they might sell you one at trade.
+
+
+
+  Show full PR text   NVIDIA Pioneers New Standard for High Performance Computing With Tesla GPUs Built on Kepler Architecture
+   New Architecture Triples Energy Efficiency, Makes GPU-Accelerated Computing Systems Easier to Program
+
+  SAN JOSE, CA -- (Marketwire) -- 05/15/2012 -- GPU Technology Conference - NVIDIA today unveiled a new family of Tesla® GPUs based on the revolutionary NVIDIA® Kepler™ GPU computing architecture, which makes GPU-accelerated computing easier and more accessible for a broader range of high performance computing (HPC) scientific and technical applications.
+
+   The new NVIDIA Tesla K10 and K20 GPUs are computing accelerators built to handle the most complex HPC problems in the world. Designed with an intense focus on high performance and extreme power efficiency, Kepler is three times as efficient as its predecessor, the NVIDIA Fermi™ architecture, which itself established a new standard for parallel computing when introduced two years ago.
+
+   "Fermi was a major step forward in computing," said Bill Dally, chief scientist and senior vice president of research at NVIDIA. "It established GPU-accelerated computing in the top tier of high performance computing and attracted hundreds of thousands of developers to the GPU computing platform. Kepler will be equally disruptive, establishing GPUs broadly into technical computing, due to their ease of use, broad applicability and efficiency."
+
+   The Tesla K10 and K20 GPUs were introduced at the GPU Technology Conference (GTC), as part of a series of announcements from NVIDIA, all of which can be accessed in the GTC online press room.
+
+   NVIDIA developed a set of innovative architectural technologies that make the Kepler GPUs high performing and highly energy efficient, as well as more applicable to a wider set of developers and applications. Among the major innovations are:
+
+   SMX Streaming Multiprocessor -- The basic building block of every GPU, the SMX streaming multiprocessor was redesigned from the ground up for high performance and energy efficiency. It delivers up to three times more performance per watt than the Fermi streaming multiprocessor, making it possible to build a supercomputer that delivers one petaflop of computing performance in just 10 server racks. SMX's energy efficiency was achieved by increasing its number of CUDA® architecture cores by four times, while reducing the clock speed of each core, power-gating parts of the GPU when idle and maximizing the GPU area devoted to parallel-processing cores instead of control logic.  Dynamic Parallelism -- This capability enables GPU threads to dynamically spawn new threads, allowing the GPU to adapt dynamically to the data. It greatly simplifies parallel programming, enabling GPU acceleration of a broader set of popular algorithms, such as adaptive mesh refinement, fast multipole methods and multigrid methods.  Hyper-Q -- This enables multiple CPU cores to simultaneously use the CUDA architecture cores on a single Kepler GPU. This dramatically increases GPU utilization, slashing CPU idle times and advancing programmability. Hyper-Q is ideal for cluster applications that use MPI.
+
+   "We designed Kepler with an eye towards three things: performance, efficiency and accessibility," said Jonah Alben, senior vice president of GPU Engineering and principal architect of Kepler at NVIDIA. "It represents an important milestone in GPU-accelerated computing and should foster the next wave of breakthroughs in computational research."
+
+   NVIDIA Tesla K10 and K20 GPUs  The NVIDIA Tesla K10 GPU delivers the world's highest throughput for signal, image and seismic processing applications. Optimized for customers in oil and gas exploration and the defense industry, a single Tesla K10 accelerator board features two GK104 Kepler GPUs that deliver an aggregate performance of 4.58 teraflops of peak single-precision floating point and 320 GB per second memory bandwidth.
+
+   The NVIDIA Tesla K20 GPU is the new flagship of the Tesla GPU product family, designed for the most computationally intensive HPC environments. Expected to be the world's highest-performance, most energy-efficient GPU, the Tesla K20 is planned to be available in the fourth quarter of 2012.
+
+   The Tesla K20 is based on the GK110 Kepler GPU. This GPU delivers three times more double precision compared to Fermi architecture-based Tesla products and it supports the Hyper-Q and dynamic parallelism capabilities. The GK110 GPU is expected to be incorporated into the new Titan supercomputer at the Oak Ridge National Laboratory in Tennessee and the Blue Waters system at the National Center for Supercomputing Applications at the University of Illinois at Urbana-Champaign.
+
+   "In the two years since Fermi was launched, hybrid computing has become a widely adopted way to achieve higher performance for a number of critical HPC applications," said Earl C. Joseph, program vice president of High-Performance Computing at IDC. "Over the next two years, we expect that GPUs will be increasingly used to provide higher performance on many applications.
+
+ 

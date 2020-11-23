@@ -1,0 +1,6 @@
+
+  
+If you want to run Windows onyour Intel-based iMac, you may havea long wait. However, if your goal is to just run an OS other than Mac OS X, you're in luck. The enterprising teamat the Mactel-Linux project have claimed at least partial victory: they were able to get Gentoo Linux to boot on anIntel iMac. Obviously, they've still got some work to do before they can do anything useful with the OS, but it's amajor step. And they did it without any help from Red Hat, which, last we heard,didn't even have an Intel Mac in the house, despite claiming they would get Linux to boot on the boxes.
+      
+
+ 

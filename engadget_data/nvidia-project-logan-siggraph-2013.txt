@@ -1,0 +1,9 @@
+
+We've known about NVIDIA's plans to bring Kepler to mobile for a few months now, but the component maker offered up an early glimpse of the SoC at SIGGRAPH this week. In terms of power usage, Logan's use of Kepler architecture translates to one-third the consumption of GPUs currently running in devices like the Retina iPad while wrangling the same renders. Of course, it does have a healthy amount of room to scale up from there for much beefier tasks. The silicon also supports the just announced OpenGL 4.4, OpenGL ES 3.0 and Microsoft's DirectX11. So, what does all of that translate to in terms of graphics? Project Logan enables the use of advanced rendering and simulation techniques to construct imagery -- things like tessellation, advanced lighting and physical simulation, just to name a few. In other words, this allows for PC and console-quality graphics to get cozy on mobile devices. For a look at chip in action, venture on past the break where the Ira demo that was unveiled earlier this year on GeForce GTX Titan GPU-packing desktop is now running on a Logan-equipped mobile device. 
+
+
+
+
+ 
+
+ 

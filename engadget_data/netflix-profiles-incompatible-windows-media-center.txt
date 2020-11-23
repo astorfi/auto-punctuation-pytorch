@@ -1,0 +1,4 @@
+
+Netflix's user profiles haven't seen a full roll out yet, but they're already causing snags with certain users. Specifically, the new feature isn't compatible with Windows Media Center. Attempting to stream via Redmond's app offers users their list of profiles, but promptly throws an error message once one is selected. Unfortunately, the only fix it is to do without. According to The Green Button forums, Netflix will only resume streaming over Media Center if you kill all profiles except for the main one. If you aren't cool with sharing your account the old way -- and all the awkward movie recommendations that can come with it -- you're stuck. We do have a few suggestions for alternative streaming methods, however.
+
+

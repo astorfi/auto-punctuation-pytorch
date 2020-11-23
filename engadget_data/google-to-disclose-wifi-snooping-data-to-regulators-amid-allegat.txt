@@ -1,0 +1,8 @@
+
+ 
+And the mess gets messier. A class action lawsuit filed against Google in Oregon has now been enriched with the allegation that Google willfully collected personal data with its Street View cars, rather than doing so accidentally, as it claims. It's a bold accusation, whose primary basis is a patent application, filed by Google in November 2008, for a "computer-implemented method of estimating the location of a wireless  device." A subsidiary claim references the "obtaining [of] one or more packets  of data transmitted" from one wireless device to another to help estimate accuracy of location results. That's the supposedly damning verbiage that shows Google intentionally created WiFi-snooping software, and it's also what's being relied on to show that Mountain View couldn't have been ignorant of the data collection going on. Yes, it's quite a stretch, but that's what lawyers are for: mental gymnastics.
+
+Over in Europe, Google is doing its best to placate local regulators, some of whom are contemplating criminal charges against the multinational company, by agreeing to hand over all data that was collected by its vehicles. France, Germany and Spain will be first to peruse the info, though presumably there'll be an open door to other nosy governments as well. Doesn't that strike you as weird -- having your private data protected by letting a bunch more people look at it?
+      
+
+ 

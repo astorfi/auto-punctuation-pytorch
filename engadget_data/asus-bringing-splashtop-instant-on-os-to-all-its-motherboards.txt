@@ -1,0 +1,6 @@
+
+ 
+We've seen the Splashtop instant-on OS demoed on ASUS gear in the past, and now it looks like the company is making the love official: it's going to start shipping it on all its motherboards. ASUS is calling the platform "Express Gate," but it's the same instant-on, ready-to-browse environment we've known about since October: an embedded Linux distro that runs Firefox and Skype off a memory chip linked directly to the BIOS. You might want to hit that link and check out the screenshots, actually -- with ASUS set to ship over a million mobos a month with the feature, chances are it'll be on a machine near you relatively soon.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+
+
+	Robots have been replacing more and more human workers for quite some time now, but in most instances they're still just being programmed to perform specific tasks. As evidenced by this bot developed by the Hasegawa Group at the Tokyo Institute of Technology, however, there's also a growing number capable of teaching themselves some new tricks, and they're getting smarter every day. This particular one employs what's called a self-organizing incremental neural network (or SOINN), which lets it build up a base of knowledge that it can apply to new tasks and make educated guesses about how to proceed with them -- in this case, pouring a glass of water and then dropping an ice cube in it (or what's supposed to be water and an ice cube, at least). Head on past the break for a video.
+ 
+
+   
+ 

@@ -1,0 +1,9 @@
+
+ 
+What if you could run Android apps on other platforms? That's exactly the question Benoit Shillings and his team at Myriad asked themselves before setting out to create Alien Dalvik. The resulting software provides a host environment for the (mostly Java-based) Android apps to run pretty much anywhere. Alien Dalvik behaves a lot like Wine on Linux, which allows Windows programs to run inside Linux without installing Windows or using a virtual machine. We stopped by the Myriad booth at MWC this week where Benoit was kind enough to give us a demo of Alien Dalvik running on a Nokia N900. Despite being in the early stages of development and still un-optimized, the software worked as expected. Benoit showed us Google Maps, a chess game, and the IMDb app all running as separate processes inside Maemo. This version of Alien Dalvik was written using Qt and should also be able to run on Symbian devices. You can't buy the product as an end user, but Myriad wants to make the technology available to carriers and device manufacturers to help streamline the deployment of apps across platforms. Watch our video after the break.
+      
+
+ 
+
+
+ 

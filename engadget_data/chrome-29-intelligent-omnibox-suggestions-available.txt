@@ -1,0 +1,7 @@
+
+Those with a hearty level of respect for beta builds have been enjoying these spoils for weeks now, but Google has today seen fit to push Chrome 29 and a refreshed Chrome for Android out to rest of us. Effective right now, Chrome 29 users on the desktop will see "improvements to omnibox suggestions based on the recency of websites visited, resulting in more timely and contextually relevant suggestions." Interestingly, Google has also added a "Reset browser settings" option for those who end up going a bit overboard with extensions; thankfully, waving the aforesaid white flag won't impact your themes, apps or bookmarks.
+
+
+On the mobile front, Chrome on Android is being updated with improved scrolling and startup performance, as well as WebRTC support that will enable video conversation directly in the browser without a plugin. Yeah, we thought you'd dig that.
+
+

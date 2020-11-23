@@ -1,0 +1,5 @@
+
+ Since "muslix64" posted his BackupHDDVD tool there has been much discussion across the internet over how it works, and if it works at all. So far others haven't been able to obtain the necessary keys to decrypt high definition content, and now Cyberlink, makers of the PowerDVD software many assumed was exploited for the attack, is denying vulnerability. In an email to blogger Chris Lanier, the company stated not only is it confident that PowerDVD "fully protects" HD DVD contents, it does not keep the encryption "Title Keys" in system memory -- which is how muslix64 was presumed to have obtained them -- and finally that there is no evidence in the YouTube video released indicating PowerDVD was in any way actually used to crack HD DVD content. Other questions surrounding news of the crack center on the usage of PowerDVD version 6.5 instead of the just released (and Xbox 360 HD DVD player compatible) Power DVD Ultra. The video promised more details in January, and being that it's January now, we shouldn't be waiting very long to find out if this is truly a chink in the AACS armor -- and if so, where it really lies.
+      
+
+ 

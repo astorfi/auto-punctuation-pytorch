@@ -1,0 +1,9 @@
+
+ 
+There's no question that NVIDIA's Optimus system -- which enables a discrete GPU to operate when a machine is taxed and a power-sipping IGP to function when you're involved in less strenuous tasks -- has changed the way the world looks at laptop graphics, but it hasn't been able to avoid a fair amount of criticism about the controlling interface. With the July release of the monthly Verde drivers, the company has just rolled out a revised UI that provides "even more visibility into how Optimus is working and allows you even more control over how Optimus operates." The newest Optimus control panel, as well as a brief demonstration of what's been tweaked, is available for viewing just after the break, but it's on you to hunt down drivers for whatever rig you call your own.
+      
+
+ 
+
+See more video at our hub!
+ 

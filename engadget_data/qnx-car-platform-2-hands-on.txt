@@ -1,0 +1,13 @@
+
+ Just a few short days ago, QNX announced its Car Platform 2.0 and plans for outfitting developers during the course of the year. Of course, the co-star of that announcement was the Bentley Continental GT concept vehicle that would show off the company's wares. And that it most certainly did. We moseyed over to the booth and grabbed a few minutes in the driver's seat to see just what the system could do. First, the visual part of the infotainment arsenal consists of a 17-inch center display and two (7- and 10-inch) MasterImage high pixel density (comparable to Retina) panels in the driver's side dash. The high-res quality of said surface was immediately apparent and is one of the best in-car units we've seen. But, that's not all. Head on past the break for some observations and a video walkthrough. 
+
+
+
+
+ 
+ As you might expect, displays are just the tip of the proverbial iceberg here. We were also quite impressed with the video conferencing and Ultra HD voice calling. Don't worry, the former only works when the vehicle is safely in park and is transferred to a voice call while you're in route. The high-definition sound directs waves to specific sides of the vehicle's cockpit depending on who's being addressed. Also, the sound quality is superb. There's not enough room here to adequately describe it and the video that follows doesn't capture how good the audio really is. During our demo, music was streamed from the other end of our conference call to the Continental GT and it sounded like we were spinning the tracks ourselves -- crystal clear with no distortion or static to be heard.
+
+ There's also a 3D backup camera to keep an eye on your whip's backside. Yes, 3D. With a press of a button, the dash-mounted driver's display can be toggled between 2D and 3D and the results are quite good. As previously mentioned, developers will be welcomed to the fold this year with APIs and a HTML5 SDK in the works for introducing new apps for the system. We're told that HTML5 BlackBerry 10 applications can run on the tech after some tweaks for screen resolution -- much like the web-based key fob that you'll see here.
+
+ Sean Cooper contributed to this report. 
+

@@ -1,0 +1,6 @@
+
+ 
+No surprises here: we've known since last WinHEC that Samsung was working on a so-called ReadyDrive hard drive that sports a 128MB flash buffer for enabling lower laptop power consumption, and just as we suspected, they've unveiled a working prototype of the technology at this year's conference. Also on hand with their own ReadyDrive was Seagate, who, like Samsung, plan to release their model when Vista finally starts shipping, as only the next-gen operating system will have the proper ATA driver command sets to allow for such a large buffer. PCMag was on the scene for one of Samsung's demos, and claim that a laptop running an office apps script only needed to access the hard drive every three to four minutes, which could result in ReadyDrive-equipped laptops sipping up to 40% less juice than models with those outdated, perpetually-spinning HDDs.
+      
+
+ 

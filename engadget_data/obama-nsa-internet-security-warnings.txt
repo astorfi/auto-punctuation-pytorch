@@ -1,0 +1,7 @@
+
+When news of the Heartbleed internet security bug broke last week, Bloomberg reported that the NSA may have known about the OpenSSL flaw for years, using it to gain info instead of warning the public. The government agency was quick to deny that story, saying that it found when the rest of us did. But as it turns out, if they had kept the discovery secret in the interest of a national security threat, that would've been okay thanks to a January decision by President Obama. The New York Times reports that although details were never publicly reported by the White House, info about the choice began to surface after Friday's advance knowledge of the Heartbleed situation. The President determined that unless there's "a clear national security or law enforcement need," it's better for the government to publicly disclose those internet flaws that it uncovers -- in the interest of getting them fixed. Of course, this wording is quite vague, leaving quite a bit of room for interpretation.
+
+
+[Photo credit: Larry Downing/AFP/Getty Images]
+
+

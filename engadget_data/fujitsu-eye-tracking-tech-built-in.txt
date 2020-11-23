@@ -1,0 +1,12 @@
+
+ 
+ Eye-tracking technology looks to be one of the major tropes at CEATEC this year. One of many companies demoing a gaze-following setup is Fujitsu, which is showing off a prototype desktop PC with a built-in sensor and infrared LED. This configuration should be cheaper than many other eye-controlled solutions out there, as the components are integrated directly into the computer and no external hardware is needed. It's sweet and simple: the camera captures the reflection of light on the user's eye, and image processing technology then calculates the user's viewing angle to allow for hands-free navigation on-screen.
+
+ We got a brief eyes-on with Fujitsu's demo, which shows off the eye-controlled tech working with a map application. Even without any detectible calibration, the system did a respectable job of navigating around Tokyo based on how we moved our eyes. Panning from right to left works especially seamlessly, but moving up and down required a bit more effort -- we caught ourselves moving our whole head a few times. This is an early demonstration of course, though Fujitsu has already enumerated several applications for this technology, from assisting disabled users to simply eliminating the need to look down at the mouse and keyboard. See the gaze detection in action in our hands-on video past the break.
+
+
+
+
+  
+  Zach Honig contributed to this report.
+

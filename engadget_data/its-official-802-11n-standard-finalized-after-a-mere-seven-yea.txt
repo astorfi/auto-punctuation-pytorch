@@ -1,0 +1,4 @@
+
+ 
+Remember when the Wi-Fi Alliance finalized the 802.11 draft-n spec some two and a half years ago? Of course you don't -- as long as your media players, laptops, and the like can connect to each other (and to the cloud) without a hiccup you probably don't care about IEEE's paper trail. The standard, which saw no major changes between then and now (meaning that all your draft-n devices should work fine with the finalized standard) theoretically connects at 300Mbps, or about six times the peak speed of 802.11g. But you already know that, since you've been using it for years now. The final standard is set to be published mid-October.
+ 

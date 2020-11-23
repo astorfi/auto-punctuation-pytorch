@@ -1,0 +1,23 @@
+
+ 
+ When NVIDIA took the wraps off its family of 28nm Kepler GPUs, it promised some mobile chips designed for Ultrabooks were soon to follow. Two and a half months later, we haven't seen that many laptops running the 600M series, save for the Acer Aspire M5, which isn't even on sale yet. Now, though, we're about to see a lot more: in advance of Computex, a computer-centric trade show about to be overrun by Ultrabooks, NVIDIA is spilling details on the GeForce GTX 680M. As the top-tier offering in the mobile Kepler lineup, it packs a 720MHz engine clock, 1,344 CUDA cores and a 256-bit memory bus powering up to 4GB of GDDR5 RAM. As a refresher, all of Kepler's GPUs make use of a new GPU Boost feature, which automatically increases the clock speed if the GPU isn't already taxed. Meanwhile, VSync promises smoother rendering, with fewer jagged edges. So which PC makers are planning on using this thing? Well, Clevo is on board, and NVIDIA says to expect some fresh models from MSI and Alienware, too. Stay tuned, folks.
+
+
+
+  Show full PR text    TAIPEI, TAIWAN and LOS ANGELES, CA -- (Marketwire) -- 06/04/2012 -- Computex 2012 and E3 2012 -- NVIDIA today brings its next-generation NVIDIA® Kepler™ graphics architecture to the top of the GeForce notebook GPU lineup, with the launch of the NVIDIA GeForce® GTX 680M.
+
+   The fastest, most advanced1 gaming notebook GPU ever built, the GTX 680M GPU delivers unprecedented performance, incredible power efficiency and the world's most advanced gaming technology.
+
+   "The GeForce GTX 680M is the fastest mobile GPU ever, but it's more than just a speed king," said Rene Haas, vice president and general manager of the notebook business unit at NVIDIA. "It also offers an entire arsenal of next-gen gaming technology, along with Optimus technology for extended battery life."
+
+   GeForce 600M Series GPUs are built for superior performance and power efficiency. Only GeForce GPUs offer:
+
+   Adaptive V-sync - newly developed technology for a smoother gameplay experience  Advanced AA modes - for crisper images, including NVIDIA FXAA and new TXAA  NVIDIA Optimus™ technology - enabling extra-long battery life by automatically switching on the GPU only when it is needed  NVIDIA PhysX® support - for accelerated in-game physics  NVIDIA 3D Vision® 2 technology - for bigger, brighter, more comfortable 3D gaming  NVIDIA 3DTV Play™ software - for connecting notebooks to 3DTVs for the most immersive gaming experience to be had in a living room  High-performance NVIDIA Verde™ notebook drivers - offering day one game support and maximum compatibility  NVIDIA SLI® technology - make the fastest notebook GPU even faster with up to double the gaming performance  NVIDIA CUDA® technology support - for high-performance GPU computing applications  Separately, Alienware announced its M17x and M18x gaming laptops will be available with GeForce GTX 680M GPUs in the next couple of weeks.
+
+   "The intense focus on performance and technology engineered into the 2GB GDDR5 NVIDIA GeForce GTX 680M is a perfect match for the Alienware M17x and M18x laptops," said Frank Azor, Alienware General Manager. "Whether a single graphics card on the 17x or dual GTX 680M's on the M18x, Alienware owners are going to love having this much power at their fingertips."
+
+   The Alienware M17x will be available with a GeForce GTX 680M GPU and NVIDIA Optimus technology or NVIDIA 3D Vision technology. The Alienware M18x notebook will be available with GeForce GTX 680M GPUs in single or SLI configurations before the end of the month.
+
+   The GeForce GTX 680M GPU is also available in MSI GT70 notebooks and gaming notebooks from Clevo channel partners such as Ava Direct, Maingear and Origin.
+
+ 

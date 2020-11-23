@@ -1,0 +1,9 @@
+
+ 
+ WebOS loyalists have been waiting a long, long time for HP's September launch of Open webOS, but the company has made good on its promise with not a moment to spare. Open webOS 1.0 is now available with core browser and e-mail apps, the Enyo 2.0 framework and enough hooks to allow porting to a platform of choice. To prove this last point, HP has gone so far as to port the software to a TouchSmart all-in-one -- a device just a tad larger than a Veer 4G. Lest anyone be hasty and get visions of developing a custom build for the TouchPad, though, they'd do well to remember both HP's disclaimer ruling out legacy support as well as word of the holes that exist in the current Open webOS release. The company needs time to offer open-sourced media support, a Bluetooth stack, advanced network management, faster rendering and newer versions of both Qt and WebKit. The curious can nonetheless try the OS in an emulator today, and intrepid developers can start building their own projects with the code and tools found at the source link.
+
+
+
+
+ 
+ 

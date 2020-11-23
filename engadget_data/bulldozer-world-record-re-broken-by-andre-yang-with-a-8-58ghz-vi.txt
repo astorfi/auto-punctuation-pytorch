@@ -1,0 +1,8 @@
+
+ 
+
+
+	There you have it, folks. Floating over this text is the CPU-Z record that proves it: four days after Andre Yang broke the chip speed overclocking record with AMD's Bulldozer, he's done it again. The chip maker was eerily prescient when it said it expected others to beat the record and that unnatural confidence in the silicon has paid off. Last time, Yang managed to push only 30MHz over the previous record, this time he's found a further 123.3MHz -- making the total chip speed 8.58GHz. The secret to his success was in increasing his chip voltage (2.076v compared to 1.992 last time) and over-liberal use of liquid nitrogen. Maybe he could convince Sunnyvale to loan him a massive vat of liquid helium to get ever closer to the goal of 9GHz -- just make sure you don't pick up the check for the shipping and handling, okay?
+
+
+ 

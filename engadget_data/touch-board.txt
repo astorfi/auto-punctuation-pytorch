@@ -1,0 +1,12 @@
+
+Capacitive sensing isn't limited to your smartphone. In fact, you can use contact with human skin (or any other conductive surface) to trigger almost any circuit. And the Touch Board from Bare Conductive wants you to combine your DIY spirit with the ability to turn practically any surface into a sensor. At the heart is an Arduino compatible microcontroller (based on the Leonardo) with a few extras baked in, including a Freescale touch sensor connected to 12 electrodes and an audio processor for triggering MIDI sounds or MP3 files. While you can simply trigger the electrodes by touching them or connecting them to any conductive material, such as a wire, the Electric Paint Pen really opens up the input possibilities. It's just like a paint marker, often used for small scale graffiti, except it spits out conductive black ink that can turn a wall, a piece of paper or almost anything else into a trigger. In fact, it's preloaded with a bunch of sample sounds on a microSD card so that you can simply paint a soundboard out of the box.
+
+
+The Kickstarter startup has already more than quadrupled its target funding, but there's still a few days left to get in on the fun. For £45 you can get a Touch Board (with microSD card), an Electric Paint Pen and your choice of either a micro USB cable or a rechargable lithium battery for your untethered projects. And, since its pin compatible with most Arduino shields, you can add even more capabilities to the Touch Board for more complex projects. For example, pop on a relay switch shield, like the one included in the £100 light switch kit, and you can turn your lights on and off or tackle any other high-voltage project on your wishlist. And, since the Electric Paint can also act as a proximity sensor, you could potentially build a dimmer that brightens the room as you bring your hand closer to the wall. For the requisite sales pitch and demo, check out the video after the break.
+
+
+
+
+
+
+ 

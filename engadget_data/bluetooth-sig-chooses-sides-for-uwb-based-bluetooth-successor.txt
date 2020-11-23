@@ -1,0 +1,5 @@
+
+ The Bluetooth SpecialInterest Group, in search of a standard for its next version of Bluetooth, had already expressed itsintention to pick between the quarreling UWB factions:WiMedia Alliance and the UWB Forum. Looks like WiMedia ended up fitting the bill best for bringing high speeds toBluetooth connections, and it's expected that most UWBmanufacturers will follow suit. Now the respective tech teams just need to sit down and hammer out the spec, whichBluetooth SIG estimates will take about a year, with prototype chips becoming available around Q2 2007. There are somedistinct technological hurdles that must be jumped to get the 480mbps UWB interoperable with the 2.1mbps Bluetoothconnections, including the fact that UWB operates in the unlicensed spectrum above 6GHz, while Bluetooth hangs out at2.4GHz. Even with those problems in front of them, Bluetooth SIG is confident that UWB fits the low power consumptionrequirements of Bluetooth, and, of course, it's hard to scoff at the promised data rates.[Via Phone Scoop]
+      
+
+ 

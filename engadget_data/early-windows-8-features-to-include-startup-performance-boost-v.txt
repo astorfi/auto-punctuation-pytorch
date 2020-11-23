@@ -1,0 +1,20 @@
+
+ 
+
+Sure, Microsoft might be selling seven copies of Windows 7 a second, but that doesn't mean Redmond isn't planning for the future: the software giant is purportedly beginning to prep ODMs on Windows 8, if these leaked slides are to be believed. It doesn't look like anything is nailed down just yet, but some interesting larger themes are being discussed, like improving startup and wake-from-sleep times to be nearly instantaneous, the addition of higher-speed interconnects like USB 3.0 and Bluetooth 3.0, hard drive encryption, ambient light sensitivity, and facial recognition login / out. That last is the most interesting, as it hints at some Kinect-style user detection, but then again, PCs from HP, ASUS and others can do this already, so we'd like to see some more of Kinect bleed over as well -- we could definitely see the gestural menu navigation hit Media Player and IE. Unfortunately, there's no dates on any of this, and we can't imagine Microsoft will shift gears from Windows 7 anytime soon, but it's still nice to dream -- hit the read link for the full set of slides.
+
+Update: The folks at Microsoft Kitchen have pored through all the slides and come up with some interesting takeaways. First, Microsoft appears to be looking to what it refers to as Apple's "virtuous cycle" of brand loyalty, and the company wants consumers to think of Windows 8 as being just as uncomplicated and high quality. There's also a render of a concept Windows 8 machine (pictured above), which looks like... well, it looks like a remix of the Twentieth Anniversary Macintosh from 1997. Microsoft is also tailoring Windows 8 specifically to slates, all-in-ones, and laptops, which suggests a great emphasis on touch to us -- there's a slide of user interacting with something called a "Lap PC" that looks like a convertible tablet.
+
+Other interesting notes include a "push button reset" that automatically resets Windows to factory condition while leaving a user's files in place, an August 2010 beta data for IE9, and most interestingly, plans for a "Windows Store" app store, which will allow apps and settings to follow users from machine to machine. However, docs show that not a line of OS code had been written until at least this month, and all of the slides are marked "Windows 8 Discussion -- this is not a plan of record" so it seems like everything is still a bit up in the air. Looks like Microsoft is planning some big moves, though -- we're definitely eager to see what makes the final cut.
+
+Update 2: We've had a nice long look through the slides ourselves, and that Windows Store is looking pretty interesting even at this early juncture. Early mockups show a Zune-like interface with content curated not only by Microsoft, but also partners and device manufacturers, and there's even a "Apps your friends love" section. The Store will also apparently recognize which device you're using and display content appropriately -- things that run on a desktop may not play nice with a tablet PC -- and there's a robust-looking developer dashboard so indie devs who intend to monetize the new platform can keep track of the goods. See what the experience might look like in the gallery below.
+
+
+
+
+
+Update 3: While there's no telling what Microsoft will actually do when it starts coding the OS, documents indicate it's currently asking partner OEMs whether Bluetooth 3.0 + HS and IEEE 1394 are important to their customers. Why? Microsoft doesn't plan to support either in Windows 8 if at all possible. Is it finally the end of the road for FireWire?
+      
+
+Sean Hollister contributed to this report.
+ 

@@ -1,0 +1,15 @@
+
+ 
+
+NASA's Jet Propulsion Laboratory likes to dip its feet in cutting edge consumer hardware from time to time, as evidenced by its trial use of the Leap Motion to remotely control a Mars rover. Well, you can't get much more cutting edge than virtual reality, which is why the team was so intrigued by the Oculus Rift when they first saw it at PAX last year. They signed up for a dev kit as soon as they could, cobbled the Rift together with a stereoscopic 360-degree panorama of Mars obtained from Curiosity, strapped on the VR goggles and found themselves magically transported to the Red planet. 
+
+According to our interview with Human Interfaces Engineer Victor Luo, they then added terrain imagery captured from satellites so users could actually "walk" on Mars' rocky surface using an Xbox controller -- "with up to 25 centimeters per pixel." "However, we thought it'd be great if we could literally 'walk' on the terrain," said Luo. With that in mind, they contacted the people behind the Virtuix Omni treadmill. It so happens they were in the area for E3, so they brought the contraption up to JPL headquarters, hooked it up, and sure enough, they were able to "wander around" the surface of Mars with their own two feet. Join us after the break for more on our interview with Luo, plus a video clip of the aforementioned virtual Mars tour.
+
+
+ 
+
+As an additional experiment, JPL also mapped the interior of the International Space Station to the Rift, allowing users to float within the confines of the ISS. "There's no real up or down in the space station," Luo told us. "You get this feeling of weightlessness when you're looking up or down." Luo said that virtual reality tools like these would make it possible for scientists and researchers to fully immerse themselves in the environment.
+
+"Instead of looking at a two-dimensional image," Luo explained. "They would know [for example] that the rock is to the left of the rover. They can collaboratively look at the space and say, hey, we should go up to the right of the canyon... It makes sense to use something like this for a more immersive and more natural experience." Of course, as the tools weren't designed for space exploration in mind, they're not exactly perfect. "We'd like to see more capabilities," Luo said. "We'd like more sensors built into it, leverage the capabilities a lot more. But obviously it's early days yet." While the footage above was recorded earlier this year, JPL hasn't made the video public until now. So go ahead, check it out and live vicariously through these NASA scientists -- at least, until that whole space tourism thing becomes a reality.
+
+

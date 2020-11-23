@@ -1,0 +1,8 @@
+
+ 
+Just like its older sibling the GTX 460, NVIDIA's GeForce GTS 450 is hitting online stores, even though we've yet to hear a word from NVIDIA itself about the new Fermi-based graphics card. While we can't confirm rumors that the GTS 450's got a new GF106 chip under that plastic shroud, it seems evident we're looking at a somewhat less powerful board -- shipping samples from ASUS, EVGA, Gigabyte and Palit show just 192 CUDA cores (down from 336) and a narrower 128-bit memory interface. That doesn't mean the GTS 450 won't necessarily be a capable gamer, though, as the graphics and shader chips are actually clocked closer to 800MHz and 1.6GHz respectively this time, and so far they're all paired with a full 1GB of GDDR5 memory with the same 3.6GHz effective rate -- no 768MB cop-outs. At around $130 a pop, we imagine dedicated graphics enthusiasts will spend the extra to get those bonus cores, but if you've only got three portraits of Ulysses S. Grant to spare, this might just be your board. Don't take our word for it, though -- if history's any indication, we'll have plenty of reviews come Monday morning.
+
+[Thanks, Chris S.]
+      
+
+ 

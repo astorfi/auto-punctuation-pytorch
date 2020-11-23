@@ -1,0 +1,7 @@
+
+Just as promised, Valve has made its first release of SteamOS available for downloads at the same time it ships out prototype Steam Machines to 300 beta testers. Based on the Debian 7.1 flavor of Linux, SteamOS is a platform purpose built for playing PC games on the TV. Cutting out the cruft of desktop operating systems that aren't well suited for the lean-back experience, one of its main features is the ability to stream games running on a computer elsewhere in the house, so they can be played on the TV, as well as play native SteamOS games.
+
+
+It's currently in beta, so Valve is recommending those without experience with Linux wait for a more polished version next year, around the time Steam Machine gaming PCs arrive at retail. Still, if you know your apt-get from your su and want to show those Xbox One and PS4 owners what an open next-gen platform is like, feel free to start the 960MB download here (good luck, some report downloads are already choking under the strain) to check it out early. Need more information on how it's done? All the information you'll need to get up and running, from hardware requirements to installation instructions can be found in this freshly-posted FAQ.
+
+

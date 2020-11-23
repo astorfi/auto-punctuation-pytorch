@@ -1,0 +1,11 @@
+
+ 
+
+Well, look at what we have here. Though it didn't arrive as early as rumored, the ThinkPad X1 Hybrid running Android is, in fact, a real, whirring product. Lenovo just unveiled the laptop, which has a fanless "Instant Media Mode" promising to double the original X1's (rather skimpy) battery life to as much as ten hours. And while we've seen notebooks with instant-on operating systems, Lenovo's done something unique by installing a dual-core Qualcomm CPU on the motherboard and building a custom OS based on the Android kernel. In fact, its launcher should look awfully familiar to the customization we've seen on the IdeaPad K1 and other Lenovo tablets. Here, too, you can check email, surf the web, organize photos, listen to music, play videos, change the wallpaper and add widgets to the three home screens, though access to Android Market is a no-go.
+
+We got to spend a few minutes with the X1 Hybrid a few weeks ago, and if first impressions are to be believed, the battery-saving prowess works as advertised: immediately after switching modes, the estimated remaining runtime jumped from an hour and 16 minutes to four hours and 19 minutes. The OS also booted in about two seconds, as Lenovo says it should. We were also relieved to learn that there's no back-door way of accessing the OS: if the laptop goes to sleep while you're in Instant Media Mode, you'll have to return to Windows to log in again.
+
+In every other respect, this is the X1 we reviewed last spring: it has a durable, 3.7-pound chassis, integrated Intel graphics and a glossy, 13-inch (1366 x 768) Gorilla Glass display with brightness rated at 350 nits. It'll be offered with Core i3, i5 and i7 processors, a 3G radio and a slice battery that adds up to five more hours of juice. It'll be available sometime in the second quarter for $1,599 and up -- about a $300 premium over the original. And no, current X1 owners can't download Instant Media Mode as an update -- as you can imagine, that whole "SoC on a motherboard" requirement makes that impossible. Hey, no one ever said being an early adopter was easy.
+
+
+

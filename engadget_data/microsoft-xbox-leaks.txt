@@ -1,0 +1,52 @@
+
+Covering Microsoft can be comical. The enormous, multinational company is notoriously prone to leaks. Here's a short highlight list from our vast library of leak posts about Microsoft:
+
+
+
+Microsoft's fitness wearable, Band
+The Xbox One game console, in development kit form, on eBay of all places
+Cortana for Windows, the voice-based search engine
+Former CEO Steve Ballmer's entire CES 2010 keynote speech
+
+While that list of all stars is impressive unto itself, there's a far more interesting leak that happened way back in June 2012. A 56-page business presentation was uploaded to document-sharing service Scribd -- the document outlined four years of Xbox plans, the vast majority of which have now played out. From Kinect 2.0 shipping with Xbox One to HoloLens (then known as "Project Fortaleza"), essentially the entire recent history of Xbox was exposed nearly three years ago.
+
+
+
+Up front, let's start with the official (non-)statement from a Microsoft spokesperson -- we were given the statement just after the HoloLens announcement, thus the "last Wednesday" reference:
+
+"While I can't comment on past rumors or speculation, I'm excited that last Wednesday, we unveiled holographic experiences on Windows 10 as well as the world's first holographic computing device running Windows 10, Microsoft HoloLens."
+
+That's essentially the same thing Microsoft said back in 2012 when the info leaked; the document, a PowerPoint presentation, appears to be from 2010. There is now beyond sufficient evidence to confirm the document's legitimacy, from project names outed in LinkedIn profiles to real life simply playing out. Five years out, the years-long plans for Xbox were startlingly spot-on.
+
+WHAT'S IN THE DOC?
+Let's start in 2011, where the document's roadmap starts. In 2011, Microsoft planned on launching something called "XTV," which sounds an awful lot like the flood of streaming apps that started arriving on Xbox 360 in 2008 with Netflix and in 2011 with Hulu Plus. The doc describes XTV as a "TV App Store" -- a section of the Xbox 360's online store, which exists to this day, filled with apps from TV channels and streaming services, as well as stuff like YouTube. Consider this the first "X" in Microsoft Leak Document Bingo.
+
+On the docket for 2012 was the launch of "Xbox 361": a "low-cost Xbox 360." It looks like Microsoft moved that up to summer 2010, when the lower-priced Xbox 360 S model launched. It indeed came in a low-cost model ($200 with 4GB of flash storage), well below the price of the $300 S model that launched earlier that same year (with a 250GB HDD, thus the price difference).
+
+Also scheduled for 2012 was an evolution of Microsoft's "XTV" initiative into a "pay TV service," including HDMI passthrough (the ability to plug your cable TV box into your game console). That never happened on the Xbox 360, but it sounds a lot like what eventually became the messaging for Xbox One, a console that includes HDMI passthrough.
+
+Moving into 2013 and beyond is where things start to get far more interesting. The announcement of an "Xbox 720" with "Kinect V2 sensor" is on the list, and some early goals for the new console are given in broad terms: six times the performance of the Xbox 360, backward compatibility with the previous console, always on/low-power ability and "full" XTV (the evolution of Microsoft's TV/streaming solutions on 360).
+
+
+The document is largely focused on this next console and sensor (what became the Xbox One), as well as one more big hardware announcement: HoloLens. The alternate reality headset Microsoft announced a few weeks back was originally planned for announcement in 2014, and it's been known by a few different names ("Kinect Glasses," "Project Fortaleza" and "Screen Zero" all show up in several places on and off the document). I'd wager it's had a few other names since -- every time I've asked Microsoft reps about Fortaleza since this document first leaked in 2012, they've clammed up and said nothing.
+
+Back when this document was created, the plan was to introduce Fortaleza in 2014, to be used in conjunction with your Xbox 720 and Kinect V2. Here's how the doc sells it:
+
+"Full immersion entertainment experiences in the living room. The game has broken out of the screen and is all around you."
+
+That idea has clearly evolved, as HoloLens -- a very, very similar concept to what's described as Fortaleza in this document -- is now Windows 10-focused. The device is used with the Windows 10 holographic interface, and none of the demonstrations I tried employed an Xbox One, games or the latest Kinect. (Okay, there was a sort-of Minecraft one, but it was barebones and not run on a console.) It's also far from where the document envisions HoloLens to go by 2015.
+
+The next year's plan brings us current to 2015; it includes a mobile version of Fortaleza with 3G/4G connectivity, and the ability to play your Xbox games anywhere you want to play them. That latter bit is actually, kinda sorta, happening (it's only "anywhere" if you consider "devices powered by Windows 10" to be "anywhere").
+
+Given the fact that the announcement of Microsoft's augmented reality glasses didn't happen until just recently, and the only launch window for them is "within the Windows 10 timeframe" (whatever that means), don't expect a casual wireless experience anytime soon from HoloLens.
+
+For anyone crying foul that HoloLens is untethered: Yes, but don't expect to see people casually walking around in public with it. The device is intended for home and office use; this roadmap advertises, "Hands free/Heads Up ambient experiences 'on the go.'" The concept behind the mobile version of Fortaleza was to "drive mobile disruption via 'always connected' Glasses." It wouldn't be surprising to discover just such a thing is in the works somewhere at Microsoft.
+
+"XBOX 720" IN 2010
+Beyond how completely bananas it is that all of this leaked years before most of it occurred in real life, it's crazy how much of the big picture vision for the successor to the Xbox 360 actually came to fruition. Here are some bullet points from the document:
+
+ Next-generation Kinect gaming: "A new, more accurate Kinect sensor with dedicated application and system resources enables a whole new generation of Kinect experiences. Experience full fidelity next-generation graphics with a full body-high precision sensor." Four-person Kinect play: "Play together with the whole family. Kinect v2 means better playspace recognition, no controller required and everyone playing together." One box for all entertainment: "Simplify your world with one box that delivers all your entertainment, including next-generation gaming, linear TV, movies, music, applications and more." "Second-screen" experiences (SmartGlass): "Your entertainment keeps getting better with Xbox 720 by instantly expanding the experience to all your companion devices. Your phone, laptop, slate are seamlessly integrated into 720 experiences."There's, of course, a bunch of stuff in the document that didn't happen, from backward compatibility with Xbox 360 games to a $300 price point (the Xbox One launched at the whopping price of $500).
+
+I'd love to point you to the Scribd page where the document was hosted, but you'd just find the same thing that's been there for months: "This content was removed at the request of Covington & Burling LLP". That's a corporate law firm that represents Microsoft, just in case there was any doubt left that this is most certainly an official leak -- one of the crazier ones I've ever seen.
+
+

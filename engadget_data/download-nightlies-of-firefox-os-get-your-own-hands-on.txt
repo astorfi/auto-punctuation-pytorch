@@ -1,0 +1,5 @@
+
+ 
+ Well, you can't get Firefox OS on a phone yet, but you can fire it up on your computer and give the HTML5 and JavaScript mobile platform a try for yourself -- right now! Mozilla has begun uploading nightly builds of the project formerly known as Boot to Gecko to its FTP servers. You can pull down a nicely wrapped package for Windows, Linux or OS X, or you download the source and build your own. It's not as simple as installing an app, there is some configuring you'll have to do, but the process is relatively simple and you'll find complete instructions at the more coverage link. Obviously the OS is still in the very early stages and is can't be considered representative of what the final product will be like. Still, its a nice glimpse at the progress Mozilla has made in just a single year of development. So, go get your own hands-on time with the next player on the mobile scene.
+
+

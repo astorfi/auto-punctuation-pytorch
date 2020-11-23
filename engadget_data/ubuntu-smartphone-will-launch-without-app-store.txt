@@ -1,0 +1,7 @@
+
+ While RIM throws checks at developers, and Steve Ballmer invades other people's press conferences to shout about apps, the folks behind the Ubuntu smartphone project are taking a very different tack. According to Richard Collins, product manager at Canonical, the first device -- expected by early next year -- will target basic users and only run pre-installed software:
+
+  "In terms of our first go-to-market product strategy, the intention is not to have an application store full of ready-made applications that are there to download. We have a very definite approach in terms of addressing a very important part of the market where users are primarily interested in being able to use a core set of applications."
+ Let's be clear, though: this entry-level phone will be capable of accessing a storefront for third-party apps at some point in the future. A huge part of Canonical's long-term plan is to capitalize on its relationships with developers and the fact that existing Ubuntu desktop apps should be relatively easy to port to the new breed of phones and tablets. It's just that this isn't going to be the priority to begin with. Check out our full interview with Richard Collins for more.
+
+

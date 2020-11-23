@@ -1,0 +1,12 @@
+
+Google's Chromecast dongle has already blown through its supply of Netflix discount codes and now that they're in the wild all sorts of people are taking a look at how the devices work. For example, CJ Heres of GTV Hacker points out a configuration file that appears to list testing apps for Chromecast. While most of the services named in the file are those already announced (Netflix, Revision3, Google Play Music, Pandora etc.) and other devs working on support for AOL On and Songza, there's also an entry for HBO Go. Google told Wired yesterday streaming from the website should work out of the box, however other sites they mentioned will work, like Hulu and Rdio, are not listed in the file, so we may see official app support sooner rather than later.
+
+
+DIYers may have other reasons to be interested however, as Leon Nicholls posted on Google+ about his findings on how the device works as a DIAL server. His tests suggested there is potential for controlling it from outside of Chrome based on how it responds to some commands. Hit the source links for more info, and let us know if you've found any other services that already work.
+
+
+
+#Chromecast testing apps: Pandora, HBOGo, Revision3, Songza, and others may be incoming. #GTVHacker http://t.co/6dr14Vsvyn
+- CJ Heres (@cj_000) July 25, 2013Just heard from a Netflix employee that nearly 250,000 promo codes were created for the Google Chromecast when the promo was pulled.
+
+- Sahas Katta (@sahaskatta) July 26, 2013

@@ -1,0 +1,3 @@
+
+Google I/O 2013 is entering day two in San Francisco and a Google Glass developer session is happening right now. The focus is on the current Mirror API, which allows for online, web services-based apps that push simple content to the headset. This enables current apps like the New York Times. But, the Mirror API is quite limited, allowing only online apps and not providing any direct access to the Glass hardware. That's changing, though, with Google announcing the Glass Developer Kit, or GDK. This will allow for Android apps that run directly on the Glass hardware, providing much greater functionality and offline access. When is it coming? "Sometime in the future" is the best we're able to get.
+

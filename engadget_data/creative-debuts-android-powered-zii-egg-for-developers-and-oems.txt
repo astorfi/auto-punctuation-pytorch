@@ -1,0 +1,9 @@
+
+ 
+It's hard to know where to begin with this, but Creative has confirmed that Zii EGG handheld we saw pass through the FCC a few weeks ago, and proceeded to slap every odd marketing term the company has come up with over the past few years on it. The Zii EGG runs the new "Plaszma" platform, which has something to do with "StemCell Computing" and allows developers to simultaneously develop for Plaszma and Android. Since for now the Zii EGG is aimed at developers and OEMs, it runs fairly vanilla Android on top of Creative's ZMS-05 chip. The hardware itself is rather impressive, with front and rear facing cameras, HD playback, 1080p video output, OpenGL ES support, X-Fi audio processing, 32GB of built-in memory and a full SD slot. Other more "run of the mill" features include WiFi, GPS, Bluetooth 2.1+EDR, and a 3-axis accelerometer. The 320 x 480 screen sounds strictly ordinary, but on top is some 10-point multitouch capacitive input -- Synaptics' new ClearPad 3000 if we had to guess.The big drawback here is the lack of cellular data, but hopefully somebody can solve that before long. The Zii EGG is a developer platform, after all, but Creative says the platform is "market-ready" for picking up by OEMs for production -- hopefully they aren't far removed from shoehorning a 3G chipset in there somewhere as well. The Zii Plaszma Starter Kit bundled with the Zii EGG can be had for $400. A video demo is after the break.[Via DAP Review]
+      
+
+ 
+
+
+ 

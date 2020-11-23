@@ -1,0 +1,58 @@
+
+
+More Info
+
+Nokia World 2011: Lumia's birth
+Windows Phone Mango review
+Nokia Lumia 710 for T-Mobile review
+
+
+Lumia, Lumia, Lumia. Who would have thought, way back at Nokia World 2011, that the name would come to ring as affectionately as it does today? The first three releases in the family, the 800, 710 and, most recently, the 900, all provided such a fluid, well-rounded experience that we found it easy to overlook certain weaknesses in their spec sheets. Low-res 480 x 800 displays and single-core processors were largely forgotten in the face of a fresh aesthetic and matching OS that stood out from the smartphone crowd.
+
+
+Which brings us to Lumia number four: the 610. As a budget phone currently going for free on a £15-per-month contract in the UK, it's been built on Nokia's belief that Windows Phone will run on almost anything: the merest of Snapdragon S1 processors (clocked at just 800MHz) coupled with a few crumbs of RAM (256MB). Overall, those specs make previous Lumias -- with their S2 chips, 512MB and 1.4GHz clock speeds -- look almost futuristic. The question is, can WP really come this cheap and survive intact? Read on and you'll find out.
+
+
+
+
+HardwareThe price of the Lumia 610 evidently isn't enough to get Nokia's design wizards out of bed in the morning, but it'll still buy you a decent-looking handset. Our white and chrome review sample is perhaps the blandest of the bunch, while the more colorful variants -- like the magenta one we saw in our hands-on -- have tinted chrome edges and hence make a bolder entrance.
+
+Leaving the colors aside, this is actually quite a derivative design that has nothing in common with the chic appearance of the 800 or 900. The shape and size is much like that of the 710: the thin rear cover is Samsung-like (without calling out any model in particular), the plasti-chrome edging is BlackBerry Curve-flavored and the front panel looks kinda like an HTC Trophy from 2010. All these sources of inspiration have one thing in common: what they lack in beauty, they make up for with build quality, and the Lumia 610 follows that pattern to the letter.
+
+
+All the corners and edges are gently rounded to offset the handset's 12mm (0.5-inch) midriff. There's some flex in the chassis, resulting in creaking noises if you squeeze it, but it's not enough to do any harm to the impression that this is a solidly constructed device that will stand up to daily wear. Overall, we wouldn't be surprised if many people preferred the rounded feel of the 610 to that of the 710, which looks duller and feels slightly more blocky in the hand. The only real niggle we have regarding the 610's build is the large indented earpiece at the very top, which accumulates fluff and dust constantly and has to be blown out -- a problem the 710 shares but to a lesser degree.
+
+Slide off the rear cover and you'll see the familiar 1,300mAh battery and a micro SIM slot, but -- as expected -- no expandable storage. This leaves you with 6.21GB of usable space. That's the same as the Lumia 710 and double what you get with the ZTE Tania, but if you can't imagine life without at least 16GB, then budget Androids with microSD slots are two a penny.
+
+
+All the hardware buttons are down the right-hand side of the chrome edge: you get a volume rocker, then the power / standby button in the middle, and finally a camera button at the very bottom, which we'll come to in the camera section below. Along the top edge, you have the 3.5mm headphone jack, into which you can plug the cheap, black-colored supplied headset. Beside the jack sits the micro-USB port for charging and syncing. On the rear cover, you can see holes for the 5-megapixel camera and small LED flash, plus the speaker grill at the bottom, which emits tinny sounds that crackle too easily at high volume.
+
+Turning to the all-important front face of the device, we see that we get capacitive navigation buttons for the primary Windows Phone functions: Back, Home and Search. This is a departure from the 710, which uses hardware navigation buttons, and whether that's a good thing will depend on personal preference. For this author, a fluid UI is paramount and capacitive buttons win because they feel more like navigating the touch panel itself -- there are no jarring shifts from a light touch on the panel to a hard press for navigation. So, notch up one more small, but significant, win for the 610.
+
+Display
+The layout of Windows Phone is all about skinny fonts and bold tiles surrounded by vast, calming expanses of black or white space. You need a panel with good contrast to do it justice, and both the Lumia 800 and 710 came well-equipped for the challenge: the 800 has a ClearBlack AMOLED panel, while the 710 had a ClearBlack TFT. The humble 610, meanwhile, has a display that isn't especially clear or black.
+
+It's no different from a budget panel circa 2010.
+
+It's no different from a budget panel circa 2010. There are dark ripples of uneven backlighting along the bottom. The LCD itself looks like it's been covered in extra-thick glass borrowed from the Popemobile and the result is too reflective and washed-out. That said, the 480 x 800 resolution is fine for the 3.7-inch screen size, and overall we can at least say this display gets the job done without any major issues.
+
+Performance, battery life and reception
+If there were nasty surprises with the Lumia 610, this is where you'd expect to find them. When the disco's over and the lights come on, it's already proved itself to be an acceptable-looking device, but how well does it move?
+
+Surprisingly, the 800MHz processor delivers a mostly smooth Windows Phone experience -- even though it is noticeably slower than the 710 during basic navigation. You'll occasionally find yourself staring at a blank screen for half a second, but that's a small sacrifice to make when you consider the price of the handset and how just useful that next screen will be when it finally arrives. This experience is borne out in benchmarking, with WP Bench awarding the Lumia 610 a score of just 54 -- far, far below the 710.
+
+The 800MHz processor delivers a mostly smooth Windows Phone experience.
+
+The low specs don't really matter until you reach the Marketplace and discover that your phone doesn't have enough memory to run every app you might want. This shouldn't come as a surprise, however, because we've been reporting on this little controversy for a while and indeed the 610's limitations are readily admitted within the OS and Marketplace screens.
+
+You also have to bear in mind that it's better than the alternative: downloading apps only to discover that they crash or don't work properly. Nevertheless, with the 710 selling for perhaps only a smidgen more than the 610, and coming as it does with a full complement of 512MB RAM, this poses a serious dilemma. You may not need Skype -- especially since the 610 has no front-facing camera -- but what else could you be excluded from in the future? Angry Birds and PES 2012 currently won't run either.
+
+    Lumia 610 Lumia 710 Lumia 800 Titan   WP Bench 54 85 86 96   Battery drain 7:15 2:35 2:40 3:00   SunSpider 11,434 6,826 7,200 6,500  We used the 610 without problems on the Three network in the UK. It handles GSM 850 / 900 / 1800 / 1900 and WCDMA 850 / 900 / 1900 / 2100 bands, with data over EDGE and HSDPA 7.2Mbps. Call quality was flawless and HSPA data speeds were as fast and stable as with any other non-HSPA+ phone. Sometimes, however, a tardy data connection (not the fault of the phone) exacerbated the weak processor (definitely the fault of the phone) to make browsing too slow to be practical. The SunSpider test for browsing speed gave the 610 a time of 11,434ms -- an appalling score, although one which exaggerates the actual scale of the problem. The desktop version of Engadget.com took a while to render whenever we scrolled or zoomed in, but we were still able to read it -- although it'd definitely be preferable to set Internet Explorer to look for the mobile versions of a website wherever possible. Overall, the browsing experience doesn't destroy the 610's credibility, but it underscores, yet again, that the 710 delivers a lot more power for similar money.
+
+As you can tell from the table above, battery life was remarkable. We'll re-test the WP Bench rundown score in case there was a fluke or error, but we doubt it'll make much difference. With moderate to heavy usage, there'd rarely be less than 50 percent of battery juice remaining at the end of the day -- a major benefit from the weak processor.
+
+Camera
+Good cameras in phones aren't cheap, and if you take a lot of snaps on your handset then you're in the wrong place. While the weakness of the processor is disguised by the OS, it comes right to the fore as soon as you press the dedicated camera button. Doing so brings up the camera, but only after a roughly three-second wait. Once there, you can either tap the screen once to set focus and exposure for that zone and take the shot (by far the fastest option), or you can press the camera button halfway to lock focus (but not exposure) and then fully to take the shot. If the camera button also locked exposure, it'd make a lot more sense, but frankly that's the least of our worries.
+
+
+

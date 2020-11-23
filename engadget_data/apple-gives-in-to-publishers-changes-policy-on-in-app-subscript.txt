@@ -1,0 +1,14 @@
+
+It looks like Apple has decided to make some pretty major changes to its App Store Review Guidelines -- and, in particular, to its controversial in-app subscription policy. Under the new guidelines, publishers will be able to offer subscriptions to content outside of the App Store, as long as their apps don't include a "buy" button that directs users away from Apple's marketplace. Under the previous version of the policy, which was set to go into effect at the end of this month, app owners offering subscriptions outside of App Store were required to sell equivalent, in-app services at the "same price or less than it is offered outside the app," while giving a 30 percent cut to Cupertino. Now, however, they can price these in-app subscriptions as they see fit, or circumvent the system altogether, by exclusively selling them outside of their apps. Apple will still receive 30 percent of the revenue generated from in-app subscriptions, but won't get any money from purchases made outside of its domain. Theoretically, then, publishers would be able to offer in-app subscriptions at higher prices, in order to offset Apple's share. This is how the new rules are worded:
+
+
+		11.13 Apps that link to external mechanisms for purchases or subscriptions to be used in the app, such as a "buy" button that goes to a web site to purchase a digital book, will be rejected
+
+		11.14 Apps can read or play approved content (specifically magazines, newspapers, books, audio, music, and video) that is subscribed to or purchased outside of the app, as long as there is no button or external link in the app to purchase the approved content. Apple will not receive any portion of the revenues for approved content that is subscribed to or purchased outside of the app.
+
+
+
+
+	It's important to note, though, that Apple hasn't made any changes to its policy on sharing user information. Publishers had been lobbying to gain access to subscribers' credit card data and other personal information, which they see as critical to applying a TV Everywhere model to online publishing. With today's concessions, though, these demands may become less insistent.
+
+

@@ -1,0 +1,13 @@
+
+ Pardon us if the headline is a little sensational, but this is one that we've personally experienced -- and it's not pretty. For at least the last couple versions, Android has been plagued with a couple extremely serious bugs in its text messaging subsystem that can ultimately end up causing you to text the wrong contact -- even contacts that you've never texted before. There appear to be a few failure modes; the one we definitely experience on the Gingerbread-powered Nexus S involves being routed to the wrong thread when you tap it either in the Notifications list or the master thread list in the Messaging application, so if you don't notice, you'll end up firing a message to the wrong person.
+
+More seriously, though, there's also an open issue in Android's bug tracking system -- inexplicably marked "medium" priority -- where sent text messages can appear to be in the correct thread and still end up being sent to another contact altogether. In other words, unless you pull up the Message Details screen after the fact, you might not even know the grievous act you've committed until your boss, significant other, or best friend -- make that former best friend -- texts you back. There seem to have been some attempts on Google's part over the year to fix it; we can't confirm that it still happens in 2.3, but for what it's worth, the issue hasn't been marked resolved in Google Code... and it was opened some six months ago.
+
+This is akin to an alarm clock that occasionally won't go off (we've been there) or a car that randomly won't let you turn the steering wheel -- you simply cannot have a phone that you can't trust to communicate with the right people. It's a deal-breaker. We're pretty shocked that these issues weren't tied up and blasted to all affected phones as an over-the-air patch months ago, but whatever the reason, we'd like to see Google, manufacturers, and carriers drop every other Android update they're working on and make sure this is completely resolved immediately.
+
+Want to see this fixed as much as we do? Scroll to the bottom of the Google Code page and hit "Vote for this issue and get email change notifications."
+
+Update: So Google's changed the priority of the bug to "critical," which we'd say is a solid start. They're also asking people to simply star the bug rather than commenting on it -- unless you've got constructive information to add that might help them reproduce the problem, of course. Thanks, everyone!
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+After months of rumors and speculation, NVIDIA announced today that it's acquiring Ageia and its PhysX tech. There's no word on how much coin NVIDIA is dropping on the deal, but the company says the move makes sense, given the similarities in GPU and PPU designs and the trend towards massively parallel coprocessing units like NVIDIA's CUDA cards. Of course, given the war of words between game devs and hardware manufacturers over the value of PPU units, it'll be interesting to see how the industry reacts to this deal -- come on, John Carmack, we know you've got a statement ready.[Via FPS Labs; Thanks, Chuck]
+      
+
+ 

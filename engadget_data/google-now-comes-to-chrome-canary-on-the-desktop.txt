@@ -1,0 +1,4 @@
+
+You may not have to reach for your phone to check Google Now in the near future. The latest build of Google's experimental Chrome Canary browser introduces the context-aware notifications to the desktop; toggle a flag and you'll get alerts from the menu bar (Mac) or taskbar (Windows). Google Operating System notes that it's not quite a seamless experience. You'll have to use Google Now on your mobile device first, and location-sensitive cards like weather are tied to that device's location, not your computer. Even with those caveats in mind, it may be worth downloading the unfinished software for the added convenience.
+
+

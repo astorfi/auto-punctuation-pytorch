@@ -1,0 +1,4 @@
+
+Google painted the broad strokes of its Mirror API for Glass at SXSW in March, and now it's released comprehensive documentation, replete with example code. Despite the fact that the application programming interface is still in a limited developer preview, you can dig in and read up on everything from location features to timeline cards. The cheeky devs in Mountain View also announced that they've named services for the spectacles "Glassware." In case you missed the presentation in Austin, you can catch a handful of videos with Glass developer evangelist Timothy Jordan condensing the API basics. Hit the source link below to dive into the docs, and to download client libraries for the eyewear written in Dart, Go, Java, PHP, Python, Ruby and .NET.
+
+

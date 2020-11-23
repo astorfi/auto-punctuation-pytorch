@@ -1,0 +1,13 @@
+
+If you've been on vacation even once in the last four years, you've seen it: tourists whipping out awkward tablets with subpar cameras to capture what can only be the worst photographs. Tablets aren't known for their stellar imaging capabilities, but Dell and Intel's next joint effort may change that, at least to some degree. During this morning's Intel Developer Forum keynote, Dell CEO Michael Dell and Intel CEO Brian Krzanich will preview a new tablet: the Dell Venue 8 7000 series. At 6mm thick, the new slate is purported to be the world's thinnest tablet. It's also the first device to feature Intel RealSense -- a photo technology that creates a depth map within every image it takes. Krzanich gave me a quick preview of the device before today's keynote.
+
+
+
+
+True to Dell's word, the new Venue 8 7000 is very thin. Its svelte profile leaves it feeling very light in the hand, though Krzanich was unable to tell me its exact weight. The CEO says he's been testing the tablet out for a few months now, and he's become quite fond of it. It's not hard to see why -- it's a light, comfortable device to use -- though Intel's RealSense camera module does leave it looking a little unbalanced. The bevy of camera sensors takes up residence on the device's left side, embedded in a large speaker bar gracing the tablet on the same end. It gives the device an obvious place to grip without covering the screen, but lacks the symmetry of dual-speaker devices like the HTC One or NVIDIA Shield.
+
+Still, it's easy to excuse the visual imbalance for the sake of the RealSense camera's capabilities. Krzanich fired up his tablet's camera app to show off the camera's depth-mapping capabilities, beckoning me to touch the screen and drag between two points. This caused the app to draw a line under my finger, actively measuring the distance between the points. Krzanich says the camera can map a depth of several meters, and anything within that range can be accurately measured by the Venue 8 7000's onboard software. The app will also have refocus and filtering technology, and Intel hopes that it will spark new ideas in the minds of developers.
+
+Details on the Dell Venue 8 7000 (and the longterm implications of RealSense) are still scarce, but in the few minutes I spent with the tablet, I was impressed.
+
+

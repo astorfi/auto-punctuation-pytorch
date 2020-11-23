@@ -1,0 +1,6 @@
+
+ 
+Prefer to load media onto your Windows Phone 7 device the old fashioned way? Then it looks like your solution is just a simple Windows registry hack away. Coming shortly after the USB tethering hack, the folks at Mobile Tech World have now discovered that you can effectively turn your Windows Phone into a USB drive by modifying just three entries in the registry of your Windows desktop PC. Once done, you'll be able to drag and drop files to your heart's content -- albeit only on a computer that's had the registry hack done, of course. Hit up the source link below for the complete details.
+      
+
+ 

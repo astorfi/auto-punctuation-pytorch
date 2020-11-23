@@ -1,0 +1,10 @@
+
+Windows, Mac and Android users are no longer alone in their access to Google Drive's online repository. Now iOS and Chrome OS users can install a client and pull down their data and docs (though, the promised Linux client was nowhere to be seen at IO). The iOS app has all the features that make Drive drive great on Android, including OCR and picture recognition. As part of the demo, Clay Bavor, Director of Product Management for Google Apps, showed off the apps ability to decipher and index text from receipts he had taken a picture of. Perhaps more impressive though, was his ability to simply type "pyramids" and have his vacation snapshots pop up. There was no metadata attached to the images identifying them as the pyramids in Egypt, Google was able to recognize the landmarks by analyzing the photos.
+
+
+Obviously, Drive and seamless integration with it is key to Chrome OS's success. Now the browser-based OS finally has a native Drive client allowing you to quickly sync and access your data on the lightweight Linux machines. The ability to sync files with Chrome OS is great, but more importantly, an update to the web service has now made offline editing available -- perhaps the most requested feature. Now with offline access ironed out and all the major desktop and mobile OSes under it's belt Drive may actually be ready to challenge peripheral competitors like Dropbox.
+
+
+Check out our full coverage of Google I/O 2012's developer conference at our event hub!
+
+

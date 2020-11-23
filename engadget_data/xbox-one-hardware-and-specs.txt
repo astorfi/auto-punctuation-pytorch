@@ -1,0 +1,24 @@
+
+Slot-loading Blu-ray drive? Check. HDMI out and in? Absolutely, considering the Xbox One is meant to play a central role in the living room. There's an octa-core processor based on AMD's Jaguar design and 8GB of RAM to go up against the Sony PlayStation 4, plus USB 3.0 ports, 500GB of hard drive storage, WiFi Direct for communicating with the new controller and other devices, and a humungous amount of silicon to drive it all: no fewer than five billion transistors, which compares to 1.4 billion in your average Intel or AMD chip (although Microsoft may have included other processors and DSPs in that count). And just in case you're wondering, the switch to an x86 PC-style architecture will indeed preclude backwards compatibility with 360 games.
+
+
+As for the box itself, well, it looks rather a like a little HTPC with a black and silver case and a big Xbox logo -- a visage that actually tallies with those PC-inspired internals. There's a full list of specs after the break, which we're expanding as more details pour out of Microsoft's Xbox One ongoing launch event.
+
+
+
+
+Processor and graphics: as rumored, a heavily customized AMD chip that combines an eight-core CPU, a GPU tailored for DirectX 11.1 graphics and 32MB of high bandwidth embedded ESRAM memory. The 28nm chip will consume around 100 watts, which is slightly higher than current Xbox Slim and PS3, but Microsoft promises noise from the cooling fans will be "four times quieter."
+
+System memory: a Sony-rivaling 8GB of RAM, although it'll be DDR3 instead of the PlayStation 4's GDDR5.
+
+Audio and video: 1080p and 4K both supported; 7.1 surround sound.
+
+Kinect: This will be bundled with the console and contain 250,000-pixel infrared depth sensor as well as a regular 720p web cam.
+
+Storage and media: a 500GB hard drive of unknown speed plus a Blu-ray / DVD combo drive that will be used as little as possible. We're told disc-based games will be ripped to the HDD automatically.
+
+Connectivity: HDMI 1.4 output and passthrough; a "few" USB 3.0 ports; gigabit Ethernet; plus, three separate 802.11n radios to allow the console to communicate with its controller (over a form of WiFi Direct) as well as other devices (such as perhaps other Windows-based phones and tablets) without losing its connection to the internet. At other times, two radios could be used to maintain a stronger WiFi signal.
+
+If the spec you're looking for isn't on this list, that's likely because Microsoft hasn't revealed it yet. We've requested further details and will update as and when we hear more.
+
+

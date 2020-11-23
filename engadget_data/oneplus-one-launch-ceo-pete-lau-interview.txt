@@ -1,0 +1,51 @@
+
+Rarely do we see a tech startup spending five months actively hyping up an unborn product; and when we do, most of them end up being vaporware. Luckily, that's not the case with OnePlus. Today, the Shenzhen-based company has finally unveiled its first smartphone, the One (not to be confused with the HTC One). While the device's impressive specs have already been listed in detail beforehand, OnePlus had remained tight-lipped about the actual prices (unsubsidized) until today: $299/£229/€269 for the 16GB model, and $349/£269/€299 for the 64GB flavor; both due mid to late May. This aggressive pricing is obviously going right after the Nexus 5 ($349 for 16GB, $399 for 32GB), but is this too good to be true? 
+
+
+
+
+
+
+
+Let's take a look at the specs again. As promised, the One packs Qualcomm's latest SoC, the Snapdragon 801 with a quad-core 2.5GHz CPU, Adreno 330 GPU and 3GB of RAM. The display uses JDI's 5.5-inch 1080p IPS LCD panel, and it's protected by a layer of Corning Gorilla Glass 3. You'll also find a built-in 3,100mAh battery, a speedy 13-megapixel f/2.0 camera (Sony Exmor IMX214 sensor with a 6-lens module and dual LED; 4K video; 720p slow-motion at 120 fps), a 5-megapixel wide-angle selfie cam, loud stereo speakers (tuned by JBL) and tri-microphone with noise cancellation. These are all flagship-level features, though we would've liked to see microSD expansion, USB 3.0 and Quick Charge 2.0 here.
+
+On top of the usual NFC, dual-band WiFi, Bluetooth 4.1 plus GPS radios, the One's international version also supports LTE bands 1/3/4/7/17/38/40, as well as WCDMA bands 1/2/4/5/8. Yep, that's pretty much the whole world covered.
+
+The external design of the phone is just as nice. In fact, the One is built by CEO Pete Lau's former company, Oppo, so you'll spot some similarities in terms of build quality, appearance (the back reminds us of the Find 5) and ergonomics. We totally dig the subtle curves on the back that contribute to a comfortable grip, plus these shave the phone's 8.9mm thickness down to just 4.6mm on the tapered edges, making the phone appear slimmer.
+
+
+What's more, OnePlus took one step further and applied corresponding textures onto the back of the "silk white" and "sandstone black" versions. The white one is our favorite, as its special coating -- apparently made out of powdered cashew nuts -- gives a "baby skin" feel, which is most noticeable when you gently stroke it with your cheek. If you do get bored of the default covers, you'll be able to swap them out. You do so by first pin-ejecting the micro-SIM tray, followed by somehow prying open the back cover -- which we found to be quite tricky with our early production unit. As you can see, there will be a few nice genuine wooden covers, along with a denim version and a Kevlar version not shown here; though the company has yet to announce their availability.
+
+On the software side, the One's international version is powered by CyanogenMod 11S -- the "S" indicating customization for the One -- based on Android 4.4; whereas its Chinese counterpart runs on a customized Color OS from Oppo, with the main difference being the icons and some settings. For those who aren't familiar, CyanogenMod is essentially a plain, slick Android ROM with some nice enhancements and handy customization options. While the Oppo N1 had a CyanogenMod limited edition, the OnePlus One is truly the first phone that is shipped with this popular ROM and its branding on the back.
+
+CyanogenMod alone comes with goodies like SMS encryption, themes, app privacy guard, audio equalizer, file manager, enhanced camera app and more. With CM11S for the OnePlus One, you also get screen-off gesture controls (circle for camera, "V" for flashlight and gestures for music playback; as featured on the Oppo N1), option to toggle between capacitive Android buttons and on-screen buttons, voice wakeup (activates Google Now by default) and a card-style lock screen. These all sound pretty nice, but we'll have to see how well they fare in the final firmware.
+
+For the record, Lau said OnePlus is open to working with other ROM makers in China, including MIUI (by Xiaomi) and Smartisan OS, in order to offer more options for his users. The international version, however, will only receive official support for CyanogenMod initially.
+
+
+With the likes of Xiaomi, Meizu, Huawei, Nubia and IUNI all participating in the fierce price war in China, it may seem like there's barely any space left for a newcomer. But OnePlus' Lau disagrees, claiming that while the competitors offer attractive prices, they aren't serious enough about their products in terms of design, battery life, build quality, software and camera performance.
+
+Having seen how successful Oppo Mobile did in the overseas market via the e-commerce channels, Lau decided to give it a shot both locally and internationally by forming OnePlus, which is totally separate from his former company (with the exception of the current OEM relationship and a few common investors up top). His company's mantra is "never settle," in the sense that consumers shouldn't have to settle with lesser quality and limited options for the sake of cheaper prices.
+
+"We want to be the MUJI of the tech industry."
+
+"We want to be the MUJI of the tech industry, this is our direction," Lau said, while praising the Japanese lifestyle brand's simple yet well-made products. He added that in China, MUJI is a bit expensive for the local young consumers, so he aims to deliver MUJI quality at a lower price. While Xiaomi and similar Chinese e-commerce brands are targeting the same market, the OnePlus CEO said he's doing it with style, as consumers are now longing for higher standards.
+
+Lau is well known in the industry for his attention to detail. The exec confessed that his team spent almost four months just to fine tune the USB cable for the One -- he wanted to perfect its texture, plug design and other small details. The same goes for the anodized bezel that surrounds and protects the screen -- the former is carefully recessed by a fraction of a millimeter, which apparently took the team a few goes to get it just right. Even the camera is carefully optimized on the One: when Lau spotted this author's HTC One (M8), he quickly grabbed it to compare camera focus and capture speeds, which turned out to be just as fast or even slightly faster on his phone -- the spec sheet claims it has a 0.3-second autofocus. We'll save the image analysis for our review later.
+
+On the software side, Lau realized two personal requests: one is hardware-accelerated scrolling in WeChat, which is apparently missing in most other phones; and the other is a pop-out window feature in AutoNavi's navigation app, which offers you basic navigation instructions while you switch to other apps during slow traffic. Of course, the exec didn't forget to pimp the ability to toggle between capacitive buttons and on-screen buttons, which will no doubt please both camps. He mentioned several other sensible software tweaks, but you'll have to stay tuned for those.
+
+
+Even before his mobile days, Lau was already famous for one incident back at Oppo's AV division, where he smashed a Blu-ray player's logic board to, well, express his disappointment in a seemingly minor issue. This was pretty surprising to us, given how humble the man actually is.
+
+"The circuitry wasn't laid out neatly, and I didn't feel good about it no matter how I looked at it," Lau explained to this author. "We compared ours with Denon's -- theirs was laid out beautifully, but ours wasn't. When I had a word with my team, they gave me a bunch of excuses: this would affect the performance, that would be difficult to lay out. Eventually, I went to the head of R&D and smashed the logic board on the floor, stamped on it twice.
+
+"They then tweaked the design right away," the exec chuckled.
+
+As for the smartphone spec war, Lau is concerned that many competitors only care about numbers and are neglecting other important factors -- most notably, software smoothness. The exec added that right now the One has the fastest processor (2.5GHz) in the market, but if his next product doesn't, he will still ensure that it will at least have the slickest user experience, which is what users ultimately want in a smartphone. He likened this to a saying in the marketing world: if you're selling electric drills, you should know that the consumers are actually "buying" nicely-drilled holes instead of buying just the drill.
+
+"You can use all sorts of marketing tactics, but when you're back to making a product, you must take users' actual needs into consideration," Lau said. "They are the ones who will actually use it, so they know best. You can exaggerate when you're selling a product, but when the buyers use it and are left disappointed, they'll still complain, right?
+
+"Therefore products should go back to basics: the users must feel good when using our products. If the users want something, we'll do it."
+
+

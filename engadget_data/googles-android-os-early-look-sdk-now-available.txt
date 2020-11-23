@@ -1,0 +1,20 @@
+
+  
+Just like the good folks promised, the early look software development kit for Google's soon-to-be huge phone OS has hit the streets... er, internet. From what we can tell, the OS is as comfortable on larger, VGA devices as it is on more traditional smartphone layouts. Oh yeah... and it plays Quake. Here's what we know the software will support out of the box:
+
+Touchscreen
+3G
+Webkit-based browser
+Optimized Java runtime layer (known as Dalvik Virtual Machine)
+Threaded text messaging
+MPEG-4, h.264, MP3, and AAC file formats
+Accelerated 3D graphics
+
+Below you can see an alternate fullscreen version of the phone (a hardware reference model, not a device you can expect to buy anytime soon) up and running its browser app. If you really want to get serious, pedal your steam-engine over to the Open Handset Alliance site where you can download the SDK for a variety of platforms. You might want to get cracking on that code, too, as Google has created the Android Developer Challege, a contest meant to spur production on the devices, with a sweet $10 million pot that will be divided amongst winners. If you're not ready to jump into that game just yet, check out the gallery and view some videos after the break -- you'll see and hear more info about Android than you can shake a stick at.
+
+
+
+
+
+    
+ 

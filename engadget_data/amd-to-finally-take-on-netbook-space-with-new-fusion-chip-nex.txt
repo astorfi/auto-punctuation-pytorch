@@ -1,0 +1,8 @@
+
+       
+We've always said AMD should go after the gaping hole between netbooks and thin-and-lights by releasing a low-power platform with solid graphics abilities, and it looks like the company's finally coming around -- AMD's John Taylor just told us that the chipmaker will be releasing a netbook-class Fusion CPU / GPU hybrid codenamed "Ontario" with integrated DX11 graphics sometime next year. If Ontario sounds familiar, it's because we've seen it leaked in the past -- it's a part of the "Brazos" platform built around the low-power Bobcat core. Of course, AMD has been promising Fusion chips of all stripes for years now without a single shipping part, so saying that a Fusion chip will get it into the netbook game in 2011 is mildly amusing -- while AMD's definitely turned things around, it's still incredibly late to the low-end party, and Intel's solidly beaten it to the hybrid CPU / GPU punch with the Core 2010 and Pine Trail Atom chips. Add in the fact that NVIDIA's Optimus-based Ion 2 chipset seemingly offers the extended battery life of Atom with the performance of a discrete GPU, and we'd say the market niche Ontario is designed to fill may not actually be so niche when it finally arrives. We'll see what happens -- a year is a long, long time.
+
+[Image via OCWorkbench]
+      
+
+ 

@@ -1,0 +1,65 @@
+
+Where were you the day the internet died?
+
+
+Last Friday the internet had its biggest hiccup to date when a whole bunch of major websites were maliciously knocked offline. Harnessing the weak security of internet-connected devices, like DVRs and cameras, the attackers used botnets implanted on the devices to traffic-overload the one business keeping those sites' domain names functional.
+
+
+
+It was devastation by way of smart toasters and web-enabled vibrators. The bot-herders knocked out a range of sites including Amazon, Netflix, The New York Times, Reddit, Twitter, Spotify, Playstation, Airbnb, Heroku, Vox, The Boston Globe, PayPal, and many others.
+
+Reactions were as you'd expect. Wikileaks was sure it was all about them. Fingers were pointed at Russia. Infosec smarty-pantses blamed consumers for doing security wrong. Hackers said "I told you so" (and they were right).
+
+Lots and lots of people got justifiably mad at companies who make insecure products. Major outlets demonstrated their infosec illiteracy by calling the incident a new kind of weapon, and describing DDoS as a hack. It was all very annoying.
+
+It's okay, I'm impressed by size, tooNothing about it was new, nor did it come as a complete surprise for those familiar with IoT security, save for the size and length of the hit.
+
+The October 21st takedown was a huge DDoS (short for Distributed Denial of Service) and it lasted the better part of the workday in the US. The attackers smartly targeted Dyn, a major East Coast domain name service (DNS) provider, and the effect was stunning. It was especially harsh on businesses that don't host their DNS across different providers, putting all their domain eggs in Dyn's one basket.
+
+The attack was done via the Mirai botnet. This is a network of bots implanted in computers and internet-connected devices that respond to the commands of their controller, all unbeknownst to whoever owns the infected computer or smart toilet. Botnets have been around and used for DDoS for as long as there have been internet connected devices, and they are as easy to build as they are to rent or buy.
+
+In 2012 an anonymous security researcher published the Internet Census 2012, revealing that they'd created a botnet called Carna in over 400,000 embedded devices, such as printers. Their botnet was designed to deliver information from infected machines to create a census of connected -- and vulnerable -- computers and devices.
+
+That same year botnets emerged in the popular consciousness when security firm TrendMicro released their report Russian Underground 101, revealing that botnets were available for around $2 an hour, or $700 wholesale. In 2014, infosec company Proofpoint found an attack in which over 100,000 conventional household "smart" appliances had been turned into a botnet for spam attacks.
+
+This isn't the first time a DNS business has been targeted in a botnet attack. In June 2004, Akamai DNS servers were targeted in a botnet DDoS that took out access to the websites of Apple, Google, Microsoft and Yahoo.
+
+Nothing here is new. The only thing different is that IoT devices, and their widely known issues of shitty security, can no longer be ignored. They're being demonstrated as powerful tools of disruption and possible destruction, and with our economy and politics delicately balanced on the internet, we all have a lot to lose.
+
+The Botnet of ThingsAnd what a demonstration it was. If someone's selling botnet services, that was a hell of a sales pitch. Forget taking out your enemy's website -- now you can take out their whole country. It might also be a test case for future attacks.
+
+Either way, this week we've been awash in think pieces. On one hand, it's like every luddite has his day as tech-phobic pundits insist that the sky is falling and everything is broken -- not helpfully contributing to the security and breach fatigue we already experience.
+
+I don't remotely expect anything resembling security from connected appliances. The makers of "smart" refrigerators, internet enabled DVRs, and even IP surveillance cameras aren't trying to do security. Nor do they care. There are some exceptions, of course, like with Nest and other difficult to exploit specialty items. And some devices, like routers, are known for being "dual purpose" home implants, like Huawei's famously backdoored routers, which worked fine as routers, and also pretty great for spying on whatever network they were configured to.
+
+Other think pieces this week are about how we can try to stop our unwilling participation in the botnet-of-things we're suddenly a part of. Preventing the next attack is the name of the game, but it's one we're very late to.
+
+And while the suggestions are great, they're far over the heads of non-technical IoT consumers. Most users of these devices are only recently aware of how hackable their connected teakettle is. And they're pretty settled into what they can do about it, which is a whole lot of "not much."
+
+
+Security industry figureheads such as Dan Kaminsky think it's a long overdue wake-up call to force the security industry, along with hardware and software makers, to improve themselves, and fast. Telling press that this might finally be the cold shower vendors needed, Kaminsky said "The unifying principle of the internet is reliability, and systems went down. That tends to cause improvement. 'If we don't do this, bad things will happen' is not as compelling as 'if we don't do this, bad things will happen again'."
+
+If the makers of these addictively convenient gadgets are consistent in one thing, it's a business strategy of 'sell more, fix it if we get bad press'. And they will keep going this way until something major happens to change it. We have little choice in the matter.
+
+So far, only one vendor has responded to the October 21st attacks. After it was identified by security researchers as having made devices used in Friday's takedowns, Chinese firm Hangzhou Xiongmai Technology was compelled to recall some of its surveillance webcams sold in the US.
+
+Like many other web-connected products of its kind, Xiongmai's cams were called out for being shipped with basic security flaws. The company will only be recalling 10,000 cameras.
+
+XiongMai is recalling 10,000 of their 500,000+ insecure IoT products. That's only 2 percent. https://t.co/Jqzewpi0mI
+— Jeremy Kirk (@Jeremy_Kirk) October 26, 2016China, for its part, is taking the attention as a personal insult. Rather than offer to examine security practices for the betterment of all, the country is blaming users for not doing security right, and threatening to sue anyone who says China's companies have crap security practices. But I guess you can't blame them for being sensitive after the whole Huawei-backdoor debacle.
+
+Companies and users aside, everyone wants to know who did it. Security company FlashPoint pointed the finger at "script kiddies" or "skids" -- derisive terms for junior attackers who do the hacking equivalent of serving soup from a can and trying to pretend they made it from scratch. F-Secure's Mikko Hypponen agreed, telling TechCrunch, "I think they are right. I don't believe the Friday attackers were financially or politically motivated. It was such an untargeted attack, it's hard to find a good motive for it. So: kids."
+
+In a departure from the season's sabre-rattling at Russia, the US government said it thinks skids did it, too.
+
+Snatching the spotlight from Wikileaks and skids alike, a crew called New World Hackers took credit this week -- and then promptly retired. Before hanging up their black hats, NWH gave an interview to We Are Change, and gave a convoluted reason for Friday's attack: to threaten the Russian government into leaving the US elections alone.
+
+"The reason for this attack was simply because Russia is against the U.S.," they told We Are Change. "We wanted to send Russia a warning, so they would think twice before performing cyber attacks against the U.S. Wikileaks is our friend, also, and we will leave that statement as is."
+
+Whether or not New World Hackers did it, one thing is true: Some hackers don't give a fuck. The hackers who sucker-punched Dyn potentially have the ability to change the conversation about the way these big companies are playing chicken with both our device security and the fragility of the internet's structures, but they didn't. Instead, they did something that was big, and somewhat artful, but fell short of having any purpose other than giving us a short break from Reddit's Trump troll hive.
+
+I have no problem with artful attacks, and I'll even cheer for them if they restore a little justice somewhere. Like Hacking Team and PhineasFisher, or the Panama Papers.
+
+Those are great stories. But this story, of October 21st and weak device security taking out swaths of the internet, is destined to end poorly. And it will do so by design.
+
+

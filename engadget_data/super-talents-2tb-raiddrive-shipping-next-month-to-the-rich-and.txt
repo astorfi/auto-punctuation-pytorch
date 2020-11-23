@@ -1,0 +1,6 @@
+
+ 
+Remember that 2TB PCIe RAIDDrive we peeked earlier this year? Yeah, that was no April Fool's joke. Super Talent's answer to OCZ Technology's Z-Drive is on track to ship next month, shortly after it makes a quick stop by IDF next week. The device slots into one's PCIe bus and utilizes a RAID architecture specifically tailored to work with NAND flash memory. In fact, the outfit has actually boosted the transfer speeds from the 1.3GBps estimate to a 1.4GBps promise. The aluminum enclosure houses four discrete SATA SSDs, with the RAIDDrive GS being the model that tops out at 2TB. For those able to deal with "just" 1TB, there's the RAIDDrive ES and RAIDDrive WS, both of which are detailed further in the read link. No exact pricing has been nailed down yet for the flagship unit, but considering that the 1TB RAIDDrive GS is pegged at $4,999 for OEMs, we'll let your imagination do the rest.
+      
+
+ 

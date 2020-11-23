@@ -1,0 +1,5 @@
+
+  Google has already proven it can load web pages as fast as lightning and flying potatoes, but its "Make the Web Faster" team has grander designs. The speed junkies want to quicken the internet by reworking Transmission Control Protocol (TCP), a key communications method that helps keep the internet working. Google says that it can reduce latency and speed things up by increasing the amount of data that initiates a TCP connection, reducing the initial timeout from three to one seconds, consolidating packets using its new TCP Fast Open protocol and adopting a better algorithm for managing network congestion. These changes are backwards-compatible and open source, but sadly don't include any way to speed up internet standards ratification and deployment, so ironically this might take a while.
+      
+
+ 

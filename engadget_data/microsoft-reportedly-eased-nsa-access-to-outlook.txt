@@ -1,0 +1,4 @@
+
+Tech firms say they aren't giving the NSA  direct access to their servers, but that might not even be necessary. The Guardian reports that Microsoft, at least, is making it easy to snoop on services from the outside. Documents provided by Edward Snowden claim that Microsoft helped the NSA bypass Outlook.com chat encryption, even before the product launched; reportedly, it also simplified PRISM access to both SkyDrive and Skype conversations. The company denies offering any kind of carte blanche access, however, and insists that it only complies with specific, legal requests. Whether or not that's true, we can only know so much when Microsoft is limited in what it can say on the subject.
+
+

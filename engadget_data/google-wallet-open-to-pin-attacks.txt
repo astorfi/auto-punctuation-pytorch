@@ -1,0 +1,8 @@
+
+  Security hounds over at zvelo have discovered a vulnerability in Google Wallet that means your precious PIN can be "easily revealed." Digging through the app's code and using Google's open resources to reveal its contents, they uncovered a piratical treasure trove of data: unique user IDs, Google account information, and the PIN stored as a SHA256 hex-encoded string. Since this string is known to carry four digits, it only takes a "trivial" brute-force attack involving a maximum of 10,000 calculations to decode it. To prove their point, the researchers made a Wallet Cracker app -- demoed after the break -- that does the job quicker than you can say "unexpected overdraft."Google has been receptive to these findings, but its attempts at a fix have so far been hampered by the need to coordinate with the banks, since changing the way the PIN is stored could also change which agency is responsible for its security. In the meantime, zvelo advises that there are some measures users can take themselves, aside from putting a protective hand over their pockets: refrain from rooting your phone, enable your lock screen, disable USB debugging, enable Full Disk Encryption and keep your handset up-to-date.Update: Google has responded by emphasizing that it's only users of rooted devices who are at risk. In a statement to TNW it said: "We strongly encourage people to not install Google Wallet on rooted devices and to always set up a screen lock as an additional layer of security for their phone."[Thanks to everyone who sent this in.]
+      
+
+ 
+
+ 
+ 

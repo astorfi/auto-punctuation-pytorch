@@ -1,0 +1,9 @@
+
+
+
+It was just over a month ago when NVIDIA's handheld, Shield, got the ability to stream Android games to TVs at 1080p resolution via Console Mode. Today, it can now do the same for PC games thanks to a software update that also brings improvements to 720p streaming mode and its Gamepad Mapper feature, too. Of course, the Gamestream technology that powers Shield streaming officially supports a limited number of games at the moment, with Batman: Arkham Origins, Borderlands 2 and Assasin's Creed IV: Black Flag among the highlights. In all, 63 games are currently available to stream in full HD, with more titles scheduled to be added every week.
+
+
+With Gamepad Mapper, users can now map motion controls to physical ones. So, instead of tilting your handheld from side to side in the games designed to do so, you can map those gyro inputs to the Shield's thumbsticks instead. And, to better let folks know of all the custom control possibilities, NVIDIA is rolling out a community beta feature that lets folks share and rate different control map profiles. Lastly, if you have a Shield and live in Northern California, you can now get in on NVIDIA's GRID beta. For folks who aren't familiar, GRID is NVIDIA's cloud gaming technology, similar to Gaikai and OnLive. So, folks with a sub-40ms ping time to NVIDIA's San Jose, Calif., servers and a minimum 10 Mbps connection through a GameStream-ready router can get exclusive access to the service's library of games on their Shield. Looks like Christmas came early, folks, so head on down to the source for the info needed to grab all the goodies.
+
+

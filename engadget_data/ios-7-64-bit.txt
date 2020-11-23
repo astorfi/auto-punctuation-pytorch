@@ -1,0 +1,6 @@
+
+In addition to announcing its new 64-bit A7 chip, which will power the flagship iPhone 5s, Apple also revealed that iOS 7 itself will be 64-bit. This means a native 64-bit kernel, along with 64-bit libraries and drivers. Accordingly, all of the native apps that come baked into iOS have been retooled to serve up faster performance (don't worry, iOS 7 will still run 32-bit apps from third-party developers). For devs who do want to make the switch, Apple is promising a "seamless" transition, though details are light at the moment. In the meantime, between the A7 chip and this software tune-up, Apple is promising the CPU performance will be 40 times what we saw in the original iPhone. Then again, comparing the new iPhones to the one that came out in 2007 isn't a very helpful comparison -- you might just have to wait for our initial hands-on and, later, a full review.
+
+
+Check out all the coverage at our iPhone 'Special Event' 2013 event hub!
+

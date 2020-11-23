@@ -1,0 +1,18 @@
+
+
+As immersive as a game like Blizzard's World of Warcraft might feel sometimes, the truth of the matter is that
+you're probably still viewing the action on some lame old 2D monitor, not the rosy future we envisioned, not by a long
+shot. Well Neorok Optics is restoring some of our faith in humanity with their new prototype iz3D monitor that they're
+showing off at Blizzard's Blizzcon event. They create a 3D effect by modifying a traditional monitor with
+polarized glass, and providing polarized
+glasses to the viewer, resulting in each eye being shown a different angle of the action. To make a 3D image from the
+2D render provided by the game engine, they use an Nvidia card with dual DVI outputs and stereo drivers, then their
+hardware box takes those images and analyzes them to figure out what's in the foreground and background. The results
+are of course "simulated" 3D images, but they're hoping for more integration with Nvidia in the future, so hopefully
+better things are to come. The 17-inch display should be available in December for $1499, with a 19-inch and 23-incher
+in the works.
+
+
+
+
+ 

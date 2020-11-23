@@ -1,0 +1,5 @@
+
+ 
+AMD has already outlined its plans to harness the power of its GPUs for some added computing muscle, and it looks like NVIDIA is now taking things one step further by announcing its new GPU-based Tesla Personal Supercomputer, which promises to deliver the power of a traditional supercomputer cluster at 1/100th of the price. That "personal supercomputer" is actually a platform based on NVIDIA's new Tesla C1060 GPU Computing Processor, which itself is based on NVIDIA's CUDA parallel computing architecture. The supercomputers themselves will come from a whole host of manufacturers that have already partnered with NVIDIA, including ASUS, Dell, Lenovo, and a number of more specialized computer makers. While complete details on those systems are still a bit light at the moment, they'll apparently be "priced like a conventional PC workstation," and the first few out of the gate should be available starting today.
+
+ 

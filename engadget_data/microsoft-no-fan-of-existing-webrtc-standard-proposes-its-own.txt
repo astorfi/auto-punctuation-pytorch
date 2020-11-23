@@ -1,0 +1,5 @@
+
+ 
+ Microsoft, objecting to a web standard promoted by its competitors? Get out. While Firefox, Opera and now Chrome have implemented WebRTC on some level for plugin-free VoIP and webcam chats, Microsoft doesn't think the existing, proposed standard is up to snuff for linking with existing devices or obeying "key web tenets." It's suggesting a new CU-RTC-Web standard to fix what it claims is broken with WebRTC. Thankfully, the changes are more technical improvements than political maneuvering: Microsoft wants a peer-to-peer transport level that gives more control as well as to reduce some of the requirements that it sees holding the technology back as of today. There's no doubt an economic incentive for a company that wants to push Skype in the browser, but the format is already in front of the W3C and could become a real cross-platform standard. If other W3C members are willing to (slightly) reinvent the wheel, Microsoft's approach could get Chrome and Internet Explorer users talking -- no, really talking.
+
+

@@ -1,0 +1,7 @@
+
+ 
+
+Ever since Allerta released an SDK for its well-hyped inPulse smartwatch, it was only a matter of time before we start seeing more practical applications that take this Bluetooth peripheral beyond the BlackBerry ecosystem. For instance, the latest example comes from the inPulse's very own Lead Designer Eric Migicovsky, who happens to be a fan of Facebook Places and possibly an Android convert. Rather than having to pull out his Nexus One for every check-in, Migicovsky can now use his simple app on his inPulse to grab a list of nearby locations off the phone, and then check in with just a click of a button. Pretty neat, eh? For those interested, you can grab the project code off inPulse's website and get programming.
+      
+
+ 

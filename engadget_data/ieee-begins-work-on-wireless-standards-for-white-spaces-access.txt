@@ -1,0 +1,6 @@
+
+ 
+We're probably still months, if not years out from seeing this whole white space debate amount to anything productive, but at least the IEEE is already toiling away on two new standards to address architecture and interfaces for white spaces access. In an admittedly jargon-filled release, the group responsible for keeping 802.11n in draft status for 14 centuries has reportedly approved work to begin on a new duo of protocols for "heterogeneous wireless networks based on the existing IEEE 1900.4 standard." The group specifically mentions IEEE P1900.4a, an amendment to 1900.4 which aims to "examine architecture and interfaces for dynamic spectrum access networks in white space frequency bands." Said standard would basically act to define new components for operating in white space frequencies, and with standardization will hopefully come easier implementation of widespread broadband. Check back in a score or so to see if we've made any progress.[Via dailywireless]
+      
+
+ 

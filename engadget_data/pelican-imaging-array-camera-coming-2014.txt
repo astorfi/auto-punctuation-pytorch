@@ -1,0 +1,20 @@
+
+After yesterday's news about Nokia investing in Pelican Imaging's plenoptic camera system, it was hard not to feel impatient about exactly when this technology might arrive in real, commercially available smartphones. Well, we have an update on that front: although the company's CEO, Chris Pickett, wouldn't tell us which OEM(s) he's been talking to, he did say that his product is currently being trialed by device manufacturers and is scheduled to be part of at least one new smartphone launching in 2014. Now, this next bit is pure speculation on our part, but given that carrier testing alone can take six months, and we're already nearly halfway through 2013, this strongly implies that a hardware deal has already been inked -- which means next year could potentially bring the biggest news in smartphone cameras since the eternally underappreciated Nokia PureView 808. Speaking of which, Pelican Imaging also has some intriguing things to say about what could happen if its array camera was paired with Nokia's PureView technology -- read on for more.
+
+
+
+
+The remarkable thing about Pelican's array camera is that it uses 16 distinct lenses and imaging channels in a 4x4 grid, as opposed to the traditional smartphone camera that has just one of everything. Each sub-camera captures only one color (red, green or blue), which improves image quality by removing the noise that results from cross-talk -- in much the same way as a pro video camera uses three separate sensor chips for each color.
+
+Moreover, since there are small distances between the sub-cameras, their output also contains 3D depth information. With clever software -- which is actually Pelican's specialty, moreso than hardware -- all this info can be translated into a single JPEG file that's just 20 percent larger than a regular JPEG but contains some major advantages. Namely, a Pelican JPEG should have less noise at low light, and it should contain focus information for an entire scene, allowing the user to select the desired focus point Lytro-style, even after taking the image. (In fact, doing away with autofocus also has the happy byproduct of making the Pelican camera thinner and cheaper to manufacture, since it has no moving parts.)
+
+Now, what if all this imaging power could be combined with Nokia's PureView technology, including the 41MP sensor of the PureView 808 and the floating lens stabilization of the Lumia 920? It's an inevitable question, now that Nokia's investment arm has a substantial stake in Pelican's business. And although Pelican won't say anything about its working relationship with Nokia (or even if there is one), the company's CTO, Kartik Venkataraman, did reveal the following:
+
+"Our technology is not mutually exclusive with Nokia's. We can take elements of what they're doing and improve what we can do. There are some synergies that will lead to some pretty exciting possibilities that we're actually beginning to work on today, although I can't talk about it yet."
+
+In terms of synergies, Ventakatarman specifically pointed out that depth information can be used to add intelligent digital image stabilization to the camera system, resulting in even smoother images. Instead of treating camera shake as a single, global motion that needs to be corrected, different degrees of motion at different distances from the lens can be corrected individually -- i.e., "3D stabilization." No doubt, it's talk like that which led Nokia to place a bet on Pelican in the first place, and we can't wait to see how it pans out.
+
+In the meantime, the gallery above contains some sample images from Pelican's reference design, which currently is hobbled by slow f/3.1 glass and pixels that are "four generations old," but it at least helps to establish how real and how feasible this technology already is. For further backround, the second half of the video below shows the reference design running in a tablet powered by a Qualcomm Snapdragon 800 -- and it's no coincidence that Qualcomm stepped up as another major investor during Pelican's latest round of fundraising.
+
+
+

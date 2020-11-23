@@ -1,0 +1,10 @@
+
+ 
+It's still going to be a little bit before you can get your hands on a Xoom, but if you'd like to start playing with the Honeycomb SDK right now -- and hey, developers, we'd encourage you to do just that -- Google's now made it possible. A version of the Android 3.0 SDK billed as a "preview" is now available for download, featuring "non-final" APIs and system images that will help would-be Android tablet devs get their feet wet as they prepare for an inevitable onslaught of these things over the next few months. So go on, get it while the gettin's good.
+
+Among the more delicious promises from Google are tablet-specific UI elements like "richer" widgets and notifications, a built-in GL renderer that permits GPU acceleration of both 2D and 3D visuals, and support for multicore processor architectures. Yay for making the most out of the available hardware.
+
+[Thanks, D]
+      
+
+ 

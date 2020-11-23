@@ -1,0 +1,6 @@
+
+ 
+It's just taken a relatively short six months, but it looks like the team behind the Open Computing Language (or OpenCL) have already delivered the final spec for the standard, which puts it right on track for inclusion in OS X Snow Leopard. In fact, the team credits Apple with helping them meet the "impossible deadline," with Intel's Tim Mattson saying that Apple's decision to "support it in Snow Leopard was a huge plus to us," even if it forced them to "divorce our families" and left them "almost dead." The standard itself, which allows for greater leveraging of GPUs and other hardware, isn't quite ready to be implemented just yet, however, as it still has to go through the final stage of being vetted by all 20 partner companies for patent issues and whatnot. Once that's done, which will take a "minimum" of 30 days, they'll release the actual spec and begin the usual round demos.[Via Ars Technica]
+      
+
+ 

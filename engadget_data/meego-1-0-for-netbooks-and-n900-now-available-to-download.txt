@@ -1,0 +1,8 @@
+
+ 
+You've seen it teased, and now it's time to shelve whatever you had planned for this evening (or morning, depending on your current coordinates) and slap the first bona fide 1.x MeeGo release onto whatever device you've got handy. As of right now, MeeGo v1.0 for Netbooks and v1.0 for Nokia N900 are available for download, with the former supporting Atom-based machines and the latter supporting... well, we'll let you take a stab there. The API that's being released includes Qt 4.6, and while the current SDK is tailored for netbooks, the next version -- slated to hit devs in June -- will support "touch-based devices, such as handsets and tablets." We're also told that v1.1 will be outed in October, with the development tree already being open. We're certainly digging the layout shown here at a glance, but why not give that source link a visit and find out how it suits you in real life? We heard Snooki totally digs it, too.
+
+[Thanks, Ernst]
+      
+
+ 

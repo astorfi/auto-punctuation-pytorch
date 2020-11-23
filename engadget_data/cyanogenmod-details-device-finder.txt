@@ -1,0 +1,4 @@
+
+While there's no shortage of tools to find lost Android smartphones, they're not especially secure; it's theoretically easy to spy on a handset without consent. The CyanogenMod team may foil those would-be snoopers with its newly detailed Device Finder service. Unlike many locators, Device Finder avoids storing passwords and encryption keys on its servers. Only the user's browser and the missing gadget know how to talk to each other, reducing the chances that ne'er-do-wells will steal logins or conduct man-in-the-middle attacks. The optional tool will eventually find its way into future CyanogenMod ROMs, although the developers have already posted source code for those who want to verify Device Finder's security first-hand.
+
+

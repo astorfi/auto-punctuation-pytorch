@@ -1,0 +1,6 @@
+
+ 
+After a ground-swell of angry Barracuda owners voiced concern over their failing disk drives, Seagate has fessed-to the issue. According to Seagate, a firmware bug in Barracuda 7200.11, DiamondMax 22, and Barracuda ES.2 SATA drives could make the disks "inaccessible when the host system is powered on." Right, inaccessible -- Seagate assures owners that data is not lost (it's still on the disk). However, should data loss occur, it's providing a free data recovery service. Hit the read link to find out if your drive is affected. If so, a link is provided to contact Seagate to expedite resolution on a case-by-case issue. Good on ya Seagate, way to flip a public relations fiasco into a customer support victory.[Via The Register]
+      
+
+ 

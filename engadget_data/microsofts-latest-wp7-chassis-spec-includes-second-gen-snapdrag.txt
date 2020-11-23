@@ -1,0 +1,9 @@
+
+ 
+The minimum specs for Microsoft's Windows Phone 7 OS have taken a nice bump upwards, it has been revealed at this year's MIX. Current WP7 handsets are all running the Qualcomm MSM8x50 Snapdragon, the original 1GHz chip with Adreno 200 graphics, but Microsoft has now upgraded the requirement to Qualcomm's second-gen part, the MSM8x55 and the more powerful Adreno 205 GPU. That's already seen widespread adoption among devices like the HTC Thunderbolt and Xperia Play, but Microsoft isn't content with just one option and is also throwing in Qualcomm's MSM7x30, a fine multimedia performer that's already hit the market inside the T-Mobile G2. The latter part also comes with Adreno 205, making it a constant of future Windows Phone devices, while the option to include a gyroscope has also been provisioned for. Video of the MIX 11 session explaining these tweaks and much more about WP7 architecture can be found after the break.
+      
+
+ 
+
+
+ 

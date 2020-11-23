@@ -1,0 +1,6 @@
+
+ 
+Struggling with your new iPhone on a 64-bit Windows Vista or XP system? Take solace, you're not alone. The error message, "The software required for iPhone is not installed. Run the iTunes installer to remove iTunes, then install iTunes again." is Apple's magical way of telling you that iTunes is not supported on 64-bit flavors of Microsoft's operating systems. Yeah, we agree, they should have listed the incompatibility on the iPhone specs page under Windows System Requirements. Unfortunately for those of you new to Apple software, it's buried in support article 301301 which states, "iTunes is currently not supported in Windows XP Professional x64 Edition or any 64-bit edition of Windows Vista." Now you know. Update: Apple's official (read: the non-marketing document which no one reads) iPhone: Minimum system requirements document does say that "64-bit editions of Windows are not supported." Go ahead, try to find it in the small print, we'll wait... [Thanks, Rishard and Andy G.]Read -- iLounge 64-bit thread Read -- Apple support forum thread Read -- Apple article 301301Read -- iPhone Technical Specification
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+It's been a long, hard road for Intel in the mobile space, but it looks like things are about to get brighter: speaking at the Barclay's Capital Global Technology Conference today, CEO Paul Otellini said that some 35 Moorestown tablets running a mix of Windows, Android, and MeeGo would arrive in 2011. (No wonder the company just formed a tablet and netbook division.) What's more, he provided a handy chart showing the OS breakdown by vendor: Toshiba, Dell, Fujitsu are going Windows-only, while Asus and Lenovo are building both Windows and Android products, and Acer's going straight MeeGo. (Remember, Acer's using AMD in its Windows tablet.) That's pretty much right on schedule, and we'd expect to see several of these at CES, but not all the news is so rosy: Otellini also said that Medfield-based smartphones won't arrive until "mid-2011," which is a bit of a delay from the "first half of 2011" we'd been told in June. Sure, it doesn't sound like the end of the world, but ARM-based competitors like Qualcomm, TI, and NVIDIA continue to push ever farther ahead with multicore designs, and Intel can't very well catch up with delayed parts. Then again, if Intel can really deliver the performance and efficiency it's been promising it might not matter -- we'll see what CES has in store.
+      
+
+ 

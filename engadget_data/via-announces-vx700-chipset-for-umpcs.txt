@@ -1,0 +1,5 @@
+
+ Hinted at last month by Microsoft, chip maker VIA has officially announced its VX700 chipset for Ultra Mobile PCs (otherwise known as UMPCs, in case you've been living in a cave) which promises to allow for smaller-sized devices with a much needed boost in battery life. In fact, VIA says devices could potentially be 40% smaller, although they haven't said exactly what the power savings will be in real-world terms. Based around VIA's C7-M and C7-M ULV processors, the 35-millimeter square chipset packs in VIA's UniChrome Pro graphics core and Vinyl HD Audio controller, along with support for DDR2 memory (up to 4GB), two each of either SATA 150 or SATA II devices, six USB 2.0 ports, four PCI slots, and one EIDE channel for up to two devices. It's only just going into mass production sometime this quarter, though, so it'll still be a while yet before we actually see any real world products -- Vistagami, anyone?[Via The Inquirer]
+      
+
+ 

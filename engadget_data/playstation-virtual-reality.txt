@@ -1,0 +1,21 @@
+
+The rumors are true: Sony's working on virtual reality. The hardware is called "Project Morpheus" and it's headed to the PlayStation 4. The headset is two pieces: a closed display and what looks like a PlayStation Move sensor built in. SCE Worldwide Studios head Shuhei Yoshida unveiled it on-stage tonight at GDC 2014; he said the "prototype" is "by no means final." It's the culmination of over three years of work, Yoshida said, and the prototype unveiled tonight will also double as a dev kit.
+
+
+As seen above, a subtle PlayStation-themed blue light is emitted by Morpheus. A single wire can be seen exiting the unit on-stage; apparently carrying both an HDMI and USB connection. Sony's clearly drinking the VR Kool-Aid: there's serious talk about "presence" on-stage (the term Valve coined as the target for "true VR"). What are the specs in the headset? It's got a 1080p display and just over a 90-degree field of view. There's positional head tracking, a 3-meter working volume with full 360-degree tracking that works with the PlayStation Camera, and games can recognize the PS Move controller as a virtual object. In terms of audio, the device has "true spatial sound" using binaural audio -- pretty neat! It's also apparently "highly adjustable" and supports custom headphones if you'd prefer your own audio choice (it plugs right into the headset). Head below for more!
+
+
+
+
+The current dev kit is wired, though the wire is "very long" (around five meters, we're told). The dev kit also has a "breakout box" between the headset and your television (akin to the original Oculus Rift dev kit).
+
+PlayStation R&D engineer Richard Marks dug into the nitty-gritty a bit: He said Morpheus needs a high-resolution, high-quality screen ("no problem," he quipped), great sound (SCE is developing binaural tech to produce sound, incorporating that into the experience), tracking (he pointed out that the PS4 camera is "almost custom-built for VR"), and control (Sony's sticking with DualShocks, cameras and Move, apparently).
+
+Project Morpheus specs:
+Component: Processor unit, head-mounted unitDisplay Method: LCDPanel Size: 5 inchesPanel Resolution: 1920×RGB×1080 (960×RGB×1080 per eye)Field of View: 90 degreesSensors: Accelerometer, GyroscopeConnection interface: HDMI + USBFunction: 3D audio, Social Screen
+
+Marks admitted that VR needs to be easy to use -- as in, as simple as picking it up off the coffee table and quickly jumping in. So, perhaps no wire then? That's still unclear. He finished with a plea to devs to create content for Project Morpheus, "which is why we're announcing this at GDC." Sony's already working with a handful of devs, including Epic Games and Crytek. We expect it won't be too long before the large world of game devs jumps in.
+
+Update: In a Q&A following tonight's session, we were told by R&D engineer Anton Mikhailov that the headset was given its project name for "the god of dreams" (he's not lying). In terms of first-party Sony studios working on content for Morpheus, the Sony trio on-stage stayed mum, pointing to the handful of titles revealed tonight as the first example.
+
+

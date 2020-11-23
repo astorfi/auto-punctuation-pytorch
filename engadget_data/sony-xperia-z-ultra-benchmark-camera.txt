@@ -1,0 +1,13 @@
+
+You may have already read our Sony Xperia Z Ultra hands-on last week, but since then we've also been able to spend a tiny bit more time with a pre-production unit (with firmware build 14.1.B.1.277). Instead of going over again how hilariously large this 6.4-inch, pen-friendly phone is, this time we'll focus on some early benchmark results, camera performance and Sony's very own UX features.
+
+
+As you'll see after the break, many of the benchmark scores aren't too far off from what we saw on the MDP phone with the same Snapdragon 800 SoC, and the final units should be optimized with higher numbers. While we didn't manage to get CF-Bench and Quadrant running on the phone, the higher-than-before 3DMark score did cheer us up, meaning either Sony or Qualcomm's managed to fine tune the latter's new Adreno 330 GPU. 
+
+
+
+
+    Sony Xperia Z Ultra S800 MDP phone (MSM8974) S4 Pro MDP tablet (APQ8064) Samsung Galaxy S 4 (Exynos 5 Octa)     Quadrant 2.0 N/A 22,022 7,698 13,326   Vellamo 2.0 2,784 2,914 2,538 1,977   AnTuTu 3.x 33,399 33,828 13,826 28,167   SunSpider 1.0 (ms) 835.4 674 N/A N/A   GLBenchmark Egypt 2.5 Offscreen (fps) 59 68 N/A 41   CF-Bench N/A 33,876 18,219 20,800   3DMark (Ice Storm) 17,084 14,371 N/A 10,179   SunSpider: lower scores are better  Sadly, it appears that there's much work to be done on the camera side. As our very own Mat Smith pointed out in his earlier hands-on, photos taken in darker environments are surprisingly noisy; and the lack of LED flash here only rubs salt into the wound. The exposure and white balance are not ideal, either; but again, we expect these to be fixed by the time this waterproof phone reaches the stores. Remember: this is still work-in-development, after all.
+
+
+

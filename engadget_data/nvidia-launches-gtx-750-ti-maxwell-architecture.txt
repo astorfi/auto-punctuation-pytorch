@@ -1,0 +1,13 @@
+
+AMD has enjoyed plenty of room on our pages recently, what with all the talk of Mantle-this and HSA-that. We imagine the folks at NVIDIA have found it all quite bemusing, because for them the graphics card business hasn't changed: it's still primarily about offering higher frame rates for fewer watts in common DirectX-based PC games. Indeed, that's exactly what the green corner's all-new Maxwell architecture is claimed to deliver, starting with the GTX 750 Ti card that should be hitting stores today priced at $150 (or £115 in the UK). At the transistor level, Maxwell is no more efficient than Kepler -- we're still looking at a 28nm fabrication process, which is pretty standard by now. However, NVIDIA says it has figured out much smarter ways of distributing power across its graphics cores, resulting in a doubling of performance-per-watt. What does this mean in practice? Read on and ye shall discover. 
+
+
+
+
+
+
+In essence, Maxwell's doubling of perf-per-watt should allow you to play top-tier games like Batman: Arkham Origins and Call of Duty: Ghosts at medium settings and 1080p resolution even on the GTX 750 Ti's very modest 60-watt power draw. NVIDIA matches the card up against AMD's R7 260X, which now costs $119, but which consumes nearly twice as much electricity and therefore requires more aggressive cooling. By doing away with big fans, the new GeForce should easily and quietly fit into that mini-ITX rig you've been secretly planning for your living room. 
+
+
+
+

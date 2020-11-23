@@ -1,0 +1,5 @@
+
+ For better or for worse, we're about full-circle with Garnet now: Palm just forked over $44 million to ACCESS for a perpetual, non-exclusive license to the Garnet source code, granting Palm "the right to use Palm OS Garnet in whole or in part in any product from Palm and together with any other system technologies," along with the welcome ability to modify underlying Garnet source code. The good news is that in the short term we should be seeing some stability and feature enhancements on the Treo and other Palm handhelds, the bad news is that this appears to be a further procrastination for the introduction of ALP to Palm devices, possibly even spelling a cancellation of that roadmap altogether. What we do know is that ACCESS and Palm have set up a "test/compatibility harness" to ensure "forward-compatibility" of Garnet apps on ALP's Garnet Host layer. For the time being we'll just be glad to see Palm shore up its ever-buggier OS, but one of these days we're going to want a modern OS from these guys to fiddle around with.[Via Palm Info Center]
+      
+
+ 

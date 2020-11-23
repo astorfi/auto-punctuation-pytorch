@@ -1,0 +1,5 @@
+
+ The FiringSquad has somedisconcerting news for those of us hoping to wrangle our current desktops into Vista-ready, HD playback machines. Apparently all of those graphicscards we've been snapping up with "HDCP support"emblazoned on the box aren't quite what they claim to be. Instead of doing something logical, like, uh, supportingHDCP, turns out only the GPUs support HDCP, while the actual boards don't include the required hardware key to make thehi-def magic happen. NVIDIA isn't as much to blame, since they have published specs for HDCP compatible boards, and areholding up their end on the GPU front, but ATI doesn't look so good here due to the fact that they're currentlycramming their own HDCP capable GPUs into boards that don't support the spec. If all this is to be believed, the onlycurrently existing fully HDCP capable boards are a couple of GeForce 6200 and 6600 cards residing in Sony Media CenterPCs, and the rest of us will have to wait for word on high to build boxes fully compatible with the Vista OS due nextyear. Let the lynch mob begin!
+      
+
+ 

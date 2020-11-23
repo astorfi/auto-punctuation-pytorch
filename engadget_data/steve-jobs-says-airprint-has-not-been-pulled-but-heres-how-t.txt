@@ -1,0 +1,11 @@
+
+ 
+We're still just as much in the dark as you are as to the current state and future of AirPrint, but we do now have a solution. Yesterday it was looking like wireless printing from iOS devices was out the window, but according to MacRumors.com Steve Jobs has responded to one disgruntled user's ask for clarification, saying in typically terse prose:
+
+AirPrint has not been pulled. Don't believe everything you read.
+Indeed you should not believe everything you read, and given there's no way to authenticate this supposed response you might want to take that with a bit of a grain of salt too. But, until we get official confirmation one way or another, Mac developer Steven Troughton-Smith has managed to find a way to re-enable the service in the released version of Mac OS X v10.6.5. It won't be easy, you'll need to pull some files from a pre-release version of that version (confused yet?), but if you need to print something wirelessly today give it a shot. Or, you could just wait until tomorrow when iOS 4.2 rolls out and we see for sure what's going on with AirPrint.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

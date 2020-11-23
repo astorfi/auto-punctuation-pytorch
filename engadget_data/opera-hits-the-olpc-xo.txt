@@ -1,0 +1,5 @@
+
+ It looks like those not satisfied with the OLPC XO laptop's pre-loaded browser will have another, less open source option at their disposal whenever they manage to get their hands on one of the little green machines, with the Opera team reporting that their browser "runs beautifully" on it. Getting it running in the first place, however, took a slight bit of effort, requiring them to enter the somewhat hidden shell mode and install the browser from the command prompt. Once that business was taken care of, they went into full hyperbole mode, with Opera CTO Håkon Wium Lie saying that seeing Opera run on the OLPC for the first time was a "revelation" and that "no browser has ever been more beautiful" -- due in no small part to the screen's 200 dpi resolution. Not so revelatory, however, is the browser's ability to handle extensive Javascript, which apparently caused the laptop to freeze on occasion, though they say they're working on that, as well as an OLPC skin so it won't look too out of place next to the other apps.[Via Slashdot]
+      
+
+ 

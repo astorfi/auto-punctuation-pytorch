@@ -1,0 +1,5 @@
+
+ To no one's surprise, hackers have been hard at work on the iPhone since day one, and it looks like they're already turning up a few vulnerabilities. As The Register reports, the folks at Errata Security seem to have been the most successful to date, finding not one, but two "bugs" with the phone. The first is apparently similar to one of the bugs recently found in the Windows version of Safari which, in this case, allows someone so inclined to take control of the browser and run applications by causing a buffer overflow. The second, somewhat simpler flaw Errata discovered is that the device can apparently be easily locked up when exposed to a so-called Bluetooth "fuzzer." Despite that, the Errata folks say that they think the iPhone "is inherently more secure than competing smartphones," largely due to its dependence on iTunes and its ability to push out security updates faster than carriers are able to. As The Register points out, some intrepid "researchers" also recently discovered the passwords required to give an application root access although, as of yet, no one's actually found anything useful to do with them.[Thanks, Jags]
+      
+
+ 

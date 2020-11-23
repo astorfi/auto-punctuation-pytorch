@@ -1,0 +1,47 @@
+
+AMD might not be able to keep up (down?) with Intel in the CPU power consumption race, so it's taking another tack with the new Opteron X-series: horsepower. It just announced the Opteron X1150 and X2150 64-bit processors for microservers, part of the Jaguar-codenamed family of CPUs arriving in the next-gen Xbox One and Sony PS4 consoles. Thanks to its ultra-low power 6-watt Atom S1200 chips, Intel excels in the low-power server market, and at 9W and 11W respectively (minimum), AMD's CPUs consume considerably more juice. But AMD is pitching them as a better solution overall, thanks to those four cores (compared to two in the Atom), integrated AMD Radeon HD 8000 graphics on the X2150 model, support for 32GB of RAM and integrated SATA ports. AMD's chips are pricier, though, at $64 (X1150) or $99 (X2150) compared to $54 for Intel's Atom S1200 (all in quantities of 1,000). To top it off, Intel has new 64-bit Atom SoCs coming soon promising even lower power consumption -- possibly leaving AMD to play catch-up again.
+
+
+
+Show full PR textAMD Launches the AMD Opteron X-Series Family: the Industry's Highest Performance Small Core x86 Server Processors
+Twice the Performance and More Power-Efficient Than the Top Performing Intel(R) Atom(TM) Processor
+
+SUNNYVALE, CA -- (Marketwired) -- 05/29/13 -- AMD (NYSE: AMD) today unveiled a new family of low power server processors: the AMD Opteron™ X-Series optimized for scale-out server architectures. The first AMD Opteron X-Series processors, formerly known as "Kyoto," are the highest density, most power-efficient small core x86 processors ever built1. The new X1150 and X2150 processors beat the top performing Intel Atom processor on key performance benchmarks2, including single thread and throughput performance with superior power-efficiency, twice the cores and L2 cache with a more advanced pipeline architecture, higher integration and support for up to 32 gigabytes of DRAM -- 4x more than the Intel Atom processor.
+
+The AMD Opteron X-Series processors come in two variants. The AMD Opteron X2150, which consumes as little as 11 watts, is the first server APU system-on-a-chip integrating CPU and GPU engines with a high-speed bus on a single die. This enables customers to take advantage of leading-edge AMD Radeon™ HD 8000 graphics technology for multimedia-oriented server workloads. The AMD Opteron X1150, which consumes as little as 9 watts, is a CPU-only version optimized for general scale-out workloads.
+
+"The data center is at an inflection point and requires a high number of cores in a dense form factor with integrated graphics, massive amounts of DRAM and unprecedented power efficiency to keep up with the pace of innovation of Internet services," said Andrew Feldman, corporate vice president and general manager, Server Business Unit at AMD. "AMD has a proud history of server innovation, and the AMD Opteron X-Series processors challenge the status quo by providing unmatched capabilities to drive the most energy-efficient servers in the industry."
+
+The AMD Opteron X-Series processors are now the world's premier small-core x86 APUs and CPUs, ideal for next-generation scale-out web and cloud applications ranging from big data analytics to image processing, multimedia content delivery, and hosting.
+
+"Fundamental changes in computing architectures are required to support space, power and cost demands organizations need to deliver compelling, new infrastructure economics," said Paul Santeler, vice president and general manager, Hyperscale Server business segment, HP. "The new x86 AMD Opteron X-Series processors integrated into future HP Moonshot servers will continue to push the boundaries of power efficiency for social, mobile, cloud and big data workloads."
+
+The AMD Opteron X-Series versus Intel Atom S1260
+    AMD Intel Atom S1260 AMD Advantage   x86 CPU Cores 4 2 2X   GPU Cores 128 AMD Radeon HD 8000 Cores None AMD Only   Max. DRAM Per Socket 32GB 8GB 4X   Max. DRAM Speed DDR3-1600 DDR3-1333 1.2X   L2 Cache 2MB 1MB 2X   Throughput performance 28.9@2GHz (CPU) (est.)2 13.0@2GHz 2.2X   Single Thread Performance 10.0@2GHz(CPU)(est.)2 5.2@2GHz 1.9X   Integrated Sata Ports Yes No AMD Only  CPU
+
+ 4 "Jaguar" 64-bit x86 coresFrequency:
+
+ X1150 CPU - up to 2 GHz X2150 APU - up to 1.9 GHzPower Consumption:
+
+ X1150 - as low as 9 Watts X2150 - as low as 11 WattsGraphics (X2150 APU only)
+
+ 128 AMD Radeon™ HD 8000 cores Graphics Core Next Architecture Video encode/decode offload Video compression offloadMemory Interface:
+
+ 64-bit DDR3 with ECC (up to 1600 MHz) Up to 32 GBytes of DRAM (SODIMM & UDIMM)Integrated I/O:
+
+ PCI-e® Gen 2 - 8 lanes USB 2.0 - 8 ports USB 3.0 - 2 ports Video Interfaces - DisplayPort, VGA, HDMI® Serial-ATA2/3 - 2 portsPackage
+
+ 24.5mm x 24.5mm FT3 BGA   Model CPU Cores CPU Configurable Frequency GPU Cores GPU Configurable Frequency TDP Range 1KU Pricing   X1150 4 Up to 2.0GHz N/A N/A 9-17W $64   X2150 4 Up to 1.9GHz 128 266 to 600MHz 11-22W $99  The AMD Opteron X2150 APU and X1150 CPU are generally available now for a cost of $99 and $64, respectively, in 1K quantities. More information can be found on AMD's web site.
+
+About AMD
+AMD (NYSE: AMD) is a semiconductor design innovator leading the next era of vivid digital experiences with its ground-breaking AMD Accelerated Processing Units (APUs) that power a wide range of computing devices. AMD's server computing products are focused on driving industry-leading cloud computing and virtualization environments. AMD's superior graphics technologies are found in a variety of solutions ranging from game consoles, PCs to supercomputers. For more information, visit http://www.amd.com.
+
+AMD, the AMD Arrow logo, AMD Opteron, AMD Radeon and combinations thereof, are trademarks of Advanced Micro Devices, Inc. Other names are for informational purposes only and may be trademarks of their respective owners.
+
+1 Based on AMD's small core Opteron™ processor Model X1150 vs. Intel® Atom™ Model S1260, Intel's highest performance small core processor. Highest density based on cores/rack. Since Opteron X-Series has double the number of cores of Intel Atom S1200 series, it has the double the density among small core x86 processors. Most power efficient small core x86 processor as measured by SPECint®_rate_base2006 estimates divided by TDP.
+
+2 SPEC and SPECint are registered trademarks of the Standard Performance Evaluation Corporation. The comparison presented reflects competing AMD and Intel 2.0GHz processors. Throughput performance estimates are based on SPECint®_rate_base2006 results using all four threads of each processor. Single thread performance estimates are based on SPECint®_rate_base2006 results using one thread of each processor. The results stated are estimates based on measurements in AMD labs as of May 2, 2013. For the latest SPECint®_rate_base2006 results, visit http://www.spec.org/cpu2006/results/. Configuration information: 1 x AMD Opteron™ processor Model X1150 in "Olive Hill" Reference platform server, 8GB (2 x 4GB DDR3-1600) memory, Red Hat Enterprise Linux® Server Release 6.3 x86_64 OS, GCC 4.7.2 Compiler. 1 x Intel Xeon processor Model S1260 in Supermicro 5017A-EF server, 8GB (2 x 4GB DDR3-1333) memory, Red Hat Enterprise Linux® Server Release 6.3 x86_64 OS, GCC 4.7.2 Compiler.
+
+*Based on the capability of the Kyoto memory controller and expected 16GB DIMM availability.
+
+

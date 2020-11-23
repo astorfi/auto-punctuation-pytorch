@@ -1,0 +1,15 @@
+
+ 
+It's been a little over a month since Verizon announced it would unleash the VoIP hounds on select smartphones, an interesting move given AT&T's wrangling with the FCC over Google Voice and begrudging approval of Skype over 3G. Early this morning the Skype Mobile app hit the Android Marketplace for Verizon devices (and only Verizon devices), and while it does work on 3G, it curiously doesn't work on WiFi -- at all. Click on through for some screenshots and our impressions.
+
+
+
+
+
+So, yes indeed, this app only works via 3G. In fact you can't even launch the app with WiFi enabled; you have to turn it off. That's a little bit odd and, for those who were hoping Skype and WiFi would help fill some coverage gaps, frustrating, but there's a somewhat reasonable explanation: domestic Skype calls are simply made over Verizon's voice network. In other words, you can't make Skype calls to anyone within the country -- unless they too are a Skype user, of course. Making a call to any other Skype user is handled purely through data, but a call through Skype to a domestic number will suck down your minutes just like any other call. It's only when dialing internationally that you can hit a real phone number through VoIP, and here the app will automatically jump in and offer to save you some cash. That is, of course, assuming you have some credit in your Skype account. If you don't there's no way to purchase it through the app. It simply redirects you to www.skype.com, which is not particularly friendly to mobile browsers. (In fact, when we opened it up in the recently released Opera Mini it loaded in Norwegian. Seriously.) So, free calls to other Skype users; calls to domestic numbers still use your minutes; international calls at heavily discounted rates; you can't even IM when WiFi is on. A perfect release? Hardly, but if you're a Skype user with other, similarly inclined friends and associates, or if you spend a pretty penny on international calls, this should make life a bit easier for you -- assuming you have a solid 3G connection.[Thanks, Andrew]
+
+       
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

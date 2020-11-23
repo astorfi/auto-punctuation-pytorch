@@ -1,0 +1,8 @@
+
+ 
+There couldn't possibly be any less fanfare from Apple on this, but the company's recently released Technical Note TN2267 for OS X 10.6.3 might just be the GPU-sized opening that Adobe and, consequently, Flash users have been waiting for. Here's the key bit: 
+The Video Decode Acceleration framework is a C programming interface providing low-level access to the H.264 decoding capabilities of compatible GPUs such as the NVIDIA GeForce 9400M, GeForce 320M or GeForce GT 330M. It is intended for use by advanced developers who specifically need hardware accelerated decode of video frames.
+Now, we're not exactly "advanced developers," but it seems pretty clear that this is designed to give developers access to some inner workings of OS X that have previously been restricted to Apple itself -- access that has been evident in Flash tests that show it performs much better in instances where it can access a computer's GPU. No word from Adobe on this just yet, but we've got to guess they've already taken notice.
+      
+
+ 

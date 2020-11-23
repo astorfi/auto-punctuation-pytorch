@@ -1,0 +1,6 @@
+
+ 
+If you're an impatient individual, you're probably going to like what you hear about ASUS's newest motherboard, the P5E3 Deluxe. Sound fancy? Well, it is -- featuring Intel's X38 chipset (with an FSB running at 1600MHz), Core 2 Quad and Core 2 Extreme CPU support, plus the company's Energy Processing Unit, 8-phase power, and WiFi-AP. Of course, that won't help with your MTV-generation attention span and lack of patience, but the embedded micro-Linux variant, Express Gate, just might. You see, when you boot the system, you're given an option to immediately enter into a small Linux OS -- within five seconds, they say -- called SplashTop (developed by DeviceVM). The OS is coupled with a stripped-down version of Firefox and Skype, allowing you to update your Facebook profile almost instantly. The whole shebang is available right now for three-hundred and sixty of your precious dollars.[Via Phoronix]
+      
+
+ 

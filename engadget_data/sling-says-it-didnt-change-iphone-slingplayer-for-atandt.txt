@@ -1,0 +1,8 @@
+
+ 
+AT&T certainly made a few of us happy yesterday when it announced that the iPhone SlingPlayer app would now be allowed to run over its 3G network, but the carrier apparently embellished the facts a little when it said Sling had optimized the app to be "more bandwidth sensitive" -- Sling's John Santoro told Ars Technica that it "didn't change anything," and that "AT&T never discussed specific requirements with us." So much for that happy narrative -- we thought AT&T's line sounded odd, given that SlingPlayer has always run just fine on AT&T Windows Mobile, BlackBerry, and S60 devices. It's cool, though, Sling isn't sweating it: "Whatever the reason, we're just glad AT&T has approved it." Now it's just up to Apple to let it through the App Store -- any day now, guys.
+
+Update: Sling just called us to clarify the above statements -- while it didn't make any specific changes to iPhone SlingPlayer, its engineers did work with AT&T to make sure the app didn't interfere with other customers and clog up the network. Sling says that once AT&T was involved in the testing process and "saw how the app worked," things went smoothly, and that the app was "refined" to meet AT&T network requirements -- refinements we were told would come to other platforms over time. Sounds good to us, although we're still wondering why this wasn't the party line in the first place.
+      
+
+ 

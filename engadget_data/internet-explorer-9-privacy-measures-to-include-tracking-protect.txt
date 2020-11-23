@@ -1,0 +1,7 @@
+
+ 
+In a nod to future FTC mandates regarding web privacy, Microsoft has announced that among its many charms, Internet Explorer 9 will introduce something called a Tracking Protective List. In essence, the TPL looks at third party elements of whichever page you may be viewing (for instance, when you're at msnbc.com and it contains elements that are hosted by another domain) and allows you to block those which track your movements. This is done by domain, and there is both a whitelist and a blacklist -- ensuring that while elements that are required for full functionality will be allowed, those which are a nuisance will be blocked. Of course, this isn't the answer to all of your security needs, but between this and properly managing your cookies it is a decent first step. IE9 will come around sometime in early 2011 -- in the meantime, check out the video after the break for more info.
+ 
+
+        
+ 

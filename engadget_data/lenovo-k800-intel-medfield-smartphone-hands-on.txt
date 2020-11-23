@@ -1,0 +1,8 @@
+
+  Well it looks like we have a surprise guest at Showstoppers tonight. Lenovo just dropped by with its just-announced K800 -- the first Intel-powered smartphone to see the light of day. The beastly 4.5-inch 720p device sample that the company had on-hand is running a highly modified version of Android, and while the interface may not look familiar, the overall app experience shouldn't be much different from what you're used to. The official spec list includes a 1.6GHz Intel Medfield processor, Android 2.3, a TFT display and an 8 megapixel camera with a maximum sensitivity of ISO 3200. For now, the K800 is compatible with WCDMA HSPA+ and was running on AT&T's 3G network -- there's no word of LTE on this version, which seems logical considering that the 4G network is a bit hard to come by in Lenovo's native China, where the device is expected to launch first. Naturally, there's also 802.11 b/g/n WiFi, Bluetooth 3.0 and GPS connectivity. We'll be bringing you more on what's undoubtedly the hottest gadget of the evening in the days to come, but jump past the break for an early look at the world's first Medfield smartphone.
+
+
+
+  Update: With no access to Android Market, our benchmarking abilities were somewhat limited. We did manage to run SunSpider on the K800 though, which yielded a score of 1,971 -- just a hair faster than the 1,985 that we saw on the Galaxy Nexus.
+   Jose Andrade and Dana Murph contributed to this report. 
+

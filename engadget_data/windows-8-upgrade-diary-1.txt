@@ -1,0 +1,27 @@
+
+ There were balloons. There were streamers. There were brand new Ultrabooks, members of staff unfurling banners, and -- once other customers started to arrive -- there was even a vibe of genuine excitement for today's official launch of Windows 8 in the UK. But whichever aisle I scanned, nowhere was to be found what I had come to buy: a Windows 8 disc for desktop upgraders. It was a faltering start, but it was also strangely symbolic of my mission -- namely, to explore what Microsoft's latest operating system can do for regular desktop folk. People who, in other words, aren't yet looking to invest in touch-enabled monitors or laptops or all-in-ones; who rarely get the chance to lean back with a media-consumption tablet; and who simply want to upgrade their traditional tower PC before getting on with their lives. Read on past the break and you can begin this potentially short, hopefully sweet journey with me, starting with a quick rundown of my test rig (which also happens to be my mission critical work computer) and an anti-climactic revelation about whether, in the end, I ever found the software box I was looking for.
+
+
+
+ 
+ There it was. Concealed in a plastic security carton on a poorly lit section of shelving, somewhere between Random Accountancy Software and Pass Your Driving Test on CD-ROM. It was bluntly titled "Windows 8 Pro," and I assumed it was the upgrade edition even though the word "upgrade" wasn't mentioned anywhere on the packaging. I bought it for fifty hard-earned British notes ($80) after lots of umm-ing and ahh-ing over the fact that Currys -- one of the biggest electronics chains in the UK -- didn't stock the more expensive System Builder OEM version that can be installed on a blank-slate drive, and which I had originally thought I might buy. Anyway, having made my purchase, I was abruptly sent on my way by an employee who objected to me taking photos, but even if that little incident hadn't happened, my primary emotion as I left the store would still have been the same: uncertainty. To understand why, you only have to glance at my existing rig, and particularly the storage section at the end:
+
+ Processor: currently an old Sandy Bridge i5 running on a Gigabyte motherboard, but soon to be upgraded to Ivy Bridge (and with a separate AMD-based system in the works too)
+
+ Cooler: Gelid Tranquillo Rev. 2
+
+ RAM: 8GB of Crucial XMS3
+
+ Graphics card: AMD Radeon HD 7970 on a Sapphire board
+
+ Sound card: ASUS Xonar Phoebus
+
+ Case: NZXT Switch 810
+
+ Display: three 1080p ViewSonic VX2336S LED monitors arranged as an Eyefinity group (which I honestly use mainly for blogging purposes, but which also permits the occasional spot of Metro 2033 when I feel like being petrified).
+
+ Storage: a 1TB Samsung 5,400 rpm hard disc (primary) and a brand new SanDisk Extreme 240GB SSD (secondary)
+
+ My plan is to install Windows 8 Pro as an upgrade, but set it to dual-boot from the SSD -- effectively migrating my active system over to the superior flash storage while keeping Windows 7 Ultimate and all my data on the spinning drive in case things go haywire. At this point, I have no idea if this is even possible with the product I just bought, but I'm about to find out. So, stay tuned for the next installment, in which I'll tackle the installation process from end-to-end.
+
+

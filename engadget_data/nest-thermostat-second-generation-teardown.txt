@@ -1,0 +1,4 @@
+
+ Chances are if you've bought a $250 thermostat you aren't going to immediately rip it apart to see what makes it tick. Thankfully, there are folks like iFixit that do these sorts of things for us, and they've now finally done the honors with Nest's second-generation unit. As with the original model, there's an ARM Cortex A8 CPU powering things inside, and iFixit is especially impressed with the ease of access to the replaceable battery and other components; only some adhesive holding the front assembly together proved a tad difficult, which it says could complicate matters if you need to replace the screen or front glass. If you do take it off, though, iFixit notes that the curved glass can also double as a handy magnifying glass. Hit the source link below for the full step-by-step account.
+
+

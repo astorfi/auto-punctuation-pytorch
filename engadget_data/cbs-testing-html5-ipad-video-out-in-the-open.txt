@@ -1,0 +1,6 @@
+
+ 
+Hey Dan, ever heard of a staging area to do your testing? Apparently not judging by the screenshot above. MacRumors took that "iPad - test - dan config - 3" content from the CBS.com homepage for a spin and discovered what appears to be HTML5 (not Flash) video. A bit more sleuthing reveals several "webkit" (the foundation of the iPad's and iPhone's mobile Safari browser) calls after peeling open the CSS. This suggests that CBS is preparing to serve up parallel HTML5 content with the launch of the notoriously Flash-less iPad -- take that Hulu -- becoming yet another high-profile company swayed into providing video and other content in an Apple friendly format. Then again, maybe CBS is just testing a "what if" scenario with no intention of moving this into production any time soon. US netizens can try it themselves by setting your browser to spoof the iPad's user agent and hitting the source below (for as long as it lasts) but you'll need the iPad SDK Simulator to view the actual HTML5 videos.
+      
+
+ 

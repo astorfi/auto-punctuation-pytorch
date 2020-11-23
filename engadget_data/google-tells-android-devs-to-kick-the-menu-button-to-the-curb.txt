@@ -1,0 +1,5 @@
+
+  If you've seen Ice Cream Sandwich and the Galaxy Nexus in action, then it should be clear that the menu button has no future in the Android ecosystem. In order to drive that point home, Google has posted over at the Android Developer blog urging app creators to "say goodbye to the menu button." With the until now standard key getting the boot, big G wants devs to start designing interfaces that focus on the ActionBar introduced with Honeycomb. Of course, there's only so much room on the screen, and that's where the "action overflow" button comes in handy. Those vertical elipsis hide useful, but perhaps secondary options, that don't fit in the action bar. It also pops up on the far right of the navigation bar as a replacement to the menu button... basically because it behaves the same as menu, just in a different location. If nothing else at least Google is pushing Android and its apps towards a more uniform design. Check out the source for more details.
+      
+
+ 

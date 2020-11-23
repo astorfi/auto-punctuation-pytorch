@@ -1,0 +1,13 @@
+
+ 
+
+With the rapidly expanding proliferation of Near-Field Communication (NFC), concerns about its security and privacy are growing right along with it. There's plenty of worries fluttering about that personal information stored in NFC tags and mobile payment applications could easily be snagged if someone steals your stuff. While most existing services like Google Wallet are heavily focused on security, there are still several other uses of NFC technology that are largely unlocked and easily cracked. Aware of this issue, NXP Semiconductors is working on a smart card that adds an extra barrier of entry for would-be information thieves; it requires you to draw gestures, patterns or even enter PIN codes in order to unlock the secret 411 on your computer. This works out well when you use an RFID reader to access your corporate offices or even use NFC to import passwords and other highly sensitive information.
+
+How do you set up the unlock process? You use an application on your desktop, which is capable of customizing the access point and it can also get trained to learn your style of handwriting. The service is still 6-12 months away from fruition, so we didn't get to see everything the card will be capable of, but we were at least able to get a short demonstration of some of the benefits of having an extra layer of security to NFC data transfers.
+
+
+
+
+
+   See more video at our hub!   Dante Cesa contributed to this post.
+ 

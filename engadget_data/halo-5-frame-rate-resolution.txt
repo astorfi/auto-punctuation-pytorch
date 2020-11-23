@@ -1,0 +1,12 @@
+
+The developers at 343 Industries won't sacrifice Halo 5's aim for a buttery smooth 60 frames per second by adding local co-op (for now), and it turns out that the team isn't married to 1080p resolution if it means a lower frame rate, either. The game's creative lead Josh Holmes writes on Xbox Wire that maintaining that benchmark is the result of tech that allows the game to adjust the resolution on the fly. "This enables us to deploy resources where they have the most impact across a diverse series of experiences throughout the game while delivering the most visually stunning Halo game ever," he says. From the sounds of it, that means when there's less stuff onscreen it'll be in higher detail.
+
+
+
+Toss in a gaggle of tanks, ATVs, genetically engineered super soldiers, a field of adversaries and their instruments of mayhem into the mix and expect the overall fidelity to take a hit. It's a balancing act.
+
+To be fair, this isn't exactly a unique situation. The Witcher 3 on Xbox One used a system that adjusted the amount of pixels onscreen at once in accordance with the graphics processing unit's load at any given time, floating between 900p and 1080p. With games like Infamous: Second Son on PlayStation 4, or BioShock: Infinite on PlayStation 3 and Xbox 360, the frame rate was locked at 30 fps for consistency's sake. However, menu options in those games allow to unlock the frame rate at the expense of graphical fidelity and a constant frame rate.
+
+Perhaps the closest point of comparison here though is the Call of Duty series -- something that Halo 5's play style has already been related to. That franchise hits its 60fps by running at either a very low resolution (something it did on last-gen hardware) or something similar to what's going on with Halo 5 for its modern incarnations. Digital Foundry reports Advanced Warfare swapped between 1360x1080 and 1920x1080 depending on the scene to maintain 60fps, for instance. Surely none of this is going to stop fanboys from gloating that the Xbox One is an inferior/superior machine (depending on which side you ask), but no one has exactly played Halo 5's campaign yet so those barbs are a bit moot until October 27th.
+
+

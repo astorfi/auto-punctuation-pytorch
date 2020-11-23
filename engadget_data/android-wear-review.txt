@@ -1,0 +1,43 @@
+
+
+When I was a tiny tot, I watched Knight Rider and pretended I was Michael Knight, talking to KITT on my watch. Yet now that there are real-life watches that can do even more things, I don't find myself quite as excited as my 5-year-old self was. Smartwatches have been around for over a decade already (remember Microsoft SPOT?), but the category hasn't evolved at the same pace as smartphones. It's not because there's a shortage of digital wrist-worn timepieces. The problem is that there's no common platform for third-party apps, which means there's little potential for growth.
+
+
+There also doesn't seem to be any vision. Some watches act as Android phones with SIM cards and tiny touchscreens, while others try to establish their own platform to entice developers. Still others have even tried to put fitness bands and smartwatches into one device, to limited success. Even worse, most of the watches on the market today are what you might call "fashionably challenged" -- they simply aren't attractive enough to entice the masses. Google's solution is to extend its Android platform -- which has very strong market share and developer support -- to the wearables genre with Android Wear.
+
+
+
+
+
+
+Why Android Wear?Manufacturers don't have to waste precious resources on developing a watch ecosystem from scratch. Android Wear provides a low-cost launchpad for more companies to come out with a smartwatch of their own. Take Fossil: It has little to no experience developing software, so the introduction of Wear opens up more doors for the company to produce fashionable smartwatches without pouring quite so much money into R&D. Meanwhile, other manufacturers are reportedly attacking the lower end of the market with cheap Android Wear watches.
+
+In any case, that's precisely what Wear promises: a wide variety of options in price, form and (we hope) fashion sense. But flooding the market won't magically make smartwatches a success. So what will? They have to look good and make life easier.
+
+Functionality
+Android Wear wasn't designed to replace your smartphone; it's just meant to reduce the number of times you have to pull out your phone. With Wear, you can change your music, send and view emails and texts, dictate notes and reminders, answer or reject calls, keep track of a few fitness stats, look at your calendar appointments and ask a number of different questions.
+
+Wear isn't meant to replace your smartphone.Wear treats your watch as a wrist-worn version of your phone's notification bar. By scrolling down through the various cards displayed on my watch, I can see my most recent emails, Facebook messages, Google+ alerts, missed calls, number of steps I've taken today and how much time it'll take me to commute home. Swiping to the left of these cards reveals actionable items (replying to emails, marking a text as read, looking at my fitness history and so on), while swiping to the right allows you to dismiss the notification entirely.
+
+The watches also use Google Now. Cards will pop up with information about stocks, time to my next destination, a friend's birthday, upcoming hotel reservations and when I need to leave for my upcoming flight. It'll even show me my boarding pass. (This is through Google Now, but Delta and American Airlines just came out with apps that do the same thing.) The latter case is actually one of the best arguments I've heard yet for Android Wear -- it's easier to scan a boarding pass on your watch if your hands are full with luggage and you don't want to take out your phone.
+
+
+Wear also has voice search and Knowledge Graph access built in. Saying, "OK Google," will prompt me to make a voice command. I can ask it to do a variety of tasks -- send messages, set alarms and timers, show how many steps I've taken, pull up my calendar agenda for any given date, navigate a route and so on. I can also ask Wear random questions: When is the next Giants game? How tall is Mark Wahlberg? When was Chris Rock born? What's the tallest building in the world? Essentially, this is all the same type of stuff you can do with Google Now on the phone; it's just now accessible hands-free on your watch. If it can't find the answer, it'll pull up the top three search results for you to look up on your phone. Not quite as handy, but I suppose it's better than nothing.
+
+If a third-party app uses notifications, it's technically going to show up on Wear, but its functionality will be limited unless the developer puts in some extra effort. The number of potential use cases will expand over time as more developers come out with apps of their own. Indeed, that's one of the most exciting parts of the platform: It's very basic at the moment, but its usefulness will grow as developer interest increases.
+
+Even so, there are already some clever things you can do with Android Wear. You can check your finances, share your location with a friend through Glympse, take and read notes via Evernote, respond to tweet mentions with Tweetings, browse through a recipe on Allthecooks, activate your Phillips Hue light setup and get updated on the latest World Cup scores. I'll stop there, but you get the point: These are just a few examples from the first wave of Wear-ready apps.
+
+
+The number of Wear apps is steadily growing (you can find a comprehensive list here), but one of my favorites is Lyft. I told my watch to "call a cab" and it not only requested a driver for me, it also added a card that told me the driver's name and estimated time of arrival, and gave me the option to tell the driver my destination before she picked me up. After the ride was over, I got a card showing me how much it cost and asking me to rate my driver.
+
+Fortunately, fragmentation shouldn't be as huge an issue with Wear as it's been on smartphones. Excepting some manufacturer-specific clock faces, Google won't allow the use of custom skins or user interfaces. If a company wants to build a Wear watch, it'll need to follow Google's rules. In theory, this should reduce the number of obstacles when pushing updates to the watch (which can be done in the About screen deep in the settings menu), and it'll make for a consistent user experience across the board. It's ironic, then, that Wear's reach is limited because of fragmentation -- the system is only compatible with devices running Android 4.3 or higher, which means 76 percent of current Android users won't even be able to use Wear.
+
+User experience
+So far, we've seen Wear watches that are square (think: the LG G Watch and Samsung Gear Live) or circular (like the Moto 360, seen above). This is really a matter of personal preference; the user experience is the same either way. Since most watches will have small screens, Google knows it doesn't have a lot of real estate to work with; thus, it's tried to make the user interface as simple as possible. That's why there's typically only one card per screen, and when you swipe to the left, you're only presented with one option per screen. Easy enough, right?
+
+
+
+
+
+

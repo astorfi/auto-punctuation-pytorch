@@ -1,0 +1,23 @@
+
+Ever since the launch of the first Now TV box for just £10 in 2013, some buyers have been using the little streaming pucks in ways Sky hadn't originally intended. Cut through the branding, and Now TV boxes are just Rokus in disguise, complete with a developer mode that lets users sideload apps not available in the sparse Now TV store. But no longer, as Sky has quietly begun issuing an update to Now TV boxes that disables developer mode and purges any apps that've been installed on them using the loophole.
+
+
+
+Not many Roku apps can be found neatly packaged for sideloading, and you can only maintain one shoehorned app on the boxes at any one time. It's no surprise, then, that a niche community has developed almost exclusively around filling that one slot with Plex. For starters, the official Plex Classic client is easily found online, and the powerful media centre software adds a plethora of otherwise absent functionality to the Now TV boxes.
+
+As a post on the Now TV support forum explains: "The latest update has been designed to safeguard the device from piracy and illegal streaming of content; therefore it will disable the use of unofficial third party software or apps."
+
+I've pressed Sky to elaborate, including asking for examples of illegal activity in which developer mode was accomplice. At time of writing, I haven't heard anything more than the above, illogical explanation. As far as I know, Plex is the only sensible use for the lone sideload slot, and I've kept a lazy eye on the community ever since I penned a guide on how to turn the first Now TV box into a Plex machine. The software is both popular and available in the Roku app store, and it's probably worth mentioning at this point that Sky is a significant investor in Roku. It just doesn't add up.
+
+So, if the piracy line is a PR exercise, what's the real motive behind killing developer mode and the adjoined community? Doing this, it would seem, needlessly alienates part of the Now TV customer base. I suspect -- and this is just spitballing, mind -- that Sky simply doesn't want to encourage the Plex crowd to buy Now TV hardware any longer. The primary purpose of the boxes has always been to push Sky's paid content, and I believe they are sold at a loss -- the second-gen Now TV puck sells for just £15, yet it's based on the Roku 3, which launched in the UK for £99.
+
+It's understandable that Sky would prefer buyers to have a genuine interest in purchasing complimentary content passes, not those in the market for a cheap-as-chips Plex machine. Sky has never advertised developer mode as a feature, and of course, the company is perfectly entitled to disable it, even if does come across as a tad anti-consumer given some people have bought Now TV boxes purely to take advantage of sideloading.
+
+But business is business, not piracy.
+
+Update 2: It would appear the trickery below doesn't successfully disable automatic updates, so there's no way to stop it reaching Now TV boxes barring taking them offline altogether. 
+
+Update: Apparently, you can stop Now TV boxes from automatically applying the update if you haven't already received it. The trick is to get into the "Platform Secret Screen" using a button combination similar to the one that lets you enable developer mode in the first place. From the main homescreen, use the remote to punch in:
+Home, Home, Home, Home, Home, Fast Forward, Play, Rewind, Play, Fast Forward
+You should end up on the Platform Secret Screen. From there, head into the "System Operations Menu" and "Disable network pings." Close out and everything on the Now TV box should continue to work as normal, it just won't check for platform updates anymore.
+

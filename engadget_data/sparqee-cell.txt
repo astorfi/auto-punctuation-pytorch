@@ -1,0 +1,20 @@
+
+In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+Here's one to get the maker community's mouths watering. SparqEE CELLv1.0 is a compact certified cellular board that plugs directly into Arduino and the Raspberry Pi shields, letting you piggyback on networks all over the world. The company, naturally, is offering up plenty of potential applications for the technology: remote home automation, pet tracking, RC copter flying. You know, the usual. As ever, though, the fun of these sorts of things is in the execution the manufacturers never dreamed of. Of course, $70,000 is a fairly lofty goal for the component's Kickstarter campaign, so SparqEE needs all the help it can get. Watch the company's Kickstarter plea after the break.
+
+
+Previous project update: Choose Your Own Adventure is chugging along. The page-turner of a campaign is currently at $30,878 of its $100,000 goal. Thankfully, it's still got nearly a month to get there.
+
+
+
+
+Show full PR textSparqEE CELLv1.0 on Kickstarter Cellular made easy (Arduino/Pi/+)
+SparqEE brings you the first cellular development platform introduced on Kickstarter, the SparqEE CELLv1.0! Launched on Kickstarter August 20, 2013, the CELLv1.0 is a tiny Cellular dev board that gives makers, hackers, and developers worldwide wireless internet access to your projects.
+Previous Kickstarter projects have provided usable, open source Bluetooth and WiFi technologies, but the SparqEE CELLv1.0 is the first to offer cellular.
+"I've been on plenty of projects where a simple cellular connection would have been a game changer to have," says SparqEE co-founder Chris Higgins, "We wanted to give people something they could use on any project well into the future and on any board, not just the current rev of the Arduino or Raspberry Pi."
+The CELLv1.0 kit will include the cellular board, a jumper board to allow Arduino, Raspberry Pi, or any development board, an antenna, and power cable. As per Kickstarter fashion, SparqEE also offers several dev boards and shields such as GPS, accelerometer, relay, and a connection to the Arduino and Raspberry Pi, made available through Kickstarter's donation reward system.CELLv1.0 Ecosystem
+What may be even more important than the hardware options is that SparqEE also provides an ecosystem for the CELLv1.0 that gives free access to their servers. Along with the easy-to-use code, you can immediately send data through the internet cloud to any internet enabled smartphone or computer, from anywhere to anywhere in the world!
+SparqEE was recently asked about how the cellular providers played into this project: "with M2M applications and anything cellular really, the providers are one of the biggest hurdles. Since our goal is to make cellular as ubiquitous as bluetooth and wifi we needed to take care of everything, including the providers. So we put together a SIM card offering that works anywhere in the world - it's the easiest to setup, no minimums, and is the lowest cost I've ever seen. For example, for a tracking application we're working on, a worldwide 1MB plan is going to run at about $2/month" - check out SparqEE.com/products/sim for more info.
+The team is looking forward to their debut on Kickstarter and is already working towards building the community and support surrounding the CELLv1.
+

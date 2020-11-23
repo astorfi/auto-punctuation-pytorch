@@ -1,0 +1,7 @@
+
+ 
+
+The FBI and DHS are investigating damage to a public water system in Springfield, Illinois, which may have been the target of a foreign cyber attack. There's no threat to public safety and criminal interference has not been officially confirmed, but a security researcher called Joe Weiss has reported evidence that hackers based in Russia are to blame. He claims they accessed the water plant's SCADA online control system and used it to repeatedly switch a pump on and off, eventually causing it to burn out. Coincidentally, a water treatment facility was publicly hacked at the Black Hat conference back in August, precisely to highlight this type of vulnerability. If there are any SCADA administrators out there who haven't already replaced their '1234' and 'admin' passwords, then they might consider this a reminder.
+      
+
+ 

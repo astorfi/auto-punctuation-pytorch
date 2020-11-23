@@ -1,0 +1,11 @@
+
+
+Apple, Google and other major tech companies have urged President Obama not to give the FBI backdoor access to smartphone data, according to the Washington Post. The publication obtained a letter signed by no less than 140 major tech players, security specialists and privacy groups stating that "strong encryption is the cornerstone of the modern information economy's security." All of the players feel that it's impossible to build a backdoor for governments in email, cellphone encryption and other communications without creating vulnerabilities that can be exploited by hackers or hostile nations. Obama previously said that while he's in favor of stronger encryption, "the only concern is our law enforcement is expected to stop every (terrorist) plot."
+
+
+
+The letter is a direct response to FBI Director James B. Comey, who demanded access to user data after Google and Apple said they were going to create unbreakable encryption. He said, "there's no doubt that all of us should care passionately about privacy, but we should also care passionately about protecting innocent people." He added that the FBI and DoJ support encryption, as long as officials also get access to communications. However, the letter is also signed by three out of five members of an Obama-appointed review group, one of whom declared "if they couldn't pull it (backdoor access) off at the end of the Cold War, they sure as hell aren't going to pull it off now."
+
+If they couldn't pull (backdoor access) off at the end of the Cold War, they sure as hell aren't going to pull it off now.Paul Rosenzweig is another letter signatory and normally a national security stalwart, according to the Post. But he said "if I actually thought there was a way to build a US-government-only backdoor, then I might be persuaded. But that's just not reality." Ronald L. Rivest, the 'R' in RSA encryption, feels that while standards can be tweaked for law enforcement, "you've done great damage to our security infrastructure if you do that." Instead, the privacy activist who organized the letter, Kevin Bankston, said "it's time for America to lead the world toward a more secure future rather than a digital ecosystem riddled with vulnerabilities of our own making."
+
+

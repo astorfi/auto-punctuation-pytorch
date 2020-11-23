@@ -1,0 +1,4 @@
+
+ Qualcomm's Snapdragon is king of the mobile hill right now, but you just knew that wouldn't last long, right? Marvell is now after its throne, announcing the Armada 610. It's a "gigahertz class" mobile CPU that can not only do 1080p decoding but can handle encoding too, even able to pump pixels to four high-res (2,000 x 2,000) displays at once -- you know, just in case you have a pocket full of pico projectors. Open GL ES 2.0 is on tap, so 3D gaming should be a cinch, and while there's no specific specs given, the chip is said to need "extremely low power." It certainly sounds like a good combo to us, and that the chip is now shipping in limited samples to OEMs is even better news.
+ 
+ 

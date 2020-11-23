@@ -1,0 +1,8 @@
+
+ 
+Did you get a Samsung Wave today, or perhaps early last week? You might not want to connect it to your computer, just in case. We're hearing anecdotal reports that the 1GB microSD card shipped with certain German units includes a nasty surprise: it automatically installs the trojan Win32/Heur using the file "slmvsrv.exe." While we're not sure exactly what the virus does or if it's widespread, there's no point in finding out the hard way, right? Install a good antivirus program and then format that sucker, or better yet, simply drop in a larger microSDHC card. Don't forget this thing plays DivX HD, people -- you're going to need more than a single gigabyte of storage.
+
+Update: Samsung HQ got in touch with MobileBurn to confirm the existence of the virus in shipping S8500 Wave handsets, but said that the outbreak was confined to the German market's initial production run and all other shipments are A-OK. Still, there's no harm in disabling autorun before connecting one to your PC, eh?
+      
+
+ 

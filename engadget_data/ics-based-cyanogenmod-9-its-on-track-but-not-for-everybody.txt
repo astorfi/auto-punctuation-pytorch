@@ -1,0 +1,7 @@
+
+ 
+
+The CM9 customization for Android 4.0 has only been in the works since mid-November and already its canny creators claim to have it running on a number of devices. They say they're making the quickest progress with OMAP4, MSM8660/7x30 and Exynos-based handsets, so if you own of those you should find yourself at the top of the queue. Despite difficulties with totally new camera and graphics drivers in ICS, there should eventually be support for all CM7-compatible models going back to phones like the Nexus One, as well as the Tegra 2-powered Galaxy Tab 10.1 and Asus Transformer. There's no mention of Tegra 3, though, and bad news for owners of the original Droid: if you want a taste of ICS you'll have to leave your muddy perch and head out for an upgrade.
+      
+
+ 

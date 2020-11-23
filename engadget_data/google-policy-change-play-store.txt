@@ -1,0 +1,8 @@
+
+ Google just released a new Play Store version (4.0.27) that, at first glance, contains only very minor tweaks -- except for one little thing. A new policy change will no longer permit any apps to update without going through the Play Store's internal system. That won't affect most software, but there's a notable exception in Facebook, which recently added auto-downloading to the latest version of its Android app, allowing it to bypass Play. The new policy seems designed to put a stop to that kind of thing, but you never know -- it could be just be a coincidence.
+
+ Update: Google has reached out to clarify that it also posted the policy changes to its Developer Console with the following statement:
+
+ Google Play Program Policies have been updated. See "Content Policies" section, which clarifies that "An app downloaded from Google Play may not modify, replace or update its own APK binary code using any method other than Google Play's update mechanism." Google Play is a trusted source for Android application downloads, and we are committed to providing a secure and consistent experience. Learn More. [Thanks, Thomas]
+
+

@@ -1,0 +1,36 @@
+
+Third time's a charm...
+Three's a crowd...
+She's once, twice, three times a lady Nexus...
+Three's a magic number...
+Good things come in threes... or is that sneezes?
+Okay, so maybe there isn't anything clever we can say to get you hooked, but do we really need to lure you in at this point? The Galaxy Nexus is, arguably, not only one of the best Android phones on the market, but one of the best phones, period. So, there's no reason to expect the Sprint variant ($199 on contract) would be anything short of incredible. Still, there's only one way to find out. Follow along after the break as we put the newest member of the Nexus family through its paces and see how it stacks up against its Verizon and unlocked siblings.
+
+
+
+
+Hardware
+Internally, the Sprint edition of the Galaxy Nexus is more or less the same as Big Red's.Internally, the Sprint edition of the Galaxy Nexus is more or less the same as Big Red's. The radio may work with different frequency bands, but it's still a combination CDMA / LTE chip. Otherwise, it's the same 1.2GHz dual-core CPU, 1GB of RAM, 32GB of flash storage and a 1,850 mAh battery. Pry off the back, however, and you will notice the internals have been rearranged somewhat. Perhaps the most conspicuous change is the lack of a SIM slot... or at least a visible one. There's a small flat square of smooth plastic above the battery, where the SIM slot would be located on the Verizon Galaxy Nexus, that's actually a door preventing the user from swapping the micro-SIM on his or her own. With the right tools, we're sure the panel could be pried up, but you won't be switching accounts without a serious fight.
+
+Cosmetically, there are some slight differences from its two predecessors. Sure, it's the same size and weight as its LTE brother (which makes it a hair thicker and heavier than the GSM version), but it's sporting a slightly darker finish that has just a touch less sheen. The backplate also has a slightly different texture to match the more matte appearance. It still has a series of depressed diamonds in a crosshatch-like pattern, but the "weave" is much tighter, resulting in a smoother and softer feel in the hand. And, of course, there's the Sprint logo which, while no larger than its equivalent on the Verizon version, stands out much more thanks to the darker backdrop.
+
+
+Of course, no review of the Galaxy Nexus would be complete without mention of the amazing screen. After setting eyes on the HTC One X, the Super AMOLED panel on the GNex draws slightly less awe, but it's still an impressive display. We do find the auto brightness to be a tad aggressive and, if you're looking for it, you can notice the graininess that detractors claim makes the PenTile subpixel layout the worst thing since Pol Pot. Honestly, most of us Engadget editors aren't too bothered by the noise, but once you do notice it, the smear of pixels becomes almost impossible to ignore. There is some mild, though noticeable variation in the color temperature between the various versions of the phone, with dark grays taking on a purple hue on the Sprint edition, particularly with the brightness turned down.
+
+Software
+Have you not had your fill of us rambling on about the beauty of Ice Cream Sandwich? Really? Well, okay, if you insist: It's really quite amazing. The whole UI, with its stark contrast, gray gradients and sharp angles finally ties Android together in a surprisingly beautiful and sleek package. In fact, every time we fire up stock ICS, we curse the manufacturers who have the gall to deface such a gorgeous and thoughtful design with their bright, cartoonish hues and faux chrome.
+
+The Sprint Galaxy Nexus is no exception, and in this case, carrier customizations are kept to a delightful minimum. None of the usual Sprint fare, like NASCAR, Music Plus, NBA Mobile or TeleNav are on board. Still, that's not to say there aren't any wrinkles here. See, unlike its brother on Verizon, this Nexus comes loaded with Google Wallet. With four Wallet-compatible phones now in its ranks, this pretty much makes Sprint the official carrier of the payment system. And, as a bonus, Sprint is handing out a $40 credit just for signing up for Google Wallet, and that's in addition to the complimentary $10 you already get.
+
+Performance
+Again, in the context of the One X (or the One S, for that matter), the Galaxy Nexus is no longer the jaw-dropper it once was. That doesn't mean it can't fly, though. Sure, in terms of pure power HTC's latest are the clear winners, but under normal usage you'd be hard pressed to notice a difference. The Sprint edition runs right in line with the GSM and Verizon Nexuses, with scores falling more or less within the margin of error. It did, however, manage to eke a small, but notable, victory on the SunSpider benchmark, which we'll chalk up to some mild performance improvements delivered by Android 4.0.4.
+
+    Sprint Galaxy Nexus Verizon Galaxy Nexus GSM Galaxy Nexus AT&T HTC One X   Quadrant v2 1,988 1,994 1,993 5,183   Linpack single-thread (MFLOPS) 44.4 44.5 42.9 103.8   Linpack multi-thread (MFLOPS) 72.8 74.4 69.4 214.5   NenaMark 1 (fps) 52.0 52.0 53.0 58.6   NenaMark 2 (fps) 24.9 24.0 24.3 58.7   SunSpider 9.1 (ms, lower numbers are better) 1,922 2,256 1,985 1,709  Interestingly, despite running on CDMA only, it couldn't quite match the longevity of the Verizon version with its LTE radio shut off. In fact, it caved quicker than the HSPA+ model. After five hours and one minute, the 1,850 mAh battery threw in the towel leaving us wondering exactly what was going on. We suspect the primary culprit is the weak EVDO signal we were pulling in at our testing facility. With the phone struggling to stay connected it very well may have just burned through those lithium-ion cells that much faster.
+
+Network
+This, ultimately, is the dealbreaker for the Galaxy Nexus on Sprint. That may change once the carrier fires up its LTE network but, for now, you're saddled with EVDO. To make matters worse, Sprint's CDMA speeds fail to match even those on Verizon. We turned off the LTE on our Verizon handset and averaged 1.9 Mbps down and about 900 Kbps up. By contrast, the Sprint version managed just 545 Kbps down in San Francisco. And things only got worse in New York City where we drew a paltry 256 Kbps. Again, once that LTE switch gets thrown, Sprint may become the envy of all your friends, but right now, it's like choosing dial up in a broadband world.
+
+CameraIf you didn't like the camera before, you're not going to like it now.If you didn't like the camera before, you're not going to like it now; there are no surprises hiding here. The 5-megapixel shooter on the back is the same exact one Samsung has already trotted out twice. You can certainly coax pleasant-looking photos out of it with sufficient light, but we wouldn't recommend printing them out and hanging them in a gallery. When your surroundings get dim, expect plenty of noise in your pics. On the plus side, you still get continuous autofocus while shooting 1080p video and the zero shutter lag is every bit as impressive as it was on day one. If a high-quality image sensor isn't a priority for you when shopping for a phone you won't have any complaints here. But, if you're looking to replace a high-end point-and-shoot there are better options on the market.
+
+
+

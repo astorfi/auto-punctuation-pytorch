@@ -1,0 +1,14 @@
+
+
+Wonder why only a handful of mobile devices support wireless charging? It's partly because the standards are horribly fragmented: companies have to choose between technologies like PMA, Rezence and Qi, and it's not clear which of those will last. Broadcom might put the issue to bed with its new (and awkwardly titled) BCM59350 chip, though. The hardware lets gadgets charge using any existing wireless technology -- you won't have to hunt for specific charging pads. It can also handle up to 7.5W of power instead of the usual 5W, so your gear might charge faster than it would using old-fashioned wires.
+
+
+
+          
+ 
+ 
+ Broadcom isn't naming customers or estimating release dates, but test samples have already gone out to "select" partners. It's doubtful that the chip will resolve confusion over standards; that's going to require fewer standards or greater compatibility, either of which could take much longer. However, device makers may now be more comfortable including wireless power in their products. It won't be shocking if it's much easier to get cable-free charging in your next phone or smartwatch.
+
+       
+
+ 

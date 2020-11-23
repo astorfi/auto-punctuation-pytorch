@@ -1,0 +1,6 @@
+
+ 
+As you've probably heard by now, Apple has rekindled the browser wars by releasing a beta of their Safari web browser for Microsoft Windows. Already, security vulnerabilities have been revealed within just a few hours of release. So far we're seeing a handful of denial-of-service bugs and at least two issues with Apple's code that would allow remote execution by a rogue host. Sure, some of the most visible claims come from the David Maynor who (in)famously called-out Apple with a MacBook WiFi hack only to be disemboweled by the hordes of Mac faithful. Still we're talking pre-release code so what do you expect? Besides, what better way to undermine an enemy than to present a concealed weapon in the form of a gift?
+      
+
+ 

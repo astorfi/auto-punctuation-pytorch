@@ -1,0 +1,6 @@
+
+ 
+We Americans have Fusion-io's ioDrive and OCZ's Z Drive to look forward to when it comes to slamming down a PCIe-based SSD solution in our lightning fast rigs, but what about the savvy Japanese? Enter PhotoFast, who has just revealed a luscious PCIe SSD of its own, ranging from 256GB to one whole terabyte in size. The unit includes a couple of SSDs hooked together in a RAID0 setup in order to provide up to 750MB/sec read rates and 700MB/sec write rates. As with most SSDs, this unit also boasts a 1.5 million hour MTBF and should work perfectly within Windows XP and Vista machines. Those in and around Osaka can expect these to land around mid-April for about the cost of a new TV -- seriously.[Via Engadget Japanese]
+      
+
+ 

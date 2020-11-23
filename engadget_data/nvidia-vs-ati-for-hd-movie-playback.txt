@@ -1,0 +1,3 @@
+
+ Whether playing HD DVD and Blu-ray discs from a drive, or files obtained or stored via other means, you'll need plenty of horsepower to keep the HD flowing smoothly. Hardware Zone took a look at NVIDIA and ATI's competing platforms for hardware acceleration of h.264 and VC-1 decoding on PCs. They tested a few 1080i h.264-encoded movies from Japan and found neither solution was able reduce CPU load by more than 20-30% on their Core 2 Duo equipped test machine, with similar reductions on less CPU-intensive VC-1 discs. Overall they like the NVIDIA's PureVideo GeForce 7600 GT over the comparably priced ATI Radeon X1650 XT with Avivo, but check out the head to head for all the numbers before deciding which videocard goes in your next Media PC.[Via MPEG4.net]
+ 

@@ -1,0 +1,16 @@
+
+ 
+Ok, we've got tons more kindle info! Here are most of the missing pieces on Amazon's Kindle.
+
+It doesn't use a generic RSS aggregator -- it's Amazon-selected blogs only (and they "want every blog they can get"). Blogs that are aggregated by the Kindle get a revenue share with Amazon, since it costs money to get those publications.
+The side scroller is, as we expected, a polarized PNLCD (pneumatic LCD). It looks amazing.
+It's SD only, not SDHC.
+It uses the Kindle file format (which is a variant of structured HTML), but also accepts Word and PDF files (but only via email since they need to be converted by Amazon), Mobi, HTML, plaintext, and image files like JPEG, GIF, and PNG. Sorry, no RTF.
+Oh yes, it supports Audible! Oh, and a little, unused file format called MP3.
+It has a user-replaceable, 1530mAh battery
+You can bind five or six devices to a single account, and share books you've purchased to those accounts. There's no simultaneous reading lock, so if you and your significant other are on the same Amazon account you can both read the same book at the same time on your Kindles.
+Amazon is also releasing the Digital Text Platform, which allows users to upload their own content to the Kindle store for sale and download.
+The $9.99 price point is the sweet spot, but there are books for sale from the Gutenberg project for under $1 (if you don't want to download them for free yourself), and upwards of that quoted $10 price point as well.
+Amazon wouldn't say who makes the device, just that "it's an OEM in China."
+
+ 

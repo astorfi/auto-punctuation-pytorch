@@ -1,0 +1,5 @@
+
+
+Your Gmail inbox may well be full of chain letters and kitten photos, but Google just announced two security changes that'll help keep prying eyes away from all your important messages. From now on, Google will always use a secure HTTPS connection when you're checking or firing off emails. You may remember that Google made such secure browser connections the default back in early 2010, but you always had the option to disable HTTPS if you really believed in the security of your network. The second (and arguably juicier) change is that your messages will be encrypted as they get routed through the company's many data centers. Google isn't exactly being coy about why, either. It said in a blog post that internally encrypting those messages became a priority "after last summer's revelations"... a not-so-subtle way of saying it doesn't want organizations like the NSA poking around where users don't want them.
+
+

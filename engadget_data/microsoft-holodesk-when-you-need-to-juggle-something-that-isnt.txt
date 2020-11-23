@@ -1,0 +1,9 @@
+
+ 
+
+
+
+
+
+	If you'd thought that OmniTouch and PocketTouch were the end of Microsoft Research's natural user interface projects, think again. It's now released a video of the HoloDesk, a tool that lets you manipulate virtual 3D objects with your bare hands. Looking through a transparent display, the objects react nearly instantly, rolling from a sheet of real paper into a real cup and falling into shadow if you block the virtual light-source. The Cambridge lab that developed the tool sees uses in remote working, collaboration or device prototyping. If you hadn't guessed, there's a hacked Kinect at the heart of HoloDesk's DNA, which makes us wonder how long it'll be before we can use it to play Halo.
+ 

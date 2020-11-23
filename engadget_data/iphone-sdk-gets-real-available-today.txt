@@ -1,0 +1,6 @@
+
+ 
+You knew it was going to happen eventually, right? According to Apple, devs are going to be able to grab the much-anticipated iPhone / iPod touch SDK today, thus ushering in this exciting new era of third-party development for those devices. Developers will have access to the same "Cocoa Touch" framework and all other APIs used by Apple for iPhone software development. Features include hardware-accelerated 3D graphics, location-enabled apps and full access to all the media capabilities of the iPhone. The 3-axis accelerometer is also up for grabs. Just like normal Mac applications, developers can use Xcode (Mac only) for their project -- a coding environment bundled with every copy of OS X. In addition to traditional Xcode tools there's a new feature called iPhone Simulator which acts as a full-on iPhone emulator for testing out apps without destroying your device. If you're feel like living on the edge, however, Apple claims it's just as easy to shoot an app on over to the iPhone for live testing. All developers can get in on this action now, but to test apps on the iPhone beta 2.0 software they'll need to be "selected" by Apple. If they need a little extra motivation, Apple is launching a $100 million "iFund" to help support development on the platform.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+The Asus Eee PC isn't missing many must-have specs right out of the box, but there's always going to be a reason or three for some internal Bluetooth. Luckily, the hack really isn't too terribly difficult as demonstrated by tnkgrl -- as long as you've got a basic idea about what you're doing when it comes to a few stray USB wires and a motherboard. It involves a standard USB Bluetooth dongle stripped to its essentials and hooked up to the mini PCIe slot that also hosts the Eee PC's wireless card. The hack doesn't mess with your original wireless, and provides the sweet, sweet Bluetooths to XP and the standard Xandros OS. And speaking of Xandros, someone's also gone through the trouble of getting their WM6 HTC TyTN up and tethered with the Eee -- which seems like a natural next step after you manage the tnkgrl hack, but we're not the boss of you.Read - Internal Bluetooth hackRead - TyTN tether
+      
+
+ 

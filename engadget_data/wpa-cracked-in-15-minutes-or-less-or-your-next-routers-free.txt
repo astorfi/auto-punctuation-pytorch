@@ -1,0 +1,6 @@
+
+ 
+They always knew it could be done; that a hacker with enough time and processing power could watch your WPA-protected wireless network and, eventually, decrypt your precious datas. In under 15 minutes, though? "Inconceivable!" those hypothetical security experts would say -- but they're about to get a lesson from WiFi wizard Erik Tews. He'll be giving a presentation next week at the PacSec Conference in Tokyo, describing the "mathematical breakthrough" that, he says, enables him to crack WPA-TKIP in 12 to 15 minutes. There are some limitations, as the data sent from a connected device to the compromised router is apparently still safe, but anything headed t'other way is wide open, and could even be supplanted by bogus bits sent from a Cheetos-munching hacker slouching in a rusty Ford Taurus in the parking lot. Don't believe us? Tews was the guy able to crack WEP in under a minute last year, ironically advising people to switch to WPA ASAP at the time. We can only assume WPA2 is next.
+      
+
+ 

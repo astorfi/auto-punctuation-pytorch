@@ -1,0 +1,33 @@
+
+I was standing with my back facing a large glass window, the mammoth casinos that punctuate Vegas' vast expanse of excess and desert showboating behind me. Here, on the top floor of the Wynn's opulent Tower suite, a staff photographer, moving around the room looking like some sort of bluish, 2D negative image, was instructing me to strike various poses of the decidedly unsexy sort. I was outfitted with the head-mounted display and wand controllers that make up HTC's revamped virtual reality developer kit, the Vive Pre, which it recently unveiled at the 2016 Consumer Electronics Show. It wasn't the first time I found myself looking ridiculous while modeling bulky VR hardware for a photographer, but it was the first time I managed to avoid doing it blindly.
+
+
+
+"I love the way you engaged with the Chaperone system. That's kind of what we want to see," said Graham Breen, HTC's Vive project manager for the EMEA market, after I'd concluded my demo, apparently hitting all the marks I was meant to. The 'Chaperone' Breen's referring to is HTC's novel VR safety mechanism designed to make the Vive "more user friendly in a home environment." Or, to put it more plainly, it's a means of keeping users from helplessly slamming into their couches and coffee tables while their sense of sight and sound are occluded.
+
+Chaperone is what generated a flat, inky overlay of the physical world into my VR experience anytime I double-tapped the controller's menu button, or simply came close to walking into a wall or nearby object. It is indeed the "big, big breakthrough" HTC's CEO Cher Wang teased a few weeks back. And it's what's going to give the company a leg up on the VR horse race with Oculus and Sony that's fast approaching.
+
+"This is how we can get the Vive to work in a home environment, making it more convenient," said Breen. "So whether that's because you want to stop and grab a drink, or whether it's something in the room you want to interact with. There's a whole load of ideas we can take this further with. ... If you want to exit the VR experience, you can do it without taking the headset off. ​"
+
+
+This VR safeguard is made possible by a combination of Valve's room-scale tracking, the Vive Pre's new front-facing camera and a visual trick called 'mura correction' (from the Japanese word for "unevenness") which allows for a sharper level of detail.
+
+It's that latter technique that Valve's Chet Faliszek credits with enhancing the Vive's sense of presence -- a key factor in a successful VR experience -- saying that it eliminates what engineers call the 'dirty window.'
+
+"Instead of seeing the scene," Faliszek explained, "you're looking at the scene on the screen. So we've done mura correction to remove that and that helps increase presence. So you don't feel like you're looking at objects, but you're simply inside of them."
+
+Chaperone, although a late stage announcement, has actually been in the works since the Vive's inception, according to Dan O'Brien, HTC's VP of VR, Planning and Management. "When we started building, from the ground up, room-scale [VR], Chaperone's always been part of that thought process. ... If you want to give people the most immersive experience to move around, they must be able to also move around safely. You can't shoehorn that in later and hope it works well."
+
+
+Though the commercial release of the Vive is just a few months away -- it's due out this April -- HTC's making 7,000 units of its improved developer kit available now. The Vive Pre headset, which the company says is cosmetically close to the final retail model, has now been made more compact and features a new headstrap for increased user comfort. It'll also ship with various foam inserts (or "gaskets") for the headset to accommodate different facial shapes and even eyeglasses. Beyond that, HTC's taken developer feedback to heart and has also given its wireless wand controllers an overhaul with a better build quality, ergonomic fit, dual-stage triggers and a longer-lasting charge rated at about four hours.
+
+"If you want to give people the most immersive experience to move around, they must be able to also move around safely. You can't shoehorn that in later and hope it works well."
+
+Dan O'Brien, HTC
+
+Once the Vive Pre makes it way to developers' hands, Faliszek's hopeful the community will experiment with the headset's front-facing camera and help redefine what's possible in a VR experience. That developer influence also extends to Chaperone's visual presentation, which Faliszek said will be customizable.
+
+"What we call the effect -- how it's presented to you -- there may be options in that as well," he said. "A lot of this is we don't have those kits out to developers -- they'll be out in a couple of weeks -- and we'll get that feedback and see how they use it."
+
+Image credits: Will Lipman Photos
+

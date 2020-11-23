@@ -1,0 +1,30 @@
+
+ 
+ Following up on last year's promise to build a standardized SDK for creating Smart TV apps, LG and TP Vision (the new owner of Philips' TV business) have announced the creation of the Smart TV Alliance. Its goal is to create a "non-proprietary ecosystem" to encourage developers to make platform-independent apps based on standards like HTML5. One of the main problems currently for the Smart TV market is that there's many different platforms, some manufacturer specific while others like Google TV and Yahoo! Widgets play across differently branded devices. Curiously, Sharp was included in the previous announcement at IFA last fall and is not mentioned by name this time around, although the press release hints at "other Japanese manufacturers" in the process of joining that will be announced accordingly. The current plan is to release SDK 2.0 by the end of this year, until then interested devs are asked to register on the group's website for more info.
+
+
+
+  Show full PR text   LEADING TV MAKERS LAUNCH SMART TV ALLIANCE
+  Provide Infrastructure for Effective Collaboration  Among Smart TV Makers and App Developers
+ 
+   SEOUL, KOREA / AMSTERDAM, THE NETHERLANDS / SAN RAMON, (CALIF.) USA, June 20, 2012 -– Founding members LG Electronics and TP Vision (for Philips TVs) today officially established Smart TV Alliance with other Japanese TV manufacturers in the process of joining. The Alliance forms a cooperation that aims at enhancing the Smart TV experience by creating a non-proprietary ecosystem for application developers to create attractive, platform-independent services. The foundation of the Smart TV Alliance comes after the collaboration announcement of the mentioned TV makers at IFA 2011 in Berlin. The names of other players that are joining the Alliance will be announced accordingly on the Alliance's website.
+
+ 
+   Expanded Market Opportunities  "Before today, the Smart TV industry was a very difficult market for both TV manufacturers and application developers as TV's from different brands used different platforms and technologies," said Bong-seok Kwon of LG Electronics, President of Smart TV Alliance. "Smart TV Alliance creates a larger playing field which encourages developers to create more and better TV applications at the same time giving manufacturers and consumers the richest source of movies-on-demand, music services, games, social networking and more."
+
+ 
+   Reduced Time and Costs  Alain Perrot, a Smart TV Alliance Executive board member from TP Vision, is convinced that reduced application development time and costs will be beneficial for all: "Instead of spending valuable time on porting and testing on different platforms, developers can focus their creativity solely on realising apps that consumers will enjoy. Now we can really make it interesting and fun for everybody."
+
+ 
+   To make it easy for new partners to join in this effort and to facilitate effective discussions, the founding Smart TV makers have established Smart TV Alliance Consortium (www.SmartTV-Alliance.org). One of the primary objectives of this consortium is to help define technical specifications which will enable application developers to create their applications once and run them on multiple TVs regardless of the platform.
+
+ 
+   To enable this kind of development process, Smart TV Alliance will make the first version of its software development kit (SDK) available on its website which developers can download at no cost and use to develop their applications. The SDK is based on open web technologies such as HTML5 and allows for developed web applications to run on Smart TV's from participating members regardless of the underlying platform.
+
+ 
+   Smart TV Alliance plans to build on this first version and announce specifications of SDK 2.0 followed by the actual SDK 2.0 software release at the end of this year. With SDK 2.0, developers will be able to create applications for 2013 TV sets from participating Alliance members.
+
+ 
+   Smart TV Alliance is designed to benefit all participating members, TV makers, applications developers and content providers alike, and welcomes any interested organizations to join. The latest information about its activities and plans can be found on the official webpage (www.SmartTV-Alliance.org) including membership, SDK and plans for developer forums.
+
+ 

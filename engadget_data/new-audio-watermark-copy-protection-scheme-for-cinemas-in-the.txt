@@ -1,0 +1,22 @@
+
+
+For various reasons, everyone likes to talk about the "analog hole" problem with
+DRM protection: pretty much all security falls
+down in the face of a well positioned camera and mic setup in the back of a movie theater. Well not for long… the movie
+industry just unveiled a system at their DVD Forum in Paris last week that would embed an audio "watermark" during the
+soundtrack mixing process by slightly varying the waveforms at regular intervals. (Screwing around with the noise.)
+They claim the change shouldn't be audible to paying cinema goers, but would be easily picked up by a decoder embedded
+in forthcoming HD playback systems, starting with Toshiba's
+HD-DVD players next year. This soundtrack mojo
+will only be applied to the cinema release of a film, so if a player recognizes the pattern, it will know it's not
+playing a legit copy, and shut down on the double. It does seem like any audio changes would have to be rather obvious
+to make it through the quality loss you'll get with this type of piracy, and we can just imagine the legions of
+audiophiles who will pick up on the patterns and run from the theater screaming and clutching their golden ears. We
+also have to wonder what those MPAAers think the next step is. A large red "X" across the screen? Maybe they could
+throw in some dancing elves and a strobe-like flashing effect? That would surely curb piracy. No, wait, don't please —
+we were only kidding!
+
+
+
+
+ 

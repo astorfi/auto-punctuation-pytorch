@@ -1,0 +1,8 @@
+
+
+
+One of the biggest highlights of Android's jump to 4.2 was the addition of Photo Sphere, a 360-degree panoramic shooting mode that pans vertically as well as horizontally. It's a neat trick, but the only way to share it was on Google+ or on a device running Android 4.2 or higher. Now, thanks to a new widget that utilizes the Google+ Platform API, you can embed an interactive 360-degree slideshow on any website you choose -- so long as your photos are stored on G+ and PicasaWeb. If you're willing to play around with a bit of code, have a peek at the source to get started.
+
+[Image credit: Colby Brown]
+
+

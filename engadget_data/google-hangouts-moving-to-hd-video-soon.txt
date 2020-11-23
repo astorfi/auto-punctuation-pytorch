@@ -1,0 +1,4 @@
+
+You may not have noticed it yet, but Google is in the middle of sweeping changes to Hangouts that should offer big improvements to image quality and accessibility. The company tells GigaOM that it's currently upgrading its video chat service to 720p by switching from the H.264 video codec to the more efficient (and Google-controlled) VP8 standard. HD-quality Hangouts should be available soon after Google finishes the VP8 rollout to web users late next week. A sharper picture is just one part of the puzzle, however. The switch to VP8 also sets the stage for WebRTC support, which will let Google offer plugin-free Hangouts in browsers like Chrome and Firefox within the next several months. The search giant will still offer a plugin for holdouts, but they may soon be the exceptions to the rule.
+
+

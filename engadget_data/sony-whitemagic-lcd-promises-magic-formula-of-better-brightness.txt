@@ -1,0 +1,7 @@
+
+ 
+
+How do you make a brighter LCD without murdering battery life? Simple. Add a white pixel to each RGB trio, creating an RGBW panel that pumps out more nits without recourse to the backlight. We've already seen this technology in action on a tablet-sized screen from Samsung and Nouvoyance, and now Sony's come up with an OEM 3-inch panel that it hopes will prove popular in smartphones and cameras. The VGA screen is claimed to double brightness without increasing power consumption compared to conventional panels. Alternatively, it has an outdoor mode which sacrifices this power-saving in favor of doubling brightness -- although, when it comes to the sunlight problem, we're still hoping that PixelQi's approach will eventually come of age.
+      
+
+ 

@@ -1,0 +1,4 @@
+
+ It's been a time of reflection for search engine teams, so why not for web browsers? Mozilla has taken its own trip back through 2012 and found that a surprising number of us have embraced Do Not Track. About 8 percent of desktop users, and 19 percent of Android users, have adopted the feature as of the end of year -- that's a clear sign of interest in keeping web habits private, Mozilla claims. While we don't have similar statistics for other browsers to add context, the company still sees a lot of sunshine with the rapid development of Firefox OS and recent additions like its Social API. If Mozilla's introspection proves intriguing, many more details await at the source.
+
+

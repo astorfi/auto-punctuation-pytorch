@@ -1,0 +1,13 @@
+
+ 
+
+OLPC announced the XO 3.0 tablet yesterday, and today we had a chance to sit down with the company's CTO, Ed McNierney and Marvell's Chief Marketing Officer Tom Hayes, who gave us a tour of the new tablet. The XO 3.0 is powered by Marvell Armada PXA618 silicon, which lowers the power requirements of the tablet to a scant 2 watts. That chip, along with the custom charging circuitry developed by OLPC and Marvell means that the tablet can be charged by a hand crank at a 10:1 ratio (10 minutes of usage time for every minute spent cranking), or by the optional four watt solar panel cover at a 2:1 ratio on sunny days. Like other OLPC devices, the XO 3.0 is customizable to customer needs -- so you can get the CPU clocked at 800Mhz or 1GHz, a 1500 - 1800 mAh battery, and your choice of a Pixel Qi or standard LCD display. The slate comes with 512MB of RAM, 4GB of NAND storage, USB and USB On-The-Go ports, plus the standard OLPC power and sensor input ports as well.
+
+When we inquired about what was so appealing about the tablet form factor, McNierney's answer was simple: tablets have a lower cost and lower power requirements. That makes it easier to get the XO 3.0 in the hands of those in need around the world. To get the device to meet their goals, development took two years as the company played with multiple designs. Initially, the idea was to use plastic flexible displays (as evidenced by previous XO 3.0 renders), but degradation caused by the sun's UV rays and plastic's easily scratched surface forced the company to switch gears and use glass instead. Currently, the company hasn't decided which glass it'll use (Gorilla Glass 2, anyone?), but assured us that it'll be a robust material. The final hardware won't be finalized until the orders start rolling in, and the goal is for the XO 3.0 to hit a $100 price point, but mileage will vary depending upon configuration and the volume of orders. Want to know more? Check out the gallery below and our video interview with Tom and Ed after the break will be up shortly.
+
+
+
+
+
+Edgar Alvarez contributed to this report.  
+ 

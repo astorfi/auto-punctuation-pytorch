@@ -1,0 +1,4 @@
+
+ Good news for fans of Android alternatives: Google's just added binaries for Jelly Bean 4.2 to AOSP. Up until now, only the Nexus 10 and Nexus 4 had been privy to the company's latest OS version bump, but with the presence of these files on its developer portal and updates leaking out early, custom ROMs are just now a stone's skip away. Curiously, Mountain View has omitted the Nexus 4 from the list, but devs willing to get their hands dirty with the Nexuses 7 and 10, as well as both variants of the Galaxy Nexus -- yes, Verizon's model is on the list -- can have at it right now at the source link below.
+
+

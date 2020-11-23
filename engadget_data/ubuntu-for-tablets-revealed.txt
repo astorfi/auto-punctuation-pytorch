@@ -1,0 +1,62 @@
+
+ Here it is: the fourth and final piece of the Ubuntu puzzle. We've seen the OS on smartphones, on TVs and of course on desktops, but the tablet version has spent a little longer in its dressing room. Fortunately, Canonical feels that the last stage in its four-screen strategy is now ready for the limelight and has released a video of the software in action. The clip is embedded right after the break, where you'll also find details of the preview code coming to the Nexus 7 and Nexus 10 this Thursday, plus our take on why this is such a big deal.
+
+
+
+ 
+ Starting with the preview, you heard it right -- the tablet OS will be made available to devs and enthusiasts at the exact same time as the smartphone preview on February 21st. So in addition to the Galaxy Nexus and Nexus 4, you'll also be able to get a taste of touch-based Ubuntu on a Nexus 7 or Nexus 10. Canonical is promising to provide installation tools and instructions to smooth the process of flashing the early build to your device. (Note: this isn't to be confused with the older desktop version of Ubuntu which could be made to run on a Nexus 7.)
+
+  More Info   Ubuntu for smartphones hands-on  Ubuntu for Android hands-on  Ubuntu TV demo  Commercial tablets containing Ubuntu aren't likely to be available until well into 2014. The latest we've heard is that a barebones smartphone will arrive early next year (albeit with some indications of a possible October launch), followed a few months later by a high-spec smartphone with access to an app store and docking mode, and then by tablets at some point after that. Although Ubuntu has made good progress in recruiting an unnamed silicon company to optimize its chips for the OS, it has yet to cement any deals with device manufacturers or carriers.
+
+ Regardless of precise dates, why would someone bother with such a latecomer to the mobile OS game? There are actually a few good reasons. Most importantly, Ubuntu is so lightweight that -- by the time Ubuntu 14.04 rolls around -- it'll be able to use the same code across all four form factors, with the same security features, user profiles and UI fundamentals.
+
+ Since the OS will be a constant, a smartphone-oriented app will work on an Ubuntu tablet or any other Ubuntu device without having to be ported or even tweaked. (Although devs will still have the option of adding functionality or UI elements that are specific to one category of device, or that only wake up when a device is docked -- like when a tablet is attached to a keyboard or when a phone is hooked up to a bigger display.)
+
+  "We've cracked this one in a way that has eluded Microsoft" -- Mark Shuttleworth, Canonical
+
+ This is very different to what Windows offers, for example, with its separate WP8, RT and Windows 8 versions. In fact, Mark Shuttleworth claims to have "cracked this one in a way that has eluded Microsoft," not least because Ubuntu's approach means that smartphone- and tablet-sized apps can run side-by-side on the same device in split screen mode. For example, you could have the Skype phone app running at the same time as a tablet document editor. This feature will be called "side stage," and judging from the video -- which is all we have to go on at this point -- it looks like a nifty approach to multi-tasking, and perhaps slightly more flexible that Samsung's multi-window solution in TouchWiz.
+
+  Show full PR text   Ubuntu unveils tablet experience with multi-tasking
+   Unique 'side stage' multi-tasking puts phone and tablet apps on a single tablet screen  Secure enterprise tablets with full disk encryption, multiple secure user accounts and standard management tool that covers Ubuntu server, PC and touch
+
+   Unique convergence across all four form factors: a phone can provide tablet, TV and PC interfaces when docked to the appropriate screen / keyboard / remote
+
+   London 19th February 2013: Canonical today presented Ubuntu's tablet interface - the next step towards one unified family of experiences for personal computing on phones, tablets, PCs and TVs.
+
+   "Multi-tasking productivity meets elegance and rigorous security in our tablet experience," said Mark Shuttleworth, founder of Ubuntu and Canonical. "Our family of interfaces now scales across all screens, so your phone can provide tablet, PC and TV experiences when you dock it. That's unique to Ubuntu and it's the future of personal computing."
+
+   "Fashion industry friends say the Ubuntu phone and tablet are the most beautiful interfaces they've seen for touch" said Ivo Weevers, who leads the Canonical design team. "We're inspired by the twin goals of style and usability, and working with developers who are motivated to create the best possible experience for friends, family and industry."
+
+   The new tablet design doesn't just raise the bar for elegant presentation, it breaks new ground in design and engineering, featuring:
+
+   -- Real multitasking: Uniquely, Ubuntu allows a phone app on the screen at the same time as a tablet app. The Ubuntu side stage was invented both to enable efficient multitasking and to improve the usability of phone apps on tablets.
+
+   -- Secure multi-user: Multiple accounts on one tablet with full encryption for personal data, combined with the trusted Ubuntu security model that is widely used in banks, governments and sensitive environments, making it ideal for work and family use.
+
+   -- Voice controlled HUD productivity: The Heads-Up Display, unique to Ubuntu, makes it fast and easy to do complex things on touch devices, and transforms touch interfaces for rich applications, bringing all the power of the PC to your tablet.
+
+   -- Edge magic for cleaner apps: Screen edges are used for navigation between apps, settings and controls. That makes for less clutter, more content, and sleeker hardware. No physical or soft buttons are required. It's pure touch elegance.
+
+   -- Content focus: Media is neatly presented on the customisable home screen, which can search hundreds of sources. Perfect for carriers and content owners that want to highlight their own content, while still providing access to a global catalogue.
+
+   -- Full convergence: The tablet interface is presented by exactly the same OS and code that provides the phone, PC and TV interfaces, enabling true device convergence. Ubuntu is uniquely designed to scale smoothly across all form factors.
+
+   The Ubuntu tablet interface supports screen sizes from 6" to 20" and resolutions from 100 to 450 PPI. "The tablet fits perfectly between phone and PC in the Ubuntu family" says Oren Horev, lead designer for the Ubuntu tablet experience. "Not only do we integrate phone apps in a distinctive way, we shift from tablet to PC very smoothly in convergence devices."
+
+   On high end silicon, Ubuntu offers a full PC experience when the tablet is docked to a keyboard, with access to remote Windows applications over standard protocols from Microsoft, Citrix, VMWare and Wyse. "An Ubuntu tablet is a secure thin client that can be managed with the same tools as any Ubuntu server or desktop," said Stephane Verdy, who leads enterprise desktop and thin client products at Canonical. "We are delighted to support partners on touch and mobile thin clients for the enterprise market."
+
+   Even without chipset-specific optimisation, Ubuntu performs beautifully on entry level hardware. "Our four-year engagement with ARM has shaped Ubuntu for mobile" said Rick Spencer, VP Ubuntu Engineering at Canonical. "We benefit from the huge number of contributing developers who run Ubuntu every day, many of whom are moving to touch devices as their primary development environment."
+
+   For silicon vendors, Ubuntu is compatible with any Linux-oriented Board Support Package (BSP). This means Ubuntu is easy to enable on most chipset designs that are currently running Android. Ubuntu and Android are the two platforms enabled by Linaro members.
+
+   The Touch Developer Preview of Ubuntu will be published on the 21st February 2013 with installation instructions for the Nexus 7 and Nexus 10 tablet devices as well as smartphones such as the Nexus 4 and Galaxy Nexus. Installable images and source code will be available from developer.ubuntu.com.
+
+   The Preview SDK, which currently supports phone app development, will now be updated to support tablet apps as well. Uniquely, on Ubuntu, developers can create a single application that works on the phone, tablet, PC and TV because it is the same system and all services work across all form factors.  Visit us at Mobile World Congress: Booth Number: 81D30, App Planet Hall 8.1.
+
+   The Canonical team will be available to install Ubuntu on your phones and tablets at Mobile World Congress. Note: Ubuntu Touch Developer Preview is a developer build and not a consumer-ready release.  About Canonical and Ubuntu
+
+   Canonical is the company behind Ubuntu and the leading provider of services for Ubuntu deployments in the enterprise. With global teams of developers, support staff and engineering centres, Canonical is uniquely positioned to help partners and customers make the most of Ubuntu. It also operates Ubuntu One, a cross-platform personal cloud service for consumers. Canonical is a privately held company.
+
+   Ubuntu is a free, open-source platform for client, server and cloud computing. It is the most widely used Linux on the top 1000 websites by traffic, the reference platform for OpenStack deployments, the most popular guest OS on public clouds, and ships on PCs from Dell, Lenovo, HP and other brands. Since its launch in 2004, it has become the preferred choice for open desktop and scale-out computing, from Fortune 500 companies to hardware makers, content providers, software developers and consumers.
+
+ 

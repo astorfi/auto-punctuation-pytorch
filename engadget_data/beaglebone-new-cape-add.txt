@@ -1,0 +1,39 @@
+
+ 
+ Arduino has shields and now BeagleBone has capes. The Cortex A8-based hobbyist board has earned a number of fans for its speed and affordability. Now it's adding simple versatility with 20 expansion capes, ranging from touchscreens, to cameras and even weather stations. Some have been available for some time, but the latest -- the Camera Cape -- allows you to easily capture 3.1 megapixel images. Obviously, the perfect partner cape would be one of the several displays available, such as the seven-inch 800 x 480 resistive touchscreen. Really, they're essential if you hope to preview your photos before snapping them. To check out all the available boards hit up the source link, and check out the PR after the break.
+
+
+
+  Show full PR text   BeagleBoard.org hobbyists unleash 20 new "cape" plug-in boards, fueling Linux development on BeagleBone, a credit-card-sized computer platform   - BeagleBone adopted by thousands for creative development of electronics and applications.
+
+   - BeagleBone eliminates barriers with easy development on one-of-a-kind, credit-card-sized Linux computer platform based on ARM® Cortex™-A8 processor that runs Android 4.0 and Ubuntu software.
+
+   - Open-source Linux developers can now easily create exciting new features with "capes": camera, touch screen, motor control, battery power and more on BeagleBone.   DALLAS, Aug. 9, 2012 /PRNewswire/ -- "Throwing a bone" to designers, makers and hobbyists looking to easily and affordably develop creative, Linux-based electronics, BeagleBoard.org today announced the availability of more than 20 new plug-in boards for the widely-adopted BeagleBone Linux computer platform. Creatively calling the plug-in boards "capes" in reference to the cape worn by a beloved cartoon beagle super hero, the active open source BeagleBoard.org community designed the plug-in boards to foster an even wider range of innovations such as robot motor drivers and sensors that measure location and pressure. Adding cape plug-in boards to the popular and expandable BeagleBone computer that is used as a development kit allows hobbyists and developers to quickly and easily augment BeagleBone's capabilities with LCD screens, motor control and battery power as well as the ability to create their own circuits. The new cape plug-in boards are made available through www.beaglebonecapes.com.
+
+   Today, thousands of designers, makers, hobbyists and engineers have adopted BeagleBone for its one-of-a-kind functionality as a credit-card-sized Linux computer that connects with the Internet and runs software such as Android 4.0 and Ubuntu. With plenty of I/O and processing power for real-time analysis provided by the Sitara™ AM335x ARM® Cortex™-A8 processor from Texas Instruments Incorporated (TI), the cape plug-in boards help developers differentiate products and accelerate time to market.
+
+   With a feature-rich processor, the BeagleBone computer platform allows developers to fully utilize the technology within a full-featured, open hardware Linux development kit. BeagleBone users also benefit from the thriving BeagleBoard.org community of more than 5,000 active members who interact and collaborate through an online support system.
+
+   Inspired to expand development options for their BeagleBone mini computer platforms, participants in the BeagleBoard.org community created cape plug-in boards to enhance the sensors, actuators and interfaces available on the BeagleBone platform. The cape plug-in boards can be plugged into BeagleBone's two 46-pin dual-row expansion headers, providing similar headers so that up to four cape plug-in boards can be stacked at a time.
+
+   "BeagleBone has inspired numerous developers to create a wide variety of innovations from self-teaching electronic education kits to underwater robots," said Clint Cooley, president, CircuitCo. "These cape plug-in boards open up endless possibilities for simplified designs and new innovations. I'm excited to see what developers from the BeagleBoard.org community will create next with their BeagleBones."
+
+   Popular cape plug-in boards ease application development
+
+   The BeagleBone LCD7 Cape, one of the most popular cape plug-in boards, delivers touch screen capability, featuring a 7-inch TFT LCD screen with 4-wire resistive touch and five user buttons. The BeagleBone LCD Cape includes the option of choosing default standoffs or buying a set of piano-black aluminum stands.
+
+   The BeagleBone Camera Cape, the newest cape plug-in board, eliminates the need for cameras to consume sometimes scarce USB ports and reduces total system power consumption. The QuickLogic CSSP camera interface (CAM I/F) solution expands the application space for BeagleBone in the automatic identification and data capture, portable consumer, industrial tablet and industrial smartphone markets.
+
+   Other currently available BeagleBone cape plug-in boards include but are not limited to:  LCD touch screen capes (7 inch and 3.5 inch) provide LCD solutions with touch screen capability.
+
+   BeagleBone Weather Cape provides data including temperature, barometric pressure, humidity and ambient light.
+
+   BeagleBone DVI-D Cape provides a DVI-D interface for connecting an external monitor.  BeagleBone Breakout Cape provides access to the various BeagleBone components during troubleshooting.
+
+   BeagleBone Breadboard provides powerful prototyping tool without the need of soldering.  BeagleBone CANBus Cape makes use of DCAN1 interface of TI's AM335x processor, enabling interfacing to automotive components and motor controllers, such as TI's Stellaris® ARM Cortex-M-based Jaguar module used in the popular US FIRST® Robotics League.  BeagleBone RS232 Cape provides an RS232 interface.  BeagleBone Battery Cape provides a portable power solution.  "BeagleBone cape plug-in boards give open hardware examples of how to implement various interfaces and tested configurations that can be used for experimentation immediately," said Jason Kridner, community advocate, BeagleBoard.org. "In fact, these capes are inspiring thousands of BeagleBoard.org community developers to build their own plug-in boards. I expect there to be more than a hundred by next year."
+
+   To see a list of capes visit: www.beaglebonecapes.com. For more information or to register a cape, visit www.beagleboard.org/capes.
+
+   About BeagleBoard.org  A small group of enthusiastic engineers interested in creating powerful, open and embedded devices are pioneering new ground in open hardware and have worked together on the concept and realization of the BeagleBone, BeagleBoard and BeagleBoard-xM. The resulting open-source hardware platforms bridge desktop and embedded development, allowing developers to design to their specification and collaborate with the open source community on creative new applications. The BeagleBoard.org community has more than 5,000 members and aims to engage passionate developers and fuel their innovations, whether they are designing projects for work or fun. With publicly hosted open source software, social media feeds of on-going development and an active community mailing list and live chat, developers have easy access to support and exchange of ideas. Visit www.beagleboard.org to get started today.
+
+ 

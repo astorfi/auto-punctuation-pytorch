@@ -1,0 +1,4 @@
+
+Just over a month has passed since CyanogenMod 10.1 went into a release candidate phase, and now it's getting ready to emerge from its development cocoon as a stable release. The code isn't available for most gadgets just yet, but it's set to arrive on the project's servers sometime tonight. Support for all Tegra 2-infused hardware and some Samsung devices with Exynos chips has been left out of this distro, but a "status report" for those machines is due later in the week. Now that the the Cyanogen Mod team has reached the 10.1 milestone, it'll focus on monthly releases to bake in other features and functionality. Click the second source link to check if your device's build has gone stable.
+
+

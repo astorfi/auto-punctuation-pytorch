@@ -1,0 +1,9 @@
+
+ 
+Intel's Wireless Display technology is undoubtedly impressive, but it does place a few specific requirements on the gear you're able to use with it (mostly involving Intel hardware). As it happens, while Intel may not be talking it up (we can't imagine why not), NVIDIA says that WiDi also 'works perfectly' with its Optimus discrete graphics technology. The two obviously weren't designed to be compatible from the start, but NVIDIA says it "just works," and doesn't require any software or hardware changes. That's apparently due to the unique way that Optimus interfaces with the integrated Intel graphics in a laptop, which effectively acts as a bridge between the WiDi system and the GPU, and makes it the only discrete GPU that will work with WiDi. Head on past the break to see the magic happen on video.
+      
+
+ 
+
+
+ 

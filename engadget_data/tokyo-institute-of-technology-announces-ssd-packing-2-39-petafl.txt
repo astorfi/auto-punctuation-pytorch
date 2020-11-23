@@ -1,0 +1,6 @@
+
+ 
+IBM has announced plans to start using SandForce SSDs in its enterprise machines, and now it looks like the Tokyo Institute of Technology is doing one better, working with NEC and HP to produce Tsubame 2.0. This next-gen supercomputer will reportedly operate at 2.39 petaflops (that's a lot of flops!) and uses a new multilevel storage architecture consisting of DRAM as well as SSDs. Not only will this bad boy have thirty times the computing capacity of Tsubame 1.0 (due in part to its some 2,816 Intel Westmere microprocessors and 4,224 NVIDIA Tesla M2050 GPUs), its power draw should be some 1/25th of its predecessor's. If all goes according to plan, it should be in operation this fall, at a cost of ¥3.2 billion (approx $35.5 million).
+
+[Thanks, Dylan]
+ 

@@ -1,0 +1,4 @@
+
+As anyone who's stuck Google Glass on their head knows, controlling its UI via swipes, nods and voice commands can sometimes be... awkward. Now you can do it remotely, thanks to an update to the MyGlass companion Android app. It uses Glass' so-called screencast experience, which is a way of letting other users see what you're seeing on Glass from their Android device's screen. Now a Glass user can "touch/swipe/tap to control the Glass UI through the screencast experience," according to the blurb on Play. Some Google+ users have noted that the remote control part is not working yet and probably requires a matching Glass update. You can grab it at the source, but Google has helpfully pointed out that "if you don't have Glass, then... it'll be a waste of time."
+
+

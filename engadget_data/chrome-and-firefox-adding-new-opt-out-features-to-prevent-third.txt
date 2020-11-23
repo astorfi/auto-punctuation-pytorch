@@ -1,0 +1,6 @@
+
+ 
+Ever been freaked out by an online ad that seemed to know you that little bit too well? It's the result of good old advertisers tracking your net-navigating habits and delivering targeted commercials to your eyeballs, but it can be prevented. Both Google and Mozilla have stepped up (or perhaps been pushed by the FTC) to try and tackle this issue of pernicious tracking cookies, but they've gone about it in different ways. The Chrome solution is a Keep My Opt-Outs browser extension that remembers the sites you don't want personalized information from, while Firefox will start beaming out a Do Not Track HTTP header that should be respected by advertisers and result in you receiving generic, repetitive ads. The important commonality between the two is that they don't rely on you preparing a cookie file with all your anti-advertiser bile contained within it (which was the FTC's original, somewhat impractical idea). Google intends to open-source its extension and bring it to other browsers as well, though obviously it's taking care of Chrome first, which can benefit from the add-on right now.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Netflix caused a lot of head scratching in October when it started rolling out its new, disc-free Netflix experience for the PS3. Namely, different people were getting a different UI, and there didn't seem to be any rhyme or reason to the differentiation. Well, it turns out Netflix was flexing a bit of its HTML5 muscle, rapidly testing different experiences to see which ones worked best for users, all without having to push out app updates or back-end changes to accommodate its indecision. Apparently, Netflix's engineers actually ported WebKit to the PS3 to make all this possible, and hopefully it's a sign of things to come in the HTML5 iPhone, iPad, and Android apps -- which could probably use some serious sprucing, or even a bit of scattered rapid prototyping just to relieve the monotony. It's also seems to be good news for other PS3 apps which can lean on the framework -- presumably VUDU's own HTML5-based UI took advantage of this when it landed on the PS3 in November. What we'd really love is if Sony and Google are secretly in cahoots to bring the entirety of Chrome and its couch-friendly Google TV UI with it. Hey, we can dream, right?
+      
+
+ 

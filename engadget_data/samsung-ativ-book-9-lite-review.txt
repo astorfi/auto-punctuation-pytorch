@@ -1,0 +1,71 @@
+
+It is what it sounds like. The Samsung ATIV Book 9 Lite, announced at the same time as the ATIV Book 9 Plus, is a mid-range version of the company's flagship laptop. Priced at nearly half the price ($800 vs. $1,400), it's made of plastic instead of aluminum, with an AMD chip instead of the usual Intel Haswell processor. But it has generally the same look, and is nearly as thin and light as the real thing. In fact, it stands as one of the most lightweight machines you can get for this price, even if it doesn't qualify as a bona fide Ultrabook. So is it worth getting this and saving yourself six hundred bucks? And how big a deal is the difference in specs?
+
+
+
+
+
+Look and feel
+The ATIV Book 9 Lite looks like its higher-end cousin; it just doesn't feel like it. Perhaps the biggest thing they have in common is their shape: Both have a super-thin profile that widens a bit toward the hinge to accommodate the ports (USB 2.0 and 3.0, audio in/out, micro-HDMI and mini-VGA, in this case). Being the less-premium model, the Book 9 Lite is thicker (0.69 inch vs. 0.54 inch), though it wouldn't have occurred to us had we not looked up the two spec sheets. Incidentally, this one is heavier too, at 3.48 pounds -- a substantial step up from 3.06 pounds on the premium model.
+
+What's especially nice is that there aren't even that many 13-inch, Ultrabook-like machines in this price range to begin with. In fact, most of the Book 9 Lite's competitors have larger 14-inch screens, and weigh a bit more, too. So as much as we take issue with the Book 9 Lite's performance (spoiler!), we'll give Samsung credit where it's due: We'd be hard-pressed to find another $800 laptop that's quite this thin and quite this light. As a bonus, the machine comes with an Ethernet adapter in the box, which is more than we can say about most other notebooks, even the expensive ones.
+
+Unfortunately, as you'd expect, Samsung had to compromise on build quality to reach that $800 price point (and, you know, to make sure you still had a reason to spend $1,400 on the Book 9 Plus). For starters, the lid is made of glossy plastic, not aluminum. In fact, the whole thing is made of plastic: the keyboard deck, the palm rest and even the buttons. Now don't get us wrong, plastic doesn't always have to be a bad thing. Take the keyboard deck: It looks like the aluminum used on the ATIV Book 9 Plus, and does about as good a job hiding fingerprints.
+
+The lid, on the other hand, commits two design sins: It has a painted-on pattern meant to mimic brushed metal, and it's a magnet for dust and other fluff. Also, the display wobbles when touched; that might not have been a big deal in the Windows 7 era, but it's a problem when you're constantly poking at the screen with your fingers. All that said, it's still a nice design for a machine this price. But yeah, a sturdier hinge would've been appreciated.
+
+Keyboard and trackpad
+Like the ATIV Book 9 Plus and other laptops Samsung has put out over the years, the Book 9 Lite has an island-style keyboard with shallow, well-spaced buttons. Though the keys here don't offer much in the way of travel, we were still able to carry on with hardly any typos. Also, though the keyboard deck is made of plastic, the underlying panel isn't at all flimsy; you won't notice any bend or give as you start pounding away at the buttons. Perhaps our biggest gripe is that the keys aren't backlit. True, you can probably live without this feature, but it still seems like a big omission on an $800 machine in the year 2013.
+
+When we first unboxed the ATIV Book 9 Lite, we thought we were going to enjoy the spacious trackpad just like we did on the ATIV Book 9 Plus (mostly, anyway). The thing is, as easy as it is to drag your finger across that smooth surface, the cursor doesn't always go where you want it to. In fact, it often doesn't. Throughout our time with the Book 9 Lite, we never figured out how to conquer the trackpad; no amount of adjusting on our part really helped. It's just a stubborn touchpad, but hopefully one that can be improved through future software updates.
+
+Display and sound
+In absolute terms, the 13.3-inch, 250-nit display here isn't the best we've ever seen, but it's quite good for a machine in this price range. Though it has 1,366 x 768 resolution, as opposed to, say, 1,600 x 900, it offers a low-glare panel that stands up well to harsh fluorescent lighting. True, there's a limit to how far forward you can push the lid before colors start to wash out, but we had no problem viewing from off to the side. That's good news for when you want to sit around streaming Netflix with people.
+
+All told, it's a richer display than what you'll get on the $680 Lenovo IdeaPad U430 Touch -- and that actually has 1,600 x 900 resolution. We're not saying it's ideal, but if we had to choose between a higher-res screen with pale colors and a lower-res one with good viewing angles, we'd settle for the lower pixel count.
+
+The speakers, located on the bottom side underneath the palm rest, will hardly fill a room, though you should be able to get by, listening to music your own in a quiet room. As for quality, it's about as tinny as other thin-and-light notebooks. Meaning, it's tolerable, but if you listen to some mid-century jazz like we did, you'll miss out on some lovely piano bars and other low notes. You'll hear a whole lot of finger snapping, though -- higher-pitched sounds like that will come through loud and clear.
+
+Performance and battery life    PCMark7 3DMark06 3DMark11 ATTO (top disk speeds)     Samsung ATIV Book 9 Lite (1.4GHz "quad-core" processor, AMD Radeon HD 8250) 2,060 2,814  E749 / P530
+
+  550 MB/s (reads); 139 MB/s (writes)   Lenovo IdeaPad U430 Touch (1.6GHz Core i5-4200U, Intel HD 4400) 3,845 4,499  E1,448 / P742
+
+  113 MB/s (reads); 110 MB/s (writes)   Samsung ATIV Book 9 Plus (1.6GHz Core i5-4200U, Intel HD 4400) 4,973 5,611  E1,675 / P867 / X277
+
+  547 MB/s (reads); 508 MB/s (writes)   Acer Aspire S7-392 (1.6GHz Intel Core i5-4200U, Intel HD 4400) 5,108 5,158  E1,724 / P952 / X298
+
+  975 MB/s (reads); 1.1GB/s (writes)   Sony VAIO Pro 13 (1.6GHz Intel Core i5-4200U, Intel HD 4400) 4,502 4,413  E1,177 / P636 / X203
+
+  1.04 GB/s (reads); 479 MB/s (writes)   Sony VAIO Duo 13 (1.6GHz Core i5-4200U, Intel HD 4400) 4,440 6,047  E1,853 / P975 / X297
+
+  546 MB/s (reads); 139 MB/s (writes)   Sony VAIO Pro 11 (1.8GHz Core i7-4500U, Intel HD 4400) 4,634 N/A  E1,067 / P600 / X183
+
+  558 MB/s (reads); 255 MB/s (writes)  We get it: Speeds and feeds aren't everything. That said, it's never a good sign when a manufacturer doesn't want you to know what processor it's used. If you look on Samsung's website, or in the system properties, the processor is only described as a quad-core chip with clock speed of "up to" 1.4GHz. Given the price and that it has integrated AMD Radeon HD 8250 graphics, you might assume the "quad-core" processor here was made by AMD. In fact, Samsung says this is indeed a white-label AMD chip, though that's about all it's willing to share.
+
+But why should you even care who makes the CPU? Because the performance here is absolutely dismal, that's why. Not only does the Book 9 Lite trail its competitors in benchmarks, but it's also sluggish in day-to-day use. Many times, we noticed a kind of ghosting effect as we dragged around windows and opened new files and applications. Other times, programs became unresponsive. The bottom line: It's a little too easy to overwhelm this machine.
+
+The one very big thing the Book 9 Lite has going for it is its SSD -- a pleasant surprise, given that most $800 machines come with spinning hard drives. Though the solid-state drive obviously doesn't help much with CPU-intensive tasks (much less GPU-focused ones), it does allow for a lightning-quick boot-up: just nine seconds until you're on the Start screen. Transfer speeds are also predictably fast: Reads maxed out at 550 MB/s, while writes topped out at an average of 139 MB/s. That's not as fast as a PCI Express-based SSD, of course, but still plenty normal for a regular, old mSATA drive.
+
+     Battery life
+
+      Samsung ATIV Book 9 Lite 4:33     MacBook Air (13-inch, 2013) 12:51   MacBook Pro with Retina display (13-inch, 2013) 11:18   Sony VAIO Duo 13 9:40   Samsung ATIV Book 9 Plus 8:44   Sony VAIO Pro 13 8:24   Lenovo IdeaPad U430 Touch 7:53   Acer Aspire S7-392 7:33   Acer Iconia W700 7:13   Sony VAIO Pro 11 6:41   Microsoft Surface Pro 2 6:27   Dell XPS 14 6:18   MacBook Pro with Retina display (13-inch, 2012) 6:07   Lenovo IdeaPad Yoga 13 5:32   Dell XPS 12 (2012) 5:30   Toshiba Kirabook 5:12   Lenovo ThinkPad Helix 5:07 (tablet only) / 7:24 (with dock)   Lenovo ThinkPad X1 Carbon 5:07   Samsung ATIV Book 7 5:02   ASUS Transformer Book 5:01 (tablet only)   Lenovo ThinkPad X1 Carbon Touch 5:00   MSI Slidebook S20 4:34   Acer Aspire S7-391 4:18   ASUS TAICHI 21 3:54   Microsoft Surface Pro 3:46  The AMD chip has a dampening effect on battery life, too. According to Samsung, the two-cell, 5,880mAh battery can last up to 5.5 hours on a charge. Indeed, after performing our (admittedly taxing) battery rundown test with a video looping, WiFi on and the brightness fixed at 65 percent, we managed just four hours and 33 minutes. Not only is that short compared to an Ultrabook, but it also doesn't even match other notebooks in the same price range. Lenovo's IdeaPad U430 Touch, for instance, lasts more than three hours longer -- and that's with a spinning hard drive to potentially swallow up more battery power!
+
+Software and warrantyAll things considered, Samsung didn't load up the Book 9 Lite with too much bloatware. On board, you'll find Netflix, iHeartRadio, Evernote Touch, Bitcasa cloud storage, a trial of Norton Internet Security and a handful of Samsung-branded apps including S Player, S PhotoStudio and Samsung Story. As we've found on other systems, though, the Norton pop-ups can be quite annoying.Also, just like the ATIV Book 9 Plus, which came out at the same time, the Book 9 Lite comes with two different syncing programs installed -- and they both require you to own a Samsung smartphone. First up is HomeSync Lite, which lets you download content between your PC and mobile (read: Galaxy) devices. SideSync, meanwhile, lets you hook up your PC and mobile device using either WiFi or a USB cable, and then use your mouse and keyboard to take advantage of both displays. Once connected, you can also share files by dragging and dropping, write text messages on your laptop's keyboard and share your phone's screen with the PC.
+
+The ATIV Book 9 Lite comes with a one-year standard warranty, just like most other consumer PCs.
+
+Configuration options and the competition
+Samsung's US site shows two $800 configurations of the ATIV Book 9 Lite: one with touch, and one without. Though the non-touch version has some benefits (it weighs 3.17 pounds instead of 3.48, and offers three more hours of battery life), it's primarily intended for business customers; heck, it even runs Win 8 Pro. Either way, you get that quad-core processor, integrated Radeon HD8250 graphics, 4GB of RAM, a 128GB SSD and a 13.3-inch, 1,366 x 768 display.
+
+Fortunately, there are plenty of other mid-range machines out there -- many of which perform better than the ATIV Book 9 Lite. For instance, the Lenovo U430 Touch sells for $680 with a Haswell Core i5 processor, a 14-inch (1,600 x 900) display and a 500GB hard drive paired with a 16GB SSD. And that's not just us reciting the spec sheet, either: We've actually been testing the U430 and can vouch for its generally faster performance. (See the performance table above if you don't believe us.) Also, largely thanks to that Haswell CPU, the U430 delivers nearly eight hours of runtime.
+
+Meanwhile, Dell recently issued a series of redesigned laptops, dubbed the Inspiron 7000 series. Of these, the 14-inch model is probably the most applicable, as the screen sizes only get larger from there. Starting at $850, it offers a Core i5 Haswell processor, 6GB of RAM, a 500GB hard drive and a sharper 1080p display. And at 3.88 pounds (for the non-touch model), it doesn't weigh that much more than the 13-inch ATIV Book 9 Lite. All in all, this too seems a better deal -- at least on paper. Still, based on the testing we've done on both the Book 9 Lite and competitors like Lenovo's U430 Touch, we feel confident saying other Haswell machines will probably outperform the Book 9 Lite too.
+
+And let's not discount HP -- until recently, the world's number one PC maker. Right now, your best bet in the mid-range category might be the 14-inch Envy TouchSmart 14t, which starts at $850 with a Core i5 processor, 4GB of RAM, 500GB hard drive and a 1,366 x 768 display. All told, the specs aren't that much better than on the $800 ATIV Book 9 Lite -- except for the fact that this runs Haswell, and the performance and battery life are probably better.
+
+Wrap-up
+More Info Samsung intros ATIV Book 9 Lite Samsung ATIV Book 9 Lite hands-on Samsung ATIV Book 9 Plus reviewThe ATIV Book 9 Lite sounded like a good idea. In fact, the sales pitch was remarkably straightforward: Here's a machine that looks generally like the high-end ATIV Book 9 Plus, but costs a lot less. The problem is, the Book 9 Lite ultimately rests too much on its good looks. Take away the skinny chassis and you're left with a machine that offers sluggish performance and short battery life. Yes, it's thinner and lighter than other machines in this class, most of which have slightly bigger screens. But still, what use is a portable system if you have to plug it in every few hours?
+
+Samsung says the AMD chip inside is fit to compete with a Core i3 processor, but really, had Samsung gone with Haswell (and maybe a larger battery), this review might have had a very different ending. Battery life would surely be longer, and the performance would be strong enough that we wouldn't notice much ghosting, if any at all. Hopefully Samsung can refresh the internals when it sits down to design a follow-up product, but assuming you can't wait that long to buy a new laptop, there are better options out there.
+
+

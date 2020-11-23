@@ -1,0 +1,7 @@
+
+ 
+It may not be very practical just yet but, as Zatz Not Funny's Dave Zatz points out, this recently discovered telnet "hack" for network remote control of a TiVo certainly offers no shortage of potential. Apparently, this one arose out of TiVo's deal with Creston to allow for integration with their home automation framework which, fortunately for those that like to dabble in such things, simply involved having TiVo HD and Series3 units listen to port 31339 for connections from a Crestron device. As Zatz notes, however, there's nothing to stop any device from telnetting to the TiVo's easily-findable IP address using the aforementioned port and inputting IR codes command line-style. Currently, that's made even less practical by the fact the codes need to be entered quickly to avoid being timed out, but we're sure it's only a matter of time before folks devise some slightly more useful means of exploiting this interesting find. Until then, you can head on past the break for a little taste of the current level of iPhone-to-TiVo interaction.[Via Zatz Not Funny!]
+
+ 
+
+

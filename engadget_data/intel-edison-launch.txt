@@ -1,0 +1,4 @@
+
+Back in January, Intel CEO Brian Krzanich teased us with Intel Edison -- a tiny computer with a 22nm chip, on-board WiFi and Bluetooth and the footprint of an SD card. It was designed to be a lightweight and low-power development platform to help usher in the Internet of Things and the next generation of wearable devices. The company wouldn't give us a hard launch date for Edison back at CES, but Krzanich was happy to lay it out during today's IDF keynote: as of today, Intel Edison is shipping and available. Krzanich left it at that, short and sweet, and will be encouraging developers to adopt the program all weekend.
+
+

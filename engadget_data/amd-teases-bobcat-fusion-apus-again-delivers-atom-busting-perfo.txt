@@ -1,0 +1,9 @@
+
+ 
+A quick refresher: Bobcat is AMD's low-power Accelerated Processing Unit that can handle both computational and graphical duties, Ontario and Zacate are the chips built upon that core, and Brazos is the overall platform that they'll be doing their work on. Clear enough? We hope so. AMD has finally allowed a few tech pubs to get their hands on Brazos-based systems and, along with feedback about their experience, the guys have come back with some added spec notes. There'll be two initial Zacate options, the dual-core E-350 running at 1.6GHz or the single-core E-240 clocked at 1.5GHz, while Ontario will offer 1GHz dual-core and 1.2GHz single-core variants. Let's not forget that both are intended for netbooks and lithe desktop computers before writing them off as too slow -- which would be a mistake anyway as the sites that got a chance to play with the E-350 reported very respectable performance. HardOCP dared to try out Crysis and managed to get it chugging along at a resolution around 720p, whereas Hot Hardware witnessed a 1080p video clip being played back perfectly smoothly alongside an instance of Hyper Pi maxing out the CPU load. Benchmark results will have to wait for another day, but feel free to peruse the links below for a more detailed breakdown of the new architecture.
+      
+
+ 
+
+
+ 

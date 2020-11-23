@@ -1,0 +1,4 @@
+
+It's hard to know whether PC monitors will continue to be much of a focus for the new Dell. Nevertheless, the relevant department looks to have been gearing itself up for 4K, as Bright Side of News and others have spotted a leaked product page for a 24-inch IPS LED panel with 3,840 x 2,160 pixels. There's no price or availability information at this pre-launch stage, but we do have a bunch of specs: The UP2414Q has an 8-bit panel, with Advanced Frame Rate Control (AFRC) to try to simulate 10-bit color. It appears to lack HDMI 2.0, so it can only handle frame rates up to 30Hz over this type of connection, but it has DisplayPort 1.2 for 60Hz. It'd be nice to have a few more inches along the diagonal perhaps, but 4K on a 24-inch display still "only" equates to 185 ppi so maybe that's a safe limit for professionals requiring close-up perfection. Check out the source link for more on the color gamut, contrast/brightness and other vitals.
+
+

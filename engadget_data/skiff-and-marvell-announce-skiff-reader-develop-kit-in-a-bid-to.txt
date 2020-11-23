@@ -1,0 +1,5 @@
+
+ We've been hearing a lot about Marvell lately driven, in part, by the rapid growth in e-reader devices. Now it's teamed up with Hearst's ambitious venture, Skiff, to create the Skiff Reader Development Kit (RDK) designed to allow manufacturers to quickly create inexpensive reading devices using Marvell's Armada System-on-a-chip with integrated electronic paper display controller. Naturally, the RDK includes built-in software support for the Skiff eReading service and digital storefront. Interesting, very interesting. It's becoming clear that Skiff's approach to toppling Amazon's early e-reader / service juggernaut is to flood the market with devices hooked into a compelling value proposition for publishers and content owners and then ultimately (sometime later this year), consumers. Hold tight kids, this could be Apple (Amazon) vs. Microsoft (Skiff/Hearst) all over again.
+      
+
+ 

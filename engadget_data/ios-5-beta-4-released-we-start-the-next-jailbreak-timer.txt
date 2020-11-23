@@ -1,0 +1,15 @@
+
+ 
+
+Under eight hours. That was the time it took to jailbreak beta 3 of iOS 5, which dropped back on July 11th and was unleashed later that day. Now beta 4 is out and, well, our stopwatches are ticking. A new beta of iTunes has also been included, though looking through the change log there's nothing particularly amazing about this release. Among other minutia, the Twitter app will now prompt you if it's unable to identify your location before you exit it, MobileMe local contacts are deleted instead of being merged, and iCloud file names are now case sensitive. Yes, we can hear you CamelCase lovers cheering.
+
+Interestingly, this is the first version of iOS5 that is said to be able to be applied OTA -- though that particular option comes with the warning that all photos will be deleted should you give it a try. We're guessing that "feature" will not be present in the final release candidate, but we could be wrong. Would certainly make for a fun Easter egg...
+
+Update: We're actually having issues applying this on our many and myriad devices, and we're seeing others reporting the same. We'll keep trying, but let us know how you're getting on in comments.
+
+Update 2: Looks like we got it. We had to go back to 4.3.4 and then we were able to move up to beta 4. Maybe that'll work for you. Maybe you'll be still stuck in the doldrums of beta 3. Either way, you're still okay by our book.
+
+Update 3: Looks like the jailbreak is out in full force. Not too shabby, eh?
+      
+
+ 

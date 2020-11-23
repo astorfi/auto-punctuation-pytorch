@@ -1,0 +1,8 @@
+
+ 
+If you didn't already have enough potential app privacy leaks to worry about, here's one more -- Android Police discovered that Skype's Android client leaves your personal data wide open to assault. The publication reports that the app has SQLite3 databases where all your info and chat logs are stored, and that Skype forgot to encrypt the files or enforce permissions, which seems to be a decision akin to leaving keys hanging out of the door. 
+
+Basically, that means a rogue app could grab all your data and phone home -- an app much like Skypwned. That's a test program Android Police built to prove the vulnerability exists, and boy, oh boy does it work -- despite only asking for basic Android storage and phone permissions, it instantly displayed our full name, phone number, email addresses and a list of all our contacts without requiring so much as a username to figure it out. Android Police says Skype is investigating the issue now, but if you want to give the VoIP company an extra little push we're sure it couldn't hurt.
+      
+
+ 

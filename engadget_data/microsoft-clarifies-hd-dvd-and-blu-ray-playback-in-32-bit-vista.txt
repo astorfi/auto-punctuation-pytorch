@@ -1,0 +1,5 @@
+
+ It must have been a restless night for Microsoft's Steve Riley who mistakenly told a crowd in Australia yesterday that Windows Vista would not support commercial Blu-ray and HD DVD playback on machines sporting 32-bit processors -- the vast majority of PCs in homes today. Not true says a scrambling Microsoft, "playback is possible with Windows Vista in 32-bit" but support will be determined by independent software vendors like CyberLink and InterVideo, not Microsoft. This because Windows Media Player 11 won't be able to play commercial, high-def films when Vista ships. However, as Riley let slip said yesterday, "this is a decision that the media player folks made" (now read: the ISVs) since the studios don't want their high definition content to play in x32 due to the ability of unsigned code to compromise their content protection schemes. So while Microsoft has shifted the blame, the position of the studios certainly hasn't changed. Now who do you think is going to cave, the studios or the ISVs, once Vista is launched?
+      
+
+ 

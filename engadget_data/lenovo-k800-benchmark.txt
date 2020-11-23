@@ -1,0 +1,11 @@
+
+ 
+If Lenovo's sticking to its promise, it should only be another two months maximum before its Intel Medfield-powered K800 smartphone debuts in China. Until then, we won't know the full potential of the 1.6GHz Atom Z2460 powering Ice Cream Sandwich, but we do have the next best thing for now: what we've just obtained are some benchmark results from a K800 prototype with Android 2.3.7, and while the graphics performance wasn't top notch this time round, the general score performance came close to that of the Galaxy Note (powered by a 1.4GHz dual-core Exynos chipset).
+
+However, the K800 did beat pretty much everyone -- including the brand-spanking-new One X and One S from HTC -- in the SunSpider 0.91 Javascript test, where it only took 1,270ms to complete! What remains to be seen is whether Medfield will really deliver a better battery performance than its competitors; so until we find the answer (along with improved scores) on a final unit, you'll just have to make do with our list of scores after the break.
+      
+
+ 
+
+      K800 HTC One S HTC One X Galaxy Note (int'l)   Quadrant (v2) 3,850 5,053 4,906 3,854   Linpack single-thread (MFLOPS) 89.47 103.88 48.54 64.3   Linpack multi-thread (MFLOPS) 90.57 222.22 150.54 95.66   NenaMark2 (fps) 27.6 61.0 47.6 32.8   NenaMark1 (fps) 38 60.8 59.5 56.6   Vellamo 1,162 2,452 1,617 901   SunSpider 0.9.1 (ms, lower numbers are better) 1,270.2 1,742.5 1,772.5 2,902  
+ 

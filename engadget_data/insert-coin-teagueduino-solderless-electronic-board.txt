@@ -1,0 +1,16 @@
+
+ In Insert Coin, we look at an exciting new tech project that requires funding before it can hit production. If you'd like to pitch a project, please send us a tip with "Insert Coin" as the subject line.
+
+
+We've seen the Arduino platform used to do some very, very cool things. You can pick up one of these incredibly versatile contraptions for well under 100 bucks, putting it within reach of the entire gamut of advanced hardware developers. But as simple as it may be to use for the technically inclined, there's still quite a bit of programming required, and you'll probably need to know your way around a soldering iron as well. The Teagueduino sets out to simplify the process, replacing intimidating code with simple drop-down menus, which you can adjust in realtime, giving you instant feedback as you make adjustments to your 'coding' handiwork. The second piece of the puzzle is the Teagueduino board itself, which includes snap-enabled inputs and outputs (yes, that means you can leave the finger-melting soldering iron to the pros).
+
+The hardware/software duo first made an appearance this spring, but it just popped up on Kickstarter, which means the Teagueduino could be making its way to a DIY project near you in the not-so-distant future. Unfortunately it's not cheap -- you'll need to pledge $160 to get a fully assembled kit, while $260 adds extra I/O terminals. The Teagueduino is nearing the halfway point of its $22,000 funding goal with 27 days left to go, and if all goes according to plan, you should have your kit by November. Jump past the break for an overview with the designers.
+      
+
+ 
+
+  Previous project update: In a rather unexpected turn of events, our last Insert Coin project, the PumpTire self-inflating bicycle tire, has vanished from Kickstarter. We imagine that wildly unrealistic $250,000 goal played a role in the sudden disappearance, but we never like to see promising projects not make it through, and hope to see this one return soon -- perhaps with much more conservative funding expectations.
+
+       
+
+ 

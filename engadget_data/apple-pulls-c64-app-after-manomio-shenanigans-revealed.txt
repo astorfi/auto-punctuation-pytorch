@@ -1,0 +1,6 @@
+
+ 
+Come on Manomio, what did you expect? Did you really think Apple would leave your C64 emulator in the App Store after it was revealed that the BASIC interpreter was still in your software, exposed with a little up, up, down, down, left, right trickery? That's a clear breach of the SDK and well, downright sneaky. In a blog post to its site, Manomio claims that it had "no intention of tricking basic into the app" and only left the code in to be remotely activated later should Apple change its policy. Of course, with so much money left on the table, Manomio promptly submitted a new, presumably BASIC-free app for approval. Something we're sure Apple will get right on.[Via The iPhone blog]Read -- Enable BASIC in C64 hackRead -- Manomio's plea for mercy
+      
+
+ 

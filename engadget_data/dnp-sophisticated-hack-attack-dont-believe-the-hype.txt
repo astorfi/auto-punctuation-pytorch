@@ -1,0 +1,52 @@
+
+You wouldn't believe how sophisticated hacking has become in the past few years.
+
+
+It has, in fact, gotten so mind-blowingly complex and erudite that this word, sophisticated, is now the only one human beings can really use to describe any single act of computer-security violation.
+
+
+Actually, no. The word, at best, has almost always been used to cover up egregious screwups of breached companies, and shoddy reporting. Or, when at a loss to understand even the most mundane of hacks. Even high-minded publications step into infosec's linguistic dung heap and track the word throughout their pieces on whatever latest rehashed cyber-bomb hysteria-of-the-week they're pushing.
+
+
+
+Just recently, the New York Times delivered a missive with no less than three instances of "sophisticated" buried within. This article was based on a report with seven repeat appearances of security's single-most abused adjective. In what's now a tradition, the word was misapplied to some stuff that's considered pretty basic by security professionals, and didn't escape ridicule on cybersec's watercooler hangout spot, Twitter.
+
+There is no barrier to developing malware. Even ISIS managed to produce custom malware for a targeted attack! https://t.co/8GfwFAVUp5
+— the grugq (@thegrugq) June 1, 2016Article about commercial spywayre always try to spin it as something with huge barriers to entry. It's very wrong, they are almost none.
+
+— The mach monster (@osxreverser) May 30, 2016The truth is, use of the word "sophisticated" in describing hacks and attacks to the public has been anything but. It's hard to pinpoint when, exactly, the word "sophisticated" became the choice for cybersecurity bullshitters everywhere.
+
+Remember last year's "most sophisticated ever" attack on the Pentagon? It was, once again, the attack technique prized by Nigerian scammers, the spear-phishing email. Or the series of "highly sophisticated" attacks on Florida Department of Education servers that turned out to just be a Distributed Denial of Service (DDoS), an external onslaught of traffic that's simple as pie and purportedly cheap to obtain as a service. Carphone Warehouse also said its 2.4 million customers were victims of a "sophisticated attack" on the company, which turned out to be just an old, basic technique of distracting security with a DDoS while the attackers broke in.
+
+The @CPWTweets hack FAQ is stunning! "This attack was a sophisticated one and is part of the reality of the modern world" .. erm, nope.
+
+— Glenn Pegden (@GlennPegden) August 10, 2015The tipping point was probably last year, when TalkTalk boss Dido Harding told Sky News the company had been hacked in a "sophisticated and coordinated cyber attack."
+
+@anthonymusk she says she doesn't want to discuss the specifics of hack, as matter of investigation. but "highly sophisticated"
+
+— Graham Cluley (@gcluley) December 15, 2015We then learned the attack was actually so simple a 15-year-old could do it. In fact, a 15-year-old did do it. A teen from Ireland found few barriers in gaining access to TalkTalk servers and personal details of over 160,000 customers.
+
+So the sustained and sophisticated hack of TalkTalk was a kid in Antrim? https://t.co/4MsUBklxYn
+— Paul Watson (@paulmwatson) October 30, 2015If the TalkTalk hack was from a SQL injection..that's not a sophisticated attack, that's blatant negligence from the company
+
+— John Oakley (@jonokli) October 24, 2015But there the word stood, conspicuously naked and unashamed in its use to misdirect attention and deflect ire.
+
+Or maybe we reached peak I-can't-believe-it's-not-bullshit with the OPM hack. It was at first characterized by US officials as sophisticated, but later exposed by the Institute for Critical Infrastructure Technology as being the result of bad management and dated tech. "In terms of advanced persistent threats, the OPM breach was not a sophisticated attack" (emphasis mine).
+
+Er, maybe it was the Anthem hack. Our nation's second-largest health insurer told press that hackers launched a "sophisticated attack" that broke through its security layers. This held water until some of the Anthem customers harmed in the breach filed a lawsuit last year, saying the company didn't train employees on the basics of not getting suckered by phishing emails.
+
+Waiting the day UK News outlets don't report a security breach as "a sophisticated hack" & just "incompetent corporation left data exposed"
+
+— Signius (@SigniusNetworks) August 9, 2015Look, I can see that use of this word reached stupid epidemic proportions in infosec descriptors long ago. But words are important. In security reporting, they have become so powerful that they make their way into, and shape policy. So I could laugh it off as common self-fluffery or PR dumbfuckery, but I'm in a privileged position of happening to know a lot about this stuff.
+
+A lot people don't. So the people we're all supposed to be serving, or our customers or constituents are all being done a disservice when you try to pull the wool over their eyes by saying something's more complex than it really is. When a phishing email is the difference between safety and life-ruining identity theft, all you need to do is say what the damn attack vector is. But, instead, you decided to pretend it was above everyone's heads.
+
+.@thegrugq cynicalsecurity's lemma:"If the tool used has been around for longer than you've been without nappies it is not sophisticated"
+
+— Arrigo Triulzi (@cynicalsecurity) November 7, 2015Maybe I'm being too harsh. I mean, we all long for a certain sophistication in life, so who am I to deny those who just want things to look cooler, smarter, more alluringly clandestine and complicated than they really are?
+
+I can still offer a respite for those of us seeking a little less fertilizer in our infosec news.
+
+Try my helpful tip for filtering out BS cybersecurity articles. Before you start reading, type command F, enter the word "sophisticated," view the results, and if there's more than zero, click it away stat, off into the dung heap of your browser's past.
+
+

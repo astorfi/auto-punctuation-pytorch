@@ -1,0 +1,5 @@
+
+ 
+ When Google finally announced its shiny new cloud-based Drive service, many people will have been glad to see an extra bit of storage tacked onto their daily gadget lives. Some, however, spin out a generally more nebular existence, and that'd be the Chrome OS faithful. If you find yourself amongst their number, you'll be pleased to know that Sundar Pichai, SVP for Chrome, revealed in an interview with Wired that the next iteration of its slight operating system will come with Drive tightly sewn into the fabric. The idea is that the service will operate as the local file system, and all the core OS functionality will use Drive for storing data. Third party apps like VMware are already baking in Drive functionality, and expect more to follow when it lands in version 20.
+
+

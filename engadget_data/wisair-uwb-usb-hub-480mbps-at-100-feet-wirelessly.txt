@@ -1,0 +1,7 @@
+
+ 
+
+Wisair just announced a new ultra-wideband (UWB) hub reference design (read: available to OEMs, not you) capable of 480Mbps data rates at a distance of 100 feet, wirelessly. That's a pretty big leap over the current 30 foot max reached by their first gen design. The 4-port USB 2.0 hub is based on the WiMedia UWB radio platform and is destined to appear in existing, wired USB hub cases to free laptops (with accompanying USB dongle) from desktop peripherals or reduce desktop clutter for workstations. With any luck someone might pick this up and properly bring it to market someday soon. Anyone listening, D-Link, Belkin, IOGEAR, the Republic of China? [Via TGDaily]
+      
+
+ 

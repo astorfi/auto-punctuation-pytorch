@@ -1,0 +1,12 @@
+
+
+Big federal agencies with ominous-sounding three-letter acronyms aren't the only ones that spy on your activities -- your local police might be doing it, too. Take for instance, the police department of Erie County, New York, which was recently caught using stingray devices in at least 47 instances between May 1, 2010 and October 3, 2014. According to the details published by the New York Civil Liberties Union (NYCLU), the department asked the court for permission to use stingray only once between that time frame. The cops didn't even ask for a warrant; they only asked for a court order and described stingrays as "pen registers," which is only partially accurate.
+
+
+
+Unlike pen registers that record numbers called from a phone, a stingray acts as a cell tower that forces mobile phones in the area where it's currently parked to connect to it. Once connected, authorities get access to their unique IDs and phone numbers, even their call recipients and locations. Law enforcement agencies have been using these devices for years -- Erie County itself started buying stingrays in 2008 and has spent $350,000 on them since -- and a lot of people know what they are by now. Still, cops make an effort to keep details about their use under wraps, because most departments sign a non-disclosure agreement with the devices' manufacturer and the FBI.
+
+Justin Fenton of The Baltimore Sun published a copy of the agreement signed by the Maryland city's police department. In it, the cops are instructed never to disclose the nature of stingray devices, even in "any civil or criminal proceeding," meaning they can't tell the court about using them. They even have to notify the FBI in case they learn that a prosecutor or a District Attorney is planning to divulge the use of stingrays in court, so the agency can intervene. Indeed, Erie County tried its best to protect its stingray records, before the NYCLU managed to get a copy in the end.
+
+NEW: For the 1st time, a copy of the non-disclosure agreement Baltimore authorities signed w feds to use Stingray https://t.co/zqI6wiGK7N
+- Justin Fenton (@justin_fenton) April 8, 2015

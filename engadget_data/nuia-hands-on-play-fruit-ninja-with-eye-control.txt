@@ -1,0 +1,16 @@
+
+ We know what you think this hands-on is about. That laptop you see up there has a Tobii eye-tracking sensor affixed to it, and you're probably wondering why we're still dwelling on it after getting hands-on twice at CES 2012 and once more at CES 2013. But that's not what we're here to show you today. While wandering the halls of Mobile World Congress, we came across NUIA (Natural User Inter Action), a German company whose software is designed to make it easier for developers to code apps that make use of eye tracking sensors, such as Tobii's. In particular, devs will only have to write one extension, even if they're making use of multiple sensing devices (e.g., eye control and gesture recognition).
+
+ That comes in handy for a game like Fruit Ninja, as the required gestures extend beyond the bounds of what Tobii can do by itself. (Tobii lets you do things like zoom in, select objects and scroll, but not swipe flying fruit.) If you venture past the break, you'll see yours truly trying (and occasionally succeeding) at Fruit Ninja, though obviously this game is just one use case (albeit, a very fun one). There's nothing stopping developers from applying this to creative, productivity or even enterprise apps, too. As for availability, well, it's pretty clear the hardware will have to come before the software -- a NUIA spokesperson told us she doesn't expect its kit will be commercially available until sensing devices like Tobii become integrated into Windows 8 PCs. And if Tobii is any indication, that might not happen until next year at the earliest.
+
+
+
+  
+  Though we didn't choose to film it, the setup process we underwent before getting started was the same one Tobii showed off at CES. Which is to say, we stood the "right" distance from the laptop's camera, and then followed an onscreen ball as a means of calibrating our eye movements. It's a quick, simple sequence, and we only had to do it once.
+
+  Suffice to say, though, killing fruit with your eyes is far more challenging than using your fingers. The trick, we found, is to keep your head and upper body still, and only move your eyes. That's harder than it looks, folks; it requires an intense level of concentration, so much so that you might actually miss out on gameplay because you were too busy whispering "DON'T MOVE" to yourself.
+
+  That learning curve aside, the technology does work as advertised -- just check out that bonus I scored after I started to get the hang of it. So, we're optimistic about the potential for other PC apps, even those that have nothing to do with gaming. We just have no idea how long we'll have to wait for them.
+
+  Sharif Sakr contributed to this report.
+

@@ -1,0 +1,5 @@
+
+ Yeah, everybody's been grasping at straws (including us) for possible info on the iPhone for, well, the last couple of years now, and the latest adds fuel to the speculative fire without providing any answers. So what else is new? Anyhow, in the June 28th iPod updater package, apparently if one were to analyze a few particular files with a hex editor, one would produce some very peculiar and anomalous commands, like t_feature_app_PHONE_APP, kPhoneSignalStrength, clPhoneCallModel, clPhoneCallHistoryModel, prPhoneSettingsMenu, and so on. They're confirmed to have absolutely nothing to do with the Moto iTunes phone line, which makes sense, and we will concede that such a find seems highly unusual. Still, we'd hardly be willing to call this type of thing nascent evidence of an iTunes phone; on the other hand, if there was one around the corner, WWDC would be as good a place as any for Apple to announce. After all, what better place than Apple's own developer conference would there be to announce a new mobile device platform, hm?[Via AppleInsider, thanks William]
+      
+
+ 

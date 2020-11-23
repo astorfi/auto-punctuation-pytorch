@@ -1,0 +1,5 @@
+
+ 
+ Google has been talking up the prospects of integrating WebRTC into Chrome for the past several months. It's now ready to put theory into practice with a fresh beta of the web browser. The upgrade uses WebRTC to let typical microphones and webcams talk to the browser without using a plugin like Flash or something otherwise so very 2011. Just to embrace this future of direct hardware support ever the more tightly, Google is also building in a gamepad programming interface that lets controllers tap into Chrome without having to rely on Native Client's magic. There's more waiting at the source link, including more direct tie-ins with Cloud Print, so the more adventurous among us can get to chatting (and playing) right away.
+
+

@@ -1,0 +1,13 @@
+
+ 
+Looks like the zany folks over at ZiiLabs have more in store for us. They've announced that they'll be demoing HD video playback for Android with their ZMS-05 CPU at MWC (which starts on Monday, February 16th). So -- in essence, there's not too much new here -- the chip was on-hand at CES -- but we're happy to see it befriending old Android. There'll surely be more info coming out of Barcelona over the next week, but until then, you'll have to make due with the press release which is after the break. 
+
+ 
+          
+ 
+ 
+ ZiiLABS™ to Demonstrate HD Video Playback for the Android™ PlatformZiiLABS ZMS Processors Expand Media Acceleration Capabilities on Android Platform for Handheld DevicesSingapore - Feb. 12, 2009 - ZiiLABS, a wholly owned subsidiary of Creative Technology Ltd, today announced that it will demonstrate media acceleration capabilities enabling HD video playback for the Android open platform with its ZiiLABS ZMS-05 media processor and platforms. ZiiLABS will unveil the demonstration at the Mobile World Congress, Barcelona (16th-19th February).The Android platform is a software stack for mobile devices including an operating system, middleware and key applications. ZiiLABS ZMS Processors work seamlessly with Android to provide media acceleration to meet the demands of media rich devices. Now for the first time, HD video playback up to 1080p on handheld devices will be available on the Android platform. ZiiLABS is committed to enabling its OEM and ODM customers the choice to deliver media-rich mobile platforms based on Android. The Company expects to release its Android platform to OEM partners during the summer of 2009."Android provides an excellent platform for enabling next-generation OEM devices based on our ZMS processors and platforms," said Tim Lewis, director of marketing, ZiiLABS. "Last month at the Consumer Electronics Show we launched the ZMS-05 based upon our StemCell™ Computing architecture. We are now expanding our support beyond our existing SDK to anyone who wishes to leverage the Android platform. At CES we demonstrated how HD video playback at 1080p can work on a handheld platform now, a feat which has been reported to only be achievable five years from now. By building upon our existing Linux SDK and optimized libraries we can take full advantage of the highly efficient, scalable ZMS architecture to deliver media-rich Android platforms with unprecedented acceleration, including HD video playback and advanced graphics."A public demonstration and images of the ZiiLABS ZMS-05 media processor powering Android will be available on February 16 at MWC.
+
+       
+
+ 

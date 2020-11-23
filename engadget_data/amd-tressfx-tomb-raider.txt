@@ -1,0 +1,4 @@
+
+ Blocky, pixelated locks can really ruin a day of tomb-robbing, right? To put the feather back in those bangs, AMD's just announced TressFX, software that'll be seen in the 2013 release of Tomb Raider due on March 5th. The rendering tech offloads computation-heavy hair simulation to the graphics processor using Microsoft's DirectCompute language, and was developed by AMD in partnership with Raider developer Crystal Dynamics -- though it'll work with any graphics card that supports DirectX 11, including those from arch-foe NVIDIA. The result is a coiffure that can move realistically in response to motion and external forces, detect collisions between strands, accurately reflect light and even allow for matting from moisture or rain. Lara may have preferred that AMD omit the latter, but anything's better than the helmet-head look, no?
+
+

@@ -1,0 +1,6 @@
+
+ 
+NVIDIA had told us it would be accelerating its CUDA program to try and get an advantage over its competitors as OpenCL brings general-purpose GPU computing to the mainstream, and it looks like that effort's paying off -- the company just announced its new Fermi CUDA architecture, which will also serve as the foundation of its next-gen GeForce and Quadro products. The new features are all pretty technical -- the world's first true cache hierarchy in a GPU, anyone? -- but the big takeaway is that CUDA and OpenCl should run even faster on this new silicon, and that's never a bad thing. Hit up the read links for the nitty-gritty, if that's what gets you going.  Read - NVIDIA Fermi siteRead - Hot Hardware analysis Read - PC Perspective analysis
+      
+
+ 

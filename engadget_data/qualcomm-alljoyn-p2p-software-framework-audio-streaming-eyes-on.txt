@@ -1,0 +1,11 @@
+
+ Qualcomm revealed that it was expanding its AllJoyn software platform today with some new services designed to help create a network of connected devices. Essentially, these services take the AllJoyn P2P software framework and package it in a way that makes it easier for hardware makers to implement. Qualcomm sees these new services enabling a kind of hub and spoke organization where myriad devices -- from coffee makers to stereos -- connect to a single internet gateway. With such a framework in place, users can control those devices and receive notifications from them on a smartphone or tablet.
+
+ To get an idea of what AllJoyn can do, imagine a world where your washing machine sends you a text when the laundry's done and you can tell your coffee maker to start brewing using your smartphone. In addition to an appliance and gadget connectivity network, AllJoyn's also rolling out a open source, wireless audio streaming protocol. Like AirPlay or Sonos' wireless technology, it allows users to stream music from mobile devices to any set of AllJoyn-enabled speakers. But, unlike those closed competitors, AllJoyn's solution is open source and freely available to speaker and stereo manufacturers. Intrigued? You can see an AllJoyn-enabled coffee maker and the AllJoyn-compatible DoubleTwist app do some music streaming in our video after the break.
+
+
+
+
+ 
+
+ 

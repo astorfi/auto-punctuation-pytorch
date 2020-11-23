@@ -1,0 +1,14 @@
+
+ 
+
+BitTorrent Sync, the cross-platform tool for sharing files without cloud interference, hasn't managed to shake its beta tag yet, but that isn't slowing anything down. In addition to announcing the service now has more than a million active users monthly, and it's passed over 30 petabytes of data between devices, today sees an update for users and something for developers, too. The general release of version 1.2 is said to improve transfer speeds to up to around 90MB per second. A new native iPad app is out today, and the current iOS version has seen design tweaks and compatibility improvements for iOS 7. Sending and syncing data in other apps using BitTorrent Sync is now possible, and pics and video from your synced folders can be added to a device's camera roll.
+
+
+BitTorrent Sync is also discharging its API to any and all developers today. Just like the service itself, the API doesn't favor any platform, and will allow devs to tinker on all the main computer operating systems, as well as Android and iOS. While it means file-sharing support can be easily shoehorned into other things, the Sync team also imagines entirely new services build off the back of the underlying platform, making use of encrypted data transmission that doesn't rely on any centralized server.
+
+
+ 
+
+
+
+ 

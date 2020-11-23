@@ -1,0 +1,4 @@
+
+It hasn't been hard to get Exchange support on iOS devices, but there's some for whom third-party apps and web clients just won't do. Microsoft has them covered today -- it just repackaged the Outlook Web App as a pair of native iOS releases. Both OWA for iPad and OWA for iPhone deliver email, calendar and contacts to Office 365 subscribers with access to Exchange Online. The developer is quick to note that this isn't a recreation of the Windows Phone environment, and there are a few elements borrowed from Outlook's web version. Still, we see a few reasons to give OWA a try: the native iOS software sends push notifications, takes voice commands, and supports both passcodes as well as remote wipes. Between the new apps and Office for iPhone, it's clear that iOS users are now welcome in Microsoft's world.
+
+

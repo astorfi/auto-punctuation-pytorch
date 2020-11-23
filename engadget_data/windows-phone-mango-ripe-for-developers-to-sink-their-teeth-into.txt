@@ -1,0 +1,12 @@
+
+ 
+
+We were among the first to check out the upcoming Mango update for Windows Phone, but developers won't be left out of the festivities any longer. Microsoft released the second version of Developer Tools Beta, which lets eager app-building folks try out the refresh on their own devices. More importantly than solid bragging rights, it affords developers the opportunity to test apps in a realtime environment, rather than on an emulator. This can only mean good things for Windows Phone users; with nearly four months remaining before the first Mango phones show up, devs have gobs of time to make sure their apps work flawlessly before the anticipated launch. As if this isn't encouraging enough, Microsoft is also doing a fabulous job of helping students get started -- not only is Redmond offering free registration, it's giving out up to 50 phones to members signed up for the DreamSpark program. There's no shortage of opportunities here, so aspiring developers may want to click on the source link and follow the directions to the letter. Full PR after the break.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+ 		Show full PR text 		Today Brandon Watson, Senior Director of Developer Experience for Windows Phone announced via the Windows Phone Developer Blog the availability of updated Mango developer tools known as Tools Beta 2. Below is just a snapshot of the news Brandon shared in his blog, for more details, I encourage you to check out the full post, Developers Get Goody Basket Full of Mangos. 		-Exciting new tools - there are a lot of new tools included in the update to help developers begin building apps that take advantage of new Mango features like App Connect, updated Live Tiles, Motion Sensors and sockets		-Windows Phone early access program - the new early access program for developers allows registered Windows Phone Developers to begin updating their Windows Phone Developer unlocked retail phones with a build of Mango TODAY		-College student challenge – the Windows Phone team has set aside 50 Mango developer phones for students looking to build the next big thing on Windows Phone. Students must be registered with the DreamSpark program and follow the contest guidelines outlined in the blog
+ 

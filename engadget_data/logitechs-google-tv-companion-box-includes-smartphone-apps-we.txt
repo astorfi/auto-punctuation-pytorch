@@ -1,0 +1,18 @@
+
+ 
+Dashing away from the Google I/O keynote as fast as our feet would carry us, we scored the very first look at Logitech's Google TV companion box. While we'll share full details when we catch a breath, here's the scoop: the box extends the full functionality of a Logitech Harmony remote and a WiFi access point to your TV, providing not only Google TV but also allowing you to control your entire entertainment system (including DVR) with a still-in-development keyboard / touchpad remote or an iPhone or Android smartphone app over WiFi. Hit the gallery below for a taste of what the little set-top box can do, and rest assured we've got more info on the way. 
+
+Update: Now with video, after the break.
+
+Update 2: Details and specs after the break, too. 
+
+
+
+
+
+
+When we got to Logitech's demo space, we expected to see a keyboard and mouse. To our surprise, the Logitech product manager pulled out a Nexus One and iPhone. He explained that the companion box has all the technology of Logitech's $400 Harmony 900 remote and extends it to your handset over WiFi. Several scrollable pages of dedicated buttons let that particular iPhone control not only the Google browser but also a Samsung TV, Onkyo receiver and TiVo set top box, and the product manager showed us that there were three additional control schemes (including a touchscreen D-pad, gesture swipe pane and virtual keyboard) that could be activated simply by shaking the phone. Should you not have a more modern smartphone, it won't be your only option by far -- the box will have an optional RF keyboard / touchpad available at launch, and a pair of USB ports in back allow users to connect dongles for 2.4GHz peripherals. In addition to standard Google TV functions, Logitech said the box would come with Logitech's free 1080p 720p video chat solution, Vid -- though you'll have to shell out extra for the webcams required to make it work.The unit itself is based on Intel's CE4100 "Sodaville" Atom processor, with this particular chip operating at 1.2GHz, and the board features 4GB of memory and 802.11n WiFi. In addition to the aforementioned twin USB sockets, the rear I/O panel features wired LAN jack and two IR headers for additional connectivity (the former presumably affording the system direct IP control over DVRs) and has a pair of HDMI 1.3 ports that handle all visual content, with Dolby 5.1 surround sound transferred via either HDMI or S/PDIF out. If your home entertainment setup is entirely wired with HDMI, you'll find the unit allows full digital passthrough; if your sources use any other kind of jack (component, composite, etcetera) you may need a receiver of some sort; reps available couldn't tell us if the box required HDCP to stream content.Update 3: Logitech just informed us that Vid will actually run at a resolution of 720p.
+
+       
+
+ 

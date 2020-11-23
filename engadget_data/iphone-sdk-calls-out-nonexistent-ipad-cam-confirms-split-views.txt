@@ -1,0 +1,13 @@
+
+ 
+iPhone owners holding out hope that OS 3.2 would bring some of these fancy new iPad spoils to their devices might be in for a disappointment, because two of the big ones -- split view and popovers -- are both referred to in Apple's updated human interface guidelines as "iPad-only." Realistically, this shouldn't come as a surprise; both of these UI elements were built to shine on larger displays, and it's hard to say how you could make either one of them work on HVGA -- but it's important for devs to note that heavily investing in these are definitely going to make it difficult to make their apps compatible across all iPhone OS-powered devices. Considering that iPhones will almost certainly continue to dominate iPads for sales volume, we know how we'd be developing.
+
+In other news, running the updated iPhone simulator in iPad mode gives you the option to take photos, which doesn't make a heck of a lot of sense considering that it doesn't have a camera. There are plenty of plausible explanations for the muck-up, but our guess is that Apple's left the vestigial capability on-board since the framework's already in place for the iPhone and there could very well be iPads down the road that have a cam (or two). Follow the break for a shot of the iPad's Address Book imploring you to take a photo -- and savor it, since it's probably the closest you'll actually get to snapping a shot on the device any time soon.
+
+[Thanks, iPhone Dev and Eric]
+      
+
+ 
+
+
+ 

@@ -1,0 +1,5 @@
+
+ 
+ GE and Nissan had previously ruled out GE's WattStation as the cause of a few Leaf charging failures, and that story of EV tragedy looks to be winding to a close with a more definitive explanation. As the two tell us, a bug in the Leaf's on-board charging software can damage the relevant hardware under a perfect storm of conditions: if a drivers uses a specific (but not necessarily GE) charger, an undervoltage or similar power crisis can bring the Leaf to its knees. Nissan says it's hurrying towards a remedy, although we're working to confirm just what that entails. In the meantime, the automaker is asking owners to be cautious and avoid plugging in when there's lightning or brownouts in the making.
+
+

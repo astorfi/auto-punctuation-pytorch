@@ -1,0 +1,13 @@
+
+ 
+It's not too often you get a new version of Windows, so when Bill Gates announced Windows Home Server tonight we had to learn what's what. Here's the rundown of the facts on Windows Home Server, as told to us by Microsoft:
+
+Units are headless and embedded only -- you cannot buy WHS and put it on an old PC.
+There is no common web interface. Interaction is entirely client software based, or done over SMB.
+It cannot directly stream media to Media Center Extenders, but it can stream media directly to Windows Media Connect-enabled devices.
+It does not use RAID, but instead uses a RAID-like drive pooling system with built-in redundancy. Expanding capacity is as simple as adding additional drives internally or externally via USB. We can't say for sure, but we have a feeling if you were to unplug that external drive, your data wouldn't go with it since it's probably spanned across the array.
+The client software, which is installable only on Windows PCs (duh) monitors PC health, manages backups, and supports full disk images and versions. If your computer crashes hard you can pop in an restore CD and it'll pull the disk image over the network.
+Your WHS device gets registered with your Windows Live account and is made easily-findable by authorized parties (i.e. you and anyone you designate) while on the go. You can even connect to it via Live and pipe a Remote Desktop connection to a PC on your home network through this Home-finding Live feature.
+
+Oh, and check out our hands-on gallery and screens.
+ 

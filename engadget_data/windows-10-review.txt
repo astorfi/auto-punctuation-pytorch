@@ -1,0 +1,21 @@
+
+The best thing about Windows 10 is that it's simply Windows, through and through. It's as if Microsoft realized that devaluing the desktop in Windows 8 was akin to sacrilege, and Windows 10 is its penance. At its core, it's a union of the best qualities of Windows 7 and Windows 8 -- the desktop features of the former with some of the touch-friendly aspects of the latter. It's no wonder Microsoft is calling it an operating system that's both fresh and familiar. It's easy to use with a keyboard and mouse, but it's even better with touchscreen computers. The Start menu is back! And new features like Microsoft's Cortana virtual assistant and Edge browser breathe new life into Windows. Microsoft is framing the OS as "Windows as a Service," meaning it's never quite done and constantly evolving. Most importantly, Windows 10 proves that Microsoft's dream of delivering a single OS that can work across computers, tablets and phones might actually come true. 
+
+
+
+
+
+#fivemin-widget-blogsmith-image-479347{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-479347, #postcontentcontainer #fivemin-widget-blogsmith-image-479347{width:570px;display:block;}try{document.getElementById("fivemin-widget-blogsmith-image-479347").style.display="none";}catch(e){}
+I don't blame Microsoft for trying to sacrifice some sacred cows with Windows 8. It's hard to truly innovate when you're tied to a decades-long history. And as far as operating systems go, Windows' interface is one of the oldest, with a core design that goes all the way back to 1995. But the real mistake with Windows 8 was that it was built for touch computing at a time when most people were still dealing with keyboards and mice (or trackpads). Adding insult to injury, it made the experience of using Windows worse for people without touchscreens. Now that touch-enabled laptops and multi-function devices like the Surface are more commonplace, Windows 8's touch innovations seem a lot more useful. But given the ill will that OS built up over the past three years, it also made sense for Microsoft to start fresh. (There's still no clear reason why Microsoft skipped the "Windows 9" name, but I like to think it was because it needed to distance itself from Windows 8 as much as possible.)
+
+Getting started
+Before we dive into the nitty-gritty of Windows 10, it's worth exploring the upgrade experience. In short, it's pretty painless! Gone are the days where we had to devote hours and enlist the help of Windows specialists just to upgrade to a new OS (or, in my case, be the one to get recruited). Microsoft has steadily made upgrading easier with Windows 7 and 8, but with Windows 10, the process is even smoother. If you're a current Windows user, you just need to click the "Get Windows 10" app in the system tray and click "Reserve Your Free Upgrade" to join the queue. If you don't see that app, make sure you have all of the current Windows Updates. Microsoft is making Windows 10 available to its Insider testers first starting on July 29, so you might have to wait a bit before you can upgrade.
+
+Most of us will just be upgrading right from within Windows, but you can also boot off an external hard drive or USB drive to get it going. The entire installation process takes anywhere from 20 to 40 minutes, depending on your setup, and it's mostly hands-free.
+
+Once your installation is complete, you're prompted to add in some personalization details and log in with your Microsoft Account. On a modern computer with a solid-state hard drive, Windows 10 typically boots within 10 to 15 seconds, about the same as Windows 7 and 8. (If you don't have an SSD yet, now is the time to make that upgrade!) The login screen will probably look no different to you. But if you've got a computer that supports Windows Hello -- that is, one with a fingerprint sensor, eye scanner or infrared camera (like Intel's RealSense 3D camera) -- you can also log in almost instantly with biometric authentication. There aren't many Windows Hello-capable devices out there right now -- the few include the Dell Inspiron 15 5548, HP Envy 15t and Lenovo ThinkPad Yoga 15 -- but from the demos we've seen, it looks like a logical evolution from just typing in passwords. Like many aspects of Windows 10, expect the mere act of logging in to get more intriguing over time.
+
+
+
+
+

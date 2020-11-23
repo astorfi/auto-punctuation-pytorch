@@ -1,0 +1,10 @@
+
+ There's an awful lot of hubbub going around today about "new" terms in AT&T's wireless contract agreement that seemingly forbid streaming video from your television to your PC or your phone -- in other words, using a Slingbox -- which would seem to be a rewrite of language added and pulled a few weeks ago. Here's the problem: the terms aren't new, and they don't forbid video streaming. One of our editors has a month-old hard copy of AT&T's terms that were mailed to him after agreeing to a new contract, and they're exactly the same -- word for word.
+
+Furthermore, the language in question is this: "This means, by way of example only, that checking email, surfing the Internet, downloading legally acquired songs, and/or visiting corporate intranets is permitted, but downloading movies using P2P file sharing services, redirecting television signals for viewing on Personal Computers..." but the problem is that the examples given here are referring to earlier language. In that language, we see that AT&T is more concerned about "server devices or host computer applications" -- that's subsection (i), if you're interested. In other words, AT&T's trying to stop you from uploading a television stream using its connection, not downloading -- and frankly, that sounds like the most painful operation ever conceived by man anyway, so we don't think we're going to get too many violators here.
+
+In other words, rest easy; we still don't know whether the now-overdue SlingPlayer for iPhone will ultimately be approved, but if it's not, it shouldn't be because of this.
+
+[Thanks, Mike and Tieguy]
+
+ 

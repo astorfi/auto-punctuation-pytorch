@@ -1,0 +1,4 @@
+
+ It's that special time of the season -- the time when Google posts another Chrome beta and teases what more timid among us will see in the stable release. With Chrome 25, the focus is on voice. The new beta includes the Web Speech API and lets us issue voice commands or dictation through a snippet of JavaScript embedded on a given page. Security is tightening up at the same time through support for unprefixed Content Security Policy headers, which let web developers craft a narrow whitelist of pages and resources that are safe to load. As always, the nitty-gritty details of the beta browser (and the browser itself) are ready at the source link; those of us still a bit beta-shy can wait a few weeks to get the more polished code.
+
+

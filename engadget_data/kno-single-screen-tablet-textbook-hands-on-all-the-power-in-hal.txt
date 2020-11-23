@@ -1,0 +1,14 @@
+
+ 
+If you've been following tech news today, you'll know two tablets are coming down the pike -- RIM's BlackBerry Playbook, and a single-screen version of the Kno textbook tablet from the artist formerly known as Kakai. Running across San Francisco to a Kno meet-up, we got to see the new unit for ourselves, and discovered this interesting little tidbit: it's got all the same hardware inside. How? Find out after the break. 
+
+
+
+
+
+
+Co-founder and CEO Osman Rashid told us that what you see above is exactly one-half of the dual-screen Kno -- in other words, a single 14.1-inch 1440 x 900 IPS capacitive touch screen -- but it's the half with all the guts inside, right down to that Tegra 2 T20 SOC. Rashid told us that the smaller Kno was on the roadmap all along and designed the larger version with the chopping block in mind, which is why he's confident they'll hit the market simultaneously by the end of the year. Since it's only driving half the pixels, you'd expect the Tegra chip would move existing software faster, but the CEO said the company hasn't noticed a significant improvement in tests, and is actually targeting the same six to eight hours of battery life despite the smaller size. The tablet's price wasn't up for discussion at this point, but we were promised it "will be much lower" than the "under $1000" MSRP of the larger device.We got a very brief chance to touch the prototype tablet ourselves, and unfortunately our impressions are much the same:The UI is unfinished, the touchscreen's moderately unresponsive, and there's an annoying delay when turning a page. Still, the large IPS panel was bright and beautiful with excellent viewing angles. Kno's CEO told us the company's main focus now is stability and performance, so it'll hopefully iron out the issues we've seen, and we were told things should definitely be improved when Kno implements hardware acceleration for its page rendering. There's also a landscape mode in the cards, scientific and graphing calculator apps, and Kno plans to launch its SDK in Q1 2011. Needless to say, we're going to keep an eye on this one.
+
+       
+
+ 

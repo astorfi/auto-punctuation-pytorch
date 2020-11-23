@@ -1,0 +1,5 @@
+
+       NVIDIA's been dancing around the general-purpose processor market for a while now -- we've heard reports that the company is developing an x86 chip, and it bought PortalPlayer last year for $357 million. Well, at this year's Microprocessor Forum the company took another small step by announcing that the final release of CUDA, its framework for utilizing high-end NVIDIA GPUs as CPUs, which will be available to developers in the second half of the year. While the idea of using a GPU as a secondary high-performance processor isn't a new one -- Folding@Home already runs on NVIDIA and ATI chips, and the Peakstream system already leverages GPUs -- CUDA should make it easier for developers to tap into high-performance graphics devices whenever they're available, without having to specifically tailor their apps to do so. CUDA, which stands for "compute unifed device architecture," currently only supports the GeForce 8800 and 8600 and Quadro FX 4600 and 5600, so it's of limited appeal right now, but here's hoping the next gen of NVIDIA chips supports CUDA from the get-go -- the Engadget Folding@Home team is looking for a few new recruits.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+According to folks over at Android Community, Google has begun to pull tethering applications from the G1's Market. One of the contributors to the "WiFi Tether for Root Users" app claims that the company is citing distribution agreements with carriers as the cause of the takedowns. In their words:Google enters into distribution agreements with device manufacturers and Authorized Carriers to place the Market software client application for the Market on Devices. These distribution agreements may require the involuntary removal of Products in violation of the Device manufacturer's or Authorized Carrier's terms of service" Google Developer Distribution AgreementOf course, this should come as quite a surprise, given statements T-Mobile's Cole Brodman made to us during the G1 launch last year, and Google's seemingly rampant interest in being the de facto open source mobile OS. It's not clear at this point if this is an isolated incident (possibly related to the root nature of the app), or just the beginning of a more widespread move. Google (and T-Mobile to some extent) -- we await your response.[Thanks, Chris]
+      
+
+ 

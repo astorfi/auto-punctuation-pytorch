@@ -1,0 +1,9 @@
+
+ Looking for a slimmed-down Raspberry Pi with a single USB port, 256MB of RAM, no Ethernet and one-third the power consumption of a Model B board? You're probably in the market for Model A -- a $25 alternative designed for use in battery or solar-powered devices like remote sensors, WiFi repeaters, robots and so on. Europeans currently have exclusive access to the cheaper Raspberry Pi flavor, which according to an Adafruit test consumes only 100 mAh of juice (compared to about 300 mAh for the Model B, due to Ethernet power requirements). Beginning today, hobbyists can get their fix directly from RS Components and Element 14, with pricing fixed around £19, including VAT. According to the manufacturer's blog post, Model A exclusivity will be short-lived, with the device coming to the rest of the world "very soon." If you're based across the pond, however, you can hit up our source links to place your order now.
+
+
+
+
+ 
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Ifyou've just unwrapped a brand new Core Duo-powered laptop, you may have noticed something a little odd: sure, it offersa noticeable performance boost for certain applications. But Core Duo-powered computers also, apparently, suffer fromrelatively short battery lives, at least according to tests conducted by Tom's Hardware. According to Tom's, thebattery on a typical Core Duo tester laptop will run down after about two hours, barely enough time to watch a film onits DVD drive. However, after extensive testing and analysis, Tom's found that the fault doesn't lie in the Core Duoprocessor itself, which the site says "is definitely one of the most efficient and energy saving (mobile)processors we've ever seen." So, where's the power going? Tom's hypothesizes that it could be the graphics engine(and its 512MB of video RAM) or Intel's 945GM chipset, but finding out will require further testing. So, in themeantime until we get more conclusive results, rejoice in the fact that you've got a powerful and potentially energyefficient computer  -- and wait it out for the sleuths at Tom's to figure out what's sucking up the sparejuice.[Thanks, Sam]
+      
+
+ 

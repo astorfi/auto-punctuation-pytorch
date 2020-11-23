@@ -1,0 +1,129 @@
+
+We've got a bonus how-to for you this week. After becoming obsessed with a story on Wired News from last month
+about people getting their Windows PCs to have the same look and feel of Mac OS X, we convinced Aqua-Soft.org staff
+member Kurt Williams to give us the lowdown on how we could do it ourselves:
+
+
+ So, you wanna make your ugly Windows XP interface look like Mac OS X, huh? It's really not all that difficult to do,
+and with a little luck, you'll be able to convince all but the most die-hard Mac users that you run an Apple computer.
+First, here's a list of the programs you'll need:
+
+
+
+StyleXP or
+ WindowBlinds (skins the Graphical User Interface of your
+ operating system)
+ObjectBar (the white Finder bar on the top of Macs; has
+ File, Edit, View, etc. on it.)
+ObjectDock, YzDock (discontinued), or
+ MobyDock (The dock on the bottom of a Mac that contains icons and shortcuts to
+ programs)
+Trillian (chat program that can be skinned to resemble iChat)
+YzToolbar (skins the toolbar icons in your Windows windows)
+YzShadow (puts a lovely drop shadow under
+ your windows � la Mac OS X)
+Rainlendar (popular
+ skinable desktop calendar)
+Rainmeter
+ (skinnable desktop system statistics)
+Samurize (like Konfabulator for the Mac; can display just
+ about anything, such as clocks, uptime, and the weather)
+iTunes for Windows (self-explanatory)
+Icons (The pretty little pictures on your
+ desktop that point you somewhere. There are millions out there, but try the link provided for over a 1,000 lifted
+ from Mac OS X 10.3 aka Panther)
+
+
+
+ That's pretty much what you'll want for starters. You don't need all of these, and in fact, you really only need a few
+to get a reasonably good looking OS X facsimile, but if you're gonna do this you might as well do it right. Now on to
+the guide.
+
+
+ This guide assumes that you have either downloaded/purchased the programs listed and 0that you know your way around a
+computer, at least to a reasonable extent.
+
+
+ 1) I use StyleXP for my visual style, so that's what I'll detail here. WindowBlinds isn't that different, but if you
+prefer it, be my guest. The first thing you'll need to do is download a skin. I recommend Kol's website,
+StudioTwentyEight for some excellent skins, but feel free to look
+around for any others that might interest you. Download your ZIP, and extract it to C:\WINDOWS\Resources\Themes. Open
+up StyleXP and load up that baby. Your windows should now look like the skin you downloaded. If you chose Panther (an
+excellent choice) then they should look somewhat like this:
+
+
+
+
+
+ 2) Time to find a good ObjectBar skin. I'd suggest crni's website for some excellent themes. Download the one you like
+best and extract it to your ObjectBar folder. Open the new folder in there (named something like the theme you
+downloaded) and double-click the .OBTHEME icon. The top of your screen should now look something like this, depending
+on your theme (Milk for me):
+
+
+
+ �3) Next up is the dock. Open up whichever version you settled on downloading. This is pretty easy to set up.
+Basically all you need to do is drag shortcuts or executables to the dock and ta da, you have a shortcut. To change
+it's icon, right-click and select "change icon" or some variation. To get new icons to select, make sure you put them
+in the icons subfolder (for YzDock) or the main dock folder (for ObjectDock). Easy as pie. When you have the icons and
+programs you like, it should look something like this:
+
+
+
+
+ 4) For those that don't know, Trillian is a
+nifty chat program that sticks AIM, MSN, ICQ, and IRC into one program. If you don't use it, you should if for no other
+reason that it can look a lot like iChat. You may or may not need the Pro version to get the skin to work. I've heard
+mixed reports, but if it doesn't work right, I'd say you need the Pro version. An excellent choice for skins are
+Danimator's iChat skins. Extract it to your Trillian skin
+directory, open up Trillian's preferences, go to skins, and select the new skin you want to use. You can follow the
+readme for some more precise directions to get it looking perfect. When you're done, it should look like this:
+
+
+
+ 5) YzToolbar and YzShadow are pretty self-explanatory. Just install 'em and run 'em. You can find good YzToolbar skins
+on the net: I'd recommend Aqua-Soft or AquaXP. Depending on skin (Milk, for me) and settings, it should look something
+like this:
+
+
+
+
+
+
+
+
+ 6) Rainlendar and Rainmeter are also pretty easy to install and set-up. Just run the installer, and find a good skin.
+Again, there's many to choose from. I'd suggest searching the forums at the aforementioned Aqua-Soft and AquaXP. Here's
+the Rainlender skin I use.
+
+
+
+
+
+7) Samurize is a bit complicated, so if you're going to try
+and use it, be forewarned that it can be a very big hassle, if it works at all. I'm not even going to try and explain
+it in this brief overview, but if you are serious about it, check out the Samurize forums at
+Aqua-Soft and AquaXP. Here's an example of
+what it can do:
+
+
+
+
+ 8) If you listen to music on your computer, no Aqua-fication can be complete without the authentic iTunes for Windows.
+Apple provides plenty of documentation on how to install and use it, so I'll leave that part to them. If you want to
+make it look more like iTunes for Macintosh, check out
+localhost's multi-plugin.
+
+
+And the final result:
+
+
+
+
+So that's pretty much all there is to it. Good luck!
+
+Kurt Williams
+
+
+
+ 

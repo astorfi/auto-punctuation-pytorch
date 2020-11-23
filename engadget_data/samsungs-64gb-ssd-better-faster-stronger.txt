@@ -1,0 +1,16 @@
+
+ 
+We've been fooling around with Samsung's 64GB SSD for the past couple of days and guess what, it turns out the thing is both completely silent and really fast. Who knew? Without getting all chartngraph up in this piece, we pitted it against a couple of stock Seagate Momentus 5400RPM SATA 2.5-inch laptop drives and see what happened. Here's the high-level overview:
+
+Results with h2benchw were a bit inconclusive in read/write tests: sequential reads and writes were mostly neck and neck between flash and spindle, but it's important to remember that h2benchw isn't as "real world" since it does all its testing across completely blank, unpartitioned disks.
+Seek times were definitely spot where the flash drive pulled way ahead; average random access read was 20-33x faster at 0.9ms; large random writes, however, were about 4x slower. (This is no surprise, as Samsung does expect SSD drives to perform slower than platter disks in random write scenarios.)
+Once we switched over from cleanroom drive tests to formatted drives running operating systems, though, the FlashSSD started to mop the floor with its platter-based counterpart. In Xbench it doubled sequential and random uncached read and write speeds over the platter drive in most cases, topping out at about 52MBps read / 32MBps write.
+Boot speeds saw plenty of gain: even with a few startup apps and extra services installed we saw cold boot times drop from about 1:45 to under 30 seconds. In fact, we had to redo the first test because we looked away for a moment and it had already finished booting. That's a good thing.
+Real world read/write showed the flash drive almost on par, but usually a bit slower; testing with a 2.75GB file it took slightly longer to copy to the flash drive than the platter (3:07 to 3:00), and a fair bit longer when copying that same file from each drive to itself (3:20 to 3:46).
+We don't have a good baseline to run power tests and don't want to put out any misleading figures, but Samsung claims you'll eke out 10-15% more system time on battery. That actually sounds a little low to us since platter drives suck a lot of juice, but your mileage may vary.
+It's obviously completely quiet. In fact, it actually kind of freaked us out that we could no longer tell the drive was grinding away during heavy read/write sessions. This is something that will take some getting used to.
+
+So is paying about a grand worth it to you for a drive that effectively cuts your laptop's storage in half, but also boosts read, seek, and boot speeds, saves power on the go, and is completely silent? We have a feeling that until it's 128GB, costs just a couple hundred dollars, and is available for purchase to end users as a part (instead of an upgrade in a new machine) most people won't jump. But look at us -- it's doubtful we could be much more stoked to ditch our primitive spinning-platter drive for a svelte all-flash lappie.
+      
+
+ 

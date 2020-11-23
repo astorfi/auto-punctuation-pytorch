@@ -1,0 +1,18 @@
+
+ The quest to create a tricorder began many years ago, when such a device was but a figment of Gene Roddenberry's vivid imagination. However, his vision has crept ever closer to reality in recent years, with many researchers crafting devices capable of gathering human health data and the creation of an X Prize competition to spur further tricorder development.
+
+ Scanadu is a company that's answered the X Prize bell and is aiming to bring just such a device to market by late next year for a mere $150. Called Scout, the tricorder is roughly two inches square and a half an inch thick and packs a rechargeable battery, IR , EEG and EKG scanners, plus an accelerometer, Bluetooth radio and a micro-USB port. That hardware, when combined with Scout's companion smartphone app can track a person's heart rate, breathing rate, body temperature, pulse transit (essentially systolic blood pressure) and blood oxygenation.
+
+ To gather that data, users first must download the free Scout app and pair the tricorder hardware with their Android, iOS or BB7 handset via Bluetooth. Then it's simply a matter of pinching the device between their thumb and finger and holding it against their temple for ten seconds while the app takes the necessary readings. From there, the app can track your data over the long haul and provide an accurate picture of your health. We had a chance to see functional and production Scout prototypes and to speak with Scanadu CEO Walter De Brouwer and Chief Medical Officer Dr. Alan Greene about Scout's development, so join us after the break for more.
+
+
+
+
+ De Brouwer's no stranger to building capable, disruptive hardware on the cheap -- he's the former CEO of OLPC Europe -- and that's exactly what he set out to create with Scout. His primary goals for Scout were to create a widely affordable device able to provide comprehensive and accurate health data to users in around ten seconds. Doing so was no small feat, and required extensive electrical and mechanical engineering to build hardware capable of gathering the needed information in a short enough period for it to be attractive to consumers. Heavy data analytics and mathematics work were also required to craft algorithms able to separate desired data from the noise that necessarily came with using (relatively) cheap components.
+
+ 
+ After 18 months of R&D, Scanadu finally built a functional, 3D-printed prototype that Dr. Greene informed us is as accurate as the instruments used in a doctor's office. And, not only has Scanadu built Scout, but also the company has developed ScanaFlo, a disposable urine analysis tool and ScanaFlu, a disposable respiratory infection tool. Both disposables render results in a kind of colored code format that is then read by the companion app using your smartphone's camera. Like the Scout, the company wants to make ScanaFlu and ScanaFlo affordable, and is aiming to sell them in packs of three or five for about the same price as a disposable pregnancy test.
+
+ We got to see the prototype version of Scout and the companion app, and while we can't confirm the veracity of the results, we can confirm that the app's easy to use and it only took around 10-15 seconds to pull the health info from the device. Unfortunately, because the prototype system isn't final, and Scanadu's still in the midst of obtaining FDA approval (hence a late 2013 arrival) we weren't allowed to take any pictures or videos of of it in action. Rest assured, however, the device is quite real and quite functional, and the day is fast approaching when you'll be able to buy a tricorder of your very own from the local CVS Pharmacy or Wal-Mart -- Mr. Roddenberry would be pleased.
+
+

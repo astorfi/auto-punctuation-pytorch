@@ -1,0 +1,7 @@
+
+ We know you've got questions, and if you're brave enough to ask the world for answers, then here's the outlet to do so. This week's Ask Engadget inquiry is from Michael, who is suffering from a storage crunch. If you're looking to ask one of your own, drop us a line at ask [at] engadget [dawt] com. 
+  "I'm a bargain-basement kinda guy, and I've picked up lots of DVDs cheaply during the sale season(s). I was planning to rip my collection with Handbrake so I could watch them on my iPad, but my 1TB HDD is already close to being maxed out! Is there a better solution out there than just buying a 2TB HDD now, waiting a year and buying a 3TB HDD when the prices come down? Is there a cheap RAID-style system that plays nicely with my iTunes? Please help!"
+
+  You can pick up a standalone 3TB external HDD for between $150 and $200,  Or you could take the leap and set up an iTunes home server, perhaps using the cheapest Synology DiskStation, which is $200 plus the cost of the drives. That way you can get a 4TB iTunes server for just under $400.  You could also snag a Drobo that'll give you the same storage options with significantly increased expandability, up to 16TB in the future. That said, perhaps our friendly readers know a way to tame this man's ever growing media collection, so if you've already set up your own system, why not share your knowledge in the comments below?
+
+

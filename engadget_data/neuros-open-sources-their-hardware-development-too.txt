@@ -1,0 +1,23 @@
+
+
+You may remember Neuros as the company who had
+those early "backpack" audio devices, and more recently (soft-)launched their
+442. Well, they've long tried to rock the open-source
+firmware for their products, but now it seems like they're stepping it up for some much-anticipated advances in their
+next device. Not only are they going directly to the audiophile crowd—a group largely un-catered to by the portable
+media device market—for input on their forthcoming player, but they're actually eliciting said audiophiles' help in
+designing the hardware platform. The product is still in the planning phase, but the "open-source" platform they're
+going with will run Linux and can support (but may not necessarily feature) a 200MHz ARM CPU, up to 128MB of SDRAM and
+8MB of flash, USB 2.0, SD/MMC/CF slots, 10/100 Ethernet, S-Video out, 24/96 audio I/O, and SP-DIF. Anyhow, the real
+news here remains the paradigm shift back to the old school when personal computers were almost infinitely hackable;
+herein a niche product is developed not solely by a devicemaker's team, but with the welcome help of the wayfaring
+light of the actual user base. Next step: completely user-created electronics, designed by audiophiles through online
+collaboration for small manufacturing runs.
+
+
+ [Via slashdot]
+
+
+
+
+ 

@@ -1,0 +1,4 @@
+
+Samsung drew criticism for inflating the benchmark scores of Exynos devices earlier in the year, but the company appears undaunted; it's reportedly boosting test numbers for other hardware as well. Ars Technica has discovered that the Snapdragon 800-based Galaxy Note 3 (and possibly the new Note 10.1) includes code that runs all CPU cores at full speed during certain benchmarks. The tweak gives the smartphone a minimum 20 percent higher score in any affected app, or enough to claim an artificially large advantage over an LG G2 using a similar chip. There may also be a graphics boost, Ars says. We've asked Samsung for its take on the findings. Whether or not the company responds, we don't envy its position -- it's hard to form an alliance devoted to accurate mobile benchmarking when you're accused of doctoring results.
+
+

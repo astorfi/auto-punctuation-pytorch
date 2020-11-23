@@ -1,0 +1,13 @@
+
+It's no secret that Canon's 5D Mark III is the go-to DSLR for videographers the world over, but things are about to become a whole lot more interesting. The people behind Magic Lantern have successfully coaxed the 5D Mark III into shooting 24 fps RAW video at resolutions up to 1,920 x 820 pixels using 1000x speed cards. If you're not familiar with Magic Lantern, it's an open source firmware add-on that brings additional functionality to Canon EOS cameras. The ability to capture RAW video at 24 fps improves dynamic range and resolution -- it also provides extra flexibility during post-production. According to the team at Magic Lantern, more work is required before the feature is ready to be deployed. So until then, you're invited to follow the via link below and watch the RAW vs. H.264 videos after the break, or if you're feeling brave, check the source for download locations.
+
+
+Update: We just received news from Magic Lantern that Canon's Mark II is now also a go for 24 fps with the new firmware. Nic from the development team said "After some further testing it is clear the older, cheaper Mark II should be able to record at least resolutions of 1880x840 in full-frame mode (with line skipping)."
+
+
+
+
+
+
+
+ 

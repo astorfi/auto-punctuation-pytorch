@@ -1,0 +1,7 @@
+
+Following the terms of an agreement announced today between government agencies and a number of tech companies, Apple has released an updated report on National Security and Law Enforcement requests. Current through June 30th, 2013, it updates the data released last November and in June by breaking out the number of National Security Orders, which falls somewhere in the range between 0 and 250, "regardless of geography." Apple stated it had not received any requests for bulk data collection -- mentioning once again that personal conversations over iMessage and Facetime are encrypted -- echoing statements by CEO Tim Cook this weekend that it does not provide the government a backdoor to its servers.
+
+
+The other data it can now reveal includes exact numbers for account information requests by law enforcement. That includes 2,330 accounts specified in requests, which resulted in information being disclosed for 747 accounts. All in all, the numbers and ranges support claims by the industry that the amount of data requested is very small, but as we've learned, the NSA isn't always concerned with asking about how to get what it wants from accounts, networks and/or mobile devices.
+
+

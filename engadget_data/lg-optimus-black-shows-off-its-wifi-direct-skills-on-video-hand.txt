@@ -1,0 +1,10 @@
+
+ 
+WiFi Direct, for those not paying attention in class, is a communications protocol for allowing devices with wireless radios to talk to one another and share files without the need for an intermediary WiFi access point between them. Basically, it's like blasting out an ad hoc wireless network, one that permits simultaneous file transfers to up to eight other WiFi Direct-capable machines. LG kindly gave us a peek at its implementation in the Optimus Black, and while things are still pretty rough and (not) ready, we got a decent idea of how they'll operate. Jump past the break to see for yourself.
+
+
+
+
+
+
+ 

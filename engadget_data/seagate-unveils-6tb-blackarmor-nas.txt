@@ -1,0 +1,8 @@
+
+ 
+It's been a hot minute since we've seen a NAS from Seagate, and now we have news that the company is launching not one but two new secure storage devices. Both the BlackArmor NAS 420 and NAS 440 are billed as "fully-contained, out-of-box solutions with user-serviceable, [tool-less] hot-swappable drives that are RAID-configurable 0/1/5/10 arrays," designed to scale up to 50 workstations. The devices both sport a 1.2GHz processor, 256MB memory, dual Gigabit Ethernet ports, and four USB 2.0 ports. Additionally, they feature CIFS, NFS, HTTP, HTTPS, FTP, Bonjour, Microsoft Rally network, and Microsoft Windows Server Active Directory, Access Control List (ACL), volume-level encryption, an iTunes server, and a DLNA-compliant digital media server. Available now, the 420 has a total storage capacity of 2TB and an MSRP of $799.99. The 440 is available either in a 4TB version for $1,199.99 or a 6TB version for $1,699.99. An 8TB version is due out in May.Update: To clarify, Nas doesn't endorse this product in any way. We just thought this would make a killer Photoshop.
+
+ 
+
+
+ 

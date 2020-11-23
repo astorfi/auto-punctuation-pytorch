@@ -1,0 +1,13 @@
+
+The Open Automotive Alliance finally shows a product at Google I/O after its launch back in January of this year: Android Auto. Members including Google, Audi, Honda, GM, Hyundai and chipmaker NVIDIA have been collaborating to bring Android safely to the car in 2014. Rather than the more traditional model that sees smarts baked into the car's head unit, your phone will project its OS and the app in play onto the car's screen -- much like AppRadio does now. The big benefit here is as your phone updates, your car's center stack gets better without you needing to fiddle with it.
+
+
+
+          
+ 
+ 
+ Android Auto is a completely voice-enabled, contextually based system, so speaking to your car will allow it to pass along info on opening and closing times of places near you, display restaurant listings, send messages, play music and make calls. The info is then displayed on screen via cards, much like you're used to seeing in Google Now. Apps like Spotify, Songza and MLB.com At Bat are on-hand at launch, though we expect that list will grow. In the onstage demo, the phone was tethered to the car with a cable -- likely HDMI -- though we expect that it may well use Bluetooth for audio as well. The APIs used in Android Auto are shared by Android Wear, so devs will have the ability to easily port between watch and car or even integrate them. So far, 25 car brands have signed up, bringing the total member count to 40, including the technology partners that have jumped on board thus far. Car makers like Acura, Alfa Romeo, Audi, Bentley, Chevy, Chrysler, Dodge, Honda, Hyundai, VW, Subaru, Maserati and Volvo will have models rolling off the assembly line this year. The SDK isn't available just yet, but will be available soon.
+
+       
+
+ 

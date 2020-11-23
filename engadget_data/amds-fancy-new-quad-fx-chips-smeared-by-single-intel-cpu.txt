@@ -1,0 +1,6 @@
+
+       
+With as much AMD fanfare as there was leading up to this release, you'd think they would've managed to drum up a bit better showing. After running up against a battery of benchmark tests, AMD's Quad FX dual CPU platform has been throughly trounced by Intel's QX6700 2.66GHz processor. While things looks great on paper for AMD, with exciting amounts of bandwidth between the two processors, and dedicated memory for each chip, in practice the Quad FX platform is an utter power hog (double that of the QX6700), and only squeezed by Intel in a handful of tests, while for the most part racking up loss after loss, trailing from 10 to 40 percent behind the Intel's 65nm quad-core chip. Price is also a concern, since even though AMD is pricing the actual chips aggressively, you'll still have to spring around $480 for the only motherboard that can handle 'em, and those 1000W power supplies don't really come cheap. Of course, AMD does have 65nm chips on the way, which should do better against Intel on a clock-to-clock basis, and Windows Vista will include lots of mult-thread enhancements to "even the playing field," but there's still no denying that AMD got spanked in this round, and we don't suppose Intel will just be sitting around while AMD plays catch up.[Via ZDNet]Read - FiringSquadRead - [H] EnthusiastRead - TomsHardwareRead - Hot Hardware
+      
+
+ 

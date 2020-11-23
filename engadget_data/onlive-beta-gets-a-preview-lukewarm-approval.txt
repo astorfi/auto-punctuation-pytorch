@@ -1,0 +1,8 @@
+
+ 
+We've now pretty much reached saturation point with OnLive demos, so it's good to finally see an independent set of eyes poring over the service and giving us the lowdown on the actual user experience. Whether you call it on demand, streamed, or cloud gaming, the concept is remarkably simple -- OnLive pumps games via a web browser onto your machine and gives you the full gaming experience without the need for all that pretty, but expensive hardware. PC Perspective's Ryan Shrout "found" a login to the Beta program and has put together a very thorough comparison between OnLive and playing the games locally on the same computer. His conclusion is that latency issues at present make an FPS like Unreal Tournament unplayable, but slower input games like Burnout Paradise or Mass Effect give pleasingly close renditions of the real thing. We encourage you to hit the source link to see side-by-side video comparisons and more in-depth analysis.
+
+Update: We had a feeling this one would be kinda controversial and sure enough OnLive and Pc Per have gotten into a bit of a sparring match. Steve Perlman has noted the paramount importance of latency in a blog post, subtly hinting that Ryan was too far out to have a valid experience, while Ryan has responded that he'd be happy to test it on servers local to him if OnLive were up for it, and again reiterated his purpose was to stimulate discussion more than it was to give a definitive judgment on what is still a Beta service.
+      
+
+ 

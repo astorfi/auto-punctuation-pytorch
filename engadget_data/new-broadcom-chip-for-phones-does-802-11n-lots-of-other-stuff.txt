@@ -1,0 +1,5 @@
+
+ Phones have lagged -- understandably, we suppose -- behind desktops and laptops in bringing 802.11n to market, but it was bound to happen eventually; to that end, Broadcom has announced its BCM4329, one of the first mobile 802.11n solutions on the block. On top of delivering up to 50Mbps of real-world WiFi throughput on both the 2.4GHz and 5GHz bands, the darned thing throws in Bluetooth, an FM receiver, and an FM transmitter, too -- in other words, everything but the kitchen sink, where the "kitchen sink" is the cellular radio itself. Sadly, the 4329 sticks with single-stream transmission to conserve battery life -- no MIMO here, folks -- but considering the 802.11g alternative, we'll take what we can get. The chip's already being sampled (and hopefully being integrated into future products) by Broadcom's customers with mass production following on sometime in 2009.
+      
+
+ 

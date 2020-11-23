@@ -1,0 +1,13 @@
+
+ 
+Hacking the Xbox 360 Kinect is all about baby steps on the way to what could ultimately amount to some pretty useful homebrew. Here's a good example cooked up by some kids at the MIT Media Lab Fluid Interfaces Group attempting to redefine the human-machine interactive experience. DepthJS is a system that makes Javascript talk to Microsoft's Kinect in order to navigate web pages, among other things. Remember, it's not that making wild, arm-waving gestures is the best way to navigate a web site, it's just a demonstration that you can. Let's hope that the hacking community picks up the work and evolves it into a multitouch remote control plugin for our home theater PCs. Boxee, maybe you can lend a hand?
+
+Update: If you're willing to step outside of the developer-friendly borders of open-source software then you'll want to check out Evoluce's gesture solution based on the company's Multitouch Input Management (MIM) driver for Kinect. The most impressive part is its support for simultaneous multitouch and multiuser control of applications (including those using Flash and Java) running on a Windows 7 PC. Evoluce promises to release software "soon" to bridge Kinect and Windows 7. Until then be sure to check both of the impressive videos after the break.
+
+[Thanks, Leakcim13]
+      
+
+ 
+
+
+ 

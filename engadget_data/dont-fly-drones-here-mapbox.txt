@@ -1,0 +1,5 @@
+
+
+It may sound blindingly obvious to avoid flying a UAV around America's foremost military academy. But not all drone no-fly zones are as obvious as West Point, which is why Mapbox has just issued an interactive US map showing where all of them are. Included are things like national defense bases, airports, nuclear power plants and recent additions like national parks. As Wired pointed out, many clearly off-limit zones like Lawrence Livermore's lab still aren't listed, but if you notice one you can add it to an open-source page on GitHub. Meanwhile, all commercial drone flights are still banned, unless noted otherwise by the FAA. For hobbyists, however, they sky's the limit -- just stay out of the red zones.
+
+

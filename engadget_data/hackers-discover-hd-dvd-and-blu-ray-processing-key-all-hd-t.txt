@@ -1,0 +1,5 @@
+
+ Those cooky kids over at the Doom9 forums hate themselves some DRM. Not more than two months after discovering a means to extract the HD DVD and Blu-ray Disc "volume keys" to decrypt AACS DRM on individual films, we're now getting word that DRM hacker arnezami has found the "processing key" used to decrypt the DRM on all HD DVD and Blu-ray Disc films. Let's break this down for what it is: instead of needing individual keys for each and every high-definition film -- of which there are many -- the processing key can be used to unlock, decrypt, and backup every HD DVD and Blu-ray Disc film released so far. As arnezami points out, "nothing was actually hacked, cracked or even reverse engineered." All he had to do was keep an eye on his memory, watch what changed, and voila... the processing key appeared. So kick back and watch the trickle of HD titles hitting the torrents quickly turn into a flood (at ~20GB a pop, that's not an exaggeration) when the BackupHDDVD and BackupBluray utilities (or AnyDVD HD) are updated to reflect the new hack find. [Thanks, Eric L]
+      
+
+ 

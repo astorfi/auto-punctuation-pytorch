@@ -1,0 +1,8 @@
+
+ The dream for WebRTC is to offer truly software-independent video and voice chat, but it hasn't worked out that way given limited support. Google and Mozilla have just showed us that it's at last possible to reach across the aisle, provided both sides are running the newest browsers. Should one user run Chrome 25 beta and the other run a nightly build of Firefox, a flag switch will let the two sides hold a video conversation solely through a web app. This doesn't mean we're about to toss out Google Talk or Skype, mind you: even when finished versions of the browsers appear, we'll need both a completed WebRTC standard and the web developer support to see broader usage. Nonetheless, it's clear that cross-browser chat is at least on the horizon.
+
+
+
+
+ 
+ 

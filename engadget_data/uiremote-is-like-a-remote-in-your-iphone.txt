@@ -1,0 +1,6 @@
+
+ 
+Yeah, sure, name any IR-equipped phone in existence and odds good to excellent that you can find a universal remote app for it, but you probably can't think of many for the iPhone, now, can you? They exist, yes, but they tend to carry a home-automation slant since the lack of an infrared port leaves the thing relegated to WiFi duty. Enter UiRemote, an ambitious little project undertaken by a handful of scrappy University of Toronto students that uses a fingertip-sized IR blaster connected to the headphone jack paired with a totally customizable app to get the job done. Novel? Not necessarily, but when you consider that a dedicated remote with these specs would probably run half a grand, it's an interesting way to save money and still end up with the coolest AV controller on the block. The devs are still tweaking both the module and the app, but hopes are high that they'll be available to all interested parties in the next couple months.
+      
+
+ 

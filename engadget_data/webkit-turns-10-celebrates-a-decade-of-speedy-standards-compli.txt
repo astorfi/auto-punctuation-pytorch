@@ -1,0 +1,5 @@
+
+ It's hard to believe but WebKit, the rendering engine inside Safari and Chrome, is now ten years old. The forked child of KDE's KHTML received its first commit of code from Apple back on August 24th of 2001. It would be well over a year before the debut of Safari in 2003, and another two years before it was fully open sourced. Since then it's begun to replace Gecko (Mozilla) as the rendering engine du jour and even spawned a sequel in Webkit2. So, happy birthday to Apple's greatest contribution to the open source community.
+      
+
+ 

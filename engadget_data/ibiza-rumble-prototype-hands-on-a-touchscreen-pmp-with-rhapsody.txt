@@ -1,0 +1,6 @@
+
+ 
+Behind closed doors at the Haier booth, we got a chance to check out two Ibiza Rhapsody PMP prototypes, codenamed Rumble and Rumble mini. Here's what we know so far: the Rumble's got a 2.8-inch WQVGA capacitive touchscreen, 8GB NAND flash, and a Freescale i.MX37 ARM 11 processor. It also has a Webkit-based browser, but it -- along with most of the operating system and virtual keyboard -- wasn't functional at the moment. There's support for AAC, MP3, and WMA, MPEG-2, MPEG-4, H263, H.264, VC-1, and DivX. The Rumble mini trades out touchscreen in favor of an input pad and a smaller 2.2-inch screen. Beyond Rhapsody service, both models will feature integration with Flickr, Audible, and the ever-vague "popular social networking" sites. Battery life for the Rumble is expected to be about 15 hours for audio and 6 for video, while for the mini it's 14 and 4, respectively. It's surprisingly lightweight at the moment, but other than that we really don't have much to say until we can see the interface in action. Both players are on track for a June release for a penny under $150 for the touchscreen and $100 for the mini.
+
+
+

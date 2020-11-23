@@ -1,0 +1,4 @@
+
+After tackling The New York Times, Twitter images and several other high-profile social media accounts, the Syrian Electronic Army has now struck the online presence of President Obama. A string of tweets were sent from the @BarrackObama account and messages posted to the President's Facebook fan page earlier today with links to SEA YouTube content. The source of the breach has been traced to a third-party URL shortener and not a takeover of the accounts themselves, letting the hackers redirect any links sent out by members of Organizing for Action to SEA links. It also appears that the organization was able to gain access to a campaign-related Gmail account as it posted a screenshot of the inbox. Control of the URL tool looks to be back in the hands of Obama's team as Facebook links are no longer redirecting, but Obama's official Twitter handle has been suspended for the time being.
+
+

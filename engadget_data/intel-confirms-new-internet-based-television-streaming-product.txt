@@ -1,0 +1,33 @@
+
+ Welp, the rumors are true. Erik Huggers, Corporate VP & GM for Intel Media, just sat down here at D:Dive Into Media 2013 in order to confirm that Intel's getting into the set-top / TV provider business, and everything will be delivered to your home using your existing broadband internet connection. Straight from the man's mouth:
+
+  "We have been working for around a year now to setup Intel Media -- it's a new division that includes a lot of people from outside of the company. We've hired people from Apple, Netflix, Google, BBC, etc. We're aiming to develop an internet television platform. My opinion is that not many of those rivals have cracked it -- have truly delivered.
+
+  For the first time, we'll deliver a few things to consumers. We'll deliver a new consumer electronics product under a new brand. It's associated with Intel, but you'll have to wait to hear what exactly that is. It'll be an Intel-powered device with beautiful industrial design. Where it really gets interesting is here -- we're working with the entire industry. It's an over-the-top service, delivering network channels, pay-TV channels, catch-up television, on-demand, and a host of applications."
+
+ He also affirmed that the box (and service) would launch "this year," and while the box won't provide Intel's "entire vision" at launch, a fair amount will be. That should include live television, on-demand, and catch-up. We're guessing it's the app ecosystem that'll take some time to truly develop.
+
+
+
+ 
+ Host Walt Mossberg asked Huggers if the bundles that people are saddled with today through existing pay-TV carriers will remain in Intel's service. Huggers chuckled a bit, noting:
+
+  "I agree that consumers want choice and convenience, but I think there is value in bundles. If bundles are bundled right, I think there's real value in that, and opportunities to create a more flexible environment where end-users have more choice than they do today. I don't believe the industry is ready for true à la carte."
+
+ In other words, those hoping that Intel's venture into the pay-TV would be the first blow in destroying bundles, you can casually keep dreaming. That said, it does sound as if Intel's aiming to give its users more choice over what channels are bundled -- something of a compromise. You may be forced to buy bundle packs, but at least you'll get the chance to select some of what goes into that bundle.
+
+ Oddly, Huggers confirmed that there will be a "camera" on the box, to which Mossberg responded fairly negatively. He brought up (reasonable) concerns of privacy and creepiness, and that's where things got truly weird. It sounds as if Intel's box will rely on a camera (at least) to target advertisements to users. Naturally, marketers are likely licking their chops -- and Intel's doing everything it can to play up the "social and sharing" aspects of all of this -- but it'll be interesting to see if consumers buy into that pitch. And moreover, if allowing Intel into your home in such a way will result in cheaper access to programming. In response, Huggers set up a situation:
+
+  "When my family uses Netflix, we have a household account. My kids may watch programming geared towards them, and I'll watch programming geared towards me. If there's a way to distinguish who is watching what, advertisers can then target ads at the proper parties."
+
+ Curiously, this actually sounds similar to what Dish's Charlie Ergen said last night, noting that marketing companies are just blindly shooting ads at whoever is watching the screen, instead of specific demographics. We're assuming that Mossberg's thoughts are correct -- he told Huggers to "expect a lot of skepticism from consumers" regarding the plan. We're guessing "a lot" really means "a truly overwhelming amount."
+
+ 
+ In response to a question from TechCrunch's Ryan Lawler regarding Intel's choice to build a completely new piece of hardware instead of just building a software piece that would interact with existing platforms, Huggers replied:
+
+  "If we want to deliver the experience that we want to deliver in the living room, there's no platform out there today that'll do it. You need to control everything. You need to control the app layers, the sensors, the chip, everything. If there were platforms out there where we could deliver everything we have in mind, we'd go there -- but there isn't. I believe in a world where there's a 'good, better, best' experience, and ours will be in that 'best' category."
+
+ In closing, Huggers confirmed that this "wasn't a value play," and told co-host Peter Kafka that users shouldn't expect to save money by using Intel's service. So, let's recap: it'll look great, perhaps the UI will be superior, but you won't actually save money (or stick it to any of those greedy content providers), and you'll be duly freaked out by targeted advertising. Oh, and you may get a lot closer to breaking through your broadband bandwidth cap. Good luck, Intel.
+
+ We'll be reporting live from D:Dive Into Media as it continues on February 11-12. You can follow our coverage by using the "dmedia2013" tag.
+

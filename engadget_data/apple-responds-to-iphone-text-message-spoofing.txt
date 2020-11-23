@@ -1,0 +1,9 @@
+
+ 
+ If you're a frequent texter, and the iPhone is your weapon of choice, there's a good chance you've been a wee bit concerned since yesterday's report that the device is vulnerable to a certain SMS spoofing attack. Basically, it's possible for a malicious individual to send a message and specify a reply-to number that is not their own, appearing as if they are someone else. We got in touch with an Apple representative and here's what we were told:
+
+  Apple takes security very seriously. When using iMessage instead of SMS, addresses are verified which protects against these kinds of spoofing attacks. One of the limitations of SMS is that it allows messages to be sent with spoofed addresses to any phone, so we urge customers to be extremely careful if they're directed to an unknown website or address over SMS.
+
+ Even if you aren't on an iPhone, we'd like to remind you to be careful when texting. There are numerous services out there that let you send a message that appears to be from anybody you like -- regardless of what model, OS or even carrier the recipient is using. All the more reason to think twice before filing that loan application over SMS.
+
+

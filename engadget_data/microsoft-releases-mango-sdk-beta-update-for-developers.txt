@@ -1,0 +1,9 @@
+
+ 
+
+Windows Phone developers are getting one step closer to the fresh, fruity tang of Mango's RTM build with a newly released SDK update. The one month-in-the-making "Beta 2 Refresh" tweaks the previously issued Windows Phone SDK 7.1 and is available now for download, packing an improved profiler, locked application platform APIs, an emulator-based screen cap feature for your apps and a "peek at the Marketplace Test Kit." Microsoft's also thrown devs an extra bonus and will be pushing an OS update, Build 7712, to manually upgraded Mango phones. Sounds sweet, but it's too bad this hot number won't be ready in time for your app-building, beta hands.
+
+[Thanks to everyone who sent this in.]
+      
+
+ 

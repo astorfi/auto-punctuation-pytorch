@@ -1,0 +1,5 @@
+
+ One of the benefits in going from HDMI 1.2 to 1.3 is support of Dolby TrueHD and DTS HD Master Audio streams. The idea goes something like this -- you get your HDMI 1.3 compliant player (HD DVD or Blu-ray flavor), hook it up to your new HDMI 1.3 processor/receiver, and bask in the glory of reference quality audio. The reality? Not so clear. It turns out that at least some standalone players don't support the HDMI 1.3 specification fully, and skimp on streaming these formats either naively or in a PCM format, just like PS3 owners found for DTS HD. Technically, that's fair - manufacturers are not required to implement the full HDMI 1.3 specification to wear the HDMI 1.3 badge. But wasn't HDMI supposed to reduce confusion among consumers? The HDMI Learning Center suggests that "... consumers should ensure that their playback device ... is capable of decoding these new lossless Dolby & DTS audio formats ..." Caveat emptor, friends.
+      
+
+ 

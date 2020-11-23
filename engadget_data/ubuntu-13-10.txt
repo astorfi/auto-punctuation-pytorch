@@ -1,0 +1,7 @@
+
+Just like clockwork, here comes the latest release of Ubuntu: version 13.10 Saucy Salamander. Like April's Raring Ringtail, this update is mostly about fine tuning the things that already make Ubuntu the Linux distro of choice for many out there. Performance has been improved, especially in Unity (Ubuntu's user interface), and the ability to sign into or up for Ubuntu One cloud storage has been baked right into the installation process. The only major, immediately noticeable feature is Smart Scopes, which delivers semantic search results from a number of online sources to your Dash, including Amazon, eBay, Etsy, Wikipedia, Weather Channel, and SoundCloud. In total Canonical claims over 50 web services are baked into Smart Scopes. Of course, if all those results from the web are cluttering up your search for apps and files, you can turn off the feature all together or disable individual sources.
+
+
+Unfortunately, what's most notable about Ubuntu 13.10 is what it doesn't include. A number of features, including a new version of Unity and the Mir display server, have been delayed until October of 2014. That also means that Canonicals goals for a unified UI and codebase across the desktop, TV, phones and tablets have been set back by at least six months. You can download the latest and greatest Ubuntu at the source, where the keen eyed among you might notice that the default download is now the 64-bit version of the OS.
+
+

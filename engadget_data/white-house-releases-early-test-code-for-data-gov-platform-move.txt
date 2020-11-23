@@ -1,0 +1,10 @@
+
+ 
+
+
+	The White House's Open Government Partnership inched closer to maturity last week, with the release of a new open data platform, designed to help other governments set up their own Data.gov portals. On Wednesday, Data.gov developer Chris Musialek posted the first pieces of early test code for the unfortunately named "Data.gov-in-a-box" -- an open source version of the US and Indian governments' respective data portals. Both countries, in fact, have been working on the platform since August, with the Obama administration pledging some $1 million to the effort. The idea, according to federal CIO Steve VanRoekel and federal CTO Aneesh Chopra, is to encourage "governments around the word to stand up open data sites that promote transparency, improve citizen engagement, and engage application developers," using Data.gov (and its 400,000 datasets) as a blueprint. Wednesday's release is just the first step in that plan, with the finalized Open Government Platform (OGPL) slated for launch by early next year.
+
+
+
+
+ 

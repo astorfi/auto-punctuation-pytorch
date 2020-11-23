@@ -1,0 +1,7 @@
+
+  Some of you may have noticed that the Verizon version of the Galaxy Nexus is no longer listed as a supported, official developer device by Google. Despite rumors to the contrary, it doesn't appear this has anything to do with the kerfuffle over Wallet, but instead centers around technical issues relating to the APK files required for CDMA connectivity and the signing of those libraries. Other devices have also disappeared from the support pages, including the Nexus S 4G and the Verizon-branded Xoom. Google has posted an update explaining that, "for various technical reasons" CDMA telephony is handled by binaries provided by the carrier in newer devices. The result is different signatures being associated with those APKs than a pure AOSP builds and, thus, those essential components don't function properly.Google explained the disappearance by saying "we aim to make sure that we are as clear as possible about the degree of support that devices have," before going on to promise all Nexus devices would continue to have unlockable bootloaders and that as many of the closed-source binaries as possible would be made available. For the complete statement hit up the source link.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

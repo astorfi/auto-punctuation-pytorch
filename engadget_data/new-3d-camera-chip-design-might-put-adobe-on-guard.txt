@@ -1,0 +1,6 @@
+
+ 
+You'd better watch your back Adobe, because it looks like you've got company in the 3D picture game. Stanford University researchers have recently hit upon a method of image sensing which can judge the distance of subjects within a shot. By using a 3-megapixel sensor which is broken into multiple, overlapping 16 x 16-pixel squares (referred to as subarrays), a camera is capable of capturing a variety of angles in one frame. When the images taken by the multi-aperture device are processed by proprietary software, location differences are measured from each mini-lens, and then combined into a photograph containing a depth map. This procedure allows the same image to appear at different angles, provided the subject has depth to begin with (i.e., isn't a flat surface). Here's hoping this technology makes it into consumer products pronto, ASAP, and forthwith.[Via Wired]
+      
+
+ 

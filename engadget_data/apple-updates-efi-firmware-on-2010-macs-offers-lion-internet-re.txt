@@ -1,0 +1,5 @@
+
+  Staring forlorn at that two-year-old MacBook, just sitting there in the corner? Well, there's good news; Apple's decided to furnish those 2010 models with a new EFI firmware update. Arriving on its MacBook Air (late 2010), iMac (mid 2010) and MacBook Pro (early 2010) models, it adds support for Lion's internet-based recovery feature -- something that's very useful for those optical drive-less MacBook Airs and Mac minis. The update also fixes a bug on Air models, where it would reset if the power button was pressed immediately after booting from deep sleep mode. You can consult your Mac's software updater for the new firmware -- it's out there now.
+      
+
+ 

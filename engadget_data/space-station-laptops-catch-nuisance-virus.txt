@@ -1,0 +1,5 @@
+
+ While it doesn't appear to be nearly as serious as some of the computer problems the International Space Station has faced, it looks like a virus has managed to find its way onto some of the laptops used on the Station, which NASA is now describing only as a "nuisance." According to SpaceRef.com, the virus is the W32.Gammima.AG worm, which is normally used to swipe sensitive information for online games. As Wired's Threat Level reports, the worm has also spread to more than one laptop on the Space Station, which would seem to suggest that it has either been spread via an on-board intranet, or via a thumb drive. Somewhat disconcertingly, when asked by Threat Level if any mission critical systems were connected to the same network as the laptops, NASA spokesperson Kelly Humphries simply said, "I don't know and even if I did, I wouldn't be able to tell you for IT security reasons."[Via Threat Level, thanks a.c.e.r.]
+      
+
+ 

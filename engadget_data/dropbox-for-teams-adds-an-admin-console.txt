@@ -1,0 +1,4 @@
+
+ Although Dropbox made a concerted push into pro-grade cloud storage with Dropbox for Teams more than a year ago, it didn't have a truly centralized place for a team's overseers to keep tabs on everyone involved. An update today brings in a console to make sense of it all. Along with providing a much simpler at-a-glance view of goings on across an entire group, the console lets administrators tighten access limits from user to user: they can prevent people from using their personal smartphones and tablets with the corporate account, for example, and can ask certain people to sign in with two-factor authentication if there's more of a risk. The refresh might rain on the parades of those who want to use their Teams accounts for both work and play, but it's good news for companies that would rather not risk malware or other rude surprises.
+
+

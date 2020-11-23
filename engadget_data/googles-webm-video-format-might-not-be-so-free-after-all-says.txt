@@ -1,0 +1,6 @@
+
+ 
+Google might be trying to shake up video on the web by releasing the WebM video format and VP8 codec under a royalty-free open-source license, but we've already heard the format's uncomfortably close relationship to H.264 might cause some patent concerns, and the MPEG-LA, which licenses the H.264 patents, doesn't seem to be sitting still. CEO Larry Horn told All Things Digital that MPEG-LA is looking into forming a patent pool in order to license vendors who want stay clear of any patent disputes while using WebM -- the idea would be to avoid any patent liability down the road by simply paying for a license now, especially since Google doesn't seem to be promising anything when it comes to protection from lawsuits. We'd wager all this means WebM will go from royalty-free to patent-encumbered just as soon as MPEG-LA gets its paperwork in order -- the same thing essentially happened to Microsoft when it tried to release the VC-1 format royalty-free -- and that means video on the web might soon be right back where it started. We'll see what happens.
+      
+
+ 

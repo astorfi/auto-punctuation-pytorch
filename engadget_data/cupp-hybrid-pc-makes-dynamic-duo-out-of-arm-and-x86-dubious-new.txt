@@ -1,0 +1,9 @@
+
+ 
+There's a quiet war going on for the thin-and-light laptop space between ARM and x86 architectures. Intel and AMD are winning handily right now, thanks to their ability to run Windows, but there's still that small hope within the industry that a Good Enough Linux build will come along one day and rescue these power-sipping ARM platforms from obscurity. Well, CUPP Computing would like you to have it both ways. The company's Hybrid PC, which is in a early prototype stage right now (a rather ugly stage, unfortunately, as seen above), runs an ARM A8 OMAP 3430 processor with 512MB of RAM right up next to a Core 2 Duo processor with 4GB of RAM, with both platforms sharing the 320GB HDD, 16-inch LCD, keyboard, touchpad, HDMI out, and USB plugs. A simple alt+tab command switches between the systems on the fly. It's pretty flashy, although the real use case for a device like this would more likely be to use the ARM setup as a low powered mode and then boot into Windows when necessary. Of course, Dell does exactly that at "Latitude ON" in its Latitude Z and Latitude E series, but we won't begrudge CUPP having a go at its own spin on the concept -- although if they try and push this "Computicator" classification on us it might come to blows. Check out a few video demos after the break.
+      
+
+ 
+
+
+ 

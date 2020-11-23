@@ -1,0 +1,5 @@
+
+ While universities have been cranking out supercomputers and research clusters for some time, an associate professor at NC State is utilizing IBM's highly-touted Cell processor in a slightly different form to craft his own farm. Similar to the Xbox Linux cluster from years past, this concoction consists of eight PlayStation 3 consoles networked together and powered via Linux in order to handle ridiculous amounts of number crunching. Dubbed the "world's first" PS3-based academic cluster, the creation boasts the ability to utilize "64 logical processors," and is set to be used to handle various research tasks when sly CSC students aren't firing up a round of Ridge Racer 7 after hours. Nevertheless, Dr. Frank Mueller noted that the biggest limitation in its current state is the "512MB RAM constraint," but did insinuate that he might try retrofitting additional memory if future tasks deemed it necessary. Still, we can't help but wonder how many spots the Pack could jump in the RIAA's Most Wanted list if this thing became a dedicated torrent server.[Via TWW]
+      
+
+ 

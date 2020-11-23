@@ -1,0 +1,4 @@
+
+The Raspberry Pi-focused XBMC port Raspbmc's June changelog is a lengthy one. Among the changes are new settings, new skins, support for the Stealth Nighthawk F117A device and changes to make booting up faster, among many other things. Getting this month's update should only require rebooting one's Raspberry Pi, and a few new mirrors that have joined the network should make downloading the updated software even faster. That's not all however, because the July update is promising Linux kernel updates, Raspbmc "Cloud" features with automatic settings backup / restore across multiple devices and an unspecified "special announcement."
+
+

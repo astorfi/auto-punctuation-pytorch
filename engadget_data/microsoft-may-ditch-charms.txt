@@ -1,0 +1,8 @@
+
+Some would already argue that Windows 8 is anything but charming, but a slew of new reports indicate that Microsoft might give one of Windows 8's most iconic interface elements - the Charms bar - the axe in its next big OS release. Not much for names? The Charms bar is that love-it-or-hate-it disappearing menu that offers up access to device settings, sharing and the Windows search function (among other things). The tricky bit about it is that it's just peachy to use on touchscreen devices, but flicking your mouse cursor into a corner of your desktop's screen to invoke it gets tiresome after a while.
+
+
+
+For a while there, it was unclear just how sweeping this change would be: Winbeta.org originally reported that the Charms bar might only disappear from your desktop and not from tablets. ZDNet's (awfully well-connected) Mary Jo Foley later chimed in, citing sources who claimed that the Charm bar will be completely gone once Windows Threshold starts rolling around. To hear her tell the tale, some pertinent Charm bits will find their way into the title bars of Windows 8 apps, but developers will have to implement new sharing functions if they want their users to get social. Either way, it shouldn't be long before we start experiencing the Charm-less life for ourselves: a preview of Windows Threshold is expected to go live some time in the fall.
+
+

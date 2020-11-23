@@ -1,0 +1,5 @@
+
+ ARM has been talking up its Mali-200 and Mali-400 processors for a little while now, but according to the company's graphics product manager, Remi Pedersen, they're now finally on track to land in some actual products, and the first cellphones using 'em could show up as soon as winter 2009. While Pedersen unfortunately didn't have anything to say about those phones themselves, he did make some pretty bold claims about the processors, which are able to run OpenGL ES 2.0 and can supposedly pump out 16 million triangles per second and 275 million pixels per second. Those numbers apparently apply to both the Mali-200 and Mali-400, although the later is multicore scalable (up to quad-core at 300MHz), and even able to produce 1080p resolutions. To bring all that home, ARM has whipped up a port of the original Project Gotham Racing game to demo at GDC, which reportedly runs just like the original Xbox game performance-wise, but "feature-wise it looks like an Xbox 360 title."
+      
+
+ 

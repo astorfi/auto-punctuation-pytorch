@@ -1,0 +1,16 @@
+
+
+The cyber attack against Sony Pictures continues to be a major problem for the company. For one, it looks like the hackers used malware called Destover (which security firms believe could have been created in Korea) that can completely disable hard drives, rendering computers useless. Worse, the hackers calling themselves the Guardians of Peace recently leaked more info: a whole folder full of company passwords, as well as former and current employees' salaries and social security numbers. And yet, all these could've been avoided, according to some of the company's former employees. They told Fusion that "Sony's 'information security' team is a complete joke," prone to ignoring reports about vulnerabilities.
+
+
+
+However, it's unclear if the company could've done anything to prevent the recent security breaches, though. Aside from the fact that the GoP claimed to have physical access to Sony's offices, the malware they used is so powerful, the FBI had to issue a flash warning to US businesses right after Thanksgiving. While the FBI's bulletin didn't mention specifics, security firms Trend Micro and Kaspersky have just confirmed that it's about the same malware that took down Sony's computers. Kaspersky has also noted that Destover works just like older malware used for previous cyber attacks against companies in Saudi and South Korea. Further, the firm has determined that its Destover samples were created on a computer using the Korean language during working hours in the peninsula.
+
+A North Korean official denied the accusation: "My country," he said, "publicly declared that it would follow international norms banning hacking and piracy."
+You might recall, Sony Pictures suspected that North Korea might be behind the attacks as retaliation for The Interview, a Franco and Rogen starrer about an assassination attempt against the country's leader, Kim Jong Un. A North Korean official denied the accusation, however, telling Salted Hash that linking his country to Sony's hacking is but a fabrication. "My country," he said, "publicly declared that it would follow international norms banning hacking and piracy."
+
+As for what was stolen from Sony's computers, the answer would be a lot. A GOP spokesperson told us in the past that they possess terabytes of data taken from Sony's machines. Within the past few days, they've made good on their threat to release sensitive info if Sony doesn't acquiesce to their (rather vague) demands of equality. And some of the recent files they distributed contain Sony's IT data, such as SecurID tokens and certificates, along with a directory labeled "Passwords," full of, well, passwords for major movies' social media accounts.
+
+Finally, as we've mentioned earlier, the latest documents posted in public include both former and current employees' (including actors Sylvester Stallone's and Rebel Wilson's) salaries and social security numbers. Unfortunately for Sony, it doesn't look like this issue's close to being resolved and it's likely that the hackers are still sitting on yet more sensitive info.
+
+

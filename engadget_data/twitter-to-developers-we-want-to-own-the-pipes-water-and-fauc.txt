@@ -1,0 +1,8 @@
+
+ 
+An announcement by Ryan Sarver, a member of the platform team at Twitter, could spell bad news for makers of third-party apps that access the growing social network and new ones looking to get in on the action. In a move that will inevitably cause quite a ruckus among developers and tweeters alike, Twitter has essentially decided that no new apps should be developed "that mimic or reproduce the mainstream Twitter consumer client experience." He goes on to say that existing apps will continue to function, but that the bar will be raised in terms of quality and consistency. Specifically, he cites differences across apps in terminology for core functions like @-replying and trending topics as confusing to users and at the root of the change. 
+
+According to Sarver, over 90 percent of Twitter users access the service through official Twitter apps, so for many the change won't be drastic. The company hopes developers will shift their focus to other areas of the ecosystem that "focus on areas outside the mainstream consumer client experience" such as publishing tools, curation, and social CRM (consumer relationship management). Still, it's incredibly interesting -- and frankly, disheartening -- to see a Web 2.0 company making such an un-Web 2.0 move. Of course, this could all be part of Twitter's plans to eventually monetize the service, but for now we'll have to take the company at its word, even if that means our choice of clients becomes a little less diverse in the future.
+      
+
+ 

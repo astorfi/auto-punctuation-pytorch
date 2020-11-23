@@ -1,0 +1,6 @@
+
+ 
+As crisp and vibrant as AMOLED and Super AMOLED smartphone displays are, they roll off the assembly lines with a pretty big design compromise: most of the components in the marketplace right now make use of a little visual trickery called PenTile whereby green subpixels occur with greater frequency than red and blue. Meanwhile, traditional displays (CRT, LCD, plasma, you name it) typically use one red, one green, and one blue subpixel per pixel, and the end result is that AMOLEDs tend to be a little grainier by comparison at a given resolution. OLED-Info points out that Sammy's new Super AMOLED Plus displays appear to have solved the PenTile problem, instead using something called Real-Stripe -- effectively meaning honest-to-goodness RGB pixels, which explains the company's claim back at CES of a 50 percent boost in subpixel count. Interestingly, Real-Stripe requires more space per pixel, which could be why the Galaxy S II and Infuse 4G are 4.3 and 4.5 inches, respectively, a pretty healthy hike from the 4-inch mark they'd settled on with last year's original Galaxy S models. 'Course, none of this puts us close to the 7 or 10 inches we'd need to make a tablet work -- but we know they're cranking on that already.
+      
+
+ 

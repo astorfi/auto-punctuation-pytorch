@@ -1,0 +1,9 @@
+
+ 
+
+We've known about Kal-El -- the quad-core mobile processor from NVIDIA -- for a fair amount of time, but a lot of the finer details have remained a secret as we've anxiously awaited its debut in tablets and smartphones. Fortunately, we have some reading material to bide our time as the company published white papers discussing benefits of the new CPU, and for the most part it's what you'd expect: NVIDIA touts higher performance, better battery life and improved physics-based gaming when more cores are involved and working together.
+
+What came as a surprise to us was the fact that this quad-core CPU actually utilizes five cores: in addition to the standard four main Cortex A9 high-performance cores, Kal-El throws in a fifth Cortex A9 "companion" core specifically designed to handle less demanding tasks in effort to minimize power consumption caused by active standby processes. How is it done? The Companion core's max operating frequency gets capped at 500MHz, offering higher performance and greater efficiency per watt when running menial tasks such as push email, Twitter / Facebook sync, widgets, background apps and live wallpapers. This leaves the four main cores free to take care of the stuff it does best -- games, web browsing, transcoding / editing audio and video, 3D, physics simulations and image processing, to name a few -- allowing performance bumps of up to 50 percent when compared to Tegra 2. We can tell that quad-core devices are going to make us very, very happy. If charts and geeky stats brighten up your day like it does ours, head to the source to read the papers in their entirety.
+
+
+

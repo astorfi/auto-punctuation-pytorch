@@ -1,0 +1,6 @@
+
+ 
+Craving for some cutting edge tech to go with your croissant this morning? Intel's Clarkdale and Arrandale -- the 32nm chips that cram the GPU and memory controller inside the CPU package -- have been subjected to the discerning eye of the Hot Hardware investigators, and have shown off some significantly reduced power usage. The entire small form factor system you see above, built around a Clarkdale processor, clocked up an austere 28W when idling, and only went up to around 70W under full load, which you can just about make out on the wattmeter beside it. Limited to two processing cores due to the added complexity inside the chip, these might lack the juice to oust Core i7 rigs, but if the laptop parts reflect similar power savings, it's difficult to imagine a more desirable CPU for your next mobile computer. Hit the read link for some synthetic benchmarks and further impressions.
+      
+
+ 

@@ -1,0 +1,7 @@
+
+Remember that profile-specific social network search tool Mark Zuckerberg announced back in January? It's finally ready for the general public. According to the New York Times and ABC News, Facebook Graph Search will start rolling out to US users this Monday. The update is more than a simple search bar revamp, however -- it allows users to mine their social circle for very specific information, asking questions like "Who are my friends in San Francisco," or searching for "people who went to Stanford who like the 49ers." The tool is designed to harken back to the company's original goal of connecting people, and aims to help users draw lines between their friends and interests. Graph Search will also pull select data from Bing, allowing users to peek at the weather from the comfort of their timeline.
+
+
+Despite launching on a wider scale, the service isn't perfect -- the New York Times reports that it still has trouble juggling synonymous phrases (something we experienced in our own hands-on), returning discrepant results for searches like "people who like to surf" and "people who like surfing." The tool also works within the confines of a user's privacy settings and public activity, meaning that you won't accidentally uncover your cousin's secret My Little Pony fan-group if its privacy settings are locked down. The feature is set to debut for a few hundred million users this week, and will continue to become available to the all US users in the coming weeks.
+
+

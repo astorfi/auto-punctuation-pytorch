@@ -1,0 +1,9 @@
+
+ 
+Take the 1GHz Scorpion core residing in Qualcomm's current flagship Snapdragon, the MSM8x55, duplicate it, overclock the resulting pair by 50 percent, and give them improved graphics in the form of Adreno 220. What do you get? A barnburner by the unsexy name of MSM8x60. Yes, the 1.5GHz Mobile Development Platform Qualcomm loosed on the world at CES earlier this year has found itself prostrate on a test bench, where it has produced some of the finest graphical performance scores yet seen on a mobile device. The taxing OpenGL ES 2.0 test you see above shows the new Snapdragon doubling the frame rates churned out by Motorola's mighty Atrix 4G (which admittedly has to work harder thanks to its higher-res display) and completely embarrassing older generation hardware like the EVO 4G. That's a theme carried on throughout AnandTech's benchmarking, which you may explore in full at the source link. If you're wondering when this world-beating dual-core chip will be coming to market, the answer is that it's already inside HTC's imminently upcoming EVO 3D and Pyramid devices, albeit running at a tamer 1.2GHz. Exciting, eh?
+
+P.S. - Do take note that the Qualcomm dev platform was plugged into the wall during these tests and was not subject to any power management software that may have otherwise restrained its performance as on the retail chips under test. Moreover, the Egypt benchmark can only run at native resolution, which is what's causing some seemingly aberrant results such as the iPhone 4 (960 x 640) ranking below the iPhone 3GS (480 x 320).
+ 
+
+
+ 

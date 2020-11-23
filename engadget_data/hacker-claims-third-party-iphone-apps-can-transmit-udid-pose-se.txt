@@ -1,0 +1,10 @@
+
+ 
+When Apple addressed a congressional inquiry on privacy in July, the company claimed that it couldn't actually track a particular iPhone in real time, as its transactions were anonymous and thoroughly randomized. Bucknell University network admin Eric Smith, however, theorizes that third-party application developers and advertisers may not have the same qualms, and could be linking your device to your name (and even your location) whenever they transmit data. Smith, a two-time DefCon wardriving champ, studied 57 top applications in the iTunes App Store to see what they sent out, and discovered that some fired off the iPhone's UDID and personal details in plaintext (where they can ostensibly be intercepted), including those for Amazon, Chase Bank, Target and Sam's Club, though a few were secured with SSL. Though UDIDs are routinely used by apps to store personal data and combat piracy, what Smith fears is that a database could be set up linking these UDIDs to GPS coordinates or GeoIP, giving nefarious individuals or organizations knowledge of where you are. 
+
+It's a scary idea, but before you direct hate Apple's way, it's important to note that Cupertino's not necessarily the one to blame. iOS is arguably the best at requiring users to opt-in to apps that perform GPS tracking; transmitting the UDID and account information together publicly is strictly against the rules; and we'd like to think that if users provide their personal information to an application developer in the first place, they'd understand what they're doing. Of course, not all users monitor those things closely, and plaintext transmission of personal details is obviously a big no-no. 
+
+Smith's piece opens and closes on the idea that Apple's UDID is like the unique identifier of Intel's Pentium III processor, which generated privacy concerns around the turn of the century, and we wonder if ths story might play out the same way -- following government inquiries, Intel offered a software utility that let individuals manually disable their chip's unique ID, and removed it from future CPUs.
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ The X Window Server has been serving Linux users faithfully for the better part of a decade. And Ubuntu has been using the standard-issue display server to push its GUI to monitors across the globe since its color scheme was more sludge than slick. Canonical originally planned to replace the aging X with another display server called Wayland, but the developers apparently couldn't bend the compositing-friendly protocol to their cross-device whims. So, Mir was created. The goal for Mir is to easily scale from the TV, to the desktop, to tablets and phones while providing "efficient support for graphics co-processors." That means Canonical is relying heavily on GPU acceleration, which will require the cooperation of manufacturers like NVIDIA, AMD, Qualcomm and others.
+
+ As part of the cross-form factor convergence, Unity will be getting a rewrite entirely in QT and QML (the current version uses a Nux-based shell on the desktop). The Unity Next project will incorporate several core components from the Ubuntu Touch interface, inching the Linux OS closer to its goal of a truly unified codebase. Mir should make its debut on the mobile variants of Ubuntu soon, with Canonical aiming to get the UI unified and stable in time for the next LTS in April of 2014. For some more technical details check out the source links.
+
+

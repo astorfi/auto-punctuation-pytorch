@@ -1,0 +1,34 @@
+
+There are actually two "Ones" that launched this week. The star attraction is undoubtedly the HTC One, but let's not forget the brand-new Snapdragon 801 running under its hood: a cutting-edge processor that will also power the Sony Xperia Z2 and the Samsung Galaxy S5, but which happens to have reached the market first in HTC's flagship phone. This chip represents a significant upgrade over the Snapdragon 600 in the old One, promising a hat trick of better all-round performance, more fluid gaming and longer battery life, and these are precisely the claims we're about to explore using a combo of benchmarking apps and real-world tests. At the same time, HTC has suddenly decided to come clean on the issue of benchmark cheating, which makes it a bit easier for us to trust what the numbers are telling us.
+
+
+
+Honest cheating
+There's no room here to go back over the whole cheating controversy, but let's just say it's been a pretty depressing affair. In fact, if HTC hadn't made a significant change to the way the new One handles benchmarks, we probably wouldn't have bothered with this article at all, for fear of leading you astray. Fortunately though, that change has been made.
+
+HTC has acknowledged to us that, in the past, it has forced its devices to run in a so-called High Performance Mode (HPM) whenever a well-known benchmarking app was launched. This mode boosted the processor's clock speeds to levels that weren't available to other apps, causing excessive battery drain and temperature increases solely for the purpose of achieving unrealistically high benchmark scores. The company could (and probably should) have put an end to this practice, but instead it has gone the other way: High Performance Mode on the new One is available to anyone who wants it, in any app they like, by means of a tickbox in the Developer Options screen.
+
+High Performance Mode on the new One is available to anyone who wants it
+
+Let's be clear: There's still some cheating going on here because you cannot disable High Performance Mode in a benchmarking app in order to measure the One's regular, non-accelerated behavior. That's why the numbers in the HPM column below mostly look the same as the non-HPM column. But by making HPM available to everyone, HTC has at least sidestepped the worst allegations against it and made things a little more open.
+
+General performance    HTC One (2014)  HTC One (2014) HPM
+
+  HTC One (2013) Galaxy Note 3     Quadrant 2.0 25,548 23,555 11,952 23,278   Vellamo 2.0 1,804 1,668 1,435 2,501   Vellamo 2.0 Metal 1,280 1,269 749 1,194   AnTuTu 3.2 30,100 30,613 26,081 35,340   SunSpider 1.0, stock browser 570 577 940 537   Geekbench 3 single-core 941 989 626 934   Geekbench 3 multi-core 2,595 2,990 1,968 2,928   CF-Bench 38,526 38,489 27,601 33,785  If the table above tells us anything, it's that a person upgrading to the new One from an old One, or from a 2012 phone like the One X or One X+, should see a solid and noticeable jump in general performance. SunSpider reveals that browser page rendering is almost twice as quick, whether you use the stock browser or Chrome. Benchmarks that test the CPU, memory and a range of other components, such as CF-Bench and AnTuTu, show improvements of between 10 and 50 percent, with Quadrant's score being around double.
+
+On the other hand, there's much less to shout about when we stack the HTC phone up against last year's Samsung Galaxy Note 3, which was one of the most popular implementations of the Snapdragon 800. Here we see only marginal gains in the region of 5 to 20 percent, with a couple of tests still putting the older device in the lead. This tallies with the fact that HTC has opted for a 2.3GHz version of the 801, which matches the CPU clock speed of the 800 and only offers a slight boost in memory and GPU speeds.
+
+Graphics and gaming tests    HTC One (2014)  HTC One (2014) HPM
+
+  HTC One (2013) Galaxy Note 3     GFX Bench TRex Offscreen  28.2 28.3 N/A 26.3   GFX Bench Manhattan Offscreen 11.1 11.1 N/A 9.3   3DMark Ice Storm Unlimited 20,440 20,433 10,238 18,828    GameBench fps (Minion Rush)*
+  28 29 27 28   GameBench % drain per hour (Minion Rush)* 22 25 32 20   *Scores achieved using GameBench beta app, not certified by GameBench itself.  In terms of graphics, based on GFXBench and 3DMark, we're looking at even bigger gains compared to the old One, as well as a significant step up from the Note 3. The only real-world test in our arsenal, GameBench, shows a small gain of 1 fps in regular mode, or 2 fps in High Performance Mode, which doesn't seem so impressive. However, this test involves measuring a phone's performance while an Android game is being played, and in this instance it probably tells us more about the game (Despicable Me: Minion Rush) than it does about the phone. After all, most mainstream Android games are designed to run on a wide range of devices, rather than to exploit the extra power offered by top-end phones.
+
+
+Even if GameBench doesn't reveal much change in terms of frame rates, it does show a very healthy improvement in the new One's gaming stamina. Whereas the Snapdragon 600 was constantly under pressure in Minion Rush, draining a third of its battery each hour, the Snapdragon 801 proved to be capable of delivering slightly smoother graphics alongside a much lower drain rate. This drain rate was almost as low as the Note 3's, despite the fact that Samsung's phablet contains a much larger battery (3,200mAh vs. 2,600mAh).
+
+For reference, the new One also produced a great result in the standard battery rundown test for our main review, lasting 11.5 hours (vs. 6.5 hours on the old One and 9.5 hours on the Note 3). So, we can safely say that this phone is very efficient, regardless of whether it's being stressed or doing something less taxing, like playing a video.
+
+Wrap-up
+The conclusion here is simple: The HTC One has a very solid processor, and if you compare it to the old One, then you should see major improvements in both speed and battery life -- which is exactly what we all want. But if you stack it up against current Snapdragon 800 phones, the One is only a small step forward -- it's better in a lot of tests, but if you own something like a Galaxy Note 3, then you probably wouldn't notice much difference. When the Galaxy S5 and Xperia Z2 arrive, both with bigger batteries and, in Samsung's case, with even higher clock speeds, the One will likely be edged out of the top spot on any benchmarking table. Nevertheless, so long as we don't pay too much attention to what else lies on the horizon, we reckon HTC has given its latest phone more than enough grunt to satisfy even the most demanding of power users in 2014 and beyond.
+
+

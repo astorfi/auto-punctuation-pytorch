@@ -1,0 +1,6 @@
+
+
+
+Google announced in February that it would start highlighting mobile-friendly sites on phone searches -- today, that update is finally here. Now, when you search Google on your phone, you're more likely to see results that are optimized for smaller screens, rather than desktop sites that require a lot of tapping and zooming. Basically, it's a kick in the pants to lazy web developers who haven't yet catered to the growing number of mobile internet users. The update only applies to phones -- not tablets -- and Google notes that it affects individual pages, not entire sites. It also won't stop desktop sites from showing up in mobile searches if they rank highly enough. You can test the mobile friendliness of your site with this test, or by running the Google's Mobile Usability Report on your site. Naturally, if you don't spruce up your site, you can expect a drop in mobile traffic from Google.
+
+

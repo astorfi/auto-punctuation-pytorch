@@ -1,0 +1,11 @@
+
+ 
+Apple's just announced Final Cut Pro X at NAB, and Chief Architect of Video Applications Randy Ubillos is demonstrating a beta release as we speak. The "rebuilt from ground up" video editing suite -- which now shares a similar look and feel with iMovie -- will be shipped with 64-bit support to finally make use of more than 4GB of RAM, as well as handling 4K clips on 8-core editing rigs (by way of the Grand Central Dispatch feature on OS X Snow Leopard). Most notably, though, is that this new FCP will always be rendering instantly in the background, meaning you can edit on the fly much like you do on iMovie! There's also a whole stash of other new features: editing before media ingest, magnetic timeline, people detection, instant color matching between clips, smart collection of media based on custom keywords and people, auto image stabilization on import, and many more. Itching to get your hands dirty with Cupertino's new video tool? You'll be able to download it from the Mac App Store in June for just $299.
+
+Update: @robimbs has just posted a video of Randy Ubillos' wrap-up at the show. We've got it after the break.
+      
+
+ 
+
+
+ 

@@ -1,0 +1,9 @@
+
+ 
+ Adobe's video editing application is already a lovely thing on the Retina MacBook Pro, but not visually -- only in terms of its raw performance on that Core i7 CPU. Until today's update -- 6.0.2 -- the software hasn't actually been able to make use of HiDPI itself, and neither has it been able to exploit the performance-boosting potential of GPU compute on the laptop's NVIDIA GTX 650M graphics card. If you're lucky enough to own this combo of hardware and software, Adobe's official blog suggests that you go ahead and check for the update or apply it manually following the instructions at the source link below (it's actually within Bridge that you should check for the update, with other Adobe titles closed). We're hopefully about to apply it ourselves and will report back on its impact.
+
+ Update on the update: As expected, video thumbnails look sumptuous in the absence of pixelation, making this a worthy revision. That said, software encoding of a short timeline was still faster with the Mercury Engine set to software mode rather than GPU compute. A 2:30 clip took 2:02 to encode with OpenCL, 2:00 to encode with CUDA, but just 1:42 to encode in Software mode. No doubt people who do multi-cam editing or need to render complex effects in real-time may see a benefit -- please, let us know if you do!
+
+ Update: Just had word from NVIDIA that may explain what's happening with our encoding times. We're told it's only if we enable "Maximum Render Quality" that GPU compute will shine through in terms of performance, because enabling max quality in software mode would slow it down. So far we've only tried with default settings, so clearly there's room here for more experimentation.
+
+

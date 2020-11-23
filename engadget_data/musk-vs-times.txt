@@ -1,0 +1,66 @@
+
+ It's been hard to miss, this brouhaha that's been boiling over between Tesla CEO Elon Musk and The New York Times -- specifically with reporter John M. Broder. Broder published a piece over the weekend called "Stalled Out on Tesla's Electric Highway" in which he panned the Model S for inaccurate range estimates and drastically reduced range in cold weather. In fact, about the only thing he didn't hate was the tow truck driver who was ultimately dispatched to pick up him and the charge-depleted Tesla he had been driving through Connecticut.
+
+ Musk, likely still stinging from an even more vitriolic 2011 takedown by Top Gear, was quick to take to Twitter and call the article "fake." He later backed that up with comprehensive data logs recorded, apparently, without Broder's knowledge. That data, at least at surface value, shows the Times piece is at best misleading -- at worst libelous.
+
+ Case closed? Oh no, this is just beginning. In posting this data, and in chastising Broder's driving habits, Musk inadvertently refocused the situation onto himself. Instead of asking how the Times allowed this piece to be published, many are instead asking whether it's right for Tesla to be placing any sort of expectations on reviewers. And then, of course, there's the disconcerting Big Brother aspect of the whole case. Who's in the right? Who's in the wrong? Let's try to find out.
+
+
+
+ Background 
+ I want to start by saying that I recently reviewed the Tesla Model S myself -- in fact, I tested the very same machine that Mr. Broder would later leave sitting on an off-ramp, bereft of charge. My testing of that car was performed in winter conditions, in low temperatures (well below freezing) and often at highway speeds (occasionally, beyond). I did not baby the car and, yes, I certainly suffered from range anxiety at times.
+
+ However, I never ran out of charge, never was stranded by the roadside and never had to call in a flatbed. I managed this feat for a few simple reasons: first because I based my trips not on Tesla's estimated maximum range of 300 miles for the car, but rather on the EPA's more conservative 5-Cycle Certified Range of 265 miles. Is that disingenuous of Tesla to post its own, higher rating? Perhaps, but the EPA rating is the one on the sticker on the window, and such estimates -- even the government-mandated ones -- are always highly subjective. (Like, for example, the Roadster that went 350 miles on a charge, despite the EPA rating it for 244.)
+
+ Despite having to go 40 miles out of my way, I still made it to my destination -- with a somewhat scary 10 miles of range remaining. I also knew where I was going, knew how I was going to get there and knew how long that was going to take. In other words, I had a planned route, and I gave enough of a cushion that I was still safe even should I need to make a detour. In fact, I did make a major detour when the Model S's GPS caused me to miss my correct exit. Despite having to go 40 miles out of my way, I still made it to my destination -- with a somewhat scary 10 miles of range remaining.
+
+ This is, of course, very different from how I plan a trip in a conventional car. This requires a lot more work up-front, work that is just fine by me. I'm okay with such investments if it means covering 165 miles in a 416-horsepower luxury car for just 10 bucks' worth of electricity.
+
+ Could I have been more aggressive? Could I have pushed the envelope and skipped charging stations just to create drama? Sure, but there was no need. Despite never running out of charge, I now understand the car's real-world range (worst case: about 210 miles with three passengers plus camera gear, driving on and off the highway on a below-freezing day) and, rather than getting stranded by the road, I spent four productive days with the car getting a solid feel for it. That, to me, was the most important thing.
+
+ Truths and untruths Now that we have that out of the way, before we can truly figure this (rather messy) situation out, we need to establish a few facts to build upon.
+
+ #1 - The New York Times article contains untruths 
+ Many would label the word "untruths" as a weak-willed, politically correct version of the word "lies." But, there is an appropriate use for it, and I believe it's here. "Lies" implies false statements said maliciously. "Untruths," to me, doesn't imply intent, and that's an important distinction. In other words, I'm not willing to convict Mr. Broder of murder, but I believe he is at least guilty of manslaughter.
+
+ The Times article is riddled with inaccurate statements, including basic stuff like the length of the legs of the trip and the maximum and minimum speeds along those legs. The HVAC temperature settings were misreported and, when the car was plugged in to charge, Broder failed to use the maximum charge, basically damning himself to failure before he even hit the road.
+
+ It's quite easy to mistakenly charge the car well short of maximum. In fact, it's the default setting. It's in this last point that the question of malicious intent can be most clearly raised. It's quite easy to mistakenly charge the car well short of maximum. In fact, it's the default setting. A "standard" charge in the Model S is about 90 percent battery capacity. You have to manually toggle the car to "Max Range" (as shown in the photo above) if you want 100 percent. This is because fully charging the cells every time decreases the ultimate longevity of the battery pack, so you're advised to use this only when you're planning on going a long distance. The Tesla rep who briefed me before my review of the Model S made this distinction abundantly clear. I'm inclined to believe they did the same for Mr. Broder.
+
+ Regardless, if the car was not fully charged correctly, then the Times article is misleading.
+
+ #2 - Elon Musk has no say over what The Times writes or how Broder drives 
+ It appears the Times article is flawed and should be fixed. Conversely, Musk has no say over what that outlet writes or how it writes it. Frequently his statements have been scathing, not only regarding the factual inaccuracies, but seemingly stepping well beyond that reasonable boundary and into uncomfortable territory.
+
+ Musk chides Broder for driving too fast and having the heat too high, attempting to paint a picture of a man who is acting deceptively. Instead, Musk comes off as a protective mother, scolding the world for not acting and driving decently. This does not enamor him with many, but his most damning statement is this:
+
+  When Tesla first approached The New York Times about doing this story, it was supposed to be focused on future advancements in our Supercharger technology.
+
+ Again, Musk is attempting to paint a picture of deception, but it's just as easily read as the woeful cries of a man trying -- and failing -- to control the media. It doesn't matter what the Times was supposed to be writing about, the publication found a more interesting angle and went for it. It could certainly be said that misrepresentation of intent like this circumstantially points to a dark, ulterior motive, but nobody can blame the Times editors desk for wanting to change gears. (Figuratively, of course. The Model S doesn't have gears you can shift.)
+
+ A lesson for journalists  There's a big divide between those who see this as a simple case of an overzealous journalist getting fact-checked after the fact and those who see it as an overzealous CEO reveling in his Big Brother-like power. (Presumably, cackling mildly whilst stroking a fluffy white cat and sitting serenely in a black leather chair.)
+
+ Interestingly, in watching responses on the various social networks in which I take part, opinions seem to be divided between journalists of a tech persuasion and those of an automotive bent. If you'll allow me to generalize broadly, tech journos by and large are siding with Tesla in this affair. The auto bloggers? Not so much.
+
+ In chatting casually about the fallout with Michael Spinelli and Matt Hardigree of Jalopnik, the divide became clear to me. Reviewers in the tech industry, like myself, are used to being watched. I've previously had issues with devices I was evaluating, only to have a technical rep check it out and diagnose the problem remotely. Indeed, when a warning light popped on the dash of the Model S, I called Tesla. Its engineers took a peek (from hundreds of miles away) and told me not to worry about it, that it would go away. Sure enough, it did.
+
+ Given my history, I thought nothing of it. Most product reviewers, particularly automotive ones, would be left feeling a little uncomfortable. They aren't used to this kind of omnipotent oversight. They're not used to knowing (or at least believing) that each and every action they perform with a review device is being remotely monitored and verified such that if their evaluation strays from the facts they're liable to be called out for it.
+
+ But, they'll have to be. The Model S isn't the first car that could dial home for help (indeed, the McLaren F1 of 1992 had a modem through which it could phone home -- if it were plugged in) and it certainly won't be the last.
+
+ A lesson for product representatives 
+ In his many rebuttals, Musk has stepped far beyond simple fact-checker and seems to wade into the realm of moral and ethical judge. It's in this that he loses the hearts and minds of many -- and provides us with an important lesson: When correcting others, present the facts and then step away. Let the discussion brew on its own.
+
+ It would have been better, we now know, to simply post the logs, point out the most glaring discrepancies and then allow the members of the auto and technology blogosphere to do what they do best: sweep themselves up into a frenzy.
+ Or, perhaps, it would have been better still to simply leave the thing alone. While The New York Times is far from a small outlet, this piece in particular didn't exactly have legs until Musk himself pointed a finger at it. Had he stayed out of it we might have all moved on by now.
+
+ Mind you, anyone who knows me knows that I'm not a person who can rest when there's something wrong on the internet, but sometimes sleeping dogs are better left dozing peacefully.
+
+ Wrap-up 
+ Ultimately we're still left with a messy situation from which neither party walks away clean. Though The Times is looking into the matter, the article still stands, unmodified, while Tesla's data appears to poke at least a few compelling holes through it. Meanwhile, Musk comes out of this with mud on his boots as well. The critical tone in his rebuttals, both televised and in print on Tesla's blog, hasn't won the case.
+
+ So where do we go from here? I'm sure someone at Tesla will re-run this route, with proper charging and (presumably) proper driving habits, and show the world that it can be done. But that really wasn't the point of the Times article. The point of that article, it seems, boils down to this: In 2013 you can't just go on a whimsical joyride to wherever you want in an EV. Is that shocker really worth getting this excited about?
+
+ Update: Since this editorial went to print, Broder has responded to some of Musks claims -- such as why he drove in circles. He goes on at length to show that he was not deliberately mistreating the car. However, he does not address the most damning concern I point out here: why he didn't charge the battery to full to begin. Additionally, portions of his rebuttal continue to raise questions. For example, his original report states he set the cruise control specifically "at 54 miles per hour." In his rebuttal, addressing where Musk says he was actually driving 60, he softens that to "about 54 m.p.h." Suddenly, he seems unsure of a fact he presented himself. Thus, those concerns I mention above still stand, as does the conclusion of this editorial.
+
+

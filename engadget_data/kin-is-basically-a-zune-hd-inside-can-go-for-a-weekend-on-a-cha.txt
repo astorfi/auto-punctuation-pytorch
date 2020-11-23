@@ -1,0 +1,8 @@
+
+       
+In a discussion with Kin product manager Derek Snyder this afternoon, we've confirmed that both the Kin One and Kin Two are built on the same foundation as the Zune HD -- in other words, they're running NVIDIA Tegra silicon, and there's no reason that anything you see on a Zune HD couldn't run just as well on a Kin. Of course, that's a purely theoretical statement at this point since Zune apps don't work on Kin as it stands -- the platform's completely closed, though Microsoft has been insistent that we should keep a close eye on its over-the-air updates after launch as features evolve. Either way, that's a marked (and curious) departure from Windows Phone 7, where Microsoft's been taking an all-Qualcomm, all-the-time approach.
+
+Realistically, we've gotten the impression today that Kin doesn't come close to tapping out a Tegra's horsepower, but that might be by design: Snyder also mentioned that a key goal of the development phase was to make sure that the phones could go a whole weekend without a charge. Running a Tegra at full bore 24 / 7 doesn't lend itself to miserly power consumption, so the overall simplicity of the UI -- and the lack of 3D gaming -- might play a role there.
+      
+
+ 

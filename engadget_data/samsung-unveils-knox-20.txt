@@ -1,0 +1,10 @@
+
+
+Exactly a year to the day after it first announced its Knox security solution, Samsung's returned to Mobile World Congress with news that it's making it even easier to secure and manage Galaxy devices. With the launch of Knox 2.0 today, Samsung's changed the way the platform handles Google Play apps, digitally securing their data without the need to run them in a dedicated Knox workspace. Before, personal- and work-related apps were separated, but Samsung says "most" Google Play apps can now live in Samsung's secure world. It's certainly serious about its new features, as CEO JK Shin popped up at the event to drive home Samsung's desire to nail the enterprise market.
+
+
+Samsung wants more secure apps across the board, so it's also launching Knox Marketplace, a dedicated cloud-based app store that lets tech managers grab apps and install them on all employee phones with a few clicks of a button. Box and GoToMeeting are already on board, and there are plenty of enterprise companies already working to make their apps available. Samsung tells us that the new features will begin rolling out in the second quarter, and it'll come pre-installed on the newly unveiled Galaxy S5. First-generation Knox users will get an upgrade to the new version as soon as their devices get an upgrade to Android 4.4 KitKat -- whenever that may be.
+
+
+Steve Dent contributed to this report. 
+

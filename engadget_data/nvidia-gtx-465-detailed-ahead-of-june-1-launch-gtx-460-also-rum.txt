@@ -1,0 +1,6 @@
+
+ 
+Hey, you there, wanna check out some unreleased new hardware from NVIDIA? Donanimhaber, the same site that brought us early (and accurate) specs of the GTX 470 and 480, is back with the above shot of an ASUS-built GTX 465 that is intended to entice the more mainstream crowd into the Fermi party. Essentially a GF100 with its wingtips trimmed, this'll offer the same 607MHz graphics and 1,215MHz processor clock speeds of the 470, but comes with a narrower 256-bit memory interface, a tamer 3.2GHz effective memory clock, 352 rather than 448 CUDA cores, and -- happily -- lower power requirements. This word is also corroborated by Bit-tech, whose scribes expect a launch at the start of Computex. The Turkish site also has news of a GTX 460, which they say will show up in the middle of July with 768MB of GDDR5, while also being "cheaper and slower" than the 465. Hit the Hexus link below for some early benchmarks of the latter card.
+      
+
+ 

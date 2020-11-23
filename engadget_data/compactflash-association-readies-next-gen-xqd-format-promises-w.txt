@@ -1,0 +1,6 @@
+
+ 
+
+
+	We don't need to tell you CF is one of the few memory card formats that's managed to survive the SD tidal wave (remember when you needed Memory Stick to use a Sony point-and-shoot?). But if you're the kind of serious shooter who uses CF, you might be tickled to know its high-speed successor is just about good to go. The CompactFlash Association said it's finished work on XQD, a next-gen format that promises faster speeds, along with a smaller footprint than current-gen CF cards. As for transfer rates, the included PCI Express interface promises theoretical write speeds as high as 5 Gb/s, though the association is quick to peg real-world writes at 125 MB/s and up. Still, that's plenty fast for processing RAW stills and 1080p video, and it's a clear bump over the 100 MB/s write rates (max) you'll get from today's CF cards. No word on availability or partnerships, though we know Nikon led XQD's development, and that Canon endorsed it, so it's safe to say we'll see this in some major releases sometime after the association starts licensing the technology in early 2012.
+ 

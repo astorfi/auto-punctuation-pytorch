@@ -1,0 +1,6 @@
+
+  
+Callers, your worst nightmare is coming true... maybe. According to a report, a group of hackers at the Black Hat conference in Washington D.C. claim that they're able to hack GSM calls with equipment costing about $1,000. If you believe the team (and we're inclined to at least have a listen), they can decrypt GSM phone conversations and text messages on a network using inexpensive tools called field programmable gate arrays. Until now, the cost of the technology required to hack GSM transmissions has been prohibitively expensive for all but your government and large-scale snooping operations, but that's beginning to change. Not only can this technique allow access to calls, but some of the tech demonstrated at the conference might also enable a user to pinpoint a phone's distance from the surveillance hardware, and find out what type of device is being used. There was no mention of CDMA hacking, so you might want to move over to Sprint for all your seedy activities. Er, we mean stay on Sprint.
+      
+
+ 

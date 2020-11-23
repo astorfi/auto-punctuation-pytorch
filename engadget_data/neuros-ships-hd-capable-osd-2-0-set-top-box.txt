@@ -1,0 +1,6 @@
+
+ 
+Was it really 2006 when Linux lovers were sinking their gums into Neuros Technology's OSD? Two years later, we're finally seeing shipment of the OSD 2.0, which diverts quite significantly from the original in terms of design and ups the ante by adding support for encoding high-definition video at 720p in MPEG-4 and D1 resolution in the H.264 format. It's built around a Texas Instruments Davinci-based CPU module and a mini-ITX motherboard / enclosure, but rather than just being a very hackable consumer product, this one is described as a "super-reference design" by CEO Joe Born. You'll likely remember the WhereverTV, which is of course based on the OSD 2.0, and the firm has already landed another partner for the box in Hupla. For the individuals who just want an undisturbed unit, you can latch on now for $250.Update: Seems that "sale" didn't last long, and now it's back in the developer kit stage.
+      
+
+ 

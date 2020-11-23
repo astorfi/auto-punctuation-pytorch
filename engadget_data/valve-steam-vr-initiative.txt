@@ -1,0 +1,22 @@
+
+Currently, the HTC Vive is the only virtual reality headset that's part of Valve's Steam VR push. That's not because it's the only one, but because it's the only one we know about thus far. "You should think of the Vive as the first in the same way there are multiple Steam Machines," Valve president Gabe Newell told me this morning. In other words, Steam VR is an open platform supported by Valve. "We're building tools and hopefully they're valuable to hardware partners who want to do it. In some cases, we'll take the leadership role in shipping stuff. But we're really just building tools for other people to continue. So you'll see more headsets."
+
+
+
+That's an important distinction. Valve handed off the announcement of its VR headset to HTC, a company known for making phones and a bizarre, strangely attractive camera. But Valve also undercut HTC's news by announcing its own VR initiative a week earlier. It's become clearer across the past two weeks that, while the HTC Vive is a big push for Valve, the bigger picture of SteamVR involves Valve setting up an ecosystem with free tools for any company to use. "Build it and they will come," in so many words.
+
+Valve's VR headset prototypes at GDC 2015
+"To be honest, we're going to make our money on the back end, when people buy games from Steam. Right?" Newell said. "So we're trying to be forward-thinking and make those longer-term investments for PC gaming that are going to come back a couple years down the road."
+
+The long term for Valve, at least when it comes to VR, is a combination of its Lighthouse technology and the Steam ecosystem. It's also, naturally, wireless technology; an evolution of the Steam Link streaming box the company announced last week.
+
+"The way that you'll eventually connect with HMDs will look like a successor to Link, 'cause you want to start decoupling from wires and stuff like that," Newell said. Currently, wireless, streamed VR isn't possible. Well, at very least, it's not possible with any tech that's not far out of the reach of consumers.
+
+In the near future, however? It's simply a question of keeping the stream latency low enough (below 20ms) and the frame rate locked to a relatively high rate -- issues that depend on networking solutions more than VR headset technology. Newell explained:
+
+"Can you maintain that [low latency over wireless]? That may end up being a WiFi router problem as much as anything else, where we may have to go to other spectrums. We're doing research on 60GHz spectrum, implementations of those kinda things. Because you're right, at some point you have to solve it. But the nice thing is it's a 'once you've solved it, you're done' kinda problem. It's not an ongoing task. The brain doesn't change. The brain is always stuck at 20ms; you don't have to go progressively faster to improve the experience."
+
+Get on that, router companies!
+
+Don't miss out on all the latest from GDC 2015! Follow along at our events page right here.
+

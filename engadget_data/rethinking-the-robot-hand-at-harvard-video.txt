@@ -1,0 +1,15 @@
+
+ 
+ Should you ever find yourself needing to discuss the state of the robotic hand in the early 21st century, Harvard professor Robert Howe seems about as good a place to start as any. The professor founded the school's BioRobotics Laboratory in 1990 and has devoted a good deal of his time to the quest for perfect robot extremities. The last few years have seen a number of breakthroughs for Howe and his team including, notably, the SDM (Shape Deposit Manufacturing) hand, an adaptable and rugged robot gripper that utilizes a single motor to manipulate its eight joints. Such machines have, in the past, often relied on precise image sensing to determine the exact size and shape of an object, in order to configure their digits perfectly before attempting to pick it up. The SDM hand is a lot more forgiving. The pulley system at play distributes equal tension to the fingers in an adaptive transmission that allows motion to continue in other fingers, should one's movement be hampered.
+
+ The joints themselves are extremely compliant as well, adapting and conforming to the shape of an object, thanks in part to their ability to pivot in three dimensions. The Shape Deposit Manufacturing technology used to create the fingers, meanwhile, adds an important level of durability, letting Howe bang them against a table (a trick he happily performed for us) and expose them to water -- both features that are quite often absent in more complex (and far more expensive) models. The SDM technology, developed at Stanford, allows for the creation of fingers that are a single piece, with their parts embedded in plastic. The larger model shown off by Howe serves as great visual when describing the benefits of the single motor system, but the team has also developed a smaller version, with the requisite motors embedded in a far more compact chassis, which we also got a peek at.
+
+ The hand will likely be targeted at home and office use, with some key applications for assisting the disabled. Check out a video of Howe describing the technology to us during our visit to the school and a clip of the SDM doing its thing in the labs, which should help feed your desire to watch robot hands get banged by hammers.
+
+
+
+
+
+ 
+
+ 

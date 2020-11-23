@@ -1,0 +1,12 @@
+
+ 
+Where Steve Jobs leads, Microsoft follows -- how's that for shaking up the hornet's nest? It's said in jest, of course, but we've just come across a post from the General Manager for Internet Explorer, Dean Hachamovitch, and the perspective expressed by him on the subject of web content delivery broadly agrees with the essay penned by Jobs yesterday on the very same subject. Echoing the Apple CEO's words, Hachamovitch describes HTML5 as "the future of the web," praising it for allowing content to be played without the need for plug-ins and with native hardware acceleration (in both Windows 7 and Mac OS X). He goes on to identify H.264 as the best video codec for the job -- so much so that it'll be the only one supported in IE9's HTML5 implementation -- before turning to the dreaded subject of Flash. 
+
+This is where it gets good, because he literally repeats one of Jobs' six pillars of Flash hate: "reliability, security, and performance" are not as good as Microsoft would like them. Where Hachamovitch diverges from Apple's messiah, however, is in describing Flash as an important part of "a good consumer experience on today's web," primarily because it's difficult for the typical consumer to access Flash-free content. Still, it's got to be depressing for Adobe's crew when the best thing either of the two biggest players in tech has to say about your wares is that they're ubiquitous. Wonder how Shantanu Narayen is gonna try and spin this one.
+
+P.S. : it's notable that in multiple paragraphs of discussing "the future," Microsoft's IE general fails to once mention the fabled Silverlight, itself a rich media browser plug-in. Given Silverlight's featured role in the Windows Phone 7 infrastructure and other things like Netflix, we doubt it's on the outs, but there are sure to be some sour faces greeting Hachamovitch this morning.
+
+[Thanks, KnifeX4]
+      
+
+ 

@@ -1,0 +1,8 @@
+
+ 
+It hasn't been that long since we first saw Google's web store -- mid-May, to be exact. An updated version is currently being showcased on stage at the Chrome event. The UI looks much more refined, and those who are itching to try some out yourself, it seems some of the web apps are already available, at least partially: NPR, The New York Times, Amazon Windowshop. If you ask us, they feel a lot like iPad apps for browsers and mice / keyboard. Audio can run in the background even if you move to another tab. There's offline mode, too. App purchases are tied to your Google account, naturally. There's some gaming, but from what we've seen so far ("you pop it!"), it's nothing you're gonna be focusing a lot of time on. Interesting note from the Q&A is that the apps, since they're built with "standard web technologies," will work with all compatible browsers. We've been trying to access the web store (via the Chrome browser, naturally), but it's currently hiding behind a "coming soon" redirect -- it's rolling out later today, though, at least for the US, so keep an eye out.
+
+Update: Try that link one more time, the Chrome Web Store should now be live.
+
+
+

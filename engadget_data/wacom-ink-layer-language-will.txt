@@ -1,0 +1,9 @@
+
+Wacom has been pushing into the world of mobile for a while, and its efforts have just culminated in a pretty bold move: A single, cross-platform standard for sharing handwritten notes and sketches between users, regardless of whether they're using a stylus or a finger, an iPhone or a PC, an app or a browser. The tool is called "WILL" -- "Wacom Ink Layer Language" -- and it captures a pen stroke's coordinates, pressure and the identity of its creator (through a unique "Pen ID"), as well as allowing the scribble to be edited by others. Users can also see other people's handwriting being created in real-time, i.e. we're not just talking about static images.
+
+
+Beginning next month, Wacom will promote WILL by distributing SDKs for iOS, Android, Mac OS and Windows, as well as for browsers and cloud platforms. These SDKs are meant to make it easier for developers to create apps that accept signatures scrawled on a touchscreen, or DIY smileys, or hand-drawn highlights on a cloud document, or any other sort of handwritten input. Of course, the concern with any such format is that it'll need to be embraced by a large number of companies in order to reach a tipping point and become widely accepted. Wacom doesn't seem to be ready to announce even a single partner just yet, but where there's a will... (Ahem, sorry.)
+                 
+
+
+ 

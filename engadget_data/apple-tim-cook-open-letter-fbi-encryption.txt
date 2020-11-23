@@ -1,0 +1,16 @@
+
+After it emerged that the FBI was demanding that Apple create a backdoor in its iOS software to help agents access information on the San Bernardino shooter's iPhone, CEO Tim Cook has taken the unusual step of publicly commenting on the matter. In an open letter posted to the company's website, Cook details Apple's involvement in the case, when a locked iPhone was recovered following a terrorist attack that killed 14 people and injured 22 more on December 2nd, and explains why it's "too dangerous" for the company to acquiesce to government demands.
+
+
+
+In the days following the attack, Apple was asked by the FBI to assist in its investigation and provide data. It handed over some of that information, as it does with any "valid subpoenas and search warrants," and Apple engineers were also made available to advise on the case: "We have done everything that is both within our power and within the law to help them," says Cook.
+
+"We have done everything that is both within our power and within the law to help them."Those demands then focused on gaining physical access to the iPhone. "The U.S. government has asked us for something we simply do not have, and something we consider too dangerous to create," adds Cook. "They have asked us to build a backdoor to the iPhone."
+
+According to the Apple chief, the FBI asked the company to create a special version of iOS that would allow agents to bypass security features on the recovered iPhone. Apple said no, stating that such a piece of software would be able to unlock any iPhone if placed in the wrong hands:"The FBI may use different words to describe this tool, but make no mistake: Building a version of iOS that bypasses security in this way would undeniably create a backdoor. And while the government may argue that its use would be limited to this case, there is no way to guarantee such control."
+
+Cook also criticised the FBI's "unprecedented use" of the All Writs Act of 1789 rather than legislative action through Congress. The EFF describes the All Writs Act as "an all-purpose law that allows courts to require third parties' assistance to execute a prior order of the court." When Apple introduced encryption in iOS 8, it could no longer access locked iPhones, so the FBI hoped to use the act to force it to re-engineer iOS and give it a way to brute force the passcode. Cook argues that those powers could be extended to intercept messages, access health and financial information, track a person's movements or stealthily access their microphone or camera.
+
+"The implications of the government's demands are chilling.""The implications of the government's demands are chilling," says Cook. "Opposing this order is not something we take lightly. We feel we must speak up in the face of what we see as an overreach by the U.S. government. We are challenging the FBI's demands with the deepest respect for American democracy and a love of our country. We believe it would be in the best interest of everyone to step back and consider the implications."Cook closes the letter with: "While we believe the FBI's intentions are good, it would be wrong for the government to force us to build a backdoor into our products. And ultimately, we fear that this demand would undermine the very freedoms and liberty our government is meant to protect."
+
+

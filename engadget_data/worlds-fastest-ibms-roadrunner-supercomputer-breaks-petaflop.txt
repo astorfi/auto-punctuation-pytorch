@@ -1,0 +1,5 @@
+
+ 
+When you're looking to set a record this is how you do it. Not only has IBM's Roadrunner supercomputer come on-line, it's now the world's fastest -- twice as fast as the old BluGene/L champ -- and churning through 1.026 quadrillion calculations per second. The $133 million supercomputer achieved the milestone with the help of 12,960 "improved" Cell processors (yes, like those powering your PS3) and a smaller number of AMD Opteron processors -- 116,640 processor cores in total. Unfortunately (or fortunately depending upon your perspective), Roadrunner is for military use only so you'll have to solve the traveling salesman problem on your own time. While not quite into Exaflop territory, we're definitely on the way.[Thanks, Chris S.]
+
+ 

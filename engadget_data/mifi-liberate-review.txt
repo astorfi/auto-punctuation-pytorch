@@ -1,0 +1,22 @@
+
+There are two factors that are of the utmost importance when it comes to choosing mobile hotspots: speed and battery life. Further down the list is portability, with hardware design ranking even lower. So the idea of a touchscreen MiFi struck us as a ridiculous luxury, the sort of thing we'd find in a SkyMall catalog. This is why we were intrigued by the MiFi Liberate, Novatel Wireless's first-ever 4G LTE MiFi with a built-in touchscreen. While it might seem like a gimmick, the interface does, in fact, provide quick access to vital stats like data usage. Novatel wasn't content to leave it at that, though: the Liberate has features we would never dream of adding to a MiFi, including media streaming, GPS and even a basic messaging app. Fortunately, the addition of such features don't inflate the price: it's available for $50 with a new two-year agreement with AT&T. How well does it all work? Join us after the break for our review.
+
+
+
+
+HardwareOut of the box, the Liberate looks almost like a miniature Magic Trackpad thanks to its wedged profile and wide surface area. Measuring 99.5 x 73.1 x 8.8mm and weighing in at 120 grams (4.05 x 2.88 x 0.34 inches, 4.26 ounces), it's undeniably chunky, and is quite a bit larger and heavier than past MiFis. Still, it's perhaps the best-looking MiFi yet, with sharp gray edges and a glossy black exterior. On the left side of the battery cylinder is the power button, while the micro-USB port sits on the right. There's a Reset pinhole on the back, along with a flap covering the microSD slot, which can accommodate cards as large as 32GB. Inside the aforementioned enclosure is a 2,900mAh lithium-ion battery.
+
+The star attraction, of course, is that 2.8-inch color TFT touchscreen. It's not a particularly striking display, what with its modest 400 x 240 resolution and shallow viewing angles. Also, while it's a capacitive panel, the responsiveness here leaves much to be desired. We occasionally had to swipe at the display several times before it would react, and we encountered quite a few screen refresh hiccups when scrolling through lists. It also takes a second for the internal accelerometer to rotate the display when we flip the device upside down. Obviously, we're willing to give it a bit of slack due to the secondary importance of a touchscreen on a MiFi, but given that it's the device's marquee feature, we expected more than just a passable attempt.
+
+
+Setting up the Liberate is fairly painless. Simply pull the tab that separates the battery connection, power it up, and you'll be presented with a handy setup wizard that lets you know the SSID along with the WPA encrypted password. Don't worry if you forget it; just launch the connection details app to get a look at it again. You can also change the password by going to a special website, which is a nice step up security-wise compared to other MiFis with static passwords.
+
+Software
+The Liberate runs on a proprietary Linux platform with a limited set of apps and features. Yet the fact that there are apps on a MiFi at all is pretty exceptional. A status bar tops off the interface, which is comprised of 10 shortcut icons that you can navigate by scrolling horizontally across the screen. With a tap of the finger, you can discover connection details, data usage and a list of connected devices. We found this ability to quickly check data usage quite useful, especially as AT&T does enforce a monthly data cap of 5GB per individual user.
+
+As for settings, you can turn on airplane mode, cellular data or international roaming; adjust screen timeout and screen brightness; enable sound alerts; and even change its WiFi range -- "high" gets it the best distance while "low" saves the Liberate's battery. Security-wise, the Liberate supports VPN pass-through, WiFi Protected Setup, NAT Firewall, anti-CSRF, session timeout, block retry attempts and admin password hash.
+
+Curiously, the Liberate can receive text messages, but you can't send any due to the lack of a keyboard. Thus, the messaging feature here is mostly limited to service alerts from AT&T -- or, you know, the occasional errant text message. The lack of two-way communication feels like an oversight, and it does highlight the weirdness of having messaging on a MiFi at all.
+
+
+

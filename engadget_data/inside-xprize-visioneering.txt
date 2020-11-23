@@ -1,0 +1,110 @@
+
+There have been many critical moments in the history of space exploration -- Sputnik in 1957, Yuri Gagarin in 1961, Neil Armstrong in 1969 -- but if you look back over the history of manned happenings outside of the atmosphere, almost all of these moments were driven by government funds. You have to fast-forward all the way to October 4th, 2004, the moment that pilot Brian Binnie crested at an altitude of 112km in SpaceShipOne, to find a similarly important moment in the history of private space flight.
+
+
+That moment wouldn't have come when it did, and may never have come at all, if there hadn't been some incentive. In 2004, XPRIZE (formerly the X Prize Foundation) paid $10 million to the Scaled Composites team headed up by Burt Rutan and Paul Allen for being first to make two trips to the edge of space in the span of two weeks. That single prize (which didn't come close to covering the team's expenses) ushered in a new era of private space travel and, for XPRIZE founder Peter Diamandis, demonstrated the power of competition.
+
+XPRIZE didn't stop there, and each year it asks for help from some of the world's greatest thinkers, tasking them to decide which of the world's many and myriad problems are ready for solutions. Join us as we take you on the inside.
+
+
+Introductions
+Google vice president and chief internet evangelist Vint Cerf
+I confess to being somewhat nervous walking into the pre-Visioneering mixer that was hosted on the lawn of the overwhelmingly posh Pelican Hill Resort, south of Los Angeles. When I'd been invited to join the weekend's festivities, I was excited. I'd watched every step of the Ansari XPRIZE development and had tuned in to catch all of the SpaceShipOne test flights live. When I learned that I wouldn't just be covering the event as a journalist but would actually be taking part in the Visioneering proceedings, the pressure ramped up.
+
+I'd gone down the list of attendees in the days leading up to the conference, seeing names like Paul Allen and Quincy Jones and James Cameron, and so it was apparent this was going to be a very important weekend full of important people. Indeed I hadn't been at the opening event for five minutes before I was introduced to Naveen Jain, an incredibly successful self-made entrepreneur, who then kindly introduced me to Sprint CEO Dan Hesse, who truly is as genuinely nice and straightforward as those black and white commercials from a few years ago made him out to be.
+
+It was a dizzying evening of shaking hands with powerful people, but I'm happy to say I had an instant icebreaker: Google Glass. Everyone wanted to ask how it worked, everyone wanted to try it on and so, thankfully, it was easy to strike up a conversation with anyone. Okay, Glass, thank you for that.
+
+One person I didn't get to speak with that night? Peter Diamandis, XPRIZE's founder and the man without whom none of us would be there. He was, predictably, a little busy that night, but thankfully I would catch up with him before the weekend was through.
+
+The origin
+As a child, Peter Diamandis obsessed over the idea of getting into space, a drive that helped him win the Estes Rocket Design Competition at age 12. Through the course of his higher education, Diamandis founded organizations at both MIT (Students for the Exploration and Development of Space) and Harvard Medical School (Space Generation Foundation) with the intent of furthering exploration and development beyond the Earth's gravitational influences.
+
+"I did the calculations and statistically my chances of becoming a NASA astronaut were one in 1,000."It's thanks to that motivation and curiosity about what's going on out there that the XPRIZE exists -- that, plus a realistic appreciation for numbers. Diamandis recalls: "XPRIZE came out of a personal passion that I wanted to go into space. I did the calculations and statistically my chances of becoming a NASA astronaut were one in 1,000."
+
+Rather than let fate -- and the whims of an aging space program -- dictate whether he would follow his dream out of the atmosphere, Diamandis decided instead to give the commercial space industry a big kick in the pants. He was inspired by the 1919 Orteig Prize, in which hotel magnate Raymond Orteig offered $25,000 to the first team to fly non-stop from New York to Paris (or vice versa). The winner, Charles Lindbergh, went on to international fame and glory. More importantly, the trans-continental flight industry was born and, over the following three years alone, the number of US airline travelers would increase by nearly 3,000 percent.
+
+Diamandis proposed a similar competition for sub-orbital flight in 1996. With funding from venture capitalists Anousheh and Amir Ansari, plus numerous other donors (including author Tom Clancy and the New Spirit of St. Louis Organization), the $10 million Ansari XPRIZE for Suborbital Spaceflight was launched.
+
+And it was successful. In 2004, Tier One, a team backed by Allen and built on the technology of Rutan's Scaled Composites, completed the requirement of two flights to an altitude greater than 100km by the same vehicle within two weeks. The modern era of commercial space travel had truly begun.
+
+Competitions
+Though the Ansari prize would be the first and remains far and away the most famous XPRIZE, it would be far from the last. There was the Progressive Insurance Automotive XPRIZE, won in 2010 by the Edison2 VLC (which just showed off an EV version) after it managed 102MPG. And of course there's the ongoing Google Lunar XPRIZE, a $30 million collection of prizes for teams aiming to land a robot on the moon.
+
+"We're not interested in creating an historic moment. We're interested in creating a new industry."These competitions are compelling not only for their often dramatic final flourishes, but for the broader impact they make on the world at large. "We're not interested in creating an historic moment," Diamandis told us. "We're interested in creating a new industry." Indeed, with much of the foundation's funding coming from entrepreneurs like Larry Page and Elon Musk, it's hard to ignore the commercial implications of many of these competitions.
+
+Sir Richard Branson stepped in to turn the winning Ansari XPRIZE team into Virgin Galactic. One can imagine that any of the lunar-mining startups would eagerly gobble up the winner of the Google Lunar XPRIZE. But, while the allure of fame and fortune must always be a part of these competitions, there's a strong humanitarian aspect of XPRIZE's work.
+
+
+The Wendy Schmidt Oil Cleanup competition, for example, tasked entrants with greatly increasing the speed and efficiency of current oil cleanup solutions. The winners, Team Elastec / American Marine, developed a solution that was three times faster than anything the industry had previously created. They won $1 million for their troubles. More recently, the fancifully named Qualcomm Tricorder XPRIZE aims to make Bones' favorite tool a reality. Diamandis describes it thusly: "A medical device that any mom could use at 2 AM to diagnose her kid without the need for a physician or a nurse."
+
+It's a tall order, but not an insurmountable one. Nearly 300 teams have pre-registered so far, hoping to take home the $10 million prize and, along the way, completely reboot the field of diagnostic medicine in much the way that J.J. Abrams is rebooting the competition's inspiring franchise.
+
+The combination of a compelling challenge mixed with a financial reward and a shot at global recognition is a potent one. "Our goal is to help innovators innovate," said Diamandis. "To give them attention. To give them capital. To give them excuses to go and do stuff." However, with continued success comes a growing risk: run too many competitions and the "attention" portion of the equation begins to decline.
+
+The signal-to-noise ratio is crucial. In order for XPRIZE to continue generating maximum excitement and publicity, those competitions must be few and they must be far-reaching. With a world full of problems in need of attention, the decision of which to throw the foundation's collective might behind is of vital importance.
+
+Visioneering
+It's the Visioneering gathering I attended that sets the tone for the coming year. Says Diamandis: "Once a year we get together in some location ... We bring together people from around the world, top benefactors, CEOs, heads of industry, heads of government ... and we debate and discuss what the problems should be that we could solve."
+
+This year, over 100 such minds were brought together, an amazing collection of luminaries like Microsoft co-founder Allen, Sprint CEO Hesse, Qualcomm CEO Paul Jacobs and Google VP (and father of the internet) Vint Cerf. Also, me.
+
+
+Sprint CEO Dan Hesse
+This was, quite simply, an awe-inspiring group of people to be surrounded by. Also impressive? How well everyone got along. This is, by and large, a collection of strong-willed individuals who are quite used to getting their way. I've seen companies struggle to maintain momentum with just two CEOs at the helm -- however can you get anything done when soliciting the opinions of dozens?
+
+When in the company of Paul Allen, even the greatest entrepreneurial and charitable achievements aren't worth bragging about.First of all, you have everyone check their egos at the door. That's not a stated requirement of XPRIZE participation but rather a necessary product of the compiled group. When you're in the company of someone like Paul Allen, even the greatest entrepreneurial and charitable achievements aren't worth bragging about. Everyone, then, seemed remarkably at ease -- even Mr. Allen himself.
+
+Secondly, you narrow the focus. Each year XPRIZE creates some specific (though still broad) categories to herd this highly curated selection of cats into a number of predefined buckets. For 2013, these were the available discussion points:
+
+ Aging Behavior Happiness Infrastructure Learning Mobility Security Women & GirlsFinally, you create a structure that encourages teamwork and yet taps into the incredible drive exhibited by so many of the participants. That's no easy task.
+
+The process
+Legendary producer Quincy Jones
+The elevator pitch has been perfected by some to the level of fine art.There are those who can, in 90 seconds or less, win over your heart, your mind and, most importantly, your wallet to whatever cause is being hastily delivered. At Visioneering, the elevator pitch becomes the culmination of a weekend's worth of brainstorming.
+
+What's being pitched? Nothing less than solutions to the world's problems. The overall Visioneering group splits up into the various topics listed above, with each person able to participate in two. Within each topic, ever-smaller groups are formed to tackle more discrete problems.
+
+These problems are sliced into their barest elements before being put back together again into a framework for what could, some day, be an actual XPRIZE competition. For example, in the mobility area, the inefficiency of air travel was identified as one problem area. That was whittled down to airport security and then to scanners at airports. The result? A proposal for a competition to create a system that would double the speed of current airport security checkpoints while also doubling the detection rate of weapons and other banned items and substances. It's no Orteig prize, but it is something we can almost all relate to.
+
+Other proposed competitions included conceptual vehicles that would revolutionize public transport and a Tony Stark-style exoskeleton for seniors. Quite a diverse selection of proposals, the vast majority destined to be discarded through multiple rounds of voting. This is where the elevator pitch comes in.
+
+One or more representatives from each team are selected to give a 90-second speech detailing why their idea is the best and, after all teams presented, the entire group votes for their favorites. Winners move on to the next round, then the next, until just five proposals are left for the final showdown: a high-pressure pitch-off in front of the gathered crowd at the final dinner.
+
+The Mood Ring
+The author on-stage at XPRIZE Visioneering
+I, too, got involved in the pitching. For some reason that I can't quite remember, I'd chosen to join the Happiness group. Perhaps when I was selecting my sessions, I was in a particularly good mood and wanted to find a way to share that with the rest of the world. Or, perhaps it's quite the contrary and I was looking for a little help myself. Either way, during that session we were tasked with the daunting prospect of formulating a theoretical XPRIZE competition that could raise humanity's overall happiness.
+
+After hours of discussion and debate within a group of individuals who all quite naturally had their own concepts of what makes people happy, we finally started to home in on a single idea: you can't manage what you can't measure. If you can't measure happiness, how can you hope to improve it? Thus, the Mood Ring was born.
+
+This theoretical device (which may or may not be an actual ring) would, through a series of biometric sensors, begin to study and track your stress and endorphin levels, effectively developing a personal happiness index. That statistical information would then be augmented by user-provided information, like "Went to the gym at 9 AM" or "Had a big bowl of ice cream after dinner."
+
+The Mood Ring could say that you're much happier on days that you start by going to the gym.That information, combined with your personal happiness index, would allow the device to make behavioral recommendations to improve happiness -- a little like how the Jawbone Up tries to help improve your sleep patterns. It could, for example, say that you're much happier on days that you start by going to the gym, or that downing a venti mocha in the morning gives you a short-term mental perk but will soon leave you lagging.
+
+The team I was a part of believed that this could both help individuals figure out their own mental well-being while also building a global database of information tying behavior to happiness. Beyond that, it would extend the personal fitness device realm (dominated by the Jawbones and the Fitbits of the world) into a powerful new market of mental health.
+
+
+NASA deputy administrator Lori Garver
+We thought it was a great idea for a future XPRIZE competition and I, along with Aaron Harrington of Explore Media 360 (the folks who do many of the 360 view interior business shots for Google Maps), were designated to represent it on-stage. After getting a little pitch coaching from an expert, we refined and honed our presentation, balancing the art of establishing a personal connection with each person in the audience while informing them of the device's global potential. We had less than 30 minutes to refine our pitch, but we ran through it enough times that when it came time to deliver on-stage, our presentation took exactly 90 seconds.
+
+Mood Ring was good enough to make it through two rounds of eliminations and into the semi-finals, but ultimately we didn't have enough to make it in to the final round. Given the groundbreaking potential of those five that did, I didn't mind losing out one bit.
+
+The finalists
+Motivational speaker Tony Robbins via telepresence robot
+Here were the five XPRIZE concepts that were pitched in front of the entire Visioneering group at a gala event on the final evening.
+
+ Meteor of the Mind -- This proposal spoke to the daunting prospect that lies ahead of us thanks to the increasing prevalence of dementia. In a presentation backed by a slick computer-animated short depicting a massive meteor making its way toward Earth (that the team somehow whipped up in a matter of hours), this competition would reward those who can improve the early detection and treatment of Alzheimer's disease. Network -- Pitched by the enthusiastic and well-spoken Kosta Grammatis (who had a hand in the Eyeborg Project and who designed a satellite for SpaceX), this contest would work toward furthering internet access to the developing nations. Grammatis spoke passionately about the power of the knowledge that the internet contains and how easy access to it could help to improve the human condition worldwide. Rainmaker -- A growing world population needs water and attempts at building and enhancing water desalination and purification plants are not keeping pace. This contest, pitched by Eric Hirshberg, the CEO of Activision Publishing, would encourage teams to create systems that could pull vapor from the air, creating a new source for clean drinking water. Game Changer -- The gamification of education has had some notable highs over the years (the Carmen Sandiego series, Oregon Trail), but most attempts at making learning fun have failed. This would be a new one, a contest to encourage game creators and educators to work together and create a new, engaging elementary education system. X^2 the Mother of All Prizes -- This contest proposal was rather different than the rest. Rather than tackling a specific global ill, this contest would change the demographics of XPRIZE competitions and, ultimately, the industries they foster. This would be a bonus applied to any winning XPRIZE team comprised of at least 50 percent women.The idea was to crack, shake and hold aloft the color designated for your favorite project, a procedure that predictably devolved into something of a sort of posh rave -- minus the nitrous oxide and the baby nooks.All great concepts, all delivered skillfully in front of an eager audience. At the end, voting was conducted in an unusual way: glow sticks. The idea was to crack, shake and hold aloft the color designated for your favorite project, a procedure that predictably devolved into something of a sort of posh rave -- minus the nitrous oxide and the baby nooks.
+
+The winner? Well, there were two, as it turned out. The X^2 prize was an overwhelming favorite thanks to its powerful, yet simple concept -- and thanks to another important attribute: it was fully funded. Lynn Tilton, CEO of Patriarch Partners and a noted philanthropist, not only pitched the idea but also pledged to fund it herself. As many would tell me through the weekend, already-funded projects get a definite boost in popularity when it comes time to vote.
+
+The other winner was Meteor of the Mind, an incredibly worthy cause that nearly everyone in the audience could relate to in some way or another. Both teams got a 3D-printed trophy (courtesy of 3D Systems) and the knowledge that their combination of great ideas and onstage presence trumped the rest.
+
+From ideation to execution
+The winning teams of 2013 XPRIZE Visioneering
+Though there's no guarantee that any of the chosen finalists, or indeed the winners, will be turned into future XPRIZE competitions, there is certainly plenty of precedent. The Wendy Schmidt Oil Cleanup XCHALLENGE was born of a Visioneering discussion, and so too the Qualcomm Tricorder XPRIZE -- after receiving a tidy branding makeover from its proposed name of "AI Physician."
+
+Both of this year's winners seem like naturals for inclusion as future competitions and both, we think, could be very successful despite being somewhat atypical of previous XPRIZE successes. Neither would spur the creation of a new industry, and indeed neither will result in the sort of iconic victory moment we saw when Binnie climbed on top of SpaceShipOne and unfurled an American Flag. Nevertheless, both have the potential to bring something very important to the world: hope.
+
+[Photo credits: Chuck Zlotnick, Christine Ciszczon, Don Norris Photography]
+
+

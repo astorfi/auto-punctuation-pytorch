@@ -1,0 +1,21 @@
+
+
+If you ask us, Intel's "Llama Mountain" design -- a PC even thinner than the iPad -- is already pretty futuristic. "Futuristic" might be an inaccurate word, though, considering that thing (or devices like it) will arrive later this year. No, if you want futuristic, you'll have to look toward Intel's next-next-generation chips, slated to debut sometime in 2015. A couple years from now, PCs might be missing cables, ports and even passwords -- not that Intel gets much of a say on that last one.
+
+
+
+Here at Computex, Kirk Skaugen, GM of Intel's PC client business, showed off a reference design called "Skylake," a PC that can charge wirelessly through a table (pictured above), with enough power left over to charge a phone and tablet as well. In particular, the device uses the Alliance For Wireless Power's (A4WP) standard, which now supports laptops and tablets. As it happens -- and forgive the inside baseball here -- Intel is already on the board of A4WP, and just succeeded in getting a few more PC makers, including Dell, Fujitsu and Lenovo, to join the consortium. That means this wacky concept is increasingly likely to come to fruition, what with all the major players gradually getting on the same page.
+
+"Over time, there's no reason to have ports. No reason to have wires."But it's not just charging cables that Intel seeks to eliminate: It envisions PCs without any ports at all. That same Skylake concept used the WiGig standard to connect with a wireless dock, transferring data at up to 7 Gbps. As for hooking up displays, the computer would use Intel Wireless Display to stream content onto TVs and monitors. Then again, though, every modern Ultrabook can already do that.
+
+"Today, there's basically four reasons you have a wire, and remember that Centrino was all about unwiring the Ethernet cable," Skaugen said. "The processor after Broadwell [Intel's fifth-generation Core processors], we'll do reference designs where you literally do not have to hook a cable to your machine, ever. Over time, there's no reason to have ports."
+
+"Our vision, very simply, is we're gonna eliminate all passwords."Not so fast, though: While we're likely to see PCs with wireless charging, wireless docking and wireless displays as early as 2016, the "no ports" thing could still be a ways off. "Like, how long does it take before you're really comfortable getting rid of your Ethernet cable?" asked Skaugen, who said it took him five years after the introduction of Centrino to feel comfortable traveling without an Ethernet cord. In any case, you get his point: If Intel has its way, ports will eventually go the way of the optical drive. And if you look at any modern Ultrabook, you'll see some of them already have.
+
+Ditto for passwords. "Our vision, very simply, is we're gonna eliminate all passwords," said Skaugen, who claims the average US person has 18 passwords. Rather, he says, voice, facial recognition and gesture control will one day be sophisticated enough to count as multi-factor authentication, with a PIN becoming redundant. "We think that with multi-factor authentication, your voice and your face can be enough to authenticate you into the world's most secure websites. Into Windows." Then again, fingerprint readers have been around for years, and yet passwords are in no danger of extinction.
+
+Even if Intel is getting carried away on the security front (and it might be), the wireless charging, wireless docking, wireless streaming PC of Skaugen's dreams seems plausible, if only because all of the core technology is already there, if not already in use. And if it can get enough PC makers on board, laptops without ports -- without a mess of cables -- would be a thing of beauty indeed.
+
+[Image credit: Intel]
+
+

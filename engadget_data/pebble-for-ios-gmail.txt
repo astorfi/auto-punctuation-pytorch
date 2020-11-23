@@ -1,0 +1,4 @@
+
+Pebble owners who've paired their watches with iOS devices have been lagging behind their Android-using counterparts, at least when it comes to email notifications. A new update for the iOS app, available today, is bridging that divide by introducing Gmail and other IMAP account notifications to Pebble. Previously, iDevice owners were limited to the default iOS 6 mail client, whereas Android users could choose between the default option or their Gmail accounts. Version 1.2 of Pebble's iOS app includes a very simple setup for adding Gmail (or generic IMAP) accounts, and alerts will be pushed so long as the Pebble app is running in the background. To download the update, head on over to the source link below.
+
+

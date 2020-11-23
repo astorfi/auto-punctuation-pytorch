@@ -1,0 +1,6 @@
+
+ Another week, another AMD leak about taking it directly to Intel's minimalist Atom. No, not with Bobcat, but with the new Athlon Ultra-Value Client (UVC) series. AMD is targeting the 230 with its 2650e, a single-core 1.6 GHz chip, and the 330 with its 3250e dual-core 1.5 GHz processor. Both have 512KB of cache per-core, matching the competition, but are rated at 15- and 22-watts respectively, much higher than the Atom's miserly 4-watts. It's unclear if that rating is current for just the CPU or the matching 740 chipset as well, but given the fact that AMD's Athlon 64 2000+ is already quite frugal we wouldn't be surprised if it were for the package. There's no mention of price, and right now these chips are just for desktop OEMs, but laptop versions are said to be in the works and could be quite popular amongst the netbook crowd -- if they're cheap enough. 1.2GHz of Turon can do wonders, and we're hoping for even better from 1.6. 
+[Thanks, Luiz H]
+      
+
+ 

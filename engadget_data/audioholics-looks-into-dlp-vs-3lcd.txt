@@ -1,0 +1,5 @@
+
+ Audioholics takes an interesting look at the competition between 3LCD and 3-chip DLP. To simplify things, they focus on FP setups, which seems fair given the current marketplace's love for direct-view sets over RP setups. We'll ignore their portability argument and get to the HT-centric goodness. The real crux of their examination: why are 3-chip DLP projectors so expensive relative to their single chip brethren, and how does this position DLP against 3LCD? We're not big on conspiracy theories of 3-chip DLP being kept artificially high to bolster the sales of commercial DLP solutions, but we'd agree that 3LCD projectors are competitive in both performance and cost. Seems like an opening for a solution with three calibrated single-chip DLP projectors (each handling one color channel) homebrew solution exists; any takers?
+      
+
+ 

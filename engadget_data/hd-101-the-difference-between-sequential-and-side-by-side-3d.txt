@@ -1,0 +1,10 @@
+
+ 
+Sequential transmission to sequential display
+
+Side by side transmission to sequential display
+
+All this 3D is cool and all but it can be difficult to understand all the new formats and as much as people want it, there's no new format war here. In fact the differences in the 3D technologies are more like the differences between 720p and 1080i or LCDs and plasmas. We talked a lot about the differences between circular polarized and active shutter glass systems in our 3D is coming home feature (these two are like LCD vs plasma) but we didn't talk about the ways to store and transmit 3D (kinda of like 720p vs 1080i). There are more than two ways, but since sequential is what the Blu-ray spec and active shutter TVs use, and side by side is what DirecTV announced, we're going to focus on them. Now just like 720p vs 1080i, a signal can be transmitted in either format but still displayed differently on the HDTV. And also like a 1080p HDTV can really only display 1080p images (everything else is converted) a sequential 3DTV can only display sequential 3D, this of course means the TV converts it. In the case of Blu-ray, the video is sent out of the player at 1080p 24 frames per second, per eye; or 48 frames per second. This signal goes to the TV but the glasses are what ensures each eye sees the correct image -- pretty simple right. But for side by side systems like DirecTV is using, a single 1080p frame that holds both the right and left eye's images is sent at 24 frames per second. The TV receives this signal, splits it into two frames, displays them sequentially and then stretches 'em out. Obviously this isn't as good as Blu-ray, but it uses way less bandwidth and makes it so DirecTV can just release a firmware update instead of replacing all the set-top boxes. It is expected that cable companies will use the same technique -- the reason exceptions were added to the HDMI spec -- but even ESPN said it wasn't exactly sure what format it would use.
+      
+
+ 

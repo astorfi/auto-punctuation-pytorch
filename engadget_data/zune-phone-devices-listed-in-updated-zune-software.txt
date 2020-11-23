@@ -1,0 +1,6 @@
+
+ 
+Whoa, what's this? The so-called Zune software maintenance release has a trio of Phone device drivers tucked away inside the Zune.inf file according to Long Zheng over at istartedsomething. And similar to the three devices listed representing the three types of Zunes, we have three Phone.DeviceDesc placeholders for three unannounced (Pink and WinMo 6.x/7?) phones presumably running premium Zune media services. We expect Microsoft will come clean at Mobile World Congress starting February 15th. We'll be there live which means that you will be too.
+      
+
+ 

@@ -1,0 +1,90 @@
+
+Most modern gaming consoles are big, heavy and power-thirsty. They dominate the entertainment centers into which they're placed and suck down hundreds of watts of electricity when they're running. They've evolved this way, growing larger and more powerful to deliver better graphics and more comprehensive gameplay experiences. So too have their talents expanded. It's no longer good enough for a gaming console to simply play games: modern systems have to be complete home entertainment devices. 
+
+Or do they? When the OUYA was announced in July of 2012, its $99 cost was low and its processing power as simple as its premise: a tiny little box designed to be a haven for those who want to play (or develop) good, original games. Many gamers connected with this idea immediately, helping to drive the system to an $8 million run on Kickstarter. Plenty of others didn't, saying this would be just a cheap distraction on which to play mediocre Android games. The truth, as it turns out, lies somewhere in between.
+
+
+
+
+Console 
+The OUYA console is a rather unassuming little thing, as you might expect given it's basically a smartphone in a box with no display. It's a small box, measuring roughly three inches on a side, though it is fractionally taller than it is wide. The lower corners have been rounded off, tapering downward nicely to form a circular bottom with openings for a cooling fan. (Subtle vents can be found in the top as well.) It's a simple, but sophisticated shape that shows Yves Behar didn't just phone it in when submitting his design.
+
+On the front face of the console you'll see the word "OUYA" embossed. Rotate this early Kickstarter edition to the left and you'll find a listing of the top 11 backers, with Markus "Notch" Persson of Minecraft fame sitting at the top. Continue another 90 degrees and you'll find the system's inputs and outputs arrayed vertically on the back, matching the orientation of the circuit board within. On top is an input for the AC adapter; below that are micro-USB and Ethernet ports; then on the bottom are full-sized HDMI and USB ports. (Yes, an HDMI cable is included in the box.) Additionally, the console supports Bluetooth 4.0 and 802.11b/g/n.
+
+
+The top of the console is covered in the same gloss-black plastic as the bottom, slightly raised to present a small, circular power button, which is honestly a little hard to see amidst this dark expanse of polycarbonate. (A significant change from the original concept renders.) Click it and the button lights up subtly as the console powers on, the only visual indication that anything is happening in there.
+
+Inside is an NVIDIA Tegra 3 SoC, with a 1.7GHz quad-core A9 processor, 1GB of RAM and 8GB of internal storage. This puts it on par with many modern smartphones and tablets, a prognosis that won't inspire much confidence among those gamers who crave the latest and greatest in graphics horsepower, but certainly enough to run your typically simple indie game with aplomb.
+
+
+We measured the OUYA at just about 4.5 watts of consumption during gameplay, a little less when sitting idle at a menu.Unsurprisingly, this also makes for a very efficient console. While the PS3 took a lot of heat when it launched for sucking down hundreds of watts of power when playing games, we measured the OUYA at just about 4.5 watts of consumption during gameplay, a little less when sitting idle at a menu. When suspended, the console draws about a single watt, which is the price you will have to pay for being able to instantly resume your game right where you left off.
+
+Controller 
+The OUYA console offers a two-tone dark gray and black color scheme, and so too does the controller. Likewise, it's a rather simple shape compared to most modern gaming system controllers, with few drastic curves or lines to be found. It looks closest to an Xbox 360 controller, but one that's been rather flattened.
+
+On the front you'll find a very similar layout to the 360's controller, with dual analog sticks offset from one another, the left one shifted upward to make room for a d-pad. You'll also find four face buttons (cheekily marked O, U, Y and A going clockwise from the bottom) and a fifth button positioned between the d-pad and right analog stick. This button, marked with the OUYA logo (a circle having the letter U within), will let you return to the OUYA main menu with a double-tap. In some games a single tap serves to pause the current game; in other titles it does nothing.
+
+Move up a bit and you'll find a roughly two-inch-wide flat surface that is a small capacitive touchpad, which can be used to control an on-screen cursor. Finally, four small LEDs are embedded along the top, serving to indicate players one through four.
+
+
+Four shoulder buttons are arrayed much like the PlayStation 3's Dual Shock. The top two are simple, digital inputs while the bottom two are analog triggers, of the sort that fans of racing games will appreciate. Flip the controller over and you'll find... not much. It's a plain, smooth black plastic bottom that is quite comfortable to hold. No stickers, logos or FCC-type branding to get in the way here.
+
+That smooth black plastic extends through the center of the controller as well, but the right and left sides are covered by gunmetal gray plates that, interestingly, can be removed -- the idea being customization-crazy gamers could swap on different ones later. Beneath here you can position one AA battery in either grip (yes, they're included with the console) and, when those cells are inserted, they give the controller a nicely balanced weight.
+
+Swappable faceplates are an interesting idea, but the execution results in what can only be called a design flaw.Swappable faceplates are an interesting idea, but the execution results in what can only be called a design flaw. Each plate is held on by six magnets, making them perhaps a little too easy to remove. We've seen photos from a number of eager gamers who opened up their OUYA box to find one or both controller faceplates loose in the box, which certainly opens the door to damage during shipment.
+
+Another problem is that they don't seem to sit flush. We looked at two OUYA consoles and on one, the left plate would poke out slightly at the top when affixed. On the other, it's the right-most plate that doesn't quite fit.
+
+
+Finally, and most critically, the right plate poses some serious problems to both the right analog stick and the face buttons. When you spin the analog stick around its extent, it catches on the edge of the faceplate. Additionally, we repeatedly had issues with the four face buttons getting stuck beneath the faceplate. It was most commonly the green O button, because that's the one you'll be using most frequently, but all four can and will get stuck.
+
+Lag was a bit of a problem with the controller -- not enough to be noticeable in casual games, but for those requiring more precise timing, it can be a bit of a problem. We're curious to see whether this comes down to this specific iteration of the controller or whether it's something OUYA owners will simply have to live with.
+
+One of our consoles also had a very sticky right analog stick, which, when pushed all the way up, would stay there for a few seconds before popping back to neutral. And, we have to say, we'd have preferred concave surfaces on the top of the analog sticks rather than the convex ones here, but that can be chalked up to personal preference.
+
+Overall, the controller is usable, but it's far from great. Sticky buttons and gummy analog sticks are the sorts of things you wouldn't even tolerate on a cheap, third-party controller and so it's disappointing to find them here on the official unit. This, we hope, is one area that is thoroughly revised before the console ships to retail this summer.
+
+Interface
+The console boots into an interface that's as simple as the design of the console, but offers a vastly different color scheme. Now we move to a white and orange layout that begins with an O in the form of a rising sun and a chant of "OUYA" as the system completes its startup. You're then dropped into a menu with four options: "Play," "Discover," "Make" and "Manage."
+
+In the first, you launch those games you've already downloaded. They're laid out in a row two deep, stretching off to the right of the display. Things can extend quite a ways off once you've installed lots of games, and as of now, there's no way to either move these entries or sort them. Your oldest games will be on the left, newest on the right -- an arrangement, we think, that will prove backwards in the grand scheme of things. There's an option to press Y to search by name, but as of now that doesn't seem to work.
+Searching thankfully does work in the Discover section, which takes you into the OUYA store. There are also a few categories to dig through, like Featured and one called Go Retro that includes a seemingly random subsection of the retro games here. You can also browse by genre if you like.
+
+
+Each game is presented with an image showing its logo -- the modern equivalent of box art. From here you can press the O button to get more information about the title, including a few screenshots and a simple description. Part of the OUYA hallmark is that every game can be downloaded for free, which is nice, but sadly there's zero indication of how much a given game actually costs.
+
+That is, presumably, because many games have vastly different concepts of what you're buying. Some are simply free to play. In Stalagflight, you're asked to buy virtual slices of pizza. Pinball Arcade is free, but asks you to buy tables ($4.99 each). Final Fantasy III, meanwhile, is straight up $15.99. The flexible in-app purchasing options certainly put a lot of power in the hands of developers, but for consumers it could get a little confusing.
+
+Through the Discover interface you can also dive into the Sandbox, where dozens of early alphas and betas of games live. We found a few gems buried in here, but all are very rough around the edges and are all just lumped together numerically. Finding anything worth trying is a crapshoot.
+
+The Make section is for developers, allowing one to download new builds of software, while Manage allows you to modify console settings. Settings are, at this point, incredibly limited. You can't, for example, modify your credit card information, change the output resolution of the console, set any sort of parental controls, change the layout or color scheme or really do much of anything beyond establishing a WiFi connection or pairing another controller. You can, though, dive into the standard Android 4.1 settings page, which is a bit jarring coming from the clean, white and orange interface.
+
+Games
+OUYA indicated 104 games would be available at launch, a number that is quite astonishing when compared to your average big console release. Indeed, there are some very good ones in here, but we must deliver the very important caveat that the vast majority of these titles have already been released elsewhere -- some a very long time ago. If you were looking for original, exclusive, high-quality titles, you won't find many.
+
+That said, if you haven't been making much of an investment in the Android gaming scene already, or don't keep up to date on the indie gaming scene on other platforms (XBLA, Steam, etc.), then you're more likely to find the selection here appealing.
+As mentioned above, pricing is all over the place, but most games can be purchased for less than $5, with Final Fantasy III being the notable exception at $15.99. All games offer some aspect of free playability, whether it's a few free levels to get you hooked or a limited-time demo. Here are a few highlights.
+
+Final Fantasy III - $15.99This is the hallmark title of the OUYA launch and indeed looks and plays quite well. That said, it looks and plays basically identically to the version that was released on Android nearly a year ago, and iOS even earlier than that.Also on: Android, iOS, consoles
+
+Puddle THD - $4.99This simple, physics-based game has you tilting the world to move a puddle of liquid through mazes, avoiding open flames and the like. Graphics are simple and clean, but don't hold a candle to similar console-exclusive titles, like Mercury on the PSP.Also on: Android
+
+Gunslugs - $1.99This is an action-packed side-view shooter that fans of the Metal Slug franchise will probably enjoy so long as they don't mind the pixelated graphics and simplified gameplay.Also on: Android, iOS
+
+Wizorb - $2.99Perhaps our favorite OUYA launch title. This game has been on Steam and iOS for ages, but still hasn't seen a proper Android release. We're glad to see it here, offering a fun mix of RPG gameplay and Breakout-style brick breaking. It's a ton of fun.Also on: iOS, Steam
+
+The BallPortal fans, this is about as close as you're going to get on OUYA for now. This Unreal Engine game is also one of the better-looking first-person titles on the console, but still we're talking graphics more or less on par with 1999's Quake III. It's reasonably fun, if a bit slow, and annoyingly you can't change the controller inversion, but it is completely free to play.Also on: Windows
+
+Syder Arcade - $2.99There are plenty of space shooters and many of the side-view variety in the OUYA store, but Syder Arcade is one of the most fun. Curiously, though, it's priced at $1 more than it is on the Google Play store. (Update: Marco from Studio Evil wrote in to let us know that the OUYA version offers additional features (like custom graphics types) and greater difficulty than the Android release, thus the increase in price.)Also on: Android, iOS, OS X, Windows
+
+Pinball Arcade - $4.99 - $7.99 per tableWith plenty of pinball fans on staff we couldn't resist trying this one out. The pinball layout naturally works a little better on a phone or tablet held in portrait mode than on a 16:9 widescreen monitor, but the gameplay is otherwise identical to the Android or iOS versions. That said, the graphics on the tables don't hold up on a big-screen HD display as well as they do on smaller, mobile displays.Also on: Android, iOS, OS X, consoles
+
+Wrap-up 
+More Info Live from Expand: A conversation with Julie Uhrman OUYA shipping to Kickstarter backers on March 28th The final retail OUYA console is ready, we go hands-onThe version of OUYA shipping now should be considered a beta release, and anyone hoping for anything more is in for some disappointment. It's simply not ready for retail. The system is rough around the edges in many ways, quite literally when regarding the controller, but the interface and menus also could use work.
+
+And then there is, of course, the game selection. There are quite a few titles here worth playing, but virtually all of them have been seen elsewhere in one form or another, which makes the initial offering a bit hard to get excited about. Additionally, the vast majority are what we'd broadly call "mobile" games: simple experiences and simple graphics that are fine for casual play, but lack the kind of immersion you might want when you get settled in at home on your couch.
+
+So, is the OUYA a revolution in console gaming? No, it isn't -- not yet. But it's early days still. As of this writing there are roughly two months until the system launches at retail -- time enough, we hope, to flesh out the interface, fix the controller and maybe, just maybe, line up a few new games worth getting really excited about. We'll be back with a full review of that version when it ships.
+
+Ben Gilbert, Edgar Alvarez and Zach Honig contributed to this review.
+

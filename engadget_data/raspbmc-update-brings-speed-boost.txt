@@ -1,0 +1,7 @@
+
+Two months have passed since we last saw an update to the Raspberry Pi port of XBMC, but the tail end of September finally delivered some fresh code. Chief among the changes is a speed boost that makes browsing media libraries on Raspbmc much smoother and snappier. With the new software onboard, boxes now have a bevy of bugs fixed, boast support for Windows Media Center PVR and have a Wake On LAN feature for flipping on remote hardware before XBMC starts. Creator Sam Nazarko notes that folks who rely on AirPlay shouldn't upgrade to iOS 7, as it could introduce some hiccups. Visit the source for the full changelog, or restart your machine to snatch the latest release. If you're wondering just how much pep your Raspberry Pi will get, hit the break for a demo video.
+
+
+
+
+

@@ -1,0 +1,5 @@
+
+
+Now that we know about the Heartbleed bug that allows access to sensitive internet data usually locked down by OpenSSL encryption, Google is of course one of the internet services hard at work applying fixes. The folks in Mountain View announced today that main services like Apps, App Engine, Gmail, Play, Search, Wallet and YouTube are already patched. There's no need to worry about Chrome or Chrome OS, as those two bits of software aren't affected by the vulnerability. Android is almost there, as all versions of the mobile operating system are immune to the security flaw save for 4.1.1. For that lone exception, Google says patching details are being sent to its partners for distribution. While the key bits have been secured, there's ongoing work to update other services like Cloud SQL, Google Compute Engine and others.
+
+

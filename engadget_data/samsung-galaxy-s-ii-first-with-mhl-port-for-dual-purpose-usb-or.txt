@@ -1,0 +1,9 @@
+
+ 
+There's a small but important fact about Samsung's newest Android flagship that slipped under our radar last week at Mobile World Congress. The Galaxy S II is the first smartphone to feature an MHL port. MHL, as you'll recall, was first announced in 2008 as the Mobile High-Definition video Link "standard" for mobile devices promoted by a consortium that includes Nokia, Samsung, Toshiba, Sony, and Silicon Image. So yeah, another mobile interconnect standard just like DisplayPort, mini-HDMI, or Light Peak. Essentially, the micro-USB shaped MHL jack at the base of the Galaxy S II features internal circuitry that recognizes USB or MHL impedance and then automatically switches the phone into USB data / charging or MHL audio / video / charging modes. A special 5-wire micro-USB to HDMI cable lets you send video and audio to existing HDMI-equipped displays. Unfortunately, the TV won't charge the Galaxy S II during playback unless you insert a phone charger adapter between the GSII and TV or wait for MHL-enabled TVs to begin shipping later this year. Once connected, you can then use your TV's HDMI-CEC compatible remote to navigate and control the Galaxy S II's media interface. The GSII is just the first MHL device with a half-dozen phones, at least one tablet, and a few TVs coming this summer. More details are available in the video interview after the break.
+      
+
+ 
+
+
+ 

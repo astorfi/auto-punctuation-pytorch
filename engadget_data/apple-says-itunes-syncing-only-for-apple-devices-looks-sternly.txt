@@ -1,0 +1,6 @@
+
+ 
+Looks like Apple's response to the Pre's support for iTunes syncing is starting to take form -- a snippy little note titled "About unsupported third-party digital media players" was just posted to the company's support site. The money quote:  Apple does not provide support for, or test for compatibility with, non-Apple digital media players and, because software changes over time, newer versions of Apple's iTunes software may no longer provide syncing functionality with non-Apple digital media players. Here's where it gets interesting: since the Pre identifies itself to iTunes as a bog-standard iPod, Apple would have to actively code in a USB node check to actually block syncing, which is just a little bit more aggressive than the "software changes over time" mentioned here. We'll see if Apple decides to engage in a cat-and-mouse with a company now run by the former head of the iPod division -- we've got a feeling this could get messy.  [Via Daring Fireball]
+      
+
+ 

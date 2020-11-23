@@ -1,0 +1,12 @@
+
+ 
+Rest assured that we're working on a full analysis of the FCC's major net neutrality decision today, but the Commission hasn't actually released the full text of the order yet, and we just came across something in the press release we wanted to break out: one of the specific reasons the FCC gives for regulating wireless broadband more lightly than wireline is the release of Android. Seriously -- the release says that only "measured steps" to regulating wireless are necessary because "open operating systems like Android" have been released, and that it wants to see how Verizon and other 700MHz spectrum winners handle the hotly-contested openness requirement when building out 4G. Here's the full quote:
+Further, we recognize that there have been meaningful recent moves toward openness, including the introduction of open operating systems like Android. In addition, we anticipate soon seeing the effects on the market of the openness conditions we imposed on mobile providers that operate on upper 700 MHz C-Block spectrum, which includes Verizon Wireless, one of the largest mobile wireless carriers in the U.S.
+
+In light of these considerations, we conclude it is appropriate to take measured steps at this time to protect the openness of the Internet when accessed through mobile broadband.
+Now, we obviously love Android, and there's no doubt that Google's OS has been part of some wonderfully furious competition in the mobile space recently. But we're not sure any of that has anything to do with net neutrality -- it doesn't matter how open your OS is when you're stuck with a filtered and throttled connection, and it's a pretty huge stretch to think Android's openness (however you want to define it) has anything to do with network access itself. And let's not forget that the primary proponent of the 700MHz open-access rules was Google, which promptly flip-flopped on the issue when it became Verizon's policy BFF after the Droid launch -- if we were slightly more paranoid, we'd be pretty sure there's a link between the FCC's Android mention and the combined furious lobbying of Google and Verizon. Nice try, boys -- but how about you make with the actual rules now?
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

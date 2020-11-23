@@ -1,0 +1,12 @@
+
+ 
+ As neat as the Kindle Fire HD already is, just a few dinky tweaks could turn it into so much more -- a platform for true physics-based gaming, for example, or even for surprisingly fast photo manipulation. How come? Because both the 8.9-inch and 7-inch versions of the Android-based slate come with a graphics engine that can handle OpenCL acceleration. It certainly won't work out of the box, but Amazon has been working quietly with Imagination Technologies -- the folks behind the tablet's PowerVR GPU -- to try it out. The demo after the break is subtle, perhaps, but it's fluid, detailed and goes far beyond anything that a stock device can achieve. It also proves that, in certain circumstances, OpenCL has the power to boost frame rates by 50 percent while simultaneously lowering power consumption by the same proportion. Read on for more.
+
+
+
+ 
+ For those who don't recall (or who missed our recent Primed article on the subject), OpenCL is a programming language that allows game and app developers to do weird and wonderful things even on relatively low-powered devices, by offloading computational grunt work from the CPU to the under-used, highly parallel GPU. That's exactly what's demoed on an 8.9-inch Kindle in the video above.
+
+ As far as we know, Amazon has no immediate plans to implement OpenCL on the Fire HD, unfortunately, although the prototype may well represent a desire to make that happen one day. For its part, Imagination explained to us that the main thing holding mobile device manufacturers back from OpenCL is fear: the fear of giving third-party devs too much control over the GPU too early on, with the risk of devices becoming bricked or unstable. Imagination reckons that the popularity of mobile OpenCL adoption will grow during 2013 but won't take off properly until the year after. In any case, much respect to them and Amazon for getting experimental.
+
+

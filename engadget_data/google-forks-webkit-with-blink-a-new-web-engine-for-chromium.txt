@@ -1,0 +1,5 @@
+
+ You could call WebKit the glue that binds the modern web: the rendering engine powers Apple's Safari, Google's Chrome, and many mobile browsers past and present. Things are about to unstick a little. Google believes that Chromium's multi-process approach has added too much complexity for both the browser and WebKit itself, so it's creating a separate, simpler fork named Blink. Although the new engine will be much the same as WebKit at the start, it's expected to differ over time as Google strips out unnecessary code and tweaks the underlying platform. We'd also expect it to spread, as the company has confirmed to us that both Chrome and Chrome OS will be using Blink in the future. We're safely distant from the Bad Old Days of wildly incompatible web engines, but the shift may prove a mixed blessing -- it could lead to more advancements on the web, but it also gives developers that much more code to support.
+
+ Update: The Next Web has confirmed that Opera, which recently ditched its Presto engine for Webkit, will indeed be using Blink as it's already hitching its proverbial wagon to Chromium.
+

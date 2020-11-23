@@ -1,0 +1,37 @@
+
+ Autonomous fish might make great leaders, but it turns out that robot flippers are a huge drain on battery life. Not a problem for Xiaobo Tan -- he and a group of Michigan State University scientists have built a robotic fish that glides through the water. Tan says the machine, dubbed Grace (Gliding Robot ACE), swims too , but the constant flipper movement can kill the battery in just a few hours. "This is why we integrated both locomotion modes," he explained. "Such integration allows the robot to adapt to different environments, from shallow streams to deep lakes." Grace is designed to scour lakes and rivers for data to help cleaning efforts, and older prototypes have successfully found traces of crude oil in once spoiled riverbeds. The redesigned robot looks more like an airplane than a fish, but it's hard to argue with results -- the team says Grace should be able to glide through the water almost indefinitely. Check out the team's press release after the break.
+
+
+
+  Show full PR text   New robotic fish glides indefinitely
+   New design saves energy
+
+   IMAGE: A team of Michigan State University scientists has developed a robotic fish that can swim and glide long distances while gathering data such as water quality and temperature.  Click here for more information.
+
+   A high-tech robotic fish hatched at Michigan State University has a new look. A new skill. And a new name.
+
+   MSU scientists have made a number of improvements on the fish, including the ability to glide long distances, which is the most important change to date. The fish now has the ability to glide through the water practically indefinitely, using little to no energy, while gathering valuable data that can aid in the cleaning of our lakes and rivers.
+
+   Designed and built by Xiaobo Tan, MSU associate professor of electrical and computer engineering, and his team, the fish is equipped with an array of sensors that not only allow it to travel autonomously, but also measure water temperature, quality and other pertinent facts.
+
+   "Swimming requires constant flapping of the tail," Tan said, "which means the battery is constantly being discharged and typically wouldn't last more than a few hours."
+
+   The disadvantage to gliding, he said, is that it is slower and less maneuverable.
+
+   "This is why we integrated both locomotion modes – gliding and swimming – in our robot," Tan said. "Such integration also allows the robot to adapt to different environments, from shallow streams to deep lakes, from calm ponds to rivers, with rapid currents."
+
+   The robot's ability to glide is achieved through a newly installed pump that pushes water in and out of the fish, depending on if the scientists want the robot to ascend or descend. Also, the robot's battery pack sits on a kind of rail that moves backward and forward, in sync with the pumping action, to allow the robot to glide through water on a desired path.
+
+   The robotic fish now has a name: Grace, which stands for "Gliding Robot ACE."
+
+   Late last year Tan and his team took Grace for a test drive on the Kalamazoo River, where it exceeded all expectations.
+
+   "She swam at three sites along the river and wirelessly sent back sensor readings," Tan said. "I'm not sure, but we may have set a world record – demonstrating robotic fish-based sampling with commercial water-quality sensors in a real-world environment."
+
+   The Kalamazoo River is, of course, the site of a 2010 oil spill. Interestingly, the robot's crude oil sensor had some readings upriver from where the spill occurred, although the readings downstream from the spill site were higher.
+
+   Underwater gliders, or seagliders, are becoming more common in oceanography. In fact, one traveled all the way across the Atlantic Ocean in late 2009.
+
+   One major difference in Grace is that, aside from its swimming capability, it is about 10 times smaller and lighter than a commercial underwater glider.
+
+ 

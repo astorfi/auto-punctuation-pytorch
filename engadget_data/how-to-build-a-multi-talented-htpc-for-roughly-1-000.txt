@@ -1,0 +1,78 @@
+
+ 
+  More Info   Our $1,000 HTPC build from 2009  The one from 2006  Something completely different  This is an auspicious year for building an HTPC or indeed any type of sub-$1,000 rig. Intel's new Ivy Bridge processors are about to exert a nice downward pressure on last year's finest, despite the fact that Sandy Bridge still holds up well for many people's needs -- and much the same can be said of AMD's Llano APUs following the arrival of Trinity. In fact, thanks to the market's regular churn, the HTPC parts we look at after the break could easily fall below their $1,019 total bill before you even pick up your screwdriver. (Okay, so we went slightly over $1,000. It's a free country.)
+
+ On the other hand, you'd have to be mildly loopy to drop serious cash on a PC that's solely for media consumption. Times have changed since our last build in 2009, and they're unrecognizable compared to the time before that. These days, even ARM-powered smartphones can handle 1080p in and out, nettops with Blu-ray drives can be had for $500 and even totally silent fanless HTPCs are available for around $1,000 (albeit with very modest specs). From that perspective, this might actually be a terrible time to persuade people that spending a grand on a plain old home-built HTPC makes sense -- and that's why, after the break, we're not even going to try.
+
+
+
+ Components  
+ So, our $1,019 HTPC suddenly seems obscenely expensive in the year 2012, which means it'll have to work twice as hard to prove its mettle. Just how will it do that? By returning to the fundamental idea of what a do-it-yourself rig is all about: spending money only on the stuff you want, ignoring the bits you can live without and -- most importantly -- future-proofing the whole thing so that it can keep pace with your most unexpected whims.  What if we later decide to add an ever-cheaper SSD to speed things up? Or shove 5TB of storage into the chassis and use it as a NAS? Or buy a graphics card and a Logitech wheel for some racing action in the living room? By rights, a DIY rig ought to cut off none of these options. So, with that mind, let's pick some components. (Big thanks to QuietPC.com for loaning us the products.)
+
+ 
+   Chassis -- This PC will need to be powered all day long to record TV shows, let us remote in from the beach, backup files, stream music and take care of a billion other chores. Fractal's Define R3 has been around for a while, but it has a solid reputation and comes with dampening foam and a fan controller. If you can't get hold of the R3, then the H2 from NZXT takes a very similar approach.
+
+ Power supply -- Our budget won't stretch to a totally fanless build that delivers everything we want, but we can still minimize noise with a fanless PSU. Seasonic's SS-400FL is expensive compared to regular power supplies, but it'll deliver stable wattage while contributing precisely zero extra decibels to your living room.
+
+ Processor -- Fair enough, AMD's Llano A8 chips are a great choice for an HTPC that will only ever be used as an HTPC, and indeed we list them as a good budget option further down this page. But for now we're aiming high: we want an Intel Core i5-2500K that delivers superior CPU power, overclockability and its own HD 3000 integrated graphics. We'll be bound to its stock cooler for now, but we're familiar with it and we know it's not too whiny. In the future, a $40 third-party cooler could allow us to push those overclocks further.  Motherboard -- Overclock an HTPC? Hell, yeah. Why pay the full price for a processor and then not push it to the max? The Z68 chipset allows for this, but unlike the P67 it also lets us use the Core i5's integrated graphics, which is essential since we're not yet investing in a graphics card. The Gigabyte GA-Z68-UD3H-BA is nice and tough (albeit not "military-grade"), which means it stands a greater chance of surviving drops, elbows, and elbow-drops during installation.  HDD -- We actually have a Seagate Momentus XT hybrid drive that we'd love to use in this rig, but the $180 price tag is just too toppy. Instead, we put in a regular Samsung 1TB HDD for $110. And we still feel ripped off, but we'll get to that later.  RAM -- Back in 2009, we spent $26 on 4GB of DDR2 RAM. This time we're getting 8GB of Crucial's XMS DDR3 for $49, but if you check back at Newegg occasionally you may well spot a $20 rebate offer.  Tuner -- This depends on your geography. We built our rig in the UK where the tuner market is less healthy and uses different broadcast standards, but Engadget's US-based HD team will happily recommend the Hauppauge CableCARD USB tuner for pay TV, or the slightly pricier HDHomeRun for ATSC/ClearQAM. If you absolutely insist on keeping the price down, then a regular PCI Express tuner can be had for around $65.
+
+ Controllers -- We snatched the keyboard and mouse from an older PC to save costs. Once the PC was set up, we switched to mainly using Windows Live Mesh (free) for controlling the desktop from our main laptop, plus the Remote Kitten app (also free) for controlling Media Center using an iPhone. SplashtopHD is also very useful, but it's not free.
+
+       Product
+
+    Shopping   Lowest Price        Fractal Define R3
+   Shop!  $109.99      Intel Core i5-2500K
+   Shop!  $219.99      Gigabyte GA-Z68X-UD3H-B3
+   Shop!  $129.99 (after rebate)        Corsair XMS3 8GB
+
+   Shop!  $48.99      Samsung F3 1TB
+   Shop!  $109.99        Samsung SH-B123L Combo
+
+   Shop!  $71.41      Hauppauge CableCARD tuner
+   Shop!  $98.99      Seasonic SS-400FL PSU
+   Shop!  $129.99      Microsoft Windows 7 Home Premium
+   Shop!  $99.99   Installation 
+ If you've built a PC before, then there's nothing unusual here -- these are all regular parts that fit together in the normal way. If not, then it's probably best to get a friend to help out, but in the meantime here's a quick summary of the build:
+
+  The PSU went into the case with a couple of screws.  We put the motherboard on a desk and loaded it up with the CPU, a good dollop of thermal paste and the stock cooler. We also put in the RAM.  The Fractal case comes with everything you need. We put in the motherboard holders, then the mobo itself and finally the secondary screws to hold it in place.  We connected the intake and exhaust fans to the fan controller, which sits in one of the PCI slots. Fractal's bundled controller lets you dial the fan speed right down if CPU temperature is low, and lower RPM means less noise.  The optical drive and HDD went in next, each getting their power connections from the PSU and their SATA connections (3Gb/s for the Blu-ray, 6Gb/s for the HDD) from the motherboard.  The fiddliest connections are always the case controls -- connecting the power button, reset button, etc., to the motherboard. We deliberately left out the LED case light connection, because we want it to be as discreet as possible.  No point in putting the case sides on until you know everything's working okay. We plugged Ethernet, HDMI, optical audio, tuner, mouse and keyboard into the back of the case and then switched on to make sure we saw the boot-up screen on the TV. We also checked that the fans were running properly. Then the sides went on, significantly reducing the noise. If you're going to get electrocuted, make sure it happens now rather than after you've wasted time installing software, etc.  The Windows 7 boot DVD went in and once that was installed, we moved onto the motherboard and tuner card drivers. We then ran Windows Media Center and scanned for TV channels. Daily operation The HTPC ran nice and quietly, which was a relief seeing as how the case and fanless PSU forced us to make major sacrifices in other areas. Idle noise was 35.1dBa, which was only a couple of dBs above background noise in the living room. This noise consisted mainly of the high-pitched whirr of the CPU fan, but it was barely noticeable -- to the point where if you got distracted, you'd have to re-focus your concentration just to make out the sound.
+
+  A battered MiniDisc player functioned as our DAC
+
+ For comparison, an old Dell business desktop gave us 41dBa at idle, a PlayStation 3 gave us 42dBa and an original Xbox 360 (not Elite) gave us 47.8dbA. It's said that a 10dB gain is perceived by human ears as a doubling of volume, which seems about right -- the Xbox sounded far louder than our HTPC. When listening to music, the sound of the PC was obliterated by a battered old Sony amp and speakers plugged into the motherboard's optical port via an equally battered MiniDisc player with optical-in that functioned as our DAC.
+
+ 
+ So far so good, but what about when the drives are utilized? Heavy HDD use gave us 40dB, while accessing HDD and spinning up a Blu-ray took this to a deafening 50dBA. Luckily, once a disc was loaded and running, sounds from the drive ceased almost completely and overall system noise remained close to the idle level while actually playing a movie -- the Samsung SH-123L was impressive in that respect. Nevertheless, the Samsung HDD was a disappointment considering how much it cost us: it was too clacky and louder than a 5,400RPM drive ought to be.
+
+ 
+ A couple more stats before we move on: idle system power hovered around 44W, rose to 55W for live TV and 80W when playing Supreme Commander 2. CPU temperature stayed around 30 degrees Celsius and only rose to 40 degrees after an hour-long bout of Medieval II: Total War (played with a mouse on a cushion -- not ideal, but still fun.) That leaves plenty of headroom for overclocking later via the BIOS, or using Gigabyte's EasyTune6 utility if you can get it to load up (we couldn't). The Windows Experience Index came out at 5.9 -- hampered by the HDD.
+
+  In terms of real-world tasks, we weren't left wanting
+
+ In terms of real-world tasks, we weren't left wanting. Windows Media Center handled recording and watching 1080i TV channels (using the terrestrial Freeview HD service in the UK) with no issues. Dropbox, Windows Live Mesh, Splashtop HD, Spotify, Logitech Media Server and other apps ran simultaneously behind Media Center and other apps without stressing the system. We didn't really test PC gaming (beyond Medieval II and a bit of Supreme Commander 2) because this set-up has no couch-friendly controller to make that a sensible option. Nevertheless, we did run a few Wii and N64 games quite happily using the Dolphin emulator running with a WiiMote, a third-party IR bar and a Bluetooth adapter for the PC.
+
+ 
+ Remote Kitten was a mixed blessing as a Windows Media Center controller. The app worked 90 percent of the time but had to be restarted occasionally when it failed to connect -- no fun when you're missing your favorite show. We tried a couple of Android alternatives but found that they were deeply unfriendly in comparison and not worth the hassle -- ready money awaits anyone who can improve the current dearth of easy-to-use WMC controllers in Google Play. In contrast, Windows Live Mesh and SplashTop HD ran like a dream and made it easy to access and control the computer from a Windows laptop, Macbook Pro, HTC Flyer and various Android smartphones. The only downside was the fact that SplashTop still isn't compatible with full-screen apps, which made it useless for controlling Media Center. Surely they can fix that?
+
+ Budget options We can't skimp on the case, PSU, tuner, storage or optical drive without dooming the project, but other areas are open to cost-cutting: everything from the amount of RAM to the OS.
+
+ The biggest savings can be made by switching to AMD and its successful Llano APU -- seeing as Trinity components won't be available for a while yet. An A8-3870K costs just $130, and an Asus F1A75-V Pro FM1-socket motherboard adds another $110. That's a $170 saving compared to our Intel options, with significant CPU sacrifice but little graphical sacrifice, and still plenty of guts to handle many simple HTPC tasks.
+
+  The biggest savings can be made by switching to AMD
+
+ Likewise, if PVR functionality is your main concern, you may as well save another $99 by giving up on Windows and switching to Linux and XBMC -- there's a full how-to right here, and also check out the More Coverage link below.
+
+ 
+ Bling The smart choice is to add a 120GB SanDisk Extreme SSD to complement your HDD, reduce platter clatter and speed up overall performance. Alternatively, skip the main HDD and go for a 750GB Momentus XT hybrid as your primary drive -- although you will run out of space and need to buy more at some stage.
+
+ Next, we'd pawn the kid's stroller to pick up a decent low-power graphics card -- at least a Radeon HD 7770 at $170 in order to play F1 2011 with a wheel off eBay (if anyone is actually selling a Fanatec).
+
+ We'd also be in the market for a better HTPC controller, but other than the ancient Logitech DiNovo Edge or Veho's interesting take on the subject, this segment of the market looks pretty sparse.
+
+ Update: Forgot to mention, seeing as money is no longer an issue we may as well swap the tuner out for the wonderful Ceton InfiniTV 4 at $200.
+
+ Wrap-up 
+ After a couple of months using this setup as a primary PC, PVR, Blu-ray player, music hub and network storage, it's been hard not to become totally enamored with it. By virtue of its flexibility and central position in the house, it had emergent benefits that we never expected but quickly became reliant on: like the ability to store TV programs as regular video files that can be immediately copied across to a mobile deivce, or load up the odd game of Legend of Zelda: Windwaker when no one is looking, or editing a document on the big screen so that others in the room could agree or disagree with each change.
+
+ No doubt there's room for improvement. The HDD choice wasn't great, the case may be too large for some, and there will definitely be folks out there who'd prefer to sacrifice power and expandability for the sake of a fanless system. If you'd like to recommend different choices, or ask us to try out a different component (a fanless cooler perhaps?), or even if you think our whole philosophy on this build is out of whack, feel free to let us know.
+
+

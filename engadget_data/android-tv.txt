@@ -1,0 +1,26 @@
+
+ 
+
+Google's already well-acquainted with the living room, having launched its Google TV platform at the I/O conference four years ago. It's safe to say the set-top box software has fallen out of favor (with all but Sony, anyway), and Google's been experiencing more success of late with its simpler Chromecast dongle. Well, today the search giant's revealing its next play in home entertainment with Android TV, a brand-new platform that's part of Android L, and it's bringing Google's OS back to the big screen.
+
+
+
+
+
+
+
+
+Much like on Apple's set-top box or Amazon's Fire TV, Google's platform is a convenient front-end for it to plug video content from its own collection, in this case the Play store. It runs apps from other content providers like Netflix, of course, and allows you to pump live TV through the interface (SiliconDust's TV tuners will work, and were used for the onstage demo) as well. Anything running Android TV will have the same functionality as a Chromecast, so you'll be able to push content from your other devices to the TV exactly as you do with the dongle. Google Cast itself is being updated with direct screen mirroring, among other things.
+
+Even closer to Amazon's effort, Google intends Android TV to be not just for passive media consumption, but gaming as well. Different Android devices can be connected to your TV simultaneously to act as controllers. If you're watching rather than gaming, then any Android phone, or smartwatch running the Wear platform, can be used as a remote.
+
+
+Android TV features a simple and familiar card-based UI that naturally focuses on visual information (displaying movie posters, for example). The home screen floats on top of the content you're currently playing, bringing that feeling of depth that's key to Google's new Material Design language. Google's services and personalized recommendations are prominent, and voice search and navigation are included to make finding consumables, or anything else, as easy as saying it from the sofa. Apps and content can organize themselves across your home screen dynamically, based on your recent usage patterns.
+
+With a special Play store experience just for the big screen, Android TV will be launching later this year alongside the Android L release, and various hardware partners are already on board. Next year's smart TV ranges from the likes of Sharp and Sony, among others, will have the Android TV platform built in. And, if you don't fancy buying a whole new set, Razer, ASUS and others will be making set-top boxes-slash-consoles. Google's also got a dev kit for those eager to get working with the SDK right away, which, in Android L, is the same one for tablet and smartphone form factors, too.
+
+
+Google's second shot at the big screen certainly looks promising, and the inclusion of Chromecast-like functionality taps into everything people loved about the inexpensive dongle. Some high-profile AV hardware partners right out of the gate can't be a bad thing either, but with so many other hardware and software options saturating the space, there's still plenty of competition to challenge widespread adoption.
+
+
+ 

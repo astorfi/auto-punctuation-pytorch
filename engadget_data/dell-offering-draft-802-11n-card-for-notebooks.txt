@@ -1,0 +1,5 @@
+
+ Like many consumers, Dell is getting a little sick of waiting around for the IEEE's Task Group N to pull it together and roll out a final version of the next-gen WiFi standard, so the company has decided to start offering its own draft-802.11n card in all XPS and select Inspiron laptops. As you're probably already aware, 802.11n will be a wireless networking protocol that uses MIMO technology to offer greater range and speed than traditional 802.11a/b/g networks, but has been famously bogged down by delays and questions of interoperability. Dell's implementation comes in the form of its redundantly-named Wireless 1500 Draft 802.11n dual-band wireless card, which utilizes Broadcom's Intensi-fi flavor of draft-N -- available in such products as Netgear's RangeMax Next lineup -- to provide those desirable performance boosts. Usually we'd recommend that you wait to take the plunge until the dust settles and a final standard is announced, but since that may not happen in our lifetimes and Dell's backwards-compatible card is only $59 (or less, plus the cost of a router), it doesn't sound too risky to give this option a try.[Via Notebook Review]
+      
+
+ 

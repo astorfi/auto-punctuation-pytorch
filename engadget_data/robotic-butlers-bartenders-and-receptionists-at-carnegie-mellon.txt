@@ -1,0 +1,18 @@
+
+ At school like Carnegie Mellon, it sort of figures that you'd find robots just about everywhere, performing the sorts of tasks we've traditionally left to us more fleshy types. In the two days we've spent on campus, we've seen 'bots do just about everything -- some far more autonomously than others. Take Roboceptionist -- the robotic secretary was one of the first intelligent beings we encountered upon arriving on the premises, artificial or otherwise, greeting us from a wooden kiosk near the entrance to Newell-Simon Hall.
+
+ The receptionist's creators named him Marion "Tank" Lefleur -- but don't call him "Marion." It's really a sort of a "Boy Named Sue" scenario, and calling him by his birth name is a surefire way of getting on his bad side. When he's not getting irritated, Tank's tasked with helping you find things on campus -- people, halls, food -- by way of a small keyboard. He's got a surprisingly complex backstory that informs his answers. Ask him how his mom and dad are doing and you're bound to get some fairly bizarre responses -- same with more straight forward questions about finding a place to eat on campus, for that matter.
+
+
+
+
+ 
+ Tank's not the first Roboceptionist to to greet visitors at the entrance to these hallowed halls, taking to reigns from Valerie, who, according to her makers "is on the road with her Streisand cover band." Tank's creators put him out front to help increase real world engagement, though they've discovered that such interactions tend to be extremely short lived in such a scenario, and as such are hard at work on GameBot, a robot placed in a nearby lobby that challenges students to games of Scrabble -- though he, unfortunately, isn't quite ready to be shown off here.
+
+ 
+ Then there's HERB -- that's Home Exploring Robot Butler -- who's been busy at work cooking TV dinners in a corner kitchen on campus for a few years now. HERB's got two Barrett WAM arms perched atop a Segway bottom and image and range sensors that help him navigate around the Carnegie kitchen. He'll open the microwave, drop food in, cook it up and deliver it to you. HERB's an attempt to bring robot automation to a home setting, but it's clear from the demos we saw that he's still got a ways to go before we're ready to let him handle our Hungry-Man dinners.
+
+ 
+ If there's one major issue with the Search-based Planning Laboratory's Robotic Bartender, meanwhile, it's speed. The lab is utilizing Willow Garage's diverse PR2 'bot to serve up snacks and refreshment. Visitors to the lab can choose a beverage -- Coke or Sprite -- on a tablet, and the robot will go to action, grabbing a can in one hand and some graham crackers in the other, utilizing its laser range finders and array of seven cameras to build a 3D map of the room, so it doesn't bump into anything as it goes about doing its job -- as evidenced by the sped up video above, however, this guy won't be replacing the real thing any time soon. It also hasn't quite mastered the fine art of mixology.
+
+

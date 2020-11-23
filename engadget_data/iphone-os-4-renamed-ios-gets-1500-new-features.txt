@@ -1,0 +1,14 @@
+
+ 
+We knew it had to happen eventually -- iPhone OS has been renamed to iOS with the bump to version 4. Some 1500 new features are coming along with the name change, including biggies like multitasking, a unified inbox, app folders, and data detectors. Although Apple is encouraging devs to tweak their apps for the iPhone 4's new Retina Display, iOS4 will also automatically redraw text and controls for existing apps to make them play nice with the new higher pixel density. Bing search integration has also been added to iOS 4 in addition to Google and Yahoo -- Google is still the default, though. The golden master is available to devs today, and Steve says the 100 millionth iOS device -- that's iPhone, iPod touch, and iPad -- will be sold sometime this month. That's a lot of devices! We found out about most of the features of iOS 4 at the SDK event, so check here for the full rundown.
+
+Apple says iOS 4 will arrive for the iPhone 3G, 3GS, and the iPod touch on June 21 -- and it'll be free to iPod touch owners for the first time, which is nice. Not all features will be supported across all devices: the first-gen touch is left out entirely, and the 3G won't do multitasking, as we heard at the SDK event. We'll see if there are any other limitations and let you know.
+
+Amusingly, an iOS trademark is currently owned by Cisco -- just like the original iPhone trademark -- so we'll see if Apple's lawyers actually called ahead this time around or if they'll have to fake-tussle and make nice again.
+
+
+
+
+
+
+Check out more from WWDC 2010 in our liveblog!

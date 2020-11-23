@@ -1,0 +1,5 @@
+
+ 
+A handheld device with two screens isn't nearly the radical notion it once was, but Microsoft Research's Ken Hinckley seems to think there's still plenty of untapped potential with the idea, and he's actually taken things so far as to build an actual prototype device. As you'll notice, however, he didn't exactly build the so-called "Codex" from scratch, choosing instead to use two OQO Model 02s and folding case to hold 'em together. That, notably, lets him arrange the two screens into various positions that he calls "postures," like a laptop posture (which also lets him take advantage of the OQO's sliding keyboard), or a "battleship posture" that gives two people sitting across from each other their own screen. The big idea there being that the device adapts to different tasks, and actually uses the dual screens as two screens as opposed to one large screen. As should be clear, however, this is very much a research project, and there's no indication of an actual product in the offing, although, as Ken points out, there's not much stopping anyone from building their own -- you'll just have to bring your own code.[Via GottaBeMobile]
+
+ 

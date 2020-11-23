@@ -1,0 +1,5 @@
+
+ One Laptop Per Child has put out a call out to hackers attending this past weekend's Toorcon computer security conference, asking them to assist in breaking the 2B1 laptop "before there is a billion of them out in the field," according to TG Daily. A representative from the project, Ivan Kristi??, said at Toorcon that the OLPC will "create the largest monoculture in history" and that it has the potential to spawn "very scary" security problems. In particular, the 2B1 computers can transmit code from one computer to another in a mesh network to share programs, documents and media, and an uplink alike. In addition, the computers will serve as their own backup, using another laptop to restore the one on the fritz -- which requires a secure and unaffected disk image. Surely NickNeg doesn't want his pet project of millions of computers to turn into legions of zombies that do nothing but issue DDoS attacks or spam campaigns.
+      
+
+ 

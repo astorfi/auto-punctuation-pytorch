@@ -1,0 +1,10 @@
+
+ 
+
+
+The Wall Street Journal has a rather extensive and well-sourced expose on some behind-the-curtain stuff that went on during Internet Explorer 8's development. It all centers around Microsoft's InPrivate Filtering technology, which keeps track of "beacons" around the web that track your movement, often with the help of cookies. The story goes that the IE team's original plan was to enable InPrivate Filtering by default, blocking any third party content embedded on a page you were browsing if it showed up more than ten times in your day to day activity. When some certain executives at Microsoft caught wind of this, they weren't too pleased. Microsoft had just bought aQuantive for $6 billion in 2007, and blocking the ability of advertisers to track users effectively would be a disruption of the online advertising industry in a major way. To that effect, Microsoft actually brought in representatives from the outside advertising organizations to weigh in, and the end result is of course plain to see: IE8's InPrivate Filtering isn't on by default, and even if you turn it on it doesn't stay on; you have to turn it on each browsing session.
+
+Of course, we'd be much more up in arms about this whole "users vs. advertisers" decision making process if InPrivate Filtering wasn't such a wild proposal to begin with. As some ad organizations argued, it would block some legitimate functionality and ads in addition to the more nefarious tracking beacons, and then there's the fact that even knowledgeable, competent users don't typically enact this sort of privacy, despite extensions that make it possible. In a way we all make the sort of decision that Microsoft made in 2008: do we value the functionality and content enabled and funded by invasive marketing techniques over our privacy? Of course, most Engadget readers are also familiar with another decision that makes most of this article's hand wringing moot: we don't use Internet Explorer.
+      
+
+ 

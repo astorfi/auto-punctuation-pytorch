@@ -1,0 +1,8 @@
+
+ClockworkMod dev Koushik Dutta is showing off another Android tweak that proves what can be done with Google's Chromecast dongle. Following up on his Phone to Chromecast Android app, and a Chrome extension that did the same, now he's added framework extensions to CyanogenMod that pipe audio and video content from any app -- that uses the system's default media player -- straight to the Chromecast. This should apparently work for pretty much anything, as he describes it plays locally stored content or streaming stuff like podcasts. In the demo video (embedded after the break) he shows it working with Twit.tv and BeyondPod. As with the previous examples, this isn't available for mass consumption just yet, but hit the source link to get a peek and ask any questions you have about how it works.
+
+
+
+
+ 
+ 

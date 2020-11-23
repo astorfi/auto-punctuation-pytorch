@@ -1,0 +1,23 @@
+
+ 
+We've just gotten our hands on the less-insane version of Verizon's LTE modems, the LG VL600. The company timed the shipment of these puppies to coincide with today's announcement of the coming 4G onslaught, set to begin December 5th -- which based on what we've seen thus far is going to be beyond awesome. Unless you're on a Mac (more on that after the break).
+
+In case you haven't seen the device in question, it's a rather large (we mean seriously large) USB dongle, which thankfully comes with a clip and extra cable. Like all LTE devices, it uses a SIM which will look familiar to those in GSM devices, but is -- again -- almost comically large.
+ 
+
+
+
+We haven't spent a load of time with the modem, but in the few short hours we've had to play with the device, the down- and upstream speeds we're getting are nothing short of phenomenal. In Brooklyn, which we're not even sure is really heavily covered by the LTE blanket (and was being battered by rain and wind at the time of testing), we saw consistent speeds which peaked at 7 Mbps down, and over 1 Mbps up. Overall, speeds held steady around 5 to 6 Mbps down and 1 Mbps up. By comparison, we saw around 4 Mbps down and less than 1 Mbps up when we did some testing with Sprint's WiMAX Overdrive 4G, and roughly 6.5 Mbps down and 1 Mbps up with Clear's iSpot.
+
+Overall, browsing on our computer felt nearly identical to our home broadband, and even HD video playback on YouTube was snappy and responsive over the network. And did we mention we were only getting two out of four bars on our connection?
+
+Update: We've added a link to SlashGear's hands-on of the modem below. As you can see, speeds vary by area, and SG was pulling 12 Mbps downstream and more than 5 Mbps up -- impressively matching Verizon's claimed numbers.
+
+Update 2: With a little more testing, we're seeing speeds closer to Verizon's estimates. We've added a second image after the break, and as you can see, we're nabbing over 10 Mbps downstream and nearly 4 Mbps up.
+
+
+That's not the say the experience wasn't without its downsides. One major roadblock to total happiness here is that Verizon hasn't seen fit to include any Mac support for these devices. That means that anyone rolling with Apple gear is going to take backseat while a driver hack appears, or Verizon stops sleeping at the wheel and takes care of the other half. We also saw some issues with connectivity (abrupt connection loss, specifically), though as we said, we've been testing in North Brooklyn, which may not be lapping up the juice as readily as some areas in Manhattan.Regardless, if you've got a PC and a need for some real bandwidth on the road, Verizon's LTE rollout is looking better with each passing moment. If we weren't completely sold on this technology as a real contender for the future of cellular networks before today, we certainly can't say the same right now.
+
+       
+
+ 

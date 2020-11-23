@@ -1,0 +1,10 @@
+
+ 
+Microsoft was kind enough to release the software development kit for Windows Phone 7 Series on Monday, and although there was some fun to be had by scrolling around and exploring, much of the cool stuff the company showed off at MIX last week is not included -- or is it? As it turns out it's in there; only a little help is needed to unlock 'em and then all those magical hubs start them spinning for your enjoyment, including a few things not seen before. Most notable? A comprehensive looking file explorer and even a task manager, something a bit curious given the OS's effective lack of multi-tasking. The unlock was discovered and initially distributed by engineer Dan Ardelean, but he has since recanted and pulled the required file. Naturally, though, it has been mirrored in numerous places, links to which can be found at the xda-developer forum if you'd like to try this yourself. Just keep in mind that this is a far from final version of the OS, so don't be too disappointed if it doesn't quite pop like it does when Anna or Luca use it.
+
+Update: A couple videos of the unlocked features have been upped by TechAU.tv, head over to check 'em out..
+
+[Thanks to everyone who sent this in]
+      
+
+ 

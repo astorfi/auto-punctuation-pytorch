@@ -1,0 +1,9 @@
+
+ 
+It's begun. Although lacking a general release of the SDK, the first homebrew apps have emerged thanks to last night's leaked WebOS root image. The first application puts a stake in the ground by displaying a simple "hello world" on the screen. Unfortunately, the code overwrote the pre-installed Sprint Nascar application... oh wait, that's probably a good thing. Devs have also started tampering with existing code to disable the shutter sound on the camera while leaving the rest of the sounds enabled. Now why would somebody want to do that?Update: New image from an excited developer that shows scm6079's work over at PreCentral evolving with a 5-second photo timer and more. We're being told that several members of the Pre hacking team consist of old-school PalmOS hackers from the Samsung i300 days. Now if Palm can just lure back the rest of its developers smitten by Android and the lure of App Store riches then they might just make something of this fledgling smartphone platform.[Thanks, Scott M. and C.J.]
+      
+
+ 
+
+ 
+ 

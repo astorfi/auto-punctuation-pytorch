@@ -1,0 +1,9 @@
+
+ 
+Explaining automatic graphics switching and the benefits thereof can be a somewhat dry affair. You have to tell people about usability improvements and battery life savings and whatnot... it's much more fun if you just take a nice big engineering board, strap the discrete GPU on its own card and insert an LED light for the viewer to follow. NVIDIA has done just that with its Optimus technology -- coming to a laptop or Ion 2-equipped netbook near you -- and topped it off by actually pulling out the GPU card when it wasn't active, then reinserting it and carrying on with its use as if nothing had happened. This was done to illustrate the fact that Optimus shuts down the GPU electrically, which is that little bit more energy efficient than dropping it into an idle state. Shimmy past the break to see the video.
+      
+
+ 
+
+
+ 

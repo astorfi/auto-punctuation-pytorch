@@ -1,0 +1,17 @@
+
+Alt-week takes a look at the best science and alternative tech stories from the last seven days.
+
+Sure, DARPA is slightly sinister, but it's so into robots that we're willing to let that slide. In fact, last year it launched the DARPA Robotics Challenge, and it just announced the top six nine seven teams to advance. But if just the idea of figuring out robotics frustrates you, NC State's face tracking program literally gets that, and NASA just launched the IRIS solar probe from the belly of a transport jet. It's Alt-week, baby.
+
+
+
+
+Remember DARPA's Robotics Challenge (DRC) launched to create 'bots that would look like humans and perform real world tasks? Well, the military's skunkworks division just announced that its winnowed down the original 26 teams to seven after completion of the Virtual Robotics Challenge (VRC) phase. To test them, DARPA created a cloud-based simulator, which teams used to simulate vehicle egress and driving, walking on rough, muddy terrain, attaching a hose to a spigot and turning a valve. While DARPA was planning on having six finalists, it turned out that JPL (which already has a DARPA-funded project and its own robot), decided to drop out and donate its resources Lockheed Martin's Trooper entry. At the same time, Team K from Japan and Case Western University pooled their resources and also received a donated ATLAS robot from Hong Kong University. In the spirit of good sportsmanship, DARPA decided after all that to keep seven teams, which will get an actual Boston Dynamics Atlas robot and more funding for the final DRC trials. Since that will no doubt produce the kind of entertainment we saw earlier this year at Engadget Expand, we can't wait.
+
+
+NASA launches are always a hoot, even its so-called Small Explorer Missions. The IRIS solar observer is one of those, and was lofted into space on Thursday from an Orbital Sciences Pegasus rocket, which itself separated from the underside of a converted Lockheed L-1011 jet at around 40,000 feet. Now that it's in orbit at about 400 miles, IRIS (Interface Region Imaging Spectrograph) will begin observing solar material that transits a poorly understood region between the sun's photosphere and corona, causing solar winds and driving the million-degree atmosphere. It'll use an ultraviolet telescope built by Lockheed Martin to do that during its two year mission, which one day may improve solar forecasts and explain some of the bizarre tantrums occasionally thrown by our star.
+
+
+Confused? That's a common issue for students learning computer science, and while in-the-flesh profs can easily see your anxious state, machines have no such empathy. Researchers from North Carolina State University want to change that, so they developed software that tracks facial expressions in order to predict the emotions of students during online tutoring sessions. Called JavaTutor, the program correctly sussed out moods 85 percent of the time and "will not only respond to what a students knows, but to (his or her) feelings of frustration or engagement," according to assistant professor Dr. Kristy Boyer. That'll lead to the next stage of research -- providing both "cognitive and emotion-based feedback to students" during learning sessions, which the scientists claim could have a dramatic effect on retention. Sounds good, but if you put that together with DARPA's project above, the result could be a scary-looking robot that senses your fear.
+
+

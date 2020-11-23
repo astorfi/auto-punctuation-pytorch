@@ -1,0 +1,10 @@
+
+ 
+Seems like we just can't get ARM's next-generation Cortex-A15 system-on-chip out of our minds. Having figured as a headline item in LG's ARM licensing deal this morning, it's now shown up on a leaked Qualcomm roadmap, landing itself a lynchpin role in that company's Snapdragon future. Alas, Qualcomm had been promising for the earliest of its MSM8930 / 60 and APQ8064 Snapdragons to be sampling in Q2 of this year, but this latest schedule shows them as sampling at the end of 2011 (see update). This isn't hugely surprising in light of ARM's recent forecast of Cortex-A15 devices in "late 2012," but it'll be disappointing to users keen to be exploiting quad-GPU and quad-CPU mobile rigs as soon as humanly possible. Guess that just leaves us waiting for the NGP or NVIDIA's quad-core SOC in August. Hit the source link for more on Qualcomm's plans for the near and distant future.
+
+[Thanks, Mike]
+
+Update: Qualcomm got in touch to correct the timing here. The company's 3G/LTE MSM8960 chipset remains on track to sample in this quarter, as promised in the company's latest earnings report. The other two parts were already expected to come later, so there's no delay to speak of. Just juicy specs.
+      
+
+ 

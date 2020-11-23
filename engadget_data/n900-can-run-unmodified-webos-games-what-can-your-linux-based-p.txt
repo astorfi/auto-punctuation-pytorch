@@ -1,0 +1,8 @@
+
+ 
+Ah, standards. Palm and Nokia know what we're talking about, which is why they support similar methods of developing native Linux apps, namely SDL 1.2. Add on the hardware similarities between the Palm Pre and the N900 (OMAP3430, PowerVR SGX, Open GL ES 2.0 support) and you have a beautiful recipe for cross-platform gaming. Some hardcore Maemo users have taken this to heart and released a new "Preenv" package for the N900 that allows the phone to run unmodified webOS games. Of course, you'll need to root your Pre to get at those games, and if you want to make a launch icon for the game on the N900 you'll have to root it as well. Still, this is exciting beyond the potential for playing Need for Speed on much-lauded Nokia hardware: with easy portability between platforms, there's all the more reason for a developer to be attracted to MeeGo and webOS in the future.
+
+[Thanks, Andy D.]
+      
+
+ 

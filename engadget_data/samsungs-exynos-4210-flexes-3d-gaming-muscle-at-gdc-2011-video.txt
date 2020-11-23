@@ -1,0 +1,7 @@
+
+
+
+What might Android gaming look like on a Samsung Galaxy S II? You're staring it in the face right now. We spotted Samsung's Orion / Exynos 4210 at GDC 2011, showing off the power of its dual-core 1GHz ARM Cortex A9 CPU and Mali-400 graphics on a nice big 1080p television screen --- with a completely playable asteroid obstacle course that ran at a butter-smooth 60 frames per second in stereoscopic 3D. ARM representatives told us the chip actually has even more headroom, but was actually constrained by its HDMI 1.3 port, and could push stereoscopic content at up to 70fps if their reference board had HDMI 1.4. When we asked if there were any plans to publish the TrueForce space shooter demo, ARM said it might indeed be done; the company's thinking of releasing it on the Android Market as a benchmark of sorts.
+      
+
+ 

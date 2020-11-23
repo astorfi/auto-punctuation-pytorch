@@ -1,0 +1,16 @@
+
+
+Yes, cloud services like Dropbox make it easy to share folders through public directories and links, but you still have to put those folders in the cloud in the first place. Wouldn't you rather share them straight from your PC? BitTorrent hopes to make things that direct with its big Sync 1.4 update. Now, you can share folders with others just by giving them web links; you don't have to wait for the files to reach a remote server, or rely on Sync's slightly more obtuse Key system. You don't have to sign up for an account, either, and you can still limit access to prevent others from messing with precious documents. About the only headache is that your recipient needs Sync, although BitTorrent promises that it will walk first-timers through the process. 
+
+
+
+
+
+          
+ 
+ 
+ The 1.4 release is also an excuse for BitTorrent to give Sync a much-needed interface makeover. While a lot of the basic concepts remain intact, the new front end is both prettier and easier to understand on Macs and Windows PCs -- arguably very important when people are more likely to be trying Sync for the first time. You can grab the desktop upgrade (which includes Linux) right now, and matching updates for both Android and iOS should be ready later today.
+
+       
+
+ 

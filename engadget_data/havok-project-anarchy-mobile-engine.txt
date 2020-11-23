@@ -1,0 +1,16 @@
+
+ Havok's involved itself with mobile gaming for a few years and it's now taken to this year's GDC to announce Project Anarchy. This new cross-platform mobile dev engine will include access to its own physics, animation and AI tools -- the same as those apparently used in notable series like Skyrim, Assassin's Creed and, er, Skylanders. It will also integrate Havok's Vision engine, adding in "game samples" and tutorials to ease mobile devs into crafting plenty of beautiful mobile games that hopefully involve less bird physics and approach something resembling our (admittedly zealous) mock-up above. We're itching to see those beastly smartphone processors pushed to their limits.
+
+
+  Show full PR text   HAVOK™ LIBERATES MOBILE DEVELOPERS WITH PROJECT ANARCHY!
+   COMPLETE 3D MOBILE GAME DEVELOPMENT ENGINE AVAILABLE FOR FREE THIS SPRING
+
+   SAN FRANCISCO, CA-March 26, 2013-At the 2013 Game Developers Conference today, Havok™  unveiled Project Anarchy, a complete end-to-end mobile 3D game production engine. Havok announced  that developing and releasing a game with the technology will be free on many leading mobile  platforms, without commercial restrictions on company size or revenue.
+
+   Project Anarchy will include Havok's Vision Engine together with access to Havok's industry-leading suite  of Physics, Animation and AI tools as used in cutting-edge franchises such as Skyrim™, Halo, Assassin's  Creed®, Uncharted and Skylanders. The free download will also include a broad range of game samples  and tutorials to help the mobile development community hit the ground running. Havok will be giving  open previews of the technology on the main show floor throughout GDC.
+
+   As part of this initiative, Havok will launch an online community to proactively promote and support  developers through all stages of production via a dedicated website www.projectanarchy.com.  Project Anarchy will also encourage free sharing and collaborative development of extensions and  customizations by the community.
+
+   "We're consistently blown away by what the AAA industry creates with our technology," said Ross  O'Dwyer, Head of Developer Relations at Havok. "We're really delighted to be able to offer these  professional grade tools to mobile developers for free and we look forward to supporting the mobile  game development community to make some stunning games with the technology over the next few  years."
+
+ 

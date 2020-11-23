@@ -1,0 +1,57 @@
+
+
+More Info
+
+Pebble smartwatch hands-on
+Pebble smartwatch unboxing
+Pebble smartwatch raises $100,000 in two hours
+
+
+What is Kickstarter? The answer you'll hear, as long-winded as it may be, will likely touch on Pebble. If it doesn't, you'll probably want to ask someone else -- with more than $10 million pledged, the people's smartwatch catapulted past the crowdfunding site's records and the startup's own expectations. It achieved a $100,000 funding goal in two hours, and it was clearly a favorite among our readers. Of course, there were doubts that Eric Migicovsky, the company's founder, would deliver such an appealing and seemingly powerful product for $125, but following our first look during the company's CES press conference, that dream became real.
+
+
+So, what is Pebble? It's not a smartphone for your wrist, as we've seen attempted before. In fact, it's far less sophisticated than you might expect -- the lightweight device reads out basic text, lets you skip through music tracks and, of course, displays the time. It's hardly the greatest achievement of our generation, or even the device of the year. It's become incredibly popular, sure, but despite the hype, you certainly don't need to own one. Yet, somehow, even the most technologically inept people in our lives have heard it mentioned on morning talk shows, FM radio stations or from pre-teens anxious to impress their friends. Having a smartphone alone isn't enough anymore. Or is it?
+
+
+
+
+Hardware
+We tested a black Pebble, which is the first color to ship. The face is slightly glossier than renders implied, but otherwise the production device looks nearly identical to early prototypes. There's a 22mm rubber strap for mounting the device to your wrist -- you'll likely be able to swap in your own band with matching dimensions. It's a fairly attractive combination, though regardless of the strap you choose, you'll probably want to leave Pebble behind during formal events, or walks down the runway.
+Pebble feels very comfortable when fastened on the wrist -- it's relatively lightweight, and the smooth edges maintain their distance from sensitive skin. Still, it feels solid enough for regular use, and thanks to waterproofing down to 50 meters (164 feet), it can stay on your wrist during laps in the pool (or in the ocean), and it'll work just fine in the shower as well. There are two exposed metal connectors, used to pair up with the proprietary magnetic USB charging cable (the only accessory that ships in the box), but the housing appears to be properly sealed.
+
+The secret to Pebble's weeklong battery life and daylight readability is a technology similar to what's penetrated the lives of bookworms young and old: an e-paper display. The 114 x 168 black-and-white screen sports nearly 20,000 pixels, letting you view emails and a time readout in several fonts, along with watch faces and other indicators. The display looks great both indoors and out, though we did notice some odd black spotting while viewing the panel in direct sunlight -- adjusting the angle eradicates the issue.
+
+
+There's a simple backlight that illuminates the panel briefly at night, automatically when you receive a notification or manually when you activate any of the four side-mounted buttons. It's fairly dim, enabling you to avoid disturbing fellow moviegoers or that patient significant other sharing your bed, but still bright enough for you to catch every detail. Pebble will reflect even a small amount of ambient light, however, so your backlight usage is likely to be fairly minimal.
+
+Pebble doesn't offer much functionality without a smartphone. You'll need one (and an accompanying app) to get started, and although you'll be able to display the time while disconnected (in Airplane Mode, for example), software updates, feature additions and notifications all require a Bluetooth connection. Fortunately, there's Bluetooth 4.0 support, which offers speedy performance with reduced energy consumption. This also contributes to Pebble's weeklong battery life, and a reported five to 10 percent hit to your smartphone's longevity.
+
+We'll detail the user interface more in the section below, but since there's no touch functionality here, you'll need to navigate using the four side-mounted buttons. There's a home (or back) button on the top left side, which brings you back to Pebble's main configuration page. Positioned to the right of the e-paper panel: a top button scrolls up, a smaller center button makes selections and the control on the bottom scrolls down -- through messages, menus or tracks while controlling music playback. All of these buttons require a firm press, rather than a tap, and while you won't accidentally activate the controls, registering input can take a bit of effort.
+
+SoftwarePebble's two apps -- one for Android 2.3 or later and the second for Apple devices running iOS 5 or later -- enable everything from initial setup to push notifications. There's no user manual in the box, so you'll need to download your respective app to get started. Pairing takes a few seconds, and then you're good to go. The smartwatch will automatically adopt the local time on your smartphone, and you can select from a few default watch faces, ranging from Text Watch, which you're probably already familiar with, to Classic Analog.
+
+
+To take full advantage of the device's functionality, you'll need to head back over to the smartphone app, where you can push additional watch faces (there are currently just five to download, including TicTockToe). Eventually, this custom app store will include third-party apps, such as the bike computer and golf rangefinder that the company pitched on its Kickstarter page, though they're not available now.
+
+The app's Settings page is where you'll select notifications to push. Based on the apps installed on our Galaxy Note II, we were able to choose from incoming call alerts, text messages, calendar reminders, email previews, Google Talk messages, Google Voice messages and Facebook messages. Each option has a checkbox, so if you want to use your Pebble for caller ID but don't want to be bothered with Facebook messages, that's perfectly OK. With each notification, the watch will vibrate once, the backlight will flip on (for a few seconds) and the message will pop up.
+
+Theoretically, you can simply shake your wrist to dismiss the notification, though we were only able to accomplish this by pressing one of the buttons. You can choose from large and small fonts for notifications, but regardless of the size, you can scroll to see more using the up and down buttons. You'll need to hop over to your smartphone to read the full message or send a response. Similarly, when you receive a call, your only option on the watch is to dismiss the notification, but doing so won't send your caller to voicemail.
+
+Unless you're looking at your watch every few seconds, there will likely come a time when your inbox contains multiple messages. Unfortunately, Pebble will only display the very last notification received, so it won't completely eliminate a need to check your smartphone. Also, it's not currently able to display certain languages -- a message we received with Chinese characters rendered as several lines of rectangles on the display.
+
+
+At this point, all of the interactions between Pebble and a connected smartphone go in one direction -- from your handset to the watch -- with one exception. The wristwatch's music player controls playback on your Android or iOS device, including play / pause and track skipping. There's no volume control, which seems reasonable given the limited number of buttons. With our Android phone, the watch was able to identify and control music from the native app, but not third-party services, such as Spotify.
+
+The competitionAlthough it may seem to be the case given the excitement surrounding this launch, Pebble is not the only smartwatch on the market. Sony and now Toshiba are two of the giants behind similar tech, and the former company's SmartWatch is even reasonably priced, at $149. Allerta, the company behind Pebble, released its own wearable several years ago, called inPulse, but smartphone compatibility was limited to BlackBerry models and certain Android-powered handsets, and the device uses an OLED display. Similarly, WIMM Labs' WIMM One was made available to developers, but is no longer in production.
+
+Pebble's success stems from the promise of third-party apps and the practical e-paper display, along with the marketing power of Kickstarter. Functionality remains somewhat limited, but this is a first-generation device from a small manufacturer that's currently only in the hands of a very limited number of lucky backers. If consumer interest is any indication, developers will likely soon be hard at work on a variety of unique applications, if they aren't already. The platform is incredibly young, and the best is yet to come.
+
+Wrap-up
+We've really enjoyed our time with Pebble so far -- it's not a fashion statement, necessarily, but we wouldn't be surprised to see it pop up on many wrists in the weeks and months to come. Functionality is still quite limited at this point, and considering how fresh the device is, that's to be expected. The features that are already available work well, and the smartwatch has been a pleasure to use.
+Taking price into account, Pebble is an excellent value, especially for lucky Kickstarter backers who were able to take advantage of $99, $115 and $125 pre-orders. We're very optimistic for the device's future -- our chief concern relates not to the hardware, but how it will affect behavior: If you thought that friend who glances at his smartphone every few minutes was rude, just wait until he owns a Pebble.
+
+Update: Pebble's fearless leader, Eric Migicovsky, responded with the answers to a few of our questions. He confirmed that the goal is to fulfill all Kickstarter orders within the next six to eight weeks, with pre-orders following. The device may eventually end up in retail stores, but there's no firm timeline there. Pebble is powered by an ARM Cortex-M3 processor, with a 140mAh battery keeping you up and running for up to a week with occasional use, or five days with frequent notifications and backlight activation. On the cosmetic front, the dark spots we saw in sunlight was likely a "Mura Effect" from the lens -- it's possible that other users will notice this as well. Finally, English is the only language currently supported (which explains why our Chinese characters rendered as rectangles), but others will soon follow.
+
+Update 2: Apps that support the Audio / Video Remote Control Profile (AVRCP) should be compatible with Pebble's audio controls. Spotify, however, does not include this support.
+
+

@@ -1,0 +1,7 @@
+
+ 
+
+University kids are probably already familiar with the Khepera lineup of research robots from Switzerland's K-Team. Now it looks like they're poised to release their latest, the Khepera III. Measuring in at just 690-grams (1.52-pounds) / 70-mm (2.76-inches) tall, this miniature robot is at home on the table top or swarming about the lab floor terrorizing undergrads. Yeah, it's small, but it packs in the features: 9 infrared and 5 ultrasonic sensors for near/far object detection, an optional pair of ground sensors to keep it from falling off the table, high-quality DC motors, swappable battery pack, and the ability to upgrade for WiFi, Bluetooth, extra memory, color camera, and eventually, a tiny robot arm dubbed the "Gripper." Clapper on/off? Oh hell yeah, it's all driven by an embedded Linux OS and open-source interfaces allowing you to adapt the Khepera for all kinds of sick, robotic fantasies. No pricing announced, but it should hit somewhere between $1k-$2k soon enough.[Via Robot Gossip]
+      
+
+ 

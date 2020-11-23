@@ -1,0 +1,6 @@
+
+ 
+Apple patent applications are usually pretty dry, but it looks like a new one turned up by Patently Apple has a bit more user-focused meat to it -- it describes a location-based social networking app called "iGroups," which lets groups of people share data amongst themselves using a service like MobileMe. Once group members are identified and linked up, they can securely share information and users carrying devices without GPS-abilities will be able to triangulate their position using the positions of other GPS-enabled devices in the group. Of course, the actual patent itself is focused on the cryptographic key system that protects all the data, and we're pretty sure the "iGroups" name is just a placeholder for now -- we'd guess the developer of the iGroups app currently in the App Store hopes so too -- so how this winds up in a shipping product is totally up in the air, but our interest in what iPhone OS 4.0 may hold has certainly been piqued once again.
+      
+
+ 

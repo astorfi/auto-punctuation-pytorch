@@ -1,0 +1,7 @@
+
+ 
+
+As with most news organizations, a lot of the posts we publish start out as emailed tips from you, our dear readers. But some employees put their jobs on the line when they share info, which, as you might imagine, makes them reluctant to hit send. The New Yorker seems to have a solution that'll offer a much higher degree of anonymity, stripping IP addresses and other identifying data whenever you upload a file or submit a tip. You create an alias, and all correspondence takes place within a secure environment, called Strongbox. Best yet, the code for this tool, called DeadDrop, is completely open-source, so you can download the necessary software and implement it on your own site, free of charge. More info on both are available at the source links below.
+
+
+ 

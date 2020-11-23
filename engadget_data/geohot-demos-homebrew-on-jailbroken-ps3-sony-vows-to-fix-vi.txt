@@ -1,0 +1,11 @@
+
+ 
+We just saw how you can now add an Install Package Files option to the PS3 using some custom firmware, but that darn hacker George "Geohot" Hotz has taken it a step further by demonstrating homebrew in a quick, Mr. Blurrycam-approved video. It's a barebones app that only says "sup dawg, it's geohot," but in reality it's a pretty huge step. Geohot's provided the file on his website along with a copy of the METLDR root key that enables the homebrew. Sony, meanwhile, has issued a statement saying it'll "fix the issues through network updates, but because this is a security issue, we are not able to provide you with any more details." This runs counter to what pytey from fail0verflow (the famed group that kickstarted this new round of hacking) just told the BBC, "the only way to fix this is to issue new hardware... Sony will have to accept this." Hey, at least you'll be in good company, eh Sony? Check out geohot's proof of concept video after the break.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

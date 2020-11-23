@@ -1,0 +1,6 @@
+
+ 
+For some of us, amid all the hubbub about revolutions and whatnot yesterday, the most significant announcement on hand was Apple's supposedly custom A4 CPU. Alas, in the cold and brutal light of the morning after, we're hearing that it is in fact a system-on-a-chip driven by a Cortex-A9 MPCore CPU "identical" to the one found inside NVIDIA's Tegra 2, while besting the iPhone 3GS significantly with its 1GHz speed and multicore architecture. The A4 is composed of that Cortex barnburner, an integrated memory controller, and the Mali GPU, making it an all ARM affair -- though we still don't know how much Apple and PA Semi did in terms of arranging and integrating those components within the silicon. While still not 100 percent confirmed, it would seem there were no revolutions on the iPad's processing front -- just a rebranded bit of well engineered hardware.
+      
+
+ 

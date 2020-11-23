@@ -1,0 +1,7 @@
+
+ Redmond is opening up and offering a few facts, stats, and tips around its first update to Windows Phone 7 -- an update that didn't go smoothly for everyone -- and it sounds like there are at least three distinct failure modes, two of which are pretty simple to fix. The company figures that somewhere around 10 percent of users attempting the upgrade encountered a problem, but of those, "nearly half" failed because they lacked a proper internet connection or enough disk space (turns out the update process takes a backup of the phone's contents just in case something goes horribly awry). Most of the remainder may have been swept up in the issue affecting "a small number" of Samsung devices, an issue that the company says it's working to fix as quickly as possible -- and in the meantime, they've turned the update off for those models. 
+
+Put simply, when you get prompted to install the update, Microsoft simply recommends that you've got plenty of hard drive space on your PC (you can't do this one over the air) and a solid connection to the interwebs; some 90 percent succeeded in installing the new code, which isn't too shabby considering this is the very first update to the platform they've attempted so far. Let's just hope that brick rate is down to zero by the time the good stuff comes, right?
+      
+
+ 

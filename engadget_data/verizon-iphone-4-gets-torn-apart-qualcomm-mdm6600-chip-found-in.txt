@@ -1,0 +1,5 @@
+
+ 
+Not exactly a huge surprise here, but the folks at iFixit have gotten their hands on a Verizon iPhone 4, and they've already torn it apart without even bothering to make a phone call. In addition to the expected differences, they found that the phone packs a slightly lighter battery than its counterpart (same capacity, though), that the mechanical vibrator has been redesigned and moved from the top right corner of the phone to the bottom left and, most notably, that it boasts a Qualcomm baseband chip, which lines up with what we've been hearing since last month. That's a Qualcomm MDM6600 chip, to be specific, which supports HSPA+ data rates up to 14.4 Mbps, and is the same chip used in the Droid Pro. Yes, that also means that the chip technically supports both GSM and CDMA, although Apple has apparently decided not to take advantage of that capability for one reason or another -- iFixit speculates that it may have been easier to design antennas for a CDMA-only phone. Hit up the link below for the complete teardown.
+ 
+ 

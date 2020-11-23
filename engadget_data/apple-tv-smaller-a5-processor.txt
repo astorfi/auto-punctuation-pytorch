@@ -1,0 +1,6 @@
+
+ Quiet, mid-cycle component upgrades are a thing with Apple, and they're sometimes worth watching out for. The iPad 2 got a chip update last year, for example, which significantly extended its battery life by using a 32nm A5 SoC instead of a 45nm one. Well, much as expected, a very similar processor update has just come to the Apple TV. MacRumors popped open the latest version, known as "AppleTV3,2", and found good evidence of a further die shrink: the central block of silicon is just 6 mm x 6 mm, which is even smaller than the 8 mm x 8 mm chip in the newest iPad 2. This inevitably leads to speculation that Apple has shifted to a 28nm fabrication process, possibly snubbing Samsung's 32nm foundries, but we'd need a proper silicon-level analysis to be certain. In the meantime, though, we'd guess that this update may not be worth hunting down to the degree that the new iPad 2 was -- the level of shrinkage here doesn't seem enough to have a huge impact on power draw, and in any case that's less of an issue for a device that's fed from the wall.
+
+  [Image credit: MacRumors]
+
+

@@ -1,0 +1,9 @@
+
+ 
+You might not have heard of microelectromechanical systems (MEMS), but there are likely a bunch in your new smartphone -- they make possible the tiny accelerometers and gyroscopes needed to detect motion as your device swings around. However, last week students at the University of Twente demonstrated a brand new micrometer-scale system: a tiny musical instrument that plucks strings (those "folded flexures" above) one-tenth of a human hair wide. Six microscopic resonators fit on a microchip, one resonator per musical tone, and series of the chips can be combined into a MIDI interface to play entire songs. Though the micronium needs to be amplified 10,000 times before they're audible through standard speakers, the instrument's the real deal -- watch it play a wide selection of tunes (including some Mario Bros) in a video after the break. One burning question remains, however: is this nano-violin open source?
+      
+
+ 
+
+
+ 

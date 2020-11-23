@@ -1,0 +1,6 @@
+
+ 
+Making good on its promise to deliver an uber-small mainboard for tight-space and media-centric applications, Via has announced its first product in the 10- x 7.2-centimeter Pico-ITX lineup. Checking in over 75-percent smaller than Mini-ITX boards of the past, this x86-based reference design seeks to embrace a "new world of ultra compact embedded PC systems and appliances." The board was purportedly designed to be powered by one of Via's own C7 or Eden CPUs, and should be available shortly to board vendors and hardware designers interested in concocting even smaller PCs for their customers. The design also relies on the firm's VX700 chipset and provides Ethernet, eight-channel HD audio, four USB 2.0 ports, a SATA connector, and a multi-format card reader. Reportedly, the VT6047 will be priced anywhere from "$300 to $500," but we guess that's just the premium you pay for a palm-sized PC.[Via LinuxDevices]
+      
+
+ 

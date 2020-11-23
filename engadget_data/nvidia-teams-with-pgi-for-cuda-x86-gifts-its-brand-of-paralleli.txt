@@ -1,0 +1,6 @@
+
+ 
+NVIDIA's GPU Technology Conference 2010 just kicked off in San Jose, and CEO Jen-Hsun Huang has shared something interesting with us on stage -- thanks to a partnership with The Portland Group, it's bringing the CUDA parallel computing framework to x86. Previously limited to NVIDIA GPUs -- and the lynchpin of NVIDIA's argument for GPGPU computing -- CUDA applications will now run on "any computer, or any server in the world." Except those based on ARM, we suppose. Still no word on NVIDIA's x86 CPU.
+      
+
+ 

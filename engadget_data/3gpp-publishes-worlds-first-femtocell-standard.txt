@@ -1,0 +1,5 @@
+
+  With femtocells slowly but surely making their way out to the major US operators, we'd say it's about time we got a handle on what exactly these things are comprised of. This week, the world's first femtocell standard has been published by the 3GPP, which will supposedly "pave the way for standardized femtocells to be produced in large volumes and enable interoperability between different vendors' access points and femto gateways." The new protocol covers a foursome of areas: network architecture; radio & interference aspects; femtocell management / provisioning and security. For those unaware, a femtocell is a small box that essentially acts as a mini cell tower within the home, piping cellphone signals through the internet and providing great signal in areas where it was previously a struggle to nab a single bar. Now, if only we could get a few of these things in carrier-agnostic form, we'd be set.[Via PCWorld]
+      
+
+ 

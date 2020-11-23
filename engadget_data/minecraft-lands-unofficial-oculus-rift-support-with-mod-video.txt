@@ -1,0 +1,11 @@
+
+If you're looking for more virtual worlds to explore using the Oculus Rift, MTBS3D forum user StellaArtois has developed something that might strike your fancy: a Minecraft mod dubbed Minecrift that bakes in support for the virtual reality headset. The modification still needs refining, but it already incorporates head tracking and warping. Not only did the intrepid forum goer grapple with the OpenGL API to devise the solution, but they also created the altered software before their own Rift dev kit arrived, relying on others to provide feedback for tweaking.
+
+
+Mojang has has expressed interest in the VR headset and already has one in house, but official support for the Rift doesn't seem close at hand for Minecraft."Would take a lot of work to get it working for Minecraft, but not impossible - especially with the new launcher," Mojang dev Nathan Adams tweeted yesterday regarding the Rift. Click the first source link below to give the mod a shot or head past the break to see it in action.
+
+
+
+
+
+ 

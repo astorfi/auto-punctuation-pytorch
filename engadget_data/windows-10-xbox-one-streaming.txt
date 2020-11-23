@@ -1,0 +1,10 @@
+
+With the release of Windows 10, Sony won't be the only company to offer game streaming from its consoles. Today we finally got our hands on Windows 10's Xbox One game streaming feature, which lets you bring your entire Xbox gaming experience to any PC running the new OS. And even in its early state, it looks like it will satisfy even the most demanding gamers. Microsoft made a risky bet by demoing the feature with Sunset Overdrive, a fast-paced game where you'd notice the slightest hint of slowdown. And as you can see in the video below, it's virtually indistinguishable from the native Xbox One experience while running on a Surface Pro 3.
+
+
+
+#fivemin-widget-blogsmith-image-30345{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-30345, #postcontentcontainer #fivemin-widget-blogsmith-image-30345{width:570px;display:block;}Windows 10 streamed Sunset Overdrive at its full resolution, and there weren't any major issues or delays. Having spent dozens of hours with the game on my Xbox One, I didn't notice much of a difference playing it in its streamed iteration. All of its acrobatic maneuvers and twitch-heavy gunplay felt as responsive as ever. Best of all, you don't need any crazy hardware to stream games with Windows 10. The demo was running on a fairly typical Intel Core i5 system, and it can run on even slower computers if they have some form of H.264 encoding (because the stream is coming over as a video file). Naturally, your Xbox One gets locked down when you're streaming something, since it's still doing the heavy lifting.
+
+So far, Windows 10's game streaming only works with an Xbox One on your local network. But according to Kevin Unangst, senior director of marketing for Microsoft Studios, the company could eventually implement remote play. That's something Sony already offers with the PlayStation 4 (and 3, to a lesser extent) over its Vita handheld and some Android devices. But for many people, streaming a game on a PC they already own sounds a lot more useful than having to buy a separate device.
+
+

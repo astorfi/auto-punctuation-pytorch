@@ -1,0 +1,31 @@
+
+ If you know AMD mainly for its laptop and desktop processors, then some readjustment may be in order: as of now, the company is rushing head-long into the market created by Surface fever and the need for ultra lean tablet chips that can handle Windows 8. Specifically, we're looking at the official launch of the Z-60, formerly known as Hondo, which AMD says will arrive in tablets "later this year" and satisfy even our most unreasonable demands for Windows 8 hybrids that last 10+ hours in tablet mode and which turn into full-scale PCs when docked. And if you're thinking that Intel made much the same pledge during its recent Clover Trail announcement, then you're dead right -- we actually have all the makings here of a proper old-fashioned chip fight. Read on for a spot of pre-match banter.
+
+
+
+
+  
+ In a bid to emphasize the Z-60's advantages over Clover Trail, AMD is putting the focus squarely (and somewhat predictably) on visuals. It claims the new chip has 5x or 6x better graphics performance than Cedar Trail (Clover's predecessor) and will spit out games that "you would never expect to see on a tablet." It'll support resolutions of up to 1920 x 1200 over HDMI and run titles like Orcs Must Die and even Modern Warfare 2 at medium settings and 1,024 x 768 resolution. There are limits though: when it comes to watching HD content, AMD says that 720p will offer the "best experience" as opposed to full 1080p -- an admission that puts us slightly on edge.
+
+ 
+ In terms of straight computing, we're looking at Windows 8 only (no Android or Linux support, despite earlier reports) and performance that matches the older C-60 chip for netbooks and nettops, with a full boot taking 25 seconds and resume from sleep taking two seconds. But whereas the C-60 was a 9-watt chip, the Z-60 will generally consume between four and five watts depending on the task -- that's low enough for it to be kept cool without a fan, thereby permitting devices to stay thinner than 10mm. The Z-60 also promises to reconnect to WiFi quicker, allowing it enter and exit low-power states with less fuss and delay. AMD claims the processor can last a whole working day on a single charge, but it seems to have based this claim on a tablet running in "Windows Presentation Mode" -- and we're not sure how representative that is of real-life use. By contrast, Intel says Clover Trail can manage three weeks on standby and 10 hours of "active use."
+
+ 
+ Clearly, there's a lot we won't discover about the Z-60 until we get to review it in some early tablets and hybrids and put it head-to-head with Intel-powered hardware. At this point, we're also waiting for crucial information on pricing: could AMD trump Intel by allowing OEMs to the $799 price point we've seen on some Clover Trail tablets, and helping them to edge closer to Windows RT territory? Something tells us it'll have to try.
+
+  Show full PR text   New AMD Z-Series APU for Tablets Enables Immersive Experience for Upcoming Microsoft Windows 8 Platforms
+   -Uncompromised Performance and Amazing AMD Radeon Graphics Set the Bar for Highly Portable and Tablet Form Factors -
+
+   SUNNYVALE, Calif. - Oct. 9, 2012- AMD (NYSE: AMD) announced its latest entry in the performance tablet and small form factor PC market with the AMD Z-60 Accelerated Processing Unit (APU). The AMD Z-60 is AMD's lowest power APU, delivering unprecedented performance and AMD AllDayTM power for tablet form factors as thin as 10mm. A compelling combination of features, stunning graphics, support for the latest Microsoft Windows® 8 applications and user interfaces, as well as compatibility with Windows® 7 and the full-suite of legacy Windows applications, makes the AMD Z-60 APU an ideal solution for a range of designs.
+
+   The first tablets based on the AMD Z-60 APU are expected to launch globally this year in conjunction with availability of Windows 8.
+
+   "Tablet users seeking an uncompromised experience for both creating and consuming content on the Microsoft Windows 8 platform now have a performance-driven, affordable option with the AMD Z-60 APU," said Steve Belt, corporate vice president of Ultra-Low Power Products, AMD. "We see a large gap between the lower performance and high-price competitive offerings that allow AMD to be in tablet designs that will please our customers and end users alike."
+
+   The AMD Z-60 APU comes loaded with features designed to enhance the tablet experience, including AMD Start Now technology that allows fast boot and resume from sleep times1, up to eight hours of battery life while Web browsing, and up to six hours of HD video playback2. Just as impressive is the stunning visual quality delivered by the AMD RadeonTM graphics on the APU, with support for full HD 1080p resolution, HDMI output for external displays, and impressive gaming performance with Microsoft Direct X®11 capability.
+
+   Tablets with AMD APUs can also leverage the AMD AppZone, a one-stop resource for accessing popular applications that can take advantage of the full compute capability of the processor.
+
+   Availability  The AMD Z-60 APU is shipping today to customers that are expected to launch systems later this year.
+
+ 

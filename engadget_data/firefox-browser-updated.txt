@@ -1,0 +1,6 @@
+
+ We took a look at Mozilla's mobile OS at the final pre-proper CES event yesterday, and little did we know the official release of its Firefox 18 browser was dropping today. The update adds the new Javascript compiler IonMonkey, which is said to make wep apps "perform up to 25 percent faster." Mac users who will settle for nothing less than high-res browsing will be happy to know Retina display support has been implemented, as long as you're on OS X 10.7 or above. Preliminary support for WebRTC has also been added. The upgrade is available now, but if you're reading this on FF, you've probably got it already.
+
+ The Android version of the Firefox browser has received a little TLC alongside its computer-based counterpart. The IonMonkey compiler is also new to this version, the Google Now search widget has been integrated, and Mozilla suggests mobile browsing has never been safer. Head to the source link for the release notes for both versions.
+
+

@@ -1,0 +1,7 @@
+
+Although you may have never given a thought to what transistors do to repair themselves when certain sectors fail, there are a few organizations who make it their life's work. Researchers from the National Science Foundation, the Semiconductor Research Corporation, and the University of Michigan have a mission to complete before their grant money runs dry: to create semiconductors that can heal themselves without the burdensome redundancy currently used. The goal here, which could seem a tad superfluous until you consider these chips operate in things like airplanes and medical devices -- you know, fairly critical applications -- is to design a semiconductor that runs more efficiently and can be counted on to function no matter how crucial the situation. By designing a chip that can auto-detect a problem, then shift the resources to a functioning area while the chip diagnoses and repairs the issue with help from "online collaboration software," you'll get a slimmer semiconductor that suffers no noticeable loss in performance while self-repairing. If this circuitry talk has your wires all crossed up, here's the skinny: more dependable chips will make everyone's life a bit easier, and if the team's plan is free of defects, we can expect to see prototypes within the next three years. 
+
+
+[Via Mobilemag]
+
+

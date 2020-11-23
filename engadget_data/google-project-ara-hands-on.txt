@@ -1,0 +1,24 @@
+
+Google's modular phone concept is one step closer to reality. With today's announcement of the latest updates to Project Ara and an upcoming pilot program in Puerto Rico, Google has made serious strides in bringing the unique swappable-module phone idea to market. Today, we had a chance to take a look at the latest version of the concept -- code-named Spiral 2 -- and it's certainly a much more polished version of the device than we've seen previously. Indeed, Paul Eremenko, Project Ara's lead, says that the look of the hardware here is "final," or at least very close to what we'll see come final release. 
+
+
+
+
+
+As we mentioned in the announcement earlier, Project Ara's latest prototype includes a slew of improvements and changes over Spiral 1, the previous iteration. For one, the electro-permanent magnets that once held the modules in place are now on the endoskeleton itself -- the core piece of metal that is at the heart of the Ara. This, Eremenko says, leaves more room for additional modules. Google also announced that it has added 3G modem functionality and an analog RF bus to the endo that'll let the company attach antennas from multiple modules to the same modem. There's a new pollution sensor, too.
+
+One of the biggest changes is its aesthetics. Google once wanted folks to customize the Ara via 3D printing, but decided that was a bit too risky. Instead, you can now alter the look of the Ara by printing your own high-resolution, full-color images on polycarbonate, injection-molded shells via a technique called dye sublimation.
+
+
+The result is the unique modular phone you see in the image above. Out of the 11 different prototype modules that Google has developed, the one that we got to see here has eight pieces on the back and two on the front. There's a receiver module that combines the earpiece audio plus proximity sensor; a 720p display module that also includes the integrated volume and power buttons; a camera module on the back; a WiFi and Bluetooth module; a USB charger; a 3G cellular modem; an application processor module from Marvell; a speaker module; and, of course, the battery.
+
+If you're not satisfied with the modules here, well, the beauty of Ara is that you're free to swap them out for other ones in the future. Want to swap out that 720p display for something better? You could. Want a front-facing camera as good as the one on the back? Sure, why not. The idea of Ara is that you could very well swap out the modules of the phone as time goes on, which makes it both a future-proof device and one that could be easier on your wallet.
+
+All of the different pieces swapped in and out relatively easy -- I managed to move several different modules with a simple slide and push. But they didn't feel particularly flimsy either; I didn't think they were liable to fall out or anything like that. Each piece was also extremely lightweight, and I could see myself carrying extra battery modules around without it taking up too much space in my bag. Eremenko tells us that Google worked to make each module more robust too, to handle everyday juggling and jostling. That said, the overall device did strike me as a little thick -- certainly quite a bit thicker than most flagship smartphones.
+
+
+Additionally, Eremenko tells us that, right now, you'll need to do that whole battery hot-swapping thing in less than 30 seconds, or else the phone will power down. He hopes to extend that time to one to two minutes by the time the Ara finally ships. Perhaps more worrying is that apparently maintaining the connectivity between modules alone takes up 20 percent of the phone's battery.
+
+Google says it's working to iron those kinks out, and perhaps those worries will be long gone by the time Spiral 3 rolls around. Indeed, Google is already planning on a few improvements, like 4G LTE, high-end camera support and all-day battery life, for the third version of its modular phone. We're still not sure just how long it'll take for Ara to come to market, but it certainly seems like it'll be a while yet. Maybe we should move to Puerto Rico in the meantime.
+
+

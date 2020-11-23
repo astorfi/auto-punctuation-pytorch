@@ -1,0 +1,8 @@
+
+
+If you're one of the connected home buffs that owns a Nest Protect smoke detector, do yourself a favor and turn off its wave-to-dismiss feature just in case. According to an open letter from Nest CEO Tony Fadell, the company is concerned people could activate that feature without knowing it. Worst case scenario? It gets quietly enabled and doesn't warn people of a fire as quickly as it should. Fadell's missive was a little light on detail, but a FAQ shared by the company explains it a little better. Because of some quirks in its sensing algorithm, "movements near the product that are not intended as a wave can be misinterpreted" as a command to disable the alarm. The Wave feature was one of the Protect's little luxuries -- who likes getting up on a chair to push a tiny button on a blaring alarm? -- so it's a little surprising to see it acting so sketchy.
+
+
+As you'd expect, Fadell was quick with the assurances: Nest hasn't heard of anything like that happening in the wild, and the company is temporarily halting Protect sales until the team has worked out those algorithmic kinks. Meanwhile, Protect owners who have their units connected to the internet can expect the wave feature to be disabled automatically within the next 24 hours. On the off chance that this whole thing leaves a bad taste in your mouth, you can contact Nest for a full refund too.
+
+

@@ -1,0 +1,106 @@
+
+"iTunes is a stepping stone along the way."
+-- Jim Griffin, OneHouse LLC
+
+On April 28th, the iTunes Store basked in a milestone 10th birthday. Two years before its 2003 launch (as the iTunes Music Store), Apple introduced the iTunes client as a desktop music management program and implemented it as the device manager for the first iPod later in 2001. In those two years, Apple laid the groundwork for what can reasonably be called the iTunes era of music.
+
+Apple did not invent digital music, even though for many iTunes embodies 21st century music buying. However, during the past 10 years, it has become the US' top music retailer, with customers currently downloading 15,000 songs per minute from the app's library of 26 million songs, according to an Apple spokesperson. Since its launch, it has evolved into the hub of a powerhouse media / tech ecosystem that turned Apple into the world's most valuable company in 2012.
+
+As a symbolic milestone, the iTunes anniversary encourages reflection on the past, a survey of the present and predictions of the future. Digital music continues to evolve, for businesses, consumers and musicians.
+
+
+
+Setting the Stage for iTunes
+It was 1997 when I first heard a 128k MP3 song streaming through my then-new cable connection. Having lived in a low-bandwidth, silent, mainly text-based internet for five years, the moment was revelatory and was seared in my memory. My brain melted around the edges and I saw the promised land shimmering on the horizon. Music had arrived online, and it sounded pretty damn good.
+
+The story of digital music started many years before the iTunes Store opened its doors. The overthrow of the industry's status quo began surreptitiously with the compact disc, which allowed track shuffling and, eventually, ripping and burning. Music labels have looked back regretfully on the release of unsecured music discs as a hindsight-is-20/20 moment which opened the floodgates to new consumer behaviors and demands.
+
+My brain melted around the edges and I saw the promised land shimmering on the horizon. Music had arrived online, and it sounded pretty damn good.But it was the MP3 file format that got the ball rolling directly toward the disruptions of the late 1990s. Like an evolutionary leap, MP3 crawled out of the water onto land (well, the web) in 1995, and served as the best marker for the start of the digital music era, which spawned iTunes. The MP3 specification compressed fat audio files to a fractional size. Crushing them down made file transfers feasible in the low-bandwidth early web, but also reduced audio fidelity. (That was an easy trade for most people.) Over time, severely compressed song files became less necessary as the internet's pipes grew bigger, but MP3 has remained in wide use at higher bit rates that conserve more sound quality.
+
+The MP3 spec was ready for prime time in 1992, but the technology was marketed to enterprise and remained mostly unnoticed and unused on the internet. It was the introduction of desktop MP3 players a few years later that closed the functional circle of music compression and sparked new uses. Software players like AMP and Winamp were powerful catalysts of early MP3 adoption and song-trading; when users had something they could do with an MP3 track (play it), the files started flying.
+
+Sharing and the SheriffWhen Apple entered the field in 2001 with the iTunes program and the first iPod, digital music was a frontier being settled by adventurous pioneers fleeing analog tyrannies of tape, one-hit albums and high prices. From the industry perspective, the new landscape was populated by disreputable rogues intent on stealing music in digitally enabled ways; peer-to-peer (P2P) file-sharing was rampant.
+
+
+Sharing is a natural human impulse, and sharing music happened for years before MP3 in the form of home-recorded tapes. However, small MP3 files, combined with DSL and cable bandwidth being pushed into homes, led to exuberant song-sharing via email and web sites. The hunt was on for other people's tunes. In January 1999, "MP3" became the pre-Google internet's top search term, overtaking "sex." There was some primal music love going on.
+
+P2P file-sharing made finding music a lot easier by forming a central music-specific search engine that connected directly to the songs. With the advent of Napster, the demand for MP3 music was met by a spectacularly efficient supply. The web app was created by Shawn Fanning, who dropped out of college to complete the project.
+
+"It was something that came to me as a result of seeing sort of an unmet need and the passion people had for being able to find all this music, particularly a lot of the obscure stuff which wouldn't be something you go to a record store and purchase," Fanning said in a 2009 interview with the San Francisco Chronicle. "So if felt like a problem worth solving."
+
+In January, 1999, "MP3" became the pre-Google internet's top search term, overtaking "sex." There was some primal music love going on.Fanning unleashed his site in mid-1999, and it became the fastest-growing product or service in the internet's history to that point. "I try not to think about it," Fanning said in an MTV interview. "It's a bit overwhelming; 20 million people have adopted it and love it."
+
+File-sharing is reputed to be a young person's passion -- indeed, in 2012 about half of P2P downloaders were surveyed (pdf) to be 25 or younger. But in my observation during Napster's dramatic climb, the app cut impressively across age groups. I knew parents who were more into it than their college-age kids.
+
+The combination of MP3 and Napster liquefied music into a mercurial stream of bits, slippery and seemingly uncontainable, and a struggle was on to determine how freely it could flow. In 1997, five years before the iTunes store and two years before Napster, Michael Robertson founded MP3.com, an early flagship of the MP3 era. It was one of the first pay-per-download and pay-per-stream platforms for musicians, and was vigorously endorsed by Alanis Morissette and others. MP3.com developed a cloud-storage component called Beam-It that verified a user's ownership of a CD, and uploaded its tracks to an online music locker. Cloud listening is standard business modeling for the world's biggest media-tech companies today, but in 2000, it was an instant lawsuit. MP3.com lost the courtroom battle to Universal Music Group and was eventually acquired by Vivendi Universal, UMG's parent company.
+
+"We debuted Beam-It in 1999," Robertson told me. "It is fascinating to me that it took more than a decade for the industry to embrace the concept behind Beam-It. If you have the physical disc you get the digital counterpart. I feel vindicated, but part of me is saddened. For more than a decade it was technically feasible, and would have given tremendous value to consumers, yet the industry didn't embrace it."
+
+Robertson also gives a rueful nod to Apple for its reputation as the industry's sheriff, saving music from unlawful file-sharing.
+
+"At the same time [as MP3.com], Napster came along," he said. "It had a profound impact on the industry. Many people lump them together -- 'Oh yeah, you were doing copyright infringement ... and then Apple came along!'"
+
+Labels vs. Everyone
+1999 was as tumultuous in music technology as 1969 was in music sociology. It was rebellion against The Man -- who in this case was the institutional power center of major labels and their chief US lobbying group, the Recording Industry Association of America (RIAA). The RIAA engaged in front-line, hand-to-throat combat with consumers, while labels found themselves tangled in disputes with their progressive artists.
+
+In a span of 12 months, from February 1999 through January 2000, the music industry pitched these battles (among others):
+
+ SDMI: The Secure Digital Music Initiative sought to roll back 15 years of CD and MP3 technology by developing a new, copy-resistant file format using digital rights management (DRM). The venture was backed by the recording industry in partnership with Microsoft and IBM. It didn't result in a marketable product, but DRM played an important role in launching the iTunes store, and in the iTunes experience for several years. Rogue Artist: Tom Petty released "Free Girl Now" on MP3.com, where it was downloaded 150,000 times before Petty's label, Warner Music, removed the song. Diamond Rio: The first popular MP3 player, the Rio, was released in August, only because the RIAA, which had tried to sue it into non-existence, dropped its legal action. The litigation was an early example of how the industry regarded the MP3 file format -- a neutral technology spec -- as an illegal enabler of copyright theft. RIAA vs. Napster: Seven months after Napster launched, the RIAA filed suit against the service. The case alone was a notable benchmark, and also included a requested damage penalty of $100,000 per song downloaded via the platform. That dazzling plea set a precedent of eye-popping and arguably unjustified damage claims that would mark RIAA lawsuits in coming years.The years following 1999 were eventful, too. Metallica sued Napster, at the same time that Limp Bizkit embarked on a Napster-sponsored tour. The company lost its legal challenges, and shut down in the summer of 2001, ending two tectonic years of operation. (Napster's assets underwent a series of acquisitions, most recently by Rhapsody in 2011.) In the meantime, other file-sharing platforms emerged, including Morpheus, Grokster, Gnutella and KaZaA. Three of the major labels (Warner Music, Bertelsmann and EMI) launched a music subscription service called MusicNet, which was predictably ignored. The other two majors (Universal Music Group and Sony Music) started a competing service called Pressplay; it was likewise disdained.
+
+In what was a controversial PR campaign as much as a scare tactic, the RIAA sued more than 35,000 individuals from all walks of life between 2003 and 2008.In April 2003, mere days before the iTunes Music Store opened, the RIAA brought the downloading fight to the streets, suing four college students for building local file-sharing search engines on campus intranets. The programs enabled campus students to find and share MP3 songs, leading the RIAA to call them "local area Napster networks." (Napster's plug had been pulled two years previously, but its name was still invoked as a proxy for sharing music.) The defendants settled their cases for amounts ranging from $12,000 to $17,500, in one case wiping out a student's savings from three years of work during college.
+
+The RIAA endured some criticism for its heavy-handedness in the student ploy, but was just getting started. In what was a controversial PR campaign as much as a scare tactic, the RIAA sued more than 35,000 individuals from all walks of life between 2003 and 2008. The targets were identified by IP numbers in file-sharing apps, then traced to actual people through their internet service providers. The RIAA's method of contact, accusation and settlement became so routine that targets were encouraged to pay a settlement fee by credit card on a special web page. It was like an expensive toll to use P2P, if you were one of the unlucky few who stumbled into a toll lane.
+
+After 2008, the RIAA discontinued the lawsuits against individuals. The five-year campaign was widely viewed as ineffective at slowing P2P use, which had become complicated by the addition of movie, TV and software downloading. The RIAA handed off the policing role to ISPs, but it took four years before major internet providers (Comcast, Time Warner, Verizon and others) agreed to implement some kind of P2P watchdog scheme last December.
+
+iTunes: A Solution
+It is fair to say that industry chaos reigned in music during the early MP3 years. Artists were conflicted; labels saw the writing on the wall and tried to erase it even as they tentatively edged into online distribution; and consumers feasted, but were concerned about legality and confused by the newness of it all.
+
+In this low-gravity orbit in which the value of music seemed to be floating untethered, Apple provided ground control. Negotiating with the spooked and hesitant music labels to sell their product, Steve Jobs settled on two reassuring agreements. First, the iTunes Music Store would open to Apple computer users only -- a tiny portion of the internet population in 2003. (The store was opened to Windows users five months later, after selling 10 million songs.) Second, the store's inventory of songs would be copy-protected with DRM. That lasted for all music in the store until April 2007, when DRM was removed from songs owned by the EMI label. In January 2009, all DRM was removed from the iTunes Music Store.
+
+Jim Griffin, a pre-eminent thought leader in digital-music solutions and former CTO at Geffen Records, assigned a sly maneuvering to Apple's label negotiations for iTunes.
+
+"When iTunes launched, it was a bit of a feint," Griffin said. "The assumption made by the industry was that it would be Mac-only. They really didn't picture the store quickly becoming a Windows store. That's what a lot of [industry] people used to justify dipping a toe in the water. But it was a full-fledged jump."
+
+Whether the labels waded in or dove in, the store was an instant hit for consumers who craved the advantages of virtual music products, but didn't want to get tangled in the file-sharing jungle where malware abounded and the RIAA was training sharpshooters. The store sold 1 million downloads in the first week, and the next month Apple sold its 1 millionth iPod. The ecosystem was up and running.
+
+The store sold 1 million downloads in the first week, and the next month Apple sold its 1 millionth iPod. The ecosystem was up and running.For the copyright-aware and digitally progressive music customer, iTunes offered a value chain with four compelling links. First, the store presented a coherent, understandable digital marketplace that was soothingly reminiscent of a record shop. In contrast to the subscription streaming services (Rhapsody launched in 2001), iTunes traded in music that you wholly owned. The model was a refreshing hybrid of newness and familiarity. Second, the pricing was attractive and, importantly, unchanging: 10 bucks for an album, one buck for a track, no retail shenanigans. The perceived value of music was reset. Labels were not thrilled with the devaluation established by this price model, but it was better than zero in KaZaA.
+
+Perhaps the most important feature for iTunes customers was the dismantling of albums. One of the sharpest CD-era complaints was the forced purchase of a 12-song disc to acquire one radio hit.
+
+"The labels had it pretty sweet," Robertson told me. "You put out a CD and it's got one, two or maybe three songs that people care about, and you convince them to give you 15 bucks."
+
+
+Music labels had manufactured and sold singles in the vinyl years. But the labels controlled what an album's single was going to be, and it was all part of an integrated hit-making pipeline that included pushing the singles onto radio. Singles as physical products all but disappeared with CDs. Napster (on the shady side) and iTunes (in the bright sunlight) revived the single for digital music. Labels didn't like it, obviously, but the genie was already out of the bottle in the P2P realm.
+
+Finally, the iTunes system simply worked for consumers. Apple already had the desktop software and portable player in the market. A million iPods were on the street. Apple's full-circle solution was timed perfectly to gain quick and rabid acceptance across the PC and Apple user bases. The store and the iPod fueled each other, powering one of the industry's great media-tech ecosystems.
+
+The one sour note of the iTunes retail formula was digital rights management, which locked the music into Apple devices. Steve Jobs might have never wanted DRM; he certainly knew it was dangerously contrary to consumer needs by 2007. That year, he wrote an open letter debunking the industry rationale for copy-protected music tracks that thwarted the user's ability to freely use their purchases. Jobs might have been listening to John Lennon when he wrote this:
+
+Imagine a world where every online store sells DRM-free music encoded in open licensable formats. In such a world, any player can play music purchased from any store, and any store can sell music which is playable on all players. This is clearly the best alternative for consumers, and Apple would embrace it in a heartbeat.
+
+Jobs won that argument and DRM faded out of iTunes for good in 2009. But for several years, iTunes unquestionably degraded consumer value in this regard, even as it satisfied digital needs in other ways. Never before in the history of recording era (except for player-piano rolls) had customers been forced to slave their recordings to one brand of playback device. Because iTunes songs were watermarked with copy-protection, they could not be played in non-Apple devices. This situation was like a time bomb for users. If their iPod died, they would be forced to buy another iPod, or lose playback of all their purchased music. Imagine a label releasing CDs that only worked in Sony or Panasonic CD players. That is exactly what happened in iTunes, with Apple players.
+
+Griffin believes it was a necessary period of label hand-holding.
+
+"Had anyone said at the beginning, 'Oh, by the way, we'll drop the DRM along the way' -- that's a road [the labels] would not have headed down," he points out.
+
+When I brought this up with MP3.com's Robertson, he explained that other ventures had failed to acquire full label participation without DRM.
+
+"On the DRM front, I would say that Apple was forced to do it by the industry ... and [Apple] quickly realized they could use it as a wonderful lock-in tool!" he said. "If you remember back before iTunes, there were companies that were vending digital songs for a dollar each -- Liquid Audio, Nordic Music -- and the problem was they could never get sizable inventory. The labels would give them one single, or a few singles from one band, and say 'Let's see how this sells.' It was like opening a hardware store that sells only hammers. That's what really stunted growth. It was Apple that said, 'We're just going to launch to Apple customers, and we're going to use DRM.' Those two decisions caused the industry to finally relent and license catalog-wide."
+
+iTunes in the Future
+The iTunes Store anniversary does not mark an end point, for the store or for the digital music movement. Matt Graves, a longtime internet executive who has held marketing and communication positions with Rhapsody, imeem and Twitter, thinks 2013 is a pivot point.
+
+"In the same way that 2003 was a pivotal year that set forces in motion that are continuing to be felt, I look at 2013 as an equally important year," he said. "The comet has hit, and the long-term impacts are growing more apparent as time moves on."
+
+The comet strikes to music were MP3 and file-sharing. Technology started the digital music revolution with MP3 and Napster, and created business out of chaos with the iTunes Music Store. Going into the next 10 years, iTunes faces challenges to its dominance on two major fronts. First, the iTunes template is now old news, and more or less replicated in all the major media-tech ecosystems (Amazon, Google, Microsoft). Apple's innovation has gone from being the solution to being one of many choices.
+
+"Amazon is very good," said Griffin. "Amazon has clearly been gaining share at the expense of iTunes, because they've been offering people more options -- selling you the disc along with the digits, side by side, or allowing you to get the digits immediately and wait for the disc."
+
+Second, Apple must come to grips with the emergence of streaming as a newly popular type of music consumption. Subscription streaming was established on a small scale years before iTunes opened, but was a hard sell to consumers until recently. The rise of Pandora, Rdio and Spotify during the last couple of years, and the powerful influence of YouTube, have driven interactive listening to parity with downloading. If Apple fulfills rumors of an iRadio launch, it would signal the company's recognition that the era of iTunes dominance is, if not over, certainly more complicated.
+
+"We're at an interesting point now," said Graves. "It's 10 years since Apple launched iTunes. We are only now seeing some of the forces set in motion 10 years ago. We are still grappling with what it all means."
+
+ Part 2 of the iTunes @10 series, "Setting the music free," is posted here. Part 3 is posted here.
+

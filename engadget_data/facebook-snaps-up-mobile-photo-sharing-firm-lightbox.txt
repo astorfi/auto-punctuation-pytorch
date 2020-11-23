@@ -1,0 +1,5 @@
+
+ 
+ We get the impression that Facebook is on a big mobile photo sharing kick: just weeks after it bought Instagram for a cool billion, the social network has just hired the staff behind Lightbox. The two-man team of Nilesh Patel and Thai Tran is bringing its mostly Android- and HTML5-focused knowledge over to Facebook, where it's hoping to reach many, many more people. You'll have to wait awhile to see what the Lightbox team brings to Facebook's ever more mobile platform, but you'll also want to hurry if you want to keep anything hosted on Lightbox: the service shuts down on June 15th. As a consolation for the shutdown, the startup's code is being posted to GitHub so that the fruits of its efforts live on in open-sourced form.
+
+

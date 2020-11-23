@@ -1,0 +1,11 @@
+
+ 
+ Just as the leak last night indicated, Samsung is finally ready to deliver Ice Cream Sandwich to Sprint's Galaxy S II Epic 4G Touch. Samsung also announced today that US Cellular's similar but WiMAX-less SCH-R760 Galaxy S II is getting the same (Update: an entirely different) FF18 update as well. The changelogs are available at the source links below, interestingly Android Beam is mentioned since these devices lack NFC, it's hard to see how that could be on the list. US Cellular users can download and install the update right now using a SimpleDL tool on a Windows PC, however unfortunately there's no support for any other operating systems at this time. On Sprint the update is coming out OTA and will slowly arrive on devices over the next few days, but if you're impatient then we'd keep an eye on the thread at XDA Developers for reports on how well it works as well as some sideloaded workarounds.
+
+ Update: So sorry for US Cellular folks, it appears your wait will continue. While sharing a tag, the update for your phone resolves an issue with getting GPS lock... and that's it. There's always CyanogenMod or AOKP, right? Also, while we're at it, check out the updated ZDA Developers link to download ICS for the Epic 4G Touch directly, plus a quick how-to install video (embedded after the break.) [Thanks @jbro456]
+
+
+
+
+ 
+ 

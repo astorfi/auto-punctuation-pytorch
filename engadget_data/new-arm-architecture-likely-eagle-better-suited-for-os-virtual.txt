@@ -1,0 +1,6 @@
+
+ 
+Looks like that fake Pre with the iOS / BlackBerry OS split personality is a little ahead of its time, but ARM -- supplier of the architecture that underpins most of the world's smartphones -- likes the idea. In a recent talk at Stanford, ARM program manager David Brash talked up some of the highlights of new "extensions" to the existing ARMv7-A platform, and though he apparently never mentioned Eagle by name, it seems safe to assume that he was referring to the capabilities that Eagle would bring to the table when it launches in the next couple years. Notably, the extensions will break through ARM's current 4GB RAM limit by mapping 4GB windows of memory to each virtualized operating system, which dovetails nicely -- suspiciously nicely, in fact -- with VMware's recent talk of wanting virtualized phones capable of seamlessly switching between multiple platforms without any hacky bootloader solutions. We're definitely game for that, but considering that Eagle is still years away from retail reality, we're not bothering to clear space on our credit limit just yet.
+      
+
+ 

@@ -1,0 +1,21 @@
+
+ 
+
+Lock screen replacements for Android aren't exactly new -- some even come as part of a larger overlay that customizes your home screen experience entirely. However, few lock screen replacements do as much as Cover, a new invite-only solution that launches today, promises to do. Not only is Cover contextual so that it provides different lock screens for different locations and different times, it even learns which apps you use and places them front and center so you can return to them much quicker. Todd Jackson, Cover's CEO and co-founder, tells us the app recognizes your location not through GPS, but via geofencing with WiFi networks and cell towers. So when you're at work, it might display stock and weather apps, while entertainment options like Netflix and Pandora could be more prominent at home depending on your smartphone habits.
+
+
+Further, Cover's able to detect if you're in the car versus when you're on foot based on your phone's accelerometer and gyroscope. "It looks to see if the phone is moving on a single axis with constant acceleration -- that's how it knows you're in the car." This way you can have it come up with GPS apps when you're on the road, but walking directions when you're on foot. What has us particularly intrigued, is a unique "Peek UI" feature that lets you take a glance at an app without unlocking the phone -- simply hold down on the icon and slide right to reveal it. "As you're pulling it back, you can actually launch the app from scratch." The effect is surprisingly instantaneous.
+
+
+ 
+
+
+Cover is more than just a lock screen replacement, however. It also has a UI addition that aims to be smart app switching for mobile. For example, when you're in email, you can hold down on the top right to bring up a list of shortcuts with apps like the browser or maps, as those are what most people normally switch to when typing out a letter to a friend. "We want this to be like Alt-Tab for mobile, so you can jump directly between apps lightning fast," says Jackson. Last, but not least, Cover also has smart settings that let you set ringer volumes and wallpapers for the aforementioned geofenced locations.
+
+So if Cover is so wonderful, why isn't the company launching it to the public right now? Well, that's because it's still in beta. "We want the quality of the recommendation engine to be really good. We've only had 30 users in the alpha test in the past month and we want more data!" Jackson also wanted us to know that one of the key takeaways from Cover is that it's 100 percent committed to Android as a platform. "We're doing something that you can never do on an iPhone," he said, pointing out that the development cycle is very different from that on iOS.
+
+
+"We're making a huge bet on Android that this will be the operating system that billions of users will adopt over the next several years." With the plethora of Android phones out there, he hopes that Cover will be the one UI replacement that users will want to install in order to have a unified experience. "When consumers switch brands, we want the first app they want to install is Cover, in order to bring back that same user experience they know and love regardless of the phone they use." If that sounds like an intriguing proposition, check out the demo videos above or hit the source link below to sign up for an invitation.
+
+
+ 

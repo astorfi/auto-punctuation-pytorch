@@ -1,0 +1,16 @@
+
+ 
+What, you didn't think Apple was just going to sit around and take it after Motorola first sued for patent infringement and then asked to court to declare some 20 of Cupertino's patents weren't applicable to its products, did you? Apple's fired back with two lawsuits claiming that Motorola's Android phones, including but not limited to the Droid, Droid 2, Droid X, Cliq, Cliq XT, BackFlip, Devour A555, Devour i1, and Charm, infringe a total of six multitouch and OS patents. That would be pretty much par for the course -- you sue me, I sue you -- but there are a couple interesting strategic wrinkles to note:
+
+We've only seen Apple litigate one of these patents before: #7,479,949, Touch Screen Device, Method, and Graphical User Interface for Determining Commands by Applying Heuristics. You should remember it well -- it's the patent covering scroll behavior on multitouch screens that was hyped as "the iPhone patent" and triggered a press frenzy over a  possible Apple / Palm lawsuit. As we predicted at the time, that hasn't yet materialized, but old '949's gotten pretty popular: Apple's asserting it against Nokia and HTC as well.
+Apple might be suing over six patents in these two cases, but ultimately Apple will claiming Motorola's devices infringe a total of 26 patents -- part of Apple's defense to Motorola's 20-patent lawsuit will be to claim that Moto's in fact infringing each of those patents. That's a lot of patents across a lot of devices, and it'll just take one finding of infringement to cause a lot of pain.
+Apple's filed its two cases in the Western District of Wisconsin, a patent "rocket docket" that tries cases quickly and are often perceived as being plaintiff-friendly. (Part of the Apple / Nokia lawsuit is happening in this same court.) Moto's obvious next move will be to try and consolidate all these cases into a single proceeding at one court, a procedural tactic that will take likely take months. And that's just the first step. Don't expect these cases to be decided for at least a year -- probably many years -- unless Apple and Motorola decide to settle, which is always possible.
+Apple's now seriously engaged in litigation with the two largest Android handset makers (HTC and Motorola), largely over OS-level patents. At some point Google has to get involved, if only to indemnify its partners against further liability for using Android, and we can't help but think Apple and Google are eventually bound to face off directly. Or perhaps not -- by suing Android handset makers, Apple's essentially putting a tax on Android without having to further muddy up its complex competitor / partner relationship with Google by adding in a major lawsuit.
+
+We've added in a list of the patents after the break, if you're interested -- and we know you're interested, right? It's not like it's a beautiful Saturday afternoon or anything.
+      
+
+ 
+
+ 7,812,828, Ellipse Fitting for Multi-Touch Surfaces 7,663,607, Multipoint Touchscreen 5,379,430, Object-Oriented System Locator System 7,497,949, Touch Screen Device, Method, and Graphical User Interface for Determining Commands by Applying Heuristics 6,493,002, Method and Apparatus for Displaying and Accessing Control and Status Information in a Computer System 5,838,315, Support for Custom User-Interaction Elements in a Graphical, Event-Driven Computer System
+ 

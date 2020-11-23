@@ -1,0 +1,12 @@
+
+ 
+Ready for this speed freaks? Seagate just announced the world's first 2TB disk with full support for the third generation SATA interface pushing data at 6Gbps -- double the rate of previous controllers. The 3.5-inch SATA 6Gbps Barracuda XT drive spins 4x 500GB platters at 7200RPM with a big 64MB cache to prevent bottlenecks. It promises a sustained transfer rate of just 140MBps (compared to 600MBps / 4.8Gbps possible), MTBF of 750,000 hours, and carries a five-year warranty. The disk hits retail this week for about $299 list. Then you'll just need to find SATA 6G controller / MoBo to make the most of your new purchase -- fortunately, SATA 6Gbps is backward compatible with SATA 1.5Gbps or 3Gbps rigs until then.
+
+
+
+
+Show full PR text
+
+
+[Via TG Daily]
+      

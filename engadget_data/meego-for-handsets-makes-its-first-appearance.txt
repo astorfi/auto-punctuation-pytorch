@@ -1,0 +1,15 @@
+
+ 
+As promised, Nokia and Intel have revealed the pre-alpha version of MeeGo for handsets today, supporting the Intel-powered Aava reference phone and the Nokia N900. What's most interesting at this early stage is the UI, which appears to have taken a big Nokia-influenced step away from the Intel-designed MeeGo netbook and tablet UI -- and we're definitely detecting some hints of Android and webOS here and there. Seriously, just check out that task switching interface. Of course, MeeGo is open-source, so we're sure Nokia has some deeper UI customizations in store -- like homescreen widgets, which are notably missing here.
+
+On a deeper level, this build of MeeGo includes the base MeeGo APIs, including Qt and the MeeGo touch frameworks, the Firefox-based browser, a photo viewer, and some basic UI elements like the status bar, app launcher, and virtual keyboard. There are pre-built images for the Atom-based Aava handsets available now, but N900 owners will have to do a little building until someone makes an image available. Be warned, though: there's a long enough list of known bugs, and while that's totally fine for pre-alpha code, it might not be too fine for your device. That's not going to stop us from installing this thing, but you be careful, alright? And let us know how it goes. Video of the UI after the break.
+
+P.S. Given that the N8 is destined to be the last Symbian N Series device, we can't help but feel it's being overshadowed by MeeGo before it's even out. Can we pre-pour one out? Is that a thing? It is now.
+
+
+
+
+
+
+
+ 

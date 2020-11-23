@@ -1,0 +1,61 @@
+
+ Having pushed the Snapdragon S4 into an outrageous number of devices last year, it seemed inevitable that Qualcomm would come to CES 2013 with an even more fiery Snapdragon S5. As it turns out, that prediction was slightly off the mark. We do have new chips to talk about, thank goodness, but a change in the branding means they're actually called the Snapdragon 600 and 800. Both SoCs are due to arrive in high-end phones, tablets and smart TVs in the next three to six months, and both come with aggressive specs. If you haven't got the energy to read our slightly more detailed introduction after the break, then here are two key facts to take away:
+
+  Qualcomm hasn't quit the rat race for a life in academia and Kauaian beach huts  The heavyweight Snapdragon 800 promises a 75 percent performance lift over the S4 Pro, which ought to make it seriously, seriously fast. Read on for more.
+
+
+
+ Let's start with the 800 and that claim of 1.75x performance. Assuming it turns out to be true in practice, it'll derive from the following improvements relative to the S4 Pro:
+
+  a shift to a 28nm HPm ("High Performance for mobile") fabrication process  an upgraded Hexagon V5 digital signal processor  the adoption of 800MHz LPDDR3 memory to match up to the PC-like 12.8GB/s bandwidth of Samsung's Exynos 5  an all-new Krait 400 architecture running at higher clock speeds of up to 2.3GHz  an equally new Adreno 330 GPU that'll offer a double helping of compute power This SoC will be able to capture and play 4K video at 30fps, handle 2K video (or more precisely 2560 x 2048) at 60fps, and deliver the latest 7.1 channel DTS-HD and DD Plus audio standards.
+
+ The 800 should arrive by the middle of the year, but another upgrade option will get here even sooner, by Q2. This is the Snapdragon 600, which can be thought of as an S4 Pro with some significant architectural tweaks, a higher 1.9GHz max clock speed, a "speed enhanced" Adreno 320 GPU, and LPDDR3 memory. Qualcomm is specifically angling this chip against Clover Trail and Tegra 4, which suggests we could see it in a range of form factors very soon.
+
+ Needless to say, both the 800 and the 600 will come with a healthy array of wireless connectivity integrated into the chip, including 150Mb/s LTE with Advanced Carrier Aggregation, 802.11ac WiFi and Miracast HD 1080p.
+
+ Finally, there'll also be a Snapdragon 400 and 200 for less demanding smartphones and tablets, but they'll be announced properly later in the year and we have no detail on them as yet.
+
+  Show full PR text   Qualcomm Announces Next Generation Snapdragon Premium Mobile Processors
+   New Snapdragon 800 and 600 Processors Represent a Significant Performance Leap  For High-End Mobile Computing Devices -
+
+   LAS VEGAS – January 7, 2013 – Qualcomm Incorporated (NASDAQ: QCOM) today announced that its wholly owned subsidiary, Qualcomm Technologies, Inc., is sampling the first products in its latest generation of processors. With the introduction of its newest Qualcomm Snapdragon™ 800 and 600 processors, Qualcomm continues to lead the industry by once again raising the bar on performance per watt and delivering unparalleled user experiences.
+
+   The new Qualcomm Snapdragon 800 processors target premium mobile and computing devices. They are designed to deliver outstanding overall user experience, expand the possibilities of seamless connected computing and enable brand new mobile experiences while maintaining industry-leading battery performance:
+
+   - Visually stunning mobile experiences: Qualcomm Snapdragon 800 processors include the new quad core Krait 400 CPU, Adreno™ 330 GPU, Hexagon v5 DSP and our latest 4G LTE Cat 4 modem and deliver increased system performance and platform upgrades that further enhance user experience.
+
+   - The Qualcomm Snapdragon 800 processors will deliver up to 75 percent better performance than the Qualcomm Snapdragon S4 Pro processor and the move to 28nm High Performance for mobile (HPm) technology node ensures exceptionally low power
+
+   - New Krait 400 CPU in quad configuration, with speeds of up to 2.3 GHz per core offers best-in-class performance per watt, so processor performance can hold up to the more demanding processing and communication requirements of premium mobile devices  Additionally, asynchronous SMP architecture provides dynamic power sensing and control for peak performance per core, while extending battery life without the use of specialized cores
+
+   - New Adreno 330 GPU delivers more than 2x performance for compute applications over the current Adreno 320 GPU
+
+   - 2x32bit LP-DDR3 at 800MHz with industry-leading memory bandwidth of 12.8GBps  New Hexagon DSP V5 delivers floating point support, dynamic multithreading and expanded multimedia instructions for enhanced low power performance
+
+   - New IZat™ location technology combines multiple tracking systems into a single high performance, highly accurate navigation platform for auto and pedestrian applications
+
+   - Seamless communications anytime, anywhere: Qualcomm Snapdragon 800 processors offer fully integrated connectivity and a wide variety of communication options.
+
+   - Third generation 4G LTE modem with data rates up to 150 Mbps (Category 4), fully integrated in the new Qualcomm Snapdragon 800 processors
+
+   - 4G LTE Advanced Carrier Aggregation feature to maximize radio frequency bandwidth  World multimode and multi-band support using wafer level package (WTR1605)
+
+   - Integrated newest generation mobile Wi-Fi connectivity, 802.11ac
+
+   - Broad connectivity support with integrated USB 3.0, Bluetooth and FM
+
+   Breakthrough multimedia experiences: The Qualcomm Snapdragon 800 processors also introduce the very latest mobile experiences.
+
+   - Capture, playback and display in UltraHD video (with four times 1080p pixel density)  Dual Image Signal Processors (ISP) for Qualcomm Snapdragon Camera with support for computational camera
+
+   - HD multichannel audio with DTS-HD and Dolby Digital Plus for enhanced audio  Higher display resolutions (up to 2560x2048) and Miracast 1080p HD support
+
+   The Qualcomm Snapdragon 800 processors are currently sampling and expected to be available in commercial devices by mid-year 2013.
+
+   The Qualcomm Snapdragon 600 processor targets high-end mobile devices. The Qualcomm Snapdragon 600 processor is designed to deliver great performance, rich graphics and enhanced user experience and will deliver up to 40 percent better performance than the Qualcomm Snapdragon S4 Pro processor at lower power. The new processor offers system-wide architectural improvements, key component upgrades and expanded connectivity options. The Qualcomm Snapdragon 600 processor features a new Krait 300 quad-core CPU with speeds up to 1.9GHz, a new speed enhanced Adreno 320 GPU and support for LPDDR3 memory. The Qualcomm Snapdragon 600 processor is sampling now and is expected to be available in commercial devices by second quarter 2013.
+
+   "With the overwhelming success of our previous Qualcomm Snapdragon platforms, our mobile processors have emerged as the platform of choice for high-end mobile devices," said Steve Mollenkopf, president and chief operating officer of Qualcomm. "With more than 50 design wins already secured with the first products of the Qualcomm Snapdragon 600 and 800 processors, we are advancing our vision and setting the standard for excellence in mobile computing."
+
+   For more information and to see a demonstration of the Qualcomm Snapdragon 800 processors, as well as the newest devices powered by Qualcomm Snapdragon processors, please visit Qualcomm during CES 2013 (South Hall 3, Upper Level, Booth #30313), Jan. 8-11 in Las Vegas or visit www.qualcomm.com/snapdragon.
+
+ 

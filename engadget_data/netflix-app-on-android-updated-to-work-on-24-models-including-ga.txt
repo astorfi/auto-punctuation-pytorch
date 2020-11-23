@@ -1,0 +1,16 @@
+
+ 
+
+The number of Android devices officially compatible with the Netflix streaming app has more than doubled in v2.3, growing from 9 to 24. Last night the description was updated with a new list of devices but the actual updated APK only started pushing this afternoon, bringing Netflix not only to the Lenovo tablet announced last night but also to the Droid 3, HTC Thunderbolt, Motorola Atrix, several Galaxy S phones including the Epic 4G and Fascinate and more. Fragmentation is clearly still an issue for DRM'd apps like this and Hulu Plus, but at least now there's a growing number of recent superphones supported instead of sitting on the sidelines. We've got the updated list of devices after the break, hit the source link to download the app from the Android Market.
+
+Update: As multiple commenters have noted, sideloading the Netflix APK will still work for devices that haven't yet made the list. We were able to confirm the app works fine on the Galaxy Tab 10.1 and Motorola Xoom, however we're hearing it's not up and running on the Tegra 2-based Transformer just yet. Itching for some Watch Instantly on your Honeycomb tablet? Check XDA-Developers for a download link.
+
+Update 2: Alex wrote in to let us know that things are now operational on the Transformer, too. Check out xda-developers for the details.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+ 		Show full PR text 		Currently Netflix playback is supported on the following devices: 		• Casio G'zOne Commando C771 with Android 2.2		• HTC Droid Incredible		• HTC Droid Incredible 2		• HTC EVO		• HTC EVO 3D		• HTC G2		• HTC Thunderbolt		• Lenovo IdeaPad Tablet		• LG Revolution		• Motorola Atrix		• Motorola Droid		• Motorola Droid X		• Motorola Droid X2		• Motorola Droid 2		• Motorola Droid 3		• Samsung Droid Charge		• Samsung Epic 4G		• Samsung Galaxy S		• Samsung Galaxy S 4G		• Samsung Fascinate		• Samsung Nexus S		• Samsung Nexus S 4G
+ 

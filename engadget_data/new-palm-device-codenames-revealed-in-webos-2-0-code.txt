@@ -1,0 +1,5 @@
+
+ Had any doubts that HP would deliver multiple new phones? Here's a little something that should make you slightly less unsure. Homebrew hub WebOS Internals spent last week digging through SFR's webOS 2.0 build for the Palm Pre 2, and surfaced with the names Broadway, Windsor, Mantaray and Stingray, as well as the Roadrunner you're likely already familiar with. More telling, these five codenames appeared in a string designed to display the message "temporarily not restoring logs for newer devices," meaning they're all very likely as fresh as can be. Let's hope we can pin them to some fancy new hardware before the year is through. 
+      
+
+ 

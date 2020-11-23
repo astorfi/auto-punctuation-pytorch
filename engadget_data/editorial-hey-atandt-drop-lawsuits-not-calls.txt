@@ -1,0 +1,21 @@
+
+
+AppleInsider published a piece this week that does a good job rounding up the latest counterarguments we've been hearing against Verizon's claims in its suddenly ultra-aggressive attacks on archrival AT&T's network -- attacks that have offended AT&T right into getting the legal team involved. Both sides are applying enough spin to make you dizzy at this point, so let's break down the latest round of pot shots, shall we?
+
+Verbiage on Verizon's site suggests that swaths of its 3G network are still running at EV-DO Rev. 0 speed: false. In fact, 100 percent of Verizon's 3G coverage has been Rev. A since 2007 -- the wording refers to 1xRTT, which is the transport technology in use where EV-DO hasn't been deployed.
+You can't distinguish between EV-DO and 1xRTT on Verizon's coverage map: false. Turns out Verizon has one of the more comprehensive coverage browsers among top-tier carriers. The technologies aren't called out by name, but they're there -- they list compatible features in different coverage zones, ostensibly to reduce customer confusion since your average Joe (not to be confused with our own Joe Flatley) doesn't know or care what "1xRTT" means.
+EDGE approaches the "low end" of EV-DO Rev. A: false. At the top end of the specification, EDGE can theoretically approach 500kbps in a cleanroom environment -- but in reality, it runs at a fraction of that and suffers more severe latency issues in practice (which is sometimes a greater detriment to a mobile web browsing experience than raw speed) than UMTS and EV-DO. Heck, AT&T itself claims 75-135kbps. Meanwhile, we got 823kbps on the downlink in real-world modem use on Verizon's Rev. A.
+AT&T's 3.6Mbps and 7.2Mbps deployments are significantly faster than EV-DO Rev. A: true, but only in theory. We're getting downlink speeds ranging from the low 100s -- yes, 100s -- to the high 800s in Chicago and New York; Chicago's got a trial 7.2Mbps network that's live, but even if we're not connected to it (hard to say), we should still be on 3.6. We seriously have no idea what AT&T's doing behind the scenes with these rollouts, but in urban areas, at least, they're not helping. At all. And that's assuming we can help ourselves from dropping down to EDGE.
+AT&T's service is augmented by the nation's largest WiFi network: we won't even justify that with a rebuttal.
+Verizon's gaming the system by comparing only their 3G networks: the truth hurts, AT&T. Verizon's commercials would have you believe that by comparing only 3G coverage, Verizon wins by a country mile. And guess what? They do. To AT&T's credit, the 3GPP's WCDMA technology path is considerably more advanced and extensible than EV-DO Rev. A is, but beyond UMTS's simultaneous voice / data capability, the end user's experience is pretty similar in day-to-day use. We go where the faster real-world speeds (and the reliable calls) are.
+Verizon is "defending steep losses" with its anti-AT&T, anti-iPhone commercials: false. Verizon added 1.2 million net customers in the most recently reported quarter, excluding acquisitions.
+LTE is "still years away from viable use" on Verizon: false. They'll have 20-30 markets commercially live in 2010, which is 20-30 more than AT&T will have. It's not nationwide coverage by a long shot, but it gives the carrier a notable lead in the 4G transition since AT&T has sparsely detailed its LTE plans and isn't expected to go live with any markets until 2011 at the earliest.
+
+To be fair, Verizon's taking a questionable angle in its advertising by trying to associate 3G coverage with call reliability -- in AT&T's case, the two are totally, completely unrelated -- but the fact remains that for a bunch of New York, Chicago, and San Francisco-based Engadget editors, Verizon bests AT&T in both categories, and we're having a hard time arguing with personal experience.
+
+So listen, AT&T, we're sorry Verizon made you upset, but the solution's actually pretty simple: compete. Fix your network, keep scoring hot exclusives, and get hungry again -- because in a year or two, no one's going to give a damn that you used to have an exclusive on the iPhone.
+      
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,16 @@
+
+Qualcomm's nightmare has finally come true. Earlier today, MediaTek officially introduced the world's first true octa-core mobile processor, MT6592, and the first devices to feature it are expected to arrive as soon as end of year. This 28nm chip packs eight low-power Cortex-A7 cores, and courtesy of the Heterogeneous Multi-Processing use model on top of ARM's big.LITTLE architecture (though it's actually "LITTLE.LITTLE" in this case), all eight cores can operate simultaneously -- at up to between 1.7GHz and 2GHz, depending on the bin.
+
+
+MediaTek pointed that Chrome can already make use of all eight cores, and likewise with some map apps, video players plus multi-window function. According to the company's figures, the MT6592 manages to beat what appears to be the quad-core Snapdragon 800 in benchmarks, power consumption (as low as 40 percent) and temperature. You can see the full detail in this article's gallery. 
+
+
+
+
+
+
+There are plenty of goodies on the multimedia end. For starters, the MT6592 has an image signal processor that supports 16-megapixel camera modules. Then there's an ARM Mali-450 MP graphics processor clocked at 700MHz, which promises to deliver smooth full HD UI drawing at 60fps, as well as decent gaming performance -- as we saw on an alpha demo of MT6592-optimized Modern Combat 5 (video after the break), which is due March 2014 according to a Gameloft rep. The chip also does video frame rate upscaling to 60fps to reduce motion blur, along with 4K H.264 video decoding plus full HD H.265/VP9 playback -- the latter of which can save up to 40 percent of file storage space.
+
+What's left for MediaTek to do is to tackle the 4G space, which is still Qualcomm's stronghold at the moment. According to General Manager Xie Qingjiang, his company will launch its own 4G modem also by end of year, and device manufacturers will be able to start using it alongside MediaTek's quad-core or octa-core chips in the first half of 2014. Judging by how MediaTek went from being the 3G underdog in 2011 to a notable player today (with expected shipment of over 200 million chipsets this year), Xie feels confident about catching up with 4G. Ultimately, it'll also depend on the pricing of the devices using MediaTek's latest chip, and while Xie refused to make guesses, he referred to the affordability of current quad-core MT6589 handsets, so anything is possible.
+
+

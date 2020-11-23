@@ -1,0 +1,6 @@
+
+ 
+Cisco and company, you've got approximately seven days before a security researcher rains down exploits on your web-based home router parade. Seismic's Craig Heffner claims he's got a tool that can hack "millions" of gateways using a new spin on the age-old DNS rebinding vulnerability, and plans to release it into the wild at the Black Hat 2010 conference next week. He's already tested his hack on thirty different models, of which more than half were vulnerable, including two versions of the ubiquitous Linksys WRT54G (pictured above) and devices running certain DD-WRT and OpenWRT Linux-based firmware. To combat the hack, the usual precautions apply -- for the love of Mitnick, change your default password! -- but Heffner believes the only real fix will come by prodding manufacturers into action. See a list of easily compromised routers at the more coverage link.
+      
+
+ 

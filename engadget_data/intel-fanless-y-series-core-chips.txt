@@ -1,0 +1,4 @@
+
+Intel teased us with the prospect of a fanless Haswell chip back at Computex, but it didn't say just how it would achieve such a feat. Now we know: it's introducing more energy-efficient versions of the Y-series Core processors that were announced earlier this year. The new chips consume as little as 4.5W in a typical scenario, letting them run in tablets and detachable convertibles without the fans needed by their 6W peers. Don't expect blistering performance at this reduced power level, however. While Intel isn't divulging clock speeds just yet, the 4.5W Y-series chips have the same 11.5W thermal design power rating as their 6W siblings -- they'll still need active cooling to perform at their best. The company also isn't providing ship dates or naming customers, although it does promise that the extra-miserly Core CPUs should be available in the "coming months." We have an idea as to who might be interested.
+
+

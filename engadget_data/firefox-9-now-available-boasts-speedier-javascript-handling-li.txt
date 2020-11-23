@@ -1,0 +1,7 @@
+
+ 
+
+Internet feeling a bit sluggish recently? Yeah, we get that -- but before you sail the malware-laden sea of software that promises to "speed up" your computer, you may want to check out Firefox 9. Mozilla's latest browser update features a tweak in its Javascript engine that boosts its benchmark performance by over 30 percent -- meaning that the new Firefox ought to give script heavy websites a run for their money. In addition to the new Javascript trick, which is called Type Inference, Firefox 9 improves theme integration and swipe navigation for Mac OS X users. Have a need for (javascript) speed? Hit the source links below to get your fix, or simply wait for your browser to auto-update.
+      
+
+ 

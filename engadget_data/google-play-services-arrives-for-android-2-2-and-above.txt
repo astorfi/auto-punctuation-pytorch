@@ -1,0 +1,4 @@
+
+ Google recently announced to developers the availability of a new "Services" platform, to allow better integration of its core products in 3rd party apps. The update comes in the form of an APK that will automatically find its way to handsets with Android 2.2 and above. But, for the impatient amongst you, it's available for download directly from the Play store now. This first release centers around better integration for Google+ (for account sign-in / Plus buttons etc) and providing OAuth 2.0 functionality, but it's expected that deeper functionality with the Google universe will take root soon. Most handily, as Mountain View decided to deliver this in the form of an app / APK, there's no pesky waiting around for networks to get it to you. Read up on the benefits via the more coverage links, or head to the source to make sure you're on-board.
+
+

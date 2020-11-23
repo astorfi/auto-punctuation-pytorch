@@ -1,0 +1,4 @@
+
+It's tempting to imagine that Edward Snowden obtained NSA data through a daring Mission Impossible-style raid, but it now appears that he didn't have to put in much effort. Intelligence officials speaking to the New York Times say that Snowden used a standard web crawler, a tool that typically indexes websites for search engines, to automatically collect the info he wanted. He only needed the right logins to bypass what internal defenses were in place. Since the NSA wasn't walling off content to prevent theft by insiders, the crawler could collect seemingly anything -- and Snowden's Hawaii bureau didn't have activity monitors that would have caught his bot in the act. Whether or not you believe the NSA's intelligence gathering policies justified a leak, it's clear that the agency was partly to blame for its own misfortune.
+
+

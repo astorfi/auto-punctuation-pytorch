@@ -1,0 +1,5 @@
+
+
+Samsung has started manufacturing a PCIe (M.2) SSD that pulls off a rare trick -- it'll be the fastest drive your laptop has ever seen, while consuming almost no power in standby mode. The new SM951 SSD succeeds the Korean company's XP941, a drive that can already read data at a mind-melting 1.4 gigabytes per second (GB/s) clip. On newer laptops or desktops, its successor will shame that with 2.15 GB/s read and 1.55 GB/s write speeds (on PCIe Gen 3 tech) using new 10-nanometer-class MLC flash tech. It also sips 50 percent less power and only consumes a negligible two milliwatts in standby mode. The SSDs will come in 128, 256 and 512GB sizes, but only to major laptop and workstation manufacturers to start with. If it follows the XP941's footsteps, however, you'll be able to supercharge your own laptop later on.
+
+

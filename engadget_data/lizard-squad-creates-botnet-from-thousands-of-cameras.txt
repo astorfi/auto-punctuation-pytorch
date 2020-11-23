@@ -1,0 +1,10 @@
+
+The hacking collective Lizard Squad isn't relying solely on masses of compromised PCs to cause some grief online. Security researchers at Arbor Networks have discovered that the outfit compromised several thousand closed-circuit cameras and webcams to create a botnet that it promptly used for denial of service attacks against bank, gaming sites, governments and internet providers. Each device might not be as individually powerful as a PC, but they add up -- some attacks flooded sites with as much as 400Gbps of data.
+
+
+
+As to the reasons for infiltrating these cameras? Simply put, they're easy targets. The cams tend to run minimal versions of common platforms like Linux, with relatively little built-in security (in part due to the limited hardware) and reused login details. Combine that with buyers who seldom install patches and it's frequently just a matter of finding the cameras to install malware.
+
+The findings underscore the problems with security in the internet of things. When seemingly every device is connected, it's that much harder to keep everything up to date -- and that's assuming that hardware makers are committed to updates in the first place. These kinds of attacks may be commonplace until gadgets are more secure.
+
+

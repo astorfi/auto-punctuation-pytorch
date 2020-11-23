@@ -1,0 +1,13 @@
+
+What you see here is arguably be the coolest thing on display at Google I/O 2012 -- an 8-foot, 300-pound Nexus Q replica (complete with LED ring visualizer) mounted on a robot arm. This interactive installation called Kinetisphere was designed and fabricated by San Francisco-based Bot & Dolly and is controlled by three stations each consisting of -- wait for it -- a Nexus Q device and a Nexus 7 tablet. How meta is that? One station controls the height of the sphere, another its angle, and a third lets you pick the pattern displayed on the LED ring. Of course, it's all carefully synchronized to music for maximum effect.
+
+
+We spent a few minutes talking with Jeff Linnell of Bot & Dolly about what went into the making of Kinetisphere. As it turns out, there's a lot more to the installation than a Kuka industrial robot, fiberglass, plywood and steel railing. In addition to using the Nexus Q and Nexus 7, the company combined its expertise in motion control and automation with Google's Android ADK 2012, Autodesk's Maya and even Linux. Take a look at our gallery below then hit the break for our video interview and a lovely behind-the-scenes clip.
+
+
+
+
+
+
+
+ 

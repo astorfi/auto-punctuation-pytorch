@@ -1,0 +1,66 @@
+
+You're a grown-ass adult -- so stop using the same password for everything. Seriously, your cat's name followed by your birthday isn't fooling anybody. Don't be that guy (of any gender) who gets totally owned by ransomware. Pull up your big-person pants, walk with us through the baddies of threats and help yourself to our tips on how to totally adult your way through the nightmare that is modern computer security. Don't worry, you got this.
+
+
+
+RansomwareRansomware can happen to anyone. It has exploded into an epidemic over the past few years, infecting people, police departments, hospitals, schools and more.
+
+Ransomware is a malware infection that goes into your network and encrypts (locks) every file it can find while its presence remains hidden. Then a screen appears explaining that the files are locked until a bitcoin payment is sent (with instructions for sending the money). Payment is usually 1/2 bitcoin, which right now is around $500. Mess with the files or decline to pay and forget about ever opening those files and seeing your MP3 collection or bat mitzvah photos ever again. But if payment is sent, you get a key to decrypt everything within a few hours.
+
+Ransomware usually infects people through tainted email attachments, links disguised as legitimate websites or infected ads (on the site or in pop-up windows).
+
+
+Right now, there is no definitive way to prevent ransomware, but there are things you can do to help protect yourself.
+
+Never download attachments you don't expect. Double-check the spelling of any links to make sure they're legitimate spellings before you click, and avoid shortened links from untrusted sources. Turn off your email program's ability to automatically display images.
+
+Next, get your backup act together. Backups are definitely something that makes you an adult: You should have auto-backups set with everything possible. Apple's Time Machine is an encrypted blessing. CrashPlan is an example of a backup service that copies and stores your files on a regular schedule, and it also comes as standalone software.
+
+But when it comes to fighting ransomware, you want to have a separate set of backups that are out of reach of your network, because ransomware will also lock up any external drives you have attached or mapped. Make one big backup every 60 to 90 days (or more often if you'd like) that all goes on one external hard drive. Then unplug that hard drive from your network and put it on a shelf for safekeeping -- just in case.
+
+SurveillanceBetween broken security and an aggressive surveillance state, it often feels like the deck is stacked against us. Some people react by going overboard with surveillance paranoia, others sink into apathy and give up.
+
+When you start to learn about all the ways in which we're tracked, collected and surveilled by corporations, online creeps and governments, it's easy to feel overwhelmed. If you want to be an adult (i.e., neither of these extremes) about your privacy and fight back the creeping tendrils of surveillance that have soaked into our lives, you'll look for a sweet spot in the middle that's right for you.
+
+First, identify what kind of surveillance you're trying to fight. Is it government, corporate or another person? Research how each entity can spy on you and focus your attention accordingly.
+
+
+If you're looking to subvert government spying, look at privacy manuals for activists. The OPSEC for Activists series (1, 2, 3) by information security professional Ellie Armageddon is among the best you'll find. Also be sure to use encrypted apps for chat like Signal or Threema, stick to online connections that use https and use a VPN whenever you're using the internet outside of your home.
+
+Ideally, we'd all use encrypted email connections whenever possible, or when we feel it's necessary. However, setting up an encrypted email environment is a difficult task for nontechnical people. So it's no surprise that most internet users are still communicating via email services that don't have end-to-end encryption, like Gmail, Yahoo and others. One option is ProtonMail, which offers free and paid accounts. One Apple-only solution is GPG Tools, which you download and then configure to Apple Mail.
+
+Corporate surveillance is threaded throughout the fabric of our lives. It's insidious, tracking our every move online and off, through our phones and devices, with and without our consent. Facebook is still among the worst, and if you don't believe me, check out this new tool that shows how Facebook collects its data on you.
+
+You can limit the spying that corporations do in a range of ways, from de-installing their apps on your phone to drilling down into privacy settings and opting out of everything you can. Stop them from tracking your physical location and your browsing habits, and whenever possible, prevent apps from scraping your address books. Also, try your best to avoid using companies that have bad reputations for privacy and security abuses, and don't install disreputable apps. Use a robust browser that respects privacy and security, like Chrome, Firefox or Brave.
+
+To stop individuals from spying on you, like hackers, start with the things I've suggested to fight government spying: Use a VPN and encrypt your communications.
+
+But you should also take extra precautions. Never log in to any of your accounts on someone else's device, and don't let someone use your phone, laptop or tablet outside of your sight. Turn on two-factor authentication (2FA) on all of your accounts that have it as an option (Amazon and Google, for instance). Cover your webcam when you're not using it. Make sure all photos you take aren't leaking your location data; most apps have a setting that lets you toggle location on and off.
+
+Finally, the adult basics: Get your password life in line. Use a service like LastPass or (my favorite) 1Password, to remember your passwords for you. Those apps will keep all of them securely encrypted in a backup. Use that manager to make sure you're not reusing passwords -- that's one of the main ways hackers get you. They find old passwords of yours in old breach dumps (like Target or Home Depot) and go through your accounts everywhere to see if you've reused it. Use the password manager to create new, complex passwords that can't be easily cracked.
+
+BotnetsWe all love the convenience of connected devices, app-controlled lightbulbs and high-tech cars. But they come with many disadvantages, one of the biggies being that they can be hijacked by botnets.
+
+Botnets often harness the weak security of internet-connected devices, like DVRs, printers, routers, vending machines and cameras, to overload targeted businesses and websites with traffic. This is a network of bots that responds to the commands of their controller, and for those in the know, they're as easy to build as they are to rent or buy.
+
+While the flood of traffic from a botnet is usually used to take sites down, sometimes they're part of a scam to elevate search rank.
+
+
+It's difficult for us consumers to fight botnets because half the problem lies with the manufacturers of our connected appliances. The makers aren't practicing good security. But we can at least make sure our connected devices aren't using a simple or default password.
+
+Often things like routers ship with a basic password for our convenience in setup. That means all the routers have the same password, and most people don't change it -- making them quite easy to hack. So be an adult and go make sure the passwords on your internet-connected devices aren't the ones in the instruction manuals.
+
+Identity managementOne new buzzword that emerged from the recent RSA security conference in San Francisco was something called identity management. That simply refers to the user accounts we have on our devices and high-tech cars.
+
+The problem here is that previous owners' profiles aren't getting removed when the items are being resold. For instance, one man who presented at RSA found that after he sold his convertible, he could still use the car's app to control the vehicle, even though it was now owned by someone else. In that instance, his access to the car remained for four years.
+
+Of course, knowing is only half the battle. The other half is doing something about it. Security pros are finding that wiping devices or doing a reset isn't enough and that often previous user data remains connected in the cloud.
+
+Make sure you're removed from a device's account when you sell it (or throw it away; people dig this stuff out of the trash to reuse too). Contact the manufacturer and talk to tech support if you're not sure. Check all used devices you get to make sure no one's settings are still on them and that there's nothing in their connection history other than yourself. If there is, contact the manufacturer to have them removed.
+
+Adulting, accomplished
+That's it! Security might be one of those things that always manages to intimidate us into feeling like little kids in a world of grown-up threats. But hopefully this little guide helps you adult your way through it enough to keep your privacy, your identity and all of your files safe.
+
+Check out all of Engadget's "Adult Week" coverage right here.
+Images: Getty Images/iStockphoto (email); ER_Creative via Getty Images (CCTV); Getty Images/iStockphoto (IoT network); AndreyPopov via Getty Images (jumping people)
+

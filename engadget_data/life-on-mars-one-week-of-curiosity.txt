@@ -1,0 +1,50 @@
+
+ 
+ Is there life on Mars? NASA's latest mission to the red planet might well answer that question, or perhaps the more pertinent question, was there life on Mars. At 10:02 AM EST on November 26th last year, the space agency's Mars Science Laboratory (to give the mission its full name) set off on its eight-month journey to the red planet. The most advanced equipment ever sent to the planet -- and the biggest-ever rover -- should allow exploration of some of the most interesting regions, over far larger distances than ever previously covered. On arrival, after negotiating a tricky landing, the mobile laboratory (that's Curiosity) will spend a Martian year (687 Earth days) analyzing rock samples and seeking evidence of conditions suitable for microbial life or -- we can live in hope -- actual evidence of the same. After the break, we take a look at some of the key events over the first seven days on the planet's surface.
+
+
+
+  The Mars Descent Imager Instrument (MARDI) shows the heat shield after separation from the craft.
+ The descent
+ At 01:32 AM EDT on August 6th, the rover Curiosity successfully negotiates its descent to the surface of Mars, landing at the foot of a mountain within Gale Crater. Just a few minutes after landing, the first tantalizing images start to make their way back to earth.
+
+  "Today, the wheels of Curiosity have begun to blaze the trail for human footprints on Mars. Curiosity, the most sophisticated rover ever built, is now on the surface of the Red Planet, where it will seek to answer age-old questions about whether life ever existed on Mars" --NASA Administrator Charles Bolden
+ Curiosity on its descent to the planet's surface.
+  The Jet Propulsion Laboratory team celebrates the successful landing.
+  One of the first high-resolution images to come back from the Curiosity rover.
+ Initial checks
+ Once safely on the planet's surface, more patience is required as the rover has to perform health checks and assess its tilt before it can tackle the fun part of roving the landscape looking for samples. Day one, or "Sol 0" as the team refer to it, is when we start seeing the first images return to earth, 5MB in total.
+
+ The two main Mastcams were developed by Malin Space Science Systems, and while the specs may seem humble for a $2 billion project -- two megapixels and 8GB of Flash memory -- Mike Ravine from the firm explains to dpreview that these specifications have to be set in stone long in advance (2004 in this case). And due to the UHF communication setup, only about 30MB of data can be returned each day. Even this is shared between various systems. Wondering about the focal lengths? Mastcam-34 has a 34mm lens, or a 35mm-equivalent focal length of 115mm. Meanwhile, Mastcam-100 sports a 100mm lens (343mm equivalent). If you want to know more about all the cameras on board, Wired has created a handy Photo-Geek's Guide.
+
+  The view from the hazard-avoidance camera with and without the clear dust cover.
+  The first hi-res shots from the head-mounted navigation camera.
+  A clear view of the rover's deck.
+ Finding its feet
+ As health checks continue, Curiosity sets about getting more familiar with the lay of the land. Gale Crater is its current home, and today the rover will raise its mast, and perform tests on the high-gain antenna. This is also the day when the first color image is received back home, showing the rocky landscape in all its famed red glory.
+
+ How does a rover find its way around such a distant land? In no small part, it's thanks to ECU Alum Scott Maxwell, who not only writes the software that drives the rover; he is one of the crew that controls it also. Pretty good bragging rights we'd say.
+
+  Color images start arriving back at base. Yep, definitely a red planet.
+  Curiosity takes a good look at itself.
+ Soaking up the view
+ The MSL team wakes up Curiosity on Sol 2 with a dose of The Beatles' "Good Morning Good Morning." Overall status of the rover continues to be good, and full-frame images begin relaying back via the Mars Descent Imager (MARDI). Today is when we also see the first 360-degree panorama. It's patched together from thumbnails, and is black and white, but it gives us the first chance to imagine the full landscape.
+
+  Like those Google Maps tiles that refuse to load. 360 degrees on Mars.
+  Taken from the first color panorama and showing blast marks from the descent.
+  The full landscape in color.
+ Sol 3 is ushered in to the tune of "Good Morning", this time from the musical "Singin' in the Rain." Today, the flight team uploads some files to the rover's remote electronics unit memory -- we're not sure of the connection speeds they got -- in preparation for a forthcoming upgrade. The main Mastcams appear to be working well, and completes 360-degree and calibration checks. Meanwhile, the science team starts mapping off a 150-square-mile area within Gale Crater.
+
+  The left side of the rover, and the blast marks left during the descent.
+ OTA updates
+ An over-the-air update is a tense moment even when you're right next to the router, let alone when you're millions of miles away. We're confident the NASA team knows what it's doing though, and don't expect Curiosity to become the world's most expensive brick. The "brain transplant" will retool some of the redundant main computers to make them more useful for forthcoming sections of the mission. In fact, from the start, Curiosity was designed to receive periodic updates as its task requirements change.
+
+ This particular update enables the rover to better check for obstacles, which will let it drive longer distances and avoiding any costly collisions. That's an insurance claim we'd love to see.
+
+  A small section taken from a hi-res panorama, see the full-size image here.
+  More higher-resolution images start arriving back at base.
+ 
+ Want to see more pictures, or continue following the journey? Head over to the Mars Science Laboratory's dedicated sub-site for all the latest.
+ [All images courtesy of NASA]
+
+

@@ -1,0 +1,11 @@
+
+ Want to know how to make a pool table an attention-grabber on a showroom floor full of highly explosive video games? Try a couple of Kinect cameras, some projectors and a sound system. OpenPool's an open-source project that's looking to bring a little multimedia action to the world of billiards. The company had some reps on the floor of SXSW's Game Expo today, showing off the system, which, at the very least, is most probably unlike any pool game you've played.
+
+ The system uses two Kinect cameras to detect ball movement, which in turn directs the motion of the projectors -- not entirely unlike those floor shows in malls that seem to endlessly fascinate small children. The speakers play sound effects and music in sync with the movement as well, signaling noises when balls drop into the pockets. The company is really excited at the prospect of open-sourcing here, and told us you should probably be able to set up your own system at home for around $10,000, pool table included. For those who aren't particularly tech-savvy, the Japanese company is working on building full systems for offices and bars. Having Konami as a partner will certainly help it realize that dream. Check out a video of the table in action after the, you know, break.
+
+
+
+
+ 
+ Zach Honig contributed to this report.
+

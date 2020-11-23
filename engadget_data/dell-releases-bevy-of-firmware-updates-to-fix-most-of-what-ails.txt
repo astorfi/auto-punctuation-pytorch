@@ -1,0 +1,10 @@
+
+       
+Remember Throttlegate, the epic saga of warmth-averse Dell laptops turning themselves into 100MHz clunkers whenever temperatures rose above freezing? The issue has been plaguing some users for months, but less than a day after we posted about it Dell had a BIOS update ready for its Latitude E6400 and E6500 series machines, timing that can only be explained as coincidence. Dell also released an update to quiet noisy Seagate drives in a number of its portables, seemingly the same issue that plagued MacBook Pros over the summer -- great news for anyone who hates disks that sound terminal. However, there's still no solution for the Studio XPS 1645 complaints we also reported about, and now we're hearing that the Alienware m15x may be similarly under-clocking itself. Oh how deep the throttlehole goes...
+
+Update: It seems all still isn't well. Most are indicating an improvement with this BIOS update, but according to many in comments some machines are still not operating at full speed. At this point it looks like Dell is working openly with users to come up with a more final fix, so we're optimistic... for some reason.
+
+[Thanks to everyone who sent this in]
+      
+
+ 

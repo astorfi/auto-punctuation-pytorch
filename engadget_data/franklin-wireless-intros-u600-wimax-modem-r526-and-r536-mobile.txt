@@ -1,0 +1,8 @@
+
+       
+Franklin Wireless supplies modems (primarily of the CDMA variety) to a number of carriers across the Western Hemisphere, and they've introduced a handful of rather interesting new products in that vein here at CTIA this week. First up, the U600 is an EV-DO Rev. A / WiMAX hybrid USB modem with a 270-degree swiveling USB connector for those ridiculously hard-to-manage ports (ahem, Apple), integrated GPS, and zero-CD installation -- all pretty standard features these days, and we saw a Sprint-branded unit at Franklin's booth which leads us to believe we'll be seeing it at retail shortly.
+
+Much more interesting, though, was a pair of pocketable WiFi routers -- the R526 and R536 -- that support EV-DO and EV-DO / WiMAX, respectively. Most of the units were unbranded, but we did spy an R536 done up in snow white with a Clear logo slapped up top, so you can pretty much gather that this thing will be filling a glaring hole in Clear's lineup (right now, the best you can do is a USB modem plus the Clear Spot, which is basically a branded Cradlepoint). What intrigued us about the R536 the most was the fact that it's got the functionality of an Overdrive packed into a smaller, more MiFi-esque form factor without any of the Overdrive's bells and whistles, so it'll be a great alternative as long as it performs well and has enough juice to last a couple hours off the power grid; the 3G-only R526, meanwhile, had an Ethernet jack stuck on the side, which is kind of cool in the rare event that you need to connect a WiFi-less device and you don't want to go through the hassle of installing a new driver. The R526 launches in April (with what carrier, we're not sure) -- as does the U600 -- while the R536 should start to trickle out in May.
+
+
+

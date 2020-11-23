@@ -1,0 +1,9 @@
+
+ So this is why they do phased rollouts, eh? If Twitter is the font of truth and reality that we suspect it to be, it sounds like users of some Windows Phone 7 models by Samsung are struggling with that minor first update that Microsoft started pushing this week. Basically, it sounds like the update isn't consistently completing; it some cases, users get an error message, and there doesn't appear to be any way to roll back or restore the prior firmware and get the phone back to a working state. Mass bricking is probably the greatest fear of software engineers before deploying handset updates to the field, so it's a good thing they're taking it slow; of course, that's not much consolation to the folks who are stuck making a call (on someone else's phone) to Samsung support.
+
+[Thanks, jdog25]
+
+Update: the::unwired is reporting information straight from Microsoft on how to fix a "bricked" device that doesn't complete the update, and it's deceptively simple: just pull the battery, put it back in, and turn the phone on. Failing that, perform a hard reset. Either way, the company is recommending you don't attempt the update again until the phone reminds you, which it says will happen in about three days.
+      
+
+ 

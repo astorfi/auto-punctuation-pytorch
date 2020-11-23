@@ -1,0 +1,37 @@
+
+
+The eventual demise of Google Reader gave existing services like Feedly an opportunity to land hundreds of thousands of new users, but the sudden gain of popularity demands an infrastructure that can handle the load. By opening its APIs to the masses today, Feedly says it's officially making the transition "from a product to a platform," supplying developers and RSS users alike with a painless migration path from Google's soon-to-be deceased reader. To go along with that, the company also announced a novel version of Feedly on the web, one which doesn't require any extensions or plugins and is accessible via browsers such as Internet Explorer and Opera.
+
+
+As the image above shows, the freshly minted cloud platform already offers support for a slew of third-party applications, and Feedly says numerous other devs are currently working on their own for the near future. Now, if you didn't think Mountain View's recent spring cleaning could have a huge influence in such a short span of time, hear this: Feedly's touting that its user base has more than tripled since the announcement, making the jump from 4 to 12 million through the end of last month. Only time will tell if Feedly ends up being a worthy Reader replacement, so perhaps now would be the perfect instance to start deciding whether or not this will be the proper solution to all your RSS needs.
+
+
+
+Show full PR textFeedly Cloud is Now Available to All Users
+Seneca once said, "Luck is what happens when preparation meets opportunity."
+
+When Google decided to put Reader out to pasture, feedly was given a tremendous opportunity. But it is also an opportunity we have been planning for some time.
+
+Following up on our original post on our Normandy initiative, as well as the June 30 blog post on our new functionality and design partners, today we are pleased to share more good news with the feedly community.
+
+As of today, feedly cloud is now live, providing a fast and scalable infrastructure that serves as the backbone to feedly, as well as a number of connected applications. Feedly cloud is open today to all users visiting http://feedly.com, providing a simple oneclick migration path from Google Reader. And thanks to the great developer community that has gathered around it, providing multiple safe and sound alternatives to Google Reader. With the release of feedly cloud, feedly today transitions from a product to a platform.
+
+We are also today delivering a new, completely stand-alone Web version of feedly.
+
+A fast and scalable infrastructure Feedly cloud is currently processing over 25 million feeds everyday, crunching through billions of articles. We built it to scale, and it is amazingly fast.
+
+A pure web interfaceFeedly cloud also powers a brand new, standalone Web version of feedly (no plugins or extensions needed), making feedly available from any browser, including Opera andInternet Explorer. This was one of the most requested features, and we are thrilled todeliver on this today.
+
+Awesome apps
+
+The feedly cloud has an open API which allows third party developers to design and implement great content centric applications that will enhance the feedly experience.
+
+Over 200 developers have contacted us to get access to the feedly API, and many are currently working on building innovative reading experiences. Today we are announcing the first feedly cloud applications:○ Sprout Social○ Nextgen Reader○ Press○ gReader○ Newsify gNewsReader for BlackBerry 10 and for Symbian/MeeGo○ Pure News Widget
+
+Over the coming weeks and months we look forward to adding more names to this list. There are only 10 more days before Google Reader is going away. Built on a fast and scalable infrastructure, powering a great collection of apps, and now complete with a pure web interface, feedly cloud is the best replacement to the Google Reader infrastructure.
+
+Let's all wish Google Reader a happy retirement!
+
+Head to http://feedly.com and migrate your Google Reader to feedly cloud in one click.
+
+

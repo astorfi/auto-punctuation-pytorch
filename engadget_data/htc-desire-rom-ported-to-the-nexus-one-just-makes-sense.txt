@@ -1,0 +1,8 @@
+
+ 
+It's no secret that the HTC Desire is the exact same hardware as the Nexus One with a Sense-based Android build on top of it, so it shouldn't be any surprise that an enterprising hacker has already started porting the Desire's ROM over to Google's baby. Interestingly, the system file is a little too big for the Nexus One's internal storage, so some rearranging was necessary, and not everything works yet, but it's a start -- and apparently Flash 10.1 is included and enabled, so this one should be a hot ticket when it's released.
+
+[Thanks, Thalib]
+      
+
+ 

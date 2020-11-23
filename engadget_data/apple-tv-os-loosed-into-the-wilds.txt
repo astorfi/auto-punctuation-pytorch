@@ -1,0 +1,5 @@
+
+ It was just a matter of time until the eminently hackable Apple TV OS was released into the wild. After all, the OS and internal disk drive has already been ripped from the svelte chassis, mixed in with higher density disks, and burned back into Apple's set top box. Of course, the 200MB Apple TV OS image is likely locked to Apple TV hardware and runs on Intel procs only, but these are just minor annoyances as we've seen before. Given its mach kernel and BSD origins, it won't be long before Apple TV becomes the homebrew happy-hacking platform of choice. Hear that team XMBC, there's a new sheriff in town. Now please, somebody enable that goofy USB port for something a bit more useful than "service," mkay?
+      
+
+ 

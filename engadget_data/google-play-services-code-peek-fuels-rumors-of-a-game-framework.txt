@@ -1,0 +1,4 @@
+
+ Android may be improving its reputation as a gaming platform, but there isn't a consistent, official service that can tie everything together -- Google has no parallel to Xbox Live or Game Center. That might be changing, if Android Police's snooping around the Google Play Services component of the MyGlass app is any indication. A seemingly innocuous "games" folder includes what appears to be a Google Play Services gaming framework: achievements, in-game chats, rankings and invitation-capable multiplayer lurk inside. None of these are accessible to regular users, though, so it's unclear whether the references represent a glimpse into an upcoming gaming strategy or just an instance of developers leaving in code that's normally destined for the scrap heap. We're hoping there are some proper answers at Google I/O.
+
+

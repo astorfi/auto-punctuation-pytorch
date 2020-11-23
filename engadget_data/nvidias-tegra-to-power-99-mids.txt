@@ -1,0 +1,6 @@
+
+ 
+NVIDIA's really promising the moon here, and if they even halfway deliver we could have a real "game changer" (as they say in the business) on our hands. What's on offer is a theoretical $99 slide-out keyboard MID, running a Tegra 600 chipset and Windows CE -- NVIDIA, as usual, offers the innards and the concept, but will leave it to manufacturers to create (and price) the actual units. The device could handle HD video playback, "days" between battery charges and always-on wireless connectivity. This form factor lands in between NVIDIA's Tegra APX chipset for smartphones and ION GeForce chipset for netbooks, and if it actually delivers it seems like it could actually make MIDs viable in the market. Of course, there's the question of what sort of Windows CE skin it'll take to make this fun to use for the target market -- perhaps the fact that Tegra is coming to Android in the near future is enough to make this all moot, but we're willing to give the $99 MID a fighting chance.
+
+
+

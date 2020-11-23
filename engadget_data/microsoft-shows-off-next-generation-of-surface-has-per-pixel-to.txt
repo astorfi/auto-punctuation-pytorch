@@ -1,0 +1,6 @@
+
+ 
+Microsoft's Surface still isn't for consumers, but it's getting a whole lot wilder. We just saw the next generation of Surface, which has infrared "pixel sense" detection in each pixel, meaning instead of multiple single points of touch, the screen can image your entire hand in all its detail. This should allow for some pretty wild UI improvements, but Microsoft's primary demo was the tried-and-true rippling water effect. The technology was developed in conjunction with Samsung, and measures four inches thick -- it's obviously not going into your next tablet. Under the hood is an AMD CPU / GPU combo. The wildest part, however, is pictured above: placing a piece of paper with writing on it on top of the screen / sensor lets you "scan" the contents of that piece of paper. Microsoft showed us a demo of a bank application that lets you swipe a mailer up against the screen and have it be detected and read by the screen. As for a release, there's no word on when this is coming out, but Microsoft says it will be cheaper than the current generation of Surface when it does. We asked about the potential for this sort of technology in smaller form factors, and were told it only scales down to around 24-inches, and we really get the feeling that Microsoft doesn't have any plans to bring Surface to Joe Consumer any time soon.
+
+
+

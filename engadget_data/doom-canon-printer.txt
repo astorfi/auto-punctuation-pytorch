@@ -1,0 +1,5 @@
+
+
+It's been over twenty years since the original Doom first hit PCs, and we're still obsessed with getting the damned thing running on just about everything with a processor. See that tiny screen up there? That's a Canon PIXMA printer that's been coaxed into running the classic shoot-em-up, thanks to a bit of elbow grease and an once-insecure web interface that lets users remotely print test pages and download firmware updates. Since you didn't need to punch in a username and password to access that interface, security researcher Michael Jordon used that oversight to get the lowly-printer to executing foreign code. The end result? Yet another device we can use in our apparently never-ending war against hellspawn (though the color palette does get a little screwy sometimes). Naturally, don't expect to pull the same fast one on your own for much longer -- Canon plans to release a fix the issue as soon as it's "feasible".
+
+

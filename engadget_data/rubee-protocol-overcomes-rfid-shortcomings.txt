@@ -1,0 +1,5 @@
+
+ Just when you thought you were safe from RFID-snooping technology, a new contactless transmission system comes along that promises to make your lead-lined wallet obsolete, thanks to its ability to transmit data though metal and liquid (not sure about liquid metal though). The IEEE has just tasked a working group with finalizing the specs on the so-called RuBee protocol, which uses magnetic -- as opposed to radio -- signals in order to transfer information, making it useful for so-called "harsh environments" where RFID chips fail,  such as retail locations where shoplifters line their bags with aluminum foil to fool anti-theft systems. While RuBee's similar transmission range and cost would make it seem like a no-brainer replacement for current RFID applications, its relatively slow speed makes it unsuitable for tracking the numerous, moving products in a typical warehouse. RuBee-enabled devices will also have the advantage of transmitting data directly to the Internet, and with backers like Sony, HP, IBM, Best Buy, and Tesco, you can bet that we'll be hearing more about this tech in the coming year.[Via The Inquirer]
+      
+
+ 

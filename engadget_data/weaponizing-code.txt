@@ -1,0 +1,95 @@
+
+
+
+When the US Bureau of Industry and Security published how it plans to implement the sections on hacking technologies in a global weapons trade pact called the Wassenaar Arrangement (WA) last week, it ignited an online firestorm of meltdowns, freakouts, and vicious infighting within the most respected circles of hacking and computer security. That's because the new rules change the classification of intrusion software and Internet Protocol (IP) network communications surveillance -- setting in motion a legal machine that might see penetration-testing tools, exploits and zero-days criminalized.
+
+Some suggest the new classifications also seem designed to give the US a market advantage over the buying, selling, import and export of certain tools used in cyberwar -- a currently black market, in which the US government is already the biggest player.
+
+
+
+Code as a weapon
+When controversy began to erupt this week about government intent to outlaw zero-day sales, BIS Director Randy Wheeler didn't make anything better when she confirmed to Threatpost that the rumors were true. She explained that the development, testing, evaluating and productizing of exploits, zero-days and intrusion software would now be controlled -- considered illegal to export without a permit -- but, confusingly, added that the same illegal status would not apply to vulnerability research.
+
+"Vulnerability research is not controlled, nor would the technology related to choosing, finding, targeting, studying and testing a vulnerability be controlled," she said.
+
+Her statement, albeit unintentionally, gave weight to what information security professionals are saying in increasing volume -- that the government may literally not understand what it's talking about.
+
+Sergey Bratus, the chief security advisor for the Institute for Security, Technology, and Society, and research associate professor in the Computer Science Department at Dartmouth College, explains the problem simply. "Exploits are proofs of vulnerabilities," he says. "Without a working program -- an exploit -- I and my colleagues cannot claim that the security vulnerabilities we write about actually exist, no more than a physicist can claim that a physical phenomenon exists without successful experiments."
+
+Information security experts say this puts a swath of hacking (security research) into a legal gray area.Bratus told Engadget, "Wassenaar's attempts to regulate are based on poor definitions such as 'intrusion software' and on jargon such as 'zero-days' and 'rootkits' (in recent BIS' proposed rules). WA's 'intrusion software' concept is deeply flawed. It does not correspond to any distinct category of software technically, and, I suspect, legally. 'Rootkits' and 'zero-day exploits' are jargon terms, still without standard textbook definitions, and meaningless outside the context of professional discussion. For example, antivirus vendors use instrumentation that in other contexts would be called 'rootkits,' despite the technologies being the same."
+
+He warned, "As written, Wassenaar controls apply to basic building blocks and artifacts of security research. Without offensive research pointing out new threats, cyberdefense will suffer and forever lag behind."
+
+Information security experts from code slingers to attorneys say this puts a swath of hacking (security research) into a legal gray area, potentially criminalizing hacking, and making certain kinds of code illegal to export without a permit. Many are worried about the impact on companies in the business of legitimate sale of exploits and zero-days to other businesses as bug fixes, and it has the potential to turn some researchers, by default, into "patriot hackers" by forcing them to go down fewer channels to get paid for their research.
+
+These concerns, not surprisingly, are causing freakouts in nearly every corner of the information security sector. Bratus echoed the tweets of many when he told us, "The authors of this regulation may have believed that they were targeting a narrow group of products; as written, their regulation actually targets fundamental security technologies, and the most promising paths of their future development."
+
+
+The Wassenaar Arrangement is a global pact among 41 nation-states that oversees export controls on munitions and arms like tanks, missiles and guns. It includes "Dual Use Goods and Technologies," such as spent nuclear rods and, in a 2013 addition intended to rein in cyberwarfare tools, "intrusion software." How each nation state interprets and implements the agreement in local laws varies from country to country.
+
+Since then, the US, a Wassenaar member, has been considering how to implement the change in its Export Administration Regulations (EAR) consistent with US national security and foreign policy interests. Notes on how the US was going to implement the software section into crime and punishment, a la export controls and permitting, were supposed to be announced in September 2014 (the EU adopted the 2013 changes in October of last year).
+
+Attorney Clif Burns said that many speculated the delay was because the BIS might have been struggling with Wassenaar's sweeping definition of "intrusion-detection software." He added, "But we were wrong."
+
+Instead, the BIS managed to make things worse.
+
+Burns said, "Many have pointed out this definition would cover programs that permit auto-updating without user intervention, such as, for example, the Chrome browser, which updates itself in the background and circumvents protections normally imposed by the operating system to prevent installation or modification of programs without user intercession."
+
+He added, "The definition of sandboxing as a protective measure will subject programs that permit rooting or jailbreaking of mobile telephones to export controls."
+
+The BIS managed to make things worse.Jon Callas, co-founder of PGP and CTO of global encrypted communications service Silent Circle added, "I think they are doing something that is superficially laudable, trying to control that which we might laughingly call 'cyberweapons.' However, part of the problem is that it isn't clear what they want to do."
+
+Or perhaps the approach is, quite simply, dated. "At a more basic level is the way that Wassenaar covers dual use," Callas noted. "Dual-use technology covers things that make sense -- spent nuclear fuel rods, advanced jet engines and so on. But it also covers crypto, GPS (it's a navigation system), high-end video cards (because they're compute engines) and so on. It made sense, for example, to consider GPS a dual-use item in the 1980s. It doesn't now that every cellphone has it. Similarly, there was a day when crypto was reasonably dual-use."
+
+Callas noted wisely, "It is no longer that day. It's not actually making progress to put anti-malware into the same bin."
+
+Thought crimes
+The entire issue is raising troubling questions of enforceability. Last month, the Department of Justice indicted four US companies and five individuals for the illegal export of certain electronics -- physical technologies -- to Iran. But if BIS extends the DoJ's beat to criminal prosecution for exporting zero-days and exploits, it might face an uphill battle in the US.
+
+Jason Schultz, associate professor of Clinical Law and director of NYU's Technology Law and Policy Clinic said this is most likely because "it is hard to prove intent to encourage an attack against a specific target and the information itself is often simply knowledge, and not even code. That said, if cyberwarfare treaties become anything real to deal with, they might give rise to prosecution for mere trading, but it will be tough to prove that an exploit is a weapon just because it works."
+
+In addition, many believe the fear of possible prosecution will have a chilling effect on the speech of researchers who would ordinarily disclose dangerous problems for the benefit of public safety, employing the information security best practice known as "full disclosure."
+
+The practice was borne largely out of the necessity that public awareness (disclosure of bugs, zero-days, exploits and vulnerabilities) is often the only thing that forces companies to fix their (known) security problems.
+
+The fear of possible prosecution will have a chilling effect on the speech of researchers.Bratus is positive this will affect consumers, which is about the last thing we need to hear when there's seemingly a new data breach spilling our private information out online every day. "Without a lively exchange in the security community, the very people who WA aims to protect will be left without meaningful information about threats to their security, entirely reliant on vendor security and vendor disclosure," he said. "This will leave them worse off than they are now, and more exposed to attacks and subsequent private data theft."
+
+Wassenaar is not legally binding, but its controls are implemented by national legislation within its 41 member countries, so enforcement will vary -- putting international travel onto the new list of unknown risks for security researchers.
+
+Undermining security with a play for market control
+Ostensibly, the idea with Wassenaar's foray into intrusion and surveillance tech is to rein in both exploit and zero-day sales under dangerous weapons export rules, because they can be used as digital weapons by despotic regimes and criminals alike.
+
+Except, as Callas pointed out, "Wassenaar doesn't include South Asia (including India, China and Indonesia), most of South America (the only country is Argentina), most of Africa (South Africa is the only country) or West Asia (including Israel, Iran, etc.)."
+
+Where Wassenaar leaves off is where controversy begins around domestic intent, shining an uncomfortable light on the role of the US in the cyberwarfare business and the global exploit market.
+
+Callas explained that the new rules BIS is set to impose indicate a curious sort of overreach by the US. "Wassenaar is often a cover for things that a country wants to do. You've seen the things proposed by the US. I'm sure you've also seen what is going on in Australia. Wassenaar doesn't mandate that they do anything, and certainly doesn't go as far as what they're proposing, even."
+
+After the United States, Israel, Britain, Russia, India and Brazil are the biggest exploit buyers and sellers.The RAND report commissioned by Juniper Networks and released last year, "Markets for Cybercrime Tools and Stolen Data," explained the black market for exploits and zero-days has changed from a "varied landscape of discrete, ad hoc networks of individuals motivated by ego and notoriety, [and] has now become a burgeoning powerhouse of highly organized groups, often connected with traditional crime groups (e.g., drug cartels, mafias, terrorist cells) and nation-states."
+
+
+It's important to note that the biggest transformation to the exploit market (the hacker's black market) in recent years has been the influx of government money: notably US government money.
+
+According to the Center for Strategic and International Studies in Washington, after the United States, Israel, Britain, Russia, India and Brazil are the biggest exploit buyers and sellers. North Korea is also a stakeholder in the market, as are some Middle Eastern intelligence services.
+
+Indeed, a 2013 report (PDF) by the European Centre for Information Policy and Security noted that, "A request under the Freedom of Information Act led to the release of the NSA's contract with the French company VUPEN made in September 2012 for a [12-month] subscription to VUPEN Binary Analysis and Exploits Service. This allows NSA the access to software backdoors and zero-day exploits."
+
+The Economist reported that back in 2013, "Laws to ban the trade in exploits are being mooted. Marietje Schaake, a Dutch member of the European Parliament, is spearheading an effort to pass export-control laws for exploits. It is gathering support, she says, because they can be used as 'digital weapons' by despotic regimes. For example, they could be used to monitor traffic on a dissident's smartphone. However, for a handful of reasons, new laws are unlikely to be effective."
+
+The Economist concluded, "As an American military-intelligence official points out, governments that buy exploits are 'building the black market,' thereby bankrolling dangerous R&D."
+
+In a perverse twist, the conditions for a government power play on the exploit market have had an unlikely ally: the ACLU's principal technologist and senior policy analyst.
+
+
+Chris Soghoian, with the ACLU's Speech, Privacy and Technology Project, is a longtime vocal opponent of governments buying exploits. Over the past few years, he has publicly campaigned that exploits and zero-days are "digital arms" and that anyone engaging in their sale should be subject to a regulated global market.
+
+Soghoian once famously told Slate, "Just as the engines on an airplane enable the military to deliver a bomb that kills people, so too can a zero-day be used to deliver a cyberweapon that causes physical harm or loss of life."
+
+Now that the US government appears all too happy to help make this happen, the public backlash within infosec circles against an unapologetic Soghoian is blistering. It has turned into a fight fracturing a culture that typically stands together to protect code as free speech, to fight against government overreach and uphold the free exchange of ideas in security research.
+
+Law blog Lexology notes, "While BIS has proposed a way to implement these new controls, it has acknowledged that the impact of this rule is unknown, and it welcomes comments from exporters on the anticipated impact on their business." Changes to Wassenaar are currently in the comment period, which closes July 20th.
+
+Either way, if the goal is keeping the technologies of oppression out of the hands of despotic regimes, it's clear that Wassenaar and its distillation into BIS' new rules are primed to miss the mark in every way.
+
+Correction: This story originally referred to attorney Clif Burns as Bryan Cave, which is the name his firm.
+

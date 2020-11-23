@@ -1,0 +1,6 @@
+
+ 
+As we'd suspected, AT&T isn't intentionally limiting upload speeds on iPhone 4s in some markets where things suddenly got slow over the weekend. Or that's the company's claim, anyhow -- and seeing how they're actually calling out a supplier in the process, we tend to buy it. Specifically, AT&T says that some Alcatel-Lucent equipment (which isn't used in all markets) is causing uploads to fall back to non-HSUPA UMTS speeds "under certain conditions" affecting "less than two percent" of the company's customers, and that they're working on developing a fix. "Less than two percent" seems a bit optimistic, but regardless, at least it shouldn't be a permanent condition for anyone. Here's the full statement:
+"AT&T and Alcatel-Lucent jointly identified a software defect -- triggered under certain conditions – that impacted uplink performance for Laptop Connect and smartphone customers using 3G HSUPA-capable wireless devices in markets with Alcatel-Lucent equipment. This impacts less than two percent of our wireless customer base. While Alcatel-Lucent develops the appropriate software fix, we are providing normal 3G uplink speeds and consistent performance for affected customers with HSUPA-capable devices."
+
+ 

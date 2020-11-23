@@ -1,0 +1,6 @@
+
+ 
+We're almost there, almost to the release of the Native Client we first got wind of last May. It is, basically, a way to run native code within a browser -- low-end stuff capable of delivering performance good enough for 3D games and the like. Christian Stefansen, a Google Product Manager, said that the stuff is getting closer to delivery, that the team behind it has reached an "important milestone," that code will be "as portable and secure as JavaScript." It was of course security, or the lack thereof, that derailed Microsoft's plans for this sort of functionality in Internet Explorer via ActiveX, a stigma that technology has still yet to escape from. Will Native Client do better? Will Crysis ever be available in the Chrome Web Store? Could a Cr-48 run it anyway? Questions questions...
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Microsoft delivered the first half of two promised ATI Digital Cable Tuner-related updates as the 1.19.12.09050155 firmware update is now available from Windows Update (listed with the optional udates) that will relax the way it handles DRM on its recordings and add support for Switched Digital Video. With the new update applied, all Copy Freely-marked programing will be recorded without DRM allowing you to move it between PCs, convert it to another format or whatever you wish with ease, however as our hands on experience with the new firmware indicated you'll still need your cable provider to pass along the right bits to make it all operate properly. Still waiting in the wings is the Advisor Utility that will allow Digital Cable Tuners to work with any PC, no OEM purchase or hacking skills required. [Thanks, Rob]
+      
+
+ 

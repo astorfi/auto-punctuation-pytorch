@@ -1,0 +1,23 @@
+
+As predicted, Microsoft is using its Build developer conference to launch Windows Phone 8.1, the latest and (we hope) greatest version of its mobile OS. The company's fed us a bunch of information about the update already, and a vast number of leaks have covered nearly all remaining features. Still, it's about time for us to get the skinny on everything the new upgrade entails, so let's break down exactly what you can expect from Windows Phone going forward.
+
+
+
+
+
+Microsoft's Joe Belfiore took the stage and talked up (among other things), new hardware partners like Prestigio and Micromax that should help the company penetrate those valuable developing markets. As multiple leaks have pointed out ahead of time, 8.1 indeed comes with a notification center (called the Action Center) that users can invoke by swiping down from the top of the screen -- from there you can view and dismiss your email and social notifications as well as toggle WiFi and Bluetooth connections. Pretty standard fare, if you ask us.
+
+What's a little less standard are WP8.1's customizable lock screens: Developers can tweak them in some pretty stunning ways, though Microsoft hasn't yet said when they'll actually get access. Throw in the ability to set your own images as the background for your Live Tiles and you've got yourself a level of personalization that's been sorely lacking from Windows Phone to date.
+
+
+And yes, Cortana is here too. She completely replaces the standard Bing search interface in Windows Phone... which makes sense considering she's powered by Bing anyway. But what can she actually do? Cortana can handle the usual tasks that you'd expect of a modern digital assistant: She can make calls and send messages, as well as jot down reminders.
+
+Third-party developers can tap into Cortana as well so users can call out to them by name (think "Skype, call Michael"). Want to make her even smarter? Users can also define their interests (think sports, traffic updates) in a "notebook" so she knows what to keep tabs on in the future. On-stage demos have a history of turning sketchy quickly, but Belfiore's repeated voice interactions with Cortana sounded surprisingly natural. No stilted computer-speak here -- Microsoft may have finally crafted a digital assistant worth talking to. That said, she's still firmly in beta for now.
+
+Considering Windows' prevalence in the workplace, it's no surprise that Windows Phone 8.1 has some new IT-friendly features too. There's support for enterprise VPNs, along with signed and encrypted messaging to keep those corporate secrets under wraps.
+
+There are plenty of other makeovers here too. The updated Windows Store does a better job of introducing you to featured apps once it's been fired up, and it's now easier to sort through them all based on categories like "top paid" and "new + rising." WP8.1's Calendar has also been tweaked lightly: A tiny weather icon lives in corner, and we can now look at a week's worth of appointments in one shot. A newly added Wi-Fi Sense feature streamlines the process of jumping on a wireless network, and the on-screen keyboard now supports what Microsoft calls "Word Flow" -- the now-familiar ability to trace out words by dragging your finger over keys.
+
+That's quite a bit to cram into a single update, and the only question that remains is when we can get our grubby mitts on it. Windows Phone 8.1 will be pre-installed on new devices that could hit as soon as the end of April, and the update will hit existing models in the "coming months."
+
+

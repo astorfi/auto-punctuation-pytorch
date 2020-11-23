@@ -1,0 +1,9 @@
+
+ 
+Browser betas, like puberty, can be a confusing time. Sure, we're eager to be getting new functionality, but all the crashes and compatibility breaks and unrequited crushes can be a bit tough to handle. Now Mozilla is giving us something big for all our blood, sweat and acne: Firefox 4 Beta 5 has Direct2D hardware acceleration on by default. We tested it out real quick, and it seemed to speed up most HTML5 tasks considerably while inexplicably slowing a couple down, but we're sure all will be ironed out in time for the final version of Firefox 4 to go head to head with Microsoft's own upcoming hardware accelerated contender, IE9. Unfortunately, the speedups only apply to Windows for now, Mac and Linux are being left out in the GPU-less cold, but we suppose they should be used to that by now. Other perks in the update include HSTS, a successor to HTTPS in secure surfing, and HTML5 Audio, which allows for all sorts of audio processing and analysis at the browser level. You can check out a quick demo of hardware acceleration after the break.
+      
+
+ 
+
+
+ 

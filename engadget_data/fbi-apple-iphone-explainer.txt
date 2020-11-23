@@ -1,0 +1,51 @@
+
+The iPhone 5c belonging to Syed Rizwan Farook, the man behind the San Bernardino terror attack that left 14 dead, is in the hands of the FBI. It could -- potentially -- contain information about the shooting, including the names and contact information of other terrorists. The handset might even contain evidence of other planned attacks. But the FBI isn't sure, because Farook's iPhone, like many devices, has a passcode. That numerical PIN is now at the center of one the most important privacy debates in recent memory.
+
+
+
+The government asked Apple to help the FBI access the contents of the phone, later following up with a court order when Apple refused to cooperate. CEO Tim Cook took to Apple's site on Wednesday to voice his opposition. In an open letter, Cook says that the order "has implications far beyond the legal case at hand."
+
+The government has already showed that it's capable of abusing mass-surveillance and tracking technology. In light of the Snowden revelations, which continue to shed light on a country that spies on its own citizens, it's little wonder that many people have applauded Apple's response.
+
+
+This is just the latest action in a quest by law enforcement to add backdoors (access to a product that circumvents its security) to hardware and software alike. The government wants to get at the files and messages of suspected criminals while privacy advocates and tech companies see the potential for abuse. In the case of Apple versus the FBI, that argument has been reduced to a three-page order from the Department of Justice.
+
+The DOJ is not asking Apple to turn off the phone's security or bypass the PIN. It wants Apple to make it easier for the FBI to get into the device by guessing the passcode, without destroying the encrypted data on the phone. Specifically, the order signed by US magistrate judge Sheri Pym says Apple "shall assist in enabling the search" of the suspect's iPhone by creating a special firmware that would only work on that particular device.
+
+The software image file (SIF) that the judge wants Apple to create would disable the security feature that erases the phone's contents after 10 unsuccessful login attempts. It would also disable the time limits that grow longer after each failed attempt and allow authorities to connect the phone to a computer to "brute force" the passcode so that officials don't have to tap it into the phone by hand.
+
+Only Apple knows if this is technically feasible. But security firm Trail of Bits believes it's possible. The firm's CEO, Dan Guido, said during a webcast on Wednesday that even if Apple did comply but the suspect used a six-character alphanumeric passcode, it would "be too large to brute force."
+
+Cryptography researcher Dr. Yehuda Lindell also believes it's possible to get into the phone, but it could be expensive and leave Apple open to security risks. "It may also involve finding new flaws to exploit in the current system," he told Engadget. "The problem is that once this is done, then it can be used again. In actuality, the mere knowledge that it was done will make it easier for others to find out how," he added.
+
+But Apple isn't arguing about technical feasibility; it's concerned with legal precedent.
+
+"The implications of the government's demands are chilling," Cook says in his letter. "If the government can use the All Writs Act to make it easier to unlock your iPhone, it would have the power to reach into anyone's device to capture their data." The company fears that once you create one backdoor, other agencies and governments will come calling for access.
+
+Apple is not alone in its concern. The EFF and ACLU have come out in support of Apple's position, as has Google CEO Sundar Pichai. In addition to privacy and security concerns here in the US, there's the question of what the order means for people who use these kinds of devices abroad. RSA CTO Zulfikar Ramzan told Engadget that "putting in a backdoor opens up a Pandora's box. If you allow one party to bypass protection mechanisms, how can you ensure that another party will not do the same?"
+
+The White House insists that access to a single device is not a backdoor. Security researchers disagree. Ramzan believes that even though this will only circumvent the security of a single phone, "ultimately a backdoor is any intentional change to a system that weakens its security capabilities for the putative benefit of one or more parties."
+
+
+A federal law enforcement official speaking anonymously to Engadget said the FBI is seeking narrow access to a single device. It's not asking Apple to supply a backdoor or access to the data on the iPhone, he says; the FBI wants to preserve the evidence that's there by allowing the agency to brute force the passcode.
+
+Eileen M. Decker, US attorney for the Central District of California, said in a statement, "We have made a solemn commitment to the victims and their families that we will leave no stone unturned as we gather as much information and evidence as possible. These victims and families deserve nothing less."
+
+In short, then, the government's goal is to catch criminals. That's led it to explore other avenues when dealing with technology. Indeed, a report by The Intercept claims that the CIA has been trying to break into iOS devices for at least six years. And it's not just the United States that's interested in getting into iPhones either.
+
+In fact, Apple is a huge target for hackers and nation-states. Exploit merchant Zerodium recently offered a $1 million bounty for any iOS 9 zero-day vulnerabilities. The order includes the option of letting Apple keep the iPhone with the custom SIF at its headquarters but with remote access for the FBI. If that's the case, the chances of this custom exploit leaking are extremely thin. But if Apple is able to create a custom firmware that can be used to circumvent its encryption, others will feel challenged to attempt the same.
+
+There's no guarantee that once the FBI accesses the data it won't then take the phone, reverse engineer the custom OS Apple built for it and use it to penetrate other phones in the future, without Apple's help. If the company is forced to comply, then, it's not handing the government the keys to its encryption but instead giving it a pretty sweet lock-picking set.
+
+
+"Certain jailbreaks in the past have made use of custom firmwares," Synack security researcher Patrick Wardle told Engadget. "So this really isn't a novel thing, or a novel attack vector." He also stressed that in order to get into the phone, a hacker or government agency would still need to have physical access to the device.
+
+That eliminates over-the-air attacks. But if a person is in custody or her phone has been stolen, brute forcing the PIN could be as simple as hooking the phone up to a computer and waiting.
+
+For the end user, what happens in the days, weeks or months to come could determine how devices are built in the future. Companies could go one of two routes. One option is to build products that make it easy to comply with court orders and warrants. In other words, they'd have backdoors built in. The other strategy is to create devices that even the company can't unlock. Apple says it has done this starting with the the A7 processor, used in the iPhone 5s and later. Because of the additional hardware encryption built into these processors, the company says it can't get into anyone's device using their passcode.
+
+But Trail of Bits' Dan Guido believes that because Apple can send updates to the chip itself, it could potentially create a workaround, like the custom OS the government is asking for. Again, only Apple knows what it can and can't do with the products it creates.
+
+One thing that's certain is that if Apple is forced to do what the government wants, it will open a door that can't be closed. Once an exploit is created, no matter who does it, it's out there. It could be good for law enforcement. But the civil rights implications could be chilling, to use Tim Cook's word. And with the world watching, the consequences of an exploit built for a single phone in FBI custody could have privacy, security and law enforcement consequences that will reverberate for years.
+
+

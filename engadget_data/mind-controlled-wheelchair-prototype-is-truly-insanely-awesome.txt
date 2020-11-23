@@ -1,0 +1,8 @@
+
+ 
+We've seen brain-controlled wheelchairs in the past, but we've never seen them in action. This one, developed and built at the University of Zaragoza in Spain, uses an EEG cap worn on the head, using a P300 neurophysiological protocol and automated navigation. The user sees a real-time visualization of his surroundings on the screen in front of him, and then concentrates on the space which he wants to navigate to. The EEG detects the location, which is then transmitted to the autonomous navigation system, which then drives the chair to the desired location, avoiding any obstacles that might be in the way. Once the location has been chosen, the user can sit back and relax while the chair does all the work, making the use of the system far less mentally exhausting than some previous iterations which demand constant concentration on the target. Although there is no information about commercial availability of the wheelchair, it has been successfully tested by five different participants in a study. There's a video with a more detailed explanation of its impressive operation after the break.
+
+ 
+
+
+ 

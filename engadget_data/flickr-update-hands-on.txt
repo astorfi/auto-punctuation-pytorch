@@ -1,0 +1,15 @@
+
+Flickr's one of the elder statesmen of the online photo sharing world, but in recent years its UI has grown a bit long in the tooth when compared to the eye candy provided by other kids on the social sharing block. That's all changed as of today, as Marissa Mayer's team has overhauled Flickr's look on the web and in its Android app. Out goes the old layout, where text and white space commanded almost as much real estate as your photos, and in comes a tiled layout that's nothing but images.
+
+
+
+ 
+The differences are immediately apparent upon logging into the service, as users are greeted with a generous tiled view of their contacts' most recent uploads. The number of stars or comments for each photo is instantly visible on the lower right. Groups and Explore categories are now siloed to the side, with a link to Flickr Blog underneath. Below that is a list of people Flickr thinks you might want to add to your contacts, presumably based on your existing friends list. 
+
+Head on over to your own photostream, where all your photos are now given the large picture treatment. Hovering over any given photo populates a translucent gray bar across the bottom that displays the number of comments on the image. Clicking on an image from your Photostream takes you to an individual image page, which is largely the same layout as before -- the picture's up top, with image info, comments and thumbnail nav to other pics in the photo stream displayed underneath. The same feel goes for all other pages in the new Flickr, from your Sets and Favorites to photos from your Contacts. It's a much cleaner, more streamlined experience.
+
+
+Similarly, the Android app puts the emphasis on images, greeting users with rows of recommended pictures revealed via vertical scrolling, and those rows can be explored individually with sideways swipes. App navigation is hidden in a lefthand sidebar, where users can access their contacts, groups and comment activity directly, along with search and settings options as well. Nestled in the top right corner is a button that launches the camera app to take a shot or enable you to tweak photos already taken using Flickr's built-in filters. None of the features themselves are new to the service, of course, but the UI certainly does make using them more pleasurable.
+
+Nicole Lee and Jon Fingas contributed to this post.
+

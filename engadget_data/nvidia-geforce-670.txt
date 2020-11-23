@@ -1,0 +1,49 @@
+
+ 
+ This'll be old news for some lucky folks, but NVIDIA has just unveiled the GeForce GTX 670 graphics card. It aims to bring Kepler to gamers who don't have off-shore bank accounts, with a price tag of $399 (or £329 in the UK, and €329 in Europe). What sacrifices will be made to reach that bracket, compared to the flagship GTX 680? A loss of 192 CUDA cores, for starters, plus a slightly slower 915MHz base clock speed, which will no doubt have an impact on benchmarks -- we'll do a review round-up shortly to figure out just how much. Nevertheless, you'll still get the same 28nm chip architecture and 2GB of DDR5 RAM, along with NVIDIA's GPU Boost technology that autonomously overclocks the processor to make use of available headroom. In terms of official performance claims, NVIDIA has chosen to compare its benchmarks to AMD's high-end Radeon HD 7950 and boasts that the GTX 670 comes out on top every time by a margin of 18 to 49 percent. Of course, the war of words is little more than performance art at this point, so stay tuned for independent tests.
+
+ Meanwhile, gaming-friendly manufacturers like Origin and Maingear have declared that they'll carry the card alongside the 690 in its desktop offerings -- you can learn more about that after the jump. 
+
+
+
+
+  Show full PR text   NVIDIA Kepler Juggernaut Rolls On With Launch of GeForce GTX 670
+   New GPU Brings Fabulous Performance, Power, and Acoustics to Gamers Everywhere
+
+  SANTA CLARA, Calif.-May 10, 2012-NVIDIA today launched the third GPU based on its next-generation Kepler™ graphics architecture, the GeForce® GTX 670, which brings dramatically improved levels of price-performance, power efficiency and whisper-quiet operation for PC gamers, starting at £329 including VAT / EUR 329 excluding VAT.
+
+   Engineered from the same DNA as the recently announced GTX 680-NVIDIA's top-of-the-line, single-GPU-the GTX 670 packs a mean punch in its lithe 9.5-inch-long frame. It outpaces the closest competitive product in gaming performance by upwards of 45 percent,(1) while consuming approximately 18 percent less power.(2)
+
+   Plus, the GeForce GTX 670 ties the competition's much higher-priced flagship product on 25 of the world's most popular games and benchmarks, a testament to the overall performance efficiency of the Kepler architecture.
+
+   The GTX 670 is built using NVIDIA's 28-nanometer Kepler architecture, as are the GTX 680 and dual-GPU GTX 690, which were introduced in March and April, respectively.
+
+   Availability
+
+   The NVIDIA GeForce GTX 670 GPU is available now from the world's leading add-in card suppliers, including ASUS, EVGA, Gainward, Gigabyte, Inno3D, KFA2, MSI, Palit, Point of View, PNY, and Zotac.
+
+   More information about the GeForce GTX 670 is available from www.GeForce.co.uk. For more NVIDIA news, company and product information, videos, images and other information, please visit the NVIDIA newsroom. You can also access GTX 670 product photos from the NVIDIA Flickr page located at: www.flickr.com/nvidia.
+
+   Show full PR text   ORIGIN PC Launches the New NVIDIA GeForce GTX 670 Graphics Card  Faster, Smoother and Richer Game-Changing Innovation
+
+  May 10, 2012, 9:00 am EST, Miami, FL, – ORIGIN PC is excited to announce the launch of the new NVIDIA® GeForce® GTX® 670 graphics card to their award-winning desktops. The GeForce GTX 670 graphics card taps into the powerful, new, GeForce architecture to deliver a faster and smoother gaming experience. It also brings richer gaming environments to life with support from the latest NVIDIA advancements like surround multi-monitor gaming on a single card, supercharged PhysX®, 3D Vision® and SLI® technology.   The new NVIDIA GeForce GTX 670 Graphics Card features:
+
+   1344 NVIDIA CUDA Cores and 2GB of GDDR5 Graphics Memory  Surround multi-monitor gaming on a single card that supports up to three gaming monitors and one accessory display  ORIGIN PC Professional GPU Overclocking
+
+   Supercharged NVIDIA PhysX® and NVIDIA 3D Vision® that delivers a game-changing experience
+
+    "ORIGIN PC is always excited to launch the latest NVIDIA GeForce GTX Graphics Cards and the GTX 670 is a nice addition to our award-winning desktops because of its game-changing innovation" says Kevin Wasielewski, CEO/Co-Founder of ORIGIN PC.
+
+    About ORIGIN:  ORIGIN builds custom, high-performance desktops, workstations, and laptops for hardware enthusiasts, digital/graphics artists, professionals, government agencies and gamers. ORIGIN PCs are hand built, tested, and serviced by knowledgeable gaming enthusiasts, industry veterans, and award winning system integrators. Every ORIGIN PC comes with free lifetime 24/7 support based in the United States. The ORIGIN PC staff is comprised of award-winning, experienced experts in the gaming and PC markets who want to share their passion with other enthusiasts. ORIGIN PC is located in Miami, FL and ships worldwide. For more information, please visit www.ORIGINPC.com or call 1-877-ORIGIN-Ø. (674-4460)
+
+   Show full PR text   MAINGEAR ADDS MORE AFFORDABLE NVIDIA GEFORCE GTX 670 TO DESTKOP LINEUP   Kenilworth, New Jersey – May 10, 2012 -MAINGEAR, an award-winning PC system builder offering custom desktops, notebooks, workstations and media centers, is one of the first to offer the new NVIDIA® GeForce® GTX 670 graphics solution that offers a more affordable solution without sacrificing performance of NVIDIA's GeForce architecture.
+
+   The NVIDIA GeForce GTX 670 is the latest game changer powered by 2GB of GDDR5 memory and 1344 CUDA cores and has seven streaming multiprocessors instead of eight found on the GTX 680. Even with one less multiprocessor to the GTX 680, gamers will be able to experience gaming realism with NVIDIA ® Surround, Nvidia 3D Vision® Surround™ and PhysX® rendering incredibility detailed environments and characters in full 1080 HD or even 2560x1600 with a single graphics card. The GTX 670 features NVIDIA® GPU Boost; this advanced technology dynamically maximizes clock speeds to bring out the best performance in every game. The GeForce GTX 670 also supports new NVIDIA temporal antialiasing (TXAA) technology that minimizes "jaggies" to deliver the ultimate combination of quality and performance.
+
+   The new GeForce GTX 670 can be found in MAINGEAR's critically acclaimed line of VRTX (Vertical Exhaust) Cooling Technology desktops: the SHIFT, the F131, and the Potenza. With a motherboard rotated 90 degrees to exhaust hot air out the top of the chassis, cool air is easily brought in from the bottom, making for a quieter, more reliable, and simply better performing PC. The low noise signature and power consumption of the GTX 670 combined with the heat stack design of these award-winning systems make for a potent combination of serene operation and killer performance.
+
+   "The New GeForce GTX 670 combined with our desktop innovation equal a game changer in both aspects of performance and affordability." said Wallace Santos, CEO and Founder of MAINGEAR. "Offering a faster, smoother and richer pc experience is what MAINGEAR and NVIDIA always deliver."
+
+   All of MAINGEAR products are supported with lifetime labor and phone support with one to three year hardware warranties. For more information about MAINGEAR's desktops with the new NVIDIA GeForce GTX 670, go to www.maingear.com
+
+ 

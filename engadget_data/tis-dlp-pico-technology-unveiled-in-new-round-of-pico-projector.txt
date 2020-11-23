@@ -1,0 +1,5 @@
+
+       At last year's CES, Texas Instruments was simply demonstrating prototypes of its DLP Pico technology; this year, it's officially showcasing the real deal. The aforesaid chipset is currently residing within the WowWee Cinemin line and Optoma's PK-101, but here's something you didn't know. Evidently, the chip will also be a critical part of pico projectors from Samsung (the MBP200 with an SD card slot), BenQ (the GP1 with an integrated USB port; available in March for $599) and Toshiba (TDP-F10U Mobile LED Projector). Also of note, BUG Labs will presumably be introducing a module of its own dubbed BUGprojector, which will enable legible beaming of 480 x 320 images at just eight inches away along with stereo playback and a brightness of 9 lumens. Lastly, TI itself has announced that a DLP Pico Projector Kit which sports an HVGA resolution, a universal power supply and a few other integral components necessary for integrating it into consumer, industrial and medical products.Read - TI's DLP Pico roundupRead - TI DLP Pico Projector Kit
+      
+
+ 

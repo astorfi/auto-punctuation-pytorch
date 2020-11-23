@@ -1,0 +1,33 @@
+
+ Gary Kovacs, (current) CEO of Mozilla, just took the stage here at D:Dive Into Mobile 2013 in New York City. It's apt to be his last major stage appearance before stepping aside in order to "go back to his roots," as described here, and hosts Ina Fried and Walt Mossberg were on hand to grill him on ongoing developments before he heads for other pastures. To start, Walt asked why the browser needed to be the operating system on a phone. Kovacs' reply?
+
+ "The browser doesn't need to be the operating system; it needs to incorporate the web. Such that discovery is easy, such that multiple stores can be accessed from the device -- so we aren't locked in, or generally encouraged to be locked within a single ecosystem." 
+
+
+
+
+ From there, Walt continued: "Individuals don't care about the web versus apps -- it's absolutely meaningless to normal people across the world. People like apps, and have a vast preference for using apps."
+
+ Kovacs shot back: "It's not that apps are bad or good, but both need to live -- and the web was unnecessarily blocked out for some reason. "
+
+ There are apps that do lots of different things, and it took 22 years to get two billion people online. In just a few more, we'll be to four billion. Quickly, we're going to double the connected world, and most of them are coming from the developing world -- a huge chunk are below the poverty line. And in these cases, choice matters. If we unlock the ecosystem, more options will surface. Once you standardize on the general framework, development happens -- I've yet to be convinced that all of the connected peoples will be getting their content from one company, regardless of how excellent they are."
+
+ 
+ Ina then interjected: "Why would someone choose your Firefox OS device over a low-end Android phone?" It's a fair question, given that Android's explosion has brought on gobs of new apps, and outside of those that block ads, it's noted as being the easiest large app ecosystem to get a program into. So, why select Firefox over any number of Android phones?
+
+ According to Gary: "Two answers: in the early days -- by the way, we're talking about a version 1.0 product -- our whole mission is to stimulate the ecosystem, just like we did with the desktop browser. Once the standards were set, connected users exploded. Particularly in Silicon Valley and New York, we see the world through high-end devices, but those don't exist in most of the world. In the short term, it'll be brand appeal -- we're launching in areas where Firefox has good brand recognition."
+
+ Ina then pressed Kovacs on when and where these first devices would launch, and he didn't really elaborate beyond what we already knew: "We'll see it first in the developing world -- four to five launch countries by summer, and 11 more by the end of the year. They're all in test / preview now. Venezuela, Poland, Brazil, Portugal and Spain are launching first."
+
+ From here, Walt pivoted in order to go on a tirade about the perversion of devices through the carriers; in other words, the scenario where carriers load up all sorts of branded items before a phone is ever unboxed by an end user. Walt point-blank asked Kovacs: "Aren't you just being the enabler of this kind of behavior?"
+
+ 
+ Unsurprisingly, Gary offered this: "No, because it's not locked to a carrier. Our code is open source, while we just keep the control to keep it open and manage the privacy controls. A carrier can't lock it down and control it, with the updates and changes happening via the web. It'd be pretty impossible for me to say that carriers can't install whatever they want, but it can't be locked to the carrier."
+
+ As things were wrapping up, Kovacs did a bit of soul searching about his time at Mozilla: "I've represented a (historically) browser-based company, and we've done a bad job. Our best innovation is to take huge browser screen [for desktop] and shrink it [for mobile]. I know we're working on a new browsing experience, and Google is as well -- I'm pretty sure that someone will soon 'do an Apple,' and change the browser experience altogether. Perhaps it won't look like a browser at all. We follow the innovation in that space, and I've seen some prototypes that are really, really different."
+
+ Finally, Walt asked the question quite a few have been wondering about: "Why isn't there a Firefox browser for iOS?"
+
+ Kovacs' reply? "Well, iOS has a policy -- generally speaking -- where you have to use their web engine, and ours is very different. The security model we employ, etc., don't really mix. Early on in my tenure, we saw that Android would be the mass market platform that we wanted to put our support behind. I love the iPhone, and I would love to see far more innovation on the iPhone. Android is just much more open, and we refuse to make that policy switch that'd [clear us for use on iOS.]"
+
+

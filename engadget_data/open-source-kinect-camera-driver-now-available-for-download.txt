@@ -1,0 +1,11 @@
+
+ 
+This is a little confusing, but it looks like there's another Kinect driver out in the wild, and this one is actually available for download. The folks at NUI Group, who posted results first, are working on an SDK and Windows driver for all the capabilities of the device, which they plan to release as open source once their $10k donation fund is filled up. Meanwhile, hacker Hector Martin has performed a quick and dirty hack of his own (three hours into the European launch, no less) and has released his results and code into the wild. Sure, pulling data from the IR and RGB cameras and displaying it is a lot different than actually making sense of it, but if you're just looking for a way to plug your Kinect into your computer and squeeze some fun visuals out of it (and you're smart enough to deal with some pretty raw code), it looks like Hector is your man of the hour. Peep his video proof after the break.
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 

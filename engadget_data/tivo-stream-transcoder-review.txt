@@ -1,0 +1,15 @@
+
+
+  More Info   Updated TiVo Netflix, YouTube interfaces and iPad streaming hands-on  TiVo Stream DVR-to-iOS transcoder box pops up for $129 pre-orders early  TiVo Stream transcoder officially set to go on sale September 6th for $129  Back when we first reviewed the TiVo Premiere for iPad app, there were folks who complained about not being able to stream content. It seems, though, that TiVo was one step ahead of us: back at CES the company teased a transcoder -- a device that would later be known as the Stream. As its name suggests, this little box streams recordings from your TiVo Premiere to as many as four iOS devices with the help of your local network. You can also use it to transfer shows for on-the-go viewing. So is it worth the additional $129? Let's find out.
+
+
+
+
+ Hardware 
+ The TiVo Stream is a simple little box with only a single status light and two connections 'round back. For most consumers, size matters and indeed, this box is about on par with the Apple TV and Roku's box. Instead of inputs and outputs, this little guy has a wired network jack and a power connection. There's no built-in WiFi or any other wireless radio, such as Bluetooth. Seriously, there's nothing else. This means you can plug it into your network anywhere you please, which can be right next to your TiVo or on the other side of the house. If you happen to have a TiVo Premiere XL4 that's connected to the network over MoCA, then the Stream can connect to the free network port on the back of the Premiere. (This is how we tested it.) All told, it's a foolproof setup, and we wouldn't be surprised if this functionality trickled down into the next generation of TiVo DVRs as well.
+
+ Software 
+ As usual, the software is where the magic happens and in this case it's all on your phone or tablet. For now, that means iOS only, but we're assured support for Android is in the works, but no word as to when. Thankfully, at least, you don't need to download a standalone app just for streaming; you'll only need to update the existing TiVo Premiere for iOS app. After you launch the app, it quickly discovers the Stream on your network, configures itself and does a quick test. Then, once you select a show, you'll see a "Watch on iPad" button along with the rest of the options. There's also a new tab under My Shows listing what you've transferred to the device.
+
+
+

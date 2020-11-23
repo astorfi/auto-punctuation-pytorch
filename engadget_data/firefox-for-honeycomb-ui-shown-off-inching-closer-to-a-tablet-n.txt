@@ -1,0 +1,7 @@
+
+ 
+
+The Mozilla team has been quietly toiling to bring Firefox to a mid-sized screen near you. It's already a perpetual favorite on the desktop and has made a bit of a splash on Android phones, now the group has Honeycomb tablets squarely in its crosshairs. It's still very much in the early stages of development but a few UI decisions have been made, including the choice to adhere pretty strictly to Android 3.0's minimalist appearance. In landscape mode tabs will be represented as a persistent thumbnail bar on the left, but in portrait they'll revert to the top with a more familiar appearance. The tabbed Awesome from the mobile version also returns. Check out the gallery below, as well as the source for more detail and more mockups.
+
+
+

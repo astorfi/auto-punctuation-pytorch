@@ -1,0 +1,35 @@
+
+Welcome to IRL, an ongoing feature where we talk about the gadgets, apps and toys we're using in real life and take a second look at products that already got the formal review treatment.
+
+Do we like the stuff we bought? You betcha we like the stuff we bought. This week, Darren tells of giving Mailplane another shot three months after deciding it was crap. Steve loves his aging Galaxy S all the more now that he's upgraded it to CM9. As for Edgar, he thinks his new VZW iPad is okay.
+
+
+
+
+MailplaneEver heard that phrase, you don't know what you've got until it's gone? Yeah. Back in 2009, I tried Mailplane for a grand total of 30 minutes before reverting to old habits -- with "old habits" being "using the web-based version of Gmail." I've never been much of a fan of standalone email clients. For one, they rarely work well with all of Gmail's subtitles (Send & Archive, anyone?), and frankly, I've just become used to seeing the same UI day after day. But after installing Mountain Lion, I began to yearn for something that notified me of mail. I tried Apple's own Mail app in order to get Notification Center alerts, but that app just strikes me as plain and uninviting. I then recalled having a license for Mailplane, and realized that there was a v2.5.7 preview available for OS X 10.8.
+
+I adore this build's menu bar addition, which gives you a handy unread count right alongside your Evernote, Fantastical and Google Drive menu bar icons. Moreover, that number can be switched to show unread emails in Inbox, Priority Inbox, etc. Nifty. It also supports Growl notifications, even the older v1.2 edition that's a) free and b) not written to eat up as many system resources as newer editions seemingly are. The top pane, which is also customizable, is a huge boon. No longer will you have to reach for most of Gmail's buttons; just use the icons that you customize along the top. I found myself longing for a "Send & Archive" button as well as a button that Moves to a specific label, but hopefully those features will be coming soon.
+
+Put simply, this is an absolutely beautiful standalone email app for hardcore Gmail users. For users of other email services, feel free to ignore. For $24.99, though, I do expect some changes. For one, you should be able to customize what happens when you click a Growl notification of a new message; as it stands, it opens a new window and tries to log you in again. I just want it to open the message in the main window, or at least have the option. If you aren't sure if it's for you, hit the app's website and download a free edition before paying. I've found it worthwhile, but I use Gmail more than any human ever should.
+
+-- Darren Murph
+New iPad with Verizon Wireless LTEAs we're all well aware of by now, Cupertino's new iPad's been an unquestionable hit amongst all types of earthlings -- not to say that's a surprise, given its first two followed a similarly successful path. The point is this: I snagged one for myself shortly after its official announcement back at the Yerba Buena Center and, all told, I don't regret the $629 I splurged one bit.
+
+Naturally, what drove me to leave my iPad 2 behind and dive in to Apple's newest pad on the block was that long-rumored Retina display, which, to be honest, made all other onboard features seem like -- for lack of a better analogy -- icing on the cake. Still, that gorgeous 2048 x 1536 screen wasn't the only thing I was looking forward to, with those glorifying Verizon LTE speeds also accounting for a big part of my decision -- a first for me, since I went the WiFi-only route with the second-generation iPad.
+
+So, some five months after its dazzling unveiling, is there anything I would change about "the new" iPad? Not really. I use it on a daily basis to catch up on the worldwide happenings for the day via Flipboard, occasionally pretend I'm a good driver on Real Racing 2 HD and read through people's musings on Twitter. And the iPad handles all of that smoothly -- making the perfect companion to my Jelly Bean-coated Galaxy Nexus. And when it's not doing any of those things, well, let's just say it's the best Big Red hotspot I've ever used.
+
+-- Edgar Alvarez
+Samsung Galaxy S running CM9While it's a little undignified for an Engadget editor to be packing an old Samsung Galaxy S (circa 2010), it does open up certain opportunities for experimentation. Since Samsung stopped the official Android love with its Gingerbread 2.3.6 "value pack" due to TouchWiz bloat, it fell on modders' shoulders to bring the ICS goodies. So it was that I embarked on an upgrade trek for my European i9000 with CyanogenMod to get their latest stable CM9 version and try to bring my aging device kicking and screaming into the Ice Cream Sandwich age.
+
+Before upgrading, I fully backed up the device to avoid the loss of irreplaceable media and keep my device from ending up a brick. With that done, I downloaded the mod, following the multi-step installation procedure and praying that my screen wouldn't display any sinister messages. After a hitch where the phone went into a continuous reboot loop (aaugh!), I was relieved to finally see CM9's creepy mascot, Cid, and his vortex animation -- indicating a successful install.
+
+Though the tedious and risky procedure would likely discourage must casual users, I'm here to tell you that the payoff was huge. With Samsung's comments about an "unsatisfactory user experience" with Android 4.0, I feared it would overwhelm my poor old phone and its single-core ARM Cortex-A8 processor. But compared to my previous TouchWiz 2.3.6 Gingerbread version, the CM9 Ice Cream Sandwich flavor looks better, runs shockingly faster and brings a much better app experience. It feels like a new phone, and now I'm actually using it again instead of scanning carrier sites for a good deal on a newer model. All the functions work without any issues, even the dreadful GPS, and there's little to no lag when using it. And did I mention it looks better? The only drawback I've noticed is a drop in sound quality for music and videos, but otherwise the CyanogenMod group deserves all the kudos I can muster.
+
+It seems that this old 4-inch phone has enough zip to easily run Android 4.0 without Samsung's TouchWiz skin (crust?), showing another reason why many critics are cold to it. On top of that, Google's OS has surpassed any manufacturer shells in terms of speed, looks and usability, to my eye. At least, the existence of TouchWiz and other skins gives modders like Cyanogen a trade to ply -- but it leaves average users oblivious to the phone they could really have.
+
+-- Steve Dent
+
+
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

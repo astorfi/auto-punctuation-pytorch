@@ -1,0 +1,9 @@
+
+ 
+
+
+
+Sure, your Arduino project can make a stuffed monkey dance, but is it really doing anything for the greater benefit of mankind? Okay, maybe -- but not to the same degree as Grathio Labs' Tacit glove, an Arduino powered sonar device that can help the vision impaired navigate foreign environments. This wrist-mounted gauntlet is comprised of an Arduino microcontroller, a few ultrasonic sensors, and a pair of servomotors to apply variable pressure to the user's wrist to indicate their distance from an object or obstacle. Best of all, the gizmo's circuit and software are registered under Creative Commons, which means you're free to snag the plans from the source link below, and build your own. Go on, build one. Sure, it's a lot of work, but would you rather rock a wrist-mounted sonar gun, or don an ear-tugging bicycle helmet? Your choice.
+      
+
+ 

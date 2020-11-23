@@ -1,0 +1,6 @@
+
+ 
+We've definitely been curious about the difference sticking an SSD would make in the MacBook Air's otherwise average performance and battery life, and it looks like the answer is a resounding "meh." The crew at Ars Technica ran an SSD-equipped Air through a battery of tests, and found that while the increased random disk read / write speeds and slightly faster processor led to a minor overall speedup and less pinwheeling, the dramatically lower sequential read/ write speeds of the SSD made things essentially a wash. What's worse, battery life -- where the SSD should have shone -- was decidedly mediocre. Ars was able to coax the SSD model in to lasting 29 minutes longer than the HDD version they tested, but on average the SSD-equipped MBA didn't have the juice to last any longer than the HDD model, getting to about 2 hours and 31 minutes before petering out. All said, Ars says the extra $1300 for the SSD MacBook Air just isn't worth it -- but c'mon, you know that's not stopping the people who are buying Airs in the first place.[Via Digg]
+      
+
+ 

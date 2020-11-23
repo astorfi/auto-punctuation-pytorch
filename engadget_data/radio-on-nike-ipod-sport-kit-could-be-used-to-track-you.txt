@@ -1,0 +1,5 @@
+
+ Nearly every time someone comes out with a new wireless gadget, leave it to the security-nistas to spoil all the fun. Wired News is reporting that the Nike+iPod Sport Kit could be used to track runners, according to Scott Saponas, a University of Washington computer science graduate student, and a few university colleagues. These researchers have set up a pretty frightening scenario describing how a geeky stalker could set up a tiny computer to monitor the Nike+iPod system when it passes by a certain point. The basic issue is that apparently the Nike+iPod system has a read range of 60 feet due to its internal power source, compared to the 10-inch range of typical RFID tags found in clothing or credit cards. The team has suggested a solution to the problem, which would be to uniquely pair one sensor to one reader. That seems reasonable to us, but until then, we'll start randomizing our jogging route just to really screw with these dudes. [Via Wired News, thanks Christopher G.]
+      
+
+ 

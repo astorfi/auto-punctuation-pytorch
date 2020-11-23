@@ -1,0 +1,5 @@
+
+ How do 200MBps reads and 100MBps writes in a storage device sound to you? Pretty sweet if you ask us. That's the upper spec for Micron's new highspeed 8Gb (Gigabit not Gigabyte, kids) SLC NAND co-developed with Intel on a 50-nm processes node. Once slapped together in an SSD, you can expect performance to easily outshine any existing SSD or mechanical drive on the market while easily kicking the SSD bugbear -- random read/writes -- to the curb. The rub, of course, is that SLC NAND is more expensive than MLC so you can expect to pay dearly for that performance. Watch for the speedy Micron flash to pop in cellphones, camcorders, SSDs (and pretty much every portable consumer electronics device out there) sometime in the second half of 2008 -- sampling now to manufacturers.
+      
+
+ 

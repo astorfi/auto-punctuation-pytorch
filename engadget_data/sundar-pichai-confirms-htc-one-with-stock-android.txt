@@ -1,0 +1,14 @@
+
+Speaking to Walt Mossberg at D11 this morning, Google's Sundar Pichai offered glorious news for anyone who loves the HTC One but craves an untouched Android experience: he confirmed that there is indeed a stock Android 4.2.2 version of the flagship device One coming, and it will be fully unlocked for T-Mobile and AT&T at the solid price of $599. It'll go on sale in the Google Play Store on June 26th, the same date as its $649 counterpart, the Samsung Galaxy S 4 stock edition. The new version of the device -- which will be sold in the US initially -- will come SIM-unlocked, with an unlocked bootloader and 32GB storage. In terms of radios, it will offer quadband LTE (700/850/AWS/1900), triband HSPA+ (850/1900/2100) and the usual quadband GSM / EDGE. This means that while T-Mobile users will enjoy refarmed 1900MHz 3G coverage, anyone currently stuck in an AWS HSPA+ area will be out of luck until the network makes the switch in spectrum.
+
+
+There is some give and take involved with such a device, of course; since it's pure stock, Sense-specific features (BlinkFeed, Zoe and so on) won't be included, since they aren't optimized to work on vanilla Android. Still, we're quite excited to see companies like HTC and Samsung embrace the "Nexus experience" and offer choice to its users, and we're hoping this is just the beginning of a new trend.
+
+
+Update: HTC confirmed to us that the Google Edition will retain the same two-button setup, and they'll have the same functions as before: short press of Home for Home, long press for Google Now and double tap for Recent Apps. The back button will also remain the same, and the black menu bar that plagues third-party apps that haven't complied with Google's design specifications isn't going anywhere. We were also told that Beats Audio will still be integrated into the device as a hardware optimization, but the visual indicator -- currently found in the status bar on the original One -- won't be there.
+
+
+
+
+(Updated post on May 30th to more closely reflect T-Mobile's expanded 1900MHz coverage efforts.)
+ 

@@ -1,0 +1,13 @@
+
+
+For all of those times when "liking" a pal's Facebook post just doesn't seem appropriate, it seems you'll soon have another option. During a Q&A session today, Mark Zuckerberg revealed that the social network is indeed working on a "dislike" button. Zuckerberg said Facebook didn't offer the option from the start for fear of a Reddit-like battle of upvoting and downvoting. However, the company discovered we have a range of emotions we'd like to express in addition to affirmation, most notably a way to show empathy. It turns out the button has been in the works for a while, and Facebook plans to launch it in the near future. We'll be curious to see how it'll be deployed, but it sounds like we won't have to wait long to find out. And we pretty much know what it'll look like.
+
+
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Townhall Q&A: September 15, 2015Here's the video from today's Townhall Q&A at Facebook. People from around the world asked questions about education, science, virtual reality, artificial intelligence, my future daughter and of course the dislike button. It was great to hear everyone's questions and feedback. Thanks for watching!
+
+Posted by Mark Zuckerberg on Tuesday, September 15, 2015Still waiting for the ¯\_(ツ)_/¯ button.
+
+— Roberto Baldwin (@strngwys) September 15, 2015[Image credit: David Paul Morris/Bloomberg via Getty Images]
+
+

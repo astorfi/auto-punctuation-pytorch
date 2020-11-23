@@ -1,0 +1,6 @@
+
+ 
+So yeah, quite a few NVIDIA GPUs have been acting up. Nothing new there. However, Dell's attempting to help its laptop owners out by making a few notable BIOS updates readily available for download. Apparently the issue "is a weak die / packaging material set, which may fail with GPU temperature fluctuations." In order to combat the problem, Dell's BIOS flashes "modify the fan profile to help regulate GPU temperature fluctuations," though the Round Rock powerhouse only promises that the updates will "help reduce the likelihood of GPU issues." Hit the read link and give it a go -- it can't hurt... we hope.[Via Electronista]
+      
+
+ 

@@ -1,0 +1,6 @@
+
+ 
+Oh, things just got seriously geeky for the uber-restrictive IT admins in the audience. Microsoft's being Microsoft (you know, making products its tech staff want to use, ignoring the needs of the end user) in announcing its System Center Mobile Device Manager 2008 today -- the result of years of work generating the perfect dull, restrictive mobile device management system with the most dull, interminable possible name. Basically, Microsoft System Center Mobile Device Manager 2008 (or MSCMDM08 for "short") empowers IT staff to lock down, er, manage and integrate corporate Windows Mobile 6 devices per Windows domain policy, including new types of VPN connectivity and forcing granular automatic overrides like shutting off each device's camera -- as necessary, of course. MSCMDM08 will be available to the suits as a simple software upgrade package to Windows Mobile 6 -- not that they'll care, except when their phone stops functioning like they want it to, and starts functioning like Roy the IT dude wants.
+      
+
+ 

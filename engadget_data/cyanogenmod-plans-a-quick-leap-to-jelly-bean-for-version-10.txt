@@ -1,0 +1,5 @@
+
+ 
+ Whenever there's a new version of Android, Steve Kondik and the CyanogenMod team tend to swing into action almost immediately with plans for a major revision of the fan-favorite platform overhaul. For Android 4.1 Jelly Bean, that swing will be faster than ever. The crew's early looks suggest that there will only be a few minor tweaks needed to merge Google's latest with the custom Android code, making CyanogenMod 10 a relative snap to produce. The update's release is still very much up in the air without the Android Open Source Project code available to modify; that said, device compatibility also isn't expected to be an obstacle. Any device that can run CyanogenMod 9 should run version 10 when it's released. As long as we're willing to wait for a stable 9.0 to emerge first, there are few barriers to making Jelly Bean that much sweeter.
+
+

@@ -1,0 +1,8 @@
+
+Quadrocopter drones are capable of some incredible acrobatics, but they seldom handle failure all that gracefully. ETH Zurich's Mark Mueller is tackling this problem through a new failsafe algorithm that gives these flying robots a better chance of survival. As you'll see in a video demo after the break, the software automatically compensates for rotor failures, bringing a drone back to its original position before giving the owner an opportunity to land the craft. Mueller's routine works even when there's just one propeller left, and it could eventually avoid dangerous objects on the way down. While there's no mention of when the algorithm will reach copters outside of the lab, there's a patent on the way -- we'd expect it to reach production drones at some point in the future.
+
+
+
+
+
+ 

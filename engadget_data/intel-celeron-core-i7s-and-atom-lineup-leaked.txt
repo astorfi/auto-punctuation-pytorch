@@ -1,0 +1,6 @@
+
+ 
+The sun rises, seasons change, CPUs get faster, and Intel's plans get leaked. That's the way it works, so while this report from Digitimes listing out Intel's chip releases through the beginning of next year should be taken with a grain of salt, feel free to make it a small one. Apparently there's a new line of celery-packing Celeron processors coming in Q3 called E3000, starting with the 2.4GHz E3200 and the 2.5GHz E3300. Both feature 1MB of L2 cache, 800MHz FSB, 65W power consumption, and hardware virtualization, meaning either can take you to XP-on-Win7 nerdvana. There will also be a new Core i7 960 chip with a core frequency of 3.2GHz in the fourth quarter, which is also when the nettop-intended dual-core Atom D510 will drop, while the more portable-friendly dual-core Atom D410 won't release until Q1 next year -- bad news for those who'd been hoping for a speedier netbook under the Christmas tree.
+      
+
+ 

@@ -1,0 +1,9 @@
+
+
+Microsoft seriously wants users let go of older Internet Explorers and move on -- so much so that the company has even set a deadline. Starting on January 12th, 2016, Microsoft will stop issuing security updates and providing tech support for any IE browser other than the most recent one (that's IE 11, for the unaware). In a recent post on the IEBlog, Redmond listed a number of reasons why people should upgrade their browsers, including improved security, as IE 11 is more equipped to protect users from vulnerabilities compared to older versions. The company also explained that its latest browser is faster than its predecessors, and that website and app developers will be able to work more efficiently if everyone stops using ancient browsers that don't support modern web standards.
+
+
+
+In an effort to help make the transition easier, the company even listed a number of browser migration resources in the post. Enterprise customers who need to keep using web apps designed for older browsers, however, won't have to worry about the 2016 cutoff. IE 11's new Enterprise Mode provides backwards compatibility with legacy web apps and will continue working throughout the lifecycle of the computer's operating system.
+
+

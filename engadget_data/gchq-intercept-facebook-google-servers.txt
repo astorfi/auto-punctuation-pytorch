@@ -1,0 +1,12 @@
+
+GCHQ, the UK's intelligence agency, has yet to confirm whether it taps undersea network cables to gather content from ISPs, but we now know how it would justify access if it did. Charles Farr, the Director General of the Office for Security and Counter Terrorism, revealed that spies could intercept British users' Google searches, Facebook updates and Twitter posts when servers are located outside of the country. The information came to light after Privacy International, Liberty, Amnesty International and a number of civil liberties organizations issued a legal challenge against GCHQ in an attempt to unravel the secrets of agency's Tempora data-tapping program, which were revealed as part of Edward Snowden's NSA document leaks.
+
+
+
+British law states that agencies do not have the right to spy on internal communications. However, the same restrictions are not applicable for foreign transmissions. Farr argues that if a Briton was to perform a Google search on a server that is located outside of the UK, it would be classed as an "external communication." Facebook updates and Twitter posts would likely fall under the same classification, although direct communications like emails may be protected, as the sender and the recipient both reside in the UK.
+
+Worryingly, if content is deemed to be an external communication, UK law states that it can be searched, read and eavesdropped upon, regardless of whether the people involved were suspected of any wrongdoing. Farr's statement notes that the UK has for "many years faced a serious threat from terrorism," and that the sharing of data has led to the prevention of terrorist attacks and other serious crimes. Microsoft has already begun blocking US government requests to access European data, and now that intelligence agencies are slowly starting to reveal their data access strategies, more companies could follow suit or begin locally hosting servers.
+
+[Image credit: UK Ministry of Defense, Flickr]
+
+

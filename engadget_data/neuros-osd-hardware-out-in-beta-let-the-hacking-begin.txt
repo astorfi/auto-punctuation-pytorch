@@ -1,0 +1,6 @@
+
+
+
+Ah, so this is what you get when you take a hardware platform "open-source" -- the Neuros OSD. This infinitely hackable Linux-based media recorder / player beta unit is on sale now. Yeah, beta, 'cause this ain't no ordinary hardware offering. See Neuros is willing to pay you cash-money "bounties" to code new features into the open source firmware: YouTube or Google video ($1000), Flickr photo browsing ($600), wireless remote capabilities from a WiFi handheld device such as a PDA ($500), TiVo-style radio recording when connected to an FM/AM or satellite receiver ($700), and VoIP capabilities when a USB phone is connected ($500). Not bad for something you'll likely do for the fun of it anyway right? Out of the box, you get a standalone media player which can record from any external analog audio/video source and then automatically encode it for playback on PSPs, mobile phones, and iPods in popular formats such as MPEG-4, AVI, ASF, MP3, OGG, WMA, and AC3. And with a dual-core ARM9 / TI DSP, multi-card memory slot, USB host capability, Ethernet, recording up to 720x480 resolution at 30fps, IR Blaster, and S-Video in and Composite audio/video in/out, well, you still might be tempted to plunk down the meager $230 to take this baby home. Hurry though, only 200 beta units left!
+
+

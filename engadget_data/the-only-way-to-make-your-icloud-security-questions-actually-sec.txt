@@ -1,0 +1,29 @@
+
+
+
+The recent leak of nude photographs from some of America's biggest female celebrities has drawn attention to the security of Apple's iCloud. If there's one takeaway from this incident, other than people who share the private photos of other are scum, it's that sometimes it's the simplest things that betray our security. In this case, it was security questions.
+
+
+According to Apple these leaks weren't caused through complicated computer hacking; instead, they were brought about through conventional (security question/username) password reset methods. All someone needs is your Apple ID (often an easily guessed common email) and some personal information. When you tell iCloud that you forgot your password it offers the option to use security questions to get the information. Once you enter your Apple ID it will ask for your birthday. Depending on your privacy settings on Facebook, anyone could have that.
+
+
+That's all someone needs to gain access to your security questions. Obviously Apple should probably fix how easy this process is, but in the meantime there is a surefire way to keep your security question answers secure -- lie, lie, lie.
+
+
+Lie in the answers to your security questions to make them unguessable. Here are some examples.
+
+
+
+What was your first job? WillieNelsonDrugDealer4242
+What was the first concert you went to? 777BuTTsAreFunny
+What was the name of your first pet? 5GrandMasOldSocks5
+
+Trust us. Lie in your security code questions. We understand why these questions exist, to aid people with crummy memory who often forget their passwords. For those of you who cannot keep track of your password, consider writing down the answer to security code question on a piece of paper and storing it in your home. Sure, someone might find it, but they'll just assume it's your normal password. No one assumes you've written down your security questions. You can also use password-secured apps like 1Password to store those made-up answers to your security questions instead of writing them down.
+
+
+Until Apple finally introduces two-step verification for iCloud accounts this is the best way to be secure. It is also the silliest security measure we will ever recommend. We're in good company with this opinion, as shown by this xkcd comic.
+
+
+What's your security code answer? Let us know in the comments if you missed the point of this article.
+
+

@@ -1,0 +1,19 @@
+
+
+
+If 2014 was the year that drones entered the (deeper) reaches of the mainstream mindshare (thanks to Amazon, among many other things), then 2015 is the year they start getting put to work. Videography is probably the most obvious consumer application -- evidenced by the sheer number of options. AirDog is one such contender, that offers something the others don't -- a wrist-worn "leash" that makes the drone follow you. Let's be clear, there are other drones that can follow things/people; in fact 3D Robotics made this technology available to everyone through open source. AirDog just took it to the next level, created the leash hardware (other systems use a mobile phone), ramped up the game by adding even more sensors to its craft and designed custom flying "profiles" for different action sports. We took it out for a spin in the Nevada desert to see if it could keep up with a quad bike (spoiler: It did). 
+
+
+
+
+
+Sitting atop a quad bike, getting the drone in the air is as simple as a few button pushes on the leash. I say that, but actually AirDog's CEO does it for me. The sun is dipping behind the mountains. We're literally chasing it. Once the drone is up in the air, I pull away, shoot a glance back to make sure it really is following, then open up the throttle. Quad biking doesn't need anything added to make it more fun, but knowing you're getting some sweet video footage really does dial up the enjoyment a few notches. I found myself thinking about what route or maneuvers would make for a cool video, and playing up to the camera. Basically.
+
+
+The basic design of AirDog hasn't changed too much since we first saw the Kickstarter campaign back in summer. It still has the same curious purple and mustard color scheme and the same exterior and aesthetic design. What has changed is the software and (vitally) the sensors. Now the drone boasts a full suite that includes an IMU, accelerometer, gyroscope, barometer, magnetometer, GPS and a new addition for obstacle avoidance: sonar. All of these sensors (bar the sonar) feature in both the drone and the leash making it one of the most decked-out hobby drones we've seen.
+
+AirDog isn't quite shipping yet, but it's dangerously close. Straight after CES, the team is sending out sample units to a group of hand picked testers. Each does a different sport. The idea, obviously, is to get direct feedback from professionals in their respective sports, to make sure that AirDog really can deliver the performance that the maker's clearly expect from it. It's good to see a company take its time to do the right thing, rather than just buckle under pressure to ship. If all that feedback is good though, units will ship soon after. If you're quick, you can still pre-order before the price goes up from $1,300, to $1,500 dollars. That's not exactly pocket change, but given a competing ready-to-fly drone plus gimbal (AirDog ships with one for either GoPro or Sony action cameras) would set you back a similar amount, without the follow features, it's a competitive offering for sure.
+
+#fivemin-widget-blogsmith-image-129380{display:none;} .cke_show_borders #fivemin-widget-blogsmith-image-129380, #postcontentcontainer #fivemin-widget-blogsmith-image-129380{width:570px;display:block;}
+try{document.getElementById("fivemin-widget-blogsmith-image-129380").style.display="none";}catch(e){}
+

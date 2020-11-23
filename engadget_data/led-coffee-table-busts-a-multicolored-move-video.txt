@@ -1,0 +1,10 @@
+
+ 
+
+It might look like something out of MJ's Billie Jean, but this colorful LED array won't be under moonwalking foot -- that is, unless the party gets crunk. This colorful grid is actually a table top, brought to you by way of TI's MSP430 microcontroller, and it knows how to get down. The table is made up of 128 frosted glass cubes, each apparently capable of emitting 16 million colors. Its creators also produced a special beat-detection software, that could very easily have your furniture outshining the bumpers and grinders at your next party. If you're looking for a little extra something from your coffee table, you can find full build instructions at the source link below.
+      
+
+ 
+
+ 
+ 

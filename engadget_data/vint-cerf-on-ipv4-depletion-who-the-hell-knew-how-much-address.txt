@@ -1,0 +1,6 @@
+
+ 
+Father of the internet, Vint Cerf, is taking one on the knuckles this week for the inevitable diminution of the world's IPv4 addresses. Last Friday, The Sydney Morning Herald ran a sensational story titled, "Internet Armageddon all my fault: Google chief," in which Cerf warned of an end to unique IP addresses "within weeks." The story was, of course, a bit tongue-in-cheek, considering the industry has long anticipated and prepared for said Armageddon. Back in 1977, Cerf led a team of DARPA researchers in creating IPv4, which limits IP addresses to four 8-bit numbers or 32-bits total, providing for 4.3 billion addresses: not nearly enough by today's standards. In the article, Cerf said he never expected his protocol to take off, adding, "Who the hell knew how much address space we needed?" The IPv4's successor, IPv6, which enlists four 32-bit numbers or 128 bits total, was developed soon after Cerf's protocol and is now getting attention from internet giants like Google and Facebook, who will launch World IPv6 Day this June. Considering IPv6 makes for 340,282,366,920,938,463,463,374,607,431,768,211,456 unique addresses, we probably won't be hearing of an IP apocalypse anytime soon.
+      
+
+ 

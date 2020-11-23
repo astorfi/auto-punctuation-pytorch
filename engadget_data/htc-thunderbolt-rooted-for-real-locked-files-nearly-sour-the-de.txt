@@ -1,0 +1,13 @@
+
+ 
+They thought it would be easy, but they were wrong -- AndIRC developers reportedly spent the last 72 hours readying the new HTC Thunderbolt for custom ROMs. Today, they emerge victorious, but that victory is bittersweet, because it may signify the end of a generally hacker-friendly era from the folks at HTC. While devices from the Taiwanese manufacturer have traditionally been easy to modify, the hacker community found Verizon's LTE flagship fully locked down, with a signed kernel, signed recovery image and a signed bootloader. FOF. Of course, if you're just looking for a way to overclock your Thunderbolt, you probably don't care about all that. You'll find all the (exceptionally lengthy) instructions you need at Android Police. Just be careful out there!
+
+[Thanks to everyone who sent this in]
+      
+
+ 
+
+
+ 
+*Verizon owns AOL, Engadget's parent company. However, Engadget maintains full editorial control, and Verizon will have to pry it from our cold, dead hands.
+

@@ -1,0 +1,7 @@
+
+ 
+Oh, those crazy kids at Cambridge University -- when not doing keg stands or playing Hacky Sack in the quad they're hard at work proving the vulnerability of the EMV verification used in credit and debit cards (or as it's called across the pond, Chip and PIN). We won't go into too much detail (because we don't have much detail) but a flaw has been discovered that allows one to convince the terminal that a card's PIN has been entered -- and you know what that means: free money! All you really need to pull it off is a fake smart card connected to a card reader containing the stolen card and some fancy software. (Place the contraption inside a hat box or bowling ball bag if you want to be slick.) What could be simpler than that? "We think this is one of the biggest flaws that we've uncovered - that has ever been uncovered - against payment systems, and I've been in this business for 25 years," said Professor Ross Anderson from the school's Computer Laboratory. Sure, this is a proof-of-concept thing, and not yet a clear and present danger, but we have faith that the hackers will see this one through. Maybe we weren't crazy to bury all that gold in the backyard after all! British TV news (with the appropriate dramatic music) after the break.
+ 
+
+
+ 

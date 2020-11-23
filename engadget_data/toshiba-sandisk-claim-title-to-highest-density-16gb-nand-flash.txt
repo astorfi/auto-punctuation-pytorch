@@ -1,0 +1,6 @@
+
+ 
+Take that Samsung! Toshiba and their partners in NAND, SanDisk, just announced what they are calling the highest available density of single-chip MLC NAND flash memory. The new 8Gb (1GB) NAND will be available in commercial shipments starting later in Q1 with 16Gb (2GB) NAND on the way in Q2. Presumably, this is the technology at the guts of SanDisk's new 32GB+ SSDs hitting OEMs this spring. Great, but Sammy maintains bragging rights to the fact that they were smart enough to bring 50-nanometer technology to market whereas Tosh tried and failed with a relatively less complex 52-nanometer technology -- Tosh's new single-chip NAND relies on 56-nanometer technology instead. Now, we're not going to pretend to be experts in NAND fabrication, but we fail to see how 56-nm technology produces a higher density than Sammy's 50-nm processes. So who's right? Who cares! Just as long as the trend towards cheaper, faster, and smaller flash memory continues. [Via AVING]
+      
+
+ 

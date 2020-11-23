@@ -1,0 +1,10 @@
+
+ 
+
+
+Adobe might continue to crow about Flash and its importance on both the desktop and mobile devices, but there's no lying to investors, and the company is pretty blunt about the threat of the iPhone and iPad in the end-of-quarter Form 10-Q it just filed with the Securities and Exchange Commission: it flatly says that "to the extent new releases of operating systems or other third-party products, platforms or devices, such as the Apple iPhone or iPad, make it more difficult for our products to perform, and our customers are persuaded to use alternative technologies, our business could be harmed."
+
+Now, Adobe has to make doom-and-gloom statements in its SEC filings -- it also says that slowing PC sales or a failure to keep up with desktop OS development could harm its business -- but the timing is crazy here, since just yesterday Apple changed the iPhone OS 4 SDK agreement to block devs from using the upcoming Flash CS5 iPhone cross-compiler to build iPhone apps. What's more, Apple's also using HTML5 for its new iAd platform, which could potentially undo Flash's stranglehold on online advertising as well. Yeah, we'd say all that plus the recent push for HTML5 video across the web -- and from Microsoft -- could harm Adobe's business just a little. Better hope that  final version of Flash Player 10.1 is everything we'd hoped and dreamed of, because Adobe's going to have to make a real stand here.
+      
+
+ 

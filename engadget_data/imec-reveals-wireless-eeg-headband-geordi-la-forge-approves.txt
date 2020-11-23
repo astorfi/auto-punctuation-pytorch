@@ -1,0 +1,6 @@
+
+ 
+Make no mistake about it, if Geordi La Forge ever needed a wireless EEG system, this would be atop his list. Developed by IMEC, the same folks who brought us the wireless ECG patch, this wearable contraption enables brain wave monitoring sans the use of batteries. Rather, it relies on body heat dissipated naturally from the forehead for power, which allows it to "operate completely autonomous and maintenance-free." The entire rig consumes just 0.8mW of energy, and it utilizes the company's proprietary biopotential readout ASIC to extract EEG signals, which are then encoded and beamed to a PC via a 2.4GHz wireless radio. As for applications, IMEC is apparently hoping that this creation can be used to detect certain kinds of brain trauma, monitor brain activity and draw all kinds of unwanted attention.[Via MedGadget]
+      
+
+ 
