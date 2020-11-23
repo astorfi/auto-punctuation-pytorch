@@ -36,7 +36,7 @@ class Model(nn.Module):
         IMPORTANT: Use batch_first convention for ease of use.
                    However, the hidden layer still use batch middle convension.
         """
-        super(GruRNN, self).__init__()
+        super(Model, self).__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
         self.output_size = output_size
