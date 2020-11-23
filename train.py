@@ -14,10 +14,6 @@ BATCH_TO_SHOW_ACCURACY = 25
 BATCH_TO_SHOW_PREDICTION = 100
 batch_size = 64
 
-CHARS = "\x00 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567890.,;:?\"'\n\r\t~!@#$%^&*()-/–—=_+<>{}[]|\\`~\xa0ëµ£"
-CHAR_DICT = {ch: i for i, ch in enumerate(CHARS)}
-
-
 input_chars = list(" \nabcdefghijklmnopqrstuvwxyz01234567890")
 output_chars = ["<nop>", "<cap>"] + list(".,?!")
 
@@ -26,39 +22,39 @@ output_char2vec = utils.Char2Vec(chars=output_chars)
 
 
 class Model(nn.Module):
-    def __init__(self, input_size, hidden_size, output_size, batch_size=1, num_layers=1, bi=False):
+    def __init__(self, input_size, hidden_size, output_size, batch_size=1, num_layers=1, BiDirectional=False):
         super(Model, self).__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
         self.output_size = output_size
         self.batch_size = batch_size
         self.num_layers = num_layers
-        self.bi_mul = 2 if bi else 1
+        self.num_directions = 2 if BiDirectional else 1
 
         self.embedding = nn.Embedding(input_size, hidden_size)
         self.gru = nn.GRU(hidden_size, hidden_size, self.num_layers, bidirectional=bi, batch_first=True)
-        self.decoder = nn.Linear(hidden_size * self.bi_mul, output_size)
+        self.decoder = nn.Linear(hidden_size * self.num_directions, output_size)
 
     def forward(self, x, hidden):
         embeded = x
-        gru_output, hidden = self.gru(embeded, hidden.view(self.num_layers * self.bi_mul, self.batch_size, self.hidden_size))
-        output = self.decoder(gru_output.contiguous().view(-1, self.hidden_size * self.bi_mul))
+        gru_output, hidden = self.gru(embeded, hidden.view(self.num_layers * self.num_directions, self.batch_size, self.hidden_size))
+        output = self.decoder(gru_output.contiguous().view(-1, self.hidden_size * self.num_directions))
         return output.view(self.batch_size, -1, self.output_size), hidden
 
     def init_hidden(self):
-        return Variable(torch.zeros(self.num_layers * self.bi_mul, self.batch_size, self.hidden_size))
+        return Variable(torch.zeros(self.num_layers * self.num_directions, self.batch_size, self.hidden_size))
 
 """ # Model
 Here we initialize the model with its associated parameters.
 """
 # How many GRU layers to be stacked
-num_layers = 1
+num_layers = 3
 input_size = char2vec.size
 output_size = output_char2vec.size
 hidden_size = 32
 
 # Model initialization
-model = Model(input_size, hidden_size, output_size, batch_size=batch_size, num_layers=num_layers, bi=True)
+model = Model(input_size, hidden_size, output_size, batch_size=batch_size, num_layers=num_layers, BiDirectional=True)
 
 """ # Optimizer & Loss
 """
