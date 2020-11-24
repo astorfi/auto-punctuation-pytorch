@@ -162,7 +162,6 @@ def make(config):
 
     return model, train_loader, test_loader, criterion, optimizer
 
-
 def prepare_input_output(sources):
     # prepare the input and output chunks
     input_srcs = []
@@ -174,7 +173,6 @@ def prepare_input_output(sources):
 
     return input_srcs, punc_targs
 
-
 def _prepare_by_pad(sents, max_len, filler):
     padded_seq = []
     for sent in sents:
@@ -183,7 +181,6 @@ def _prepare_by_pad(sents, max_len, filler):
         s_pad = sent + filler * (b_n * max_len - s_l)
         padded_seq.append(s_pad)
     return padded_seq
-
 
 def process_char_to_idx(input_, target_):
     # Characters to indexes
