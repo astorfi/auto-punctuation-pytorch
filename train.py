@@ -26,6 +26,7 @@ char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
 output_char2vec = utils.Char2Vec(chars=output_chars)
 
 # Path to save
+# Data collected by carwling https://www.engadget.com/
 df_path = os.path.expanduser("~/data/punctuator/data.h5")
 
 # Save as hdf5
