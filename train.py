@@ -10,14 +10,14 @@ import numpy as np
 from torch.utils.data import Dataset, DataLoader
 import os
 import math
+import pandas as pd
 
 """ # Some parameter
 """
 BATCH_TO_SHOW_ACCURACY = 25
 BATCH_TO_SHOW_PREDICTION = 100
-batch_size = 64
+batch_size = 128
 NUM_EPOCHS = 25
-max_seq_length = 500
 
 input_chars = list(" \nabcdefghijklmnopqrstuvwxyz01234567890")
 output_chars = ["<nop>", "<cap>"] + list(".,?!")
@@ -25,28 +25,17 @@ output_chars = ["<nop>", "<cap>"] + list(".,?!")
 char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
 output_char2vec = utils.Char2Vec(chars=output_chars)
 
-def get_content(fn):
-    with open(fn, 'r') as f:
-        source = ""
-        for line in f:
-            source += line
-    return source
+# Path to save
+df_path = os.path.expanduser("~/data/punctuator/data.h5")
 
-# Get data
-path = "./engadget_data/"
-dataset = []
-child, folders, files = list(os.walk(path))[0]
-for fn in sorted(files, key=lambda fn: os.path.getsize(path + fn)):
-    if fn[0] is ".":
-        pass
-    else:
-        src = get_content(path + fn)
-        dataset.append(src)
+# Save as hdf5
+data_df = pd.read_hdf(df_path, 'df')
+dataset = list(data_df.text)
 
 class DatasetObject(Dataset):
     """Face Landmarks dataset."""
 
-    def __init__(self, dataset, trainData, max_seq_length):
+    def __init__(self, dataset, trainData):
         """
         Args:
             csv_file (string): Path to the csv file with annotations.
@@ -54,24 +43,12 @@ class DatasetObject(Dataset):
             transform (callable, optional): Optional transform to be applied
                 on a sample.
         """
-        self.max_len = max_seq_length
 
-        # Chunk data into smaller pieces no longer than max_seq_length
-        data_with_max_len = []
-        for item in dataset:
-            if len(item) <= self.max_len:
-                data_with_max_len.append(item)
-            else:
-                num_chunks = math.ceil(len(item) / float(self.max_len))
-                for i in range(num_chunks):
-                    chunk = item[i * self.max_len: (i+1) * self.max_len]
-                    data_with_max_len.append(chunk)
-
-        data_len = len(data_with_max_len)
+        data_len = len(dataset)
         if trainData:
-            self.data = data_with_max_len[:int(0.8 * data_len)]
+            self.data = dataset[:int(0.8 * data_len)]
         else:
-            self.data = data_with_max_len[int(0.8 * data_len):]
+            self.data = dataset[int(0.8 * data_len):]
 
     def __len__(self):
         return len(self.data)
@@ -89,15 +66,15 @@ class DatasetObject(Dataset):
 
 """ # Dataset creation
 """
-trainData = DatasetObject(dataset=dataset, trainData=True, max_seq_length=max_seq_length)
+trainData = DatasetObject(dataset=dataset, trainData=True)
 train_loader = torch.utils.data.DataLoader(trainData,
                                            batch_size=batch_size, shuffle=True,
-                                           num_workers=0)
+                                           num_workers=0, pin_memory=True, drop_last=True)
 
-testData = DatasetObject(dataset=dataset, trainData=False, max_seq_length=max_seq_length)
+testData = DatasetObject(dataset=dataset, trainData=False)
 test_loader = torch.utils.data.DataLoader(testData,
                                            batch_size=batch_size, shuffle=True,
-                                           num_workers=0)
+                                           num_workers=1, drop_last=True)
 
 # Sample from data loaders
 sent_sample, sent_len_sample = next(iter(test_loader))
@@ -193,8 +170,6 @@ def process_input_foward_pass(input_, target_, hidden):
     # u, counts = np.unique(target_vec, return_counts=True)
 
     return output, hidden, target_vec
-
-
 
 for epoch in range(NUM_EPOCHS):
 
