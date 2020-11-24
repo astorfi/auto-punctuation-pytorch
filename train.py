@@ -1,23 +1,39 @@
-import visdom
+# Pytorch libraries
+import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 import torch
 import utils, data, metric
+from torch.utils.data import Dataset, DataLoader
+
+# Other libraries needed
 from tqdm import tqdm
 import numpy as np
-from torch.utils.data import Dataset, DataLoader
 import os
 import math
 import pandas as pd
+import random
+
+# For deterministic behavior
+torch.backends.cudnn.deterministic = True
+random.seed(hash('setting random seed') % 2 ** 32 - 1)
+np.random.seed(hash('To further improve reproducibility') % 2 ** 32 - 1)
+torch.manual_seed(hash('Sets a random seed from pytorch random number generators') % 2 ** 32 - 1)
+torch.cuda.manual_seed_all(hash('Reproducibility') % 2 ** 32 - 1)
+
+# Set the device
+device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
 """ # Some parameter
 """
-BATCH_TO_SHOW_ACCURACY = 25
-BATCH_TO_SHOW_PREDICTION = 100
-batch_size = 128
-NUM_EPOCHS = 25
+config = dict(
+    BATCH_TO_SHOW_ACCURACY=25,
+    BATCH_TO_SHOW_PREDICTION=100,
+    batch_size=128,
+    NUM_EPOCHS=25,
+)
 
 input_chars = list(" \nabcdefghijklmnopqrstuvwxyz01234567890")
 output_chars = ["<nop>", "<cap>"] + list(".,?!")
@@ -25,13 +41,13 @@ output_chars = ["<nop>", "<cap>"] + list(".,?!")
 char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
 output_char2vec = utils.Char2Vec(chars=output_chars)
 
-# Path to save
-# Data collected by carwling https://www.engadget.com/
+# Data path
 df_path = os.path.expanduser("data/data.h5")
 
-# Save as hdf5
+# Load hdf5 data
 data_df = pd.read_hdf(df_path, 'df')
 dataset = list(data_df.text)
+
 
 class DatasetObject(Dataset):
     """Face Landmarks dataset."""
@@ -65,17 +81,18 @@ class DatasetObject(Dataset):
 
         return sent_len, sent
 
+
 """ # Dataset creation
 """
 trainData = DatasetObject(dataset=dataset, trainData=True)
 train_loader = torch.utils.data.DataLoader(trainData,
-                                           batch_size=batch_size, shuffle=True,
+                                           batch_size=config['batch_size'], shuffle=True,
                                            num_workers=0, pin_memory=True, drop_last=True)
 
 testData = DatasetObject(dataset=dataset, trainData=False)
 test_loader = torch.utils.data.DataLoader(testData,
-                                           batch_size=batch_size, shuffle=True,
-                                           num_workers=1, drop_last=True)
+                                          batch_size=config['batch_size'], shuffle=True,
+                                          num_workers=1, drop_last=True)
 
 # Sample from data loaders
 sent_sample, sent_len_sample = next(iter(test_loader))
@@ -117,7 +134,7 @@ hidden_size = 32
 bidirectional = True
 
 # Model initialization
-model = Model(input_size, hidden_size, output_size, batch_size=batch_size, num_layers=num_layers,
+model = Model(input_size, hidden_size, output_size, batch_size=config['batch_size'], num_layers=num_layers,
               bidirectional=bidirectional)
 
 """ # Optimizer & Loss
@@ -145,6 +162,7 @@ def prepare_input_output(sources):
 
     return input_srcs, punc_targs
 
+
 def _prepare_by_pad(sents, max_len, filler):
     padded_seq = []
     for sent in sents:
@@ -153,6 +171,7 @@ def _prepare_by_pad(sents, max_len, filler):
         s_pad = sent + filler * (b_n * max_len - s_l)
         padded_seq.append(s_pad)
     return padded_seq
+
 
 def process_input_foward_pass(input_, target_, hidden):
     # Characters to indexes
@@ -172,7 +191,8 @@ def process_input_foward_pass(input_, target_, hidden):
 
     return output, hidden, target_vec
 
-for epoch in range(NUM_EPOCHS):
+
+for epoch in range(config['NUM_EPOCHS']):
 
     # Create empty batch loss
     losses = []
@@ -213,12 +233,11 @@ for epoch in range(NUM_EPOCHS):
         # Losses indicate the batch losses stored in a list
         losses.append(loss.cpu().data.numpy())
 
-        if (batch_i + 1) % BATCH_TO_SHOW_ACCURACY == 0:
+        if (batch_i + 1) % config['BATCH_TO_SHOW_ACCURACY'] == 0:
             print('Epoch {:d} Batch {}'.format(epoch + 1, batch_i + 1))
             print("=================================")
 
             with torch.no_grad():
-
                 # Get data
                 test_sent_lengths, test_sources = next(iter(test_loader))
 
@@ -237,18 +256,18 @@ for epoch in range(NUM_EPOCHS):
 
                 # Prediction probabilities
                 probs = F.softmax(output.view(-1, model.output_size), dim=1
-                                  ).view(model.batch_size, -1, model.output_size)
+                                  ).view(config['batch_size'], -1, model.output_size)
 
                 # Use argmax to extract predicted labels
                 indexes = torch.argmax(probs, axis=2)
-                # indexes_m = torch.multinomial(probs.view(-1, model.output_size), num_samples=1
-                #                             ).view(model.batch_size, -1)
+
+                # punctuation_output
                 punctuation_output = output_char2vec.vec2list_batch(indexes)
 
                 metric.print_pc(utils.flatten(punctuation_output), utils.flatten(target_))
                 print('\n')
 
-        if (batch_i + 1) % BATCH_TO_SHOW_PREDICTION == 0:
+        if (batch_i + 1) % config['BATCH_TO_SHOW_PREDICTION'] == 0:
             validate_target = data.apply_punc(input_[0], target_[0])
             result = data.apply_punc(input_[0],
                                      punctuation_output[0])
