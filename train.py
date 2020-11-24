@@ -7,6 +7,8 @@ import torch
 import utils, data, metric
 from tqdm import tqdm
 import numpy as np
+from torch.utils.data import Dataset, DataLoader
+import os
 
 """ # Some parameter
 """
@@ -20,6 +22,63 @@ output_chars = ["<nop>", "<cap>"] + list(".,?!")
 
 char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True)
 output_char2vec = utils.Char2Vec(chars=output_chars)
+
+
+def get_content(fn):
+    with open(fn, 'r') as f:
+        source = ""
+        for line in f:
+            source += line
+    return source
+
+
+# Get data
+path = "./engadget_data/"
+dataset = []
+child, folders, files = list(os.walk(path))[0]
+for fn in sorted(files, key=lambda fn: os.path.getsize(path + fn)):
+    if fn[0] is ".":
+        pass
+    else:
+        src = get_content(path + fn)
+        dataset.append(src)
+
+
+class DatasetObject(Dataset):
+    """Face Landmarks dataset."""
+
+    def __init__(self, dataset, trainData):
+        """
+        Args:
+            csv_file (string): Path to the csv file with annotations.
+            root_dir (string): Directory with all the images.
+            transform (callable, optional): Optional transform to be applied
+                on a sample.
+        """
+        data_len = len(dataset)
+        if trainData:
+            self.data = dataset[:int(0.8 * data_len)]
+        else:
+            self.data = dataset[int(0.8 * data_len):]
+
+    def __len__(self):
+        return len(self.data)
+
+    def __getitem__(self, idx):
+        if torch.is_tensor(idx):
+            idx = idx.tolist()
+
+        sent = self.data[idx]
+        sent_len = len(sent)
+
+        return sent_len, sent
+
+
+trainData = DatasetObject(dataset=dataset, trainData=True)
+train_loader = torch.utils.data.DataLoader(trainData,
+                                           batch_size=batch_size, shuffle=True,
+                                           num_workers=0)
+sent, sent_len = next(iter(train_loader))
 
 
 class Model(nn.Module):
@@ -87,7 +146,7 @@ def prepare_input_output(sources):
     return input_srcs, punc_targs
 
 
-def process_input_target(input_, target_, hidden):
+def process_input_foward_pass(input_, target_, hidden):
     # Characters to indexes
     source_shape = [len(input_), len(input_[0])]
     char_to_idx = torch.LongTensor([[[char2vec.get_ind(char)] for char in src] for src in input_])
@@ -112,7 +171,11 @@ for epoch_num in range(NUM_EPOCHS):
 
     losses = []
 
-    for batch_ind, (max_len, sources) in enumerate(tqdm(data.batch_gen(data.train_gen(), batch_size))):
+    # for batch_ind, (max_len, sources) in enumerate(tqdm(data.batch_gen(data.train_gen(), batch_size))):
+    for batch_ind, (sent_lengths, sources) in enumerate(train_loader):
+
+        # Get the max len of sent
+        max_len = int(max(sent_lengths))
 
         # Process & prepare
         input_srcs, punc_targs = prepare_input_output(sources)
@@ -129,7 +192,7 @@ for epoch_num in range(NUM_EPOCHS):
             optimizer.zero_grad()
 
             # Process input target
-            output, hidden, target_vec = process_input_target(input_, target_, hidden)
+            output, hidden, target_vec = process_input_foward_pass(input_, target_, hidden)
 
             #### Calculate loss ####
             # Flatten the characters along batches and sequences.
@@ -153,11 +216,11 @@ for epoch_num in range(NUM_EPOCHS):
                 input_srcs_test, punc_targs_test = prepare_input_output(test_sources)
                 for input_, target_ in zip(zip(*[data.chunk_gen(seq_len, src) for src in input_srcs_test]),
                                            zip(*[data.chunk_gen(seq_len, tar, ["<nop>"]) for tar in punc_targs_test])):
-                    output, hidden, target_vec = process_input_target(input_, target_, hidden)
+                    output, hidden, target_vec = process_input_foward_pass(input_, target_, hidden)
 
                 # Prediction probabilities
                 probs = F.softmax(output.view(-1, model.output_size), dim=1
-                                ).view(model.batch_size, -1, model.output_size)
+                                  ).view(model.batch_size, -1, model.output_size)
 
                 # Use argmax to extract predicted labels
                 indexes = torch.argmax(probs, axis=2)

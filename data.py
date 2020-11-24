@@ -20,8 +20,8 @@ def source_gen(path="./engadget_data/", start=None, end=None):
 
 
 def train_gen():
-    # yield from [_ for i, _ in enumerate(source_gen()) if (716 - i) % 2000 not in [1998, 1995]]
-    yield from [_ for i, _ in enumerate(source_gen()) if i > 5000]
+    yield from [_ for i, _ in enumerate(source_gen()) if (716 - i) % 2000 not in [1998, 1995]]
+    # yield from [_ for i, _ in enumerate(source_gen()) if i > 5000]
     # yield from list(source_gen())[1000:][::-1]
 
 
