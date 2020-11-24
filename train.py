@@ -9,6 +9,7 @@ from tqdm import tqdm
 import numpy as np
 from torch.utils.data import Dataset, DataLoader
 import os
+import math
 
 """ # Some parameter
 """
@@ -16,13 +17,13 @@ BATCH_TO_SHOW_ACCURACY = 25
 BATCH_TO_SHOW_PREDICTION = 100
 batch_size = 64
 NUM_EPOCHS = 25
+max_seq_length = 500
 
 input_chars = list(" \nabcdefghijklmnopqrstuvwxyz01234567890")
 output_chars = ["<nop>", "<cap>"] + list(".,?!")
 
-char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True)
+char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
 output_char2vec = utils.Char2Vec(chars=output_chars)
-
 
 def get_content(fn):
     with open(fn, 'r') as f:
@@ -30,7 +31,6 @@ def get_content(fn):
         for line in f:
             source += line
     return source
-
 
 # Get data
 path = "./engadget_data/"
@@ -43,11 +43,10 @@ for fn in sorted(files, key=lambda fn: os.path.getsize(path + fn)):
         src = get_content(path + fn)
         dataset.append(src)
 
-
 class DatasetObject(Dataset):
     """Face Landmarks dataset."""
 
-    def __init__(self, dataset, trainData):
+    def __init__(self, dataset, trainData, max_seq_length):
         """
         Args:
             csv_file (string): Path to the csv file with annotations.
@@ -55,11 +54,24 @@ class DatasetObject(Dataset):
             transform (callable, optional): Optional transform to be applied
                 on a sample.
         """
-        data_len = len(dataset)
+        self.max_len = max_seq_length
+
+        # Chunk data into smaller pieces no longer than max_seq_length
+        data_with_max_len = []
+        for item in dataset:
+            if len(item) <= self.max_len:
+                data_with_max_len.append(item)
+            else:
+                num_chunks = math.ceil(len(item) / float(self.max_len))
+                for i in range(num_chunks):
+                    chunk = item[i * self.max_len: (i+1) * self.max_len]
+                    data_with_max_len.append(chunk)
+
+        data_len = len(data_with_max_len)
         if trainData:
-            self.data = dataset[:int(0.8 * data_len)]
+            self.data = data_with_max_len[:int(0.8 * data_len)]
         else:
-            self.data = dataset[int(0.8 * data_len):]
+            self.data = data_with_max_len[int(0.8 * data_len):]
 
     def __len__(self):
         return len(self.data)
@@ -71,14 +83,24 @@ class DatasetObject(Dataset):
         sent = self.data[idx]
         sent_len = len(sent)
 
+        # input_source, punctuation_target = data.extract_punc(sent, char2vec.chars, output_char2vec.chars)
+
         return sent_len, sent
 
-
-trainData = DatasetObject(dataset=dataset, trainData=True)
+""" # Dataset creation
+"""
+trainData = DatasetObject(dataset=dataset, trainData=True, max_seq_length=max_seq_length)
 train_loader = torch.utils.data.DataLoader(trainData,
                                            batch_size=batch_size, shuffle=True,
                                            num_workers=0)
-sent, sent_len = next(iter(train_loader))
+
+testData = DatasetObject(dataset=dataset, trainData=False, max_seq_length=max_seq_length)
+test_loader = torch.utils.data.DataLoader(testData,
+                                           batch_size=batch_size, shuffle=True,
+                                           num_workers=0)
+
+# Sample from data loaders
+sent_sample, sent_len_sample = next(iter(test_loader))
 
 
 class Model(nn.Module):
@@ -145,6 +167,14 @@ def prepare_input_output(sources):
 
     return input_srcs, punc_targs
 
+def _prepare_by_pad(sents, max_len, filler):
+    padded_seq = []
+    for sent in sents:
+        s_l = len(sent)
+        b_n = math.ceil(s_l / max_len)
+        s_pad = sent + filler * (b_n * max_len - s_l)
+        padded_seq.append(s_pad)
+    return padded_seq
 
 def process_input_foward_pass(input_, target_, hidden):
     # Characters to indexes
@@ -165,14 +195,13 @@ def process_input_foward_pass(input_, target_, hidden):
     return output, hidden, target_vec
 
 
-seq_length = 500
 
-for epoch_num in range(NUM_EPOCHS):
+for epoch in range(NUM_EPOCHS):
 
+    # Create empty batch loss
     losses = []
 
-    # for batch_ind, (max_len, sources) in enumerate(tqdm(data.batch_gen(data.train_gen(), batch_size))):
-    for batch_ind, (sent_lengths, sources) in enumerate(train_loader):
+    for batch_i, (sent_lengths, sources) in enumerate(tqdm(train_loader)):
 
         # Get the max len of sent
         max_len = int(max(sent_lengths))
@@ -185,20 +214,21 @@ for epoch_num in range(NUM_EPOCHS):
 
         # Initialize hidden
         hidden = model.init_hidden()
-        seq_len = data.fuzzy_chunk_len(max_len, seq_length)
-        for input_, target_ in zip(zip(*[data.chunk_gen(seq_len, src) for src in input_srcs]),
-                                   zip(*[data.chunk_gen(seq_len, tar, ["<nop>"]) for tar in punc_targs])):
-            # Reset gradients
-            optimizer.zero_grad()
 
-            # Process input target
-            output, hidden, target_vec = process_input_foward_pass(input_, target_, hidden)
+        input_ = _prepare_by_pad(input_srcs, max_len, filler=[" "])
+        target_ = _prepare_by_pad(punc_targs, max_len, filler=["<nop>"])
 
-            #### Calculate loss ####
-            # Flatten the characters along batches and sequences.
-            out_reshaped = output.view(-1, model.output_size)
-            new_loss = loss_weighted(output.view(-1, model.output_size), target_vec.view(-1))
-            loss += new_loss
+        # Reset gradients
+        optimizer.zero_grad()
+
+        # Process input target
+        output, hidden, target_vec = process_input_foward_pass(input_, target_, hidden)
+
+        #### Calculate loss ####
+        # Flatten the characters along batches and sequences.
+        out_reshaped = output.view(-1, model.output_size)
+        new_loss = loss_weighted(output.view(-1, model.output_size), target_vec.view(-1))
+        loss += new_loss
 
         # Backward computation for the batch
         loss.backward()
@@ -207,16 +237,27 @@ for epoch_num in range(NUM_EPOCHS):
         # Losses indicate the batch losses stored in a list
         losses.append(loss.cpu().data.numpy())
 
-        if (batch_ind + 1) % BATCH_TO_SHOW_ACCURACY == 0:
-            print('Epoch {:d} Batch {}'.format(epoch_num + 1, batch_ind + 1))
+        if (batch_i + 1) % BATCH_TO_SHOW_ACCURACY == 0:
+            print('Epoch {:d} Batch {}'.format(epoch + 1, batch_i + 1))
             print("=================================")
 
             with torch.no_grad():
-                max_len, test_sources = next(data.batch_gen(data.test_gen(), batch_size))
+
+                # Get data
+                test_sent_lengths, test_sources = next(iter(test_loader))
+
+                max_len_test = int(max(test_sent_lengths))
+                # seq_len_test = data.fuzzy_chunk_len(max_len_test, seq_length)
+
+                # Prepare and process
                 input_srcs_test, punc_targs_test = prepare_input_output(test_sources)
-                for input_, target_ in zip(zip(*[data.chunk_gen(seq_len, src) for src in input_srcs_test]),
-                                           zip(*[data.chunk_gen(seq_len, tar, ["<nop>"]) for tar in punc_targs_test])):
-                    output, hidden, target_vec = process_input_foward_pass(input_, target_, hidden)
+
+                # Pad sequences to have equal length
+                input_ = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
+                target_ = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nop>"])
+
+                # Forward pass
+                output, hidden, target_vec = process_input_foward_pass(input_, target_, hidden)
 
                 # Prediction probabilities
                 probs = F.softmax(output.view(-1, model.output_size), dim=1
@@ -231,7 +272,7 @@ for epoch_num in range(NUM_EPOCHS):
                 metric.print_pc(utils.flatten(punctuation_output), utils.flatten(target_))
                 print('\n')
 
-        if (batch_ind + 1) % BATCH_TO_SHOW_PREDICTION == 0:
+        if (batch_i + 1) % BATCH_TO_SHOW_PREDICTION == 0:
             validate_target = data.apply_punc(input_[0], target_[0])
             result = data.apply_punc(input_[0],
                                      punctuation_output[0])

@@ -32,7 +32,7 @@ CHAR_DICT = {ch: i for i, ch in enumerate(CHARS)}
 
 
 class Char2Vec():
-    def __init__(self, size=None, chars=None, add_unknown=False):
+    def __init__(self, size=None, chars=None, add_unknown=False, add_pad=False):
         if chars is None:
             self.chars = CHARS
         else:
@@ -48,6 +48,10 @@ class Char2Vec():
             self.char_dict['<unk>'] = self.size - 1
         else:
             self.allow_unknown = False
+
+        if add_pad:
+            self.size += 1
+            self.char_dict['<pad>'] = self.size
 
     def get_ind(self, char):
         try:

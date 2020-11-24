@@ -94,7 +94,7 @@ def extract_punc(string_input, input_chars, output_chars):
                 input_source.append(" ")
             i += 1
 
-        if not char.isupper() and char not in output_chars and char not in [" "] and char in input_chars:
+        if not char.isupper() and char not in output_chars and char in input_chars:
             input_source.append(char)
             output_source.append("<nop>")
 
