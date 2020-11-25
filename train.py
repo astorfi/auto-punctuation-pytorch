@@ -17,7 +17,6 @@ import math
 import pandas as pd
 import random
 from sklearn.metrics import precision_recall_fscore_support
-import onnx
 
 # For deterministic behavior
 torch.backends.cudnn.deterministic = True
