@@ -110,10 +110,9 @@ print('{} unique characters'.format(len(chars)))
 
 # Desired characters as punctuations
 input_chars = list("abcdefghijklmnopqrstuvwxyz01234567890") + [" "]
-output_chars = ["<nopunc>", "<cap>", ".", ",", "?", "!"]
+output_chars = ["<nopunc>", "<cap>", ".", ",", "?"]
 
 """### Helper functions and classes"""
-
 
 class CharMap():
     def __init__(self, chars=None, add_unknown=False):
@@ -125,7 +124,6 @@ class CharMap():
         if add_unknown:
             self.char2idx['<unk>'] = self.size
             self.size += 1
-
     def get_ind(self, char):
         try:
             return self.char2idx[char]
@@ -141,10 +139,8 @@ class CharMap():
         chars = [[self.chars[ind] for ind in row] for row in vec.cpu().data.numpy()]
         return chars
 
-
 char2vec = CharMap(chars=input_chars, add_unknown=True)
 output_char2vec = CharMap(chars=output_chars, add_unknown=False)
-
 
 def add_punctuation(text_input, punctuation):
     assert len(text_input) == len(punctuation), "input string has differnt length from punctuation list" + "".join(
@@ -158,7 +154,6 @@ def add_punctuation(text_input, punctuation):
         else:
             result += char2 + char1
     return result
-
 
 def extract_punc(string_input, input_chars, output_chars):
     input_source = []
@@ -186,7 +181,6 @@ def extract_punc(string_input, input_chars, output_chars):
         i += 1
     return input_source, output_source
 
-
 def prepare_input_output(sources):
     # prepare the input and output chunks
     input_srcs = []
@@ -198,7 +192,6 @@ def prepare_input_output(sources):
 
     return input_srcs, punc_targs
 
-
 def _prepare_by_pad(sents, max_len, filler):
     padded_seq = []
     for sent in sents:
@@ -207,7 +200,6 @@ def _prepare_by_pad(sents, max_len, filler):
         s_pad = sent + filler * (b_n * max_len - s_l)
         padded_seq.append(s_pad)
     return padded_seq
-
 
 def process_char_to_idx(input_, target_):
     # Characters to indexes
@@ -221,15 +213,12 @@ def process_char_to_idx(input_, target_):
 
     return input_, target_
 
-
 def flatten_(lst):
     # Flattening a nested list
     # Ref: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists
     return [item for sublist in lst for item in sublist]
 
-
 """### Create Dataset"""
-
 
 class DatasetObject(Dataset):
     """Face Landmarks dataset."""
@@ -260,6 +249,7 @@ class DatasetObject(Dataset):
 
 
 def get_data(dataset, train=True):
+
     # Calculate len dataset
     data_len = len(dataset)
 
@@ -282,7 +272,6 @@ def create_data_loader(dataset, batch_size):
                                          pin_memory=True, num_workers=0, drop_last=True)
     return loader
 
-
 """## Model
 
 Here, the model is defined. It's a simple model consists of:
@@ -296,7 +285,6 @@ Here, the model is defined. It's a simple model consists of:
 
 """
 
-
 class Model(nn.Module):
     def __init__(self, config):
         super(Model, self).__init__()
@@ -309,11 +297,10 @@ class Model(nn.Module):
         self.hidden_size = 32
         self.bidirectional = True
         self.num_directions = 2 if self.bidirectional else 1
-
+        
         # Layers
         self.embedding = nn.Embedding(self.input_size, self.hidden_size)
-        self.gru = nn.GRU(self.hidden_size, self.hidden_size, self.num_layers, bidirectional=self.bidirectional,
-                          batch_first=True)
+        self.gru = nn.GRU(self.hidden_size, self.hidden_size, self.num_layers, bidirectional=self.bidirectional, batch_first=True)
         self.decoder = nn.Linear(self.hidden_size * self.num_directions, self.output_size)
 
     def forward(self, x, hidden):
@@ -325,7 +312,6 @@ class Model(nn.Module):
 
     def init_hidden(self):
         return Variable(torch.zeros(self.num_layers * self.num_directions, self.batch_size, self.hidden_size))
-
 
 """## Core
 
@@ -339,7 +325,6 @@ The body of running code. It consists of the following functions.
 - <font color=blue> _run() </font>: Run the whole pipeline.
 """
 
-
 def make(config):
     # Make the data
     train, test = get_data(loaded_dataset, train=True), get_data(loaded_dataset, train=False)
@@ -350,7 +335,7 @@ def make(config):
     Here we initialize the model with its associated parameters.
     """
     # Model initialization
-    model = Model(config)
+    model = Model(config).to(device)
 
     """ # Optimizer & Loss
     """
@@ -362,8 +347,8 @@ def make(config):
     # Further details:
     # https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
     # https://discuss.pytorch.org/t/passing-the-weights-to-crossentropyloss-correctly/14731/8
-    weights = torch.tensor([1., 10., 10., 10., 10., 10.])
-    criterion = nn.CrossEntropyLoss(weight=weights)
+    weights = torch.tensor([1., 10., 10., 10., 100.])
+    criterion = nn.CrossEntropyLoss(weight=weights).to(device)
 
     return model, train_loader, test_loader, criterion, optimizer
 
@@ -375,10 +360,11 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
     batch_ct = 0
     for epoch in range(config['NUM_EPOCHS']):
         for _, (sent_lengths, sources) in enumerate(tqdm(train_loader)):
+
             loss = train_batch(sent_lengths, sources, model, optimizer, criterion)
             batch_ct += 1
 
-        if (epoch + 1) % config['EPOCH_TO_SHOW_PREDICTION'] == 0:
+        if (epoch+1) % config['EPOCH_TO_SHOW_PREDICTION'] == 0:
             print('\n Epoch {:d} Batch {}'.format(epoch + 1, batch_ct))
             print("------------------------------")
 
@@ -396,14 +382,17 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
                 input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
                 target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nopunc>"])
 
+                # Initialize hidden
+                hidden = model.init_hidden()
+
                 # Forward pass
                 input_, target_ = process_char_to_idx(input_source, target_punctuation)
 
-                # Get the embedding
-                embeded = model.embedding(torch.LongTensor(input_))
+                # To DEVICE
+                input_, target_, hidden = input_.to(device), target_.to(device), hidden.to(device)
 
-                # Initialize hidden
-                hidden = model.init_hidden()
+                # Get the embedding
+                embeded = model.embedding(input_)
 
                 # Forward pass to the model
                 output, hidden = model(embeded, hidden)
@@ -441,7 +430,7 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
 
             # Add punctuation to the source sentence based on the predicted punctuation
             predicted_text = add_punctuation(input_source[0],
-                                             predicted_punctuation[0])
+                                     predicted_punctuation[0])
             cprint('Desired target text: ', 'red', attrs=['bold'])
             print('\t', target_text)
             cprint('Input text: ', 'blue', attrs=['bold'])
@@ -449,12 +438,14 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
             cprint('Predicted text: ', 'green', attrs=['bold'])
             print('\t', predicted_text)
 
+
         #### Save model after each epoch ####
-        model_path = 'models/' + "punctuator_" + str(epoch + 1) + '.pt'
+        model_path = 'models/' + "punctuator_" + str(epoch+1) + '.pt'
         torch.save(model, model_path)
 
 
 def train_batch(sent_lengths, sources, model, optimizer, criterion):
+
     # Get the max len of sent
     max_len = int(max(sent_lengths))
 
@@ -473,8 +464,11 @@ def train_batch(sent_lengths, sources, model, optimizer, criterion):
     # Process input target
     input_, target_ = process_char_to_idx(input_, target_)
 
+    # To DEVICE
+    input_, target_, hidden = input_.to(device), target_.to(device), hidden.to(device)
+    
     # Get the embedding
-    embeded = model.embedding(torch.LongTensor(input_))
+    embeded = model.embedding(input_)
 
     # Forward pass to the model
     output, hidden = model(embeded, hidden)
@@ -502,6 +496,7 @@ def test(model, test_loader):
         f_score_total, total = 0, 0
         for batch_test_num, (test_sent_lengths, test_sources) in enumerate(tqdm(test_loader)):
             with torch.no_grad():
+
                 # Get size
                 total += len(test_sources)
 
@@ -515,14 +510,17 @@ def test(model, test_loader):
                 input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
                 target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nopunc>"])
 
+                # Initialize hidden
+                hidden = model.init_hidden()
+
                 # Forward pass
                 input_, target_ = process_char_to_idx(input_source, target_punctuation)
 
-                # Get the embedding
-                embeded = model.embedding(torch.LongTensor(input_))
+                # To DEVICE
+                input_, target_, hidden = input_.to(device), target_.to(device), hidden.to(device)
 
-                # Initialize hidden
-                hidden = model.init_hidden()
+                # Get the embedding
+                embeded = model.embedding(input_)
 
                 # Forward pass to the model
                 output, hidden = model(embeded, hidden)
@@ -557,7 +555,7 @@ def test(model, test_loader):
 
         # Add punctuation to the source sentence based on the predicted punctuation
         predicted_text = add_punctuation(input_source[0],
-                                         predicted_punctuation[0])
+                                  predicted_punctuation[0])
         cprint('Desired target text: ', 'red', attrs=['bold'])
         print('\t', target_text)
         cprint('Input text: ', 'blue', attrs=['bold'])
@@ -567,6 +565,7 @@ def test(model, test_loader):
 
 
 def load_pretrained_or_not(model, pretrained=False):
+
     if pretrained:
         last_saved_epoch = config['PRETRAINED_EPOCH']
         model_path = 'models/' + "punctuator_" + str(last_saved_epoch) + '.pt'
@@ -577,6 +576,7 @@ def load_pretrained_or_not(model, pretrained=False):
 
 
 def _run(config):
+
     # make the model, data, and optimization problem
     model, train_loader, test_loader, criterion, optimizer = make(config)
 
@@ -589,13 +589,12 @@ def _run(config):
 
     else:
         # Load pretrained model
-        model = load_pretrained_or_not(model, pretrained=True)
+        model = load_pretrained_or_not(model, pretrained=True).to(device)
 
     # # and test its final performance
     test(model, test_loader)
 
     return model
-
 
 """## Run the pipeline"""
 
