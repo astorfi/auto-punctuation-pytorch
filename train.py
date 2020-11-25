@@ -17,6 +17,7 @@ import math
 import pandas as pd
 import random
 from sklearn.metrics import precision_recall_fscore_support
+import onnx
 
 # For deterministic behavior
 torch.backends.cudnn.deterministic = True
@@ -360,6 +361,17 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
                 print('\t', predicted_text)
 
 
+            break
+
+
+        #### Save model after each epoch ####
+        # Save the model in the exchangeable ONNX format
+        dummy_input = torch.randn(128, 500, 32, device=device)
+        model_name = punctuator + "_" + str(epoch+1) + '.onnx'
+        torch.onnx.export(model, dummy_input, "model_name.onnx")
+
+
+
 def train_batch(sent_lengths, sources, model, optimizer, criterion):
 
     # Get the max len of sent
@@ -400,6 +412,89 @@ def train_batch(sent_lengths, sources, model, optimizer, criterion):
     return loss
 
 
+def test(model, test_loader):
+    model.eval()
+
+    # Run the model on some test examples
+    with torch.no_grad():
+        f_score_total, total = 0, 0
+        for batch_test_num, (test_sent_lengths, test_sources) in enumerate(tqdm(test_loader)):
+            with torch.no_grad():
+
+                # Get size
+                total += len(test_sources)
+
+                max_len_test = int(max(test_sent_lengths))
+                # seq_len_test = data.fuzzy_chunk_len(max_len_test, seq_length)
+
+                # Prepare and process
+                input_srcs_test, punc_targs_test = prepare_input_output(test_sources)
+
+                # Pad sequences to have equal length
+                input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
+                target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nop>"])
+
+                # Forward pass
+                input_, target_ = process_char_to_idx(input_source, target_punctuation)
+
+                # Get the embedding
+                embeded = model.embedding(torch.LongTensor(input_))
+
+                # Initialize hidden
+                hidden = model.init_hidden()
+
+                # Forward pass to the model
+                output, hidden = model(embeded, hidden)
+
+                # Prediction probabilities
+                probs = F.softmax(output.view(-1, model.output_size), dim=1
+                                  ).view(config['batch_size'], -1, model.output_size)
+
+                # Use argmax to extract predicted labels
+                indexes = torch.argmax(probs, axis=2)
+
+                # Predict punctuation
+                predicted_punctuation = output_char2vec.vec2list_batch(indexes)
+
+                ############## Evaluation #############
+
+                # Flatten vectors. Initial size: batch_size,_ as a nested list.
+                pred_to_eval = flatten_(predicted_punctuation)
+                target_to_eval = flatten_(target_punctuation)
+
+                # Calculate precision_recall_fscore
+                labels = list(set(target_to_eval).union(set(pred_to_eval)))
+                prf = precision_recall_fscore_support(pred_to_eval, target_to_eval, zero_division=0, labels=labels)
+                index = ['precision', 'recall', 'f_score', 'support']
+                df = pd.DataFrame(prf, columns=labels, index=index)
+                if f_score_total == 0:
+                    f_score = df.loc['f_score', :]
+                else:
+                    f_score += df.loc['f_score', :]
+
+        print(f"F1-score of the model on the {total} " +
+              f"test samples: {f_score / (batch_test_num + 1)}%")
+
+
+def load_pretrained_or_not(model, pretrained=True):
+
+    if pretrained:
+        # Load the ONNX model
+        model = onnx.load("model/punctuator.onnx")
+
+        # Check that the IR is well formed
+        onnx.checker.check_model(model)
+
+        # Print a human readable representation of the graph
+        onnx.helper.printable_graph(model.graph)
+
+        # Return model
+        return model
+
+    else:
+        return model
+
+
 def model_pipeline(config):
 
     # make the model, data, and optimization problem
@@ -408,8 +503,11 @@ def model_pipeline(config):
     # and use them to train the model
     train(model, train_loader, test_loader, criterion, optimizer, config)
 
+    # Load pretrained model or use the model at the end of training
+    model = load_pretrained_or_not(model, pretrained=True)
+
     # # and test its final performance
-    # test(model, test_loader)
+    test(model, test_loader)
 
     return model
 

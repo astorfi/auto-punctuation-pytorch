@@ -1,14 +1,7 @@
-# Learning Auto-Punctuation by Reading Engadget Articles 
+# Using Deep Learning for auto punctuation 
 
 [![DOI](https://zenodo.org/badge/86387963.svg)](https://zenodo.org/badge/latestdoi/86387963) [![](https://img.shields.io/badge/link_on-GitHub-brightgreen.svg?style=flat-square)](https://github.com/episodeyang/deep-auto-punctuation#learning-auto-punctuation-by-reading-engadget-articles)
 
-## Link to Other of my work
-
-[*:star2: Deep Learning Notes*](https://github.com/episodeyang/deep_learning_notes#notes-on-deep-learning-): 
-A collection of my notes going from basic multi-layer perceptron to convNet and LSTMs, Tensorflow to pyTorch.
-
-[*:boom: Deep Learning Papers TLDR;*](https://github.com/episodeyang/deep_learning_papers_TLDR#deep-learning-papers-tldr-) 
-A growing collection of my notes on deep learning papers! So far covers the top papers from this years ICLR.
 
 ## Overview
 
