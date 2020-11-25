@@ -53,7 +53,7 @@ print('{} unique characters'.format(len(chars)))
 
 # Desired characters as punctuations
 input_chars = list("abcdefghijklmnopqrstuvwxyz01234567890") + [" "]
-output_chars = ["<nan>", "<cap>", ".", ",", "?", "!"]
+output_chars = ["<nopunc>", "<cap>", ".", ",", "?", "!"]
 
 class CharMap():
     def __init__(self, chars=None, add_unknown=False):
@@ -90,7 +90,7 @@ def add_punctuation(text_input, punctuation):
     for char1, char2 in zip(text_input, punctuation):
         if char2 == "<cap>":
             result += char1.upper()
-        elif char2 == "<nan>":
+        elif char2 == "<nopunc>":
             result += char1
         else:
             result += char2 + char1
@@ -117,7 +117,7 @@ def extract_punc(string_input, input_chars, output_chars):
 
         if not char.isupper() and char not in output_chars and char in input_chars:
             input_source.append(char)
-            output_source.append("<nan>")
+            output_source.append("<nopunc>")
 
         i += 1
     return input_source, output_source
@@ -301,7 +301,7 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
 
                 # Pad sequences to have equal length
                 input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
-                target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nan>"])
+                target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nopunc>"])
 
                 # Forward pass
                 input_, target_ = process_char_to_idx(input_source, target_punctuation)
@@ -375,7 +375,7 @@ def train_batch(sent_lengths, sources, model, optimizer, criterion):
     hidden = model.init_hidden()
 
     input_ = _prepare_by_pad(input_srcs, max_len, filler=[" "])
-    target_ = _prepare_by_pad(punc_targs, max_len, filler=["<nan>"])
+    target_ = _prepare_by_pad(punc_targs, max_len, filler=["<nopunc>"])
 
     # Reset gradients
     optimizer.zero_grad()
@@ -424,7 +424,7 @@ def test(model, test_loader):
 
                 # Pad sequences to have equal length
                 input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
-                target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nan>"])
+                target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nopunc>"])
 
                 # Forward pass
                 input_, target_ = process_char_to_idx(input_source, target_punctuation)
