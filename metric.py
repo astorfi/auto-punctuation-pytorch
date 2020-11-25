@@ -9,6 +9,14 @@ def inc(d, k):
 
 
 def precision_recall(output, target):
+
+    from sklearn.metrics import precision_recall_fscore_support
+    import pandas as pd
+    labels = list(set(target).union(set(output)))
+    prf = precision_recall_fscore_support(output, target, zero_division=0, labels=labels)
+    index = ['precision', 'recall', 'f_score', 'support']
+    df = pd.DataFrame(prf, columns=labels, index=index)
+
     assert len(output) == len(target), "output len: {} != target len: {}".format(len(output), len(target))
 
     keys = []

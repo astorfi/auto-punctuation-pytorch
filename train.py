@@ -7,6 +7,7 @@ from torch.autograd import Variable
 import torch
 import utils, data, metric
 from torch.utils.data import Dataset, DataLoader
+import pandas as pd
 
 # Other libraries needed
 from tqdm import tqdm
@@ -15,6 +16,7 @@ import os
 import math
 import pandas as pd
 import random
+from sklearn.metrics import precision_recall_fscore_support
 
 # For deterministic behavior
 torch.backends.cudnn.deterministic = True
@@ -29,7 +31,7 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 """ # Some parameter
 """
 config = dict(
-    BATCH_TO_SHOW_ACCURACY=25,
+    BATCH_TO_SHOW_ACCURACY=1,
     BATCH_TO_SHOW_PREDICTION=100,
     batch_size=128,
     NUM_EPOCHS=25,
@@ -197,6 +199,11 @@ def process_char_to_idx(input_, target_):
 
     return input_, target_
 
+def flatten_(lst):
+    # Flattening a nested list
+    # Ref: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists
+    return [item for sublist in lst for item in sublist]
+
 
 def train(model, train_loader, test_loader, criterion, optimizer, config):
     # Run training and track with wandb
@@ -210,8 +217,8 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
             batch_ct += 1
 
             if batch_ct % config['BATCH_TO_SHOW_ACCURACY'] == 0:
-                print('Epoch {:d} Batch {}'.format(epoch + 1, batch_ct))
-                print("=================================")
+                print('\n Epoch {:d} Batch {}'.format(epoch + 1, batch_ct))
+                print("------------------------------")
 
                 with torch.no_grad():
                     # Get data
@@ -249,8 +256,24 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
                     # punctuation_output
                     punctuation_output = output_char2vec.vec2list_batch(indexes)
 
-                    metric.print_pc(utils.flatten(punctuation_output), utils.flatten(target_no_tensor))
+                    ############## Evaluation #############
+
+                    # Flatten vectors. Initial size: batch_size,_ as a nested list.
+                    pred_to_eval = flatten_(punctuation_output)
+                    target_to_eval = flatten_(target_no_tensor)
+
+                    # Calculate precision_recall_fscore
+                    labels = list(set(target_to_eval).union(set(pred_to_eval)))
+                    prf = precision_recall_fscore_support(pred_to_eval, target_to_eval, zero_division=0, labels=labels)
+                    index = ['precision', 'recall', 'f_score', 'support']
+                    df = pd.DataFrame(prf, columns=labels, index=index)
+
+                    # Cut floating points
+                    df = df.applymap(lambda x: float('%.2f' % (x)))
+                    print('Performance: \n')
+                    print(df)
                     print('\n')
+
 
             if batch_ct % config['BATCH_TO_SHOW_PREDICTION'] == 0:
                 validate_target = data.apply_punc(input_no_tensor[0], target_no_tensor[0])
