@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 import torch
-import utils, data, metric
+import utils, data
 from torch.utils.data import Dataset, DataLoader
 import pandas as pd
 
@@ -31,17 +31,11 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 """ # Some parameter
 """
 config = dict(
-    BATCH_TO_SHOW_ACCURACY=1,
+    BATCH_TO_SHOW_ACCURACY=25,
     BATCH_TO_SHOW_PREDICTION=100,
     batch_size=128,
     NUM_EPOCHS=25,
 )
-
-input_chars = list(" \nabcdefghijklmnopqrstuvwxyz01234567890")
-output_chars = ["<nop>", "<cap>"] + list(".,?!")
-
-char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
-output_char2vec = utils.Char2Vec(chars=output_chars)
 
 # Data path
 df_path = os.path.expanduser("data/data.h5")
@@ -49,6 +43,19 @@ df_path = os.path.expanduser("data/data.h5")
 # Load hdf5 data
 data_df = pd.read_hdf(df_path, 'df')
 loaded_dataset = list(data_df.text)
+
+text = ' '.join(loaded_dataset)
+
+# The unique characters in the file
+chars = sorted(set(text))
+print('{} unique characters'.format(len(chars)))
+
+# Desired characters as punctuations
+input_chars = list("abcdefghijklmnopqrstuvwxyz01234567890") + [" "]
+output_chars = ["<nop>", "<cap>", ".", ",", "?", "!"]
+
+char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
+output_char2vec = utils.Char2Vec(chars=output_chars)
 
 
 class DatasetObject(Dataset):

@@ -43,9 +43,6 @@ class Char2Vec():
         return chars
 
 
-
-
-
 if __name__ == "__main__":
     # test
     print(Char2Vec(65).one_hot("B"))

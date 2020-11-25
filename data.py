@@ -1,6 +1,5 @@
 import os
 
-
 def apply_punc(text_input, punctuation):
     assert len(text_input) == len(punctuation), "input string has differnt length from punctuation list" + "".join(
         text_input) + str(punctuation) + str(len(text_input)) + ";" + str(len(punctuation))
