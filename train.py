@@ -30,8 +30,8 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 """ # Some parameter
 """
 config = dict(
-    BATCH_TO_SHOW_ACCURACY=25,
-    BATCH_TO_SHOW_PREDICTION=100,
+    BATCH_TO_SHOW_ACCURACY=1,
+    BATCH_TO_SHOW_PREDICTION=1,
     batch_size=128,
     NUM_EPOCHS=25,
 )
@@ -82,7 +82,7 @@ class CharMap():
 char2vec = CharMap(chars=input_chars, add_unknown=True)
 output_char2vec = CharMap(chars=output_chars, add_unknown=False)
 
-def apply_punc(text_input, punctuation):
+def add_punctuation(text_input, punctuation):
     assert len(text_input) == len(punctuation), "input string has differnt length from punctuation list" + "".join(
         text_input) + str(punctuation) + str(len(text_input)) + ";" + str(len(punctuation))
     result = ""
@@ -302,11 +302,11 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
                     input_srcs_test, punc_targs_test = prepare_input_output(test_sources)
 
                     # Pad sequences to have equal length
-                    input_no_tensor = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
-                    target_no_tensor = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nop>"])
+                    input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
+                    target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nop>"])
 
                     # Forward pass
-                    input_, target_ = process_char_to_idx(input_no_tensor, target_no_tensor)
+                    input_, target_ = process_char_to_idx(input_source, target_punctuation)
 
                     # Get the embedding
                     embeded = model.embedding(torch.LongTensor(input_))
@@ -324,14 +324,14 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
                     # Use argmax to extract predicted labels
                     indexes = torch.argmax(probs, axis=2)
 
-                    # punctuation_output
-                    punctuation_output = output_char2vec.vec2list_batch(indexes)
+                    # Predict punctuation
+                    predicted_punctuation = output_char2vec.vec2list_batch(indexes)
 
                     ############## Evaluation #############
 
                     # Flatten vectors. Initial size: batch_size,_ as a nested list.
-                    pred_to_eval = flatten_(punctuation_output)
-                    target_to_eval = flatten_(target_no_tensor)
+                    pred_to_eval = flatten_(predicted_punctuation)
+                    target_to_eval = flatten_(target_punctuation)
 
                     # Calculate precision_recall_fscore
                     labels = list(set(target_to_eval).union(set(pred_to_eval)))
@@ -347,11 +347,14 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
 
 
             if batch_ct % config['BATCH_TO_SHOW_PREDICTION'] == 0:
-                validate_target = apply_punc(input_no_tensor[0], target_no_tensor[0])
-                result = apply_punc(input_no_tensor[0],
-                                         punctuation_output[0])
-                print(validate_target)
-                print(result)
+                # Add punctuation to the source sentence based on the correct punctuation
+                validate_target = add_punctuation(input_source[0], target_punctuation[0])
+
+                # Add punctuation to the source sentence based on the predicted punctuation
+                result = add_punctuation(input_source[0],
+                                         predicted_punctuation[0])
+                print('Desired target text: ', validate_target)
+                print('Predicted punctuated text: ', result)
 
 
 def train_batch(sent_lengths, sources, model, optimizer, criterion):
