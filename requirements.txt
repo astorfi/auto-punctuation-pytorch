@@ -1,1 +1,6 @@
-visdom
+pytorch
+pandas
+tqdm
+numpy
+sklearn
+tables

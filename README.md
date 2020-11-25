@@ -2,16 +2,10 @@
 
 This work utilizes a bi-directional GRU to retrieve the punctuations from the text.
 
-## Dataset
+For details, please refer to the Jupyter Notebook file:
 
-
-## Results
-
-
-Number of training epochs: 50
-
-```
-    Put the result table
+```sh
+main.ipynb
 ```
 
 ## Implementation
@@ -37,10 +31,3 @@ tqdm
 numpy
 sklearn
 ```
-
-
-## Refs
-1: https://www.aclweb.org/anthology/D/D16/D16-1111.pdf  
-2: https://phon.ioc.ee/dokuwiki/lib/exe/fetch.php?media=people:tanel:interspeech2015-paper-punct.pdf  
-3: https://en.wikipedia.org/wiki/precision_and_recall  
-4: https://en.wikipedia.org/wiki/F1_score  
