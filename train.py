@@ -153,9 +153,6 @@ def process_char_to_idx(input_, target_):
     target_ = Variable(output_char2vec.char_code_batch(target_))
     # u, counts = np.unique(target_vec, return_counts=True)
 
-    # # To device
-    # input_, target_ = input_.to(device), target_.to(device)
-
     return input_, target_
 
 def flatten_(lst):
