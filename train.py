@@ -5,7 +5,6 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 import torch
-import utils, data
 from torch.utils.data import Dataset, DataLoader
 import pandas as pd
 
@@ -44,6 +43,7 @@ df_path = os.path.expanduser("data/data.h5")
 data_df = pd.read_hdf(df_path, 'df')
 loaded_dataset = list(data_df.text)
 
+# All the text
 text = ' '.join(loaded_dataset)
 
 # The unique characters in the file
@@ -54,8 +54,112 @@ print('{} unique characters'.format(len(chars)))
 input_chars = list("abcdefghijklmnopqrstuvwxyz01234567890") + [" "]
 output_chars = ["<nop>", "<cap>", ".", ",", "?", "!"]
 
-char2vec = utils.Char2Vec(chars=input_chars, add_unknown=True, add_pad=False)
-output_char2vec = utils.Char2Vec(chars=output_chars)
+class CharMap():
+    def __init__(self, chars=None, add_unknown=False):
+        self.chars = chars
+        self.char2idx = {ch: i for i, ch in enumerate(self.chars)}
+        self.idx2char = np.array(chars)
+        self.size = len(self.chars)
+        self.add_unknown = add_unknown
+        if add_unknown:
+            self.char2idx['<unk>'] = self.size
+            self.size += 1
+    def get_ind(self, char):
+        try:
+            return self.char2idx[char]
+        except KeyError:
+            if self.add_unknown is False:
+                raise KeyError('character is not in dictionary: ' + str([char]))
+            return self.char2idx['<unk>']
+
+    def char_code_batch(self, batch):
+        return torch.LongTensor([[self.char2idx[char] for char in seq] for seq in batch])
+
+    def vec2list_batch(self, vec):
+        chars = [[self.chars[ind] for ind in row] for row in vec.cpu().data.numpy()]
+        return chars
+
+char2vec = CharMap(chars=input_chars, add_unknown=True)
+output_char2vec = CharMap(chars=output_chars, add_unknown=False)
+
+def apply_punc(text_input, punctuation):
+    assert len(text_input) == len(punctuation), "input string has differnt length from punctuation list" + "".join(
+        text_input) + str(punctuation) + str(len(text_input)) + ";" + str(len(punctuation))
+    result = ""
+    for char1, char2 in zip(text_input, punctuation):
+        if char2 == "<cap>":
+            result += char1.upper()
+        elif char2 == "<nop>":
+            result += char1
+        else:
+            result += char2 + char1
+    return result
+
+def extract_punc(string_input, input_chars, output_chars):
+    input_source = []
+    output_source = []
+    input_length = len(string_input)
+    i = 0
+    while i < input_length:
+        char = string_input[i]
+        if char.isupper():
+            output_source.append("<cap>")
+            input_source.append(char.lower())
+
+        if char in output_chars:
+            output_source.append(char)
+            if i < input_length - 1:
+                input_source.append(string_input[i + 1])
+            else:
+                input_source.append(" ")
+            i += 1
+
+        if not char.isupper() and char not in output_chars and char in input_chars:
+            input_source.append(char)
+            output_source.append("<nop>")
+
+        i += 1
+    return input_source, output_source
+
+def prepare_input_output(sources):
+    # prepare the input and output chunks
+    input_srcs = []
+    punc_targs = []
+    for chunk in sources:
+        input_source, punctuation_target = extract_punc(chunk, char2vec.chars, output_char2vec.chars)
+        input_srcs.append(input_source)
+        punc_targs.append(punctuation_target)
+
+    return input_srcs, punc_targs
+
+def _prepare_by_pad(sents, max_len, filler):
+    padded_seq = []
+    for sent in sents:
+        s_l = len(sent)
+        b_n = math.ceil(s_l / max_len)
+        s_pad = sent + filler * (b_n * max_len - s_l)
+        padded_seq.append(s_pad)
+    return padded_seq
+
+def process_char_to_idx(input_, target_):
+    # Characters to indexes
+    source_shape = [len(input_), len(input_[0])]
+    input_ = torch.LongTensor([[[char2vec.get_ind(char)] for char in src] for src in input_])
+    input_ = input_[..., 0]
+
+    # Get the target variables
+    target_ = Variable(output_char2vec.char_code_batch(target_))
+    # u, counts = np.unique(target_vec, return_counts=True)
+
+    # # To device
+    # input_, target_ = input_.to(device), target_.to(device)
+
+    return input_, target_
+
+def flatten_(lst):
+    # Flattening a nested list
+    # Ref: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists
+    return [item for sublist in lst for item in sublist]
 
 
 class DatasetObject(Dataset):
@@ -171,46 +275,6 @@ def make(config):
 
     return model, train_loader, test_loader, criterion, optimizer
 
-def prepare_input_output(sources):
-    # prepare the input and output chunks
-    input_srcs = []
-    punc_targs = []
-    for chunk in sources:
-        input_source, punctuation_target = data.extract_punc(chunk, char2vec.chars, output_char2vec.chars)
-        input_srcs.append(input_source)
-        punc_targs.append(punctuation_target)
-
-    return input_srcs, punc_targs
-
-def _prepare_by_pad(sents, max_len, filler):
-    padded_seq = []
-    for sent in sents:
-        s_l = len(sent)
-        b_n = math.ceil(s_l / max_len)
-        s_pad = sent + filler * (b_n * max_len - s_l)
-        padded_seq.append(s_pad)
-    return padded_seq
-
-def process_char_to_idx(input_, target_):
-    # Characters to indexes
-    source_shape = [len(input_), len(input_[0])]
-    input_ = torch.LongTensor([[[char2vec.get_ind(char)] for char in src] for src in input_])
-    input_ = input_[..., 0]
-
-    # Get the target variables
-    target_ = Variable(output_char2vec.char_code_batch(target_))
-    # u, counts = np.unique(target_vec, return_counts=True)
-
-    # # To device
-    # input_, target_ = input_.to(device), target_.to(device)
-
-    return input_, target_
-
-def flatten_(lst):
-    # Flattening a nested list
-    # Ref: https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-list-of-lists
-    return [item for sublist in lst for item in sublist]
-
 
 def train(model, train_loader, test_loader, criterion, optimizer, config):
     # Run training and track with wandb
@@ -283,8 +347,8 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
 
 
             if batch_ct % config['BATCH_TO_SHOW_PREDICTION'] == 0:
-                validate_target = data.apply_punc(input_no_tensor[0], target_no_tensor[0])
-                result = data.apply_punc(input_no_tensor[0],
+                validate_target = apply_punc(input_no_tensor[0], target_no_tensor[0])
+                result = apply_punc(input_no_tensor[0],
                                          punctuation_output[0])
                 print(validate_target)
                 print(result)

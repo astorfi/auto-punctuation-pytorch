@@ -14,12 +14,6 @@ def apply_punc(text_input, punctuation):
     return result
 
 
-if __name__ == "__main__":
-    result = apply_punc("t s", ['<cap>', '<nop>', ','])
-    print(result)
-    assert result == "T ,s", "apply_func result incorrect"
-
-
 def extract_punc(string_input, input_chars, output_chars):
     input_source = []
     output_source = []
@@ -45,11 +39,3 @@ def extract_punc(string_input, input_chars, output_chars):
 
         i += 1
     return input_source, output_source
-
-
-if __name__ == "__main__" and False:
-    i, o = extract_punc("ATI'd. I'm not sure if $10 is enough. ", input_chars, output_chars)
-    print(i)
-    print(o)
-    result = apply_punc("".join(i), o)
-    print(result)
