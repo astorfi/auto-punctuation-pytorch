@@ -36,6 +36,7 @@ config = dict(
     BATCH_TO_SHOW_PREDICTION=100,
     batch_size=128,
     NUM_EPOCHS=25,
+    TRAINING=True
 )
 
 # Data path
@@ -408,7 +409,7 @@ def test(model, test_loader):
     model.eval()
 
     # Run the model on some test examples
-    cprint('Testing begun: \n', 'blue', attrs=['bold'])
+    cprint('\n Testing begun: \n', 'blue', attrs=['bold'])
     with torch.no_grad():
         f_score_total, total = 0, 0
         for batch_test_num, (test_sent_lengths, test_sources) in enumerate(tqdm(test_loader)):
@@ -481,15 +482,21 @@ def model_pipeline(config):
     # make the model, data, and optimization problem
     model, train_loader, test_loader, criterion, optimizer = make(config)
 
-    # and use them to train the model
-    train(model, train_loader, test_loader, criterion, optimizer, config)
+    if config['TRAINING']:
+        # and use them to train the model
+        train(model, train_loader, test_loader, criterion, optimizer, config)
 
-    # Load pretrained model or use the model at the end of training
-    model = load_pretrained_or_not(model, pretrained=True)
+        # Use the model at the end of training
+        model = load_pretrained_or_not(model, pretrained=False)
+
+    else:
+        # Load pretrained model
+        model = load_pretrained_or_not(model, pretrained=False)
 
     # # and test its final performance
     test(model, test_loader)
 
     return model
 
+# Run the training
 model = model_pipeline(config)
