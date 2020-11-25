@@ -31,8 +31,7 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 """ # Some parameter
 """
 config = dict(
-    BATCH_TO_SHOW_ACCURACY=100,
-    BATCH_TO_SHOW_PREDICTION=100,
+    EPOCH_TO_SHOW_PREDICTION=1,
     batch_size=128,
     NUM_EPOCHS=25,
     TRAINING=True
@@ -286,76 +285,76 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
             loss = train_batch(sent_lengths, sources, model, optimizer, criterion)
             batch_ct += 1
 
-            if batch_ct % config['BATCH_TO_SHOW_ACCURACY'] == 0:
-                print('\n Epoch {:d} Batch {}'.format(epoch + 1, batch_ct))
-                print("------------------------------")
+        if (epoch+1) % config['EPOCH_TO_SHOW_PREDICTION'] == 0:
+            print('\n Epoch {:d} Batch {}'.format(epoch + 1, batch_ct))
+            print("------------------------------")
 
-                with torch.no_grad():
-                    # Get data
-                    test_sent_lengths, test_sources = next(iter(test_loader))
+            with torch.no_grad():
+                # Get data
+                test_sent_lengths, test_sources = next(iter(test_loader))
 
-                    max_len_test = int(max(test_sent_lengths))
-                    # seq_len_test = data.fuzzy_chunk_len(max_len_test, seq_length)
+                max_len_test = int(max(test_sent_lengths))
+                # seq_len_test = data.fuzzy_chunk_len(max_len_test, seq_length)
 
-                    # Prepare and process
-                    input_srcs_test, punc_targs_test = prepare_input_output(test_sources)
+                # Prepare and process
+                input_srcs_test, punc_targs_test = prepare_input_output(test_sources)
 
-                    # Pad sequences to have equal length
-                    input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
-                    target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nop>"])
+                # Pad sequences to have equal length
+                input_source = _prepare_by_pad(input_srcs_test, max_len_test, filler=[" "])
+                target_punctuation = _prepare_by_pad(punc_targs_test, max_len_test, filler=["<nop>"])
 
-                    # Forward pass
-                    input_, target_ = process_char_to_idx(input_source, target_punctuation)
+                # Forward pass
+                input_, target_ = process_char_to_idx(input_source, target_punctuation)
 
-                    # Get the embedding
-                    embeded = model.embedding(torch.LongTensor(input_))
+                # Get the embedding
+                embeded = model.embedding(torch.LongTensor(input_))
 
-                    # Initialize hidden
-                    hidden = model.init_hidden()
+                # Initialize hidden
+                hidden = model.init_hidden()
 
-                    # Forward pass to the model
-                    output, hidden = model(embeded, hidden)
+                # Forward pass to the model
+                output, hidden = model(embeded, hidden)
 
-                    # Prediction probabilities
-                    probs = F.softmax(output.view(-1, model.output_size), dim=1
-                                      ).view(config['batch_size'], -1, model.output_size)
+                # Prediction probabilities
+                probs = F.softmax(output.view(-1, model.output_size), dim=1
+                                  ).view(config['batch_size'], -1, model.output_size)
 
-                    # Use argmax to extract predicted labels
-                    indexes = torch.argmax(probs, axis=2)
+                # Use argmax to extract predicted labels
+                indexes = torch.argmax(probs, axis=2)
 
-                    # Predict punctuation
-                    predicted_punctuation = output_char2vec.vec2list_batch(indexes)
+                # Predict punctuation
+                predicted_punctuation = output_char2vec.vec2list_batch(indexes)
 
-                    ############## Evaluation #############
+                ############## Evaluation #############
 
-                    # Flatten vectors. Initial size: batch_size,_ as a nested list.
-                    pred_to_eval = flatten_(predicted_punctuation)
-                    target_to_eval = flatten_(target_punctuation)
+                # Flatten vectors. Initial size: batch_size,_ as a nested list.
+                pred_to_eval = flatten_(predicted_punctuation)
+                target_to_eval = flatten_(target_punctuation)
 
-                    # Calculate precision_recall_fscore
-                    labels = list(set(target_to_eval).union(set(pred_to_eval)))
-                    prf = precision_recall_fscore_support(pred_to_eval, target_to_eval, zero_division=0, labels=labels)
-                    index = ['precision', 'recall', 'f_score', 'support']
-                    df = pd.DataFrame(prf, columns=labels, index=index)
+                # Calculate precision_recall_fscore
+                labels = list(set(target_to_eval).union(set(pred_to_eval)))
+                prf = precision_recall_fscore_support(pred_to_eval, target_to_eval, zero_division=0, labels=labels)
+                index = ['precision', 'recall', 'f_score', 'support']
+                df = pd.DataFrame(prf, columns=labels, index=index)
 
-                    # Cut floating points
-                    df = df.applymap(lambda x: float('%.2f' % (x)))
-                    print('Performance: \n')
-                    print(df)
-                    print('\n')
+                # Cut floating points
+                df = df.applymap(lambda x: float('%.2f' % (x)))
+                print('Performance: \n')
+                print(df)
+                print('\n')
 
+            # Add punctuation to the source sentence based on the correct punctuation
+            target_text = add_punctuation(input_source[0], target_punctuation[0])
 
-            if batch_ct % config['BATCH_TO_SHOW_PREDICTION'] == 0:
-                # Add punctuation to the source sentence based on the correct punctuation
-                target_text = add_punctuation(input_source[0], target_punctuation[0])
-
-                # Add punctuation to the source sentence based on the predicted punctuation
-                predicted_text = add_punctuation(input_source[0],
-                                         predicted_punctuation[0])
-                cprint('Desired target text: ', 'red', attrs=['bold'])
-                print('\t', target_text)
-                cprint('Predicted text: ', 'green', attrs=['bold'])
-                print('\t', predicted_text)
+            # Add punctuation to the source sentence based on the predicted punctuation
+            predicted_text = add_punctuation(input_source[0],
+                                     predicted_punctuation[0])
+            cprint('Desired target text: ', 'red', attrs=['bold'])
+            print('\t', target_text)
+            cprint('Input text: ', 'blue', attrs=['bold'])
+            print('\t', ''.join(input_source[0]))
+            cprint('Predicted text: ', 'green', attrs=['bold'])
+            print('\t', predicted_text)
 
 
         #### Save model after each epoch ####
