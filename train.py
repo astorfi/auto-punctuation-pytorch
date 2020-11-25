@@ -32,7 +32,7 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 """ # Some parameter
 """
 config = dict(
-    BATCH_TO_SHOW_ACCURACY=25,
+    BATCH_TO_SHOW_ACCURACY=100,
     BATCH_TO_SHOW_PREDICTION=100,
     batch_size=128,
     NUM_EPOCHS=25,
@@ -361,14 +361,9 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
                 print('\t', predicted_text)
 
 
-            break
-
-
         #### Save model after each epoch ####
-        # Save the model in the exchangeable ONNX format
-        dummy_input = torch.randn(128, 500, 32, device=device)
-        model_name = punctuator + "_" + str(epoch+1) + '.onnx'
-        torch.onnx.export(model, dummy_input, "model_name.onnx")
+        model_path = 'models/' + "punctuator_" + str(epoch+1) + '.pt'
+        torch.save(model, model_path)
 
 
 
@@ -416,6 +411,7 @@ def test(model, test_loader):
     model.eval()
 
     # Run the model on some test examples
+    cprint('Testing begun: \n', 'blue', attrs=['bold'])
     with torch.no_grad():
         f_score_total, total = 0, 0
         for batch_test_num, (test_sent_lengths, test_sources) in enumerate(tqdm(test_loader)):
@@ -467,30 +463,18 @@ def test(model, test_loader):
                 prf = precision_recall_fscore_support(pred_to_eval, target_to_eval, zero_division=0, labels=labels)
                 index = ['precision', 'recall', 'f_score', 'support']
                 df = pd.DataFrame(prf, columns=labels, index=index)
-                if f_score_total == 0:
-                    f_score = df.loc['f_score', :]
-                else:
-                    f_score += df.loc['f_score', :]
+                f_score_total += df.loc['f_score', :]
 
-        print(f"F1-score of the model on the {total} " +
-              f"test samples: {f_score / (batch_test_num + 1)}%")
+        print(f"F1-score: {100 * f_score_total / (batch_test_num + 1)}%")
 
 
-def load_pretrained_or_not(model, pretrained=True):
+def load_pretrained_or_not(model, pretrained=False):
 
     if pretrained:
-        # Load the ONNX model
-        model = onnx.load("model/punctuator.onnx")
-
-        # Check that the IR is well formed
-        onnx.checker.check_model(model)
-
-        # Print a human readable representation of the graph
-        onnx.helper.printable_graph(model.graph)
-
-        # Return model
+        last_saved_epoch = 25
+        model_path = 'models/' + "punctuator_" + str(last_saved_epoch) + '.pt'
+        model = torch.load(model_path, map_location=torch.device('cpu'))
         return model
-
     else:
         return model
 
