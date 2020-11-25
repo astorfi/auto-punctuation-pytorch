@@ -7,6 +7,7 @@ from torch.autograd import Variable
 import torch
 from torch.utils.data import Dataset, DataLoader
 import pandas as pd
+from termcolor import cprint, colored
 
 # Other libraries needed
 from tqdm import tqdm
@@ -30,8 +31,8 @@ device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 """ # Some parameter
 """
 config = dict(
-    BATCH_TO_SHOW_ACCURACY=1,
-    BATCH_TO_SHOW_PREDICTION=1,
+    BATCH_TO_SHOW_ACCURACY=25,
+    BATCH_TO_SHOW_PREDICTION=100,
     batch_size=128,
     NUM_EPOCHS=25,
 )
@@ -348,13 +349,15 @@ def train(model, train_loader, test_loader, criterion, optimizer, config):
 
             if batch_ct % config['BATCH_TO_SHOW_PREDICTION'] == 0:
                 # Add punctuation to the source sentence based on the correct punctuation
-                validate_target = add_punctuation(input_source[0], target_punctuation[0])
+                target_text = add_punctuation(input_source[0], target_punctuation[0])
 
                 # Add punctuation to the source sentence based on the predicted punctuation
-                result = add_punctuation(input_source[0],
+                predicted_text = add_punctuation(input_source[0],
                                          predicted_punctuation[0])
-                print('Desired target text: ', validate_target)
-                print('Predicted punctuated text: ', result)
+                cprint('Desired target text: ', 'red', attrs=['bold'])
+                print('\t', target_text)
+                cprint('Predicted text: ', 'green', attrs=['bold'])
+                print('\t', predicted_text)
 
 
 def train_batch(sent_lengths, sources, model, optimizer, criterion):
