@@ -1,5 +1,7 @@
 # Using Deep Learning for auto punctuation
 
+This work utilizes a bi-directional GRU to retrieve the punctuations from the text.
+
 
 <div align="center">
 
@@ -9,7 +11,7 @@
 
 </div>
 
-This work utilizes a bi-directional GRU to retrieve the punctuations from the text.
+
 
 For details, please refer to the Jupyter Notebook file:
 
