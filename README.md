@@ -8,10 +8,11 @@
 .. raw:: html
 
  <a href="https://github.com/astorfi/auto-punctuation-pytorch/blob/main/_img/autopunctuation.png" target="_blank">
-  <img width="600" height="500" align="center" src="https://github.com/astorfi/auto-punctuation-pytorch/blob/main/_img/autopunctuation.png"/>
+  <img width="800" height="400" align="center" src="https://github.com/astorfi/auto-punctuation-pytorch/blob/main/_img/autopunctuation.png"/>
  </a>
 
 .. raw:: html
+      </div>
 
 This work utilizes a bi-directional GRU to retrieve the punctuations from the text.
 
