@@ -1,18 +1,13 @@
 # Using Deep Learning for auto punctuation
 
 
-.. raw:: html
+<div align="center">
 
-   <div align="center">
-
-.. raw:: html
-
- <a href="https://github.com/astorfi/auto-punctuation-pytorch/blob/main/_img/autopunctuation.png" target="_blank">
+<a href="https://github.com/astorfi/auto-punctuation-pytorch/blob/main/_img/autopunctuation.png" target="_blank">
   <img width="800" height="400" align="center" src="https://github.com/astorfi/auto-punctuation-pytorch/blob/main/_img/autopunctuation.png"/>
- </a>
+</a>
 
-.. raw:: html
-      </div>
+</div>
 
 This work utilizes a bi-directional GRU to retrieve the punctuations from the text.
 
